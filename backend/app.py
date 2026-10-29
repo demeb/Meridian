@@ -32,9 +32,9 @@ import db
 import mailer
 import payments
 import tracker
-from config import Config, DATA_DIR, FRONTEND_DIR, BACKEND_DIR
+from config import Config, DATA_DIR, FRONTEND_DIR, STORAGE_DIR
 
-UPLOAD_DIR = os.path.join(BACKEND_DIR, "uploads")
+UPLOAD_DIR = os.path.join(STORAGE_DIR, "uploads")
 
 app = Flask(__name__, static_folder=None)
 app.config["SECRET_KEY"] = Config.SECRET_KEY
@@ -156,10 +156,12 @@ def clean(value, limit=200):
     return (str(value or "").strip())[:limit]
 
 
-def code_payload(payload, code, delivered):
-    """Only reveal a code on screen when no real mail server is configured."""
+def code_payload(payload, code, delivered, sensitive=False):
+    """Only reveal a code on screen when no real mail server is configured.
+    Password-reset codes are `sensitive`: showing one would let anyone take
+    over any account, so they are only revealed while running in debug mode."""
     payload["delivered"] = delivered
-    if not delivered and Config.expose_dev_codes():
+    if not delivered and Config.expose_dev_codes() and (Config.DEBUG or not sensitive):
         payload["dev_code"] = code
     if not delivered and Config.smtp_configured():
         payload["mail_error"] = True
@@ -328,7 +330,7 @@ def forgot():
     if user and db.codes_sent_last_hour(user["id"], "reset") < Config.CODE_RESEND_LIMIT:
         code = db.issue_code(user["id"], "reset")
         delivered = mailer.send_reset_code(user["email"], user["first_name"], code)
-        code_payload(payload, code, delivered)
+        code_payload(payload, code, delivered, sensitive=True)
     return jsonify(payload)
 
 

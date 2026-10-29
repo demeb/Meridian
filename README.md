@@ -473,6 +473,23 @@ Lessons are paid per lesson at the tutor's price plus 10%.
 - [ ] Have a native speaker review the Georgian text the agents wrote
 - [ ] Decide when tutor payouts are sent (the `ledger` table already tracks what each tutor is owed)
 
+## Hosting — meridiangoal.com on Render
+
+`render.yaml` describes the live site: one Python web service on the Starter
+plan (about $7/month) with a 1 GB persistent disk mounted at `/var/data`.
+`MERIDIAN_STORAGE=/var/data` puts the database, uploads, outbox and reports on
+that disk, so they survive deploys. Render generates the secret key and admin
+token — read the admin token in Render → meridian → Environment.
+
+1. Render → **New → Blueprint** → pick this repo → **Apply**.
+2. Cloudflare → meridiangoal.com → **DNS**: delete the GitHub Pages records and
+   add the two records Render shows under **Settings → Custom Domains**
+   (DNS only, grey cloud).
+3. Every `git push` to `main` redeploys.
+
+Until SMTP is configured, sign-up codes are still shown on screen, but
+password-reset codes never are outside debug mode.
+
 ---
 
 ## Coming soon

@@ -21,11 +21,11 @@ from flask import Blueprint, jsonify, request, send_from_directory, abort, make_
 import catalog
 import db
 import mailer
-from config import Config, BACKEND_DIR
+from config import Config, STORAGE_DIR
 
 bp = Blueprint("tracker", __name__)
 
-FILES_DIR = os.path.join(BACKEND_DIR, "uploads", "applications")
+FILES_DIR = os.path.join(STORAGE_DIR, "uploads", "applications")
 ALLOWED_EXT = {".pdf", ".jpg", ".jpeg", ".png", ".doc", ".docx", ".txt"}
 MAX_FILE = 8 * 1024 * 1024
 

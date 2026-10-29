@@ -22,11 +22,11 @@ from flask import Blueprint, jsonify, request
 import catalog
 import db
 import mailer
-from config import Config, BACKEND_DIR
+from config import Config, STORAGE_DIR
 
 bp = Blueprint("analytics", __name__)
 
-REPORT_DIR = os.path.join(BACKEND_DIR, "reports")
+REPORT_DIR = os.path.join(STORAGE_DIR, "reports")
 KINDS = {"view_program", "view_university", "official_click", "apply_click", "search",
          "save", "start_application", "page"}
 STAGE_AGE = {"grade-7": "12–13", "grade-8": "13–14", "grade-9": "14–15", "grade-10": "15–16",

@@ -6,7 +6,6 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BACKEND_DIR = os.path.join(ROOT, "backend")
 FRONTEND_DIR = os.path.join(ROOT, "frontend")
 DATA_DIR = os.path.join(BACKEND_DIR, "data")
-OUTBOX_DIR = os.path.join(BACKEND_DIR, "outbox")
 
 
 def load_env(path=None):
@@ -27,6 +26,11 @@ def load_env(path=None):
 
 load_env()
 
+# Where runtime data lives: the database, uploads, the email outbox and weekly
+# reports. Defaults to backend/; on a host, point it at a persistent disk.
+STORAGE_DIR = os.environ.get("MERIDIAN_STORAGE", BACKEND_DIR)
+OUTBOX_DIR = os.path.join(STORAGE_DIR, "outbox")
+
 
 def _bool(name, default=False):
     return os.environ.get(name, str(default)).strip().lower() in ("1", "true", "yes", "on")
@@ -40,7 +44,7 @@ class Config:
     SECRET_KEY = os.environ.get("MERIDIAN_SECRET_KEY", "dev-only-change-me")
 
     # --- storage ---
-    DB_PATH = os.environ.get("MERIDIAN_DB", os.path.join(BACKEND_DIR, "meridian.db"))
+    DB_PATH = os.environ.get("MERIDIAN_DB", os.path.join(STORAGE_DIR, "meridian.db"))
 
     # --- auth ---
     SESSION_DAYS = int(os.environ.get("MERIDIAN_SESSION_DAYS", "30"))
