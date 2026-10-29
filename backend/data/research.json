@@ -1,0 +1,662 @@
+{
+ "updated": "2026-10-23",
+ "facts": [
+  {
+   "id": "stat-mobile-students",
+   "region": "global",
+   "stat": "7.3M",
+   "label": {
+    "en": "Students studying in another country",
+    "ka": "სტუდენტი სწავლობს სხვა ქვეყანაში",
+    "ar": "طالب يدرسون في بلد آخر"
+   },
+   "detail": {
+    "en": "About 7.29 million tertiary students were studying outside their home country in 2023. That is 3.5 times as many as in 2000, when there were 2.1 million.",
+    "ka": "2023 წელს დაახლოებით 7,29 მილიონი სტუდენტი სწავლობდა სამშობლოს გარეთ. ეს 2000 წლის მაჩვენებელზე (2,1 მილიონი) 3,5-ჯერ მეტია.",
+    "ar": "في عام 2023 كان نحو 7.29 مليون طالب جامعي يدرسون خارج بلدانهم، أي 3.5 أضعاف عددهم في عام 2000 (2.1 مليون)."
+   },
+   "source": "UNESCO Institute for Statistics (UIS) — inbound internationally mobile students, World",
+   "url": "https://api.uis.unesco.org/api/public/data/indicators?indicator=26637&geoUnit=UIS:%20World&start=2000",
+   "year": "2023",
+   "confidence": "high",
+   "home": true
+  },
+  {
+   "id": "stat-outbound-share",
+   "region": "global",
+   "stat": "2.75%",
+   "label": {
+    "en": "Share of university students who study abroad",
+    "ka": "უცხოეთში მოსწავლე სტუდენტების წილი",
+    "ar": "نسبة طلاب الجامعات الذين يدرسون في الخارج"
+   },
+   "detail": {
+    "en": "Worldwide, only about 1 in 36 tertiary students studies in another country. Studying abroad is still a minority path, and it depends on knowing that the options exist.",
+    "ka": "მსოფლიოში დაახლოებით 36 სტუდენტიდან მხოლოდ ერთი სწავლობს სხვა ქვეყანაში. უცხოეთში სწავლა კვლავ უმცირესობის გზაა და ბევრად არის დამოკიდებული იმაზე, იცი თუ არა, რა შესაძლებლობები არსებობს.",
+    "ar": "على مستوى العالم، طالب واحد فقط من كل 36 طالبًا جامعيًا يدرس في بلد آخر. ما زالت الدراسة في الخارج مسارًا للأقلية، وتعتمد كثيرًا على معرفة الفرص المتاحة."
+   },
+   "source": "UNESCO Institute for Statistics (UIS) — outbound mobility ratio (MOR.5T8.40510), World",
+   "url": "https://api.uis.unesco.org/api/public/data/indicators?indicator=MOR.5T8.40510&geoUnit=UIS:%20World&start=2019",
+   "year": "2023",
+   "confidence": "high",
+   "home": false
+  },
+  {
+   "id": "stat-tertiary-gap",
+   "region": "global",
+   "stat": "9% vs 80%",
+   "label": {
+    "en": "Higher-education enrolment: low- vs high-income countries",
+    "ka": "უმაღლეს განათლებაში ჩართულობა: დაბალი და მაღალი შემოსავლის ქვეყნები",
+    "ar": "الالتحاق بالتعليم العالي: الدول منخفضة الدخل مقابل مرتفعة الدخل"
+   },
+   "detail": {
+    "en": "The gross tertiary enrolment ratio is about 9% in low-income countries and 80% in high-income countries. The world average is 43%.",
+    "ka": "უმაღლეს განათლებაში ჩართულობის მთლიანი კოეფიციენტი დაბალი შემოსავლის ქვეყნებში დაახლოებით 9%-ია, მაღალი შემოსავლის ქვეყნებში კი 80%. მსოფლიო საშუალო 43%-ია.",
+    "ar": "تبلغ نسبة الالتحاق الإجمالية بالتعليم العالي نحو 9% في الدول منخفضة الدخل مقابل 80% في الدول مرتفعة الدخل، بينما يبلغ المتوسط العالمي 43%."
+   },
+   "source": "UNESCO Institute for Statistics (UIS) — gross enrolment ratio, tertiary (GER.5T8), by World Bank income group",
+   "url": "https://api.uis.unesco.org/api/public/data/indicators?indicator=GER.5T8&geoUnit=UIS:%20World&start=2015",
+   "year": "2021 (income groups); 2023 (world)",
+   "confidence": "high",
+   "home": true
+  },
+  {
+   "id": "stat-out-of-school",
+   "region": "global",
+   "stat": "272M",
+   "label": {
+    "en": "Children and youth out of school",
+    "ka": "ბავშვი და ახალგაზრდა სკოლის გარეთ",
+    "ar": "طفل وشاب خارج المدرسة"
+   },
+   "detail": {
+    "en": "An estimated 272 million school-age children and youth worldwide are not enrolled in school, 21 million more than the previous estimate. UNESCO says the real number is probably higher because data from conflict zones is incomplete.",
+    "ka": "მსოფლიოში დაახლოებით 272 მილიონი სასკოლო ასაკის ბავშვი და ახალგაზრდა არ არის ჩარიცხული სკოლაში. ეს წინა შეფასებაზე 21 მილიონით მეტია. UNESCO-ს თქმით, რეალური რიცხვი ალბათ უფრო მაღალია, რადგან კონფლიქტის ზონებიდან მონაცემები არასრულია.",
+    "ar": "يُقدَّر أن 272 مليون طفل وشاب في سن الدراسة حول العالم غير ملتحقين بالمدرسة، بزيادة 21 مليونًا عن التقدير السابق. وتقول اليونسكو إن العدد الحقيقي أعلى على الأرجح لأن بيانات مناطق النزاع غير مكتملة."
+   },
+   "source": "UNESCO / GEM Report & UIS — 2025 SDG 4 Scorecard",
+   "url": "https://www.unesco.org/en/articles/countries-commit-reducing-number-out-school-children-165-million",
+   "year": "2025",
+   "confidence": "high",
+   "home": false
+  },
+  {
+   "id": "stat-upper-secondary-out",
+   "region": "global",
+   "stat": "1 in 3",
+   "label": {
+    "en": "Upper-secondary-age youth not in school",
+    "ka": "უფროსი კლასების ასაკის ახალგაზრდა არ სწავლობს",
+    "ar": "من الشباب في سن المرحلة الثانوية العليا خارج المدرسة"
+   },
+   "detail": {
+    "en": "31% of youth of upper-secondary age, or 130 million people, are out of school. They are exactly the age at which university and scholarship pathways start.",
+    "ka": "უფროსი კლასების ასაკის ახალგაზრდების 31%, ანუ 130 მილიონი ადამიანი, სკოლის გარეთაა. სწორედ ამ ასაკში იწყება გზა უნივერსიტეტისა და სტიპენდიებისკენ.",
+    "ar": "31% من الشباب في سن المرحلة الثانوية العليا، أي 130 مليون شخص، خارج المدرسة، وهي بالضبط المرحلة التي تبدأ فيها مسارات الجامعة والمنح الدراسية."
+   },
+   "source": "UNESCO / GEM Report & UIS — 2025 SDG 4 Scorecard",
+   "url": "https://www.unesco.org/en/articles/countries-commit-reducing-number-out-school-children-165-million",
+   "year": "2025",
+   "confidence": "high",
+   "home": false
+  },
+  {
+   "id": "stat-pisa-below-baseline",
+   "region": "global",
+   "stat": "31%",
+   "label": {
+    "en": "15-year-olds below basic maths proficiency (OECD)",
+    "ka": "15 წლის მოსწავლეები, რომლებიც მათემატიკაში საბაზო დონეს ვერ აღწევენ (OECD)",
+    "ar": "طلاب بعمر 15 عامًا دون مستوى الكفاءة الأساسي في الرياضيات (OECD)"
+   },
+   "detail": {
+    "en": "In PISA 2022, 31% of 15-year-olds across OECD countries scored below baseline Level 2 in mathematics. In 35 of the participating education systems, more than half of students did.",
+    "ka": "PISA 2022-ის მიხედვით, OECD-ის ქვეყნებში 15 წლის მოსწავლეების 31%-მა მათემატიკაში საბაზო მე-2 დონეს ვერ მიაღწია. 35 საგანმანათლებლო სისტემაში ასეთი მოსწავლეები ნახევარზე მეტი იყო.",
+    "ar": "في اختبار PISA 2022، سجّل 31% من الطلاب بعمر 15 عامًا في دول OECD نتائج دون المستوى الأساسي الثاني في الرياضيات، وفي 35 نظامًا تعليميًا مشاركًا تجاوزت النسبة نصف الطلاب."
+   },
+   "source": "OECD — PISA 2022 Results (Volume I), Chapter 3",
+   "url": "https://www.oecd.org/en/publications/2023/12/pisa-2022-results-volume-i_76772a36/full-report/what-can-students-do-in-mathematics-reading-and-science_6b45422e.html",
+   "year": "2023",
+   "confidence": "high",
+   "home": false
+  },
+  {
+   "id": "stat-learning-poverty",
+   "region": "global",
+   "stat": "70%",
+   "label": {
+    "en": "10-year-olds who can't read a simple text (LMICs)",
+    "ka": "10 წლის ბავშვები, ვერ კითხულობენ მარტივ ტექსტს (დაბალი და საშუალო შემოსავლის ქვეყნები)",
+    "ar": "أطفال بعمر 10 سنوات لا يستطيعون قراءة نص بسيط (الدول منخفضة ومتوسطة الدخل)"
+   },
+   "detail": {
+    "en": "An estimated 70% of 10-year-olds in low- and middle-income countries cannot read and understand a simple text, up from 57% before the pandemic.",
+    "ka": "დაბალი და საშუალო შემოსავლის ქვეყნებში 10 წლის ბავშვების დაახლოებით 70%-ს არ შეუძლია მარტივი ტექსტის წაკითხვა და გაგება. პანდემიამდე ეს მაჩვენებელი 57% იყო.",
+    "ar": "يُقدَّر أن 70% من الأطفال بعمر 10 سنوات في الدول منخفضة ومتوسطة الدخل لا يستطيعون قراءة نص بسيط وفهمه، مقارنة بـ57% قبل الجائحة."
+   },
+   "source": "World Bank, UNESCO, UNICEF et al. — The State of Global Learning Poverty: 2022 Update",
+   "url": "https://www.unicef.org/press-releases/70-cent-10-year-olds-learning-poverty-unable-read-and-understand-simple-text",
+   "year": "2022",
+   "confidence": "high",
+   "home": false
+  },
+  {
+   "id": "stat-youth-skills",
+   "region": "global",
+   "stat": "3 in 4",
+   "label": {
+    "en": "Young people off-track for job-ready skills",
+    "ka": "ახალგაზრდა ვერ იძენს სამუშაოსთვის საჭირო უნარებს",
+    "ar": "من الشباب غير مؤهلين بالمهارات اللازمة للعمل"
+   },
+   "detail": {
+    "en": "Nearly three-quarters of 15–24-year-olds in the 92 countries with data are not on track to gain the skills they need for employment.",
+    "ka": "იმ 92 ქვეყანაში, სადაც მონაცემები არსებობს, 15–24 წლის ახალგაზრდების თითქმის სამი მეოთხედი ვერ იძენს დასაქმებისთვის საჭირო უნარებს.",
+    "ar": "في 92 دولة تتوفر عنها بيانات، لا يسير ما يقارب ثلاثة أرباع الشباب بين 15 و24 عامًا على طريق اكتساب المهارات اللازمة للتوظيف."
+   },
+   "source": "UNICEF & Education Commission — Recovering learning: Are children and youth on track in skills development?",
+   "url": "https://www.unicef.org/press-releases/around-3-4-youth-lack-skills-needed-employment-new-report-says",
+   "year": "2022",
+   "confidence": "high",
+   "home": true
+  },
+  {
+   "id": "stat-youth-neet",
+   "region": "global",
+   "stat": "257M",
+   "label": {
+    "en": "Young people not in work, education or training",
+    "ka": "ახალგაზრდა არც მუშაობს და არც სწავლობს",
+    "ar": "شاب لا يعملون ولا يدرسون ولا يتدربون"
+   },
+   "detail": {
+    "en": "About 1 in 5 young people worldwide, more than 257 million, were NEET in 2025. Youth unemployment rose to 12.4%, or 67 million people.",
+    "ka": "2025 წელს მსოფლიოში ყოველი მეხუთე ახალგაზრდა, 257 მილიონზე მეტი, არც მუშაობდა, არც სწავლობდა და არც პროფესიულ მომზადებას გადიოდა. ახალგაზრდების უმუშევრობა 12,4%-მდე, ანუ 67 მილიონ ადამიანამდე გაიზარდა.",
+    "ar": "في عام 2025، كان نحو شاب واحد من كل خمسة شباب في العالم، أي أكثر من 257 مليونًا، لا يعملون ولا يدرسون ولا يتدربون، وارتفعت بطالة الشباب إلى 12.4% أي 67 مليون شخص."
+   },
+   "source": "International Labour Organization — Global Employment Trends for Youth 2026",
+   "url": "https://www.ilo.org/resource/news/youth-unemployment-rises-young-people-face-harder-road-decent-work",
+   "year": "2025 (published Aug 2026)",
+   "confidence": "high",
+   "home": true
+  },
+  {
+   "id": "stat-household-spending",
+   "region": "global",
+   "stat": "30%",
+   "label": {
+    "en": "Share of education costs paid by families",
+    "ka": "განათლების ხარჯების წილი, რომელსაც ოჯახები იხდიან",
+    "ar": "حصة الأسر من الإنفاق على التعليم"
+   },
+   "detail": {
+    "en": "Households pay 30% of all education spending worldwide, and 39% in low- and lower-middle-income countries (16% in high-income countries). 8% of families in low- and middle-income countries borrow to pay for school.",
+    "ka": "მსოფლიოში განათლებაზე დახარჯული თანხის 30%-ს ოჯახები იხდიან. დაბალი და საშუალოზე დაბალი შემოსავლის ქვეყნებში ეს წილი 39%-ია, მაღალი შემოსავლის ქვეყნებში კი 16%. დაბალი და საშუალო შემოსავლის ქვეყნებში ოჯახების 8% სესხს იღებს სწავლის საფასურის დასაფარად.",
+    "ar": "تدفع الأسر 30% من إجمالي الإنفاق على التعليم في العالم، و39% في الدول منخفضة الدخل والشريحة الدنيا من الدخل المتوسط (مقابل 16% في الدول مرتفعة الدخل). وتقترض 8% من الأسر في الدول منخفضة ومتوسطة الدخل لتغطية تكاليف الدراسة."
+   },
+   "source": "UNESCO — Global Education Monitoring Report 2021/2: Non-state actors in education",
+   "url": "https://gem-report-2021.unesco.org/",
+   "year": "2021",
+   "confidence": "high",
+   "home": false
+  },
+  {
+   "id": "stat-tutoring-unregulated",
+   "region": "global",
+   "stat": "48%",
+   "label": {
+    "en": "Countries with no rules on private tutoring",
+    "ka": "ქვეყნები, სადაც კერძო რეპეტიტორობა არ რეგულირდება",
+    "ar": "دول لا تنظّم الدروس الخصوصية"
+   },
+   "detail": {
+    "en": "Private tutoring is unregulated in 48% of countries, and in another 11% it is covered only by commercial law. Families often pay for it without information on quality.",
+    "ka": "ქვეყნების 48%-ში კერძო რეპეტიტორობა საერთოდ არ რეგულირდება, კიდევ 11%-ში კი მხოლოდ კომერციული კანონმდებლობით. ოჯახები ხშირად იხდიან მასში ისე, რომ ხარისხის შესახებ ინფორმაცია არ აქვთ.",
+    "ar": "الدروس الخصوصية غير منظَّمة في 48% من الدول، وفي 11% أخرى لا يغطيها سوى القانون التجاري، فكثيرًا ما تدفع الأسر ثمنها دون معلومات عن جودتها."
+   },
+   "source": "UNESCO — Global Education Monitoring Report 2021/2: Non-state actors in education",
+   "url": "https://gem-report-2021.unesco.org/",
+   "year": "2021",
+   "confidence": "high",
+   "home": false
+  },
+  {
+   "id": "stat-tutoring-prevalence",
+   "region": "global",
+   "stat": "84%",
+   "label": {
+    "en": "Secondary students using private tutoring in some countries",
+    "ka": "საშუალო სკოლის მოსწავლეები, რომლებიც ზოგ ქვეყანაში რეპეტიტორთან მეცადინეობენ",
+    "ar": "طلاب المرحلة الثانوية الذين يتلقون دروسًا خصوصية في بعض الدول"
+   },
+   "detail": {
+    "en": "Shadow education is mainstream in many countries. 84% of general-secondary students in Egypt and 82% of elementary pupils in South Korea receive supplementary tutoring. The GEM Report projected the market would exceed US$227 billion.",
+    "ka": "ბევრ ქვეყანაში რეპეტიტორობა ჩვეულებრივი მოვლენაა. ეგვიპტეში ზოგადი საშუალო სკოლის მოსწავლეების 84%, სამხრეთ კორეაში კი დაწყებითი კლასების მოსწავლეების 82% დამატებით მეცადინეობს. GEM-ის ანგარიშის პროგნოზით, ამ ბაზრის მოცულობა 227 მილიარდ აშშ დოლარს გადააჭარბებდა.",
+    "ar": "أصبح التعليم الموازي أمرًا شائعًا في دول كثيرة: 84% من طلاب الثانوية العامة في مصر و82% من تلاميذ المرحلة الابتدائية في كوريا الجنوبية يتلقون دروسًا إضافية. وتوقع تقرير GEM أن يتجاوز حجم هذه السوق 227 مليار دولار أمريكي."
+   },
+   "source": "UNESCO GEM Report — World Education Blog (Mark Bray), citing national surveys and the GEM Report 2017/8",
+   "url": "https://world-education-blog.org/2020/02/13/private-supplementary-tutoring-a-global-phenomenon-with-far-reaching-implications/",
+   "year": "2018–2019 data; post 2020 (updated 2022)",
+   "confidence": "medium",
+   "home": false
+  },
+  {
+   "id": "stat-counsellor-ratio",
+   "region": "global",
+   "stat": "372:1",
+   "label": {
+    "en": "Students per school counsellor (US benchmark)",
+    "ka": "მოსწავლეები ერთ სკოლის კონსულტანტზე (აშშ-ის მაგალითი)",
+    "ar": "عدد الطلاب لكل مرشد مدرسي (مثال من الولايات المتحدة)"
+   },
+   "detail": {
+    "en": "Even in the US, which invests heavily in school counselling, each counsellor serves 372 students on average, against a recommended 250. In most countries, dedicated university counselling barely exists.",
+    "ka": "აშშ-შიც კი, სადაც სკოლის კონსულტირებაში დიდ თანხას დებენ, ერთ კონსულტანტზე საშუალოდ 372 მოსწავლე მოდის, რეკომენდებული 250-ის ნაცვლად. ქვეყნების უმეტესობაში უნივერსიტეტში ჩაბარების კონსულტირება თითქმის არ არსებობს.",
+    "ar": "حتى في الولايات المتحدة التي تستثمر كثيرًا في الإرشاد المدرسي، يخدم كل مرشد 372 طالبًا في المتوسط، بينما الموصى به 250. وفي معظم الدول يكاد الإرشاد الجامعي المتخصص يكون غائبًا."
+   },
+   "source": "American School Counselor Association (ASCA) — School Counselor Roles & Ratios",
+   "url": "https://www.schoolcounselor.org/About-School-Counseling/School-Counselor-Roles-Ratios",
+   "year": "2024–25",
+   "confidence": "high",
+   "home": false
+  },
+  {
+   "id": "stat-counsellor-time",
+   "region": "global",
+   "stat": "22% vs 51%",
+   "label": {
+    "en": "Counsellor time on university admissions: public vs private schools",
+    "ka": "კონსულტანტის დრო ჩაბარების საკითხებზე: საჯარო და კერძო სკოლები",
+    "ar": "وقت المرشد المخصص للقبول الجامعي: المدارس الحكومية مقابل الخاصة"
+   },
+   "detail": {
+    "en": "US public-school counsellors spend 22% of their time on university-admission advice, compared with 51% at private schools. Students who can pay get more than twice as much guidance.",
+    "ka": "აშშ-ის საჯარო სკოლებში კონსულტანტები დროის 22%-ს უთმობენ უნივერსიტეტში ჩაბარების საკითხებს, კერძო სკოლებში კი 51%-ს. ვისაც გადახდა შეუძლია, ორჯერ მეტ დახმარებას იღებს.",
+    "ar": "يخصص المرشدون في المدارس الحكومية الأمريكية 22% من وقتهم لإرشاد القبول الجامعي، مقابل 51% في المدارس الخاصة، أي أن من يستطيع الدفع يحصل على أكثر من ضعف الإرشاد."
+   },
+   "source": "NACAC — School Counseling: Caseloads and Responsibilities (joint NACAC/EAB counselor survey)",
+   "url": "https://www.nacacnet.org/school-counseling/",
+   "year": "survey year not stated",
+   "confidence": "medium",
+   "home": false
+  },
+  {
+   "id": "stat-undermatch",
+   "region": "global",
+   "stat": "1 in 15",
+   "label": {
+    "en": "Talented low-income students vs high-income peers who apply",
+    "ka": "ნიჭიერი დაბალშემოსავლიანი მოსწავლეები შეძლებულ თანატოლებთან შედარებით",
+    "ar": "الطلاب المتفوقون من الأسر محدودة الدخل مقابل أقرانهم الميسورين"
+   },
+   "detail": {
+    "en": "For every high-achieving, low-income student who applies to a selective university, about 15 high-achieving, high-income students apply. Most of the 25,000–35,000 top low-income students each year apply to none.",
+    "ka": "ყოველ ერთ მაღალი აკადემიური მოსწრების დაბალშემოსავლიან მოსწავლეზე, რომელიც სელექციურ უნივერსიტეტში აბარებს, დაახლოებით 15 ასეთივე მოსწრების შეძლებული მოსწავლე მოდის. ყოველწლიური 25 000–35 000 წარჩინებული დაბალშემოსავლიანი მოსწავლის უმეტესობა არც ერთ ასეთ უნივერსიტეტში არ აბარებს.",
+    "ar": "مقابل كل طالب متفوق من أسرة محدودة الدخل يتقدم إلى جامعة انتقائية، يتقدم نحو 15 طالبًا متفوقًا من أسر ميسورة. ومعظم الطلاب المتفوقين محدودي الدخل، وعددهم 25 إلى 35 ألفًا، لا يتقدمون إلى أي منها."
+   },
+   "source": "Hoxby & Avery — 'The Missing \"One-Offs\"', Brookings Papers on Economic Activity (US data)",
+   "url": "https://www.brookings.edu/articles/the-missing-one-offs-the-hidden-supply-of-high-achieving-low-income-students/",
+   "year": "2013",
+   "confidence": "high",
+   "home": false
+  },
+  {
+   "id": "stat-information-intervention",
+   "region": "global",
+   "stat": "$6",
+   "label": {
+    "en": "Cost of guidance that changed where students applied",
+    "ka": "კონსულტაციის ღირებულება, რომელმაც სტუდენტების არჩევანი შეცვალა",
+    "ar": "تكلفة الإرشاد الذي غيّر قرارات الطلاب"
+   },
+   "detail": {
+    "en": "In a randomised trial, giving high-achieving low-income students personalised information on applications and real costs, at about $6 per student, led them to apply to and be admitted to more, and better-resourced, universities.",
+    "ka": "რანდომიზებულ ექსპერიმენტში მაღალი მოსწრების დაბალშემოსავლიან მოსწავლეებს მიაწოდეს პერსონალიზებული ინფორმაცია ჩაბარებისა და რეალური ხარჯების შესახებ. ერთ მოსწავლეზე ეს დაახლოებით 6 დოლარი ჯდებოდა. შედეგად მათ მეტ და უკეთ აღჭურვილ უნივერსიტეტებში შეიტანეს განაცხადი და მეტგან ჩაირიცხნენ.",
+    "ar": "في تجربة عشوائية، حصل طلاب متفوقون من أسر محدودة الدخل على معلومات مخصصة عن التقديم والتكاليف الفعلية بتكلفة نحو 6 دولارات للطالب، فتقدموا إلى جامعات أكثر وأفضل تجهيزًا وقُبلوا في عدد أكبر منها."
+   },
+   "source": "Hoxby & Turner — Expanding College Opportunities (SIEPR Working Paper 12-014)",
+   "url": "https://siepr.stanford.edu/publications/working-paper/expanding-college-opportunities-high-achieving-low-income-students",
+   "year": "2013",
+   "confidence": "high",
+   "home": true
+  },
+  {
+   "id": "stat-self-funded",
+   "region": "global",
+   "stat": "51.5%",
+   "label": {
+    "en": "International students paying with family money",
+    "ka": "უცხოელი სტუდენტები, რომლებიც სწავლას ოჯახის სახსრებით იხდიან",
+    "ar": "الطلاب الدوليون الذين يموّلون دراستهم من أموال الأسرة"
+   },
+   "detail": {
+    "en": "Of the 1.18 million international students in the US in 2024/25, 51.5% relied mainly on personal and family funds. Only 1.7% were funded mainly by a home-country government or university.",
+    "ka": "2024/25 სასწავლო წელს აშშ-ში მყოფი 1,18 მილიონი უცხოელი სტუდენტიდან 51,5% ძირითადად პირადი და ოჯახის სახსრებით სწავლობდა. სამშობლოს მთავრობა ან უნივერსიტეტი მხოლოდ 1,7%-ს აფინანსებდა.",
+    "ar": "من بين 1.18 مليون طالب دولي في الولايات المتحدة في العام الدراسي 2024/25، اعتمد 51.5% أساسًا على أموالهم الخاصة وأموال أسرهم، ولم تموّل حكوماتُ بلدانهم أو جامعاتها سوى 1.7% منهم."
+   },
+   "source": "Institute of International Education (IIE) — Open Doors 2025 Fast Facts",
+   "url": "https://opendoorsdata.org/wp-content/uploads/2025/11/OD25_Fast-Facts.pdf",
+   "year": "2024/25",
+   "confidence": "high",
+   "home": true
+  },
+  {
+   "id": "stat-scholarship-odds",
+   "region": "global",
+   "stat": "1.4%",
+   "label": {
+    "en": "Success rate for a top full scholarship",
+    "ka": "წარმატების შანსი ერთ-ერთ უმაღლეს სრულ სტიპენდიაზე",
+    "ar": "نسبة النجاح في منحة دراسية كاملة مرموقة"
+   },
+   "detail": {
+    "en": "Gates Cambridge received 5,506 applications for 2020 entry and awarded 78 full scholarships. Fully funded places are scarce, so good information and a strong application matter.",
+    "ka": "Gates Cambridge-ის სტიპენდიაზე 2020 წლის მიღებისთვის 5 506 განაცხადი შევიდა და 78 სრული სტიპენდია გაიცა. სრულად დაფინანსებული ადგილები ცოტაა, ამიტომ ზუსტ ინფორმაციასა და ძლიერ განაცხადს დიდი მნიშვნელობა აქვს.",
+    "ar": "تلقّت منحة غيتس كامبريدج 5,506 طلبات للالتحاق في عام 2020 ومنحت 78 منحة كاملة. المقاعد الممولة بالكامل نادرة، لذا تحدث المعلومات الجيدة والطلب القوي فرقًا كبيرًا."
+   },
+   "source": "Varsity (University of Cambridge newspaper), reporting Gates Cambridge Trust figures",
+   "url": "https://varsity.co.uk/news/21472",
+   "year": "2020 entry (reported 2021)",
+   "confidence": "medium",
+   "home": false
+  },
+  {
+   "id": "stat-ielts-tests",
+   "region": "global",
+   "stat": "4M+",
+   "label": {
+    "en": "IELTS tests taken in a single year",
+    "ka": "ერთ წელიწადში ჩაბარებული IELTS-ის გამოცდები",
+    "ar": "اختبار IELTS يُجرى في عام واحد"
+   },
+   "detail": {
+    "en": "More than 4 million IELTS tests were taken in 2023 in over 100 countries. English testing is a near-universal step for studying abroad.",
+    "ka": "2023 წელს 100-ზე მეტ ქვეყანაში IELTS-ის 4 მილიონზე მეტი გამოცდა ჩატარდა. ინგლისური ენის გამოცდა უცხოეთში სწავლის თითქმის აუცილებელი ეტაპია.",
+    "ar": "أُجري أكثر من 4 ملايين اختبار IELTS في عام 2023 في أكثر من 100 دولة، فاختبار اللغة الإنجليزية خطوة شبه حتمية للدراسة في الخارج."
+   },
+   "source": "IELTS (British Council, IDP, Cambridge University Press & Assessment) — 'IELTS trusted by millions in 2023'",
+   "url": "https://ielts.org/news-and-insights/ielts-trusted-by-millions-in-2023",
+   "year": "2023",
+   "confidence": "high",
+   "home": false
+  },
+  {
+   "id": "stat-sat-takers",
+   "region": "global",
+   "stat": "~2M",
+   "label": {
+    "en": "Students in one class who took the SAT",
+    "ka": "ერთი გამოსაშვები კლასის მოსწავლე, რომელმაც SAT ჩააბარა",
+    "ar": "طالب من دفعة واحدة خاضوا اختبار SAT"
+   },
+   "detail": {
+    "en": "Nearly 2 million students in the Class of 2026 took the SAT. Admission testing is a mass, high-stakes market where preparation and guidance shape outcomes.",
+    "ka": "2026 წლის გამოსაშვები კლასის თითქმის 2 მილიონმა მოსწავლემ ჩააბარა SAT. მისაღები გამოცდები მასშტაბური და მაღალი რისკის მქონე ბაზარია, სადაც შედეგზე მომზადება და კონსულტირება მოქმედებს.",
+    "ar": "خاض ما يقارب مليوني طالب من دفعة 2026 اختبار SAT. اختبارات القبول سوق ضخمة عالية المخاطر، والتحضير والإرشاد يؤثران في نتائجها."
+   },
+   "source": "College Board — SAT Suite of Assessments Program Results",
+   "url": "https://reports.collegeboard.org/sat-suite-program-results",
+   "year": "Class of 2026",
+   "confidence": "high",
+   "home": false
+  }
+ ],
+ "solution": [
+  {
+   "problem": {
+    "en": "About 7.3 million students study abroad, but the opportunities they apply to are spread over thousands of websites, in many languages and with different rules.",
+    "ka": "დაახლოებით 7.3 მილიონი სტუდენტი სწავლობს საზღვარგარეთ, მაგრამ შესაძლებლობები, რომლებზეც ისინი განაცხადს აგზავნიან, ათასობით ვებსაიტზეა გაფანტული, სხვადასხვა ენასა და წესებზე."
+   },
+   "answer": {
+    "en": "One database of projects, scholarships and universities, each with its own page, eligibility by nationality and a verified deadline. Expired items leave the site automatically.",
+    "ka": "ერთი ბაზა პროექტების, სტიპენდიებისა და უნივერსიტეტების — თითოეულს საკუთარი გვერდით, მოქალაქეობის მიხედვით უფლებამოსილებითა და გადამოწმებული ვადით. ვადაგასული ჩანაწერები საიტიდან ავტომატურად ქრება."
+   },
+   "facts": [
+    "stat-mobile-students"
+   ]
+  },
+  {
+   "problem": {
+    "en": "Information alone changes outcomes: tailored information costing about $6 per student led to more and better applications (Hoxby & Turner).",
+    "ka": "მხოლოდ ინფორმაციაც ცვლის შედეგს: მორგებულმა ინფორმაციამ, დაახლოებით $6 თითო მოსწავლეზე, მეტი და უკეთესი განაცხადი გამოიწვია (ჰოქსბი და ტერნერი)."
+   },
+   "answer": {
+    "en": "Personal shortlists and deadline reminders (Compass), so the right opportunity reaches a student before it closes.",
+    "ka": "პერსონალური სიები და ვადების შეხსენებები (Compass), რომ სწორი შესაძლებლობა სტუდენტამდე მის დახურვამდე მივიდეს."
+   },
+   "facts": []
+  },
+  {
+   "problem": {
+    "en": "Families pay about 30% of all education spending worldwide, and private tutoring goes unregulated in almost half of all countries.",
+    "ka": "ოჯახები მსოფლიოში განათლების ხარჯების დაახლოებით 30%-ს იხდიან, კერძო რეპეტიტორობა კი ქვეყნების თითქმის ნახევარში არ რეგულირდება."
+   },
+   "answer": {
+    "en": "Reviewed tutors, online lessons, and a fee that leaves the tutor their full price: lower cost, checked quality.",
+    "ka": "გადამოწმებული რეპეტიტორები, ონლაინ გაკვეთილები და საკომისიო, რომელიც რეპეტიტორს სრულ ფასს უტოვებს: ნაკლები ხარჯი, შემოწმებული ხარისხი."
+   },
+   "facts": []
+  },
+  {
+   "problem": {
+    "en": "Admissions guidance is scarce even in rich systems: 372 students per school counsellor in the US, and high-achieving low-income students apply far less often.",
+    "ka": "მისაღები კონსულტირება მდიდარ სისტემებშიც მწირია: აშშ-ში 372 მოსწავლე ერთ კონსულტანტზე, დაბალი შემოსავლის წარჩინებულები კი გაცილებით ნაკლებად აგზავნიან განაცხადს."
+   },
+   "answer": {
+    "en": "University pages with requirements, an application checklist like the Common App, and a team that reviews the file and submits it with the student.",
+    "ka": "უნივერსიტეტების გვერდები მოთხოვნებით, Common App-ის მსგავსი ჩამონათვალი და გუნდი, რომელიც საქმეს განიხილავს და სტუდენტთან ერთად აგზავნის."
+   },
+   "facts": []
+  },
+  {
+   "problem": {
+    "en": "Most international students pay their own way: about half of those in the US are funded mainly by personal or family money.",
+    "ka": "საერთაშორისო სტუდენტების უმეტესობა სწავლას თავად იხდის: აშშ-ში მყოფთა დაახლოებით ნახევარი ძირითადად პირადი ან ოჯახის სახსრებით ფინანსდება."
+   },
+   "answer": {
+    "en": "Scholarships organised by host country, with nationality rules and deadlines, so funding is the first thing a student sees, not the last.",
+    "ka": "სტიპენდიები მასპინძელი ქვეყნების მიხედვით, მოქალაქეობის წესებითა და ვადებით, რომ დაფინანსება სტუდენტმა პირველად დაინახოს და არა ბოლოს."
+   },
+   "facts": []
+  }
+ ],
+ "funding": [
+  {
+   "name": "WISE EdTech Accelerator",
+   "kind": "accelerator",
+   "where": "Doha",
+   "deadline": "2026-10-31",
+   "when": {
+    "en": "Hard deadline 31 Oct 2026",
+    "ka": "საბოლოო ვადა 2026 წლის 31 ოქტომბერი"
+   },
+   "offers": {
+    "en": "Year-long programme with coaching, investor network and a stage at the WISE 13 Summit. For edtech past MVP that has raised under $500k; ~5% acceptance.",
+    "ka": "ერთწლიანი პროგრამა: ქოუჩინგი, ინვესტორების ქსელი და WISE 13 სამიტზე წარდგენა. MVP-ის შემდგომი edtech-ისთვის, მოზიდული < $500k; მიღება ~5%."
+   },
+   "url": "https://www.wise-qatar.org/innovation/edtech-accelerator/",
+   "verified": true
+  },
+  {
+   "name": "Y Combinator (W27)",
+   "kind": "accelerator",
+   "where": "San Francisco",
+   "deadline": "2026-11-02",
+   "when": {
+    "en": "2 Nov 2026 (reported, unverified)",
+    "ka": "2026 წლის 2 ნოემბერი (არაოფიციალური)"
+   },
+   "offers": {
+    "en": "Standard deal for early-stage startups; needs a US (Delaware) entity to accept the investment.",
+    "ka": "სტანდარტული შეთავაზება ადრეული ეტაპის სტარტაპებისთვის; ინვესტიციისთვის საჭიროა აშშ-ის (დელავერის) კომპანია."
+   },
+   "url": "https://www.ycombinator.com/deal",
+   "verified": false
+  },
+  {
+   "name": "McGinnis Venture Competition (CMU)",
+   "kind": "competition",
+   "where": "Pittsburgh · CMU Qatar eligible",
+   "deadline": "2027-01-19",
+   "when": {
+    "en": "Opens 27 Oct · coach by 1 Dec · Round 1 on 19 Jan 2027",
+    "ka": "იხსნება 27 ოქტ. · ქოუჩი 1 დეკ.-მდე · პირველი ტური 2027 წლის 19 იანვარი"
+   },
+   "offers": {
+    "en": "Carnegie Mellon's student venture competition with cash prizes; open to CMU students on every campus.",
+    "ka": "კარნეგი მელონის სტუდენტური სტარტაპების კონკურსი ფულადი პრიზებით; ღიაა CMU-ს ყველა კამპუსის სტუდენტისთვის."
+   },
+   "url": "https://www.cmu.edu/swartz-center-for-entrepreneurship/resources-funding-and-talent/mcginnis-venture-competition/index.html",
+   "verified": true
+  },
+  {
+   "name": "Web Summit Qatar — ALPHA",
+   "kind": "competition",
+   "where": "Doha",
+   "deadline": "2027-01-31",
+   "when": {
+    "en": "Event 31 Jan – 3 Feb 2027 · ALPHA window not yet published",
+    "ka": "ღონისძიება 2027 წლის 31 იან. – 3 თებ. · ALPHA-ს ვადა ჯერ არ გამოქვეყნებულა"
+   },
+   "offers": {
+    "en": "Exhibition stand plus investor and media access for startups that have raised under $1M.",
+    "ka": "საგამოფენო სტენდი და ინვესტორებთან და მედიასთან წვდომა $1M-ზე ნაკლების მომზიდველი სტარტაპებისთვის."
+   },
+   "url": "https://qatar.websummit.com",
+   "verified": false
+  },
+  {
+   "name": "QDB Startup Qatar Investment Program",
+   "kind": "fund",
+   "where": "Qatar",
+   "deadline": null,
+   "when": {
+    "en": "Rolling — confirm with QDB",
+    "ka": "უწყვეტი — დააზუსტეთ QDB-სთან"
+   },
+   "offers": {
+    "en": "Qatar Development Bank equity for startups with a Qatari entity.",
+    "ka": "კატარის განვითარების ბანკის წილობრივი ინვესტიცია კატარში რეგისტრირებული სტარტაპებისთვის."
+   },
+   "url": "https://www.qdb.qa/financing-and-funding/equity-and-investment/startup-qatar-investment-program",
+   "verified": true
+  },
+  {
+   "name": "QSTP Incubate",
+   "kind": "accelerator",
+   "where": "Doha",
+   "deadline": null,
+   "when": {
+    "en": "Next intake not published",
+    "ka": "შემდეგი მიღება ჯერ არ გამოქვეყნებულა"
+   },
+   "offers": {
+    "en": "Qatar Science & Technology Park incubation, linked to its $30M Tech Venture Fund.",
+    "ka": "კატარის მეცნიერებისა და ტექნოლოგიების პარკის ინკუბაცია, დაკავშირებული $30M-იან ტექნოლოგიურ ფონდთან."
+   },
+   "url": "https://qstp.qa/programs/incubate/",
+   "verified": false
+  },
+  {
+   "name": "Doha Tech Angels",
+   "kind": "angel",
+   "where": "Doha",
+   "deadline": null,
+   "when": {
+    "en": "Rolling",
+    "ka": "უწყვეტი"
+   },
+   "offers": {
+    "en": "Angel network for early-stage tech in Qatar.",
+    "ka": "ანგელოზ-ინვესტორების ქსელი ადრეული ეტაპის ტექნოლოგიური სტარტაპებისთვის კატარში."
+   },
+   "url": "https://dta.qa",
+   "verified": true
+  },
+  {
+   "name": "GITA grants",
+   "kind": "grant",
+   "where": "Georgia",
+   "deadline": null,
+   "when": {
+    "en": "2026 calls closed · next cycle around mid-2027",
+    "ka": "2026 წლის კონკურსები დასრულდა · შემდეგი დაახლ. 2027 შუა წლებში"
+   },
+   "offers": {
+    "en": "Georgian government matching and co-financing grants; requires a Georgian company.",
+    "ka": "საქართველოს მთავრობის თანადაფინანსების გრანტები; საჭიროა ქართული კომპანია."
+   },
+   "url": "https://gita.gov.ge/en",
+   "verified": true
+  },
+  {
+   "name": "Axel angel network",
+   "kind": "angel",
+   "where": "Tbilisi",
+   "deadline": null,
+   "when": {
+    "en": "Rolling",
+    "ka": "უწყვეტი"
+   },
+   "offers": {
+    "en": "Georgian business angel network.",
+    "ka": "ქართული ბიზნეს-ანგელოზების ქსელი."
+   },
+   "url": "https://www.eban.org/investment-lighthouse-georgia/",
+   "verified": true
+  },
+  {
+   "name": "Thiel Fellowship",
+   "kind": "grant",
+   "where": "USA",
+   "deadline": null,
+   "when": {
+    "en": "Rolling",
+    "ka": "უწყვეტი"
+   },
+   "offers": {
+    "en": "$200,000 over two years for founders under 23 who leave or skip university.",
+    "ka": "$200,000 ორ წელიწადში 23 წლამდე დამფუძნებლებისთვის, ვინც უნივერსიტეტს ტოვებს ან არ აგრძელებს."
+   },
+   "url": "https://thielfellowship.org/",
+   "verified": true
+  },
+  {
+   "name": "Owl Ventures",
+   "kind": "vc",
+   "where": "USA",
+   "deadline": null,
+   "when": {
+    "en": "Rolling",
+    "ka": "უწყვეტი"
+   },
+   "offers": {
+    "en": "One of the largest edtech-focused venture funds.",
+    "ka": "ერთ-ერთი უმსხვილესი edtech-ზე ორიენტირებული ვენჩურული ფონდი."
+   },
+   "url": "https://www.owlvc.com/",
+   "verified": true
+  },
+  {
+   "name": "AWS Activate / Microsoft for Startups",
+   "kind": "grant",
+   "where": "Global",
+   "deadline": null,
+   "when": {
+    "en": "Rolling",
+    "ka": "უწყვეტი"
+   },
+   "offers": {
+    "en": "Cloud credits that cover hosting in the first year.",
+    "ka": "ღრუბლოვანი კრედიტები, რომლებიც პირველი წლის ჰოსტინგს ფარავს."
+   },
+   "url": "https://aws.amazon.com/startups/credits",
+   "verified": true
+  }
+ ],
+ "method": {
+  "en": "Compiled in October 2026 by Meridian's research agents from primary sources (UNESCO, OECD, World Bank, ILO, UNICEF, IIE Open Doors and peer-reviewed studies), then reviewed. Every figure links to the page it was checked against.",
+  "ka": "შედგენილია 2026 წლის ოქტომბერში Meridian-ის კვლევითი აგენტების მიერ პირველადი წყაროებიდან (UNESCO, OECD, მსოფლიო ბანკი, ILO, UNICEF, IIE Open Doors და რეცენზირებული კვლევები) და შემდეგ გადამოწმდა. ყველა მაჩვენებელს ახლავს იმ გვერდის ბმული, რომელზეც გადამოწმდა."
+ }
+}

@@ -1,0 +1,635 @@
+{
+  "meta": {
+    "compiled": "2026-10-23",
+    "method": "Web search + direct fetch of official pages where possible. Each entry cites the page it was checked against. 'UNVERIFIED' marks anything not confirmed on an official/primary source. The web-search budget ran out partway through, so a few international items (Google for Startups, AWS EdStart, LearnLaunch, Techstars terms, Enterprise Georgia) could not be checked and are flagged as unverified or left out."
+  },
+  "funding": [
+    {
+      "name": "WISE EdTech Accelerator 2026-2027 (Qatar Foundation / WISE)",
+      "type": "accelerator",
+      "country": "Qatar (Doha) - local + international tracks",
+      "offers": "Year-long program (Jan-Dec 2027): one-to-one coaching, masterclasses, access to a global investor and education network, visibility at the WISE 13 Summit in Doha (Q4 2027). Local Track partners include QSTP and QRDI, with access to local funding/grants through partners. The official page states no cash amount or equity terms.",
+      "eligibility": "For-profit edtech past MVP with traction and sales, typically seed to pre-Series A, raised under $500k, measurable educational impact. English applications. Co-founder teams preferred. NGOs not eligible. Around 5% acceptance.",
+      "deadline": "2026-10-31 (hard deadline; opened 2026-09-28). Selection Nov-Dec 2026, cohort announced Dec 2026/Jan 2027. Apply at https://wise-qatar.awardsplatform.com",
+      "url": "https://www.wise-qatar.org/innovation/edtech-accelerator/",
+      "fit": "high",
+      "why": "This is the only edtech-specific accelerator in Doha and it is run by Qatar Foundation, which links straight into QSTP and QRDI. It closes in 8 days. The risk is the 'past MVP with sales' bar, so Meridian needs real users and revenue evidence to compete."
+    },
+    {
+      "name": "QDB Startup Qatar Investment Program",
+      "type": "fund",
+      "country": "Qatar",
+      "offers": "Equity investment in tranches tied to milestones: START up to $1.1M (QR4M) and GROW up to $5.5M (QR20M), limits doubled in Nov 2025. Non-cash benefits include registration and licence-renewal fee waivers, entrepreneur visas, subsidised co-working and subsidised housing.",
+      "eligibility": "Tech startups that set up in Qatar or expand there. Published priority sectors include AI/ML, AgriTech, B2B SaaS and climate tech. Edtech was not in the sector list I saw, so confirm it with QDB.",
+      "deadline": "No fixed public deadline found. Treat as rolling/periodic and confirm with QDB.",
+      "url": "https://www.qdb.qa/financing-and-funding/equity-and-investment/startup-qatar-investment-program",
+      "fit": "medium",
+      "why": "This is the largest non-dilutive-adjacent package in Qatar and it comes with visas and housing, which helps founders who are students. It is aimed at startups with some traction, so it fits best once Meridian has revenue in Georgia."
+    },
+    {
+      "name": "QDB Co-Investment Program",
+      "type": "fund",
+      "country": "Qatar",
+      "offers": "QDB co-invests up to QAR 11M per deal alongside certified investors. The investor picks the company, runs diligence and then requests QDB co-investment.",
+      "eligibility": "Investor-led: needs a QDB-certified lead investor (one listed criterion is net asset value of at least QAR 2.6M).",
+      "deadline": "Rolling (investor-driven)",
+      "url": "https://www.qdb.qa/financing-and-funding/equity-and-investment/co-investment-program",
+      "fit": "low",
+      "why": "Only relevant once Meridian has a lead investor (for example Doha Tech Angels or a QIA-backed fund). It can then multiply the round."
+    },
+    {
+      "name": "QSTP Incubation Program (Qatar Foundation)",
+      "type": "accelerator",
+      "country": "Qatar",
+      "offers": "Revamped 16-week pathway: a 4-week Sprint (PMF, financial planning), 8-week Incubation for selected teams, then a 4-week Funding phase with investor introductions. The Fall 2026 cohort of 52 startups (25 local, 27 international) started 2026-09-01.",
+      "eligibility": "Local and international startups. No universal founder criteria were published.",
+      "deadline": "Next intake not published (UNVERIFIED). Check the official page.",
+      "url": "https://qstp.qa/programs/incubate/",
+      "fit": "high",
+      "why": "It is the main path into QSTP's ecosystem and its new $30M Tech Venture Fund, which lists edtech as an eligible sector."
+    },
+    {
+      "name": "QSTP Tech Venture Fund ($30M)",
+      "type": "vc",
+      "country": "Qatar",
+      "offers": "$30M fund launched May 2026 that co-invests in early-stage startups with social or climate impact. Sectors include AI, robotics, biotech, cleantech and also education technology. First co-investment partners: Global Ventures, Golden Gate Ventures, White Star Capital, VentureSouq, Builders VC. Per-company ticket not published.",
+      "eligibility": "Must be headquartered in Qatar with core leadership and operations based locally.",
+      "deadline": "Not published",
+      "url": "https://qna.org.qa/en/News-Area/News/2026-5/13/qstp-launches-30-million-tech-venture-fund",
+      "fit": "medium",
+      "why": "Edtech is explicitly eligible. It needs a Qatar HQ and local leadership, which works for a Doha-based founder but needs a Qatari entity."
+    },
+    {
+      "name": "QSTP XLR8 Accelerator",
+      "type": "accelerator",
+      "country": "Qatar",
+      "offers": "14-week boot-camp to validate the commercial viability of tech ideas (Cycle 15). Earlier cycles gave grant funding to winners and helped them register their startups.",
+      "eligibility": "Teams of up to 5, all members resident in Qatar. Established private companies are excluded.",
+      "deadline": "Cycle 15 closed 2025-01-23. No 2026-27 cycle announcement found (UNVERIFIED).",
+      "url": "https://qstp.org.qa/?p=9189",
+      "fit": "medium",
+      "why": "Good for pre-company teams, but every member must live in Qatar. Petre at Georgetown DC would need to be left off the formal team unless he is in Qatar. The program may also have been folded into the revamped incubation."
+    },
+    {
+      "name": "TASMU Accelerator (Ministry of Communications and IT)",
+      "type": "accelerator",
+      "country": "Qatar",
+      "offers": "Takes no equity. Mentoring, pilots with corporates (2025 champions: QNB, Deloitte, Ooredoo), investor access. Top startups win QAR 200,000 (3 awards in cohort 3, Jan 2026).",
+      "eligibility": "Tech startups, local or international. The first two cohorts drew 1,185+ applicants from 78 countries.",
+      "deadline": "Cohort 4: a third-party listing gave registration Mar-May and acceleration Jul-Dec (UNVERIFIED). A Startup Grind Doha 'Cohort 4 roadshow' was held. Check MCIT for the next call.",
+      "url": "https://www.mcit.gov.qa/en/news/mcit-celebrates-the-graduation-of-the-third-cohort-of-tasmu-accelerator-startups",
+      "fit": "medium",
+      "why": "Equity-free and focused on government and corporate pilots, so it could lead to school or ministry pilots in Qatar. It leans toward smart-nation and B2B use cases."
+    },
+    {
+      "name": "QBIC - Qatar Business Incubation Center (LeanStartup, Pre-Accelerator, Acceleration Program)",
+      "type": "accelerator",
+      "country": "Qatar",
+      "offers": "2026 Acceleration Program: a 7-week hybrid track with up to $100,000 investment, soft-landing and mentorship (20 startups selected). It also runs the LeanStartup Program and a Pre-Accelerator. Affiliated with QDB.",
+      "eligibility": "Acceleration track needs existing traction and revenue. LeanStartup is for idea and early stage.",
+      "deadline": "2026 Acceleration closed 2026-03-15. 2027 dates not published (likely a similar Q1 window, UNVERIFIED).",
+      "url": "https://qbic.qa",
+      "fit": "medium",
+      "why": "Practical Doha support with a modest cheque. A good pre-step before QDB's Startup Qatar programme."
+    },
+    {
+      "name": "QRDI Council - Innovation Pilot Grant (and other Q-Grant programs)",
+      "type": "grant",
+      "country": "Qatar",
+      "offers": "Innovation Pilot Grant: QR365,000 over one year to pilot technology with ecosystem partners (2nd cycle announced at Web Summit Qatar 2026). Technology Development Grant: QR20M pool for this cycle (2026 winners Sidra Medicine, Snoonu). A third-party guide reports a Small Business Innovation Grant of up to QAR 800k (Phase I) and QAR 2.2M (Phase II), UNVERIFIED.",
+      "eligibility": "Companies incorporated in Qatar, or international companies that set up a local entity. Co-funding is generally required.",
+      "deadline": "Annual cycles via the QRDI/Q-Grant portal. Specific 2026-27 dates not confirmed.",
+      "url": "https://www.qatar-tribune.com/article/217466/nation/qrdi-council-announces-2nd-innovation-pilot-grant",
+      "fit": "medium",
+      "why": "A non-dilutive QR365k pilot grant could fund a Qatar schools pilot, but it requires a Qatari entity and a pilot partner."
+    },
+    {
+      "name": "Scale7 (QDB x M7 / Qatar Museums)",
+      "type": "accelerator",
+      "country": "Qatar",
+      "offers": "Incubation and pre-acceleration/acceleration for creative and cultural startups (Msheireb, Doha).",
+      "eligibility": "Creative and cultural industry startups. Must set up, or plan to set up, a Qatari entity.",
+      "deadline": "Wave 6 closed 2026-01-31. No later 2026 wave found.",
+      "url": "https://menastartupdigest.com/?p=25988",
+      "fit": "low",
+      "why": "Its sector focus is creative industries, not edtech."
+    },
+    {
+      "name": "QIA Fund of Funds Programme (and the VCs it has brought to Doha)",
+      "type": "fund",
+      "country": "Qatar",
+      "offers": "QIA does not invest directly in startups through this programme. It commits capital to VC funds that open Doha offices. It was expanded by $2B in Feb 2026 to $3B total. 12+ managers so far, including Rasmal Ventures, Builders VC, Greycroft, Human Capital, Deerfield and B Capital. An Oct 2026 report says a US firm picked Doha as its first office outside the Bay Area (reported as the 13th manager).",
+      "eligibility": "Pitch the participating funds, not QIA.",
+      "deadline": "N/A (pitch funds directly)",
+      "url": "https://qia.qa/en/Fund-of-Funds",
+      "fit": "medium",
+      "why": "These are the Doha-based VCs to target once Meridian has traction. Most are generalist or Series A+, so they are not a pre-seed source today."
+    },
+    {
+      "name": "Doha Tech Angels (DTA)",
+      "type": "angel",
+      "country": "Qatar",
+      "offers": "QFC-registered angel fund/network (since 2018) investing seed cheques in tech startups in Qatar, MENA and beyond, plus mentoring from members. Reported cheque sizes conflict ($10k-$250k), UNVERIFIED.",
+      "eligibility": "Early-stage tech startups. Prior portfolio includes Qatar-based companies (Droobi Health, Stars League).",
+      "deadline": "Rolling",
+      "url": "https://dta.qa",
+      "fit": "high",
+      "why": "This is the most realistic first local investor for a pre-seed Doha startup. Co-founder Dr. Shaikha Al-Jabir reportedly has an edtech background, and a DTA lead can unlock QDB co-investment."
+    },
+    {
+      "name": "Rasmal Ventures - Innovation Fund I",
+      "type": "vc",
+      "country": "Qatar",
+      "offers": "$100M target fund (first close over $30M), backed by QIA Fund of Funds.",
+      "eligibility": "Pre-Series A to Series B. Sectors named: fintech, B2B SaaS, AI, supply chain, climate/health. Edtech not named.",
+      "deadline": "Rolling",
+      "url": "https://www.wamda.com/en/2024/06/rasmal-ventures-launches-100-million-debut-vc-fund",
+      "fit": "low",
+      "why": "Too late-stage for Meridian today. Worth revisiting at pre-Series A."
+    },
+    {
+      "name": "QIC Digital Venture Partners (Qatar Insurance)",
+      "type": "vc",
+      "country": "Qatar",
+      "offers": "Corporate VC arm of QIC (no entity called 'QIC Ventures' was found).",
+      "eligibility": "Insurance/insurtech-aligned startups.",
+      "deadline": "Rolling",
+      "url": "https://www.gccbusinessnews.com/?p=64980",
+      "fit": "low",
+      "why": "Its mandate is insurtech."
+    },
+    {
+      "name": "Media City Qatar (registration via QFC)",
+      "type": "grant",
+      "country": "Qatar",
+      "offers": "Incentives for media/tech companies: 100% foreign ownership, tax and customs exemptions, faster licensing, visa support. The newsletter mentions grants for media projects. At Web Summit Qatar 2026, applicants got application fees waived plus licence fees waived for 3 years (4 years in 2025).",
+      "eligibility": "Media, content and tech companies approved by Media City Qatar.",
+      "deadline": "Event-linked offer: expect a similar one at Web Summit Qatar 2027 (31 Jan-3 Feb 2027), UNVERIFIED.",
+      "url": "https://thepeninsulaqatar.com/article/10/02/2026/media-city-qatar-attracted-244-companies-during-web-summit-qatar-2026",
+      "fit": "medium",
+      "why": "Possibly the cheapest way to get a Qatari legal entity (fee waivers) if Meridian's content/media angle qualifies. That entity is what unlocks the QRDI, QSTP fund and local payment acquirers."
+    },
+    {
+      "name": "Startup Qatar / 10-year entrepreneur residency",
+      "type": "grant",
+      "country": "Qatar",
+      "offers": "National platform (Investment Promotion Agency Qatar) that bundles QDB investment and incentives. In Feb 2026 the PM announced a 10-year residency for entrepreneurs, founders and investors, with details not yet published.",
+      "eligibility": "TBD (UNVERIFIED)",
+      "deadline": "N/A",
+      "url": "https://www.agbi.com/entrepreneurs/2026/02/qia-ups-startup-backing-with-2bn-funding-pool/",
+      "fit": "medium",
+      "why": "Relevant to founders staying in Qatar after graduation."
+    },
+    {
+      "name": "500 Global (MENA and Georgia programs)",
+      "type": "accelerator",
+      "country": "Saudi Arabia (Sanabil 500) / Georgia (Georgia Startup Academy)",
+      "offers": "Georgia Startup Academy: a 12-month program in Tbilisi (6 Jul 2026-25 Jun 2027), part of GITA's Innovative Startup Acceleration Program. Startups that advance can receive GITA grants of GEL 50,000 (Stage 2) and GEL 150,000 (Stage 3). 500's page lists a Phase 1 program fee of $35,000 per startup, and it is unclear who pays it. Sanabil 500 (Riyadh) is a MENA accelerator.",
+      "eligibility": "Georgian startups (GSA). MENA startups (Sanabil).",
+      "deadline": "GSA closed 2026-07-31. Sanabil 2026 closed 2026-03-05. No confirmed 500 Global program in Qatar was found.",
+      "url": "https://500.co/founders/eurasia/startup-academy",
+      "fit": "medium",
+      "why": "Strong for the Georgia launch next cycle (around mid-2027). The fee needs clarifying."
+    },
+    {
+      "name": "GITA - Georgia's Innovation and Technology Agency (matching and co-financing grants, acceleration)",
+      "type": "grant",
+      "country": "Georgia",
+      "offers": "Historic Start-up Matching Grants: up to GEL 100,000, covering up to 90% of a one-year budget with at least 10% co-financing (2020 call). Small grants of GEL 15,000 and larger grants of GEL 650,000 appear in GITA's stats (115 x GEL 100k, 15 x GEL 650k, 27 x GEL 15k awarded). Also a co-financing grants line (13th round; turnover of GEL 500k or less, projects of 9 months or less) via grants.gov.ge. Innovative Startup Acceleration Program 2026 (with 2080 Ventures, Founder Institute, Startup Buro, 500 Global).",
+      "eligibility": "Generally enterprises incorporated in Georgia (matching grants: incorporated within the last 2 years).",
+      "deadline": "Acceleration Program 2026 closed 2026-06-14. No open 2026-27 grant call confirmed. Check gita.gov.ge 'Programs > Ongoing' (UNVERIFIED).",
+      "url": "https://gita.gov.ge/en",
+      "fit": "high",
+      "why": "Georgia is Meridian's first market, and GITA's GEL 100k-class non-dilutive grants are the best fit. They require a Georgian LLC, which also makes local card acquiring (TBC/BOG) possible."
+    },
+    {
+      "name": "Axel - Georgian Business Angel Network",
+      "type": "angel",
+      "country": "Georgia",
+      "offers": "Largest angel network in Georgia (since 2021), 100+ accredited investors, 3M+ GEL deployed, 25+ deals. EBAN/GBAN member.",
+      "eligibility": "Georgian tech startups",
+      "deadline": "Rolling",
+      "url": "https://www.eban.org/investment-lighthouse-georgia/",
+      "fit": "high",
+      "why": "Local angels who know the Georgian education market are the natural first check for the Georgia launch."
+    },
+    {
+      "name": "Startup Georgia",
+      "type": "grant",
+      "country": "Georgia",
+      "offers": "State startup financing program. An undated article reports a relaunch with GEL 15,000-100,000 funding up to 90% of budget, with founders keeping most equity.",
+      "eligibility": "Georgian startups",
+      "deadline": "UNVERIFIED (current status unclear)",
+      "url": "https://cbw.ge/startup/startup-georgia-resumes-funding-for-innovation-driving-projects",
+      "fit": "medium",
+      "why": "Possibly relevant, but its current status could not be confirmed. Enterprise Georgia startup programs could not be verified in this pass."
+    },
+    {
+      "name": "CMU Swartz Center - Project Olympus (Spark Grants, incubator)",
+      "type": "university",
+      "country": "USA (open to all CMU campuses, including Qatar)",
+      "offers": "Startup advice, micro-grants, AWS credits, incubator and maker space. Spark Grants have historically been $500-$3,000 (82 teams, $275k awarded since 2007).",
+      "eligibility": "Open to all CMU students, faculty, staff and alumni at all campuses. Spark Grants need a current student founder who is active in Olympus and has met an EIR.",
+      "deadline": "Spring 2025 Spark cycle ended. Next cycle not posted (UNVERIFIED).",
+      "url": "https://www.cmu.edu/swartz-center-for-entrepreneurship/mentorship-and-programs/project-olympus/index.html",
+      "fit": "high",
+      "why": "Demetre is eligible from CMU-Q. It is also the gateway to AWS credits and to the McGinnis competition."
+    },
+    {
+      "name": "CMU Open Field Entrepreneurs Fund (OFEF) / Tartan Entrepreneurs Fund",
+      "type": "university",
+      "country": "USA",
+      "offers": "OFEF: $50,000 matching funds for CMU alumni who graduated within the past 5 years (amount from launch-era info, UNVERIFIED for 2026). Tartan Entrepreneurs Fund: $100,000 over 2 years.",
+      "eligibility": "OFEF: recent CMU alumni. Tartan: full-time CMU alumni or faculty founders building in Pittsburgh with traction.",
+      "deadline": "Not published",
+      "url": "https://www.cmu.edu/swartz-center-for-entrepreneurship/education-and-resources/tartan-entrepreneurs-fund/index.html",
+      "fit": "low",
+      "why": "Demetre is a current student, not an alumnus, and Tartan requires Pittsburgh. Relevant after graduation."
+    },
+    {
+      "name": "Georgetown Entrepreneurship - Summer Launch Incubator, Leonsis Venture Lab",
+      "type": "university",
+      "country": "USA",
+      "offers": "Summer Launch Incubator (amount not stated), Leonsis Venture Lab (graduate/alumni workspace), Venture Fellows, Rocket Pitch, Entrepreneur Office Hours.",
+      "eligibility": "Georgetown students/alumni",
+      "deadline": "Not published",
+      "url": "https://eship.georgetown.edu/",
+      "fit": "medium",
+      "why": "Petre can use these programs. The Summer Launch Incubator is a strong summer-2027 option."
+    },
+    {
+      "name": "Y Combinator",
+      "type": "accelerator",
+      "country": "USA (San Francisco)",
+      "offers": "$500,000: $125k for 7% via post-money SAFE plus $375k uncapped MFN SAFE. No fees. Incorporates in US, Canada, Cayman or Singapore and helps others flip.",
+      "eligibility": "Any founders. Student founders are accepted.",
+      "deadline": "Winter 2027 on-time deadline reported as 2 Nov 2026, 8pm PT (third-party listings, UNVERIFIED on ycombinator.com). Late applications are reviewed on a rolling basis.",
+      "url": "https://www.ycombinator.com/deal",
+      "fit": "medium",
+      "why": "The highest-upside option and it accepts student founders. It requires a US/Cayman/Singapore/Canada entity, which points to Stripe Atlas. Very competitive."
+    },
+    {
+      "name": "Antler MENAP residency",
+      "type": "accelerator",
+      "country": "UAE (Dubai, spring) / Saudi Arabia (Riyadh, fall)",
+      "offers": "Initial $180,000 via SAFE for 11%, up to $320,000 uncapped follow-on (up to $500k total). 10-week in-person residency.",
+      "eligibility": "Founders who are full-time or ready to go full-time",
+      "deadline": "Not published (spring 2027 Dubai cohort likely, UNVERIFIED)",
+      "url": "https://www.antler.co/residency/menap",
+      "fit": "low",
+      "why": "It requires full-time, in-person attendance, which clashes with being a student. Revisit after graduation."
+    },
+    {
+      "name": "Entrepreneur First",
+      "type": "accelerator",
+      "country": "UK / India / USA",
+      "offers": "Equity-free grant while ideating, up to $250K once a company is formed, up to $5M follow-on.",
+      "eligibility": "Individuals with exceptional track records. Offices in London, Bangalore, San Francisco.",
+      "deadline": "Not published",
+      "url": "https://www.joinef.com/",
+      "fit": "low",
+      "why": "Built for individuals forming new teams. Meridian already has a team."
+    },
+    {
+      "name": "Thiel Fellowship",
+      "type": "grant",
+      "country": "USA",
+      "offers": "$250,000 over two years",
+      "eligibility": "Young founders (age cap 22 or under 23 per secondary sources). Fellows 'skip or stop out of college'.",
+      "deadline": "Rolling (secondary sources conflict)",
+      "url": "https://thielfellowship.org/",
+      "fit": "low",
+      "why": "Requires leaving CMU or Georgetown."
+    },
+    {
+      "name": "Owl Ventures",
+      "type": "vc",
+      "country": "USA (offices in San Francisco, Boston, London, Dubai)",
+      "offers": "Edtech-specialist VC, $2.2B+ committed across 7 funds. Invests seed to growth.",
+      "eligibility": "Edtech and future-of-work companies, global portfolio",
+      "deadline": "Rolling",
+      "url": "https://www.owlvc.com/",
+      "fit": "medium",
+      "why": "The world's largest edtech VC has a Dubai office. Target at seed or Series A once there is traction."
+    },
+    {
+      "name": "Reach Capital",
+      "type": "vc",
+      "country": "USA",
+      "offers": "Early-stage VC in Learning, Health and Work. Reach V fund is $265M.",
+      "eligibility": "Early-stage. Geography not stated (historically US-focused, UNVERIFIED).",
+      "deadline": "Rolling",
+      "url": "https://www.reachcapital.com/",
+      "fit": "low",
+      "why": "Edtech-specialist but mostly US. Note that reachcap.com is NOT their site (it is an unrelated casino page), so use reachcapital.com."
+    },
+    {
+      "name": "Brighteye Ventures",
+      "type": "vc",
+      "country": "Europe",
+      "offers": "Fund III: $72M first close (target around $115M). Core cheques $0.5-4M, 'Blink' cheques $150-500k for idea-stage companies.",
+      "eligibility": "European pre-seed to Series A, edtech plus 'HumanOS'",
+      "deadline": "Rolling",
+      "url": "https://www.brighteyevc.com/",
+      "fit": "low",
+      "why": "The best edtech fund in Europe, but Meridian is Qatar/Georgia based. Georgia's EU-adjacency is a weak link."
+    },
+    {
+      "name": "Cloud credits: AWS Activate / Microsoft for Startups",
+      "type": "grant",
+      "country": "Global",
+      "offers": "AWS Activate Founders: up to $5,000 (starts at $1,000). Activate Portfolio: up to $200,000 through an Activate Provider (accelerator/VC). Microsoft for Startups: up to $5,000 self-serve, up to $150,000 via the Investor Network (secondary sources).",
+      "eligibility": "Pre-Series B, founded within the last 10 years (AWS)",
+      "deadline": "Rolling",
+      "url": "https://aws.amazon.com/startups/credits",
+      "fit": "high",
+      "why": "Free infrastructure for the planned AI assistant. Project Olympus and McGinnis winners get AWS credits. Google for Startups Cloud and AWS EdStart terms could not be verified in this pass."
+    }
+  ],
+  "competitions": [
+    {
+      "name": "Web Summit Qatar 2027 - ALPHA startup programme / PITCH",
+      "type": "competition",
+      "country": "Qatar (Doha, DECC)",
+      "offers": "Exhibition stand plus investor, media and partner access for early-stage startups (ALPHA: pre-investment or under $1M raised). 69 startups from the 2025 programme have since raised $205M+. Expect Media City Qatar, QDB and QIA fund-manager incentives at the event.",
+      "eligibility": "Early-stage startups selected by the Web Summit team",
+      "deadline": "Event 31 Jan-3 Feb 2027. ALPHA application window not yet published (UNVERIFIED).",
+      "url": "https://qatar.websummit.com",
+      "fit": "high",
+      "why": "The biggest startup stage in Doha, at home for Meridian. Every Qatari funder (QDB, QSTP, QRDI, QIA funds, Media City) announces programmes here."
+    },
+    {
+      "name": "McGinnis Venture Competition (CMU) 2026-27",
+      "type": "competition",
+      "country": "USA (Pittsburgh)",
+      "offers": "2026 package: $125k cash (including the new $50k Morgenthaler Prize), $375k total with $250k AWS credits. 2027 prize list to be announced in November. Optional Social Enterprise Prize with a chance to advance to Hult Prize US Nationals.",
+      "eligibility": "Current CMU students who own and manage the venture. A CMU student must be CEO/CTO/COO and CMU students must hold a significant majority of equity. Undergrad track for all-undergrad teams. CMU-Qatar eligibility not stated, so confirm with ahince@andrew.cmu.edu.",
+      "deadline": "Opens 2026-10-27. Register by 2026-12-01 to guarantee a coach. Round 1 due 2027-01-19 (quad chart plus 4-min video). Finals 2027-03-16.",
+      "url": "https://www.cmu.edu/swartz-center-for-entrepreneurship/resources-funding-and-talent/mcginnis-venture-competition/index.html",
+      "fit": "high",
+      "why": "This is the most winnable cash prize for Meridian. The equity rule matters: if Petre (non-CMU) holds 50%, CMU students would not hold a 'significant majority', so check this before entering."
+    },
+    {
+      "name": "Bark Tank - Leonsis Family Entrepreneurship Prize (Georgetown)",
+      "type": "competition",
+      "country": "USA (Washington DC)",
+      "offers": "Up to $100k pool per year (paid out $125k-$150k in recent cycles). Top prize about $30k. All 8 finalists receive cash, plus a People's Choice award.",
+      "eligibility": "Current Georgetown students or recent alumni, teams of up to 3. Income-generating model. Non-Georgetown members should not lead.",
+      "deadline": "2026 cycle: nominations closed 13/14 Sep and applications 22 Sep. Final event 2026-11-10. Next cycle around Sep 2027 (UNVERIFIED).",
+      "url": "https://eship.georgetown.edu/Bark-Tank/",
+      "fit": "high",
+      "why": "Petre can lead it. Missed for 2026, so plan for fall 2027 with Petre as presenter."
+    },
+    {
+      "name": "Hult Prize 2027",
+      "type": "competition",
+      "country": "Global (campus rounds leading to global finals)",
+      "offers": "$1M seed funding grand prize. The 2026 theme was 'UNLIMITED' (any SDG).",
+      "eligibility": "University students via campus or national rounds",
+      "deadline": "2027 cycle not published. 2026 campus deadlines were mid-Jan to Feb 2026. A route exists via the McGinnis Social Enterprise opt-in.",
+      "url": "https://www.hultprize.org/",
+      "fit": "medium",
+      "why": "Education access fits the SDG framing (SDG 4). Check whether CMU-Q, Georgetown or GU-Q host campus rounds."
+    },
+    {
+      "name": "Global EdTech Startup Awards (GESAwards)",
+      "type": "competition",
+      "country": "Global (regional semi-finals, final at Bett London)",
+      "offers": "Largest global edtech startup competition, with exposure and investor/partner access. 2026-cycle Global Finals at Bett London, Jan 2027.",
+      "eligibility": "Edtech startups worldwide",
+      "deadline": "2026 cycle closed 2026-09-15. The next cycle likely opens around March 2027 (pattern, UNVERIFIED).",
+      "url": "https://gesawards.io",
+      "fit": "high",
+      "why": "Edtech-specific global stage. Missed this year, so put it in the calendar for spring 2027."
+    },
+    {
+      "name": "WISE Prize for Education / WISE Awards (Qatar Foundation)",
+      "type": "competition",
+      "country": "Qatar",
+      "offers": "Flagship biennial education prize (2026-27 cycle with a new format).",
+      "eligibility": "Organisations (individuals not eligible). Aimed at proven education initiatives.",
+      "deadline": "2026-27 call reportedly closed 2026-06-27 (third-party). Next WISE Summit (WISE 13) Q4 2027.",
+      "url": "https://www.wise-qatar.org/innovation/wise-prize-for-education/",
+      "fit": "low",
+      "why": "Aimed at established impact organisations. The WISE EdTech Accelerator (in funding) is the better WISE entry point."
+    },
+    {
+      "name": "Stars of Science (QF / QSTP TV competition)",
+      "type": "competition",
+      "country": "Qatar",
+      "offers": "Share of about $600k seed funding for the top 4 (secondary source), plus venture-building support, QSTP incubation and office space.",
+      "eligibility": "Ages 18-35, Arab origin, Arabic speaker",
+      "deadline": "Season 18 closed 2026-07-10. Season 19 likely opens around June 2027 (UNVERIFIED).",
+      "url": "https://www.starsofscience.com",
+      "fit": "low",
+      "why": "The founders are Georgian and do not meet the Arab-origin and Arabic requirement. It is also hardware/innovation oriented."
+    },
+    {
+      "name": "TASMU Accelerator awards (QAR 200,000)",
+      "type": "competition",
+      "country": "Qatar",
+      "offers": "QAR 200k awards to top graduates, with no equity taken",
+      "eligibility": "Accelerator participants",
+      "deadline": "See TASMU entry in funding (cohort 4 timing UNVERIFIED)",
+      "url": "https://www.mcit.gov.qa/en/news/mcit-celebrates-the-graduation-of-the-third-cohort-of-tasmu-accelerator-startups",
+      "fit": "medium",
+      "why": "Cash plus government pilots in Qatar."
+    },
+    {
+      "name": "Startup Grind Doha (chapter events)",
+      "type": "competition",
+      "country": "Qatar",
+      "offers": "Community events, roadshows (for example the TASMU Cohort 4 roadshow) and pitch nights",
+      "eligibility": "Open",
+      "deadline": "Event-based",
+      "url": "https://www.startupgrind.com/events/details/startup-grind-doha-presents-tasmu-accelerator-4th-cohort-virtual-roadshow/",
+      "fit": "medium",
+      "why": "A low-cost way to build awareness and meet DTA and QSTP people."
+    },
+    {
+      "name": "GITA / Georgian startup competitions and accelerator demo days",
+      "type": "competition",
+      "country": "Georgia",
+      "offers": "GITA Innovative Startup Acceleration Program (with 500 Global, Founder Institute, 2080 Ventures) with stage grants of GEL 50k and GEL 150k",
+      "eligibility": "Georgian startups",
+      "deadline": "2026 closed (14 Jun / 31 Jul 2026). Next cycle around mid-2027 (UNVERIFIED).",
+      "url": "https://gita.gov.ge/en",
+      "fit": "high",
+      "why": "Directly tied to the first market and its grants."
+    }
+  ],
+  "payments": [
+    {
+      "provider": "Stripe (direct, local entity)",
+      "available_qatar": "NO. Qatar is not on stripe.com/global (44 supported countries, checked 2026-10-23). UAE IS supported.",
+      "available_georgia": "NO. Not on stripe.com/global.",
+      "cards": "N/A for a Qatari or Georgian entity",
+      "payouts": "N/A",
+      "fees": "N/A",
+      "url": "https://stripe.com/global",
+      "verdict": "Not possible with a Qatar or Georgia entity. Only usable through a US (Atlas), UAE, UK or EU entity."
+    },
+    {
+      "provider": "Stripe via Stripe Atlas (Delaware C-corp/LLC)",
+      "available_qatar": "Yes as founders' location (Atlas used by startups in 175+ countries). Stripe Global Payouts lists Qatar (QAR, wire) as a recipient country.",
+      "available_georgia": "Customers yes (cards accepted globally). Tutor payouts NO: Georgia (GE) is absent from Stripe Global Payouts recipient list (Armenia is listed), and Connect self-serve cross-border payouts only go to US/UK/EEA/CA/CH.",
+      "cards": "Visa, Mastercard, Amex, Apple/Google Pay. Stripe Billing for subscriptions.",
+      "payouts": "Connect: only US/UK/EEA/CA/CH connected accounts. Global Payouts (US/UK platforms): about 100 countries including Qatar and UAE but NOT Georgia, and you carry the compliance burden (possible money-transmitter issues).",
+      "fees": "Atlas $500 one-time plus $100/yr registered agent ($2,500 Stripe credits). Cards 2.9% + 30c, +1.5% international card, +1% if currency conversion, so Georgian and Qatari cards cost about 4.4% + 30c (5.4% with FX). Billing 0.7% pay-as-you-go. Connect (you handle pricing) $2 per monthly active account + 0.25% + 25c per payout. Cross-border payouts from 0.25%.",
+      "url": "https://stripe.com/atlas",
+      "verdict": "Best global card stack and needed anyway for YC or US VC. But it costs about 4.4%+ on local cards, means US tax filings, and cannot pay Georgian tutors, so pair it with Wise, PayPal or Payoneer for those payouts."
+    },
+    {
+      "provider": "Tap Payments",
+      "available_qatar": "YES. tap.company/en-qa says 'Licensed in Qatar and across the GCC'. Forbes ME reports a QCB PSP licence in 2024.",
+      "available_georgia": "No evidence (GCC focus)",
+      "cards": "Visa, Mastercard, Apple Pay, QPay-NAPS (local debit). Subscription/recurring billing.",
+      "payouts": "Marketplace features: split funds, deduct commission, pay out to sellers/service providers. Payouts to all local Qatari banks. International payouts not stated.",
+      "fees": "Not published (contact sales). A third-party aggregator cites 2.0-2.75%, UNVERIFIED. One third-party page claimed Tap was not taking new accounts, UNVERIFIED.",
+      "url": "https://www.tap.company/en-qa",
+      "verdict": "The best Qatar-entity option: it is the only local provider that confirms subscriptions plus marketplace split payouts. It does not cover Georgian tutors."
+    },
+    {
+      "provider": "SADAD (Qatar)",
+      "available_qatar": "YES (Qatari PSP, published pricing)",
+      "available_georgia": "No",
+      "cards": "NAPS debit, Visa, Mastercard, Amex/international, Apple/Google Pay. Payment links and invoices.",
+      "payouts": "Not a payout or marketplace product",
+      "fees": "Online: 2.5% most cards, 3% international, minimum QAR 2.5 per transaction, QAR 2 per online refund. Gateway QAR 99-199/month (20% off annual). International payment links QAR 99/month. No setup fee.",
+      "url": "https://sadad.qa/en/pricing/",
+      "verdict": "Transparent and cheap for Qatar subscriptions. Recurring-billing support was not confirmed. No marketplace payouts."
+    },
+    {
+      "provider": "SkipCash (Qatar)",
+      "available_qatar": "YES. Licensed by QFC and regulated by QCB. Raised $4M Series A in 2026.",
+      "available_georgia": "No (GCC expansion planned)",
+      "cards": "Online gateway, payment links, recurring billing, QR, Tap-to-Phone",
+      "payouts": "Not stated",
+      "fees": "Not published",
+      "url": "https://www.wamda.com/en/2026/02/qatar-skipcash-raises-4-million-series",
+      "verdict": "A viable local alternative to Tap for subscriptions. Ask about marketplace splits."
+    },
+    {
+      "provider": "Dibsy (Qatar)",
+      "available_qatar": "YES (Qatari fintech, Forbes ME Fintech 50 2026)",
+      "available_georgia": "No",
+      "cards": "Credit cards, NAPS debit, Apple Pay, Google Pay",
+      "payouts": "Not stated",
+      "fees": "Pay-as-you-go with no setup or subscription fee. Rates not published.",
+      "url": "https://www.gulf-times.com/article/735424/business/qatari-firm-lands-in-2026-forbes-middle-easts-fintech-50",
+      "verdict": "Developer-friendly local option. Get a quote."
+    },
+    {
+      "provider": "QNB Payment Gateway / QPay (NAPS)",
+      "available_qatar": "YES (QNB merchant agreement plus QNB account)",
+      "available_georgia": "No",
+      "cards": "QPay: NAPS debit online (OTP + PIN). 2023 QNB gateway adds credit/prepaid/debit.",
+      "payouts": "No",
+      "fees": "Not published",
+      "url": "https://www.qnb.com/sites/qnb/qnbqatar/page/en/enqpaypayment.html",
+      "verdict": "Bank-grade but slow to onboard. Better reached through a PSP (Tap, Dibsy, SADAD) that already bundles NAPS."
+    },
+    {
+      "provider": "Checkout.com",
+      "available_qatar": "UNCLEAR. Qatar is listed as a merchant country only for the QPAY method ('gateway only, direct contract with local provider required').",
+      "available_georgia": "UNCLEAR / not confirmed",
+      "cards": "Full global card stack (enterprise)",
+      "payouts": "Has payouts products (not verified for QA/GE)",
+      "fees": "Custom/enterprise",
+      "url": "https://www.checkout.com/payment-methods/qpay",
+      "verdict": "An enterprise-volume provider, not realistic at pre-seed."
+    },
+    {
+      "provider": "PayTabs",
+      "available_qatar": "YES (Qatar market content and SME guides)",
+      "available_georgia": "No evidence",
+      "cards": "Cards, payment links/invoices, recurring billing",
+      "payouts": "Not stated",
+      "fees": "Third-party: 2.5-3.5% (UNVERIFIED)",
+      "url": "https://ai.paytabs.com/en/category/15-paytabs-qatar/",
+      "verdict": "Workable alternative. Get a quote."
+    },
+    {
+      "provider": "Amazon Payment Services (ex-PayFort)",
+      "available_qatar": "YES. Its FAQ lists Qatar among merchant countries and requires a legal entity in a supported country.",
+      "available_georgia": "No",
+      "cards": "Visa, Mastercard, local methods (UnionPay coming)",
+      "payouts": "No marketplace payouts noted",
+      "fees": "Not published",
+      "url": "https://paymentservices.amazon.com/support-center/faq",
+      "verdict": "Solid acquirer for Qatar, but no split payouts."
+    },
+    {
+      "provider": "Paddle (merchant of record)",
+      "available_qatar": "Seller support for QA unconfirmed (check the GET /countries API). Sells to buyers in 200+ countries.",
+      "available_georgia": "Same, unconfirmed",
+      "cards": "Global cards, handles VAT/sales tax as MoR, subscriptions",
+      "payouts": "NO marketplace payouts",
+      "fees": "Commonly cited 5% + 50c (not verified this session)",
+      "url": "https://paddle.com/help/start/intro-to-paddle/what-am-i-not-allowed-to-sell-on-paddle",
+      "verdict": "Prohibits 'human services not related to a software offering' (coaching, consulting, expert communities). That rules out the tutor marketplace and counselling. It might cover a pure software subscription (programme database, test-prep app, AI assistant) only."
+    },
+    {
+      "provider": "Lemon Squeezy (Stripe-owned MoR)",
+      "available_qatar": "UNCLEAR",
+      "available_georgia": "UNCLEAR",
+      "cards": "Global cards, subscriptions",
+      "payouts": "No marketplace payouts",
+      "fees": "5% + 50c (third-party review, UNVERIFIED)",
+      "url": "https://www.lemonsqueezy.com",
+      "verdict": "Same limits as Paddle (software only). Stripe is moving merchant-of-record into 'Stripe Managed Payments'."
+    },
+    {
+      "provider": "PayPal",
+      "available_qatar": "YES: 'Send, receive, and withdraw' tier (PayPal Payouts country table)",
+      "available_georgia": "YES: 'Send, receive, and withdraw' tier",
+      "cards": "PayPal checkout (cards via PayPal). Bank withdrawal may take up to 7 business days.",
+      "payouts": "PayPal Payouts to tutors holding PayPal accounts in GE and QA",
+      "fees": "Not fetched this session (check paypal.com fee pages)",
+      "url": "https://developer.paypal.com/docs/payouts/standard/reference/country-feature/",
+      "verdict": "A useful fallback to pay Georgian tutors from a US or Qatar entity. Customers may resist it as the main checkout."
+    },
+    {
+      "provider": "Wise Business",
+      "available_qatar": "YES. Qatar is on Wise's supported list (no business restriction).",
+      "available_georgia": "YES. Georgia is on the supported list.",
+      "cards": "No (not an acquirer)",
+      "payouts": "Batch payments to tutors' local bank accounts (GEL, QAR and others)",
+      "fees": "Transparent per-transfer fees (not fetched this session)",
+      "url": "https://wise.com/help/articles/2813542/where-can-i-open-a-wise-balance",
+      "verdict": "Recommended tutor-payout rail for countries Stripe cannot reach, Georgia above all."
+    },
+    {
+      "provider": "Payoneer Mass Payouts",
+      "available_qatar": "UNCLEAR (not confirmed)",
+      "available_georgia": "UNCLEAR (not confirmed)",
+      "cards": "No",
+      "payouts": "Fund in 30 currencies, pay out in 70 currencies to Payoneer, bank or e-wallet",
+      "fees": "Not published",
+      "url": "https://www.payoneer.com/marketplace/mass-payouts-platform/",
+      "verdict": "Alternative to Wise once tutors are spread across many countries. Coverage needs checking."
+    },
+    {
+      "provider": "TBC Bank - TBC Checkout (Georgia)",
+      "available_qatar": "No",
+      "available_georgia": "YES. Requires registration as a TBC Checkout merchant (Georgian entity and bank account) and back-office activation.",
+      "cards": "Visa, Mastercard, Google Pay/Apple Pay on hosted page, 3DS. API includes recurring payments and pre-authorisation.",
+      "payouts": "No marketplace payouts (pay tutors by local bank transfer)",
+      "fees": "Not published (benchmark: Terabank lists 2.5% for Visa/MC e-commerce)",
+      "url": "https://developers.tbcbank.ge/docs/checkout-overview",
+      "verdict": "Best for the Georgia launch: local GEL pricing and recurring support. Georgian cardholders avoid the 1.5% fee BOG and TBC charge on GEL purchases at non-local platforms."
+    },
+    {
+      "provider": "Bank of Georgia - BOG Payments (Georgia)",
+      "available_qatar": "No",
+      "available_georgia": "YES (Georgian merchant)",
+      "cards": "Visa, Mastercard, Amex, Apple Pay, Google Pay, BOG app/loyalty points. Hosted payment page / payment links (reduces PCI scope).",
+      "payouts": "No marketplace payouts",
+      "fees": "Not published",
+      "url": "https://api.bog.ge/docs/en/link-payment/introduction",
+      "verdict": "Equivalent to TBC. Pick whichever bank holds Meridian's Georgian account."
+    }
+  ],
+  "payments_recommendation": "Stripe cannot be used directly with a Qatari or Georgian company (neither is on stripe.com/global), and Paddle or Lemon Squeezy forbid human tutoring and counselling services. So run it in phases. (1) GEORGIA LAUNCH (now): register a Georgian LLC, which also makes GITA grants possible. Take Visa and Mastercard in GEL through TBC Checkout (recurring API) or BOG Payments at about 2.5% local rates. That also spares Georgian customers the 1.5% fee their banks now add to GEL purchases on foreign platforms. Structure the marketplace so Meridian sells the session, keeps 10% and pays tutors as contractors by local bank transfer. That avoids holding funds for third parties, which is what triggers payment-licensing questions. (2) QATAR LAUNCH: once there is a Qatari entity (QFC, Media City Qatar or QSTP), use Tap Payments. It is QCB-licensed and supports Visa, Mastercard, NAPS and Apple Pay, subscriptions and marketplace split payouts to Qatari banks. SADAD (2.5% online, published) is the cheap fallback for subscriptions only. (3) GLOBAL / US VC: when applying to YC or raising in the US, form a Delaware C-corp via Stripe Atlas ($500 + $100/yr) as the parent. Use Stripe Billing and Checkout for international customers, but budget about 4.4% + 30c on non-US cards. Stripe Connect and Global Payouts cannot pay tutors in Georgia, so pay Georgian and other unsupported-country tutors through Wise Business batch payments (Georgia and Qatar both supported) or PayPal Payouts (both in the send/receive/withdraw tier). Before building, confirm with a Qatari lawyer whether student-visa founders can own or sponsor a Qatari entity, and get written quotes from Tap and TBC.",
+  "notes": "URGENT: (1) WISE EdTech Accelerator closes 2026-10-31. Apply this week via wise-qatar.awardsplatform.com (it requires post-MVP traction). (2) McGinnis opens 2026-10-27. Register by 2026-12-01 for a guaranteed coach, Round 1 due 2027-01-19. Confirm CMU-Q eligibility and the 'CMU students hold significant majority of equity' rule given Petre's (non-CMU) stake. (3) YC Winter 2027 reportedly due 2026-11-02 (confirm on ycombinator.com/apply). (4) Web Summit Qatar 31 Jan-3 Feb 2027: watch for ALPHA applications and Media City Qatar licence-fee waivers. Missed this cycle, so calendar for 2027: GESAwards (closed 15 Sep 2026), Bark Tank (closed 22 Sep 2026, final 10 Nov 2026), GITA acceleration and 500 Georgia Startup Academy (closed Jun/Jul 2026), QBIC Acceleration (closed 15 Mar 2026), Stars of Science (closed 10 Jul 2026, and founders are not eligible anyway as non-Arab). Structural point: almost every Qatari program (QRDI grants, QSTP Tech Venture Fund, QDB Startup Qatar) and every Georgian grant (GITA) requires a LOCAL legal entity. Plan a Georgian LLC first and a Qatari entity second, with a possible Delaware parent if US VC or YC is pursued. Unverified or not covered because the search budget was exhausted: Google for Startups Cloud credits, AWS EdStart (may no longer exist as a separate program), LearnLaunch, Techstars current terms, Enterprise Georgia startup programs, Payoneer and Wise exact fees. Homepage URLs not fetched directly (taken from secondary sources, standard domains): qbic.qa, dta.qa, brighteyevc.com, lemonsqueezy.com, gesawards.io, qatar.websummit.com, starsofscience.com, payoneer.com English mass-payouts path (Arabic version seen). Corrections to the brief: 'QIC Ventures' does not exist as such (it is QIC Digital Venture Partners, insurtech). 500 Global has no confirmed current Qatar program; its regional programs are Sanabil 500 (Riyadh) and the Georgia Startup Academy (Tbilisi). The TASMU Accelerator is run by MCIT, not QDB. reachcap.com is not Reach Capital (use reachcapital.com)."
+}

@@ -1,0 +1,29 @@
+# environment — secrets live in .env, never commit it (.env.example is the template)
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# dependencies
+node_modules/
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# meridian runtime data — never commit real user records
+backend/meridian.db
+backend/meridian.db-wal
+backend/meridian.db-shm
+backend/outbox/
+backend/uploads/
+backend/reports/
+
+# os / editor
+.DS_Store
+.claude/
+.idea/
+.vscode/
+*.swp

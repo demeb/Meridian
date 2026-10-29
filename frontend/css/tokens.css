@@ -1,0 +1,269 @@
+/* ============================================================
+   Meridian — Design tokens
+   Single source of truth for colour, type, space, motion.
+   Dark  : navy field, cobalt accents, navy search bar.
+   Light : dodger-blue field, royal-blue search bar, paper surfaces.
+   ============================================================ */
+
+:root {
+  /* ---- Brand primitives (theme independent) ---- */
+  --navy-900: #04091a;
+  --navy-800: #061229;
+  --navy-700: #0a1a3c;
+  --navy-600: #0e2350;
+  --navy-500: #132e66;
+  --navy-400: #1b3d85;
+
+  --cobalt-700: #0b3bb0;
+  --cobalt-600: #1553e6;
+  --cobalt-500: #2f6bff;
+  --cobalt-400: #5c8dff;
+  --cobalt-300: #8fb2ff;
+
+  --royal-700: #1a37a8;
+  --royal-600: #2b50d8;
+  --royal-500: #4169e1;
+
+  --dodger-600: #0f7ae5;
+  --dodger-500: #1e90ff;
+  --dodger-400: #4ea6ff;
+  --dodger-300: #8cc6ff;
+  --dodger-100: #dceeff;
+
+  --gold-500: #f0c04a;
+  --gold-400: #ffd76e;
+  --mint-500: #2fd3a4;
+  --coral-500: #ff6b6b;
+
+  /* ---- Type ---- */
+  --font-display: 'Sora', 'Noto Sans Georgian', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-body: 'Inter', 'Noto Sans Georgian', ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-serif: 'Newsreader', 'Noto Serif Georgian', Georgia, 'Times New Roman', serif;
+  --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
+
+  --step--1: clamp(0.8rem, 0.77rem + 0.14vw, 0.875rem);
+  --step-0:  clamp(0.95rem, 0.92rem + 0.18vw, 1.0625rem);
+  --step-1:  clamp(1.12rem, 1.05rem + 0.35vw, 1.35rem);
+  --step-2:  clamp(1.4rem, 1.27rem + 0.65vw, 1.85rem);
+  --step-3:  clamp(1.75rem, 1.5rem + 1.2vw, 2.6rem);
+  --step-4:  clamp(2.15rem, 1.7rem + 2.2vw, 3.7rem);
+  --step-5:  clamp(2.6rem, 1.8rem + 3.8vw, 5.4rem);
+
+  --leading-tight: 1.08;
+  --leading-snug: 1.3;
+  --leading-normal: 1.62;
+  --tracking-tight: -0.022em;
+  --tracking-wide: 0.16em;
+
+  /* ---- Space (density 5/10 — standard) ---- */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+  --space-9: 6rem;
+
+  --radius-xs: 6px;
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --radius-pill: 999px;
+
+  --container: 1240px;
+  --container-wide: 1480px;
+  --container-narrow: 760px;
+  --nav-h: 74px;
+
+  /* ---- Motion (motion dial 7/10) ---- */
+  /* strong curves (Emil Kowalski / animate skill) — built-ins are too weak */
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  --ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --dur-fast: 140ms;
+  --dur-base: 240ms;
+  --dur-slow: 420ms;
+  --dur-reveal: 700ms;
+
+  /* Brand blues straight from the logo */
+  --brand-deep: #0071bc;
+  --brand-bright: #29a9e0;
+
+  --z-base: 1;
+  --z-sticky: 50;
+  --z-nav: 100;
+  --z-overlay: 500;
+  --z-modal: 600;
+  --z-toast: 700;
+}
+
+/* ============================================================
+   DARK — default. Navy field, cobalt light.
+   ============================================================ */
+:root,
+[data-theme='dark'] {
+  color-scheme: dark;
+
+  --bg: #061229;
+  --bg-deep: #04091a;
+  --bg-field: radial-gradient(1200px 700px at 12% -8%, #12336e 0%, rgba(18, 51, 110, 0) 62%),
+              radial-gradient(1000px 620px at 92% 4%, #0b3bb0 0%, rgba(11, 59, 176, 0) 58%),
+              linear-gradient(180deg, #071531 0%, #050e22 48%, #04091a 100%);
+
+  --surface: rgba(12, 28, 63, 0.72);
+  --surface-solid: #0b1c3f;
+  --surface-2: rgba(16, 36, 80, 0.68);
+  --surface-3: rgba(22, 48, 104, 0.6);
+  --surface-glass: rgba(8, 20, 46, 0.62);
+
+  --text: #eaf1ff;
+  --text-strong: #ffffff;
+  --text-muted: #a7bbe4;
+  --text-dim: #7489b5;
+
+  --border: rgba(92, 141, 255, 0.18);
+  --border-strong: rgba(92, 141, 255, 0.34);
+  --divider: rgba(143, 178, 255, 0.12);
+
+  --brand: var(--cobalt-500);
+  --brand-hover: var(--cobalt-400);
+  --brand-soft: rgba(47, 107, 255, 0.14);
+  --brand-ink: #ffffff;
+
+  --accent: var(--gold-400);
+  --accent-ink: #2a1c00;
+  --success: var(--mint-500);
+  --danger: #ff7b7b;
+
+  /* the search bar is navy in dark mode */
+  --search-bg: #0d2050;
+  --search-bg-focus: #112a66;
+  --search-border: rgba(92, 141, 255, 0.28);
+  --search-text: #eaf1ff;
+  --search-placeholder: #7d93c2;
+
+  --ring: var(--cobalt-400);
+  --shadow-1: 0 1px 2px rgba(0, 0, 0, 0.5);
+  --shadow-2: 0 10px 30px -12px rgba(0, 0, 0, 0.72);
+  --shadow-3: 0 30px 70px -28px rgba(0, 0, 0, 0.85);
+  --glow: 0 0 40px -6px rgba(47, 107, 255, 0.55);
+
+  --grid-line: rgba(92, 141, 255, 0.075);
+  --globe-ocean: rgba(12, 32, 74, 0.55);
+  --globe-land: #4d86ff;
+  --globe-land-dim: rgba(77, 134, 255, 0.28);
+  --globe-grat: rgba(126, 168, 255, 0.13);
+  --globe-halo: rgba(47, 107, 255, 0.5);
+  --globe-pin: #4d9dff;
+  --globe-pin-urgent: #ffd76e;
+  --globe-pin-locked: #7489b5;
+  --globe-pin-ink: #061229;
+  --logo-a: #5c8dff;
+  --logo-b: #8fe3ff;
+  --logo-c: #ffd76e;
+  --mark-deep: #2f8fe0;
+  --mark-bright: #74cdf6;
+  --wordmark: #eef5ff;
+  --nav-bg: rgba(6, 16, 38, 0.72);
+  --nav-ink: #eaf1ff;
+  --nav-ink-muted: #a7bbe4;
+  --hero-sky: radial-gradient(120% 70% at 50% 0%, #0d2457 0%, #071430 45%, #040b1d 100%);
+}
+
+/* ============================================================
+   LIGHT — dodger-blue field, royal-blue search bar,
+   near-white "paper" surfaces so body copy always clears 4.5:1.
+   ============================================================ */
+[data-theme='light'] {
+  color-scheme: light;
+
+  --bg: #1e90ff;
+  --bg-deep: #0f7ae5;
+  --bg-field: radial-gradient(1100px 620px at 8% -10%, #6dbcff 0%, rgba(109, 188, 255, 0) 60%),
+              radial-gradient(900px 540px at 95% 0%, #2b50d8 0%, rgba(43, 80, 216, 0) 55%),
+              linear-gradient(180deg, #1e90ff 0%, #2a7fe8 42%, #1b63c8 100%);
+
+  --surface: #ffffff;
+  --surface-solid: #ffffff;
+  --surface-2: #f2f7ff;
+  --surface-3: #e6f0ff;
+  --surface-glass: rgba(255, 255, 255, 0.82);
+
+  --text: #0d2148;
+  --text-strong: #061229;
+  --text-muted: #46608f;
+  --text-dim: #6c82ab;
+
+  --border: rgba(13, 33, 72, 0.12);
+  --border-strong: rgba(13, 33, 72, 0.22);
+  --divider: rgba(13, 33, 72, 0.09);
+
+  --brand: var(--royal-600);
+  --brand-hover: var(--royal-700);
+  --brand-soft: rgba(43, 80, 216, 0.1);
+  --brand-ink: #ffffff;
+
+  --accent: #b7791f;
+  --accent-ink: #ffffff;
+  --success: #12876a;
+  --danger: #c02626;
+
+  /* the search bar is royal blue in light mode */
+  --search-bg: #2b50d8;
+  --search-bg-focus: #1a37a8;
+  --search-border: rgba(255, 255, 255, 0.34);
+  --search-text: #ffffff;
+  --search-placeholder: rgba(255, 255, 255, 0.72);
+
+  --ring: #123a9e;
+  --shadow-1: 0 1px 2px rgba(6, 18, 41, 0.1);
+  --shadow-2: 0 14px 34px -16px rgba(6, 18, 41, 0.34);
+  --shadow-3: 0 34px 70px -30px rgba(6, 18, 41, 0.42);
+  --glow: 0 0 40px -10px rgba(255, 255, 255, 0.6);
+
+  --grid-line: rgba(255, 255, 255, 0.14);
+  --globe-ocean: rgba(30, 144, 255, 0.12);
+  --globe-land: #2b50d8;
+  --globe-land-dim: rgba(43, 80, 216, 0.35);
+  --globe-grat: rgba(13, 33, 72, 0.14);
+  --globe-halo: rgba(30, 144, 255, 0.4);
+  --globe-pin: #1a37a8;
+  --globe-pin-urgent: #b7791f;
+  --globe-pin-locked: #8095b8;
+  --globe-pin-ink: #ffffff;
+  --logo-a: #ffffff;
+  --logo-b: #cfe6ff;
+  --logo-c: #ffe08a;
+  --mark-deep: #0071bc;
+  --mark-bright: #29a9e0;
+  --wordmark: #0071bc;
+  --nav-bg: rgba(255, 255, 255, 0.86);
+  --nav-ink: #0d2148;
+  --nav-ink-muted: #46608f;
+  --hero-sky: linear-gradient(180deg, #e9f4ff 0%, #bfe0ff 34%, #6fb7ff 64%, #1e90ff 100%);
+}
+
+/* Sections that sit directly on the blue field get white ink in light mode */
+[data-theme='light'] .on-field {
+  --text: #ffffff;
+  --text-strong: #ffffff;
+  --text-muted: rgba(255, 255, 255, 0.86);
+  --text-dim: rgba(255, 255, 255, 0.72);
+  --border: rgba(255, 255, 255, 0.24);
+  --border-strong: rgba(255, 255, 255, 0.4);
+}
+
+/* The hero globe floats on the blue field in light mode, so it inverts. */
+[data-theme='light'] .hero {
+  --globe-ocean: rgba(255, 255, 255, 0.12);
+  --globe-land: #ffffff;
+  --globe-grat: rgba(255, 255, 255, 0.26);
+  --globe-halo: rgba(255, 255, 255, 0.5);
+  --globe-pin: #ffffff;
+  --globe-pin-urgent: #ffe08a;
+  --globe-pin-ink: #1a37a8;
+}

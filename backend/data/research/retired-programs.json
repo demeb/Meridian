@@ -1,0 +1,308 @@
+[
+ {
+  "id": "nus-university",
+  "family": "university",
+  "type": "university",
+  "org": "National University of Singapore",
+  "name": {
+   "en": "NUS — ASEAN & Global Merit Scholarships",
+   "ka": "NUS — ASEAN და გლობალური სტიპენდიები"
+  },
+  "country": {
+   "en": "Singapore",
+   "ka": "სინგაპური"
+  },
+  "city": "Singapore",
+  "iso": "SG",
+  "flag": "🇸🇬",
+  "region": "asia",
+  "lat": 1.296,
+  "lon": 103.776,
+  "cost": "scholarship",
+  "duration": {
+   "en": "4 years",
+   "ka": "4 წელი"
+  },
+  "grades": "12",
+  "opens": "2026-10-05",
+  "deadline": "2027-02-21",
+  "summary": {
+   "en": "Asia's highest-ranked university, offering merit scholarships that cover tuition, a living allowance and accommodation for outstanding international applicants.",
+   "ka": "აზიის უმაღლესი რეიტინგის უნივერსიტეტი, რომელიც გამორჩეულ უცხოელ აპლიკანტებს სთავაზობს სტიპენდიებს სწავლის, საარსებო და საცხოვრებლის ხარჯების დაფარვით."
+  },
+  "highlights": {
+   "en": [
+    "Tuition grant scheme cuts fees substantially for all internationals",
+    "Strong computing, business and engineering faculties",
+    "English is the language of instruction throughout"
+   ],
+   "ka": [
+    "Tuition Grant-ის სქემა მნიშვნელოვნად ამცირებს ხარჯს ყველა უცხოელისთვის",
+    "ძლიერი კომპიუტერული, ბიზნესისა და საინჟინრო ფაკულტეტები",
+    "სწავლება სრულად ინგლისურ ენაზეა"
+   ]
+  },
+  "eligibility": {
+   "en": "Secondary certificate with strong grades plus SAT/ACT or A-Levels.",
+   "ka": "ატესტატი მაღალი ნიშნებით, SAT/ACT ან A-Levels-თან ერთად."
+  },
+  "url": "https://www.nus.edu.sg",
+  "premium": true,
+  "retired_reason": "unverifiable (official pages behind CAPTCHA; ASEAN scholarship likely ASEAN-only)"
+ },
+ {
+  "id": "utokyo-peak",
+  "family": "university",
+  "type": "university",
+  "org": "University of Tokyo",
+  "name": {
+   "en": "UTokyo PEAK — English-Taught Degree",
+   "ka": "ტოკიოს უნივერსიტეტი PEAK — ინგლისურენოვანი პროგრამა"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია"
+  },
+  "city": "Tokyo",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 35.713,
+  "lon": 139.762,
+  "cost": "scholarship",
+  "duration": {
+   "en": "4 years",
+   "ka": "4 წელი"
+  },
+  "grades": "12",
+  "opens": "2026-09-30",
+  "deadline": "2026-12-05",
+  "summary": {
+   "en": "An entirely English-taught undergraduate programme in environmental sciences or Japan studies at Japan's leading university, with MEXT-linked scholarship routes.",
+   "ka": "სრულად ინგლისურენოვანი საბაკალავრო პროგრამა გარემოს მეცნიერებებსა და იაპონისტიკაში იაპონიის წამყვან უნივერსიტეტში, MEXT-თან დაკავშირებული სტიპენდიებით."
+  },
+  "highlights": {
+   "en": [
+    "No Japanese language requirement on entry",
+    "Scholarships cover tuition and a monthly allowance",
+    "Small cohort with close faculty contact"
+   ],
+   "ka": [
+    "შესვლისას იაპონურის ცოდნა არ მოითხოვება",
+    "სტიპენდია ფარავს სწავლას და ყოველთვიურ შემწეობას",
+    "მცირე ჯგუფი და მჭიდრო კონტაქტი პროფესორებთან"
+   ]
+  },
+  "eligibility": {
+   "en": "12 years of schooling completed outside Japan, IB/SAT or equivalent results.",
+   "ka": "იაპონიის გარეთ დასრულებული 12-წლიანი სწავლება, IB/SAT ან ეკვივალენტური შედეგები."
+  },
+  "url": "https://www.u-tokyo.ac.jp",
+  "premium": true,
+  "retired_reason": "unverifiable (PEAK no longer listed on UTokyo admissions)"
+ },
+ {
+  "id": "kaist-isp",
+  "family": "summer",
+  "type": "summer",
+  "org": "KAIST",
+  "name": {
+   "en": "KAIST International Summer Session",
+   "ka": "KAIST-ის საერთაშორისო საზაფხულო სესია"
+  },
+  "country": {
+   "en": "South Korea",
+   "ka": "სამხრეთ კორეა"
+  },
+  "city": "Daejeon",
+  "iso": "KR",
+  "flag": "🇰🇷",
+  "region": "asia",
+  "lat": 36.373,
+  "lon": 127.36,
+  "cost": "paid",
+  "duration": {
+   "en": "4 weeks",
+   "ka": "4 კვირა"
+  },
+  "grades": "11-university",
+  "opens": "2026-12-01",
+  "deadline": "2027-03-31",
+  "summary": {
+   "en": "Four weeks of engineering, AI and robotics coursework at Korea's top science and technology institute, taught in English with lab access.",
+   "ka": "ოთხკვირიანი კურსი ინჟინერიაში, ხელოვნურ ინტელექტსა და რობოტიკაში კორეის წამყვან სამეცნიერო-ტექნოლოგიურ ინსტიტუტში — ინგლისურად, ლაბორატორიებზე წვდომით."
+  },
+  "highlights": {
+   "en": [
+    "Credit-bearing courses with official transcript",
+    "Partial scholarships for partner-country students",
+    "On-campus dormitory included in the fee"
+   ],
+   "ka": [
+    "კრედიტიანი კურსები ოფიციალური ტრანსკრიპტით",
+    "ნაწილობრივი სტიპენდიები პარტნიორი ქვეყნების სტუდენტებისთვის",
+    "საერთო საცხოვრებელი შედის ღირებულებაში"
+   ]
+  },
+  "eligibility": {
+   "en": "High-school seniors and undergraduates with a science background.",
+   "ka": "დამამთავრებელი კლასის მოსწავლეები და ბაკალავრიატის სტუდენტები საბუნებისმეტყველო მომზადებით."
+  },
+  "url": "https://www.kaist.ac.kr",
+  "premium": true,
+  "retired_reason": "unverifiable (no edition since 2016; not for school students)"
+ },
+ {
+  "id": "tech-girls",
+  "family": "youth",
+  "type": "youth",
+  "org": "U.S. Department of State",
+  "name": {
+   "en": "TechGirls Exchange",
+   "ka": "TechGirls გაცვლითი პროგრამა"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ"
+  },
+  "city": "Virginia Tech + placements",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 37.229,
+  "lon": -80.423,
+  "cost": "fully-funded",
+  "duration": {
+   "en": "3 weeks",
+   "ka": "3 კვირა"
+  },
+  "grades": "9-11",
+  "opens": "2026-10-01",
+  "deadline": "2026-12-12",
+  "summary": {
+   "en": "A fully funded summer exchange for girls in STEM: coding camp, job shadowing at US tech companies and a follow-on community project back home.",
+   "ka": "სრულად დაფინანსებული საზაფხულო გაცვლა STEM-ით დაინტერესებული გოგოებისთვის: კოდინგის ბანაკი, ამერიკულ ტექკომპანიებში დაკვირვება და დაბრუნების შემდეგ საკუთარი საზოგადოებრივი პროექტი."
+  },
+  "highlights": {
+   "en": [
+    "All costs including flights are covered",
+    "Mentorship continues after the exchange ends",
+    "Georgia is an eligible country"
+   ],
+   "ka": [
+    "ყველა ხარჯი, ავიაბილეთების ჩათვლით, დაფარულია",
+    "მენტორობა გრძელდება გაცვლის დასრულების შემდეგაც",
+    "საქართველო მონაწილე ქვეყანაა"
+   ]
+  },
+  "eligibility": {
+   "en": "Girls aged 15–17 with a demonstrated interest in technology.",
+   "ka": "15–17 წლის გოგოები, რომლებსაც აქვთ დადასტურებული ინტერესი ტექნოლოგიებისადმი."
+  },
+  "url": "https://www.techgirlsglobal.org",
+  "premium": false,
+  "retired_reason": "Georgia not an eligible country in 2026"
+ },
+ {
+  "id": "ashinaga",
+  "family": "youth",
+  "type": "scholarship",
+  "org": "Ashinaga Foundation",
+  "name": {
+   "en": "Ashinaga Africa & Eurasia Initiative",
+   "ka": "Ashinaga-ს აფრიკისა და ევრაზიის ინიციატივა"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია"
+  },
+  "city": "Tokyo & global placement",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 35.689,
+  "lon": 139.692,
+  "cost": "fully-funded",
+  "duration": {
+   "en": "4–5 years",
+   "ka": "4–5 წელი"
+  },
+  "grades": "12",
+  "opens": "2026-10-10",
+  "deadline": "2027-01-31",
+  "summary": {
+   "en": "A full undergraduate scholarship for students who have lost one or both parents, including a preparatory year of language and academic training before university.",
+   "ka": "სრული საბაკალავრო სტიპენდია სტუდენტებისთვის, რომლებმაც ერთი ან ორივე მშობელი დაკარგეს — უნივერსიტეტამდე მოსამზადებელი წლით ენისა და აკადემიური მომზადებისთვის."
+  },
+  "highlights": {
+   "en": [
+    "Covers tuition, living costs and flights for the full degree",
+    "Preparatory year in Tokyo, Paris or Kampala",
+    "Lifelong alumni support network"
+   ],
+   "ka": [
+    "ფარავს სწავლას, ცხოვრებას და ავიაბილეთებს მთელი პროგრამის განმავლობაში",
+    "მოსამზადებელი წელი ტოკიოში, პარიზში ან კამპალაში",
+    "უწყვეტი კურსდამთავრებულთა მხარდაჭერის ქსელი"
+   ]
+  },
+  "eligibility": {
+   "en": "Students who have lost a parent, under 22, with strong academic results.",
+   "ka": "სტუდენტები, რომლებმაც მშობელი დაკარგეს, 22 წლამდე, ძლიერი აკადემიური შედეგებით."
+  },
+  "url": "https://www.ashinaga.org",
+  "premium": false,
+  "retired_reason": "Ashinaga Africa Initiative only — Georgians ineligible"
+ },
+ {
+  "id": "ashoka-young",
+  "family": "youth",
+  "type": "youth",
+  "org": "Ashoka",
+  "name": {
+   "en": "Ashoka Young Changemakers",
+   "ka": "Ashoka Young Changemakers"
+  },
+  "country": {
+   "en": "Global",
+   "ka": "გლობალური"
+  },
+  "city": "Remote + summits",
+  "iso": "WW",
+  "flag": "🌍",
+  "region": "global",
+  "lat": 41.716,
+  "lon": 44.783,
+  "cost": "fully-funded",
+  "duration": {
+   "en": "Ongoing fellowship",
+   "ka": "მიმდინარე ფელოუშიპი"
+  },
+  "grades": "12-20",
+  "opens": "2026-09-01",
+  "deadline": "2027-05-30",
+  "summary": {
+   "en": "A global fellowship for teenagers already running their own social initiative, offering mentorship, a worldwide peer network and funding for the idea.",
+   "ka": "გლობალური ფელოუშიპი მოზარდებისთვის, რომლებსაც უკვე აქვთ საკუთარი სოციალური ინიციატივა — მენტორობით, მსოფლიო თანატოლთა ქსელითა და იდეის დაფინანსებით."
+  },
+  "highlights": {
+   "en": [
+    "Rolling selection — you can apply at any time",
+    "A proven project matters far more than grades",
+    "Excellent material for university applications"
+   ],
+   "ka": [
+    "უწყვეტი შერჩევა — განაცხადი ნებისმიერ დროს შეგიძლია",
+    "დადასტურებული პროექტი ნიშნებზე ბევრად მნიშვნელოვანია",
+    "შესანიშნავი მასალა საუნივერსიტეტო განაცხადებისთვის"
+   ]
+  },
+  "eligibility": {
+   "en": "Ages 12–20 who have founded or co-founded a social initiative.",
+   "ka": "12–20 წლის ახალგაზრდები, რომლებმაც დააფუძნეს ან თანადააფუძნეს სოციალური ინიციატივა."
+  },
+  "url": "https://www.ashoka.org",
+  "premium": false,
+  "retired_reason": "recruits only in 6 countries — not Georgia"
+ }
+]

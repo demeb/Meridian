@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <title>Meridian</title>
+  <meta name="description" content="Meridian brings international programmes, scholarships, exchanges, tutors and college counselling into one place. Education Without Borders." />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#061229" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/brand/favicon-32.png?v=3" />
+  <link rel="icon" type="image/png" sizes="64x64" href="/assets/brand/favicon-64.png?v=3" />
+  <link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png?v=3" />
+  <meta name="apple-mobile-web-app-title" content="Meridian" />
+  <meta property="og:title" content="Meridian" />
+  <meta property="og:image" content="/assets/brand/meridian-logo.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Newsreader:ital,wght@0,400;1,400&family=Noto+Sans+Georgian:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&family=Noto+Kufi+Arabic:wght@600;700&display=swap" />
+  <link rel="stylesheet" href="/css/tokens.css" />
+  <link rel="stylesheet" href="/css/base.css" />
+  <link rel="stylesheet" href="/css/components.css" />
+  <link rel="stylesheet" href="/css/pages.css" />
+  <script>
+    /* Set theme + language before first paint so nothing flashes. */
+    (function () {
+      try {
+        var theme = localStorage.getItem('meridian.theme');
+        if (!theme) {
+          theme = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+        }
+        document.documentElement.setAttribute('data-theme', theme);
+        var lang = localStorage.getItem('meridian.lang') || 'en';
+        document.documentElement.setAttribute('lang', lang);
+        document.documentElement.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
+      } catch (e) {}
+    })();
+  </script>
+  <link rel="stylesheet" href="/css/home.css" />
+  <link rel="preload" as="image" href="/assets/earth/earth-night.jpg" />
+  <script>
+    /* The intro plays once per visit, and never for people who asked for less motion. */
+    (function () {
+      try {
+        var seen = sessionStorage.getItem('meridian.intro');
+        var calm = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        if (!seen && !calm) document.documentElement.classList.add('has-intro');
+      } catch (e) {}
+    })();
+  </script>
+</head>
+<body data-page="home">
+  <!-- ================= INTRO ================= -->
+  <div class="intro" id="intro" aria-hidden="true">
+    <span class="intro-orb"></span>
+    <svg class="intro-sweep" viewBox="0 0 1600 900" preserveAspectRatio="xMinYMax slice" aria-hidden="true">
+      <path class="sw sw-1" pathLength="1" d="M-40 940 C 380 640, 760 520, 1640 420" />
+      <path class="sw sw-2" pathLength="1" d="M-40 980 C 460 760, 900 640, 1640 600" />
+      <path class="sw sw-3" pathLength="1" d="M-60 860 C 300 520, 640 300, 1100 -40" />
+    </svg>
+    <div class="intro-stage">
+      <span class="brand-mark intro-mark">
+        <i class="bm-book-dark"></i><i class="bm-book-light"></i>
+        <span class="brand-star"><i class="bm-star-dark"></i><i class="bm-star-light"></i></span>
+      </span>
+      <span class="brand-word intro-word"></span>
+      <span class="intro-meridian"></span>
+      <span class="intro-line" data-i18n="brand.sub">Education Without Borders</span>
+    </div>
+    <button type="button" class="intro-skip" id="introSkip" data-i18n="intro.skip">Skip</button>
+  </div>
+
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div id="nav-root"></div>
+
+  <main id="main">
+    <!-- ================= HERO ================= -->
+    <section class="hero2" aria-labelledby="heroTitle">
+      <div class="hero2-sky" aria-hidden="true"></div>
+      <svg class="hero2-ribbons" viewBox="0 0 1440 900" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+        <defs>
+          <linearGradient id="rb-a" x1="0" y1="1" x2="0" y2="0">
+            <stop offset="0" stop-color="#ffd76e" stop-opacity="0.75"/>
+            <stop offset="0.55" stop-color="#9fd3ff" stop-opacity="0.35"/>
+            <stop offset="1" stop-color="#9fd3ff" stop-opacity="0"/>
+          </linearGradient>
+          <linearGradient id="rb-b" x1="0" y1="1" x2="0" y2="0">
+            <stop offset="0" stop-color="#9fd3ff" stop-opacity="0.55"/>
+            <stop offset="1" stop-color="#ffd76e" stop-opacity="0"/>
+          </linearGradient>
+        </defs>
+        <path class="rb rb-1" d="M210 900 C 360 560, 620 330, 900 250 S 1330 210, 1520 120" stroke="url(#rb-a)"/>
+        <path class="rb rb-2" d="M-60 760 C 220 520, 520 300, 760 230 S 1120 170, 1300 60" stroke="url(#rb-b)"/>
+        <path class="rb rb-3" d="M1250 900 C 1120 640, 940 420, 700 330 S 300 260, 80 140" stroke="url(#rb-a)"/>
+        <path class="rb rb-4" d="M560 900 C 600 700, 720 520, 980 420 S 1380 330, 1500 300" stroke="url(#rb-b)"/>
+      </svg>
+      <div class="hero2-earth" id="heroEarth" aria-hidden="true"></div>
+      <div class="hero2-horizon" aria-hidden="true"></div>
+
+      <div class="container hero2-content">
+        <h1 class="hero2-title" id="heroTitle">
+          <span class="hero2-line" data-split="home.title1">Education</span>
+          <span class="hero2-line hero2-accent" data-split="home.title2">Without Borders</span>
+        </h1>
+        <p class="hero2-sub" data-i18n="home.tagline">The meridian line to connect your goals.</p>
+
+        <form class="searchbar searchbar-lg hero2-search" id="heroSearch" role="search">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <label class="sr-only" for="heroSearchInput" data-i18n="home.search.placeholder">Search</label>
+          <input id="heroSearchInput" type="search" name="q" autocomplete="off"
+                 data-i18n-ph="home.search.placeholder" placeholder="Search programmes, universities, exams…" />
+          <button type="submit" class="btn btn-primary btn-sm" data-i18n="home.search.go">Search</button>
+        </form>
+
+        <div class="hero2-actions">
+          <a class="btn btn-primary btn-lg" href="/programs">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3.6 9h16.8M3.6 15h16.8"/><path d="M12 3a15 15 0 0 1 0 18a15 15 0 0 1 0-18z"/></svg>
+            <span data-i18n="home.cta.explore">Explore programmes</span>
+          </a>
+          <a class="btn btn-outline btn-lg hero2-ghost" href="/teachers" data-i18n="home.cta.teachers">Find a tutor</a>
+        </div>
+      </div>
+
+      <a class="hero2-cue" href="#why" data-i18n-label="home.scroll" aria-label="Scroll">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+      </a>
+    </section>
+
+    <!-- ================= PARTNERS ================= -->
+    <section class="section-sm">
+      <div class="container-wide">
+        <p class="eyebrow" style="justify-content:center;display:flex;margin-bottom:1.5rem" data-i18n="home.partners.title">Programmes and institutions in our database</p>
+        <div class="marquee" id="partnerMarquee" aria-hidden="true"></div>
+      </div>
+    </section>
+
+    <!-- ================= THE PROBLEM (research-backed) ================= -->
+    <section class="section problem-sec" id="why">
+      <div class="container">
+        <div class="section-head" data-reveal>
+          <span class="eyebrow" data-i18n="home.problem.eyebrow">What our research found</span>
+          <h2 style="margin-top:1rem" data-i18n="home.problem.title">The opportunities exist. The information doesn’t reach students.</h2>
+          <p class="lede" data-i18n="home.problem.lede"></p>
+        </div>
+        <div class="fact-grid" id="factGrid" data-reveal-group></div>
+        <p class="fact-more"><a class="btn-link" href="/about/research"><span data-i18n="home.problem.more">Read the full research</span>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></p>
+      </div>
+    </section>
+
+    <!-- ================= JOURNEY ================= -->
+    <section class="section">
+      <div class="container">
+        <div class="section-head" data-reveal>
+          <span class="eyebrow" data-i18n="home.journey.eyebrow">How it works</span>
+          <h2 style="margin-top:1rem" data-i18n="home.journey.title">Discover, prepare, apply.</h2>
+        </div>
+        <div class="journey" data-reveal-group id="journeyGrid"></div>
+      </div>
+    </section>
+
+    <!-- ================= NEW PROGRAMS ================= -->
+    <section class="section">
+      <div class="container">
+        <div class="head-row" data-reveal>
+          <div>
+            <span class="eyebrow" data-i18n="home.programs.eyebrow">Just published</span>
+            <h2 style="margin-top:1rem" data-i18n="home.programs.title">New on the platform</h2>
+            <p class="lede" style="margin-top:1rem" data-i18n="home.programs.lede"></p>
+          </div>
+          <a class="btn btn-outline" href="/programs"><span data-i18n="home.programs.all">Open the programme globe</span></a>
+        </div>
+        <div class="grid grid-3" id="newPrograms" data-reveal-group></div>
+      </div>
+    </section>
+
+    <!-- ================= CTA ================= -->
+    <section class="section-sm">
+      <div class="container">
+        <div class="cta-band" data-reveal="scale">
+          <span class="eyebrow" style="display:inline-flex" data-i18n="brand.tagline"></span>
+          <h2 style="margin-top:1rem" data-i18n="home.cta.title">Your meridian starts here.</h2>
+          <p class="lede" data-i18n="home.cta.body"></p>
+          <div class="cluster" data-when-auth="out">
+            <a class="btn btn-primary btn-lg" href="/login?mode=register" data-i18n="home.cta.button">Create a free account</a>
+            <a class="btn btn-ghost btn-lg" href="/pricing" data-i18n="home.cta.plans">See membership plans</a>
+          </div>
+          <div class="cluster" data-when-auth="in" hidden>
+            <a class="btn btn-primary btn-lg" href="/programs" data-i18n="home.cta.explore">Explore programmes</a>
+            <a class="btn btn-ghost btn-lg" href="/pricing" data-i18n="home.cta.plans">See membership plans</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="footer-root"></div>
+
+  <script src="/js/i18n.js"></script>
+  <script src="/js/app.js"></script>
+  <script src="/vendor/globe.gl.min.js" defer></script>
+  <script src="/js/earth.js" defer></script>
+  <script src="/js/intro.js"></script>
+  <script src="/js/home.js" defer></script>
+</body>
+</html>

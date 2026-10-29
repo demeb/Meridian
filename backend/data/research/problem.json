@@ -1,0 +1,267 @@
+{
+  "georgia": [
+    {
+      "claim": "In PISA 2022 only 34% of Georgian 15-year-olds reached baseline proficiency (Level 2) in mathematics and 33% in reading, against OECD averages of 69% and 74%. That means roughly two in three students are below the minimum level.",
+      "value": "34% maths / 33% reading / 35% science at Level 2+ (OECD: 69% / 74% / 76%)",
+      "year": "2022",
+      "source": "OECD — PISA 2022 Results (Volume I and II), Country Notes: Georgia",
+      "url": "https://www.oecd.org/en/publications/pisa-2022-results-volume-i-and-ii-country-notes_ed6fbcc5-en/georgia_09138858-en.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Georgia's PISA 2022 mean scores were 390 in mathematics, 374 in reading and 384 in science. The OECD averages were 472, 476 and 485, so Georgia is about 80-100 points behind, and only about 1% of Georgian students were top performers in maths (OECD: 9%).",
+      "value": "390 / 374 / 384 vs OECD 472 / 476 / 485; 1% top performers in maths",
+      "year": "2022",
+      "source": "Georgian scores: Civil.ge, reporting PISA 2022 results. OECD averages and top-performer shares: OECD, PISA 2022 Results Volume I executive summary and the Georgia country note",
+      "url": "https://civil.ge/?p=572948 ; https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en/full-report/executive-summary_077a9867.html",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Private tutoring is close to the norm before university entry. 60% of Georgian grade-12 students in 2014 were registered with a private tutor, and nearly nine in ten socio-economically advantaged students used tutoring, compared with 36% of disadvantaged students.",
+      "value": "60% of grade-12 students; ~90% advantaged vs 36% disadvantaged",
+      "year": "2014 data, published 2019",
+      "source": "OECD — Reviews of Evaluation and Assessment in Education: Georgia (2019), citing World Bank (2014)",
+      "url": "https://www.oecd.org/en/publications/oecd-reviews-of-evaluation-and-assessment-in-education-georgia_94dc370e-en/full-report/improving-learning-outcomes-and-equity-through-student-assessment_84d97c9e.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "There is a large rural-urban gap: in PISA 2015, Georgian students in rural areas scored 44 points below their peers in cities, which the OECD equates to nearly 1.5 years of schooling. Almost two-thirds of Tbilisi students passed the science baseline, compared with about one-third in rural regions.",
+      "value": "44 PISA points (~1.5 school years)",
+      "year": "2015 data, published 2019",
+      "source": "OECD — Reviews of Evaluation and Assessment in Education: Georgia (2019), chapter 'The education system in Georgia'",
+      "url": "https://www.oecd.org/en/publications/oecd-reviews-of-evaluation-and-assessment-in-education-georgia_94dc370e-en/full-report/the-education-system-in-georgia_d22c5e97.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Ethnic-minority and regional students fall furthest behind. In PISA 2022, Azerbaijani-language students scored 73-81 points below Georgian-language students across the three subjects. Earlier, pass rates on the national entry exams ranged from over 90% in Tbilisi to 44% in Marneuli (Kvemo Kartli).",
+      "value": "-73 (maths) / -80 (reading) / -81 (science) points; 90%+ vs 44% exam pass rates",
+      "year": "2022 (PISA); exam pass rates from World Bank 2014, cited by OECD 2019",
+      "source": "JAMnews, reporting the PISA 2022 national results; OECD Reviews of Evaluation and Assessment in Education: Georgia (2019)",
+      "url": "https://jam-news.net/georgian-school-performance/ ; https://www.oecd.org/en/publications/oecd-reviews-of-evaluation-and-assessment-in-education-georgia_94dc370e-en/full-report/improving-learning-outcomes-and-equity-through-student-assessment_84d97c9e.html",
+      "confidence": "medium"
+    },
+    {
+      "claim": "About 9,200 Georgian tertiary students study abroad, an outbound mobility ratio of 5.6% of tertiary enrolment. That is roughly twice the world average of 2.75%, so the demand for international study is real.",
+      "value": "9,159 outbound students (UIS estimate); 5.6% outbound ratio vs 2.75% world",
+      "year": "2023",
+      "source": "UNESCO Institute for Statistics — indicators OE.5T8.40510 and MOR.5T8.40510 (February 2026 data release)",
+      "url": "https://api.uis.unesco.org/api/public/data/indicators?indicator=OE.5T8.40510&indicator=MOR.5T8.40510&geoUnit=GEO&geoUnit=UIS:%20World&start=2019",
+      "confidence": "high"
+    },
+    {
+      "claim": "Germany is the largest reported host country for Georgian students (1,936 in 2023), followed by Ukraine, Armenia, the USA (~809), Russia and Türkiye. Students are spread across about 50 host countries, which is why the information is fragmented.",
+      "value": "Germany 1,936; Ukraine 1,223; Armenia 882; USA ~809; Russia 566; Türkiye 548 (52 host countries reporting)",
+      "year": "2023",
+      "source": "UNESCO Institute for Statistics — indicator 26531, 'Inbound internationally mobile students from Georgia', by host country",
+      "url": "https://api.uis.unesco.org/api/public/data/indicators?indicator=26531&start=2023&end=2023&geoUnitType=NATIONAL",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The pipeline is large: about 644,000 pupils attend Georgia's 2,292 general-education schools (2,086 of them public), and 41,366 students completed secondary school in 2025.",
+      "value": "644,243 pupils; 2,292 schools; 41,366 secondary graduates",
+      "year": "2025 / 2025-26 school year",
+      "source": "Geostat (National Statistics Office of Georgia) — 'Number of General Education Schools and Pupils' and 'Graduates from primary, basic and secondary schools' (source: Ministry of Education, Science and Youth)",
+      "url": "https://www.geostat.ge/en/modules/categories/59/general-education",
+      "confidence": "high"
+    },
+    {
+      "claim": "More than 43,000 applicants registered for Georgia's Unified National Exams in 2026, about 4,000 more than in 2025.",
+      "value": "43,000+ (2026); ~39,000 (2025)",
+      "year": "2026",
+      "source": "Georgia Today, reporting NAEC (National Assessment and Examinations Center), 15 May 2026",
+      "url": "https://georgiatoday.ge/more-than-43000-register-for-unified-national-exams-in-georgia/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Between 2015 and 2020, 6,512 students and staff from Georgia went to Europe through Erasmus+ International Credit Mobility, and Georgians won 139 Erasmus Mundus Joint Master scholarships over 2014-2020. Measured against the ~40,000 students who finish school each year, these flagship opportunities reach only a small fraction.",
+      "value": "6,512 outbound mobilities (2015-2020); 139 EMJMD scholarships (2014-2020); Georgia received 25% of Eastern Partnership ICM funding",
+      "year": "2015-2020",
+      "source": "European Commission — Erasmus+ for higher education in Georgia, country factsheet (Feb 2021)",
+      "url": "https://ec.europa.eu/assets/eac/erasmus-plus/factsheets/neighbourhood/georgia_erasmusplus_2020.pdf",
+      "confidence": "high"
+    },
+    {
+      "claim": "Youth unemployment in Georgia is about 30% (ILO modelled estimate), and 15.3% of young people are not in education, employment or training.",
+      "value": "30.3% youth unemployment; 15.3% NEET",
+      "year": "2025",
+      "source": "World Bank World Development Indicators — SL.UEM.1524.ZS (ILO modelled) and SL.UEM.NEET.ZS",
+      "url": "https://api.worldbank.org/v2/country/GEO/indicator/SL.UEM.1524.ZS?format=json",
+      "confidence": "high"
+    },
+    {
+      "claim": "English proficiency is moderate. Georgia ranks 35th on the EF English Proficiency Index with a score of 541 (Tbilisi 550, Batumi 544), and the weakest skill is speaking (507).",
+      "value": "Rank 35, score 541",
+      "year": "2025",
+      "source": "EF Education First — EF English Proficiency Index: Georgia",
+      "url": "https://www.ef.com/wwen/epi/regions/europe/georgia/",
+      "confidence": "medium"
+    }
+  ],
+  "qatar": [
+    {
+      "claim": "In PISA 2022 only 44% of Qatari 15-year-olds reached baseline proficiency in mathematics (OECD: 69%), 53% in reading (OECD: 74%) and 56% in science (OECD: 76%). Just 3% were top performers in maths (OECD: 9%).",
+      "value": "44% / 53% / 56% at Level 2+; 3% top performers",
+      "year": "2022",
+      "source": "OECD — PISA 2022 Results (Volume I and II), Country Notes: Qatar",
+      "url": "https://www.oecd.org/en/publications/pisa-2022-results-volume-i-and-ii-country-notes_ed6fbcc5-en/qatar_2d68a1e3-en.html",
+      "confidence": "high"
+    },
+    {
+      "claim": "Qatar is improving: its PISA 2022 results were among its highest ever, and it was one of only four systems that bucked the long-term decline. Its mean scores of about 414 (maths), 419 (reading) and 432 (science) are still well below the OECD averages of 472, 476 and 485.",
+      "value": "414 / 419 / 432 vs OECD 472 / 476 / 485",
+      "year": "2022",
+      "source": "OECD PISA 2022 Volume I executive summary and Qatar country note; scores as reported by AGBI (Arabian Gulf Business Insight), Dec 2023",
+      "url": "https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en/full-report/executive-summary_077a9867.html ; https://www.agbi.com/articles/saudi-arabia-schools-oecd-pisa-tests-uae-qatar",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Qatar's Third National Development Strategy (NDS3) sets a 2030 target of an average PISA score of 483, which would put Qatar above today's OECD average. It also targets 18%+ of graduates in STEM and more than 20% of the Qatari workforce in the private and mixed sectors.",
+      "value": "PISA 483 target by 2030; 18%+ STEM graduates; >20% Qataris in private/mixed sector",
+      "year": "2024-2030",
+      "source": "National Planning Council of Qatar — Third National Development Strategy (NDS3), 'Future-Ready Workforce' outcome",
+      "url": "https://www.npc.qa/en/planning/nds3/Pages/strategicalnationaloutcome.aspx?index=2",
+      "confidence": "high"
+    },
+    {
+      "claim": "About 6,000 tertiary students from Qatar study abroad, an outbound mobility ratio of 13.0%, nearly five times the world average of 2.75%. The ratio has been falling, from 24.4% in 2019.",
+      "value": "6,039 outbound (UIS estimate); 13.0% outbound mobility ratio",
+      "year": "2023",
+      "source": "UNESCO Institute for Statistics — indicators OE.5T8.40510 and MOR.5T8.40510 (February 2026 data release)",
+      "url": "https://api.uis.unesco.org/api/public/data/indicators?indicator=OE.5T8.40510&indicator=MOR.5T8.40510&geoUnit=QAT&start=2019",
+      "confidence": "high"
+    },
+    {
+      "claim": "The UK is by far the largest destination for students from Qatar (2,591 in 2023), followed by India (750), the USA (~434), Jordan (239), Morocco, France and Germany.",
+      "value": "UK 2,591; India 750; USA ~434; Jordan 239",
+      "year": "2023",
+      "source": "UNESCO Institute for Statistics — indicator 26557, 'Inbound internationally mobile students from Qatar', by host country",
+      "url": "https://api.uis.unesco.org/api/public/data/indicators?indicator=26557&start=2023&end=2023&geoUnitType=NATIONAL",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Qatar is also an importer of students: it hosted 20,735 inbound international tertiary students in 2024, about double the 2015 figure (10,509).",
+      "value": "20,735 inbound students",
+      "year": "2024",
+      "source": "UNESCO Institute for Statistics — indicator 26637, 'Total inbound internationally mobile students'",
+      "url": "https://api.uis.unesco.org/api/public/data/indicators?indicator=26637&geoUnit=QAT&start=2015",
+      "confidence": "high"
+    },
+    {
+      "claim": "Students face a crowded landscape. Qatar's Ministry of Education lists 7 public and 19 private higher-education institutions, including 8 Qatar Foundation universities (six US branch campuses, HEC Paris and HBKU). Government scholarships are tied to a ministry list of accredited universities and approved majors.",
+      "value": "26 licensed HEIs (7 public + 19 private); 8 QF universities",
+      "year": "2026",
+      "source": "Qatar Ministry of Education and Higher Education — 'Higher Education in Qatar' and 'Government Scholarship Program' pages; Qatar Foundation — Higher Education",
+      "url": "https://www.edu.gov.qa/en/Content/HigherEducationinQatar ; https://www.edu.gov.qa/en/Content/Scholarshipsdepartment ; https://www.qf.org.qa/education/higher-education",
+      "confidence": "high"
+    },
+    {
+      "claim": "Qatar has a large gender gap in tertiary enrolment: gross enrolment is 69.4% for women but 25.1% for men (43.0% overall).",
+      "value": "Female 69.4% / Male 25.1% / Total 43.0% (gross)",
+      "year": "2024",
+      "source": "World Bank World Development Indicators (UIS data) — SE.TER.ENRR, SE.TER.ENRR.FE, SE.TER.ENRR.MA",
+      "url": "https://api.worldbank.org/v2/country/QAT/indicator/SE.TER.ENRR.MA?format=json",
+      "confidence": "medium"
+    }
+  ],
+  "global": [
+    {
+      "claim": "There were about 7.29 million internationally mobile tertiary students worldwide in 2023, up from 2.11 million in 2000, roughly 3.5 times as many.",
+      "value": "7,288,072 (2023); 6,870,209 (2022); 2,110,398 (2000)",
+      "year": "2023",
+      "source": "UNESCO Institute for Statistics — Total inbound internationally mobile students, World (Feb 2026 release); also UNESCO Higher Education Global Trends Report as covered by The PIE News",
+      "url": "https://api.uis.unesco.org/api/public/data/indicators?indicator=26637&geoUnit=UIS:%20World&start=2000 ; https://thepienews.com/global-he-enrolment-reaches-269-million-as-student-mobility-triples/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Worldwide, only 2.75% of tertiary students study abroad, so international study remains a minority path that depends on access to information and guidance.",
+      "value": "2.75% global outbound mobility ratio",
+      "year": "2023",
+      "source": "UNESCO Institute for Statistics — indicator MOR.5T8.40510, World",
+      "url": "https://api.uis.unesco.org/api/public/data/indicators?indicator=MOR.5T8.40510&geoUnit=UIS:%20World&start=2019",
+      "confidence": "high"
+    },
+    {
+      "claim": "Households pay 30% of total education spending globally, and 39% in low- and lower-middle-income countries (vs 16% in high-income). About 8% of families in low- and middle-income countries borrow to pay for education.",
+      "value": "30% global household share; 39% in LIC/LMIC; 8% borrow",
+      "year": "2021",
+      "source": "UNESCO — Global Education Monitoring Report 2021/2, 'Non-state actors in education: Who chooses? Who loses?'",
+      "url": "https://gem-report-2021.unesco.org/ ; https://www.unesco.org/gem-report/en/articles/unesco-calls-better-oversight-private-education-reduce-inequalities",
+      "confidence": "high"
+    },
+    {
+      "claim": "Private tutoring is largely unregulated: it has no regulation in 48% of 211 education systems and is covered only by commercial law in a further 11%.",
+      "value": "48% unregulated; 11% commercial law only (211 systems)",
+      "year": "2021",
+      "source": "UNESCO — GEM Report 2021/2 (PEER country profiles analysis)",
+      "url": "https://gem-report-2021.unesco.org/",
+      "confidence": "high"
+    },
+    {
+      "claim": "The American School Counselor Association recommends 250 students per counsellor. The US national average was 372:1 in 2024-25, even in a system that invests heavily in counselling.",
+      "value": "372:1 actual vs 250:1 recommended",
+      "year": "2024-25",
+      "source": "American School Counselor Association (ASCA) — School Counselor Roles & Ratios (data: US Dept. of Education / NCES)",
+      "url": "https://www.schoolcounselor.org/About-School-Counseling/School-Counselor-Roles-Ratios",
+      "confidence": "high"
+    },
+    {
+      "claim": "US public-school counsellors spend only 22% of their time on college-admission counselling, compared with 51% at private schools. Students who cannot pay get less admissions guidance.",
+      "value": "22% public vs 51% private",
+      "year": "NACAC/EAB survey (year not stated on page; topic page dated June 2023)",
+      "source": "NACAC (National Association for College Admission Counseling) — School Counseling: Caseloads and Responsibilities",
+      "url": "https://www.nacacnet.org/school-counseling/",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Undermatching: in the US, the vast majority of the roughly 25,000-35,000 high-achieving, low-income students each year apply to no selective college at all. For every one who applies, about 15 high-achieving, high-income students do.",
+      "value": "25,000-35,000 students; 1:15 application ratio",
+      "year": "2013",
+      "source": "Hoxby, C. & Avery, C. — 'The Missing \"One-Offs\": The Hidden Supply of High-Achieving, Low-Income Students', Brookings Papers on Economic Activity, Spring 2013",
+      "url": "https://www.brookings.edu/articles/the-missing-one-offs-the-hidden-supply-of-high-achieving-low-income-students/",
+      "confidence": "high"
+    },
+    {
+      "claim": "Information alone changes outcomes. In the Expanding College Opportunities experiment, sending low-income high achievers tailored application information and fee waivers, at about $6 per student, led them to apply to, be admitted to and enrol at more selective, better-resourced colleges.",
+      "value": "~$6 per student",
+      "year": "2013",
+      "source": "Hoxby, C. & Turner, S. — 'Expanding College Opportunities for High-Achieving, Low-Income Students', SIEPR Working Paper 12-014 (2013)",
+      "url": "https://siepr.stanford.edu/publications/working-paper/expanding-college-opportunities-high-achieving-low-income-students",
+      "confidence": "high"
+    },
+    {
+      "claim": "Testing is a mass market: nearly 2 million students in the US Class of 2026 took the SAT during high school.",
+      "value": "~2 million",
+      "year": "Class of 2026",
+      "source": "College Board — SAT Suite Program Results",
+      "url": "https://reports.collegeboard.org/sat-suite-program-results",
+      "confidence": "high"
+    }
+  ],
+  "solution_fit": [
+    {
+      "problem": "Opportunities are scattered across ~50 host countries and many programmes (Erasmus+, Erasmus Mundus, UWC, FLEX, national scholarships), and the flagship schemes reach only a small share of Georgia's ~41,000 school-leavers a year.",
+      "meridian_answer": "A single, searchable opportunities database (programmes, exchanges, summer schools, scholarships) with eligibility and deadlines in Georgian and English. This lowers the cost of finding out, which is the same mechanism the Hoxby-Turner ECO study found effective at ~$6 per student."
+    },
+    {
+      "problem": "Tutoring is near-universal before exams (60% of grade-12 students in 2014) but strongly skewed by income (~90% of advantaged vs 36% of disadvantaged students).",
+      "meridian_answer": "Structured test prep and lower-cost tutoring for SAT, ACT, IELTS, TOEFL, AP and Duolingo, delivered online so regional students are not limited to tutors in Tbilisi. It cannot replace school quality, but it can lower the price of access."
+    },
+    {
+      "problem": "Large rural/urban and minority-language gaps (44 PISA points rural vs city; Azerbaijani-language students 73-81 points lower; exam pass rates from 90%+ in Tbilisi to 44% in Marneuli).",
+      "meridian_answer": "Online-first delivery and bilingual content (EN/KA) remove the location barrier. Reaching minority-language students would need further localisation (e.g. Azerbaijani, Armenian), which Meridian does not yet offer, so it is a gap to acknowledge."
+    },
+    {
+      "problem": "Weak baseline skills (two-thirds of Georgian and roughly half of Qatari 15-year-olds below PISA Level 2) and only moderate English proficiency.",
+      "meridian_answer": "Diagnostic-led test prep and English preparation (IELTS/TOEFL/Duolingo) meet students where they are. Meridian can improve readiness for specific exams, but it should not claim to fix system-level learning outcomes."
+    },
+    {
+      "problem": "College guidance is scarce and uneven even in well-resourced systems (US 372:1 vs 250:1 recommended; public counsellors spend 22% of their time on admissions vs 51% at private schools), and high-achieving low-income students undermatch.",
+      "meridian_answer": "College counselling (school list, essays, CV, recommendations, financial aid, interviews) offered at lower cost and at scale. This is the 'information plus guidance' gap the undermatching literature identifies."
+    },
+    {
+      "problem": "Qatar: a crowded and rule-bound landscape (26 licensed HEIs, government scholarships tied to approved universities and majors), a national goal of PISA 483 and more STEM graduates by 2030, and an outbound mobility ratio (13%) far above the world average.",
+      "meridian_answer": "The opportunities database and counselling can help students map scholarship rules, Education City options and study abroad, and test prep supports the NDS3 skills agenda. Claims of impact on national PISA targets should be avoided."
+    }
+  ],
+  "notes": "NOT VERIFIED / LEFT OUT: (1) Any figure on school counsellors or college counselling in Georgian or Qatari schools; the OECD 2019 Georgia review contains no such data, and I found no primary source. (2) Household spending on tutoring in Georgia: a '$48 million in 2011' figure appears only on Wikipedia and was excluded. A recent IPM Market Intelligence claim that 'one in two school students' has a tutor has no date or methodology, so it was excluded in favour of the OECD/World Bank 60% figure, which is from 2014 and dated. (3) No survey was found on Georgian students lacking information about international opportunities. (4) Qatar private-tutoring market size, school counselling ratios and Amiri/government scholarship counts were not found in primary sources. (5) Global shadow-education market size (HolonIQ and similar market reports), IELTS annual test volumes (ielts.org publishes them only in downloadable spreadsheets I could not read) and private admissions-consulting fees were not verified, so they are omitted. (6) IIE Open Doors country figures were not fetched. CAVEATS: UIS outbound figures are UIS estimates built from host-country reports; some hosts do not report every year (for example, the USA appears for Georgia only in 2023 and Ukraine's 2023 figure looks anomalous), so destination rankings are medium confidence. Qatar's outbound count covers students from Qatar as reported by hosts. Qatar's gross tertiary enrolment ratios use the total resident 18-22 population, including a large male expatriate workforce, which depresses the male ratio, so treat the gender gap as indicative. Georgia's PISA mean scores come from Civil.ge (consistent with IDFI and JAMnews), and Qatar's from AGBI as surfaced in search. The OECD country notes give the proficiency shares but show mean scores only in charts. Civil.ge's quoted OECD averages (482/480/491) do not match the OECD's own 2022 figures (472/476/485), so the OECD figures are used. The rural-urban PISA gap (44 points) is from PISA 2015; no 2022 urban/rural figure was found in primary text. The EF EPI is based on a self-selected online test population and is not a representative sample. Georgian citizens emigrating (Geostat: 163,480 in 2023, 58,799 in 2025) and Georgia's positive net migration in 2024-25 make a simple 'brain drain' claim contestable, so it is not included as a headline fact. Fetch failures: OECD pages blocked automated fetch, so they were read via the in-app browser. The web-search budget ran out mid-task, so some items could not be searched further."
+}

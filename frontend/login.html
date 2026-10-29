@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <title>Meridian</title>
+  <meta name="description" content="Create a free Meridian account to unlock the full programme database and every tutor profile." />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#061229" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/brand/favicon-32.png?v=3" />
+  <link rel="icon" type="image/png" sizes="64x64" href="/assets/brand/favicon-64.png?v=3" />
+  <link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png?v=3" />
+  <meta name="apple-mobile-web-app-title" content="Meridian" />
+  <meta property="og:title" content="Meridian" />
+  <meta property="og:image" content="/assets/brand/meridian-logo.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Newsreader:ital,wght@0,400;1,400&family=Noto+Sans+Georgian:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&family=Noto+Kufi+Arabic:wght@600;700&display=swap" />
+  <link rel="stylesheet" href="/css/tokens.css" />
+  <link rel="stylesheet" href="/css/base.css" />
+  <link rel="stylesheet" href="/css/components.css" />
+  <link rel="stylesheet" href="/css/pages.css" />
+  <script>
+    /* Set theme + language before first paint so nothing flashes. */
+    (function () {
+      try {
+        var theme = localStorage.getItem('meridian.theme');
+        if (!theme) {
+          theme = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+        }
+        document.documentElement.setAttribute('data-theme', theme);
+        var lang = localStorage.getItem('meridian.lang') || 'en';
+        document.documentElement.setAttribute('lang', lang);
+        document.documentElement.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
+      } catch (e) {}
+    })();
+  </script>
+</head>
+<body data-page="login">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div id="nav-root"></div>
+
+  <main id="main">
+    <div class="auth-wrap">
+      <div class="card card-pad-lg auth-card" data-reveal="scale">
+        <div class="auth-brand" aria-hidden="true" id="authBrand"></div>
+
+        <!-- ============ log in / sign up ============ -->
+        <div id="authPanel">
+          <div class="auth-tabs" role="tablist">
+            <button type="button" role="tab" id="tabLogin" aria-selected="true" data-i18n="auth.tab.login">Log in</button>
+            <button type="button" role="tab" id="tabRegister" aria-selected="false" data-i18n="auth.tab.register">Sign up</button>
+          </div>
+
+          <h1 id="authTitle" class="auth-h" data-i18n="auth.login.title">Welcome back</h1>
+          <p class="muted auth-lede" id="authLede" data-i18n="auth.login.lede"></p>
+
+          <form class="auth-form" id="authForm" novalidate>
+            <div class="auth-row" id="nameRow" hidden>
+              <div class="field">
+                <label for="firstName" data-i18n="auth.firstName">First name</label>
+                <input class="input" id="firstName" autocomplete="given-name" />
+                <span class="field-error">—</span>
+              </div>
+              <div class="field">
+                <label for="lastName" data-i18n="auth.lastName">Last name</label>
+                <input class="input" id="lastName" autocomplete="family-name" />
+                <span class="field-error">—</span>
+              </div>
+            </div>
+
+            <div class="field">
+              <label for="email" data-i18n="auth.email">Email</label>
+              <input class="input" id="email" type="email" autocomplete="email" inputmode="email" required />
+              <span class="field-error">—</span>
+            </div>
+
+            <div id="registerExtra" hidden>
+              <div class="auth-row">
+                <div class="field">
+                  <label for="grade" data-i18n="auth.grade">Where are you now?</label>
+                  <select class="select" id="grade"></select>
+                </div>
+                <div class="field">
+                  <label for="country" data-i18n="auth.country">Country</label>
+                  <select class="select" id="country"><option value="GE">Georgia</option></select>
+                </div>
+              </div>
+              <div class="auth-row" style="margin-top:1rem">
+                <div class="field">
+                  <label for="phone" data-i18n="auth.phone">Phone (optional)</label>
+                  <input class="input" id="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="+974 / +995 / +1 …" />
+                </div>
+                <div class="field">
+                  <label for="birthYear" data-i18n="auth.birthYear">Year of birth (optional)</label>
+                  <input class="input" id="birthYear" type="number" inputmode="numeric" min="1940" max="2020" placeholder="2008" autocomplete="bday-year" />
+                </div>
+              </div>
+              <div class="field" style="margin-top:1rem">
+                <span class="label"><span data-i18n="auth.interests">What are you interested in?</span> <span class="dim" data-i18n="auth.optional">(optional)</span></span>
+                <div class="chip-picker" id="interests"></div>
+              </div>
+            </div>
+
+            <div class="field">
+              <label for="password"><span data-i18n="auth.password">Password</span>
+                <button type="button" class="btn-link forgot-link" id="forgotLink" data-i18n="auth.forgot">Forgot password?</button>
+              </label>
+              <div class="pw-wrap">
+                <input class="input" id="password" type="password" autocomplete="current-password" required />
+                <button type="button" class="pw-eye" data-eye="password" aria-label="Show password"></button>
+              </div>
+              <div class="pw-meter" id="pwMeter" hidden><i></i><i></i><i></i></div>
+              <span class="field-hint" id="pwHint" hidden data-i18n="auth.passwordHint">At least 8 characters.</span>
+              <span class="field-error">—</span>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-lg btn-block" id="authSubmit" style="margin-top:.5rem">
+              <span data-i18n="auth.submit.login">Log in</span>
+            </button>
+          </form>
+
+          <p class="auth-alt">
+            <span id="altText" data-i18n="auth.noAccount">No account yet?</span>
+            <button type="button" class="btn-link" id="altSwitch" style="display:inline-flex;margin-inline-start:.35rem" data-i18n="auth.tab.register">Sign up</button>
+          </p>
+        </div>
+
+        <!-- ============ forgot password ============ -->
+        <div id="forgotPanel" hidden>
+          <h1 class="auth-h" data-i18n="auth.forgot.title">Reset your password</h1>
+          <p class="muted auth-lede" data-i18n="auth.forgot.lede"></p>
+          <form class="auth-form" id="forgotForm" novalidate>
+            <div class="field">
+              <label for="forgotEmail" data-i18n="auth.email">Email</label>
+              <input class="input" id="forgotEmail" type="email" autocomplete="email" inputmode="email" />
+              <span class="field-error">—</span>
+            </div>
+            <button type="submit" class="btn btn-primary btn-lg btn-block" id="forgotSubmit" data-i18n="auth.forgot.send">Send reset code</button>
+          </form>
+          <p class="auth-alt"><button type="button" class="btn-link" data-back style="display:inline-flex" data-i18n="auth.backToLogin">Back to log in</button></p>
+        </div>
+
+        <!-- ============ verification / reset code ============ -->
+        <div id="verifyPanel" hidden>
+          <div style="text-align:center">
+            <span class="value-icon" style="margin-inline:auto;width:54px;height:54px" id="verifyIcon"></span>
+            <h1 class="auth-h" style="margin-top:1.2rem" id="verifyTitle" data-i18n="auth.verify.title">Check your email</h1>
+            <p class="muted" style="margin-top:.5rem;font-size:.93rem">
+              <span data-i18n="auth.verify.lede">We sent a 6-digit code to</span>
+              <b id="verifyEmail" class="strong"></b>
+            </p>
+          </div>
+
+          <form id="verifyForm" style="margin-top:1.8rem">
+            <label class="sr-only" for="code0">Code</label>
+            <div class="code-inputs" id="codeInputs">
+              <input id="code0" inputmode="numeric" autocomplete="one-time-code" maxlength="6" aria-label="Digit 1" />
+              <input inputmode="numeric" maxlength="1" aria-label="Digit 2" />
+              <input inputmode="numeric" maxlength="1" aria-label="Digit 3" />
+              <input inputmode="numeric" maxlength="1" aria-label="Digit 4" />
+              <input inputmode="numeric" maxlength="1" aria-label="Digit 5" />
+              <input inputmode="numeric" maxlength="1" aria-label="Digit 6" />
+            </div>
+            <div class="field" id="newPasswordField" hidden style="margin-top:1.4rem">
+              <label for="newPassword" data-i18n="auth.newPassword">New password</label>
+              <div class="pw-wrap">
+                <input class="input" id="newPassword" type="password" autocomplete="new-password" />
+                <button type="button" class="pw-eye" data-eye="newPassword" aria-label="Show password"></button>
+              </div>
+              <span class="field-hint" data-i18n="auth.passwordHint">At least 8 characters.</span>
+              <span class="field-error">—</span>
+            </div>
+            <p class="field-error" id="codeError" style="text-align:center;margin-top:.9rem">—</p>
+            <div class="dev-code-note" id="devCodeNote" hidden></div>
+            <button type="submit" class="btn btn-primary btn-lg btn-block" id="verifySubmit" style="margin-top:1.4rem" data-i18n="auth.verify.submit">Verify and continue</button>
+          </form>
+
+          <p class="auth-alt">
+            <button type="button" class="btn-link" id="resendCode" style="display:inline-flex" data-i18n="auth.verify.resend">Send a new code</button>
+            <span class="dim" style="margin-inline:.5rem">·</span>
+            <button type="button" class="btn-link" data-back style="display:inline-flex" data-i18n="auth.verify.back">Use a different email</button>
+          </p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <div id="footer-root"></div>
+
+  <script src="/js/i18n.js"></script>
+  <script src="/js/app.js"></script>
+  <script src="/js/auth.js"></script>
+</body>
+</html>

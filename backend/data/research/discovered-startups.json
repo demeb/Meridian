@@ -1,0 +1,1089 @@
+[
+  {
+    "premium": false,
+    "opens": null,
+    "id": "hult-prize",
+    "family": "competition",
+    "type": "competition",
+    "org": "Hult Prize Foundation",
+    "name": {
+      "en": "Hult Prize",
+      "ka": "ჰალტის პრიზი (Hult Prize)"
+    },
+    "country": {
+      "en": "United Kingdom",
+      "ka": "გაერთიანებული სამეფო"
+    },
+    "city": "London (Ashridge House)",
+    "iso": "GB",
+    "flag": "🇬🇧",
+    "region": "europe",
+    "lat": 51.8,
+    "lon": -0.56,
+    "cost": "free",
+    "duration": {
+      "en": "About 1 year (Sept qualifiers to Sept global finals)",
+      "ka": "დაახლ. 1 წელი (სექტემბრის შესარჩევიდან სექტემბრის გლობალურ ფინალამდე)"
+    },
+    "grades": "university",
+    "deadline": null,
+    "deadline_note": "Not yet published for the 2026-27 cycle. Qualifiers run September to February through campus competitions or the Open Application; campus deadlines in the last cycle fell between Dec 2025 and Feb 2026.",
+    "summary": {
+      "en": "Hult Prize calls itself the world's largest student startup competition. University student teams build for-profit startups that address global issues and progress from campus qualifiers through nationals, an online incubator and a month-long accelerator, to the global finals.",
+      "ka": "ჰალტის პრიზი თავს მსოფლიოში უდიდეს სტუდენტურ სტარტაპ-კონკურსად მოიხსენიებს. უნივერსიტეტის სტუდენტების გუნდები ქმნიან მომგებიან სტარტაპებს, რომლებიც გლობალურ პრობლემებს წყვეტენ, და გადიან ეტაპებს: საუნივერსიტეტო შესარჩევი, ეროვნული ეტაპი, ონლაინ ინკუბატორი, ერთთვიანი აქსელერატორი და გლობალური ფინალი."
+    },
+    "highlights": {
+      "en": [
+        "US$1 million in seed funding for the winning team",
+        "130+ participating countries; Open Application if your university has no local round",
+        "Global Accelerator in August at Ashridge House near London"
+      ],
+      "ka": [
+        "გამარჯვებული გუნდი 1 მილიონ აშშ დოლარს იღებს სათესლე დაფინანსების სახით",
+        "130-ზე მეტი ქვეყანა; თუ შენს უნივერსიტეტში ადგილობრივი ეტაპი არ ტარდება, შეგიძლია ღია განაცხადით მიმართო",
+        "აგვისტოში გლობალური აქსელერატორი ლონდონთან ახლოს, Ashridge House-ში"
+      ]
+    },
+    "eligibility": {
+      "en": "Teams of 2-4 members, all currently enrolled (full- or part-time) in a degree programme at a university or college, and all at least 18 by 28 February 2027. No nationality restriction is stated, so Georgian and Qatari students can compete via a campus round or the Open Application.",
+      "ka": "2-4 კაციანი გუნდები; ყველა წევრი უნდა სწავლობდეს (სრულ ან ნახევარ განაკვეთზე) უნივერსიტეტის ან კოლეჯის ხარისხის პროგრამაზე და 2027 წლის 28 თებერვლისთვის 18 წლის უნდა იყოს. მოქალაქეობის შეზღუდვა მითითებული არ არის, ამიტომ ქართველ და კატარელ სტუდენტებს მონაწილეობა შეუძლიათ საუნივერსიტეტო ეტაპით ან ღია განაცხადით."
+    },
+    "url": "https://www.hultprize.org/",
+    "sources": [
+      "https://www.hultprize.org/",
+      "https://www.hultprize.org/competition",
+      "https://www.hultprize.org/register",
+      "https://www.hultprize.org/terms-conditions"
+    ],
+    "score": 9,
+    "score_reason": "US$1M prize, free to enter, open to any university student worldwide including Georgia and Qatar."
+  },
+  {
+    "premium": false,
+    "opens": null,
+    "id": "thiel-fellowship",
+    "family": "startup",
+    "type": "fellowship",
+    "org": "Thiel Foundation",
+    "name": {
+      "en": "Thiel Fellowship",
+      "ka": "თილის სტიპენდია (Thiel Fellowship)"
+    },
+    "country": {
+      "en": "United States",
+      "ka": "აშშ"
+    },
+    "city": "San Francisco",
+    "iso": "US",
+    "flag": "🇺🇸",
+    "region": "americas",
+    "lat": 37.77,
+    "lon": -122.42,
+    "cost": "funded",
+    "duration": {
+      "en": "2 years",
+      "ka": "2 წელი"
+    },
+    "grades": "founders aged 22 or under",
+    "deadline": null,
+    "deadline_note": "rolling: applications accepted year-round (official FAQ)",
+    "summary": {
+      "en": "The Thiel Fellowship is a two-year programme, founded by Peter Thiel in 2011, for young people who want to build new things instead of attending college. Fellows receive a grant and support from the foundation's network of founders, investors and scientists.",
+      "ka": "თილის სტიპენდია 2011 წელს პიტერ თილმა დააარსა. ეს ორწლიანი პროგრამაა ახალგაზრდებისთვის, რომლებსაც უნივერსიტეტში სწავლის ნაცვლად ახლის შექმნა სურთ. სტიპენდიანტები იღებენ გრანტს და ფონდის დამფუძნებლების, ინვესტორებისა და მეცნიერების ქსელის მხარდაჭერას."
+    },
+    "highlights": {
+      "en": [
+        "US$250,000 grant paid over two years",
+        "No equity taken in your company",
+        "Fellows can be based anywhere in the world"
+      ],
+      "ka": [
+        "250 000 აშშ დოლარის გრანტი ორი წლის განმავლობაში",
+        "ფონდი კომპანიაში წილს არ იღებს",
+        "სტიპენდიანტს შეუძლია მსოფლიოს ნებისმიერ ქვეყანაში იცხოვროს"
+      ]
+    },
+    "eligibility": {
+      "en": "Age 22 or younger with no completed university degree; you may apply while in school but must drop out if selected. Individuals can apply; a company is not required. No nationality restriction is stated, so Georgian and Qatari applicants can apply.",
+      "ka": "22 წლამდე ასაკი და დასრულებული უმაღლესი განათლების არქონა; განაცხადის შეტანა სწავლის პარალელურად შეიძლება, თუმცა შერჩევის შემთხვევაში სწავლის შეწყვეტა მოგიწევს. შეიძლება ინდივიდუალურად მიმართო, კომპანია სავალდებულო არ არის. მოქალაქეობის შეზღუდვა მითითებული არ არის, ამიტომ ქართველ და კატარელ კანდიდატებსაც შეუძლიათ განაცხადის შეტანა."
+    },
+    "url": "https://thielfellowship.org/",
+    "sources": [
+      "https://thielfellowship.org/",
+      "https://thielfellowship.org/faq"
+    ],
+    "score": 8,
+    "score_reason": "US$250k equity-free and open worldwide, but extremely selective and requires leaving university."
+  },
+  {
+    "premium": false,
+    "opens": null,
+    "id": "y-combinator",
+    "family": "startup",
+    "type": "accelerator",
+    "org": "Y Combinator",
+    "name": {
+      "en": "Y Combinator (Winter 2027 batch)",
+      "ka": "Y Combinator (2027 წლის ზამთრის ნაკადი)"
+    },
+    "country": {
+      "en": "United States",
+      "ka": "აშშ"
+    },
+    "city": "San Francisco",
+    "iso": "US",
+    "flag": "🇺🇸",
+    "region": "americas",
+    "lat": 37.77,
+    "lon": -122.42,
+    "cost": "funded",
+    "duration": {
+      "en": "3 months (January-March 2027)",
+      "ka": "3 თვე (2027 წლის იანვარი-მარტი)"
+    },
+    "grades": "founders (students welcome)",
+    "deadline": "2026-11-02",
+    "deadline_note": "official: on-time deadline 2 Nov, 8pm PT; decisions by 11 Dec. Late applications are still considered. Students can use Early Decision for a later batch.",
+    "summary": {
+      "en": "Y Combinator is a three-month startup accelerator held in person in San Francisco. It invests in accepted companies on standard terms and runs an application process open to any startup anywhere in the world.",
+      "ka": "Y Combinator სამთვიანი სტარტაპ-აქსელერატორია, რომელიც პირისპირ ტარდება სან-ფრანცისკოში. ის მიღებულ კომპანიებში სტანდარტული პირობებით ინვესტირებს, ხოლო განაცხადის შეტანა ნებისმიერი ქვეყნის სტარტაპს შეუძლია."
+    },
+    "highlights": {
+      "en": [
+        "US$500,000 invested in every accepted company (two SAFEs)",
+        "No fees; investment is not tied to milestones",
+        "Help with US incorporation and visas after acceptance"
+      ],
+      "ka": [
+        "ყველა მიღებულ კომპანიაში 500 000 აშშ დოლარის ინვესტიცია (ორი SAFE შეთანხმებით)",
+        "საფასური არ არის; ინვესტიცია მიღწეულ შედეგებზე არ არის დამოკიდებული",
+        "მიღების შემდეგ დახმარება აშშ-ში კომპანიის რეგისტრაციასა და ვიზებში"
+      ]
+    },
+    "eligibility": {
+      "en": "Open to startups from any country. Non-US founders do not need to incorporate or get visas before applying. Full-time students may apply but must work full-time on the company if accepted. Georgian and Qatari founders are eligible.",
+      "ka": "ღიაა ნებისმიერი ქვეყნის სტარტაპებისთვის; არააშშ-ელ დამფუძნებლებს განაცხადამდე კომპანიის რეგისტრაცია ან ვიზა არ სჭირდებათ. სრულ განაკვეთზე მყოფ სტუდენტებსაც შეუძლიათ მიმართვა, თუმცა მიღების შემთხვევაში კომპანიაზე სრულ განაკვეთზე უნდა იმუშაონ. ქართველი და კატარელი დამფუძნებლები უფლებამოსილნი არიან."
+    },
+    "url": "https://www.ycombinator.com/apply",
+    "sources": [
+      "https://www.ycombinator.com/apply",
+      "https://www.ycombinator.com/deal",
+      "https://www.ycombinator.com/faq"
+    ],
+    "score": 8,
+    "score_reason": "World's top accelerator with US$500k per company and a deadline in 10 days; best for founders who already have a team and product."
+  },
+  {
+    "premium": false,
+    "opens": "2026-09-16",
+    "id": "diamond-challenge",
+    "family": "competition",
+    "type": "competition",
+    "org": "University of Delaware, Horn Entrepreneurship",
+    "name": {
+      "en": "Diamond Challenge",
+      "ka": "Diamond Challenge (ალმასის გამოწვევა)"
+    },
+    "country": {
+      "en": "United States",
+      "ka": "აშშ"
+    },
+    "city": "Newark, Delaware",
+    "iso": "US",
+    "flag": "🇺🇸",
+    "region": "americas",
+    "lat": 39.68,
+    "lon": -75.75,
+    "cost": "free",
+    "duration": {
+      "en": "Sept 2026 to April 2027 (summit 29-30 April)",
+      "ka": "2026 წლის სექტემბრიდან 2027 წლის აპრილამდე (სამიტი 29-30 აპრილს)"
+    },
+    "grades": "14-18",
+    "deadline": "2027-01-14",
+    "deadline_note": "official: submission deadline 14 January, 5pm EST (2027 Competition Timeline)",
+    "summary": {
+      "en": "The Diamond Challenge is a global entrepreneurship competition for high school students run by the University of Delaware's Horn Entrepreneurship. Teams submit a business or social innovation concept; finalists pitch at the Limitless World Summit.",
+      "ka": "Diamond Challenge არის საერთაშორისო მეწარმეობის კონკურსი სკოლის მოსწავლეებისთვის, რომელსაც დელავერის უნივერსიტეტის Horn Entrepreneurship ატარებს. გუნდები წარადგენენ ბიზნეს ან სოციალური ინოვაციის იდეას, ფინალისტები კი Limitless World Summit-ზე აკეთებენ პრეზენტაციას."
+    },
+    "highlights": {
+      "en": [
+        "Top prizes of US$12,000 / 8,000 / 4,500 in each track",
+        "Prize pool of more than US$100,000",
+        "Business innovation and social innovation tracks; submissions in English"
+      ],
+      "ka": [
+        "თითოეულ მიმართულებაში მთავარი პრიზები: 12 000 / 8 000 / 4 500 აშშ დოლარი",
+        "საპრიზო ფონდი 100 000 აშშ დოლარზე მეტია",
+        "ორი მიმართულება: ბიზნეს ინოვაცია და სოციალური ინოვაცია; განაცხადი ინგლისურად"
+      ]
+    },
+    "eligibility": {
+      "en": "Teams of 2-4 high school students aged 14-18 at the deadline, plus one adult advisor aged 21+. Concepts must not have earned more than US$100,000 in revenue. Open to any country ('Any Idea, Any Team, Any Country'), so Georgian and Qatari students qualify. Finalists must attend in person.",
+      "ka": "2-4 მოსწავლისგან შემდგარი გუნდი (ბოლო ვადისთვის 14-18 წლის) და ერთი 21 წელს გადაცილებული ზრდასრული მრჩეველი. იდეას 100 000 აშშ დოლარზე მეტი შემოსავალი არ უნდა ჰქონდეს. კონკურსი ყველა ქვეყნისთვის ღიაა, ამიტომ ქართველ და კატარელ მოსწავლეებს მონაწილეობა შეუძლიათ. ფინალისტები პირადად უნდა დაესწრონ."
+    },
+    "url": "https://diamondchallenge.org/",
+    "sources": [
+      "https://diamondchallenge.org/",
+      "https://diamondchallenge.org/competition/"
+    ],
+    "score": 9,
+    "score_reason": "Free, global, built for high schoolers, with US$12k top prizes and a clear deadline of 14 Jan 2027."
+  },
+  {
+    "premium": false,
+    "opens": "2026-08-27",
+    "id": "conrad-challenge",
+    "family": "competition",
+    "type": "competition",
+    "org": "Conrad Foundation / Space Center Houston",
+    "name": {
+      "en": "Conrad Challenge 2026-27",
+      "ka": "კონრადის გამოწვევა (Conrad Challenge) 2026-27"
+    },
+    "country": {
+      "en": "United States",
+      "ka": "აშშ"
+    },
+    "city": "Houston",
+    "iso": "US",
+    "flag": "🇺🇸",
+    "region": "americas",
+    "lat": 29.55,
+    "lon": -95.1,
+    "cost": "paid",
+    "duration": {
+      "en": "Aug 2026 to April 2027",
+      "ka": "2026 წლის აგვისტოდან 2027 წლის აპრილამდე"
+    },
+    "grades": "13-18",
+    "deadline": "2026-10-29",
+    "deadline_note": "official: Phase 1 (Activation Stage) ends 29 Oct 2026; Phase 2 (Innovation Stage) ends 7 Jan 2027; Innovation Summit 21-24 April 2027",
+    "summary": {
+      "en": "The Conrad Challenge, presented by Equinor and run by Space Center Houston, is a global student innovation competition. Teams develop a product and business plan in stages, and finalists present at the Innovation Summit in Houston.",
+      "ka": "კონრადის გამოწვევა, რომელსაც Space Center Houston ატარებს Equinor-ის მხარდაჭერით, მოსწავლეთა საერთაშორისო ინოვაციების კონკურსია. გუნდები ეტაპობრივად ქმნიან პროდუქტსა და ბიზნეს-გეგმას, ფინალისტები კი ჰიუსტონში, ინოვაციების სამიტზე წარადგენენ პროექტს."
+    },
+    "highlights": {
+      "en": [
+        "Activation and Lean Canvas stages are free to submit",
+        "Innovation Stage fee US$499 per team, with financial aid for qualifying teams",
+        "Prizes include college scholarships and international trips"
+      ],
+      "ka": [
+        "Activation და Lean Canvas ეტაპები უფასოა",
+        "Innovation ეტაპის საფასური 499 აშშ დოლარია გუნდზე; შესაბამის გუნდებს ფინანსური დახმარება ეძლევათ",
+        "პრიზებში შედის საუნივერსიტეტო სტიპენდიები და საერთაშორისო მოგზაურობები"
+      ]
+    },
+    "eligibility": {
+      "en": "Teams of 2-5 students aged 13-18 with a coach aged 18+. Teams can compete from anywhere in the world, so Georgian and Qatari students are eligible.",
+      "ka": "2-5 მოსწავლისგან შემდგარი გუნდები (13-18 წლის) და 18 წელს გადაცილებული მწვრთნელი. გუნდებს მსოფლიოს ნებისმიერი ქვეყნიდან შეუძლიათ მონაწილეობა, ამიტომ ქართველ და კატარელ მოსწავლეებსაც შეუძლიათ."
+    },
+    "url": "https://conrad.spacecenter.org/",
+    "sources": [
+      "https://conrad.spacecenter.org/",
+      "https://conrad.spacecenter.org/challenge/rules-and-regulations/",
+      "https://conrad.spacecenter.org/wp-content/uploads/2026/08/2026-2027-Conrad-Challenge-Student-Guide-Official.pdf"
+    ],
+    "score": 7,
+    "score_reason": "Prestigious and global, but Phase 1 closes in 6 days and later stages cost US$499 per team."
+  },
+  {
+    "premium": false,
+    "opens": null,
+    "id": "blue-ocean-competition",
+    "family": "competition",
+    "type": "competition",
+    "org": "Blue Ocean Student Entrepreneurs Corporation",
+    "name": {
+      "en": "Blue Ocean Student Entrepreneur Competition 2027",
+      "ka": "Blue Ocean მოსწავლე მეწარმეების კონკურსი 2027"
+    },
+    "country": {
+      "en": "Online",
+      "ka": "ონლაინ"
+    },
+    "city": "Online",
+    "iso": "WW",
+    "flag": "🌍",
+    "region": "global",
+    "lat": 38.98,
+    "lon": -76.49,
+    "cost": "free",
+    "duration": {
+      "en": "Virtual; pitches due Feb 2027, winners announced in May",
+      "ka": "ვირტუალური; პიჩი 2027 წლის თებერვლამდე, გამარჯვებულები მაისში ცხადდება"
+    },
+    "grades": "14-18",
+    "deadline": "2027-02-21",
+    "deadline_note": "official: deadline to submit your pitch, 21 February 2027",
+    "summary": {
+      "en": "A free, fully virtual entrepreneurship competition for high school students worldwide. Students complete the Blue Ocean mini-course and submit a pitch video of up to 5 minutes based on blue ocean strategy.",
+      "ka": "უფასო და სრულად ვირტუალური მეწარმეობის კონკურსი მსოფლიოს სკოლის მოსწავლეებისთვის. მონაწილეები გადიან Blue Ocean მინი-კურსს და ტვირთავენ მაქსიმუმ 5-წუთიან პიჩ-ვიდეოს, რომელიც „ცისფერი ოკეანის“ სტრატეგიას ეფუძნება."
+    },
+    "highlights": {
+      "en": [
+        "Prizes of US$1,000 / 750 / 500, plus a US$750 People's Choice award",
+        "Completely free, with no travel",
+        "Compete solo or in a team of up to five; 173 countries represented"
+      ],
+      "ka": [
+        "პრიზები: 1 000 / 750 / 500 აშშ დოლარი და 750 დოლარიანი მაყურებელთა რჩეულის ჯილდო",
+        "სრულიად უფასოა და მგზავრობა არ სჭირდება",
+        "შეგიძლია მარტომ ან 5-მდე წევრიანი გუნდით იასპარეზო; წარმოდგენილია 173 ქვეყანა"
+      ]
+    },
+    "eligibility": {
+      "en": "High school (pre-university) students aged 14-18 anywhere in the world, homeschoolers included. Georgian and Qatari students are eligible. Pitches must be in English.",
+      "ka": "მსოფლიოს ნებისმიერი ქვეყნის 14-18 წლის მოსწავლეები (საშუალო ან უნივერსიტეტამდელი საფეხური), მათ შორის სახლში მოსწავლეები. ქართველი და კატარელი მოსწავლეები უფლებამოსილნი არიან. პიჩი ინგლისურად უნდა იყოს."
+    },
+    "url": "https://www.blueoceancompetition.org/",
+    "sources": [
+      "https://www.blueoceancompetition.org/",
+      "https://www.blueoceancompetition.org/faq"
+    ],
+    "score": 8,
+    "score_reason": "Free, online and global, so the easiest first startup competition for any Georgian or Qatari high schooler."
+  },
+  {
+    "premium": false,
+    "opens": "2026-10-01",
+    "id": "launchx-summer-2027",
+    "family": "startup",
+    "type": "summer",
+    "org": "LaunchX",
+    "name": {
+      "en": "LaunchX Summer Entrepreneurship Programs 2027",
+      "ka": "LaunchX-ის საზაფხულო მეწარმეობის პროგრამები 2027"
+    },
+    "country": {
+      "en": "United States",
+      "ka": "აშშ"
+    },
+    "city": "Ann Arbor, Michigan",
+    "iso": "US",
+    "flag": "🇺🇸",
+    "region": "americas",
+    "lat": 42.28,
+    "lon": -83.74,
+    "cost": "paid",
+    "duration": {
+      "en": "4 weeks in person or 5 weeks online (summer 2027)",
+      "ka": "4 კვირა პირისპირ ან 5 კვირა ონლაინ (2027 წლის ზაფხული)"
+    },
+    "grades": "14-18",
+    "deadline": "2026-11-11",
+    "deadline_note": "official: Priority deadline 11 Nov 2026; Early 21 Jan 2027; Financial Award 4 Mar 2027; Final 31 Mar 2027 (programmes may fill earlier)",
+    "summary": {
+      "en": "LaunchX runs selective summer programmes where high school students start real companies, either on campus in Ann Arbor, Michigan or online. About 30% of applicants are admitted to the flagship programmes.",
+      "ka": "LaunchX ატარებს შერჩევით საზაფხულო პროგრამებს, სადაც მოსწავლეები რეალურ კომპანიებს აფუძნებენ, ან პირისპირ, ენ-არბორში (მიჩიგანი), ან ონლაინ. ძირითად პროგრამებზე განმცხადებლების დაახლოებით 30% იღებენ."
+    },
+    "highlights": {
+      "en": [
+        "In person: US$13,495 including housing and food; online from US$2,495",
+        "Financial awards for students who apply by 4 March 2027",
+        "Application fee rises from US$50 to US$100 with later deadlines"
+      ],
+      "ka": [
+        "პირისპირ: 13 495 აშშ დოლარი (საცხოვრებლითა და კვებით); ონლაინ: 2 495 დოლარიდან",
+        "ფინანსური დახმარება მათთვის, ვინც 2027 წლის 4 მარტამდე მიმართავს",
+        "განაცხადის საფასური გვიანდელ ვადებზე 50-დან 100 დოლარამდე იზრდება"
+      ]
+    },
+    "eligibility": {
+      "en": "High school students aged 14-18. The online programme is open to students from anywhere, and international in-person students pay US$250 extra for insurance, so Georgian and Qatari students can apply.",
+      "ka": "14-18 წლის მოსწავლეები. ონლაინ პროგრამა ნებისმიერი ქვეყნის მოსწავლეებისთვის ღიაა, ხოლო უცხოელი მონაწილეები პირისპირ პროგრამაზე დაზღვევისთვის დამატებით 250 დოლარს იხდიან. შესაბამისად, ქართველ და კატარელ მოსწავლეებს განაცხადის შეტანა შეუძლიათ."
+    },
+    "url": "https://www.launchx.com/",
+    "sources": [
+      "https://www.launchx.com/",
+      "https://www.launchx.com/admissions",
+      "https://www.launchx.com/admissions/cost"
+    ],
+    "score": 6,
+    "score_reason": "Strong hands-on programme with a deadline soon, but expensive unless you get a financial award."
+  },
+  {
+    "premium": false,
+    "opens": null,
+    "id": "eo-gsea",
+    "family": "competition",
+    "type": "competition",
+    "org": "Entrepreneurs' Organization (EO)",
+    "name": {
+      "en": "Global Student Entrepreneur Awards (GSEA)",
+      "ka": "სტუდენტი მეწარმეების გლობალური ჯილდო (GSEA)"
+    },
+    "country": {
+      "en": "Global",
+      "ka": "გლობალური"
+    },
+    "city": "Multiple",
+    "iso": "WW",
+    "flag": "🌍",
+    "region": "global",
+    "lat": 38.8,
+    "lon": -77.05,
+    "cost": "free",
+    "duration": {
+      "en": "Local rounds Aug 2026 to 2027; global finals usually in June",
+      "ka": "ადგილობრივი ეტაპები 2026 წლის აგვისტოდან 2027 წლამდე; გლობალური ფინალი ჩვეულებრივ ივნისშია"
+    },
+    "grades": "university",
+    "deadline": null,
+    "deadline_note": "Deadlines vary by local competition and are shown when you choose a competition in the application. Applicants from unlisted countries choose 'Other'.",
+    "summary": {
+      "en": "GSEA is EO's competition for university and college students who own and run a business while studying. Winners of local rounds advance toward the global finals.",
+      "ka": "GSEA არის EO-ს კონკურსი უნივერსიტეტისა და კოლეჯის სტუდენტებისთვის, რომლებიც სწავლის პარალელურად საკუთარ ბიზნესს მართავენ. ადგილობრივი ეტაპების გამარჯვებულები გლობალური ფინალისკენ მიიწევენ."
+    },
+    "highlights": {
+      "en": [
+        "Share of US$100,000 in cash prizes",
+        "Reached 39 countries",
+        "Students without a local round can apply via the 'Other' option"
+      ],
+      "ka": [
+        "100 000 აშშ დოლარის ფულადი პრიზების გაყოფის შესაძლებლობა",
+        "წარმოდგენილია 39 ქვეყანაში",
+        "თუ შენს ქვეყანაში ადგილობრივი ეტაპი არ ტარდება, მიმართე „Other“ ვარიანტით"
+      ]
+    },
+    "eligibility": {
+      "en": "University or college students who own and operate a business while enrolled. It is not a business-plan contest, so you need a running company. There are no nationality limits; Georgian and Qatari students without a local chapter round can apply through 'Other - My Country/City is not listed'.",
+      "ka": "უნივერსიტეტის ან კოლეჯის სტუდენტები, რომლებიც სწავლის პარალელურად საკუთარ ბიზნესს ფლობენ და მართავენ. ეს ბიზნეს-გეგმის კონკურსი არ არის, ამიტომ მოქმედი კომპანია გჭირდება. მოქალაქეობის შეზღუდვა არ არის; ქართველ და კატარელ სტუდენტებს, თუ ადგილობრივი ეტაპი არ აქვთ, შეუძლიათ მიმართონ ვარიანტით „Other - My Country/City is not listed“."
+    },
+    "url": "https://eonetwork.org/gsea/",
+    "sources": [
+      "https://eonetwork.org/gsea/",
+      "https://eonetwork.org/gsea/apply"
+    ],
+    "score": 6,
+    "score_reason": "Good cash prizes and investor exposure, but only for students who already run a revenue-generating business."
+  },
+  {
+    "premium": false,
+    "opens": null,
+    "id": "entrepreneurs-first",
+    "family": "startup",
+    "type": "accelerator",
+    "org": "Entrepreneurs First (EF)",
+    "name": {
+      "en": "Entrepreneurs First (FORM + LAUNCH)",
+      "ka": "Entrepreneurs First (FORM + LAUNCH)"
+    },
+    "country": {
+      "en": "United Kingdom",
+      "ka": "გაერთიანებული სამეფო"
+    },
+    "city": "London",
+    "iso": "GB",
+    "flag": "🇬🇧",
+    "region": "europe",
+    "lat": 51.51,
+    "lon": -0.13,
+    "cost": "funded",
+    "duration": {
+      "en": "12-week FORM programme in a local hub plus 12-week LAUNCH in San Francisco",
+      "ka": "12-კვირიანი FORM პროგრამა ადგილობრივ ჰაბში და 12-კვირიანი LAUNCH სან-ფრანცისკოში"
+    },
+    "grades": "founders (individuals, no team or idea needed)",
+    "deadline": null,
+    "deadline_note": "rolling: applications reviewed on a rolling basis",
+    "summary": {
+      "en": "Entrepreneurs First is a 'talent investor' that backs individuals before they have a co-founder or idea. Founders meet co-founders in hubs in London, Bangalore or San Francisco, then teams that pass the investment committee move to San Francisco.",
+      "ka": "Entrepreneurs First „ტალანტის ინვესტორია“, რომელიც ადამიანებს თანადამფუძნებლის ან იდეის გაჩენამდე უჭერს მხარს. დამფუძნებლები თანადამფუძნებლებს ლონდონის, ბანგალორის ან სან-ფრანცისკოს ჰაბებში პოულობენ, ხოლო საინვესტიციო კომიტეტის გავლის შემდეგ გუნდები სან-ფრანცისკოში გადადიან."
+    },
+    "highlights": {
+      "en": [
+        "Equity-free 'Talent Investment' grant to cover living costs",
+        "Up to US$250,000 equity investment, with visa and relocation support",
+        "Over US$600,000 in partner credits"
+      ],
+      "ka": [
+        "წილის გარეშე „ტალანტის ინვესტიცია“ (გრანტი) საცხოვრებელი ხარჯების დასაფარად",
+        "250 000 აშშ დოლარამდე ინვესტიცია; ვიზისა და გადასვლის მხარდაჭერა",
+        "600 000 დოლარზე მეტი ღირებულების პარტნიორული კრედიტები"
+      ]
+    },
+    "eligibility": {
+      "en": "Exceptional individuals who have built products, organisations or startups and want to build a company in the US. Applying with a small grant or investment already raised is fine. No nationality restriction is stated, and visa support is provided, so Georgian and Qatari founders can apply.",
+      "ka": "გამორჩეული ადამიანები, რომლებსაც უკვე შექმნილი აქვთ პროდუქტი, ორგანიზაცია ან სტარტაპი და აშშ-ში კომპანიის აშენება სურთ. მიმართვა შეიძლება მცირე გრანტის ან ინვესტიციის მიღების შემდეგაც. მოქალაქეობის შეზღუდვა მითითებული არ არის და ვიზის მხარდაჭერა გათვალისწინებულია, ამიტომ ქართველ და კატარელ დამფუძნებლებს მიმართვა შეუძლიათ."
+    },
+    "url": "https://www.joinef.com/",
+    "sources": [
+      "https://www.joinef.com/",
+      "https://www.joinef.com/faqs/"
+    ],
+    "score": 6,
+    "score_reason": "Generous funding for solo founders, but aimed at experienced graduates and young professionals rather than students."
+  },
+  {
+    "premium": false,
+    "opens": null,
+    "id": "hack-club",
+    "family": "competition",
+    "type": "youth",
+    "org": "Hack Club",
+    "name": {
+      "en": "Hack Club (clubs, hackathons & HCB)",
+      "ka": "Hack Club (კლუბები, ჰაკათონები და HCB)"
+    },
+    "country": {
+      "en": "Online",
+      "ka": "ონლაინ"
+    },
+    "city": "Online / Multiple",
+    "iso": "WW",
+    "flag": "🌍",
+    "region": "global",
+    "lat": 44.38,
+    "lon": -73.23,
+    "cost": "free",
+    "duration": {
+      "en": "Ongoing; events last a weekend to several days",
+      "ka": "მუდმივი; ღონისძიებები შაბათ-კვირიდან რამდენიმე დღემდე გრძელდება"
+    },
+    "grades": "13-18",
+    "deadline": null,
+    "deadline_note": "rolling: clubs and events open year-round; check each event page for dates",
+    "summary": {
+      "en": "Hack Club is a US nonprofit network of teenagers who build projects, with more than 1,500 in-person clubs at high schools worldwide. It runs free hackathons and game jams such as Daydream (100 game jams in 100 cities) and Undercity at GitHub HQ.",
+      "ka": "Hack Club არის აშშ-ის არაკომერციული ქსელი თინეიჯერებისთვის, რომლებიც საკუთარ პროექტებს ქმნიან. მსოფლიოს სკოლებში 1 500-ზე მეტი კლუბი მოქმედებს. ის ატარებს უფასო ჰაკათონებს და გეიმ-ჯემებს, მაგალითად Daydream (100 გეიმ-ჯემი 100 ქალაქში) და Undercity GitHub-ის სათაო ოფისში."
+    },
+    "highlights": {
+      "en": [
+        "Free events open to any teen worldwide",
+        "Start a Hack Club at your own school",
+        "HCB helps teen-led teams accept donations and manage money under a 501(c)(3)"
+      ],
+      "ka": [
+        "უფასო ღონისძიებები მსოფლიოს ნებისმიერი თინეიჯერისთვის",
+        "შეგიძლია საკუთარ სკოლაში Hack Club დააარსო",
+        "HCB თინეიჯერების გუნდებს შემოწირულობების მიღებასა და ფინანსების მართვაში ეხმარება 501(c)(3) სტატუსით"
+      ]
+    },
+    "eligibility": {
+      "en": "Teenagers aged 13-18 anywhere in the world, including Georgia and Qatar. Some in-person events are in specific cities, so check each event's details.",
+      "ka": "13-18 წლის თინეიჯერები მსოფლიოს ნებისმიერი ქვეყნიდან, მათ შორის საქართველოდან და კატარიდან. ზოგი ღონისძიება კონკრეტულ ქალაქში პირისპირ ტარდება, ამიტომ თითოეულის დეტალები გადაამოწმე."
+    },
+    "url": "https://hackclub.com/",
+    "sources": [
+      "https://hackclub.com/"
+    ],
+    "score": 7,
+    "score_reason": "Free and open to every teen worldwide; a great on-ramp to hackathons and building with peers."
+  },
+  {
+    "premium": false,
+    "opens": "2026-08-26",
+    "id": "nasa-space-apps-tbilisi-2026",
+    "family": "competition",
+    "type": "competition",
+    "org": "NASA Space Apps Challenge (local event at Tech Park Georgia)",
+    "name": {
+      "en": "NASA Space Apps Challenge 2026: Tbilisi",
+      "ka": "NASA Space Apps Challenge 2026: თბილისი"
+    },
+    "country": {
+      "en": "Georgia",
+      "ka": "საქართველო"
+    },
+    "city": "Tbilisi",
+    "iso": "GE",
+    "flag": "🇬🇪",
+    "region": "europe",
+    "lat": 41.6914,
+    "lon": 44.8341,
+    "cost": "free",
+    "duration": {
+      "en": "2-day hackathon, 14-15 November 2026",
+      "ka": "2-დღიანი ჰაკათონი, 2026 წლის 14-15 ნოემბერი"
+    },
+    "grades": "open (students welcome)",
+    "deadline": null,
+    "deadline_note": "Registration is open now; the event runs 14-15 Nov 2026. No separate closing date is published, so register before the event.",
+    "summary": {
+      "en": "The NASA Space Apps Challenge is the world's largest annual global hackathon. Teams use NASA and partner space-agency data to solve real-world challenges. The Tbilisi local event is held in person at Tech Park Georgia (Innovation Street 7, Okrokana).",
+      "ka": "NASA Space Apps Challenge მსოფლიოში უდიდესი ყოველწლიური გლობალური ჰაკათონია, სადაც გუნდები NASA-სა და პარტნიორი კოსმოსური სააგენტოების მონაცემებით რეალურ პრობლემებს წყვეტენ. თბილისის ადგილობრივი ღონისძიება პირისპირ ტარდება ტექნოპარკ „საქართველოში“ (ინოვაციების ქ. 7, ოქროყანა)."
+    },
+    "highlights": {
+      "en": [
+        "Free, in-person, 14-15 November 2026",
+        "Work with real NASA open data",
+        "Top projects can be nominated for NASA Space Apps Global Awards"
+      ],
+      "ka": [
+        "უფასო, პირისპირ, 2026 წლის 14-15 ნოემბერი",
+        "მუშაობა NASA-ს რეალურ ღია მონაცემებზე",
+        "საუკეთესო პროექტები NASA Space Apps-ის გლობალურ ჯილდოებზე შეიძლება წარადგინონ"
+      ]
+    },
+    "eligibility": {
+      "en": "Anyone with an interest in space and science; no space background is required. Teams register on the official Space Apps site and select the Tbilisi local event. Ideal for Georgian school and university students.",
+      "ka": "ნებისმიერი, ვისაც კოსმოსი და მეცნიერება აინტერესებს; კოსმოსური გამოცდილება საჭირო არ არის. რეგისტრაცია ოფიციალურ Space Apps საიტზე ხდება, სადაც თბილისის ადგილობრივი ღონისძიება უნდა აირჩიო. იდეალურია ქართველი მოსწავლეებისა და სტუდენტებისთვის."
+    },
+    "url": "https://www.spaceappschallenge.org/2026/local-events/tbilisi/",
+    "sources": [
+      "https://www.spaceappschallenge.org/",
+      "https://www.spaceappschallenge.org/2026/local-events/tbilisi/"
+    ],
+    "score": 8,
+    "score_reason": "Free NASA-branded hackathon in Tbilisi in 3 weeks; very accessible for Georgian students."
+  },
+  {
+    "premium": false,
+    "opens": "2026-08-26",
+    "id": "nasa-space-apps-doha-2026",
+    "family": "competition",
+    "type": "competition",
+    "org": "NASA Space Apps Challenge (local event at QSTP)",
+    "name": {
+      "en": "NASA Space Apps Challenge 2026: Doha",
+      "ka": "NASA Space Apps Challenge 2026: დოჰა"
+    },
+    "country": {
+      "en": "Qatar",
+      "ka": "კატარი"
+    },
+    "city": "Doha",
+    "iso": "QA",
+    "flag": "🇶🇦",
+    "region": "middle-east",
+    "lat": 25.317,
+    "lon": 51.437,
+    "cost": "free",
+    "duration": {
+      "en": "2-day hackathon, 14-15 November 2026",
+      "ka": "2-დღიანი ჰაკათონი, 2026 წლის 14-15 ნოემბერი"
+    },
+    "grades": "university / 18+ (priority)",
+    "deadline": null,
+    "deadline_note": "The event runs 14-15 Nov 2026. In-person places are full (80 registered) and new sign-ups join a waitlist.",
+    "summary": {
+      "en": "Doha is hosting its first NASA Space Apps Challenge, an in-person local edition of the world's largest annual hackathon, at QSTP. Over 48 hours, teams of students, developers and designers use real NASA data to build solutions.",
+      "ka": "დოჰა პირველად მასპინძლობს NASA Space Apps Challenge-ს, მსოფლიოში უდიდესი ყოველწლიური ჰაკათონის ადგილობრივ, პირისპირ გამოცემას QSTP-ში. 48 საათის განმავლობაში სტუდენტების, დეველოპერებისა და დიზაინერების გუნდები NASA-ს რეალური მონაცემებით ქმნიან გადაწყვეტილებებს."
+    },
+    "highlights": {
+      "en": [
+        "First-ever Doha edition, hosted at QSTP",
+        "Teams of 1-6; you can form a team at the event",
+        "Limited places; priority for university students and over-18s"
+      ],
+      "ka": [
+        "დოჰას პირველი გამოცემა QSTP-ში",
+        "გუნდი 1-6 წევრისგან; გუნდის შექმნა ადგილზეც შეიძლება",
+        "ადგილები შეზღუდულია; უპირატესობა ენიჭებათ სტუდენტებს და 18 წელს გადაცილებულებს"
+      ]
+    },
+    "eligibility": {
+      "en": "Open to anyone in Qatar interested in space and science; priority goes to university students and participants aged 18+. Register on the official Space Apps site (waitlist). Young people in Georgia should choose the Tbilisi event instead.",
+      "ka": "ღიაა კატარში მცხოვრები ნებისმიერი ადამიანისთვის, ვისაც კოსმოსი და მეცნიერება აინტერესებს; უპირატესობა ენიჭებათ სტუდენტებს და 18 წელს გადაცილებულ მონაწილეებს. რეგისტრაცია ოფიციალურ Space Apps საიტზე ხდება (მოლოდინის სია). საქართველოში მცხოვრებმა ახალგაზრდებმა თბილისის ღონისძიება უნდა აირჩიონ."
+    },
+    "url": "https://www.spaceappschallenge.org/2026/local-events/doha/",
+    "sources": [
+      "https://www.spaceappschallenge.org/",
+      "https://www.spaceappschallenge.org/2026/local-events/doha/"
+    ],
+    "score": 7,
+    "score_reason": "Free NASA hackathon in Doha's Education City, but already at capacity (waitlist only)."
+  },
+  {
+    "premium": false,
+    "opens": null,
+    "id": "gita-plug-and-play-georgia-accelerator",
+    "family": "startup",
+    "type": "accelerator",
+    "org": "GITA (Georgia's Innovation and Technology Agency) and Plug and Play",
+    "name": {
+      "en": "Plug and Play Georgia Accelerator: 2027 cohort (GITA Innovative Startup Acceleration Programme)",
+      "ka": "Plug and Play Georgia აქსელერატორი: 2027 წლის ნაკადი (სიტას ინოვაციური სტარტაპების აქსელერაციის პროგრამა)"
+    },
+    "country": {
+      "en": "Georgia",
+      "ka": "საქართველო"
+    },
+    "city": "Tbilisi",
+    "iso": "GE",
+    "flag": "🇬🇪",
+    "region": "europe",
+    "lat": 41.72,
+    "lon": 44.79,
+    "cost": "funded",
+    "duration": {
+      "en": "1 year in 3 phases (2 + 4 + 6 months)",
+      "ka": "1 წელი, 3 ფაზა (2 + 4 + 6 თვე)"
+    },
+    "grades": "founders (idea stage to early product)",
+    "deadline": "2026-12-11",
+    "deadline_note": "official: applications for the second cohort close 11 December 2026, 23:59 (GITA announcement of 6 Oct 2026)",
+    "summary": {
+      "en": "GITA fully funds a one-year acceleration programme run by Plug and Play. Startups get training and mentoring, build an MVP, and then prepare to enter global and regional markets. The working language is English.",
+      "ka": "საქართველოს ინოვაციებისა და ტექნოლოგიების სააგენტო (სიტა) სრულად აფინანსებს ერთწლიან აქსელერაციის პროგრამას, რომელსაც Plug and Play ახორციელებს. სტარტაპები გადიან ტრენინგსა და მენტორობას, ქმნიან MVP-ს და ემზადებიან გლობალურ და რეგიონულ ბაზრებზე გასასვლელად. სამუშაო ენა ინგლისურია."
+    },
+    "highlights": {
+      "en": [
+        "GEL 50,000 GITA grant per startup in the MVP phase",
+        "Further GEL 150,000 grant in the global-market phase",
+        "Access to Plug and Play's global network, including Silicon Valley"
+      ],
+      "ka": [
+        "MVP ფაზაში სიტას გრანტი 50 000 ლარი თითო სტარტაპზე",
+        "გლობალური ბაზრის ფაზაში დამატებით 150 000 ლარიანი გრანტი",
+        "წვდომა Plug and Play-ის გლობალურ ქსელზე, მათ შორის სილიკონის ველზე"
+      ]
+    },
+    "eligibility": {
+      "en": "Teams with an existing tech product, as well as founders at the idea or early-validation stage. Aimed at Georgia's startup ecosystem, so Georgian founders are the core audience. Foreign or Qatari founders should check the official guidelines, as nationality rules are not stated in the announcement.",
+      "ka": "გუნდები, რომლებსაც უკვე აქვთ ტექნოლოგიური პროდუქტი, და დამფუძნებლები, რომლებიც იდეის ან ადრეული ვალიდაციის ეტაპზე არიან. პროგრამა საქართველოს სტარტაპ-ეკოსისტემაზეა ორიენტირებული, ამიტომ მისი მთავარი აუდიტორია ქართველი დამფუძნებლები არიან. უცხოელმა (მათ შორის კატარელმა) დამფუძნებლებმა ოფიციალური სახელმძღვანელო უნდა გადაამოწმონ, რადგან განცხადებაში მოქალაქეობის წესები მითითებული არ არის."
+    },
+    "url": "https://gita.gov.ge/news/plug-and-play-m-akseleratsiis-meore-tslis-nakadistvis-ganatskhadebis-migheba-daitsqo-t5hIQtUGv",
+    "sources": [
+      "https://gita.gov.ge/news/plug-and-play-m-akseleratsiis-meore-tslis-nakadistvis-ganatskhadebis-migheba-daitsqo-t5hIQtUGv",
+      "https://gita.gov.ge/programs/inovatsiuri-startapebis-akseleratsiis-programa-0OgxZ-r3C",
+      "https://www.entrepreneur.com/ka/siakhleebi-da-tendentsiebi/plug-and-play-georgia-m-2027-tslis/505644"
+    ],
+    "score": 9,
+    "score_reason": "Up to GEL 200,000 in non-dilutive government grants for Georgian founders, with the deadline in 7 weeks."
+  },
+  {
+    "premium": false,
+    "opens": null,
+    "id": "gita-regional-pre-acceleration-2026",
+    "family": "startup",
+    "type": "accelerator",
+    "org": "GITA (Georgia's Innovation and Technology Agency)",
+    "name": {
+      "en": "GITA Regional Pre-Acceleration Programme 2026 (Imereti, Guria, Adjara)",
+      "ka": "სიტას რეგიონული პრე-აქსელერაციის პროგრამა 2026 (იმერეთი, გურია, აჭარა)"
+    },
+    "country": {
+      "en": "Georgia",
+      "ka": "საქართველო"
+    },
+    "city": "Kutaisi",
+    "iso": "GE",
+    "flag": "🇬🇪",
+    "region": "europe",
+    "lat": 42.27,
+    "lon": 42.7,
+    "cost": "free",
+    "duration": {
+      "en": "4-week intensive course (8 modules)",
+      "ka": "4-კვირიანი ინტენსიური კურსი (8 მოდული)"
+    },
+    "grades": "aspiring founders (regional residents)",
+    "deadline": null,
+    "deadline_note": "Applications opened 6 Oct 2026; no closing date is published on the GITA announcement.",
+    "summary": {
+      "en": "A GITA-funded four-week pre-acceleration course for innovative entrepreneurs and people interested in the startup ecosystem in western Georgia. Participants complete eight theoretical and practical modules with experienced mentors and individual support to develop their ideas.",
+      "ka": "სიტას მიერ დაფინანსებული ოთხკვირიანი პრე-აქსელერაციის კურსი დასავლეთ საქართველოს ინოვაციური მეწარმეებისა და სტარტაპ-ეკოსისტემით დაინტერესებული ადამიანებისთვის. მონაწილეები გადიან რვა თეორიულ და პრაქტიკულ მოდულს გამოცდილ მენტორებთან ერთად და იდეის განვითარებისთვის ინდივიდუალურ მხარდაჭერას იღებენ."
+    },
+    "highlights": {
+      "en": [
+        "Fully funded by GITA, free for participants",
+        "8 modules with experienced mentors",
+        "Individual support to develop your startup idea"
+      ],
+      "ka": [
+        "სრულად აფინანსებს სიტა, მონაწილეებისთვის უფასოა",
+        "8 მოდული გამოცდილ მენტორებთან ერთად",
+        "ინდივიდუალური მხარდაჭერა სტარტაპ-იდეის განსავითარებლად"
+      ]
+    },
+    "eligibility": {
+      "en": "Residents of the Imereti, Guria and Adjara regions of Georgia who are innovative entrepreneurs or interested in startups. Not open to Qatar-based applicants.",
+      "ka": "საქართველოს იმერეთის, გურიისა და აჭარის რეგიონების მცხოვრებლები, რომლებიც ინოვაციური მეწარმეები არიან ან სტარტაპებით ინტერესდებიან. კატარში მცხოვრებთათვის ღია არ არის."
+    },
+    "url": "https://gita.gov.ge/news/gita-s-regionuli-pre-akseleratsiis-programaze-ganatskhadebis-migheba-daitsqo-lQuldYd9S",
+    "sources": [
+      "https://gita.gov.ge/news/gita-s-regionuli-pre-akseleratsiis-programaze-ganatskhadebis-migheba-daitsqo-lQuldYd9S",
+      "https://gita.gov.ge/programs?filter=ongoing"
+    ],
+    "score": 6,
+    "score_reason": "Free first step into startups for young people in western Georgia; limited to regional residents."
+  },
+  {
+    "premium": false,
+    "opens": null,
+    "id": "gita-tech-spark-school-startup",
+    "family": "competition",
+    "type": "competition",
+    "org": "GITA (Georgia's Innovation and Technology Agency)",
+    "name": {
+      "en": "Tech sPark: National School Startup Competition",
+      "ka": "Tech sPark: სასკოლო სტარტაპ-კონკურსი"
+    },
+    "country": {
+      "en": "Georgia",
+      "ka": "საქართველო"
+    },
+    "city": "Multiple (nationwide)",
+    "iso": "GE",
+    "flag": "🇬🇪",
+    "region": "europe",
+    "lat": 41.72,
+    "lon": 44.79,
+    "cost": "free",
+    "duration": {
+      "en": "3 stages: municipal, regional, national demo day",
+      "ka": "3 ეტაპი: მუნიციპალური, რეგიონული, ეროვნული დემო დღე"
+    },
+    "grades": "15+ (school students)",
+    "deadline": null,
+    "deadline_note": "The GITA page lists registration closing 30 October (year not shown) and marks registration as closed. Check GITA for the current or next round.",
+    "summary": {
+      "en": "A nationwide GITA competition in which school teams develop startup ideas that tackle real challenges in education and present them in demo-day format. Schools compete for the title of 'Most Innovative and Technological School of the Year'.",
+      "ka": "სიტას ეროვნული კონკურსი, სადაც სასკოლო გუნდები განათლების რეალური გამოწვევების გადამჭრელ სტარტაპ-იდეებს ქმნიან და დემო დღის ფორმატში წარადგენენ. სკოლები იბრძვიან ტიტულისთვის „წლის ყველაზე ინოვაციური და ტექნოლოგიური სკოლა“."
+    },
+    "highlights": {
+      "en": [
+        "GEL 5,000 for the winning school, plus prizes for students",
+        "Open to all public and private schools in Georgia",
+        "Municipal, regional and national stages"
+      ],
+      "ka": [
+        "გამარჯვებულ სკოლას 5 000 ლარი, მოსწავლეებს კი სხვადასხვა საჩუქარი",
+        "ღიაა საქართველოს ყველა საჯარო და კერძო სკოლისთვის",
+        "მუნიციპალური, რეგიონული და ეროვნული ეტაპები"
+      ]
+    },
+    "eligibility": {
+      "en": "Teams of 3-5 students aged 15+ and one teacher (ideally STEAM) from any public or private school in Georgia. Georgian schools only; not open to Qatar-based students.",
+      "ka": "3-5 მოსწავლისგან (15 წლიდან) და ერთი მასწავლებლისგან (სასურველია STEAM საგნის) შემდგარი გუნდები საქართველოს ნებისმიერი საჯარო ან კერძო სკოლიდან. მხოლოდ საქართველოს სკოლებისთვის; კატარში მცხოვრები მოსწავლეებისთვის ღია არ არის."
+    },
+    "url": "https://gita.gov.ge/programs/tech-spark-saskolo-startap-konkursi-ydMbwmXu6",
+    "sources": [
+      "https://gita.gov.ge/programs/tech-spark-saskolo-startap-konkursi-ydMbwmXu6"
+    ],
+    "score": 6,
+    "score_reason": "Perfect fit for Georgian high schoolers, but registration currently shows as closed and no new date is published."
+  },
+  {
+    "premium": false,
+    "opens": null,
+    "id": "qstp-incubate-sprint",
+    "family": "startup",
+    "type": "accelerator",
+    "org": "Qatar Science & Technology Park (QSTP), Qatar Foundation",
+    "name": {
+      "en": "QSTP Incubate: Sprint + Incubation",
+      "ka": "QSTP Incubate: Sprint + ინკუბაცია"
+    },
+    "country": {
+      "en": "Qatar",
+      "ka": "კატარი"
+    },
+    "city": "Doha",
+    "iso": "QA",
+    "flag": "🇶🇦",
+    "region": "middle-east",
+    "lat": 25.317,
+    "lon": 51.437,
+    "cost": "free",
+    "duration": {
+      "en": "4-week in-person Sprint plus 8-week Incubation",
+      "ka": "4-კვირიანი პირისპირ Sprint და 8-კვირიანი ინკუბაცია"
+    },
+    "grades": "founders (prototype/MVP stage)",
+    "deadline": "2026-11-01",
+    "deadline_note": "official: rolling intake with cohort deadlines of 1 Nov (January cohort), 1 Mar (May cohort) and 1 Jul (September cohort)",
+    "summary": {
+      "en": "QSTP's incubation track starts with a four-week in-person Sprint in Doha, after which selected startups enter an eight-week Incubation programme. QSTP provides in-kind services in exchange for 1.5% equity on a deferred, SAFE-style basis.",
+      "ka": "QSTP-ის ინკუბაციის მიმართულება დოჰაში ოთხკვირიანი პირისპირ Sprint-ით იწყება, რის შემდეგაც შერჩეული სტარტაპები რვაკვირიან ინკუბაციის პროგრამაზე გადადიან. QSTP არაფულად მომსახურებას გასცემს 1.5% წილის სანაცვლოდ, გადავადებული, SAFE-ის მსგავსი მოდელით."
+    },
+    "highlights": {
+      "en": [
+        "Three cohorts a year (Jan, May, Sept)",
+        "1.5% equity for in-kind services (deferred SAFE-style)",
+        "Based in Education City, Doha, within Qatar Foundation"
+      ],
+      "ka": [
+        "წელიწადში სამი ნაკადი (იანვარი, მაისი, სექტემბერი)",
+        "1.5% წილი არაფულადი მომსახურების სანაცვლოდ (გადავადებული, SAFE-ის მსგავსი)",
+        "მდებარეობს დოჰაში, განათლების ქალაქში, კატარის ფონდის შემადგენლობაში"
+      ]
+    },
+    "eligibility": {
+      "en": "Local or international science and technology startups committed to R&D and product development at QSTP, with a capable team, a validated market need, a scalable model and a prototype or MVP. Qatari and international (including Georgian) founders can apply, but must work in person in Doha.",
+      "ka": "ადგილობრივი ან საერთაშორისო სამეცნიერო-ტექნოლოგიური სტარტაპები, რომლებიც QSTP-ში კვლევასა და პროდუქტის განვითარებაზე იმუშავებენ. საჭიროა ძლიერი გუნდი, დადასტურებული ბაზრის მოთხოვნა, მასშტაბირებადი მოდელი და პროტოტიპი ან MVP. მიმართვა შეუძლიათ კატარელ და უცხოელ (მათ შორის ქართველ) დამფუძნებლებს, თუმცა დოჰაში პირისპირ მუშაობა აუცილებელია."
+    },
+    "url": "https://qstp.qa/programs/incubate/",
+    "sources": [
+      "https://qstp.qa/programs/incubate/",
+      "https://qstp.qa/"
+    ],
+    "score": 7,
+    "score_reason": "Qatar's flagship tech incubator, open to international teams; the next cohort deadline is 1 Nov 2026."
+  },
+  {
+    "premium": false,
+    "opens": null,
+    "id": "qstp-nextgen-founders-hackathon-2026",
+    "family": "competition",
+    "type": "competition",
+    "org": "QSTP and Nestlé, with Earthna",
+    "name": {
+      "en": "NextGen Founders Hackathon 2026",
+      "ka": "NextGen Founders ჰაკათონი 2026"
+    },
+    "country": {
+      "en": "Qatar",
+      "ka": "კატარი"
+    },
+    "city": "Doha",
+    "iso": "QA",
+    "flag": "🇶🇦",
+    "region": "middle-east",
+    "lat": 25.317,
+    "lon": 51.437,
+    "cost": "free",
+    "duration": {
+      "en": "3 days, 5-7 November 2026",
+      "ka": "3 დღე, 2026 წლის 5-7 ნოემბერი"
+    },
+    "grades": "18-30",
+    "deadline": null,
+    "deadline_note": "Event 5-7 Nov 2026; registration via the QSTP form. No closing date is published.",
+    "summary": {
+      "en": "A three-day hackathon at Tech2, QSTP (Education City, Doha) where young builders develop tech-driven solutions to real sustainability challenges. It is organised by Nestlé and QSTP in collaboration with Earthna.",
+      "ka": "სამდღიანი ჰაკათონი QSTP-ის Tech2 შენობაში (განათლების ქალაქი, დოჰა), სადაც ახალგაზრდები მდგრადი განვითარების რეალური პრობლემების ტექნოლოგიურ გადაწყვეტებს ქმნიან. ორგანიზატორები არიან Nestlé და QSTP, Earthna-სთან თანამშრომლობით."
+    },
+    "highlights": {
+      "en": [
+        "Two tracks: Food System Resilience and Packaging Circularity",
+        "Hosted inside Qatar Science & Technology Park",
+        "Free registration"
+      ],
+      "ka": [
+        "ორი მიმართულება: სასურსათო სისტემის მდგრადობა და შეფუთვის ცირკულარულობა",
+        "ტარდება კატარის მეცნიერებისა და ტექნოლოგიების პარკში",
+        "რეგისტრაცია უფასოა"
+      ]
+    },
+    "eligibility": {
+      "en": "Young builders aged 18-30 in Qatar. Ideal for university students in Education City. Not practical for applicants based in Georgia.",
+      "ka": "კატარში მცხოვრები 18-30 წლის ახალგაზრდები. იდეალურია განათლების ქალაქის სტუდენტებისთვის. საქართველოში მცხოვრებთათვის პრაქტიკულად მიუწვდომელია."
+    },
+    "url": "https://qstp.qa/events/nextgen-founders-hackathon/",
+    "sources": [
+      "https://qstp.qa/events/nextgen-founders-hackathon/",
+      "https://qstp.qa/"
+    ],
+    "score": 7,
+    "score_reason": "Free startup hackathon in Doha in two weeks, backed by Nestlé and QSTP; prizes are not published."
+  },
+  {
+    "premium": false,
+    "opens": null,
+    "id": "web-summit-qatar-2027-startups",
+    "family": "startup",
+    "type": "accelerator",
+    "org": "Web Summit",
+    "name": {
+      "en": "Web Summit Qatar 2027: Startup Programme (ALPHA)",
+      "ka": "Web Summit Qatar 2027: სტარტაპ-პროგრამა (ALPHA)"
+    },
+    "country": {
+      "en": "Qatar",
+      "ka": "კატარი"
+    },
+    "city": "Doha",
+    "iso": "QA",
+    "flag": "🇶🇦",
+    "region": "middle-east",
+    "lat": 25.32,
+    "lon": 51.53,
+    "cost": "paid",
+    "duration": {
+      "en": "4-day event, 31 Jan - 3 Feb 2027",
+      "ka": "4-დღიანი ღონისძიება, 2027 წლის 31 იანვარი - 3 თებერვალი"
+    },
+    "grades": "early-stage founders",
+    "deadline": null,
+    "deadline_note": "Applications for 2027 are open on the official site; no closing date is published.",
+    "summary": {
+      "en": "Web Summit Qatar is a large tech conference in Doha. Startups apply to its startup programme, and early-stage companies are placed in the ALPHA category, which brings access to investor meetings, masterclasses, Mentor Hours and the PITCH competition.",
+      "ka": "Web Summit Qatar დოჰაში გამართული მსხვილი ტექნოლოგიური კონფერენციაა. სტარტაპები მის სტარტაპ-პროგრამაზე აგზავნიან განაცხადს, ხოლო ადრეული ეტაპის კომპანიები ALPHA კატეგორიაში ხვდებიან, რაც ინვესტორებთან შეხვედრებს, მასტერკლასებს, მენტორის საათებსა და PITCH კონკურსში მონაწილეობას გულისხმობს."
+    },
+    "highlights": {
+      "en": [
+        "Investor-to-startup meetings and Mentor Hours",
+        "ALPHA is for startups that are pre-investment or have raised under US$1 million",
+        "Held 31 Jan - 3 Feb 2027 in Doha"
+      ],
+      "ka": [
+        "ინვესტორებთან შეხვედრები და მენტორის საათები",
+        "ALPHA განკუთვნილია სტარტაპებისთვის, რომლებსაც ინვესტიცია ჯერ არ მიუღიათ ან 1 მილიონ აშშ დოლარზე ნაკლები აქვთ მოზიდული",
+        "ტარდება 2027 წლის 31 იანვრიდან 3 თებერვლამდე დოჰაში"
+      ]
+    },
+    "eligibility": {
+      "en": "Startups of any nationality, including Georgian and Qatari, can apply through the official form (a business email is required). Selected startups are placed in ALPHA, BETA or GROWTH. Participation involves a startup package; check the price on the official site.",
+      "ka": "ნებისმიერი ქვეყნის სტარტაპს, მათ შორის ქართულს და კატარულს, შეუძლია ოფიციალური ფორმით მიმართოს (საჭიროა სამსახურებრივი ელფოსტა). შერჩეული სტარტაპები ALPHA, BETA ან GROWTH კატეგორიაში ნაწილდებიან. მონაწილეობა სტარტაპ-პაკეტს გულისხმობს; ფასი ოფიციალურ საიტზე გადაამოწმე."
+    },
+    "url": "https://qatar.websummit.com/startups",
+    "sources": [
+      "https://qatar.websummit.com/startups",
+      "https://qatar.websummit.com/blog/startups-investors/startup-selection-alpha-beta-growth"
+    ],
+    "score": 6,
+    "score_reason": "Biggest investor-meeting event in the Gulf for young startups, but the package is paid and it is not a funding programme."
+  },
+  {
+    "premium": false,
+    "opens": null,
+    "id": "stars-of-science",
+    "family": "competition",
+    "type": "competition",
+    "org": "Qatar Foundation / QSTP",
+    "name": {
+      "en": "Stars of Science",
+      "ka": "მეცნიერების ვარსკვლავები (Stars of Science)"
+    },
+    "country": {
+      "en": "Qatar",
+      "ka": "კატარი"
+    },
+    "city": "Doha",
+    "iso": "QA",
+    "flag": "🇶🇦",
+    "region": "middle-east",
+    "lat": 25.317,
+    "lon": 51.437,
+    "cost": "funded",
+    "duration": {
+      "en": "TV season (filmed in Qatar)",
+      "ka": "სატელევიზიო სეზონი (იღება კატარში)"
+    },
+    "grades": "18-35",
+    "deadline": null,
+    "deadline_note": "Season 18 applications closed 26 June 2026 (extended to 10 July 2026). The next season's call is not yet published.",
+    "summary": {
+      "en": "Stars of Science is Qatar Foundation's pan-Arab 'edutainment' TV programme, in which Arab innovators develop products and compete. Season 18 focuses on venture-building in areas such as AI, gaming, robotics, climate and health-tech.",
+      "ka": "Stars of Science კატარის ფონდის პანარაბული საგანმანათლებლო-გასართობი სატელევიზიო პროგრამაა, სადაც არაბი ინოვატორები პროდუქტებს ქმნიან და ერთმანეთს ეჯიბრებიან. მე-18 სეზონი ორიენტირებულია კომპანიების შექმნაზე ისეთ სფეროებში, როგორიცაა ხელოვნური ინტელექტი, გეიმინგი, რობოტიკა, კლიმატი და ჯანდაცვის ტექნოლოგიები."
+    },
+    "highlights": {
+      "en": [
+        "Winner gets a fully supported venture-building experience in Qatar",
+        "Standout innovators pitch to VCs and angel investors",
+        "Route into the QSTP incubation programme"
+      ],
+      "ka": [
+        "გამარჯვებული კატარში კომპანიის შექმნის სრულად მხარდაჭერილ პროგრამას იღებს",
+        "გამორჩეული ინოვატორები ვენჩურულ ფონდებსა და ანგელოზ ინვესტორებს წარუდგენენ პროექტს",
+        "გზა QSTP-ის ინკუბაციის პროგრამისკენ"
+      ]
+    },
+    "eligibility": {
+      "en": "Applicants aged 18-35 from across the Arab world and the global Arab diaspora who speak Arabic. Qatari citizens and Arab residents of Qatar qualify. Georgian applicants are eligible only if they are part of the Arab diaspora.",
+      "ka": "18-35 წლის არაბულენოვანი კანდიდატები არაბული სამყაროდან და მსოფლიოს არაბული დიასპორიდან. კატარის მოქალაქეები და კატარში მცხოვრები არაბები უფლებამოსილნი არიან. ქართველ კანდიდატებს მონაწილეობა მხოლოდ მაშინ შეუძლიათ, თუ არაბულ დიასპორას მიეკუთვნებიან."
+    },
+    "url": "https://qstp.qa/community/stars-of-science/",
+    "sources": [
+      "https://qstp.qa/community/stars-of-science/",
+      "https://qna.org.qa/en/News-Area/News/2026-6/8/qstp-opens-applications-for-season-18-of-stars-of-science"
+    ],
+    "score": 6,
+    "score_reason": "High-profile and well funded for Arab innovators in Qatar, but the next season's call is not yet open and it is Arab-only."
+  }
+]

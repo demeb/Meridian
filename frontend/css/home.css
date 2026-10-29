@@ -1,0 +1,379 @@
+/* ============================================================
+   Meridian — home: intro sequence + hero
+   Motion follows the animate skill: transform/opacity/clip-path only,
+   strong ease-out for entrances, ease-in-out for the on-screen curtain,
+   CSS keyframes so the intro stays smooth while the page is still loading.
+   ============================================================ */
+
+/* ------------------------------------------------------------ INTRO
+   Timeline (≈4.2s, once per visit):
+     0.10s  star turns in from a quarter-turn back
+     0.50s  book pages open outward from the spine
+     1.05s  the name wipes in, left to right
+     1.35s  the meridian line draws under it
+     1.65s  "Education Without Borders" — held ~1.5s so it can be read
+     3.15s  stage lifts away, curtain rises off the page                  */
+.intro { display: none; }
+
+html.has-intro { overflow: hidden; }
+html.has-intro .intro {
+  position: fixed; inset: 0; z-index: 1000;
+  display: grid; place-items: center;
+  background:
+    radial-gradient(60% 50% at 50% 46%, #0c2a63 0%, rgba(12, 42, 99, 0) 70%),
+    #050d22;
+  animation: intro-curtain 900ms var(--ease-in-out) 3300ms both;
+  overflow: hidden;
+}
+/* Like educationaboveall.org: the motion arrives from a corner, not only the centre.
+   A gold glow travels in from bottom-left, meridian lines draw across from the same
+   corner, and the curtain closes away into the opposite corner. */
+.intro-orb {
+  position: absolute; left: 50%; top: 46%; width: 70vmax; height: 70vmax; margin: -35vmax 0 0 -35vmax;
+  border-radius: 50%; pointer-events: none;
+  background: radial-gradient(closest-side, rgba(255, 215, 110, 0.32), rgba(90, 168, 255, 0.12) 55%, transparent 72%);
+  animation: intro-orb 1500ms cubic-bezier(0.23, 1, 0.32, 1) 0ms both;
+}
+.intro-sweep { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+.intro-sweep .sw { fill: none; stroke-linecap: round; stroke-dasharray: 1; stroke-dashoffset: 1; }
+.intro-sweep .sw-1 { stroke: #ffd76e; stroke-width: 2.4; animation: intro-draw 1600ms cubic-bezier(0.23, 1, 0.32, 1) 150ms both; }
+.intro-sweep .sw-2 { stroke: #5aa8ff; stroke-width: 1.6; opacity: .75; animation: intro-draw 1700ms cubic-bezier(0.23, 1, 0.32, 1) 320ms both; }
+.intro-sweep .sw-3 { stroke: rgba(160, 200, 255, 0.55); stroke-width: 1.2; animation: intro-draw 1700ms cubic-bezier(0.23, 1, 0.32, 1) 480ms both; }
+[data-theme='light'] .intro-sweep .sw-2 { stroke: #0071bc; }
+[data-theme='light'] .intro-sweep .sw-3 { stroke: rgba(0, 113, 188, 0.4); }
+[data-theme='light'] .intro-orb { background: radial-gradient(closest-side, rgba(255, 200, 70, 0.35), rgba(41, 169, 224, 0.14) 55%, transparent 72%); }
+@keyframes intro-orb {
+  from { transform: translate(-62vw, 58vh) scale(0.35); opacity: 0; }
+  35%  { opacity: 1; }
+  to   { transform: none; opacity: 1; }
+}
+@keyframes intro-draw { to { stroke-dashoffset: 0; } }
+/* Light mode keeps the logo in its true colours on paper white */
+[data-theme='light'].has-intro .intro {
+  background: radial-gradient(60% 50% at 50% 46%, #ffffff 0%, #eef6ff 70%), #eef6ff;
+}
+html.has-intro .intro .brand-mark { --mark-deep: #3b9ae6; --mark-bright: #7fd3f7; }
+html.has-intro .intro .brand-word { --wordmark: #f3f8ff; }
+[data-theme='light'].has-intro .intro .brand-mark { --mark-deep: #0071bc; --mark-bright: #29a9e0; }
+[data-theme='light'].has-intro .intro .brand-word { --wordmark: #0071bc; }
+
+.intro-stage {
+  display: flex; flex-direction: column; align-items: center; gap: 22px;
+  animation: intro-stage-out 560ms var(--ease-out) 3150ms both;
+}
+.intro-mark { height: clamp(120px, 18vw, 176px); }
+.intro-mark .brand-star {
+  animation: intro-star 1100ms var(--ease-out) 100ms both;
+}
+.intro-mark .bm-book-dark  { animation: intro-book 900ms var(--ease-out) 500ms both; }
+.intro-mark .bm-book-light { animation: intro-book 900ms var(--ease-out) 620ms both; }
+.intro-word {
+  height: clamp(24px, 3.4vw, 34px);
+  animation: intro-wipe 820ms var(--ease-out) 1050ms both;
+}
+.intro-meridian {
+  width: clamp(180px, 26vw, 280px); height: 1px;
+  background: linear-gradient(90deg, transparent, #ffd76e 20%, #ffd76e 80%, transparent);
+  transform-origin: 50% 50%;
+  animation: intro-line 1000ms var(--ease-out) 1350ms both;
+}
+[data-theme='light'] .intro-meridian {
+  background: linear-gradient(90deg, transparent, #0071bc 20%, #29a9e0 80%, transparent);
+}
+.intro-line {
+  font-family: var(--font-body);
+  font-size: clamp(0.82rem, 0.7rem + 0.4vw, 1rem); font-weight: 600;
+  letter-spacing: 0.3em; text-transform: uppercase;
+  color: rgba(234, 241, 255, 0.88);
+  animation: intro-rise 700ms var(--ease-out) 1650ms both;
+}
+[data-theme='light'] .intro-line { color: #46608f; }
+
+.intro-skip {
+  position: absolute; right: 22px; bottom: 22px;
+  min-height: 40px; padding: 0 16px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.72);
+  font-size: 0.8rem; font-weight: 600;
+  animation: intro-rise 400ms var(--ease-out) 600ms both;
+  transition: color 160ms ease, border-color 160ms ease;
+}
+.intro-skip:hover { color: #fff; border-color: rgba(255, 255, 255, 0.5); }
+[data-theme='light'] .intro-skip { color: #46608f; border-color: rgba(13, 33, 72, 0.18); }
+
+/* Skipping jumps straight to a quicker exit */
+html.intro-skipping .intro { animation: intro-curtain 560ms var(--ease-in-out) 0ms both; }
+html.intro-skipping .intro-stage { animation: intro-stage-out 300ms var(--ease-out) 0ms both; }
+
+@keyframes intro-star {
+  from { transform: rotate(-90deg) scale(0.6); opacity: 0; }
+  60%  { opacity: 1; }
+  to   { transform: none; opacity: 1; }
+}
+@keyframes intro-book {
+  from { clip-path: inset(0 50% 0 50%); opacity: 0; }
+  to   { clip-path: inset(0 0 0 0); opacity: 1; }
+}
+@keyframes intro-wipe {
+  from { clip-path: inset(0 100% 0 0); }
+  to   { clip-path: inset(0 0 0 0); }
+}
+@keyframes intro-line {
+  from { transform: scaleX(0); opacity: 0; }
+  to   { transform: scaleX(1); opacity: 1; }
+}
+@keyframes intro-rise {
+  from { transform: translateY(10px); opacity: 0; }
+  to   { transform: none; opacity: 1; }
+}
+@keyframes intro-stage-out {
+  to { transform: translateY(-28px) scale(0.97); opacity: 0; }
+}
+@keyframes intro-curtain {
+  from { clip-path: circle(150% at 100% 0%); }
+  /* closes into the top-right corner; ends hidden even if JavaScript never runs */
+  to   { clip-path: circle(0% at 100% 0%); visibility: hidden; }
+}
+
+/* ------------------------------------------------------------ HERO */
+.hero2 {
+  position: relative;
+  min-height: 100svh;
+  margin-top: calc(-1 * var(--nav-h));     /* the sky runs up behind the nav */
+  padding-top: var(--nav-h);
+  display: flex; flex-direction: column; align-items: center;
+  overflow: hidden;
+  isolation: isolate;
+  --hero-start: 150ms;
+}
+html.has-intro .hero2 { --hero-start: 3700ms; }
+html.intro-skipping .hero2 { --hero-start: 380ms; }
+
+.hero2-sky {
+  position: absolute; inset: 0; z-index: -3;
+  background: var(--hero-sky);
+}
+/* A few faint stars — static, so the eye rests */
+[data-theme='dark'] .hero2-sky::after {
+  content: ''; position: absolute; inset: 0;
+  background-image:
+    radial-gradient(1px 1px at 12% 18%, rgba(255,255,255,.55), transparent 60%),
+    radial-gradient(1px 1px at 27% 9%, rgba(255,255,255,.35), transparent 60%),
+    radial-gradient(1.2px 1.2px at 41% 26%, rgba(255,255,255,.4), transparent 60%),
+    radial-gradient(1px 1px at 63% 12%, rgba(255,255,255,.5), transparent 60%),
+    radial-gradient(1.3px 1.3px at 78% 22%, rgba(255,255,255,.35), transparent 60%),
+    radial-gradient(1px 1px at 88% 8%, rgba(255,255,255,.45), transparent 60%),
+    radial-gradient(1px 1px at 6% 40%, rgba(255,255,255,.3), transparent 60%),
+    radial-gradient(1px 1px at 94% 38%, rgba(255,255,255,.3), transparent 60%),
+    radial-gradient(1px 1px at 53% 4%, rgba(255,255,255,.4), transparent 60%),
+    radial-gradient(1px 1px at 19% 31%, rgba(255,255,255,.25), transparent 60%);
+}
+
+/* The Earth: a large globe whose top arc forms the horizon */
+.hero2-earth {
+  position: absolute; z-index: -2;
+  left: 50%;
+  top: 70%;
+  width: max(1500px, 128vw);
+  aspect-ratio: 1 / 1;
+  transform: translateX(-50%);
+  opacity: 0;
+  animation: earth-rise 1600ms var(--ease-out) calc(var(--hero-start) - 250ms) both;
+}
+.hero2-earth canvas { display: block; }
+.hero2-earth.earth-fallback {
+  border-radius: 50%;
+  background: url(/assets/earth/earth-night.jpg) center 18% / 120% auto;
+  box-shadow: 0 0 120px 30px rgba(74, 155, 255, 0.35), inset 0 40px 80px rgba(255,255,255,.08);
+}
+[data-theme='light'] .hero2-earth.earth-fallback { background-image: url(/assets/earth/earth-blue-marble.jpg); }
+
+/* Soft light along the limb + a fade into the page below */
+.hero2-horizon {
+  position: absolute; inset: auto 0 0 0; z-index: -1;
+  height: 46%;
+  pointer-events: none;
+  background:
+    radial-gradient(70% 55% at 50% 100%, transparent 55%, rgba(4, 11, 29, 0) 56%),
+    linear-gradient(180deg, transparent 62%, var(--bg) 100%);
+}
+[data-theme='light'] .hero2-horizon {
+  background: linear-gradient(180deg, transparent 70%, var(--bg) 100%);
+}
+
+@keyframes earth-rise {
+  from { opacity: 0; transform: translate(-50%, 6%); }
+  to   { opacity: 1; transform: translate(-50%, 0); }
+}
+
+.hero2-content {
+  position: relative;
+  display: flex; flex-direction: column; align-items: center;
+  text-align: center;
+  padding-top: clamp(64px, 13vh, 150px);
+  padding-bottom: 2rem;
+}
+
+.hero2-title {
+  font-size: clamp(2.7rem, 1.4rem + 5.6vw, 6.4rem);
+  font-weight: 700;
+  line-height: 0.98;
+  letter-spacing: -0.035em;
+  color: var(--text-strong);
+  text-wrap: balance;
+}
+:lang(ka) .hero2-title { font-size: clamp(2.2rem, 1.1rem + 4.4vw, 5rem); letter-spacing: -0.01em; line-height: 1.08; }
+.hero2-line { display: block; }
+.hero2-accent { color: #9fd3ff; padding-bottom: 0.06em; }
+/* Each letter is coloured along the brand gradient by home.js — a clipped
+   background cannot follow letters that animate on their own layers. */
+.hero2-accent .ch { color: var(--c, inherit); }
+[data-theme='light'] .hero2-title { color: #061229; }
+[data-theme='light'] .hero2-accent { color: #0071bc; }
+
+/* Letter-by-letter reveal — the "typed" headline, words never break apart */
+.hero2-title .w { display: inline-block; white-space: nowrap; }
+.hero2-title .ch {
+  display: inline-block;
+  opacity: 0;
+  transform: translateY(0.32em);
+  filter: blur(6px);
+  animation: char-in 620ms var(--ease-out) both;
+  animation-delay: calc(var(--hero-start) + var(--i) * 34ms);
+}
+@keyframes char-in {
+  to { opacity: 1; transform: none; filter: blur(0); }
+}
+
+.hero2-sub,
+.hero2-search,
+.hero2-actions,
+.hero2-cue {
+  opacity: 0;
+  animation: hero-rise 700ms var(--ease-out) both;
+}
+.hero2-sub    { animation-delay: calc(var(--hero-start) + 620ms); }
+.hero2-search { animation-delay: calc(var(--hero-start) + 760ms); }
+.hero2-actions{ animation-delay: calc(var(--hero-start) + 880ms); }
+.hero2-cue    { animation-delay: calc(var(--hero-start) + 1400ms); }
+@keyframes hero-rise {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: none; }
+}
+
+.hero2-sub {
+  margin-top: 1.4rem;
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: clamp(1.15rem, 0.95rem + 0.8vw, 1.6rem);
+  color: var(--text-muted);
+  max-width: 34ch;
+}
+[data-theme='light'] .hero2-sub { color: #143a74; }
+
+.hero2-search {
+  width: min(100%, 620px);
+  margin-top: 2.2rem;
+}
+.hero2-actions {
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem;
+  margin-top: 1.4rem;
+}
+[data-theme='light'] .hero2-ghost {
+  --btn-bg: rgba(255, 255, 255, 0.7); --btn-bd: rgba(13, 33, 72, 0.14); color: #0d2148;
+}
+
+.hero2-cue {
+  position: absolute; left: 50%; bottom: 22px;
+  width: 44px; height: 44px; margin-left: -22px;
+  display: grid; place-items: center;
+  border-radius: 50%;
+  color: rgba(255, 255, 255, 0.78);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+}
+.hero2-cue svg { width: 20px; height: 20px; animation: cue-nudge 2.4s var(--ease-in-out) infinite; }
+@keyframes cue-nudge {
+  0%, 60%, 100% { transform: none; }
+  30% { transform: translateY(4px); }
+}
+
+/* ------------------------------------------------------------ reduced motion
+   Keep the fades (they aid comprehension), drop all movement. */
+@media (prefers-reduced-motion: reduce) {
+  .hero2-title .ch { transform: none; filter: none; animation: fade-only 300ms ease both; animation-delay: 0ms; }
+  .hero2-sub, .hero2-search, .hero2-actions, .hero2-cue, .hero2-earth { animation: fade-only 300ms ease both; }
+  .hero2-earth { transform: translateX(-50%); }
+  .hero2-cue svg { animation: none; }
+}
+@keyframes fade-only { from { opacity: 0; } to { opacity: 1; } }
+
+@media (max-width: 680px) {
+  .hero2-content { padding-top: 56px; }
+  .hero2-earth { top: 76%; width: 220vw; }
+  .hero2-search { margin-top: 1.6rem; }
+  .hero2-actions .btn { flex: 1 1 100%; }
+}
+
+/* After the curtain has gone the page scrolls again; has-intro stays on so the
+   hero's staggered delays are not recalculated mid-animation. */
+html.has-intro.intro-done { overflow: visible; }
+html.intro-done .intro { display: none !important; }
+
+/* ------------------------------------------------------------ hero, round 3
+   1. the Earth canvas fades in from above — no hard band where it starts
+   2. ribbons continue the arcs up behind the headline, same gold → sky palette
+   3. a slow aurora behind the headline so the hero is never static        */
+.hero2-earth {
+  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, #000 10%, #000 100%);
+          mask-image: linear-gradient(to bottom, transparent 0%, #000 10%, #000 100%);
+}
+.hero2-ribbons {
+  position: absolute; inset: 0; z-index: -2;
+  width: 100%; height: 100%;
+  pointer-events: none;
+  opacity: 0;
+  animation: hero-rise 1400ms var(--ease-out) calc(var(--hero-start) + 200ms) both;
+}
+.rb {
+  fill: none; stroke-width: 1.4; stroke-linecap: round;
+  stroke-dasharray: 260 1400;
+  animation: ribbon-flow 14s linear infinite;
+}
+.rb-2 { stroke-width: 1; animation-duration: 18s; animation-delay: -6s; }
+.rb-3 { stroke-width: 1.2; animation-duration: 16s; animation-delay: -3s; }
+.rb-4 { stroke-width: 0.9; animation-duration: 21s; animation-delay: -11s; }
+@keyframes ribbon-flow { from { stroke-dashoffset: 1660; } to { stroke-dashoffset: 0; } }
+[data-theme='light'] .hero2-ribbons { mix-blend-mode: screen; opacity: 0.9; }
+
+.hero2-content::before {
+  content: '';
+  position: absolute; z-index: -1;
+  left: 50%; top: 4%;
+  width: min(1100px, 120vw); height: 70%;
+  transform: translateX(-50%);
+  background:
+    radial-gradient(40% 50% at 30% 50%, rgba(47, 107, 255, 0.28), transparent 70%),
+    radial-gradient(35% 45% at 70% 40%, rgba(255, 215, 110, 0.12), transparent 70%),
+    radial-gradient(45% 55% at 55% 70%, rgba(124, 196, 255, 0.16), transparent 70%);
+  filter: blur(30px);
+  animation: aurora 16s ease-in-out infinite alternate;
+  pointer-events: none;
+}
+[data-theme='light'] .hero2-content::before {
+  background:
+    radial-gradient(40% 50% at 30% 50%, rgba(255, 255, 255, 0.7), transparent 70%),
+    radial-gradient(35% 45% at 70% 40%, rgba(255, 224, 138, 0.35), transparent 70%),
+    radial-gradient(45% 55% at 55% 70%, rgba(140, 198, 255, 0.5), transparent 70%);
+}
+@keyframes aurora {
+  0%   { transform: translateX(-50%) scale(1) rotate(0deg); }
+  50%  { transform: translateX(-46%) scale(1.08) rotate(2deg); }
+  100% { transform: translateX(-54%) scale(0.96) rotate(-2deg); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .rb, .hero2-content::before { animation: none; }
+}
+
+

@@ -1,0 +1,859 @@
+[
+  {
+    "id": "tum-bachelor",
+    "family": "university",
+    "type": "university",
+    "org": "Technical University of Munich",
+    "name": {
+      "en": "TUM — Bachelor's Degrees",
+      "ka": "TUM — ბაკალავრიატი"
+    },
+    "country": {
+      "en": "Germany",
+      "ka": "გერმანია"
+    },
+    "city": "Munich",
+    "iso": "DE",
+    "flag": "🇩🇪",
+    "region": "europe",
+    "lat": 48.149,
+    "lon": 11.568,
+    "cost": "paid",
+    "duration": {
+      "en": "3 years",
+      "ka": "3 წელი"
+    },
+    "grades": "12",
+    "opens": null,
+    "deadline": null,
+    "summary": {
+      "en": "One of Europe's strongest engineering universities. Non-EU students, including Georgians, pay €2,000–3,000 per semester (rising to €2,300–3,400 from winter 2027/28), with fee waivers and scholarships available on application.",
+      "ka": "ევროპის ერთ-ერთი უძლიერესი საინჟინრო უნივერსიტეტი. ევროკავშირის გარეთა სტუდენტები, მათ შორის ქართველები, იხდიან €2,000–3,000-ს სემესტრში (2027/28 ზამთრიდან €2,300–3,400), განაცხადით შესაძლებელია შეღავათი და სტიპენდია."
+    },
+    "highlights": {
+      "en": [
+        "Several bachelor's programmes taught fully in English",
+        "Check your certificate on DAAD/anabin — some foreign certificates need a foundation year",
+        "A semester contribution is paid on top of tuition"
+      ],
+      "ka": [
+        "რამდენიმე ბაკალავრიატის პროგრამა სრულად ინგლისურ ენაზე",
+        "ატესტატი გადაამოწმე DAAD/anabin-ზე — ზოგ უცხოურ ატესტატს მოსამზადებელი წელი სჭირდება",
+        "სწავლის საფასურს ემატება სემესტრული შენატანი"
+      ]
+    },
+    "eligibility": {
+      "en": "Recognised secondary certificate plus the required German or English proficiency.",
+      "ka": "აღიარებული საშუალო განათლების ატესტატი და საჭირო გერმანულის ან ინგლისურის დონე."
+    },
+    "url": "https://www.tum.de/en/studies/application/bachelor/application-bachelor",
+    "premium": true,
+    "sources": [
+      "https://www.tum.de/en/studies/fees/tuition",
+      "https://www.tum.de/en/studies/application/bachelor/application-bachelor",
+      "https://www.tum.de/en/studies/application/application-info-portal/dates-periods-and-deadlines",
+      "https://www.tum.de/en/studies/application/other-forms-of-study/preparatory-study-at-the-studienkolleg"
+    ],
+    "verified_at": "2026-10-23",
+    "deadline_note": "Programme-specific. For the winter semester, international applicants need uni-assist documents before 15 July.",
+    "archived_at": "2026-10-26T15:43:40Z",
+    "archived_reason": "moved to the universities section"
+  },
+  {
+    "id": "sciencespo-dualbA",
+    "family": "university",
+    "type": "university",
+    "org": "Sciences Po",
+    "name": {
+      "en": "Sciences Po Undergraduate College",
+      "ka": "Sciences Po-ს საბაკალავრო კოლეჯი"
+    },
+    "country": {
+      "en": "France",
+      "ka": "საფრანგეთი"
+    },
+    "city": "Paris & regional campuses",
+    "iso": "FR",
+    "flag": "🇫🇷",
+    "region": "europe",
+    "lat": 48.854,
+    "lon": 2.329,
+    "cost": "paid",
+    "duration": {
+      "en": "3 years",
+      "ka": "3 წელი"
+    },
+    "grades": "12",
+    "opens": null,
+    "deadline": "2027-03-01",
+    "summary": {
+      "en": "A three-year social sciences degree, two years in France and one abroad, with dual-degree routes to 11 partners including Columbia, Berkeley, UCL and Keio. Non-EU students pay a fixed €14,900 a year.",
+      "ka": "სამწლიანი სოციალური მეცნიერებების ხარისხი — ორი წელი საფრანგეთში, ერთი საზღვარგარეთ, ორმაგი ხარისხის გზებით 11 პარტნიორთან, მათ შორის კოლუმბია, ბერკლი, UCL და კეიო. ევროკავშირის გარეთა სტუდენტები იხდიან ფიქსირებულ €14,900-ს წელიწადში."
+    },
+    "highlights": {
+      "en": [
+        "Non-EU students pay a fixed €14,900 a year (2026–27)",
+        "Dual degrees with 11 partners including Columbia, Berkeley, UCL and Keio",
+        "Interview-based admission rewards a clear personal story"
+      ],
+      "ka": [
+        "ევროკავშირის გარეთა სტუდენტები იხდიან ფიქსირებულ €14,900-ს წელიწადში (2026–27)",
+        "ორმაგი ხარისხი 11 პარტნიორთან, მათ შორის კოლუმბია, ბერკლი, UCL და კეიო",
+        "ინტერვიუზე დაფუძნებული მიღება აფასებს მკაფიო პიროვნულ ისტორიას"
+      ]
+    },
+    "eligibility": {
+      "en": "Students sitting final school exams this year (recent graduates by exception). One application, followed by an oral exam before a jury.",
+      "ka": "მოსწავლეები, რომლებიც წელს აბარებენ სკოლის გამოსაშვებ გამოცდებს (ახალი კურსდამთავრებულები გამონაკლისის სახით). ერთი განაცხადი და ზეპირი გამოცდა ჟიურის წინაშე."
+    },
+    "url": "https://www.sciencespo.fr/en/admissions-and-financial-aid/undergraduate-studies/",
+    "premium": true,
+    "sources": [
+      "https://www.sciencespo.fr/en/admissions-and-financial-aid/undergraduate-studies/",
+      "https://www.sciencespo.fr/en/news/candidates-all-you-need-to-know-about-undergraduate-admissions-through-the-international-admiss/",
+      "https://www.sciencespo.fr/en/admissions-and-financial-aid/tuition-fees/",
+      "https://www.sciencespo.fr/college/en/academics/dual-bachelor-degrees/",
+      "https://www.sciencespo.fr/en/academics/undergraduate-college/"
+    ],
+    "verified_at": "2026-10-23",
+    "deadline_note": "International admissions for September 2027 close 1 Mar 2027, 11:59 pm Paris time.",
+    "archived_at": "2026-10-26T15:43:40Z",
+    "archived_reason": "moved to the universities section"
+  },
+  {
+    "id": "minerva-university",
+    "family": "university",
+    "type": "university",
+    "org": "Minerva University",
+    "name": {
+      "en": "Minerva University — Four Years, Four Cities",
+      "ka": "მინერვა — ოთხი წელი, ოთხი ქალაქი"
+    },
+    "country": {
+      "en": "United States",
+      "ka": "აშშ"
+    },
+    "city": "San Francisco + 6 cities",
+    "iso": "US",
+    "flag": "🇺🇸",
+    "region": "americas",
+    "lat": 37.786,
+    "lon": -122.41,
+    "cost": "scholarship",
+    "duration": {
+      "en": "4 years",
+      "ka": "4 წელი"
+    },
+    "grades": "12",
+    "opens": null,
+    "deadline": "2026-11-01",
+    "summary": {
+      "en": "A four-year degree lived in San Francisco, Tokyo, Buenos Aires and a European city such as Berlin. No standardised tests and no application fee; financial aid is open to every citizenship but limited.",
+      "ka": "ოთხწლიანი ხარისხი სან-ფრანცისკოში, ტოკიოში, ბუენოს-აირესში და ევროპულ ქალაქში, მაგალითად ბერლინში. სტანდარტიზებული ტესტები და განაცხადის საფასური არ არის; ფინანსური დახმარება ღიაა ყველა მოქალაქეობისთვის, მაგრამ შეზღუდულია."
+    },
+    "highlights": {
+      "en": [
+        "No standardised test scores required",
+        "Financial aid open to every citizenship — funding is limited, so apply early",
+        "No application fee"
+      ],
+      "ka": [
+        "სტანდარტიზებული ტესტის ქულები არ მოითხოვება",
+        "ფინანსური დახმარება ღიაა ყველა მოქალაქეობისთვის — თანხა შეზღუდულია, ამიტომ ადრე მიმართე",
+        "განაცხადის საფასური არ არის"
+      ]
+    },
+    "eligibility": {
+      "en": "Secondary school completion by enrolment; strong English.",
+      "ka": "საშუალო სკოლის დასრულება ჩარიცხვისთვის; ძლიერი ინგლისური."
+    },
+    "url": "https://www.minerva.edu/undergraduate/admissions",
+    "premium": false,
+    "sources": [
+      "https://www.minerva.edu/undergraduate-program/admissions/",
+      "https://www.minerva.edu/undergraduate/",
+      "https://www.minerva.edu/faqs"
+    ],
+    "verified_at": "2026-10-23",
+    "deadline_note": "Early action 1 Nov 2026, Regular I 5 Jan 2027, Regular II 2 Mar 2027. Financial aid deadlines fall one week later.",
+    "archived_at": "2026-10-26T15:43:40Z",
+    "archived_reason": "moved to the universities section"
+  },
+  {
+    "id": "nyu-abu-dhabi",
+    "family": "university",
+    "type": "university",
+    "org": "New York University Abu Dhabi",
+    "name": {
+      "en": "NYU Abu Dhabi — Undergraduate with Need-Based Aid",
+      "ka": "NYU აბუ-დაბი — ბაკალავრიატი საჭიროებაზე დაფუძნებული დახმარებით"
+    },
+    "country": {
+      "en": "United Arab Emirates",
+      "ka": "არაბთა გაერთიანებული საამიროები"
+    },
+    "city": "Abu Dhabi",
+    "iso": "AE",
+    "flag": "🇦🇪",
+    "region": "middle-east",
+    "lat": 24.524,
+    "lon": 54.434,
+    "cost": "scholarship",
+    "duration": {
+      "en": "4 years",
+      "ka": "4 წელი"
+    },
+    "grades": "12",
+    "opens": null,
+    "deadline": "2026-11-01",
+    "deadline_note": "official — Early Decision I 1 Nov 2026; Early Decision II 1 Jan 2027; Regular Decision 5 Jan 2027 (11:59 pm EST); CSS Profile due 10 Nov / 10 Jan / 1 Feb",
+    "summary": {
+      "en": "NYU's liberal-arts and sciences campus on Saadiyat Island, Abu Dhabi, with students from over a hundred countries and study-away options across the NYU global network. Financial aid is open to students of every nationality and, for non-Emiratis, is based on demonstrated need.",
+      "ka": "NYU-ს ლიბერალური ხელოვნებისა და მეცნიერებების კამპუსი აბუ-დაბის სადიიატის კუნძულზე, ასზე მეტი ქვეყნის სტუდენტებით და NYU-ს გლობალურ ქსელში სასწავლო მობილობის შესაძლებლობით. ფინანსური დახმარება ხელმისაწვდომია ყველა ქვეყნის მოქალაქისთვის და არა-ემირატელებისთვის საჭიროებას ეფუძნება."
+    },
+    "highlights": {
+      "en": [
+        "Need-based aid open to all citizenships (CSS Profile)",
+        "Selected finalists attend a Candidate Weekend in Abu Dhabi",
+        "Test-optional through the 2027-28 cycle; Common App, fee waivers available"
+      ],
+      "ka": [
+        "საჭიროებაზე დაფუძნებული დახმარება ყველა მოქალაქეობისთვის (CSS Profile)",
+        "ფინალისტები იწვევიან აბუ-დაბიში კანდიდატთა შაბათ-კვირაზე",
+        "2027-28 ციკლში ტესტები არასავალდებულოა; Common App, შესაძლებელია საფასურის გაუქმება"
+      ]
+    },
+    "eligibility": {
+      "en": "Secondary-school students of any nationality applying for first-year entry; Georgian and Qatari students are eligible and can apply for need-based financial aid.",
+      "ka": "ნებისმიერი ქვეყნის სკოლის მოსწავლეები, რომლებიც პირველ კურსზე აბარებენ; ქართველ და კატარელ მოსწავლეებს შეუძლიათ განაცხადის გაკეთება და საჭიროებაზე დაფუძნებული დახმარების მოთხოვნა."
+    },
+    "url": "https://nyuad.nyu.edu/en/apply/undergraduate/apply/key-dates-and-deadlines.html",
+    "sources": [
+      "https://nyuad.nyu.edu/en/apply/undergraduate/apply/key-dates-and-deadlines.html",
+      "https://nyuad.nyu.edu/en/apply/undergraduate/scholarships-and-financial-aid.html"
+    ],
+    "premium": false,
+    "score": 9,
+    "score_reason": "Top global liberal-arts campus with need-based aid for all nationalities; ED I in 9 days.",
+    "found_by": "undergrad/postgrad",
+    "found_at": "2026-10-23T12:00:00Z",
+    "archived_at": "2026-10-26T15:43:40Z",
+    "archived_reason": "moved to the universities section"
+  },
+  {
+    "id": "cmu-qatar",
+    "family": "university",
+    "type": "university",
+    "org": "Carnegie Mellon University in Qatar",
+    "name": {
+      "en": "Carnegie Mellon University in Qatar — Bachelor's Degrees",
+      "ka": "კარნეგი მელონის უნივერსიტეტი კატარში — ბაკალავრიატი"
+    },
+    "country": {
+      "en": "Qatar",
+      "ka": "კატარი"
+    },
+    "city": "Doha (Education City)",
+    "iso": "QA",
+    "flag": "🇶🇦",
+    "region": "middle-east",
+    "lat": 25.316,
+    "lon": 51.439,
+    "cost": "scholarship",
+    "duration": {
+      "en": "4 years",
+      "ka": "4 წელი"
+    },
+    "grades": "12",
+    "opens": null,
+    "deadline": "2027-01-15",
+    "deadline_note": "official — Regular Decision 15 Jan 2027 (the round in which international applicants outside Qatar can receive aid); Early Decision was 1 Nov 2026 (binding, no aid for non-resident internationals); QF grant priority deadline 1 Feb",
+    "summary": {
+      "en": "CMU's Doha campus in Education City awards the same Carnegie Mellon degrees as Pittsburgh in computer science, artificial intelligence, business, information systems and biological sciences. Admitted students of all nationalities can apply for Qatar Foundation need-based grants of up to the full cost of attendance.",
+      "ka": "კარნეგი მელონის დოჰის კამპუსი განათლების ქალაქში იგივე დიპლომებს გასცემს, რასაც პიტსბურგში — კომპიუტერულ მეცნიერებაში, ხელოვნურ ინტელექტში, ბიზნესში, საინფორმაციო სისტემებსა და ბიოლოგიურ მეცნიერებებში. ყველა ქვეყნის მიღებულ სტუდენტს შეუძლია მოითხოვოს კატარის ფონდის საჭიროებაზე დაფუძნებული გრანტი, რომელიც სწავლის სრულ ღირებულებამდე ფარავს."
+    },
+    "highlights": {
+      "en": [
+        "Qatar Foundation grants up to full cost of attendance, no repayment",
+        "Limited merit scholarships funded by Qatar Foundation",
+        "Same Carnegie Mellon degree as the Pittsburgh campus"
+      ],
+      "ka": [
+        "კატარის ფონდის გრანტი სწავლის სრულ ღირებულებამდე, დაბრუნების გარეშე",
+        "კატარის ფონდის მიერ დაფინანსებული შეზღუდული რაოდენობის აკადემიური სტიპენდიები",
+        "იგივე კარნეგი მელონის დიპლომი, რაც პიტსბურგის კამპუსზე"
+      ]
+    },
+    "eligibility": {
+      "en": "Open to students of all nationalities. Qatari and Qatar-resident students may apply in either round; Georgian and other international applicants living outside Qatar who need financial aid must apply Regular Decision, as aid is not available to them in Early Decision.",
+      "ka": "ღიაა ყველა ქვეყნის მოსწავლისთვის. კატარის მოქალაქეებს და რეზიდენტებს ორივე რაუნდში შეუძლიათ განაცხადის გაკეთება; ქართველმა და სხვა საერთაშორისო აპლიკანტებმა, რომლებიც კატარის გარეთ ცხოვრობენ და ფინანსური დახმარება სჭირდებათ, უნდა აირჩიონ Regular Decision, რადგან Early Decision-ში მათთვის დახმარება არ გაიცემა."
+    },
+    "url": "https://www.qatar.cmu.edu/admission/",
+    "sources": [
+      "https://www.qatar.cmu.edu/event/regular-decision-deadline/",
+      "https://www.qatar.cmu.edu/admission/early-decision/",
+      "https://www.qatar.cmu.edu/admission/tuition-and-financial-aid/qf-grant-program-for-cmu-q-students/"
+    ],
+    "premium": false,
+    "score": 9,
+    "score_reason": "US top-tier degree in Doha with QF grants up to full cost for all nationalities.",
+    "found_by": "undergrad/postgrad",
+    "found_at": "2026-10-23T12:00:00Z",
+    "archived_at": "2026-10-26T15:43:40Z",
+    "archived_reason": "moved to the universities section"
+  },
+  {
+    "id": "georgetown-qatar",
+    "family": "university",
+    "type": "university",
+    "org": "Georgetown University in Qatar",
+    "name": {
+      "en": "Georgetown University in Qatar — BS in Foreign Service",
+      "ka": "ჯორჯთაუნის უნივერსიტეტი კატარში — საგარეო სამსახურის ბაკალავრიატი"
+    },
+    "country": {
+      "en": "Qatar",
+      "ka": "კატარი"
+    },
+    "city": "Doha (Education City)",
+    "iso": "QA",
+    "flag": "🇶🇦",
+    "region": "middle-east",
+    "lat": 25.315,
+    "lon": 51.437,
+    "cost": "scholarship",
+    "duration": {
+      "en": "4 years",
+      "ka": "4 წელი"
+    },
+    "grades": "12",
+    "opens": null,
+    "deadline": "2026-11-01",
+    "deadline_note": "official — Early Action (non-binding) 1 Nov 2026; Regular Decision 15 Jan 2027",
+    "summary": {
+      "en": "Georgetown's School of Foreign Service campus in Doha's Education City offers the Bachelor of Science in Foreign Service, with majors in international politics, economics, history and culture. Need-based aid is assessed through the CSS Profile, and applications are accepted via the GU-Q application or the Common App.",
+      "ka": "ჯორჯთაუნის საგარეო სამსახურის სკოლის კამპუსი დოჰის განათლების ქალაქში გთავაზობთ საგარეო სამსახურის ბაკალავრის ხარისხს საერთაშორისო პოლიტიკის, ეკონომიკის, ისტორიისა და კულტურის მიმართულებებით. საჭიროებაზე დაფუძნებული დახმარება CSS Profile-ით ფასდება, განაცხადი კი მიიღება GU-Q-ს აპლიკაციით ან Common App-ით."
+    },
+    "highlights": {
+      "en": [
+        "Non-binding Early Action on 1 November 2026",
+        "Need-based GU-Q grants; QF merit scholarship after first year (GPA 3.8+)",
+        "Accepts the Common App from the fall 2027 cycle"
+      ],
+      "ka": [
+        "არასავალდებულო Early Action — 2026 წლის 1 ნოემბერი",
+        "საჭიროებაზე დაფუძნებული GU-Q გრანტები; პირველი წლის შემდეგ QF-ის აკადემიური სტიპენდია (GPA 3.8+)",
+        "2027 წლის შემოდგომის ციკლიდან მიიღება Common App"
+      ]
+    },
+    "eligibility": {
+      "en": "Secondary-school graduates of any nationality; Georgian and Qatari students are eligible. Financial aid requires admission plus an annual CSS Profile (school code 4563).",
+      "ka": "ნებისმიერი ქვეყნის სკოლის კურსდამთავრებულები; ქართველი და კატარელი მოსწავლეები უფლებამოსილნი არიან. ფინანსური დახმარებისთვის საჭიროა ჩარიცხვა და ყოველწლიური CSS Profile (კოდი 4563)."
+    },
+    "url": "https://www.qatar.georgetown.edu/admissions/",
+    "sources": [
+      "https://www.qatar.georgetown.edu/admissions/how-to-apply/early-action/",
+      "https://www.qatar.georgetown.edu/admissions/how-to-apply/regular-decision/",
+      "https://www.qatar.georgetown.edu/admissions/financial-aid/types-of-financial-aid/grants-scholarships/"
+    ],
+    "premium": false,
+    "score": 8,
+    "score_reason": "Elite foreign-service degree in Doha with need-based aid; EA deadline in 9 days.",
+    "found_by": "undergrad/postgrad",
+    "found_at": "2026-10-23T12:00:00Z",
+    "archived_at": "2026-10-26T15:43:40Z",
+    "archived_reason": "moved to the universities section"
+  },
+  {
+    "id": "weill-cornell-qatar",
+    "family": "university",
+    "type": "university",
+    "org": "Weill Cornell Medicine-Qatar",
+    "name": {
+      "en": "Weill Cornell Medicine-Qatar — Six-Year Medical Program",
+      "ka": "ვეილ-კორნელის მედიცინა-კატარი — ექვსწლიანი სამედიცინო პროგრამა"
+    },
+    "country": {
+      "en": "Qatar",
+      "ka": "კატარი"
+    },
+    "city": "Doha (Education City)",
+    "iso": "QA",
+    "flag": "🇶🇦",
+    "region": "middle-east",
+    "lat": 25.317,
+    "lon": 51.436,
+    "cost": "paid",
+    "duration": {
+      "en": "6 years (pre-medical + medical)",
+      "ka": "6 წელი (წინასამედიცინო + სამედიცინო)"
+    },
+    "grades": "12",
+    "opens": null,
+    "deadline": "2027-01-15",
+    "deadline_note": "official — online application 15 Jan 2027; all supporting documents by 15 Feb 2027 (Fall 2027 entry)",
+    "summary": {
+      "en": "Cornell's medical college in Doha admits school leavers directly into an integrated pre-medical and medical curriculum leading to the Cornell MD. Admission is need-blind, and non-Qatari students can seek Qatar Foundation need-based, no-interest loans covering up to 100% of the cost of attendance.",
+      "ka": "კორნელის სამედიცინო კოლეჯი დოჰაში სკოლის კურსდამთავრებულებს პირდაპირ იღებს ინტეგრირებულ წინასამედიცინო და სამედიცინო პროგრამაზე, რომელიც კორნელის MD ხარისხით სრულდება. მიღება საჭიროებისგან დამოუკიდებელია, ხოლო არა-კატარელ სტუდენტებს შეუძლიათ მოითხოვონ კატარის ფონდის უპროცენტო სესხი სწავლის ღირებულების 100%-მდე."
+    },
+    "highlights": {
+      "en": [
+        "Direct entry to medicine from high school",
+        "Need-blind admission; QF no-interest loans up to 100% of cost",
+        "SAT or ACT required (tests taken from February 2024 onward)"
+      ],
+      "ka": [
+        "სკოლიდან პირდაპირ მედიცინაზე ჩარიცხვა",
+        "საჭიროებისგან დამოუკიდებელი მიღება; QF-ის უპროცენტო სესხი ღირებულების 100%-მდე",
+        "საჭიროა SAT ან ACT (2024 წლის თებერვლიდან ჩაბარებული)"
+      ]
+    },
+    "eligibility": {
+      "en": "Secondary-school graduates of any nationality, including Georgian and Qatari students; non-Qatari students can apply for QF need-based loans regardless of citizenship.",
+      "ka": "ნებისმიერი ქვეყნის სკოლის კურსდამთავრებულები, მათ შორის ქართველი და კატარელი მოსწავლეები; არა-კატარელ სტუდენტებს მოქალაქეობის მიუხედავად შეუძლიათ QF-ის საჭიროებაზე დაფუძნებული სესხის მოთხოვნა."
+    },
+    "url": "https://qatar-weill.cornell.edu/admissions/medical-program/six-year-medical-program/timeline",
+    "sources": [
+      "https://qatar-weill.cornell.edu/admissions/medical-program/six-year-medical-program/frequently-asked-questions",
+      "https://qatar-weill.cornell.edu/admissions/medical-program/six-year-medical-program/procedure"
+    ],
+    "premium": false,
+    "score": 7,
+    "score_reason": "Rare direct-entry Ivy League MD route; funding is loan-based for non-Qataris.",
+    "found_by": "undergrad/postgrad",
+    "found_at": "2026-10-23T12:00:00Z",
+    "archived_at": "2026-10-26T15:43:40Z",
+    "archived_reason": "moved to the universities section"
+  },
+  {
+    "id": "duke-kunshan",
+    "family": "university",
+    "type": "university",
+    "org": "Duke Kunshan University",
+    "name": {
+      "en": "Duke Kunshan University — Undergraduate Degree",
+      "ka": "დიუკ-კუნშანის უნივერსიტეტი — ბაკალავრიატი"
+    },
+    "country": {
+      "en": "China",
+      "ka": "ჩინეთი"
+    },
+    "city": "Kunshan",
+    "iso": "CN",
+    "flag": "🇨🇳",
+    "region": "asia",
+    "lat": 31.42,
+    "lon": 120.9,
+    "cost": "scholarship",
+    "duration": {
+      "en": "4 years",
+      "ka": "4 წელი"
+    },
+    "grades": "12",
+    "opens": null,
+    "deadline": "2026-11-02",
+    "deadline_note": "official — Early Decision 2 Nov 2026; Regular Decision 4 Jan 2027 (11:59 pm ET); CSS Profile 5 Nov / 15 Jan; Full Scholarship form 15 Nov / 1 Feb",
+    "summary": {
+      "en": "A joint Duke University–Wuhan University liberal-arts campus near Shanghai where graduates earn degrees from both Duke and DKU. International applicants are automatically considered for merit scholarships, can apply for need-based aid, and up to three receive the Global Leaders Full Scholarship.",
+      "ka": "დიუკის უნივერსიტეტისა და ვუჰანის უნივერსიტეტის ერთობლივი ლიბერალური ხელოვნების კამპუსი შანხაის მახლობლად, სადაც კურსდამთავრებულები დიუკისა და DKU-ს დიპლომებს იღებენ. საერთაშორისო აპლიკანტები ავტომატურად განიხილებიან აკადემიურ სტიპენდიაზე, შეუძლიათ საჭიროებაზე დაფუძნებული დახმარების მოთხოვნა, ხოლო სამამდე მათგანი იღებს Global Leaders-ის სრულ სტიპენდიას."
+    },
+    "highlights": {
+      "en": [
+        "No application fee; Common App",
+        "Up to 3 full scholarships (tuition, housing, dining, flights, laptop) for internationals",
+        "Junior-year study away semester at Duke"
+      ],
+      "ka": [
+        "განაცხადის საფასური არ არის; Common App",
+        "სამამდე სრული სტიპენდია საერთაშორისო სტუდენტებისთვის (სწავლა, საცხოვრებელი, კვება, ფრენები, ლეპტოპი)",
+        "მესამე კურსზე სემესტრი დიუკის უნივერსიტეტში"
+      ]
+    },
+    "eligibility": {
+      "en": "First-year international applicants of any nationality, including Georgian and Qatari students. The full scholarship targets low-income applicants with outstanding leadership and academic records.",
+      "ka": "ნებისმიერი ქვეყნის საერთაშორისო აპლიკანტები პირველ კურსზე, მათ შორის ქართველი და კატარელი მოსწავლეები. სრული სტიპენდია განკუთვნილია დაბალი შემოსავლის მქონე, გამორჩეული ლიდერული და აკადემიური მიღწევების მქონე აპლიკანტებისთვის."
+    },
+    "url": "https://admissions.dukekunshan.edu.cn/en/how-to-apply/",
+    "sources": [
+      "https://admissions.dukekunshan.edu.cn/en/how-to-apply/",
+      "https://admissions.dukekunshan.edu.cn/en/duke-kunshan-university-full-scholarship/",
+      "https://admissions.dukekunshan.edu.cn/en/merit-scholarships-need-based-financial-aid/"
+    ],
+    "premium": false,
+    "score": 7,
+    "score_reason": "Duke degree in China with merit/need aid; full scholarships are very limited.",
+    "found_by": "undergrad/postgrad",
+    "found_at": "2026-10-23T12:00:00Z",
+    "archived_at": "2026-10-26T15:43:40Z",
+    "archived_reason": "moved to the universities section"
+  },
+  {
+    "id": "uwc-atlantic",
+    "family": "uwc",
+    "type": "school",
+    "org": "UWC Atlantic",
+    "name": {
+      "en": "UWC Atlantic — IB Diploma",
+      "ka": "UWC ატლანტიკი — IB დიპლომი"
+    },
+    "country": {
+      "en": "United Kingdom",
+      "ka": "გაერთიანებული სამეფო"
+    },
+    "city": "St Donat's, Wales",
+    "iso": "GB",
+    "flag": "🇬🇧",
+    "region": "europe",
+    "lat": 51.4,
+    "lon": -3.54,
+    "cost": "scholarship",
+    "duration": {
+      "en": "2 years",
+      "ka": "2 წელი"
+    },
+    "grades": "10-11",
+    "opens": "2026-08-01",
+    "deadline": "2026-09-30",
+    "summary": {
+      "en": "The original United World College, set in 12th-century St Donat's Castle on the Welsh coast: two years of the IB Diploma with about 350 students, built around ocean science, peacebuilding and systems change.",
+      "ka": "პირველი გაერთიანებული მსოფლიო კოლეჯი, XII საუკუნის სენტ-დონატის ციხესიმაგრეში უელსის სანაპიროზე: IB დიპლომის ორი წელი დაახლოებით 350 სტუდენტთან ერთად — ოკეანის მეცნიერება, მშვიდობის მშენებლობა და სისტემური ცვლილება."
+    },
+    "highlights": {
+      "en": [
+        "Need-based support: about 80% of nominated students receive full or partial funding",
+        "Selection runs through the Georgian National Committee",
+        "The national committee chooses your college — the school is not guaranteed"
+      ],
+      "ka": [
+        "საჭიროებაზე დაფუძნებული დახმარება: ნომინირებულთა დაახლოებით 80% სრულ ან ნაწილობრივ დაფინანსებას იღებს",
+        "შერჩევა მიმდინარეობს საქართველოს ეროვნული კომიტეტის მეშვეობით",
+        "კოლეჯს ეროვნული კომიტეტი ირჩევს — კონკრეტული სკოლა გარანტირებული არ არის"
+      ]
+    },
+    "eligibility": {
+      "en": "Aged 16 or 17 on the day classes start, Georgian citizen or resident, not yet at university. Apply once through the UWC Georgia national committee, which nominates you to a college.",
+      "ka": "16 ან 17 წლის ასაკი სწავლის დაწყების დღისთვის, საქართველოს მოქალაქე ან მცხოვრები, ჯერ არ სწავლობ უნივერსიტეტში. განაცხადი ერთხელ შედის UWC საქართველოს ეროვნულ კომიტეტში, რომელიც შენს კანდიდატურას კოლეჯს წარუდგენს."
+    },
+    "url": "https://ge.uwc.org/how-to-apply/",
+    "premium": false,
+    "sources": [
+      "https://ge.uwc.org/how-to-apply/",
+      "https://apply.uwc.org/prog/nc_georgia_2026",
+      "https://ge.uwc.org/eligibility-criteria/",
+      "https://en.wikipedia.org/wiki/UWC_Atlantic",
+      "https://www.uwcatlantic.org"
+    ],
+    "verified_at": "2026-10-23",
+    "deadline_note": "UWC Georgia national committee: 2027 entry ran 1 Aug – 30 Sep 2026 and is closed. The next cycle usually opens in August.",
+    "section": "project",
+    "archived_at": "2026-10-26T15:43:40Z",
+    "archived_reason": "deadline passed"
+  },
+  {
+    "id": "uwc-adriatic",
+    "family": "uwc",
+    "type": "school",
+    "org": "UWC Adriatic",
+    "name": {
+      "en": "UWC Adriatic — IB Diploma",
+      "ka": "UWC ადრიატიკი — IB დიპლომი"
+    },
+    "country": {
+      "en": "Italy",
+      "ka": "იტალია"
+    },
+    "city": "Duino, Trieste",
+    "iso": "IT",
+    "flag": "🇮🇹",
+    "region": "europe",
+    "lat": 45.77,
+    "lon": 13.6,
+    "cost": "scholarship",
+    "duration": {
+      "en": "2 years",
+      "ka": "2 წელი"
+    },
+    "grades": "10-11",
+    "opens": "2026-08-01",
+    "deadline": "2026-09-30",
+    "summary": {
+      "en": "A campus woven into the village of Duino on the Adriatic. Every student studies Italian, alongside classmates from more than 80 countries.",
+      "ka": "კამპუსი ადრიატიკის სანაპიროზე, სოფელ დუინოში. ყველა სტუდენტი სწავლობს იტალიურს, 80-ზე მეტი ქვეყნის თანაკლასელებთან ერთად."
+    },
+    "highlights": {
+      "en": [
+        "Italian language immersion from day one",
+        "Need-based support: about 80% of nominated students receive full or partial funding",
+        "Students from more than 80 countries"
+      ],
+      "ka": [
+        "იტალიური ენის სრული ჩაძირვა პირველივე დღიდან",
+        "საჭიროებაზე დაფუძნებული დახმარება: ნომინირებულთა დაახლოებით 80% სრულ ან ნაწილობრივ დაფინანსებას იღებს",
+        "სტუდენტები 80-ზე მეტი ქვეყნიდან"
+      ]
+    },
+    "eligibility": {
+      "en": "Aged 16 or 17 on the day classes start, Georgian citizen or resident, not yet at university. Apply once through the UWC Georgia national committee, which nominates you to a college.",
+      "ka": "16 ან 17 წლის ასაკი სწავლის დაწყების დღისთვის, საქართველოს მოქალაქე ან მცხოვრები, ჯერ არ სწავლობ უნივერსიტეტში. განაცხადი ერთხელ შედის UWC საქართველოს ეროვნულ კომიტეტში, რომელიც შენს კანდიდატურას კოლეჯს წარუდგენს."
+    },
+    "url": "https://ge.uwc.org/how-to-apply/",
+    "premium": false,
+    "sources": [
+      "https://ge.uwc.org/how-to-apply/",
+      "https://ge.uwc.org/eligibility-criteria/",
+      "https://en.wikipedia.org/wiki/United_World_College_of_the_Adriatic",
+      "https://uwcad.it"
+    ],
+    "verified_at": "2026-10-23",
+    "deadline_note": "UWC Georgia national committee: 2027 entry ran 1 Aug – 30 Sep 2026 and is closed. The next cycle usually opens in August.",
+    "section": "project",
+    "archived_at": "2026-10-26T15:43:40Z",
+    "archived_reason": "deadline passed"
+  },
+  {
+    "id": "uwc-red-cross-nordic",
+    "family": "uwc",
+    "type": "school",
+    "org": "UWC Red Cross Nordic",
+    "name": {
+      "en": "UWC Red Cross Nordic",
+      "ka": "UWC წითელი ჯვრის ნორდიკი"
+    },
+    "country": {
+      "en": "Norway",
+      "ka": "ნორვეგია"
+    },
+    "city": "Flekke, Fjaler",
+    "iso": "NO",
+    "flag": "🇳🇴",
+    "region": "europe",
+    "lat": 61.4,
+    "lon": 5.3,
+    "cost": "scholarship",
+    "duration": {
+      "en": "2 years",
+      "ka": "2 წელი"
+    },
+    "grades": "10-11",
+    "opens": "2026-08-01",
+    "deadline": "2026-09-30",
+    "summary": {
+      "en": "A fjord-side college in Norway built around Red Cross service: students work with refugees and with adults with disabilities. Places are funded by Nordic public money and awarded on merit.",
+      "ka": "ფიორდის პირას მდებარე კოლეჯი ნორვეგიაში, წითელი ჯვრის სამსახურზე აგებული: სტუდენტები მუშაობენ ლტოლვილებთან და შეზღუდული შესაძლებლობების მქონე ზრდასრულებთან. ადგილებს ჩრდილოეთის ქვეყნების სახელმწიფო სახსრები აფინანსებს და მათ დამსახურების მიხედვით ანიჭებენ."
+    },
+    "highlights": {
+      "en": [
+        "Red Cross service with refugees and adults with disabilities",
+        "Places funded by Nordic public money, awarded on merit and potential",
+        "Year-round outdoor expedition programme"
+      ],
+      "ka": [
+        "წითელი ჯვრის სამსახური ლტოლვილებთან და შეზღუდული შესაძლებლობების მქონე ზრდასრულებთან",
+        "ადგილები ფინანსდება ჩრდილოეთის ქვეყნების სახელმწიფო სახსრებით, დამსახურებისა და პოტენციალის მიხედვით",
+        "წლის განმავლობაში მიმდინარე საექსპედიციო პროგრამა"
+      ]
+    },
+    "eligibility": {
+      "en": "Aged 16 or 17 on the day classes start, Georgian citizen or resident, not yet at university. Apply once through the UWC Georgia national committee, which nominates you to a college.",
+      "ka": "16 ან 17 წლის ასაკი სწავლის დაწყების დღისთვის, საქართველოს მოქალაქე ან მცხოვრები, ჯერ არ სწავლობ უნივერსიტეტში. განაცხადი ერთხელ შედის UWC საქართველოს ეროვნულ კომიტეტში, რომელიც შენს კანდიდატურას კოლეჯს წარუდგენს."
+    },
+    "url": "https://ge.uwc.org/how-to-apply/",
+    "premium": false,
+    "sources": [
+      "https://ge.uwc.org/how-to-apply/",
+      "https://en.wikipedia.org/wiki/UWC_Red_Cross_Nordic",
+      "https://uwc.org/apply2025/schools/uwc-red-cross-nordic",
+      "https://www.uwcrcn.no"
+    ],
+    "verified_at": "2026-10-23",
+    "deadline_note": "UWC Georgia national committee: 2027 entry ran 1 Aug – 30 Sep 2026 and is closed. The next cycle usually opens in August.",
+    "section": "project",
+    "archived_at": "2026-10-26T15:43:40Z",
+    "archived_reason": "deadline passed"
+  },
+  {
+    "id": "uwc-usa",
+    "family": "uwc",
+    "type": "school",
+    "org": "UWC-USA",
+    "name": {
+      "en": "UWC-USA — Montezuma",
+      "ka": "UWC-USA — მონტეზუმა"
+    },
+    "country": {
+      "en": "United States",
+      "ka": "აშშ"
+    },
+    "city": "Montezuma, New Mexico",
+    "iso": "US",
+    "flag": "🇺🇸",
+    "region": "americas",
+    "lat": 35.65,
+    "lon": -105.28,
+    "cost": "scholarship",
+    "duration": {
+      "en": "2 years",
+      "ka": "2 წელი"
+    },
+    "grades": "10-11",
+    "opens": "2026-08-01",
+    "deadline": "2026-09-30",
+    "summary": {
+      "en": "A castle campus in the high desert of New Mexico with a Wilderness Program and students from about 80 countries. Graduates of every UWC can join the Davis UWC Scholars programme at 106 US partner universities.",
+      "ka": "ციხე-კამპუსი ნიუ-მექსიკოს მაღალმთიან უდაბნოში, ველური ბუნების პროგრამით და დაახლოებით 80 ქვეყნის სტუდენტებით. ყველა UWC-ის კურსდამთავრებულს შეუძლია Davis UWC Scholars-ში ჩართვა აშშ-ის 106 პარტნიორ უნივერსიტეტში."
+    },
+    "highlights": {
+      "en": [
+        "Davis UWC Scholars: need-based aid at 106 US partner universities for all UWC graduates",
+        "Wilderness and conflict-transformation curriculum",
+        "Students from about 80 countries"
+      ],
+      "ka": [
+        "Davis UWC Scholars: საჭიროებაზე დაფუძნებული დახმარება აშშ-ის 106 პარტნიორ უნივერსიტეტში ყველა UWC-ის კურსდამთავრებულისთვის",
+        "ველური ბუნებისა და კონფლიქტის ტრანსფორმაციის კურიკულუმი",
+        "სტუდენტები დაახლოებით 80 ქვეყნიდან"
+      ]
+    },
+    "eligibility": {
+      "en": "Aged 16 or 17 on the day classes start, Georgian citizen or resident, not yet at university. Apply once through the UWC Georgia national committee, which nominates you to a college.",
+      "ka": "16 ან 17 წლის ასაკი სწავლის დაწყების დღისთვის, საქართველოს მოქალაქე ან მცხოვრები, ჯერ არ სწავლობ უნივერსიტეტში. განაცხადი ერთხელ შედის UWC საქართველოს ეროვნულ კომიტეტში, რომელიც შენს კანდიდატურას კოლეჯს წარუდგენს."
+    },
+    "url": "https://ge.uwc.org/how-to-apply/",
+    "premium": false,
+    "sources": [
+      "https://ge.uwc.org/how-to-apply/",
+      "https://www.uwc-usa.org",
+      "https://www.uwc-usa.org/admissions/",
+      "https://www.davisuwcscholars.org/node/20",
+      "https://www.vassar.edu/news/vassar-receives-renewed-davis-uwc-scholars-funding"
+    ],
+    "verified_at": "2026-10-23",
+    "deadline_note": "UWC Georgia national committee: 2027 entry ran 1 Aug – 30 Sep 2026 and is closed. The next cycle usually opens in August.",
+    "section": "project",
+    "archived_at": "2026-10-26T15:43:40Z",
+    "archived_reason": "deadline passed"
+  },
+  {
+    "id": "flex-exchange",
+    "family": "flex",
+    "type": "exchange",
+    "org": "FLEX / American Councils",
+    "name": {
+      "en": "FLEX Global — Future Leaders Exchange",
+      "ka": "FLEX Global — მომავალი ლიდერების გაცვლა"
+    },
+    "country": {
+      "en": "United States",
+      "ka": "აშშ"
+    },
+    "city": "Nationwide placement",
+    "iso": "US",
+    "flag": "🇺🇸",
+    "region": "americas",
+    "lat": 38.9,
+    "lon": -77.04,
+    "cost": "fully-funded",
+    "duration": {
+      "en": "1 academic year",
+      "ka": "1 სასწავლო წელი"
+    },
+    "grades": "9-11",
+    "opens": null,
+    "deadline": "2026-10-22",
+    "summary": {
+      "en": "A fully funded US government exchange: one academic year with an American host family at a US high school. Round 1 is an online form with three essays, then a short English test, then interviews.",
+      "ka": "აშშ-ის მთავრობის სრულად დაფინანსებული გაცვლითი პროგრამა: ერთი სასწავლო წელი ამერიკულ მასპინძელ ოჯახში და აშშ-ის სკოლაში. პირველი ეტაპი — ონლაინ ფორმა სამი ესეთი, შემდეგ მოკლე ინგლისურის ტესტი და გასაუბრება."
+    },
+    "highlights": {
+      "en": [
+        "Covers flights, host family, US school, a monthly allowance and medical insurance",
+        "Round 1 is online: a personal form and three essays",
+        "Alumni network gives a real edge in later applications"
+      ],
+      "ka": [
+        "ფარავს ავიაბილეთებს, მასპინძელ ოჯახს, აშშ-ის სკოლას, ყოველთვიურ თანხას და სამედიცინო დაზღვევას",
+        "პირველი ეტაპი ონლაინაა: პირადი ფორმა და სამი ესე",
+        "კურსდამთავრებულთა ქსელი რეალურ უპირატესობას გაძლევს მომავალ აპლიკაციებში"
+      ]
+    },
+    "eligibility": {
+      "en": "Georgian citizen born 1 Jan 2010 – 31 Dec 2011, in grade 9, 10 or 11, no more than 90 days in the US in the last 5 years.",
+      "ka": "საქართველოს მოქალაქე, დაბადებული 2010 წლის 1 იანვრიდან 2011 წლის 31 დეკემბრამდე, მე-9, მე-10 ან მე-11 კლასში, ბოლო 5 წელში აშშ-ში არაუმეტეს 90 დღისა."
+    },
+    "url": "https://georgia.americancouncils.org/flex-ge",
+    "premium": false,
+    "sources": [
+      "https://georgia.americancouncils.org/flex-ge",
+      "https://www.discoverflexglobal.org/apply-to-flex",
+      "https://www.discoverflexglobal.org/_files/ugd/574669_622c60f612f14c6990265e3a6caf420d.pdf",
+      "https://www.discoverflexglobal.org/contact-us"
+    ],
+    "verified_at": "2026-10-23",
+    "deadline_note": "American Councils Georgia: 2027–28 applications closed 22 Oct 2026. The next cycle recruits in autumn 2027.",
+    "section": "project",
+    "archived_at": "2026-10-26T15:43:40Z",
+    "archived_reason": "deadline passed"
+  },
+  {
+    "id": "immerse-essay-competition",
+    "family": "competition",
+    "type": "competition",
+    "org": "Immerse Education",
+    "name": {
+      "en": "Immerse Education Essay Competition",
+      "ka": "Immerse Education-ის საესეო კონკურსი"
+    },
+    "country": {
+      "en": "Online",
+      "ka": "ონლაინ"
+    },
+    "city": "Online",
+    "iso": "WW",
+    "flag": "🌍",
+    "region": "global",
+    "lat": 52.21,
+    "lon": 0.12,
+    "cost": "free",
+    "duration": {
+      "en": "Single essay round",
+      "ka": "ერთი საესეო ტური"
+    },
+    "grades": "13-18",
+    "opens": "2026-08-03",
+    "deadline": "2026-10-25",
+    "deadline_note": "official — current round closes 2026-10-25, results 2026-11-09; next Immerse competition (TED Summer School) runs 2026-11-02 to 2027-01-16",
+    "summary": {
+      "en": "A free essay competition for 13–18-year-olds on subjects ranging from medicine and architecture to AI and creative writing, split into 13–15 and 16–18 divisions. Winners receive full scholarships to an Immerse summer school or online research programme.",
+      "ka": "უფასო საესეო კონკურსი 13–18 წლის მოსწავლეებისთვის — თემები მედიცინიდან და არქიტექტურიდან ხელოვნურ ინტელექტამდე და შემოქმედებით წერამდე, ორ ასაკობრივ ჯგუფად (13–15 და 16–18). გამარჯვებულები Immerse-ის საზაფხულო სკოლის ან ონლაინ კვლევითი პროგრამის სრულ სტიპენდიას იღებენ."
+    },
+    "highlights": {
+      "en": [
+        "Free entry, no course enrolment required",
+        "Winners: 100% scholarship; runners-up: up to 75%",
+        "Closes 25 October 2026"
+      ],
+      "ka": [
+        "მონაწილეობა უფასოა, კურსზე ჩარიცხვა საჭირო არ არის",
+        "გამარჯვებულები: 100% სტიპენდია; პრიზიორები: 75%-მდე",
+        "ვადა: 2026 წლის 25 ოქტომბერი"
+      ]
+    },
+    "eligibility": {
+      "en": "Students aged 13–18 of any nationality, including Georgian and Qatari students, with sufficient English.",
+      "ka": "ნებისმიერი ეროვნების 13–18 წლის მოსწავლეები, მათ შორის ქართველები და კატარელები, ინგლისურის საკმარისი ცოდნით."
+    },
+    "url": "https://www.immerse.education/essay-competition",
+    "sources": [
+      "https://www.immerse.education/essay-competition",
+      "https://www.immerse.education/immerse-competitions-hub"
+    ],
+    "score": 6,
+    "score_reason": "Free entry with full summer-school scholarships; deadline in two days",
+    "premium": false,
+    "found_by": "exchanges/summer/competitions",
+    "found_at": "2026-10-23T12:00:00Z",
+    "section": "project",
+    "archived_at": "2026-10-26T15:43:40Z",
+    "archived_reason": "deadline passed"
+  }
+]
