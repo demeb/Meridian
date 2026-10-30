@@ -28,6 +28,10 @@ RESEARCH = os.path.join(DATA, "research")
 PROGRAMS = os.path.join(DATA, "programs.json")
 ARCHIVE = os.path.join(DATA, "archive", "programs-archive.json")
 TODAY = date.today().isoformat()
+# round 6 records may name subject areas (`fields`) for the major filter
+FIELDS = {"any", "business", "economics", "engineering", "computer-science", "medicine-health", "natural-sciences",
+          "mathematics", "law", "social-sciences", "humanities", "arts-design", "education", "environment",
+          "international-relations", "languages"}
 DRY = "--dry-run" in sys.argv
 
 FAMILIES = {"mun", "erasmus", "exchange", "flex", "uwc", "summer", "competition", "startup", "youth",
@@ -108,6 +112,7 @@ def normalise(r, source):
         end = str(r["event_dates"])[-10:]
         if re.match(r"\d{4}-\d{2}-\d{2}$", end) and end < TODAY:
             return None, "already happened"
+    r["fields"] = [f for f in (r.get("fields") or []) if f in FIELDS] or None
     r.setdefault("flag", flag(r["iso"]))
     r.setdefault("cost", "paid")
     r.setdefault("score", 5)
@@ -159,7 +164,8 @@ def main():
     ids = {p["id"] for p in kept}
 
     sources = sorted(glob.glob(os.path.join(RESEARCH, "incoming", "*.json"))) + \
-        sorted(glob.glob(os.path.join(RESEARCH, "round5", "*.json")))
+        sorted(glob.glob(os.path.join(RESEARCH, "round5", "*.json"))) + \
+        sorted(glob.glob(os.path.join(RESEARCH, "round6", "*.json")))
     skip_files = ("global-facts", "i18n", "universities", "verification", "prep", "courses", "quizzes", "EXISTING")
     added, rejected = [], {}
     by_file = {}
@@ -209,7 +215,9 @@ def main():
     save(ARCHIVE, archive)
 
     for name in ("prep", "courses", "quizzes"):
-        src = os.path.join(RESEARCH, "round5", name + ".json")
+        src = os.path.join(RESEARCH, "round6", name + ".json")
+        if not os.path.exists(src) or load(src) is None:
+            src = os.path.join(RESEARCH, "round5", name + ".json")
         if os.path.exists(src) and load(src) is not None and not DRY:
             shutil.copyfile(src, os.path.join(DATA, name + ".json"))
             print("copied %s.json" % name)

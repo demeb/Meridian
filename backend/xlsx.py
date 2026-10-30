@@ -3,6 +3,7 @@
     data = write_sheet("Universities", ["Name", "Rank"], [["MIT", 1]], widths=[40, 10])
 
 Cells may be str, int/float, None, or ("link", url, label) for a clickable link.
+A row given as ("group", "United States (6)") becomes a full-width section band.
 The header row is bold on Meridian blue, frozen, with filters; text wraps.
 """
 import io
@@ -27,28 +28,31 @@ def _xml(text):
 
 STYLES = """<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <styleSheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
-  <fonts count="3">
+  <fonts count="4">
     <font><sz val="11"/><name val="Calibri"/></font>
     <font><b/><sz val="11"/><color rgb="FFFFFFFF"/><name val="Calibri"/></font>
     <font><u/><sz val="11"/><color rgb="FF0563C1"/><name val="Calibri"/></font>
+    <font><b/><sz val="12"/><color rgb="FF0D2A6B"/><name val="Calibri"/></font>
   </fonts>
-  <fills count="4">
+  <fills count="5">
     <fill><patternFill patternType="none"/></fill>
     <fill><patternFill patternType="gray125"/></fill>
     <fill><patternFill patternType="solid"><fgColor rgb="FF1B4FC4"/><bgColor indexed="64"/></patternFill></fill>
     <fill><patternFill patternType="solid"><fgColor rgb="FFF2F6FF"/><bgColor indexed="64"/></patternFill></fill>
+    <fill><patternFill patternType="solid"><fgColor rgb="FFD9E5FF"/><bgColor indexed="64"/></patternFill></fill>
   </fills>
   <borders count="2">
     <border><left/><right/><top/><bottom/><diagonal/></border>
     <border><left style="thin"><color rgb="FFD5DEF0"/></left><right style="thin"><color rgb="FFD5DEF0"/></right><top style="thin"><color rgb="FFD5DEF0"/></top><bottom style="thin"><color rgb="FFD5DEF0"/></bottom><diagonal/></border>
   </borders>
   <cellStyleXfs count="1"><xf numFmtId="0" fontId="0" fillId="0" borderId="0"/></cellStyleXfs>
-  <cellXfs count="5">
+  <cellXfs count="6">
     <xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfId="0"/>
     <xf numFmtId="0" fontId="1" fillId="2" borderId="1" xfId="0" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1"><alignment vertical="center" wrapText="1"/></xf>
     <xf numFmtId="0" fontId="0" fillId="0" borderId="1" xfId="0" applyBorder="1" applyAlignment="1"><alignment vertical="top" wrapText="1"/></xf>
     <xf numFmtId="0" fontId="0" fillId="3" borderId="1" xfId="0" applyFill="1" applyBorder="1" applyAlignment="1"><alignment vertical="top" wrapText="1"/></xf>
     <xf numFmtId="0" fontId="2" fillId="0" borderId="1" xfId="0" applyFont="1" applyBorder="1" applyAlignment="1"><alignment vertical="top" wrapText="1"/></xf>
+    <xf numFmtId="0" fontId="3" fillId="4" borderId="1" xfId="0" applyFont="1" applyFill="1" applyBorder="1" applyAlignment="1"><alignment vertical="center"/></xf>
   </cellXfs>
   <cellStyles count="1"><cellStyle name="Normal" xfId="0" builtinId="0"/></cellStyles>
 </styleSheet>"""
@@ -74,7 +78,13 @@ def write_sheet(title, header, rows, widths=None):
 
     out_rows.append('<row r="1" ht="30" customHeight="1">%s</row>' %
                     "".join(cell("%s1" % _col(i), h, 1) for i, h in enumerate(header)))
+    merges = []
     for r, row in enumerate(rows, start=2):
+        if isinstance(row, tuple) and row and row[0] == "group":
+            out_rows.append('<row r="%d" ht="24" customHeight="1">%s</row>' %
+                            (r, "".join(cell("%s%d" % (_col(i), r), row[1] if i == 0 else None, 5) for i in range(cols))))
+            merges.append("A%d:%s%d" % (r, _col(cols - 1), r))
+            continue
         style = 3 if r % 2 else 2
         out_rows.append('<row r="%d">%s</row>' %
                         (r, "".join(cell("%s%d" % (_col(i), r), row[i] if i < len(row) else None, style) for i in range(cols))))
@@ -86,7 +96,10 @@ def write_sheet(title, header, rows, widths=None):
              '<worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">'
              '<sheetViews><sheetView workbookViewId="0"><pane ySplit="1" xSplit="1" topLeftCell="B2" activePane="bottomRight" state="frozen"/></sheetView></sheetViews>'
              '<sheetFormatPr defaultRowHeight="15"/><cols>%s</cols><sheetData>%s</sheetData>'
-             '<autoFilter ref="A1:%s"/></worksheet>') % (col_xml, "".join(out_rows), last)
+             '<autoFilter ref="A1:%s"/>%s</worksheet>') % (
+                 col_xml, "".join(out_rows), last,
+                 '<mergeCells count="%d">%s</mergeCells>' % (len(merges), "".join('<mergeCell ref="%s"/>' % m for m in merges))
+                 if merges else "")
 
     files = {
         "[Content_Types].xml": '<?xml version="1.0" encoding="UTF-8" standalone="yes"?>'

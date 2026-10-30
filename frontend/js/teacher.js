@@ -170,7 +170,7 @@
     }).join('');
     var serviceOptions = teacher.services.map(function (service, index) {
       return '<option value="' + index + '"' + (index === chosen.service ? ' selected' : '') + '>' +
-        M.esc(M.pick(service.name)) + ' — ' + service.price_display + ' ₾</option>';
+        M.esc(M.pick(service.name)) + ' — $' + service.price_display + '</option>';
     }).join('');
     var rating = teacher.sample
       ? '<span><span class="badge sample-badge">' + M.t('teachers.sample') + '</span></span>'

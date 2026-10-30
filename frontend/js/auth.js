@@ -51,6 +51,31 @@
     }).join('');
   }
 
+  /* Date of birth: three short selects (day / month / year), required at sign-up */
+  function paintBirth() {
+    var keep = { d: el('birthDay').value, m: el('birthMonth').value, y: el('birthYear').value };
+    var opts = function (placeholder, items, current) {
+      return '<option value="">' + M.esc(placeholder) + '</option>' + items.map(function (item) {
+        return '<option value="' + item[0] + '"' + (item[0] === current ? ' selected' : '') + '>' + M.esc(item[1]) + '</option>';
+      }).join('');
+    };
+    var days = [], years = [];
+    for (var d = 1; d <= 31; d++) days.push([('0' + d).slice(-2), String(d)]);
+    var thisYear = new Date().getFullYear();
+    for (var y = thisYear - 10; y >= 1940; y--) years.push([String(y), String(y)]);
+    var months = (M.months[M.state.lang] || M.months.en).map(function (name, i) { return [('0' + (i + 1)).slice(-2), name]; });
+    el('birthDay').innerHTML = opts(M.t('auth.day'), days, keep.d);
+    el('birthMonth').innerHTML = opts(M.t('auth.month'), months, keep.m);
+    el('birthYear').innerHTML = opts(M.t('auth.year'), years, keep.y);
+  }
+
+  function birthDate() {
+    var d = el('birthDay').value, m = el('birthMonth').value, y = el('birthYear').value;
+    if (!d || !m || !y) return null;
+    var date = new Date(Number(y), Number(m) - 1, Number(d));
+    return date.getMonth() === Number(m) - 1 ? y + '-' + m + '-' + d : null;   // rejects 31 Feb
+  }
+
   function paintInterests() {
     var host = el('interests');
     var picked = Array.prototype.map.call(host.querySelectorAll('[aria-pressed="true"]'), function (c) { return c.dataset.value; });
@@ -186,6 +211,7 @@
       if (!el('firstName').value.trim()) { fieldError(el('firstName'), M.t('auth.error.name_required')); return; }
       if (!el('lastName').value.trim()) { fieldError(el('lastName'), M.t('auth.error.name_required')); return; }
       if (password.value.length < 8) { fieldError(password, M.t('auth.error.weak_password')); return; }
+      if (!birthDate()) { fieldError(el('birthYear'), M.t('auth.error.birth_required')); return; }
     } else if (!password.value) {
       fieldError(password, M.t('auth.error.bad_credentials'));
       return;
@@ -198,7 +224,7 @@
       phone: el('phone').value.trim(),
       password: password.value,
       grade: el('grade').value,
-      birth_year: el('birthYear').value,
+      birth_date: birthDate(),
       country: el('country').value,
       interests: Array.prototype.map.call(el('interests').querySelectorAll('[aria-pressed="true"]'), function (c) { return c.dataset.value; }),
       locale: M.state.lang
@@ -306,6 +332,7 @@
 
     el('authBrand').innerHTML = M.logoMarkup();
     paintStages();
+    paintBirth();
     paintInterests();
     paintCountries();
     bindCodeInputs();
@@ -346,6 +373,7 @@
 
     window.addEventListener('meridian:lang', function () {
       paintStages();
+      paintBirth();
       paintInterests();
       paintCountries();
       if (!el('authPanel').hidden) setMode(mode);

@@ -71,7 +71,7 @@ def signup(client, first):
     email = "smoke-%s@example.test" % secrets.token_hex(4)
     status, r = client.call("POST", "/api/auth/register", {
         "first_name": first, "last_name": "Smoke", "email": email, "password": "smoke-pass-123",
-        "grade": "grade-11", "country": "GE", "interests": ["uwc", "sat"]})
+        "grade": "grade-11", "country": "GE", "interests": ["uwc", "sat"], "birth_date": "2008-04-17"})
     check("register %s" % first, r.get("ok") and r.get("dev_code"), email)
     status, r = client.call("POST", "/api/auth/verify", {"email": email, "code": r["dev_code"]})
     check("verify", r.get("ok"))

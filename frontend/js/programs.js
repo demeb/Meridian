@@ -10,7 +10,7 @@
   var selectedId = null;
   var section = 'project';
 
-  var filters = { type: 'all', region: 'all', cost: 'all', host: 'all', q: '', country: null };
+  var filters = { type: 'all', region: 'all', cost: 'all', host: 'all', q: '', country: null, field: 'all' };
 
   /* Category chips per section */
   var TYPES = {
@@ -155,6 +155,16 @@
   }
 
   /* ---------------------------------------------------------- filtering */
+  function fieldsFor(program) {
+    return M.fieldsOf(program, [program.name.en, program.summary && program.summary.en, program.type,
+      (program.keywords || []).join(' '), program.family === 'mun' ? 'model united nations' : ''].join(' '));
+  }
+
+  // FLEX is an exchange programme too: it also shows under "Exchange"
+  function familyIn(program, key) {
+    return program.family === key || (key === 'exchange' && program.family === 'flex');
+  }
+
   function inSection(program) {
     return (program.section || 'project') === section;
   }
@@ -164,7 +174,7 @@
     if (filters.country && program.iso !== filters.country) return false;
     if (filters.host !== 'all' && program.iso !== filters.host) return false;
     if (filters.type !== 'all') {
-      if (section === 'project' && program.family !== filters.type) return false;
+      if (section === 'project' && !familyIn(program, filters.type)) return false;
       if (section === 'scholarship') {
         if (filters.type === 'erasmus' && program.family !== 'erasmus') return false;
         if (filters.type === 'fully-funded' && program.cost !== 'fully-funded') return false;
@@ -173,6 +183,7 @@
     }
     if (filters.region !== 'all' && program.region !== filters.region) return false;
     if (filters.cost !== 'all' && program.cost !== filters.cost) return false;
+    if (filters.field !== 'all' && fieldsFor(program).indexOf(filters.field) === -1) return false;
     if (filters.q && !queryMatches(program, filters.q)) return false;
     return true;
   }
@@ -207,7 +218,7 @@
     return all.filter(function (p) {
       if (!inSection(p)) return false;
       if (key === 'all') return true;
-      if (section === 'project') return p.family === key;
+      if (section === 'project') return familyIn(p, key);
       if (key === 'erasmus') return p.family === 'erasmus';
       if (key === 'fully-funded') return p.cost === 'fully-funded';
       return levelOf(p).indexOf(key) !== -1;
@@ -253,8 +264,12 @@
     var node = document.getElementById('hostSelect');
     if (!node) return;
     var seen = {};
+    var words = {};
     all.filter(inSection).forEach(function (p) {
-      if (!seen[p.iso]) seen[p.iso] = { name: M.pick(p.country), flag: p.flag, n: 0 };
+      if (!seen[p.iso]) {
+        seen[p.iso] = { name: M.pick(p.country), flag: p.flag, n: 0 };
+        words[p.iso] = [p.country.en, p.country.ka, p.country.ar].join(' ');
+      }
       seen[p.iso].n += 1;
     });
     var keys = Object.keys(seen).sort(function (a, b) { return seen[a].name.localeCompare(seen[b].name); });
@@ -267,6 +282,7 @@
       filters.host = node.value;
       if (selectedId) deselect(); else refresh();
     };
+    M.searchSelect(node, words);
   }
 
   /* Countries we treat as "around you" for the regional highlights */
@@ -304,8 +320,12 @@
     }).sort(rank);
     var home = homeCountry();
     if (hlScope !== 'local' || !home) return open.slice(0, 10);
+    // the best ten in the student's own country first, then its neighbours, then its region
     var near = nearSet(home);
-    var local = open.filter(function (p) { return near.indexOf(p.iso) !== -1; });
+    var local = open.filter(function (p) { return p.iso === home; });
+    if (local.length < 10) {
+      local = local.concat(open.filter(function (p) { return p.iso !== home && near.indexOf(p.iso) !== -1; }));
+    }
     if (local.length < 10) {
       var region = (open.filter(function (p) { return p.iso === home; })[0] || {}).region ||
         (all.filter(function (p) { return near.indexOf(p.iso) !== -1; })[0] || {}).region;
@@ -318,26 +338,41 @@
     return (local.length ? local : open).slice(0, 10);
   }
 
+  function homeName(iso) {
+    var any = all.filter(function (p) { return p.iso === iso; })[0];
+    return any ? M.pick(any.country) : iso;
+  }
+
+  /* "Top 10 in Georgia" / "Global": the country comes from the student's sign-up */
   function paintScope() {
     var host = document.getElementById('hlScope');
     if (!host) return;
     var home = homeCountry();
-    host.hidden = !home;
-    if (!home) return;
+    host.hidden = false;
     host.innerHTML = ['local', 'global'].map(function (key) {
-      return '<button type="button" data-scope="' + key + '" aria-pressed="' + (hlScope === key) + '">' +
-        (key === 'local' ? flagOf(home) + ' ' : M.icon('globe', 14)) +
-        '<span>' + M.t('programs.hl.' + key) + '</span></button>';
+      var text = key === 'local'
+        ? (home ? M.t('programs.hl.inCountry').replace('{country}', homeName(home)) : M.t('programs.hl.myCountry'))
+        : M.t('programs.hl.global');
+      return '<button type="button" data-scope="' + key + '" aria-pressed="' + (hlScope === key && (key === 'global' || !!home)) + '">' +
+        (key === 'local' ? (home ? flagOf(home) + ' ' : M.icon('pin', 14)) : M.icon('globe', 14)) +
+        '<span>' + M.esc(text) + '</span></button>';
     }).join('');
     host.querySelectorAll('[data-scope]').forEach(function (button) {
       button.addEventListener('click', function () {
+        if (button.getAttribute('data-scope') === 'local' && !home) {
+          M.toast(M.t('programs.hl.signIn'), 'info', 3200);
+          window.setTimeout(function () { window.location.href = '/login?mode=register&next=' + encodeURIComponent('/programs'); }, 900);
+          return;
+        }
         hlScope = button.getAttribute('data-scope');
         hlTouched = true;
         paintScope(); paintStrip();
         if (globe) globe.setPins(pinsFromVisible());
       });
     });
-    document.getElementById('hlTitle').textContent = M.t(hlScope === 'local' ? 'programs.hl.localTitle' : 'programs.hl.title');
+    document.getElementById('hlTitle').textContent = hlScope === 'local' && home
+      ? M.t('programs.hl.countryTitle').replace('{country}', homeName(home))
+      : M.t('programs.hl.title');
   }
 
   function familyLabel(program) {
@@ -396,12 +431,24 @@
         '<p>' + M.t('teachers.empty.body') + '</p></div>';
       return;
     }
-    host.innerHTML = list.map(resultRow).join('');
-    host.querySelectorAll('[data-open]').forEach(function (button) {
-      button.addEventListener('click', function () {
-        select(button.getAttribute('data-open'), true);
-      });
-    });
+    // long lists render in pages of 80 rows so filtering stays instant
+    var shownRows = 0;
+    var more = function () {
+      var next = list.slice(shownRows, shownRows + 80);
+      shownRows += next.length;
+      var old = host.querySelector('.list-more');
+      if (old) old.remove();
+      host.insertAdjacentHTML('beforeend', next.map(resultRow).join('') +
+        (shownRows < list.length ? '<button type="button" class="btn btn-ghost btn-sm list-more">' +
+          M.t('programs.showMore').replace('{n}', list.length - shownRows) + '</button>' : ''));
+    };
+    host.innerHTML = '';
+    more();
+    host.onclick = function (event) {
+      var row = event.target.closest('[data-open]');
+      if (row) { select(row.getAttribute('data-open'), true); return; }
+      if (event.target.closest('.list-more')) more();
+    };
   }
 
   function detailMarkup(program) {
@@ -448,11 +495,28 @@
       '</div>';
   }
 
+  /* "Back to 🇶🇦 Qatar · Competitions (24)": the back button names the list it returns to */
+  function backLabel() {
+    var bits = [];
+    var iso = filters.country || (filters.host !== 'all' ? filters.host : null);
+    if (iso) {
+      var any = all.filter(function (p) { return p.iso === iso; })[0];
+      bits.push(flagOf(iso) + ' ' + (any ? M.pick(any.country) : iso));
+    }
+    if (filters.type !== 'all') bits.push(label(TYPES[section], filters.type));
+    if (filters.region !== 'all') bits.push(label(REGIONS, filters.region));
+    if (filters.field !== 'all') bits.push(M.pick(M.FIELDS[filters.field]));
+    if (filters.q) bits.push('“' + filters.q + '”');
+    if (!bits.length) return M.t('programs.panel.back');
+    return M.t('programs.panel.backTo') + ' ' + bits.join(' · ') + ' (' + visible().length + ')';
+  }
+
   function paintDetail(program) {
     var host = document.getElementById('panelBody');
     var count = document.getElementById('panelCount');
     var back = document.getElementById('panelBack');
     back.hidden = false;
+    back.querySelector('span').textContent = backLabel();
     count.textContent = program.flag + ' ' + M.pick(program.country);
     host.innerHTML = detailMarkup(program);
     host.scrollTop = 0;
@@ -502,6 +566,12 @@
       perCountry[program.iso] = (perCountry[program.iso] || 0) + 1;
       return perCountry[program.iso] <= cap;
     });
+    // every pin is a DOM node moved on each frame: keep the globe smooth by
+    // showing the best 160 (or 400 for one country), plus the open programme
+    var limit = filters.country || filters.host !== 'all' ? 400 : 160;
+    if (shown.length > limit) {
+      shown = shown.slice(0, limit).concat(shown.slice(limit).filter(function (p) { return p.id === selectedId; }));
+    }
     return shown.map(function (program) {
       var days = M.daysUntil(program.deadline);
       return {
@@ -518,7 +588,19 @@
     });
   }
 
+  /* Filters live in the address bar, so "back" from a programme page (or a shared
+     link) lands on the same filtered list, e.g. /programs?host=QA&type=mun */
+  function syncUrl() {
+    var url = new URL(window.location.href);
+    [['type', filters.type, 'all'], ['host', filters.host, 'all'], ['region', filters.region, 'all'],
+     ['cost', filters.cost, 'all'], ['field', filters.field, 'all'], ['q', filters.q, ''], ['c', filters.country || '', '']].forEach(function (entry) {
+      if (entry[1] && entry[1] !== entry[2]) url.searchParams.set(entry[0], entry[1]); else url.searchParams.delete(entry[0]);
+    });
+    if (url.href !== window.location.href) window.history.replaceState({}, '', url);
+  }
+
   function refresh() {
+    syncUrl();
     if (globe) globe.setPins(pinsFromVisible());
     if (selectedId && !visible().some(function (p) { return p.id === selectedId; })) {
       deselect();
@@ -593,6 +675,9 @@
     paintChips();
     paintSelect('regionSelect', REGIONS, 'region');
     paintSelect('costSelect', COSTS, 'cost');
+    var fieldTable = { all: M.FIELDS.any };
+    Object.keys(M.FIELDS).forEach(function (key) { if (key !== 'any') fieldTable[key] = M.FIELDS[key]; });
+    paintSelect('fieldSelect', fieldTable, 'field');
     paintHosts();
     paintScope();
     paintStrip();
@@ -603,6 +688,7 @@
     section = /^scholar/.test(params.get('s') || '') || /scholarships/.test(window.location.pathname) ? 'scholarship' : 'project';
     var type = params.get('type');
     if (type) filters.type = type;
+    ['host', 'region', 'cost', 'field'].forEach(function (key) { if (params.get(key)) filters[key] = params.get(key); });
     mountGlobe();
 
     filters.q = params.get('q') || '';
@@ -642,7 +728,7 @@
       });
     });
     document.getElementById('resetFilters').addEventListener('click', function () {
-      filters = { type: 'all', region: 'all', cost: 'all', host: 'all', q: '', country: null };
+      filters = { type: 'all', region: 'all', cost: 'all', host: 'all', q: '', country: null, field: 'all' };
       if (globe) globe.selectCountry(null);
       document.getElementById('countryChip').hidden = true;
       if (searchInput) searchInput.value = '';
@@ -659,7 +745,9 @@
       all = data.programs || [];
       if (homeCountry()) hlScope = 'local';
       paintAll();
-      refresh();
+      var c = params.get('c');
+      var inC = c && all.filter(function (p) { return p.iso === c; })[0];
+      if (inC) setCountry(c, M.pick(inC.country)); else refresh();
       var wanted = params.get('p');
       if (wanted) select(wanted, true);
     });

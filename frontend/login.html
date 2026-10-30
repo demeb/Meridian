@@ -15,10 +15,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Newsreader:ital,wght@0,400;1,400&family=Noto+Sans+Georgian:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&family=Noto+Kufi+Arabic:wght@600;700&display=swap" />
-  <link rel="stylesheet" href="/css/tokens.css?v=r5" />
-  <link rel="stylesheet" href="/css/base.css?v=r5" />
-  <link rel="stylesheet" href="/css/components.css?v=r5" />
-  <link rel="stylesheet" href="/css/pages.css?v=r5" />
+  <link rel="stylesheet" href="/css/tokens.css?v=r6" />
+  <link rel="stylesheet" href="/css/base.css?v=r6" />
+  <link rel="stylesheet" href="/css/components.css?v=r6" />
+  <link rel="stylesheet" href="/css/pages.css?v=r6" />
   <script>
     /* Set theme + language before first paint so nothing flashes. */
     (function () {
@@ -91,8 +91,13 @@
                   <input class="input" id="phone" type="tel" autocomplete="tel" inputmode="tel" placeholder="+974 / +995 / +1 …" />
                 </div>
                 <div class="field">
-                  <label for="birthYear" data-i18n="auth.birthYear">Year of birth (optional)</label>
-                  <input class="input" id="birthYear" type="number" inputmode="numeric" min="1940" max="2020" placeholder="2008" autocomplete="bday-year" />
+                  <span class="label" data-i18n="auth.birthDate">Date of birth</span>
+                  <div class="dob-row">
+                    <select class="select" id="birthDay" aria-label="Day" autocomplete="bday-day"></select>
+                    <select class="select" id="birthMonth" aria-label="Month" autocomplete="bday-month"></select>
+                    <select class="select" id="birthYear" aria-label="Year" autocomplete="bday-year"></select>
+                  </div>
+                  <span class="field-error">—</span>
                 </div>
               </div>
               <div class="field" style="margin-top:1rem">
@@ -187,8 +192,8 @@
 
   <div id="footer-root"></div>
 
-  <script src="/js/i18n.js?v=r5"></script>
-  <script src="/js/app.js?v=r5"></script>
-  <script src="/js/auth.js?v=r5"></script>
+  <script src="/js/i18n.js?v=r6"></script>
+  <script src="/js/app.js?v=r6"></script>
+  <script src="/js/auth.js?v=r6"></script>
 </body>
 </html>

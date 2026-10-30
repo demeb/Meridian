@@ -1,0 +1,979 @@
+[
+ {
+  "id": "the-university-of-melbourne",
+  "name": {
+   "en": "The University of Melbourne",
+   "ka": "მელბურნის უნივერსიტეტი",
+   "ar": "جامعة ملبورن"
+  },
+  "country": {
+   "en": "Australia",
+   "ka": "ავსტრალია",
+   "ar": "أستراليا"
+  },
+  "city": "Melbourne",
+  "iso": "AU",
+  "flag": "🇦🇺",
+  "region": "oceania",
+  "lat": -37.7983,
+  "lon": 144.961,
+  "type": "public",
+  "rank_qs": 22,
+  "tier": "top-50",
+  "website": "https://www.unimelb.edu.au",
+  "platform": "Direct (University of Melbourne online application) or VTAC",
+  "intakes": [
+   "February",
+   "July"
+  ],
+  "deadline": null,
+  "deadline_note": "Main intake is Semester 1 (late February 2027). Melbourne's official dates page blocks automated checks; third-party guides cite 31 October 2026 for most Semester 1 2027 undergraduate courses, with later dates for some. Confirm on study.unimelb.edu.au.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "AUD",
+   "per": "year",
+   "note": "Varies by course (roughly A$45,000–60,000 a year for most bachelor's degrees); check the course's international fee on study.unimelb.edu.au."
+  },
+  "aid_intl": {
+   "en": "Merit scholarships only: the Melbourne International Excellence Scholarship (Undergraduate) gives a fee remission to eligible international students starting a bachelor's from 2027 and needs no separate application; a few higher-value Melbourne International Undergraduate Scholarships also exist."
+  },
+  "acceptance_rate": null,
+  "languages": [
+   "English"
+  ],
+  "tests": {
+   "en": "No SAT/ACT requirement as such: you are assessed on your secondary qualification (IB, A-levels, a US diploma with SAT/ACT/AP, etc.) against each course's entry score. English: the University's undergraduate English standard, with IELTS Academic the usual test; some courses set higher bands. Official score tables could not be verified automatically."
+  },
+  "other_tests": [],
+  "strengths": {
+   "en": [
+    "Arts and humanities",
+    "Commerce",
+    "Biomedicine",
+    "Science",
+    "Design",
+    "Music"
+   ]
+  },
+  "summary": {
+   "en": "Australia's oldest university in Victoria and one of the country's highest-ranked, placed 22nd in the world by QS 2026. Undergraduates take broad bachelor's degrees in arts, commerce, science, biomedicine, design or music, then often move into professional graduate study under the 'Melbourne Model'.",
+   "ka": "ვიქტორიის შტატის უძველესი და ავსტრალიის ერთ-ერთი წამყვანი უნივერსიტეტი, QS 2026-ში მსოფლიოში 22-ე. სტუდენტები ფართო ბაკალავრიატს გადიან ხელოვნებაში, კომერციაში, მეცნიერებაში, ბიომედიცინაში, დიზაინსა თუ მუსიკაში, შემდეგ კი ხშირად პროფესიულ მაგისტრატურაში გადადიან „მელბურნის მოდელით“.",
+   "ar": "أقدم جامعة في ولاية فيكتوريا ومن أعلى الجامعات الأسترالية تصنيفاً، إذ تحتل المرتبة 22 عالمياً في QS 2026. يدرس الطلاب بكالوريوس واسع النطاق في الآداب أو التجارة أو العلوم أو الطب الحيوي أو التصميم أو الموسيقى، ثم ينتقل كثيرون إلى دراسات عليا مهنية وفق «نموذج ملبورن»."
+  },
+  "about": {
+   "en": "Founded in 1853, the University of Melbourne sits on a city-edge campus in Parkville and is a member of Australia's Group of Eight research universities. Its undergraduate offer is deliberately broad: a small set of generalist bachelor's degrees (Arts, Commerce, Science, Biomedicine, Design, Music, Fine Arts and others) with majors chosen as you go, after which many students enter professional graduate degrees such as the Juris Doctor, Doctor of Medicine or engineering master's.\n\nInternational students apply directly online or via an agent, with admission based on the entry score for their secondary qualification plus English proficiency. Fees are high and set per course, but the University automatically considers international applicants for fee-remission scholarships, and a few larger merit awards are available."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school results (final or predicted)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school completion certificate"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English test meeting the University's undergraduate standard"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee (direct application)"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds for the Australian student visa"
+    }
+   }
+  ],
+  "keywords": [
+   "australia",
+   "melbourne",
+   "group of eight",
+   "melbourne model",
+   "commerce",
+   "biomedicine",
+   "arts"
+  ],
+  "sources": [
+   "https://handbook.unimelb.edu.au/2026/courses/b-sci/entry-participation-requirements",
+   "https://scholarships.unimelb.edu.au/awards/melbourne-international-excellence-scholarship-undergraduate",
+   "https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications"
+  ],
+  "verified_at": "2026-10-31",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "act": {
+   "low": null,
+   "high": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "gpa_note": {
+   "en": "Entry is by course-specific scores for your qualification (e.g. high IB totals or strong A-level grades); competitive courses like Biomedicine and Commerce need top results."
+  },
+  "top_programs": {
+   "en": [
+    "Bachelor of Commerce",
+    "Bachelor of Biomedicine",
+    "Bachelor of Science",
+    "Bachelor of Arts",
+    "Bachelor of Design"
+   ]
+  },
+  "scholarships": [
+   {
+    "name": "Melbourne International Excellence Scholarship (Undergraduate)",
+    "url": "https://scholarships.unimelb.edu.au/awards/melbourne-international-excellence-scholarship-undergraduate",
+    "coverage": "partial"
+   }
+  ],
+  "students": null,
+  "intl_pct": null,
+  "logo": null,
+  "application_url": "https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications"
+ },
+ {
+  "id": "australian-national-university-anu",
+  "name": {
+   "en": "Australian National University (ANU)",
+   "ka": "ავსტრალიის ეროვნული უნივერსიტეტი (ANU)",
+   "ar": "الجامعة الوطنية الأسترالية (ANU)"
+  },
+  "country": {
+   "en": "Australia",
+   "ka": "ავსტრალია",
+   "ar": "أستراليا"
+  },
+  "city": "Canberra",
+  "iso": "AU",
+  "flag": "🇦🇺",
+  "region": "oceania",
+  "lat": -35.2777,
+  "lon": 149.1185,
+  "type": "public",
+  "rank_qs": 29,
+  "tier": "top-50",
+  "website": "https://www.anu.edu.au",
+  "platform": "Direct (ANU application portal); UAC International for students finishing Australian Year 12, IB in Australia or NCEA",
+  "intakes": [
+   "February",
+   "July"
+  ],
+  "deadline": "2026-12-15",
+  "deadline_note": "Direct applications for Semester 1, 2027 close 15 December 2026 (some college programs close earlier, 31 October 2026); Semester 2, 2027 closes 15 May 2027.",
+  "tuition_intl": {
+   "amount": 57640,
+   "currency": "AUD",
+   "per": "year",
+   "note": "Annual indicative international fee for the Bachelor of Science; other programs differ. Application fee A$150 for direct applications."
+  },
+  "aid_intl": {
+   "en": "Merit scholarships: the ANU Chancellor's International Scholarship (partial tuition reduction, applicants assessed for the highest award they qualify for) and other faculty awards. No need-based aid for internationals."
+  },
+  "acceptance_rate": null,
+  "languages": [
+   "English"
+  ],
+  "tests": {
+   "en": "No SAT/ACT requirement in general; you need an accepted secondary qualification meeting the indicative entry score for your program. English (ANU policy): IELTS Academic 6.5 overall, TOEFL iBT 80 (TOEFL iBT Australia only for tests from 21 Jan 2026), PTE Academic 64, Cambridge C1/C2 176. At-home/online test versions are not accepted. Some programs set higher requirements."
+  },
+  "other_tests": [],
+  "strengths": {
+   "en": [
+    "Politics and international relations",
+    "Asia-Pacific studies",
+    "Physics and astronomy",
+    "Computer science",
+    "Economics"
+   ]
+  },
+  "summary": {
+   "en": "Australia's national research university in Canberra, ranked 29th in the world by QS 2026 and especially strong in politics, international relations, Asia-Pacific studies and the natural sciences. International students apply directly, with Semester 1 2027 applications closing on 15 December 2026.",
+   "ka": "ავსტრალიის ეროვნული კვლევითი უნივერსიტეტი კანბერაში, QS 2026-ში მსოფლიოში 29-ე, განსაკუთრებით ძლიერი პოლიტიკაში, საერთაშორისო ურთიერთობებში, აზია-წყნარი ოკეანის კვლევებსა და საბუნებისმეტყველო მეცნიერებებში. საერთაშორისო სტუდენტები პირდაპირ აპლიკაციას აკეთებენ; 2027 წლის პირველ სემესტრზე მიღება 2026 წლის 15 დეკემბერს იხურება.",
+   "ar": "الجامعة البحثية الوطنية لأستراليا في كانبرا، تحتل المرتبة 29 عالمياً في QS 2026 وتتميز في السياسة والعلاقات الدولية ودراسات آسيا والمحيط الهادئ والعلوم الطبيعية. يتقدم الطلاب الدوليون مباشرة، ويُغلق التقديم للفصل الأول من 2027 في 15 ديسمبر 2026."
+  },
+  "about": {
+   "en": "ANU was founded by the Australian Parliament in 1946 as the country's national university and remains one of its most research-intensive institutions, with a compact campus in central Canberra. It is known for the Crawford School of Public Policy, the Coral Bell School of Asia Pacific Affairs, the Research School of Astronomy and Astrophysics and strong programs in computing, economics and law; flexible double degrees are common.\n\nInternational applicants apply directly through the ANU portal (A$150 fee) and are assessed against indicative entry scores for their secondary qualification, plus ANU's English standard (IELTS 6.5 / TOEFL 80). Everyone is automatically considered for the Chancellor's International Scholarship, and residential colleges house most first-year students."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school results (final or predicted)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school completion certificate"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English test (IELTS 6.5 / TOEFL iBT 80 / PTE 64)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee (A$150, direct applications)"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds for the Australian student visa"
+    }
+   }
+  ],
+  "keywords": [
+   "australia",
+   "canberra",
+   "anu",
+   "group of eight",
+   "international relations",
+   "public policy",
+   "astronomy"
+  ],
+  "sources": [
+   "https://study.anu.edu.au/apply/international-applications",
+   "https://policies.anu.edu.au/ppl/document/ANUP_000408",
+   "https://programsandcourses.anu.edu.au/program/BSC",
+   "https://study.anu.edu.au/scholarships/find-scholarship/anu-chancellors-international-scholarship"
+  ],
+  "verified_at": "2026-10-31",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "act": {
+   "low": null,
+   "high": null
+  },
+  "ielts_min": 6.5,
+  "toefl_min": 80,
+  "duolingo_min": null,
+  "gpa_note": {
+   "en": "Assessed against ANU's indicative entry score for your qualification (high IB/A-level results for competitive programs); some programs add selection criteria."
+  },
+  "top_programs": {
+   "en": [
+    "Bachelor of International Relations",
+    "Bachelor of Politics, Philosophy and Economics",
+    "Bachelor of Science",
+    "Bachelor of Advanced Computing",
+    "Bachelor of Philosophy (Honours)"
+   ]
+  },
+  "scholarships": [
+   {
+    "name": "ANU Chancellor's International Scholarship",
+    "url": "https://study.anu.edu.au/scholarships/find-scholarship/anu-chancellors-international-scholarship",
+    "coverage": "partial"
+   }
+  ],
+  "students": null,
+  "intl_pct": null,
+  "logo": null,
+  "application_url": "https://study.anu.edu.au/apply/international-applications"
+ },
+ {
+  "id": "monash-university",
+  "name": {
+   "en": "Monash University",
+   "ka": "მონაშის უნივერსიტეტი",
+   "ar": "جامعة موناش"
+  },
+  "country": {
+   "en": "Australia",
+   "ka": "ავსტრალია",
+   "ar": "أستراليا"
+  },
+  "city": "Melbourne (Clayton)",
+  "iso": "AU",
+  "flag": "🇦🇺",
+  "region": "oceania",
+  "lat": -37.9105,
+  "lon": 145.1362,
+  "type": "public",
+  "rank_qs": 31,
+  "tier": "top-50",
+  "website": "https://www.monash.edu",
+  "platform": "Direct (Monash online application) or authorised Monash education agent",
+  "intakes": [
+   "February",
+   "July"
+  ],
+  "deadline": null,
+  "deadline_note": "International undergraduate applications are assessed on a rolling basis; Semester 1 starts late February 2027. Apply several months ahead to allow time for a visa.",
+  "tuition_intl": {
+   "amount": 60040,
+   "currency": "AUD",
+   "per": "year",
+   "note": "2027 international annual fee for the Bachelor of Science (S2000); fees vary by course."
+  },
+  "aid_intl": {
+   "en": "Merit scholarships (e.g. Monash International Merit Scholarship, Monash International Leadership Scholarship) and International Study Grants of up to A$10,000; no need-based aid for internationals."
+  },
+  "acceptance_rate": null,
+  "languages": [
+   "English"
+  ],
+  "tests": {
+   "en": "No SAT/ACT requirement as such; entry is by your secondary qualification against course minimums. English Level A (most courses): IELTS Academic 6.5 with 6.0 in every band, or an equivalent approved test. Medicine (direct entry) also requires the UCAT ANZ (or ISAT for international applicants) and an interview."
+  },
+  "other_tests": [
+   "UCAT ANZ",
+   "ISAT"
+  ],
+  "strengths": {
+   "en": [
+    "Pharmacy and pharmacology",
+    "Medicine and health sciences",
+    "Engineering",
+    "Education",
+    "Business"
+   ]
+  },
+  "summary": {
+   "en": "Australia's largest university, based in Melbourne and ranked 31st in the world by QS 2026, with world-leading pharmacy and strong medicine, engineering and business. Most courses need IELTS 6.5 (6.0 per band) and applications are taken on a rolling basis.",
+   "ka": "ავსტრალიის უდიდესი უნივერსიტეტი მელბურნში, QS 2026-ში მსოფლიოში 31-ე, მსოფლიო დონის ფარმაციით და ძლიერი მედიცინით, ინჟინერიითა და ბიზნესით. კურსების უმეტესობას სჭირდება IELTS 6.5 (თითო კომპონენტში 6.0), განაცხადები კი მიიღება უწყვეტად.",
+   "ar": "أكبر جامعة في أستراليا، مقرها ملبورن وتحتل المرتبة 31 عالمياً في QS 2026، وتتميز عالمياً في الصيدلة ولديها برامج قوية في الطب والهندسة والأعمال. تتطلب معظم البرامج IELTS 6.5 (6.0 في كل مهارة)، ويُقبل التقديم بشكل متواصل."
+  },
+  "about": {
+   "en": "Monash is a Group of Eight research university with its main campus at Clayton in south-east Melbourne, further Victorian campuses, and international campuses in Malaysia and Indonesia. It is internationally known for pharmacy and pharmaceutical sciences, and offers large programs in medicine, engineering, IT, business, law and education, many as double degrees.\n\nInternational students apply directly or through an authorised agent and are assessed on their secondary qualification plus English Level A (IELTS 6.5, no band under 6.0) for most courses. Direct-entry medicine additionally requires the UCAT ANZ or ISAT and an interview. Merit scholarships and study grants partly offset high fees."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school results (final or predicted)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school completion certificate"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English test (IELTS 6.5, min 6.0 per band, or equivalent)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Interview and UCAT ANZ/ISAT for medicine only"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds for the Australian student visa"
+    }
+   }
+  ],
+  "keywords": [
+   "australia",
+   "melbourne",
+   "monash",
+   "group of eight",
+   "pharmacy",
+   "medicine",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.monash.edu/study/courses/find-a-course/science-s2000?international=true",
+   "https://www.monash.edu/study/how-to-apply/application-process/international-students"
+  ],
+  "verified_at": "2026-10-31",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "act": {
+   "low": null,
+   "high": null
+  },
+  "ielts_min": 6.5,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "gpa_note": {
+   "en": "Course-specific minimum scores for your qualification; Medicine, Pharmacy and Law are the most competitive."
+  },
+  "top_programs": {
+   "en": [
+    "Pharmacy (Honours)",
+    "Medical Science and Medicine",
+    "Engineering (Honours)",
+    "Information Technology",
+    "Commerce"
+   ]
+  },
+  "scholarships": [
+   {
+    "name": "Monash International Merit and Leadership Scholarships",
+    "url": "https://www.monash.edu/study/fees-scholarships/scholarships",
+    "coverage": "partial"
+   }
+  ],
+  "students": null,
+  "intl_pct": null,
+  "logo": null,
+  "application_url": "https://www.monash.edu/study/how-to-apply/application-process/international-students"
+ },
+ {
+  "id": "seoul-national-university",
+  "name": {
+   "en": "Seoul National University",
+   "ka": "სეულის ეროვნული უნივერსიტეტი",
+   "ar": "جامعة سيول الوطنية"
+  },
+  "country": {
+   "en": "South Korea",
+   "ka": "სამხრეთ კორეა",
+   "ar": "كوريا الجنوبية"
+  },
+  "city": "Seoul",
+  "iso": "KR",
+  "flag": "🇰🇷",
+  "region": "asia",
+  "lat": 37.4602,
+  "lon": 126.9526,
+  "type": "public",
+  "rank_qs": 38,
+  "tier": "top-50",
+  "website": "https://www.snu.ac.kr",
+  "platform": "Direct (SNU Office of Admissions online application, Global Talent Special Admission)",
+  "intakes": [
+   "March",
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "International (Global Talent) undergraduate admission runs twice a year. Spring 2027 applications closed 9 July 2026. The Fall 2027 guide is not yet published; the Fall 2026 online window was 3–5 March 2026, so expect early March 2027.",
+  "tuition_intl": {
+   "amount": 2442000,
+   "currency": "KRW",
+   "per": "semester",
+   "note": "Spring 2027 first-semester fees: KRW 2,442,000 (humanities, social sciences, business) to KRW 2,998,000 (engineering) and KRW 3,653,000 (fine arts). Application fee KRW 70,000."
+  },
+  "aid_intl": {
+   "en": "Merit and need-based tuition scholarships for international students (e.g. SNU Global Scholarship, Korean Government Scholarship Program/GKS); availability varies by semester."
+  },
+  "acceptance_rate": null,
+  "languages": [
+   "Korean",
+   "English"
+  ],
+  "tests": {
+   "en": "No SAT/ACT requirement; standardized results (SAT, ACT, AP, IB, A-level, IGCSE) may be submitted as supporting evidence. Language: Korean (TOPIK level 3+) or English (TOEFL iBT 80, IELTS Academic 6.0 or TEPS 269); TOEFL Home Edition and IELTS Online accepted. Most courses are taught in Korean. Art, music and PE applicants have practical exams/interviews."
+  },
+  "other_tests": [
+   "TOPIK"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Natural sciences",
+    "Business",
+    "Economics",
+    "Medicine",
+    "Social sciences"
+   ]
+  },
+  "summary": {
+   "en": "South Korea's flagship national university, ranked 38th in the world by QS 2026 and the most selective in the country. Foreign students enter through the twice-yearly Global Talent admission and need TOPIK 3 or an English test such as TOEFL 80 or IELTS 6.0.",
+   "ka": "სამხრეთ კორეის წამყვანი ეროვნული უნივერსიტეტი, QS 2026-ში მსოფლიოში 38-ე და ქვეყანაში ყველაზე შერჩევითი. უცხოელები წელიწადში ორჯერ მიიღებიან Global Talent-ის სპეციალური მიღებით და სჭირდებათ TOPIK 3 ან ინგლისურის ტესტი (მაგ. TOEFL 80 ან IELTS 6.0).",
+   "ar": "الجامعة الوطنية الرائدة في كوريا الجنوبية، تحتل المرتبة 38 عالمياً في QS 2026 وهي الأكثر انتقائية في البلاد. يُقبل الطلاب الأجانب عبر برنامج «المواهب العالمية» مرتين سنوياً ويحتاجون إلى TOPIK 3 أو اختبار إنجليزية مثل TOEFL 80 أو IELTS 6.0."
+  },
+  "about": {
+   "en": "Seoul National University is Korea's top public research university, with its main Gwanak campus in southern Seoul and 16 undergraduate colleges spanning humanities, social sciences, natural sciences, engineering, business, medicine, agriculture, music and fine arts. Teaching is mainly in Korean, though English-taught courses are growing, and graduates dominate Korean academia, government and industry.\n\nForeign nationals (with non-Korean parents) apply through the Global Talent Special Admission for Spring (March) or Fall (September) entry. You submit a personal statement and study plan, school records, recommendation letters and proof of Korean or English proficiency; some majors interview. Tuition is low by international standards, and scholarships are available."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "High school transcripts (with notarized translations)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma or expected graduation certificate"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Personal statement and study plan"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Online recommendation letter(s)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "TOPIK 3+, or TOEFL iBT 80 / IELTS 6.0 / TEPS 269"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "Optional: SAT/ACT/AP/IB/A-level results"
+    }
+   },
+   {
+    "key": "portfolio",
+    "label": {
+     "en": "Portfolio/practical exam for art, music and PE only"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport and nationality documents of applicant and parents"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee (KRW 70,000)"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Interview if required by the department"
+    }
+   }
+  ],
+  "keywords": [
+   "south korea",
+   "seoul",
+   "snu",
+   "sky universities",
+   "engineering",
+   "global talent admission",
+   "topik"
+  ],
+  "sources": [
+   "https://admission.snu.ac.kr/international/undergraduate/spring/guide",
+   "https://admission.snu.ac.kr/webdata/admission/files/2027Spring_under.pdf",
+   "https://admission.snu.ac.kr/webdata/admission/files/2026Fall_under.pdf"
+  ],
+  "verified_at": "2026-10-31",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "act": {
+   "low": null,
+   "high": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 80,
+  "duolingo_min": null,
+  "gpa_note": {
+   "en": "Holistic document review of school performance, study plan and recommendations; admitted students are typically top of their class."
+  },
+  "top_programs": {
+   "en": [
+    "Electrical and Computer Engineering",
+    "Business Administration",
+    "Economics",
+    "Computer Science and Engineering",
+    "Liberal Studies"
+   ]
+  },
+  "scholarships": [
+   {
+    "name": "Global Korea Scholarship (GKS) – undergraduate",
+    "url": "https://www.studyinkorea.go.kr",
+    "coverage": "full"
+   }
+  ],
+  "students": null,
+  "intl_pct": null,
+  "logo": null,
+  "application_url": "https://admission.snu.ac.kr/international/undergraduate/spring/guide"
+ },
+ {
+  "id": "yonsei-university",
+  "name": {
+   "en": "Yonsei University",
+   "ka": "იონსეის უნივერსიტეტი",
+   "ar": "جامعة يونسي"
+  },
+  "country": {
+   "en": "South Korea",
+   "ka": "სამხრეთ კორეა",
+   "ar": "كوريا الجنوبية"
+  },
+  "city": "Seoul",
+  "iso": "KR",
+  "flag": "🇰🇷",
+  "region": "asia",
+  "lat": 37.5658,
+  "lon": 126.9386,
+  "type": "private",
+  "rank_qs": 42,
+  "tier": "top-50",
+  "website": "https://www.yonsei.ac.kr",
+  "platform": "Direct (Underwood International College online application for international students)",
+  "intakes": [
+   "March",
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Underwood International College (English-taught): the Spring 2027 round closed 22 Sept 2026 (interviews 11–12 Dec 2026). The Fall 2027 round is scheduled for March 2027; exact dates not yet published.",
+  "tuition_intl": {
+   "amount": 8416000,
+   "currency": "KRW",
+   "per": "semester",
+   "note": "Underwood International College first-semester tuition for international students (plus KRW 61,000 miscellaneous fees)."
+  },
+  "aid_intl": {
+   "en": "Merit scholarships: all international UIC applicants are automatically considered for admissions scholarships up to full tuition for four years; further merit scholarships each semester."
+  },
+  "acceptance_rate": null,
+  "languages": [
+   "English",
+   "Korean"
+  ],
+  "tests": {
+   "en": "No SAT/ACT requirement. UIC requires proof of English proficiency (TOEFL, IELTS, CEFR certificate, IB English A, AP English or English-medium schooling) with no minimum score. Selection is by document review plus an interview. Korean-taught Yonsei programmes require TOPIK instead."
+  },
+  "other_tests": [],
+  "strengths": {
+   "en": [
+    "Liberal arts (UIC)",
+    "Business",
+    "Economics",
+    "Medicine",
+    "International studies"
+   ]
+  },
+  "summary": {
+   "en": "One of Korea's elite 'SKY' private universities, ranked 42nd in the world by QS 2026. International students usually enter its English-taught Underwood International College, which considers every applicant for scholarships up to full tuition.",
+   "ka": "კორეის ერთ-ერთი ელიტური კერძო „SKY“ უნივერსიტეტი, QS 2026-ში მსოფლიოში 42-ე. საერთაშორისო სტუდენტები ძირითადად ინგლისურენოვან Underwood International College-ში ირიცხებიან, რომელიც ყველა აპლიკანტს განიხილავს სრულ სასწავლო გრანტამდე.",
+   "ar": "إحدى جامعات «SKY» الخاصة النخبوية في كوريا، تحتل المرتبة 42 عالمياً في QS 2026. يلتحق الطلاب الدوليون عادة بكلية أندروود الدولية التي تُدرّس بالإنجليزية وتنظر في منح جميع المتقدمين منحاً تصل إلى كامل الرسوم."
+  },
+  "about": {
+   "en": "Founded in 1885 by missionaries, Yonsei is one of Korea's oldest and most prestigious private universities, with its main Sinchon campus in Seoul and an International Campus in Songdo. It is strong in medicine (Severance Hospital), business, economics and engineering, and its Underwood International College (UIC) offers four-year English-taught liberal-arts degrees in fields such as economics, international studies, political science, life science and technology, and creative technology management.\n\nInternational applicants to UIC apply online in a spring or fall round, submit school records, essays and recommendations, prove English proficiency, and are interviewed. Every international applicant is considered for admissions scholarships that can cover full tuition for four years."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "High school transcripts"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma (GED/home-school not accepted)"
+    }
+   },
+   {
+    "key": "essay",
+    "label": {
+     "en": "Application essays"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Recommendation letter(s)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency (TOEFL/IELTS/IB/AP or English-medium certificate; no minimum)"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Interview"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport and nationality documents of applicant and parents"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee"
+    }
+   }
+  ],
+  "keywords": [
+   "south korea",
+   "seoul",
+   "yonsei",
+   "uic",
+   "underwood international college",
+   "sky universities",
+   "liberal arts in english"
+  ],
+  "sources": [
+   "https://uic.yonsei.ac.kr/admission.php?mid=m04_02_02",
+   "https://uic.yonsei.ac.kr/admission.php?mid=m04_03"
+  ],
+  "verified_at": "2026-10-31",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "act": {
+   "low": null,
+   "high": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "gpa_note": {
+   "en": "Holistic document review (200 points) plus interview; strong academic records and English writing are expected."
+  },
+  "top_programs": {
+   "en": [
+    "Economics (UIC)",
+    "International Studies (UIC)",
+    "Political Science & International Relations (UIC)",
+    "Life Science and Biotechnology (UIC)",
+    "Creative Technology Management (UIC)"
+   ]
+  },
+  "scholarships": [
+   {
+    "name": "UIC Admissions Scholarship (up to full tuition, 4 years)",
+    "url": "https://uic.yonsei.ac.kr/admission.php?mid=m04_03",
+    "coverage": "full"
+   }
+  ],
+  "students": null,
+  "intl_pct": null,
+  "logo": null,
+  "application_url": "https://uic.yonsei.ac.kr/admission.php?mid=m04_02_02"
+ },
+ {
+  "id": "zhejiang-university",
+  "name": {
+   "en": "Zhejiang University",
+   "ka": "ჯეძიანის უნივერსიტეტი",
+   "ar": "جامعة تشجيانغ"
+  },
+  "country": {
+   "en": "China",
+   "ka": "ჩინეთი",
+   "ar": "الصين"
+  },
+  "city": "Hangzhou",
+  "iso": "CN",
+  "flag": "🇨🇳",
+  "region": "asia",
+  "lat": 30.2636,
+  "lon": 120.1229,
+  "type": "public",
+  "rank_qs": 47,
+  "tier": "top-50",
+  "website": "https://www.zju.edu.cn",
+  "platform": "Direct (ZJU Online Application System for International Students)",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "The 2027 guide is not yet published. For 2026 entry the window ran 1 Dec 2025 – 28 Feb 2026 (some majors until 31 May 2026), so expect a similar December 2026 – February 2027 window. A valid CSCA report is required.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "CNY",
+   "per": "year",
+   "note": "Set per programme in the undergraduate programme catalogue; application fee RMB 800 (non-refundable)."
+  },
+  "aid_intl": {
+   "en": "Chinese Government Scholarship and Zhejiang Government Scholarship (Chinese-taught programmes only); programme-specific scholarships for some English-taught programmes (ZJU-UoE Institute, Global Communication and Management, MBBS)."
+  },
+  "acceptance_rate": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "tests": {
+   "en": "SAT/ACT/IB/A-level or national exam results are submitted if applicable (not mandatory). From 2026/27 all international undergraduate applicants must submit a valid CSCA (China Scholastic Competency Assessment) report. Chinese-taught programmes need an HSK certificate; English-taught programmes need TOEFL/IELTS or equivalent (no published minimum). Shortlisted applicants have a video interview."
+  },
+  "other_tests": [
+   "CSCA",
+   "HSK"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Agriculture",
+    "Medicine",
+    "Management"
+   ]
+  },
+  "summary": {
+   "en": "One of China's top C9 research universities, based in Hangzhou and ranked 47th in the world by QS 2026, with very strong engineering, computer science and agriculture. Most bachelor's programmes are taught in Chinese, with a smaller set of English-taught options.",
+   "ka": "ჩინეთის ერთ-ერთი წამყვანი C9 კვლევითი უნივერსიტეტი ხანჯოუში, QS 2026-ში მსოფლიოში 47-ე, ძალიან ძლიერი ინჟინერიით, კომპიუტერული მეცნიერებითა და აგრარული დარგებით. საბაკალავრო პროგრამების უმეტესობა ჩინურად ისწავლება, ინგლისურენოვანი არჩევანი კი უფრო მცირეა.",
+   "ar": "إحدى جامعات C9 البحثية الرائدة في الصين، مقرها هانغتشو وتحتل المرتبة 47 عالمياً في QS 2026، وتتميز بقوة في الهندسة وعلوم الحاسوب والزراعة. تُدرَّس معظم برامج البكالوريوس بالصينية مع عدد أقل من البرامج بالإنجليزية."
+  },
+  "about": {
+   "en": "Zhejiang University is a comprehensive research university with several campuses in Hangzhou (Zijingang is the largest) plus the ZJU International Campus in Haining, home to joint institutes with the University of Edinburgh and the University of Illinois. It is particularly known for engineering, computer science and AI, agriculture and medicine, and for close links with Hangzhou's tech industry.\n\nInternational undergraduates apply online with school records, a study plan, language certificates and, from 2026/27, a CSCA report; shortlisted candidates are interviewed by video and must prepay first-year tuition to confirm a place. Chinese-taught programmes require HSK, while English-taught ones require TOEFL/IELTS."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Senior high school transcripts"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma or expected graduation certificate"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Study plan / personal statement"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "TOEFL/IELTS for English-taught programmes; HSK for Chinese-taught"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "CSCA (China Scholastic Competency Assessment) report"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "SAT/ACT/IB/A-level results if applicable"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Video interview if shortlisted"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport valid beyond 1 March 2027"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee (RMB 800)"
+    }
+   }
+  ],
+  "keywords": [
+   "china",
+   "hangzhou",
+   "zju",
+   "c9 league",
+   "engineering",
+   "computer science",
+   "csca",
+   "hsk"
+  ],
+  "sources": [
+   "http://iczu.zju.edu.cn/admissionsen/2024/1030/c68988a2981659/page.htm",
+   "http://iczu.zju.edu.cn/admissionsen/weeswwwwankwwccountwwnfo/list.htm"
+  ],
+  "verified_at": "2026-10-31",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "act": {
+   "low": null,
+   "high": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "gpa_note": {
+   "en": "Competitive selection on senior-high academic performance, language proficiency, CSCA results and interview."
+  },
+  "top_programs": {
+   "en": [
+    "Computer Science and Technology",
+    "Electrical Engineering",
+    "International Business (English-taught)",
+    "MBBS (English-taught)",
+    "Agriculture"
+   ]
+  },
+  "scholarships": [
+   {
+    "name": "Chinese Government Scholarship (via ZJU)",
+    "url": "http://iczu.zju.edu.cn/admissionsen/wcholarships/list.htm",
+    "coverage": "full"
+   }
+  ],
+  "students": null,
+  "intl_pct": null,
+  "logo": null,
+  "application_url": "http://iczu.zju.edu.cn/admissionsen/2024/1030/c68988a2981659/page.htm"
+ }
+]

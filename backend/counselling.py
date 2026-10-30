@@ -88,14 +88,33 @@ def _schools_for(user):
     return schools
 
 
-def _approved_counsellors():
+FOCUS = ("general", "eu", "us", "asia")
+
+
+def _approved_counsellors(school_ids=None):
+    """Everyone sees the independent counsellors (no partner school; any school or
+    university they name is shown on their profile as an affiliation). A partner
+    school's own counsellors are listed only for that school's students."""
     conn = db.connect()
+    where = "c.school_id IS NULL"
+    args = []
+    if school_ids is not None:
+        if not school_ids:
+            conn.close()
+            return []
+        where = "c.school_id IN (%s)" % ",".join("?" * len(school_ids))
+        args = list(school_ids)
     rows = conn.execute(
-        """SELECT c.id, c.school, c.title, c.bio, c.expertise, c.languages, u.first_name, u.last_name, u.country
-           FROM counsellors c JOIN users u ON u.id = c.user_id WHERE c.status = 'approved'
-           ORDER BY c.created_at""").fetchall()
+        """SELECT c.id, c.school, c.title, c.bio, c.expertise, c.languages, c.focus, u.first_name, u.last_name, u.country
+           FROM counsellors c JOIN users u ON u.id = c.user_id WHERE c.status = 'approved' AND %s
+           ORDER BY c.created_at""" % where, args).fetchall()
     conn.close()
-    return [dict(r) for r in rows]
+    out = []
+    for row in rows:
+        item = dict(row)
+        item["focus"] = [f for f in (item.get("focus") or "").split(",") if f in FOCUS] or ["general"]
+        out.append(item)
+    return out
 
 
 def _board(schools):
@@ -129,6 +148,7 @@ def counselling():
         "courses": _read("courses", []),
         "quizzes": _read("quizzes", {}),
         "counsellors": _approved_counsellors(),
+        "school_counsellors": _approved_counsellors([s["id"] for s in schools]) if schools else [],
         "me": {
             "authed": bool(user),
             "counsellor": {k: mine[k] for k in ("status", "school", "title", "school_id")} if mine else None,
@@ -142,22 +162,22 @@ def counselling():
 def apply():
     user = _user(required=True)
     data = request.get_json(silent=True) or {}
+    # empty = an independent counsellor; otherwise the school or university they work for
     school = _clean(data.get("school"), 140)
-    if not school:
-        return jsonify({"ok": False, "error": "missing_fields"}), 400
+    focus = ",".join(f for f in (data.get("focus") or []) if f in FOCUS) or "general"
     if _counsellor_of(user["id"]):
         return jsonify({"ok": False, "error": "already_applied"}), 409
     conn = db.connect()
     with conn:
         conn.execute(
-            """INSERT INTO counsellors (user_id, school, school_domain, title, bio, expertise, languages, status, created_at)
-               VALUES (?,?,?,?,?,?,?, 'pending', datetime('now'))""",
-            (user["id"], school, _domain(user["email"]), _clean(data.get("title"), 120),
-             _clean(data.get("bio"), 1500), _clean(data.get("expertise"), 300), _clean(data.get("languages"), 120)))
+            """INSERT INTO counsellors (user_id, school, school_domain, title, bio, expertise, languages, focus, status, created_at)
+               VALUES (?,?,?,?,?,?,?,?, 'pending', datetime('now'))""",
+            (user["id"], school, _domain(user["email"]) if school else None, _clean(data.get("title"), 120),
+             _clean(data.get("bio"), 1500), _clean(data.get("expertise"), 300), _clean(data.get("languages"), 120), focus))
     conn.close()
     try:
         mailer.send_counsellor_application("%s %s" % (user["first_name"], user["last_name"]), user["email"],
-                                           school, _clean(data.get("title"), 120))
+                                           school or "Independent", _clean(data.get("title"), 120))
     except Exception:          # the application is saved either way
         pass
     return jsonify({"ok": True, "status": "pending"})
@@ -237,7 +257,12 @@ def admin_review(cid, action):
         if not row:
             conn.close()
             return jsonify({"ok": False, "error": "not_found"}), 404
-        school_id = _school_id(conn, row["school"]) if action == "approve" else row["school_id"]
+        # link to a partner school only if the admin has registered that school;
+        # anyone else stays an independent counsellor visible to every student
+        school_id = row["school_id"]
+        if action == "approve" and row["school"]:
+            match = conn.execute("SELECT id FROM schools WHERE lower(name) = lower(?)", (row["school"],)).fetchone()
+            school_id = match["id"] if match else None
         conn.execute("UPDATE counsellors SET status = ?, school_id = ? WHERE id = ?",
                      ("approved" if action == "approve" else "rejected", school_id, cid))
     conn.close()

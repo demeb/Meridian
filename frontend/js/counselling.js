@@ -162,6 +162,7 @@
     var courses = data.courses || [];
     host.innerHTML = courses.length ? courses.map(function (c, i) {
       return '<button type="button" class="cc-course" data-course="' + i + '">' +
+        '<img class="cc-course-img" src="' + courseImage(c) + '" alt="" loading="lazy" decoding="async" />' +
         '<span class="cc-course-ico">' + M.icon(c.icon && M.icon(c.icon, 20) ? c.icon : 'book', 20) + '</span>' +
         '<b>' + M.esc(P(c.title)) + '</b>' +
         '<span>' + M.esc(P(c.summary)) + '</span>' +
@@ -173,6 +174,12 @@
     });
   }
 
+  /* each course has its own picture (frontend/img/courses/<id>.svg): a CV page,
+     a Europass-style CV, a cover letter, an interview… */
+  function courseImage(course) {
+    return course.image || '/img/courses/' + encodeURIComponent(course.id) + '.svg';
+  }
+
   function openCourse(course, index) {
     var lessons = course.lessons || [];
     var lesson = lessons[index];
@@ -182,6 +189,7 @@
     var tips = list(lesson && lesson.tips);
     var last = index === lessons.length - 1;
     openDialog('<div class="course">' +
+      (index === 0 ? '<img class="course-hero" src="' + courseImage(course) + '" alt="" />' : '') +
       '<span class="eyebrow">' + M.esc(P(course.title)) + '</span>' +
       '<div class="course-grid">' +
         '<nav class="course-nav">' + nav +
@@ -218,17 +226,18 @@
     var me = data.me;
     var mine = me.counsellor && me.counsellor.status === 'approved';
     var head = '<h2 class="op-h2">' + M.t('cc.board.title') + '</h2>';
-    if (!me.schools.length) {
-      host.innerHTML = head + '<div class="cc-board-empty">' + M.icon('building', 28) +
-        '<p>' + M.t(me.authed ? 'cc.board.none' : 'cc.board.login') + '</p>' +
-        (me.authed ? '<a class="btn btn-outline btn-sm" href="/pricing#schools">' + M.t('cc.board.invite') + '</a>'
-          : '<a class="btn btn-primary btn-sm" href="/login?next=/counselling%23board">' + M.t('nav.login') + '</a>') +
-      '</div>';
-      return;
-    }
+    // only students of a partner school see this section (and its jump link)
+    var section = document.getElementById('board');
+    var jump = document.querySelector('.cc-jump a[href="#board"]');
+    section.hidden = !me.schools.length;
+    if (jump) jump.hidden = !me.schools.length;
+    if (!me.schools.length) { host.innerHTML = ''; return; }
     var posts = data.board || [];
+    var staff = data.school_counsellors || [];
     host.innerHTML = head +
       '<p class="muted">' + M.esc(me.schools.map(function (s) { return s.name; }).join(' · ')) + ' — ' + M.t('cc.board.private') + '</p>' +
+      (staff.length ? '<h3 class="cc-sub">' + M.t('cc.board.counsellors') + '</h3><div class="cc-people">' + staff.map(personCard).join('') + '</div>' +
+        '<h3 class="cc-sub">' + M.t('cc.board.posts') + '</h3>' : '') +
       (mine ? postForm() : '') +
       '<div class="cc-posts">' + (posts.length ? posts.map(function (p) {
         return '<article class="cc-post">' +
@@ -275,21 +284,38 @@
   }
 
   /* ---------------------------------------------------------- counsellors */
-  function paintPeople() {
-    var host = document.getElementById('ccPeople');
-    var people = data.counsellors || [];
-    host.innerHTML = people.length ? people.map(function (c) {
+  var FOCUS = ['general', 'eu', 'us', 'asia'];
+  var focus = 'all';
+
+  function personCard(c) {
       var initials = ((c.first_name || ' ')[0] + (c.last_name || ' ')[0]).toUpperCase();
       return '<article class="cc-person">' +
         '<span class="avatar avatar-md"><span>' + M.esc(initials) + '</span></span>' +
         '<div><h3>' + M.esc(c.first_name + ' ' + c.last_name) + '</h3>' +
-        '<p class="muted">' + M.esc((c.title ? c.title + ' · ' : '') + c.school) + '</p>' +
+        '<p class="muted">' + M.esc(c.title || '') + '</p>' +
+        '<p class="cc-aff">' + M.icon(c.school ? 'building' : 'compass', 14) +
+          M.esc(c.school ? M.t('cc.c.affiliated').replace('{school}', c.school) : M.t('cc.c.independent')) + '</p>' +
+        '<div class="tag-list" style="margin-top:.4rem">' + (c.focus || []).map(function (f) {
+          return '<span class="badge badge-brand">' + M.esc(M.t('cc.focus.' + f)) + '</span>'; }).join('') + '</div>' +
         (c.expertise ? '<div class="tag-list" style="margin-top:.5rem">' + c.expertise.split(/\s*,\s*/).filter(Boolean).slice(0, 6).map(function (x) {
           return '<span class="badge">' + M.esc(x) + '</span>'; }).join('') + '</div>' : '') +
         (c.bio ? '<p style="margin-top:.6rem;font-size:.88rem">' + M.esc(c.bio) + '</p>' : '') +
         (c.languages ? '<p class="dim" style="font-size:.78rem;margin-top:.4rem">' + M.icon('globe', 13) + ' ' + M.esc(c.languages) + '</p>' : '') +
         '</div></article>';
-    }).join('') : '<div class="cc-board-empty">' + M.icon('users', 28) + '<p>' + M.t('cc.c.empty') + '</p></div>';
+  }
+
+  function paintPeople() {
+    var host = document.getElementById('ccPeople');
+    var all = data.counsellors || [];
+    var people = all.filter(function (c) { return focus === 'all' || (c.focus || []).indexOf(focus) !== -1; });
+    var chips = '<div class="cc-focus" role="group" aria-label="Counselling focus">' + ['all'].concat(FOCUS).map(function (f) {
+      return '<button type="button" class="chip" data-focus="' + f + '" aria-pressed="' + (focus === f) + '">' + M.t('cc.focus.' + f) + '</button>';
+    }).join('') + '</div>';
+    host.innerHTML = chips + (people.length ? '<div class="cc-people">' + people.map(personCard).join('') + '</div>'
+      : '<div class="cc-board-empty">' + M.icon('users', 28) + '<p>' + M.t(all.length ? 'cc.c.noneFocus' : 'cc.c.empty') + '</p></div>');
+    host.querySelectorAll('[data-focus]').forEach(function (b) {
+      b.addEventListener('click', function () { focus = b.getAttribute('data-focus'); paintPeople(); });
+    });
   }
 
   function paintJoin() {
@@ -306,13 +332,16 @@
       '<h3>' + M.t('cc.join.title') + '</h3><p class="muted">' + M.t('cc.join.lede') + '</p>' +
       (me.authed ? '' : '<p class="evidence">' + M.t('cc.join.login') + '</p>') +
       '<div class="cc-form-row">' +
-        '<label class="field"><span>' + M.t('cc.join.school') + '</span><input class="input" name="school" required maxlength="140" /></label>' +
+        '<label class="field"><span>' + M.t('cc.join.schoolOpt') + '</span><input class="input" name="school" maxlength="140" placeholder="' + M.esc(M.t('cc.join.schoolPh')) + '" /></label>' +
         '<label class="field"><span>' + M.t('cc.join.role') + '</span><input class="input" name="title" maxlength="120" placeholder="' + M.esc(M.t('cc.join.rolePh')) + '" /></label>' +
       '</div>' +
       '<div class="cc-form-row">' +
         '<label class="field"><span>' + M.t('cc.join.expertise') + '</span><input class="input" name="expertise" maxlength="300" placeholder="' + M.esc(M.t('cc.join.expertisePh')) + '" /></label>' +
         '<label class="field"><span>' + M.t('cc.join.languages') + '</span><input class="input" name="languages" maxlength="120" placeholder="English, ქართული, العربية" /></label>' +
       '</div>' +
+      '<fieldset class="field cc-focus-pick"><legend>' + M.t('cc.join.focus') + '</legend>' + FOCUS.map(function (f) {
+        return '<label class="ctl-check"><input type="checkbox" name="focus" value="' + f + '"' + (f === 'general' ? ' checked' : '') + ' /><span>' + M.t('cc.focus.' + f) + '</span></label>';
+      }).join('') + '</fieldset>' +
       '<label class="field"><span>' + M.t('cc.join.bio') + '</span><textarea class="textarea" name="bio" rows="3" maxlength="1500"></textarea></label>' +
       (me.authed ? '<button type="submit" class="btn btn-primary">' + M.t('cc.join.send') + '</button>'
         : '<a class="btn btn-primary" href="/login?mode=register&next=/counselling%23join">' + M.t('common.signUp') + '</a>') +
@@ -324,6 +353,7 @@
       e.preventDefault();
       M.api('/api/counsellors/apply', { body: {
         school: form.school.value, title: form.title.value, expertise: form.expertise.value,
+        focus: Array.prototype.map.call(form.querySelectorAll('[name="focus"]:checked'), function (x) { return x.value; }),
         languages: form.languages.value, bio: form.bio.value } }).then(function (res) {
         if (!res.ok) return M.toast(M.t(res.error === 'already_applied' ? 'cc.join.already' : 'common.error'), 'error');
         data.me.counsellor = { status: 'pending' };

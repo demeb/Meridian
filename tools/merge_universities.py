@@ -100,14 +100,16 @@ def enrich(u):
 
 def translate(unis):
     """Georgian and Arabic from the translation agent (research/round5/translate/uni-out.json)."""
-    path = os.path.join(RESEARCH, "round5", "translate", "uni-out.json")
-    if not os.path.exists(path):
-        return
-    try:
-        done = json.load(open(path, encoding="utf-8"))
-    except ValueError:
-        return
-    done = done if isinstance(done, dict) else {}
+    done = {}
+    paths = [os.path.join(RESEARCH, "round5", "translate", "uni-out.json")] + \
+        sorted(glob.glob(os.path.join(RESEARCH, "round6", "translate", "uni-out-*.json")))
+    for path in paths:
+        try:
+            part = json.load(open(path, encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        for uid, fields in (part.items() if isinstance(part, dict) else []):
+            done.setdefault(uid, {}).update(fields if isinstance(fields, dict) else {})
     filled = 0
     for u in unis:
         for field, langs in (done.get(u["id"]) or {}).items():
@@ -152,7 +154,8 @@ def main():
 
     full = {}
     files = sorted(glob.glob(os.path.join(RESEARCH, "incoming", "universities-*.json"))) + \
-        sorted(p for p in glob.glob(os.path.join(RESEARCH, "round5", "universities-*.json")) if not p.endswith("qs-list.json"))
+        sorted(p for p in glob.glob(os.path.join(RESEARCH, "round5", "universities-*.json")) if "qs-list" not in p) + \
+        sorted(glob.glob(os.path.join(RESEARCH, "round6", "universities-*.json")))
     for path in files:
         rows = load(path)
         for u in rows:

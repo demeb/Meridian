@@ -29,13 +29,13 @@ from datetime import datetime, timedelta
 
 PLATFORM_FEE_RATE = float(os.environ.get("MERIDIAN_PLATFORM_FEE", "0.10"))
 PROVIDER = os.environ.get("MERIDIAN_PAYMENT_PROVIDER", "test")
-CURRENCY = "GEL"
+CURRENCY = "USD"
 
-# Memberships. Prices in minor units (tetri). Yearly = 10 months.
+# Memberships. Prices in minor units (US cents). Yearly = 10 months.
 PLANS = {
     "free": {"monthly": 0, "yearly": 0},
-    "compass": {"monthly": 2900, "yearly": 29000},
-    "navigator": {"monthly": 7900, "yearly": 79000},
+    "compass": {"monthly": 799, "yearly": 7990},
+    "navigator": {"monthly": 1499, "yearly": 14990},
 }
 
 METHODS = ("card",)          # Visa and Mastercard

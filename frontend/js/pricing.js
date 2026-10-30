@@ -48,8 +48,8 @@
       return {
         main: (monthly % 1 ? monthly.toFixed(2) : String(monthly)),
         per: M.t('account.month'),
-        note: M.t('pricing.billedYearly').replace('{total}', (minor / 100) + ' ₾')
-          .replace('{save}', ((plans[plan].monthly * 12 - minor) / 100) + ' ₾'),
+        note: M.t('pricing.billedYearly').replace('{total}', '$' + (minor / 100).toFixed(2).replace(/\.00$/, ''))
+          .replace('{save}', '$' + ((plans[plan].monthly * 12 - minor) / 100).toFixed(2).replace(/\.00$/, '')),
         day: day
       };
     }
@@ -80,7 +80,7 @@
       '<div class="plan-head"><span class="plan-ico">' + M.icon(PLAN_ICON[plan], 22) + '</span>' +
         '<h3>' + M.t('pricing.' + plan + '.name') + '</h3></div>' +
       '<p class="plan-for">' + M.t('pricing.' + plan + '.for') + '</p>' +
-      '<div class="plan-amount"><b>' + price.main + '</b><span class="gel">₾</span><span class="plan-per">' + price.per + '</span></div>' +
+      '<div class="plan-amount"><span class="gel">$</span><b>' + price.main + '</b><span class="plan-per">' + price.per + '</span></div>' +
       '<p class="plan-note">' + (price.note || '&nbsp;') + '</p>' +
       (price.day ? '<p class="plan-day">' + M.t('pricing.perDay').replace('{n}', price.day) + '</p>' : '') +
       cta + lead +

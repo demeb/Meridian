@@ -15,12 +15,14 @@ Tutors      POST /api/tutor/apply      GET|PATCH /api/tutor/me   POST /api/tutor
 Other       POST /api/saved            POST /api/engage
 Admin       GET  /api/admin/overview   POST /api/admin/tutors/<id>/<approve|reject>
 """
+import gzip
 import io
 import json
 import os
 import re
 import secrets
 import sys
+from datetime import date, datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
@@ -104,7 +106,7 @@ def require_user():
 def money(minor):
     value = minor / 100.0
     text = ("%.2f" % value).rstrip("0").rstrip(".")
-    return "%s ₾" % text
+    return "$%s" % text
 
 
 def split_list(value, limit=12):
@@ -133,6 +135,7 @@ def public_user(user):
         "city": user.get("city"),
         "school": user.get("school"),
         "birth_year": user.get("birth_year"),
+        "birth_date": user.get("birth_date"),
         "interests": split_list(user.get("interests")),
         "target_regions": split_list(user.get("target_regions")),
         "locale": user["locale"],
@@ -185,7 +188,17 @@ def profile_from(data):
         "target_regions": ",".join(split_list(data.get("target_regions"))) or None,
         "locale": data.get("locale") if data.get("locale") in ("ka", "ar") else "en",
         "birth_year": birth_year_from(data.get("birth_year")),
+        "birth_date": birth_date_from(data.get("birth_date")),
     }
+
+
+def birth_date_from(value):
+    """"2008-04-17" -> the same string if it is a real date between 1940 and today."""
+    try:
+        born = datetime.strptime(str(value or "").strip(), "%Y-%m-%d").date()
+    except ValueError:
+        return None
+    return born.isoformat() if date(1940, 1, 1) <= born <= date.today() else None
 
 
 def birth_year_from(value):
@@ -253,9 +266,13 @@ def register():
     email = clean(data.get("email"), 160).lower()
     password = str(data.get("password") or "")
     profile = profile_from(data)
+    if profile["birth_date"]:
+        profile["birth_year"] = int(profile["birth_date"][:4])
 
     if not first or not last:
         return fail("name_required")
+    if not profile["birth_date"]:
+        return fail("birth_required")
     if not EMAIL_RE.match(email):
         return fail("invalid_email")
     if len(password) < 8:
@@ -405,10 +422,22 @@ def gate_program(program, unlocked):
     return item
 
 
+# What the lists, the globe and the search need. The long texts (about, how to
+# apply, eligibility…) load with the single programme, so the list stays light:
+# all fields in three languages for 2000 programmes would be ~35 MB.
+PROGRAM_CARD = ("id", "section", "family", "type", "org", "name", "country", "city", "iso", "flag", "region",
+                "lat", "lon", "cost", "duration", "grades", "deadline", "event_dates", "summary", "keywords",
+                "score", "premium", "level", "fields", "coverage", "coverage_pct")
+
+
 @app.get("/api/programs")
 def api_programs():
     user = current_user()
-    items = [gate_program(p, bool(user)) for p in catalog.programs()]
+    items = []
+    for program in catalog.programs():
+        locked = gate_program(program, bool(user))["locked"]
+        items.append(dict({k: program[k] for k in PROGRAM_CARD
+                           if k in program and not (locked and k in LOCKED_FIELDS)}, locked=locked))
     return jsonify({
         "ok": True,
         "programs": items,
@@ -435,14 +464,56 @@ UNI_CARD = ("id", "name", "country", "city", "iso", "flag", "region", "lat", "lo
 BASIC_CARD = ("id", "name", "country", "city", "iso", "flag", "region", "rank_qs", "tier", "website")
 
 
+LOGO_DIR = os.path.join(FRONTEND_DIR, "img", "unis")
+LOGOS = set(name[:-4] for name in os.listdir(LOGO_DIR)) if os.path.isdir(LOGO_DIR) else set()
+
+
+def logo_for(u):
+    """Our own downloaded copy (tools/fetch_logos.py) first, else the profile's link."""
+    return "/img/unis/%s.png" % u["id"] if u.get("id") in LOGOS else u.get("logo")
+
+
+OTHER_TESTS = ("GMAT", "GRE", "LSAT", "MCAT", "UCAT", "GAMSAT", "LNAT", "TMUA", "ESAT", "TSA", "STEP", "MAT",
+               "PAT", "HAT", "BMAT", "TestDaF", "DSH", "DELF", "DALF", "TCF", "DELE",
+               "HSK", "JLPT", "TOPIK", "YÖS", "Qudurat", "Tahsili", "EmSAT")
+
+
+def other_tests(u):
+    """Admission tests beyond SAT/ACT and English that a university names:
+    the researched list when there is one, else the names found in its test notes."""
+    if u.get("other_tests"):
+        return [str(x) for x in u["other_tests"]]
+    text = " ".join(str((u.get(k) or {}).get("en", "")) if isinstance(u.get(k), dict) else str(u.get(k) or "")
+                    for k in ("tests", "gpa_note"))
+    found = []
+    for name in OTHER_TESTS:
+        if re.search(r"(?<![A-Za-z])%s(?![A-Za-z])" % re.escape(name), text) and name not in found:
+            found.append(name)
+    return found
+
+
+def study_text(u):
+    """What a university is known for, in English, for the "major" filter."""
+    parts = []
+    for key in ("strengths", "top_programs"):
+        value = u.get(key)
+        value = value.get("en") if isinstance(value, dict) else value
+        if isinstance(value, list):
+            parts.extend(str(v) for v in value)
+        elif value:
+            parts.append(str(value))
+    return " ".join(parts)[:600]
+
+
 @app.get("/api/universities")
 def api_universities():
     """The whole catalogue in one response: full profiles carry the admission
     data the filters use; basic QS entries carry just enough for a card."""
     full, rest = catalog.directory()
-    cards = [dict({k: u.get(k) for k in UNI_CARD}, profile="full",
-                  scholarships=len(u.get("scholarships") or [])) for u in full]
-    cards += [dict({k: u.get(k) for k in BASIC_CARD}, profile="basic") for u in rest if isinstance(u.get("name"), dict)]
+    cards = [dict({k: u.get(k) for k in UNI_CARD}, profile="full", logo=logo_for(u),
+                  scholarships=len(u.get("scholarships") or []), study=study_text(u)) for u in full]
+    cards += [dict({k: u.get(k) for k in BASIC_CARD}, profile="basic", logo=logo_for(u))
+              for u in rest if isinstance(u.get("name"), dict)]
     return jsonify({
         "ok": True,
         "universities": cards,
@@ -469,7 +540,7 @@ def api_university(uni_id):
     uni = catalog.find_university(uni_id)
     if not uni:
         return fail("not_found", 404)
-    return jsonify({"ok": True, "university": uni})
+    return jsonify({"ok": True, "university": dict(uni, logo=logo_for(uni), other_tests=other_tests(uni))})
 
 
 # ---------------------------------------------------------------- research
@@ -990,6 +1061,17 @@ def api_saved_universities_xlsx():
         if not u:
             continue
         tuition = u.get("tuition_intl") or {}
+        rate = assistant.USD_RATES.get((tuition.get("currency") or "USD").upper())
+        tuition_text = ""
+        if isinstance(tuition.get("amount"), (int, float)):
+            per = tuition.get("per") or "year"
+            yearly = tuition["amount"] * (2 if per == "semester" else 1)
+            if rate:
+                tuition_text = "$%s / year" % "{:,}".format(int(round(yearly * rate, -2)))
+                if (tuition.get("currency") or "USD").upper() != "USD":
+                    tuition_text += "\n(%s %s / %s)" % ("{:,}".format(tuition["amount"]), tuition.get("currency", ""), per)
+            else:
+                tuition_text = "%s %s / %s" % ("{:,}".format(tuition["amount"]), tuition.get("currency", ""), per)
         english = " · ".join(x for x in [
             "IELTS %s" % u["ielts_min"] if u.get("ielts_min") else "",
             "TOEFL %s" % u["toefl_min"] if u.get("toefl_min") else "",
@@ -1004,29 +1086,46 @@ def api_saved_universities_xlsx():
         deadline = u.get("deadline") or ""
         if u.get("deadline_note"):
             deadline = (deadline + "\n" if deadline else "") + u["deadline_note"]
-        rows.append([
+        rows.append(([
             t(u.get("name")),
             u.get("rank_label") or u.get("rank_qs") or "",
             sat, span(u.get("act")), english, deadline,
             t(u.get("top_programs")) or t(u.get("strengths")),
             ", ".join(x for x in [u.get("city") or "", t(u.get("country"))] if x),
+            ", ".join(other_tests(u)),
             reqs or t(u.get("tests")),
-            ("%s %s / %s" % ("{:,}".format(tuition["amount"]) if isinstance(tuition.get("amount"), (int, float)) else tuition.get("amount"),
-                             tuition.get("currency", ""), tuition.get("per", "year"))) if tuition.get("amount") is not None else "",
+            tuition_text,
             t(u.get("aid_intl")),
             schol,
             "%d%%" % round(u["acceptance_rate"] * 100) if u.get("acceptance_rate") else "",
             u.get("platform") or "",
             ("link", u.get("application_url") or u.get("website"), "Official site") if (u.get("application_url") or u.get("website")) else "",
             ("link", (os.environ.get("MERIDIAN_PUBLIC_URL") or request.host_url).rstrip("/") + "/universities/" + u["id"], "Meridian page"),
-        ])
-    rows.sort(key=lambda r: (int(str(r[1]).lstrip("=").split("-")[0]) if str(r[1]).lstrip("=").split("-")[0].isdigit() else 99999))
+        ], t(u.get("country")) or "—"))
+    def rank_key(row):
+        head = str(row[1]).lstrip("=").split("-")[0]
+        return int(head) if head.isdigit() else 99999
+
+    # countries with five or more saved universities get their own section
+    by_country = {}
+    for row, country in rows:
+        by_country.setdefault(country, []).append(row)
+    big = sorted((c for c in by_country if len(by_country[c]) >= 5), key=lambda c: (-len(by_country[c]), c))
+    rest = sorted((r for c in by_country if c not in big for r in by_country[c]), key=rank_key)
+    sheet_rows = []
+    for country in big:
+        sheet_rows.append(("group", "%s (%d)" % (country, len(by_country[country]))))
+        sheet_rows.extend(sorted(by_country[country], key=rank_key))
+    if rest:
+        if big:
+            sheet_rows.append(("group", "%s (%d)" % ({"ka": "სხვა ქვეყნები", "ar": "دول أخرى"}.get(lang, "Other countries"), len(rest))))
+        sheet_rows.extend(rest)
     header = ["University", "QS ranking", "SAT (middle 50%)", "ACT (middle 50%)", "English test minimums",
-              "Application deadline", "Best-known programmes", "City / country", "Requirements",
-              "Tuition (international)", "Financial aid", "Scholarships (links)", "Acceptance rate",
+              "Application deadline", "Best-known programmes", "City / country", "Other required tests", "Requirements",
+              "Tuition per year (USD)", "Financial aid", "Scholarships (links)", "Acceptance rate",
               "Apply through", "Official website", "Meridian"]
-    widths = [34, 11, 16, 14, 26, 30, 34, 24, 44, 22, 40, 48, 12, 16, 16, 16]
-    data = xlsx.write_sheet("My universities", header, rows, widths)
+    widths = [34, 11, 16, 14, 26, 30, 34, 24, 20, 44, 22, 40, 48, 12, 16, 16, 16]
+    data = xlsx.write_sheet("My universities", header, sheet_rows, widths)
     response = make_response(data)
     response.headers["Content-Type"] = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     response.headers["Content-Disposition"] = 'attachment; filename="meridian-universities.xlsx"'
@@ -1176,6 +1275,23 @@ def not_found(_error):
 @app.errorhandler(413)
 def too_large(_error):
     return fail("photo_too_large", 413)
+
+
+@app.after_request
+def compress(response):
+    """gzip JSON and text answers (the programme and university lists shrink ~8x)."""
+    if (response.direct_passthrough or response.status_code != 200 or "Content-Encoding" in response.headers
+            or "gzip" not in request.headers.get("Accept-Encoding", "")
+            or not (response.mimetype or "").startswith(("application/json", "text/"))):
+        return response
+    data = response.get_data()
+    if len(data) < 1400:
+        return response
+    response.set_data(gzip.compress(data, compresslevel=5))
+    response.headers["Content-Encoding"] = "gzip"
+    response.headers["Content-Length"] = str(len(response.get_data()))
+    response.vary.add("Accept-Encoding")
+    return response
 
 
 @app.after_request

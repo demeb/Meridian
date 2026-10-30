@@ -111,29 +111,43 @@
     controls.dampingFactor = 0.08;
 
     var baseFov = null;
+    // Hero: a hidden probe reads the CSS --lift (room above the earth for the arcs) in px
+    var probe = null;
+    if (mode === 'hero') {
+      probe = document.createElement('div');
+      probe.className = 'earth-lift-probe';
+      el.appendChild(probe);
+    }
     function size() {
       var rect = el.getBoundingClientRect();
       var w = Math.max(1, Math.round(rect.width));
       var h = Math.max(1, Math.round(rect.height));
       globe.width(w).height(h);
-      // Hero: the box is taller than it is wide so the arcs can climb up into the
-      // page instead of being cut at the top of the earth. Render it as the top
-      // part of a taller virtual frame, so the earth keeps its size and place.
-      var lift = mode === 'hero' ? h - w : 0;
-      var camera = globe.camera();
-      if (baseFov === null) baseFov = camera.fov;
-      if (lift > 0) {
-        var fullH = w + 2 * lift;
-        camera.fov = 2 * Math.atan(Math.tan(baseFov * Math.PI / 360) * fullH / w) * 180 / Math.PI;
-        camera.aspect = w / fullH;
-        camera.setViewOffset(w, fullH, 0, 0, w, h);
-        camera.updateProjectionMatrix();
-      } else if (camera.view && camera.view.enabled) {
-        camera.fov = baseFov;
-        camera.clearViewOffset();
-        camera.aspect = w / h;
-        camera.updateProjectionMatrix();
-      }
+      // Hero: the earth is a w×w square whose top sits --lift below the box top, so
+      // the arcs can climb into the page. The box only reaches the bottom of the
+      // hero, so render just that top slice of a taller virtual frame: the earth
+      // keeps its size and place and the GPU never draws the hidden part.
+      var lift = mode === 'hero' ? (probe ? probe.offsetHeight : Math.max(0, h - w)) : 0;
+      var apply = function () {
+        var camera = globe.camera();
+        if (baseFov === null) baseFov = camera.fov;
+        if (lift > 0) {
+          var fullH = w + 2 * lift;
+          camera.fov = 2 * Math.atan(Math.tan(baseFov * Math.PI / 360) * fullH / w) * 180 / Math.PI;
+          camera.aspect = w / fullH;
+          camera.setViewOffset(w, fullH, 0, 0, w, h);
+          camera.updateProjectionMatrix();
+        } else if (camera.view && camera.view.enabled) {
+          camera.fov = baseFov;
+          camera.clearViewOffset();
+          camera.aspect = w / h;
+          camera.updateProjectionMatrix();
+        }
+      };
+      apply();
+      // globe.gl applies the new size on its next tick and resets the camera
+      // aspect; set the view again after that
+      window.requestAnimationFrame(function () { window.requestAnimationFrame(apply); });
     }
     new ResizeObserver(size).observe(el);
     size();

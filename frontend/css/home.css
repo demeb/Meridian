@@ -178,17 +178,19 @@ html.intro-skipping .hero2 { --hero-start: 380ms; }
   position: absolute; z-index: -2;
   left: 50%;
   /* the box reaches --lift above the earth so its arcs can rise into the hero */
-  --earth-w: max(1500px, 128vw);
+  --earth-w: max(1750px, 150vw);
   --lift: 62vh;
-  top: calc(70% - var(--lift));
+  top: calc(66% - var(--lift));
   width: var(--earth-w);
-  height: calc(var(--earth-w) + var(--lift));
+  /* only down to the bottom of the hero: the rest of the sphere is never seen */
+  height: calc(var(--lift) + 36%);
   transform: translateX(-50%);
   opacity: 0;
   animation: earth-rise 1600ms var(--ease-out) calc(var(--hero-start) - 250ms) both;
 }
 .hero2-earth canvas { display: block; }
 .hero2-earth.earth-fallback {
+  top: 66%; height: var(--earth-w);
   border-radius: 50%;
   background: url(/assets/earth/earth-night.jpg) center 18% / 120% auto;
   box-shadow: 0 0 120px 30px rgba(74, 155, 255, 0.35), inset 0 40px 80px rgba(255,255,255,.08);
@@ -317,7 +319,7 @@ html.intro-skipping .hero2 { --hero-start: 380ms; }
 
 @media (max-width: 680px) {
   .hero2-content { padding-top: 56px; }
-  .hero2-earth { --earth-w: 220vw; --lift: 56vh; top: calc(76% - var(--lift)); }
+  .hero2-earth { --earth-w: 230vw; --lift: 56vh; top: calc(74% - var(--lift)); height: calc(var(--lift) + 28%); }
   .hero2-search { margin-top: 1.6rem; }
   .hero2-actions .btn { flex: 1 1 100%; }
 }
@@ -333,9 +335,10 @@ html.intro-done .intro { display: none !important; }
    3. a slow aurora behind the headline so the hero is never static        */
 /* arcs fade out softly as they climb behind the headline */
 .hero2-earth {
-  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,.55) 22%, #000 32%, #000 100%);
-          mask-image: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,.55) 22%, #000 32%, #000 100%);
+  -webkit-mask-image: linear-gradient(to bottom, transparent 0, rgba(0,0,0,.55) calc(var(--lift) * .95), #000 calc(var(--lift) + 210px), #000 100%);
+          mask-image: linear-gradient(to bottom, transparent 0, rgba(0,0,0,.55) calc(var(--lift) * .95), #000 calc(var(--lift) + 210px), #000 100%);
 }
+.earth-lift-probe { position: absolute; top: 0; left: 0; width: 1px; height: var(--lift); visibility: hidden; pointer-events: none; }
 .hero2-ribbons {
   position: absolute; inset: 0; z-index: -2;
   width: 100%; height: 100%;

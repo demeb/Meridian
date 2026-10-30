@@ -1,305 +1,1475 @@
 [
   {
-    "id": "nino-kvaratskhelia", "initials": "NK", "flag": "🇬🇪", "verified": true,
-    "name": { "en": "Nino Kvaratskhelia", "ka": "ნინო კვარაცხელია" },
-    "headline": { "en": "SAT Math & Physics Tutor", "ka": "SAT მათემატიკისა და ფიზიკის მასწავლებელი" },
-    "country": { "en": "Georgia", "ka": "საქართველო" }, "city": { "en": "Tbilisi", "ka": "თბილისი" },
-    "subjects": ["sat", "math", "physics"], "regions": ["europe"], "languages": ["ka", "en"],
-    "price": 75, "rating": 4.9, "reviews": 64, "experience": 7, "students": 240,
+    "id": "nino-kvaratskhelia",
+    "initials": "NK",
+    "flag": "🇬🇪",
+    "verified": true,
+    "name": {
+      "en": "Nino Kvaratskhelia",
+      "ka": "ნინო კვარაცხელია"
+    },
+    "headline": {
+      "en": "SAT Math & Physics Tutor",
+      "ka": "SAT მათემატიკისა და ფიზიკის მასწავლებელი"
+    },
+    "country": {
+      "en": "Georgia",
+      "ka": "საქართველო"
+    },
+    "city": {
+      "en": "Tbilisi",
+      "ka": "თბილისი"
+    },
+    "subjects": [
+      "sat",
+      "math",
+      "physics"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "languages": [
+      "ka",
+      "en"
+    ],
+    "price": 28,
+    "rating": 4.9,
+    "reviews": 64,
+    "experience": 7,
+    "students": 240,
     "bio": {
       "en": "I went through UWC Atlantic myself and then read Applied Physics at TU Delft, so I teach the SAT the way it is actually scored — pattern first, arithmetic last. My students average a 140-point gain on the maths section over ten sessions, and I keep a shared error log with every one of them so we never fix the same mistake twice.",
       "ka": "თავად გავიარე UWC ატლანტიკი, შემდეგ კი გამოყენებითი ფიზიკა ვისწავლე TU Delft-ში, ამიტომ SAT-ს ისე ვასწავლი, როგორც რეალურად ფასდება — ჯერ პატერნი, ბოლოს არითმეტიკა. ჩემი მოსწავლეები საშუალოდ 140 ქულით იმატებენ მათემატიკაში ათ შეხვედრაში, და თითოეულთან ვაწარმოებ შეცდომების საერთო ჟურნალს, რომ ერთი და იგივე შეცდომა ორჯერ არ გამოსწორდეს."
     },
     "education": [
-      { "school": "TU Delft", "degree": { "en": "BSc Applied Physics", "ka": "გამოყენებითი ფიზიკის ბაკალავრი" }, "years": "2019–2023" },
-      { "school": "UWC Atlantic", "degree": { "en": "International Baccalaureate, 43/45", "ka": "საერთაშორისო ბაკალავრიატი, 43/45" }, "years": "2017–2019" }
+      {
+        "school": "TU Delft",
+        "degree": {
+          "en": "BSc Applied Physics",
+          "ka": "გამოყენებითი ფიზიკის ბაკალავრი"
+        },
+        "years": "2019–2023"
+      },
+      {
+        "school": "UWC Atlantic",
+        "degree": {
+          "en": "International Baccalaureate, 43/45",
+          "ka": "საერთაშორისო ბაკალავრიატი, 43/45"
+        },
+        "years": "2017–2019"
+      }
     ],
     "track": [
-      { "title": { "en": "Lead SAT Maths instructor", "ka": "SAT მათემატიკის წამყვანი ინსტრუქტორი" }, "when": "2023 — now", "detail": { "en": "Built a 10-week curriculum now used by three Tbilisi prep centres.", "ka": "შექმნა 10-კვირიანი კურსი, რომელსაც დღეს თბილისის სამი მოსამზადებელი ცენტრი იყენებს." } },
-      { "title": { "en": "Physics teaching assistant, TU Delft", "ka": "ფიზიკის ასისტენტი, TU Delft" }, "when": "2021 — 2023", "detail": { "en": "Ran weekly problem sessions for 60 first-year students.", "ka": "კვირეული ამოცანების სესიები 60 პირველკურსელისთვის." } }
+      {
+        "title": {
+          "en": "Lead SAT Maths instructor",
+          "ka": "SAT მათემატიკის წამყვანი ინსტრუქტორი"
+        },
+        "when": "2023 — now",
+        "detail": {
+          "en": "Built a 10-week curriculum now used by three Tbilisi prep centres.",
+          "ka": "შექმნა 10-კვირიანი კურსი, რომელსაც დღეს თბილისის სამი მოსამზადებელი ცენტრი იყენებს."
+        }
+      },
+      {
+        "title": {
+          "en": "Physics teaching assistant, TU Delft",
+          "ka": "ფიზიკის ასისტენტი, TU Delft"
+        },
+        "when": "2021 — 2023",
+        "detail": {
+          "en": "Ran weekly problem sessions for 60 first-year students.",
+          "ka": "კვირეული ამოცანების სესიები 60 პირველკურსელისთვის."
+        }
+      }
     ],
     "services": [
-      { "name": { "en": "SAT Maths — 1:1 session", "ka": "SAT მათემატიკა — ინდივიდუალური" }, "price": 75, "unit": { "en": "60 min", "ka": "60 წთ" } },
-      { "name": { "en": "Full diagnostic + study plan", "ka": "სრული დიაგნოსტიკა + სასწავლო გეგმა" }, "price": 120, "unit": { "en": "90 min", "ka": "90 წთ" } },
-      { "name": { "en": "School physics support", "ka": "სასკოლო ფიზიკის მხარდაჭერა" }, "price": 65, "unit": { "en": "60 min", "ka": "60 წთ" } }
+      {
+        "name": {
+          "en": "SAT Maths — 1:1 session",
+          "ka": "SAT მათემატიკა — ინდივიდუალური"
+        },
+        "price": 28,
+        "unit": {
+          "en": "60 min",
+          "ka": "60 წთ"
+        }
+      },
+      {
+        "name": {
+          "en": "Full diagnostic + study plan",
+          "ka": "სრული დიაგნოსტიკა + სასწავლო გეგმა"
+        },
+        "price": 44,
+        "unit": {
+          "en": "90 min",
+          "ka": "90 წთ"
+        }
+      },
+      {
+        "name": {
+          "en": "School physics support",
+          "ka": "სასკოლო ფიზიკის მხარდაჭერა"
+        },
+        "price": 24,
+        "unit": {
+          "en": "60 min",
+          "ka": "60 წთ"
+        }
+      }
     ],
-    "availability": { "1": ["16:00", "17:30", "19:00"], "3": ["16:00", "17:30", "19:00"], "5": ["15:00", "16:30"], "6": ["11:00", "12:30", "14:00"] },
-    "busy": ["2026-09-24", "2026-10-03"]
+    "availability": {
+      "1": [
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "3": [
+        "16:00",
+        "17:30",
+        "19:00"
+      ],
+      "5": [
+        "15:00",
+        "16:30"
+      ],
+      "6": [
+        "11:00",
+        "12:30",
+        "14:00"
+      ]
+    },
+    "busy": [
+      "2026-09-24",
+      "2026-10-03"
+    ]
   },
   {
-    "id": "giorgi-abashidze", "initials": "GA", "flag": "🇬🇪", "verified": true,
-    "name": { "en": "Giorgi Abashidze", "ka": "გიორგი აბაშიძე" },
-    "headline": { "en": "US College Counsellor", "ka": "აშშ-ის საუნივერსიტეტო კონსულტანტი" },
-    "country": { "en": "Georgia", "ka": "საქართველო" }, "city": { "en": "Tbilisi", "ka": "თბილისი" },
-    "subjects": ["us-admissions", "essays", "financial-aid", "interview"], "regions": ["us"], "languages": ["ka", "en"],
-    "price": 140, "rating": 5.0, "reviews": 41, "experience": 6, "students": 95,
+    "id": "giorgi-abashidze",
+    "initials": "GA",
+    "flag": "🇬🇪",
+    "verified": true,
+    "name": {
+      "en": "Giorgi Abashidze",
+      "ka": "გიორგი აბაშიძე"
+    },
+    "headline": {
+      "en": "US College Counsellor",
+      "ka": "აშშ-ის საუნივერსიტეტო კონსულტანტი"
+    },
+    "country": {
+      "en": "Georgia",
+      "ka": "საქართველო"
+    },
+    "city": {
+      "en": "Tbilisi",
+      "ka": "თბილისი"
+    },
+    "subjects": [
+      "us-admissions",
+      "essays",
+      "financial-aid",
+      "interview"
+    ],
+    "regions": [
+      "us"
+    ],
+    "languages": [
+      "ka",
+      "en"
+    ],
+    "price": 52,
+    "rating": 5.0,
+    "reviews": 41,
+    "experience": 6,
+    "students": 95,
     "bio": {
       "en": "I read applications for a US liberal arts college for two admission cycles before moving into counselling, which means I can tell you what a reader actually notices in the first ninety seconds. I work with a small cohort each year — building the school list, sequencing deadlines, and making the financial aid case as carefully as the academic one.",
       "ka": "ორი სააპლიკაციო ციკლის განმავლობაში ვკითხულობდი განაცხადებს ამერიკულ ლიბერალური ხელოვნების კოლეჯში, სანამ კონსულტირებაზე გადავედი — ამიტომ ზუსტად ვიცი, რას ამჩნევს მკითხველი პირველივე ოთხმოცდაათ წამში. ყოველწლიურად მცირე ჯგუფთან ვმუშაობ: უნივერსიტეტების სიის აგება, ვადების დალაგება და ფინანსური დახმარების არგუმენტის ისეთივე ფრთხილად აწყობა, როგორც აკადემიურის."
     },
     "education": [
-      { "school": "Carnegie Mellon University", "degree": { "en": "BSc Information Systems", "ka": "საინფორმაციო სისტემების ბაკალავრი" }, "years": "2018–2022" },
-      { "school": "Free University of Tbilisi", "degree": { "en": "Exchange semester, Business", "ka": "გაცვლითი სემესტრი, ბიზნესი" }, "years": "2017" }
+      {
+        "school": "Carnegie Mellon University",
+        "degree": {
+          "en": "BSc Information Systems",
+          "ka": "საინფორმაციო სისტემების ბაკალავრი"
+        },
+        "years": "2018–2022"
+      },
+      {
+        "school": "Free University of Tbilisi",
+        "degree": {
+          "en": "Exchange semester, Business",
+          "ka": "გაცვლითი სემესტრი, ბიზნესი"
+        },
+        "years": "2017"
+      }
     ],
     "track": [
-      { "title": { "en": "Admissions reader", "ka": "მიღების კომისიის წევრი" }, "when": "2022 — 2024", "detail": { "en": "Evaluated 800+ international files across two cycles.", "ka": "შეაფასა 800-ზე მეტი საერთაშორისო განაცხადი ორ ციკლში." } },
-      { "title": { "en": "Independent counsellor", "ka": "დამოუკიდებელი კონსულტანტი" }, "when": "2024 — now", "detail": { "en": "32 of 34 students admitted to a top-3 choice; $1.4M in aid secured.", "ka": "34 მოსწავლიდან 32 ჩაირიცხა საკუთარ სამეულში; მოპოვებულია $1.4 მლნ დახმარება." } }
+      {
+        "title": {
+          "en": "Admissions reader",
+          "ka": "მიღების კომისიის წევრი"
+        },
+        "when": "2022 — 2024",
+        "detail": {
+          "en": "Evaluated 800+ international files across two cycles.",
+          "ka": "შეაფასა 800-ზე მეტი საერთაშორისო განაცხადი ორ ციკლში."
+        }
+      },
+      {
+        "title": {
+          "en": "Independent counsellor",
+          "ka": "დამოუკიდებელი კონსულტანტი"
+        },
+        "when": "2024 — now",
+        "detail": {
+          "en": "32 of 34 students admitted to a top-3 choice; $1.4M in aid secured.",
+          "ka": "34 მოსწავლიდან 32 ჩაირიცხა საკუთარ სამეულში; მოპოვებულია $1.4 მლნ დახმარება."
+        }
+      }
     ],
     "services": [
-      { "name": { "en": "Strategy session + school list", "ka": "სტრატეგიული შეხვედრა + უნივერსიტეტების სია" }, "price": 140, "unit": { "en": "75 min", "ka": "75 წთ" } },
-      { "name": { "en": "Common App essay review", "ka": "Common App ესეს განხილვა" }, "price": 160, "unit": { "en": "per essay", "ka": "თითო ესე" } },
-      { "name": { "en": "Full application package", "ka": "სრული სააპლიკაციო პაკეტი" }, "price": 1400, "unit": { "en": "per season", "ka": "სეზონზე" } }
+      {
+        "name": {
+          "en": "Strategy session + school list",
+          "ka": "სტრატეგიული შეხვედრა + უნივერსიტეტების სია"
+        },
+        "price": 52,
+        "unit": {
+          "en": "75 min",
+          "ka": "75 წთ"
+        }
+      },
+      {
+        "name": {
+          "en": "Common App essay review",
+          "ka": "Common App ესეს განხილვა"
+        },
+        "price": 59,
+        "unit": {
+          "en": "per essay",
+          "ka": "თითო ესე"
+        }
+      },
+      {
+        "name": {
+          "en": "Full application package",
+          "ka": "სრული სააპლიკაციო პაკეტი"
+        },
+        "price": 518,
+        "unit": {
+          "en": "per season",
+          "ka": "სეზონზე"
+        }
+      }
     ],
-    "availability": { "2": ["18:00", "19:30"], "4": ["18:00", "19:30"], "6": ["10:00", "11:30", "13:00"] },
-    "busy": ["2026-10-01"]
+    "availability": {
+      "2": [
+        "18:00",
+        "19:30"
+      ],
+      "4": [
+        "18:00",
+        "19:30"
+      ],
+      "6": [
+        "10:00",
+        "11:30",
+        "13:00"
+      ]
+    },
+    "busy": [
+      "2026-10-01"
+    ]
   },
   {
-    "id": "ana-beridze", "initials": "AB", "flag": "🇬🇪", "verified": true,
-    "name": { "en": "Ana Beridze", "ka": "ანა ბერიძე" },
-    "headline": { "en": "IELTS, TOEFL & Duolingo Coach", "ka": "IELTS, TOEFL და Duolingo-ს მწვრთნელი" },
-    "country": { "en": "Georgia", "ka": "საქართველო" }, "city": { "en": "Batumi", "ka": "ბათუმი" },
-    "subjects": ["ielts", "toefl", "duolingo", "english"], "regions": ["europe", "us", "uk"], "languages": ["ka", "en", "tr"],
-    "price": 60, "rating": 4.8, "reviews": 128, "experience": 9, "students": 520,
+    "id": "ana-beridze",
+    "initials": "AB",
+    "flag": "🇬🇪",
+    "verified": true,
+    "name": {
+      "en": "Ana Beridze",
+      "ka": "ანა ბერიძე"
+    },
+    "headline": {
+      "en": "IELTS, TOEFL & Duolingo Coach",
+      "ka": "IELTS, TOEFL და Duolingo-ს მწვრთნელი"
+    },
+    "country": {
+      "en": "Georgia",
+      "ka": "საქართველო"
+    },
+    "city": {
+      "en": "Batumi",
+      "ka": "ბათუმი"
+    },
+    "subjects": [
+      "ielts",
+      "toefl",
+      "duolingo",
+      "english"
+    ],
+    "regions": [
+      "europe",
+      "us",
+      "uk"
+    ],
+    "languages": [
+      "ka",
+      "en",
+      "tr"
+    ],
+    "price": 22,
+    "rating": 4.8,
+    "reviews": 128,
+    "experience": 9,
+    "students": 520,
     "bio": {
       "en": "Nine years and more than five hundred students later, I have stopped teaching English and started teaching the exam. Most people lose points to format, not to vocabulary — so we drill timing, task response and the exact phrasing examiners reward, and you sit a scored mock every second week.",
       "ka": "ცხრა წლისა და ხუთასზე მეტი მოსწავლის შემდეგ, აღარ ვასწავლი ინგლისურს — ვასწავლი გამოცდას. ადამიანების უმეტესობა ქულებს ფორმატის გამო კარგავს და არა ლექსიკის; ამიტომ ვვარჯიშობთ დროზე, დავალების პასუხსა და იმ ზუსტ ფრაზებზე, რასაც ექსპერტები აფასებენ, და ყოველ მეორე კვირას წერ შეფასებულ საცდელ ტესტს."
     },
     "education": [
-      { "school": "Batumi State University", "degree": { "en": "MA English Philology", "ka": "ინგლისური ფილოლოგიის მაგისტრი" }, "years": "2014–2016" },
-      { "school": "Cambridge Assessment", "degree": { "en": "CELTA, Grade A", "ka": "CELTA, A კატეგორია" }, "years": "2016" }
+      {
+        "school": "Batumi State University",
+        "degree": {
+          "en": "MA English Philology",
+          "ka": "ინგლისური ფილოლოგიის მაგისტრი"
+        },
+        "years": "2014–2016"
+      },
+      {
+        "school": "Cambridge Assessment",
+        "degree": {
+          "en": "CELTA, Grade A",
+          "ka": "CELTA, A კატეგორია"
+        },
+        "years": "2016"
+      }
     ],
     "track": [
-      { "title": { "en": "IELTS preparation lead", "ka": "IELTS მომზადების ხელმძღვანელი" }, "when": "2018 — now", "detail": { "en": "Average band improvement of 1.5 across a 12-week course.", "ka": "საშუალო ზრდა 1.5 ბენდით 12-კვირიან კურსზე." } },
-      { "title": { "en": "Speaking examiner training", "ka": "Speaking-ის შემფასებლის ტრენინგი" }, "when": "2020", "detail": { "en": "Certified in official band descriptors for speaking and writing.", "ka": "სერტიფიცირებული ოფიციალურ შეფასების დესკრიპტორებში." } }
+      {
+        "title": {
+          "en": "IELTS preparation lead",
+          "ka": "IELTS მომზადების ხელმძღვანელი"
+        },
+        "when": "2018 — now",
+        "detail": {
+          "en": "Average band improvement of 1.5 across a 12-week course.",
+          "ka": "საშუალო ზრდა 1.5 ბენდით 12-კვირიან კურსზე."
+        }
+      },
+      {
+        "title": {
+          "en": "Speaking examiner training",
+          "ka": "Speaking-ის შემფასებლის ტრენინგი"
+        },
+        "when": "2020",
+        "detail": {
+          "en": "Certified in official band descriptors for speaking and writing.",
+          "ka": "სერტიფიცირებული ოფიციალურ შეფასების დესკრიპტორებში."
+        }
+      }
     ],
     "services": [
-      { "name": { "en": "IELTS 1:1 session", "ka": "IELTS ინდივიდუალური" }, "price": 60, "unit": { "en": "60 min", "ka": "60 წთ" } },
-      { "name": { "en": "Speaking mock + feedback", "ka": "Speaking-ის საცდელი + უკუკავშირი" }, "price": 45, "unit": { "en": "30 min", "ka": "30 წთ" } },
-      { "name": { "en": "Writing task correction", "ka": "Writing-ის შესწორება" }, "price": 35, "unit": { "en": "per task", "ka": "თითო დავალება" } }
+      {
+        "name": {
+          "en": "IELTS 1:1 session",
+          "ka": "IELTS ინდივიდუალური"
+        },
+        "price": 22,
+        "unit": {
+          "en": "60 min",
+          "ka": "60 წთ"
+        }
+      },
+      {
+        "name": {
+          "en": "Speaking mock + feedback",
+          "ka": "Speaking-ის საცდელი + უკუკავშირი"
+        },
+        "price": 17,
+        "unit": {
+          "en": "30 min",
+          "ka": "30 წთ"
+        }
+      },
+      {
+        "name": {
+          "en": "Writing task correction",
+          "ka": "Writing-ის შესწორება"
+        },
+        "price": 13,
+        "unit": {
+          "en": "per task",
+          "ka": "თითო დავალება"
+        }
+      }
     ],
-    "availability": { "1": ["10:00", "11:30", "17:00"], "2": ["10:00", "11:30"], "4": ["17:00", "18:30"], "5": ["10:00", "11:30", "17:00"] },
+    "availability": {
+      "1": [
+        "10:00",
+        "11:30",
+        "17:00"
+      ],
+      "2": [
+        "10:00",
+        "11:30"
+      ],
+      "4": [
+        "17:00",
+        "18:30"
+      ],
+      "5": [
+        "10:00",
+        "11:30",
+        "17:00"
+      ]
+    },
     "busy": []
   },
   {
-    "id": "luka-tsereteli", "initials": "LT", "flag": "🇬🇪", "verified": true,
-    "name": { "en": "Luka Tsereteli", "ka": "ლუკა წერეთელი" },
-    "headline": { "en": "Personal Statements & Essays", "ka": "პერსონალური განაცხადები და ესეები" },
-    "country": { "en": "United States", "ka": "აშშ" }, "city": { "en": "Washington, DC", "ka": "ვაშინგტონი" },
-    "subjects": ["essays", "us-admissions", "cv", "english"], "regions": ["us", "uk"], "languages": ["ka", "en"],
-    "price": 110, "rating": 4.9, "reviews": 57, "experience": 5, "students": 130,
+    "id": "luka-tsereteli",
+    "initials": "LT",
+    "flag": "🇬🇪",
+    "verified": true,
+    "name": {
+      "en": "Luka Tsereteli",
+      "ka": "ლუკა წერეთელი"
+    },
+    "headline": {
+      "en": "Personal Statements & Essays",
+      "ka": "პერსონალური განაცხადები და ესეები"
+    },
+    "country": {
+      "en": "United States",
+      "ka": "აშშ"
+    },
+    "city": {
+      "en": "Washington, DC",
+      "ka": "ვაშინგტონი"
+    },
+    "subjects": [
+      "essays",
+      "us-admissions",
+      "cv",
+      "english"
+    ],
+    "regions": [
+      "us",
+      "uk"
+    ],
+    "languages": [
+      "ka",
+      "en"
+    ],
+    "price": 41,
+    "rating": 4.9,
+    "reviews": 57,
+    "experience": 5,
+    "students": 130,
     "bio": {
       "en": "An essay fails when it explains you instead of showing you. I work in drafts, not in edits — we find the one specific thing only you could have written, cut everything competing with it, and rebuild the piece around it. Most students arrive with a safe draft and leave with a memorable one.",
       "ka": "ესე მარცხდება მაშინ, როცა შენ გხსნის იმის ნაცვლად, რომ გაჩვენოს. ვმუშაობ დრაფტებით და არა რედაქტირებით — ვპოულობთ იმ ერთ კონკრეტულ დეტალს, რომელიც მხოლოდ შენ შეგეძლო დაგეწერა, ვჭრით ყველაფერს, რაც მას ეჯიბრება, და ტექსტს თავიდან ვაშენებთ მის გარშემო. მოსწავლეების უმეტესობა მოდის უსაფრთხო დრაფტით და მიდის დასამახსოვრებელით."
     },
     "education": [
-      { "school": "Georgetown University", "degree": { "en": "BA Government & Rhetoric", "ka": "მმართველობისა და რიტორიკის ბაკალავრი" }, "years": "2021–2025" }
+      {
+        "school": "Georgetown University",
+        "degree": {
+          "en": "BA Government & Rhetoric",
+          "ka": "მმართველობისა და რიტორიკის ბაკალავრი"
+        },
+        "years": "2021–2025"
+      }
     ],
     "track": [
-      { "title": { "en": "Writing centre tutor, Georgetown", "ka": "წერის ცენტრის ტუტორი, Georgetown" }, "when": "2022 — now", "detail": { "en": "600+ one-to-one consultations on academic and application writing.", "ka": "600-ზე მეტი ინდივიდუალური კონსულტაცია აკადემიურ და სააპლიკაციო წერაზე." } }
+      {
+        "title": {
+          "en": "Writing centre tutor, Georgetown",
+          "ka": "წერის ცენტრის ტუტორი, Georgetown"
+        },
+        "when": "2022 — now",
+        "detail": {
+          "en": "600+ one-to-one consultations on academic and application writing.",
+          "ka": "600-ზე მეტი ინდივიდუალური კონსულტაცია აკადემიურ და სააპლიკაციო წერაზე."
+        }
+      }
     ],
     "services": [
-      { "name": { "en": "Essay brainstorm", "ka": "ესეს იდეების შემუშავება" }, "price": 110, "unit": { "en": "60 min", "ka": "60 წთ" } },
-      { "name": { "en": "Line-by-line review", "ka": "სტრიქონობრივი განხილვა" }, "price": 130, "unit": { "en": "per essay", "ka": "თითო ესე" } },
-      { "name": { "en": "CV / résumé rebuild", "ka": "CV-ის გადაწყობა" }, "price": 90, "unit": { "en": "per document", "ka": "თითო დოკუმენტი" } }
+      {
+        "name": {
+          "en": "Essay brainstorm",
+          "ka": "ესეს იდეების შემუშავება"
+        },
+        "price": 41,
+        "unit": {
+          "en": "60 min",
+          "ka": "60 წთ"
+        }
+      },
+      {
+        "name": {
+          "en": "Line-by-line review",
+          "ka": "სტრიქონობრივი განხილვა"
+        },
+        "price": 48,
+        "unit": {
+          "en": "per essay",
+          "ka": "თითო ესე"
+        }
+      },
+      {
+        "name": {
+          "en": "CV / résumé rebuild",
+          "ka": "CV-ის გადაწყობა"
+        },
+        "price": 33,
+        "unit": {
+          "en": "per document",
+          "ka": "თითო დოკუმენტი"
+        }
+      }
     ],
-    "availability": { "0": ["18:00", "19:30"], "2": ["20:00", "21:30"], "4": ["20:00", "21:30"], "6": ["16:00", "17:30"] },
-    "busy": ["2026-09-27"]
+    "availability": {
+      "0": [
+        "18:00",
+        "19:30"
+      ],
+      "2": [
+        "20:00",
+        "21:30"
+      ],
+      "4": [
+        "20:00",
+        "21:30"
+      ],
+      "6": [
+        "16:00",
+        "17:30"
+      ]
+    },
+    "busy": [
+      "2026-09-27"
+    ]
   },
   {
-    "id": "mariam-gogoladze", "initials": "MG", "flag": "🇩🇪", "verified": true,
-    "name": { "en": "Mariam Gogoladze", "ka": "მარიამ გოგოლაძე" },
-    "headline": { "en": "Europe Admissions & Erasmus+", "ka": "ევროპის მიღება და Erasmus+" },
-    "country": { "en": "Germany", "ka": "გერმანია" }, "city": { "en": "Berlin", "ka": "ბერლინი" },
-    "subjects": ["eu-admissions", "financial-aid", "cv", "german"], "regions": ["europe"], "languages": ["ka", "en", "de"],
-    "price": 95, "rating": 4.9, "reviews": 73, "experience": 8, "students": 310,
+    "id": "mariam-gogoladze",
+    "initials": "MG",
+    "flag": "🇩🇪",
+    "verified": true,
+    "name": {
+      "en": "Mariam Gogoladze",
+      "ka": "მარიამ გოგოლაძე"
+    },
+    "headline": {
+      "en": "Europe Admissions & Erasmus+",
+      "ka": "ევროპის მიღება და Erasmus+"
+    },
+    "country": {
+      "en": "Germany",
+      "ka": "გერმანია"
+    },
+    "city": {
+      "en": "Berlin",
+      "ka": "ბერლინი"
+    },
+    "subjects": [
+      "eu-admissions",
+      "financial-aid",
+      "cv",
+      "german"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "languages": [
+      "ka",
+      "en",
+      "de"
+    ],
+    "price": 35,
+    "rating": 4.9,
+    "reviews": 73,
+    "experience": 8,
+    "students": 310,
     "bio": {
       "en": "Europe is not one system, it is twenty. I map the country that actually fits your grades, budget and language level — then we handle the paperwork that quietly sinks most applications: recognition of your Georgian certificate, uni-assist, blocked accounts and visa timing.",
       "ka": "ევროპა ერთი სისტემა არ არის — ოცია. ვადგენ, რომელი ქვეყანა შეესაბამება რეალურად შენს ნიშნებს, ბიუჯეტსა და ენის დონეს, შემდეგ კი ვაგვარებთ იმ საბუთებს, რაც განაცხადების უმეტესობას უხმაუროდ ანადგურებს: ქართული ატესტატის აღიარება, uni-assist, დაბლოკილი ანგარიში და ვიზის ვადები."
     },
     "education": [
-      { "school": "Humboldt University of Berlin", "degree": { "en": "MA European Studies", "ka": "ევროპისმცოდნეობის მაგისტრი" }, "years": "2018–2020" },
-      { "school": "Ivane Javakhishvili TSU", "degree": { "en": "BA International Relations", "ka": "საერთაშორისო ურთიერთობების ბაკალავრი" }, "years": "2014–2018" }
+      {
+        "school": "Humboldt University of Berlin",
+        "degree": {
+          "en": "MA European Studies",
+          "ka": "ევროპისმცოდნეობის მაგისტრი"
+        },
+        "years": "2018–2020"
+      },
+      {
+        "school": "Ivane Javakhishvili TSU",
+        "degree": {
+          "en": "BA International Relations",
+          "ka": "საერთაშორისო ურთიერთობების ბაკალავრი"
+        },
+        "years": "2014–2018"
+      }
     ],
     "track": [
-      { "title": { "en": "Erasmus+ project coordinator", "ka": "Erasmus+ პროექტის კოორდინატორი" }, "when": "2020 — 2023", "detail": { "en": "Ran 14 youth exchanges hosting Georgian participants.", "ka": "განახორციელა 14 ახალგაზრდული გაცვლა ქართველი მონაწილეებით." } },
-      { "title": { "en": "Study-in-Germany adviser", "ka": "გერმანიაში სწავლის მრჩეველი" }, "when": "2023 — now", "detail": { "en": "Specialises in Studienkolleg routes and tuition-free public universities.", "ka": "სპეციალიზდება Studienkolleg-ის გზებსა და უფასო სახელმწიფო უნივერსიტეტებში." } }
+      {
+        "title": {
+          "en": "Erasmus+ project coordinator",
+          "ka": "Erasmus+ პროექტის კოორდინატორი"
+        },
+        "when": "2020 — 2023",
+        "detail": {
+          "en": "Ran 14 youth exchanges hosting Georgian participants.",
+          "ka": "განახორციელა 14 ახალგაზრდული გაცვლა ქართველი მონაწილეებით."
+        }
+      },
+      {
+        "title": {
+          "en": "Study-in-Germany adviser",
+          "ka": "გერმანიაში სწავლის მრჩეველი"
+        },
+        "when": "2023 — now",
+        "detail": {
+          "en": "Specialises in Studienkolleg routes and tuition-free public universities.",
+          "ka": "სპეციალიზდება Studienkolleg-ის გზებსა და უფასო სახელმწიფო უნივერსიტეტებში."
+        }
+      }
     ],
     "services": [
-      { "name": { "en": "Country-fit consultation", "ka": "ქვეყნის შერჩევის კონსულტაცია" }, "price": 95, "unit": { "en": "60 min", "ka": "60 წთ" } },
-      { "name": { "en": "Document & recognition check", "ka": "დოკუმენტებისა და აღიარების შემოწმება" }, "price": 120, "unit": { "en": "per file", "ka": "თითო საქმე" } },
-      { "name": { "en": "Erasmus+ application coaching", "ka": "Erasmus+ განაცხადის მომზადება" }, "price": 85, "unit": { "en": "60 min", "ka": "60 წთ" } }
+      {
+        "name": {
+          "en": "Country-fit consultation",
+          "ka": "ქვეყნის შერჩევის კონსულტაცია"
+        },
+        "price": 35,
+        "unit": {
+          "en": "60 min",
+          "ka": "60 წთ"
+        }
+      },
+      {
+        "name": {
+          "en": "Document & recognition check",
+          "ka": "დოკუმენტებისა და აღიარების შემოწმება"
+        },
+        "price": 44,
+        "unit": {
+          "en": "per file",
+          "ka": "თითო საქმე"
+        }
+      },
+      {
+        "name": {
+          "en": "Erasmus+ application coaching",
+          "ka": "Erasmus+ განაცხადის მომზადება"
+        },
+        "price": 31,
+        "unit": {
+          "en": "60 min",
+          "ka": "60 წთ"
+        }
+      }
     ],
-    "availability": { "1": ["17:00", "18:30"], "3": ["17:00", "18:30", "20:00"], "5": ["14:00", "15:30"] },
-    "busy": ["2026-10-08", "2026-10-09"]
+    "availability": {
+      "1": [
+        "17:00",
+        "18:30"
+      ],
+      "3": [
+        "17:00",
+        "18:30",
+        "20:00"
+      ],
+      "5": [
+        "14:00",
+        "15:30"
+      ]
+    },
+    "busy": [
+      "2026-10-08",
+      "2026-10-09"
+    ]
   },
   {
-    "id": "sarah-whitfield", "initials": "SW", "flag": "🇬🇧", "verified": true,
-    "name": { "en": "Sarah Whitfield", "ka": "სარა უიტფილდი" },
-    "headline": { "en": "UCAS & Oxbridge Interview Prep", "ka": "UCAS და Oxbridge-ის ინტერვიუს მომზადება" },
-    "country": { "en": "United Kingdom", "ka": "გაერთიანებული სამეფო" }, "city": { "en": "London", "ka": "ლონდონი" },
-    "subjects": ["uk-admissions", "interview", "essays", "history"], "regions": ["uk", "europe"], "languages": ["en"],
-    "price": 155, "rating": 5.0, "reviews": 36, "experience": 11, "students": 180,
+    "id": "sarah-whitfield",
+    "initials": "SW",
+    "flag": "🇬🇧",
+    "verified": true,
+    "name": {
+      "en": "Sarah Whitfield",
+      "ka": "სარა უიტფილდი"
+    },
+    "headline": {
+      "en": "UCAS & Oxbridge Interview Prep",
+      "ka": "UCAS და Oxbridge-ის ინტერვიუს მომზადება"
+    },
+    "country": {
+      "en": "United Kingdom",
+      "ka": "გაერთიანებული სამეფო"
+    },
+    "city": {
+      "en": "London",
+      "ka": "ლონდონი"
+    },
+    "subjects": [
+      "uk-admissions",
+      "interview",
+      "essays",
+      "history"
+    ],
+    "regions": [
+      "uk",
+      "europe"
+    ],
+    "languages": [
+      "en"
+    ],
+    "price": 57,
+    "rating": 5.0,
+    "reviews": 36,
+    "experience": 11,
+    "students": 180,
     "bio": {
       "en": "I supervised undergraduates at Cambridge for six years, so the interview I run is the interview you will sit: a real problem you have not seen, thought through out loud, with me pushing at the weak point. UCAS personal statements get the same treatment — one subject, argued properly, in 4,000 characters.",
       "ka": "ექვსი წელი ვხელმძღვანელობდი ბაკალავრებს კემბრიჯში, ამიტომ ინტერვიუ, რომელსაც მე ვატარებ, ზუსტად ის ინტერვიუა, რომელსაც შენ გაივლი: რეალური ამოცანა, რომელიც არ გინახავს, ხმამაღლა გააზრებული, სადაც მე სუსტ ადგილს ვაწვები. UCAS-ის პერსონალური განაცხადი იგივე მიდგომით მუშავდება — ერთი საგანი, სწორად დასაბუთებული, 4000 სიმბოლოში."
     },
     "education": [
-      { "school": "University of Cambridge", "degree": { "en": "PhD Modern History", "ka": "თანამედროვე ისტორიის დოქტორი" }, "years": "2012–2016" },
-      { "school": "University of Oxford", "degree": { "en": "BA History, First Class", "ka": "ისტორიის ბაკალავრი, უმაღლესი ხარისხით" }, "years": "2008–2011" }
+      {
+        "school": "University of Cambridge",
+        "degree": {
+          "en": "PhD Modern History",
+          "ka": "თანამედროვე ისტორიის დოქტორი"
+        },
+        "years": "2012–2016"
+      },
+      {
+        "school": "University of Oxford",
+        "degree": {
+          "en": "BA History, First Class",
+          "ka": "ისტორიის ბაკალავრი, უმაღლესი ხარისხით"
+        },
+        "years": "2008–2011"
+      }
     ],
     "track": [
-      { "title": { "en": "Director of Studies supervisor", "ka": "სასწავლო ხელმძღვანელი" }, "when": "2016 — 2022", "detail": { "en": "Supervised and interviewed applicants at a Cambridge college.", "ka": "ხელმძღვანელობდა და ესაუბრებოდა აპლიკანტებს კემბრიჯის კოლეჯში." } }
+      {
+        "title": {
+          "en": "Director of Studies supervisor",
+          "ka": "სასწავლო ხელმძღვანელი"
+        },
+        "when": "2016 — 2022",
+        "detail": {
+          "en": "Supervised and interviewed applicants at a Cambridge college.",
+          "ka": "ხელმძღვანელობდა და ესაუბრებოდა აპლიკანტებს კემბრიჯის კოლეჯში."
+        }
+      }
     ],
     "services": [
-      { "name": { "en": "Mock Oxbridge interview", "ka": "საცდელი Oxbridge ინტერვიუ" }, "price": 155, "unit": { "en": "45 min + report", "ka": "45 წთ + დასკვნა" } },
-      { "name": { "en": "Personal statement review", "ka": "პერსონალური განაცხადის განხილვა" }, "price": 140, "unit": { "en": "per draft", "ka": "თითო დრაფტი" } }
+      {
+        "name": {
+          "en": "Mock Oxbridge interview",
+          "ka": "საცდელი Oxbridge ინტერვიუ"
+        },
+        "price": 57,
+        "unit": {
+          "en": "45 min + report",
+          "ka": "45 წთ + დასკვნა"
+        }
+      },
+      {
+        "name": {
+          "en": "Personal statement review",
+          "ka": "პერსონალური განაცხადის განხილვა"
+        },
+        "price": 52,
+        "unit": {
+          "en": "per draft",
+          "ka": "თითო დრაფტი"
+        }
+      }
     ],
-    "availability": { "2": ["19:00", "20:30"], "4": ["19:00", "20:30"], "6": ["12:00", "13:30", "15:00"] },
-    "busy": ["2026-09-30"]
+    "availability": {
+      "2": [
+        "19:00",
+        "20:30"
+      ],
+      "4": [
+        "19:00",
+        "20:30"
+      ],
+      "6": [
+        "12:00",
+        "13:30",
+        "15:00"
+      ]
+    },
+    "busy": [
+      "2026-09-30"
+    ]
   },
   {
-    "id": "tekla-nozadze", "initials": "TN", "flag": "🇬🇪", "verified": true,
-    "name": { "en": "Tekla Nozadze", "ka": "თეკლა ნოზაძე" },
-    "headline": { "en": "Biology, Chemistry & Medicine Applications", "ka": "ბიოლოგია, ქიმია და სამედიცინო განაცხადები" },
-    "country": { "en": "Georgia", "ka": "საქართველო" }, "city": { "en": "Tbilisi", "ka": "თბილისი" },
-    "subjects": ["biology", "chemistry", "uk-admissions", "interview"], "regions": ["uk", "europe"], "languages": ["ka", "en", "ru"],
-    "price": 70, "rating": 4.8, "reviews": 88, "experience": 10, "students": 400,
+    "id": "tekla-nozadze",
+    "initials": "TN",
+    "flag": "🇬🇪",
+    "verified": true,
+    "name": {
+      "en": "Tekla Nozadze",
+      "ka": "თეკლა ნოზაძე"
+    },
+    "headline": {
+      "en": "Biology, Chemistry & Medicine Applications",
+      "ka": "ბიოლოგია, ქიმია და სამედიცინო განაცხადები"
+    },
+    "country": {
+      "en": "Georgia",
+      "ka": "საქართველო"
+    },
+    "city": {
+      "en": "Tbilisi",
+      "ka": "თბილისი"
+    },
+    "subjects": [
+      "biology",
+      "chemistry",
+      "uk-admissions",
+      "interview"
+    ],
+    "regions": [
+      "uk",
+      "europe"
+    ],
+    "languages": [
+      "ka",
+      "en",
+      "ru"
+    ],
+    "price": 26,
+    "rating": 4.8,
+    "reviews": 88,
+    "experience": 10,
+    "students": 400,
     "bio": {
       "en": "I teach the biology and chemistry that medical faculties actually test, and I prepare the parts of a medicine application Georgian students are rarely told about: the UCAT, the ethics questions, and how to describe clinical work experience without sounding rehearsed.",
       "ka": "ვასწავლი იმ ბიოლოგიასა და ქიმიას, რასაც სამედიცინო ფაკულტეტები რეალურად ამოწმებენ, და ვამზადებ სამედიცინო განაცხადის იმ ნაწილებს, რაზეც ქართველ მოსწავლეებს იშვიათად ეუბნებიან: UCAT, ეთიკის კითხვები და როგორ აღწერო კლინიკური გამოცდილება ისე, რომ ნასწავლად არ ჟღერდეს."
     },
     "education": [
-      { "school": "Tbilisi State Medical University", "degree": { "en": "MD", "ka": "მედიცინის დოქტორი" }, "years": "2011–2017" }
+      {
+        "school": "Tbilisi State Medical University",
+        "degree": {
+          "en": "MD",
+          "ka": "მედიცინის დოქტორი"
+        },
+        "years": "2011–2017"
+      }
     ],
     "track": [
-      { "title": { "en": "Senior biology teacher", "ka": "ბიოლოგიის უფროსი მასწავლებელი" }, "when": "2017 — now", "detail": { "en": "National olympiad medallists in four of the last six years.", "ka": "ეროვნული ოლიმპიადის მედალოსნები ბოლო ექვსი წლიდან ოთხში." } }
+      {
+        "title": {
+          "en": "Senior biology teacher",
+          "ka": "ბიოლოგიის უფროსი მასწავლებელი"
+        },
+        "when": "2017 — now",
+        "detail": {
+          "en": "National olympiad medallists in four of the last six years.",
+          "ka": "ეროვნული ოლიმპიადის მედალოსნები ბოლო ექვსი წლიდან ოთხში."
+        }
+      }
     ],
     "services": [
-      { "name": { "en": "Biology or chemistry session", "ka": "ბიოლოგიის ან ქიმიის გაკვეთილი" }, "price": 70, "unit": { "en": "60 min", "ka": "60 წთ" } },
-      { "name": { "en": "UCAT preparation block", "ka": "UCAT-ის მოსამზადებელი ბლოკი" }, "price": 90, "unit": { "en": "90 min", "ka": "90 წთ" } }
+      {
+        "name": {
+          "en": "Biology or chemistry session",
+          "ka": "ბიოლოგიის ან ქიმიის გაკვეთილი"
+        },
+        "price": 26,
+        "unit": {
+          "en": "60 min",
+          "ka": "60 წთ"
+        }
+      },
+      {
+        "name": {
+          "en": "UCAT preparation block",
+          "ka": "UCAT-ის მოსამზადებელი ბლოკი"
+        },
+        "price": 33,
+        "unit": {
+          "en": "90 min",
+          "ka": "90 წთ"
+        }
+      }
     ],
-    "availability": { "1": ["15:00", "16:30", "18:00"], "3": ["15:00", "16:30"], "5": ["15:00", "16:30", "18:00"] },
+    "availability": {
+      "1": [
+        "15:00",
+        "16:30",
+        "18:00"
+      ],
+      "3": [
+        "15:00",
+        "16:30"
+      ],
+      "5": [
+        "15:00",
+        "16:30",
+        "18:00"
+      ]
+    },
     "busy": []
   },
   {
-    "id": "ryu-tanaka", "initials": "RT", "flag": "🇯🇵", "verified": true,
-    "name": { "en": "Ryu Tanaka", "ka": "რიუ ტანაკა" },
-    "headline": { "en": "Japan, Korea & Singapore Admissions", "ka": "იაპონიის, კორეისა და სინგაპურის მიღება" },
-    "country": { "en": "Japan", "ka": "იაპონია" }, "city": { "en": "Tokyo", "ka": "ტოკიო" },
-    "subjects": ["asia-admissions", "financial-aid", "japanese", "interview"], "regions": ["asia"], "languages": ["en", "ja"],
-    "price": 100, "rating": 4.7, "reviews": 29, "experience": 6, "students": 85,
+    "id": "ryu-tanaka",
+    "initials": "RT",
+    "flag": "🇯🇵",
+    "verified": true,
+    "name": {
+      "en": "Ryu Tanaka",
+      "ka": "რიუ ტანაკა"
+    },
+    "headline": {
+      "en": "Japan, Korea & Singapore Admissions",
+      "ka": "იაპონიის, კორეისა და სინგაპურის მიღება"
+    },
+    "country": {
+      "en": "Japan",
+      "ka": "იაპონია"
+    },
+    "city": {
+      "en": "Tokyo",
+      "ka": "ტოკიო"
+    },
+    "subjects": [
+      "asia-admissions",
+      "financial-aid",
+      "japanese",
+      "interview"
+    ],
+    "regions": [
+      "asia"
+    ],
+    "languages": [
+      "en",
+      "ja"
+    ],
+    "price": 37,
+    "rating": 4.7,
+    "reviews": 29,
+    "experience": 6,
+    "students": 85,
     "bio": {
       "en": "Asian admissions reward precision, not persuasion. MEXT, PEAK, NUS and KAIST each want a different document set in a different order, and the timelines start a full year earlier than most families expect. I build that calendar with you and keep it honest.",
       "ka": "აზიური მიღება აფასებს სიზუსტეს და არა დარწმუნებას. MEXT, PEAK, NUS და KAIST — თითოეულს განსხვავებული დოკუმენტები განსხვავებული თანმიმდევრობით სჭირდება, და ვადები ერთი წლით ადრე იწყება, ვიდრე ოჯახების უმეტესობა ფიქრობს. ამ კალენდარს ერთად ვაწყობთ და პატიოსნად ვიცავთ."
     },
     "education": [
-      { "school": "University of Tokyo", "degree": { "en": "MSc Environmental Science", "ka": "გარემოს მეცნიერების მაგისტრი" }, "years": "2019–2021" }
+      {
+        "school": "University of Tokyo",
+        "degree": {
+          "en": "MSc Environmental Science",
+          "ka": "გარემოს მეცნიერების მაგისტრი"
+        },
+        "years": "2019–2021"
+      }
     ],
     "track": [
-      { "title": { "en": "PEAK programme mentor", "ka": "PEAK პროგრამის მენტორი" }, "when": "2021 — now", "detail": { "en": "Guided 40+ international applicants through UTokyo admission.", "ka": "40-ზე მეტი საერთაშორისო აპლიკანტი გაატარა ტოკიოს უნივერსიტეტის მიღებაში." } }
+      {
+        "title": {
+          "en": "PEAK programme mentor",
+          "ka": "PEAK პროგრამის მენტორი"
+        },
+        "when": "2021 — now",
+        "detail": {
+          "en": "Guided 40+ international applicants through UTokyo admission.",
+          "ka": "40-ზე მეტი საერთაშორისო აპლიკანტი გაატარა ტოკიოს უნივერსიტეტის მიღებაში."
+        }
+      }
     ],
     "services": [
-      { "name": { "en": "Asia strategy session", "ka": "აზიის სტრატეგიის შეხვედრა" }, "price": 100, "unit": { "en": "60 min", "ka": "60 წთ" } },
-      { "name": { "en": "MEXT scholarship coaching", "ka": "MEXT სტიპენდიის მომზადება" }, "price": 120, "unit": { "en": "75 min", "ka": "75 წთ" } }
+      {
+        "name": {
+          "en": "Asia strategy session",
+          "ka": "აზიის სტრატეგიის შეხვედრა"
+        },
+        "price": 37,
+        "unit": {
+          "en": "60 min",
+          "ka": "60 წთ"
+        }
+      },
+      {
+        "name": {
+          "en": "MEXT scholarship coaching",
+          "ka": "MEXT სტიპენდიის მომზადება"
+        },
+        "price": 44,
+        "unit": {
+          "en": "75 min",
+          "ka": "75 წთ"
+        }
+      }
     ],
-    "availability": { "1": ["12:00", "13:30"], "3": ["12:00", "13:30"], "6": ["09:00", "10:30"] },
-    "busy": ["2026-10-13"]
+    "availability": {
+      "1": [
+        "12:00",
+        "13:30"
+      ],
+      "3": [
+        "12:00",
+        "13:30"
+      ],
+      "6": [
+        "09:00",
+        "10:30"
+      ]
+    },
+    "busy": [
+      "2026-10-13"
+    ]
   },
   {
-    "id": "elene-chkheidze", "initials": "EC", "flag": "🇬🇪", "verified": true,
-    "name": { "en": "Elene Chkheidze", "ka": "ელენე ჩხეიძე" },
-    "headline": { "en": "FLEX & Exchange Programme Prep", "ka": "FLEX და გაცვლითი პროგრამების მომზადება" },
-    "country": { "en": "Georgia", "ka": "საქართველო" }, "city": { "en": "Kutaisi", "ka": "ქუთაისი" },
-    "subjects": ["flex-prep", "english", "interview", "essays"], "regions": ["us"], "languages": ["ka", "en"],
-    "price": 45, "rating": 4.9, "reviews": 152, "experience": 5, "students": 610,
+    "id": "elene-chkheidze",
+    "initials": "EC",
+    "flag": "🇬🇪",
+    "verified": true,
+    "name": {
+      "en": "Elene Chkheidze",
+      "ka": "ელენე ჩხეიძე"
+    },
+    "headline": {
+      "en": "FLEX & Exchange Programme Prep",
+      "ka": "FLEX და გაცვლითი პროგრამების მომზადება"
+    },
+    "country": {
+      "en": "Georgia",
+      "ka": "საქართველო"
+    },
+    "city": {
+      "en": "Kutaisi",
+      "ka": "ქუთაისი"
+    },
+    "subjects": [
+      "flex-prep",
+      "english",
+      "interview",
+      "essays"
+    ],
+    "regions": [
+      "us"
+    ],
+    "languages": [
+      "ka",
+      "en"
+    ],
+    "price": 17,
+    "rating": 4.9,
+    "reviews": 152,
+    "experience": 5,
+    "students": 610,
     "bio": {
       "en": "I was a FLEX student in Ohio and I now run the preparation I wish I had had. Round one is a vocabulary and grammar sprint, round two is a written test under time pressure, round three is a group interview where the quiet, specific answer wins. We rehearse all three.",
       "ka": "მე თვითონ ვიყავი FLEX-ის მონაწილე ოჰაიოში და ახლა ვატარებ იმ მომზადებას, რაც თავად მინდოდა მქონოდა. პირველი რაუნდი ლექსიკისა და გრამატიკის სპრინტია, მეორე — წერითი ტესტი დროის წნეხში, მესამე — ჯგუფური ინტერვიუ, სადაც მშვიდი და კონკრეტული პასუხი იმარჯვებს. სამივეს ვარეპეტიციებთ."
     },
     "education": [
-      { "school": "Kutaisi International University", "degree": { "en": "BA Education", "ka": "განათლების ბაკალავრი" }, "years": "2020–2024" },
-      { "school": "FLEX Programme, Ohio", "degree": { "en": "Exchange year", "ka": "გაცვლითი წელი" }, "years": "2017–2018" }
+      {
+        "school": "Kutaisi International University",
+        "degree": {
+          "en": "BA Education",
+          "ka": "განათლების ბაკალავრი"
+        },
+        "years": "2020–2024"
+      },
+      {
+        "school": "FLEX Programme, Ohio",
+        "degree": {
+          "en": "Exchange year",
+          "ka": "გაცვლითი წელი"
+        },
+        "years": "2017–2018"
+      }
     ],
     "track": [
-      { "title": { "en": "FLEX alumni coordinator", "ka": "FLEX-ის კურსდამთავრებულთა კოორდინატორი" }, "when": "2019 — now", "detail": { "en": "47 of her students reached round three; 19 were selected.", "ka": "მისი 47 მოსწავლე მიაღწია მესამე რაუნდს; 19 შეირჩა." } }
+      {
+        "title": {
+          "en": "FLEX alumni coordinator",
+          "ka": "FLEX-ის კურსდამთავრებულთა კოორდინატორი"
+        },
+        "when": "2019 — now",
+        "detail": {
+          "en": "47 of her students reached round three; 19 were selected.",
+          "ka": "მისი 47 მოსწავლე მიაღწია მესამე რაუნდს; 19 შეირჩა."
+        }
+      }
     ],
     "services": [
-      { "name": { "en": "FLEX round 1 & 2 drill", "ka": "FLEX-ის 1-ლი და მე-2 რაუნდის ვარჯიში" }, "price": 45, "unit": { "en": "60 min", "ka": "60 წთ" } },
-      { "name": { "en": "Group interview rehearsal", "ka": "ჯგუფური ინტერვიუს რეპეტიცია" }, "price": 60, "unit": { "en": "90 min", "ka": "90 წთ" } }
+      {
+        "name": {
+          "en": "FLEX round 1 & 2 drill",
+          "ka": "FLEX-ის 1-ლი და მე-2 რაუნდის ვარჯიში"
+        },
+        "price": 17,
+        "unit": {
+          "en": "60 min",
+          "ka": "60 წთ"
+        }
+      },
+      {
+        "name": {
+          "en": "Group interview rehearsal",
+          "ka": "ჯგუფური ინტერვიუს რეპეტიცია"
+        },
+        "price": 22,
+        "unit": {
+          "en": "90 min",
+          "ka": "90 წთ"
+        }
+      }
     ],
-    "availability": { "0": ["12:00", "14:00"], "2": ["16:00", "17:30"], "4": ["16:00", "17:30"], "6": ["11:00", "13:00", "15:00"] },
+    "availability": {
+      "0": [
+        "12:00",
+        "14:00"
+      ],
+      "2": [
+        "16:00",
+        "17:30"
+      ],
+      "4": [
+        "16:00",
+        "17:30"
+      ],
+      "6": [
+        "11:00",
+        "13:00",
+        "15:00"
+      ]
+    },
     "busy": []
   },
   {
-    "id": "nikoloz-jorbenadze", "initials": "NJ", "flag": "🇬🇪", "verified": true,
-    "name": { "en": "Nikoloz Jorbenadze", "ka": "ნიკოლოზ ჯორბენაძე" },
-    "headline": { "en": "Computer Science & Olympiad Maths", "ka": "კომპიუტერული მეცნიერება და ოლიმპიადური მათემატიკა" },
-    "country": { "en": "Georgia", "ka": "საქართველო" }, "city": { "en": "Tbilisi", "ka": "თბილისი" },
-    "subjects": ["cs", "math", "sat", "ap"], "regions": ["us", "europe"], "languages": ["ka", "en"],
-    "price": 85, "rating": 4.9, "reviews": 47, "experience": 6, "students": 170,
+    "id": "nikoloz-jorbenadze",
+    "initials": "NJ",
+    "flag": "🇬🇪",
+    "verified": true,
+    "name": {
+      "en": "Nikoloz Jorbenadze",
+      "ka": "ნიკოლოზ ჯორბენაძე"
+    },
+    "headline": {
+      "en": "Computer Science & Olympiad Maths",
+      "ka": "კომპიუტერული მეცნიერება და ოლიმპიადური მათემატიკა"
+    },
+    "country": {
+      "en": "Georgia",
+      "ka": "საქართველო"
+    },
+    "city": {
+      "en": "Tbilisi",
+      "ka": "თბილისი"
+    },
+    "subjects": [
+      "cs",
+      "math",
+      "sat",
+      "ap"
+    ],
+    "regions": [
+      "us",
+      "europe"
+    ],
+    "languages": [
+      "ka",
+      "en"
+    ],
+    "price": 31,
+    "rating": 4.9,
+    "reviews": 47,
+    "experience": 6,
+    "students": 170,
     "bio": {
       "en": "Competitive programming taught me that talent is mostly exposure to the right problems in the right order. I coach algorithms and olympiad maths, and I help students turn a year of that work into a portfolio a university admissions office can actually read.",
       "ka": "სპორტულმა პროგრამირებამ მასწავლა, რომ ნიჭი ძირითადად სწორი ამოცანების სწორი თანმიმდევრობით შეხვედრაა. ვავარჯიშებ ალგორითმებსა და ოლიმპიადურ მათემატიკაში და ვეხმარები მოსწავლეებს, ეს წლიანი შრომა გადააქციონ პორტფოლიოდ, რომელსაც მიღების ოფისი რეალურად წაიკითხავს."
     },
     "education": [
-      { "school": "Free University of Tbilisi", "degree": { "en": "BSc Mathematics & CS", "ka": "მათემატიკისა და კომპიუტერული მეცნიერების ბაკალავრი" }, "years": "2017–2021" }
+      {
+        "school": "Free University of Tbilisi",
+        "degree": {
+          "en": "BSc Mathematics & CS",
+          "ka": "მათემატიკისა და კომპიუტერული მეცნიერების ბაკალავრი"
+        },
+        "years": "2017–2021"
+      }
     ],
     "track": [
-      { "title": { "en": "National IOI team coach", "ka": "IOI-ის ეროვნული გუნდის მწვრთნელი" }, "when": "2021 — now", "detail": { "en": "Trained two bronze medallists at the International Olympiad in Informatics.", "ka": "მოამზადა ორი ბრინჯაოს მედალოსანი ინფორმატიკის საერთაშორისო ოლიმპიადაზე." } }
+      {
+        "title": {
+          "en": "National IOI team coach",
+          "ka": "IOI-ის ეროვნული გუნდის მწვრთნელი"
+        },
+        "when": "2021 — now",
+        "detail": {
+          "en": "Trained two bronze medallists at the International Olympiad in Informatics.",
+          "ka": "მოამზადა ორი ბრინჯაოს მედალოსანი ინფორმატიკის საერთაშორისო ოლიმპიადაზე."
+        }
+      }
     ],
     "services": [
-      { "name": { "en": "Algorithms 1:1", "ka": "ალგორითმები ინდივიდუალურად" }, "price": 85, "unit": { "en": "90 min", "ka": "90 წთ" } },
-      { "name": { "en": "Portfolio & project mentoring", "ka": "პორტფოლიოსა და პროექტის მენტორობა" }, "price": 95, "unit": { "en": "60 min", "ka": "60 წთ" } }
+      {
+        "name": {
+          "en": "Algorithms 1:1",
+          "ka": "ალგორითმები ინდივიდუალურად"
+        },
+        "price": 31,
+        "unit": {
+          "en": "90 min",
+          "ka": "90 წთ"
+        }
+      },
+      {
+        "name": {
+          "en": "Portfolio & project mentoring",
+          "ka": "პორტფოლიოსა და პროექტის მენტორობა"
+        },
+        "price": 35,
+        "unit": {
+          "en": "60 min",
+          "ka": "60 წთ"
+        }
+      }
     ],
-    "availability": { "2": ["18:00", "20:00"], "4": ["18:00", "20:00"], "0": ["15:00", "17:00"] },
-    "busy": ["2026-10-06"]
+    "availability": {
+      "2": [
+        "18:00",
+        "20:00"
+      ],
+      "4": [
+        "18:00",
+        "20:00"
+      ],
+      "0": [
+        "15:00",
+        "17:00"
+      ]
+    },
+    "busy": [
+      "2026-10-06"
+    ]
   },
   {
-    "id": "sofia-rinaldi", "initials": "SR", "flag": "🇮🇹", "verified": false,
-    "name": { "en": "Sofia Rinaldi", "ka": "სოფია რინალდი" },
-    "headline": { "en": "Italy, France & Sciences Po Track", "ka": "იტალია, საფრანგეთი და Sciences Po" },
-    "country": { "en": "Italy", "ka": "იტალია" }, "city": { "en": "Milan", "ka": "მილანი" },
-    "subjects": ["eu-admissions", "essays", "interview", "italian"], "regions": ["europe"], "languages": ["en", "it", "fr"],
-    "price": 90, "rating": 4.6, "reviews": 22, "experience": 4, "students": 60,
+    "id": "sofia-rinaldi",
+    "initials": "SR",
+    "flag": "🇮🇹",
+    "verified": false,
+    "name": {
+      "en": "Sofia Rinaldi",
+      "ka": "სოფია რინალდი"
+    },
+    "headline": {
+      "en": "Italy, France & Sciences Po Track",
+      "ka": "იტალია, საფრანგეთი და Sciences Po"
+    },
+    "country": {
+      "en": "Italy",
+      "ka": "იტალია"
+    },
+    "city": {
+      "en": "Milan",
+      "ka": "მილანი"
+    },
+    "subjects": [
+      "eu-admissions",
+      "essays",
+      "interview",
+      "italian"
+    ],
+    "regions": [
+      "europe"
+    ],
+    "languages": [
+      "en",
+      "it",
+      "fr"
+    ],
+    "price": 33,
+    "rating": 4.6,
+    "reviews": 22,
+    "experience": 4,
+    "students": 60,
     "bio": {
       "en": "Bocconi, Politecnico, Sciences Po and the Italian public universities each run their own entrance logic — some test, some interview, some only read. I match students to the route where their profile is strongest and prepare the specific format that route uses.",
       "ka": "Bocconi, Politecnico, Sciences Po და იტალიის სახელმწიფო უნივერსიტეტები — თითოეულს საკუთარი შესვლის ლოგიკა აქვს: ზოგი ტესტავს, ზოგი ესაუბრება, ზოგი მხოლოდ კითხულობს. ვარჩევ იმ გზას, სადაც მოსწავლის პროფილი ყველაზე ძლიერია, და ვამზადებ ზუსტად იმ ფორმატს, რასაც ეს გზა იყენებს."
     },
     "education": [
-      { "school": "Bocconi University", "degree": { "en": "MSc International Management", "ka": "საერთაშორისო მენეჯმენტის მაგისტრი" }, "years": "2020–2022" }
+      {
+        "school": "Bocconi University",
+        "degree": {
+          "en": "MSc International Management",
+          "ka": "საერთაშორისო მენეჯმენტის მაგისტრი"
+        },
+        "years": "2020–2022"
+      }
     ],
     "track": [
-      { "title": { "en": "Admissions ambassador, Bocconi", "ka": "მიღების ამბასადორი, Bocconi" }, "when": "2021 — 2023", "detail": { "en": "Advised applicants from 20+ countries on the early rounds.", "ka": "კონსულტაცია გაუწია 20-ზე მეტი ქვეყნის აპლიკანტს ადრეულ რაუნდებში." } }
+      {
+        "title": {
+          "en": "Admissions ambassador, Bocconi",
+          "ka": "მიღების ამბასადორი, Bocconi"
+        },
+        "when": "2021 — 2023",
+        "detail": {
+          "en": "Advised applicants from 20+ countries on the early rounds.",
+          "ka": "კონსულტაცია გაუწია 20-ზე მეტი ქვეყნის აპლიკანტს ადრეულ რაუნდებში."
+        }
+      }
     ],
     "services": [
-      { "name": { "en": "Italy / France route planning", "ka": "იტალიის / საფრანგეთის გზის დაგეგმვა" }, "price": 90, "unit": { "en": "60 min", "ka": "60 წთ" } },
-      { "name": { "en": "Entrance test preparation", "ka": "მისაღები ტესტის მომზადება" }, "price": 80, "unit": { "en": "60 min", "ka": "60 წთ" } }
+      {
+        "name": {
+          "en": "Italy / France route planning",
+          "ka": "იტალიის / საფრანგეთის გზის დაგეგმვა"
+        },
+        "price": 33,
+        "unit": {
+          "en": "60 min",
+          "ka": "60 წთ"
+        }
+      },
+      {
+        "name": {
+          "en": "Entrance test preparation",
+          "ka": "მისაღები ტესტის მომზადება"
+        },
+        "price": 30,
+        "unit": {
+          "en": "60 min",
+          "ka": "60 წთ"
+        }
+      }
     ],
-    "availability": { "1": ["18:00", "19:30"], "3": ["18:00", "19:30"], "5": ["16:00", "17:30"] },
+    "availability": {
+      "1": [
+        "18:00",
+        "19:30"
+      ],
+      "3": [
+        "18:00",
+        "19:30"
+      ],
+      "5": [
+        "16:00",
+        "17:30"
+      ]
+    },
     "busy": []
   },
   {
-    "id": "daniel-okonkwo", "initials": "DO", "flag": "🇳🇬", "verified": true,
-    "name": { "en": "Daniel Okonkwo", "ka": "დანიელ ოკონკვო" },
-    "headline": { "en": "SAT Reading, Writing & ACT English", "ka": "SAT კითხვა-წერა და ACT ინგლისური" },
-    "country": { "en": "United Kingdom", "ka": "გაერთიანებული სამეფო" }, "city": { "en": "London", "ka": "ლონდონი" },
-    "subjects": ["sat", "act", "english", "essays"], "regions": ["us", "uk"], "languages": ["en"],
-    "price": 80, "rating": 4.8, "reviews": 96, "experience": 8, "students": 380,
+    "id": "daniel-okonkwo",
+    "initials": "DO",
+    "flag": "🇳🇬",
+    "verified": true,
+    "name": {
+      "en": "Daniel Okonkwo",
+      "ka": "დანიელ ოკონკვო"
+    },
+    "headline": {
+      "en": "SAT Reading, Writing & ACT English",
+      "ka": "SAT კითხვა-წერა და ACT ინგლისური"
+    },
+    "country": {
+      "en": "United Kingdom",
+      "ka": "გაერთიანებული სამეფო"
+    },
+    "city": {
+      "en": "London",
+      "ka": "ლონდონი"
+    },
+    "subjects": [
+      "sat",
+      "act",
+      "english",
+      "essays"
+    ],
+    "regions": [
+      "us",
+      "uk"
+    ],
+    "languages": [
+      "en"
+    ],
+    "price": 30,
+    "rating": 4.8,
+    "reviews": 96,
+    "experience": 8,
+    "students": 380,
     "bio": {
       "en": "The digital SAT rewards reading speed less than it rewards reading precision. We work through question types rather than passages — inference, command of evidence, transitions — until you can name what a question is doing before you look at the options.",
       "ka": "ციფრული SAT ნაკლებად აფასებს კითხვის სიჩქარეს და მეტად — კითხვის სიზუსტეს. ვმუშაობთ კითხვის ტიპებზე და არა ტექსტებზე — დასკვნა, მტკიცებულებით ოპერირება, გადასვლები — სანამ არ შეძლებ დაასახელო, რას აკეთებს კითხვა, ვარიანტებში ჩახედვამდე."
     },
     "education": [
-      { "school": "University College London", "degree": { "en": "BA English Literature", "ka": "ინგლისური ლიტერატურის ბაკალავრი" }, "years": "2014–2017" }
+      {
+        "school": "University College London",
+        "degree": {
+          "en": "BA English Literature",
+          "ka": "ინგლისური ლიტერატურის ბაკალავრი"
+        },
+        "years": "2014–2017"
+      }
     ],
     "track": [
-      { "title": { "en": "Head of verbal prep", "ka": "ვერბალური მომზადების ხელმძღვანელი" }, "when": "2019 — now", "detail": { "en": "Median student gain of 110 points on the verbal section.", "ka": "მოსწავლეთა მედიანური ზრდა 110 ქულით ვერბალურ ნაწილში." } }
+      {
+        "title": {
+          "en": "Head of verbal prep",
+          "ka": "ვერბალური მომზადების ხელმძღვანელი"
+        },
+        "when": "2019 — now",
+        "detail": {
+          "en": "Median student gain of 110 points on the verbal section.",
+          "ka": "მოსწავლეთა მედიანური ზრდა 110 ქულით ვერბალურ ნაწილში."
+        }
+      }
     ],
     "services": [
-      { "name": { "en": "SAT verbal 1:1", "ka": "SAT ვერბალური ინდივიდუალურად" }, "price": 80, "unit": { "en": "60 min", "ka": "60 წთ" } },
-      { "name": { "en": "Full practice test review", "ka": "სრული საცდელი ტესტის განხილვა" }, "price": 110, "unit": { "en": "90 min", "ka": "90 წთ" } }
+      {
+        "name": {
+          "en": "SAT verbal 1:1",
+          "ka": "SAT ვერბალური ინდივიდუალურად"
+        },
+        "price": 30,
+        "unit": {
+          "en": "60 min",
+          "ka": "60 წთ"
+        }
+      },
+      {
+        "name": {
+          "en": "Full practice test review",
+          "ka": "სრული საცდელი ტესტის განხილვა"
+        },
+        "price": 41,
+        "unit": {
+          "en": "90 min",
+          "ka": "90 წთ"
+        }
+      }
     ],
-    "availability": { "1": ["19:00", "20:30"], "3": ["19:00", "20:30"], "6": ["13:00", "14:30", "16:00"] },
-    "busy": ["2026-09-26"]
+    "availability": {
+      "1": [
+        "19:00",
+        "20:30"
+      ],
+      "3": [
+        "19:00",
+        "20:30"
+      ],
+      "6": [
+        "13:00",
+        "14:30",
+        "16:00"
+      ]
+    },
+    "busy": [
+      "2026-09-26"
+    ]
   }
 ]

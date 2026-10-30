@@ -114,6 +114,7 @@
     if (uni.ielts_min) cells.push(['IELTS', uni.ielts_min + '+', M.t('uni.minimum')]);
     if (uni.toefl_min) cells.push(['TOEFL iBT', uni.toefl_min + '+', M.t('uni.minimum')]);
     if (uni.duolingo_min) cells.push(['Duolingo', uni.duolingo_min + '+', M.t('uni.minimum')]);
+    if (uni.other_tests && uni.other_tests.length) cells.push([M.t('uni.otherTests'), uni.other_tests.join(', '), M.t('uni.otherTests.note')]);
     if (uni.acceptance_rate) cells.push([M.t('uni.admit'), Math.round(uni.acceptance_rate * 100) + '%', '']);
     if (uni.students) cells.push([M.t('uni.students'), Number(uni.students).toLocaleString('en-US'), uni.intl_pct ? Math.round(uni.intl_pct * 100) + '% ' + M.t('uni.international') : '']);
     if (!cells.length) return '';
@@ -166,7 +167,7 @@
         (uni.deadline ? '<div class="op-count' + (days !== null && days <= 21 ? ' is-urgent' : '') + '"><b>' + Math.max(days || 0, 0) + '</b><span>' +
           M.t('op.daysLeft') + ' · ' + M.formatDate(uni.deadline) + '</span></div>' : '') +
         '<div id="trackerSlot">' + trackerMarkup() + '</div>' +
-        '<button type="button" class="btn btn-outline btn-block" id="saveBtn">' + M.icon('bookmark', 17) +
+        '<button type="button" class="btn btn-outline btn-block' + (saved ? ' is-saved' : '') + '" id="saveBtn" aria-pressed="' + saved + '">' + M.icon('bookmark', 17) +
           '<span>' + M.t(saved ? 'programs.saved' : 'programs.save') + '</span></button>' +
         (uni.application_url ? '<a class="btn btn-outline btn-block" id="admBtn" href="' + M.esc(uni.application_url) +
           '" target="_blank" rel="noopener noreferrer">' + M.t('uni.admissionsPage') + M.icon('external', 15) + '</a>' : '') +

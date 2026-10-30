@@ -33,6 +33,11 @@ from config import Config, DATA_DIR
 SCHEMA = """
 PRAGMA journal_mode = WAL;
 
+CREATE TABLE IF NOT EXISTS meta (
+    key   TEXT PRIMARY KEY,
+    value TEXT
+);
+
 CREATE TABLE IF NOT EXISTS users (
     id            INTEGER PRIMARY KEY AUTOINCREMENT,
     first_name    TEXT    NOT NULL,
@@ -104,7 +109,7 @@ CREATE TABLE IF NOT EXISTS orders (
     user_id        INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
     kind           TEXT    NOT NULL,
     description    TEXT    NOT NULL,
-    currency       TEXT    NOT NULL DEFAULT 'GEL',
+    currency       TEXT    NOT NULL DEFAULT 'USD',
     base_minor     INTEGER NOT NULL,
     fee_minor      INTEGER NOT NULL DEFAULT 0,
     total_minor    INTEGER NOT NULL,
@@ -124,7 +129,7 @@ CREATE TABLE IF NOT EXISTS ledger (
     party        TEXT    NOT NULL,
     party_id     TEXT,
     amount_minor INTEGER NOT NULL,
-    currency     TEXT    NOT NULL DEFAULT 'GEL',
+    currency     TEXT    NOT NULL DEFAULT 'USD',
     memo         TEXT,
     created_at   TEXT    NOT NULL
 );
@@ -251,6 +256,11 @@ CREATE INDEX IF NOT EXISTS idx_ledger_order ON ledger(order_id);
 # Columns added after the first release. init_db() adds any that are missing,
 # so an existing meridian.db upgrades in place without losing a row.
 MIGRATIONS = {
+    "counsellors": {
+        "school_domain": "TEXT",
+        "school_id": "INTEGER",
+        "focus": "TEXT",
+    },
     "users": {
         "role": "TEXT NOT NULL DEFAULT 'student'",
         "country": "TEXT",
@@ -261,6 +271,7 @@ MIGRATIONS = {
         "plan_cycle": "TEXT",
         "plan_renews_at": "TEXT",
         "birth_year": "INTEGER",
+        "birth_date": "TEXT",
     },
     "bookings": {
         "slot_id": "INTEGER",
@@ -311,7 +322,47 @@ def init_db():
                 if name not in have:
                     conn.execute("ALTER TABLE %s ADD COLUMN %s %s" % (table, name, ddl))
     conn.close()
-    seed_tutors()
+    if seed_tutors():
+        set_meta("currency", "USD")
+    elif get_meta("currency") != "USD":
+        tutors_to_usd()
+
+
+def get_meta(key):
+    conn = connect()
+    row = conn.execute("SELECT value FROM meta WHERE key = ?", (key,)).fetchone()
+    conn.close()
+    return row["value"] if row else None
+
+
+def set_meta(key, value):
+    conn = connect()
+    with conn:
+        conn.execute("INSERT INTO meta (key, value) VALUES (?, ?) ON CONFLICT(key) DO UPDATE SET value = excluded.value",
+                     (key, value))
+    conn.close()
+
+
+GEL_TO_USD = 0.37
+
+
+def tutors_to_usd():
+    """One-time move from lari to US dollars (31 Oct 2026): tutor prices were
+    entered in GEL; convert them once and remember that it was done."""
+    usd = lambda value: max(5, int(round(float(value or 0) * GEL_TO_USD)))
+    conn = connect()
+    with conn:
+        for row in conn.execute("SELECT id, profile FROM tutors").fetchall():
+            profile = json.loads(row["profile"])
+            if profile.get("price"):
+                profile["price"] = usd(profile["price"])
+            for service in profile.get("services") or []:
+                if service.get("price"):
+                    service["price"] = usd(service["price"])
+            conn.execute("UPDATE tutors SET profile = ? WHERE id = ?", (json.dumps(profile, ensure_ascii=False), row["id"]))
+        conn.execute("INSERT INTO meta (key, value) VALUES ('currency', 'USD') "
+                     "ON CONFLICT(key) DO UPDATE SET value = excluded.value")
+    conn.close()
 
 
 # ---------------------------------------------------------------- passwords
@@ -338,7 +389,7 @@ def hash_code(code):
 
 # ---------------------------------------------------------------- users
 PROFILE_FIELDS = ("phone", "grade", "country", "city", "school", "interests", "target_regions", "locale",
-                  "birth_year")
+                  "birth_year", "birth_date")
 
 
 def create_user(first_name, last_name, email, password, **profile):
@@ -349,11 +400,12 @@ def create_user(first_name, last_name, email, password, **profile):
         cur = conn.execute(
             """INSERT INTO users (first_name, last_name, email, password_hash, created_at,
                                   phone, grade, country, city, school, interests, target_regions, locale,
-                                  birth_year)
-               VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
+                                  birth_year, birth_date)
+               VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
             (first_name, last_name, email, hash_password(password), now(),
              fields["phone"], fields["grade"], fields["country"], fields["city"], fields["school"],
-             fields["interests"], fields["target_regions"], fields["locale"], fields["birth_year"]),
+             fields["interests"], fields["target_regions"], fields["locale"], fields["birth_year"],
+             fields["birth_date"]),
         )
         user_id = cur.lastrowid
     conn.close()
@@ -368,11 +420,12 @@ def refresh_unverified(user_id, first_name, last_name, password, **profile):
         conn.execute(
             """UPDATE users SET first_name = ?, last_name = ?, password_hash = ?,
                    phone = ?, grade = ?, country = ?, city = ?, school = ?, interests = ?,
-                   target_regions = ?, locale = COALESCE(?, locale), birth_year = ?
+                   target_regions = ?, locale = COALESCE(?, locale), birth_year = ?, birth_date = ?
                WHERE id = ? AND verified = 0""",
             (first_name, last_name, hash_password(password),
              fields["phone"], fields["grade"], fields["country"], fields["city"], fields["school"],
-             fields["interests"], fields["target_regions"], fields["locale"], fields["birth_year"], user_id),
+             fields["interests"], fields["target_regions"], fields["locale"], fields["birth_year"],
+             fields["birth_date"], user_id),
         )
     conn.close()
 
@@ -615,10 +668,10 @@ def seed_tutors():
     count = conn.execute("SELECT COUNT(*) c FROM tutors").fetchone()["c"]
     conn.close()
     if count:
-        return
+        return False
     path = os.path.join(DATA_DIR, "teachers.json")
     if not os.path.exists(path):
-        return
+        return False
     with open(path, encoding="utf-8") as fh:
         teachers = json.load(fh)
     for teacher in teachers:
@@ -626,6 +679,7 @@ def seed_tutors():
         busy = set(teacher.pop("busy", []) or [])
         save_tutor(teacher["id"], teacher, status="approved")
         open_weekly(teacher["id"], weekly, weeks=6, skip_dates=busy)
+    return True
 
 
 # ---------------------------------------------------------------- slots
@@ -818,7 +872,7 @@ def booking_taken(teacher_id, date_s, time_s):
 
 
 # ---------------------------------------------------------------- orders & ledger
-def create_order(user_id, kind, description, base_minor, fee_minor, meta=None, currency="GEL"):
+def create_order(user_id, kind, description, base_minor, fee_minor, meta=None, currency="USD"):
     order_id = "ord_" + secrets.token_hex(8)
     conn = connect()
     with conn:

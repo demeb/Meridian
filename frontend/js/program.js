@@ -51,8 +51,17 @@
 
   function paintCrumbs() {
     var sec = program.section === 'scholarship' ? 'scholarships' : 'projects';
+    // came from a filtered list (e.g. Qatar projects)? the crumb goes back to exactly that list
+    var back = '/programs?s=' + sec;
+    try {
+      var ref = new URL(document.referrer);
+      if (ref.origin === window.location.origin && ref.pathname === '/programs') {
+        ref.searchParams.delete('p');
+        back = ref.pathname + ref.search;
+      }
+    } catch (e) {}
     document.getElementById('crumbs').innerHTML =
-      '<a href="/programs?s=' + sec + '">' + M.t('programs.sec.' + sec) + '</a>' + M.icon('chevronRight', 14) +
+      '<a href="' + M.esc(back) + '">' + M.t('programs.sec.' + sec) + '</a>' + M.icon('chevronRight', 14) +
       '<span>' + M.esc(M.pick(program.name)) + '</span>';
   }
 
@@ -166,13 +175,53 @@
       '<div class="card op-card">' +
         countdown(program.deadline) +
         '<div id="trackerSlot">' + trackerCard() + '</div>' +
-        '<button type="button" class="btn btn-outline btn-block" id="saveBtn">' + M.icon('bookmark', 17) +
+        '<button type="button" class="btn btn-outline btn-block' + (saved ? ' is-saved' : '') + '" id="saveBtn" aria-pressed="' + saved + '">' + M.icon('bookmark', 17) +
           '<span>' + M.t(saved ? 'programs.saved' : 'programs.save') + '</span></button>' +
         (apply ? '<a class="btn btn-ghost btn-block op-official" id="officialBtn" href="' + M.esc(apply) + '" target="_blank" rel="noopener noreferrer">' +
           M.t('op.register') + M.icon('external', 15) + '</a>' +
           '<p class="op-side-note">' + M.t('op.officialNote') + '</p>' : '') +
-      '</div>';
+      '</div>' +
+      '<div id="tutorHint"></div>';
     bindSide();
+    paintTutorHint();
+  }
+
+  /* "Preparing for UWC? Our tutors help with …" — links to the tutors filtered
+     to the subjects that matter for this kind of programme. */
+  var TUTOR_SUBJECTS = {
+    uwc: ['uwc-prep', 'interview', 'essays'],
+    flex: ['flex-prep', 'english', 'interview'],
+    exchange: ['flex-prep', 'english', 'interview'],
+    mun: ['mun', 'english'],
+    competition: ['olympiad', 'math', 'physics', 'chemistry', 'biology', 'cs'],
+    stem: ['math', 'physics', 'chemistry', 'biology', 'cs', 'essays'],
+    summer: ['essays', 'interview', 'english'],
+    erasmus: ['english', 'cv'],
+    volunteering: ['cv', 'english'],
+    youth: ['essays', 'cv', 'interview'],
+    startup: ['essays', 'interview', 'cv'],
+    training: ['english', 'cv'],
+    scholarship: ['essays', 'interview', 'financial-aid', 'ielts']
+  };
+  var tutorsCache = null;
+  function paintTutorHint() {
+    var slot = document.getElementById('tutorHint');
+    var subjects = TUTOR_SUBJECTS[program.section === 'scholarship' ? 'scholarship' : program.family];
+    if (!slot || !subjects) return;
+    (tutorsCache ? Promise.resolve(tutorsCache) : M.api('/api/teachers')).then(function (data) {
+      tutorsCache = data;
+      var match = (data.teachers || []).filter(function (tutor) {
+        return (tutor.subjects || []).some(function (s) { return subjects.indexOf(s) !== -1; });
+      });
+      if (!match.length) return;
+      var name = program.family === 'uwc' ? 'UWC' : program.family === 'flex' ? 'FLEX' : program.family === 'mun' ? 'MUN' : null;
+      slot.innerHTML = '<a class="card tutor-hint" href="/teachers?subject=' + encodeURIComponent(subjects.join(',')) +
+        '&for=' + encodeURIComponent(program.family) + '">' +
+        '<span class="tutor-hint-faces">' + match.slice(0, 3).map(function (t) { return M.avatar(t, 'avatar-sm'); }).join('') + '</span>' +
+        '<span><b>' + M.esc(name ? M.t('op.tutors.titleFor').replace('{name}', name) : M.t('op.tutors.title')) + '</b>' +
+        '<small>' + M.esc(M.t('op.tutors.body').replace('{n}', match.length)) + '</small></span>' +
+        M.icon('arrowRight', 18) + '</a>';
+    });
   }
 
   function bindSide() {
@@ -206,6 +255,8 @@
         M.state.saved = data.all || [];
         if (data.saved) M.track('save', program.id);
         save.querySelector('span').textContent = M.t(data.saved ? 'programs.saved' : 'programs.save');
+        save.classList.toggle('is-saved', !!data.saved);
+        save.setAttribute('aria-pressed', String(!!data.saved));
       });
     });
     var official = document.getElementById('officialBtn');

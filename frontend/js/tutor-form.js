@@ -92,7 +92,7 @@
         '<h3><span class="step-no">' + (opts.photo !== false ? 5 : 4) + '</span>' + M.t('apply.price.title') + '</h3>' +
         '<div class="price-builder">' +
           '<div class="field"><label for="f-price">' + M.t('apply.price.yours') + '</label>' +
-            '<div class="input-suffix"><input class="input" id="f-price" name="price" type="number" min="5" max="2000" step="1" inputmode="decimal" value="' + (profile.price || '') + '" /><span class="gel">₾</span></div>' +
+            '<div class="input-suffix"><input class="input" id="f-price" name="price" type="number" min="5" max="2000" step="1" inputmode="decimal" value="' + (profile.price || '') + '" /><span class="gel">USD</span></div>' +
             '<span class="field-error">—</span></div>' +
           '<div class="price-mirror" id="priceMirror"></div>' +
         '</div>' +

@@ -307,6 +307,10 @@
       '<aside class="stack" style="gap:var(--space-4)">' + profileCard() + planCard() + tutorCard() + '</aside>' +
       '<div class="stack" style="gap:var(--space-5)">' + applicationsSection() + bookingsSection() + savedSection() + receiptsSection() + '</div>';
     bindApplications(host);
+    // long lists fold away with the button at the top right of each card
+    host.querySelectorAll('.stack > section.card').forEach(function (card, i) {
+      M.collapsible(card, 'account.' + (card.id || i));
+    });
 
     var cancel = host.querySelector('[data-cancel-plan]');
     if (cancel) {

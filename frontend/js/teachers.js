@@ -192,7 +192,7 @@
     paintBanner();
     window.addEventListener('meridian:lang', paintBanner);
     var params = new URLSearchParams(window.location.search);
-    if (params.get('subject')) filters.subjects = [params.get('subject')];
+    if (params.get('subject')) filters.subjects = params.get('subject').split(',').filter(Boolean);
     filters.q = params.get('q') || '';
 
     var search = document.getElementById('teacherSearch');
@@ -207,7 +207,7 @@
     var output = document.getElementById('priceValue');
     range.addEventListener('input', function () {
       filters.price = Number(range.value);
-      output.innerHTML = (filters.price >= 200 ? '200+' : filters.price) + ' <span class="gel">₾</span>';
+      output.innerHTML = '$' + (filters.price >= 200 ? '200+' : filters.price);
       render();
     });
 
@@ -215,7 +215,7 @@
       filters = { q: '', subjects: [], regions: [], languages: [], price: 200, sort: filters.sort };
       search.value = '';
       range.value = 200;
-      output.textContent = '200+ ₾';
+      output.textContent = '$200+';
       paintFilters();
       render();
     });

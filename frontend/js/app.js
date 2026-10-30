@@ -150,6 +150,9 @@
     document.querySelectorAll('[data-lang-btn]').forEach(function (node) {
       node.setAttribute('aria-pressed', String(node.getAttribute('data-lang-btn') === next));
     });
+    document.querySelectorAll('[data-lang-current]').forEach(function (node) { node.textContent = LANG_SHORT[next]; });
+    document.querySelectorAll('.lang-pick.is-open').forEach(function (node) { node.classList.remove('is-open'); });
+    fitNav();
     window.dispatchEvent(new CustomEvent('meridian:lang', { detail: { lang: next } }));
   }
 
@@ -420,12 +423,38 @@
     { href: '/about/offerings', key: 'nav.offerings', note: 'nav.offerings.note', ico: 'layers' },
     { href: '/about/global-teachers', key: 'nav.globalTeachers', note: 'nav.globalTeachers.note', ico: 'globe' },
     { href: '/about/research', key: 'nav.research', note: 'nav.research.note', ico: 'trending' },
-    { href: '/about/faq', key: 'nav.faq', note: 'nav.faq.note', ico: 'info' }
+    { href: '/about/faq', key: 'nav.faq', note: 'nav.faq.note', ico: 'info' },
+    { href: '/engage', key: 'nav.engage', note: 'nav.engage.note', ico: 'message' }
   ];
+
+  var MENTOR_LINKS = [
+    { href: '/teachers', key: 'nav.teachers', note: 'nav.teachers.note', ico: 'users' },
+    { href: '/prep', key: 'nav.prep', note: 'nav.prep.note', ico: 'book' }
+  ];
+
+  var LANG_SHORT = { en: 'EN', ka: 'ქარ', ar: 'عربي' };
+  var LANG_NAME = { en: 'English', ka: 'ქართული', ar: 'العربية' };
+
+  function langPickMarkup() {
+    return '<div class="lang-pick">' +
+      '<button type="button" class="lang-btn" aria-haspopup="true" aria-expanded="false" aria-label="Language">' +
+        icon('globe', 17) + '<span data-lang-current>' + LANG_SHORT[state.lang] + '</span>' +
+        '<span class="caret">' + icon('chevronDown', 14) + '</span></button>' +
+      '<div class="lang-menu" role="menu">' +
+        LANGS.map(function (code) {
+          return '<button type="button" role="menuitemradio" data-lang-btn="' + code + '" lang="' + code + '" aria-pressed="' +
+            (state.lang === code) + '">' + LANG_NAME[code] + '</button>';
+        }).join('') +
+      '</div></div>';
+  }
 
   function navMarkup(page) {
     var active = function (name) { return page === name ? ' is-active' : ''; };
     var aboutItems = ABOUT_LINKS.map(function (link) {
+      return '<a href="' + link.href + '">' + icon(link.ico, 17) +
+        '<span>' + t(link.key) + '<span class="menu-note">' + t(link.note) + '</span></span></a>';
+    }).join('');
+    var mentorItems = MENTOR_LINKS.map(function (link) {
       return '<a href="' + link.href + '">' + icon(link.ico, 17) +
         '<span>' + t(link.key) + '<span class="menu-note">' + t(link.note) + '</span></span></a>';
     }).join('');
@@ -435,25 +464,24 @@
         '<div class="container-wide nav-inner">' +
           brandMarkup() +
           '<ul class="nav-links">' +
+            '<li><a class="nav-link' + active('home') + '" href="/">' + t('nav.home') + '</a></li>' +
             '<li><a class="nav-link' + active('programs') + '" href="/programs">' + t('nav.programs') + '</a></li>' +
             '<li><a class="nav-link' + active('universities') + '" href="/universities">' + t('nav.universities') + '</a></li>' +
-            '<li><a class="nav-link' + active('teachers') + '" href="/teachers">' + t('nav.teachers') + '</a></li>' +
+            '<li class="has-menu">' +
+              '<a class="nav-link' + (page === 'teachers' || page === 'prep' ? ' is-active' : '') + '" href="/teachers">' + t('nav.mentorship') +
+                '<span class="caret">' + icon('chevronDown', 14) + '</span></a>' +
+              '<div class="nav-menu">' + mentorItems + '</div>' +
+            '</li>' +
             '<li><a class="nav-link' + active('counselling') + '" href="/counselling">' + t('nav.counselling') + '</a></li>' +
-            '<li><a class="nav-link' + active('prep') + '" href="/prep">' + t('nav.prep') + '</a></li>' +
             '<li><a class="nav-link' + active('pricing') + '" href="/pricing">' + t('nav.pricing') + '</a></li>' +
             '<li class="has-menu">' +
-              '<a class="nav-link' + active('about') + '" href="/about">' + t('nav.about') +
+              '<a class="nav-link' + (page === 'about' || page === 'engage' ? ' is-active' : '') + '" href="/about">' + t('nav.about') +
                 '<span class="caret">' + icon('chevronDown', 14) + '</span></a>' +
               '<div class="nav-menu">' + aboutItems + '</div>' +
             '</li>' +
-            '<li><a class="nav-link' + active('engage') + '" href="/engage">' + t('nav.engage') + '</a></li>' +
           '</ul>' +
           '<div class="nav-actions">' +
-            '<div class="seg" role="group" aria-label="Language">' +
-              '<button type="button" data-lang-btn="en" aria-pressed="' + (state.lang === 'en') + '">EN</button>' +
-              '<button type="button" data-lang-btn="ka" aria-pressed="' + (state.lang === 'ka') + '">ქარ</button>' +
-              '<button type="button" data-lang-btn="ar" aria-pressed="' + (state.lang === 'ar') + '" lang="ar">عربي</button>' +
-            '</div>' +
+            langPickMarkup() +
             '<button type="button" class="theme-toggle" data-theme-toggle ' +
               'data-i18n-label="nav.theme" aria-label="' + t('nav.theme') + '">' +
               '<span class="ico-sun">' + icon('sun', 22) + '</span>' +
@@ -478,7 +506,6 @@
               return '<a href="' + l.href + '">' + t(l.key) + '</a>';
             }).join('') +
           '</div>' +
-          '<a href="/engage">' + t('nav.engage') + '</a>' +
           '<div class="drawer-lang">' +
             '<span class="label">' + t('teachers.filter.language') + '</span>' +
             '<span class="seg" role="group" aria-label="Language">' +
@@ -491,6 +518,26 @@
         '</div>' +
       '</nav>';
   }
+
+  /* Show the full link row only when it really fits (labels are much longer in
+     Georgian and Arabic); otherwise fall back to the menu button. */
+  function fitNav() {
+    var nav = document.getElementById('siteNav');
+    if (!nav) return;
+    var inner = nav.querySelector('.nav-inner');
+    var over = function () { return inner.scrollWidth > inner.clientWidth + 1; };
+    nav.classList.remove('nav-collapsed', 'nav-tight');
+    if (window.innerWidth < 900) { nav.classList.add('nav-collapsed'); return; }
+    if (over()) nav.classList.add('nav-tight');
+    if (over()) nav.classList.add('nav-collapsed');
+  }
+  var fitQueued = false;
+  window.addEventListener('resize', function () {
+    if (fitQueued) return;
+    fitQueued = true;
+    window.requestAnimationFrame(function () { fitQueued = false; fitNav(); });
+  });
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(fitNav);
 
   function authMarkup(user) {
     if (!user) {
@@ -526,6 +573,7 @@
       var show = want === 'in' ? !!user : !user;
       node.hidden = !show;
     });
+    fitNav();
   }
 
   function footerMarkup() {
@@ -679,11 +727,22 @@
     observeReveal();
     observeCounters();
     bindAccordions();
+    // language dropdown: one listener for every copy of it (the nav is re-mounted on language change)
+    document.addEventListener('click', function (event) {
+      var button = event.target.closest && event.target.closest('.lang-btn');
+      document.querySelectorAll('.lang-pick.is-open').forEach(function (pick) {
+        if (!button || pick !== button.parentNode) pick.classList.remove('is-open');
+      });
+      if (button) {
+        var open = button.parentNode.classList.toggle('is-open');
+        button.setAttribute('aria-expanded', String(open));
+      }
+    });
     loadUser().then(paintAuth);
     // Meridian AI: the chat button on every page (loaded after the page itself)
     if (!document.querySelector('script[src^="/js/ai.js"]') && document.body.getAttribute('data-page') !== 'admin') {
       var ai = document.createElement('script');
-      ai.src = '/js/ai.js?v=r5';
+      ai.src = '/js/ai.js?v=r6';
       ai.defer = true;
       document.body.appendChild(ai);
     }
@@ -718,12 +777,205 @@
       });
     }
     if (nav) nav.classList.toggle('is-stuck', window.scrollY > 12);
+    fitNav();
     document.querySelectorAll('[data-theme-toggle]').forEach(function (node) {
       node.addEventListener('click', toggleTheme);
     });
     document.querySelectorAll('[data-lang-btn]').forEach(function (node) {
       node.addEventListener('click', function () { applyLang(node.getAttribute('data-lang-btn')); });
     });
+  }
+
+  /* ---------------------------------------------------------- collapsible cards */
+  /* Adds a fold button to the top-right of a card's header row; everything below
+     the header hides. The choice is remembered per card. */
+  var FOLD_KEY = 'meridian.folded';
+  function folded() {
+    try { return JSON.parse(localStorage.getItem(FOLD_KEY) || '{}'); } catch (e) { return {}; }
+  }
+  function collapsible(card, key) {
+    var head = card && card.firstElementChild;
+    if (!head || head.querySelector('.fold-btn')) return;
+    var button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'fold-btn';
+    var set = function (shut) {
+      card.classList.toggle('is-folded', shut);
+      button.setAttribute('aria-expanded', String(!shut));
+      button.setAttribute('aria-label', t(shut ? 'common.expand' : 'common.collapse'));
+      button.title = t(shut ? 'common.expand' : 'common.collapse');
+      button.innerHTML = icon('chevronDown', 18);
+    };
+    button.addEventListener('click', function () {
+      var shut = !card.classList.contains('is-folded');
+      set(shut);
+      var state = folded();
+      if (shut) state[key] = 1; else delete state[key];
+      try { localStorage.setItem(FOLD_KEY, JSON.stringify(state)); } catch (e) {}
+    });
+    head.appendChild(button);
+    head.classList.add('fold-head');
+    set(!!folded()[key]);
+  }
+
+  /* ---------------------------------------------------------- fields of study */
+  /* The "major" filter. Round-6 records name their fields; older ones are read
+     from their text. 'any' = open to every subject. */
+  var FIELDS = {
+    any: { en: 'Any field', ka: 'ნებისმიერი სფერო', ar: 'أي تخصص' },
+    business: { en: 'Business & management', ka: 'ბიზნესი და მენეჯმენტი', ar: 'الأعمال والإدارة' },
+    economics: { en: 'Economics & finance', ka: 'ეკონომიკა და ფინანსები', ar: 'الاقتصاد والمالية' },
+    'computer-science': { en: 'Computer science & AI', ka: 'კომპიუტერული მეცნიერება და AI', ar: 'علوم الحاسوب والذكاء الاصطناعي' },
+    engineering: { en: 'Engineering', ka: 'ინჟინერია', ar: 'الهندسة' },
+    mathematics: { en: 'Mathematics', ka: 'მათემატიკა', ar: 'الرياضيات' },
+    'natural-sciences': { en: 'Natural sciences', ka: 'საბუნებისმეტყველო მეცნიერებები', ar: 'العلوم الطبيعية' },
+    'medicine-health': { en: 'Medicine & health', ka: 'მედიცინა და ჯანდაცვა', ar: 'الطب والصحة' },
+    law: { en: 'Law', ka: 'სამართალი', ar: 'القانون' },
+    'international-relations': { en: 'International relations & policy', ka: 'საერთაშორისო ურთიერთობები', ar: 'العلاقات الدولية والسياسات' },
+    'social-sciences': { en: 'Social sciences & psychology', ka: 'სოციალური მეცნიერებები და ფსიქოლოგია', ar: 'العلوم الاجتماعية وعلم النفس' },
+    humanities: { en: 'Humanities & writing', ka: 'ჰუმანიტარული მეცნიერებები', ar: 'العلوم الإنسانية والكتابة' },
+    'arts-design': { en: 'Arts, design & media', ka: 'ხელოვნება, დიზაინი და მედია', ar: 'الفنون والتصميم والإعلام' },
+    education: { en: 'Education', ka: 'განათლება', ar: 'التعليم' },
+    environment: { en: 'Environment & climate', ka: 'გარემო და კლიმატი', ar: 'البيئة والمناخ' },
+    languages: { en: 'Languages', ka: 'ენები', ar: 'اللغات' }
+  };
+  var FIELD_WORDS = [
+    ['computer-science', /comput|coding|\bcode|programm|software|hackathon|\bai\b|artificial intel|data scien|informatic|cyber|machine learning/],
+    ['engineering', /engineer|robot|aerospace|space|mechanic|electric|civil eng|architecture/],
+    ['medicine-health', /medic|health|biomed|pharma|nursing|dental|clinical|public health/],
+    ['natural-sciences', /physic|chemi|biolog|scien|astronom|genetic|research|\bstem\b/],
+    ['mathematics', /\bmath|statistic/],
+    ['business', /business|entrepreneur|startup|management|marketing|\bmba\b|case competition|leadership/],
+    ['economics', /econom|financ|banking|account/],
+    ['law', /\blaw\b|legal|moot|human rights/],
+    ['international-relations', /diplom|international relation|model united nations|\bmun\b|global affairs|public policy|\bpolicy|united nations|model eu/],
+    ['social-sciences', /psycholog|sociolog|politic|social scien|anthropolog|social work/],
+    ['humanities', /histor|philosoph|literat|essay|writing|journalism|religio/],
+    ['arts-design', /\bart\b|\barts\b|design|film|music|photograph|creative|media|theatre|fashion/],
+    ['education', /teach|education|pedagog|youth work/],
+    ['environment', /climate|environment|sustainab|green|renewable|ocean|ecolog|conservation/],
+    ['languages', /language|linguist|translation|\benglish\b|german|french|spanish|chinese|japanese/]
+  ];
+  function fieldsOf(record, text) {
+    if (record && record.fields && record.fields.length) return record.fields;
+    if (record && record._fields) return record._fields;
+    var hay = String(text || '').toLowerCase();
+    var found = FIELD_WORDS.filter(function (row) { return row[1].test(hay); }).map(function (row) { return row[0]; });
+    if (record) record._fields = found;
+    return found;
+  }
+
+  /* ---------------------------------------------------------- searchable select */
+  /* A searchable dropdown on top of a native <select> (long country lists): type
+     "qa", "Qatar", "კატარი" or "قطر". The <select> stays the source of truth: picking
+     an option sets its value and fires its change event. Call again after the
+     options are re-rendered; `extra` maps option value -> more words to match. */
+  function fold(text) {
+    return String(text || '').toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '');
+  }
+
+  function searchSelect(node, extra) {
+    if (!node) return;
+    var wrap = node.parentNode && node.parentNode.classList.contains('ss-wrap') ? node.parentNode : null;
+    if (!wrap) {
+      wrap = document.createElement('div');
+      wrap.className = 'ss-wrap';
+      node.parentNode.insertBefore(wrap, node);
+      wrap.appendChild(node);
+      node.classList.add('ss-native');
+      node.tabIndex = -1;
+      var button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'select ss-button';
+      button.setAttribute('aria-haspopup', 'listbox');
+      var panel = document.createElement('div');
+      panel.className = 'ss-panel';
+      panel.innerHTML = '<input type="search" class="input ss-search" autocomplete="off" spellcheck="false" />' +
+        '<div class="ss-list" role="listbox"></div>';
+      wrap.appendChild(button);
+      wrap.appendChild(panel);
+      var input = panel.querySelector('.ss-search');
+      var list = panel.querySelector('.ss-list');
+      var active = 0;
+
+      var options = function () {
+        var q = fold(input.value).trim();
+        return Array.prototype.slice.call(node.options).filter(function (opt) {
+          if (!q) return true;
+          var hay = fold(opt.textContent + ' ' + opt.value + ' ' + ((wrap._extra || {})[opt.value] || ''));
+          return q.split(/\s+/).every(function (word) { return hay.indexOf(word) !== -1; });
+        });
+      };
+      var paint = function () {
+        var shown = options();
+        active = Math.max(0, Math.min(active, shown.length - 1));
+        list.innerHTML = shown.length ? shown.map(function (opt, i) {
+          return '<button type="button" role="option" data-v="' + esc(opt.value) + '" class="ss-opt' +
+            (i === active ? ' is-active' : '') + '" aria-selected="' + (opt.value === node.value) + '">' +
+            esc(opt.textContent) + '</button>';
+        }).join('') : '<p class="ss-empty">—</p>';
+      };
+      var choose = function (value) {
+        close();
+        if (value === node.value) return;
+        node.value = value;
+        wrap._sync();
+        node.dispatchEvent(new Event('change', { bubbles: true }));
+      };
+      var open = function () {
+        wrap.classList.add('is-open');
+        button.setAttribute('aria-expanded', 'true');
+        input.value = '';
+        input.placeholder = t('common.typeToSearch');
+        active = Math.max(0, node.selectedIndex);
+        paint();
+        input.focus();
+        var current = list.querySelector('.is-active');
+        if (current) current.scrollIntoView({ block: 'nearest' });
+      };
+      var close = function () {
+        wrap.classList.remove('is-open');
+        button.setAttribute('aria-expanded', 'false');
+      };
+      button.addEventListener('click', function () { if (wrap.classList.contains('is-open')) close(); else open(); });
+      input.addEventListener('input', function () { active = 0; paint(); });
+      input.addEventListener('keydown', function (event) {
+        var shown = options();
+        if (event.key === 'ArrowDown' || event.key === 'ArrowUp') {
+          event.preventDefault();
+          active = (active + (event.key === 'ArrowDown' ? 1 : -1) + shown.length) % Math.max(shown.length, 1);
+          paint();
+          var current = list.querySelector('.is-active');
+          if (current) current.scrollIntoView({ block: 'nearest' });
+        } else if (event.key === 'Enter') {
+          event.preventDefault();
+          if (shown[active]) choose(shown[active].value);
+        } else if (event.key === 'Escape') {
+          close();
+          button.focus();
+        }
+      });
+      list.addEventListener('mousedown', function (event) { event.preventDefault(); });
+      list.addEventListener('click', function (event) {
+        var opt = event.target.closest('[data-v]');
+        if (opt) choose(opt.getAttribute('data-v'));
+      });
+      document.addEventListener('click', function (event) {
+        if (!wrap.contains(event.target)) close();
+      });
+      wrap._sync = function () {
+        var opt = node.options[node.selectedIndex];
+        button.textContent = opt ? opt.textContent : '';
+        button.classList.toggle('is-set', node.selectedIndex > 0);
+      };
+      var label = wrap.closest('label');
+      if (label) label.addEventListener('click', function (event) {
+        // the <label> would forward clicks to the hidden <select>
+        if (event.target === label || event.target.tagName === 'SPAN') { event.preventDefault(); button.focus(); }
+      });
+    }
+    wrap._extra = extra || wrap._extra || {};
+    wrap._sync();
   }
 
   /* Activity for the weekly report: what was opened, clicked, searched. */
@@ -739,7 +991,7 @@
   }
 
   window.M = {
-    t: t, pick: pick, esc: esc, icon: icon, api: api, toast: toast, track: track,
+    t: t, pick: pick, esc: esc, icon: icon, api: api, toast: toast, track: track, searchSelect: searchSelect, collapsible: collapsible, FIELDS: FIELDS, fieldsOf: fieldsOf,
     state: state, loadUser: loadUser, paintAuth: paintAuth,
     formatDate: formatDate, daysUntil: daysUntil, parseDate: parseDate, iso: iso,
     months: MONTHS, dow: DOW,
@@ -756,7 +1008,7 @@
     money: function (amount) {
       var value = Number(amount || 0);
       var text = value % 1 === 0 ? String(value) : value.toFixed(2);
-      return text + ' <span class="gel">₾</span>';
+      return '<span class="cur">$</span>' + text;
     }
   };
 

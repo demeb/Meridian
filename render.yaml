@@ -32,3 +32,19 @@ services:
         generateValue: true
       - key: MERIDIAN_ADMIN_TOKEN
         generateValue: true
+      # Email: sign-up and password-reset codes go out through Gmail.
+      # In Render → Environment, fill MERIDIAN_SMTP_USER (the Gmail address) and
+      # MERIDIAN_SMTP_PASSWORD (a Google "app password", not the normal password).
+      - key: MERIDIAN_SMTP_HOST
+        value: smtp.gmail.com
+      - key: MERIDIAN_SMTP_PORT
+        value: "587"
+      - key: MERIDIAN_MAIL_FROM
+        value: Meridian <no-reply@meridiangoal.com>
+      - key: MERIDIAN_SMTP_USER
+        sync: false
+      - key: MERIDIAN_SMTP_PASSWORD
+        sync: false
+      # Meridian AI: paste the Anthropic API key in Render → Environment.
+      - key: ANTHROPIC_API_KEY
+        sync: false

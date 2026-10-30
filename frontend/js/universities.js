@@ -15,7 +15,7 @@
   var shown = PAGE;
   var view = 'list';
   var DEFAULTS = { q: '', region: 'all', country: 'all', tier: 'all', tuition: 'all', platform: 'all', admit: 'all',
-    type: 'all', aid: false, schol: false, full: false, fitOnly: false, testOptional: false, sort: 'rank',
+    type: 'all', major: 'all', aid: false, schol: false, full: false, fitOnly: false, testOptional: false, sort: 'rank',
     sat: null, act: null, ielts: null, toefl: null, duo: null };
   var filters = Object.assign({}, DEFAULTS);
 
@@ -148,6 +148,7 @@
       if (filters.admit === 'high' && a <= 0.4) return false;
     }
     if (filters.type !== 'all' && u.type !== filters.type) return false;
+    if (filters.major !== 'all' && M.fieldsOf(u, u.study).indexOf(filters.major) === -1) return false;
     if (filters.platform !== 'all' && u.platform !== filters.platform) return false;
     if (filters.aid) {
       var aid = (M.pick(u.aid_intl) || '').toLowerCase();
@@ -227,10 +228,16 @@
     select('fAdmit', ADMIT, 'admit');
     select('fType', TYPES, 'type');
     select('fSort', SORTS, 'sort');
+    var majors = { all: { en: 'Any major', ka: 'ნებისმიერი სპეციალობა', ar: 'أي تخصص' } };
+    Object.keys(M.FIELDS).forEach(function (key) { if (key !== 'any') majors[key] = M.FIELDS[key]; });
+    select('fMajor', majors, 'major');
     var countries = {};
     unis.forEach(function (u) {
       if (!u.iso) return;
-      if (!countries[u.iso]) countries[u.iso] = { name: M.pick(u.country), flag: u.flag, n: 0 };
+      if (!countries[u.iso]) {
+        var c = u.country || {};
+        countries[u.iso] = { name: M.pick(u.country), flag: u.flag, n: 0, words: [c.en, c.ka, c.ar].join(' ') };
+      }
       countries[u.iso].n += 1;
     });
     var node = document.getElementById('fCountry');
@@ -241,6 +248,9 @@
             countries[iso].flag + ' ' + M.esc(countries[iso].name) + ' (' + countries[iso].n + ')</option>';
         }).join('');
     node.onchange = function () { filters.country = node.value; refresh(true); };
+    var words = {};
+    Object.keys(countries).forEach(function (iso) { words[iso] = countries[iso].words; });
+    M.searchSelect(node, words);
     var platforms = {};
     unis.forEach(function (u) { if (u.platform) platforms[u.platform] = 1; });
     var p = { all: { en: 'Any system', ka: 'ნებისმიერი', ar: 'أي نظام' } };

@@ -13,12 +13,12 @@ import os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROGRAMS = os.path.join(ROOT, "backend", "data", "programs.json")
-OUT = os.path.join(ROOT, "backend", "data", "research", "round5", "translate", "out-*.json")
+OUT = [os.path.join(ROOT, "backend", "data", "research", r, "translate", "out-*.json") for r in ("round5", "round6")]
 
 
 def main():
     done = {}
-    for path in sorted(glob.glob(OUT)):
+    for path in sorted(p for pattern in OUT for p in glob.glob(pattern)):
         try:
             done.update(json.load(open(path, encoding="utf-8")))
         except ValueError as exc:

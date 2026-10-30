@@ -1,0 +1,247 @@
+{
+ "nav.mentorship": {
+  "en": "Mentorship",
+  "ka": "მენტორობა",
+  "ar": "الإرشاد"
+ },
+ "nav.teachers.note": {
+  "en": "Tutors for SAT, IELTS, essays, UWC and more",
+  "ka": "რეპეტიტორები SAT, IELTS, ესეებისა და UWC-სთვის",
+  "ar": "مدرّسون لاختبارات SAT وIELTS والمقالات وUWC"
+ },
+ "nav.prep.note": {
+  "en": "Official materials for every exam",
+  "ka": "ოფიციალური მასალები ყველა გამოცდისთვის",
+  "ar": "مواد رسمية لكل اختبار"
+ },
+ "nav.engage.note": {
+  "en": "Partner with us, join the team, contact",
+  "ka": "თანამშრომლობა, გუნდში გაწევრიანება, კონტაქტი",
+  "ar": "الشراكة والانضمام إلى الفريق والتواصل"
+ },
+ "programs.panel.backTo": {
+  "en": "Back to",
+  "ka": "დაბრუნება:",
+  "ar": "العودة إلى"
+ },
+ "common.typeToSearch": {
+  "en": "Type to search…",
+  "ka": "აკრიფეთ საძიებლად…",
+  "ar": "اكتب للبحث…"
+ },
+ "auth.birthDate": {
+  "en": "Date of birth",
+  "ka": "დაბადების თარიღი",
+  "ar": "تاريخ الميلاد"
+ },
+ "auth.day": {
+  "en": "Day",
+  "ka": "დღე",
+  "ar": "اليوم"
+ },
+ "auth.month": {
+  "en": "Month",
+  "ka": "თვე",
+  "ar": "الشهر"
+ },
+ "auth.year": {
+  "en": "Year",
+  "ka": "წელი",
+  "ar": "السنة"
+ },
+ "auth.error.birth_required": {
+  "en": "Please enter your full date of birth.",
+  "ka": "გთხოვთ, მიუთითოთ დაბადების სრული თარიღი.",
+  "ar": "يرجى إدخال تاريخ ميلادك كاملاً."
+ },
+ "programs.filter.field": {
+  "en": "Field of study",
+  "ka": "სწავლის სფერო",
+  "ar": "مجال الدراسة"
+ },
+ "uni.f.major": {
+  "en": "Major",
+  "ka": "სპეციალობა",
+  "ar": "التخصص"
+ },
+ "uni.otherTests": {
+  "en": "Other tests",
+  "ka": "სხვა გამოცდები",
+  "ar": "اختبارات أخرى"
+ },
+ "uni.otherTests.note": {
+  "en": "for some programmes — check the official page",
+  "ka": "ზოგიერთი პროგრამისთვის — გადაამოწმეთ ოფიციალურ გვერდზე",
+  "ar": "لبعض البرامج — راجع الصفحة الرسمية"
+ },
+ "common.collapse": {
+  "en": "Collapse",
+  "ka": "ჩაკეცვა",
+  "ar": "طيّ"
+ },
+ "common.expand": {
+  "en": "Expand",
+  "ka": "გაშლა",
+  "ar": "توسيع"
+ },
+ "programs.hl.inCountry": {
+  "en": "Top 10 in {country}",
+  "ka": "ტოპ 10 — {country}",
+  "ar": "أفضل 10 في {country}"
+ },
+ "programs.hl.myCountry": {
+  "en": "Top 10 in my country",
+  "ka": "ტოპ 10 ჩემს ქვეყანაში",
+  "ar": "أفضل 10 في بلدي"
+ },
+ "programs.hl.countryTitle": {
+  "en": "Top 10 in {country}",
+  "ka": "ტოპ 10 — {country}",
+  "ar": "أفضل 10 في {country}"
+ },
+ "programs.hl.signIn": {
+  "en": "Create a free account and we'll show the best programmes in your country.",
+  "ka": "შექმენი უფასო ანგარიში და გაჩვენებთ საუკეთესო პროგრამებს შენს ქვეყანაში.",
+  "ar": "أنشئ حساباً مجانياً لنعرض لك أفضل البرامج في بلدك."
+ },
+ "programs.showMore": {
+  "en": "Show more ({n} left)",
+  "ka": "მეტის ნახვა (დარჩა {n})",
+  "ar": "عرض المزيد (متبقٍ {n})"
+ },
+ "op.tutors.titleFor": {
+  "en": "Preparing for {name}? Our tutors can help",
+  "ka": "ემზადები {name}-ისთვის? ჩვენი მასწავლებლები დაგეხმარებიან",
+  "ar": "تستعد لـ {name}؟ يمكن لمدرّسينا مساعدتك"
+ },
+ "op.tutors.title": {
+  "en": "Get help with your application",
+  "ka": "მიიღე დახმარება განაცხადზე",
+  "ar": "احصل على مساعدة في طلبك"
+ },
+ "op.tutors.body": {
+  "en": "{n} tutors for essays, interviews and the skills this programme needs",
+  "ka": "{n} მასწავლებელი ესეებისთვის, ინტერვიუსთვის და ამ პროგრამისთვის საჭირო უნარებისთვის",
+  "ar": "{n} مدرّسين للمقالات والمقابلات والمهارات التي يحتاجها هذا البرنامج"
+ },
+ "cc.lede": {
+  "en": "Work on your plan, essays and CV with Meridian AI, learn the essentials in short courses, take a self-test, and get help from college counsellors.",
+  "ka": "იმუშავე გეგმაზე, ესეებსა და CV-ზე Meridian AI-სთან ერთად, ისწავლე მთავარი მოკლე კურსებში, გაიარე თვითშეფასების ტესტი და მიიღე დახმარება საუნივერსიტეტო კონსულტანტებისგან.",
+  "ar": "اعمل على خطتك ومقالاتك وسيرتك الذاتية مع Meridian AI، وتعلّم الأساسيات في دورات قصيرة، وأجرِ اختباراً ذاتياً، واحصل على مساعدة من المرشدين الجامعيين."
+ },
+ "cc.c.lede": {
+  "en": "Independent college counsellors who help students outside school. Each one is reviewed by our team before joining.",
+  "ka": "დამოუკიდებელი საუნივერსიტეტო კონსულტანტები, რომლებიც სკოლის გარეთ ეხმარებიან მოსწავლეებს. თითოეულს ჩვენი გუნდი ამოწმებს.",
+  "ar": "مرشدون جامعيون مستقلون يساعدون الطلاب خارج المدرسة. يراجع فريقنا كل واحد منهم قبل انضمامه."
+ },
+ "cc.c.empty": {
+  "en": "Our first independent counsellors are joining soon.",
+  "ka": "პირველი დამოუკიდებელი კონსულტანტები მალე შემოგვიერთდებიან.",
+  "ar": "سينضم قريباً أول المرشدين المستقلين."
+ },
+ "cc.c.noneFocus": {
+  "en": "No counsellors with this focus yet.",
+  "ka": "ამ მიმართულებით კონსულტანტები ჯერ არ არიან.",
+  "ar": "لا يوجد مرشدون بهذا التخصص بعد."
+ },
+ "cc.c.independent": {
+  "en": "Independent counsellor",
+  "ka": "დამოუკიდებელი კონსულტანტი",
+  "ar": "مرشد مستقل"
+ },
+ "cc.c.affiliated": {
+  "en": "Affiliated with {school}",
+  "ka": "აფილირებულია: {school}",
+  "ar": "تابع لـ {school}"
+ },
+ "cc.focus.all": {
+  "en": "All",
+  "ka": "ყველა",
+  "ar": "الكل"
+ },
+ "cc.focus.general": {
+  "en": "General counselling",
+  "ka": "ზოგადი კონსულტაცია",
+  "ar": "إرشاد عام"
+ },
+ "cc.focus.eu": {
+  "en": "EU counselling",
+  "ka": "ევროპის უნივერსიტეტები",
+  "ar": "إرشاد للجامعات الأوروبية"
+ },
+ "cc.focus.us": {
+  "en": "US university counselling",
+  "ka": "აშშ-ის უნივერსიტეტები",
+  "ar": "إرشاد للجامعات الأمريكية"
+ },
+ "cc.focus.asia": {
+  "en": "Asian university counselling",
+  "ka": "აზიის უნივერსიტეტები",
+  "ar": "إرشاد للجامعات الآسيوية"
+ },
+ "cc.join.schoolOpt": {
+  "en": "School or university you work for (optional)",
+  "ka": "სკოლა ან უნივერსიტეტი, სადაც მუშაობ (არასავალდებულო)",
+  "ar": "المدرسة أو الجامعة التي تعمل بها (اختياري)"
+ },
+ "cc.join.schoolPh": {
+  "en": "Leave empty if you are independent",
+  "ka": "დატოვე ცარიელი, თუ დამოუკიდებელი ხარ",
+  "ar": "اتركه فارغاً إذا كنت مستقلاً"
+ },
+ "cc.join.focus": {
+  "en": "Which students do you help?",
+  "ka": "რომელ სტუდენტებს ეხმარები?",
+  "ar": "أي الطلاب تساعد؟"
+ },
+ "cc.board.counsellors": {
+  "en": "Your school's counsellors",
+  "ka": "შენი სკოლის კონსულტანტები",
+  "ar": "مرشدو مدرستك"
+ },
+ "cc.board.posts": {
+  "en": "Webinars, programmes and news",
+  "ka": "ვებინარები, პროგრამები და სიახლეები",
+  "ar": "الندوات والبرامج والأخبار"
+ },
+ "prep.group.admissions": {
+  "en": "University admission",
+  "ka": "უნივერსიტეტში მიღება",
+  "ar": "القبول الجامعي"
+ },
+ "prep.group.english": {
+  "en": "English tests",
+  "ka": "ინგლისურის გამოცდები",
+  "ar": "اختبارات الإنجليزية"
+ },
+ "prep.group.graduate": {
+  "en": "Graduate school",
+  "ka": "მაგისტრატურა",
+  "ar": "الدراسات العليا"
+ },
+ "prep.group.medicine-law": {
+  "en": "Medicine & law",
+  "ka": "მედიცინა და სამართალი",
+  "ar": "الطب والقانون"
+ },
+ "prep.group.uk-subject": {
+  "en": "UK subject tests",
+  "ka": "ბრიტანეთის საგნობრივი ტესტები",
+  "ar": "اختبارات المواد البريطانية"
+ },
+ "prep.group.languages": {
+  "en": "Other languages",
+  "ka": "სხვა ენები",
+  "ar": "لغات أخرى"
+ },
+ "prep.group.school": {
+  "en": "School programmes",
+  "ka": "სასკოლო პროგრამები",
+  "ar": "البرامج المدرسية"
+ },
+ "prep.section.all": {
+  "en": "Start here",
+  "ka": "დაიწყე აქედან",
+  "ar": "ابدأ من هنا"
+ }
+}
