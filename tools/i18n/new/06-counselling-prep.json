@@ -1,0 +1,512 @@
+{
+ "nav.counselling": {
+  "en": "Counselling",
+  "ka": "კონსულტაცია",
+  "ar": "الإرشاد"
+ },
+ "nav.prep": {
+  "en": "Prep",
+  "ka": "მომზადება",
+  "ar": "التحضير"
+ },
+ "cc.eyebrow": {
+  "en": "College counselling",
+  "ka": "საუნივერსიტეტო კონსულტაცია",
+  "ar": "الإرشاد الجامعي"
+ },
+ "cc.title": {
+  "en": "Your path to university, step by step",
+  "ka": "შენი გზა უნივერსიტეტამდე, ნაბიჯ-ნაბიჯ",
+  "ar": "طريقك إلى الجامعة خطوة بخطوة"
+ },
+ "cc.lede": {
+  "en": "Work on your plan, essays and CV with Meridian AI, learn the essentials in short courses, take a self-test, and get help from counsellors at partner schools.",
+  "ka": "იმუშავე გეგმაზე, ესეებზე და CV-ზე Meridian AI-სთან ერთად, ისწავლე მთავარი მოკლე კურსებში, გაიარე თვითშეფასების ტესტი და მიიღე დახმარება პარტნიორი სკოლების კონსულტანტებისგან.",
+  "ar": "اعمل على خطتك ومقالاتك وسيرتك الذاتية مع Meridian AI، وتعلّم الأساسيات في دورات قصيرة، وخض اختباراً ذاتياً، واحصل على مساعدة مرشدي المدارس الشريكة."
+ },
+ "cc.nav.ai": {
+  "en": "Meridian AI studio",
+  "ka": "Meridian AI სტუდია",
+  "ar": "استوديو Meridian AI"
+ },
+ "cc.nav.tests": {
+  "en": "Self-tests",
+  "ka": "თვითშეფასების ტესტები",
+  "ar": "اختبارات ذاتية"
+ },
+ "cc.nav.courses": {
+  "en": "Mini-courses",
+  "ka": "მინი-კურსები",
+  "ar": "دورات قصيرة"
+ },
+ "cc.nav.board": {
+  "en": "My school",
+  "ka": "ჩემი სკოლა",
+  "ar": "مدرستي"
+ },
+ "cc.nav.counsellors": {
+  "en": "Counsellors",
+  "ka": "კონსულტანტები",
+  "ar": "المرشدون"
+ },
+ "cc.nav.prep": {
+  "en": "Prep materials",
+  "ka": "მოსამზადებელი მასალები",
+  "ar": "مواد التحضير"
+ },
+ "cc.ai.title": {
+  "en": "Meridian AI studio",
+  "ka": "Meridian AI სტუდია",
+  "ar": "استوديو Meridian AI"
+ },
+ "cc.ai.lede": {
+  "en": "Pick what you want to work on. Meridian AI coaches you with your profile and Meridian's verified data, and keeps it your own voice.",
+  "ka": "აირჩიე, რაზე გინდა მუშაობა. Meridian AI გეხმარება შენი პროფილითა და Meridian-ის გადამოწმებული მონაცემებით და შენს ხმას ინარჩუნებს.",
+  "ar": "اختر ما تريد العمل عليه. يدرّبك Meridian AI باستخدام ملفك وبيانات Meridian الموثقة، مع الحفاظ على أسلوبك الخاص."
+ },
+ "cc.ai.open": {
+  "en": "Open Meridian AI",
+  "ka": "Meridian AI-ს გახსნა",
+  "ar": "افتح Meridian AI"
+ },
+ "cc.tests.title": {
+  "en": "Self-tests",
+  "ka": "თვითშეფასების ტესტები",
+  "ar": "اختبارات ذاتية"
+ },
+ "cc.tests.lede": {
+  "en": "Two quick, fun tests to help you think about where and what to study.",
+  "ka": "ორი სწრაფი და სახალისო ტესტი, რომ გადაწყვიტო სად და რა ისწავლო.",
+  "ar": "اختباران سريعان وممتعان لمساعدتك على التفكير في أين وماذا تدرس."
+ },
+ "cc.courses.title": {
+  "en": "Mini-courses",
+  "ka": "მინი-კურსები",
+  "ar": "دورات قصيرة"
+ },
+ "cc.courses.lede": {
+  "en": "Short, practical lessons on the documents and skills every application needs.",
+  "ka": "მოკლე, პრაქტიკული გაკვეთილები იმ დოკუმენტებსა და უნარებზე, რაც ყველა განაცხადს სჭირდება.",
+  "ar": "دروس قصيرة وعملية حول المستندات والمهارات التي يحتاجها كل طلب."
+ },
+ "cc.questions": {
+  "en": "questions",
+  "ka": "კითხვა",
+  "ar": "سؤال"
+ },
+ "cc.start": {
+  "en": "Start the test",
+  "ka": "ტესტის დაწყება",
+  "ar": "ابدأ الاختبار"
+ },
+ "cc.soon": {
+  "en": "Coming soon.",
+  "ka": "მალე.",
+  "ar": "قريباً."
+ },
+ "cc.back": {
+  "en": "Back",
+  "ka": "უკან",
+  "ar": "رجوع"
+ },
+ "cc.result": {
+  "en": "Your result",
+  "ka": "შენი შედეგი",
+  "ar": "نتيجتك"
+ },
+ "cc.again": {
+  "en": "Take it again",
+  "ka": "თავიდან გავლა",
+  "ar": "أعد الاختبار"
+ },
+ "cc.discuss": {
+  "en": "Discuss with Meridian AI",
+  "ka": "განიხილე Meridian AI-სთან",
+  "ar": "ناقش مع Meridian AI"
+ },
+ "cc.quizAi": {
+  "en": "My self-test result was: {r}. Help me understand what this means for my studies and what to do next.",
+  "ka": "ჩემი ტესტის შედეგია: {r}. დამეხმარე გავიგო რას ნიშნავს ეს ჩემი სწავლისთვის და რა გავაკეთო შემდეგ.",
+  "ar": "نتيجة اختباري الذاتي: {r}. ساعدني في فهم ما يعنيه ذلك لدراستي وما يجب فعله بعد ذلك."
+ },
+ "cc.costs": {
+  "en": "Typical costs:",
+  "ka": "ტიპური ხარჯები:",
+  "ar": "التكاليف المعتادة:"
+ },
+ "cc.professions": {
+  "en": "Example professions",
+  "ka": "პროფესიების მაგალითები",
+  "ar": "أمثلة على المهن"
+ },
+ "cc.fields": {
+  "en": "What to study",
+  "ka": "რა ისწავლო",
+  "ar": "ماذا تدرس"
+ },
+ "cc.skills": {
+  "en": "Skills to build",
+  "ka": "უნარები",
+  "ar": "مهارات تطورها"
+ },
+ "cc.tips": {
+  "en": "Tips",
+  "ka": "რჩევები",
+  "ar": "نصائح"
+ },
+ "cc.seeUnis": {
+  "en": "See universities",
+  "ka": "უნივერსიტეტები",
+  "ar": "عرض الجامعات"
+ },
+ "cc.lessons": {
+  "en": "lessons",
+  "ka": "გაკვეთილი",
+  "ar": "دروس"
+ },
+ "cc.template": {
+  "en": "Template",
+  "ka": "შაბლონი",
+  "ar": "نموذج"
+ },
+ "cc.next": {
+  "en": "Next lesson",
+  "ka": "შემდეგი გაკვეთილი",
+  "ar": "الدرس التالي"
+ },
+ "cc.practise": {
+  "en": "Practise with Meridian AI",
+  "ka": "ივარჯიშე Meridian AI-სთან",
+  "ar": "تدرّب مع Meridian AI"
+ },
+ "cc.courseAi": {
+  "en": "I'm taking the Meridian mini-course \"{c}\". Help me apply it to my own situation, step by step.",
+  "ka": "გავდივარ Meridian-ის მინი-კურსს „{c}“. დამეხმარე ნაბიჯ-ნაბიჯ გამოვიყენო ჩემს სიტუაციაში.",
+  "ar": "أتابع دورة Meridian القصيرة «{c}». ساعدني في تطبيقها على وضعي خطوة بخطوة."
+ },
+ "cc.board.title": {
+  "en": "My school on Meridian",
+  "ka": "ჩემი სკოლა Meridian-ზე",
+  "ar": "مدرستي على Meridian"
+ },
+ "cc.board.login": {
+  "en": "If your school partners with Meridian, log in with the email your school registered to see its webinars, projects and deadlines.",
+  "ka": "თუ შენი სკოლა Meridian-ის პარტნიორია, შედი იმ ელფოსტით, რომელიც სკოლამ დაარეგისტრირა, რომ ნახო ვებინარები, პროექტები და ვადები.",
+  "ar": "إذا كانت مدرستك شريكة لـ Meridian، سجّل الدخول بالبريد الذي سجلته مدرستك لترى ندواتها ومشاريعها ومواعيدها."
+ },
+ "cc.board.none": {
+  "en": "Your account isn't linked to a partner school yet. Ask your school to join Meridian — your counsellors can then post webinars and projects only your classmates see.",
+  "ka": "შენი ანგარიში ჯერ არ არის დაკავშირებული პარტნიორ სკოლასთან. სთხოვე სკოლას შემოუერთდეს Meridian-ს — კონსულტანტები გამოაქვეყნებენ ვებინარებსა და პროექტებს მხოლოდ შენი თანაკლასელებისთვის.",
+  "ar": "حسابك غير مرتبط بمدرسة شريكة بعد. اطلب من مدرستك الانضمام إلى Meridian — ليتمكن مرشدوك من نشر ندوات ومشاريع يراها زملاؤك فقط."
+ },
+ "cc.board.invite": {
+  "en": "Meridian for schools",
+  "ka": "Meridian სკოლებისთვის",
+  "ar": "Meridian للمدارس"
+ },
+ "cc.board.private": {
+  "en": "only students of your school see these posts.",
+  "ka": "ამ პოსტებს მხოლოდ შენი სკოლის მოსწავლეები ხედავენ.",
+  "ar": "يرى هذه المنشورات طلاب مدرستك فقط."
+ },
+ "cc.board.empty": {
+  "en": "No posts yet.",
+  "ka": "პოსტები ჯერ არ არის.",
+  "ar": "لا توجد منشورات بعد."
+ },
+ "cc.kind.webinar": {
+  "en": "Webinar",
+  "ka": "ვებინარი",
+  "ar": "ندوة عبر الإنترنت"
+ },
+ "cc.kind.project": {
+  "en": "Project",
+  "ka": "პროექტი",
+  "ar": "مشروع"
+ },
+ "cc.kind.deadline": {
+  "en": "Deadline",
+  "ka": "ვადა",
+  "ar": "موعد نهائي"
+ },
+ "cc.kind.event": {
+  "en": "Event",
+  "ka": "ღონისძიება",
+  "ar": "فعالية"
+ },
+ "cc.kind.news": {
+  "en": "News",
+  "ka": "სიახლე",
+  "ar": "خبر"
+ },
+ "cc.open": {
+  "en": "Open",
+  "ka": "გახსნა",
+  "ar": "فتح"
+ },
+ "cc.delete": {
+  "en": "Delete",
+  "ka": "წაშლა",
+  "ar": "حذف"
+ },
+ "cc.deleteConfirm": {
+  "en": "Delete this post?",
+  "ka": "წავშალოთ ეს პოსტი?",
+  "ar": "هل تريد حذف هذا المنشور؟"
+ },
+ "cc.posted": {
+  "en": "Posted for your students",
+  "ka": "გამოქვეყნდა შენი მოსწავლეებისთვის",
+  "ar": "نُشر لطلابك"
+ },
+ "cc.post.title": {
+  "en": "Post to your school's students",
+  "ka": "გამოაქვეყნე შენი სკოლის მოსწავლეებისთვის",
+  "ar": "انشر لطلاب مدرستك"
+ },
+ "cc.post.kind": {
+  "en": "Type",
+  "ka": "ტიპი",
+  "ar": "النوع"
+ },
+ "cc.post.date": {
+  "en": "Date (optional)",
+  "ka": "თარიღი (არასავალდებულო)",
+  "ar": "التاريخ (اختياري)"
+ },
+ "cc.post.heading": {
+  "en": "Title",
+  "ka": "სათაური",
+  "ar": "العنوان"
+ },
+ "cc.post.body": {
+  "en": "Details",
+  "ka": "დეტალები",
+  "ar": "التفاصيل"
+ },
+ "cc.post.link": {
+  "en": "Link (optional)",
+  "ka": "ბმული (არასავალდებულო)",
+  "ar": "رابط (اختياري)"
+ },
+ "cc.post.send": {
+  "en": "Publish",
+  "ka": "გამოქვეყნება",
+  "ar": "نشر"
+ },
+ "cc.c.title": {
+  "en": "College counsellors",
+  "ka": "საუნივერსიტეტო კონსულტანტები",
+  "ar": "المرشدون الجامعيون"
+ },
+ "cc.c.lede": {
+  "en": "Counsellors from Meridian's partner schools. Each one is reviewed by our team before joining.",
+  "ka": "Meridian-ის პარტნიორი სკოლების კონსულტანტები. თითოეულს ჩვენი გუნდი ამოწმებს.",
+  "ar": "مرشدون من مدارس Meridian الشريكة. يراجع فريقنا كل واحد منهم قبل انضمامه."
+ },
+ "cc.c.join": {
+  "en": "Join as a counsellor",
+  "ka": "შემოგვიერთდი კონსულტანტად",
+  "ar": "انضم كمرشد"
+ },
+ "cc.c.empty": {
+  "en": "Our first counsellors from partner schools are joining soon.",
+  "ka": "პარტნიორი სკოლების პირველი კონსულტანტები მალე შემოგვიერთდებიან.",
+  "ar": "سينضم قريباً أول المرشدين من المدارس الشريكة."
+ },
+ "cc.join.title": {
+  "en": "Join Meridian as a college counsellor",
+  "ka": "შემოუერთდი Meridian-ს კონსულტანტად",
+  "ar": "انضم إلى Meridian كمرشد جامعي"
+ },
+ "cc.join.lede": {
+  "en": "For counsellors at schools that partner with Meridian. We review every application; once approved you can post webinars and projects for your school's students.",
+  "ka": "Meridian-ის პარტნიორი სკოლების კონსულტანტებისთვის. ყველა განაცხადს ვამოწმებთ; დადასტურების შემდეგ შეძლებ ვებინარებისა და პროექტების გამოქვეყნებას შენი სკოლის მოსწავლეებისთვის.",
+  "ar": "لمرشدي المدارس الشريكة لـ Meridian. نراجع كل طلب؛ وبعد الموافقة يمكنك نشر ندوات ومشاريع لطلاب مدرستك."
+ },
+ "cc.join.login": {
+  "en": "Create an account or log in with your school email first.",
+  "ka": "ჯერ შექმენი ანგარიში ან შედი სკოლის ელფოსტით.",
+  "ar": "أنشئ حساباً أو سجّل الدخول ببريد مدرستك أولاً."
+ },
+ "cc.join.school": {
+  "en": "School",
+  "ka": "სკოლა",
+  "ar": "المدرسة"
+ },
+ "cc.join.role": {
+  "en": "Your role",
+  "ka": "შენი პოზიცია",
+  "ar": "دورك"
+ },
+ "cc.join.rolePh": {
+  "en": "e.g. University counsellor",
+  "ka": "მაგ. საუნივერსიტეტო კონსულტანტი",
+  "ar": "مثال: مرشد جامعي"
+ },
+ "cc.join.expertise": {
+  "en": "Expertise",
+  "ka": "გამოცდილება",
+  "ar": "مجالات الخبرة"
+ },
+ "cc.join.expertisePh": {
+  "en": "US admissions, UK, essays, scholarships",
+  "ka": "აშშ, დიდი ბრიტანეთი, ესეები, სტიპენდიები",
+  "ar": "القبول الأمريكي، بريطانيا، المقالات، المنح"
+ },
+ "cc.join.languages": {
+  "en": "Languages",
+  "ka": "ენები",
+  "ar": "اللغات"
+ },
+ "cc.join.bio": {
+  "en": "Short bio",
+  "ka": "მოკლე ბიოგრაფია",
+  "ar": "نبذة قصيرة"
+ },
+ "cc.join.send": {
+  "en": "Send for review",
+  "ka": "გაგზავნა განსახილველად",
+  "ar": "أرسل للمراجعة"
+ },
+ "cc.join.sent": {
+  "en": "Thanks — we'll review your application and email you.",
+  "ka": "მადლობა — განვიხილავთ და მოგწერთ.",
+  "ar": "شكراً — سنراجع طلبك ونراسلك."
+ },
+ "cc.join.already": {
+  "en": "You've already applied.",
+  "ka": "უკვე გაქვს განაცხადი გაგზავნილი.",
+  "ar": "لقد قدّمت طلباً بالفعل."
+ },
+ "cc.join.status": {
+  "en": "Your counsellor application:",
+  "ka": "შენი განაცხადი:",
+  "ar": "طلبك كمرشد:"
+ },
+ "cc.join.pending": {
+  "en": "waiting for review. We'll email you.",
+  "ka": "განხილვის მოლოდინში. მოგწერთ.",
+  "ar": "قيد المراجعة. سنراسلك."
+ },
+ "cc.join.approved": {
+  "en": "approved — you can post to your school's board above.",
+  "ka": "დადასტურებულია — შეგიძლია ზემოთ, სკოლის დაფაზე გამოაქვეყნო.",
+  "ar": "مقبول — يمكنك النشر في لوحة مدرستك أعلاه."
+ },
+ "cc.join.rejected": {
+  "en": "not approved. Contact us if you think this is a mistake.",
+  "ka": "არ დადასტურდა. მოგვწერე, თუ ფიქრობ, რომ შეცდომაა.",
+  "ar": "لم تتم الموافقة. تواصل معنا إذا كنت تعتقد أن هذا خطأ."
+ },
+ "prep.eyebrow": {
+  "en": "Prep materials",
+  "ka": "მოსამზადებელი მასალები",
+  "ar": "مواد التحضير"
+ },
+ "prep.title": {
+  "en": "Prepare for every exam, from official sources",
+  "ka": "მოემზადე ყველა გამოცდისთვის ოფიციალური წყაროებით",
+  "ar": "استعد لكل اختبار من مصادر رسمية"
+ },
+ "prep.lede": {
+  "en": "SAT, IELTS, TOEFL, Duolingo and more: how each test works, when to book it, and the best official and free materials to study with.",
+  "ka": "SAT, IELTS, TOEFL, Duolingo და სხვა: როგორ მუშაობს თითოეული გამოცდა, როდის დარეგისტრირდე და საუკეთესო ოფიციალური და უფასო მასალები.",
+  "ar": "SAT وIELTS وTOEFL وDuolingo وغيرها: كيف يعمل كل اختبار، ومتى تحجزه، وأفضل المواد الرسمية والمجانية للدراسة."
+ },
+ "prep.askAi": {
+  "en": "Make me a study plan",
+  "ka": "შემიდგინე სასწავლო გეგმა",
+  "ar": "أعدّ لي خطة دراسة"
+ },
+ "prep.askAiPrompt": {
+  "en": "Make me a personal study plan for my exams. Ask me which test, my target score, my current level and my test date.",
+  "ka": "შემიდგინე პირადი სასწავლო გეგმა გამოცდებისთვის. მკითხე რომელი გამოცდა, სამიზნე ქულა, ამჟამინდელი დონე და გამოცდის თარიღი.",
+  "ar": "أعدّ لي خطة دراسة شخصية لاختباراتي. اسألني عن الاختبار والدرجة المستهدفة ومستواي الحالي وموعد الاختبار."
+ },
+ "prep.examAi": {
+  "en": "Make me a study plan for the {exam}. Ask me my target score, my level now and my test date.",
+  "ka": "შემიდგინე სასწავლო გეგმა {exam}-ისთვის. მკითხე სამიზნე ქულა, ამჟამინდელი დონე და გამოცდის თარიღი.",
+  "ar": "أعدّ لي خطة دراسة لاختبار {exam}. اسألني عن الدرجة المستهدفة ومستواي الآن وموعد الاختبار."
+ },
+ "prep.people.title": {
+  "en": "Tutors and counsellors who can help",
+  "ka": "რეპეტიტორები და კონსულტანტები, ვინც დაგეხმარება",
+  "ar": "معلمون ومرشدون يمكنهم المساعدة"
+ },
+ "prep.people.lede": {
+  "en": "Book a tutor for a test, or ask a counsellor how it fits your applications.",
+  "ka": "დაჯავშნე რეპეტიტორი ან ჰკითხე კონსულტანტს, როგორ ერგება ეს შენს განაცხადებს.",
+  "ar": "احجز معلماً للاختبار أو اسأل مرشداً عن كيفية ملاءمته لطلباتك."
+ },
+ "prep.people.tutors": {
+  "en": "Find a tutor",
+  "ka": "რეპეტიტორის პოვნა",
+  "ar": "ابحث عن معلم"
+ },
+ "prep.people.counsellors": {
+  "en": "College counsellors",
+  "ka": "კონსულტანტები",
+  "ar": "المرشدون الجامعيون"
+ },
+ "prep.free": {
+  "en": "free",
+  "ka": "უფასო",
+  "ar": "مجاني"
+ },
+ "prep.soon": {
+  "en": "Prep materials are being added.",
+  "ka": "მასალები ემატება.",
+  "ar": "تتم إضافة مواد التحضير."
+ },
+ "prep.format": {
+  "en": "Format & scoring",
+  "ka": "ფორმატი და შეფასება",
+  "ar": "الشكل والتقييم"
+ },
+ "prep.dates": {
+  "en": "When you can sit it",
+  "ka": "როდის შეიძლება ჩაბარება",
+  "ar": "مواعيد الاختبار"
+ },
+ "prep.cost": {
+  "en": "Cost",
+  "ka": "ღირებულება",
+  "ar": "التكلفة"
+ },
+ "prep.register": {
+  "en": "Register for the test",
+  "ka": "გამოცდაზე რეგისტრაცია",
+  "ar": "سجّل في الاختبار"
+ },
+ "prep.kind.official": {
+  "en": "Official materials",
+  "ka": "ოფიციალური მასალები",
+  "ar": "مواد رسمية"
+ },
+ "prep.kind.practice-test": {
+  "en": "Practice tests",
+  "ka": "საცდელი ტესტები",
+  "ar": "اختبارات تجريبية"
+ },
+ "prep.kind.course": {
+  "en": "Courses",
+  "ka": "კურსები",
+  "ar": "دورات"
+ },
+ "prep.kind.video": {
+  "en": "Video lessons",
+  "ka": "ვიდეო გაკვეთილები",
+  "ar": "دروس فيديو"
+ },
+ "prep.kind.app": {
+  "en": "Apps",
+  "ka": "აპლიკაციები",
+  "ar": "تطبيقات"
+ },
+ "prep.kind.book": {
+  "en": "Books",
+  "ka": "წიგნები",
+  "ar": "كتب"
+ }
+}

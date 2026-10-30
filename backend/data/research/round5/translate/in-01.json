@@ -1,0 +1,826 @@
+{
+ "yale-ysp": {
+  "name": "Yale Young Global Scholars",
+  "country": "United States",
+  "summary": "Two weeks on Yale's campus in one of three tracks: Innovations in Science & Technology; Politics, Law & Economics; or Solving Global Challenges. Need-based tuition discounts go up to 100%.",
+  "duration": "2 weeks",
+  "highlights": [
+   "Need-based tuition discount up to 100%, open to every country",
+   "Instruction by Yale faculty and doctoral students",
+   "Request financial aid inside the main application"
+  ],
+  "eligibility": "Current grade 10 or 11 students (graduating 2028 or 2029), aged 16–18 by 18 July 2027. Open to every country."
+ },
+ "lse-summer": {
+  "name": "LSE Summer School",
+  "country": "United Kingdom",
+  "summary": "Three-week, university-level courses taught by LSE faculty in economics, international relations and data. More than 100 courses, assessed and graded, which can count as credit towards your degree.",
+  "duration": "3 weeks",
+  "highlights": [
+   "Taught by LSE faculty on the Houghton Street campus",
+   "Academic Director's Scholarships for sustainability, leadership and technology",
+   "Credit can count towards your degree if your university accepts it"
+  ],
+  "eligibility": "University students, or school leavers holding a university offer. Strong grades (about B+) and proof of English. Not open to grade 11 school students."
+ },
+ "eth-summer": {
+  "name": "ETH Zürich Student Summer Research",
+  "country": "Switzerland",
+  "summary": "A two-month research fellowship in ETH Zürich's computer science department, working inside a lab on machine learning, security, robotics, visual computing or theory.",
+  "duration": "2 months",
+  "highlights": [
+   "Open to students from any university worldwide",
+   "Direct supervision by an ETH research group",
+   "A strong signal for later master's and PhD applications"
+  ],
+  "eligibility": "Undergraduate and graduate students from any university worldwide except ETH itself."
+ },
+ "unimelb-global": {
+  "name": "Melbourne International Undergraduate Scholarship",
+  "country": "Australia",
+  "summary": "From 2027, a 20% tuition fee reduction for the whole degree at the University of Melbourne, with 225 awards a year. You are considered automatically, ranked on final school results.",
+  "duration": "3 years",
+  "highlights": [
+   "Automatic consideration once you receive an offer",
+   "Melbourne model lets you change direction after year one",
+   "225 awards a year from 2027"
+  ],
+  "eligibility": "Citizens of eligible countries (Georgia is on the list) who receive an undergraduate offer. No separate application."
+ },
+ "yenching-academy": {
+  "name": "Yenching Scholars — Master's in China Studies",
+  "country": "China",
+  "summary": "A fully funded interdisciplinary master's in China Studies at Peking University's Yenching Academy, for graduates from around the world. Scholars live together on PKU's campus in Beijing and study politics, economics, history and culture of China with an international cohort.",
+  "duration": "Master's degree (typically 2 years)",
+  "highlights": [
+   "Every admitted Yenching Scholar receives a full scholarship",
+   "Deadline 30 November 2026 for the September 2027 intake",
+   "Degree awarded by Peking University, one of China's top universities"
+  ],
+  "eligibility": "Open to international applicants of any nationality (separate tracks for mainland China and Hong Kong/Macao/Taiwan); Georgian and Qatari citizens apply through the international track. Applicants need a bachelor's degree by the start of study; check the official instructions for the age limit and requirements."
+ },
+ "gates-cambridge": {
+  "name": "Gates Cambridge Scholarship",
+  "country": "United Kingdom",
+  "summary": "One of the world's most prestigious postgraduate scholarships, covering the full cost of a full-time graduate degree at the University of Cambridge for citizens of any country outside the UK. Applicants apply through the Cambridge graduate application and tick the Gates Cambridge box.",
+  "duration": "1–4 years (MPhil to PhD)",
+  "highlights": [
+   "Covers the full cost of study: fees, maintenance, travel and visa",
+   "Roughly 70–80 awards per year, most for PhD students",
+   "Same application as the Cambridge graduate programme — no separate form"
+  ],
+  "eligibility": "Citizens of any country outside the United Kingdom applying for a full-time postgraduate degree at Cambridge — Georgian and Qatari citizens are eligible. Non-US applicants compete in the international round."
+ },
+ "oxford-graduate-scholarships": {
+  "name": "Oxford Graduate Scholarships incl. Clarendon Fund",
+  "country": "United Kingdom",
+  "summary": "Oxford expects to offer more than 1,200 full or partial graduate scholarships for new students in 2027-28, including the flagship Clarendon Scholarships. There is no separate scholarship form: everyone who applies to a degree-bearing graduate course by the relevant deadline is considered.",
+  "duration": "1–4 years (master's or DPhil)",
+  "highlights": [
+   "1,200+ full or partial graduate scholarships expected for 2027-28",
+   "Automatic consideration — no separate scholarship application",
+   "Course deadlines fall in December 2026 – January 2027"
+  ],
+  "eligibility": "Applicants of any nationality, including Georgian and Qatari citizens, applying to a degree-bearing graduate course at Oxford. Those with a deferred offer or continuing the same Oxford degree are not eligible for Clarendon."
+ },
+ "hbku-graduate": {
+  "name": "HBKU — Graduate Programmes with Scholarships",
+  "country": "Qatar",
+  "summary": "Qatar Foundation's research university offers master's and PhD programmes in science, engineering, health, law, public policy and Islamic studies. Admitted students are considered for scholarships automatically, with tuition waivers of up to 100% and monthly stipends for international students.",
+  "duration": "1–2 years (master's) or 3–5 years (PhD)",
+  "highlights": [
+   "Tuition waivers: 100% PhD STEM, 75% STEM MS, 60% SHAPE MS/MA",
+   "International stipends: QAR 7,000/month (master's), QAR 9,000/month (PhD)",
+   "No separate scholarship application; return airfare for international students"
+  ],
+  "eligibility": "Bachelor's (for master's) or master's (for PhD) graduates of any nationality, including Georgian and Qatari citizens. Awards depend on merit, need and available funds; some programmes (e.g. LL.M., MS Economics, CIS certificates) carry no waiver."
+ },
+ "kaust-graduate-fellowship": {
+  "name": "KAUST — MS & PhD with KAUST Fellowship",
+  "country": "Saudi Arabia",
+  "summary": "A graduate-only research university on the Red Sea coast focused on science and engineering. Admitted MS and PhD students receive the KAUST Fellowship as part of admission: full tuition, a monthly living allowance, housing, medical and dental cover and relocation support.",
+  "duration": "MS (about 1.5 years) or PhD",
+  "highlights": [
+   "Fellowship included with every admission offer",
+   "Covers tuition, living allowance, housing, health cover, relocation",
+   "Deadline 3 January 2027 for Fall 2027 entry"
+  ],
+  "eligibility": "Bachelor's or master's graduates in STEM fields applying to MS, MS/PhD or PhD programmes; KAUST recruits internationally and Georgian and Qatari graduates can apply."
+ },
+ "eth-esop": {
+  "name": "ETH Excellence Scholarship & Opportunity Programme (ESOP)",
+  "country": "Switzerland",
+  "summary": "ETH Zurich's flagship master's scholarship for outstanding students from any university worldwide. It pays a living and study allowance of CHF 13,500 per semester (from autumn 2027) plus a full tuition waiver; about 60 are planned for 2027-28.",
+  "duration": "Master's (1.5–2 years)",
+  "highlights": [
+   "CHF 13,500 per semester plus full tuition waiver",
+   "About 60 awards planned for 2027-28; decisions end of March",
+   "Requires a master's thesis pre-proposal with the application"
+  ],
+  "eligibility": "Bachelor's graduates (or final-year students) of any nationality applying to an ETH master's programme, including Georgian and Qatari students. Not open to those already holding a master's or enrolled in an ETH master's."
+ },
+ "swedish-institute-sisgp": {
+  "name": "Swedish Institute Scholarships for Global Professionals",
+  "country": "Sweden",
+  "summary": "Fully funded master's scholarships in Sweden for professionals with work and leadership experience from eligible countries. Georgia is on the 2027/2028 list of 34 eligible countries.",
+  "duration": "1–2 years (master's)",
+  "highlights": [
+   "Covers tuition, living allowance, insurance and a travel grant",
+   "Georgian scholars receive a SEK 10,000 travel grant",
+   "Two-step process: University Admissions by 15 Jan, SI form 8–24 Feb"
+  ],
+  "eligibility": "Georgian citizens with proven work experience (more experience is prioritised); Georgian public-sector employees cannot apply. Qatar is not on the eligible list."
+ },
+ "eiffel-excellence": {
+  "name": "France Excellence Eiffel Scholarship",
+  "country": "France",
+  "summary": "The French government's excellence scholarship for international master's and PhD students in priority fields. Students cannot apply directly: the French university or school nominates candidates to Campus France.",
+  "duration": "Master's or PhD (length of the programme / mobility)",
+  "highlights": [
+   "Nominated by the French host institution, not by the student",
+   "Call opened October 2026; results published from 12 April 2027",
+   "Age limits: up to 29 (master's), up to 35 (PhD)"
+  ],
+  "eligibility": "Foreign (non-French) students, including Georgian and Qatari citizens, up to 29 for master's or 35 for PhD, applying to a French institution that nominates them."
+ },
+ "rsi-research-science-institute": {
+  "name": "Research Science Institute (RSI)",
+  "country": "United States",
+  "summary": "A cost-free summer research programme run by CEE at MIT, combining a week of STEM classes with a five-week research internship and a final week of presentations. For 2027 CEE is also expanding RSI to Stanford for 50 scholars.",
+  "duration": "about 6 weeks (summer)",
+  "highlights": [
+   "Cost-free for students",
+   "Hosted at MIT; expanding to Stanford in 2027",
+   "Five-week mentored research internship"
+  ],
+  "eligibility": "Students about to enter their final year of high school (juniors); seniors are not eligible. International students apply through a participating country's own selection process — Georgian and Qatari students should contact RSI to find out whether their country participates."
+ },
+ "summer-science-program": {
+  "name": "Summer Science Program (SSP)",
+  "country": "United States",
+  "summary": "A five-week residential research programme in which teams of high-school juniors carry out a real research project in astrophysics, biochemistry or related fields. In 2026 it ran on 13 campuses including Purdue, Indiana University, Lehigh and the University of Guelph.",
+  "duration": "5 weeks",
+  "highlights": [
+   "Need-blind admission; meets 100% of demonstrated need",
+   "Aid can include round-trip airfare",
+   "International applicants have an earlier deadline"
+  ],
+  "eligibility": "High-school juniors graduating in 2028 (for SSP 2027). Students attending school outside the U.S. — including in Georgia and Qatar — apply as international applicants and are eligible for financial aid."
+ },
+ "promys-europe": {
+  "name": "PROMYS Europe (Oxford)",
+  "country": "United Kingdom",
+  "summary": "The European edition of PROMYS, held at the University of Oxford, where mathematically ambitious secondary-school students spend six weeks on challenging problems, lectures and research projects. The 2027 programme runs 11 July to 21 August.",
+  "duration": "6 weeks (11 Jul – 21 Aug 2027)",
+  "highlights": [
+   "Need-blind admission; full or partial aid can cover fees, visa and travel",
+   "2027 fee £4,500 covers tuition, accommodation and all meals",
+   "Taught at the University of Oxford"
+  ],
+  "eligibility": "Pre-university students aged 16+ who are ordinarily resident in Europe (including countries adjacent to the Mediterranean). Georgia is not explicitly listed — Georgian applicants should confirm with PROMYS Europe. Students resident in Qatar should apply to PROMYS in Boston instead."
+ },
+ "harvard-pre-college": {
+  "name": "Harvard Pre-College Program",
+  "country": "United States",
+  "summary": "A two-week, non-credit residential programme on Harvard's campus where high-school students take a college-style course and experience campus life. Summer 2027 offers three sessions between June 21 and August 6.",
+  "duration": "2 weeks",
+  "highlights": [
+   "$6,250 per session incl. housing, meals and insurance",
+   "Limited need-based scholarships, usually partial",
+   "International students attend on a B-1/B-2 visa or ESTA"
+  ],
+  "eligibility": "Students graduating in 2028 or 2029, at least 16 by June 13, 2027 and under 19 before July 31, 2027. International students, including from Georgia and Qatar, may attend on a tourist visa (the course is non-credit, so no F-1)."
+ },
+ "cmu-pre-college": {
+  "name": "Carnegie Mellon Pre-College Programs",
+  "country": "United States",
+  "summary": "Carnegie Mellon's summer pre-college programmes in fields such as art, architecture, design, drama, music and academic subjects on its Pittsburgh campus. Decisions are released on a rolling basis through April 2027.",
+  "duration": "Summer (length varies by programme)",
+  "highlights": [
+   "International application fee $75",
+   "English test needed (e.g. IELTS 7.5 / TOEFL 102 / Duolingo 135)",
+   "AI Scholars, CS Scholars and SAMS are U.S.-only"
+  ],
+  "eligibility": "Students at least 16 by June 26, 2027, in grade 10 or 11 at application. Georgian and Qatari students can apply to most programmes but are not eligible for scholarships."
+ },
+ "concord-review": {
+  "name": "The Concord Review — History Research Journal",
+  "country": "Online",
+  "summary": "A quarterly journal that publishes history research papers by secondary-school students, typically 5,000–10,000+ words. Essays stay under consideration for the next three issues and have been published from 46 countries.",
+  "duration": "Rolling quarterly issues",
+  "highlights": [
+   "Submission fee $70 (eBook package $90; international print $150)",
+   "Sole-authored, English-language papers only",
+   "Published authors from 46 countries"
+  ],
+  "eligibility": "Any student, including in Georgia and Qatar, whose paper was completed before finishing secondary school, written in English, sole-authored and not previously published."
+ },
+ "imo-2027": {
+  "name": "International Mathematical Olympiad (IMO 2027)",
+  "country": "Hungary",
+  "summary": "The world's leading mathematics olympiad for pre-university students; the 68th edition takes place in Budapest on 16–26 July 2027, with around 650 students from over 110 countries expected. Students compete as members of their national team.",
+  "duration": "16–26 July 2027",
+  "highlights": [
+   "Georgia has competed since 1993; Qatar since 2025",
+   "Selection through national olympiad rounds",
+   "Medals are among the strongest signals for top universities"
+  ],
+  "eligibility": "Pre-university students selected for their national team. Georgian students qualify through Georgia's national mathematics olympiad selection; students in Qatar through Qatar's national team selection."
+ },
+ "hult-prize": {
+  "name": "Hult Prize",
+  "country": "United Kingdom",
+  "summary": "Hult Prize calls itself the world's largest student startup competition. University student teams build for-profit startups that address global issues and progress from campus qualifiers through nationals, an online incubator and a month-long accelerator, to the global finals.",
+  "duration": "About 1 year (Sept qualifiers to Sept global finals)",
+  "highlights": [
+   "US$1 million in seed funding for the winning team",
+   "130+ participating countries; Open Application if your university has no local round",
+   "Global Accelerator in August at Ashridge House near London"
+  ],
+  "eligibility": "Teams of 2-4 members, all currently enrolled (full- or part-time) in a degree programme at a university or college, and all at least 18 by 28 February 2027. No nationality restriction is stated, so Georgian and Qatari students can compete via a campus round or the Open Application."
+ },
+ "thiel-fellowship": {
+  "name": "Thiel Fellowship",
+  "country": "United States",
+  "summary": "The Thiel Fellowship is a two-year programme, founded by Peter Thiel in 2011, for young people who want to build new things instead of attending college. Fellows receive a grant and support from the foundation's network of founders, investors and scientists.",
+  "duration": "2 years",
+  "highlights": [
+   "US$250,000 grant paid over two years",
+   "No equity taken in your company",
+   "Fellows can be based anywhere in the world"
+  ],
+  "eligibility": "Age 22 or younger with no completed university degree; you may apply while in school but must drop out if selected. Individuals can apply; a company is not required. No nationality restriction is stated, so Georgian and Qatari applicants can apply."
+ },
+ "y-combinator": {
+  "name": "Y Combinator (Winter 2027 batch)",
+  "country": "United States",
+  "summary": "Y Combinator is a three-month startup accelerator held in person in San Francisco. It invests in accepted companies on standard terms and runs an application process open to any startup anywhere in the world.",
+  "duration": "3 months (January-March 2027)",
+  "highlights": [
+   "US$500,000 invested in every accepted company (two SAFEs)",
+   "No fees; investment is not tied to milestones",
+   "Help with US incorporation and visas after acceptance"
+  ],
+  "eligibility": "Open to startups from any country. Non-US founders do not need to incorporate or get visas before applying. Full-time students may apply but must work full-time on the company if accepted. Georgian and Qatari founders are eligible."
+ },
+ "diamond-challenge": {
+  "name": "Diamond Challenge",
+  "country": "United States",
+  "summary": "The Diamond Challenge is a global entrepreneurship competition for high school students run by the University of Delaware's Horn Entrepreneurship. Teams submit a business or social innovation concept; finalists pitch at the Limitless World Summit.",
+  "duration": "Sept 2026 to April 2027 (summit 29-30 April)",
+  "highlights": [
+   "Top prizes of US$12,000 / 8,000 / 4,500 in each track",
+   "Prize pool of more than US$100,000",
+   "Business innovation and social innovation tracks; submissions in English"
+  ],
+  "eligibility": "Teams of 2-4 high school students aged 14-18 at the deadline, plus one adult advisor aged 21+. Concepts must not have earned more than US$100,000 in revenue. Open to any country ('Any Idea, Any Team, Any Country'), so Georgian and Qatari students qualify. Finalists must attend in person."
+ },
+ "blue-ocean-competition": {
+  "name": "Blue Ocean Student Entrepreneur Competition 2027",
+  "country": "Online",
+  "summary": "A free, fully virtual entrepreneurship competition for high school students worldwide. Students complete the Blue Ocean mini-course and submit a pitch video of up to 5 minutes based on blue ocean strategy.",
+  "duration": "Virtual; pitches due Feb 2027, winners announced in May",
+  "highlights": [
+   "Prizes of US$1,000 / 750 / 500, plus a US$750 People's Choice award",
+   "Completely free, with no travel",
+   "Compete solo or in a team of up to five; 173 countries represented"
+  ],
+  "eligibility": "High school (pre-university) students aged 14-18 anywhere in the world, homeschoolers included. Georgian and Qatari students are eligible. Pitches must be in English."
+ },
+ "launchx-summer-2027": {
+  "name": "LaunchX Summer Entrepreneurship Programs 2027",
+  "country": "United States",
+  "summary": "LaunchX runs selective summer programmes where high school students start real companies, either on campus in Ann Arbor, Michigan or online. About 30% of applicants are admitted to the flagship programmes.",
+  "duration": "4 weeks in person or 5 weeks online (summer 2027)",
+  "highlights": [
+   "In person: US$13,495 including housing and food; online from US$2,495",
+   "Financial awards for students who apply by 4 March 2027",
+   "Application fee rises from US$50 to US$100 with later deadlines"
+  ],
+  "eligibility": "High school students aged 14-18. The online programme is open to students from anywhere, and international in-person students pay US$250 extra for insurance, so Georgian and Qatari students can apply."
+ },
+ "eo-gsea": {
+  "name": "Global Student Entrepreneur Awards (GSEA)",
+  "country": "Global",
+  "summary": "GSEA is EO's competition for university and college students who own and run a business while studying. Winners of local rounds advance toward the global finals.",
+  "duration": "Local rounds Aug 2026 to 2027; global finals usually in June",
+  "highlights": [
+   "Share of US$100,000 in cash prizes",
+   "Reached 39 countries",
+   "Students without a local round can apply via the 'Other' option"
+  ],
+  "eligibility": "University or college students who own and operate a business while enrolled. It is not a business-plan contest, so you need a running company. There are no nationality limits; Georgian and Qatari students without a local chapter round can apply through 'Other - My Country/City is not listed'."
+ },
+ "entrepreneurs-first": {
+  "name": "Entrepreneurs First (FORM + LAUNCH)",
+  "country": "United Kingdom",
+  "summary": "Entrepreneurs First is a 'talent investor' that backs individuals before they have a co-founder or idea. Founders meet co-founders in hubs in London, Bangalore or San Francisco, then teams that pass the investment committee move to San Francisco.",
+  "duration": "12-week FORM programme in a local hub plus 12-week LAUNCH in San Francisco",
+  "highlights": [
+   "Equity-free 'Talent Investment' grant to cover living costs",
+   "Up to US$250,000 equity investment, with visa and relocation support",
+   "Over US$600,000 in partner credits"
+  ],
+  "eligibility": "Exceptional individuals who have built products, organisations or startups and want to build a company in the US. Applying with a small grant or investment already raised is fine. No nationality restriction is stated, and visa support is provided, so Georgian and Qatari founders can apply."
+ },
+ "nasa-space-apps-tbilisi-2026": {
+  "name": "NASA Space Apps Challenge 2026: Tbilisi",
+  "country": "Georgia",
+  "summary": "The NASA Space Apps Challenge is the world's largest annual global hackathon. Teams use NASA and partner space-agency data to solve real-world challenges. The Tbilisi local event is held in person at Tech Park Georgia (Innovation Street 7, Okrokana).",
+  "duration": "2-day hackathon, 14-15 November 2026",
+  "highlights": [
+   "Free, in-person, 14-15 November 2026",
+   "Work with real NASA open data",
+   "Top projects can be nominated for NASA Space Apps Global Awards"
+  ],
+  "eligibility": "Anyone with an interest in space and science; no space background is required. Teams register on the official Space Apps site and select the Tbilisi local event. Ideal for Georgian school and university students."
+ },
+ "nasa-space-apps-doha-2026": {
+  "name": "NASA Space Apps Challenge 2026: Doha",
+  "country": "Qatar",
+  "summary": "Doha is hosting its first NASA Space Apps Challenge, an in-person local edition of the world's largest annual hackathon, at QSTP. Over 48 hours, teams of students, developers and designers use real NASA data to build solutions.",
+  "duration": "2-day hackathon, 14-15 November 2026",
+  "highlights": [
+   "First-ever Doha edition, hosted at QSTP",
+   "Teams of 1-6; you can form a team at the event",
+   "Limited places; priority for university students and over-18s"
+  ],
+  "eligibility": "Open to anyone in Qatar interested in space and science; priority goes to university students and participants aged 18+. Register on the official Space Apps site (waitlist). Young people in Georgia should choose the Tbilisi event instead."
+ },
+ "gita-plug-and-play-georgia-accelerator": {
+  "name": "Plug and Play Georgia Accelerator: 2027 cohort (GITA Innovative Startup Acceleration Programme)",
+  "country": "Georgia",
+  "summary": "GITA fully funds a one-year acceleration programme run by Plug and Play. Startups get training and mentoring, build an MVP, and then prepare to enter global and regional markets. The working language is English.",
+  "duration": "1 year in 3 phases (2 + 4 + 6 months)",
+  "highlights": [
+   "GEL 50,000 GITA grant per startup in the MVP phase",
+   "Further GEL 150,000 grant in the global-market phase",
+   "Access to Plug and Play's global network, including Silicon Valley"
+  ],
+  "eligibility": "Teams with an existing tech product, as well as founders at the idea or early-validation stage. Aimed at Georgia's startup ecosystem, so Georgian founders are the core audience. Foreign or Qatari founders should check the official guidelines, as nationality rules are not stated in the announcement."
+ },
+ "gita-regional-pre-acceleration-2026": {
+  "name": "GITA Regional Pre-Acceleration Programme 2026 (Imereti, Guria, Adjara)",
+  "country": "Georgia",
+  "summary": "A GITA-funded four-week pre-acceleration course for innovative entrepreneurs and people interested in the startup ecosystem in western Georgia. Participants complete eight theoretical and practical modules with experienced mentors and individual support to develop their ideas.",
+  "duration": "4-week intensive course (8 modules)",
+  "highlights": [
+   "Fully funded by GITA, free for participants",
+   "8 modules with experienced mentors",
+   "Individual support to develop your startup idea"
+  ],
+  "eligibility": "Residents of the Imereti, Guria and Adjara regions of Georgia who are innovative entrepreneurs or interested in startups. Not open to Qatar-based applicants."
+ },
+ "gita-tech-spark-school-startup": {
+  "name": "Tech sPark: National School Startup Competition",
+  "country": "Georgia",
+  "summary": "A nationwide GITA competition in which school teams develop startup ideas that tackle real challenges in education and present them in demo-day format. Schools compete for the title of 'Most Innovative and Technological School of the Year'.",
+  "duration": "3 stages: municipal, regional, national demo day",
+  "highlights": [
+   "GEL 5,000 for the winning school, plus prizes for students",
+   "Open to all public and private schools in Georgia",
+   "Municipal, regional and national stages"
+  ],
+  "eligibility": "Teams of 3-5 students aged 15+ and one teacher (ideally STEAM) from any public or private school in Georgia. Georgian schools only; not open to Qatar-based students."
+ },
+ "qstp-incubate-sprint": {
+  "name": "QSTP Incubate: Sprint + Incubation",
+  "country": "Qatar",
+  "summary": "QSTP's incubation track starts with a four-week in-person Sprint in Doha, after which selected startups enter an eight-week Incubation programme. QSTP provides in-kind services in exchange for 1.5% equity on a deferred, SAFE-style basis.",
+  "duration": "4-week in-person Sprint plus 8-week Incubation",
+  "highlights": [
+   "Three cohorts a year (Jan, May, Sept)",
+   "1.5% equity for in-kind services (deferred SAFE-style)",
+   "Based in Education City, Doha, within Qatar Foundation"
+  ],
+  "eligibility": "Local or international science and technology startups committed to R&D and product development at QSTP, with a capable team, a validated market need, a scalable model and a prototype or MVP. Qatari and international (including Georgian) founders can apply, but must work in person in Doha."
+ },
+ "qstp-nextgen-founders-hackathon-2026": {
+  "name": "NextGen Founders Hackathon 2026",
+  "country": "Qatar",
+  "summary": "A three-day hackathon at Tech2, QSTP (Education City, Doha) where young builders develop tech-driven solutions to real sustainability challenges. It is organised by Nestlé and QSTP in collaboration with Earthna.",
+  "duration": "3 days, 5-7 November 2026",
+  "highlights": [
+   "Two tracks: Food System Resilience and Packaging Circularity",
+   "Hosted inside Qatar Science & Technology Park",
+   "Free registration"
+  ],
+  "eligibility": "Young builders aged 18-30 in Qatar. Ideal for university students in Education City. Not practical for applicants based in Georgia."
+ },
+ "web-summit-qatar-2027-startups": {
+  "name": "Web Summit Qatar 2027: Startup Programme (ALPHA)",
+  "country": "Qatar",
+  "summary": "Web Summit Qatar is a large tech conference in Doha. Startups apply to its startup programme, and early-stage companies are placed in the ALPHA category, which brings access to investor meetings, masterclasses, Mentor Hours and the PITCH competition.",
+  "duration": "4-day event, 31 Jan - 3 Feb 2027",
+  "highlights": [
+   "Investor-to-startup meetings and Mentor Hours",
+   "ALPHA is for startups that are pre-investment or have raised under US$1 million",
+   "Held 31 Jan - 3 Feb 2027 in Doha"
+  ],
+  "eligibility": "Startups of any nationality, including Georgian and Qatari, can apply through the official form (a business email is required). Selected startups are placed in ALPHA, BETA or GROWTH. Participation involves a startup package; check the price on the official site."
+ },
+ "ioi-2027": {
+  "about": "The International Olympiad in Informatics (IOI) is the most prestigious algorithmic programming competition for secondary-school students. IOI 2027 takes place in Potsdam, Germany, from 12 to 19 September 2027, hosted by the Hasso Plattner Institute; it is the first time Germany has hosted the olympiad in 35 years. Contestants solve hard algorithmic tasks in C++ over two five-hour competition days, and around half receive gold, silver or bronze medals.\n\nYou cannot register for the IOI as an individual. Each participating country runs its own national olympiad in informatics (often several online and on-site rounds plus a training camp) and selects a team of up to four students. Selection for the September 2027 team happens during the 2026/27 school year, so now is the time to find your national organiser (listed on ioinformatics.org under countries) and enter its first round. Many countries also pick teams for regional olympiads such as EGOI (girls), BOI, CEOI or APIO from the same rounds.\n\nWhy it matters: an IOI medal is one of the strongest signals a pre-university student can show to computer-science departments (MIT, ETH, Oxford, Cambridge and others) and to tech employers, and the training itself (dynamic programming, graphs, data structures) is excellent preparation for university CS. Host countries cover board and lodging for official delegations during the event.",
+  "highlights": [
+   "Up to 4 students per country, chosen by national informatics olympiads",
+   "Two 5-hour contest days of algorithmic problems; medals for about half of contestants",
+   "Free preparation: past IOI tasks and the official IOI guide on ioinformatics.org"
+  ],
+  "eligibility": "Secondary-school students selected by their country's national olympiad in informatics; IOI regulations require contestants to be in secondary education and under 20 on 1 July of the contest year. Nationality rules are set by each national organiser (usually you must study in that country). Students from countries without an IOI delegation cannot enter independently.",
+  "how_to_apply": [
+   "Find your country's national informatics olympiad organiser via the IOI countries list on ioinformatics.org.",
+   "Register for the first national round (usually autumn or winter) through your school or the organiser's website.",
+   "Practise with past IOI and national tasks on the official archives and the IOI preparation guide.",
+   "Advance through the national rounds and training camp to be named to the IOI 2027 team.",
+   "Your national team leaders handle registration with IOI 2027 in Potsdam."
+  ],
+  "costs": "No entry fee for students in most national olympiads. The host covers accommodation, meals and the programme in Potsdam for official team members; travel is usually paid by the national organiser or ministry, depending on the country."
+ },
+ "ioai-2027": {
+  "about": "The International Olympiad in Artificial Intelligence (IOAI) is an international science olympiad for high-school students, launched in 2024 (Bulgaria) and since held in China (2025) and Kazakhstan (2026). The 4th IOAI will be held in Singapore from 4 to 10 July 2027. Contestants work on scientific and practical AI problems, typically training and evaluating models in Python on a shared computing platform, plus team challenges, alongside a cultural programme with students from dozens of countries.\n\nCountries take part through a National Olympiad in AI (NOAI), which selects the students who represent them; regional olympiads in AI also sit under the IOAI umbrella. Countries with little previous olympiad experience can join through the IOAI GAITE initiative. If your country has no national AI olympiad yet, ask your ministry, national STEM olympiad body or computer-science teachers' association to contact IOAI; individual students cannot enter on their own.\n\nThe IOAI is a rare chance for secondary students to show serious machine-learning skill at an international level, and its syllabus (classical ML, neural networks, computer vision, NLP) is a strong free study plan even if you do not make the team.",
+  "highlights": [
+   "4th edition: Singapore, 4–10 July 2027",
+   "Practical AI/ML tasks in Python plus team challenges",
+   "Countries select teams through national AI olympiads; GAITE helps newcomer countries join"
+  ],
+  "eligibility": "High-school students selected by their country's National Olympiad in AI. Each national organiser sets its own rules (age, school, nationality). Students cannot register individually with IOAI.",
+  "how_to_apply": [
+   "Check whether your country has a National Olympiad in AI on the IOAI 'Countries & territories' page.",
+   "Register for your national AI olympiad's qualifying round (online in most countries).",
+   "Study the IOAI syllabus and past tasks on ioai-official.org.",
+   "Qualify through national rounds and selection camp to join the IOAI 2027 team."
+  ],
+  "costs": "Free or low-cost national rounds in most countries. During IOAI the host provides accommodation, meals and the programme for team members; travel costs depend on the national organiser. IOAI also publishes financial-aid information for delegations."
+ },
+ "iol-2027": {
+  "about": "The International Linguistics Olympiad (IOL) is one of the international science olympiads for secondary-school students. Problems give you data in a language you have almost certainly never seen (for example numbers, verb forms or a writing system) and ask you to deduce how it works. Every problem is self-contained, so no knowledge of linguistics or foreign languages is needed: what counts is logic, pattern-spotting and careful reasoning.\n\nThe 24th IOL will be held in Bangkok, Thailand, from 21 to 28 July 2027. It has an individual contest (five problems, six hours) and a team contest. Each participating country sends one or two teams of four students, usually chosen from the top scorers of its national linguistics olympiad (for example UKLO in the UK, NACLO in the USA and Canada, OzCLO in Australia, plus national olympiads across Europe and Asia). The IOL website lists the organiser in each country and how its team is chosen.\n\nThe IOL is a great fit for students who love languages, puzzles, maths or computer science, and a medal is a distinctive achievement for applications in linguistics, languages, computer science or philosophy. Past problems are freely available to practise.",
+  "highlights": [
+   "24th edition in Bangkok, 21–28 July 2027",
+   "No prior knowledge required: every problem is self-contained",
+   "Individual and team contests; 1–2 teams of four per country"
+  ],
+  "eligibility": "Secondary-school students chosen by their country's national linguistics olympiad. Rules on age and school are set nationally and by the IOL regulations. If your country does not take part, a not-for-profit organisation can contact the IOL to set up a national contest.",
+  "how_to_apply": [
+   "Find your country's linguistics olympiad on the IOL 'Countries' page (ioling.org).",
+   "Register for the national first round (often run through schools in winter).",
+   "Practise with the IOL sample and past problems.",
+   "Qualify through the national final to be selected for the IOL 2027 team."
+  ],
+  "costs": "National rounds are usually free or charge a small fee. The host covers accommodation and meals during the IOL; travel and the delegation fee are normally covered by the national organiser."
+ },
+ "egmo-2027": {
+  "about": "The European Girls' Mathematical Olympiad (EGMO) is a premier international mathematics competition for female secondary-school students. Founded by the United Kingdom in 2012, it now includes more than sixty countries, and many non-European countries take part as guests. Like the IMO, EGMO runs over two days with three olympiad problems each day (4.5 hours per paper); about half of contestants win medals.\n\nEGMO 2027 takes place in Šibenik, Croatia, from 11 to 17 April 2027. Participation is by invitation through national mathematics olympiad organisers: each country nominates up to four girls, usually based on national olympiad results and team-selection tests held in winter. If you are a girl who enjoys competition maths, ask your national olympiad committee or maths teacher how the EGMO team is chosen and make sure you enter the national olympiad rounds this school year.\n\nEGMO is a stepping stone to IMO teams and a strong credential for mathematics, computer science and engineering applications. It also builds a lasting international network of young women in mathematics.",
+  "highlights": [
+   "Šibenik, Croatia, 11–17 April 2027",
+   "IMO-style format: two days, three problems each",
+   "Up to four girls per country; non-European guest countries welcome"
+  ],
+  "eligibility": "Female secondary-school students nominated by their country's national mathematics olympiad organiser (invitation only). Age and school rules follow the EGMO regulations (pre-university students). Individual registration is not possible.",
+  "how_to_apply": [
+   "Ask your national mathematics olympiad organiser whether your country sends an EGMO team and how it is selected.",
+   "Enter the national olympiad rounds and any team selection tests in winter 2026/27.",
+   "Practise with past EGMO and IMO papers on egmo.org.",
+   "If selected, your team leader registers the team with EGMO 2027."
+  ],
+  "costs": "Selection rounds are usually free. The host provides accommodation, meals and the programme for team members; travel is normally covered by the national organiser."
+ },
+ "icho-2027": {
+  "about": "The International Chemistry Olympiad (IChO) is the most demanding chemistry competition for secondary-school students, held every July since 1968. The 59th IChO will be hosted by Chinese Taipei (Taiwan) from 19 to 28 July 2027. Students sit a five-hour practical laboratory exam and a five-hour theoretical exam covering organic, inorganic, physical and analytical chemistry at early-university level; roughly the top 60% receive medals.\n\nEach participating country sends a team of up to four students plus mentors. There is no individual entry: students qualify through their national chemistry olympiad, which in most countries has a school round in autumn or winter, a national final and a training camp. The host publishes preparatory problems months in advance, which form an excellent free syllabus.\n\nIChO medallists are sought after by top chemistry, medicine and natural-science programmes worldwide, and the training (lab technique, spectroscopy, kinetics, synthesis) puts students well ahead of their peers.",
+  "highlights": [
+   "59th IChO, Chinese Taipei, 19–28 July 2027",
+   "Five-hour lab exam plus five-hour theory exam",
+   "Four students per country, chosen by national chemistry olympiads"
+  ],
+  "eligibility": "Secondary-school students (not yet at university) selected by their country's national chemistry olympiad; IChO regulations limit contestants to under 20 years old at the time of the competition. Each country's organiser sets nationality and school requirements.",
+  "how_to_apply": [
+   "Find your national chemistry olympiad (usually run by the ministry of education or national chemical society).",
+   "Register through your school for the first round in autumn/winter 2026/27.",
+   "Prepare with past IChO problems and the IChO 2027 preparatory problems when published.",
+   "Qualify through the national final and selection camp for the four-person team."
+  ],
+  "costs": "National rounds are generally free for students. The host covers accommodation, meals and the programme for team members; the national delegation pays the team participation fee (USD 3,000 per team) and travel, normally funded by the national organiser."
+ },
+ "ibo-2027": {
+  "about": "The International Biology Olympiad (IBO) is the world's largest biology competition for secondary-school students. The 38th IBO will take place in Warsaw, Poland, from 18 to 25 July 2027. Students sit practical exams (usually three or four lab sessions of about 90 minutes in areas such as molecular biology, physiology, ecology and evolution) and theoretical exams of around 100 tasks applying biology to unfamiliar research data, alongside excursions and a cultural programme.\n\nYou cannot register with the IBO directly. You must win your National Biology Olympiad (NBO) and be selected for your country's team; each member country or region sends up to four students. What matters is the location of your school, not your nationality, and some countries exclude home-schooled or international-school students, so check with your national coordinator early.\n\nAn IBO medal is a strong credential for medicine, biology and life-science applications, and the national olympiad training itself is excellent preparation for university-level biology.",
+  "highlights": [
+   "38th IBO, Warsaw, Poland, 18–25 July 2027",
+   "Practical lab exams plus about 100 theory tasks",
+   "Up to four students per member country; you must win your National Biology Olympiad"
+  ],
+  "eligibility": "Secondary-school students in regular general-education schools who win their National Biology Olympiad. Contestants must be no older than 20 on 1 July 2027, not yet full-time university students, and may take part at most twice. Your school must be in an IBO member country or region.",
+  "how_to_apply": [
+   "Find your national coordinator on the IBO 'member country/region' list (ibo-info.org).",
+   "Register for your National Biology Olympiad through your school.",
+   "Prepare with past IBO papers on ibo-info.org.",
+   "Win the national final and selection rounds to join the IBO 2027 team."
+  ],
+  "costs": "National rounds are typically free. The host covers accommodation, meals and the programme for team members; travel and delegation fees are usually covered by the national organiser."
+ },
+ "regeneron-isef-2027": {
+  "about": "Regeneron ISEF, run by the Society for Science, is the largest international science fair for high-school students. Each May, around 1,600–1,800 finalists from nearly every US state and more than 60 countries, regions and territories present original research projects in 22 categories, from biochemistry and robotics to behavioural science and environmental engineering. The 2027 fair will be held in Los Angeles, California, in May 2027 (exact dates to be published by the Society).\n\nYou cannot apply to ISEF directly. Students earn a place by winning at one of roughly 365 Society-affiliated science fairs worldwide: local, regional, state or national fairs that each nominate a set number of finalists. Many countries have a national ISEF-affiliated fair (for example national youth science competitions or ministry-run fairs), and the Society's 'Find a Fair' tool lists every affiliated fair and its contact. Projects must follow ISEF rules (research plan, adult sponsor, forms and, for human or animal subjects, prior review), so plan the paperwork before you start experiments.\n\nWhy it is worth it: finalists compete for top awards of up to USD 75,000 and hundreds of special awards and scholarships, meet scientists and Nobel laureates, and gain a credential valued by universities worldwide. Even if you do not reach ISEF, affiliated fairs give you judging feedback and a research portfolio.",
+  "highlights": [
+   "Qualify by winning one of ~365 affiliated fairs in 60+ countries",
+   "22 research categories; top awards up to USD 75,000",
+   "Held in Los Angeles, May 2027"
+  ],
+  "eligibility": "Students in grades 9–12 (or equivalent) who have not reached age 20 by 1 May 2027 and who win a Society-affiliated fair. Projects must comply with the International Rules for Precollege Science Research. Open to any nationality where an affiliated fair exists.",
+  "how_to_apply": [
+   "Use the Society's Find a Fair tool to identify the ISEF-affiliated fair for your school or country.",
+   "Read the ISEF International Rules and complete the required forms before starting research.",
+   "Register for the affiliated fair before its deadline (often winter 2026/27) and compete.",
+   "If your fair selects you as a finalist, it registers you for Regeneron ISEF 2027."
+  ],
+  "costs": "No ISEF entry fee for students; affiliated fairs set their own fees. Many affiliated fairs or national bodies cover finalists' travel and lodging; otherwise families pay travel to Los Angeles."
+ },
+ "the-earth-prize-2027": {
+  "about": "The Earth Prize is an annual global competition, based in Geneva, that challenges students aged 13 to 19 to design solutions to environmental sustainability problems. It describes itself as the world's largest environmental competition for young people, with teams from more than 160 countries and territories in its first editions. Students register free, learn through the organisers' educational resources, and submit a project idea (a product, service, policy or campaign) addressing a real environmental issue.\n\nTimeline for the 2027 edition: registration open until 10 January 2027; submissions close 31 January 2027; 'Scholars' are selected in February and announced on 3 March 2027, then work with mentors through March; regional winners are chosen in April and announced in early May, followed by public voting and an awards ceremony on 28 May 2027. Seven regional winners (Southeast Asia & Oceania, Asia, the Middle East, Africa, Europe, North America, and Central & South America) each receive USD 10,000 to implement their ideas, and teachers can be recognised as Mentors of the Month (USD 500).\n\nIt is a strong, low-barrier way to build an environmental or social-impact project for university applications, with mentoring and a regional prize structure that gives students from every part of the world a realistic chance.",
+  "highlights": [
+   "USD 10,000 for each of seven regional winners",
+   "Free to enter; ages 13–19 worldwide",
+   "Mentoring phase for selected Scholars"
+  ],
+  "eligibility": "Students aged 13–19 anywhere in the world, entering with a teacher or adult mentor as required by the rules. No fee. Projects are submitted in English.",
+  "how_to_apply": [
+   "Create an account and register on theearthprize.org before 10 January 2027.",
+   "Form your team and recruit a teacher/adult mentor (see the competition basics and school information).",
+   "Use the Earth Prize learning resources to pick an environmental problem and develop your solution.",
+   "Submit your project before 31 January 2027.",
+   "If selected as a Scholar (3 March 2027), refine your project with your mentor for the regional round."
+  ],
+  "costs": "Free to enter. Regional winners receive USD 10,000 each to implement their project."
+ },
+ "cemc-euclid-2027": {
+  "about": "The Euclid Mathematics Contest is a 2.5-hour, 10-question contest run by the Centre for Education in Mathematics and Computing (CEMC) at the University of Waterloo, Canada. It is aimed at students in their final year of secondary school (and keen younger students) and mixes short-answer and full-solution questions on algebra, geometry, number theory, functions and counting.\n\nIn 2027 the contest is written on 6 April in North and South America and on 7 April 2027 everywhere else. It is taken at registered schools or contest centres worldwide: a teacher (contest supervisor) orders the contest through the CEMC Contest Supervisor Portal by 11 March 2027. Results come with certificates, and top scorers are recognised internationally.\n\nThe Euclid is particularly valuable if you are considering the University of Waterloo (mathematics, computer science, engineering), where results are considered in admissions and scholarship decisions. Free past papers and solutions from the CEMC make it an excellent preparation tool for any university-level maths.",
+  "highlights": [
+   "Written in schools worldwide on 6–7 April 2027",
+   "Results considered by the University of Waterloo for admission and scholarships",
+   "Free past contests and solutions online"
+  ],
+  "eligibility": "Open to secondary-school students in any country, mainly those in the final year (grade 12 or equivalent); younger students may also write. Must be written under supervision at a registered school or contest centre.",
+  "how_to_apply": [
+   "Ask your maths teacher to register the school as a contest centre in the CEMC Contest Supervisor Portal.",
+   "Your teacher orders the Euclid contest by 11 March 2027.",
+   "Prepare with past Euclid papers and solutions from the CEMC website.",
+   "Write the contest at school on the official date (7 April 2027 outside the Americas)."
+  ],
+  "costs": "A small per-student fee is charged to schools by the CEMC (amount shown in the Supervisor Portal; schools often cover it)."
+ },
+ "cemc-canadian-computing-competition-2027": {
+  "about": "The Canadian Computing Competition (CCC), run by the University of Waterloo's CEMC, is a three-hour programming contest for secondary-school students. Contestants write programs (in languages such as Python, C++ or Java) that solve five problems at either the Junior level (for newer programmers) or the Senior level (algorithmic problems similar to olympiad qualifiers).\n\nThe 2027 contest is written on 17 February in the Americas and on 18 February 2027 elsewhere, at schools registered through the CEMC Contest Supervisor Portal; the ordering deadline is 11 February 2027. In Canada, top Senior results lead to the Canadian Computing Olympiad and IOI selection; students elsewhere receive scores, certificates and international recognition.\n\nThe CCC is a structured, affordable way to test your programming against a large international field, and its free archive of past problems with test data is one of the best practice resources for competitive programming beginners.",
+  "highlights": [
+   "Junior and Senior levels; five problems in three hours",
+   "Written at schools worldwide on 17–18 February 2027",
+   "Free archive of past problems and test data"
+  ],
+  "eligibility": "Secondary-school students in any country, written under supervision at a registered school or contest centre. Any programming language supported by the online grader.",
+  "how_to_apply": [
+   "Ask a teacher to register as contest supervisor in the CEMC Contest Supervisor Portal.",
+   "The school orders the CCC (Junior or Senior) by 11 February 2027.",
+   "Practise with past CCC problems on the CEMC website.",
+   "Write the contest at school on 18 February 2027 (outside the Americas)."
+  ],
+  "costs": "Small per-student fee charged to the school (see the Supervisor Portal)."
+ },
+ "cemc-pascal-cayley-fermat-2027": {
+  "about": "The Pascal (grade 9), Cayley (grade 10) and Fermat (grade 11) contests are 60-minute, 25-question multiple-choice mathematics competitions run by the CEMC at the University of Waterloo. They are a gentle but challenging introduction to competition maths, rewarding problem solving over memorised methods, and are taken by students in many countries.\n\nIn 2027 the contests are written on 23–24 February in the Americas and on 24–25 February 2027 elsewhere. Schools order through the CEMC Contest Supervisor Portal; the deadline is 2 February 2027 for schools outside Canada and India (27 January in India). Top scorers in each school and region receive certificates, and high-scoring students are invited to follow-up contests and CEMC resources.\n\nThese contests are a great first step for younger students who want to build towards olympiads or the Euclid contest, and the CEMC publishes all past papers and solutions for free.",
+  "highlights": [
+   "Separate papers for grades 9, 10 and 11",
+   "25 multiple-choice questions in 60 minutes",
+   "Free past papers and solutions"
+  ],
+  "eligibility": "Students in grades 9–11 (or equivalent; younger students may write a higher paper) at any registered school or contest centre worldwide.",
+  "how_to_apply": [
+   "Ask your maths teacher to register the school in the CEMC Contest Supervisor Portal.",
+   "The school orders the Pascal, Cayley or Fermat papers by 2 February 2027 (27 January in India).",
+   "Practise with past papers from the CEMC website.",
+   "Write the contest at school on 24 or 25 February 2027."
+  ],
+  "costs": "Small per-student fee charged to the school (see the Supervisor Portal)."
+ },
+ "purple-comet-math-meet-2027": {
+  "about": "The Purple Comet! Math Meet is a free, annual, international online mathematics competition for teams. In 2025 more than 12,000 students on over 4,000 teams from 80 countries took part. The middle-school contest has 20 problems in 60 minutes and the high-school contest has 30 problems in 90 minutes, ranging from fairly easy to extremely challenging.\n\nThe 2027 contest runs from Tuesday 6 April to Thursday 15 April 2027. Each team (one to six students) needs an adult supervisor, usually a teacher or parent, who registers on the contest website and starts the contest clock when the team is ready. Teams compete in categories by school size, mixed-school/homeschooled teams, or an unrestricted category that does not compete for awards.\n\nBecause it is free, online and collaborative, Purple Comet is an easy way for a school maths club anywhere in the world to try international competition maths, and past problems with answers are online for practice.",
+  "highlights": [
+   "Free and fully online; teams of 1–6",
+   "Flexible 10-day window: 6–15 April 2027",
+   "Middle-school and high-school divisions"
+  ],
+  "eligibility": "Middle- and high-school students worldwide. Each team needs an adult supervisor who registers on purplecomet.org.",
+  "how_to_apply": [
+   "An adult supervisor registers at purplecomet.org (Supervisor Login/Registration).",
+   "The supervisor creates one or more teams of 1–6 students.",
+   "Practise with past contests on the site.",
+   "Between 6 and 15 April 2027, the supervisor starts the contest clock and the team submits answers online."
+  ],
+  "costs": "Free."
+ },
+ "young-wildlife-photographer-of-the-year-2027": {
+  "about": "Wildlife Photographer of the Year, developed and produced by the Natural History Museum in London, is the most famous nature photography competition in the world. Its Young Wildlife Photographer of the Year competition is for photographers aged 17 and under on the closing date, with age-bracket categories (10 and under, 11–14, 15–17). All young category winners are considered for the Young Wildlife Photographer of the Year grand title, and winning and highly commended images join the museum's exhibition, which tours internationally, and the official portfolio book.\n\nFor the current competition, entries opened on 19 October 2026 and close on 3 December 2026 at 11:30 GMT. First-round results come on 22 January 2027 and the final decision on 12 March 2027. Young entrants may submit up to 10 photographs in their age bracket. Photos must have been taken on or after 1 November 2021, and AI-generated or AI-altered content is not allowed; the rules explain what editing is permitted and require images to be ethically taken.\n\nEntry is free for young photographers, so it is an outstanding chance to get work seen by top judges, and winners attend the awards ceremony in London.",
+  "highlights": [
+   "Free for ages 17 and under; up to 10 images",
+   "Winners exhibited at the Natural History Museum and on international tour",
+   "Deadline 3 December 2026, 11:30 GMT"
+  ],
+  "eligibility": "Photographers of any nationality aged 17 or under on the closing date (parent/guardian consent needed for minors). Images taken on or after 1 November 2021; no AI-generated content.",
+  "how_to_apply": [
+   "Read the rules and the entry guide on nhm.ac.uk/wpy/competition.",
+   "Create an account on the official entry portal (a parent or guardian may need to give consent).",
+   "Choose up to 10 of your best wildlife or nature images taken since 1 November 2021.",
+   "Upload them with captions in your age-bracket category before 3 December 2026, 11:30 GMT.",
+   "Keep original RAW/unedited files: shortlisted entrants must supply them for verification."
+  ],
+  "costs": "Free for Young WPY entrants."
+ },
+ "sony-world-photography-awards-youth-2027": {
+  "about": "The Sony World Photography Awards, run by the World Photography Organisation, are among the largest photography competitions in the world. The Youth competition celebrates standout single images by photographers aged 19 and under, responding to a theme announced on the competition page. Entrants can submit up to three images; judging is on the single image, not a series.\n\nEntries are open from 1 June 2026 to 5 January 2027 at 16:00 GMT, and images must have been taken in 2026. Judges select a shortlist of up to 10 photographers between January and March 2027; the overall winner, announced in April 2027, receives the Youth Competition Winner title, Sony digital imaging equipment, flights and accommodation for the awards ceremony in London, and inclusion in the exhibition at Somerset House and the annual book.\n\nEntry is free and you can shoot on any camera or phone, so it is one of the most accessible ways for a young photographer anywhere in the world to get international recognition.",
+  "highlights": [
+   "Free; up to three images per entrant",
+   "Winner flown to London for the awards and exhibition",
+   "Deadline 5 January 2027, 16:00 GMT"
+  ],
+  "eligibility": "Anyone aged 19 or under on 5 January 2027, worldwide. Images must be taken in 2026; manipulation must be declared and computer-generated images are not allowed.",
+  "how_to_apply": [
+   "Register for a free account on worldphoto.org.",
+   "Read this year's Youth theme and rules on the Youth competition page.",
+   "Select up to three images taken in 2026 (JPEG, 1–5 MB, sRGB).",
+   "Upload them before 5 January 2027, 16:00 GMT, describing any editing."
+  ],
+  "costs": "Free to enter."
+ },
+ "sony-world-photography-awards-student-2027": {
+  "about": "The Student competition of the Sony World Photography Awards is a platform for photography students in higher education worldwide. Each year students answer a set brief with a series of five to ten images; the 2027 brief is 'Journeys', which can be interpreted broadly, from rites of passage to changing cities or everyday routes. Images may be taken on any device and in any style.\n\nEntries close on 27 November 2026 at 16:00 GMT. Entrants must be aged 18–30 and enrolled in a photography programme (a formal course, credit, module or foundation at diploma, BA or MA level) at an institution registered with the World Photography Organisation; institutions that are not yet registered can sign up through the competition page. Up to 10 students are shortlisted, and the overall winner receives the Student Photographer of the Year title, Sony digital imaging equipment for themselves and their institution, and travel to the London awards ceremony and exhibition.\n\nIt is free, judged by leading professionals, and a strong portfolio credential for students in photography, art, design or media programmes.",
+  "highlights": [
+   "2027 brief: 'Journeys' (series of 5–10 images)",
+   "Free; for photography students aged 18–30",
+   "Winner and their university receive Sony equipment"
+  ],
+  "eligibility": "Students aged 18–30 enrolled in a photography programme at a higher-education institution registered with the World Photography Organisation (institutions can register). Images taken in the 18 months before 27 November 2026.",
+  "how_to_apply": [
+   "Check that your university or college is registered with the World Photography Organisation (or ask a tutor to register it).",
+   "Read the 2027 'Journeys' brief and rules on the Student competition page.",
+   "Create a free account on worldphoto.org.",
+   "Upload a series of 5–10 images before 27 November 2026, 16:00 GMT."
+  ],
+  "costs": "Free to enter."
+ },
+ "orwell-youth-prize-2027": {
+  "about": "The Orwell Youth Prize, run by the Orwell Foundation (the charity behind the Orwell Prizes for political writing), invites young people to write about their world in any form: essay, short story, poem, article, speech or script. The 2027 theme is 'Acts of Courage'. Word limits are 1,000 words for Years 7–11 and 1,500 words for Years 12–13, with categories for Years 7–9, 10–11 and 12–13.\n\nA distinctive feature is free individual feedback: entries submitted by the feedback deadline of 3 March 2027 receive written comments from the Orwell team, and you can then revise before the final deadline of 28 April 2027. Winners and runners-up are celebrated at an awards event and published by the Foundation, and the programme includes workshops and a summer residential for selected writers.\n\nEligibility focuses on secondary students at school or college in the UK; the Foundation also mentions students following a British curriculum, so students at British international schools abroad should check the terms before entering.",
+  "highlights": [
+   "Theme 2027: 'Acts of Courage'; any written form",
+   "Free personalised feedback on drafts sent by 3 March 2027",
+   "Final deadline 28 April 2027"
+  ],
+  "eligibility": "Secondary students in Years 7–13 (or equivalent) at school or college in the UK; British-curriculum students abroad should confirm eligibility in the terms and conditions. Entrants aged 12 or under need parent/guardian consent.",
+  "how_to_apply": [
+   "Read the 2027 theme and terms on orwellfoundation.com.",
+   "Write your piece (1,000 words for Years 7–11, 1,500 for Years 12–13), keeping your name off the document.",
+   "Save it as a PDF titled with the entry's title (max 10 MB).",
+   "Submit via the online entry form with a safeguarding contact; choose feedback if sending before 3 March 2027.",
+   "Revise and submit the final version by 28 April 2027."
+  ],
+  "costs": "Free."
+ },
+ "first-robotics-competition-2027": {
+  "about": "The FIRST Robotics Competition (FRC) is the flagship high-school programme of FIRST, the non-profit founded by inventor Dean Kamen. Starting from a Kit of Parts, teams of students aged 14–18, guided by adult mentors, design, program and build a large robot to play a new game in three-team alliances. The 2027 game, BIOCORE presented by Haas, is part of the FIRST CANOPY season and will be released on 9 January 2027; teams then have a few weeks to build before district and regional events from late February to April.\n\nTop teams advance to the FIRST Championship in Houston, Texas, from 28 April to 1 May 2027, the world's largest K-12 robotics event (in 2026: 50,000 attendees from 59 countries). Beyond the robot, teams run like small companies: they raise funds, do outreach, build a brand and compete for awards such as the FIRST Impact Award. In the 2024-25 season about 93,000 students from 35 countries took part.\n\nFRC is ideal for students who want hands-on engineering, programming (Java, C++, Python), CAD and business experience. Participants get access to FIRST scholarships worth millions of dollars from partner universities and companies. If there is no team at your school, you can join a community team nearby or start one.",
+  "highlights": [
+   "2027 game BIOCORE released 9 January 2027",
+   "FIRST Championship, Houston, 28 April – 1 May 2027",
+   "Access to FIRST scholarships and industry mentors"
+  ],
+  "eligibility": "Students aged 14–18 (grades 9–12) on a registered team with adult mentors. Open internationally; outside the USA and Canada teams register through or with support of the country's FIRST Program Delivery Partner where one exists.",
+  "how_to_apply": [
+   "Use 'Find Teams & Events' on firstinspires.org to locate a team near you, or ask your school to start one.",
+   "If starting a team, recruit mentors and register the team with FIRST (or your country's FIRST partner) and pay the season fee.",
+   "Students complete youth registration and consent on the FIRST dashboard.",
+   "Watch the game release on 9 January 2027, then build and compete at district/regional events to qualify for Houston."
+  ],
+  "costs": "Team season registration is USD 6,500 for FRC (includes Kit of Parts and first event); robot parts and travel are extra. Teams usually fundraise through sponsors; FIRST lists team grant opportunities. Students do not pay individually unless their team requires it."
+ },
+ "first-tech-challenge-2026-27": {
+  "about": "FIRST Tech Challenge (FTC) is FIRST's robotics programme for students aged 12–18 (grades 7–12). Teams of up to about 15 students design, build and program robots from reusable kits to compete in alliance-based matches, and document their engineering process in a portfolio that is judged for awards. The 2026–27 game is BIOBUZZ presented by RTX, part of the FIRST CANOPY season, released in September 2026.\n\nTeams play in league meets and qualifying tournaments from autumn to spring; top teams advance to regional or national championships and then the FIRST Championship in Houston on 28 April – 1 May 2027. FTC runs in many countries through FIRST Program Delivery Partners, and international teams regularly qualify for Houston.\n\nFTC is cheaper and more accessible than the larger FIRST Robotics Competition while still teaching real engineering: CAD, Java or block programming, sensors and autonomous code. Students also gain access to FIRST scholarships and the FIRST Leadership Award.",
+  "highlights": [
+   "2026–27 game: BIOBUZZ",
+   "Ages 12–18; robots built from reusable kits",
+   "Path to the FIRST Championship in Houston"
+  ],
+  "eligibility": "Students aged 12–18 (grades 7–12) on a registered team with at least two adult mentors. Open internationally via FIRST or national Program Delivery Partners.",
+  "how_to_apply": [
+   "Find an FTC team or event near you via 'Find Teams & Events' on firstinspires.org.",
+   "To start a team, register with FIRST (or your national FIRST partner) and pay the season fee.",
+   "Order a robot kit and download the BIOBUZZ game manual.",
+   "Compete in league meets/qualifiers to advance towards championships."
+  ],
+  "costs": "FTC team registration is USD 350 per season; robot kits and event fees are extra (usually covered by sponsors or schools)."
+ },
+ "first-lego-league-2026-27": {
+  "about": "FIRST LEGO League introduces younger students to engineering and coding. Teams use LEGO Education SPIKE technology: younger children (Explore, ages 6–10) build a model, while Challenge teams (ages 9–14 in most countries) program a robot to complete missions autonomously in 2½-minute matches, and also research a real-world problem and present an innovation project judged on core values.\n\nThe 2026–27 season is BIOGLOW Founders Edition, and FIRST has announced it will be the final season of FIRST LEGO League before its K-8 programmes change from 2027. Teams compete at regional and national tournaments, and top teams can be invited to international events and the FIRST Championship in Houston (28 April – 1 May 2027).\n\nIf your younger sibling or school wants a first robotics competition, this last season is a good moment to join: it runs in dozens of countries through national FIRST partners.",
+  "highlights": [
+   "Final season of FIRST LEGO League",
+   "LEGO SPIKE robot missions plus innovation project",
+   "National tournaments in dozens of countries"
+  ],
+  "eligibility": "Children aged 6–14 (age bands vary by country) on a team of up to 10 with adult coaches. Outside the USA and Canada, register through your country's FIRST Program Delivery Partner.",
+  "how_to_apply": [
+   "Find your country's FIRST LEGO League partner via firstinspires.org (Find Local Support).",
+   "Register a team and buy the BIOGLOW season kit.",
+   "Build and program the robot, and prepare the innovation project.",
+   "Compete at a regional/national tournament."
+  ],
+  "costs": "In the USA/Canada: FIRST LEGO League Explore USD 150 per season (includes set); Challenge fees and kits are extra. Fees elsewhere are set by national partners."
+ },
+ "world-robot-olympiad-2027-season": {
+  "about": "The World Robot Olympiad (WRO) is a global robotics competition, running since 2004, that involved more than 100,000 students and 32,000 teams in 2025 across more than 100 countries. Teams of two or three students with a coach compete in four categories: RoboMission (programming a robot to solve a mission on a table, in Elementary, Junior and Senior age groups), RoboSports (robot vs. robot games), Future Innovators (designing a robotics solution on the season theme) and Future Engineers (autonomous self-driving cars, up to age 22).\n\nEach season has a new theme and challenges published in January; the 2026 theme was 'Robots Meet Culture'. Teams first compete in their national WRO competition, run by the national organiser, who adapts the rules for that country. The best teams qualify for the WRO International Final, hosted in a different country each year (2025 Singapore; 2026 San Juan, Puerto Rico, 8–10 December 2026), and for regional Open Championships.\n\nWRO is a great fit for students who like LEGO, Arduino or similar platforms, and the Future Engineers category is a serious challenge in autonomous driving. Check your national organiser now so your team is ready when the 2027 challenges are released.",
+  "highlights": [
+   "Four categories, from LEGO missions to autonomous cars",
+   "National competitions in 100+ countries lead to the International Final",
+   "2027 challenges expected January 2027"
+  ],
+  "eligibility": "Students aged 8–19 (up to 22 in Future Engineers), in teams of 2–3 with a coach aged 18+. A team enters one category per season. Participation is only through the national WRO competition of your country.",
+  "how_to_apply": [
+   "Find your national organiser on the WRO world map (wro-association.org, 'Join the competition').",
+   "Form a team of 2–3 students and find a coach.",
+   "Read the 2027 rules when published (expected January 2027) and the national organiser's adaptations.",
+   "Register for the national competition and qualify for the International Final."
+  ],
+  "costs": "Registration fees and robot kits depend on the national organiser; international-final travel is usually paid by teams or sponsors."
+ },
+ "genius-olympiad-2027": {
+  "about": "The GENIUS Olympiad is an international project-based competition for secondary-school students, founded around environmental and sustainability themes. Students submit a project in one of nine categories: AI, Art, Coding, Entrepreneurship, Music, Robotics, Science, Short Film and Speech. Selected finalists present at the finals, held from 7 to 12 June 2027 at St. John Fisher University in Rochester, New York, alongside students from many countries.\n\nThe application system opens in December 2026 and project applications are due on 1 March 2027 (09:00 US Eastern Time); affiliated fairs in the US and EU have a later deadline. Projects are reviewed by judges, and accepted finalists receive an invitation to the finals, where awards and medals are presented in each category.\n\nGENIUS is one of the few international olympiads that welcomes both STEM and creative projects, so it suits students with a research, engineering, art or film portfolio who want international recognition. Note that finalists pay participation fees and travel.",
+  "highlights": [
+   "Nine categories including AI, robotics, art, music and film",
+   "Finals 7–12 June 2027, Rochester, NY",
+   "Open to grades 8–12 worldwide"
+  ],
+  "eligibility": "Students in grades 8–12 from any country, individually or in small teams depending on category.",
+  "how_to_apply": [
+   "Read the category rules on geniusolympiad.org.",
+   "Prepare your project (research paper, artwork, film, code or business plan).",
+   "Apply online when the application system opens in December 2026, before 1 March 2027.",
+   "If accepted as a finalist, confirm participation and arrange travel to Rochester."
+  ],
+  "costs": "USD 75 application fee per project; USD 695 participation fee per finalist; travel extra."
+ },
+ "technovation-challenge-2027": {
+  "about": "Technovation Challenge is a global technology-entrepreneurship programme run by Technovation, a US non-profit historically known for Technovation Girls. Builders aged 8 to 18 form teams in their own communities, identify a problem worth solving, and build a working tech or AI solution (a mobile app or AI project), along with a pitch video and business or impact plan. Teams are supported by volunteer mentors and Chapter Leaders, who run the programme in about 160 countries; in 2026, 12,000 learners from 130 countries took part.\n\nThe season runs from October to May, with teams competing in Beginner, Junior and Senior divisions by age. Registration for the 2027 season opened in October 2026. Submissions are judged online, and finalists from each division earn a place at the Technovation World Summit to pitch to industry leaders and judges.\n\nIt is an excellent first entrepreneurship and coding project: the free curriculum teaches app development (for example MIT App Inventor), AI basics and pitching, and the work produces a portfolio piece for applications. Older alumni can continue to the AI Ventures Accelerator (ages 19–24).",
+  "highlights": [
+   "Ages 8–18; Beginner, Junior and Senior divisions",
+   "Build a real app or AI solution with mentors",
+   "Finalists pitch at the World Summit"
+  ],
+  "eligibility": "Young people aged 8–18 anywhere in the world, in teams with an adult mentor. Check the current season rules for division age cut-offs and any gender-specific divisions.",
+  "how_to_apply": [
+   "Register on technovationchallenge.org (registration opened October 2026).",
+   "Form a team (or join through a local Chapter, Club or school) and find a mentor.",
+   "Follow the free curriculum to define a problem and build your app or AI solution.",
+   "Submit your project, pitch video and plan before the spring deadline."
+  ],
+  "costs": "Free to participate."
+ },
+ "usaco-2026-27": {
+  "about": "The USA Computing Olympiad (USACO) runs free online programming contests and training for high-school students; it selects the US team for the International Olympiad in Informatics, but its online contests are taken by many thousands of students worldwide as olympiad practice. Contestants solve three algorithmic problems in a few hours in C++, Java or Python, and move up through Bronze, Silver, Gold and Platinum divisions as their scores improve.\n\nThe 2025–26 season was restructured: three online contests in January and February 2026, followed by an invitational proctored US Open for top US students. The 2026–27 schedule has not yet been posted (as of 30 October 2026); expect the online contests again in winter. Any student can create a free account and compete; only US students are eligible for the US team and camp, but international students receive scores and division promotions.\n\nUSACO's free training pages and its large archive of past problems with solutions make it one of the best self-study paths into competitive programming, whatever your country's olympiad.",
+  "highlights": [
+   "Free online contests, four divisions",
+   "Large free archive of problems and solutions",
+   "Training ground for national olympiads and IOI"
+  ],
+  "eligibility": "Free for anyone; designed for pre-university students. Only US students can qualify for the US training camp and IOI team.",
+  "how_to_apply": [
+   "Create a free account at usaco.org.",
+   "Work through the USACO training pages and past Bronze problems.",
+   "Check usaco.org for the 2026–27 contest dates (expected from January 2027).",
+   "Take each online contest in its window; strong scores promote you to the next division."
+  ],
+  "costs": "Free."
+ },
+ "harvard-cs50x-2026": {
+  "about": "CS50x is the OpenCourseWare version of CS50, Harvard University's introductory computer-science course taught by David J. Malan. Anyone can take it free: you work through eleven weeks of lectures, sections and shorts covering Scratch, C, arrays, algorithms, memory, data structures, Python, SQL, artificial intelligence and web development (HTML, CSS, JavaScript, Flask), then build a final project of your own choice.\n\nProblem sets are submitted online and graded automatically, and you can ask questions in CS50's large online communities and through CS50.ai, a course-specific AI tutor. If you score at least 70% on every problem set and the final project, you receive a free CS50 Certificate; a verified certificate is available for a fee via edX (cs50.edx.org). The 2026 edition is open now; according to the course FAQ, work must be finished by end of day 30 June 2027, and work submitted since 2025 carries forward if the course is extended.\n\nCS50x is widely considered the best first course in programming for motivated beginners, and the final project is a strong portfolio item for university applications in CS or engineering. Lectures are also dubbed into Portuguese and Spanish.",
+  "highlights": [
+   "Free CS50 Certificate for scores of 70%+ on all work",
+   "C, Python, SQL, web and AI in one course",
+   "Huge community and AI tutor (CS50.ai)"
+  ],
+  "eligibility": "Anyone, anywhere, with no prior programming experience. Requires a free edX account and GitHub account to submit work. English (lectures also dubbed into Portuguese and Spanish).",
+  "how_to_apply": [
+   "Open cs50.harvard.edu/x and watch the Week 0 lecture.",
+   "Create a free edX account and log in to CS50's submission system with GitHub, as described on the course site.",
+   "Complete each week's problem set and check your Gradebook.",
+   "Submit a final project and claim your free CS50 Certificate (or a paid verified certificate via edX)."
+  ],
+  "costs": "Free (free CS50 certificate). Optional edX verified certificate costs extra."
+ },
+ "harvard-cs50p-python": {
+  "about": "CS50's Introduction to Programming with Python (CS50P), from Harvard University, teaches programming using Python through ten weeks of material: functions and variables, conditionals, loops, exceptions, libraries, unit tests, file I/O, regular expressions and object-oriented programming, ending with a final project.\n\nAs with all CS50 OpenCourseWare, it is free: watch the lectures and shorts, submit problem sets online for automatic feedback, and get help from the CS50 communities. Completing all problem sets and the final project makes you eligible for a free CS50 certificate; a verified certificate is available through edX for a fee.\n\nCS50P suits secondary-school students who want a solid, practical programming skill quickly (for data analysis, olympiad preparation or university applications) and can be taken before, during or after CS50x.",
+  "highlights": [
+   "Ten weeks covering core Python and testing",
+   "Free CS50 certificate",
+   "No prior experience needed"
+  ],
+  "eligibility": "Anyone; no prior programming experience required. Free edX and GitHub accounts needed to submit work. English.",
+  "how_to_apply": [
+   "Open cs50.harvard.edu/python and watch Lecture 0.",
+   "Create free edX and GitHub accounts as instructed on the site.",
+   "Submit each problem set and track progress in your Gradebook.",
+   "Complete the final project to claim the free CS50 certificate."
+  ],
+  "costs": "Free; optional paid edX verified certificate."
+ }
+}

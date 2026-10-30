@@ -303,3 +303,15 @@ def send_weekly_report(subject, text, html_body):
         "Weekly activity report", "What happened on Meridian in the last seven days.",
         html_body,
     ), Config.TEAM_INBOX)
+
+
+def send_counsellor_application(name, email, school, title):
+    return _deliver(_message(
+        Config.TEAM_INBOX, "[Counsellor application] %s — %s" % (name, school),
+        "%s (%s), %s at %s, applied to join Meridian as a college counsellor.\nReview it at %s"
+        % (name, email, title or "counsellor", school, site_url("/admin")),
+        "New college counsellor application", "Approve only staff of schools we partner with.",
+        _rows([("Name", name), ("Email", email), ("School", school), ("Role", title or "—")]) +
+        '<p style="margin:22px 0 0;">%s</p>' % _button(site_url("/admin"), "Review application"),
+        reply_to=email,
+    ), Config.TEAM_INBOX)

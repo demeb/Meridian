@@ -73,6 +73,14 @@ class Config:
     def expose_dev_codes(cls):
         return _bool("MERIDIAN_DEV_CODES", not cls.smtp_configured())
 
+    @classmethod
+    def cookie_secure(cls, host):
+        # Secure cookies on the live https site only: on a plain-http local preview
+        # (127.0.0.1 / localhost) Safari drops them and nobody can stay logged in
+        name = (host or "").rsplit(":", 1)[0].strip("[]")
+        local = name in ("localhost", "127.0.0.1", "::1") or name.endswith(".localhost")
+        return cls.COOKIE_SECURE and not local
+
     # --- admin ---
     ADMIN_TOKEN = os.environ.get("MERIDIAN_ADMIN_TOKEN", "meridian-admin")
 

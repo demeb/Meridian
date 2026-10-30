@@ -16,14 +16,18 @@
   var TYPES = {
     project: {
       all: { en: 'All projects', ka: 'ყველა პროექტი', ar: 'كل المشاريع' },
+      mun: { en: 'MUN conferences', ka: 'MUN კონფერენციები', ar: 'مؤتمرات نموذج الأمم المتحدة' },
       erasmus: { en: 'Erasmus+', ka: 'Erasmus+', ar: 'إيراسموس+' },
-      mun: { en: 'Model UN', ka: 'გაეროს მოდელირება', ar: 'نموذج الأمم المتحدة' },
-      flex: { en: 'Exchanges', ka: 'გაცვლები', ar: 'برامج التبادل' },
+      exchange: { en: 'Exchange', ka: 'გაცვლითი პროგრამები', ar: 'برامج التبادل' },
+      flex: { en: 'FLEX', ka: 'FLEX', ar: 'FLEX' },
+      uwc: { en: 'UWC programmes', ka: 'UWC პროგრამები', ar: 'برامج UWC' },
       summer: { en: 'Summer schools', ka: 'საზაფხულო სკოლები', ar: 'المدارس الصيفية' },
       competition: { en: 'Competitions', ka: 'კონკურსები', ar: 'المسابقات' },
-      startup: { en: 'Startups', ka: 'სტარტაპები', ar: 'الشركات الناشئة' },
-      youth: { en: 'Youth & volunteering', ka: 'ახალგაზრდობა და მოხალისეობა', ar: 'الشباب والتطوع' },
-      uwc: { en: 'UWC', ka: 'UWC', ar: 'UWC' }
+      startup: { en: 'Entrepreneurship & startups', ka: 'მეწარმეობა და სტარტაპები', ar: 'ريادة الأعمال والشركات الناشئة' },
+      youth: { en: 'Youth projects', ka: 'ახალგაზრდული პროექტები', ar: 'مشاريع الشباب' },
+      volunteering: { en: 'Volunteering', ka: 'მოხალისეობა', ar: 'التطوع' },
+      stem: { en: 'STEM programmes', ka: 'STEM პროგრამები', ar: 'برامج العلوم والتكنولوجيا' },
+      training: { en: 'Trainings & webinars', ka: 'ტრენინგები და ვებინარები', ar: 'تدريبات وندوات عبر الإنترنت' }
     },
     scholarship: {
       all: { en: 'All scholarships', ka: 'ყველა სტიპენდია', ar: 'كل المنح' },
@@ -34,14 +38,19 @@
       'fully-funded': { en: 'Fully funded', ka: 'სრულად დაფინანსებული', ar: 'ممولة بالكامل' }
     }
   };
-  var TYPE_ICONS = { all: 'globe', uwc: 'cap', erasmus: 'star', flex: 'send', summer: 'zap', mun: 'globe',
-    youth: 'users', startup: 'trending', competition: 'award', bachelor: 'cap', masters: 'book',
+  var TYPE_ICONS = { all: 'globe', uwc: 'cap', erasmus: 'star', flex: 'send', exchange: 'send', summer: 'zap', mun: 'globe',
+    youth: 'users', startup: 'trending', competition: 'award', volunteering: 'heart', stem: 'zap', training: 'book',
+    bachelor: 'cap', masters: 'book',
     phd: 'building', 'fully-funded': 'shield' };
 
   var FAMILY_LABEL = {
     erasmus: { en: 'Erasmus+', ka: 'Erasmus+', ar: 'إيراسموس+' },
     mun: { en: 'Model UN', ka: 'გაეროს მოდელირება', ar: 'نموذج الأمم المتحدة' },
-    flex: { en: 'Exchange', ka: 'გაცვლა', ar: 'تبادل' },
+    flex: { en: 'FLEX', ka: 'FLEX', ar: 'FLEX' },
+    exchange: { en: 'Exchange', ka: 'გაცვლა', ar: 'تبادل' },
+    volunteering: { en: 'Volunteering', ka: 'მოხალისეობა', ar: 'تطوع' },
+    stem: { en: 'STEM', ka: 'STEM', ar: 'STEM' },
+    training: { en: 'Training', ka: 'ტრენინგი', ar: 'تدريب' },
     summer: { en: 'Summer school', ka: 'საზაფხულო სკოლა', ar: 'مدرسة صيفية' },
     competition: { en: 'Competition', ka: 'კონკურსი', ar: 'مسابقة' },
     startup: { en: 'Startup', ka: 'სტარტაპი', ar: 'شركة ناشئة' },
@@ -108,6 +117,7 @@
   }
 
   function levelOf(program) {
+    if (program.level && program.level.length) return program.level;
     var text = [(program.keywords || []).join(' '), program.grades, program.type, M.pick(program.name), program.name.en]
       .join(' ').toLowerCase();
     var levels = [];
@@ -124,7 +134,7 @@
         program.country.en, program.country.ka, program.country.ar,
         program.summary && program.summary.en, program.family, program.type, program.cost,
         (program.keywords || []).join(' '), program.family === 'mun' ? 'model united nations mun' : '',
-        program.family === 'flex' || program.family === 'erasmus' ? 'exchange' : ''
+        ['flex', 'erasmus', 'exchange'].indexOf(program.family) !== -1 ? 'exchange' : ''
       ].join(' ').toLowerCase();
     }
     return program._hay;
@@ -186,8 +196,7 @@
       var count = tab.querySelector('.sec-count');
       if (count) {
         var key = tab.getAttribute('data-section');
-        count.textContent = key === 'university' ? (window.__uniCount || '') :
-          all.filter(function (p) { return (p.section || 'project') === key; }).length;
+        count.textContent = all.filter(function (p) { return (p.section || 'project') === key; }).length;
       }
     });
     document.getElementById('programsTitle').textContent = M.t(section === 'scholarship' ? 'programs.s.title' : 'programs.p.title');
@@ -260,12 +269,75 @@
     };
   }
 
-  /* Top 10 in this section: agents' score, then nearest deadline */
+  /* Countries we treat as "around you" for the regional highlights */
+  var NEIGHBOURS = [
+    ['QA', 'AE', 'SA', 'KW', 'BH', 'OM'],
+    ['GE', 'AM', 'AZ', 'TR', 'UA'],
+    ['EG', 'JO', 'LB', 'IQ', 'PS', 'SY'],
+    ['MA', 'DZ', 'TN', 'LY'],
+    ['KZ', 'UZ', 'KG', 'TJ', 'TM'],
+    ['IN', 'PK', 'BD', 'LK', 'NP'],
+    ['US', 'CA', 'MX']
+  ];
+  var hlScope = 'global';
+  var hlTouched = false;
+
+  function homeCountry() {
+    var user = M.state.user;
+    return user && user.country ? String(user.country).toUpperCase() : null;
+  }
+
+  function nearSet(iso) {
+    var set = [iso];
+    NEIGHBOURS.forEach(function (group) {
+      if (group.indexOf(iso) !== -1) set = set.concat(group);
+    });
+    return set;
+  }
+
+  /* Top 10 in this section: agents' score, then nearest deadline. In the
+     regional view, programmes in or around the student's country come first. */
   function highlightList() {
-    return all.filter(inSection).filter(function (p) {
+    var open = all.filter(inSection).filter(function (p) {
       var d = M.daysUntil(p.deadline);
       return d === null || d >= 0;
-    }).sort(rank).slice(0, 10);
+    }).sort(rank);
+    var home = homeCountry();
+    if (hlScope !== 'local' || !home) return open.slice(0, 10);
+    var near = nearSet(home);
+    var local = open.filter(function (p) { return near.indexOf(p.iso) !== -1; });
+    if (local.length < 10) {
+      var region = (open.filter(function (p) { return p.iso === home; })[0] || {}).region ||
+        (all.filter(function (p) { return near.indexOf(p.iso) !== -1; })[0] || {}).region;
+      if (region) {
+        local = local.concat(open.filter(function (p) {
+          return local.indexOf(p) === -1 && p.region === region;
+        }));
+      }
+    }
+    return (local.length ? local : open).slice(0, 10);
+  }
+
+  function paintScope() {
+    var host = document.getElementById('hlScope');
+    if (!host) return;
+    var home = homeCountry();
+    host.hidden = !home;
+    if (!home) return;
+    host.innerHTML = ['local', 'global'].map(function (key) {
+      return '<button type="button" data-scope="' + key + '" aria-pressed="' + (hlScope === key) + '">' +
+        (key === 'local' ? flagOf(home) + ' ' : M.icon('globe', 14)) +
+        '<span>' + M.t('programs.hl.' + key) + '</span></button>';
+    }).join('');
+    host.querySelectorAll('[data-scope]').forEach(function (button) {
+      button.addEventListener('click', function () {
+        hlScope = button.getAttribute('data-scope');
+        hlTouched = true;
+        paintScope(); paintStrip();
+        if (globe) globe.setPins(pinsFromVisible());
+      });
+    });
+    document.getElementById('hlTitle').textContent = M.t(hlScope === 'local' ? 'programs.hl.localTitle' : 'programs.hl.title');
   }
 
   function familyLabel(program) {
@@ -522,6 +594,7 @@
     paintSelect('regionSelect', REGIONS, 'region');
     paintSelect('costSelect', COSTS, 'cost');
     paintHosts();
+    paintScope();
     paintStrip();
   }
 
@@ -577,13 +650,14 @@
       deselect();
     });
 
-    M.api('/api/universities').then(function (data) {
-      window.__uniCount = (data.universities || []).length + (data.directory_count || 0);
-      paintSections();
-    }).catch(function () {});
+    window.addEventListener('meridian:user', function () {
+      if (homeCountry() && hlScope === 'global' && !hlTouched) hlScope = 'local';
+      paintScope(); paintStrip();
+    });
 
     M.api('/api/programs').then(function (data) {
       all = data.programs || [];
+      if (homeCountry()) hlScope = 'local';
       paintAll();
       refresh();
       var wanted = params.get('p');

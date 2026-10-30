@@ -1,18 +1,23 @@
 /* ============================================================
    Meridian — Universities
-   A flat dot-matrix world map (not the globe: that belongs to
-   projects and scholarships), filters, full profiles, and the
-   directory of every other university we know of.
+   Its own section, independent of projects and scholarships:
+   QS-ranked universities with a filter sidebar (your scores, place,
+   cost, ranking), clean cards without the rank (the rank lives on
+   the university's own page), saving, and an optional map view.
    ============================================================ */
 (function () {
   'use strict';
 
+  var PAGE = 30;
   var unis = [];
   var land = null;
   var hover = null;
-  var filters = { q: '', region: 'all', country: 'all', tier: 'all', tuition: 'all', platform: 'all', aid: false };
-  var dirPage = 0;
-  var dirTimer = null;
+  var shown = PAGE;
+  var view = 'list';
+  var DEFAULTS = { q: '', region: 'all', country: 'all', tier: 'all', tuition: 'all', platform: 'all', admit: 'all',
+    type: 'all', aid: false, schol: false, full: false, fitOnly: false, testOptional: false, sort: 'rank',
+    sat: null, act: null, ielts: null, toefl: null, duo: null };
+  var filters = Object.assign({}, DEFAULTS);
 
   var REGIONS = {
     all: { en: 'All regions', ka: 'ყველა რეგიონი', ar: 'كل المناطق' },
@@ -28,14 +33,33 @@
     'top-50': { en: 'QS top 50', ka: 'QS ტოპ 50', ar: 'أفضل 50 (QS)' },
     'top-200': { en: 'QS top 200', ka: 'QS ტოპ 200', ar: 'أفضل 200 (QS)' },
     'top-500': { en: 'QS top 500', ka: 'QS ტოპ 500', ar: 'أفضل 500 (QS)' },
-    other: { en: 'Unranked / other', ka: 'სხვა', ar: 'غير مصنفة / أخرى' }
+    other: { en: 'Ranked 500+', ka: '500-ის შემდეგ', ar: 'بعد المرتبة 500' }
   };
   var TUITION = {
     all: { en: 'Any tuition', ka: 'ნებისმიერი', ar: 'أي رسوم' },
     free: { en: 'Free', ka: 'უფასო', ar: 'مجانية' },
     '5000': { en: 'Under $5,000', ka: '$5,000-მდე', ar: 'أقل من 5,000$' },
     '15000': { en: 'Under $15,000', ka: '$15,000-მდე', ar: 'أقل من 15,000$' },
-    '30000': { en: 'Under $30,000', ka: '$30,000-მდე', ar: 'أقل من 30,000$' }
+    '30000': { en: 'Under $30,000', ka: '$30,000-მდე', ar: 'أقل من 30,000$' },
+    '50000': { en: 'Under $50,000', ka: '$50,000-მდე', ar: 'أقل من 50,000$' }
+  };
+  var ADMIT = {
+    all: { en: 'Any', ka: 'ნებისმიერი', ar: 'أي نسبة' },
+    low: { en: 'Very selective (under 15%)', ka: 'ძალიან შერჩევითი (<15%)', ar: 'انتقائية جداً (أقل من 15%)' },
+    mid: { en: 'Selective (15–40%)', ka: 'შერჩევითი (15–40%)', ar: 'انتقائية (15–40%)' },
+    high: { en: 'Accessible (over 40%)', ka: 'ხელმისაწვდომი (>40%)', ar: 'متاحة (أكثر من 40%)' }
+  };
+  var TYPES = {
+    all: { en: 'Public or private', ka: 'საჯარო ან კერძო', ar: 'حكومية أو خاصة' },
+    public: { en: 'Public', ka: 'საჯარო', ar: 'حكومية' },
+    private: { en: 'Private', ka: 'კერძო', ar: 'خاصة' }
+  };
+  var SORTS = {
+    rank: { en: 'QS ranking', ka: 'QS რეიტინგი', ar: 'تصنيف QS' },
+    name: { en: 'Name (A–Z)', ka: 'სახელი (ა–ჰ)', ar: 'الاسم (أ–ي)' },
+    tuition: { en: 'Tuition: low to high', ka: 'სწავლის საფასური: იაფიდან', ar: 'الرسوم: من الأقل' },
+    deadline: { en: 'Deadline: soonest', ka: 'ვადა: უახლოესი', ar: 'الموعد: الأقرب' },
+    admit: { en: 'Acceptance rate: highest', ka: 'მიღების მაჩვენებელი: მაღალი', ar: 'نسبة القبول: الأعلى' }
   };
   // rough rates, only used to compare tuition across currencies
   var USD = { USD: 1, EUR: 1.08, GBP: 1.27, CHF: 1.12, CAD: 0.73, AUD: 0.66, NZD: 0.6, JPY: 0.0067, KRW: 0.00073,
@@ -45,6 +69,7 @@
     MAD: 0.1, KES: 0.0077, NGN: 0.00065, GHS: 0.065, UGX: 0.00027, RWF: 0.00075, ILS: 0.27, OMR: 2.6, KWD: 3.25, BHD: 2.65 };
 
   function L(t, k) { return t[k] ? M.pick(t[k]) : k; }
+  function num(v) { var n = parseFloat(v); return isNaN(n) ? null : n; }
 
   function tuitionUSD(u) {
     var t = u.tuition_intl;
@@ -57,37 +82,98 @@
 
   function hay(u) {
     if (!u._hay) {
-      u._hay = [u.name.en, u.name.ka, u.name.ar, u.city, u.country.en, u.country.ka, u.country.ar, u.platform,
-        (u.keywords || []).join(' '), u.summary && u.summary.en].join(' ').toLowerCase();
+      u._hay = [u.name.en, u.name.ka, u.name.ar, u.city, u.country && u.country.en, u.country && u.country.ka,
+        u.country && u.country.ar, u.platform, (u.keywords || []).join(' '), u.summary && u.summary.en].join(' ').toLowerCase();
     }
     return u._hay;
+  }
+
+  /* ---------------------------------------------------------- fit */
+  function testOptional(u) {
+    var req = u.sat && u.sat.required;
+    return req === 'optional' || req === 'not-considered';
+  }
+
+  /* "reach", "match" or "likely" from the student's own scores, or null */
+  function fitOf(u) {
+    var verdicts = [];
+    if (filters.sat && u.sat && u.sat.low && u.sat.high) {
+      verdicts.push(filters.sat >= u.sat.high ? 2 : filters.sat >= u.sat.low ? 1 : 0);
+    } else if (filters.act && u.act && u.act.low && u.act.high) {
+      verdicts.push(filters.act >= u.act.high ? 2 : filters.act >= u.act.low ? 1 : 0);
+    }
+    var english = englishOk(u);
+    if (english === false) verdicts.push(-1);
+    if (!verdicts.length) return english === true ? 'english' : null;
+    var worst = Math.min.apply(null, verdicts);
+    return worst < 0 ? 'english-short' : ['reach', 'match', 'likely'][worst];
+  }
+
+  /* true / false when the student entered an English score we can compare, else null */
+  function englishOk(u) {
+    var checks = [];
+    if (filters.ielts && u.ielts_min) checks.push(filters.ielts >= u.ielts_min);
+    if (filters.toefl && u.toefl_min) checks.push(filters.toefl >= u.toefl_min);
+    if (filters.duo && u.duolingo_min) checks.push(filters.duo >= u.duolingo_min);
+    if (!checks.length) return null;
+    return checks.some(Boolean);
+  }
+
+  function anyScore() {
+    return !!(filters.sat || filters.act || filters.ielts || filters.toefl || filters.duo);
   }
 
   function matches(u) {
     if (filters.q && hay(u).indexOf(filters.q.toLowerCase()) === -1) return false;
     if (filters.region !== 'all' && u.region !== filters.region) return false;
     if (filters.country !== 'all' && u.iso !== filters.country) return false;
+    if (filters.full && u.profile !== 'full') return false;
     if (filters.tier !== 'all') {
-      var order = ['top-50', 'top-200', 'top-500', 'other'];
-      if (filters.tier === 'other' ? u.tier !== 'other' : order.indexOf(u.tier) > order.indexOf(filters.tier) || order.indexOf(u.tier) === -1) return false;
+      var r = u.rank_qs || 99999;
+      if (filters.tier === 'top-50' && r > 50) return false;
+      if (filters.tier === 'top-200' && r > 200) return false;
+      if (filters.tier === 'top-500' && r > 500) return false;
+      if (filters.tier === 'other' && r <= 500) return false;
     }
     if (filters.tuition !== 'all') {
       var usd = tuitionUSD(u);
       if (usd === null) return false;
       if (filters.tuition === 'free' ? usd > 0 : usd >= +filters.tuition) return false;
     }
+    if (filters.admit !== 'all') {
+      var a = u.acceptance_rate;
+      if (a === null || a === undefined) return false;
+      if (filters.admit === 'low' && a >= 0.15) return false;
+      if (filters.admit === 'mid' && (a < 0.15 || a > 0.4)) return false;
+      if (filters.admit === 'high' && a <= 0.4) return false;
+    }
+    if (filters.type !== 'all' && u.type !== filters.type) return false;
     if (filters.platform !== 'all' && u.platform !== filters.platform) return false;
     if (filters.aid) {
       var aid = (M.pick(u.aid_intl) || '').toLowerCase();
-      if (!aid || /^none|no aid|not available/.test(aid)) return false;
+      if (!aid || /^none|no aid|not available|very limited/.test(aid)) return false;
+    }
+    if (filters.schol && !u.scholarships) return false;
+    if (filters.testOptional && !testOptional(u)) return false;
+    if (filters.fitOnly && anyScore()) {
+      var fit = fitOf(u);
+      if (!fit || fit === 'reach' || fit === 'english-short') return false;
     }
     return true;
   }
 
+  function sorter(a, b) {
+    switch (filters.sort) {
+      case 'name': return M.pick(a.name).localeCompare(M.pick(b.name));
+      case 'tuition': return (tuitionUSD(a) === null ? 1e9 : tuitionUSD(a)) - (tuitionUSD(b) === null ? 1e9 : tuitionUSD(b));
+      case 'deadline': return (a.deadline || '9999') < (b.deadline || '9999') ? -1 : (a.deadline || '9999') > (b.deadline || '9999') ? 1 : 0;
+      case 'admit': return (b.acceptance_rate || -1) - (a.acceptance_rate || -1);
+      default: return (a.rank_qs || 99999) - (b.rank_qs || 99999) || (a.profile === 'full' ? -1 : 1);
+    }
+  }
+
   function visible() {
-    return unis.filter(matches).sort(function (a, b) {
-      return (a.rank_qs || 9999) - (b.rank_qs || 9999);
-    });
+    return unis.filter(matches).sort(sorter);
   }
 
   /* ---------------------------------------------------------- filters */
@@ -96,32 +182,73 @@
     node.innerHTML = Object.keys(table).map(function (v) {
       return '<option value="' + v + '"' + (filters[key] === v ? ' selected' : '') + '>' + M.esc(L(table, v)) + '</option>';
     }).join('');
-    node.onchange = function () { filters[key] = node.value; refresh(); };
+    node.onchange = function () { filters[key] = node.value; refresh(true); };
+  }
+
+  function check(id, key) {
+    var node = document.getElementById(id);
+    node.checked = !!filters[key];
+    node.onchange = function () { filters[key] = node.checked; refresh(true); };
+  }
+
+  function score(id, key) {
+    var node = document.getElementById(id);
+    node.value = filters[key] === null ? '' : filters[key];
+    var timer = null;
+    node.oninput = function () {
+      window.clearTimeout(timer);
+      timer = window.setTimeout(function () {
+        filters[key] = num(node.value);
+        saveScores();
+        refresh(true);
+      }, 250);
+    };
+  }
+
+  function saveScores() {
+    try {
+      localStorage.setItem('meridian.uniScores', JSON.stringify({
+        sat: filters.sat, act: filters.act, ielts: filters.ielts, toefl: filters.toefl, duo: filters.duo
+      }));
+    } catch (e) { /* private mode */ }
+  }
+
+  function loadScores() {
+    try {
+      var saved = JSON.parse(localStorage.getItem('meridian.uniScores') || 'null');
+      if (saved) ['sat', 'act', 'ielts', 'toefl', 'duo'].forEach(function (k) { filters[k] = num(saved[k]); });
+    } catch (e) { /* ignore */ }
   }
 
   function paintFilters() {
     select('fRegion', REGIONS, 'region');
     select('fTier', TIERS, 'tier');
     select('fTuition', TUITION, 'tuition');
+    select('fAdmit', ADMIT, 'admit');
+    select('fType', TYPES, 'type');
+    select('fSort', SORTS, 'sort');
     var countries = {};
-    unis.forEach(function (u) { countries[u.iso] = { name: M.pick(u.country), flag: u.flag }; });
-    var c = { all: { en: 'All countries', ka: 'ყველა ქვეყანა', ar: 'كل الدول' } };
-    Object.keys(countries).sort(function (a, b) { return countries[a].name.localeCompare(countries[b].name); })
-      .forEach(function (iso) { c[iso] = countries[iso].flag + ' ' + countries[iso].name; });
+    unis.forEach(function (u) {
+      if (!u.iso) return;
+      if (!countries[u.iso]) countries[u.iso] = { name: M.pick(u.country), flag: u.flag, n: 0 };
+      countries[u.iso].n += 1;
+    });
     var node = document.getElementById('fCountry');
-    node.innerHTML = Object.keys(c).map(function (v) {
-      return '<option value="' + v + '"' + (filters.country === v ? ' selected' : '') + '>' +
-        M.esc(typeof c[v] === 'string' ? c[v] : M.pick(c[v])) + '</option>';
-    }).join('');
-    node.onchange = function () { filters.country = node.value; refresh(); dirPage = 0; loadDirectory(); };
+    node.innerHTML = '<option value="all">' + M.esc(M.pick({ en: 'All countries', ka: 'ყველა ქვეყანა', ar: 'كل الدول' })) + '</option>' +
+      Object.keys(countries).sort(function (a, b) { return countries[a].name.localeCompare(countries[b].name); })
+        .map(function (iso) {
+          return '<option value="' + iso + '"' + (filters.country === iso ? ' selected' : '') + '>' +
+            countries[iso].flag + ' ' + M.esc(countries[iso].name) + ' (' + countries[iso].n + ')</option>';
+        }).join('');
+    node.onchange = function () { filters.country = node.value; refresh(true); };
     var platforms = {};
     unis.forEach(function (u) { if (u.platform) platforms[u.platform] = 1; });
     var p = { all: { en: 'Any system', ka: 'ნებისმიერი', ar: 'أي نظام' } };
     Object.keys(platforms).sort().forEach(function (k) { p[k] = { en: k, ka: k, ar: k }; });
     select('fPlatform', p, 'platform');
-    var aid = document.getElementById('fAid');
-    aid.checked = filters.aid;
-    aid.onchange = function () { filters.aid = aid.checked; refresh(); };
+    check('fAid', 'aid'); check('fSchol', 'schol'); check('fFull', 'full');
+    check('fFitOnly', 'fitOnly'); check('fTestOptional', 'testOptional');
+    score('fSat', 'sat'); score('fAct', 'act'); score('fIelts', 'ielts'); score('fToefl', 'toefl'); score('fDuo', 'duo');
   }
 
   /* ---------------------------------------------------------- cards */
@@ -132,41 +259,120 @@
     return Number(t.amount).toLocaleString('en-US') + ' ' + (t.currency || '') + ' / ' + M.t(t.per === 'semester' ? 'uni.semester' : 'uni.year');
   }
 
+  function initials(name) {
+    var short = /\(([A-Z][A-Za-z&]{1,4})\)/.exec(String(name || ''));
+    if (short) return short[1].toUpperCase();
+    var words = String(name || '').replace(/\(.*?\)/g, '').split(/\s+/).filter(function (w) {
+      return w && !/^(of|the|and|for|de|di|du|la|le|der|des|et|y|&|-)$/i.test(w);
+    });
+    return (words.length > 1 ? words[0][0] + words[1][0] : (words[0] || '?').slice(0, 2)).toUpperCase();
+  }
+
+  /* The logo when we have one; a crisp monogram when we don't or it fails to load */
+  function logo(u, size) {
+    var mono = '<span class="uni-mono" aria-hidden="true">' + M.esc(initials(u.name.en)) + '</span>';
+    if (!u.logo) return '<span class="uni-logo" style="--s:' + size + 'px">' + mono + '</span>';
+    return '<span class="uni-logo has-img" style="--s:' + size + 'px">' + mono +
+      '<img src="' + M.esc(u.logo) + '" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" ' +
+      'onerror="this.parentNode.classList.remove(\'has-img\');this.remove()" /></span>';
+  }
+  M.uniLogo = logo;
+
+  function range(r) {
+    return r && r.low && r.high ? r.low + '–' + r.high : null;
+  }
+
+  function english(u) {
+    var parts = [];
+    if (u.ielts_min) parts.push('IELTS ' + u.ielts_min);
+    if (u.toefl_min) parts.push('TOEFL ' + u.toefl_min);
+    if (u.duolingo_min) parts.push('DET ' + u.duolingo_min);
+    return parts.join(' · ');
+  }
+
+  var FIT = {
+    likely: { cls: 'fit-likely', key: 'uni.fit.likely' },
+    match: { cls: 'fit-match', key: 'uni.fit.match' },
+    reach: { cls: 'fit-reach', key: 'uni.fit.reach' },
+    english: { cls: 'fit-match', key: 'uni.fit.english' },
+    'english-short': { cls: 'fit-reach', key: 'uni.fit.englishShort' }
+  };
+
+  function isSaved(id) { return (M.state.saved || []).indexOf(id) !== -1; }
+
   function card(u) {
     var days = M.daysUntil(u.deadline);
-    return '<a class="uni-card" href="/universities/' + encodeURIComponent(u.id) + '" data-reveal>' +
-      '<div class="uni-card-top">' +
-        '<span class="uni-flag">' + (u.flag || '') + '</span>' +
-        (u.rank_qs ? '<span class="uni-rank">QS #' + u.rank_qs + '</span>' : '<span class="uni-rank is-muted">' + M.t('uni.unranked') + '</span>') +
+    var fit = anyScore() ? fitOf(u) : null;
+    var stats = [];
+    var sat = range(u.sat);
+    if (sat) stats.push(['SAT', sat + (testOptional(u) ? ' <i>' + M.t('uni.optional') + '</i>' : '')]);
+    else if (u.sat && u.sat.required === 'not-considered') stats.push(['SAT', M.t('uni.notConsidered')]);
+    var eng = english(u);
+    if (eng) stats.push([M.t('uni.english'), M.esc(eng)]);
+    if (u.profile === 'full') {
+      if (money(u) !== '—') stats.push([M.t('uni.tuition'), M.esc(money(u))]);
+      if (u.acceptance_rate) stats.push([M.t('uni.admit'), Math.round(u.acceptance_rate * 100) + '%']);
+      if (u.deadline) stats.push([M.t('uni.deadline'), M.formatDate(u.deadline) +
+        (days !== null && days >= 0 && days <= 45 ? ' <em>· ' + days + ' ' + M.t('home.rail.days') + '</em>' : '')]);
+    }
+    var href = '/universities/' + encodeURIComponent(u.id);
+    return '<article class="uni-row' + (u.profile === 'basic' ? ' is-basic' : '') + '">' +
+      '<a class="uni-row-link" href="' + href + '" aria-label="' + M.esc(M.pick(u.name)) + '"></a>' +
+      logo(u, 52) +
+      '<div class="uni-row-main">' +
+        '<h3>' + M.esc(M.pick(u.name)) + '</h3>' +
+        '<p class="uni-loc">' + (u.flag || '') + ' ' + M.esc(u.city ? u.city + ', ' : '') + M.esc(M.pick(u.country)) +
+          (u.type ? ' · ' + M.esc(L(TYPES, u.type)) : '') + '</p>' +
+        (stats.length
+          ? '<dl class="uni-chips">' + stats.map(function (s) { return '<div><dt>' + s[0] + '</dt><dd>' + s[1] + '</dd></div>'; }).join('') + '</dl>'
+          : '<p class="uni-basic-note">' + M.t('uni.basicNote') + '</p>') +
       '</div>' +
-      '<h3>' + M.esc(M.pick(u.name)) + '</h3>' +
-      '<p class="uni-loc">' + M.esc(u.city ? u.city + ', ' : '') + M.esc(M.pick(u.country)) + '</p>' +
-      '<dl class="uni-stats">' +
-        '<div><dt>' + M.t('uni.tuition') + '</dt><dd>' + M.esc(money(u)) + '</dd></div>' +
-        '<div><dt>' + M.t('uni.deadline') + '</dt><dd>' + (u.deadline ? M.formatDate(u.deadline) + (days !== null && days >= 0 && days <= 45 ? ' <em>· ' + days + ' ' + M.t('home.rail.days') + '</em>' : '') : '—') + '</dd></div>' +
-        '<div><dt>' + M.t('uni.apply') + '</dt><dd>' + M.esc(u.platform || '—') + '</dd></div>' +
-        '<div><dt>' + M.t('uni.admit') + '</dt><dd>' + (u.acceptance_rate ? Math.round(u.acceptance_rate * 100) + '%' : '—') + '</dd></div>' +
-      '</dl>' +
-    '</a>';
+      '<div class="uni-row-side">' +
+        (fit ? '<span class="fit-badge ' + FIT[fit].cls + '">' + M.t(FIT[fit].key) + '</span>' : '') +
+        '<button type="button" class="uni-save' + (isSaved(u.id) ? ' is-on' : '') + '" data-save="' + M.esc(u.id) + '" aria-pressed="' + isSaved(u.id) + '" aria-label="' + M.esc(M.t('uni.save')) + '">' +
+          M.icon('bookmark', 18) + '</button>' +
+      '</div>' +
+    '</article>';
   }
 
   function paintGrid() {
     var list = visible();
     var host = document.getElementById('uniGrid');
-    document.getElementById('uniCount').textContent = list.length + ' / ' + unis.length;
-    host.innerHTML = list.length ? list.map(card).join('') :
-      '<div class="empty-state">' + M.icon('search', 42) + '<p>' + M.t(unis.length ? 'uni.empty' : 'uni.dir.lede') + '</p></div>';
-    M.observeReveal(host);
+    var fulls = list.filter(function (u) { return u.profile === 'full'; }).length;
+    document.getElementById('uniCount').innerHTML = '<b>' + list.length.toLocaleString('en-US') + '</b> ' + M.t('uni.results') +
+      (fulls && fulls !== list.length ? ' · ' + fulls + ' ' + M.t('uni.withData') : '');
+    host.innerHTML = list.length ? list.slice(0, shown).map(card).join('') :
+      '<div class="empty-state">' + M.icon('search', 42) + '<p>' + M.t('uni.empty') + '</p></div>';
+    document.getElementById('uniMore').hidden = shown >= list.length;
+    host.querySelectorAll('[data-save]').forEach(function (button) {
+      button.addEventListener('click', function (event) {
+        event.preventDefault();
+        toggleSave(button);
+      });
+    });
+  }
+
+  function toggleSave(button) {
+    var id = button.getAttribute('data-save');
+    if (!M.state.user) {
+      window.location.href = '/login?mode=register&next=' + encodeURIComponent(window.location.pathname);
+      return;
+    }
+    M.api('/api/saved', { body: { program_id: id } }).then(function (data) {
+      M.state.saved = data.all || [];
+      button.classList.toggle('is-on', data.saved);
+      button.setAttribute('aria-pressed', String(data.saved));
+      M.toast(M.t(data.saved ? 'uni.saved' : 'uni.unsaved'), 'success', 1800);
+      if (data.saved) M.track('save', id, { kind: 'university' });
+    }).catch(function () { M.toast(M.t('common.error'), 'error'); });
   }
 
   /* ---------------------------------------------------------- the map */
-  var canvas, ctx, dpr = 1, W = 0, H = 0, startTime = 0;
+  var canvas, ctx, dpr = 1, W = 0, H = 0, startTime = 0, drawing = false;
 
   function project(lon, lat) {
     // equirectangular, trimmed of the poles; reads well at any width
-    var x = (lon + 180) / 360 * W;
-    var y = (78 - lat) / (78 + 58) * H;
-    return [x, y];
+    return [(lon + 180) / 360 * W, (78 - lat) / (78 + 58) * H];
   }
 
   function colors() {
@@ -185,7 +391,7 @@
   }
 
   function draw(now) {
-    if (!ctx || !W) return;
+    if (!ctx || !W || view !== 'map') { drawing = false; return; }
     var c = colors();
     var t = (now - startTime) / 1000;
     var calm = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -199,15 +405,15 @@
         ctx.fillRect(p[0] - r / 2, p[1] - r / 2, r, r);
       }
     }
-    var shown = {};
-    visible().forEach(function (u) { shown[u.id] = 1; });
+    var on = {};
+    visible().forEach(function (u) { on[u.id] = 1; });
     unis.forEach(function (u) {
-      if (u.lat === undefined || u.lon === undefined) return;
+      if (u.lat === undefined || u.lat === null || u.lon === undefined) return;
       var p = project(u.lon, u.lat);
-      var on = !!shown[u.id];
+      var lit = !!on[u.id];
       var top = u.tier === 'top-50';
       var size = top ? 4.2 : u.tier === 'top-200' ? 3.4 : 2.8;
-      if (on && top && !calm) {
+      if (lit && top && !calm) {
         var pulse = (t * 0.6 + (u.lon + 180) / 360) % 1;
         ctx.beginPath();
         ctx.arc(p[0], p[1], size + pulse * 12, 0, Math.PI * 2);
@@ -217,16 +423,22 @@
       }
       ctx.beginPath();
       ctx.arc(p[0], p[1], hover === u ? size + 2.5 : size, 0, Math.PI * 2);
-      ctx.fillStyle = !on ? c.dim : top ? c.top : u.tier === 'top-200' ? c.mid : c.other;
+      ctx.fillStyle = !lit ? c.dim : top ? c.top : u.tier === 'top-200' ? c.mid : c.other;
       ctx.fill();
     });
-    if (!calm) requestAnimationFrame(draw);
+    if (!calm) requestAnimationFrame(draw); else drawing = false;
+  }
+
+  function startDrawing() {
+    if (drawing) return;
+    drawing = true;
+    requestAnimationFrame(draw);
   }
 
   function nearest(x, y) {
     var best = null, bestD = 14 * 14;
     visible().forEach(function (u) {
-      if (u.lat === undefined) return;
+      if (u.lat === undefined || u.lat === null) return;
       var p = project(u.lon, u.lat);
       var d = (p[0] - x) * (p[0] - x) + (p[1] - y) * (p[1] - y);
       if (d < bestD) { bestD = d; best = u; }
@@ -238,9 +450,7 @@
     canvas = document.getElementById('uniMap');
     ctx = canvas.getContext('2d');
     var tip = document.getElementById('uniTip');
-    resize();
-    new ResizeObserver(function () { resize(); if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) draw(performance.now()); }).observe(canvas);
-    fetch('/assets/globe-dots.json').then(function (r) { return r.json(); }).then(function (d) { land = d; });
+    new ResizeObserver(function () { resize(); startDrawing(); }).observe(canvas);
     canvas.addEventListener('pointermove', function (e) {
       var rect = canvas.getBoundingClientRect();
       var u = nearest(e.clientX - rect.left, e.clientY - rect.top);
@@ -249,8 +459,7 @@
       if (!u) { tip.hidden = true; return; }
       var p = project(u.lon, u.lat);
       tip.hidden = false;
-      tip.innerHTML = '<b>' + u.flag + ' ' + M.esc(M.pick(u.name)) + '</b><span>' + M.esc(u.city || M.pick(u.country)) +
-        (u.rank_qs ? ' · QS #' + u.rank_qs : '') + '</span>';
+      tip.innerHTML = '<b>' + u.flag + ' ' + M.esc(M.pick(u.name)) + '</b><span>' + M.esc(u.city || M.pick(u.country)) + '</span>';
       tip.style.left = Math.min(Math.max(p[0], 90), W - 90) + 'px';
       tip.style.top = p[1] + 'px';
     });
@@ -259,63 +468,69 @@
       if (hover) window.location.href = '/universities/' + encodeURIComponent(hover.id);
     });
     startTime = performance.now();
-    requestAnimationFrame(draw);
   }
 
-  /* ---------------------------------------------------------- directory */
-  function loadDirectory(append) {
-    var params = new URLSearchParams({ q: filters.q, page: String(dirPage) });
-    if (filters.country !== 'all') params.set('country', filters.country);
-    M.api('/api/universities/directory?' + params.toString()).then(function (data) {
-      var host = document.getElementById('dirList');
-      var rows = (data.items || []).map(function (d) {
-        return '<a class="dir-row" href="/universities/' + encodeURIComponent(d.id) + '">' +
-          '<span class="dir-flag">' + d.flag + '</span><span class="dir-name">' + M.esc(d.name) + '</span>' +
-          '<span class="dir-meta">' + M.esc((d.state ? d.state + ', ' : '') + (d.country || '')) + '</span></a>';
-      }).join('');
-      host.innerHTML = append ? host.innerHTML + rows : rows;
-      document.getElementById('dirCount').textContent = data.total.toLocaleString('en-US') + ' ' + M.t('uni.dir.count');
-      document.getElementById('dirMore').hidden = (dirPage + 1) * 60 >= data.total;
-    });
+  function setView(next) {
+    view = next;
+    document.querySelectorAll('[data-view]').forEach(function (b) { b.setAttribute('aria-pressed', String(b.getAttribute('data-view') === view)); });
+    document.getElementById('uniMapCard').hidden = view !== 'map';
+    if (view === 'map') {
+      if (!land) fetch('/assets/globe-dots.json').then(function (r) { return r.json(); }).then(function (d) { land = d; });
+      resize();
+      startDrawing();
+    }
   }
 
-  function refresh() {
+  function refresh(resetPage) {
+    if (resetPage) shown = PAGE;
     paintGrid();
-    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) draw(performance.now());
+    if (view === 'map') startDrawing();
   }
 
   function init() {
     mountMap();
+    loadScores();
     var search = document.getElementById('uniSearch');
     var params = new URLSearchParams(window.location.search);
     filters.q = params.get('q') || '';
+    if (params.get('country')) filters.country = params.get('country').toUpperCase();
     search.value = filters.q;
+    var timer = null;
     search.addEventListener('input', function () {
-      window.clearTimeout(dirTimer);
-      dirTimer = window.setTimeout(function () {
+      window.clearTimeout(timer);
+      timer = window.setTimeout(function () {
         filters.q = search.value.trim();
-        refresh();
-        dirPage = 0;
-        loadDirectory();
+        refresh(true);
         if (filters.q.length > 1) M.track('search', null, { q: filters.q.slice(0, 60), section: 'university' });
-      }, 220);
+      }, 200);
     });
     document.getElementById('uniReset').addEventListener('click', function () {
-      filters = { q: '', region: 'all', country: 'all', tier: 'all', tuition: 'all', platform: 'all', aid: false };
+      filters = Object.assign({}, DEFAULTS);
       search.value = '';
-      paintFilters(); refresh(); dirPage = 0; loadDirectory();
+      saveScores();
+      paintFilters(); refresh(true);
     });
-    document.getElementById('dirMore').addEventListener('click', function () { dirPage += 1; loadDirectory(true); });
+    document.getElementById('uniMore').addEventListener('click', function () { shown += PAGE; paintGrid(); });
+    document.querySelectorAll('[data-view]').forEach(function (b) {
+      b.addEventListener('click', function () { setView(b.getAttribute('data-view')); });
+    });
+    var side = document.getElementById('uniSide');
+    var toggle = document.getElementById('uniFilterToggle');
+    toggle.addEventListener('click', function () {
+      var open = !side.classList.contains('is-open');
+      side.classList.toggle('is-open', open);
+      toggle.setAttribute('aria-expanded', String(open));
+    });
 
     M.api('/api/universities').then(function (data) {
-      unis = data.universities || [];
-      document.getElementById('uniTotal').textContent = (unis.length + (data.directory_count || 0)).toLocaleString('en-US');
+      unis = (data.universities || []).filter(function (u) { return u && u.name; });
+      document.getElementById('uniTotal') && (document.getElementById('uniTotal').textContent = unis.length.toLocaleString('en-US'));
       paintFilters();
-      refresh();
+      refresh(true);
     });
-    loadDirectory();
+    window.addEventListener('meridian:user', function () { paintGrid(); });
     window.addEventListener('meridian:lang', function () { unis.forEach(function (u) { delete u._hay; }); paintFilters(); refresh(); });
-    window.addEventListener('meridian:theme', function () { draw(performance.now()); });
+    window.addEventListener('meridian:theme', function () { startDrawing(); });
   }
 
   if (document.readyState === 'loading') {

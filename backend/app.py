@@ -27,11 +27,14 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from flask import Flask, jsonify, request, send_from_directory, make_response, abort
 
 import analytics
+import assistant
 import catalog
+import counselling
 import db
 import mailer
 import payments
 import tracker
+import xlsx
 from config import Config, DATA_DIR, FRONTEND_DIR, STORAGE_DIR
 
 UPLOAD_DIR = os.path.join(STORAGE_DIR, "uploads")
@@ -41,6 +44,8 @@ app.config["SECRET_KEY"] = Config.SECRET_KEY
 app.config["MAX_CONTENT_LENGTH"] = 9 * 1024 * 1024
 app.register_blueprint(tracker.bp)
 app.register_blueprint(analytics.bp)
+app.register_blueprint(assistant.bp)
+app.register_blueprint(counselling.bp)
 
 
 @app.before_request
@@ -143,7 +148,7 @@ def attach_session(payload, user_id, status=200):
     response.set_cookie(
         Config.COOKIE_NAME, token,
         max_age=Config.SESSION_DAYS * 86400,
-        httponly=True, samesite="Lax", secure=Config.COOKIE_SECURE, path="/",
+        httponly=True, samesite="Lax", secure=Config.cookie_secure(request.host), path="/",
     )
     return response
 
@@ -208,6 +213,8 @@ PAGES = {
     "about/global-teachers": "global-teachers.html",
     "about/research": "research.html",
     "universities": "universities.html",
+    "counselling": "counselling.html",
+    "prep": "prep.html",
     "engage": "engage.html",
     "login": "login.html",
     "account": "account.html",
@@ -423,26 +430,36 @@ def api_program(program_id):
 
 # ---------------------------------------------------------------- universities
 UNI_CARD = ("id", "name", "country", "city", "iso", "flag", "region", "lat", "lon", "type", "rank_qs", "tier",
-            "platform", "deadline", "tuition_intl", "acceptance_rate", "languages", "summary", "keywords", "aid_intl")
+            "platform", "deadline", "tuition_intl", "acceptance_rate", "languages", "summary", "keywords", "aid_intl",
+            "sat", "act", "ielts_min", "toefl_min", "duolingo_min", "logo", "students", "intl_pct", "website")
+BASIC_CARD = ("id", "name", "country", "city", "iso", "flag", "region", "rank_qs", "tier", "website")
 
 
 @app.get("/api/universities")
 def api_universities():
+    """The whole catalogue in one response: full profiles carry the admission
+    data the filters use; basic QS entries carry just enough for a card."""
     full, rest = catalog.directory()
+    cards = [dict({k: u.get(k) for k in UNI_CARD}, profile="full",
+                  scholarships=len(u.get("scholarships") or [])) for u in full]
+    cards += [dict({k: u.get(k) for k in BASIC_CARD}, profile="basic") for u in rest if isinstance(u.get("name"), dict)]
     return jsonify({
         "ok": True,
-        "universities": [{k: u.get(k) for k in UNI_CARD} for u in full],
+        "universities": cards,
+        "full_count": len(full),
         "directory_count": len(rest),
     })
 
 
 @app.get("/api/universities/directory")
 def api_university_directory():
-    """The basic list of every other university (name, country, website), searchable."""
+    """The basic list (name, country, website), searchable — kept for old links."""
     _full, rest = catalog.directory()
     q = clean(request.args.get("q"), 80).lower()
     iso = clean(request.args.get("country"), 4).upper()
-    hits = [d for d in rest if (not iso or d.get("iso") == iso) and (not q or q in d["name"].lower())]
+    def name(d):
+        return (d["name"].get("en") if isinstance(d["name"], dict) else d["name"]) or ""
+    hits = [d for d in rest if (not iso or d.get("iso") == iso) and (not q or q in name(d).lower())]
     page = max(0, int(request.args.get("page") or 0))
     return jsonify({"ok": True, "total": len(hits), "items": hits[page * 60:(page + 1) * 60]})
 
@@ -938,6 +955,83 @@ def api_saved():
         return fail("not_found", 404)
     saved = db.toggle_saved(user["id"], program_id)
     return jsonify({"ok": True, "saved": saved, "all": db.list_saved(user["id"])})
+
+
+@app.get("/api/saved/universities")
+def api_saved_universities():
+    user = require_user()
+    out = []
+    for item_id in db.list_saved(user["id"]):
+        u = catalog.find_university(item_id)
+        if u and isinstance(u.get("name"), dict):
+            out.append({k: u.get(k) for k in ("id", "name", "flag", "city", "country", "deadline", "rank_qs", "logo")})
+    return jsonify({"ok": True, "universities": out})
+
+
+@app.get("/api/saved/universities.xlsx")
+def api_saved_universities_xlsx():
+    """The student's saved universities as one tidy Excel sheet."""
+    user = require_user()
+    lang = clean(request.args.get("lang"), 2) or "en"
+
+    def t(value):
+        if isinstance(value, dict):
+            return value.get(lang) or value.get("en") or ""
+        if isinstance(value, list):
+            return ", ".join(str(v) for v in value)
+        return value or ""
+
+    def span(r):
+        return "%s–%s" % (r["low"], r["high"]) if isinstance(r, dict) and r.get("low") and r.get("high") else ""
+
+    rows = []
+    for item_id in db.list_saved(user["id"]):
+        u = catalog.find_university(item_id)
+        if not u:
+            continue
+        tuition = u.get("tuition_intl") or {}
+        english = " · ".join(x for x in [
+            "IELTS %s" % u["ielts_min"] if u.get("ielts_min") else "",
+            "TOEFL %s" % u["toefl_min"] if u.get("toefl_min") else "",
+            "Duolingo %s" % u["duolingo_min"] if u.get("duolingo_min") else ""] if x)
+        sat = span(u.get("sat"))
+        if isinstance(u.get("sat"), dict) and u["sat"].get("required") in ("optional", "not-considered"):
+            sat = (sat + " " if sat else "") + "(%s)" % u["sat"]["required"].replace("-", " ")
+        schol = "\n".join("%s%s%s" % (sc.get("name", ""), " (%s)" % sc["coverage"] if sc.get("coverage") else "",
+                                        " — " + sc["url"] if sc.get("url") else "")
+                           for sc in (u.get("scholarships") or []) if isinstance(sc, dict))
+        reqs = "\n".join("• " + t(r.get("label")) for r in (u.get("requirements") or []) if isinstance(r, dict))
+        deadline = u.get("deadline") or ""
+        if u.get("deadline_note"):
+            deadline = (deadline + "\n" if deadline else "") + u["deadline_note"]
+        rows.append([
+            t(u.get("name")),
+            u.get("rank_label") or u.get("rank_qs") or "",
+            sat, span(u.get("act")), english, deadline,
+            t(u.get("top_programs")) or t(u.get("strengths")),
+            ", ".join(x for x in [u.get("city") or "", t(u.get("country"))] if x),
+            reqs or t(u.get("tests")),
+            ("%s %s / %s" % ("{:,}".format(tuition["amount"]) if isinstance(tuition.get("amount"), (int, float)) else tuition.get("amount"),
+                             tuition.get("currency", ""), tuition.get("per", "year"))) if tuition.get("amount") is not None else "",
+            t(u.get("aid_intl")),
+            schol,
+            "%d%%" % round(u["acceptance_rate"] * 100) if u.get("acceptance_rate") else "",
+            u.get("platform") or "",
+            ("link", u.get("application_url") or u.get("website"), "Official site") if (u.get("application_url") or u.get("website")) else "",
+            ("link", (os.environ.get("MERIDIAN_PUBLIC_URL") or request.host_url).rstrip("/") + "/universities/" + u["id"], "Meridian page"),
+        ])
+    rows.sort(key=lambda r: (int(str(r[1]).lstrip("=").split("-")[0]) if str(r[1]).lstrip("=").split("-")[0].isdigit() else 99999))
+    header = ["University", "QS ranking", "SAT (middle 50%)", "ACT (middle 50%)", "English test minimums",
+              "Application deadline", "Best-known programmes", "City / country", "Requirements",
+              "Tuition (international)", "Financial aid", "Scholarships (links)", "Acceptance rate",
+              "Apply through", "Official website", "Meridian"]
+    widths = [34, 11, 16, 14, 26, 30, 34, 24, 44, 22, 40, 48, 12, 16, 16, 16]
+    data = xlsx.write_sheet("My universities", header, rows, widths)
+    response = make_response(data)
+    response.headers["Content-Type"] = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    response.headers["Content-Disposition"] = 'attachment; filename="meridian-universities.xlsx"'
+    response.headers["Cache-Control"] = "no-store"
+    return response
 
 
 @app.post("/api/engage")

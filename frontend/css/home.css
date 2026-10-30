@@ -36,10 +36,13 @@ html.has-intro .intro {
 }
 .intro-sweep { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
 .intro-sweep .sw { fill: none; stroke-linecap: round; stroke-dasharray: 1; stroke-dashoffset: 1; }
-.intro-sweep .sw-1 { stroke: #ffd76e; stroke-width: 2.4; animation: intro-draw 1600ms cubic-bezier(0.23, 1, 0.32, 1) 150ms both; }
-.intro-sweep .sw-2 { stroke: #5aa8ff; stroke-width: 1.6; opacity: .75; animation: intro-draw 1700ms cubic-bezier(0.23, 1, 0.32, 1) 320ms both; }
-.intro-sweep .sw-3 { stroke: rgba(160, 200, 255, 0.55); stroke-width: 1.2; animation: intro-draw 1700ms cubic-bezier(0.23, 1, 0.32, 1) 480ms both; }
+/* Smooth, slow draw; once the wordmark arrives the lines settle back so they never compete with it */
+.intro-sweep g { animation: intro-settle 900ms var(--ease-out) 1300ms both; }
+.intro-sweep .sw-1 { stroke: url(#swGold); stroke-width: 2; animation: intro-draw 2100ms cubic-bezier(0.65, 0, 0.35, 1) 120ms both; }
+.intro-sweep .sw-2 { stroke: #5aa8ff; stroke-width: 1.4; opacity: .7; animation: intro-draw 2200ms cubic-bezier(0.65, 0, 0.35, 1) 300ms both; }
+.intro-sweep .sw-3 { stroke: rgba(160, 200, 255, 0.5); stroke-width: 1.1; animation: intro-draw 2200ms cubic-bezier(0.65, 0, 0.35, 1) 460ms both; }
 [data-theme='light'] .intro-sweep .sw-2 { stroke: #0071bc; }
+@keyframes intro-settle { to { opacity: 0.55; } }
 [data-theme='light'] .intro-sweep .sw-3 { stroke: rgba(0, 113, 188, 0.4); }
 [data-theme='light'] .intro-orb { background: radial-gradient(closest-side, rgba(255, 200, 70, 0.35), rgba(41, 169, 224, 0.14) 55%, transparent 72%); }
 @keyframes intro-orb {
@@ -73,9 +76,9 @@ html.has-intro .intro .brand-word { --wordmark: #f3f8ff; }
 }
 .intro-meridian {
   width: clamp(180px, 26vw, 280px); height: 1px;
-  background: linear-gradient(90deg, transparent, #ffd76e 20%, #ffd76e 80%, transparent);
+  background: linear-gradient(90deg, transparent, #5aa8ff 22%, #9fd8ff 50%, #5aa8ff 78%, transparent);
   transform-origin: 50% 50%;
-  animation: intro-line 1000ms var(--ease-out) 1350ms both;
+  animation: intro-line 1100ms cubic-bezier(0.65, 0, 0.35, 1) 1400ms both;
 }
 [data-theme='light'] .intro-meridian {
   background: linear-gradient(90deg, transparent, #0071bc 20%, #29a9e0 80%, transparent);
@@ -174,9 +177,12 @@ html.intro-skipping .hero2 { --hero-start: 380ms; }
 .hero2-earth {
   position: absolute; z-index: -2;
   left: 50%;
-  top: 70%;
-  width: max(1500px, 128vw);
-  aspect-ratio: 1 / 1;
+  /* the box reaches --lift above the earth so its arcs can rise into the hero */
+  --earth-w: max(1500px, 128vw);
+  --lift: 62vh;
+  top: calc(70% - var(--lift));
+  width: var(--earth-w);
+  height: calc(var(--earth-w) + var(--lift));
   transform: translateX(-50%);
   opacity: 0;
   animation: earth-rise 1600ms var(--ease-out) calc(var(--hero-start) - 250ms) both;
@@ -311,7 +317,7 @@ html.intro-skipping .hero2 { --hero-start: 380ms; }
 
 @media (max-width: 680px) {
   .hero2-content { padding-top: 56px; }
-  .hero2-earth { top: 76%; width: 220vw; }
+  .hero2-earth { --earth-w: 220vw; --lift: 56vh; top: calc(76% - var(--lift)); }
   .hero2-search { margin-top: 1.6rem; }
   .hero2-actions .btn { flex: 1 1 100%; }
 }
@@ -325,9 +331,10 @@ html.intro-done .intro { display: none !important; }
    1. the Earth canvas fades in from above — no hard band where it starts
    2. ribbons continue the arcs up behind the headline, same gold → sky palette
    3. a slow aurora behind the headline so the hero is never static        */
+/* arcs fade out softly as they climb behind the headline */
 .hero2-earth {
-  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, #000 10%, #000 100%);
-          mask-image: linear-gradient(to bottom, transparent 0%, #000 10%, #000 100%);
+  -webkit-mask-image: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,.55) 22%, #000 32%, #000 100%);
+          mask-image: linear-gradient(to bottom, transparent 0%, rgba(0,0,0,.55) 22%, #000 32%, #000 100%);
 }
 .hero2-ribbons {
   position: absolute; inset: 0; z-index: -2;

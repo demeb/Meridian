@@ -1,0 +1,2920 @@
+{
+  "verified_at": "2026-10-30",
+  "country": {
+    "id": "country-fit",
+    "title": {
+      "en": "Which country fits your studies best?",
+      "ka": "რომელი ქვეყანა შეეფერება შენს სწავლას?",
+      "ar": "أي بلد يناسب دراستك أكثر؟"
+    },
+    "intro": {
+      "en": "Twelve quick questions about your budget, goals, language and lifestyle. There are no wrong answers: pick what feels most like you, and we'll suggest the countries that match, with costs, scholarships and a next step. It's a starting point, not a final decision.",
+      "ka": "თორმეტი სწრაფი კითხვა შენს ბიუჯეტზე, მიზნებზე, ენასა და ცხოვრების წესზე. არასწორი პასუხი არ არსებობს: აირჩიე ის, რაც ყველაზე მეტად გგავს, ჩვენ კი შესაბამის ქვეყნებს შემოგთავაზებთ ხარჯებით, სტიპენდიებითა და შემდეგი ნაბიჯით. ეს საწყისი წერტილია და არა საბოლოო გადაწყვეტილება.",
+      "ar": "اثنا عشر سؤالاً سريعاً عن ميزانيتك وأهدافك ولغتك وأسلوب حياتك. لا توجد إجابات خاطئة: اختر ما يشبهك أكثر، وسنقترح عليك البلدان المناسبة مع التكاليف والمنح والخطوة التالية. إنها نقطة انطلاق لا قرار نهائي."
+    },
+    "note": {
+      "en": "Costs are approximate 2026 figures for international students and change every year; always check the official university and government pages.",
+      "ka": "ხარჯები 2026 წლის მიახლოებითი მაჩვენებლებია საერთაშორისო სტუდენტებისთვის და ყოველწლიურად იცვლება; ყოველთვის გადაამოწმე უნივერსიტეტისა და მთავრობის ოფიციალური გვერდები.",
+      "ar": "التكاليف تقديرية لعام 2026 للطلاب الدوليين وتتغير كل عام؛ تحقق دائماً من الصفحات الرسمية للجامعات والحكومات."
+    },
+    "questions": [
+      {
+        "q": {
+          "en": "What matters most to you when choosing where to study?",
+          "ka": "რა არის შენთვის ყველაზე მნიშვნელოვანი სასწავლო ქვეყნის არჩევისას?",
+          "ar": "ما أهم شيء بالنسبة لك عند اختيار مكان الدراسة؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "A world-famous university name",
+              "ka": "მსოფლიოში ცნობილი უნივერსიტეტის სახელი",
+              "ar": "اسم جامعة مشهورة عالمياً"
+            },
+            "score": {
+              "usa": 3,
+              "uk": 3,
+              "switzerland": 2,
+              "singapore": 2
+            }
+          },
+          {
+            "t": {
+              "en": "Low or no tuition",
+              "ka": "დაბალი ან ნულოვანი სწავლის საფასური",
+              "ar": "رسوم دراسية منخفضة أو معدومة"
+            },
+            "score": {
+              "germany": 3,
+              "france": 2,
+              "italy": 2,
+              "hungary": 1,
+              "turkey": 1
+            }
+          },
+          {
+            "t": {
+              "en": "A real chance to stay and work after graduating",
+              "ka": "რეალური შანსი, დამთავრების შემდეგ დავრჩე და ვიმუშაო",
+              "ar": "فرصة حقيقية للبقاء والعمل بعد التخرج"
+            },
+            "score": {
+              "canada": 3,
+              "australia": 3,
+              "ireland": 2,
+              "germany": 1,
+              "uae": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Being close to my family and culture",
+              "ka": "ოჯახთან და ჩემს კულტურასთან სიახლოვე",
+              "ar": "القرب من عائلتي وثقافتي"
+            },
+            "score": {
+              "georgia": 3,
+              "qatar": 3,
+              "uae": 2,
+              "turkey": 2
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "What can you (or your family) spend per year on tuition and living?",
+          "ka": "რამდენის დახარჯვა შეგიძლია (შენ ან შენს ოჯახს) წელიწადში სწავლასა და ცხოვრებაზე?",
+          "ar": "كم يمكنك (أنت أو عائلتك) أن تنفق سنوياً على الدراسة والمعيشة؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Under USD 10,000",
+              "ka": "10 000 აშშ დოლარზე ნაკლები",
+              "ar": "أقل من 10,000 دولار"
+            },
+            "score": {
+              "germany": 2,
+              "hungary": 2,
+              "turkey": 3,
+              "georgia": 3,
+              "italy": 1,
+              "france": 1
+            }
+          },
+          {
+            "t": {
+              "en": "USD 10,000–25,000",
+              "ka": "10 000–25 000 აშშ დოლარი",
+              "ar": "من 10,000 إلى 25,000 دولار"
+            },
+            "score": {
+              "spain": 2,
+              "italy": 2,
+              "france": 2,
+              "netherlands": 2,
+              "korea": 2,
+              "japan": 2
+            }
+          },
+          {
+            "t": {
+              "en": "USD 25,000–45,000",
+              "ka": "25 000–45 000 აშშ დოლარი",
+              "ar": "من 25,000 إلى 45,000 دولار"
+            },
+            "score": {
+              "uk": 2,
+              "ireland": 2,
+              "canada": 2,
+              "australia": 2,
+              "singapore": 2,
+              "uae": 2
+            }
+          },
+          {
+            "t": {
+              "en": "More, or I will compete for a full scholarship",
+              "ka": "მეტი, ან სრული სტიპენდიისთვის ვიბრძოლებ",
+              "ar": "أكثر، أو سأنافس على منحة كاملة"
+            },
+            "score": {
+              "usa": 3,
+              "qatar": 2,
+              "uk": 1,
+              "switzerland": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "How long and what kind of bachelor's do you want?",
+          "ka": "როგორი და რა ხანგრძლივობის ბაკალავრიატი გინდა?",
+          "ar": "ما مدة ونوع البكالوريوس الذي تريده؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Three focused years in one subject",
+              "ka": "სამი წელი, ერთ საგანზე კონცენტრირებით",
+              "ar": "ثلاث سنوات مركّزة في تخصص واحد"
+            },
+            "score": {
+              "uk": 3,
+              "france": 2,
+              "italy": 2,
+              "germany": 1,
+              "netherlands": 1,
+              "switzerland": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Four years with freedom to explore before choosing a major",
+              "ka": "ოთხი წელი, სპეციალობის არჩევამდე სხვადასხვა საგნის მოსინჯვის თავისუფლებით",
+              "ar": "أربع سنوات مع حرية الاستكشاف قبل اختيار التخصص"
+            },
+            "score": {
+              "usa": 3,
+              "canada": 2,
+              "qatar": 2,
+              "korea": 1,
+              "japan": 1,
+              "uae": 1
+            }
+          },
+          {
+            "t": {
+              "en": "A practical, applied degree with projects and internships",
+              "ka": "პრაქტიკული, გამოყენებითი ხარისხი პროექტებითა და სტაჟირებით",
+              "ar": "شهادة تطبيقية عملية فيها مشاريع وتدريب"
+            },
+            "score": {
+              "netherlands": 2,
+              "germany": 2,
+              "australia": 2,
+              "ireland": 1
+            }
+          },
+          {
+            "t": {
+              "en": "A long professional programme such as medicine",
+              "ka": "გრძელი პროფესიული პროგრამა, მაგალითად მედიცინა",
+              "ar": "برنامج مهني طويل مثل الطب"
+            },
+            "score": {
+              "hungary": 3,
+              "georgia": 3,
+              "turkey": 1,
+              "italy": 1,
+              "ireland": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Which language are you ready to study in?",
+          "ka": "რომელ ენაზე ხარ მზად, ისწავლო?",
+          "ar": "بأي لغة أنت مستعد للدراسة؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "English only, please",
+              "ka": "მხოლოდ ინგლისურად",
+              "ar": "الإنجليزية فقط من فضلك"
+            },
+            "score": {
+              "uk": 2,
+              "usa": 2,
+              "ireland": 2,
+              "australia": 2,
+              "singapore": 2,
+              "canada": 1,
+              "netherlands": 1,
+              "qatar": 1,
+              "uae": 1
+            }
+          },
+          {
+            "t": {
+              "en": "English, and I'll pick up the local language for daily life",
+              "ka": "ინგლისურად, ადგილობრივ ენას კი ყოველდღიური ცხოვრებისთვის ვისწავლი",
+              "ar": "بالإنجليزية، وسأتعلم اللغة المحلية للحياة اليومية"
+            },
+            "score": {
+              "netherlands": 2,
+              "hungary": 2,
+              "germany": 1,
+              "spain": 1,
+              "turkey": 1,
+              "korea": 1,
+              "japan": 1
+            }
+          },
+          {
+            "t": {
+              "en": "I'd love to study in German, French, Italian or Spanish",
+              "ka": "სიამოვნებით ვისწავლიდი გერმანულად, ფრანგულად, იტალიურად ან ესპანურად",
+              "ar": "أودّ الدراسة بالألمانية أو الفرنسية أو الإيطالية أو الإسبانية"
+            },
+            "score": {
+              "germany": 2,
+              "france": 2,
+              "italy": 2,
+              "spain": 2,
+              "switzerland": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Arabic or Georgian would make me most comfortable",
+              "ka": "არაბული ან ქართული ყველაზე კომფორტული იქნება",
+              "ar": "العربية أو الجورجية ستكون الأريح لي"
+            },
+            "score": {
+              "qatar": 3,
+              "georgia": 3,
+              "uae": 2
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Pick your ideal city life",
+          "ka": "აირჩიე ქალაქის ცხოვრება, რომელიც გიზიდავს",
+          "ar": "اختر حياة المدينة المثالية لك"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "A giant global city: London, New York, Seoul, Tokyo",
+              "ka": "უზარმაზარი გლობალური ქალაქი: ლონდონი, ნიუ-იორკი, სეული, ტოკიო",
+              "ar": "مدينة عالمية ضخمة: لندن، نيويورك، سيول، طوكيو"
+            },
+            "score": {
+              "uk": 2,
+              "usa": 2,
+              "korea": 2,
+              "japan": 2,
+              "singapore": 1
+            }
+          },
+          {
+            "t": {
+              "en": "A historic, walkable student town",
+              "ka": "ისტორიული, ფეხით მოსავლელი სტუდენტური ქალაქი",
+              "ar": "مدينة طلابية تاريخية يمكن التجول فيها سيراً"
+            },
+            "score": {
+              "italy": 2,
+              "germany": 2,
+              "netherlands": 2,
+              "spain": 1,
+              "france": 1,
+              "hungary": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Sun, sea and outdoor life",
+              "ka": "მზე, ზღვა და ცხოვრება ღია ცის ქვეშ",
+              "ar": "شمس وبحر وحياة في الهواء الطلق"
+            },
+            "score": {
+              "australia": 3,
+              "spain": 2,
+              "turkey": 1,
+              "uae": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Safe, modern and super organised",
+              "ka": "უსაფრთხო, თანამედროვე და ძალიან ორგანიზებული",
+              "ar": "آمنة وحديثة ومنظمة جداً"
+            },
+            "score": {
+              "singapore": 3,
+              "switzerland": 2,
+              "qatar": 2,
+              "uae": 2,
+              "japan": 1,
+              "canada": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Your favourite weather?",
+          "ka": "რომელი ამინდი გიყვარს?",
+          "ar": "ما الطقس المفضل لديك؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Warm or hot all year",
+              "ka": "თბილი ან ცხელი მთელი წელი",
+              "ar": "دافئ أو حار طوال العام"
+            },
+            "score": {
+              "qatar": 2,
+              "uae": 2,
+              "singapore": 2,
+              "australia": 2
+            }
+          },
+          {
+            "t": {
+              "en": "Mild, with four real seasons",
+              "ka": "ზომიერი, ოთხი ნამდვილი სეზონით",
+              "ar": "معتدل بأربعة فصول حقيقية"
+            },
+            "score": {
+              "italy": 2,
+              "spain": 2,
+              "turkey": 2,
+              "georgia": 2,
+              "france": 1,
+              "japan": 1,
+              "korea": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Cool and rainy, I'll bring an umbrella",
+              "ka": "გრილი და წვიმიანი — ქოლგას წავიღებ",
+              "ar": "بارد وممطر، سأحمل مظلة"
+            },
+            "score": {
+              "uk": 2,
+              "ireland": 2,
+              "netherlands": 2,
+              "germany": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Snowy winters are fine by me",
+              "ka": "თოვლიანი ზამთარი არ მაშინებს",
+              "ar": "الشتاء الثلجي لا يزعجني"
+            },
+            "score": {
+              "canada": 3,
+              "switzerland": 2,
+              "usa": 1,
+              "hungary": 1,
+              "korea": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Which field are you leaning towards?",
+          "ka": "რომელი სფეროსკენ იხრები?",
+          "ar": "إلى أي مجال تميل؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Engineering, computer science or AI",
+              "ka": "ინჟინერია, კომპიუტერული მეცნიერება ან AI",
+              "ar": "الهندسة أو علوم الحاسوب أو الذكاء الاصطناعي"
+            },
+            "score": {
+              "germany": 2,
+              "switzerland": 2,
+              "usa": 2,
+              "singapore": 2,
+              "korea": 1,
+              "canada": 1,
+              "uae": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Medicine or health sciences",
+              "ka": "მედიცინა ან ჯანმრთელობის მეცნიერებები",
+              "ar": "الطب أو العلوم الصحية"
+            },
+            "score": {
+              "hungary": 2,
+              "georgia": 2,
+              "ireland": 2,
+              "uk": 1,
+              "turkey": 1,
+              "italy": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Business, economics or finance",
+              "ka": "ბიზნესი, ეკონომიკა ან ფინანსები",
+              "ar": "الأعمال أو الاقتصاد أو المالية"
+            },
+            "score": {
+              "uk": 2,
+              "netherlands": 2,
+              "uae": 2,
+              "usa": 1,
+              "singapore": 1,
+              "spain": 1,
+              "france": 1,
+              "switzerland": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Arts, design, humanities or social sciences",
+              "ka": "ხელოვნება, დიზაინი, ჰუმანიტარული ან სოციალური მეცნიერებები",
+              "ar": "الفنون أو التصميم أو العلوم الإنسانية أو الاجتماعية"
+            },
+            "score": {
+              "italy": 2,
+              "france": 2,
+              "uk": 1,
+              "usa": 1,
+              "japan": 1,
+              "korea": 1,
+              "netherlands": 1,
+              "spain": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "How do you feel about living in a very different culture?",
+          "ka": "რას ფიქრობ ძალიან განსხვავებულ კულტურაში ცხოვრებაზე?",
+          "ar": "ما شعورك تجاه العيش في ثقافة مختلفة جداً؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Excited: the more different, the better",
+              "ka": "აღფრთოვანებული ვარ: რაც უფრო განსხვავებული, მით უკეთესი",
+              "ar": "متحمس: كلما كانت مختلفة أكثر كان أفضل"
+            },
+            "score": {
+              "japan": 3,
+              "korea": 3,
+              "singapore": 1,
+              "australia": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Open, but a bit of familiarity helps",
+              "ka": "ღია ვარ, მაგრამ ცოტა ნაცნობი გარემო მეხმარება",
+              "ar": "منفتح، لكن بعض الألفة يساعد"
+            },
+            "score": {
+              "turkey": 2,
+              "uae": 2,
+              "spain": 2,
+              "qatar": 1,
+              "italy": 1,
+              "georgia": 1
+            }
+          },
+          {
+            "t": {
+              "en": "I want a truly international, multicultural campus",
+              "ka": "მინდა ნამდვილად საერთაშორისო, მულტიკულტურული კამპუსი",
+              "ar": "أريد حرماً جامعياً دولياً متعدد الثقافات حقاً"
+            },
+            "score": {
+              "netherlands": 2,
+              "canada": 2,
+              "uae": 1,
+              "singapore": 1,
+              "ireland": 1,
+              "australia": 1,
+              "qatar": 1
+            }
+          },
+          {
+            "t": {
+              "en": "I prefer a Western academic culture",
+              "ka": "დასავლური აკადემიური კულტურა მირჩევნია",
+              "ar": "أفضّل الثقافة الأكاديمية الغربية"
+            },
+            "score": {
+              "usa": 2,
+              "uk": 2,
+              "germany": 1,
+              "france": 1,
+              "switzerland": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "How do you learn best?",
+          "ka": "როგორ სწავლობ საუკეთესოდ?",
+          "ar": "كيف تتعلم بأفضل شكل؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Small classes, discussion and close mentors",
+              "ka": "პატარა ჯგუფები, დისკუსია და ახლო მენტორები",
+              "ar": "صفوف صغيرة ونقاش ومرشدون قريبون"
+            },
+            "score": {
+              "usa": 2,
+              "qatar": 2,
+              "uk": 1,
+              "ireland": 1
+            }
+          },
+          {
+            "t": {
+              "en": "On my own, with freedom to manage my time",
+              "ka": "დამოუკიდებლად, საკუთარი დროის მართვის თავისუფლებით",
+              "ar": "بمفردي، مع حرية إدارة وقتي"
+            },
+            "score": {
+              "germany": 3,
+              "france": 2,
+              "italy": 1,
+              "switzerland": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Team projects and real-world problems",
+              "ka": "გუნდური პროექტები და რეალური პრობლემები",
+              "ar": "مشاريع جماعية ومشكلات من الواقع"
+            },
+            "score": {
+              "netherlands": 3,
+              "australia": 1,
+              "canada": 1,
+              "ireland": 1
+            }
+          },
+          {
+            "t": {
+              "en": "A clear structure, high standards and exams",
+              "ka": "მკაფიო სტრუქტურა, მაღალი სტანდარტები და გამოცდები",
+              "ar": "هيكل واضح ومعايير عالية وامتحانات"
+            },
+            "score": {
+              "korea": 2,
+              "singapore": 2,
+              "japan": 1,
+              "turkey": 1,
+              "hungary": 1,
+              "georgia": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "After graduating, you want to...",
+          "ka": "დამთავრების შემდეგ გინდა...",
+          "ar": "بعد التخرج تريد أن..."
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Build a career abroad and maybe settle there",
+              "ka": "საზღვარგარეთ ავიწყო კარიერა და შესაძლოა, იქ დავრჩე",
+              "ar": "أبني مسيرة مهنية في الخارج وربما أستقر هناك"
+            },
+            "score": {
+              "canada": 3,
+              "australia": 2,
+              "germany": 2,
+              "ireland": 1,
+              "usa": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Come home with a strong, recognised degree",
+              "ka": "სახლში დავბრუნდე ძლიერი, აღიარებული დიპლომით",
+              "ar": "أعود إلى بلدي بشهادة قوية معترف بها"
+            },
+            "score": {
+              "georgia": 2,
+              "qatar": 1,
+              "uae": 1,
+              "hungary": 1,
+              "turkey": 1,
+              "uk": 1,
+              "france": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Join a global company or a start-up hub",
+              "ka": "გლობალურ კომპანიაში ან სტარტაპების ცენტრში ვიმუშაო",
+              "ar": "أنضم إلى شركة عالمية أو مركز للشركات الناشئة"
+            },
+            "score": {
+              "usa": 2,
+              "singapore": 2,
+              "uae": 2,
+              "uk": 1,
+              "netherlands": 1,
+              "ireland": 1,
+              "spain": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Do research and maybe a PhD",
+              "ka": "კვლევა და, შესაძლოა, დოქტორანტურა",
+              "ar": "أعمل في البحث وربما أكمل الدكتوراه"
+            },
+            "score": {
+              "switzerland": 3,
+              "germany": 1,
+              "usa": 1,
+              "japan": 1,
+              "france": 1,
+              "uk": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "How important is a scholarship for you?",
+          "ka": "რამდენად მნიშვნელოვანია შენთვის სტიპენდია?",
+          "ar": "ما مدى أهمية المنحة بالنسبة لك؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Essential: I need a full scholarship",
+              "ka": "აუცილებელია: სრული სტიპენდია მჭირდება",
+              "ar": "ضرورية: أحتاج منحة كاملة"
+            },
+            "score": {
+              "hungary": 2,
+              "turkey": 2,
+              "korea": 2,
+              "japan": 2,
+              "qatar": 1,
+              "usa": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Very helpful, but a partial one is fine",
+              "ka": "ძალიან დამეხმარება, მაგრამ ნაწილობრივიც საკმარისია",
+              "ar": "مفيدة جداً، لكن الجزئية تكفي"
+            },
+            "score": {
+              "italy": 2,
+              "spain": 2,
+              "ireland": 2,
+              "netherlands": 1,
+              "uk": 1,
+              "france": 1,
+              "canada": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Not crucial if tuition is low anyway",
+              "ka": "არ არის გადამწყვეტი, თუ საფასური ისედაც დაბალია",
+              "ar": "ليست حاسمة إن كانت الرسوم منخفضة أصلاً"
+            },
+            "score": {
+              "germany": 2,
+              "france": 1,
+              "switzerland": 1,
+              "italy": 1,
+              "georgia": 1
+            }
+          },
+          {
+            "t": {
+              "en": "My family or a sponsor will cover it",
+              "ka": "ოჯახი ან სპონსორი დაფარავს",
+              "ar": "ستغطيها عائلتي أو جهة راعية"
+            },
+            "score": {
+              "uk": 2,
+              "usa": 1,
+              "australia": 1,
+              "canada": 1,
+              "singapore": 1,
+              "uae": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Your perfect weekend?",
+          "ka": "შენი იდეალური შაბათ-კვირა?",
+          "ar": "عطلة نهاية الأسبوع المثالية لك؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Hiking in the mountains or skiing",
+              "ka": "ლაშქრობა მთებში ან თხილამურებით სრიალი",
+              "ar": "المشي في الجبال أو التزلج"
+            },
+            "score": {
+              "switzerland": 3,
+              "georgia": 2,
+              "canada": 1,
+              "japan": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Museums, cafés and concerts",
+              "ka": "მუზეუმები, კაფეები და კონცერტები",
+              "ar": "المتاحف والمقاهي والحفلات"
+            },
+            "score": {
+              "france": 2,
+              "italy": 2,
+              "hungary": 1,
+              "germany": 1,
+              "spain": 1,
+              "uk": 1,
+              "ireland": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Beach, sport and sunshine",
+              "ka": "სანაპირო, სპორტი და მზე",
+              "ar": "الشاطئ والرياضة والشمس"
+            },
+            "score": {
+              "australia": 2,
+              "spain": 2,
+              "uae": 1,
+              "turkey": 1,
+              "qatar": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Night markets, gaming, tech and street food",
+              "ka": "ღამის ბაზრობები, გეიმინგი, ტექნოლოგიები და ქუჩის საკვები",
+              "ar": "الأسواق الليلية والألعاب والتقنية وطعام الشارع"
+            },
+            "score": {
+              "korea": 2,
+              "japan": 2,
+              "singapore": 2,
+              "usa": 1
+            }
+          }
+        ]
+      }
+    ],
+    "results": {
+      "usa": {
+        "title": {
+          "en": "United States: big campus, big possibilities",
+          "ka": "აშშ: დიდი კამპუსი, დიდი შესაძლებლობები",
+          "ar": "الولايات المتحدة: حرم كبير وإمكانات كبيرة"
+        },
+        "body": {
+          "en": "The US has more top universities than anywhere else, from giant research universities to small liberal arts colleges. You can explore subjects for two years before choosing a major, live on campus and join hundreds of clubs.",
+          "ka": "აშშ-ში ყველაზე მეტი წამყვანი უნივერსიტეტია — უზარმაზარი კვლევითი უნივერსიტეტებიდან პატარა ლიბერალური ხელოვნების კოლეჯებამდე. სპეციალობის არჩევამდე ორი წელი შეგიძლია სხვადასხვა საგანი მოსინჯო, კამპუსში იცხოვრო და ასობით კლუბს შეუერთდე.",
+          "ar": "تضم الولايات المتحدة جامعات رائدة أكثر من أي مكان آخر، من جامعات بحثية ضخمة إلى كليات صغيرة للفنون الحرة. يمكنك استكشاف المواد لسنتين قبل اختيار تخصصك، والعيش في الحرم، والانضمام إلى مئات الأندية."
+        },
+        "why": {
+          "en": "You want prestige, flexibility and close contact with professors, and you are ready for a demanding application.",
+          "ka": "გინდა პრესტიჟი, მოქნილობა და პროფესორებთან ახლო ურთიერთობა და მზად ხარ რთული აპლიკაციისთვის.",
+          "ar": "تريد المكانة والمرونة والتواصل القريب مع الأساتذة، وأنت مستعد لطلب تقديم صعب."
+        },
+        "costs": {
+          "en": "Tuition roughly USD 25,000–45,000 a year at public universities for internationals and USD 60,000+ at private ones; living USD 15,000–25,000. Aid can cut this dramatically.",
+          "ka": "სწავლის საფასური საერთაშორისო სტუდენტებისთვის საჯარო უნივერსიტეტებში დაახლოებით 25 000–45 000 აშშ დოლარია წელიწადში, კერძოში — 60 000+; ცხოვრება — 15 000–25 000. ფინანსური დახმარება ამას მკვეთრად ამცირებს.",
+          "ar": "الرسوم نحو 25,000–45,000 دولار سنوياً في الجامعات الحكومية للطلاب الدوليين، و60,000 دولار فأكثر في الخاصة؛ والمعيشة 15,000–25,000 دولار. يمكن للمساعدات المالية أن تخفّض ذلك كثيراً."
+        },
+        "tips": {
+          "en": "A few universities (e.g. MIT, Harvard, Yale, Princeton, Dartmouth, Amherst) are need-blind for internationals and meet full need; many others give merit or need-based aid. Use each college's net price calculator and apply through the Common App.",
+          "ka": "რამდენიმე უნივერსიტეტი (მაგ. MIT, Harvard, Yale, Princeton, Dartmouth, Amherst) საერთაშორისო სტუდენტების ფინანსურ საჭიროებას განაცხადის შეფასებისას არ ითვალისწინებს და სრულად ფარავს; ბევრი სხვა გასცემს სტიპენდიებს მიღწევების ან საჭიროების მიხედვით. გამოიყენე თითოეული კოლეჯის net price calculator და დააპლიკირე Common App-ით.",
+          "ar": "بعض الجامعات (مثل MIT وHarvard وYale وPrinceton وDartmouth وAmherst) لا تنظر إلى حاجتك المالية عند القبول وتغطي الحاجة كاملة للطلاب الدوليين؛ وكثير غيرها يقدم منحاً للتفوق أو الحاجة. استخدم حاسبة صافي التكلفة في كل كلية وقدّم عبر Common App."
+        },
+        "next": {
+          "en": "Plan your SAT/ACT and English test, build a balanced list of 10–15 colleges and start your Common App essay early.",
+          "ka": "დაგეგმე SAT/ACT და ინგლისურის ტესტი, შეადგინე 10–15 კოლეჯის დაბალანსებული სია და Common App-ის ესე ადრე დაიწყე.",
+          "ar": "خطّط لاختبار SAT/ACT واختبار اللغة، وأعدّ قائمة متوازنة من 10–15 كلية، وابدأ مقال Common App مبكراً."
+        },
+        "search": "usa undergraduate scholarship financial aid common app SAT"
+      },
+      "uk": {
+        "title": {
+          "en": "United Kingdom: fast, focused and world-famous",
+          "ka": "დიდი ბრიტანეთი: სწრაფი, ფოკუსირებული და მსოფლიოში ცნობილი",
+          "ar": "المملكة المتحدة: سريعة ومركّزة ومشهورة عالمياً"
+        },
+        "body": {
+          "en": "UK bachelor's degrees take three years (four in Scotland) and go deep into one subject from day one. Oxford, Cambridge, Imperial, LSE and UCL lead global rankings, and student cities like Edinburgh, Manchester and Bristol are lively and international.",
+          "ka": "ბრიტანული ბაკალავრიატი სამ წელს გრძელდება (შოტლანდიაში — ოთხს) და პირველივე დღიდან ერთ საგანს ღრმად სწავლობ. Oxford, Cambridge, Imperial, LSE და UCL გლობალური რეიტინგების სათავეშია, ხოლო ედინბურგი, მანჩესტერი და ბრისტოლი ცოცხალი და საერთაშორისო სტუდენტური ქალაქებია.",
+          "ar": "يستغرق البكالوريوس البريطاني ثلاث سنوات (أربعاً في اسكتلندا) ويتعمق في تخصص واحد من اليوم الأول. تتصدر Oxford وCambridge وImperial وLSE وUCL التصنيفات العالمية، ومدن مثل إدنبرة ومانشستر وبريستول حيوية ودولية."
+        },
+        "why": {
+          "en": "You already know what you want to study and like the idea of a shorter, intense degree with a strong name.",
+          "ka": "უკვე იცი, რისი სწავლა გინდა და მოგწონს მოკლე, ინტენსიური ხარისხი ცნობილი სახელით.",
+          "ar": "تعرف مسبقاً ما تريد دراسته، وتعجبك فكرة شهادة أقصر ومكثفة باسم قوي."
+        },
+        "costs": {
+          "en": "International tuition about £20,000–40,000 a year (medicine more). For the visa you must show about £1,483 a month for living in London or £1,136 elsewhere.",
+          "ka": "საერთაშორისო სტუდენტის საფასური დაახლოებით 20 000–40 000 ფუნტია წელიწადში (მედიცინა — მეტი). ვიზისთვის უნდა აჩვენო თვეში დაახლოებით 1 483 ფუნტი ლონდონში ან 1 136 ფუნტი სხვაგან.",
+          "ar": "الرسوم الدولية نحو 20,000–40,000 جنيه إسترليني سنوياً (والطب أكثر). وللتأشيرة يجب إثبات نحو 1,483 جنيهاً شهرياً للمعيشة في لندن أو 1,136 في غيرها."
+        },
+        "tips": {
+          "en": "Undergraduate scholarships are mostly university-specific and partial, so search each university's international scholarships page. For a master's, Chevening (Georgia, Qatar and many other countries) covers everything.",
+          "ka": "საბაკალავრო სტიპენდიები ძირითადად უნივერსიტეტის საკუთარი და ნაწილობრივია, ამიტომ თითოეული უნივერსიტეტის საერთაშორისო სტიპენდიების გვერდი მოძებნე. მაგისტრატურისთვის Chevening (საქართველო, კატარი და ბევრი სხვა ქვეყანა) ყველაფერს ფარავს.",
+          "ar": "منح البكالوريوس غالباً خاصة بكل جامعة وجزئية، فابحث في صفحة المنح الدولية لكل جامعة. أما للماجستير فمنحة Chevening (لجورجيا وقطر ودول كثيرة) تغطي كل شيء."
+        },
+        "next": {
+          "en": "Pick up to five courses on UCAS, prepare IELTS, and draft the three-question personal statement before the January deadline (mid-October for Oxford, Cambridge and medicine).",
+          "ka": "UCAS-ზე აირჩიე ხუთამდე კურსი, მოემზადე IELTS-ისთვის და სამკითხვიანი პირადი განცხადება იანვრის ვადამდე დაწერე (Oxford-ის, Cambridge-ისა და მედიცინისთვის — ოქტომბრის შუა რიცხვებამდე).",
+          "ar": "اختر حتى خمسة تخصصات على UCAS، واستعد لـ IELTS، واكتب البيان الشخصي ذا الأسئلة الثلاثة قبل موعد يناير (منتصف أكتوبر لأكسفورد وكامبريدج والطب)."
+        },
+        "search": "uk bachelor scholarship international UCAS chevening"
+      },
+      "canada": {
+        "title": {
+          "en": "Canada: friendly, safe and built for staying",
+          "ka": "კანადა: მეგობრული, უსაფრთხო და დარჩენისთვის შექმნილი",
+          "ar": "كندا: ودودة وآمنة ومصممة للبقاء"
+        },
+        "body": {
+          "en": "Canada combines strong universities (Toronto, McGill, UBC, Waterloo) with a welcoming, multicultural society and clear routes to work after graduation. Expect real winters and big, diverse cities.",
+          "ka": "კანადა აერთიანებს ძლიერ უნივერსიტეტებს (Toronto, McGill, UBC, Waterloo), სტუმართმოყვარე, მულტიკულტურულ საზოგადოებას და დამთავრების შემდეგ მუშაობის მკაფიო გზებს. ელოდე ნამდვილ ზამთარს და დიდ, მრავალფეროვან ქალაქებს.",
+          "ar": "تجمع كندا بين جامعات قوية (Toronto وMcGill وUBC وWaterloo) ومجتمع مرحّب متعدد الثقافات ومسارات واضحة للعمل بعد التخرج. توقّع شتاءً حقيقياً ومدناً كبيرة متنوعة."
+        },
+        "why": {
+          "en": "You want a high-quality degree and a realistic path to work and possibly settle abroad.",
+          "ka": "გინდა მაღალი ხარისხის განათლება და საზღვარგარეთ მუშაობისა და შესაძლოა, დამკვიდრების რეალისტური გზა.",
+          "ar": "تريد شهادة عالية الجودة ومساراً واقعياً للعمل وربما الاستقرار في الخارج."
+        },
+        "costs": {
+          "en": "International tuition about CAD 25,000–60,000 a year; for the study permit you must show roughly CAD 21,000–23,000 a year for living on top of tuition.",
+          "ka": "საერთაშორისო სტუდენტის საფასური დაახლოებით 25 000–60 000 კანადური დოლარია წელიწადში; სასწავლო ნებართვისთვის საფასურის გარდა ცხოვრებისთვის წელიწადში დაახლოებით 21 000–23 000 კანადური დოლარი უნდა აჩვენო.",
+          "ar": "الرسوم الدولية نحو 25,000–60,000 دولار كندي سنوياً؛ ولتصريح الدراسة يجب إثبات نحو 21,000–23,000 دولار كندي سنوياً للمعيشة إضافة إلى الرسوم."
+        },
+        "tips": {
+          "en": "Look for entrance scholarships awarded automatically on grades, plus competitive full awards such as the Lester B. Pearson Scholarship (Toronto) and UBC's International Scholars programme. Check study-permit caps and rules early.",
+          "ka": "მოძებნე მისაღები სტიპენდიები, რომლებიც ნიშნების მიხედვით ავტომატურად ინიშნება, და კონკურსული სრული სტიპენდიები, როგორიცაა Lester B. Pearson Scholarship (Toronto) და UBC-ის International Scholars პროგრამა. სასწავლო ნებართვის კვოტები და წესები ადრევე გადაამოწმე.",
+          "ar": "ابحث عن منح القبول التي تُمنح تلقائياً حسب الدرجات، والمنح الكاملة التنافسية مثل Lester B. Pearson Scholarship (تورنتو) وبرنامج International Scholars في UBC. وتحقق مبكراً من حصص وقواعد تصريح الدراسة."
+        },
+        "next": {
+          "en": "Compare provinces and programmes, and apply by January for most universities (some deadlines are in November and December).",
+          "ka": "შეადარე პროვინციები და პროგრამები და უნივერსიტეტების უმეტესობაზე იანვრამდე დააპლიკირე (ზოგის ვადა ნოემბერსა და დეკემბერშია).",
+          "ar": "قارن المقاطعات والبرامج، وقدّم بحلول يناير لمعظم الجامعات (بعض المواعيد في نوفمبر وديسمبر)."
+        },
+        "search": "canada bachelor scholarship international entrance award"
+      },
+      "germany": {
+        "title": {
+          "en": "Germany: top engineering, almost free",
+          "ka": "გერმანია: საუკეთესო ინჟინერია, თითქმის უფასოდ",
+          "ar": "ألمانيا: هندسة متميزة وشبه مجانية"
+        },
+        "body": {
+          "en": "Public universities in Germany charge little or no tuition, even for international students, and are strong in engineering, sciences and economics. Students are independent: you plan your own schedule and studies.",
+          "ka": "გერმანიის საჯარო უნივერსიტეტები სწავლის საფასურს ან საერთოდ არ ითხოვენ, ან ძალიან ცოტას ითხოვენ, საერთაშორისო სტუდენტებისგანაც კი, და ძლიერები არიან ინჟინერიაში, მეცნიერებებსა და ეკონომიკაში. სტუდენტები დამოუკიდებლები არიან: ცხრილსა და სწავლას თავად გეგმავ.",
+          "ar": "الجامعات الحكومية في ألمانيا لا تفرض رسوماً أو تفرض رسوماً قليلة جداً حتى على الطلاب الدوليين، وهي قوية في الهندسة والعلوم والاقتصاد. الطلاب مستقلون: تخطط جدولك ودراستك بنفسك."
+        },
+        "why": {
+          "en": "You want an excellent, low-cost degree, you are self-motivated and you might stay to work after graduating.",
+          "ka": "გინდა შესანიშნავი და იაფი განათლება, ხარ თვითმოტივირებული და შესაძლოა, დამთავრების შემდეგ სამუშაოდ დარჩე.",
+          "ar": "تريد شهادة ممتازة منخفضة التكلفة، ولديك دافع ذاتي، وقد تبقى للعمل بعد التخرج."
+        },
+        "costs": {
+          "en": "Semester fee about €150–400; most states charge no tuition (Baden-Württemberg charges non-EU students €1,500 per semester). For the visa you need a blocked account of about €11,900 a year.",
+          "ka": "სემესტრის გადასახადი დაახლოებით 150–400 ევროა; შტატების უმეტესობა სწავლის საფასურს არ ითხოვს (ბადენ-ვიურტემბერგი ევროკავშირის გარეთა სტუდენტებისგან სემესტრში 1 500 ევროს ითხოვს). ვიზისთვის დაბლოკილ ანგარიშზე წელიწადში დაახლოებით 11 900 ევრო გჭირდება.",
+          "ar": "رسوم الفصل نحو 150–400 يورو؛ ومعظم الولايات لا تفرض رسوماً دراسية (بادن-فورتمبيرغ تفرض 1,500 يورو للفصل على الطلاب من خارج الاتحاد الأوروبي). وللتأشيرة تحتاج حساباً مجمّداً بنحو 11,900 يورو سنوياً."
+        },
+        "tips": {
+          "en": "DAAD runs the main scholarship database; most DAAD awards are for master's and PhD. Many English-taught programmes are at master's level, while most bachelor's are in German, so start German early.",
+          "ka": "მთავარ სასტიპენდიო ბაზას DAAD მართავს; DAAD-ის სტიპენდიების უმეტესობა მაგისტრატურისა და დოქტორანტურისთვისაა. ინგლისურენოვანი პროგრამების დიდი ნაწილი სამაგისტროა, ბაკალავრიატი კი ძირითადად გერმანულადაა, ამიტომ გერმანული ადრე დაიწყე.",
+          "ar": "تدير DAAD قاعدة بيانات المنح الرئيسية، ومعظم منحها للماجستير والدكتوراه. كثير من البرامج بالإنجليزية في مستوى الماجستير، بينما معظم برامج البكالوريوس بالألمانية، فابدأ تعلّم الألمانية مبكراً."
+        },
+        "next": {
+          "en": "Check whether your school diploma gives direct access (DAAD/anabin), learn German towards B2–C1, and apply via uni-assist or the university portal.",
+          "ka": "გადაამოწმე, გაძლევს თუ არა შენი ატესტატი პირდაპირ დაშვებას (DAAD/anabin), ისწავლე გერმანული B2–C1 დონემდე და დააპლიკირე uni-assist-ით ან უნივერსიტეტის პორტალით.",
+          "ar": "تحقق مما إذا كانت شهادتك الثانوية تمنحك قبولاً مباشراً (DAAD/anabin)، وتعلّم الألمانية حتى مستوى B2–C1، وقدّم عبر uni-assist أو بوابة الجامعة."
+        },
+        "search": "germany daad scholarship tuition-free bachelor engineering"
+      },
+      "netherlands": {
+        "title": {
+          "en": "Netherlands: English-taught, practical and international",
+          "ka": "ნიდერლანდები: ინგლისურენოვანი, პრაქტიკული და საერთაშორისო",
+          "ar": "هولندا: تدريس بالإنجليزية وعملي ودولي"
+        },
+        "body": {
+          "en": "The Netherlands has hundreds of English-taught bachelor's programmes, famous for problem-based learning in small groups. Everyone cycles, almost everyone speaks English, and classes mix students from dozens of countries.",
+          "ka": "ნიდერლანდებში ასობით ინგლისურენოვანი საბაკალავრო პროგრამაა, რომლებიც პატარა ჯგუფებში პრობლემაზე დაფუძნებული სწავლებით არის ცნობილი. ყველა ველოსიპედით დადის, თითქმის ყველა ინგლისურად საუბრობს, ჯგუფებში კი ათობით ქვეყნის სტუდენტია.",
+          "ar": "في هولندا مئات برامج البكالوريوس بالإنجليزية، المشهورة بالتعلم القائم على حل المشكلات في مجموعات صغيرة. الجميع يركب الدراجة، والجميع تقريباً يتحدث الإنجليزية، والصفوف تضم طلاباً من عشرات الدول."
+        },
+        "why": {
+          "en": "You like teamwork, debate and real-world projects, and want to study in English in continental Europe.",
+          "ka": "გიყვარს გუნდური მუშაობა, დებატები და რეალური პროექტები და გინდა ევროპაში ინგლისურად სწავლა.",
+          "ar": "تحب العمل الجماعي والنقاش والمشاريع الواقعية، وتريد الدراسة بالإنجليزية في أوروبا القارية."
+        },
+        "costs": {
+          "en": "Non-EU tuition about €9,000–20,000 a year; living about €1,000–1,500 a month. Housing is scarce: start searching as soon as you are admitted.",
+          "ka": "ევროკავშირის გარეთა სტუდენტის საფასური დაახლოებით 9 000–20 000 ევროა წელიწადში; ცხოვრება — თვეში 1 000–1 500 ევრო. საცხოვრებელი ცოტაა: ჩარიცხვისთანავე დაიწყე ძებნა.",
+          "ar": "رسوم الطلاب من خارج الاتحاد الأوروبي نحو 9,000–20,000 يورو سنوياً؛ والمعيشة نحو 1,000–1,500 يورو شهرياً. السكن نادر: ابدأ البحث فور قبولك."
+        },
+        "tips": {
+          "en": "Look at university excellence scholarships (e.g. Amsterdam Merit, Leiden Excellence, Utrecht Excellence) and the Study in NL scholarship finder.",
+          "ka": "ნახე უნივერსიტეტების წარჩინების სტიპენდიები (მაგ. Amsterdam Merit, Leiden Excellence, Utrecht Excellence) და Study in NL-ის სტიპენდიების საძიებო.",
+          "ar": "اطّلع على منح التميز في الجامعات (مثل Amsterdam Merit وLeiden Excellence وUtrecht Excellence) وأداة البحث عن المنح في Study in NL."
+        },
+        "next": {
+          "en": "Shortlist programmes on Studielink; many have early deadlines (15 January for numerus fixus programmes).",
+          "ka": "შეადგინე პროგრამების სია Studielink-ზე; ბევრს ადრეული ვადა აქვს (შეზღუდული ადგილების პროგრამებისთვის — 15 იანვარი).",
+          "ar": "أعدّ قائمة البرامج عبر Studielink؛ لكثير منها مواعيد مبكرة (15 يناير للبرامج محدودة المقاعد)."
+        },
+        "search": "netherlands english-taught bachelor scholarship excellence"
+      },
+      "france": {
+        "title": {
+          "en": "France: culture, ideas and affordable public universities",
+          "ka": "საფრანგეთი: კულტურა, იდეები და ხელმისაწვდომი საჯარო უნივერსიტეტები",
+          "ar": "فرنسا: ثقافة وأفكار وجامعات حكومية ميسورة"
+        },
+        "body": {
+          "en": "France offers low-cost public universities, elite grandes écoles and world-class business schools, plus art, food and history everywhere. Many programmes are in French, and English-taught options keep growing, especially at master's level.",
+          "ka": "საფრანგეთი გთავაზობს იაფ საჯარო უნივერსიტეტებს, ელიტარულ grandes écoles-ს და მსოფლიო დონის ბიზნეს სკოლებს, ასევე ხელოვნებას, სამზარეულოსა და ისტორიას ყოველ ნაბიჯზე. ბევრი პროგრამა ფრანგულადაა, ინგლისურენოვანი კი სულ უფრო მეტია, განსაკუთრებით მაგისტრატურაში.",
+          "ar": "تقدم فرنسا جامعات حكومية منخفضة التكلفة، ومدارس عليا نخبوية، وكليات أعمال عالمية، إضافة إلى الفن والمطبخ والتاريخ في كل مكان. كثير من البرامج بالفرنسية، والبرامج بالإنجليزية تتزايد خاصة في الماجستير."
+        },
+        "why": {
+          "en": "You love culture and independent study, and the idea of learning French excites you.",
+          "ka": "გიყვარს კულტურა და დამოუკიდებელი სწავლა, ფრანგულის სწავლის იდეა კი გახალისებს.",
+          "ar": "تحب الثقافة والدراسة المستقلة، وتتحمس لفكرة تعلّم الفرنسية."
+        },
+        "costs": {
+          "en": "Public university fees for non-EU students: €2,895 a year for a bachelor's and €3,941 for a master's (many universities reduce them). Living about €800–1,200 a month, more in Paris.",
+          "ka": "საჯარო უნივერსიტეტის საფასური ევროკავშირის გარეთა სტუდენტებისთვის: ბაკალავრიატი — 2 895 ევრო, მაგისტრატურა — 3 941 ევრო წელიწადში (ბევრი უნივერსიტეტი ამცირებს). ცხოვრება — თვეში დაახლოებით 800–1 200 ევრო, პარიზში — მეტი.",
+          "ar": "رسوم الجامعات الحكومية للطلاب من خارج الاتحاد الأوروبي: 2,895 يورو سنوياً للبكالوريوس و3,941 للماجستير (وكثير من الجامعات تخفضها). والمعيشة نحو 800–1,200 يورو شهرياً، وأكثر في باريس."
+        },
+        "tips": {
+          "en": "Eiffel Excellence (master's and PhD) is the flagship government scholarship; also check the French embassy in your country and regional housing aid (CAF).",
+          "ka": "Eiffel Excellence (მაგისტრატურა და დოქტორანტურა) მთავრობის მთავარი სტიპენდიაა; ასევე შეამოწმე საფრანგეთის საელჩო შენს ქვეყანაში და საცხოვრებლის დახმარება (CAF).",
+          "ar": "منحة Eiffel Excellence (للماجستير والدكتوراه) هي المنحة الحكومية الأبرز؛ وتحقق أيضاً من السفارة الفرنسية في بلدك ومساعدة السكن (CAF)."
+        },
+        "next": {
+          "en": "Create a Campus France account (the procedure for many countries) and work on French towards B2.",
+          "ka": "შექმენი Campus France-ის ანგარიში (ბევრი ქვეყნისთვის ეს სავალდებულო პროცედურაა) და ფრანგული B2 დონემდე აიყვანე.",
+          "ar": "أنشئ حساباً على Campus France (الإجراء المعتمد لدول كثيرة) واعمل على الفرنسية حتى مستوى B2."
+        },
+        "search": "france campus france eiffel scholarship bachelor"
+      },
+      "italy": {
+        "title": {
+          "en": "Italy: beauty, history and income-based fees",
+          "ka": "იტალია: სილამაზე, ისტორია და შემოსავალზე დამოკიდებული საფასური",
+          "ar": "إيطاليا: جمال وتاريخ ورسوم حسب الدخل"
+        },
+        "body": {
+          "en": "Italy's public universities, some among the oldest in the world, charge fees based on family income and offer a growing number of English-taught degrees. Bologna, Milan, Padua and Rome are lively student cities.",
+          "ka": "იტალიის საჯარო უნივერსიტეტები, რომელთა ნაწილი მსოფლიოში უძველესია, საფასურს ოჯახის შემოსავლის მიხედვით ადგენენ და სულ უფრო მეტ ინგლისურენოვან პროგრამას გვთავაზობენ. ბოლონია, მილანი, პადუა და რომი ცოცხალი სტუდენტური ქალაქებია.",
+          "ar": "تحدد الجامعات الحكومية الإيطالية، وبعضها من أقدم الجامعات في العالم، رسومها حسب دخل الأسرة، وتقدم عدداً متزايداً من البرامج بالإنجليزية. بولونيا وميلانو وبادوفا وروما مدن طلابية نابضة."
+        },
+        "why": {
+          "en": "You love art, design, architecture or history and want an affordable European degree.",
+          "ka": "გიყვარს ხელოვნება, დიზაინი, არქიტექტურა ან ისტორია და გინდა ხელმისაწვდომი ევროპული დიპლომი.",
+          "ar": "تحب الفن أو التصميم أو العمارة أو التاريخ، وتريد شهادة أوروبية ميسورة."
+        },
+        "costs": {
+          "en": "Public tuition roughly €1,000–4,000 a year depending on income (private universities like Bocconi cost much more); living about €800–1,200 a month.",
+          "ka": "საჯარო უნივერსიტეტის საფასური შემოსავლის მიხედვით დაახლოებით 1 000–4 000 ევროა წელიწადში (კერძო უნივერსიტეტები, მაგ. Bocconi, ბევრად ძვირია); ცხოვრება — თვეში 800–1 200 ევრო.",
+          "ar": "الرسوم الحكومية نحو 1,000–4,000 يورو سنوياً حسب الدخل (والجامعات الخاصة مثل Bocconi أغلى بكثير)؛ والمعيشة نحو 800–1,200 يورو شهرياً."
+        },
+        "tips": {
+          "en": "Regional DSU scholarships (open to international students with low family income) can cover fees, housing and a cash stipend. Apply in summer, with translated and legalised income documents.",
+          "ka": "რეგიონული DSU სტიპენდიები (ხელმისაწვდომია დაბალშემოსავლიანი ოჯახის საერთაშორისო სტუდენტებისთვის) შეიძლება ფარავდეს საფასურს, საცხოვრებელსა და ფულად სტიპენდიას. დააპლიკირე ზაფხულში, ნათარგმნი და დამოწმებული შემოსავლის დოკუმენტებით.",
+          "ar": "يمكن لمنح DSU الإقليمية (المتاحة للطلاب الدوليين من أسر محدودة الدخل) أن تغطي الرسوم والسكن ومخصصاً نقدياً. قدّم في الصيف بوثائق دخل مترجمة ومصدّقة."
+        },
+        "next": {
+          "en": "Shortlist English-taught programmes on Universitaly and check entrance tests (e.g. for medicine or architecture).",
+          "ka": "შეადგინე ინგლისურენოვანი პროგრამების სია Universitaly-ზე და გადაამოწმე მისაღები ტესტები (მაგ. მედიცინისა და არქიტექტურისთვის).",
+          "ar": "أعدّ قائمة البرامج بالإنجليزية عبر Universitaly وتحقق من اختبارات القبول (مثل الطب والعمارة)."
+        },
+        "search": "italy dsu scholarship english-taught bachelor universitaly"
+      },
+      "spain": {
+        "title": {
+          "en": "Spain: sunshine, Spanish and student life",
+          "ka": "ესპანეთი: მზე, ესპანური და სტუდენტური ცხოვრება",
+          "ar": "إسبانيا: شمس ولغة إسبانية وحياة طلابية"
+        },
+        "body": {
+          "en": "Spain offers affordable public universities, strong business schools (IE, ESADE) and a relaxed, social lifestyle. Learning Spanish opens up a language spoken by more than 500 million people.",
+          "ka": "ესპანეთი გთავაზობს ხელმისაწვდომ საჯარო უნივერსიტეტებს, ძლიერ ბიზნეს სკოლებს (IE, ESADE) და მშვიდ, სოციალურ ცხოვრების წესს. ესპანური 500 მილიონზე მეტი ადამიანის ენაა.",
+          "ar": "تقدم إسبانيا جامعات حكومية ميسورة، وكليات أعمال قوية (IE وESADE)، ونمط حياة اجتماعياً مريحاً. وتعلّم الإسبانية يفتح لك لغة يتحدثها أكثر من 500 مليون شخص."
+        },
+        "why": {
+          "en": "You want a warm, social European experience and are open to learning Spanish.",
+          "ka": "გინდა თბილი, სოციალური ევროპული გამოცდილება და მზად ხარ ესპანურის სასწავლად.",
+          "ar": "تريد تجربة أوروبية دافئة واجتماعية، وأنت منفتح على تعلّم الإسبانية."
+        },
+        "costs": {
+          "en": "Public tuition roughly €1,000–4,000 a year (some regions charge non-EU students more); private universities €6,000–25,000. Living about €900–1,300 a month.",
+          "ka": "საჯარო უნივერსიტეტის საფასური დაახლოებით 1 000–4 000 ევროა წელიწადში (ზოგი რეგიონი ევროკავშირის გარეთა სტუდენტებს მეტს ახდევინებს); კერძო — 6 000–25 000 ევრო. ცხოვრება — თვეში 900–1 300 ევრო.",
+          "ar": "الرسوم الحكومية نحو 1,000–4,000 يورو سنوياً (بعض الأقاليم تفرض أكثر على الطلاب من خارج الاتحاد الأوروبي)؛ والخاصة 6,000–25,000 يورو. والمعيشة نحو 900–1,300 يورو شهرياً."
+        },
+        "tips": {
+          "en": "Private universities often give merit scholarships of 10–50%; for master's, check Spanish government and university awards.",
+          "ka": "კერძო უნივერსიტეტები ხშირად 10–50%-იან წარჩინების სტიპენდიებს გასცემენ; მაგისტრატურისთვის ესპანეთის მთავრობისა და უნივერსიტეტების სტიპენდიები ნახე.",
+          "ar": "كثيراً ما تقدم الجامعات الخاصة منح تفوق بنسبة 10–50%؛ وللماجستير راجع منح الحكومة الإسبانية والجامعات."
+        },
+        "next": {
+          "en": "Check how your school diploma is recognised (homologación) and whether your programme needs a Spanish level.",
+          "ka": "გადაამოწმე, როგორ აღიარდება შენი ატესტატი (homologación) და სჭირდება თუ არა შენს პროგრამას ესპანურის დონე.",
+          "ar": "تحقق من طريقة معادلة شهادتك الثانوية (homologación) وما إذا كان برنامجك يتطلب مستوى في الإسبانية."
+        },
+        "search": "spain bachelor scholarship business english-taught"
+      },
+      "switzerland": {
+        "title": {
+          "en": "Switzerland: precision, research and the Alps",
+          "ka": "შვეიცარია: სიზუსტე, კვლევა და ალპები",
+          "ar": "سويسرا: دقة وبحث وجبال الألب"
+        },
+        "body": {
+          "en": "ETH Zurich and EPFL are among the world's best for science and engineering, with modest tuition but very high living costs. Expect top labs, multilingual cities and mountains an hour away.",
+          "ka": "ETH Zurich და EPFL მეცნიერებასა და ინჟინერიაში მსოფლიოს საუკეთესოთა შორისაა, ზომიერი საფასურით, მაგრამ ძალიან ძვირი ცხოვრებით. ელოდე უმაღლესი დონის ლაბორატორიებს, მრავალენოვან ქალაქებს და მთებს ერთი საათის სავალზე.",
+          "ar": "تُعد ETH Zurich وEPFL من الأفضل عالمياً في العلوم والهندسة، برسوم معتدلة لكن تكاليف معيشة مرتفعة جداً. توقّع مختبرات متقدمة ومدناً متعددة اللغات وجبالاً على بُعد ساعة."
+        },
+        "why": {
+          "en": "You are aiming for research or a PhD and love precision, nature and mountains.",
+          "ka": "მიზნად კვლევა ან დოქტორანტურა გაქვს და გიყვარს სიზუსტე, ბუნება და მთები.",
+          "ar": "تطمح إلى البحث أو الدكتوراه وتحب الدقة والطبيعة والجبال."
+        },
+        "costs": {
+          "en": "Tuition at public universities roughly CHF 1,500–4,500 a year for international students; living about CHF 1,800–2,500 a month.",
+          "ka": "საჯარო უნივერსიტეტებში საერთაშორისო სტუდენტის საფასური დაახლოებით 1 500–4 500 შვეიცარიული ფრანკია წელიწადში; ცხოვრება — თვეში 1 800–2 500 ფრანკი.",
+          "ar": "الرسوم في الجامعات الحكومية نحو 1,500–4,500 فرنك سويسري سنوياً للطلاب الدوليين؛ والمعيشة نحو 1,800–2,500 فرنك شهرياً."
+        },
+        "tips": {
+          "en": "Bachelor's programmes are mostly in German, French or Italian, and few scholarships exist for them. At master's level, ETH's ESOP and EPFL's Excellence Fellowships cover living costs, and the Swiss Government Excellence Scholarships fund research.",
+          "ka": "საბაკალავრო პროგრამები ძირითადად გერმანულ, ფრანგულ ან იტალიურ ენებზეა და მათთვის სტიპენდია ცოტაა. მაგისტრატურაში ETH-ის ESOP და EPFL-ის Excellence Fellowships ცხოვრების ხარჯებს ფარავს, Swiss Government Excellence Scholarships კი კვლევას აფინანსებს.",
+          "ar": "برامج البكالوريوس غالباً بالألمانية أو الفرنسية أو الإيطالية، والمنح لها قليلة. أما في الماجستير فتغطي ESOP في ETH وExcellence Fellowships في EPFL تكاليف المعيشة، وتموّل Swiss Government Excellence Scholarships البحث."
+        },
+        "next": {
+          "en": "Consider a strong bachelor's elsewhere and target ETH or EPFL for your master's, or check ETH's entrance exam if your diploma isn't accepted directly.",
+          "ka": "განიხილე ძლიერი ბაკალავრიატი სხვაგან და მაგისტრატურისთვის ETH ან EPFL დაისახე მიზნად, ან გადაამოწმე ETH-ის მისაღები გამოცდა, თუ შენს ატესტატს პირდაპირ არ იღებენ.",
+          "ar": "فكّر في بكالوريوس قوي في مكان آخر واستهدف ETH أو EPFL للماجستير، أو تحقق من امتحان القبول في ETH إن لم تُقبل شهادتك مباشرة."
+        },
+        "search": "switzerland eth epfl master excellence scholarship"
+      },
+      "ireland": {
+        "title": {
+          "en": "Ireland: English-speaking, tech-friendly and welcoming",
+          "ka": "ირლანდია: ინგლისურენოვანი, ტექნოლოგიური და სტუმართმოყვარე",
+          "ar": "أيرلندا: ناطقة بالإنجليزية وصديقة للتقنية ومرحّبة"
+        },
+        "body": {
+          "en": "Ireland is home to the European headquarters of Google, Meta, Apple and many pharma companies, and to respected universities like Trinity College Dublin and UCD. People are famously friendly, and graduates can stay to look for work.",
+          "ka": "ირლანდიაში Google-ის, Meta-ს, Apple-ისა და ბევრი ფარმაცევტული კომპანიის ევროპული სათაო ოფისებია, ასევე ავტორიტეტული უნივერსიტეტები, როგორიცაა Trinity College Dublin და UCD. ადამიანები განსაკუთრებით მეგობრულები არიან, კურსდამთავრებულებს კი სამსახურის საძებნელად დარჩენა შეუძლიათ.",
+          "ar": "تحتضن أيرلندا المقار الأوروبية لـ Google وMeta وApple وكثير من شركات الأدوية، وجامعات مرموقة مثل Trinity College Dublin وUCD. الناس ودودون جداً، ويمكن للخريجين البقاء للبحث عن عمل."
+        },
+        "why": {
+          "en": "You want an English-speaking country in Europe with strong tech and health careers.",
+          "ka": "გინდა ინგლისურენოვანი ქვეყანა ევროპაში, ძლიერი ტექნოლოგიური და სამედიცინო კარიერით.",
+          "ar": "تريد بلداً ناطقاً بالإنجليزية في أوروبا مع فرص قوية في التقنية والصحة."
+        },
+        "costs": {
+          "en": "Non-EU tuition about €12,000–30,000 a year (medicine much more); living about €12,000–18,000 a year, more in Dublin.",
+          "ka": "ევროკავშირის გარეთა სტუდენტის საფასური დაახლოებით 12 000–30 000 ევროა წელიწადში (მედიცინა ბევრად მეტი); ცხოვრება — 12 000–18 000 ევრო წელიწადში, დუბლინში მეტი.",
+          "ar": "رسوم الطلاب من خارج الاتحاد الأوروبي نحو 12,000–30,000 يورو سنوياً (والطب أكثر بكثير)؛ والمعيشة نحو 12,000–18,000 يورو سنوياً، وأكثر في دبلن."
+        },
+        "tips": {
+          "en": "Universities offer partial merit scholarships for international students; for master's and PhD, the Government of Ireland International Education Scholarships pay a stipend and fees.",
+          "ka": "უნივერსიტეტები საერთაშორისო სტუდენტებს ნაწილობრივ წარჩინების სტიპენდიებს სთავაზობენ; მაგისტრატურისა და დოქტორანტურისთვის Government of Ireland International Education Scholarships ფარავს საფასურს და სტიპენდიას იხდის.",
+          "ar": "تقدم الجامعات منح تفوق جزئية للطلاب الدوليين؛ وللماجستير والدكتوراه تدفع منح Government of Ireland International Education Scholarships الرسوم ومخصصاً شهرياً."
+        },
+        "next": {
+          "en": "Non-EU students usually apply directly to each university, not through the Irish CAO; check each deadline.",
+          "ka": "ევროკავშირის გარეთა სტუდენტები ჩვეულებრივ პირდაპირ თითოეულ უნივერსიტეტს მიმართავენ და არა ირლანდიურ CAO-ს; თითოეული ვადა გადაამოწმე.",
+          "ar": "عادةً يقدّم الطلاب من خارج الاتحاد الأوروبي مباشرة إلى كل جامعة لا عبر نظام CAO الأيرلندي؛ تحقق من كل موعد."
+        },
+        "search": "ireland scholarship international bachelor tech"
+      },
+      "japan": {
+        "title": {
+          "en": "Japan: tradition meets the future",
+          "ka": "იაპონია: ტრადიცია ხვდება მომავალს",
+          "ar": "اليابان: التقاليد تلتقي بالمستقبل"
+        },
+        "body": {
+          "en": "Japan offers safe, spotless cities, excellent public transport, cutting-edge technology and deep traditions. A growing number of universities run English-taught degrees (often called G30 or global programmes).",
+          "ka": "იაპონია გთავაზობს უსაფრთხო, სუფთა ქალაქებს, შესანიშნავ საზოგადოებრივ ტრანსპორტს, უახლეს ტექნოლოგიებს და ღრმა ტრადიციებს. სულ უფრო მეტი უნივერსიტეტი სთავაზობს ინგლისურენოვან პროგრამებს (ხშირად G30 ან გლობალურ პროგრამებად წოდებულს).",
+          "ar": "تقدم اليابان مدناً آمنة ونظيفة، ومواصلات عامة ممتازة، وتقنية متقدمة، وتقاليد عريقة. وعدد متزايد من الجامعات يقدم برامج بالإنجليزية (تُسمى غالباً G30 أو البرامج العالمية)."
+        },
+        "why": {
+          "en": "You are curious about a very different culture and love technology, design or anime and manga culture.",
+          "ka": "გაინტერესებს ძალიან განსხვავებული კულტურა და გიყვარს ტექნოლოგია, დიზაინი ან ანიმე და მანგა.",
+          "ar": "تثير فضولك ثقافة مختلفة جداً، وتحب التقنية أو التصميم أو ثقافة الأنمي والمانغا."
+        },
+        "costs": {
+          "en": "National university tuition about ¥535,800–642,960 a year (roughly USD 3,500–4,500); private universities more. Living about ¥100,000–150,000 a month.",
+          "ka": "ეროვნული უნივერსიტეტების საფასური დაახლოებით 535 800–642 960 იენია წელიწადში (დაახლოებით 3 500–4 500 აშშ დოლარი); კერძო — მეტი. ცხოვრება — თვეში 100 000–150 000 იენი.",
+          "ar": "رسوم الجامعات الوطنية نحو 535,800–642,960 ين سنوياً (قرابة 3,500–4,500 دولار)؛ والخاصة أكثر. والمعيشة نحو 100,000–150,000 ين شهرياً."
+        },
+        "tips": {
+          "en": "The MEXT scholarship (apply through the Japanese embassy in your country) covers tuition, flights and a monthly stipend; JASSO and university awards help too.",
+          "ka": "MEXT სტიპენდია (განაცხადი იაპონიის საელჩოს მეშვეობით შენს ქვეყანაში) ფარავს საფასურს, ფრენებს და ყოველთვიურ სტიპენდიას იხდის; JASSO და უნივერსიტეტების სტიპენდიებიც გეხმარება.",
+          "ar": "تغطي منحة MEXT (يُقدَّم لها عبر السفارة اليابانية في بلدك) الرسوم وتذاكر الطيران ومخصصاً شهرياً؛ وتساعد أيضاً منح JASSO والجامعات."
+        },
+        "next": {
+          "en": "Check the MEXT embassy calendar (applications usually open in spring) and start basic Japanese now.",
+          "ka": "გადაამოწმე MEXT-ის საელჩოს კალენდარი (განაცხადები ჩვეულებრივ გაზაფხულზე იხსნება) და იაპონურის საფუძვლები ახლავე დაიწყე.",
+          "ar": "راجع تقويم منحة MEXT في السفارة (يُفتح التقديم عادة في الربيع) وابدأ أساسيات اليابانية الآن."
+        },
+        "search": "japan mext scholarship english-taught bachelor"
+      },
+      "korea": {
+        "title": {
+          "en": "South Korea: fast-paced, high-tech and full of energy",
+          "ka": "სამხრეთ კორეა: სწრაფი, მაღალტექნოლოგიური და ენერგიით სავსე",
+          "ar": "كوريا الجنوبية: إيقاع سريع وتقنية عالية وطاقة كبيرة"
+        },
+        "body": {
+          "en": "Korea combines top universities (SNU, KAIST, Yonsei, Korea University) with world-leading tech companies and a huge pop culture. Classes are demanding, cities never sleep, and English-taught options are growing.",
+          "ka": "კორეა აერთიანებს წამყვან უნივერსიტეტებს (SNU, KAIST, Yonsei, Korea University), მსოფლიოს წამყვან ტექნოლოგიურ კომპანიებსა და უზარმაზარ პოპ-კულტურას. სწავლა მომთხოვნია, ქალაქები არასოდეს იძინებს, ინგლისურენოვანი პროგრამები კი მრავლდება.",
+          "ar": "تجمع كوريا بين جامعات رائدة (SNU وKAIST وYonsei وKorea University) وشركات تقنية عالمية وثقافة شعبية هائلة. الدراسة متطلبة، والمدن لا تنام، والبرامج بالإنجليزية تتزايد."
+        },
+        "why": {
+          "en": "You like structure, high standards and tech, and you're excited by a culture very different from home.",
+          "ka": "გიყვარს სტრუქტურა, მაღალი სტანდარტები და ტექნოლოგია და გახალისებს შენგან ძალიან განსხვავებული კულტურა.",
+          "ar": "تحب النظام والمعايير العالية والتقنية، وتتحمس لثقافة مختلفة جداً عن بلدك."
+        },
+        "costs": {
+          "en": "Tuition roughly USD 3,000–8,000 a year; living about USD 800–1,200 a month.",
+          "ka": "საფასური დაახლოებით 3 000–8 000 აშშ დოლარია წელიწადში; ცხოვრება — თვეში 800–1 200 დოლარი.",
+          "ar": "الرسوم نحو 3,000–8,000 دولار سنوياً؛ والمعيشة نحو 800–1,200 دولار شهرياً."
+        },
+        "tips": {
+          "en": "The Global Korea Scholarship (GKS) covers tuition, a Korean language year, flights and a monthly allowance for students from many countries; check your country's quota. Universities also give tuition waivers based on grades and TOPIK level.",
+          "ka": "Global Korea Scholarship (GKS) ბევრი ქვეყნის სტუდენტებისთვის ფარავს საფასურს, კორეული ენის ერთწლიან კურსს, ფრენებს და ყოველთვიურ ხარჯებს; შენი ქვეყნის კვოტა გადაამოწმე. უნივერსიტეტები ნიშნებისა და TOPIK-ის დონის მიხედვით საფასურისგან ათავისუფლებენ.",
+          "ar": "تغطي منحة Global Korea Scholarship (GKS) الرسوم وسنة لتعلّم الكورية وتذاكر الطيران ومخصصاً شهرياً لطلاب دول كثيرة؛ تحقق من حصة بلدك. كما تمنح الجامعات إعفاءات من الرسوم حسب الدرجات ومستوى TOPIK."
+        },
+        "next": {
+          "en": "Watch for the GKS undergraduate call (usually autumn) and start learning Hangul.",
+          "ka": "თვალი ადევნე GKS-ის საბაკალავრო კონკურსს (ჩვეულებრივ შემოდგომაზე) და ჰანგულის სწავლა დაიწყე.",
+          "ar": "تابع إعلان منحة GKS للبكالوريوس (عادة في الخريف) وابدأ تعلّم الهانغل."
+        },
+        "search": "korea gks scholarship bachelor english-taught"
+      },
+      "singapore": {
+        "title": {
+          "en": "Singapore: Asia's safe, ultra-modern hub",
+          "ka": "სინგაპური: აზიის უსაფრთხო, ულტრათანამედროვე ცენტრი",
+          "ar": "سنغافورة: مركز آسيا الآمن والحديث جداً"
+        },
+        "body": {
+          "en": "NUS and NTU are Asia's top-ranked universities, teaching in English in one of the safest, cleanest and most efficient cities on earth. It's a global business and tech hub with food from every culture.",
+          "ka": "NUS და NTU აზიის უმაღლესი რეიტინგის უნივერსიტეტებია, სადაც ინგლისურად ასწავლიან, დედამიწის ერთ-ერთ ყველაზე უსაფრთხო, სუფთა და ეფექტიან ქალაქში. ეს გლობალური ბიზნესისა და ტექნოლოგიების ცენტრია, ყველა კულტურის სამზარეულოთი.",
+          "ar": "تُعد NUS وNTU أعلى الجامعات تصنيفاً في آسيا، وتدرّسان بالإنجليزية في واحدة من أكثر مدن العالم أماناً ونظافة وكفاءة. إنها مركز عالمي للأعمال والتقنية فيه طعام من كل الثقافات."
+        },
+        "why": {
+          "en": "You want world-class STEM or business in English, in a safe, organised and warm city.",
+          "ka": "გინდა მსოფლიო დონის STEM ან ბიზნესი ინგლისურად, უსაფრთხო, ორგანიზებულ და თბილ ქალაქში.",
+          "ar": "تريد تعليماً عالمي المستوى في STEM أو الأعمال بالإنجليزية، في مدينة آمنة ومنظمة ودافئة."
+        },
+        "costs": {
+          "en": "With the government Tuition Grant, international fees are roughly SGD 17,000–30,000 a year (you then work in Singapore for 3 years); without it, much more. Living about SGD 1,200–2,000 a month.",
+          "ka": "სამთავრობო Tuition Grant-ით საერთაშორისო სტუდენტის საფასური დაახლოებით 17 000–30 000 სინგაპურული დოლარია წელიწადში (შემდეგ 3 წელი სინგაპურში უნდა იმუშაო); მის გარეშე — ბევრად მეტი. ცხოვრება — თვეში 1 200–2 000 დოლარი.",
+          "ar": "مع منحة الرسوم الحكومية (Tuition Grant) تبلغ الرسوم الدولية نحو 17,000–30,000 دولار سنغافوري سنوياً (وتعمل بعدها في سنغافورة 3 سنوات)؛ ومن دونها أكثر بكثير. والمعيشة نحو 1,200–2,000 دولار شهرياً."
+        },
+        "tips": {
+          "en": "Admission is very competitive: top grades, strong SAT or IB/A-level results and activities matter. NUS and NTU also have merit scholarships for international students.",
+          "ka": "მიღება ძალიან კონკურენტულია: მნიშვნელოვანია მაღალი ნიშნები, ძლიერი SAT ან IB/A-level შედეგები და აქტივობები. NUS-სა და NTU-ს საერთაშორისო სტუდენტებისთვის წარჩინების სტიპენდიებიც აქვთ.",
+          "ar": "القبول تنافسي جداً: الدرجات العالية ونتائج SAT أو IB/A-level القوية والأنشطة مهمة. ولدى NUS وNTU منح تفوق للطلاب الدوليين."
+        },
+        "next": {
+          "en": "Check each university's international admission requirements for your diploma; applications usually open in autumn.",
+          "ka": "გადაამოწმე თითოეული უნივერსიტეტის საერთაშორისო მიღების მოთხოვნები შენი ატესტატისთვის; განაცხადები ჩვეულებრივ შემოდგომაზე იხსნება.",
+          "ar": "تحقق من متطلبات القبول الدولي في كل جامعة لشهادتك؛ يُفتح التقديم عادة في الخريف."
+        },
+        "search": "singapore nus ntu scholarship international undergraduate"
+      },
+      "australia": {
+        "title": {
+          "en": "Australia: sunshine, beaches and work rights",
+          "ka": "ავსტრალია: მზე, სანაპიროები და მუშაობის უფლება",
+          "ar": "أستراليا: شمس وشواطئ وحق العمل"
+        },
+        "body": {
+          "en": "Australia's universities (Melbourne, Sydney, ANU, UNSW, Queensland) are highly ranked and practical, with outdoor life at the centre of everything. Students can work part-time and graduates can apply for post-study work visas.",
+          "ka": "ავსტრალიის უნივერსიტეტებს (Melbourne, Sydney, ANU, UNSW, Queensland) მაღალი რეიტინგი აქვთ და პრაქტიკულები არიან, ცხოვრება კი ღია ცის ქვეშ მიმდინარეობს. სტუდენტებს ნახევარ განაკვეთზე მუშაობა შეუძლიათ, კურსდამთავრებულებს კი — სწავლის შემდგომი სამუშაო ვიზის მოთხოვნა.",
+          "ar": "جامعات أستراليا (Melbourne وSydney وANU وUNSW وQueensland) عالية التصنيف وعملية، والحياة في الهواء الطلق محور كل شيء. يمكن للطلاب العمل بدوام جزئي، وللخريجين التقدم لتأشيرات العمل بعد الدراسة."
+        },
+        "why": {
+          "en": "You love the outdoors, want an English-speaking country and hope to work after graduating.",
+          "ka": "გიყვარს ბუნება, გინდა ინგლისურენოვანი ქვეყანა და დამთავრების შემდეგ მუშაობის იმედი გაქვს.",
+          "ar": "تحب الطبيعة، وتريد بلداً ناطقاً بالإنجليزية، وتأمل العمل بعد التخرج."
+        },
+        "costs": {
+          "en": "Tuition about AUD 30,000–55,000 a year; for the visa you must show about AUD 29,710 a year for living.",
+          "ka": "საფასური დაახლოებით 30 000–55 000 ავსტრალიური დოლარია წელიწადში; ვიზისთვის ცხოვრების ხარჯად წელიწადში დაახლოებით 29 710 დოლარი უნდა აჩვენო.",
+          "ar": "الرسوم نحو 30,000–55,000 دولار أسترالي سنوياً؛ وللتأشيرة يجب إثبات نحو 29,710 دولاراً أسترالياً سنوياً للمعيشة."
+        },
+        "tips": {
+          "en": "Most help comes as university merit scholarships (often 20–50% of tuition). Australia Awards target specific partner countries, mostly for postgraduate study.",
+          "ka": "დახმარების უმეტესობა უნივერსიტეტის წარჩინების სტიპენდიებია (ხშირად საფასურის 20–50%). Australia Awards კონკრეტულ პარტნიორ ქვეყნებზეა ორიენტირებული, ძირითადად ასპირანტურისთვის.",
+          "ar": "معظم الدعم منح تفوق جامعية (غالباً 20–50% من الرسوم). وتستهدف Australia Awards دولاً شريكة محددة، وغالباً للدراسات العليا."
+        },
+        "next": {
+          "en": "Compare universities in different cities and check visa rules and enrolment caps before applying.",
+          "ka": "შეადარე სხვადასხვა ქალაქის უნივერსიტეტები და აპლიკაციამდე ვიზის წესები და ჩარიცხვის ლიმიტები გადაამოწმე.",
+          "ar": "قارن الجامعات في مدن مختلفة، وتحقق من قواعد التأشيرة وحدود القبول قبل التقديم."
+        },
+        "search": "australia bachelor scholarship international merit"
+      },
+      "qatar": {
+        "title": {
+          "en": "Qatar: world-class degrees close to home",
+          "ka": "კატარი: მსოფლიო დონის განათლება სახლთან ახლოს",
+          "ar": "قطر: شهادات عالمية قريبة من الوطن"
+        },
+        "body": {
+          "en": "In Doha's Education City you can earn degrees from Georgetown, Carnegie Mellon, Texas A&M, Northwestern, Weill Cornell Medicine and VCUarts, plus Hamad Bin Khalifa University, while Qatar University offers a full national university experience. It's safe, modern and multicultural, in a Muslim-majority, Arabic-speaking setting.",
+          "ka": "დოჰას Education City-ში შეგიძლია მიიღო Georgetown-ის, Carnegie Mellon-ის, Texas A&M-ის, Northwestern-ის, Weill Cornell Medicine-ისა და VCUarts-ის დიპლომები, ასევე Hamad Bin Khalifa University-ის, ხოლო Qatar University სრულფასოვან ეროვნულ უნივერსიტეტს გთავაზობს. აქ უსაფრთხო, თანამედროვე და მულტიკულტურული გარემოა, მუსლიმური და არაბულენოვანი ტრადიციით.",
+          "ar": "في المدينة التعليمية بالدوحة يمكنك نيل شهادات Georgetown وCarnegie Mellon وTexas A&M وNorthwestern وWeill Cornell Medicine وVCUarts، إضافة إلى جامعة حمد بن خليفة، بينما تقدم جامعة قطر تجربة جامعة وطنية متكاملة. البيئة آمنة وحديثة ومتعددة الثقافات، في مجتمع عربي ذي غالبية مسلمة."
+        },
+        "why": {
+          "en": "You want a top international degree in a safe, familiar culture, with small classes and close mentors.",
+          "ka": "გინდა წამყვანი საერთაშორისო დიპლომი უსაფრთხო, ნაცნობ კულტურაში, პატარა ჯგუფებითა და ახლო მენტორებით.",
+          "ar": "تريد شهادة دولية رائدة في ثقافة آمنة ومألوفة، مع صفوف صغيرة ومرشدين قريبين."
+        },
+        "costs": {
+          "en": "Education City tuition is similar to the US home campuses, but need-based aid and loans are available; Qatar University fees are far lower. Living costs depend heavily on housing.",
+          "ka": "Education City-ის საფასური აშშ-ის მთავარი კამპუსების მსგავსია, მაგრამ ხელმისაწვდომია საჭიროებაზე დაფუძნებული დახმარება და სესხები; Qatar University-ის საფასური გაცილებით დაბალია. ცხოვრების ხარჯი ძირითადად საცხოვრებელზეა დამოკიდებული.",
+          "ar": "رسوم المدينة التعليمية قريبة من رسوم الفروع الرئيسية في الولايات المتحدة، لكن تتوفر مساعدات حسب الحاجة وقروض؛ ورسوم جامعة قطر أقل بكثير. وتعتمد تكاليف المعيشة كثيراً على السكن."
+        },
+        "tips": {
+          "en": "Qatari nationals can apply for government and company sponsorships; international students should check each Education City university's financial aid, QU's international scholarships, and HBKU and Doha Institute fully funded graduate awards.",
+          "ka": "კატარის მოქალაქეებს შეუძლიათ მთავრობისა და კომპანიების სპონსორობაზე განაცხადის შეტანა; საერთაშორისო სტუდენტებმა უნდა შეამოწმონ Education City-ის თითოეული უნივერსიტეტის ფინანსური დახმარება, QU-ს საერთაშორისო სტიპენდიები და HBKU-სა და Doha Institute-ის სრულად დაფინანსებული სამაგისტრო სტიპენდიები.",
+          "ar": "يمكن للمواطنين القطريين التقدم لرعاية الحكومة والشركات؛ أما الطلاب الدوليون فعليهم مراجعة المساعدات المالية في كل جامعة بالمدينة التعليمية، ومنح جامعة قطر الدولية، ومنح الدراسات العليا الممولة بالكامل في جامعة حمد بن خليفة ومعهد الدوحة."
+        },
+        "next": {
+          "en": "List the Education City and QU programmes that match your field, and plan the SAT/ACT and IELTS/TOEFL they require.",
+          "ka": "ჩამოწერე Education City-სა და QU-ს პროგრამები, რომლებიც შენს სფეროს შეესაბამება, და დაგეგმე SAT/ACT და IELTS/TOEFL, რომლებსაც ისინი ითხოვენ.",
+          "ar": "دوّن برامج المدينة التعليمية وجامعة قطر المناسبة لمجالك، وخطّط لاختبارات SAT/ACT وIELTS/TOEFL التي تطلبها."
+        },
+        "search": "qatar education city scholarship qatar university hbku"
+      },
+      "uae": {
+        "title": {
+          "en": "United Arab Emirates: global careers in the Gulf",
+          "ka": "არაბთა გაერთიანებული საამიროები: გლობალური კარიერა ყურეში",
+          "ar": "الإمارات العربية المتحدة: مسيرة عالمية في الخليج"
+        },
+        "body": {
+          "en": "Dubai and Abu Dhabi host NYU Abu Dhabi, Khalifa University, the American University of Sharjah, MBZUAI and branch campuses from the UK, US, Australia and France. It's a fast-growing hub for business, AI and aviation, with a very international population.",
+          "ka": "დუბაისა და აბუ-დაბიში არის NYU Abu Dhabi, Khalifa University, American University of Sharjah, MBZUAI და დიდი ბრიტანეთის, აშშ-ის, ავსტრალიისა და საფრანგეთის უნივერსიტეტების ფილიალები. ეს ბიზნესის, AI-ისა და ავიაციის სწრაფად მზარდი ცენტრია, ძალიან საერთაშორისო მოსახლეობით.",
+          "ar": "تحتضن دبي وأبوظبي جامعة نيويورك أبوظبي، وجامعة خليفة، والجامعة الأمريكية في الشارقة، وجامعة محمد بن زايد للذكاء الاصطناعي، وفروعاً لجامعات بريطانية وأمريكية وأسترالية وفرنسية. إنها مركز سريع النمو للأعمال والذكاء الاصطناعي والطيران، وسكانها دوليون جداً."
+        },
+        "why": {
+          "en": "You want a modern, international city near home with strong links to business and tech.",
+          "ka": "გინდა თანამედროვე, საერთაშორისო ქალაქი სახლთან ახლოს, ბიზნესთან და ტექნოლოგიებთან მჭიდრო კავშირით.",
+          "ar": "تريد مدينة حديثة ودولية قريبة من الوطن، بروابط قوية مع الأعمال والتقنية."
+        },
+        "costs": {
+          "en": "Tuition roughly AED 40,000–100,000 a year (about USD 11,000–27,000) at most private and branch campuses; living about AED 4,000–7,000 a month.",
+          "ka": "საფასური კერძო და ფილიალ უნივერსიტეტების უმეტესობაში დაახლოებით 40 000–100 000 დირჰამია წელიწადში (დაახლოებით 11 000–27 000 აშშ დოლარი); ცხოვრება — თვეში 4 000–7 000 დირჰამი.",
+          "ar": "الرسوم نحو 40,000–100,000 درهم سنوياً (قرابة 11,000–27,000 دولار) في معظم الجامعات الخاصة والفروع؛ والمعيشة نحو 4,000–7,000 درهم شهرياً."
+        },
+        "tips": {
+          "en": "NYU Abu Dhabi offers generous need-based aid; most universities give merit discounts of 10–100% for top grades; MBZUAI and Khalifa University fund many graduate students fully.",
+          "ka": "NYU Abu Dhabi გულუხვ საჭიროებაზე დაფუძნებულ დახმარებას გთავაზობს; უნივერსიტეტების უმეტესობა მაღალი ნიშნებისთვის 10–100%-იან ფასდაკლებას იძლევა; MBZUAI და Khalifa University ბევრ მაგისტრანტსა და დოქტორანტს სრულად აფინანსებს.",
+          "ar": "تقدم جامعة نيويورك أبوظبي مساعدات سخية حسب الحاجة؛ وتمنح معظم الجامعات خصومات تفوق من 10% إلى 100% للدرجات العالية؛ وتموّل MBZUAI وجامعة خليفة كثيراً من طلاب الدراسات العليا بالكامل."
+        },
+        "next": {
+          "en": "Compare accredited universities (check the UAE Commission for Academic Accreditation listing) and ask each about merit scholarships.",
+          "ka": "შეადარე აკრედიტებული უნივერსიტეტები (გადაამოწმე UAE Commission for Academic Accreditation-ის სია) და თითოეულს წარჩინების სტიპენდიებზე ჰკითხე.",
+          "ar": "قارن الجامعات المعتمدة (راجع قائمة هيئة الاعتماد الأكاديمي في الإمارات) واسأل كلاً منها عن منح التفوق."
+        },
+        "search": "uae nyu abu dhabi khalifa scholarship bachelor"
+      },
+      "turkey": {
+        "title": {
+          "en": "Türkiye: two continents, many opportunities",
+          "ka": "თურქეთი: ორი კონტინენტი, ბევრი შესაძლებლობა",
+          "ar": "تركيا: قارتان وفرص كثيرة"
+        },
+        "body": {
+          "en": "Türkiye offers affordable public universities, strong private ones (Koç, Sabancı, Bilkent) and many English-taught programmes. Istanbul, Ankara and Izmir combine history, food and modern city life, close to Georgia and the Gulf.",
+          "ka": "თურქეთი გთავაზობს ხელმისაწვდომ საჯარო უნივერსიტეტებს, ძლიერ კერძო უნივერსიტეტებს (Koç, Sabancı, Bilkent) და ბევრ ინგლისურენოვან პროგრამას. სტამბოლი, ანკარა და იზმირი აერთიანებს ისტორიას, სამზარეულოსა და თანამედროვე ქალაქის ცხოვრებას, საქართველოსა და ყურის ქვეყნებთან ახლოს.",
+          "ar": "تقدم تركيا جامعات حكومية ميسورة، وجامعات خاصة قوية (Koç وSabancı وBilkent)، وبرامج كثيرة بالإنجليزية. تجمع إسطنبول وأنقرة وإزمير بين التاريخ والطعام وحياة المدينة الحديثة، قريباً من جورجيا والخليج."
+        },
+        "why": {
+          "en": "You want a low-cost, culturally rich experience not too far from home.",
+          "ka": "გინდა იაფი და კულტურულად მდიდარი გამოცდილება სახლიდან არც ისე შორს.",
+          "ar": "تريد تجربة منخفضة التكلفة وغنية ثقافياً غير بعيدة عن الوطن."
+        },
+        "costs": {
+          "en": "Public tuition roughly USD 500–4,000 a year for international students; private universities USD 6,000–25,000. Living about USD 400–800 a month.",
+          "ka": "საჯარო უნივერსიტეტებში საერთაშორისო სტუდენტის საფასური დაახლოებით 500–4 000 აშშ დოლარია წელიწადში; კერძოში — 6 000–25 000. ცხოვრება — თვეში 400–800 დოლარი.",
+          "ar": "الرسوم الحكومية نحو 500–4,000 دولار سنوياً للطلاب الدوليين؛ والخاصة 6,000–25,000 دولار. والمعيشة نحو 400–800 دولار شهرياً."
+        },
+        "tips": {
+          "en": "Türkiye Bursları (open to all countries) covers tuition, housing, a monthly stipend, health insurance, flights and a Turkish language year. Private universities also give large merit scholarships.",
+          "ka": "Türkiye Bursları (ღიაა ყველა ქვეყნისთვის) ფარავს საფასურს, საცხოვრებელს, ყოველთვიურ სტიპენდიას, სამედიცინო დაზღვევას, ფრენებს და თურქული ენის ერთწლიან კურსს. კერძო უნივერსიტეტებიც დიდ წარჩინების სტიპენდიებს გასცემენ.",
+          "ar": "تغطي منحة Türkiye Bursları (المفتوحة لكل الدول) الرسوم والسكن ومخصصاً شهرياً والتأمين الصحي وتذاكر الطيران وسنة لتعلّم التركية. كما تمنح الجامعات الخاصة منح تفوق كبيرة."
+        },
+        "next": {
+          "en": "Watch for the Türkiye Bursları call (usually January–February) and prepare your SAT or YÖS-type university exam if required.",
+          "ka": "თვალი ადევნე Türkiye Bursları-ს კონკურსს (ჩვეულებრივ იანვარ-თებერვალში) და საჭიროების შემთხვევაში მოემზადე SAT-ისთვის ან YÖS-ის ტიპის უნივერსიტეტის გამოცდისთვის.",
+          "ar": "تابع إعلان منحة Türkiye Bursları (عادة في يناير وفبراير)، واستعد لـ SAT أو امتحان الجامعة من نوع YÖS إن كان مطلوباً."
+        },
+        "search": "turkey türkiye burslari scholarship bachelor english"
+      },
+      "hungary": {
+        "title": {
+          "en": "Hungary: Central Europe on a budget",
+          "ka": "უნგრეთი: ცენტრალური ევროპა ხელმისაწვდომ ფასად",
+          "ar": "المجر: أوروبا الوسطى بميزانية معقولة"
+        },
+        "body": {
+          "en": "Hungary is famous for English-taught medicine, engineering and economics at universities like Semmelweis, ELTE and BME, with Budapest's thermal baths, cafés and nightlife. Living costs are among the lowest in the EU.",
+          "ka": "უნგრეთი ცნობილია ინგლისურენოვანი მედიცინით, ინჟინერიითა და ეკონომიკით ისეთ უნივერსიტეტებში, როგორიცაა Semmelweis, ELTE და BME, ასევე ბუდაპეშტის თერმული აბანოებით, კაფეებითა და ღამის ცხოვრებით. ცხოვრების ხარჯი ევროკავშირში ერთ-ერთი ყველაზე დაბალია.",
+          "ar": "تشتهر المجر بالطب والهندسة والاقتصاد بالإنجليزية في جامعات مثل Semmelweis وELTE وBME، إضافة إلى حمّامات بودابست الحرارية ومقاهيها وحياتها الليلية. وتكاليف المعيشة من الأدنى في الاتحاد الأوروبي."
+        },
+        "why": {
+          "en": "You want an EU degree, possibly medicine, and your budget is limited or you're aiming for a full scholarship.",
+          "ka": "გინდა ევროკავშირის დიპლომი, შესაძლოა მედიცინა, და ბიუჯეტი შეზღუდული გაქვს ან სრულ სტიპენდიას ისახავ მიზნად.",
+          "ar": "تريد شهادة أوروبية، ربما في الطب، وميزانيتك محدودة أو تطمح إلى منحة كاملة."
+        },
+        "costs": {
+          "en": "Tuition roughly €3,000–12,000 a year (medicine about €16,000–20,000); living about €600–900 a month.",
+          "ka": "საფასური დაახლოებით 3 000–12 000 ევროა წელიწადში (მედიცინა — დაახლოებით 16 000–20 000); ცხოვრება — თვეში 600–900 ევრო.",
+          "ar": "الرسوم نحو 3,000–12,000 يورو سنوياً (والطب نحو 16,000–20,000)؛ والمعيشة نحو 600–900 يورو شهرياً."
+        },
+        "tips": {
+          "en": "Stipendium Hungaricum covers tuition, housing support, a monthly stipend and health insurance for students from partner countries (Georgia is one); you apply through your country's nominating body and the university.",
+          "ka": "Stipendium Hungaricum პარტნიორი ქვეყნების (მათ შორის საქართველოს) სტუდენტებისთვის ფარავს საფასურს, საცხოვრებლის ხარჯს, ყოველთვიურ სტიპენდიას და სამედიცინო დაზღვევას; განაცხადს შენი ქვეყნის წარმდგენი უწყებისა და უნივერსიტეტის მეშვეობით აგზავნი.",
+          "ar": "تغطي منحة Stipendium Hungaricum الرسوم ودعم السكن ومخصصاً شهرياً والتأمين الصحي لطلاب الدول الشريكة (ومنها جورجيا)؛ ويُقدَّم لها عبر الجهة المرشِّحة في بلدك والجامعة."
+        },
+        "next": {
+          "en": "Check whether your country is a Stipendium Hungaricum partner; the call usually opens in November and closes in mid-January.",
+          "ka": "გადაამოწმე, არის თუ არა შენი ქვეყანა Stipendium Hungaricum-ის პარტნიორი; კონკურსი ჩვეულებრივ ნოემბერში იხსნება და იანვრის შუა რიცხვებში იხურება.",
+          "ar": "تحقق مما إذا كان بلدك شريكاً في Stipendium Hungaricum؛ يُفتح الإعلان عادة في نوفمبر ويُغلق منتصف يناير."
+        },
+        "search": "hungary stipendium hungaricum scholarship medicine"
+      },
+      "georgia": {
+        "title": {
+          "en": "Georgia: affordable, welcoming and full of character",
+          "ka": "საქართველო: ხელმისაწვდომი, სტუმართმოყვარე და თავისებური",
+          "ar": "جورجيا: ميسورة ومضيافة ومليئة بالتميّز"
+        },
+        "body": {
+          "en": "Georgia offers low-cost degrees, including many English-taught medicine programmes, in a famously hospitable country between Europe and Asia. Tbilisi and Batumi mix old towns, mountains, the Black Sea and a growing start-up scene.",
+          "ka": "საქართველო გთავაზობს იაფ განათლებას, მათ შორის ბევრ ინგლისურენოვან სამედიცინო პროგრამას, სტუმართმოყვარეობით ცნობილ ქვეყანაში ევროპასა და აზიას შორის. თბილისი და ბათუმი აერთიანებს ძველ ქალაქს, მთებს, შავ ზღვას და მზარდ სტარტაპ სცენას.",
+          "ar": "تقدم جورجيا شهادات منخفضة التكلفة، منها برامج طب كثيرة بالإنجليزية، في بلد مشهور بكرم الضيافة بين أوروبا وآسيا. تجمع تبليسي وباتومي بين المدن القديمة والجبال والبحر الأسود ومشهد ناشئ للشركات الناشئة."
+        },
+        "why": {
+          "en": "You want something affordable and close to home (or you are Georgian and want to make the most of the national grant system).",
+          "ka": "გინდა რაღაც ხელმისაწვდომი და სახლთან ახლოს (ან ქართველი ხარ და გინდა სახელმწიფო გრანტის სისტემა მაქსიმალურად გამოიყენო).",
+          "ar": "تريد خياراً ميسوراً وقريباً من الوطن (أو أنت جورجي وتريد الاستفادة القصوى من نظام المنح الوطنية)."
+        },
+        "costs": {
+          "en": "For international students, tuition is roughly USD 2,000–6,000 a year (medicine about USD 4,000–8,000); living about USD 400–700 a month. Georgian citizens pay much less and can win state grants.",
+          "ka": "საერთაშორისო სტუდენტებისთვის საფასური დაახლოებით 2 000–6 000 აშშ დოლარია წელიწადში (მედიცინა — დაახლოებით 4 000–8 000); ცხოვრება — თვეში 400–700 დოლარი. საქართველოს მოქალაქეები გაცილებით ნაკლებს იხდიან და სახელმწიფო გრანტის მოპოვებაც შეუძლიათ.",
+          "ar": "للطلاب الدوليين تبلغ الرسوم نحو 2,000–6,000 دولار سنوياً (والطب نحو 4,000–8,000)؛ والمعيشة نحو 400–700 دولار شهرياً. ويدفع المواطنون الجورجيون أقل بكثير ويمكنهم الفوز بمنح حكومية."
+        },
+        "tips": {
+          "en": "Georgian students: your Unified National Exam scores decide state grants, so prepare early. International students: ask universities about merit discounts, and check that medicine programmes are recognised in your home country.",
+          "ka": "ქართველო სტუდენტებო: სახელმწიფო გრანტს ერთიანი ეროვნული გამოცდების ქულები განსაზღვრავს, ამიტომ ადრე დაიწყეთ მომზადება. საერთაშორისო სტუდენტებო: ჰკითხეთ უნივერსიტეტებს წარჩინების ფასდაკლებებზე და გადაამოწმეთ, აღიარებულია თუ არა სამედიცინო პროგრამა თქვენს ქვეყანაში.",
+          "ar": "للطلاب الجورجيين: درجات الامتحانات الوطنية الموحدة تحدد المنح الحكومية، فاستعدوا مبكراً. وللطلاب الدوليين: اسألوا الجامعات عن خصومات التفوق، وتحققوا من الاعتراف ببرامج الطب في بلدكم."
+        },
+        "next": {
+          "en": "Georgian students: register for the national exams on naec.ge in spring. International students: check accreditation with Georgia's National Center for Educational Quality Enhancement.",
+          "ka": "ქართველო სტუდენტებო: გაზაფხულზე დარეგისტრირდით ეროვნულ გამოცდებზე naec.ge-ზე. საერთაშორისო სტუდენტებო: გადაამოწმეთ აკრედიტაცია განათლების ხარისხის განვითარების ეროვნულ ცენტრში.",
+          "ar": "للطلاب الجورجيين: سجّلوا في الامتحانات الوطنية عبر naec.ge في الربيع. وللطلاب الدوليين: تحققوا من الاعتماد لدى المركز الوطني لتطوير جودة التعليم في جورجيا."
+        },
+        "search": "georgia tbilisi university medicine english scholarship"
+      }
+    }
+  },
+  "career": {
+    "id": "career-fit",
+    "model": "RIASEC (Holland codes)",
+    "title": {
+      "en": "Which career fits you?",
+      "ka": "რომელი კარიერა შეგეფერება?",
+      "ar": "أي مهنة تناسبك؟"
+    },
+    "intro": {
+      "en": "Eighteen quick questions based on Holland's RIASEC model, which groups interests into six types: Realistic, Investigative, Artistic, Social, Enterprising and Conventional. Choose the answer that feels most like you, not what you think sounds best. Your top two types make your code (for example 'IA' or 'SE'), and we'll show matching careers, fields to search on Meridian and skills to build.",
+      "ka": "თვრამეტი სწრაფი კითხვა ჰოლანდის RIASEC მოდელის მიხედვით, რომელიც ინტერესებს ექვს ტიპად ყოფს: რეალისტური, კვლევითი, არტისტული, სოციალური, მეწარმე და კონვენციური. აირჩიე პასუხი, რომელიც ყველაზე მეტად გგავს, და არა ის, რაც უკეთესად ჟღერს. შენი ორი წამყვანი ტიპი შენს კოდს ქმნის (მაგალითად „IA“ ან „SE“), ჩვენ კი გაჩვენებთ შესაბამის პროფესიებს, Meridian-ზე მოსაძებნ სფეროებსა და გასავითარებელ უნარებს.",
+      "ar": "ثمانية عشر سؤالاً سريعاً مبنية على نموذج هولاند RIASEC، الذي يقسم الاهتمامات إلى ستة أنماط: الواقعي، والاستقصائي، والفني، والاجتماعي، والمبادر، والتقليدي المنظِّم. اختر الإجابة التي تشبهك أكثر، لا التي تبدو أفضل. يشكّل نمطاك الأعليان رمزك (مثل «IA» أو «SE»)، وسنعرض لك المهن المناسبة والمجالات التي تبحث عنها في Meridian والمهارات التي تبنيها."
+    },
+    "note": {
+      "en": "This is a fun self-reflection tool, not a scientific assessment. Interests change, so talk to people in the careers you like and try them through projects, volunteering and summer programmes.",
+      "ka": "ეს სახალისო თვითშეფასების ინსტრუმენტია და არა სამეცნიერო ტესტი. ინტერესები იცვლება, ამიტომ ესაუბრე იმ პროფესიის ადამიანებს, რომლებიც მოგწონს, და მოსინჯე ისინი პროექტებით, მოხალისეობითა და საზაფხულო პროგრამებით.",
+      "ar": "هذه أداة ممتعة للتأمل الذاتي وليست تقييماً علمياً. الاهتمامات تتغير، فتحدّث مع أشخاص يعملون في المهن التي تعجبك، وجرّبها عبر المشاريع والتطوع والبرامج الصيفية."
+    },
+    "scoring": "Each option adds 1 point to one code. Sort the six codes by points; the top two form the result code. On a tie, show both tied codes.",
+    "questions": [
+      {
+        "q": {
+          "en": "Your class is organising a charity event. Which job do you grab?",
+          "ka": "კლასი საქველმოქმედო ღონისძიებას აწყობს. რომელ საქმეს აიღებ?",
+          "ar": "صفّك ينظم فعالية خيرية. أي مهمة تختار؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Designing the posters and the stage",
+              "ka": "პოსტერებისა და სცენის დიზაინს",
+              "ar": "تصميم الملصقات والمسرح"
+            },
+            "score": {
+              "A": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Welcoming guests and looking after the volunteers",
+              "ka": "სტუმრების დახვედრას და მოხალისეებზე ზრუნვას",
+              "ar": "استقبال الضيوف والاعتناء بالمتطوعين"
+            },
+            "score": {
+              "S": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Finding sponsors and pitching the idea",
+              "ka": "სპონსორების მოძიებას და იდეის წარდგენას",
+              "ar": "إيجاد الرعاة وعرض الفكرة"
+            },
+            "score": {
+              "E": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Managing the budget and the ticket list",
+              "ka": "ბიუჯეტისა და ბილეთების სიის მართვას",
+              "ar": "إدارة الميزانية وقائمة التذاكر"
+            },
+            "score": {
+              "C": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "A free Saturday afternoon. What sounds best?",
+          "ka": "თავისუფალი შაბათის შუადღე. რა გიზიდავს ყველაზე მეტად?",
+          "ar": "عصر سبت حرّ. ما الذي يبدو الأفضل؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Watching a documentary about how the universe began",
+              "ka": "დოკუმენტური ფილმი იმაზე, როგორ გაჩნდა სამყარო",
+              "ar": "مشاهدة وثائقي عن نشأة الكون"
+            },
+            "score": {
+              "I": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Tutoring a younger student or helping at a community centre",
+              "ka": "უმცროსი მოსწავლის მომზადება ან დახმარება სათემო ცენტრში",
+              "ar": "تدريس طالب أصغر أو المساعدة في مركز مجتمعي"
+            },
+            "score": {
+              "S": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Running a small stall and selling things you made",
+              "ka": "პატარა დახლის მართვა და საკუთარი ნახელავის გაყიდვა",
+              "ar": "إدارة كشك صغير وبيع أشياء صنعتها"
+            },
+            "score": {
+              "E": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Sorting your room, notes and photo library",
+              "ka": "ოთახის, ჩანაწერებისა და ფოტოების დალაგება",
+              "ar": "ترتيب غرفتك وملاحظاتك ومكتبة صورك"
+            },
+            "score": {
+              "C": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Which school task would you enjoy most?",
+          "ka": "რომელი სასკოლო დავალება გესიამოვნება ყველაზე მეტად?",
+          "ar": "أي مهمة مدرسية ستستمتع بها أكثر؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "A science experiment to test a hypothesis",
+              "ka": "სამეცნიერო ექსპერიმენტი ჰიპოთეზის შესამოწმებლად",
+              "ar": "تجربة علمية لاختبار فرضية"
+            },
+            "score": {
+              "I": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Writing a short story or making a short film",
+              "ka": "მოთხრობის დაწერა ან მოკლემეტრაჟიანი ფილმის გადაღება",
+              "ar": "كتابة قصة قصيرة أو صنع فيلم قصير"
+            },
+            "score": {
+              "A": 1
+            }
+          },
+          {
+            "t": {
+              "en": "A debate where you defend your side",
+              "ka": "დებატი, სადაც შენს პოზიციას იცავ",
+              "ar": "مناظرة تدافع فيها عن موقفك"
+            },
+            "score": {
+              "E": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Building a spreadsheet that analyses a class survey",
+              "ka": "ცხრილის შექმნა, რომელიც კლასის გამოკითხვას აანალიზებს",
+              "ar": "إعداد جدول بيانات يحلل استبياناً صفياً"
+            },
+            "score": {
+              "C": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Which compliment would make you proudest?",
+          "ka": "რომელი კომპლიმენტი გაგახარებდა ყველაზე მეტად?",
+          "ar": "أي مديح سيجعلك أكثر فخراً؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "\"You ask the smartest questions.\"",
+              "ka": "„ყველაზე ჭკვიან კითხვებს შენ სვამ.“",
+              "ar": "«أنت تطرح أذكى الأسئلة.»"
+            },
+            "score": {
+              "I": 1
+            }
+          },
+          {
+            "t": {
+              "en": "\"You're so original.\"",
+              "ka": "„ძალიან ორიგინალური ხარ.“",
+              "ar": "«أنت مبدع ومختلف جداً.»"
+            },
+            "score": {
+              "A": 1
+            }
+          },
+          {
+            "t": {
+              "en": "\"You always make people feel better.\"",
+              "ka": "„შენ ყოველთვის ახერხებ, რომ ადამიანებმა თავი უკეთ იგრძნონ.“",
+              "ar": "«أنت دائماً تجعل الناس يشعرون بتحسّن.»"
+            },
+            "score": {
+              "S": 1
+            }
+          },
+          {
+            "t": {
+              "en": "\"You're the most reliable person I know.\"",
+              "ka": "„შენ ყველაზე საიმედო ადამიანი ხარ, ვისაც ვიცნობ.“",
+              "ar": "«أنت أكثر شخص يُعتمد عليه أعرفه.»"
+            },
+            "score": {
+              "C": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Pick a free online course just for fun",
+          "ka": "აირჩიე უფასო ონლაინ კურსი უბრალოდ გასართობად",
+          "ar": "اختر دورة مجانية عبر الإنترنت للمتعة فقط"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Introduction to astronomy or psychology research",
+              "ka": "შესავალი ასტრონომიაში ან ფსიქოლოგიურ კვლევაში",
+              "ar": "مقدمة في علم الفلك أو البحث النفسي"
+            },
+            "score": {
+              "I": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Photography or music production",
+              "ka": "ფოტოგრაფია ან მუსიკის პროდიუსირება",
+              "ar": "التصوير أو إنتاج الموسيقى"
+            },
+            "score": {
+              "A": 1
+            }
+          },
+          {
+            "t": {
+              "en": "First aid and supporting people in crisis",
+              "ka": "პირველი დახმარება და კრიზისში მყოფი ადამიანების მხარდაჭერა",
+              "ar": "الإسعافات الأولية ودعم الناس في الأزمات"
+            },
+            "score": {
+              "S": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Entrepreneurship: launch your first business",
+              "ka": "მეწარმეობა: დაიწყე პირველი ბიზნესი",
+              "ar": "ريادة الأعمال: أطلق مشروعك الأول"
+            },
+            "score": {
+              "E": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "You can choose your summer job. Which one?",
+          "ka": "შეგიძლია ზაფხულის სამსახური აირჩიო. რომელს?",
+          "ar": "يمكنك اختيار وظيفتك الصيفية. أيها تختار؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Assistant in a bike-repair workshop or on a farm",
+              "ka": "დამხმარე ველოსიპედების სახელოსნოში ან ფერმაში",
+              "ar": "مساعد في ورشة إصلاح دراجات أو في مزرعة"
+            },
+            "score": {
+              "R": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Counsellor at a children's summer camp",
+              "ka": "ბავშვთა საზაფხულო ბანაკის ვოჟატი",
+              "ar": "مشرف في مخيم صيفي للأطفال"
+            },
+            "score": {
+              "S": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Sales assistant earning commission in a busy shop",
+              "ka": "გამყიდველი საკომისიოთი დატვირთულ მაღაზიაში",
+              "ar": "مساعد مبيعات بعمولة في متجر مزدحم"
+            },
+            "score": {
+              "E": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Office assistant handling schedules and data entry",
+              "ka": "ოფისის ასისტენტი, რომელიც განრიგსა და მონაცემების შეყვანას მართავს",
+              "ar": "مساعد مكتبي يتولى المواعيد وإدخال البيانات"
+            },
+            "score": {
+              "C": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "In a robotics club, you'd most like to...",
+          "ka": "რობოტიკის კლუბში ყველაზე მეტად მოგინდებოდა...",
+          "ar": "في نادي الروبوتات تفضّل أن..."
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Build and wire the robot",
+              "ka": "რობოტის აწყობა და გაყვანილობა",
+              "ar": "تبني الروبوت وتوصل أسلاكه"
+            },
+            "score": {
+              "R": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Design its look, logo and promo video",
+              "ka": "მისი იერსახის, ლოგოსა და სარეკლამო ვიდეოს შექმნა",
+              "ar": "تصمم شكله وشعاره وفيديو الترويج"
+            },
+            "score": {
+              "A": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Lead the team and present to the judges",
+              "ka": "გუნდის ხელმძღვანელობა და ჟიურისთვის წარდგენა",
+              "ar": "تقود الفريق وتعرض أمام الحكّام"
+            },
+            "score": {
+              "E": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Keep the parts inventory and documentation",
+              "ka": "ნაწილების აღრიცხვა და დოკუმენტაციის წარმოება",
+              "ar": "تتولى جرد القطع والتوثيق"
+            },
+            "score": {
+              "C": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Pick a weekend workshop",
+          "ka": "აირჩიე შაბათ-კვირის ვორქშოპი",
+          "ar": "اختر ورشة لعطلة نهاية الأسبوع"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Woodworking, cooking or car mechanics",
+              "ka": "ხეზე მუშაობა, კულინარია ან ავტომექანიკა",
+              "ar": "النجارة أو الطبخ أو ميكانيكا السيارات"
+            },
+            "score": {
+              "R": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Drawing, theatre or creative writing",
+              "ka": "ხატვა, თეატრი ან შემოქმედებითი წერა",
+              "ar": "الرسم أو المسرح أو الكتابة الإبداعية"
+            },
+            "score": {
+              "A": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Peer mentoring or sign language",
+              "ka": "თანატოლების მენტორობა ან ჟესტების ენა",
+              "ar": "الإرشاد بين الأقران أو لغة الإشارة"
+            },
+            "score": {
+              "S": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Excel, bookkeeping or project-planning tools",
+              "ka": "Excel, ბუღალტერია ან პროექტების დაგეგმვის ინსტრუმენტები",
+              "ar": "Excel أو مسك الدفاتر أو أدوات تخطيط المشاريع"
+            },
+            "score": {
+              "C": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Which video would you click first?",
+          "ka": "რომელ ვიდეოს ჩართავდი პირველს?",
+          "ar": "أي فيديو ستضغط عليه أولاً؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "\"I built a tiny house from scratch\"",
+              "ka": "„პატარა სახლი ნულიდან ავაშენე“",
+              "ar": "«بنيتُ منزلاً صغيراً من الصفر»"
+            },
+            "score": {
+              "R": 1
+            }
+          },
+          {
+            "t": {
+              "en": "\"Designing a fashion collection in 30 days\"",
+              "ka": "„მოდის კოლექციის შექმნა 30 დღეში“",
+              "ar": "«تصميم مجموعة أزياء في 30 يوماً»"
+            },
+            "score": {
+              "A": 1
+            }
+          },
+          {
+            "t": {
+              "en": "\"A day as a nurse in the emergency room\"",
+              "ka": "„ერთი დღე ექთნად სასწრაფო განყოფილებაში“",
+              "ar": "«يوم في حياة ممرض في قسم الطوارئ»"
+            },
+            "score": {
+              "S": 1
+            }
+          },
+          {
+            "t": {
+              "en": "\"How I built a business at 17\"",
+              "ka": "„როგორ შევქმენი ბიზნესი 17 წლის ასაკში“",
+              "ar": "«كيف بنيتُ مشروعاً تجارياً في السابعة عشرة»"
+            },
+            "score": {
+              "E": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Which problem would you most like to solve?",
+          "ka": "რომელი პრობლემის გადაჭრა მოგინდებოდა ყველაზე მეტად?",
+          "ar": "أي مشكلة تودّ حلّها أكثر؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Install solar panels on your school's roof",
+              "ka": "სკოლის სახურავზე მზის პანელების დამონტაჟება",
+              "ar": "تركيب ألواح شمسية على سطح مدرستك"
+            },
+            "score": {
+              "R": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Find out why a disease spreads faster in some cities",
+              "ka": "იმის გარკვევა, რატომ ვრცელდება დაავადება ზოგ ქალაქში უფრო სწრაფად",
+              "ar": "اكتشاف سبب انتشار مرض أسرع في بعض المدن"
+            },
+            "score": {
+              "I": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Convince the city council to fund your idea",
+              "ka": "ქალაქის საკრებულოს დარწმუნება, რომ შენი იდეა დააფინანსოს",
+              "ar": "إقناع مجلس المدينة بتمويل فكرتك"
+            },
+            "score": {
+              "E": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Find the mistake hidden in 1,000 rows of accounts",
+              "ka": "1 000 სტრიქონიან ანგარიშში დამალული შეცდომის პოვნა",
+              "ar": "العثور على الخطأ المخفي في 1,000 سطر من الحسابات"
+            },
+            "score": {
+              "C": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Your ideal place to work",
+          "ka": "შენი იდეალური სამუშაო ადგილი",
+          "ar": "مكان العمل المثالي لك"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Outdoors, in a workshop or on a building site",
+              "ka": "ღია ცის ქვეშ, სახელოსნოში ან სამშენებლო მოედანზე",
+              "ar": "في الهواء الطلق أو في ورشة أو موقع بناء"
+            },
+            "score": {
+              "R": 1
+            }
+          },
+          {
+            "t": {
+              "en": "A research lab full of unanswered questions",
+              "ka": "კვლევითი ლაბორატორია, სავსე პასუხგაუცემელი კითხვებით",
+              "ar": "مختبر أبحاث مليء بالأسئلة دون إجابات"
+            },
+            "score": {
+              "I": 1
+            }
+          },
+          {
+            "t": {
+              "en": "A school, hospital or community centre",
+              "ka": "სკოლა, საავადმყოფო ან სათემო ცენტრი",
+              "ar": "مدرسة أو مستشفى أو مركز مجتمعي"
+            },
+            "score": {
+              "S": 1
+            }
+          },
+          {
+            "t": {
+              "en": "A calm, well-organised office with clear processes",
+              "ka": "მშვიდი, კარგად ორგანიზებული ოფისი მკაფიო პროცესებით",
+              "ar": "مكتب هادئ ومنظم بإجراءات واضحة"
+            },
+            "score": {
+              "C": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "In group projects, you usually...",
+          "ka": "ჯგუფურ პროექტებში ჩვეულებრივ...",
+          "ar": "في المشاريع الجماعية عادةً..."
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Build the model or handle the equipment",
+              "ka": "მაკეტს აწყობ ან აღჭურვილობას განაგებ",
+              "ar": "تبني النموذج أو تتعامل مع المعدات"
+            },
+            "score": {
+              "R": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Do the research and the analysis",
+              "ka": "კვლევასა და ანალიზს აკეთებ",
+              "ar": "تقوم بالبحث والتحليل"
+            },
+            "score": {
+              "I": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Make sure everyone is heard and gets along",
+              "ka": "ზრუნავ, რომ ყველას მოუსმინონ და ყველა შეთანხმდეს",
+              "ar": "تحرص على أن يُسمع الجميع وأن يتفاهموا"
+            },
+            "score": {
+              "S": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Take charge and set the direction",
+              "ka": "ხელმძღვანელობას იღებ და მიმართულებას ადგენ",
+              "ar": "تتولى القيادة وتحدد الاتجاه"
+            },
+            "score": {
+              "E": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Which would you rather make?",
+          "ka": "რის შექმნას ამჯობინებდი?",
+          "ar": "ماذا تفضّل أن تصنع؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "A piece of furniture or a working gadget",
+              "ka": "ავეჯი ან მოქმედი მოწყობილობა",
+              "ar": "قطعة أثاث أو جهازاً يعمل"
+            },
+            "score": {
+              "R": 1
+            }
+          },
+          {
+            "t": {
+              "en": "A theory, and an experiment to test it",
+              "ka": "თეორია და ექსპერიმენტი მის შესამოწმებლად",
+              "ar": "نظرية وتجربة لاختبارها"
+            },
+            "score": {
+              "I": 1
+            }
+          },
+          {
+            "t": {
+              "en": "A song, a painting or a short film",
+              "ka": "სიმღერა, ნახატი ან მოკლემეტრაჟიანი ფილმი",
+              "ar": "أغنية أو لوحة أو فيلماً قصيراً"
+            },
+            "score": {
+              "A": 1
+            }
+          },
+          {
+            "t": {
+              "en": "A perfectly organised plan or database",
+              "ka": "იდეალურად ორგანიზებული გეგმა ან მონაცემთა ბაზა",
+              "ar": "خطة أو قاعدة بيانات منظمة تماماً"
+            },
+            "score": {
+              "C": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Which job would be exciting to try for a day?",
+          "ka": "რომელი პროფესიის ერთი დღით მოსინჯვა იქნებოდა საინტერესო?",
+          "ar": "أي وظيفة سيكون مثيراً أن تجربها ليوم واحد؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Pilot, electrician or park ranger",
+              "ka": "პილოტი, ელექტრიკოსი ან ეროვნული პარკის რეინჯერი",
+              "ar": "طيار أو كهربائي أو حارس محمية طبيعية"
+            },
+            "score": {
+              "R": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Scientist, data analyst or doctor solving a mystery case",
+              "ka": "მეცნიერი, მონაცემთა ანალიტიკოსი ან ექიმი, რომელიც იდუმალ შემთხვევას ხსნის",
+              "ar": "عالم أو محلل بيانات أو طبيب يحل حالة غامضة"
+            },
+            "score": {
+              "I": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Architect, game designer or journalist",
+              "ka": "არქიტექტორი, თამაშების დიზაინერი ან ჟურნალისტი",
+              "ar": "مهندس معماري أو مصمم ألعاب أو صحفي"
+            },
+            "score": {
+              "A": 1
+            }
+          },
+          {
+            "t": {
+              "en": "CEO, courtroom lawyer or campaign manager",
+              "ka": "აღმასრულებელი დირექტორი, სასამართლოს ადვოკატი ან კამპანიის მენეჯერი",
+              "ar": "رئيس تنفيذي أو محامٍ في المحكمة أو مدير حملة"
+            },
+            "score": {
+              "E": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "You get a new gadget. What do you do first?",
+          "ka": "ახალი მოწყობილობა გაჩუქეს. პირველ რიგში რას აკეთებ?",
+          "ar": "حصلت على جهاز جديد. ماذا تفعل أولاً؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Set it up yourself and see how it works inside",
+              "ka": "თავად აწყობ და ნახულობ, როგორ მუშაობს შიგნიდან",
+              "ar": "تجهّزه بنفسك وترى كيف يعمل من الداخل"
+            },
+            "score": {
+              "R": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Read the specs and reviews to understand the technology",
+              "ka": "კითხულობ მახასიათებლებსა და მიმოხილვებს, რომ ტექნოლოგია გაიგო",
+              "ar": "تقرأ المواصفات والمراجعات لتفهم التقنية"
+            },
+            "score": {
+              "I": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Customise how it looks and create content with it",
+              "ka": "მის იერსახეს ცვლი და მისით კონტენტს ქმნი",
+              "ar": "تخصّص شكله وتصنع به محتوى"
+            },
+            "score": {
+              "A": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Help your family and friends set up theirs",
+              "ka": "ოჯახის წევრებსა და მეგობრებს ეხმარები, თავიანთი მოაწყონ",
+              "ar": "تساعد عائلتك وأصدقاءك في تجهيز أجهزتهم"
+            },
+            "score": {
+              "S": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "How do you like spending time with friends?",
+          "ka": "როგორ გიყვარს მეგობრებთან დროის გატარება?",
+          "ar": "كيف تحب قضاء الوقت مع أصدقائك؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "Making something creative together: a band, a film, art",
+              "ka": "ერთად რაღაც შემოქმედებითის შექმნა: ბენდი, ფილმი, ხელოვნება",
+              "ar": "صنع شيء إبداعي معاً: فرقة أو فيلم أو فن"
+            },
+            "score": {
+              "A": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Long talks, listening and giving advice",
+              "ka": "ხანგრძლივი საუბრები, მოსმენა და რჩევის მიცემა",
+              "ar": "أحاديث طويلة والاستماع وتقديم النصيحة"
+            },
+            "score": {
+              "S": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Organising trips and leading the plan",
+              "ka": "მოგზაურობების ორგანიზება და გეგმის წარმართვა",
+              "ar": "تنظيم الرحلات وقيادة الخطة"
+            },
+            "score": {
+              "E": 1
+            }
+          },
+          {
+            "t": {
+              "en": "Handling the details: bookings, timings and budget",
+              "ka": "დეტალებზე ზრუნვა: ჯავშნები, დრო და ბიუჯეტი",
+              "ar": "الاهتمام بالتفاصيل: الحجوزات والمواعيد والميزانية"
+            },
+            "score": {
+              "C": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Which achievement would you put first on your CV?",
+          "ka": "რომელ მიღწევას ჩაწერდი CV-ში პირველს?",
+          "ar": "أي إنجاز ستضعه أولاً في سيرتك الذاتية؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "I built or repaired something that works in real life",
+              "ka": "ავაშენე ან შევაკეთე რაღაც, რაც რეალურად მუშაობს",
+              "ar": "بنيتُ أو أصلحتُ شيئاً يعمل في الواقع"
+            },
+            "score": {
+              "R": 1
+            }
+          },
+          {
+            "t": {
+              "en": "I won a science olympiad or did a research project",
+              "ka": "მეცნიერების ოლიმპიადა მოვიგე ან კვლევითი პროექტი შევასრულე",
+              "ar": "فزتُ بأولمبياد علمي أو أنجزتُ مشروعاً بحثياً"
+            },
+            "score": {
+              "I": 1
+            }
+          },
+          {
+            "t": {
+              "en": "I started a club or business and grew it",
+              "ka": "კლუბი ან ბიზნესი დავაარსე და გავზარდე",
+              "ar": "أسستُ نادياً أو مشروعاً ونمّيته"
+            },
+            "score": {
+              "E": 1
+            }
+          },
+          {
+            "t": {
+              "en": "I ran the logistics of a big event without a single mistake",
+              "ka": "დიდი ღონისძიების ლოჯისტიკა ერთი შეცდომის გარეშე ვმართე",
+              "ar": "أدرتُ لوجستيات فعالية كبيرة دون خطأ واحد"
+            },
+            "score": {
+              "C": 1
+            }
+          }
+        ]
+      },
+      {
+        "q": {
+          "en": "Which sentence sounds most like you?",
+          "ka": "რომელი წინადადება გგავს ყველაზე მეტად?",
+          "ar": "أي جملة تشبهك أكثر؟"
+        },
+        "options": [
+          {
+            "t": {
+              "en": "\"I learn best by doing things with my hands.\"",
+              "ka": "„საუკეთესოდ ვსწავლობ, როცა ხელით ვაკეთებ.“",
+              "ar": "«أتعلم أفضل حين أعمل بيديّ.»"
+            },
+            "score": {
+              "R": 1
+            }
+          },
+          {
+            "t": {
+              "en": "\"I need to understand why things work.\"",
+              "ka": "„მჭირდება იმის გაგება, რატომ მუშაობს ყველაფერი ასე.“",
+              "ar": "«أحتاج إلى أن أفهم لماذا تعمل الأشياء.»"
+            },
+            "score": {
+              "I": 1
+            }
+          },
+          {
+            "t": {
+              "en": "\"I need freedom to express myself.\"",
+              "ka": "„თავის გამოხატვის თავისუფლება მჭირდება.“",
+              "ar": "«أحتاج إلى حرية التعبير عن نفسي.»"
+            },
+            "score": {
+              "A": 1
+            }
+          },
+          {
+            "t": {
+              "en": "\"I feel best when I'm helping someone.\"",
+              "ka": "„თავს საუკეთესოდ მაშინ ვგრძნობ, როცა ვინმეს ვეხმარები.“",
+              "ar": "«أشعر بأفضل حال عندما أساعد أحداً.»"
+            },
+            "score": {
+              "S": 1
+            }
+          }
+        ]
+      }
+    ],
+    "results": {
+      "R": {
+        "title": {
+          "en": "Realistic",
+          "ka": "რეალისტური",
+          "ar": "الواقعي"
+        },
+        "nickname": {
+          "en": "The Builder",
+          "ka": "შემქმნელი",
+          "ar": "البنّاء"
+        },
+        "body": {
+          "en": "You like practical, hands-on work with real objects, tools, machines, plants or animals. You'd rather build, fix or operate something than talk about it, and you enjoy seeing a concrete result at the end of the day.",
+          "ka": "გიყვარს პრაქტიკული მუშაობა ხელით — რეალურ საგნებთან, ინსტრუმენტებთან, მანქანებთან, მცენარეებთან ან ცხოველებთან. ლაპარაკს ამჯობინებ, რომ რაღაც ააშენო, შეაკეთო ან მართო, და გსიამოვნებს დღის ბოლოს ხელშესახები შედეგის დანახვა.",
+          "ar": "تحب العمل العملي اليدوي مع الأشياء الحقيقية والأدوات والآلات والنباتات أو الحيوانات. تفضّل أن تبني أو تُصلح أو تشغّل شيئاً على أن تتحدث عنه، وتستمتع برؤية نتيجة ملموسة في نهاية اليوم."
+        },
+        "professions": {
+          "en": [
+            "Civil engineer",
+            "Mechanical or aerospace engineer",
+            "Airline pilot",
+            "Renewable-energy engineer",
+            "Veterinarian",
+            "Chef"
+          ],
+          "ka": [
+            "სამოქალაქო ინჟინერი",
+            "მექანიკის ან აერონავტიკის ინჟინერი",
+            "ავიაკომპანიის პილოტი",
+            "განახლებადი ენერგიის ინჟინერი",
+            "ვეტერინარი",
+            "შეფ-მზარეული"
+          ],
+          "ar": [
+            "مهندس مدني",
+            "مهندس ميكانيكي أو مهندس طيران",
+            "طيار مدني",
+            "مهندس طاقة متجددة",
+            "طبيب بيطري",
+            "طاهٍ محترف"
+          ]
+        },
+        "fields": {
+          "en": [
+            "Mechanical engineering",
+            "Civil and construction engineering",
+            "Aviation",
+            "Agriculture and environmental science",
+            "Veterinary medicine",
+            "Culinary arts and hospitality"
+          ],
+          "ka": [
+            "მექანიკის ინჟინერია",
+            "სამოქალაქო და სამშენებლო ინჟინერია",
+            "ავიაცია",
+            "აგრონომია და გარემოს მეცნიერებები",
+            "ვეტერინარია",
+            "კულინარია და სტუმარმასპინძლობა"
+          ],
+          "ar": [
+            "الهندسة الميكانيكية",
+            "الهندسة المدنية والإنشائية",
+            "الطيران",
+            "الزراعة والعلوم البيئية",
+            "الطب البيطري",
+            "فنون الطهي والضيافة"
+          ]
+        },
+        "skills": {
+          "en": [
+            "CAD and technical drawing",
+            "Hands-on prototyping (3D printing, electronics)",
+            "Troubleshooting and repair",
+            "Applied maths and physics",
+            "Safety and precision"
+          ],
+          "ka": [
+            "CAD და ტექნიკური ხაზვა",
+            "პრაქტიკული პროტოტიპირება (3D ბეჭდვა, ელექტრონიკა)",
+            "გაუმართაობის პოვნა და შეკეთება",
+            "გამოყენებითი მათემატიკა და ფიზიკა",
+            "უსაფრთხოება და სიზუსტე"
+          ],
+          "ar": [
+            "الرسم الهندسي وبرامج CAD",
+            "النمذجة العملية (الطباعة ثلاثية الأبعاد، الإلكترونيات)",
+            "تشخيص الأعطال والإصلاح",
+            "الرياضيات والفيزياء التطبيقية",
+            "السلامة والدقة"
+          ]
+        },
+        "search": "engineering mechanical civil aviation agriculture"
+      },
+      "I": {
+        "title": {
+          "en": "Investigative",
+          "ka": "კვლევითი",
+          "ar": "الاستقصائي"
+        },
+        "nickname": {
+          "en": "The Thinker",
+          "ka": "მოაზროვნე",
+          "ar": "المفكّر"
+        },
+        "body": {
+          "en": "You are curious and analytical. You love asking why, solving hard problems, experimenting and working with ideas, data and theories. You're happiest when you can dig deep and figure something out for yourself.",
+          "ka": "ცნობისმოყვარე და ანალიტიკური ხარ. გიყვარს კითხვა „რატომ?“, რთული ამოცანების ამოხსნა, ექსპერიმენტები და იდეებთან, მონაცემებთან და თეორიებთან მუშაობა. ყველაზე ბედნიერი მაშინ ხარ, როცა შეგიძლია, ღრმად ჩაუღრმავდე და რაღაც თავად გაარკვიო.",
+          "ar": "أنت فضولي وتحليلي. تحب أن تسأل «لماذا؟»، وتحل المسائل الصعبة، وتجرّب، وتعمل مع الأفكار والبيانات والنظريات. تكون أسعد حين تتعمق وتكتشف الأمور بنفسك."
+        },
+        "professions": {
+          "en": [
+            "Data scientist",
+            "Medical doctor",
+            "Research scientist (biology, chemistry, physics)",
+            "Software engineer",
+            "Pharmacist",
+            "Economist"
+          ],
+          "ka": [
+            "მონაცემთა მეცნიერი",
+            "ექიმი",
+            "მკვლევარი მეცნიერი (ბიოლოგია, ქიმია, ფიზიკა)",
+            "პროგრამული უზრუნველყოფის ინჟინერი",
+            "ფარმაცევტი",
+            "ეკონომისტი"
+          ],
+          "ar": [
+            "عالم بيانات",
+            "طبيب",
+            "باحث علمي (أحياء، كيمياء، فيزياء)",
+            "مهندس برمجيات",
+            "صيدلاني",
+            "خبير اقتصادي"
+          ]
+        },
+        "fields": {
+          "en": [
+            "Computer science and AI",
+            "Medicine",
+            "Physics and mathematics",
+            "Biology and biotechnology",
+            "Chemistry and pharmacy",
+            "Data science and economics"
+          ],
+          "ka": [
+            "კომპიუტერული მეცნიერება და AI",
+            "მედიცინა",
+            "ფიზიკა და მათემატიკა",
+            "ბიოლოგია და ბიოტექნოლოგია",
+            "ქიმია და ფარმაცია",
+            "მონაცემთა მეცნიერება და ეკონომიკა"
+          ],
+          "ar": [
+            "علوم الحاسوب والذكاء الاصطناعي",
+            "الطب",
+            "الفيزياء والرياضيات",
+            "الأحياء والتقنية الحيوية",
+            "الكيمياء والصيدلة",
+            "علم البيانات والاقتصاد"
+          ]
+        },
+        "skills": {
+          "en": [
+            "Mathematics and statistics",
+            "Programming (Python)",
+            "The scientific method and research design",
+            "Reading academic papers critically",
+            "Clear academic writing"
+          ],
+          "ka": [
+            "მათემატიკა და სტატისტიკა",
+            "დაპროგრამება (Python)",
+            "სამეცნიერო მეთოდი და კვლევის დიზაინი",
+            "სამეცნიერო სტატიების კრიტიკული კითხვა",
+            "მკაფიო აკადემიური წერა"
+          ],
+          "ar": [
+            "الرياضيات والإحصاء",
+            "البرمجة (Python)",
+            "المنهج العلمي وتصميم البحث",
+            "القراءة النقدية للأوراق العلمية",
+            "الكتابة الأكاديمية الواضحة"
+          ]
+        },
+        "search": "computer science medicine physics biology research data science"
+      },
+      "A": {
+        "title": {
+          "en": "Artistic",
+          "ka": "არტისტული",
+          "ar": "الفنّي"
+        },
+        "nickname": {
+          "en": "The Creator",
+          "ka": "შემოქმედი",
+          "ar": "المبدع"
+        },
+        "body": {
+          "en": "You are imaginative, expressive and original. You like making things that didn't exist before (designs, stories, music, images, spaces) and prefer freedom to rigid rules. You notice beauty and details others miss.",
+          "ka": "წარმოსახვით მდიდარი, ექსპრესიული და ორიგინალური ხარ. გიყვარს ისეთი რამის შექმნა, რაც მანამდე არ არსებობდა (დიზაინი, ისტორიები, მუსიკა, გამოსახულებები, სივრცეები) და მკაცრ წესებს თავისუფლება გირჩევნია. ამჩნევ სილამაზესა და დეტალებს, რომლებიც სხვებს გამორჩებათ.",
+          "ar": "أنت خيالي ومعبّر وأصيل. تحب صنع أشياء لم تكن موجودة من قبل (تصاميم وقصص وموسيقى وصور ومساحات)، وتفضّل الحرية على القواعد الصارمة. تلاحظ الجمال والتفاصيل التي يفوّتها الآخرون."
+        },
+        "professions": {
+          "en": [
+            "Architect",
+            "Graphic or UX/UI designer",
+            "Film director or video producer",
+            "Journalist or writer",
+            "Game designer",
+            "Musician or music producer"
+          ],
+          "ka": [
+            "არქიტექტორი",
+            "გრაფიკული ან UX/UI დიზაინერი",
+            "კინორეჟისორი ან ვიდეოპროდიუსერი",
+            "ჟურნალისტი ან მწერალი",
+            "თამაშების დიზაინერი",
+            "მუსიკოსი ან მუსიკალური პროდიუსერი"
+          ],
+          "ar": [
+            "مهندس معماري",
+            "مصمم جرافيك أو مصمم تجربة المستخدم",
+            "مخرج سينمائي أو منتج فيديو",
+            "صحفي أو كاتب",
+            "مصمم ألعاب",
+            "موسيقي أو منتج موسيقي"
+          ]
+        },
+        "fields": {
+          "en": [
+            "Architecture",
+            "Graphic, product and UX design",
+            "Film, media and animation",
+            "Journalism and creative writing",
+            "Fine arts",
+            "Music"
+          ],
+          "ka": [
+            "არქიტექტურა",
+            "გრაფიკული, პროდუქტისა და UX დიზაინი",
+            "კინო, მედია და ანიმაცია",
+            "ჟურნალისტიკა და შემოქმედებითი წერა",
+            "სახვითი ხელოვნება",
+            "მუსიკა"
+          ],
+          "ar": [
+            "العمارة",
+            "التصميم الجرافيكي وتصميم المنتجات وتجربة المستخدم",
+            "السينما والإعلام والرسوم المتحركة",
+            "الصحافة والكتابة الإبداعية",
+            "الفنون الجميلة",
+            "الموسيقى"
+          ]
+        },
+        "skills": {
+          "en": [
+            "Building a portfolio",
+            "Design tools (Figma, Adobe, Blender)",
+            "Storytelling",
+            "Taking and using critique",
+            "Self-discipline and deadlines"
+          ],
+          "ka": [
+            "პორტფოლიოს შექმნა",
+            "დიზაინის ინსტრუმენტები (Figma, Adobe, Blender)",
+            "თხრობის ხელოვნება",
+            "კრიტიკის მიღება და გამოყენება",
+            "თვითდისციპლინა და ვადები"
+          ],
+          "ar": [
+            "بناء ملف أعمال",
+            "أدوات التصميم (Figma وAdobe وBlender)",
+            "فن السرد القصصي",
+            "تقبّل النقد والاستفادة منه",
+            "الانضباط الذاتي واحترام المواعيد"
+          ]
+        },
+        "search": "architecture design film media journalism fine arts music"
+      },
+      "S": {
+        "title": {
+          "en": "Social",
+          "ka": "სოციალური",
+          "ar": "الاجتماعي"
+        },
+        "nickname": {
+          "en": "The Helper",
+          "ka": "დამხმარე",
+          "ar": "المساعِد"
+        },
+        "body": {
+          "en": "You are caring, patient and good with people. You enjoy teaching, supporting, healing and bringing people together, and you feel most motivated when your work makes someone's life better.",
+          "ka": "მზრუნველი და მომთმენი ხარ და ადამიანებთან კარგად ურთიერთობ. გიყვარს სწავლება, მხარდაჭერა, განკურნება და ადამიანების გაერთიანება, და ყველაზე მეტად მაშინ ხარ მოტივირებული, როცა შენი საქმე ვინმეს ცხოვრებას აუმჯობესებს.",
+          "ar": "أنت حنون وصبور وتجيد التعامل مع الناس. تستمتع بالتعليم والدعم والعلاج وجمع الناس، وتكون أكثر حماساً حين يجعل عملك حياة أحدهم أفضل."
+        },
+        "professions": {
+          "en": [
+            "Teacher",
+            "Psychologist or counsellor",
+            "Nurse",
+            "Physiotherapist",
+            "Social worker",
+            "NGO or humanitarian programme manager"
+          ],
+          "ka": [
+            "მასწავლებელი",
+            "ფსიქოლოგი ან კონსულტანტი",
+            "ექთანი",
+            "ფიზიოთერაპევტი",
+            "სოციალური მუშაკი",
+            "არასამთავრობო ან ჰუმანიტარული პროგრამის მენეჯერი"
+          ],
+          "ar": [
+            "معلم",
+            "أخصائي نفسي أو مرشد",
+            "ممرض",
+            "أخصائي علاج طبيعي",
+            "أخصائي اجتماعي",
+            "مدير برامج في منظمة غير حكومية أو إنسانية"
+          ]
+        },
+        "fields": {
+          "en": [
+            "Education",
+            "Psychology",
+            "Nursing and physiotherapy",
+            "Public health",
+            "Social work",
+            "International development"
+          ],
+          "ka": [
+            "განათლება",
+            "ფსიქოლოგია",
+            "საექთნო საქმე და ფიზიოთერაპია",
+            "საზოგადოებრივი ჯანდაცვა",
+            "სოციალური მუშაობა",
+            "საერთაშორისო განვითარება"
+          ],
+          "ar": [
+            "التربية والتعليم",
+            "علم النفس",
+            "التمريض والعلاج الطبيعي",
+            "الصحة العامة",
+            "الخدمة الاجتماعية",
+            "التنمية الدولية"
+          ]
+        },
+        "skills": {
+          "en": [
+            "Active listening and empathy",
+            "Public speaking and explaining clearly",
+            "Conflict resolution",
+            "Foreign languages",
+            "Volunteering and teamwork experience"
+          ],
+          "ka": [
+            "აქტიური მოსმენა და თანაგრძნობა",
+            "საჯარო გამოსვლა და მკაფიო ახსნა",
+            "კონფლიქტების მოგვარება",
+            "უცხო ენები",
+            "მოხალისეობისა და გუნდური მუშაობის გამოცდილება"
+          ],
+          "ar": [
+            "الإصغاء الفعّال والتعاطف",
+            "الخطابة والشرح الواضح",
+            "حل النزاعات",
+            "اللغات الأجنبية",
+            "خبرة التطوع والعمل الجماعي"
+          ]
+        },
+        "search": "education psychology nursing public health social work volunteering"
+      },
+      "E": {
+        "title": {
+          "en": "Enterprising",
+          "ka": "მეწარმე",
+          "ar": "المبادِر"
+        },
+        "nickname": {
+          "en": "The Leader",
+          "ka": "ლიდერი",
+          "ar": "القائد"
+        },
+        "body": {
+          "en": "You are confident, energetic and persuasive. You like leading, selling ideas, taking risks and making decisions, and you are drawn to business, law, politics and anything where you can influence people and outcomes.",
+          "ka": "თავდაჯერებული, ენერგიული და დამაჯერებელი ხარ. გიყვარს ხელმძღვანელობა, იდეების „გაყიდვა“, რისკის გაწევა და გადაწყვეტილებების მიღება, და გიზიდავს ბიზნესი, სამართალი, პოლიტიკა და ყველაფერი, სადაც ადამიანებსა და შედეგებზე გავლენის მოხდენა შეგიძლია.",
+          "ar": "أنت واثق ونشيط ومقنع. تحب القيادة وتسويق الأفكار والمخاطرة واتخاذ القرارات، وتنجذب إلى الأعمال والقانون والسياسة وكل ما يتيح لك التأثير في الناس والنتائج."
+        },
+        "professions": {
+          "en": [
+            "Entrepreneur / start-up founder",
+            "Lawyer",
+            "Marketing manager",
+            "Diplomat",
+            "Management consultant",
+            "Business development manager"
+          ],
+          "ka": [
+            "მეწარმე / სტარტაპის დამფუძნებელი",
+            "იურისტი",
+            "მარკეტინგის მენეჯერი",
+            "დიპლომატი",
+            "მენეჯმენტის კონსულტანტი",
+            "ბიზნესის განვითარების მენეჯერი"
+          ],
+          "ar": [
+            "رائد أعمال / مؤسس شركة ناشئة",
+            "محامٍ",
+            "مدير تسويق",
+            "دبلوماسي",
+            "مستشار إداري",
+            "مدير تطوير أعمال"
+          ]
+        },
+        "fields": {
+          "en": [
+            "Business administration and management",
+            "Law",
+            "Marketing",
+            "Economics and finance",
+            "Political science and international relations",
+            "Entrepreneurship"
+          ],
+          "ka": [
+            "ბიზნესის ადმინისტრირება და მენეჯმენტი",
+            "სამართალი",
+            "მარკეტინგი",
+            "ეკონომიკა და ფინანსები",
+            "პოლიტიკის მეცნიერება და საერთაშორისო ურთიერთობები",
+            "მეწარმეობა"
+          ],
+          "ar": [
+            "إدارة الأعمال",
+            "القانون",
+            "التسويق",
+            "الاقتصاد والمالية",
+            "العلوم السياسية والعلاقات الدولية",
+            "ريادة الأعمال"
+          ]
+        },
+        "skills": {
+          "en": [
+            "Public speaking and persuasion",
+            "Negotiation",
+            "Leadership in clubs, MUN or debate",
+            "Financial literacy",
+            "Networking"
+          ],
+          "ka": [
+            "საჯარო გამოსვლა და დარწმუნება",
+            "მოლაპარაკება",
+            "ლიდერობა კლუბებში, MUN-ში ან დებატებში",
+            "ფინანსური წიგნიერება",
+            "კავშირების დამყარება"
+          ],
+          "ar": [
+            "الخطابة والإقناع",
+            "التفاوض",
+            "القيادة في الأندية أو نموذج الأمم المتحدة أو المناظرات",
+            "الثقافة المالية",
+            "بناء شبكة العلاقات"
+          ]
+        },
+        "search": "business management law marketing economics international relations entrepreneurship"
+      },
+      "C": {
+        "title": {
+          "en": "Conventional",
+          "ka": "კონვენციური",
+          "ar": "التقليدي المنظِّم"
+        },
+        "nickname": {
+          "en": "The Organiser",
+          "ka": "ორგანიზატორი",
+          "ar": "المنظِّم"
+        },
+        "body": {
+          "en": "You are careful, organised and dependable. You like clear rules, accurate data and well-run systems, and you're the person who notices the mistake everyone else missed. Organisations can't function without people like you.",
+          "ka": "ყურადღებიანი, ორგანიზებული და საიმედო ხარ. გიყვარს მკაფიო წესები, ზუსტი მონაცემები და კარგად აწყობილი სისტემები, და შენ ის ადამიანი ხარ, ვინც სხვებისგან შეუმჩნეველ შეცდომას ამჩნევს. ორგანიზაციები შენნაირი ადამიანების გარეშე ვერ იმუშავებენ.",
+          "ar": "أنت دقيق ومنظم ويُعتمد عليك. تحب القواعد الواضحة والبيانات الدقيقة والأنظمة المُدارة جيداً، وأنت من يلاحظ الخطأ الذي فات الجميع. لا تستطيع المؤسسات أن تعمل دون أشخاص مثلك."
+        },
+        "professions": {
+          "en": [
+            "Accountant or auditor",
+            "Financial analyst",
+            "Actuary",
+            "Supply-chain and logistics manager",
+            "Database administrator",
+            "Compliance officer"
+          ],
+          "ka": [
+            "ბუღალტერი ან აუდიტორი",
+            "ფინანსური ანალიტიკოსი",
+            "აქტუარი",
+            "მიწოდების ჯაჭვისა და ლოჯისტიკის მენეჯერი",
+            "მონაცემთა ბაზების ადმინისტრატორი",
+            "შესაბამისობის ოფიცერი"
+          ],
+          "ar": [
+            "محاسب أو مدقق حسابات",
+            "محلل مالي",
+            "خبير اكتواري",
+            "مدير سلاسل الإمداد والخدمات اللوجستية",
+            "مدير قواعد بيانات",
+            "مسؤول امتثال"
+          ]
+        },
+        "fields": {
+          "en": [
+            "Accounting",
+            "Finance and banking",
+            "Business analytics",
+            "Supply chain and logistics",
+            "Information systems",
+            "Statistics and actuarial science"
+          ],
+          "ka": [
+            "ბუღალტერია",
+            "ფინანსები და საბანკო საქმე",
+            "ბიზნეს ანალიტიკა",
+            "მიწოდების ჯაჭვი და ლოჯისტიკა",
+            "საინფორმაციო სისტემები",
+            "სტატისტიკა და აქტუარული მეცნიერება"
+          ],
+          "ar": [
+            "المحاسبة",
+            "المالية والمصارف",
+            "تحليلات الأعمال",
+            "سلاسل الإمداد والخدمات اللوجستية",
+            "نظم المعلومات",
+            "الإحصاء والعلوم الاكتوارية"
+          ]
+        },
+        "skills": {
+          "en": [
+            "Advanced Excel and spreadsheets",
+            "SQL and data handling",
+            "Attention to detail",
+            "Time management and planning",
+            "Accounting basics (e.g. ACCA or CFA foundations)"
+          ],
+          "ka": [
+            "Excel-ისა და ცხრილების ღრმა ცოდნა",
+            "SQL და მონაცემებთან მუშაობა",
+            "დეტალებზე ყურადღება",
+            "დროის მართვა და დაგეგმვა",
+            "ბუღალტერიის საფუძვლები (მაგ. ACCA ან CFA-ის საწყისები)"
+          ],
+          "ar": [
+            "إتقان Excel وجداول البيانات",
+            "SQL والتعامل مع البيانات",
+            "الانتباه للتفاصيل",
+            "إدارة الوقت والتخطيط",
+            "أساسيات المحاسبة (مثل مبادئ ACCA أو CFA)"
+          ]
+        },
+        "search": "accounting finance business analytics logistics information systems statistics"
+      }
+    }
+  }
+}

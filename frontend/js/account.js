@@ -6,6 +6,7 @@
 
   var user = null;
   var programs = [];
+  var savedUnis = [];
   var bookings = [];
   var orders = [];
   var applications = [];
@@ -247,6 +248,30 @@
         '<h2 style="font-size:var(--step-1)">' + M.t('account.saved') + '</h2>' +
         '<span class="badge">' + list.length + '</span>' +
       '</div>' + body +
+    '</section>' + savedUniversitiesSection();
+  }
+
+  /* Saved universities, with the one-click Excel of everything about them */
+  function savedUniversitiesSection() {
+    var body = savedUnis.length
+      ? '<div class="grid grid-2">' + savedUnis.map(function (u) {
+          return '<a class="pin-result" href="/universities/' + encodeURIComponent(u.id) + '">' +
+            '<span class="flag">' + (u.flag || '') + '</span>' +
+            '<span style="min-width:0;flex:1"><h4>' + M.esc(M.pick(u.name)) + '</h4>' +
+            '<p>' + M.esc((u.city ? u.city + ', ' : '') + M.pick(u.country)) +
+            (u.deadline ? ' · ' + M.t('programs.deadline') + ': ' + M.formatDate(u.deadline) : '') + '</p></span>' +
+          '</a>';
+        }).join('') + '</div>'
+      : '<div class="empty-state">' + M.icon('cap', 42) + '<p>' + M.t('account.noSavedUnis') + '</p>' +
+        '<a class="btn btn-outline" style="margin-top:1rem" href="/universities">' + M.t('nav.universities') + '</a></div>';
+    return '<section class="card card-pad-lg" id="saved-universities">' +
+      '<div class="spread" style="margin-bottom:1.2rem;gap:.8rem;flex-wrap:wrap">' +
+        '<h2 style="font-size:var(--step-1)">' + M.t('account.savedUnis') + ' <span class="badge">' + savedUnis.length + '</span></h2>' +
+        (savedUnis.length ? '<a class="btn btn-primary btn-sm" href="/api/saved/universities.xlsx?lang=' + M.state.lang + '" download>' +
+          M.icon('download', 16) + '<span>' + M.t('account.excel') + '</span></a>' : '') +
+      '</div>' +
+      (savedUnis.length ? '<p class="muted" style="font-size:.86rem;margin:-.4rem 0 1rem">' + M.t('account.excelNote') + '</p>' : '') +
+      body +
     '</section>';
   }
 
@@ -308,15 +333,17 @@
         M.api('/api/programs'),
         M.api('/api/bookings'),
         M.api('/api/orders'),
-        M.api('/api/applications')
+        M.api('/api/applications'),
+        M.api('/api/saved/universities').catch(function () { return {}; })
       ]).then(function (results) {
         programs = results[0].programs || [];
         bookings = results[1].bookings || [];
         orders = results[2].orders || [];
         applications = results[3].applications || [];
+        savedUnis = results[4].universities || [];
         paint();
-        if (window.location.hash === '#applications') {
-          var target = document.getElementById('applications');
+        if (window.location.hash === '#applications' || window.location.hash === '#saved-universities') {
+          var target = document.getElementById(window.location.hash.slice(1));
           if (target) target.scrollIntoView({ block: 'start' });
         }
       });

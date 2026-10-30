@@ -1,0 +1,1221 @@
+[
+  {
+    "id": "cv",
+    "icon": "file-text",
+    "minutes": 12,
+    "title": {
+      "en": "How to write a CV",
+      "ka": "როგორ დავწეროთ CV",
+      "ar": "كيف تكتب سيرتك الذاتية"
+    },
+    "summary": {
+      "en": "Build a clear one-page CV for university, scholarship and internship applications, even if you have little work experience.",
+      "ka": "შექმენი გასაგები ერთგვერდიანი CV უნივერსიტეტის, სტიპენდიისა და სტაჟირების განაცხადებისთვის, მაშინაც კი, თუ სამუშაო გამოცდილება ცოტა გაქვს.",
+      "ar": "أنشئ سيرة ذاتية واضحة من صفحة واحدة للتقديم إلى الجامعات والمنح والتدريب، حتى لو كانت خبرتك العملية قليلة."
+    },
+    "lessons": [
+      {
+        "title": {
+          "en": "What a CV is for",
+          "ka": "რისთვის არის CV",
+          "ar": "ما الغرض من السيرة الذاتية"
+        },
+        "body": {
+          "en": "A CV is a one- or two-page summary that answers one question for the reader: why should we pick this person? Admissions officers and recruiters often spend less than a minute on a first read, so your CV must be easy to scan.\n\nAs a student, keep it to one page. Universities in the US often call it a 'résumé' or 'activities list'; in Europe and the Gulf, 'CV' is the usual word. The idea is the same: facts, results and dates, not long stories.",
+          "ka": "CV ერთ- ან ორგვერდიანი შეჯამებაა, რომელიც მკითხველის ერთ კითხვას პასუხობს: რატომ უნდა ავირჩიოთ ეს ადამიანი? მიმღები კომისიის წევრები და დამსაქმებლები პირველ წაკითხვას ხშირად წუთზე ნაკლებს უთმობენ, ამიტომ CV ადვილად გადასახედი უნდა იყოს.\n\nსტუდენტისთვის საკმარისია ერთი გვერდი. აშშ-ის უნივერსიტეტები მას ხშირად „résumé“-ს ან „activities list“-ს უწოდებენ; ევროპასა და ყურის ქვეყნებში ჩვეულებრივ „CV“-ს ამბობენ. იდეა ერთია: ფაქტები, შედეგები და თარიღები, არა გრძელი ისტორიები.",
+          "ar": "السيرة الذاتية ملخص من صفحة أو صفحتين يجيب عن سؤال واحد لدى القارئ: لماذا نختار هذا الشخص؟ غالباً ما يقضي مسؤولو القبول ومسؤولو التوظيف أقل من دقيقة في القراءة الأولى، لذا يجب أن تكون سيرتك سهلة التصفح.\n\nبصفتك طالباً، اكتفِ بصفحة واحدة. تسميها الجامعات الأمريكية غالباً «résumé» أو «قائمة الأنشطة»، أما في أوروبا والخليج فالمصطلح المعتاد هو «CV». الفكرة واحدة: حقائق ونتائج وتواريخ، لا قصص طويلة."
+        },
+        "tips": {
+          "en": [
+            "Write a new version for each type of application: research, business and arts CVs stress different things.",
+            "Save it as a PDF named 'Firstname-Lastname-CV.pdf'.",
+            "Never lie or exaggerate: interviewers will ask about every line."
+          ],
+          "ka": [
+            "თითოეული ტიპის განაცხადისთვის ახალი ვერსია დაწერე: კვლევითი, ბიზნესისა და ხელოვნების CV სხვადასხვა რამეს უსვამს ხაზს.",
+            "შეინახე PDF-ად, სახელით „Saxeli-Gvari-CV.pdf“.",
+            "არასოდეს მოიტყუო და არ გააზვიადო: ინტერვიუზე ყოველ სტრიქონზე გკითხავენ."
+          ],
+          "ar": [
+            "اكتب نسخة جديدة لكل نوع من الطلبات: سيرة البحث والأعمال والفنون تركّز على أمور مختلفة.",
+            "احفظها بصيغة PDF باسم «الاسم-العائلة-CV.pdf».",
+            "لا تكذب ولا تبالغ أبداً: سيسألك المقابِلون عن كل سطر."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "The sections, in order",
+          "ka": "ნაწილები, თანმიმდევრობით",
+          "ar": "الأقسام بالترتيب"
+        },
+        "body": {
+          "en": "Use this order: 1) name and contact details; 2) education (school, expected graduation, grades or predicted grades, key subjects); 3) achievements and awards (olympiads, competitions, scholarships); 4) experience (jobs, internships, volunteering, projects); 5) activities and leadership (clubs, MUN, sport, music); 6) skills and languages.\n\nInside each section, list the newest item first. If an olympiad medal is your strongest point, it can go right after education; put your best evidence where the reader looks first.",
+          "ka": "გამოიყენე ეს თანმიმდევრობა: 1) სახელი და საკონტაქტო ინფორმაცია; 2) განათლება (სკოლა, დამთავრების სავარაუდო წელი, ნიშნები ან სავარაუდო ნიშნები, მთავარი საგნები); 3) მიღწევები და ჯილდოები (ოლიმპიადები, კონკურსები, სტიპენდიები); 4) გამოცდილება (სამუშაო, სტაჟირება, მოხალისეობა, პროექტები); 5) აქტივობები და ლიდერობა (კლუბები, MUN, სპორტი, მუსიკა); 6) უნარები და ენები.\n\nთითოეულ ნაწილში უახლესი პუნქტი პირველი დაწერე. თუ ოლიმპიადის მედალი შენი ყველაზე ძლიერი მხარეა, ის განათლების შემდეგ განათავსე; საუკეთესო მტკიცებულება იქ დადე, სადაც მკითხველი პირველად იხედება.",
+          "ar": "استخدم هذا الترتيب: 1) الاسم وبيانات التواصل؛ 2) التعليم (المدرسة، سنة التخرج المتوقعة، الدرجات أو الدرجات المتوقعة، المواد الرئيسية)؛ 3) الإنجازات والجوائز (الأولمبياد، المسابقات، المنح)؛ 4) الخبرة (عمل، تدريب، تطوع، مشاريع)؛ 5) الأنشطة والقيادة (الأندية، نموذج الأمم المتحدة، الرياضة، الموسيقى)؛ 6) المهارات واللغات.\n\nداخل كل قسم ابدأ بالأحدث. إذا كانت ميدالية الأولمبياد أقوى نقاطك فضعها مباشرة بعد التعليم؛ ضع أفضل دليل لديك حيث ينظر القارئ أولاً."
+        },
+        "tips": {
+          "en": [
+            "Contact line: city and country, phone with country code (+995 / +974), professional email, LinkedIn or portfolio link.",
+            "Skip date of birth, marital status, ID number and religion unless the form asks for them.",
+            "A photo is normal in parts of Europe and the Gulf but should be left out for the US and UK."
+          ],
+          "ka": [
+            "საკონტაქტო ხაზი: ქალაქი და ქვეყანა, ტელეფონი ქვეყნის კოდით (+995 / +974), პროფესიული იმეილი, LinkedIn ან პორტფოლიოს ბმული.",
+            "გამოტოვე დაბადების თარიღი, ოჯახური მდგომარეობა, პირადი ნომერი და რელიგია, თუ ფორმა არ ითხოვს.",
+            "ფოტო ევროპის ნაწილსა და ყურის ქვეყნებში ჩვეულებრივია, მაგრამ აშშ-სა და დიდი ბრიტანეთისთვის არ დაურთო."
+          ],
+          "ar": [
+            "سطر التواصل: المدينة والدولة، الهاتف مع رمز الدولة (+995 / +974)، بريد إلكتروني مهني، رابط LinkedIn أو ملف أعمالك.",
+            "تجاوز تاريخ الميلاد والحالة الاجتماعية ورقم الهوية والدين ما لم يطلبها النموذج.",
+            "الصورة مألوفة في أجزاء من أوروبا والخليج، لكن لا تضعها للولايات المتحدة وبريطانيا."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Write bullets that prove impact",
+          "ka": "დაწერე პუნქტები, რომლებიც შედეგს ამტკიცებს",
+          "ar": "اكتب نقاطاً تُثبت الأثر"
+        },
+        "body": {
+          "en": "Each bullet should start with a strong verb and end with a result: 'Organised a charity fair for 300 visitors that raised 4,200 GEL for a children's hospital' beats 'Was responsible for a charity event'.\n\nUse numbers wherever you honestly can: people, money, hours, rankings, percentages. Numbers make a small achievement concrete and believable.",
+          "ka": "თითოეული პუნქტი ძლიერი ზმნით უნდა იწყებოდეს და შედეგით მთავრდებოდეს: „მოვაწყვე საქველმოქმედო ბაზრობა 300 სტუმრისთვის და ბავშვთა საავადმყოფოსთვის 4 200 ლარი შევაგროვე“ ბევრად ჯობია ფრაზას „ვიყავი პასუხისმგებელი საქველმოქმედო ღონისძიებაზე“.\n\nსადაც კი პატიოსნად შეგიძლია, რიცხვები გამოიყენე: ადამიანები, თანხა, საათები, ადგილები, პროცენტები. რიცხვები პატარა მიღწევასაც კონკრეტულსა და დასაჯერებელს ხდის.",
+          "ar": "ابدأ كل نقطة بفعل قوي واختمها بنتيجة: «نظّمتُ معرضاً خيرياً لـ300 زائر جمع 4,200 لاري لمستشفى أطفال» أفضل بكثير من «كنت مسؤولاً عن فعالية خيرية».\n\nاستخدم الأرقام كلما أمكنك ذلك بصدق: الأشخاص والمبالغ والساعات والمراتب والنسب. الأرقام تجعل الإنجاز الصغير ملموساً وقابلاً للتصديق."
+        },
+        "tips": {
+          "en": [
+            "Good verbs: led, built, founded, organised, taught, analysed, designed, won, improved, translated.",
+            "One to three bullets per item; one line each if possible.",
+            "Delete words like 'hard-working' and 'team player': show it with facts instead."
+          ],
+          "ka": [
+            "კარგი ზმნები: ვხელმძღვანელობდი, შევქმენი, დავაარსე, მოვაწყვე, ვასწავლიდი, გავაანალიზე, დავაპროექტე, მოვიგე, გავაუმჯობესე, ვთარგმნე.",
+            "თითო პუნქტზე ერთი-სამი ქვეპუნქტი; თუ შესაძლებელია, თითო ერთ ხაზზე.",
+            "წაშალე სიტყვები, როგორიცაა „შრომისმოყვარე“ და „გუნდური მოთამაშე“: ამის ნაცვლად ფაქტებით აჩვენე."
+          ],
+          "ar": [
+            "أفعال جيدة: قُدتُ، بنيتُ، أسستُ، نظّمتُ، درّستُ، حلّلتُ، صمّمتُ، فزتُ، حسّنتُ، ترجمتُ.",
+            "من نقطة إلى ثلاث لكل بند، وسطر واحد لكل منها إن أمكن.",
+            "احذف عبارات مثل «مجتهد» و«أحب العمل الجماعي»: أظهر ذلك بالحقائق بدلاً منها."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Little experience? Use what you have",
+          "ka": "გამოცდილება ცოტაა? გამოიყენე ის, რაც გაქვს",
+          "ar": "خبرة قليلة؟ استخدم ما لديك"
+        },
+        "body": {
+          "en": "Most high-school students have no formal jobs, and readers know that. School projects, a YouTube channel, tutoring a neighbour, helping in a family shop, coding a small app or translating for a local NGO all count if you describe what you did and what changed.\n\nOnline courses and certificates (Coursera, Khan Academy, Cambridge English) belong in a short 'Courses' line, not as the centre of your CV.",
+          "ka": "საშუალო სკოლის მოსწავლეების უმეტესობას ოფიციალური სამსახური არ ჰქონია და მკითხველმა ეს იცის. სასკოლო პროექტები, YouTube არხი, მეზობლის რეპეტიტორობა, ოჯახურ მაღაზიაში დახმარება, პატარა აპლიკაციის დაპროგრამება ან ადგილობრივი არასამთავრობოსთვის თარგმნა — ყველაფერი ითვლება, თუ აღწერ, რა გააკეთე და რა შეიცვალა.\n\nონლაინ კურსები და სერტიფიკატები (Coursera, Khan Academy, Cambridge English) მოკლე „კურსების“ ხაზში ჩაწერე და არა CV-ის ცენტრში.",
+          "ar": "معظم طلاب الثانوية ليس لديهم وظائف رسمية، والقارئ يعرف ذلك. المشاريع المدرسية، أو قناة يوتيوب، أو تدريس جار، أو المساعدة في متجر العائلة، أو برمجة تطبيق صغير، أو الترجمة لمنظمة محلية، كلها تُحسب إذا وصفت ما فعلته وما الذي تغيّر.\n\nالدورات والشهادات الإلكترونية (Coursera وKhan Academy وCambridge English) مكانها سطر قصير بعنوان «دورات»، لا قلب سيرتك الذاتية."
+        },
+        "tips": {
+          "en": [
+            "Keep a running list of everything you do during the year so you never forget details.",
+            "Group small items: 'Volunteering (2024–2026): Red Cross first-aid trainer; city clean-up organiser'.",
+            "For languages, give a level (native, C1, B2) and the certificate if you have one."
+          ],
+          "ka": [
+            "მთელი წლის განმავლობაში აწარმოე სია ყველაფრისა, რასაც აკეთებ, რომ დეტალები არ დაგავიწყდეს.",
+            "პატარა პუნქტები გააერთიანე: „მოხალისეობა (2024–2026): წითელი ჯვრის პირველი დახმარების ტრენერი; ქალაქის დასუფთავების ორგანიზატორი“.",
+            "ენებისთვის მიუთითე დონე (მშობლიური, C1, B2) და სერტიფიკატი, თუ გაქვს."
+          ],
+          "ar": [
+            "احتفظ بقائمة مستمرة بكل ما تفعله خلال العام حتى لا تنسى التفاصيل.",
+            "اجمع البنود الصغيرة: «تطوع (2024–2026): مدرّب إسعافات أولية في الهلال الأحمر؛ منظّم حملة تنظيف المدينة».",
+            "للغات، اذكر المستوى (لغة أم، C1، B2) والشهادة إن وُجدت."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Design, checking and common mistakes",
+          "ka": "დიზაინი, შემოწმება და ხშირი შეცდომები",
+          "ar": "التصميم والمراجعة والأخطاء الشائعة"
+        },
+        "body": {
+          "en": "Use one clean font (Calibri, Arial, Garamond) at 10–12 pt, clear headings, consistent dates and margins of about 2 cm. No tables, icons or two-column templates if you will upload to an online portal: automated systems often read them badly.\n\nRead it aloud, run a spell-check, then ask a teacher or friend to spend 30 seconds on it and tell you what they remember. If they miss your best achievement, move it higher.",
+          "ka": "გამოიყენე ერთი სუფთა შრიფტი (Calibri, Arial, Garamond) 10–12 ზომით, მკაფიო სათაურები, ერთნაირი ფორმატის თარიღები და დაახლოებით 2 სმ კიდეები. თუ ონლაინ პორტალზე ტვირთავ, მოერიდე ცხრილებს, იკონებსა და ორსვეტიან შაბლონებს: ავტომატური სისტემები მათ ხშირად ცუდად კითხულობენ.\n\nხმამაღლა წაიკითხე, გადაამოწმე ორთოგრაფია, შემდეგ სთხოვე მასწავლებელს ან მეგობარს, 30 წამი დაუთმოს და გითხრას, რა დაამახსოვრდა. თუ შენი საუკეთესო მიღწევა გამორჩა, უფრო მაღლა გადაიტანე.",
+          "ar": "استخدم خطاً واحداً نظيفاً (Calibri أو Arial أو Garamond) بحجم 10–12، وعناوين واضحة، وتواريخ متسقة، وهوامش نحو 2 سم. تجنّب الجداول والأيقونات والقوالب ذات العمودين إن كنت سترفعها إلى بوابة إلكترونية: الأنظمة الآلية كثيراً ما تقرؤها بشكل سيئ.\n\nاقرأها بصوت عالٍ وافحص الإملاء، ثم اطلب من معلم أو صديق أن يقضي عليها 30 ثانية ويخبرك بما تذكّره. إن فاته أفضل إنجازاتك، فارفعه إلى الأعلى."
+        },
+        "tips": {
+          "en": [
+            "Same tense everywhere: past for finished items, present for ongoing ones.",
+            "Use a sensible email address (name.surname@...), not a nickname.",
+            "Update it every term, not the night before a deadline."
+          ],
+          "ka": [
+            "ყველგან ერთი დრო: დასრულებულისთვის წარსული, მიმდინარისთვის — აწმყო.",
+            "გამოიყენე სერიოზული იმეილი (saxeli.gvari@...), და არა მეტსახელი.",
+            "ყოველ სემესტრში განაახლე და არა ვადის წინა ღამეს."
+          ],
+          "ar": [
+            "التزم بالزمن نفسه: الماضي للمنتهي والمضارع للمستمر.",
+            "استخدم بريداً لائقاً (الاسم.العائلة@...)، لا لقباً.",
+            "حدّثها كل فصل دراسي، لا في الليلة السابقة للموعد النهائي."
+          ]
+        }
+      }
+    ],
+    "template": {
+      "en": "FIRST LAST NAME\nCity, Country · +995 5XX XXX XXX · name.surname@email.com · linkedin.com/in/yourname\n\nEDUCATION\nSchool name, City — High school diploma, expected June 2027\nGPA / grades: ... · Key subjects: ... · Tests: SAT 1450 / IELTS 7.5\n\nACHIEVEMENTS\n• 2026 — Silver medal, National Mathematics Olympiad (top 3 of 1,200)\n\nEXPERIENCE & PROJECTS\nRole, Organisation — Month Year–Month Year\n• [Verb] + [what you did] + [result with a number]\n\nACTIVITIES & LEADERSHIP\nPresident, School Debate Club — 2025–present\n• Grew the club from 8 to 30 members; organised the first inter-school tournament\n\nSKILLS & LANGUAGES\nGeorgian (native) · English (C1, IELTS 7.5) · Arabic (B1) · Python, Excel, Canva",
+      "ka": "სახელი გვარი\nქალაქი, ქვეყანა · +995 5XX XXX XXX · saxeli.gvari@email.com · linkedin.com/in/yourname\n\nგანათლება\nსკოლის დასახელება, ქალაქი — საშუალო სკოლის ატესტატი, სავარაუდოდ 2027 წლის ივნისი\nGPA / ნიშნები: ... · მთავარი საგნები: ... · ტესტები: SAT 1450 / IELTS 7.5\n\nმიღწევები\n• 2026 — ვერცხლის მედალი, მათემატიკის ეროვნული ოლიმპიადა (1 200 მონაწილიდან საუკეთესო სამეულში)\n\nგამოცდილება და პროექტები\nპოზიცია, ორგანიზაცია — თვე წელი–თვე წელი\n• [ზმნა] + [რა გააკეთე] + [შედეგი რიცხვით]\n\nაქტივობები და ლიდერობა\nსკოლის დებატების კლუბის პრეზიდენტი — 2025–დღემდე\n• კლუბი 8-დან 30 წევრამდე გავზარდე; მოვაწყვე პირველი სკოლათაშორისი ტურნირი\n\nუნარები და ენები\nქართული (მშობლიური) · ინგლისური (C1, IELTS 7.5) · არაბული (B1) · Python, Excel, Canva",
+      "ar": "الاسم الأول واسم العائلة\nالمدينة، الدولة · +974 XXXX XXXX · name.surname@email.com · linkedin.com/in/yourname\n\nالتعليم\nاسم المدرسة، المدينة — شهادة الثانوية العامة، متوقعة في يونيو 2027\nالمعدل / الدرجات: ... · المواد الرئيسية: ... · الاختبارات: SAT 1450 / IELTS 7.5\n\nالإنجازات\n• 2026 — الميدالية الفضية، الأولمبياد الوطني للرياضيات (ضمن أفضل 3 من أصل 1,200)\n\nالخبرة والمشاريع\nالمنصب، الجهة — الشهر السنة–الشهر السنة\n• [فعل] + [ما فعلته] + [نتيجة برقم]\n\nالأنشطة والقيادة\nرئيس نادي المناظرات المدرسي — 2025 حتى الآن\n• زدتُ أعضاء النادي من 8 إلى 30؛ ونظّمتُ أول بطولة بين المدارس\n\nالمهارات واللغات\nالعربية (لغة أم) · الإنجليزية (C1، IELTS 7.5) · الفرنسية (A2) · Python وExcel وCanva"
+    },
+    "links": [
+      {
+        "title": {
+          "en": "Harvard College guide to creating a strong résumé",
+          "ka": "Harvard College — ძლიერი რეზიუმეს შექმნის გზამკვლევი",
+          "ar": "دليل Harvard College لكتابة سيرة ذاتية قوية"
+        },
+        "url": "https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/"
+      },
+      {
+        "title": {
+          "en": "MIT CAPD: résumés",
+          "ka": "MIT CAPD: რეზიუმეები",
+          "ar": "MIT CAPD: السير الذاتية"
+        },
+        "url": "https://capd.mit.edu/resources/resumes/"
+      },
+      {
+        "title": {
+          "en": "Purdue OWL: résumés and CVs",
+          "ka": "Purdue OWL: რეზიუმეები და CV",
+          "ar": "Purdue OWL: السير الذاتية"
+        },
+        "url": "https://owl.purdue.edu/owl/job_search_writing/resumes_and_vitas/index.html"
+      },
+      {
+        "title": {
+          "en": "Prospects: example CVs",
+          "ka": "Prospects: CV-ის მაგალითები",
+          "ar": "Prospects: أمثلة على السير الذاتية"
+        },
+        "url": "https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/example-cvs"
+      }
+    ]
+  },
+  {
+    "id": "europass",
+    "icon": "file-badge",
+    "minutes": 10,
+    "title": {
+      "en": "Europass CV",
+      "ka": "Europass CV",
+      "ar": "السيرة الذاتية بصيغة Europass"
+    },
+    "summary": {
+      "en": "Create a free Europass CV, the EU's standard format, and learn when to use it and how to describe your languages and qualifications.",
+      "ka": "შექმენი უფასო Europass CV — ევროკავშირის სტანდარტული ფორმატი — და გაიგე, როდის გამოიყენო და როგორ აღწერო ენები და კვალიფიკაციები.",
+      "ar": "أنشئ سيرة ذاتية مجانية بصيغة Europass، الصيغة المعيارية للاتحاد الأوروبي، وتعلّم متى تستخدمها وكيف تصف لغاتك ومؤهلاتك."
+    },
+    "lessons": [
+      {
+        "title": {
+          "en": "What Europass is and when to use it",
+          "ka": "რა არის Europass და როდის გამოვიყენოთ",
+          "ar": "ما هو Europass ومتى تستخدمه"
+        },
+        "body": {
+          "en": "Europass is a free European Union platform with an online CV editor and a profile where you store your skills, experience and documents. Its CV format is recognised across Europe and is often requested by Erasmus+, European Solidarity Corps, EU-funded projects and some European universities.\n\nUse Europass when the call asks for it or when applying to European public programmes. For US universities, private companies or the UK, a shorter custom CV usually works better.",
+          "ka": "Europass ევროკავშირის უფასო პლატფორმაა: მასში არის ონლაინ CV-ის რედაქტორი და პროფილი, სადაც უნარებს, გამოცდილებასა და დოკუმენტებს ინახავ. მისი CV-ის ფორმატი მთელ ევროპაშია აღიარებული და მას ხშირად ითხოვენ Erasmus+, ევროპის სოლიდარობის კორპუსი, ევროკავშირის დაფინანსებული პროექტები და ზოგიერთი ევროპული უნივერსიტეტი.\n\nEuropass გამოიყენე, როცა კონკურსი ამას ითხოვს ან ევროპულ სახელმწიფო პროგრამებზე აპლიკაციისას. აშშ-ის უნივერსიტეტებისთვის, კერძო კომპანიებისთვის ან დიდი ბრიტანეთისთვის, ჩვეულებრივ, უფრო მოკლე, ინდივიდუალური CV ჯობია.",
+          "ar": "Europass منصة مجانية تابعة للاتحاد الأوروبي فيها محرر إلكتروني للسيرة الذاتية وملف شخصي تحفظ فيه مهاراتك وخبراتك ووثائقك. صيغة سيرتها معترف بها في أنحاء أوروبا، وغالباً ما تطلبها برامج Erasmus+ وفيلق التضامن الأوروبي والمشاريع الممولة أوروبياً وبعض الجامعات الأوروبية.\n\nاستخدم Europass عندما يطلبه الإعلان أو عند التقديم لبرامج أوروبية عامة. أما للجامعات الأمريكية أو الشركات الخاصة أو بريطانيا فالسيرة القصيرة المخصصة تعمل عادة بشكل أفضل."
+        },
+        "tips": {
+          "en": [
+            "The Europass platform is free and available in the EU languages; you can create the CV in English.",
+            "Read the call carefully: some ask for 'Europass format' and will reject other layouts."
+          ],
+          "ka": [
+            "Europass-ის პლატფორმა უფასოა და ევროკავშირის ენებზეა ხელმისაწვდომი; CV-ის შექმნა ინგლისურად შეგიძლია.",
+            "კონკურსის პირობები ყურადღებით წაიკითხე: ზოგი „Europass ფორმატს“ ითხოვს და სხვა განლაგებას არ მიიღებს."
+          ],
+          "ar": [
+            "منصة Europass مجانية ومتاحة بلغات الاتحاد الأوروبي؛ ويمكنك إنشاء السيرة بالإنجليزية.",
+            "اقرأ الإعلان بعناية: بعضها يطلب «صيغة Europass» ويرفض غيرها."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Create your account and CV step by step",
+          "ka": "შექმენი ანგარიში და CV ნაბიჯ-ნაბიჯ",
+          "ar": "أنشئ حسابك وسيرتك خطوة بخطوة"
+        },
+        "body": {
+          "en": "Go to europass.europa.eu and choose 'Create your Europass CV'. You can work without an account, but creating a free profile lets you save, edit and reuse your CV later.\n\nFill in personal information, work experience, education and training, language skills, digital skills and other sections. Then pick one of the templates, check the preview and download a PDF.",
+          "ka": "გადადი europass.europa.eu-ზე და აირჩიე „Create your Europass CV“. ანგარიშის გარეშეც შეგიძლია მუშაობა, მაგრამ უფასო პროფილი CV-ის შენახვის, რედაქტირებისა და შემდეგ ხელახლა გამოყენების საშუალებას გაძლევს.\n\nშეავსე პირადი ინფორმაცია, სამუშაო გამოცდილება, განათლება და ტრენინგები, ენობრივი და ციფრული უნარები და სხვა ნაწილები. შემდეგ აირჩიე ერთ-ერთი შაბლონი, გადახედე წინასწარ ხედს და ჩამოტვირთე PDF.",
+          "ar": "ادخل إلى europass.europa.eu واختر «Create your Europass CV». يمكنك العمل دون حساب، لكن إنشاء ملف مجاني يتيح لك حفظ السيرة وتعديلها وإعادة استخدامها لاحقاً.\n\nاملأ المعلومات الشخصية والخبرة العملية والتعليم والتدريب والمهارات اللغوية والرقمية وبقية الأقسام. ثم اختر أحد القوالب وراجع المعاينة ونزّل ملف PDF."
+        },
+        "tips": {
+          "en": [
+            "Delete empty sections: an empty heading looks worse than no heading.",
+            "Keep it to two pages at most, even though the editor lets you write more.",
+            "Save the file as a PDF; do not send editable files."
+          ],
+          "ka": [
+            "წაშალე ცარიელი ნაწილები: ცარიელი სათაური უარესად გამოიყურება, ვიდრე მისი არქონა.",
+            "მაქსიმუმ ორი გვერდი, მიუხედავად იმისა, რომ რედაქტორი მეტის დაწერის საშუალებას გაძლევს.",
+            "ფაილი PDF-ად შეინახე; რედაქტირებადი ფაილები არ გააგზავნო."
+          ],
+          "ar": [
+            "احذف الأقسام الفارغة: العنوان الفارغ أسوأ من عدم وجوده.",
+            "صفحتان كحد أقصى، حتى لو سمح لك المحرر بالمزيد.",
+            "احفظ الملف PDF؛ لا ترسل ملفات قابلة للتعديل."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Describe your languages with the CEFR grid",
+          "ka": "აღწერე ენები CEFR-ის ცხრილით",
+          "ar": "صف لغاتك باستخدام شبكة CEFR"
+        },
+        "body": {
+          "en": "Europass asks you to rate each foreign language from A1 to C2 for listening, reading, spoken interaction, spoken production and writing, using the Common European Framework of Reference (CEFR). Read the descriptions honestly before choosing a level.\n\nAdd your certificate next to the level: 'English – C1 (IELTS 7.5, 2026)'. Examiners and interviewers check, so an inflated level hurts you.",
+          "ka": "Europass გთხოვს, თითოეული უცხო ენა A1-დან C2-მდე შეაფასო მოსმენის, კითხვის, ზეპირი ინტერაქციის, ზეპირი მეტყველებისა და წერის მიხედვით, ენების ევროპული ჩარჩოს (CEFR) გამოყენებით. დონის არჩევამდე აღწერილობები გულწრფელად წაიკითხე.\n\nდონის გვერდით სერტიფიკატიც მიუთითე: „ინგლისური – C1 (IELTS 7.5, 2026)“. გამომცდელები და ინტერვიუერები ამოწმებენ, ამიტომ გაზვიადებული დონე გავნებს.",
+          "ar": "يطلب منك Europass تقييم كل لغة أجنبية من A1 إلى C2 في الاستماع والقراءة والتفاعل الشفهي والإنتاج الشفهي والكتابة، وفق الإطار الأوروبي المرجعي المشترك للغات (CEFR). اقرأ الأوصاف بصدق قبل اختيار المستوى.\n\nأضف شهادتك بجانب المستوى: «الإنجليزية – C1 (IELTS 7.5، 2026)». الممتحنون والمقابِلون يتحققون، والمستوى المبالغ فيه يضرّك."
+        },
+        "tips": {
+          "en": [
+            "Your mother tongue is listed separately, without levels.",
+            "Rough guide: IELTS 5.5–6.5 ≈ B2, 7.0–8.0 ≈ C1, 8.5+ ≈ C2."
+          ],
+          "ka": [
+            "მშობლიური ენა ცალკე, დონეების გარეშე იწერება.",
+            "მიახლოებით: IELTS 5.5–6.5 ≈ B2, 7.0–8.0 ≈ C1, 8.5+ ≈ C2."
+          ],
+          "ar": [
+            "تُكتب لغتك الأم منفصلة دون مستويات.",
+            "دليل تقريبي: IELTS 5.5–6.5 ≈ B2، و7.0–8.0 ≈ C1، و8.5 فأكثر ≈ C2."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Education levels and digital skills",
+          "ka": "განათლების დონეები და ციფრული უნარები",
+          "ar": "مستويات التعليم والمهارات الرقمية"
+        },
+        "body": {
+          "en": "For education, write the official name of your school or university, the city and country, dates and the qualification. Europass also lets you add the European Qualifications Framework (EQF) level: a general secondary diploma is usually EQF 4, a bachelor's degree EQF 6 and a master's EQF 7.\n\nIn digital skills, list concrete tools (Python, Excel pivot tables, Figma, video editing) rather than 'good computer skills'.",
+          "ka": "განათლებაში ჩაწერე სკოლის ან უნივერსიტეტის ოფიციალური სახელი, ქალაქი და ქვეყანა, თარიღები და კვალიფიკაცია. Europass ასევე გაძლევს კვალიფიკაციების ევროპული ჩარჩოს (EQF) დონის დამატების საშუალებას: სრული ზოგადი განათლების ატესტატი ჩვეულებრივ EQF 4-ია, ბაკალავრის ხარისხი — EQF 6, მაგისტრის — EQF 7.\n\nციფრულ უნარებში ჩამოთვალე კონკრეტული ინსტრუმენტები (Python, Excel-ის pivot ცხრილები, Figma, ვიდეოს მონტაჟი) და არა „კომპიუტერის კარგი ცოდნა“.",
+          "ar": "في التعليم اكتب الاسم الرسمي لمدرستك أو جامعتك والمدينة والدولة والتواريخ والمؤهل. يتيح لك Europass أيضاً إضافة مستوى الإطار الأوروبي للمؤهلات (EQF): شهادة الثانوية العامة عادة EQF 4، والبكالوريوس EQF 6، والماجستير EQF 7.\n\nفي المهارات الرقمية اذكر أدوات محددة (Python، الجداول المحورية في Excel، Figma، تحرير الفيديو) بدلاً من «مهارات حاسوب جيدة»."
+        },
+        "tips": {
+          "en": [
+            "Translate your school's name into English but keep the original in brackets if it helps recognition.",
+            "Upload certificates to your Europass Library so they are ready for every application."
+          ],
+          "ka": [
+            "სკოლის სახელი ინგლისურად თარგმნე, მაგრამ ორიგინალი ფრჩხილებში დატოვე, თუ ეს ამოცნობას შეუწყობს ხელს.",
+            "სერტიფიკატები ატვირთე Europass-ის ბიბლიოთეკაში, რომ ყველა განაცხადისთვის მზად გქონდეს."
+          ],
+          "ar": [
+            "ترجم اسم مدرستك إلى الإنجليزية مع إبقاء الاسم الأصلي بين قوسين إن ساعد ذلك على التعرّف عليها.",
+            "ارفع شهاداتك إلى مكتبة Europass لتكون جاهزة لكل طلب."
+          ]
+        }
+      }
+    ],
+    "template": {
+      "en": "PERSONAL INFORMATION: Name Surname · Nationality: Georgian · Date of birth (only if requested) · Email · Phone · LinkedIn\n\nEDUCATION AND TRAINING\n09/2015 – 06/2027 · General secondary education (EQF level 4) · School No. X, Tbilisi, Georgia · Main subjects: ...\n\nWORK EXPERIENCE / VOLUNTEERING\n07/2026 – 08/2026 · Volunteer, Organisation, City, Country · Main activities: ... · Result: ...\n\nLANGUAGE SKILLS\nMother tongue: Georgian\nEnglish: Listening C1 · Reading C1 · Spoken interaction B2 · Spoken production B2 · Writing C1 (IELTS 7.0, 2026)\n\nDIGITAL SKILLS: Python · Excel · Canva · Video editing\n\nOTHER: Driving licence, hobbies only if relevant",
+      "ka": "პირადი ინფორმაცია: სახელი გვარი · მოქალაქეობა: საქართველო · დაბადების თარიღი (მხოლოდ თუ ითხოვენ) · იმეილი · ტელეფონი · LinkedIn\n\nგანათლება და ტრენინგი\n09/2015 – 06/2027 · სრული ზოგადი განათლება (EQF დონე 4) · X საჯარო სკოლა, თბილისი, საქართველო · მთავარი საგნები: ...\n\nსამუშაო გამოცდილება / მოხალისეობა\n07/2026 – 08/2026 · მოხალისე, ორგანიზაცია, ქალაქი, ქვეყანა · ძირითადი საქმიანობა: ... · შედეგი: ...\n\nენობრივი უნარები\nმშობლიური ენა: ქართული\nინგლისური: მოსმენა C1 · კითხვა C1 · ზეპირი ინტერაქცია B2 · ზეპირი მეტყველება B2 · წერა C1 (IELTS 7.0, 2026)\n\nციფრული უნარები: Python · Excel · Canva · ვიდეოს მონტაჟი\n\nსხვა: მართვის მოწმობა, ჰობი — მხოლოდ თუ რელევანტურია",
+      "ar": "المعلومات الشخصية: الاسم واسم العائلة · الجنسية: قطرية · تاريخ الميلاد (فقط إن طُلب) · البريد الإلكتروني · الهاتف · LinkedIn\n\nالتعليم والتدريب\n09/2015 – 06/2027 · التعليم الثانوي العام (المستوى 4 في EQF) · مدرسة ...، الدوحة، قطر · المواد الرئيسية: ...\n\nالخبرة العملية / التطوع\n07/2026 – 08/2026 · متطوع، الجهة، المدينة، الدولة · الأنشطة الرئيسية: ... · النتيجة: ...\n\nالمهارات اللغوية\nاللغة الأم: العربية\nالإنجليزية: الاستماع C1 · القراءة C1 · التفاعل الشفهي B2 · الإنتاج الشفهي B2 · الكتابة C1 (IELTS 7.0، 2026)\n\nالمهارات الرقمية: Python · Excel · Canva · تحرير الفيديو\n\nأخرى: رخصة القيادة، والهوايات فقط إن كانت ذات صلة"
+    },
+    "links": [
+      {
+        "title": {
+          "en": "Europass (official EU portal)",
+          "ka": "Europass (ევროკავშირის ოფიციალური პორტალი)",
+          "ar": "Europass (البوابة الرسمية للاتحاد الأوروبي)"
+        },
+        "url": "https://europass.europa.eu/en"
+      },
+      {
+        "title": {
+          "en": "Create your Europass CV",
+          "ka": "შექმენი Europass CV",
+          "ar": "أنشئ سيرتك بصيغة Europass"
+        },
+        "url": "https://europass.europa.eu/en/create-europass-cv"
+      },
+      {
+        "title": {
+          "en": "CEFR language levels explained (Europass)",
+          "ka": "CEFR ენობრივი დონეების ახსნა (Europass)",
+          "ar": "شرح مستويات اللغة وفق CEFR (Europass)"
+        },
+        "url": "https://europass.europa.eu/en/common-european-framework-reference-language-skills"
+      },
+      {
+        "title": {
+          "en": "The eight EQF levels (Europass)",
+          "ka": "EQF-ის რვა დონე (Europass)",
+          "ar": "المستويات الثمانية لـ EQF (Europass)"
+        },
+        "url": "https://europass.europa.eu/en/description-eight-eqf-levels"
+      }
+    ]
+  },
+  {
+    "id": "cover-letter",
+    "icon": "file-signature",
+    "minutes": 12,
+    "title": {
+      "en": "Cover and motivation letters",
+      "ka": "სამოტივაციო და თანმხლები წერილი",
+      "ar": "رسالة التغطية ورسالة التحفيز"
+    },
+    "summary": {
+      "en": "Write a one-page letter that connects your story to this specific programme, scholarship or job, with a clear structure you can reuse.",
+      "ka": "დაწერე ერთგვერდიანი წერილი, რომელიც შენს ისტორიას ამ კონკრეტულ პროგრამას, სტიპენდიას ან სამსახურს უკავშირებს, მკაფიო სტრუქტურით, რომელიც მერეც გამოგადგება.",
+      "ar": "اكتب رسالة من صفحة واحدة تربط قصتك بهذا البرنامج أو المنحة أو الوظيفة تحديداً، بهيكل واضح يمكنك إعادة استخدامه."
+    },
+    "lessons": [
+      {
+        "title": {
+          "en": "Cover letter vs motivation letter",
+          "ka": "თანმხლები წერილი თუ სამოტივაციო",
+          "ar": "رسالة التغطية مقابل رسالة التحفيز"
+        },
+        "body": {
+          "en": "A cover letter goes with a CV for a job or internship and answers: why you, for this role? A motivation letter (common for European universities, Erasmus programmes and scholarships) answers: why this programme, why now, and what will you do with it?\n\nBoth must be specific. If you could send the same letter to ten places by changing only the name, it is too general.",
+          "ka": "თანმხლები წერილი სამსახურის ან სტაჟირების CV-ს ახლავს და პასუხობს კითხვას: რატომ შენ, ამ პოზიციაზე? სამოტივაციო წერილი (გავრცელებულია ევროპულ უნივერსიტეტებში, Erasmus-ის პროგრამებსა და სტიპენდიებში) პასუხობს: რატომ ეს პროგრამა, რატომ ახლა და რას გააკეთებ მისით?\n\nორივე კონკრეტული უნდა იყოს. თუ ერთსა და იმავე წერილს ათ ადგილას გააგზავნიდი მხოლოდ სახელის შეცვლით, ის ზედმეტად ზოგადია.",
+          "ar": "ترافق رسالة التغطية السيرة الذاتية عند التقديم لوظيفة أو تدريب، وتجيب: لماذا أنت لهذا الدور؟ أما رسالة التحفيز (الشائعة في الجامعات الأوروبية وبرامج Erasmus والمنح) فتجيب: لماذا هذا البرنامج، ولماذا الآن، وماذا ستفعل به؟\n\nيجب أن تكون كلتاهما محددة. إن كان بإمكانك إرسال الرسالة نفسها إلى عشر جهات بتغيير الاسم فقط، فهي عامة أكثر من اللازم."
+        },
+        "tips": {
+          "en": [
+            "Length: one page, about 350–500 words, unless a word limit is given.",
+            "If there are guiding questions in the call, answer every one, in order."
+          ],
+          "ka": [
+            "მოცულობა: ერთი გვერდი, დაახლოებით 350–500 სიტყვა, თუ სიტყვების ლიმიტი სხვა არ არის.",
+            "თუ კონკურსში დამხმარე კითხვებია, ყველას უპასუხე, თანმიმდევრობით."
+          ],
+          "ar": [
+            "الطول: صفحة واحدة، نحو 350–500 كلمة، ما لم يُحدَّد حد آخر.",
+            "إن تضمّن الإعلان أسئلة إرشادية فأجب عنها كلها بالترتيب."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "A structure that works",
+          "ka": "სტრუქტურა, რომელიც მუშაობს",
+          "ar": "هيكل ناجح"
+        },
+        "body": {
+          "en": "Opening: who you are and exactly what you are applying for, plus one hook, such as a moment or result that shows your interest. Body 1: your relevant experience and skills, with evidence. Body 2: why this programme or organisation in particular (courses, professors, projects, values). Closing: what you will contribute and your next step, and thank the reader.\n\nKeep paragraphs to 3–5 sentences. One idea per paragraph makes the letter easy to read.",
+          "ka": "შესავალი: ვინ ხარ და ზუსტად რაზე აპლიკირებ, პლუს ერთი „კაკალი“ — მომენტი ან შედეგი, რომელიც შენს ინტერესს აჩვენებს. ძირითადი ნაწილი 1: შენი რელევანტური გამოცდილება და უნარები, მტკიცებულებით. ძირითადი ნაწილი 2: რატომ სწორედ ეს პროგრამა ან ორგანიზაცია (კურსები, პროფესორები, პროექტები, ღირებულებები). დასასრული: რა შეგაქვს და შემდეგი ნაბიჯი, და მადლობა მკითხველს.\n\nაბზაცი 3–5 წინადადება იყოს. ერთი იდეა თითო აბზაცში წერილს ადვილად საკითხავს ხდის.",
+          "ar": "المقدمة: من أنت وما الذي تتقدم إليه بالضبط، مع جملة لافتة واحدة، مثل موقف أو نتيجة تُظهر اهتمامك. الفقرة الأولى: خبرتك ومهاراتك ذات الصلة مع الأدلة. الفقرة الثانية: لماذا هذا البرنامج أو هذه الجهة تحديداً (المقررات، الأساتذة، المشاريع، القيم). الخاتمة: ما الذي ستضيفه وخطوتك التالية، مع شكر القارئ.\n\nاجعل كل فقرة من 3 إلى 5 جمل. فكرة واحدة لكل فقرة تجعل الرسالة سهلة القراءة."
+        },
+        "tips": {
+          "en": [
+            "Write the 'why this place' paragraph first: it is the hardest and shows the most effort.",
+            "Name two or three concrete things: a module, a lab, a professor's project, an alumni story."
+          ],
+          "ka": [
+            "ჯერ „რატომ აქ“ აბზაცი დაწერე: ის ყველაზე რთულია და ყველაზე მეტ ძალისხმევას აჩვენებს.",
+            "დაასახელე ორი-სამი კონკრეტული რამ: მოდული, ლაბორატორია, პროფესორის პროექტი, კურსდამთავრებულის ისტორია."
+          ],
+          "ar": [
+            "اكتب فقرة «لماذا هنا» أولاً: هي الأصعب وتُظهر أكبر جهد.",
+            "اذكر شيئين أو ثلاثة محددة: مقرر، مختبر، مشروع أستاذ، قصة خريج."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Show, don't tell",
+          "ka": "აჩვენე, ნუ ამბობ",
+          "ar": "أظهِر ولا تكتفِ بالقول"
+        },
+        "body": {
+          "en": "'I am passionate about engineering' tells the reader nothing. 'I spent last summer rebuilding my grandfather's water pump with a 3D-printed part I designed' shows passion and skill at the same time.\n\nPick one or two stories, not ten. Explain what you did, what you learned and how it links to what you want to study or do next.",
+          "ka": "„მე ინჟინერიით ვარ გატაცებული“ მკითხველს არაფერს ეუბნება. „გასული ზაფხული ბაბუაჩემის წყლის ტუმბოს აღდგენას დავუთმე, ჩემ მიერ დაპროექტებული 3D-ბეჭდური დეტალით“ — ერთდროულად აჩვენებს გატაცებასაც და უნარსაც.\n\nაირჩიე ერთი-ორი ისტორია და არა ათი. ახსენი, რა გააკეთე, რა ისწავლე და როგორ უკავშირდება ეს იმას, რისი სწავლაც ან კეთებაც შემდეგ გინდა.",
+          "ar": "عبارة «أنا شغوف بالهندسة» لا تخبر القارئ بشيء. أما «قضيتُ الصيف الماضي أُصلح مضخة مياه جدي بقطعة صمّمتها وطبعتها بتقنية ثلاثية الأبعاد» فتُظهر الشغف والمهارة معاً.\n\nاختر قصة أو قصتين لا عشراً. اشرح ما فعلته وما تعلمته وكيف يرتبط بما تريد دراسته أو فعله لاحقاً."
+        },
+        "tips": {
+          "en": [
+            "Avoid clichés: 'since I was a child', 'I have always dreamed', 'a prestigious university'.",
+            "Do not repeat your CV line by line; pick the best evidence and explain it."
+          ],
+          "ka": [
+            "მოერიდე კლიშეებს: „ბავშვობიდან“, „ყოველთვის ვოცნებობდი“, „პრესტიჟული უნივერსიტეტი“.",
+            "CV სტრიქონ-სტრიქონ ნუ გაიმეორებ; აირჩიე საუკეთესო მტკიცებულება და ახსენი."
+          ],
+          "ar": [
+            "تجنّب العبارات المستهلكة: «منذ طفولتي»، «لطالما حلمت»، «جامعة مرموقة».",
+            "لا تكرر سيرتك سطراً بسطر؛ اختر أفضل دليل واشرحه."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Tone, format and final check",
+          "ka": "ტონი, ფორმატი და საბოლოო შემოწმება",
+          "ar": "الأسلوب والتنسيق والمراجعة النهائية"
+        },
+        "body": {
+          "en": "Address a real person if you can find the name ('Dear Professor Ahmadi'); otherwise use 'Dear Admissions Committee' or 'Dear Selection Committee'. Avoid 'To whom it may concern'. End with 'Yours sincerely' (named person) or 'Kind regards'.\n\nConfident, polite and simple English beats complex vocabulary. Read it aloud, check every name (a wrong university name is fatal), and save as a PDF titled with your name.",
+          "ka": "თუ სახელს იპოვი, კონკრეტულ ადამიანს მიმართე („Dear Professor Ahmadi“); წინააღმდეგ შემთხვევაში — „Dear Admissions Committee“ ან „Dear Selection Committee“. მოერიდე „To whom it may concern“-ს. დაასრულე „Yours sincerely“-ით (თუ სახელით მიმართე) ან „Kind regards“-ით.\n\nთავდაჯერებული, თავაზიანი და მარტივი ინგლისური რთულ ლექსიკას ჯობია. ხმამაღლა წაიკითხე, ყველა სახელი გადაამოწმე (უნივერსიტეტის არასწორი სახელი საბედისწეროა) და შეინახე PDF-ად, შენი სახელით.",
+          "ar": "خاطب شخصاً حقيقياً إن عرفت اسمه («Dear Professor Ahmadi»)؛ وإلا فاستخدم «Dear Admissions Committee» أو «Dear Selection Committee». تجنّب «To whom it may concern». واختم بـ«Yours sincerely» (عند ذكر الاسم) أو «Kind regards».\n\nالإنجليزية الواثقة المهذبة البسيطة أفضل من المفردات المعقدة. اقرأها بصوت عالٍ، وتحقق من كل اسم (الخطأ في اسم الجامعة قاتل)، واحفظها PDF باسمك."
+        },
+        "tips": {
+          "en": [
+            "Use AI tools only to check grammar, not to write: committees recognise generic AI text and some forbid it.",
+            "Ask one person who knows you and one who doesn't to read it."
+          ],
+          "ka": [
+            "AI ინსტრუმენტები მხოლოდ გრამატიკის შესამოწმებლად გამოიყენე და არა დასაწერად: კომისიები ზოგად AI ტექსტს ცნობენ, ზოგი კი კრძალავს.",
+            "სთხოვე წაკითხვა ერთ ადამიანს, ვინც გიცნობს, და ერთს, ვინც არ გიცნობს."
+          ],
+          "ar": [
+            "استخدم أدوات الذكاء الاصطناعي لتدقيق القواعد فقط لا للكتابة: اللجان تتعرف على النص العام المولَّد آلياً، وبعضها يمنعه.",
+            "اطلب قراءتها من شخص يعرفك وآخر لا يعرفك."
+          ]
+        }
+      }
+    ],
+    "template": {
+      "en": "Dear [Name / Admissions Committee],\n\nI am applying for the [programme / position] at [institution]. [One-sentence hook: a moment or result that shows your interest.]\n\n[Paragraph 2 — Evidence] In [year], I [action] at [place], which led to [result with a number]. This taught me [skill], which I will need for [part of the programme / role].\n\n[Paragraph 3 — Why here] [Institution] stands out to me because of [course/lab/project 1] and [2]. I would especially like to [concrete plan], building on my experience in [...].\n\n[Paragraph 4 — Contribution and close] I would bring [quality backed by evidence] to [community/team], and after the programme I plan to [goal, ideally linked to your home country]. Thank you for considering my application.\n\nKind regards,\n[Full name]",
+      "ka": "პატივცემულო [სახელი / მიმღებო კომისიავ],\n\nგიგზავნით განაცხადს [პროგრამაზე / პოზიციაზე] [დაწესებულებაში]. [ერთწინადადებიანი შესავალი: მომენტი ან შედეგი, რომელიც შენს ინტერესს აჩვენებს.]\n\n[აბზაცი 2 — მტკიცებულება] [წელს] [ადგილას] [ქმედება], რის შედეგადაც [შედეგი რიცხვით]. ამან მასწავლა [უნარი], რომელიც დამჭირდება [პროგრამის ნაწილისთვის / როლისთვის].\n\n[აბზაცი 3 — რატომ აქ] [დაწესებულება] ჩემთვის გამორჩეულია [კურსის/ლაბორატორიის/პროექტის 1] და [2]-ის გამო. განსაკუთრებით მინდა [კონკრეტული გეგმა], [...]-ში ჩემს გამოცდილებაზე დაყრდნობით.\n\n[აბზაცი 4 — წვლილი და დასასრული] [საზოგადოებას/გუნდს] შევძენ [თვისება, მტკიცებულებით], პროგრამის შემდეგ კი ვგეგმავ [მიზანი, სასურველია საქართველოსთან დაკავშირებული]. მადლობას გიხდით განაცხადის განხილვისთვის.\n\nპატივისცემით,\n[სახელი და გვარი]",
+      "ar": "حضرة [الاسم / لجنة القبول] المحترمين،\n\nأتقدم بطلب الالتحاق بـ[البرنامج / الوظيفة] في [المؤسسة]. [جملة افتتاحية لافتة: موقف أو نتيجة تُظهر اهتمامك.]\n\n[الفقرة 2 — الدليل] في [السنة] قمتُ بـ[العمل] في [المكان]، مما أدى إلى [نتيجة برقم]. تعلّمتُ من ذلك [المهارة] التي سأحتاجها في [جزء من البرنامج / الدور].\n\n[الفقرة 3 — لماذا هنا] تتميز [المؤسسة] بالنسبة لي بـ[المقرر/المختبر/المشروع 1] و[2]. وأودّ خصوصاً أن [خطة محددة]، بناءً على خبرتي في [...].\n\n[الفقرة 4 — الإسهام والخاتمة] سأضيف إلى [المجتمع/الفريق] [صفة مدعومة بدليل]، وبعد البرنامج أخطط لـ[هدف، ويُفضَّل أن يرتبط ببلدك]. شكراً لكم على النظر في طلبي.\n\nمع خالص التحية،\n[الاسم الكامل]"
+    },
+    "links": [
+      {
+        "title": {
+          "en": "Prospects: how to write a cover letter",
+          "ka": "Prospects: როგორ დავწეროთ თანმხლები წერილი",
+          "ar": "Prospects: كيف تكتب رسالة تغطية"
+        },
+        "url": "https://www.prospects.ac.uk/careers-advice/cvs-and-cover-letters/cover-letters"
+      },
+      {
+        "title": {
+          "en": "Harvard: create a résumé/CV or cover letter",
+          "ka": "Harvard: რეზიუმე/CV ან თანმხლები წერილი",
+          "ar": "Harvard: إنشاء سيرة ذاتية أو رسالة تغطية"
+        },
+        "url": "https://careerservices.fas.harvard.edu/channels/create-a-resume-cv-or-cover-letter/"
+      },
+      {
+        "title": {
+          "en": "Purdue OWL: the basic business letter",
+          "ka": "Purdue OWL: საქმიანი წერილის საფუძვლები",
+          "ar": "Purdue OWL: أساسيات الرسالة الرسمية"
+        },
+        "url": "https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/basic_business_letters/index.html"
+      },
+      {
+        "title": {
+          "en": "Europass (CV and profile tools)",
+          "ka": "Europass (CV და პროფილის ინსტრუმენტები)",
+          "ar": "Europass (أدوات السيرة والملف الشخصي)"
+        },
+        "url": "https://europass.europa.eu/en"
+      }
+    ]
+  },
+  {
+    "id": "interviews",
+    "icon": "mic",
+    "minutes": 14,
+    "title": {
+      "en": "Succeeding in interviews (university and scholarship)",
+      "ka": "წარმატება ინტერვიუზე (უნივერსიტეტი და სტიპენდია)",
+      "ar": "النجاح في المقابلات (الجامعات والمنح)"
+    },
+    "summary": {
+      "en": "Prepare for admission and scholarship interviews, online or in person: research, answer structure, common questions and how to finish strong.",
+      "ka": "მოემზადე მიღებისა და სტიპენდიის ინტერვიუებისთვის, ონლაინ თუ პირისპირ: კვლევა, პასუხის სტრუქტურა, ხშირი კითხვები და ძლიერი დასასრული.",
+      "ar": "استعد لمقابلات القبول والمنح، عبر الإنترنت أو حضورياً: البحث، وهيكلة الإجابة، والأسئلة الشائعة، وكيف تختم بقوة."
+    },
+    "lessons": [
+      {
+        "title": {
+          "en": "Know what they are looking for",
+          "ka": "იცოდე, რას ეძებენ",
+          "ar": "اعرف ما الذي يبحثون عنه"
+        },
+        "body": {
+          "en": "Different interviews test different things. Oxford and Cambridge interviews are academic conversations: they watch how you think through an unfamiliar problem. US alumni interviews are friendly chats about your interests. Scholarship panels (Chevening, DAAD, Fulbright and others) look for leadership, clear goals and how you will help your country.\n\nBefore you prepare answers, read the programme's selection criteria and write them on one page. Every story you prepare should prove at least one of them.",
+          "ka": "სხვადასხვა ინტერვიუ სხვადასხვა რამეს ამოწმებს. ოქსფორდისა და კემბრიჯის ინტერვიუები აკადემიური საუბარია: აკვირდებიან, როგორ ფიქრობ უცნობ პრობლემაზე. აშშ-ის კურსდამთავრებულების ინტერვიუები მეგობრული საუბარია შენს ინტერესებზე. სტიპენდიის კომისიები (Chevening, DAAD, Fulbright და სხვ.) ეძებენ ლიდერობას, მკაფიო მიზნებს და იმას, როგორ დაეხმარები შენს ქვეყანას.\n\nპასუხების მომზადებამდე წაიკითხე პროგრამის შერჩევის კრიტერიუმები და ერთ გვერდზე ჩამოწერე. ყოველი ისტორია, რომელსაც ამზადებ, ერთ-ერთს მაინც უნდა ამტკიცებდეს.",
+          "ar": "تختبر المقابلات المختلفة أموراً مختلفة. مقابلات أكسفورد وكامبريدج محادثات أكاديمية: يراقبون كيف تفكر في مشكلة غير مألوفة. مقابلات الخريجين في الجامعات الأمريكية أحاديث ودية عن اهتماماتك. أما لجان المنح (Chevening وDAAD وFulbright وغيرها) فتبحث عن القيادة والأهداف الواضحة وكيف ستخدم بلدك.\n\nقبل إعداد الإجابات، اقرأ معايير الاختيار في البرنامج واكتبها في صفحة واحدة. يجب أن تُثبت كل قصة تُعدّها معياراً واحداً منها على الأقل."
+        },
+        "tips": {
+          "en": [
+            "Re-read your own application: interviewers ask about what you wrote.",
+            "Research the institution: two or three facts you genuinely like."
+          ],
+          "ka": [
+            "ხელახლა წაიკითხე შენი განაცხადი: ინტერვიუერები იმაზე გეკითხებიან, რაც დაწერე.",
+            "გამოიკვლიე დაწესებულება: ორი-სამი ფაქტი, რომელიც მართლა მოგწონს."
+          ],
+          "ar": [
+            "أعد قراءة طلبك: يسألك المقابِلون عمّا كتبته.",
+            "ابحث عن المؤسسة: حقيقتان أو ثلاث تعجبك فعلاً."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Answer with STAR",
+          "ka": "უპასუხე STAR-ის მეთოდით",
+          "ar": "أجب بطريقة STAR"
+        },
+        "body": {
+          "en": "For 'tell me about a time when...' questions, use STAR: Situation (one sentence of context), Task (what you had to do), Action (what you did — the longest part, use 'I', not 'we'), Result (what changed, ideally with a number, and what you learned).\n\nPrepare six to eight stories that can answer many questions: a leadership moment, a failure, a conflict, a project you are proud of, helping someone, a time you changed your mind.",
+          "ka": "კითხვებზე „მომიყევი შემთხვევაზე, როცა...“ გამოიყენე STAR: Situation (კონტექსტი ერთ წინადადებაში), Task (რა უნდა გაგეკეთებინა), Action (რა გააკეთე — ყველაზე გრძელი ნაწილი, თქვი „მე“ და არა „ჩვენ“), Result (რა შეიცვალა, სასურველია რიცხვით, და რა ისწავლე).\n\nმოამზადე ექვსიდან რვამდე ისტორია, რომლებიც ბევრ კითხვას უპასუხებს: ლიდერობის მომენტი, წარუმატებლობა, კონფლიქტი, პროექტი, რომლითაც ამაყობ, ვინმეს დახმარება, შემთხვევა, როცა აზრი შეიცვალე.",
+          "ar": "في أسئلة «حدّثني عن موقف...» استخدم STAR: الموقف (جملة واحدة للسياق)، المهمة (ما كان عليك فعله)، الفعل (ما فعلته — الجزء الأطول، وقل «أنا» لا «نحن»)، النتيجة (ما الذي تغيّر، ويُفضَّل برقم، وما الذي تعلمته).\n\nحضّر من ست إلى ثماني قصص تجيب عن أسئلة كثيرة: موقف قيادي، وإخفاق، وخلاف، ومشروع تفخر به، ومساعدة شخص ما، ومرة غيّرتَ فيها رأيك."
+        },
+        "tips": {
+          "en": [
+            "Aim for 1–2 minutes per answer.",
+            "For a failure question, spend most of the time on what you learned and did next."
+          ],
+          "ka": [
+            "თითო პასუხზე 1–2 წუთი.",
+            "წარუმატებლობის შესახებ კითხვაზე დროის უმეტესი ნაწილი დაუთმე იმას, რა ისწავლე და რა გააკეთე შემდეგ."
+          ],
+          "ar": [
+            "استهدف دقيقة إلى دقيقتين لكل إجابة.",
+            "في سؤال الإخفاق، اقضِ معظم الوقت في ما تعلمته وما فعلته بعده."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Common questions to practise",
+          "ka": "ხშირი კითხვები სავარჯიშოდ",
+          "ar": "أسئلة شائعة للتدرّب"
+        },
+        "body": {
+          "en": "Almost every interview includes some version of: Tell me about yourself. Why this subject? Why this university or scholarship? What will you do after you graduate? Describe a challenge you overcame. What do you do outside class? Do you have any questions for us?\n\nFor 'tell me about yourself', prepare a 60-second answer: present (what you study and love), past (one or two experiences that shaped you), future (why this opportunity is the next step). For academic interviews, practise thinking aloud on problems from your subject.",
+          "ka": "თითქმის ყველა ინტერვიუში რაღაც ფორმით გვხვდება: მომიყევი შენ შესახებ. რატომ ეს საგანი? რატომ ეს უნივერსიტეტი ან სტიპენდია? რას გააკეთებ დამთავრების შემდეგ? აღწერე სირთულე, რომელიც გადალახე. რას აკეთებ გაკვეთილების გარეთ? გაქვს ჩვენთვის კითხვები?\n\nკითხვისთვის „მომიყევი შენ შესახებ“ მოამზადე 60-წამიანი პასუხი: აწმყო (რას სწავლობ და რა გიყვარს), წარსული (ერთი-ორი გამოცდილება, რომელმაც ჩამოგაყალიბა), მომავალი (რატომ არის ეს შესაძლებლობა შემდეგი ნაბიჯი). აკადემიური ინტერვიუებისთვის ივარჯიშე შენი საგნის ამოცანებზე ხმამაღლა ფიქრში.",
+          "ar": "تتضمن كل مقابلة تقريباً صيغة من: حدّثني عن نفسك. لماذا هذا التخصص؟ لماذا هذه الجامعة أو المنحة؟ ماذا ستفعل بعد التخرج؟ صف تحدياً تغلبت عليه. ماذا تفعل خارج الصف؟ هل لديك أسئلة لنا؟\n\nلسؤال «حدّثني عن نفسك» جهّز إجابة من 60 ثانية: الحاضر (ما تدرسه وتحبه)، الماضي (تجربة أو تجربتان شكّلتاك)، المستقبل (لماذا هذه الفرصة هي خطوتك التالية). وللمقابلات الأكاديمية، تدرّب على التفكير بصوت عالٍ في مسائل من تخصصك."
+        },
+        "tips": {
+          "en": [
+            "Record yourself on your phone and watch it once: you will notice filler words immediately.",
+            "Do at least two mock interviews with a teacher, mentor or friend.",
+            "Prepare two thoughtful questions to ask at the end."
+          ],
+          "ka": [
+            "ჩაიწერე თავი ტელეფონზე და ერთხელ ნახე: პარაზიტ სიტყვებს მაშინვე შეამჩნევ.",
+            "ჩაატარე მინიმუმ ორი საცდელი ინტერვიუ მასწავლებელთან, მენტორთან ან მეგობართან.",
+            "მოამზადე ორი გააზრებული კითხვა ბოლოს დასასმელად."
+          ],
+          "ar": [
+            "سجّل نفسك بالهاتف وشاهد التسجيل مرة: ستلاحظ كلمات الحشو فوراً.",
+            "أجرِ مقابلتين تجريبيتين على الأقل مع معلم أو مرشد أو صديق.",
+            "حضّر سؤالين مدروسين تطرحهما في النهاية."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Online interviews",
+          "ka": "ონლაინ ინტერვიუები",
+          "ar": "المقابلات عبر الإنترنت"
+        },
+        "body": {
+          "en": "Test the platform (Zoom, Teams, Google Meet) the day before with the same device. Put the camera at eye level, sit facing a window or lamp, use headphones and close every other app and notification.\n\nJoin five minutes early, dress as you would in person, and look at the camera, not the screen, when you speak. If the connection drops, rejoin calmly and say where you stopped.",
+          "ka": "პლატფორმა (Zoom, Teams, Google Meet) წინა დღეს იმავე მოწყობილობით შეამოწმე. კამერა თვალის დონეზე დადე, ფანჯრის ან ნათურისკენ ისე დაჯექი, რომ სახე განათებული იყოს, გამოიყენე ყურსასმენები და დახურე ყველა სხვა აპლიკაცია და შეტყობინება.\n\nხუთი წუთით ადრე შეუერთდი, ისე ჩაიცვი, როგორც პირისპირ შეხვედრაზე, და საუბრისას კამერას უყურე და არა ეკრანს. თუ კავშირი გაწყდა, მშვიდად დაბრუნდი და თქვი, სად გაჩერდი.",
+          "ar": "اختبر المنصة (Zoom أو Teams أو Google Meet) في اليوم السابق بالجهاز نفسه. ضع الكاميرا بمستوى عينيك، واجلس مقابل نافذة أو مصباح، واستخدم سماعات، وأغلق كل التطبيقات والإشعارات الأخرى.\n\nانضم قبل خمس دقائق، والبس كما لو كانت المقابلة حضورية، وانظر إلى الكاميرا لا إلى الشاشة عند الحديث. إن انقطع الاتصال فعُد بهدوء وقل أين توقفت."
+        },
+        "tips": {
+          "en": [
+            "Keep a printed page with three key points and your questions; never read full answers.",
+            "Check the time zone: Doha is UTC+3, Tbilisi UTC+4."
+          ],
+          "ka": [
+            "გქონდეს დაბეჭდილი ფურცელი სამი მთავარი პუნქტითა და შენი კითხვებით; სრულ პასუხებს ნუ წაიკითხავ.",
+            "გადაამოწმე დროის სარტყელი: დოჰა UTC+3-ია, თბილისი — UTC+4."
+          ],
+          "ar": [
+            "احتفظ بورقة مطبوعة فيها ثلاث نقاط رئيسية وأسئلتك؛ لا تقرأ إجابات كاملة أبداً.",
+            "تحقق من المنطقة الزمنية: الدوحة UTC+3 وتبليسي UTC+4."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "On the day and after",
+          "ka": "ინტერვიუს დღეს და მის შემდეგ",
+          "ar": "في يوم المقابلة وبعدها"
+        },
+        "body": {
+          "en": "Greet the panel, smile and listen to the whole question before answering. It is fine to pause and say 'Let me think for a moment'. If you don't know something, say so honestly and reason out loud; that often impresses more than a memorised answer.\n\nWithin 24 hours, send a short thank-you email if you have a contact address (common for US alumni interviews and some scholarships). Then write down the questions you were asked: they help with the next interview.",
+          "ka": "მიესალმე კომისიას, გაიღიმე და პასუხამდე კითხვა ბოლომდე მოისმინე. ნორმალურია, შეჩერდე და თქვა: „ერთი წამით დავფიქრდები“. თუ რამე არ იცი, გულწრფელად აღიარე და ხმამაღლა იმსჯელე; ეს ხშირად დაზეპირებულ პასუხზე მეტ შთაბეჭდილებას ახდენს.\n\n24 საათში გაგზავნე მოკლე სამადლობელი იმეილი, თუ საკონტაქტო მისამართი გაქვს (გავრცელებულია აშშ-ის კურსდამთავრებულების ინტერვიუებსა და ზოგიერთ სტიპენდიაში). შემდეგ ჩაიწერე კითხვები, რომლებიც დაგისვეს: ისინი შემდეგ ინტერვიუში დაგეხმარება.",
+          "ar": "حيِّ اللجنة وابتسم واستمع إلى السؤال كاملاً قبل الإجابة. لا بأس أن تتوقف وتقول: «دعني أفكر لحظة». وإن لم تعرف شيئاً فاعترف بصدق وفكّر بصوت عالٍ؛ فهذا غالباً يُبهر أكثر من إجابة محفوظة.\n\nخلال 24 ساعة أرسل بريد شكر قصيراً إن كان لديك عنوان تواصل (شائع في مقابلات خريجي الجامعات الأمريكية وبعض المنح). ثم دوّن الأسئلة التي طُرحت عليك: ستفيدك في المقابلة التالية."
+        },
+        "tips": {
+          "en": [
+            "Bring ID, your invitation and copies of documents to in-person interviews.",
+            "Don't criticise your school, country or other candidates."
+          ],
+          "ka": [
+            "პირისპირ ინტერვიუზე წაიღე პირადობა, მოსაწვევი და დოკუმენტების ასლები.",
+            "ნუ გააკრიტიკებ შენს სკოლას, ქვეყანას ან სხვა კანდიდატებს."
+          ],
+          "ar": [
+            "أحضر هويتك والدعوة ونسخاً من الوثائق إلى المقابلة الحضورية.",
+            "لا تنتقد مدرستك أو بلدك أو المرشحين الآخرين."
+          ]
+        }
+      }
+    ],
+    "template": {
+      "en": "60-SECOND 'TELL ME ABOUT YOURSELF'\nPresent: I'm [name], a final-year student at [school] in [city], focusing on [subjects].\nPast: [One experience] showed me [insight], and since then I have [action + result].\nFuture: That's why I'm applying to [programme]: I want to [goal], and [specific feature] is the best place to learn it.\n\nSTAR STORY CARD\nS: ...  T: ...  A (I did): ...  R (number + lesson): ...\n\nMY QUESTIONS FOR THE PANEL\n1. ...\n2. ...",
+      "ka": "60-წამიანი „მომიყევი შენ შესახებ“\nაწმყო: მე ვარ [სახელი], [სკოლის] ბოლო კლასის მოსწავლე [ქალაქში], ძირითადად ვსწავლობ [საგნებს].\nწარსული: [ერთმა გამოცდილებამ] დამანახა [დასკვნა] და მას შემდეგ [ქმედება + შედეგი].\nმომავალი: ამიტომ ვაბარებ [პროგრამაზე]: მინდა [მიზანი] და [კონკრეტული თავისებურება] ამის სასწავლად საუკეთესო ადგილია.\n\nSTAR ისტორიის ბარათი\nS: ...  T: ...  A (მე გავაკეთე): ...  R (რიცხვი + გაკვეთილი): ...\n\nჩემი კითხვები კომისიისთვის\n1. ...\n2. ...",
+      "ar": "إجابة «حدّثني عن نفسك» في 60 ثانية\nالحاضر: أنا [الاسم]، طالب في السنة الأخيرة في [المدرسة] في [المدينة]، وأركّز على [المواد].\nالماضي: أظهرت لي [تجربة واحدة] [فكرة]، ومنذ ذلك الحين [فعل + نتيجة].\nالمستقبل: لهذا أتقدم إلى [البرنامج]: أريد [الهدف]، و[ميزة محددة] هي أفضل مكان لتعلّمه.\n\nبطاقة قصة STAR\nS: ...  T: ...  A (ما فعلته أنا): ...  R (رقم + درس): ...\n\nأسئلتي للجنة\n1. ...\n2. ..."
+    },
+    "links": [
+      {
+        "title": {
+          "en": "University of Cambridge: what to expect at your interview",
+          "ka": "კემბრიჯის უნივერსიტეტი: რას უნდა ელოდო ინტერვიუზე",
+          "ar": "جامعة كامبريدج: ما الذي تتوقعه في مقابلتك"
+        },
+        "url": "https://www.undergraduate.study.cam.ac.uk/apply/after/cambridge-interviews"
+      },
+      {
+        "title": {
+          "en": "Prospects: interview tips",
+          "ka": "Prospects: ინტერვიუს რჩევები",
+          "ar": "Prospects: نصائح المقابلات"
+        },
+        "url": "https://www.prospects.ac.uk/careers-advice/interview-tips"
+      },
+      {
+        "title": {
+          "en": "DAAD scholarships",
+          "ka": "DAAD სტიპენდიები",
+          "ar": "منح DAAD"
+        },
+        "url": "https://www.daad.de/en/studying-in-germany/scholarships/"
+      }
+    ]
+  },
+  {
+    "id": "email",
+    "icon": "mail",
+    "minutes": 8,
+    "title": {
+      "en": "Writing a professional email",
+      "ka": "პროფესიული იმეილის წერა",
+      "ar": "كتابة بريد إلكتروني مهني"
+    },
+    "summary": {
+      "en": "Write short, polite emails to professors, admissions offices and organisers that get answered.",
+      "ka": "წერე მოკლე, თავაზიანი იმეილები პროფესორებს, მიღების ოფისებსა და ორგანიზატორებს — ისეთი, რომლებსაც პასუხობენ.",
+      "ar": "اكتب رسائل قصيرة ومهذبة إلى الأساتذة ومكاتب القبول والمنظمين تحصل على رد."
+    },
+    "lessons": [
+      {
+        "title": {
+          "en": "Subject line and greeting",
+          "ka": "თემის ხაზი და მისალმება",
+          "ar": "سطر الموضوع والتحية"
+        },
+        "body": {
+          "en": "The subject line should say exactly what the email is about: 'Question about IELTS requirement – BSc Computer Science 2027 – Application ID 12345'. Vague subjects like 'Hello' or 'Question' get ignored.\n\nGreet with the person's title and surname: 'Dear Professor Kapanadze', 'Dear Dr Al-Thani', 'Dear Ms Smith'. If you don't know the name, 'Dear Admissions Team' is fine. Avoid 'Hey', 'Hi Sir' or first names unless they invite you to use them.",
+          "ka": "თემის ხაზი ზუსტად უნდა ამბობდეს, რას ეხება იმეილი: „Question about IELTS requirement – BSc Computer Science 2027 – Application ID 12345“. ბუნდოვან თემებს, როგორიცაა „Hello“ ან „Question“, ყურადღებას არ აქცევენ.\n\nმიესალმე წოდებითა და გვარით: „Dear Professor Kapanadze“, „Dear Dr Al-Thani“, „Dear Ms Smith“. თუ სახელი არ იცი, „Dear Admissions Team“ საკმარისია. მოერიდე „Hey“-ს, „Hi Sir“-ს ან სახელით მიმართვას, სანამ თავად არ შემოგთავაზებენ.",
+          "ar": "يجب أن يقول سطر الموضوع بدقة ما تتناوله الرسالة: «Question about IELTS requirement – BSc Computer Science 2027 – Application ID 12345». الموضوعات المبهمة مثل «Hello» أو «Question» تُهمَل.\n\nابدأ باللقب واسم العائلة: «Dear Professor Kapanadze» أو «Dear Dr Al-Thani» أو «Dear Ms Smith». إن لم تعرف الاسم فعبارة «Dear Admissions Team» مناسبة. تجنّب «Hey» و«Hi Sir» والاسم الأول ما لم يدعُك صاحبه إلى ذلك."
+        },
+        "tips": {
+          "en": [
+            "Check the spelling of the name twice.",
+            "Use 'Professor' for faculty unless their page says otherwise."
+          ],
+          "ka": [
+            "სახელის მართლწერა ორჯერ გადაამოწმე.",
+            "პროფესორებს „Professor“-ით მიმართე, თუ მათ გვერდზე სხვა რამ არ წერია."
+          ],
+          "ar": [
+            "تحقق من تهجئة الاسم مرتين.",
+            "استخدم «Professor» لأعضاء هيئة التدريس ما لم تذكر صفحتهم غير ذلك."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Short body, one clear request",
+          "ka": "მოკლე ტექსტი, ერთი მკაფიო თხოვნა",
+          "ar": "نص قصير وطلب واحد واضح"
+        },
+        "body": {
+          "en": "First sentence: who you are. Second: why you are writing. Then give the details they need (programme, application number, dates) and end with one clear question or request. Three short paragraphs are usually enough.\n\nBefore writing, check the website and FAQ: asking something already answered there looks careless. If you do ask, show you looked: 'The website says X; could you confirm whether this also applies to Y?'",
+          "ka": "პირველი წინადადება: ვინ ხარ. მეორე: რატომ წერ. შემდეგ მიეცი საჭირო დეტალები (პროგრამა, განაცხადის ნომერი, თარიღები) და დაასრულე ერთი მკაფიო კითხვით ან თხოვნით. ჩვეულებრივ სამი მოკლე აბზაცი საკმარისია.\n\nწერამდე საიტი და FAQ შეამოწმე: იმის კითხვა, რაზეც იქ უკვე წერია, დაუდევრობად აღიქმება. თუ მაინც კითხულობ, აჩვენე, რომ ნახე: „საიტზე წერია X; შეგიძლიათ დამიდასტუროთ, ეხება თუ არა ეს Y-საც?“",
+          "ar": "الجملة الأولى: من أنت. الثانية: لماذا تكتب. ثم قدّم التفاصيل التي يحتاجونها (البرنامج، رقم الطلب، التواريخ) واختم بسؤال أو طلب واحد واضح. ثلاث فقرات قصيرة تكفي عادة.\n\nقبل الكتابة راجع الموقع والأسئلة الشائعة: السؤال عن شيء مُجاب عنه هناك يبدو إهمالاً. وإن سألت فأظهر أنك بحثت: «يذكر الموقع X؛ هل يمكنكم تأكيد ما إذا كان ينطبق على Y أيضاً؟»"
+        },
+        "tips": {
+          "en": [
+            "One email, one topic. Send a separate email for a separate issue.",
+            "Attach files as PDF and mention them in the text."
+          ],
+          "ka": [
+            "ერთი იმეილი — ერთი თემა. სხვა საკითხზე ცალკე იმეილი გაგზავნე.",
+            "ფაილები PDF-ად დაურთე და ტექსტში ახსენე."
+          ],
+          "ar": [
+            "رسالة واحدة لموضوع واحد. أرسل رسالة منفصلة لكل مسألة.",
+            "أرفق الملفات بصيغة PDF واذكرها في النص."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Closing, signature and timing",
+          "ka": "დასასრული, ხელმოწერა და დრო",
+          "ar": "الختام والتوقيع والتوقيت"
+        },
+        "body": {
+          "en": "Close with 'Kind regards' or 'Best regards' and your full name. Add a simple signature: name, school or university, programme or year, and phone with country code.\n\nAllow at least 3–5 working days for an answer, remembering weekends (Friday–Saturday in Qatar, Saturday–Sunday in Georgia and Europe). Then send one polite follow-up by replying to your original email.",
+          "ka": "დაასრულე „Kind regards“-ით ან „Best regards“-ით და შენი სრული სახელით. დაამატე მარტივი ხელმოწერა: სახელი, სკოლა ან უნივერსიტეტი, პროგრამა ან კურსი და ტელეფონი ქვეყნის კოდით.\n\nპასუხისთვის დაელოდე მინიმუმ 3–5 სამუშაო დღე და გაითვალისწინე შაბათ-კვირა (კატარში — პარასკევი-შაბათი, საქართველოსა და ევროპაში — შაბათი-კვირა). შემდეგ ერთი თავაზიანი შეხსენება გაგზავნე, შენს თავდაპირველ იმეილზე პასუხის სახით.",
+          "ar": "اختم بـ«Kind regards» أو «Best regards» واسمك الكامل. أضف توقيعاً بسيطاً: الاسم، المدرسة أو الجامعة، البرنامج أو السنة، والهاتف مع رمز الدولة.\n\nانتظر 3–5 أيام عمل على الأقل للرد، مع مراعاة عطلة نهاية الأسبوع (الجمعة والسبت في قطر، والسبت والأحد في جورجيا وأوروبا). ثم أرسل تذكيراً مهذباً واحداً بالرد على رسالتك الأصلية."
+        },
+        "tips": {
+          "en": [
+            "Use a professional address (name.surname@...), not a nickname.",
+            "Never write in all capitals or with lots of exclamation marks."
+          ],
+          "ka": [
+            "გამოიყენე პროფესიული მისამართი (saxeli.gvari@...) და არა მეტსახელი.",
+            "არასოდეს წერო მხოლოდ დიდი ასოებით ან ბევრი ძახილის ნიშნით."
+          ],
+          "ar": [
+            "استخدم عنواناً مهنياً (الاسم.العائلة@...) لا لقباً.",
+            "لا تكتب بأحرف كبيرة كلها أو بعلامات تعجب كثيرة."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Final check before you press send",
+          "ka": "საბოლოო შემოწმება გაგზავნამდე",
+          "ar": "مراجعة أخيرة قبل الإرسال"
+        },
+        "body": {
+          "en": "Read the email once as if you were the busy recipient. Can they understand what you want in ten seconds? Is anything missing that would force them to write back and ask?\n\nCheck names, dates and attachments, then send. Professors receive hundreds of emails: a clear, polite one stands out.",
+          "ka": "წაიკითხე იმეილი ისე, თითქოს დაკავებული ადრესატი ხარ. ათ წამში გაიგებს, რა გინდა? აკლია რამე, რის გამოც მოუწევს, ისევ მოგწეროს და გკითხოს?\n\nგადაამოწმე სახელები, თარიღები და დანართები, შემდეგ გაგზავნე. პროფესორები ასობით იმეილს იღებენ: მკაფიო და თავაზიანი წერილი გამოირჩევა.",
+          "ar": "اقرأ الرسالة مرة كأنك المستلم المشغول. هل يفهم ما تريده في عشر ثوانٍ؟ هل ينقصها شيء سيضطره إلى الرد عليك ليسأل؟\n\nتحقق من الأسماء والتواريخ والمرفقات ثم أرسل. يتلقى الأساتذة مئات الرسائل: الرسالة الواضحة المهذبة تبرز."
+        },
+        "tips": {
+          "en": [
+            "Don't send the same email to many professors with only the name changed: they notice.",
+            "Say thank you when you get an answer, briefly."
+          ],
+          "ka": [
+            "ერთსა და იმავე იმეილს ბევრ პროფესორს მხოლოდ სახელის შეცვლით ნუ გაუგზავნი: ამჩნევენ.",
+            "როცა პასუხს მიიღებ, მოკლედ მადლობა გადაუხადე."
+          ],
+          "ar": [
+            "لا ترسل الرسالة نفسها إلى أساتذة كثيرين بتغيير الاسم فقط: سيلاحظون.",
+            "اشكرهم باختصار عندما يصلك الرد."
+          ]
+        }
+      }
+    ],
+    "template": {
+      "en": "Subject: Question about English requirement – BSc Economics, Fall 2027 – ID 123456\n\nDear Admissions Team,\n\nMy name is [Full name], a final-year student at [school] in [city, country]. I am applying to the BSc Economics programme for Fall 2027 (application ID 123456).\n\nYour website lists IELTS 7.0 as the English requirement. I took the TOEFL iBT in October 2026 and scored 5.0 on the new 1–6 scale. Could you confirm whether this score meets the requirement?\n\nThank you for your help.\n\nKind regards,\n[Full name]\n[School], Class of 2027\n+995 5XX XXX XXX",
+      "ka": "თემა: Question about English requirement – BSc Economics, Fall 2027 – ID 123456\n\n[ინგლისური ტექსტის ქართული თარგმანი, საორიენტაციოდ]\nპატივცემულო მიღების გუნდო,\n\nმე ვარ [სახელი გვარი], [სკოლის] ბოლო კლასის მოსწავლე [ქალაქი, ქვეყანა]. ვაბარებ ეკონომიკის საბაკალავრო პროგრამაზე 2027 წლის შემოდგომისთვის (განაცხადის ID 123456).\n\nთქვენს საიტზე ინგლისურის მოთხოვნად IELTS 7.0 არის მითითებული. 2026 წლის ოქტომბერში ჩავაბარე TOEFL iBT და ახალ 1–6 შკალაზე 5.0 მივიღე. შეგიძლიათ დამიდასტუროთ, აკმაყოფილებს თუ არა ეს ქულა მოთხოვნას?\n\nგმადლობთ დახმარებისთვის.\n\nპატივისცემით,\n[სახელი გვარი]\n[სკოლა], 2027 წლის გამოშვება\n+995 5XX XXX XXX",
+      "ar": "الموضوع: Question about English requirement – BSc Economics, Fall 2027 – ID 123456\n\n[ترجمة عربية للنص الإنجليزي للاسترشاد]\nفريق القبول المحترم،\n\nاسمي [الاسم الكامل]، طالب في السنة الأخيرة في [المدرسة] في [المدينة، الدولة]. أتقدم إلى برنامج بكالوريوس الاقتصاد لخريف 2027 (رقم الطلب 123456).\n\nيذكر موقعكم أن متطلب اللغة الإنجليزية هو IELTS 7.0. أدّيتُ اختبار TOEFL iBT في أكتوبر 2026 وحصلت على 5.0 على المقياس الجديد من 1 إلى 6. هل يمكنكم تأكيد ما إذا كانت هذه الدرجة تستوفي المتطلب؟\n\nشكراً لمساعدتكم.\n\nمع خالص التحية،\n[الاسم الكامل]\n[المدرسة]، دفعة 2027\n+974 XXXX XXXX"
+    },
+    "links": [
+      {
+        "title": {
+          "en": "Purdue OWL: email etiquette",
+          "ka": "Purdue OWL: იმეილის ეტიკეტი",
+          "ar": "Purdue OWL: آداب البريد الإلكتروني"
+        },
+        "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/email_etiquette.html"
+      },
+      {
+        "title": {
+          "en": "UNC Writing Center: tips and tools",
+          "ka": "UNC Writing Center: რჩევები და ინსტრუმენტები",
+          "ar": "مركز الكتابة في UNC: نصائح وأدوات"
+        },
+        "url": "https://writingcenter.unc.edu/tips-and-tools/"
+      }
+    ]
+  },
+  {
+    "id": "etiquette",
+    "icon": "graduation-cap",
+    "minutes": 10,
+    "title": {
+      "en": "Academic etiquette",
+      "ka": "აკადემიური ეტიკეტი",
+      "ar": "آداب الحياة الأكاديمية"
+    },
+    "summary": {
+      "en": "The unwritten rules of university life abroad: talking to professors, office hours, deadlines, group work, academic integrity and AI.",
+      "ka": "საზღვარგარეთ უნივერსიტეტის ცხოვრების დაუწერელი წესები: პროფესორებთან ურთიერთობა, საკონსულტაციო საათები, ვადები, ჯგუფური მუშაობა, აკადემიური კეთილსინდისიერება და AI.",
+      "ar": "القواعد غير المكتوبة للحياة الجامعية في الخارج: التعامل مع الأساتذة، والساعات المكتبية، والمواعيد النهائية، والعمل الجماعي، والنزاهة الأكاديمية، والذكاء الاصطناعي."
+    },
+    "lessons": [
+      {
+        "title": {
+          "en": "Professors and office hours",
+          "ka": "პროფესორები და საკონსულტაციო საათები",
+          "ar": "الأساتذة والساعات المكتبية"
+        },
+        "body": {
+          "en": "Most professors hold weekly office hours: time set aside for students. Using them is not a sign of weakness; it is how students get help, recommendation letters and research opportunities. Come with specific questions and your attempted work.\n\nAddress them as 'Professor [Surname]' or 'Dr [Surname]' unless they tell you otherwise. Cultures differ: in some countries students use first names, but follow the professor's lead.",
+          "ka": "პროფესორების უმეტესობას ყოველკვირეული საკონსულტაციო საათები (office hours) აქვს — სტუდენტებისთვის გამოყოფილი დრო. მათი გამოყენება სისუსტის ნიშანი არ არის; სწორედ ასე იღებენ სტუდენტები დახმარებას, სარეკომენდაციო წერილებს და კვლევით შესაძლებლობებს. მიდი კონკრეტული კითხვებითა და შენი მცდელობით.\n\nმიმართე „Professor [გვარი]“ ან „Dr [გვარი]“, სანამ თავად სხვა რამეს არ გეტყვიან. კულტურები განსხვავდება: ზოგ ქვეყანაში სტუდენტები სახელით მიმართავენ, მაგრამ პროფესორის მაგალითს მიჰყევი.",
+          "ar": "يخصص معظم الأساتذة ساعات مكتبية أسبوعية للطلاب. استخدامها ليس علامة ضعف، بل هو الطريق للحصول على المساعدة وخطابات التوصية وفرص البحث. احضر بأسئلة محددة ومحاولتك للحل.\n\nخاطبهم بـ«Professor [اسم العائلة]» أو «Dr [اسم العائلة]» ما لم يطلبوا غير ذلك. تختلف الثقافات: في بعض البلدان يستخدم الطلاب الأسماء الأولى، لكن اتبع ما يفضّله الأستاذ."
+        },
+        "tips": {
+          "en": [
+            "Introduce yourself to each professor in the first weeks.",
+            "If office hours clash with your timetable, email to ask for another slot."
+          ],
+          "ka": [
+            "პირველ კვირებში თითოეულ პროფესორს გაეცანი.",
+            "თუ საკონსულტაციო საათები შენს ცხრილს ემთხვევა, იმეილით სხვა დრო ითხოვე."
+          ],
+          "ar": [
+            "عرّف نفسك لكل أستاذ في الأسابيع الأولى.",
+            "إن تعارضت الساعات المكتبية مع جدولك فاطلب موعداً آخر بالبريد."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Read the syllabus; respect deadlines",
+          "ka": "წაიკითხე სილაბუსი; პატივი ეცი ვადებს",
+          "ar": "اقرأ خطة المقرر واحترم المواعيد"
+        },
+        "body": {
+          "en": "The syllabus is a contract: it lists grading, deadlines, attendance rules and late-work penalties. Many questions students email about are already answered there, so read it in week one and put every deadline in your calendar.\n\nIf you need an extension because of illness or a real emergency, ask before the deadline, briefly explain and offer a new date. Asking after the deadline rarely works.",
+          "ka": "სილაბუსი ხელშეკრულებაა: მასში წერია შეფასება, ვადები, დასწრების წესები და დაგვიანებული სამუშაოს ჯარიმები. ბევრ კითხვაზე, რომელსაც სტუდენტები იმეილით სვამენ, პასუხი უკვე იქ არის, ამიტომ პირველივე კვირაში წაიკითხე და ყველა ვადა კალენდარში შეიტანე.\n\nთუ ავადმყოფობის ან ნამდვილი საგანგებო ვითარების გამო ვადის გაგრძელება გჭირდება, ითხოვე ვადამდე, მოკლედ ახსენი და ახალი თარიღი შესთავაზე. ვადის გასვლის შემდეგ თხოვნა იშვიათად მუშაობს.",
+          "ar": "خطة المقرر عقد: فيها التقييم والمواعيد النهائية وقواعد الحضور وعقوبات التأخير. كثير من الأسئلة التي يرسلها الطلاب مجاب عنها هناك، فاقرأها في الأسبوع الأول وضع كل موعد في تقويمك.\n\nإن احتجت تمديداً بسبب مرض أو طارئ حقيقي فاطلبه قبل الموعد، واشرح باختصار، واقترح موعداً جديداً. الطلب بعد فوات الموعد نادراً ما ينجح."
+        },
+        "tips": {
+          "en": [
+            "Arrive on time; if you are late, enter quietly and don't interrupt.",
+            "Phones on silent and away during class."
+          ],
+          "ka": [
+            "მოდი დროულად; თუ დააგვიანე, ჩუმად შედი და არ შეაწყვეტინო.",
+            "ლექციაზე ტელეფონი უხმოდ და მოშორებით."
+          ],
+          "ar": [
+            "احضر في الوقت؛ وإن تأخرت فادخل بهدوء ولا تقاطع.",
+            "الهاتف صامت وبعيد أثناء المحاضرة."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Academic integrity and AI",
+          "ka": "აკადემიური კეთილსინდისიერება და AI",
+          "ar": "النزاهة الأكاديمية والذكاء الاصطناعي"
+        },
+        "body": {
+          "en": "Plagiarism means presenting someone else's words or ideas as your own, including copying from websites, friends, past students or AI tools without permission. Universities abroad take it very seriously: penalties range from failing the assignment to expulsion.\n\nAlways cite your sources in the style the course uses (APA, MLA, Harvard, Chicago). Check each course's AI policy: some allow AI for brainstorming with disclosure, others ban it completely. When in doubt, ask the professor.",
+          "ka": "პლაგიატი ნიშნავს სხვისი სიტყვების ან იდეების საკუთარად წარმოდგენას, მათ შორის ვებგვერდებიდან, მეგობრებისგან, წინა წლების სტუდენტებისგან ან AI ინსტრუმენტებიდან ნებართვის გარეშე გადაწერას. საზღვარგარეთის უნივერსიტეტები ამას ძალიან სერიოზულად აღიქვამენ: სასჯელი დავალების ჩაჭრიდან გარიცხვამდე მერყეობს.\n\nყოველთვის მიუთითე წყაროები იმ სტილით, რომელსაც კურსი იყენებს (APA, MLA, Harvard, Chicago). შეამოწმე თითოეული კურსის AI პოლიტიკა: ზოგი AI-ს იდეების მოსაფიქრებლად უშვებს, თუ ამას მიუთითებ, ზოგი კი სრულად კრძალავს. თუ ეჭვი გაქვს, პროფესორს ჰკითხე.",
+          "ar": "الانتحال هو تقديم كلمات غيرك أو أفكاره على أنها لك، ومنه النسخ من المواقع أو الأصدقاء أو طلاب سابقين أو أدوات الذكاء الاصطناعي دون إذن. تتعامل الجامعات في الخارج معه بجدية كبيرة: تتراوح العقوبات من الرسوب في الواجب إلى الفصل.\n\nوثّق مصادرك دائماً بالأسلوب المعتمد في المقرر (APA أو MLA أو Harvard أو Chicago). راجع سياسة الذكاء الاصطناعي في كل مقرر: بعضها يسمح به للعصف الذهني مع الإفصاح، وبعضها يمنعه تماماً. وإن شككت فاسأل الأستاذ."
+        },
+        "tips": {
+          "en": [
+            "Take notes in your own words and record the source as you read.",
+            "Group work is not shared individual work: check what is allowed.",
+            "Use a reference manager such as Zotero (free)."
+          ],
+          "ka": [
+            "კითხვისას ჩანაწერები საკუთარი სიტყვებით გააკეთე და წყარო მაშინვე ჩაიწერე.",
+            "ჯგუფური მუშაობა არ ნიშნავს ინდივიდუალური დავალების გაზიარებას: გადაამოწმე, რა არის ნებადართული.",
+            "გამოიყენე წყაროების მენეჯერი, მაგალითად Zotero (უფასო)."
+          ],
+          "ar": [
+            "دوّن ملاحظاتك بكلماتك وسجّل المصدر أثناء القراءة.",
+            "العمل الجماعي لا يعني مشاركة الواجبات الفردية: تحقق مما هو مسموح.",
+            "استخدم أداة لإدارة المراجع مثل Zotero (مجانية)."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Seminars and group work",
+          "ka": "სემინარები და ჯგუფური მუშაობა",
+          "ar": "الحلقات النقاشية والعمل الجماعي"
+        },
+        "body": {
+          "en": "In many Western universities, participation is graded. Do the reading, prepare one question or comment, and speak at least once per seminar. Disagreeing politely is expected: 'I see it differently, because...'.\n\nIn group projects, agree on roles, a shared document and deadlines in the first meeting. If someone doesn't contribute, talk to them first, then to the instructor, and keep records of who did what.",
+          "ka": "ბევრ დასავლურ უნივერსიტეტში მონაწილეობა ფასდება. წაიკითხე მასალა, მოამზადე ერთი კითხვა ან კომენტარი და თითო სემინარზე ერთხელ მაინც ილაპარაკე. თავაზიანი უთანხმოება მოსალოდნელია: „მე ამას სხვანაირად ვხედავ, რადგან...“.\n\nჯგუფურ პროექტებში პირველივე შეხვედრაზე შეთანხმდით როლებზე, საერთო დოკუმენტსა და ვადებზე. თუ ვინმე არ მონაწილეობს, ჯერ მას დაელაპარაკე, შემდეგ ლექტორს, და აწარმოე ჩანაწერი, ვინ რა გააკეთა.",
+          "ar": "في كثير من الجامعات الغربية تُقيَّم المشاركة. اقرأ المادة، وجهّز سؤالاً أو تعليقاً، وتحدث مرة واحدة على الأقل في كل حلقة. الاختلاف المهذب متوقَّع: «أرى الأمر بشكل مختلف لأن...».\n\nفي المشاريع الجماعية اتفقوا في الاجتماع الأول على الأدوار ومستند مشترك والمواعيد. وإن لم يساهم أحد فتحدث إليه أولاً ثم إلى المدرّس، واحتفظ بسجل لمن فعل ماذا."
+        },
+        "tips": {
+          "en": [
+            "Listen fully before replying; build on others' points by name.",
+            "Respect different backgrounds, religions and opinions in discussion."
+          ],
+          "ka": [
+            "პასუხამდე ბოლომდე მოისმინე; სხვების აზრს სახელით დაეყრდენი.",
+            "დისკუსიაში პატივი ეცი განსხვავებულ წარმომავლობას, რელიგიასა და შეხედულებებს."
+          ],
+          "ar": [
+            "استمع كاملاً قبل الرد، وابنِ على أفكار الآخرين مع ذكر أسمائهم.",
+            "احترم الخلفيات والأديان والآراء المختلفة في النقاش."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Asking for a recommendation letter",
+          "ka": "სარეკომენდაციო წერილის თხოვნა",
+          "ar": "طلب خطاب توصية"
+        },
+        "body": {
+          "en": "Ask a teacher or professor who knows your work well, at least four to six weeks before the deadline, preferably in person first and then by email. Make it easy: send your CV, a short list of what you did in their class, the programmes and the deadlines.\n\nSend a polite reminder a week before the deadline and a thank-you note afterwards, and tell them the result.",
+          "ka": "სთხოვე მასწავლებელს ან პროფესორს, ვინც შენს ნამუშევარს კარგად იცნობს, ვადამდე მინიმუმ ოთხი-ექვსი კვირით ადრე, სასურველია ჯერ პირადად, შემდეგ იმეილით. გაუადვილე: გაუგზავნე CV, მოკლე სია იმისა, რაც მის საგანში გააკეთე, პროგრამები და ვადები.\n\nვადამდე ერთი კვირით ადრე თავაზიანი შეხსენება გაუგზავნე, შემდეგ კი მადლობა და შედეგიც აცნობე.",
+          "ar": "اطلب من معلم أو أستاذ يعرف عملك جيداً، قبل الموعد بأربعة إلى ستة أسابيع على الأقل، ويُفضَّل شخصياً أولاً ثم بالبريد. سهّل عليه الأمر: أرسل سيرتك وقائمة قصيرة بما فعلته في مقرره والبرامج والمواعيد.\n\nأرسل تذكيراً مهذباً قبل الموعد بأسبوع، ورسالة شكر بعده، وأخبره بالنتيجة."
+        },
+        "tips": {
+          "en": [
+            "Never write the letter yourself, even if asked to draft it: tell them you prefer their own words, or check the programme's rules.",
+            "Waive your right to see the letter when the form asks; it gives the letter more weight."
+          ],
+          "ka": [
+            "წერილი თავად არასოდეს დაწერო, თუნდაც მონახაზი გთხოვონ: უთხარი, რომ მათი სიტყვები გირჩევნია, ან პროგრამის წესები გადაამოწმე.",
+            "როცა ფორმა გეკითხება, უარი თქვი წერილის ნახვის უფლებაზე; ეს წერილს მეტ წონას აძლევს."
+          ],
+          "ar": [
+            "لا تكتب الخطاب بنفسك أبداً حتى لو طُلب منك مسودة: قل إنك تفضّل كلماتهم، أو راجع قواعد البرنامج.",
+            "تنازل عن حق الاطلاع على الخطاب عندما يسألك النموذج؛ فهذا يمنحه وزناً أكبر."
+          ]
+        }
+      }
+    ],
+    "template": {
+      "en": "Subject: Recommendation letter request – [Programme], deadline [date]\n\nDear Professor [Surname],\n\nI hope you are well. I really enjoyed your [course] last year, especially [specific project or topic]. I am applying to [programmes] and would be very grateful if you could write a recommendation letter for me.\n\nThe deadline is [date]. I have attached my CV, a short summary of my work in your class and the submission instructions. I would be happy to meet if that would help.\n\nThank you very much for considering this.\n\nKind regards,\n[Full name]",
+      "ka": "თემა: სარეკომენდაციო წერილის თხოვნა – [პროგრამა], ვადა [თარიღი]\n\nპატივცემულო პროფესორო [გვარი],\n\nიმედი მაქვს, კარგად ბრძანდებით. შარშან თქვენი [კურსი] ძალიან მომეწონა, განსაკუთრებით [კონკრეტული პროექტი ან თემა]. ვაბარებ [პროგრამებზე] და ძალიან მადლობელი ვიქნები, თუ სარეკომენდაციო წერილს დამიწერთ.\n\nვადაა [თარიღი]. ვურთავ ჩემს CV-ს, თქვენს საგანში შესრულებული სამუშაოს მოკლე აღწერას და გაგზავნის ინსტრუქციას. სიამოვნებით შეგხვდებით, თუ ეს დაგეხმარებათ.\n\nდიდი მადლობა, რომ განიხილავთ.\n\nპატივისცემით,\n[სახელი გვარი]",
+      "ar": "الموضوع: طلب خطاب توصية – [البرنامج]، الموعد النهائي [التاريخ]\n\nحضرة الأستاذ/ة [اسم العائلة] المحترم/ة،\n\nأرجو أن تكون بخير. استمتعتُ كثيراً بمقرر [المقرر] العام الماضي، خاصة [مشروع أو موضوع محدد]. أتقدم إلى [البرامج]، وسأكون ممتناً جداً لو تفضلتم بكتابة خطاب توصية لي.\n\nالموعد النهائي هو [التاريخ]. أرفقتُ سيرتي الذاتية وملخصاً قصيراً لعملي في مقرركم وتعليمات الإرسال. ويسعدني اللقاء إن كان ذلك مفيداً.\n\nشكراً جزيلاً على النظر في طلبي.\n\nمع خالص التحية،\n[الاسم الكامل]"
+    },
+    "links": [
+      {
+        "title": {
+          "en": "UNC Writing Center: plagiarism",
+          "ka": "UNC Writing Center: პლაგიატი",
+          "ar": "مركز الكتابة في UNC: الانتحال"
+        },
+        "url": "https://writingcenter.unc.edu/tips-and-tools/plagiarism/"
+      },
+      {
+        "title": {
+          "en": "Purdue OWL: email etiquette",
+          "ka": "Purdue OWL: იმეილის ეტიკეტი",
+          "ar": "Purdue OWL: آداب البريد الإلكتروني"
+        },
+        "url": "https://owl.purdue.edu/owl/general_writing/academic_writing/email_etiquette.html"
+      },
+      {
+        "title": {
+          "en": "Coursera: Learning How to Learn (free to audit)",
+          "ka": "Coursera: Learning How to Learn (უფასოდ მოსასმენი)",
+          "ar": "Coursera: Learning How to Learn (مجاني للاستماع)"
+        },
+        "url": "https://www.coursera.org/learn/learning-how-to-learn"
+      }
+    ]
+  },
+  {
+    "id": "personal-statement",
+    "icon": "pen-line",
+    "minutes": 15,
+    "title": {
+      "en": "Writing a personal statement or college essay",
+      "ka": "პირადი განცხადებისა და სასწავლო ესეს წერა",
+      "ar": "كتابة البيان الشخصي أو مقال القبول الجامعي"
+    },
+    "summary": {
+      "en": "Plan, draft and polish the essay that shows universities who you are: the UCAS three-question statement, the Common App essay and scholarship essays.",
+      "ka": "დაგეგმე, დაწერე და დახვეწე ესე, რომელიც უნივერსიტეტებს აჩვენებს, ვინ ხარ: UCAS-ის სამკითხვიანი განცხადება, Common App-ის ესე და სასტიპენდიო ესეები.",
+      "ar": "خطّط واكتب وحسّن المقال الذي يُري الجامعات من أنت: بيان UCAS ذو الأسئلة الثلاثة، ومقال Common App، ومقالات المنح."
+    },
+    "lessons": [
+      {
+        "title": {
+          "en": "Know the format you are writing for",
+          "ka": "იცოდე, რომელი ფორმატისთვის წერ",
+          "ar": "اعرف الصيغة التي تكتب لها"
+        },
+        "body": {
+          "en": "UK (UCAS): since the 2026 entry cycle, the personal statement is three questions in one 4,000-character box (including spaces, at least 350 characters each): why you want to study the course, how your qualifications and studies have prepared you, and what else you have done outside education. It is mostly academic: about 80% on your subject.\n\nUS (Common App): one personal essay of up to 650 words on one of seven prompts, plus shorter supplemental essays for each college. It is about who you are, not a list of achievements. Scholarship and European motivation essays sit in between: goals, fit and impact.",
+          "ka": "დიდი ბრიტანეთი (UCAS): 2026 წლის მიღების ციკლიდან პირადი განცხადება სამი კითხვისგან შედგება, საერთო ლიმიტით 4 000 სიმბოლო (ჰარების ჩათვლით, თითოეულზე მინიმუმ 350): რატომ გინდა ამ კურსის სწავლა, როგორ მოგამზადა შენმა კვალიფიკაციამ და სწავლამ და კიდევ რა გააკეთე განათლების მიღმა. ის ძირითადად აკადემიურია: დაახლოებით 80% შენს საგანზეა.\n\nაშშ (Common App): ერთი პირადი ესე 650 სიტყვამდე, შვიდიდან ერთ-ერთ თემაზე, და თითოეული კოლეჯისთვის უფრო მოკლე დამატებითი ესეები. ის იმაზეა, ვინ ხარ და არა მიღწევების სია. სასტიპენდიო და ევროპული სამოტივაციო ესეები შუალედურია: მიზნები, შესაბამისობა და გავლენა.",
+          "ar": "بريطانيا (UCAS): منذ دورة القبول لعام 2026 أصبح البيان الشخصي ثلاثة أسئلة بحد إجمالي 4,000 حرف (مع المسافات، و350 حرفاً على الأقل لكل منها): لماذا تريد دراسة التخصص، وكيف أعدّتك مؤهلاتك ودراستك، وماذا فعلت أيضاً خارج التعليم. وهو أكاديمي في الغالب: نحو 80% عن تخصصك.\n\nالولايات المتحدة (Common App): مقال شخصي واحد حتى 650 كلمة عن أحد سبعة مواضيع، إضافة إلى مقالات تكميلية أقصر لكل كلية. هو عن هويتك لا قائمة إنجازات. أما مقالات المنح ورسائل التحفيز الأوروبية فتقع بينهما: الأهداف والملاءمة والأثر."
+        },
+        "tips": {
+          "en": [
+            "Check the current rules on the official site every year; formats change.",
+            "UCAS counts characters, Common App counts words: draft in a tool that shows both."
+          ],
+          "ka": [
+            "მიმდინარე წესები ყოველ წელს ოფიციალურ საიტზე გადაამოწმე; ფორმატები იცვლება.",
+            "UCAS სიმბოლოებს ითვლის, Common App — სიტყვებს: წერე ისეთ პროგრამაში, რომელიც ორივეს აჩვენებს."
+          ],
+          "ar": [
+            "راجع القواعد الحالية في الموقع الرسمي كل عام؛ فالصيغ تتغير.",
+            "يحسب UCAS الأحرف ويحسب Common App الكلمات: اكتب في أداة تُظهر الاثنين."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Find your story",
+          "ka": "იპოვე შენი ისტორია",
+          "ar": "اعثر على قصتك"
+        },
+        "body": {
+          "en": "Brainstorm before you write. List moments when you changed your mind, solved a problem, felt curious, took responsibility or learned something about yourself. Small, specific moments (fixing a family laptop, a conversation at your grandmother's village, a failed robot) often make better essays than big dramatic events.\n\nChoose the story that only you could tell and that reveals a quality you want the reader to remember. Ask: if my name were removed, would my friends still know this essay is mine?",
+          "ka": "წერამდე იდეები მოიფიქრე. ჩამოწერე მომენტები, როცა აზრი შეიცვალე, პრობლემა გადაჭერი, ცნობისმოყვარეობა გაგიჩნდა, პასუხისმგებლობა აიღე ან საკუთარ თავზე რამე გაიგე. პატარა, კონკრეტული მომენტები (ოჯახის ლეპტოპის შეკეთება, საუბარი ბებიას სოფელში, ჩავარდნილი რობოტი) ხშირად დიდ დრამატულ მოვლენებზე უკეთეს ესეს ქმნის.\n\nაირჩიე ისტორია, რომელსაც მხოლოდ შენ მოყვები და რომელიც ავლენს თვისებას, რომელიც გინდა, მკითხველს დაამახსოვრდეს. ჰკითხე საკუთარ თავს: ჩემი სახელი რომ ამოიღონ, მეგობრები მაინც მიხვდებიან, რომ ეს ესე ჩემია?",
+          "ar": "اعصف ذهنياً قبل الكتابة. دوّن لحظات غيّرت فيها رأيك، أو حللت مشكلة، أو شعرت بالفضول، أو تحمّلت مسؤولية، أو تعلمت شيئاً عن نفسك. اللحظات الصغيرة المحددة (إصلاح حاسوب العائلة، حديث في قرية جدتك، روبوت فشل) كثيراً ما تصنع مقالات أفضل من الأحداث الدرامية الكبيرة.\n\nاختر القصة التي لا يستطيع روايتها سواك والتي تكشف صفة تريد أن يتذكرها القارئ. واسأل: لو حُذف اسمي، هل سيعرف أصدقائي أن هذا المقال لي؟"
+        },
+        "tips": {
+          "en": [
+            "Write 10 possible topics in 10 minutes, then pick the one you could talk about for an hour.",
+            "Your culture and home country are strengths: Georgian, Qatari or Gulf details make an essay memorable."
+          ],
+          "ka": [
+            "10 წუთში ჩამოწერე 10 შესაძლო თემა და აირჩიე ის, რაზეც ერთი საათი ილაპარაკებდი.",
+            "შენი კულტურა და ქვეყანა ძლიერი მხარეა: ქართული, კატარული ან ყურის ქვეყნების დეტალები ესეს დასამახსოვრებელს ხდის."
+          ],
+          "ar": [
+            "اكتب 10 مواضيع محتملة في 10 دقائق، ثم اختر الذي يمكنك الحديث عنه ساعة.",
+            "ثقافتك وبلدك نقطة قوة: التفاصيل الجورجية أو القطرية أو الخليجية تجعل المقال لا يُنسى."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Structure: hook, story, reflection",
+          "ka": "სტრუქტურა: შესავალი, ისტორია, ანალიზი",
+          "ar": "الهيكل: افتتاحية، قصة، تأمّل"
+        },
+        "body": {
+          "en": "Start in the middle of a moment, not with a quote or a definition. Tell the story briefly with concrete detail, then spend at least half the essay reflecting: what you thought, what changed, what you now do differently and how it connects to what you want to study.\n\nFor UCAS, answer the three questions directly with academic evidence: books you read beyond the syllabus, projects, competitions, lectures, work experience, and what you learned from each.",
+          "ka": "დაიწყე მომენტის შუაგულიდან და არა ციტატით ან განმარტებით. ისტორია მოკლედ მოყევი კონკრეტული დეტალებით, შემდეგ ესეს ნახევარი მაინც ანალიზს დაუთმე: რას ფიქრობდი, რა შეიცვალა, რას აკეთებ ახლა სხვაგვარად და როგორ უკავშირდება ეს იმას, რისი სწავლაც გინდა.\n\nUCAS-ისთვის სამ კითხვას პირდაპირ უპასუხე აკადემიური მტკიცებულებით: პროგრამის მიღმა წაკითხული წიგნები, პროექტები, კონკურსები, ლექციები, სამუშაო გამოცდილება და ის, რაც თითოეულიდან ისწავლე.",
+          "ar": "ابدأ من وسط اللحظة لا باقتباس أو تعريف. اروِ القصة باختصار وبتفاصيل ملموسة، ثم خصص نصف المقال على الأقل للتأمل: فيمَ فكّرت، وما الذي تغيّر، وما الذي تفعله الآن بشكل مختلف، وكيف يرتبط بما تريد دراسته.\n\nفي UCAS أجب عن الأسئلة الثلاثة مباشرة بأدلة أكاديمية: كتب قرأتها خارج المنهج، ومشاريع، ومسابقات، ومحاضرات، وخبرة عملية، وما تعلمته من كل منها."
+        },
+        "tips": {
+          "en": [
+            "Show, don't tell: a scene beats an adjective.",
+            "End by looking forward, not by summarising."
+          ],
+          "ka": [
+            "აჩვენე, ნუ ამბობ: სცენა ზედსართავს ჯობია.",
+            "დაასრულე მომავალზე მზერით და არა შეჯამებით."
+          ],
+          "ar": [
+            "أظهِر ولا تقل: المشهد أفضل من الصفة.",
+            "اختم بالنظر إلى المستقبل لا بالتلخيص."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Draft, revise, cut",
+          "ka": "დაწერე, გადაამუშავე, შეამოკლე",
+          "ar": "اكتب، راجِع، اختصر"
+        },
+        "body": {
+          "en": "Your first draft should be too long and imperfect; that's normal. Leave it for a few days, then revise for content (is the story clear? is the reflection deep?), then for style, then for length. Most strong essays go through five or more drafts.\n\nAsk one or two trusted readers for feedback, not ten: too many opinions erase your voice. Never copy text or let anyone, including AI, write it for you: admissions offices use detection tools, UCAS checks similarity, and an essay that doesn't sound like you can hurt you at interview.",
+          "ka": "პირველი ვერსია ზედმეტად გრძელი და არასრულყოფილი იქნება — ეს ნორმალურია. რამდენიმე დღით გადადე, შემდეგ გადაამუშავე შინაარსი (ისტორია გასაგებია? ანალიზი საკმარისად ღრმაა?), შემდეგ სტილი, ბოლოს მოცულობა. ძლიერი ესეების უმეტესობა ხუთ და მეტ ვერსიას გადის.\n\nუკუკავშირი სთხოვე ერთ-ორ სანდო მკითხველს და არა ათს: ზედმეტი აზრი შენს ხმას შლის. არასოდეს გადაწერო ტექსტი და არავის, მათ შორის AI-ს, არ დააწერინო: მიღების ოფისები ამოცნობის ინსტრუმენტებს იყენებენ, UCAS მსგავსებას ამოწმებს, ესე კი, რომელიც შენნაირად არ ჟღერს, ინტერვიუზე დაგაზარალებს.",
+          "ar": "ستكون المسودة الأولى طويلة وغير مكتملة، وهذا طبيعي. اتركها بضعة أيام، ثم راجع المحتوى (هل القصة واضحة؟ هل التأمل عميق؟)، ثم الأسلوب، ثم الطول. تمر معظم المقالات القوية بخمس مسودات أو أكثر.\n\nاطلب الملاحظات من قارئ أو اثنين تثق بهما لا من عشرة: كثرة الآراء تمحو صوتك. لا تنسخ نصاً أبداً ولا تدع أحداً، ولا الذكاء الاصطناعي، يكتبه عنك: مكاتب القبول تستخدم أدوات كشف، وUCAS يفحص التشابه، والمقال الذي لا يشبه أسلوبك قد يضرّك في المقابلة."
+        },
+        "tips": {
+          "en": [
+            "Cut every sentence that doesn't add a fact, a feeling or an insight.",
+            "Read it aloud: if you stumble, rewrite the sentence.",
+            "Start at least two months before the deadline."
+          ],
+          "ka": [
+            "წაშალე ყველა წინადადება, რომელიც ფაქტს, გრძნობას ან აზრს არ ამატებს.",
+            "ხმამაღლა წაიკითხე: თუ წაიბორძიკე, წინადადება გადაწერე.",
+            "დაიწყე ვადამდე მინიმუმ ორი თვით ადრე."
+          ],
+          "ar": [
+            "احذف كل جملة لا تضيف حقيقة أو شعوراً أو فكرة.",
+            "اقرأه بصوت عالٍ: إن تعثّرت فأعد كتابة الجملة.",
+            "ابدأ قبل الموعد بشهرين على الأقل."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Final checklist",
+          "ka": "საბოლოო ჩეკლისტი",
+          "ar": "قائمة التحقق النهائية"
+        },
+        "body": {
+          "en": "Before submitting: does it answer the prompt? Is it within the limit? Is every university name correct (or absent, for UCAS, which goes to all five choices)? Have you avoided clichés, lists of achievements and repeating your CV?\n\nPaste it into the portal early to check formatting: special characters, italics and line breaks may disappear. Keep a copy: you will reuse parts in scholarship applications and interviews.",
+          "ka": "გაგზავნამდე: პასუხობს ის კითხვას? ლიმიტშია? ყველა უნივერსიტეტის სახელი სწორია (ან საერთოდ არ არის — UCAS-ის შემთხვევაში, რადგან ის ხუთივე არჩევანს ეგზავნება)? თავი აარიდე კლიშეებს, მიღწევების ჩამონათვალსა და CV-ის გამეორებას?\n\nპორტალში ადრე ჩასვი, რომ ფორმატირება შეამოწმო: სპეციალური სიმბოლოები, დახრილი შრიფტი და ხაზის გადატანები შეიძლება გაქრეს. შეინახე ასლი: ნაწილებს სასტიპენდიო განაცხადებსა და ინტერვიუებზე ხელახლა გამოიყენებ.",
+          "ar": "قبل الإرسال: هل يجيب عن السؤال؟ هل هو ضمن الحد؟ هل أسماء الجامعات صحيحة (أو غائبة في UCAS لأنه يُرسل إلى الخيارات الخمسة كلها)؟ هل تجنبت العبارات المستهلكة وقوائم الإنجازات وتكرار سيرتك الذاتية؟\n\nالصقه في البوابة مبكراً لفحص التنسيق: قد تختفي الرموز الخاصة والخط المائل وفواصل الأسطر. احتفظ بنسخة: ستعيد استخدام أجزاء منه في طلبات المنح والمقابلات."
+        },
+        "tips": {
+          "en": [
+            "A specific detail beats a big word every time.",
+            "Your essay should sound like you on your best day."
+          ],
+          "ka": [
+            "კონკრეტული დეტალი ყოველთვის ჯობია დიდ სიტყვას.",
+            "შენი ესე ისე უნდა ჟღერდეს, როგორც შენ — საუკეთესო დღეს."
+          ],
+          "ar": [
+            "التفصيل المحدد يتفوق دائماً على الكلمة الكبيرة.",
+            "يجب أن يبدو مقالك مثلك في أفضل أيامك."
+          ]
+        }
+      }
+    ],
+    "template": {
+      "en": "UCAS PLANNER (4,000 characters in total)\nQ1 Why this course? — The moment I got hooked: ... / What I explored next (book, lecture, project): ... / What I want to understand at university: ...\nQ2 How have your studies prepared you? — Subject + specific skill + example: ... / Extended project or competition: ...\nQ3 What else have you done? — Activity/work + what it taught me + link to the course: ...\n\nCOMMON APP PLANNER (≤ 650 words)\nOpening scene (2–3 sentences, in the middle of the action): ...\nThe story (what happened, concrete details): ...\nTurning point (what you realised): ...\nReflection (who you are now, what you do differently): ...\nLooking forward (how this shapes what you'll do at college): ...",
+      "ka": "UCAS-ის გეგმა (სულ 4 000 სიმბოლო)\nკ1 რატომ ეს კურსი? — მომენტი, როცა დავინტერესდი: ... / რა შევისწავლე შემდეგ (წიგნი, ლექცია, პროექტი): ... / რისი გაგება მინდა უნივერსიტეტში: ...\nკ2 როგორ მოგამზადა სწავლამ? — საგანი + კონკრეტული უნარი + მაგალითი: ... / დამოუკიდებელი პროექტი ან კონკურსი: ...\nკ3 კიდევ რა გააკეთე? — აქტივობა/სამუშაო + რა მასწავლა + კავშირი კურსთან: ...\n\nCOMMON APP-ის გეგმა (≤ 650 სიტყვა)\nშესავალი სცენა (2–3 წინადადება, მოქმედების შუაგულიდან): ...\nისტორია (რა მოხდა, კონკრეტული დეტალები): ...\nგარდამტეხი მომენტი (რა გააცნობიერე): ...\nანალიზი (ვინ ხარ ახლა, რას აკეთებ სხვაგვარად): ...\nმომავალზე მზერა (როგორ განსაზღვრავს ეს იმას, რასაც კოლეჯში გააკეთებ): ...",
+      "ar": "مخطط UCAS (4,000 حرف إجمالاً)\nس1 لماذا هذا التخصص؟ — اللحظة التي جذبني فيها: ... / ما استكشفته بعدها (كتاب، محاضرة، مشروع): ... / ما أريد فهمه في الجامعة: ...\nس2 كيف أعدّتك دراستك؟ — المادة + مهارة محددة + مثال: ... / مشروع مستقل أو مسابقة: ...\nس3 ماذا فعلت أيضاً؟ — نشاط/عمل + ما علّمني + صلته بالتخصص: ...\n\nمخطط Common App (650 كلمة كحد أقصى)\nالمشهد الافتتاحي (2–3 جمل من وسط الحدث): ...\nالقصة (ماذا حدث، تفاصيل ملموسة): ...\nنقطة التحول (ما الذي أدركته): ...\nالتأمل (من أنت الآن، وما الذي تفعله بشكل مختلف): ...\nالنظر إلى المستقبل (كيف يشكّل هذا ما ستفعله في الكلية): ..."
+    },
+    "links": [
+      {
+        "title": {
+          "en": "UCAS: writing your personal statement",
+          "ka": "UCAS: პირადი განცხადების წერა",
+          "ar": "UCAS: كتابة البيان الشخصي"
+        },
+        "url": "https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement"
+      },
+      {
+        "title": {
+          "en": "UCAS: how to write your personal statement (the three questions)",
+          "ka": "UCAS: როგორ დავწეროთ პირადი განცხადება (სამი კითხვა)",
+          "ar": "UCAS: كيف تكتب بيانك الشخصي (الأسئلة الثلاثة)"
+        },
+        "url": "https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement/how-to-write-your-personal-statement"
+      },
+      {
+        "title": {
+          "en": "Common App essay prompts",
+          "ka": "Common App-ის ესეს თემები",
+          "ar": "مواضيع مقال Common App"
+        },
+        "url": "https://www.commonapp.org/apply/essay-prompts"
+      },
+      {
+        "title": {
+          "en": "UNC Writing Center: application essays",
+          "ka": "UNC Writing Center: სააპლიკაციო ესეები",
+          "ar": "مركز الكتابة في UNC: مقالات التقديم"
+        },
+        "url": "https://writingcenter.unc.edu/tips-and-tools/application-essays/"
+      }
+    ]
+  }
+]

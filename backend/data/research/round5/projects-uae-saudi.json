@@ -1,0 +1,2373 @@
+[
+ {
+  "id": "diamun-2027",
+  "section": "project",
+  "family": "mun",
+  "type": "Model United Nations conference",
+  "org": "Dubai International Academy (DIAMUN)",
+  "name": {
+   "en": "DIAMUN 2027 (Dubai International Academy Model United Nations)",
+   "ka": "DIAMUN 2027 (Dubai International Academy-ის გაეროს მოდელი)",
+   "ar": "مؤتمر DIAMUN 2027 لنموذج الأمم المتحدة في دبي"
+  },
+  "cost": "paid",
+  "duration": {
+   "en": "3 days (+ opening ceremony)",
+   "ka": "3 დღე (+ გახსნის ცერემონია)",
+   "ar": "3 أيام (+ حفل الافتتاح)"
+  },
+  "grades": "primary and secondary (school delegations and individuals)",
+  "opens": null,
+  "deadline": "2026-12-15",
+  "deadline_note": "School registration form deadline 15 Dec 2026; final delegate names (Form II) due 8 Jan 2027, per diamun.org.",
+  "event_dates": "2027-02-04 to 2027-02-07",
+  "summary": {
+   "en": "The 19th DIAMUN, the largest student-led THIMUN-affiliated MUN in the MENA region, runs 5–7 February 2027 in Dubai with around 800 delegates. Schools, individual secondary and primary delegates, chairs and press can all register.",
+   "ka": "მე-19 DIAMUN — MENA რეგიონში ყველაზე დიდი სტუდენტების მიერ მართული, THIMUN-თან აფილირებული გაეროს მოდელი — 2027 წლის 5–7 თებერვალს დუბაიში ჩატარდება, დაახლოებით 800 დელეგატით. რეგისტრაცია ღიაა სკოლებისთვის, ინდივიდუალური დელეგატებისთვის, თავმჯდომარეებისა და პრესისთვის.",
+   "ar": "تُعقد النسخة التاسعة عشرة من DIAMUN، أكبر مؤتمر لنموذج الأمم المتحدة يديره الطلاب ومنتسب إلى THIMUN في المنطقة، من 5 إلى 7 فبراير 2027 في دبي بمشاركة نحو 800 مندوب. يمكن للمدارس والمندوبين الأفراد من المرحلتين الابتدائية والثانوية والرؤساء والصحافة التسجيل."
+  },
+  "about": {
+   "en": "DIAMUN is the annual Model United Nations conference of Dubai International Academy and describes itself as the largest student-led, THIMUN-affiliated MUN in the Middle East and North Africa. The 19th edition runs 5–7 February 2027 at the DIA Emirates Hills campus in Dubai, with the opening ceremony on 4 February at the Al Barsha campus. Its theme is \"Better Together: Reconstructing Global Governance in an Era of Fragmentation\", and roughly 800 delegates from more than 50 international schools are expected.\n\nThe conference runs more than fifteen committees split into General Assemblies and Specialised Committees, with options for beginner, intermediate and advanced delegates, so no prior MUN experience is needed. Debate follows THIMUN procedure (resolution writing, lobbying, debate and voting) and covers economic, social and political issues, building public speaking, research, writing and negotiation skills.\n\nSchools register a delegation through a director or teacher, but there are also forms for external individual secondary delegates, primary-school delegates, chairs/student officers and press. Fees include conference registration, lunch and the social event; travel and accommodation are your own. It is one of the best-organised school MUNs in the Gulf and a good first international MUN for students in the region."
+  },
+  "highlights": {
+   "en": [
+    "About 800 delegates from 50+ schools; THIMUN-affiliated",
+    "Committees for beginner, intermediate and advanced delegates, plus a primary-school track",
+    "Individual delegates can register, not only school delegations"
+   ]
+  },
+  "eligibility": {
+   "en": "Primary and secondary school students. Schools register through an MUN director/teacher; external students may register as individual secondary or primary delegates. Chair applications for 2027 are closed. Conducted in English. Open to any nationality."
+  },
+  "how_to_apply": {
+   "en": [
+    "Choose the right form on the DIAMUN 2027 registration page (school delegation, individual secondary or primary delegate, press).",
+    "Submit Form I by 15 December 2026; you receive portal login details by email.",
+    "Directors pay the school and director fees, then complete Form II with final delegate names by 8 January 2027.",
+    "Pay delegate fees in AED via the portal (fees are non-refundable from 8 January 2027).",
+    "Prepare position papers/resolutions for your committee before 5 February."
+   ]
+  },
+  "costs": {
+   "en": "School registration fee AED 1,050 (incl. VAT); secondary delegate or advisor AED 630; primary delegate, press, student officer or admin AED 315. Covers registration, conference lunch and social event; not travel, accommodation or other meals."
+  },
+  "keywords": [
+   "mun",
+   "model un",
+   "dubai",
+   "uae",
+   "thimun",
+   "debate",
+   "conference",
+   "school",
+   "diplomacy"
+  ],
+  "url": "https://www.diamun.org/",
+  "apply_url": "https://www.diamun.org/2027-registration",
+  "sources": [
+   "https://www.diamun.org/",
+   "https://www.diamun.org/about-us",
+   "https://www.diamun.org/2027-registration",
+   "https://www.diamun.org/frequently-asked-questions"
+  ],
+  "score": 8,
+  "score_reason": "Large, well-run THIMUN-affiliated school MUN in Dubai; open to individuals; registration open until mid-December.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Dubai",
+  "lat": 25.2,
+  "lon": 55.27,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "kaust-visiting-student-research-program",
+  "section": "project",
+  "family": "stem",
+  "type": "funded research internship",
+  "org": "King Abdullah University of Science and Technology (KAUST)",
+  "name": {
+   "en": "KAUST Visiting Student Research Program (VSRP)",
+   "ka": "KAUST-ის მოწვეული სტუდენტის კვლევითი პროგრამა (VSRP)",
+   "ar": "برنامج الطلاب الزائرين للبحث في كاوست (VSRP)"
+  },
+  "cost": "fully-funded",
+  "duration": {
+   "en": "2–6 months, flexible start",
+   "ka": "2–6 თვე, მოქნილი დაწყება",
+   "ar": "من شهرين إلى 6 أشهر، بداية مرنة"
+  },
+  "grades": "university (3rd year+ undergraduate, master's)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling: applications accepted year-round with flexible start dates (admissions.kaust.edu.sa).",
+  "event_dates": null,
+  "summary": {
+   "en": "A fully funded 2–6 month STEM research internship at KAUST on the Red Sea coast, with a USD 1,000 monthly stipend, flights and private housing. Undergraduates in year 3+ and master's students from any country can apply year-round.",
+   "ka": "სრულად დაფინანსებული 2–6-თვიანი STEM კვლევითი სტაჟირება KAUST-ში, წითელი ზღვის სანაპიროზე: თვეში 1000 აშშ დოლარი სტიპენდია, ავიაბილეთები და ცალკე საცხოვრებელი. განაცხადი მთელი წლის განმავლობაში მიიღება ნებისმიერი ქვეყნის მე-3 კურსიდან ბაკალავრებისა და მაგისტრანტებისგან.",
+   "ar": "تدريب بحثي ممول بالكامل في مجالات العلوم والتقنية لمدة 2 إلى 6 أشهر في كاوست على ساحل البحر الأحمر، مع مكافأة شهرية قدرها 1000 دولار وتذاكر طيران وسكن خاص. يقبل البرنامج طلبات طلاب البكالوريوس من السنة الثالثة فما فوق وطلاب الماجستير من أي دولة طوال العام."
+  },
+  "about": {
+   "en": "The Visiting Student Research Program (VSRP) lets undergraduate and master's students spend two to six months doing real research in a KAUST lab in Thuwal, Saudi Arabia. KAUST lists more than 100 faculty-led projects across science, engineering, computing, AI, marine science, energy and the environment; you pick a project and work with that faculty member's group, with access to KAUST's core laboratories.\n\nIt is fully funded: a USD 1,000 monthly stipend, a private bedroom and bathroom on campus, return airfare, campus facilities and social and cultural activities. Applications are accepted all year with flexible start and end dates, and there is no application fee. Many students use it as a route into KAUST's fully funded MS and PhD programmes.\n\nYou need to be at least a third-year undergraduate or a master's student (recent graduates within a year also qualify), with a GPA of at least 3.5/4 and proof of English proficiency. You apply to one project at a time with transcripts, a statement of purpose, a CV, your passport and one faculty recommendation."
+  },
+  "highlights": {
+   "en": [
+    "USD 1,000/month stipend, flights and private campus housing",
+    "100+ faculty-led STEM projects; flexible 2–6 month duration",
+    "Rolling admissions and no application fee"
+   ]
+  },
+  "eligibility": {
+   "en": "Third-year or higher undergraduates and master's students of any nationality (or graduates within one year of the start date). Minimum GPA 3.5/4 or equivalent. English proficiency proof (IELTS, TOEFL, PTE, Cambridge C1/C2 or Duolingo) unless exempt. Current PhD students and KAUST students/alumni are not eligible."
+  },
+  "how_to_apply": {
+   "en": [
+    "Browse the VSRP project list on the KAUST admissions site and choose one project.",
+    "Click Apply on that project page (one application at a time).",
+    "Upload English transcripts, a statement of purpose, CV and passport (6+ months validity).",
+    "Name one faculty recommender; KAUST contacts them directly.",
+    "Wait for a decision (KAUST decides on a rolling basis)."
+   ]
+  },
+  "costs": {
+   "en": "Free to apply. Fully funded: USD 1,000 monthly stipend, private housing, return airfare and campus access."
+  },
+  "keywords": [
+   "research internship",
+   "kaust",
+   "saudi arabia",
+   "stem",
+   "funded",
+   "stipend",
+   "undergraduate",
+   "masters",
+   "ai",
+   "engineering",
+   "summer"
+  ],
+  "url": "https://admissions.kaust.edu.sa/study/internships",
+  "apply_url": "https://admissions.kaust.edu.sa/study/internships",
+  "sources": [
+   "https://admissions.kaust.edu.sa/study/internships"
+  ],
+  "score": 9,
+  "score_reason": "Fully funded, open to all nationalities, rolling; excellent research experience.",
+  "iso": "SA",
+  "flag": "🇸🇦",
+  "region": "middle-east",
+  "country": {
+   "en": "Saudi Arabia",
+   "ka": "საუდის არაბეთი",
+   "ar": "المملكة العربية السعودية"
+  },
+  "city": "Thuwal",
+  "lat": 22.31,
+  "lon": 39.1,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "mbzuai-global-research-internship-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "AI research internship",
+  "org": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
+  "name": {
+   "en": "MBZUAI Global Research Internship Program (MGRIP) 2027",
+   "ka": "MBZUAI-ის გლობალური კვლევითი სტაჟირება (MGRIP) 2027",
+   "ar": "برنامج MBZUAI العالمي للتدريب البحثي (MGRIP) 2027"
+  },
+  "cost": "funded",
+  "duration": {
+   "en": "4 weeks (7 June – 2 July 2027)",
+   "ka": "4 კვირა (2027 წლის 7 ივნისი – 2 ივლისი)",
+   "ar": "4 أسابيع (7 يونيو – 2 يوليو 2027)"
+  },
+  "grades": "university (undergraduate and master's)",
+  "opens": "2027-01-01",
+  "deadline": "2027-02-28",
+  "deadline_note": "Application window 1 Jan – 28 Feb 2027 (5 pm GST); decisions by 2 Apr 2027, per MBZUAI MGRIP page. 2027 projects released in November 2026.",
+  "event_dates": "2027-06-07 to 2027-07-02",
+  "summary": {
+   "en": "MBZUAI's month-long summer AI research internship in Abu Dhabi, the successor to its UGRIP programme, now open to undergraduate and master's students worldwide. Interns work in teams on faculty-led AI projects in machine learning, computer vision and NLP.",
+   "ka": "MBZUAI-ის ერთთვიანი საზაფხულო კვლევითი სტაჟირება ხელოვნურ ინტელექტში აბუ-დაბიში — UGRIP-ის მემკვიდრე, რომელიც ახლა მთელი მსოფლიოს ბაკალავრებსა და მაგისტრანტებს იღებს. სტაჟიორები გუნდურად მუშაობენ პროფესორების ხელმძღვანელობით მანქანურ სწავლებაში, კომპიუტერულ ხედვასა და NLP-ში.",
+   "ar": "تدريب بحثي صيفي في الذكاء الاصطناعي لمدة شهر في أبوظبي تقدمه جامعة محمد بن زايد للذكاء الاصطناعي، وهو خليفة برنامج UGRIP، ومفتوح الآن لطلاب البكالوريوس والماجستير من جميع أنحاء العالم. يعمل المتدربون ضمن فرق على مشاريع يقودها أعضاء هيئة التدريس في تعلم الآلة والرؤية الحاسوبية ومعالجة اللغات."
+  },
+  "about": {
+   "en": "MBZUAI, the world's first graduate university dedicated to artificial intelligence, runs a four-week research internship on its Abu Dhabi campus each summer. Previously called the Undergraduate Research Internship Program (UGRIP), it has been renamed the MBZUAI Global Research Internship Program (MGRIP) and widened to undergraduate and master's students from around the world. The 2027 edition runs 7 June to 2 July 2027.\n\nInterns join small teams working on faculty-led projects across machine learning, computer vision, natural language processing, robotics and related areas, attend lectures and workshops, and present their results at the end. Past UGRIP cohorts were hosted on campus with travel and accommodation provided; check the MGRIP page for the 2027 funding terms. The 2027 project list is due to be published in November 2026.\n\nApplications open 1 January 2027 and close 28 February 2027, with decisions by 2 April. In the previous cycle applicants needed a STEM-related major, a CGPA of at least 3.5/4 and an approved English test score. It is a strong option for students considering MBZUAI's fully funded MSc and PhD programmes."
+  },
+  "highlights": {
+   "en": [
+    "Four weeks of hands-on AI research on MBZUAI's Abu Dhabi campus",
+    "Open worldwide to undergraduate and master's students",
+    "Pathway towards MBZUAI's fully funded graduate programmes"
+   ]
+  },
+  "eligibility": {
+   "en": "Undergraduate and master's students from any country. The previous cycle required a STEM-related major, CGPA 3.5/4 or higher and an approved English test; confirm 2027 requirements on the MGRIP page."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check the 2027 project list on the MGRIP page (released November 2026).",
+    "Prepare transcripts, CV, English test score and statement.",
+    "Apply online between 1 January and 28 February 2027 (5 pm GST).",
+    "Receive a decision by 2 April 2027."
+   ]
+  },
+  "costs": {
+   "en": "No tuition. Earlier editions covered travel and on-campus accommodation for interns; confirm the 2027 package on the official page."
+  },
+  "keywords": [
+   "ai",
+   "artificial intelligence",
+   "research internship",
+   "mbzuai",
+   "abu dhabi",
+   "uae",
+   "summer",
+   "machine learning",
+   "undergraduate",
+   "masters"
+  ],
+  "url": "https://mbzuai.ac.ae/academics/pathway-programs/mbzuai-global-research-internship-program",
+  "apply_url": "https://mbzuai.ac.ae/academics/pathway-programs/mbzuai-global-research-internship-program",
+  "sources": [
+   "https://mbzuai.ac.ae/academics/pathway-programs/mbzuai-global-research-internship-program",
+   "https://mbzuai.ac.ae/academics/short-term-pathway-programs/undergraduate-research-internship"
+  ],
+  "score": 8,
+  "score_reason": "Prestigious AI research internship open worldwide; window opens January 2027.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Abu Dhabi",
+  "lat": 24.45,
+  "lon": 54.38,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "mawhiba-national-gifted-olympiad-ibdaa-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "national science fair and olympiad",
+  "org": "King Abdulaziz and His Companions Foundation for Giftedness and Creativity (Mawhiba)",
+  "name": {
+   "en": "Mawhiba National Gifted Olympiad 2027 (Ibdaa research track & Nasmu science track)",
+   "ka": "Mawhiba-ს ეროვნული ნიჭიერთა ოლიმპიადა 2027 (Ibdaa კვლევითი და Nasmu სამეცნიერო მიმართულებები)",
+   "ar": "أولمبياد موهبة الوطني 2027 (المسار البحثي إبداع والمسار العلمي نسمو)"
+  },
+  "cost": "free",
+  "duration": {
+   "en": "School year (training, exhibitions and finals)",
+   "ka": "სასწავლო წელი (ტრენინგები, გამოფენები, ფინალი)",
+   "ar": "عام دراسي (تدريب ومعارض ونهائيات)"
+  },
+  "grades": "7-12 (intermediate and secondary)",
+  "opens": null,
+  "deadline": "2026-11-02",
+  "deadline_note": "Mawhiba lists 2 Nov 2026 for Ibdaa registration (page countdown on 29 Oct showed 3 days left). Nasmu registration is through school coordinators.",
+  "event_dates": null,
+  "summary": {
+   "en": "Saudi Arabia's national olympiad for gifted students, combining the Ibdaa research-project fair (pathway to ISEF) and the Nasmu science olympiad track (pathway to international olympiad teams). Registration is free.",
+   "ka": "საუდის არაბეთის ეროვნული ოლიმპიადა ნიჭიერი მოსწავლეებისთვის, რომელიც აერთიანებს Ibdaa-ს კვლევით პროექტების ფესტივალს (გზა ISEF-მდე) და Nasmu-ს სამეცნიერო ოლიმპიადას (გზა საერთაშორისო ოლიმპიადების გუნდებამდე). რეგისტრაცია უფასოა.",
+   "ar": "الأولمبياد الوطني للموهوبين في المملكة، ويجمع بين معرض المشاريع البحثية «إبداع» (الطريق إلى معرض ISEF) والمسار العلمي «نسمو» (الطريق إلى فرق الأولمبيادات الدولية). التسجيل مجاني."
+  },
+  "about": {
+   "en": "Mawhiba's National Gifted Olympiad is the main gateway for Saudi school students into international science competitions. It has two tracks under one framework. Ibdaa, the research track, is a national science and engineering fair: students submit an individual research project, attend training lectures, go through online judging, present at regional exhibitions and, if they qualify, at the national exhibition, which selects the Saudi delegation to the Regeneron International Science and Engineering Fair (ISEF).\n\nNasmu, the science track, is an olympiad pathway in mathematics, science, informatics (C++), physics, chemistry and biology. Students sit an electronic test, a national-team test, then training camps with central tests and finals; finalists join Saudi national-team preparation for international olympiads (IMO, IPhO, IChO, IBO, IOI, AI and more). Saudi students compete in more than 29 international olympiads and fairs through this route.\n\nBoth tracks are free, and participation does not affect the regular school track. Training days, exhibitions and tests are in person. Ibdaa winners receive prizes, and every finalist receives a certificate."
+  },
+  "highlights": {
+   "en": [
+    "Free; the official pathway to ISEF and international science olympiads for Saudi students",
+    "Two tracks: Ibdaa (individual research projects) and Nasmu (olympiad subjects)",
+    "Training lectures, regional and national exhibitions, national-team camps"
+   ]
+  },
+  "eligibility": {
+   "en": "Ibdaa: Saudi nationals in intermediate or secondary general education, aged 11–20, one individual project each. Nasmu: students from first intermediate to first secondary grade (subject-specific), registered through their school coordinator. In person in Saudi Arabia."
+  },
+  "how_to_apply": {
+   "en": [
+    "Log in to the Mawhiba website or app and confirm your profile.",
+    "For Ibdaa, register through the National Gifted Olympiad service before the deadline and submit your project and documents.",
+    "For Nasmu, register through your school's olympiad coordinator.",
+    "Attend the training lectures and the electronic tests or judging.",
+    "Qualifiers present at central exhibitions or attend national-team camps."
+   ]
+  },
+  "costs": {
+   "en": "Free registration. In-person attendance at training days and exhibitions is required (travel within Saudi Arabia at your own cost unless Mawhiba states otherwise)."
+  },
+  "keywords": [
+   "olympiad",
+   "science fair",
+   "isef",
+   "mawhiba",
+   "saudi arabia",
+   "ibdaa",
+   "research",
+   "math",
+   "physics",
+   "free",
+   "school"
+  ],
+  "url": "https://www.mawhiba.sa/services/national-gifted-olympiad-registration/",
+  "apply_url": "https://www.mawhiba.sa/services/national-gifted-olympiad-registration/",
+  "sources": [
+   "https://www.mawhiba.sa/",
+   "https://www.mawhiba.sa/services/national-gifted-olympiad-registration/"
+  ],
+  "score": 7,
+  "score_reason": "Free flagship olympiad and ISEF pathway, but Ibdaa limited to Saudi nationals and deadline is imminent.",
+  "iso": "SA",
+  "flag": "🇸🇦",
+  "region": "middle-east",
+  "country": {
+   "en": "Saudi Arabia",
+   "ka": "საუდის არაბეთი",
+   "ar": "المملكة العربية السعودية"
+  },
+  "city": "Riyadh",
+  "lat": 24.71,
+  "lon": 46.68,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "bebras-mawhiba-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "computational thinking competition",
+  "org": "Mawhiba",
+  "name": {
+   "en": "Bebras Mawhiba Computational Thinking Challenge 2026",
+   "ka": "Bebras Mawhiba — გამოთვლითი აზროვნების შეჯიბრი 2026",
+   "ar": "مسابقة بيبراس موهبة للتفكير الحاسوبي 2026"
+  },
+  "cost": "paid",
+  "duration": {
+   "en": "One online test",
+   "ka": "ერთი ონლაინ ტესტი",
+   "ar": "اختبار واحد عن بُعد"
+  },
+  "grades": "3-12",
+  "opens": null,
+  "deadline": "2026-11-26",
+  "deadline_note": "Registration ends 26 Nov 2026 per the Mawhiba service page; test dates on bebrasksa.org.",
+  "event_dates": null,
+  "summary": {
+   "en": "The Saudi edition of the international Bebras challenge: a remote, 10-problem computational-thinking test in Arabic or English for students from grade 3 to grade 12. No programming experience is needed.",
+   "ka": "საერთაშორისო Bebras-ის საუდის ვერსია: დისტანციური, 10-ამოცანიანი გამოთვლითი აზროვნების ტესტი არაბულ ან ინგლისურ ენაზე მე-3–მე-12 კლასის მოსწავლეებისთვის. პროგრამირების გამოცდილება საჭირო არ არის.",
+   "ar": "النسخة السعودية من تحدي بيبراس الدولي: اختبار عن بُعد من 10 مسائل في التفكير الحاسوبي باللغتين العربية أو الإنجليزية للطلاب من الصف الثالث الابتدائي حتى الثالث الثانوي، ولا يتطلب خبرة برمجية."
+  },
+  "about": {
+   "en": "Bebras is one of the world's largest informatics and computational-thinking challenges, run in more than 60 countries. Mawhiba organises the Saudi edition, Bebras Mawhiba, as a fully remote test for students from grade 3 of primary through grade 3 of secondary school.\n\nThe test has 10 interactive problems, each with four levels of increasing difficulty (maximum 400 points). Problems test logic, algorithms, patterns and data reasoning rather than coding, so no programming background is needed, and it can be taken in Arabic or English. Students get one attempt, see results immediately after the test, and winners receive medals delivered via their regional education departments.\n\nIt is an accessible first competition for younger students and a good warm-up for the informatics olympiad track. The official site has a Bebras library with sample problems for practice."
+  },
+  "highlights": {
+   "en": [
+    "Remote, in Arabic or English, no coding needed",
+    "10 interactive problems with four difficulty levels",
+    "Medals for winners; good entry point to informatics olympiads"
+   ]
+  },
+  "eligibility": {
+   "en": "Students from grade 3 primary to grade 3 secondary enrolled in general education inside Saudi Arabia (any nationality)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Log in to the Bebras Mawhiba website (bebrasksa.org) and confirm your profile.",
+    "Register through the service system and accept the terms.",
+    "Pay the SAR 60 contribution before 26 November 2026.",
+    "Practise with the Bebras library, then take the test on the scheduled date."
+   ]
+  },
+  "costs": {
+   "en": "SAR 60 guardian contribution (Apple Pay, mada, Visa, Mastercard)."
+  },
+  "keywords": [
+   "bebras",
+   "computational thinking",
+   "informatics",
+   "coding",
+   "competition",
+   "saudi arabia",
+   "online",
+   "mawhiba",
+   "primary",
+   "school"
+  ],
+  "url": "https://www.mawhiba.sa/services/bebras-mawhiba/",
+  "apply_url": "https://bebrasksa.org/",
+  "sources": [
+   "https://www.mawhiba.sa/",
+   "https://www.mawhiba.sa/services/bebras-mawhiba/"
+  ],
+  "score": 6,
+  "score_reason": "Accessible, cheap remote contest, but limited to students in Saudi schools.",
+  "iso": "SA",
+  "flag": "🇸🇦",
+  "region": "middle-east",
+  "country": {
+   "en": "Saudi Arabia",
+   "ka": "საუდის არაბეთი",
+   "ar": "المملكة العربية السعودية"
+  },
+  "city": "Online",
+  "lat": 24.71,
+  "lon": 46.68,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "mawhiba-tamayuz-elite-universities-2027",
+  "section": "project",
+  "family": "training",
+  "type": "university admissions preparation programme",
+  "org": "Mawhiba",
+  "name": {
+   "en": "Mawhiba Tamayuz Programme for Admission to Top Universities",
+   "ka": "Mawhiba-ს Tamayuz — მომზადება წამყვან უნივერსიტეტებში ჩასაბარებლად",
+   "ar": "برنامج موهبة للالتحاق بالجامعات المرموقة «التميز»"
+  },
+  "cost": "paid",
+  "duration": {
+   "en": "Grade 11 to university applications (about one year)",
+   "ka": "მე-11 კლასიდან განაცხადებამდე (დაახლ. ერთი წელი)",
+   "ar": "من الصف الثاني الثانوي حتى التقديم للجامعات (نحو عام)"
+  },
+  "grades": "11",
+  "opens": null,
+  "deadline": "2026-11-03",
+  "deadline_note": "Mawhiba lists 3 Nov 2026 for Tamayuz registration (countdown on page). Verify before applying.",
+  "event_dates": null,
+  "summary": {
+   "en": "Mawhiba's preparation programme that trains second-year secondary students in Saudi Arabia to apply to top-50 universities in the United States, with SAT training, essay coaching and application support. Admitted students then apply for sponsorship from partners such as the Ministry of Education, KAUST and Aramco.",
+   "ka": "Mawhiba-ს პროგრამა, რომელიც საუდის არაბეთის მე-11 კლასის მოსწავლეებს ამზადებს აშშ-ის ტოპ-50 უნივერსიტეტებში ჩასაბარებლად: SAT-ის მომზადება, ესეების წერა და განაცხადის მხარდაჭერა. ჩარიცხვის შემდეგ სტუდენტები დაფინანსებას პარტნიორებთან ითხოვენ (განათლების სამინისტრო, KAUST, Aramco).",
+   "ar": "برنامج من موهبة يؤهل طلاب الصف الثاني الثانوي في المملكة للتقديم إلى أفضل 50 جامعة في الولايات المتحدة، عبر التدريب على SAT وكتابة المقالات ودعم طلبات القبول. بعد القبول يتقدم الطلاب للابتعاث لدى جهات شريكة مثل وزارة التعليم وكاوست وأرامكو."
+  },
+  "about": {
+   "en": "Tamayuz (Excellence) is Mawhiba's flagship programme for getting Saudi high-school students into the world's most selective universities, mainly top-ranked US institutions. It targets students in the second year of secondary school and runs through the application season: SAT training, university essay-writing workshops, help completing applications and forms, and individual advising sessions, with an emphasis on STEM majors.\n\nThe programme itself provides training only. After admission, students apply to partner sponsors such as the Ministry of Education, KAUST (via KGSP) and Aramco for scholarships to fund their studies. A separate six-week Tamayuz Preparation course for first-year secondary students focuses on the SAT and is optional.\n\nApplicants need averages of at least 90% in grade 9 and grade 10, 90%+ in maths, computer science and science, and an SAT of 1000+ or IELTS Academic 6.5 / TOEFL iBT 80 (SAT holders get priority), plus a personal interview in English. Non-Saudi students can register to benefit from the training content."
+  },
+  "highlights": {
+   "en": [
+    "SAT, essay and application coaching for top US universities",
+    "Links to sponsorship from the Ministry of Education, KAUST and Aramco after admission",
+    "Individual advising and STEM-major guidance"
+   ]
+  },
+  "eligibility": {
+   "en": "Second-year secondary (grade 11) students in Saudi Arabia with 90%+ averages in grades 9 and 10 and in maths/CS/science, plus SAT 1000+ or IELTS 6.5 / TOEFL 80, and a successful interview. Non-Saudis may register to benefit from the training."
+  },
+  "how_to_apply": {
+   "en": [
+    "Log in to the Mawhiba website and confirm your profile.",
+    "Register through the Tamayuz service (registration.mawhiba.sa/Tamayuz).",
+    "Upload grade 9 and grade 10 certificates plus your SAT or English test report.",
+    "Book and pass the English interview once you become a \"candidate\".",
+    "Pay the contribution after acceptance."
+   ]
+  },
+  "costs": {
+   "en": "SAR 4,600 for Mawhiba students (Saudi or Saudi mother, score 1400+ on the Mawhiba scale) and SAR 19,550 for others, each including a refundable SAR 1,150 deposit. Fee exemptions possible with documents."
+  },
+  "keywords": [
+   "sat",
+   "college admissions",
+   "usa",
+   "top universities",
+   "mawhiba",
+   "saudi arabia",
+   "scholarship",
+   "kaust",
+   "aramco",
+   "training"
+  ],
+  "url": "https://www.mawhiba.sa/services/mawhiba-program-for-elite-universities-tamayuz/",
+  "apply_url": "https://www.mawhiba.sa/services/mawhiba-program-for-elite-universities-tamayuz/",
+  "sources": [
+   "https://www.mawhiba.sa/",
+   "https://www.mawhiba.sa/services/mawhiba-program-for-elite-universities-tamayuz/"
+  ],
+  "score": 6,
+  "score_reason": "Strong pathway to top US universities and Saudi sponsorship, but paid and closing within days.",
+  "iso": "SA",
+  "flag": "🇸🇦",
+  "region": "middle-east",
+  "country": {
+   "en": "Saudi Arabia",
+   "ka": "საუდის არაბეთი",
+   "ar": "المملكة العربية السعودية"
+  },
+  "city": "Riyadh",
+  "lat": 24.71,
+  "lon": 46.68,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "mawhiba-gifted-identification-test-2026",
+  "section": "project",
+  "family": "stem",
+  "type": "gifted identification test",
+  "org": "Mawhiba with the National Center for Assessment (Qiyas)",
+  "name": {
+   "en": "Mawhiba National Program for Gifted Identification (Multiple Mental Abilities Test)",
+   "ka": "Mawhiba-ს ნიჭიერთა გამოვლენის ეროვნული პროგრამა (მრავალმხრივი გონებრივი უნარების ტესტი)",
+   "ar": "البرنامج الوطني للكشف عن الموهوبين (مقياس موهبة للقدرات العقلية المتعددة)"
+  },
+  "cost": "paid",
+  "duration": {
+   "en": "One test sitting",
+   "ka": "ერთი ტესტი",
+   "ar": "جلسة اختبار واحدة"
+  },
+  "grades": "3-10",
+  "opens": null,
+  "deadline": "2026-12-28",
+  "deadline_note": "Registration closes 28 Dec 2026 per the Mawhiba service page.",
+  "event_dates": null,
+  "summary": {
+   "en": "Saudi Arabia's national gifted-identification test, run by Mawhiba with Qiyas, in Arabic or English for students from grade 3 to the first year of secondary school. Your score unlocks Mawhiba classes, enrichment programmes and university-preparation programmes.",
+   "ka": "საუდის არაბეთის ეროვნული ნიჭიერების ტესტი, რომელსაც Mawhiba და Qiyas ატარებენ არაბულ ან ინგლისურ ენაზე მე-3 კლასიდან საშუალო სკოლის პირველ კურსამდე. ქულა გიხსნის გზას Mawhiba-ს კლასებზე, გამაძლიერებელ და უნივერსიტეტისთვის მოსამზადებელ პროგრამებზე.",
+   "ar": "الاختبار الوطني للكشف عن الموهوبين في المملكة، تنفذه موهبة مع قياس باللغتين العربية أو الإنجليزية للطلاب من الصف الثالث الابتدائي حتى الأول الثانوي. تفتح الدرجة الباب لفصول موهبة وبرامجها الإثرائية وبرامج التأهيل للجامعات."
+  },
+  "about": {
+   "en": "The Mawhiba Multiple Mental Abilities Test is the entry point to almost every Mawhiba programme. It is delivered with the National Center for Assessment (Qiyas/ETEC) at test centres across Saudi Arabia, in Arabic or English, at three levels: grades 3–5, grades 6–8 and grades 9–10. Each student can sit the test once per level.\n\nScores range from 1,000 to 2,000 and stay valid until you move to the next level. Each Mawhiba programme sets its own threshold: Mawhiba classes in partner schools, summer enrichment programmes (such as the Universal Enrichment Program at Saudi universities), the advanced science and maths programme and the Tamayuz top-university preparation programme. Students who do not reach a threshold can still join Mawhiba competitions and retake at the next level.\n\nIf you are a student in Saudi Arabia interested in gifted programmes, this test is the first step."
+  },
+  "highlights": {
+   "en": [
+    "Unlocks Mawhiba classes, enrichment and university-prep programmes",
+    "Arabic or English; three age levels",
+    "Free if nominated by your teacher"
+   ]
+  },
+  "eligibility": {
+   "en": "Students from grade 3 of primary to grade 1 of secondary at schools in Saudi Arabia. One attempt per level. Some follow-on programmes are limited to Saudi nationals or children of Saudi mothers."
+  },
+  "how_to_apply": {
+   "en": [
+    "Self-nominated students log in to the Sadeed platform (sadeed.etec.gov.sa) and choose the Mawhiba Multiple Mental Abilities Test.",
+    "Choose a test venue and date and accept the terms.",
+    "Pay the SAR 200 fee before 28 December 2026.",
+    "Teacher-nominated students confirm attendance and choose a venue on the Qiyas site (no fee)."
+   ]
+  },
+  "costs": {
+   "en": "SAR 200 for self-nominated students; free for teacher-nominated students."
+  },
+  "keywords": [
+   "gifted",
+   "mawhiba",
+   "test",
+   "saudi arabia",
+   "qiyas",
+   "enrichment",
+   "school",
+   "iq"
+  ],
+  "url": "https://www.mawhiba.sa/services/the-national-program-for-gifted-identification/",
+  "apply_url": "https://www.mawhiba.sa/services/the-national-program-for-gifted-identification/",
+  "sources": [
+   "https://www.mawhiba.sa/",
+   "https://www.mawhiba.sa/services/the-national-program-for-gifted-identification/"
+  ],
+  "score": 5,
+  "score_reason": "Essential gateway for Saudi-based students, but a test rather than a programme in itself.",
+  "iso": "SA",
+  "flag": "🇸🇦",
+  "region": "middle-east",
+  "country": {
+   "en": "Saudi Arabia",
+   "ka": "საუდის არაბეთი",
+   "ar": "المملكة العربية السعودية"
+  },
+  "city": "Riyadh",
+  "lat": 24.71,
+  "lon": 46.68,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "kaust-academy-hssp-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "pre-college STEM summer programme (KAUST + Oxford/Cambridge)",
+  "org": "KAUST Academy",
+  "name": {
+   "en": "KAUST Academy High School Summer Program (HSSP) 2027: KAUST–Oxford and KAUST–Cambridge",
+   "ka": "KAUST Academy-ის საზაფხულო პროგრამა მოსწავლეებისთვის (HSSP) 2027: KAUST–ოქსფორდი და KAUST–კემბრიჯი",
+   "ar": "برنامج أكاديمية كاوست الصيفي لطلاب الثانوية (HSSP) 2027: كاوست–أكسفورد وكاوست–كامبريدج"
+  },
+  "cost": "paid",
+  "duration": {
+   "en": "About 3 weeks per track (July or August 2027)",
+   "ka": "დაახლ. 3 კვირა თითო მიმართულებაზე (2027 წლის ივლისი ან აგვისტო)",
+   "ar": "نحو 3 أسابيع لكل مسار (يوليو أو أغسطس 2027)"
+  },
+  "grades": "high school (age 15+)",
+  "opens": "2026-11-01",
+  "deadline": "2026-12-31",
+  "deadline_note": "Applications 1 Nov – 31 Dec 2026 per KAUST Academy HSSP page; online interviews within a week of closing.",
+  "event_dates": "2027-07-09 to 2027-08-22",
+  "summary": {
+   "en": "A selective STEM summer programme that starts at KAUST in Saudi Arabia and continues at Oxford (July) or Cambridge (August), with maths, programming, science and research projects. It includes SAT preparation and US/UK university application mentoring afterwards.",
+   "ka": "შერჩევითი STEM საზაფხულო პროგრამა, რომელიც KAUST-ში იწყება და ოქსფორდში (ივლისი) ან კემბრიჯში (აგვისტო) გრძელდება: მათემატიკა, პროგრამირება, მეცნიერება და კვლევითი პროექტები. შემდეგ მოიცავს SAT-ის მომზადებას და აშშ/დიდი ბრიტანეთის უნივერსიტეტებში განაცხადის მენტორობას.",
+   "ar": "برنامج صيفي انتقائي في العلوم والتقنية يبدأ في كاوست بالمملكة ويستكمل في أكسفورد (يوليو) أو كامبريدج (أغسطس)، ويشمل الرياضيات والبرمجة والعلوم والمشاريع البحثية، مع تحضير لاختبار SAT وإرشاد للتقديم للجامعات الأمريكية والبريطانية بعده."
+  },
+  "about": {
+   "en": "The High School Summer Program (HSSP) is KAUST Academy's residential STEM programme for high-achieving secondary students. Each track starts with about two weeks at KAUST in Thuwal and finishes with a week at a UK university. The KAUST–Oxford track (9–30 July 2027) is broad and interdisciplinary: mathematics, programming, physics, chemistry, biology, leadership and collaborative research projects. The KAUST–Cambridge track (about 30 July – 22 August 2027) focuses on advanced mathematics, programming and computational thinking, and innovation projects.\n\nThe fee covers return flights, ground transport, accommodation (shared rooms at KAUST, single rooms in the UK, separate housing for boys and girls), full board, tuition, trips, campus facilities and healthcare. After the summer, participants get remote SAT preparation (September–October 2027), an on-campus college admissions camp at KAUST in November 2027 and mentoring on US and UK university applications through March 2028.\n\nApplicants must be at least 15 by the UK flight date. A parent or guardian submits the application between 1 November and 31 December 2026; shortlisted students are interviewed online about their academic interests and readiness. It is expensive, but it combines two world-class campuses with structured university-admissions support."
+  },
+  "highlights": {
+   "en": [
+    "Two weeks at KAUST plus a week at Oxford or Cambridge",
+    "All-inclusive: flights, housing, meals, tuition and trips",
+    "Follow-up SAT prep and US/UK admissions mentoring to March 2028"
+   ]
+  },
+  "eligibility": {
+   "en": "High-school students aged at least 15 by the UK flight date. The page does not set a nationality restriction; the application is made by a parent or legal guardian. Teaching in English."
+  },
+  "how_to_apply": {
+   "en": [
+    "A parent or guardian completes the online application on the KAUST Academy HSSP page (opens 1 November 2026).",
+    "Pay the non-refundable SAR 200 application fee by 31 December 2026.",
+    "Watch for interview instructions by email within a week of the deadline.",
+    "Attend the online interview if shortlisted."
+   ]
+  },
+  "costs": {
+   "en": "Application fee SAR 200. Programme fee SAR 35,000 (Oxford track) or SAR 40,000 (Cambridge track), excluding VAT, covering flights, transport, accommodation, meals, tuition, trips and healthcare. No financial aid is listed."
+  },
+  "keywords": [
+   "summer school",
+   "pre-college",
+   "kaust",
+   "oxford",
+   "cambridge",
+   "stem",
+   "saudi arabia",
+   "math",
+   "programming",
+   "high school",
+   "sat"
+  ],
+  "url": "https://academy.kaust.edu.sa/program/pre-university/high-school-summer-program-hssp-2026/",
+  "apply_url": "https://academy.kaust.edu.sa/program/pre-university/high-school-summer-program-hssp-2026/",
+  "sources": [
+   "https://academy.kaust.edu.sa/",
+   "https://academy.kaust.edu.sa/program/pre-university/high-school-summer-program-hssp-2026/"
+  ],
+  "score": 7,
+  "score_reason": "Excellent content and UK campuses, open now, but very expensive.",
+  "iso": "SA",
+  "flag": "🇸🇦",
+  "region": "middle-east",
+  "country": {
+   "en": "Saudi Arabia",
+   "ka": "საუდის არაბეთი",
+   "ar": "المملكة العربية السعودية"
+  },
+  "city": "Thuwal",
+  "lat": 22.31,
+  "lon": 39.1,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "kaust-mathematics-competition-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "mathematics competition",
+  "org": "KAUST Academy",
+  "name": {
+   "en": "KAUST Mathematics Competition (KMC) 2027",
+   "ka": "KAUST-ის მათემატიკის შეჯიბრი (KMC) 2027",
+   "ar": "مسابقة كاوست للرياضيات 2027"
+  },
+  "cost": "paid",
+  "duration": {
+   "en": "Written test (Jan) + 3-day final at KAUST (Apr)",
+   "ka": "წერითი ტესტი (იანვარი) + 3-დღიანი ფინალი KAUST-ში (აპრილი)",
+   "ar": "اختبار كتابي (يناير) + نهائي لمدة 3 أيام في كاوست (أبريل)"
+  },
+  "grades": "6-11",
+  "opens": "2026-10-06",
+  "deadline": "2026-12-12",
+  "deadline_note": "Registration 6 Oct – 12 Dec 2026; Phase 1 on 23 Jan 2027; final 2–4 Apr 2027 (KAUST Academy page).",
+  "event_dates": "2027-01-23 to 2027-04-04",
+  "summary": {
+   "en": "KAUST's national maths competition for grades 6–11 in Saudi Arabia: a proctored written test at about 50 centres in January, then a fully funded three-day final at KAUST for the top 250. Grade 8–11 winners earn a summer training camp at Cambridge.",
+   "ka": "KAUST-ის ეროვნული მათემატიკის შეჯიბრი საუდის არაბეთის მე-6–მე-11 კლასის მოსწავლეებისთვის: იანვარში წერითი ტესტი ~50 ცენტრში, შემდეგ საუკეთესო 250-ისთვის სრულად დაფინანსებული სამდღიანი ფინალი KAUST-ში. მე-8–მე-11 კლასის გამარჯვებულები კემბრიჯში საზაფხულო ბანაკს იღებენ.",
+   "ar": "مسابقة كاوست الوطنية للرياضيات لطلاب الصفوف من السادس إلى الحادي عشر في المملكة: اختبار كتابي مراقب في نحو 50 مركزاً في يناير، ثم نهائي ممول بالكامل لمدة ثلاثة أيام في كاوست لأفضل 250 طالباً. يحصل الفائزون الأوائل من الصف الثامن فما فوق على معسكر تدريبي صيفي في جامعة كامبريدج."
+  },
+  "about": {
+   "en": "The KAUST Mathematics Competition is a national olympiad-style contest run by KAUST Academy for students in grades 6 to 11 at schools across Saudi Arabia, open to both Saudi nationals and residents. Phase 1 is a two-hour, in-person written test on 23 January 2027 at around 50 centres nationwide (24 multiple-choice questions for grades 6–7 and 8–9, 30 for grades 10–11). Questions are in Arabic and English, and calculators are not allowed.\n\nThe top 250 students advance to Phase 2, a three-day event at KAUST in Thuwal on 2–4 April 2027 with a four-hour written-response final, enrichment activities and an awards ceremony. KAUST covers domestic airfare, transport, accommodation and meals for finalists.\n\nWinners receive prizes and free places on KAUST Academy programmes, and first-place winners in grades 8–9 and 10–11 earn an exclusive summer training camp at the University of Cambridge. It is an affordable, high-quality maths competition and a good stepping stone towards national olympiad teams and KAUST's pre-college programmes."
+  },
+  "highlights": {
+   "en": [
+    "Open to Saudi nationals and residents in grades 6–11",
+    "Fully funded three-day final at KAUST for the top 250",
+    "Top winners get a summer camp at the University of Cambridge"
+   ]
+  },
+  "eligibility": {
+   "en": "Students in grades 6–11 at schools in Saudi Arabia; Saudi nationals and Saudi residents."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the KMC page on the KAUST Academy website and click \"Apply now\".",
+    "Pay the SAR 100 non-refundable fee by 12 December 2026 (registration is confirmed automatically).",
+    "Check the test-centre announcement after registration closes.",
+    "Sit Phase 1 on 23 January 2027; qualifiers attend the KAUST final on 2–4 April 2027."
+   ]
+  },
+  "costs": {
+   "en": "SAR 100 registration fee. Final-round costs (domestic flights, transport, accommodation, meals) are covered by KAUST."
+  },
+  "keywords": [
+   "math competition",
+   "olympiad",
+   "kaust",
+   "saudi arabia",
+   "mathematics",
+   "school",
+   "cambridge",
+   "contest"
+  ],
+  "url": "https://academy.kaust.edu.sa/program/pre-university/kaust-mathematics-competition/",
+  "apply_url": "https://academy.kaust.edu.sa/program/pre-university/kaust-mathematics-competition/",
+  "sources": [
+   "https://academy.kaust.edu.sa/",
+   "https://academy.kaust.edu.sa/program/pre-university/kaust-mathematics-competition/"
+  ],
+  "score": 7,
+  "score_reason": "Cheap, open to residents too, funded final and Cambridge camp; Saudi-based students only.",
+  "iso": "SA",
+  "flag": "🇸🇦",
+  "region": "middle-east",
+  "country": {
+   "en": "Saudi Arabia",
+   "ka": "საუდის არაბეთი",
+   "ar": "المملكة العربية السعودية"
+  },
+  "city": "Thuwal",
+  "lat": 22.31,
+  "lon": 39.1,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "kaust-academy-steps-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "college preparation programme",
+  "org": "KAUST Academy",
+  "name": {
+   "en": "KAUST Academy STEPs: Science, Technology and Entrepreneurship Program 2027",
+   "ka": "KAUST Academy STEPs — მეცნიერების, ტექნოლოგიისა და მეწარმეობის პროგრამა 2027",
+   "ar": "برنامج أكاديمية كاوست للعلوم والتقنية وريادة الأعمال (STEPs) 2027"
+  },
+  "cost": "tuition-free",
+  "duration": {
+   "en": "10 months (6-week residential summer at KAUST)",
+   "ka": "10 თვე (6-კვირიანი საზაფხულო ბანაკი KAUST-ში)",
+   "ar": "10 أشهر (برنامج صيفي داخلي لمدة 6 أسابيع في كاوست)"
+  },
+  "grades": "10",
+  "opens": "2026-10-15",
+  "deadline": "2026-11-30",
+  "deadline_note": "Registration 15 Oct – 30 Nov 2026; online admissions test 19 Dec 2026 (KAUST Academy STEPs page).",
+  "event_dates": "2027-06-01 to 2027-11-30",
+  "summary": {
+   "en": "A free 10-month programme that prepares Saudi grade-10 students for admission to top global universities, centred on a six-week residential summer at KAUST in maths, programming and SAT training. Tuition, accommodation and meals are covered.",
+   "ka": "უფასო 10-თვიანი პროგრამა, რომელიც საუდის არაბეთის მე-10 კლასელებს მსოფლიოს წამყვან უნივერსიტეტებში ჩასაბარებლად ამზადებს; ცენტრშია ექვსკვირიანი საზაფხულო ბანაკი KAUST-ში მათემატიკით, პროგრამირებითა და SAT-ით. სწავლა, საცხოვრებელი და კვება დაფარულია.",
+   "ar": "برنامج مجاني لمدة 10 أشهر يؤهل طلاب الصف الأول الثانوي السعوديين للقبول في أفضل الجامعات العالمية، محوره برنامج صيفي داخلي لمدة ستة أسابيع في كاوست يشمل الرياضيات والبرمجة والتدريب على SAT، مع تغطية الرسوم والسكن والوجبات."
+  },
+  "about": {
+   "en": "STEPs is KAUST Academy's college-preparation programme for Saudi high-school students aiming at the world's leading universities, including the 30 universities on the Custodian of the Two Holy Mosques Scholarship (Arruaad) list. The 2026/27 cycle combines an online component in June 2027, an in-person summer programme at KAUST from 2 July to 11 August 2027, and further online sessions in September–November 2027.\n\nDuring the summer, mornings are spent on advanced mathematics, programming and SAT training, and afternoons on mentor-guided group projects in a subject of your choice. There is also a speaker series, university-preparation and professional-development lectures, and extracurricular activities on KAUST's Red Sea campus.\n\nTuition and participation are free, including accommodation and meals during in-person periods; only a SAR 200 application fee applies. Selection is by a 90-minute maths and science admissions test on 19 December 2026 and a personal interview. There is no minimum GPA, but you must be a Saudi national currently in grade 10."
+  },
+  "highlights": {
+   "en": [
+    "Free, including six weeks on campus at KAUST with housing and meals",
+    "Advanced maths, programming, SAT training and mentored projects",
+    "Aimed at admission to top global universities and Arruaad scholarship pathway"
+   ]
+  },
+  "eligibility": {
+   "en": "Saudi nationals currently in grade 10 (first secondary). No minimum GPA, but you must upload your transcript and pass the admissions test and interview."
+  },
+  "how_to_apply": {
+   "en": [
+    "Register through the \"Apply now\" button on the STEPs page between 15 October and 30 November 2026.",
+    "Pay the SAR 200 non-refundable application fee and upload your transcript.",
+    "Sit the 90-minute online admissions test on 19 December 2026.",
+    "Attend the personal interview if invited."
+   ]
+  },
+  "costs": {
+   "en": "Free tuition, accommodation and meals during in-person periods. SAR 200 application fee."
+  },
+  "keywords": [
+   "pre-college",
+   "summer",
+   "kaust",
+   "saudi arabia",
+   "sat",
+   "math",
+   "programming",
+   "free",
+   "college prep",
+   "grade 10"
+  ],
+  "url": "https://academy.kaust.edu.sa/program/college-preparation-programs/steps-kaust/",
+  "apply_url": "https://academy.kaust.edu.sa/program/college-preparation-programs/steps-kaust/",
+  "sources": [
+   "https://academy.kaust.edu.sa/",
+   "https://academy.kaust.edu.sa/program/college-preparation-programs/steps-kaust/"
+  ],
+  "score": 8,
+  "score_reason": "Free, high-quality residential prep at KAUST and open now; Saudi nationals only.",
+  "iso": "SA",
+  "flag": "🇸🇦",
+  "region": "middle-east",
+  "country": {
+   "en": "Saudi Arabia",
+   "ka": "საუდის არაბეთი",
+   "ar": "المملكة العربية السعودية"
+  },
+  "city": "Thuwal",
+  "lat": 22.31,
+  "lon": 39.1,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "khalifa-university-ai-winter-camp-2026",
+  "section": "project",
+  "family": "stem",
+  "type": "AI winter camp for high-school students",
+  "org": "Khalifa University of Science and Technology",
+  "name": {
+   "en": "Khalifa University AI Winter Camp 2026",
+   "ka": "Khalifa University-ის AI ზამთრის ბანაკი 2026",
+   "ar": "المعسكر الشتوي للذكاء الاصطناعي في جامعة خليفة 2026"
+  },
+  "cost": "free",
+  "duration": {
+   "en": "1 week (14–18 December 2026)",
+   "ka": "1 კვირა (2026 წლის 14–18 დეკემბერი)",
+   "ar": "أسبوع واحد (14–18 ديسمبر 2026)"
+  },
+  "grades": "10-12",
+  "opens": null,
+  "deadline": "2026-12-07",
+  "deadline_note": "KU does not publish a closing date; registration link is live and selection includes an interview, so apply well before the 14 Dec start (7 Dec used as a safe estimate).",
+  "event_dates": "2026-12-14 to 2026-12-18",
+  "summary": {
+   "en": "A free one-week, hands-on artificial-intelligence camp for grade 10–12 students at Khalifa University's main campus in Abu Dhabi, covering machine learning, neural networks, NLP and real-world AI projects. Selection is by registration and an entry interview.",
+   "ka": "უფასო ერთკვირიანი პრაქტიკული ბანაკი ხელოვნურ ინტელექტში მე-10–მე-12 კლასელებისთვის Khalifa University-ის მთავარ კამპუსში, აბუ-დაბიში: მანქანური სწავლება, ნეირონული ქსელები, NLP და რეალური AI პროექტები. შერჩევა — რეგისტრაციითა და გასაუბრებით.",
+   "ar": "معسكر مجاني لمدة أسبوع في الذكاء الاصطناعي لطلاب الصفوف 10–12 في الحرم الرئيسي لجامعة خليفة في أبوظبي، يغطي تعلم الآلة والشبكات العصبية ومعالجة اللغات ومشاريع تطبيقية. يتم الاختيار عبر التسجيل ومقابلة قبول."
+  },
+  "about": {
+   "en": "Khalifa University's Department of Computer Science runs an AI Winter Camp for high-school students during the December school break. The 2026 edition takes place 14–18 December 2026 on KU's main campus in Abu Dhabi and combines lectures, workshops and group projects using real AI tools.\n\nThe syllabus covers core AI concepts (machine learning, deep learning, neural networks and natural language processing), applications in healthcare, education and transport, AI for sustainability and social challenges, and career paths in AI, data science, robotics and automation. Students build and train their own machine-learning models, network with KU researchers and receive a certificate of participation.\n\nThe camp is free for selected participants, with lunch and snacks provided; bring a laptop. It is aimed at grade 10–12 students with strong science and maths grades and a real interest in AI. Applicants register online (via KU and ADEK channels) and must pass an entry interview. It is a short, free way to get university-level AI exposure and see one of the region's top-ranked engineering universities from the inside."
+  },
+  "highlights": {
+   "en": [
+    "Free, with lunch provided and a certificate",
+    "Hands-on ML, neural networks and NLP projects with KU faculty",
+    "Good preview of Khalifa University for future applicants"
+   ]
+  },
+  "eligibility": {
+   "en": "High-school students in grades 10–12 with strong science and maths grades and a strong interest in AI; entry interview required. In person in Abu Dhabi, so realistically for UAE-based students; nationality rules are not stated (contact Outreach@ku.ac.ae)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Register through the KU registration link (ugapply.ku.ac.ae/register/Winter_2026).",
+    "Attend the entry interview if shortlisted.",
+    "Receive an official invitation and software instructions.",
+    "Bring a laptop to the KU main campus on 14 December 2026."
+   ]
+  },
+  "costs": {
+   "en": "Free for selected participants; lunch and snacks provided. Transport to campus is your own."
+  },
+  "keywords": [
+   "ai",
+   "artificial intelligence",
+   "winter camp",
+   "khalifa university",
+   "abu dhabi",
+   "uae",
+   "free",
+   "high school",
+   "machine learning",
+   "stem"
+  ],
+  "url": "https://www.ku.ac.ae/ai-winter-camp-2026",
+  "apply_url": "https://ugapply.ku.ac.ae/register/Winter_2026",
+  "sources": [
+   "https://www.ku.ac.ae/outreach",
+   "https://www.ku.ac.ae/ai-winter-camp-2026"
+  ],
+  "score": 7,
+  "score_reason": "Free, upcoming and university-level; limited to students who can attend in Abu Dhabi.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Abu Dhabi",
+  "lat": 24.45,
+  "lon": 54.38,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "khalifa-university-job-shadowing-2026",
+  "section": "project",
+  "family": "stem",
+  "type": "STEM job-shadowing programme",
+  "org": "Khalifa University of Science and Technology",
+  "name": {
+   "en": "Khalifa University STEM Job Shadowing for High-School Students",
+   "ka": "Khalifa University — STEM პროფესიული დაკვირვების პროგრამა მოსწავლეებისთვის",
+   "ar": "برنامج المحاكاة الوظيفية في العلوم والتقنية لطلاب المدارس في جامعة خليفة"
+  },
+  "cost": "free",
+  "duration": {
+   "en": "2–3 days per cohort",
+   "ka": "2–3 დღე თითო ჯგუფზე",
+   "ar": "من يومين إلى 3 أيام لكل دفعة"
+  },
+  "grades": "10-12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Runs in cohorts throughout the year (KU lists 1 Jan – 31 Dec 2026); school counsellors request places.",
+  "event_dates": null,
+  "summary": {
+   "en": "Free two- to three-day visits to Khalifa University for grade 10–12 students interested in STEM, with faculty sessions and lab tours in cohorts of 25. Applications come through school counsellors.",
+   "ka": "უფასო 2–3-დღიანი ვიზიტები Khalifa University-ში STEM-ით დაინტერესებული მე-10–მე-12 კლასელებისთვის: შეხვედრები პროფესორებთან და ლაბორატორიების ტური 25-კაციან ჯგუფებში. განაცხადს სკოლის კონსულტანტი აგზავნის.",
+   "ar": "زيارات مجانية لمدة يومين إلى ثلاثة أيام إلى جامعة خليفة لطلاب الصفوف 10–12 المهتمين بالعلوم والتقنية، تتضمن جلسات مع أعضاء هيئة التدريس وجولات في المختبرات ضمن دفعات من 25 طالباً. يقدم المرشدون المدرسيون الطلبات."
+  },
+  "about": {
+   "en": "Khalifa University's Job Shadowing programme gives secondary students a short, practical look at what studying and working in science, technology, engineering and medicine involves. Each cohort of up to 25 students spends two or three days on KU's main campus in Abu Dhabi, meeting faculty, touring research labs and joining hands-on sessions; in 2025, 109 students took part, including a medicine and health-sciences track.\n\nIt is free for selected participants, with materials, lunch and snacks provided and a certificate of participation at the end. The programme runs in cohorts across the year, so it suits students exploring which STEM major to choose before university applications.\n\nOnly school counsellors can apply on behalf of students, so ask your school's careers or university counsellor to contact KU Outreach."
+  },
+  "highlights": {
+   "en": [
+    "Free lab tours and faculty sessions at a top UAE research university",
+    "Small cohorts of 25 students; certificate of participation",
+    "Runs throughout the year"
+   ]
+  },
+  "eligibility": {
+   "en": "Grade 10–12 students with demonstrated interest in STEM, nominated through their school counsellor. In person at KU Abu Dhabi."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask your school counsellor to contact KU Outreach (Outreach@ku.ac.ae).",
+    "The counsellor submits the school's application for a cohort.",
+    "Selected students attend the 2–3 day programme on KU's main campus."
+   ]
+  },
+  "costs": {
+   "en": "Free; materials, lunch and snacks provided."
+  },
+  "keywords": [
+   "job shadowing",
+   "stem",
+   "khalifa university",
+   "abu dhabi",
+   "uae",
+   "free",
+   "high school",
+   "engineering",
+   "medicine",
+   "career"
+  ],
+  "url": "https://www.ku.ac.ae/job-shadowing",
+  "apply_url": "https://www.ku.ac.ae/job-shadowing",
+  "sources": [
+   "https://www.ku.ac.ae/outreach",
+   "https://www.ku.ac.ae/job-shadowing"
+  ],
+  "score": 5,
+  "score_reason": "Free and useful, but short and only via school counsellors in the UAE.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Abu Dhabi",
+  "lat": 24.45,
+  "lon": 54.38,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "volunteers-ae-uae-volunteering-platform",
+  "section": "project",
+  "family": "volunteering",
+  "type": "national volunteering platform",
+  "org": "Emirates Foundation and Ministry of Community Empowerment (Volunteers.ae)",
+  "name": {
+   "en": "Volunteers.ae: UAE National Volunteering Platform",
+   "ka": "Volunteers.ae — არაბთა გაერთიანებული საამიროების ეროვნული მოხალისეობის პლატფორმა",
+   "ar": "منصة متطوعين.امارات الوطنية للتطوع"
+  },
+  "cost": "free",
+  "duration": {
+   "en": "Ongoing; individual opportunities vary",
+   "ka": "მუდმივი; ცალკეული შესაძლებლობები განსხვავდება",
+   "ar": "مستمرة؛ تختلف مدة كل فرصة"
+  },
+  "grades": "any (under 18 with guardian approval)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling: register any time and apply to individual opportunities.",
+  "event_dates": null,
+  "summary": {
+   "en": "The UAE's official volunteering platform, where citizens and residents of all ages browse and apply for in-person and virtual volunteering with government and private organisations. Volunteers log hours and receive certificates.",
+   "ka": "არაბთა გაერთიანებული საამიროების ოფიციალური მოხალისეობის პლატფორმა, სადაც ნებისმიერი ასაკის მოქალაქეები და რეზიდენტები ეძებენ და აგზავნიან განაცხადს პირისპირ და ვირტუალურ მოხალისეობაზე სახელმწიფო და კერძო ორგანიზაციებში. მოხალისეები აგროვებენ საათებს და იღებენ სერტიფიკატებს.",
+   "ar": "منصة التطوع الرسمية في دولة الإمارات، حيث يتصفح المواطنون والمقيمون من جميع الأعمار فرص التطوع الميدانية والافتراضية لدى الجهات الحكومية والخاصة ويتقدمون لها، ويحصلون على ساعات تطوع موثقة وشهادات."
+  },
+  "about": {
+   "en": "Volunteers.ae, launched in 2017 as a partnership between the Emirates Foundation and the Ministry of Community Empowerment, is the main national platform connecting volunteers with opportunities across the UAE. Government entities, NGOs and companies post opportunities in Arabic and English, from events and community campaigns to environmental, educational and humanitarian work, both on site and virtual.\n\nStudents can build a verified record of volunteer hours and download certificates, which is useful for university applications, scholarships and school service requirements (such as IB CAS). Applications to each opportunity are reviewed within about five working days, and volunteering in Abu Dhabi may require a licence from the Department of Community Development, which the platform explains for each posting.\n\nRegistration is free and open to UAE citizens and residents of all nationalities and ages; volunteers under 18 need parent or guardian approval."
+  },
+  "highlights": {
+   "en": [
+    "Official UAE platform with in-person and virtual opportunities",
+    "Logged volunteer hours and certificates for your CV",
+    "Open to all ages and nationalities living in the UAE"
+   ]
+  },
+  "eligibility": {
+   "en": "UAE citizens and residents of any nationality and age. Under-18s need parent or guardian approval. You need an Emirates ID and passport copy to register."
+  },
+  "how_to_apply": {
+   "en": [
+    "Create an account on volunteers.ae (or sign in with UAE Pass) using Chrome on a computer.",
+    "Upload a photo, passport pages and Emirates ID (plus guardian approval if under 18).",
+    "Browse opportunities and apply to those that fit your interests.",
+    "Wait for the organiser's approval by email (up to 5 working days), then volunteer and collect your hours and certificate."
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "volunteering",
+   "volunteer",
+   "uae",
+   "dubai",
+   "abu dhabi",
+   "community service",
+   "cas",
+   "free",
+   "certificate"
+  ],
+  "url": "https://www.volunteers.ae/",
+  "apply_url": "https://www.volunteers.ae/",
+  "sources": [
+   "https://www.volunteers.ae/"
+  ],
+  "score": 6,
+  "score_reason": "Free, always open and useful for UAE residents building service hours.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Dubai",
+  "lat": 25.2,
+  "lon": 55.27,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "misk-startup-school-masterclasses",
+  "section": "project",
+  "family": "training",
+  "type": "online entrepreneurship course",
+  "org": "Misk Foundation (Misk Hub)",
+  "name": {
+   "en": "Misk Startup School MasterClasses (online)",
+   "ka": "Misk Startup School — ონლაინ მასტერკლასები",
+   "ar": "دروس Misk Startup School المتقدمة (عن بُعد)"
+  },
+  "cost": "free",
+  "duration": {
+   "en": "9 masterclasses, about 2 hours each, self-paced",
+   "ka": "9 მასტერკლასი, თითო დაახლ. 2 საათი, საკუთარი ტემპით",
+   "ar": "9 دروس متقدمة، نحو ساعتين لكل منها، بالسرعة الذاتية"
+  },
+  "grades": "any (aspiring entrepreneurs)",
+  "opens": "2025-01-01",
+  "deadline": "2026-12-31",
+  "deadline_note": "Enrolment open until 31 Dec 2026 per the Misk Hub programme page.",
+  "event_dates": null,
+  "summary": {
+   "en": "Nine short, self-paced online masterclasses from Misk Foundation, taught by founders and investors, on business models, market validation, funding, product management and scaling. Available in English with Arabic subtitles, with a Misk certificate of attendance.",
+   "ka": "Misk Foundation-ის ცხრა მოკლე ონლაინ მასტერკლასი, რომელსაც დამფუძნებლები და ინვესტორები ასწავლიან: ბიზნეს-მოდელები, ბაზრის ვალიდაცია, დაფინანსება, პროდუქტის მართვა და ზრდა. ინგლისურად, არაბული სუბტიტრებით, Misk-ის დასწრების სერტიფიკატით.",
+   "ar": "تسعة دروس قصيرة عبر الإنترنت بالسرعة الذاتية من مؤسسة مسك، يقدمها مؤسسون ومستثمرون حول نماذج الأعمال والتحقق من السوق والتمويل وإدارة المنتج والتوسع، باللغة الإنجليزية مع ترجمة عربية وشهادة حضور من مسك."
+  },
+  "about": {
+   "en": "Misk Startup School MasterClasses is a free-to-join online learning track on Misk Hub, the youth platform of Saudi Arabia's Misk Foundation. It consists of nine introductory masterclasses taught by founders and investors who have built and scaled startups: Strategic Thinking and Decision Making, Scaling and Growth, Entrepreneurial Mindset, Customer Acquisition, Business Models, Product Management, Market Validation, Funding, and Team.\n\nEach masterclass takes roughly 1.5–2 hours and is self-paced, so you can fit it around school or university. Classes are in English with Arabic subtitles (and sign language). After completing the requirements and the post-assessment survey you can download a Misk certificate of attendance and share it on LinkedIn.\n\nThere are no prerequisites; it suits students curious about entrepreneurship, those preparing for startup competitions or incubators, and anyone wanting a structured introduction before joining an accelerator. Enrolment is open until 31 December 2026."
+  },
+  "highlights": {
+   "en": [
+    "Nine masterclasses by real founders and investors",
+    "Self-paced, about 2 hours each; English with Arabic subtitles",
+    "Misk certificate of attendance"
+   ]
+  },
+  "eligibility": {
+   "en": "Open to current and future entrepreneurs and anyone interested in entrepreneurship; no prerequisites. A Misk Hub account is required."
+  },
+  "how_to_apply": {
+   "en": [
+    "Sign up on Misk Hub (hub.misk.org.sa) and create a profile.",
+    "Open the Startup School MasterClasses page and click \"Enroll Now\".",
+    "Complete the registration form before 31 December 2026.",
+    "Finish the masterclasses and the post-assessment survey to download your certificate."
+   ]
+  },
+  "costs": {
+   "en": "No fee is listed on the programme page."
+  },
+  "keywords": [
+   "entrepreneurship",
+   "startup",
+   "online course",
+   "misk",
+   "saudi arabia",
+   "free",
+   "certificate",
+   "business",
+   "training"
+  ],
+  "url": "https://hub.misk.org.sa/programs/entrepreneurship/misk-startup-schoolmasterclasses/",
+  "apply_url": "https://hub.misk.org.sa/programs/misk-startup-schoolmasterclasses/application-form/",
+  "sources": [
+   "https://hub.misk.org.sa/",
+   "https://hub.misk.org.sa/programs/entrepreneurship/misk-startup-schoolmasterclasses/"
+  ],
+  "score": 5,
+  "score_reason": "Free, online, open to anyone; short introductory content.",
+  "iso": "SA",
+  "flag": "🇸🇦",
+  "region": "middle-east",
+  "country": {
+   "en": "Saudi Arabia",
+   "ka": "საუდის არაბეთი",
+   "ar": "المملكة العربية السعودية"
+  },
+  "city": "Online",
+  "lat": 24.71,
+  "lon": 46.68,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "one-million-prompters-dubai",
+  "section": "project",
+  "family": "training",
+  "type": "online AI and prompt-engineering course",
+  "org": "Dubai Future Foundation and Dubai Centre for Artificial Intelligence",
+  "name": {
+   "en": "One Million Prompters: AI and Prompt Literacy Course",
+   "ka": "One Million Prompters — AI-სა და პრომპტინგის კურსი",
+   "ar": "مبادرة مليون مُبرمج أوامر (One Million Prompters) لمهارات الذكاء الاصطناعي"
+  },
+  "cost": "free",
+  "duration": {
+   "en": "About 3 hours of video, self-paced",
+   "ka": "დაახლ. 3 საათი ვიდეო, საკუთარი ტემპით",
+   "ar": "نحو 3 ساعات من الفيديو بالسرعة الذاتية"
+  },
+  "grades": "any",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling: online registration open (omp.dub.ai).",
+  "event_dates": null,
+  "summary": {
+   "en": "A short online course from Dubai's One Million Prompters initiative that teaches AI, generative AI and prompt engineering in four practical modules, leading to a prompt-literacy certification. Registration is open to people of any nationality or residence.",
+   "ka": "დუბაის One Million Prompters ინიციატივის მოკლე ონლაინ კურსი, რომელიც ოთხ პრაქტიკულ მოდულში ასწავლის AI-ს, გენერაციულ AI-სა და პრომპტ-ინჟინერიას და პრომპტინგის სერტიფიკაციით სრულდება. რეგისტრაცია ღიაა ნებისმიერი მოქალაქეობისა და საცხოვრებელი ქვეყნისთვის.",
+   "ar": "دورة قصيرة عبر الإنترنت ضمن مبادرة One Million Prompters في دبي تعلّم الذكاء الاصطناعي والذكاء التوليدي وهندسة الأوامر في أربع وحدات عملية، وتنتهي بشهادة في مهارات كتابة الأوامر. التسجيل مفتوح لجميع الجنسيات وأماكن الإقامة."
+  },
+  "about": {
+   "en": "One Million Prompters is a Dubai initiative, backed by the Dubai Future Foundation and the Dubai Centre for Artificial Intelligence, that aims to train one million people in AI and prompt literacy over three years. Its core online course is hands-on and interactive and is split into four modules: Unleashing the Power of AI, Commanding Conversations with AI Chatbots, the AI-Powered Productivity Revolution, and Creative Frontiers with Generative AI (about three hours of video in total).\n\nYou learn how large language models and image generators work, how to write effective prompts, and how to use AI tools for study, productivity and creative projects, with a prompt-literacy certification as the learning outcome. The registration form accepts learners of any nationality and country of residence and asks for your school or university, so students are clearly part of the audience.\n\nIt is a quick, structured way to get practical AI skills and a credential from a Dubai government-backed initiative; it also links to Dubai's wider prompt-engineering community and events."
+  },
+  "highlights": {
+   "en": [
+    "Four practical modules on AI, chatbots and generative AI",
+    "Self-paced online; about three hours in total",
+    "Open to learners worldwide; prompt-literacy certification"
+   ]
+  },
+  "eligibility": {
+   "en": "Open to anyone; the registration form accepts all nationalities and countries of residence. English."
+  },
+  "how_to_apply": {
+   "en": [
+    "Go to omp.dub.ai and click Register.",
+    "Create an account with your details (including school or university).",
+    "Work through the four modules at your own pace.",
+    "Complete the course to earn the prompt-literacy certification."
+   ]
+  },
+  "costs": {
+   "en": "No fee is shown on the course or registration pages."
+  },
+  "keywords": [
+   "ai",
+   "prompt engineering",
+   "generative ai",
+   "online course",
+   "free",
+   "dubai",
+   "uae",
+   "certificate",
+   "chatgpt",
+   "training"
+  ],
+  "url": "https://omp.dub.ai/",
+  "apply_url": "https://omp.dub.ai/register",
+  "sources": [
+   "https://www.dubaifuture.ae/",
+   "https://omp.dub.ai/",
+   "https://omp.dub.ai/register"
+  ],
+  "score": 5,
+  "score_reason": "Open worldwide and quick; introductory level.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Online",
+  "lat": 25.2,
+  "lon": 55.27,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "elf-oup-story-writing-competition-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "creative writing competition",
+  "org": "Emirates Literature Foundation (Emirates Airline Festival of Literature)",
+  "name": {
+   "en": "Oxford University Press Story Writing Competition 2026/27 (\"Heroes\")",
+   "ka": "Oxford University Press-ის მოთხრობის წერის კონკურსი 2026/27 („გმირები“)",
+   "ar": "مسابقة أكسفورد لكتابة القصة 2026/27 («الأبطال»)"
+  },
+  "cost": "free",
+  "duration": {
+   "en": "Write one story; results Feb 2027",
+   "ka": "ერთი მოთხრობა; შედეგები 2027 წლის თებერვალში",
+   "ar": "قصة واحدة؛ النتائج في فبراير 2027"
+  },
+  "grades": "ages up to 18 (three age groups)",
+  "opens": "2026-06-09",
+  "deadline": "2026-12-10",
+  "deadline_note": "Entries close 11:59 pm (UAE) on 10 Dec 2026; winners announced Feb 2027, prize-giving April 2027 (elfdubai.org).",
+  "event_dates": "2027-04-14 to 2027-04-20",
+  "summary": {
+   "en": "A free short-story competition on the theme \"Heroes\" for school and homeschool students across the UAE and the GCC, in English or Arabic. Winning stories are published in an anthology and celebrated at the Emirates Airline Festival of Literature.",
+   "ka": "უფასო მოთხრობის კონკურსი თემაზე „გმირები“ არაბთა გაერთიანებული საამიროებისა და ყურის ქვეყნების (GCC) სკოლისა და საშინაო სწავლების მოსწავლეებისთვის, ინგლისურ ან არაბულ ენაზე. გამარჯვებული მოთხრობები ანთოლოგიაში იბეჭდება და Emirates Airline-ის ლიტერატურულ ფესტივალზე ჯილდოვდება.",
+   "ar": "مسابقة مجانية لكتابة القصة القصيرة بعنوان «الأبطال» لطلاب المدارس والتعليم المنزلي في الإمارات ودول الخليج، باللغة الإنجليزية أو العربية. تُنشر القصص الفائزة في مختارات ويُحتفى بها في مهرجان طيران الإمارات للآداب."
+  },
+  "about": {
+   "en": "The Oxford University Press Story Writing Competition is the Emirates Literature Foundation's flagship writing contest for young people. The 2026/27 theme is \"Heroes\": what does a hero look like to you? Stories can be written in English or Arabic, and must be original, unpublished and free of AI-generated content.\n\nThere are three age groups (age on 10 December 2026): 11 and under (up to 500 words), 12–14 (up to 1,000 words) and 15–18 (up to 1,500 words). Entries open on 9 June 2026 and close at 11:59 pm on 10 December 2026; winners are announced in February 2027 and receive their prizes in April 2027 at the Emirates Airline Festival of Literature in Dubai.\n\nEach category winner receives a plaque, five copies of the published anthology and a free pass to festival sessions, and every entrant gets a certificate of participation. It is free, open to full-time school and homeschool students in the UAE, Saudi Arabia, Qatar, Bahrain, Kuwait and Oman, and is a good way to get published and recognised at the region's biggest literary festival (winners must attend the Dubai ceremony at their own expense)."
+  },
+  "highlights": {
+   "en": [
+    "Free; English or Arabic; theme \"Heroes\"",
+    "Winners published in an anthology and awarded at Emirates LitFest 2027",
+    "Open to students across the UAE and GCC"
+   ]
+  },
+  "eligibility": {
+   "en": "Full-time school or homeschool students aged up to 18 living in the UAE, Saudi Arabia, Qatar, Bahrain, Kuwait or Oman. One story per student. Winners must attend the Dubai prize-giving at their own expense."
+  },
+  "how_to_apply": {
+   "en": [
+    "Write an original story on the theme \"Heroes\" within your age group's word limit.",
+    "Format it in a legible 12-point font with 1.5 line spacing, with a matching title.",
+    "Complete the online entry form on elfdubai.org and attach the story as a Word document.",
+    "Submit before 11:59 pm on 10 December 2026."
+   ]
+  },
+  "costs": {
+   "en": "Free to enter."
+  },
+  "keywords": [
+   "writing competition",
+   "short story",
+   "creative writing",
+   "english",
+   "arabic",
+   "uae",
+   "gcc",
+   "saudi arabia",
+   "qatar",
+   "free",
+   "literature"
+  ],
+  "url": "https://elfdubai.org/story-writing-competition/",
+  "apply_url": "https://elfdubai.org/story-writing-competition/",
+  "sources": [
+   "https://elfdubai.org/education/",
+   "https://elfdubai.org/story-writing-competition/"
+  ],
+  "score": 7,
+  "score_reason": "Free, GCC-wide, prestigious festival platform and open now.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Dubai",
+  "lat": 25.2,
+  "lon": 55.27,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "elf-readers-cup-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "reading quiz competition (teams)",
+  "org": "Emirates Literature Foundation (Emirates Airline Festival of Literature)",
+  "name": {
+   "en": "Readers' Cup 2027 (Emirates Literature Foundation)",
+   "ka": "Readers' Cup 2027 — მკითხველთა თასი",
+   "ar": "كأس القرّاء 2027 (مؤسسة الإمارات للآداب)"
+  },
+  "cost": "free",
+  "duration": {
+   "en": "Virtual first round (Feb) + final (Apr 2027)",
+   "ka": "ვირტუალური პირველი ტური (თებერვალი) + ფინალი (2027 წლის აპრილი)",
+   "ar": "جولة أولى افتراضية (فبراير) + نهائي (أبريل 2027)"
+  },
+  "grades": "primary (11 and under) and secondary (12-16)",
+  "opens": "2026-09-01",
+  "deadline": "2026-11-10",
+  "deadline_note": "Team registration closes 10 Nov 2026; first round 2 Feb 2027; final in April 2027 at Emirates LitFest (elfdubai.org).",
+  "event_dates": "2027-02-02 to 2027-04-20",
+  "summary": {
+   "en": "A team reading quiz in which school teams of up to four read a set list of books and compete in a virtual first round, with the top 20 teams per age group reaching a live final at the Emirates Airline Festival of Literature. Open to schools in the UAE and GCC, in English or Arabic.",
+   "ka": "გუნდური კითხვის ვიქტორინა: სკოლების 4-კაციანი გუნდები კითხულობენ წიგნების სიას და ეჯიბრებიან ვირტუალურ პირველ ტურში; თითო ასაკობრივი ჯგუფის საუკეთესო 20 გუნდი ფინალში გადის Emirates Airline-ის ლიტერატურულ ფესტივალზე. ღიაა საამიროებისა და GCC-ის სკოლებისთვის, ინგლისურ ან არაბულ ენაზე.",
+   "ar": "مسابقة قراءة جماعية تقرأ فيها فرق مدرسية من أربعة طلاب كحد أقصى قائمة كتب محددة وتتنافس في جولة أولى افتراضية، ويتأهل أفضل 20 فريقاً في كل فئة عمرية إلى نهائي مباشر في مهرجان طيران الإمارات للآداب. مفتوحة لمدارس الإمارات ودول الخليج بالعربية أو الإنجليزية."
+  },
+  "about": {
+   "en": "Readers' Cup is the Emirates Literature Foundation's team reading competition. Schools enter teams of up to four students who read a shortlist of books and answer quiz questions about them. There are two age groups (recommended 11 and under, and 12–16) and separate Arabic and English competitions; each school can enter up to two teams per age group per language.\n\nRegistration runs 1 September – 10 November 2026. The first round is a virtual written quiz on 2 February 2027; the top 20 teams in each age group then compete in a live final during the Emirates Airline Festival of Literature in Dubai (14–20 April 2027).\n\nThere is no registration fee listed, but teams buy the first-round books from Magrudy's. It is open to full-time school and homeschool students in the UAE and the other GCC countries, and it is a fun, team-based way to build reading habits and compete at the region's largest literary festival."
+  },
+  "highlights": {
+   "en": [
+    "Team quiz on a set reading list; Arabic and English competitions",
+    "Virtual first round, live final at Emirates LitFest",
+    "Open to schools across the UAE and GCC"
+   ]
+  },
+  "eligibility": {
+   "en": "Full-time school or homeschool students in the UAE, Saudi Arabia, Qatar, Bahrain, Kuwait or Oman. Teams of up to four; up to two teams per school per age group per language. Winners attend the Dubai final at their own expense."
+  },
+  "how_to_apply": {
+   "en": [
+    "Form a team of up to four students with a school coordinator.",
+    "Register online (English or Arabic form) before 10 November 2026.",
+    "Buy and read the first-round books (sold at Magrudy's).",
+    "Take the virtual first round on 2 February 2027; the top 20 teams per group go to the April final."
+   ]
+  },
+  "costs": {
+   "en": "No registration fee listed; teams buy the set books."
+  },
+  "keywords": [
+   "reading",
+   "quiz",
+   "books",
+   "literature",
+   "team competition",
+   "uae",
+   "gcc",
+   "arabic",
+   "english",
+   "school"
+  ],
+  "url": "https://elfdubai.org/readers-cup-2/",
+  "apply_url": "https://elfdubai.org/readers-cup-2/",
+  "sources": [
+   "https://elfdubai.org/education/",
+   "https://elfdubai.org/readers-cup-2/"
+  ],
+  "score": 6,
+  "score_reason": "Free team competition open to GCC schools; deadline 10 Nov.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Dubai",
+  "lat": 25.2,
+  "lon": 55.27,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "elf-poetry-for-all-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "poetry recitation competition",
+  "org": "Emirates Literature Foundation (Emirates Airline Festival of Literature)",
+  "name": {
+   "en": "Emirates NBD Poetry For All 2026/27",
+   "ka": "Emirates NBD Poetry For All 2026/27 — პოეზიის კითხვის კონკურსი",
+   "ar": "مسابقة الإمارات دبي الوطني «الشعر للجميع» 2026/27"
+  },
+  "cost": "free",
+  "duration": {
+   "en": "Semi-finals Jan 2027, final Apr 2027",
+   "ka": "ნახევარფინალი 2027 იანვარი, ფინალი 2027 აპრილი",
+   "ar": "نصف النهائي يناير 2027، النهائي أبريل 2027"
+  },
+  "grades": "ages 8-18",
+  "opens": null,
+  "deadline": "2026-11-12",
+  "deadline_note": "School registration closes 12 Nov 2026; semi-finals 11–25 Jan 2027 in Dubai and Abu Dhabi; final in April 2027 (elfdubai.org).",
+  "event_dates": "2027-01-11 to 2027-04-20",
+  "summary": {
+   "en": "A poetry recitation competition for UAE school students aged 8–18 (plus a Students of Determination category), in Arabic or English. Schools select their best reciters, who perform memorised poems at semi-finals in January and a final at Emirates LitFest in April 2027.",
+   "ka": "პოეზიის ზეპირად კითხვის კონკურსი საამიროების 8–18 წლის მოსწავლეებისთვის (და შეზღუდული შესაძლებლობის მქონე მოსწავლეთა კატეგორია), არაბულ ან ინგლისურ ენაზე. სკოლები ირჩევენ საუკეთესოებს, რომლებიც ნახევარფინალში (იანვარი) და ფინალში (2027 აპრილი, Emirates LitFest) გამოდიან.",
+   "ar": "مسابقة لإلقاء الشعر لطلاب مدارس الإمارات من 8 إلى 18 عاماً (مع فئة لأصحاب الهمم) باللغة العربية أو الإنجليزية. تختار المدارس أفضل الملقين لأداء قصائد محفوظة في نصف النهائي في يناير والنهائي في مهرجان طيران الإمارات للآداب في أبريل 2027."
+  },
+  "about": {
+   "en": "Poetry For All, sponsored by Emirates NBD, is the Emirates Literature Foundation's recitation competition. Students learn a poem from the approved list for their age group by heart and perform it on stage without notes; students aged 14–18 also give a short (one-minute) justification of their choice. Categories are 8–13, 14–18 and Students of Determination (8–18), in Arabic or English.\n\nSchools first hold an internal round and then register up to two students per age group per language by 12 November 2026. Semi-finals take place on 11–18 January 2027 in Dubai, 19–21 January in Abu Dhabi, and 25 January in Dubai for Students of Determination. The final round and prize-giving take place during the Emirates Airline Festival of Literature (14–20 April 2027).\n\nIt is free and builds public speaking, confidence and a love of poetry; every semi-finalist receives a certificate and winners receive plaques at the festival."
+  },
+  "highlights": {
+   "en": [
+    "Memorised poetry performance in Arabic or English",
+    "Semi-finals in Dubai and Abu Dhabi; final at Emirates LitFest",
+    "Inclusive Students of Determination category"
+   ]
+  },
+  "eligibility": {
+   "en": "UAE residents who are full-time school or homeschool students aged 8–18 on 12 November 2026. Up to two students per school per age group per language; Arabic or English, not both."
+  },
+  "how_to_apply": {
+   "en": [
+    "Take part in your school's internal round.",
+    "Your school coordinator registers you and your chosen poem online by 12 November 2026.",
+    "Memorise a poem from the approved list for your age group.",
+    "Perform at the January 2027 semi-final; finalists perform at the festival in April."
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "poetry",
+   "recitation",
+   "public speaking",
+   "literature",
+   "uae",
+   "dubai",
+   "arabic",
+   "english",
+   "school",
+   "free"
+  ],
+  "url": "https://elfdubai.org/poetry-for-all-competition/",
+  "apply_url": "https://elfdubai.org/poetry-for-all-competition/",
+  "sources": [
+   "https://elfdubai.org/education/",
+   "https://elfdubai.org/poetry-for-all-competition/"
+  ],
+  "score": 5,
+  "score_reason": "Free and well run, but UAE residents only and registration via schools closes soon.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Dubai",
+  "lat": 25.2,
+  "lon": 55.27,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "elf-letter-writing-competition-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "handwritten letter competition",
+  "org": "Emirates Literature Foundation (Emirates Airline Festival of Literature)",
+  "name": {
+   "en": "Letter Writing Competition 2027 (\"Heroes\")",
+   "ka": "წერილის წერის კონკურსი 2027 („გმირები“)",
+   "ar": "مسابقة كتابة الرسائل 2027 («الأبطال»)"
+  },
+  "cost": "free",
+  "duration": {
+   "en": "One handwritten letter",
+   "ka": "ერთი ხელნაწერი წერილი",
+   "ar": "رسالة واحدة بخط اليد"
+  },
+  "grades": "ages 8-18",
+  "opens": "2026-06-09",
+  "deadline": "2027-01-08",
+  "deadline_note": "Entries close 11:59 pm on 8 Jan 2027 via online form (elfdubai.org).",
+  "event_dates": "2027-04-14 to 2027-04-20",
+  "summary": {
+   "en": "A free handwritten-letter competition for UAE students aged 8–18: write a 200–400 word letter to a hero you want to thank, honour or understand, in Arabic or English. Winners meet a festival author and receive book vouchers.",
+   "ka": "უფასო ხელნაწერი წერილის კონკურსი საამიროების 8–18 წლის მოსწავლეებისთვის: დაწერე 200–400 სიტყვიანი წერილი გმირს, რომელსაც მადლობა გინდა უთხრა, პატივი მიაგო ან უკეთ გაიგო — არაბულად ან ინგლისურად. გამარჯვებულები ფესტივალის ავტორს ხვდებიან და წიგნის ვაუჩერებს იღებენ.",
+   "ar": "مسابقة مجانية لكتابة الرسائل بخط اليد لطلاب الإمارات من 8 إلى 18 عاماً: اكتب رسالة من 200 إلى 400 كلمة إلى بطل تود شكره أو تكريمه أو فهمه بالعربية أو الإنجليزية. يلتقي الفائزون بأحد كتّاب المهرجان ويحصلون على قسائم كتب."
+  },
+  "about": {
+   "en": "The Emirates Literature Foundation's Letter Writing Competition celebrates handwriting and the art of a well-crafted message. For 2027 the theme is \"Heroes\": write to someone you want to thank, honour or better understand, whether a person you know, a historical figure or a fictional character.\n\nThere are three age categories (8–10, 11–13, 14–18). Letters of 200–400 words are handwritten on one side of a single A4 sheet in pen, scanned (not photographed) and uploaded as a PDF through the online form, in Arabic or English. AI-generated content is not allowed. The deadline is 11:59 pm on 8 January 2027.\n\nFirst-place winners get a meet-and-greet with an Emirates LitFest 2027 author, plus book vouchers, a plaque and a festival pass; all entrants receive a certificate of participation. It is a quick, free entry that suits younger writers."
+  },
+  "highlights": {
+   "en": [
+    "Free; theme \"Heroes\"; Arabic or English",
+    "Winners meet a festival author and win book vouchers",
+    "Three age categories from 8 to 18"
+   ]
+  },
+  "eligibility": {
+   "en": "Full-time school or homeschool students aged 8–18 living in the UAE. One letter per student."
+  },
+  "how_to_apply": {
+   "en": [
+    "Handwrite a 200–400 word letter on one side of an A4 sheet in pen.",
+    "Scan it clearly as a PDF (photos are not accepted).",
+    "Complete the online entry form on elfdubai.org and upload the PDF.",
+    "Submit before 11:59 pm on 8 January 2027."
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "writing competition",
+   "letter",
+   "handwriting",
+   "literature",
+   "uae",
+   "arabic",
+   "english",
+   "free",
+   "school"
+  ],
+  "url": "https://elfdubai.org/letter-writing-competition/",
+  "apply_url": "https://elfdubai.org/letter-writing-competition/",
+  "sources": [
+   "https://elfdubai.org/education/",
+   "https://elfdubai.org/letter-writing-competition/"
+  ],
+  "score": 5,
+  "score_reason": "Free and easy to enter, UAE residents only.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Dubai",
+  "lat": 25.2,
+  "lon": 55.27,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "elf-book-in-a-box-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "class diorama competition",
+  "org": "Emirates Literature Foundation (Emirates Airline Festival of Literature)",
+  "name": {
+   "en": "Book in a Box 2026/27 (primary classes)",
+   "ka": "Book in a Box 2026/27 (დაწყებითი კლასები)",
+   "ar": "مسابقة «كتاب في صندوق» 2026/27 (الصفوف الابتدائية)"
+  },
+  "cost": "free",
+  "duration": {
+   "en": "Class project; entries by 25 Feb 2027",
+   "ka": "კლასის პროექტი; განაცხადი 2027 წლის 25 თებერვლამდე",
+   "ar": "مشروع صفي؛ آخر موعد 25 فبراير 2027"
+  },
+  "grades": "primary",
+  "opens": "2026-09-01",
+  "deadline": "2027-02-25",
+  "deadline_note": "Entries close 25 Feb 2027; shortlisted boxes displayed at Emirates LitFest, 14–20 Apr 2027 (elfdubai.org).",
+  "event_dates": "2027-04-14 to 2027-04-20",
+  "summary": {
+   "en": "A visual storytelling competition in which a whole primary class builds a diorama of a favourite book scene from recycled materials. Shortlisted boxes are exhibited and judged at the Emirates Airline Festival of Literature.",
+   "ka": "ვიზუალური თხრობის კონკურსი, სადაც დაწყებითი კლასი მთლიანად ქმნის საყვარელი წიგნის სცენის დიორამას გადამუშავებული მასალებისგან. შერჩეული ყუთები Emirates Airline-ის ლიტერატურულ ფესტივალზე გამოიფინება და ფასდება.",
+   "ar": "مسابقة للسرد البصري يصنع فيها صف ابتدائي كامل مجسماً لمشهد من كتاب مفضل باستخدام مواد معاد تدويرها، وتُعرض الصناديق المختارة وتُحكّم في مهرجان طيران الإمارات للآداب."
+  },
+  "about": {
+   "en": "Book in a Box is the Emirates Literature Foundation's class project for primary schools. Guided by their teacher, a class chooses an age-appropriate book and recreates the book, or one scene from it, as a diorama made mainly from recycled or natural materials.\n\nTeachers submit 3–5 photos, a short blurb about the book and why it was chosen through the online form between 1 September 2026 and 25 February 2027. Shortlisted dioramas are displayed at the Emirates Airline Festival of Literature (14–20 April 2027), where final judging (creativity, imagination, originality, use of recycled materials and relevance to the book) and prize-giving take place.\n\nPrizes are plaques and Magrudy's book vouchers (AED 1,000 for first place and the Visitors' Choice award, AED 750 and AED 500 for second and third), and every participant receives a certificate."
+  },
+  "highlights": {
+   "en": [
+    "Whole-class creative project using recycled materials",
+    "Shortlisted work exhibited at Emirates LitFest 2027",
+    "Book-voucher prizes up to AED 1,000"
+   ]
+  },
+  "eligibility": {
+   "en": "Primary school classes at schools in the UAE (full-time students, UAE residents). One entry per class; several classes per school may enter."
+  },
+  "how_to_apply": {
+   "en": [
+    "Choose a book as a class and build the diorama.",
+    "The teacher completes the online registration form (opens 1 September 2026).",
+    "Upload 3–5 images, a short book blurb and why it was chosen by 25 February 2027."
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "books",
+   "art",
+   "primary school",
+   "class project",
+   "recycling",
+   "literature",
+   "uae",
+   "free",
+   "competition"
+  ],
+  "url": "https://elfdubai.org/book-in-a-box-competition/",
+  "apply_url": "https://elfdubai.org/book-in-a-box-competition/",
+  "sources": [
+   "https://elfdubai.org/education/",
+   "https://elfdubai.org/book-in-a-box-competition/"
+  ],
+  "score": 4,
+  "score_reason": "Fun class project for UAE primary schools; narrow audience.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Dubai",
+  "lat": 25.2,
+  "lon": 55.27,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "elf-digital-storytelling-competition-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "short film competition (Arabic)",
+  "org": "Emirates Literature Foundation (Emirates Airline Festival of Literature)",
+  "name": {
+   "en": "Al-Futtaim Digital Storytelling Competition 2026/27 (Arabic short film)",
+   "ka": "Al-Futtaim-ის ციფრული თხრობის კონკურსი 2026/27 (არაბულენოვანი მოკლემეტრაჟიანი ფილმი)",
+   "ar": "مسابقة الفطيم للسرد الرقمي (جائزة الكلمة المرئية) 2026/27"
+  },
+  "cost": "free",
+  "duration": {
+   "en": "Team film project; deadline 2 Mar 2027",
+   "ka": "გუნდური ფილმის პროექტი; ვადა 2027 წლის 2 მარტი",
+   "ar": "مشروع فيلم جماعي؛ آخر موعد 2 مارس 2027"
+  },
+  "grades": "ages 14-18",
+  "opens": "2026-09-01",
+  "deadline": "2027-03-02",
+  "deadline_note": "Submissions close 11:59 pm on 2 Mar 2027; shortlisted teams meet judges at Emirates LitFest, April 2027 (elfdubai.org, Arabic page).",
+  "event_dates": "2027-04-14 to 2027-04-20",
+  "summary": {
+   "en": "High-school teams in the UAE make a 2–3 minute film adapting part of an Arabic book or poem, narrated in Modern Standard Arabic. The winning team gets to work with a local production studio.",
+   "ka": "საამიროების საშუალო სკოლის გუნდები ქმნიან 2–3-წუთიან ფილმს არაბული წიგნის ან ლექსის მიხედვით, სალიტერატურო არაბულ ენაზე გახმოვანებით. გამარჯვებული გუნდი ადგილობრივ სტუდიასთან მუშაობის შანსს იღებს.",
+   "ar": "تصنع فرق طلاب المرحلة الثانوية في الإمارات فيلماً مدته 2–3 دقائق يقتبس جزءاً من كتاب أو قصيدة عربية بصوت الطلاب بالعربية الفصحى، ويحصل الفريق الفائز على فرصة العمل مع استوديو إنتاج محلي."
+  },
+  "about": {
+   "en": "The Al-Futtaim Digital Storytelling Competition (Visual Word Award) challenges teams of up to four high-school students aged 14–18 to adapt part of an Arabic book or poem into a 2–3 minute film. Teams can use acting, animation, narration or any creative approach, but the dialogue or narration must be in their own voices in Modern Standard Arabic. Texts come from the competition lists or any published Arabic work linked to sustainability, environment, well-being or cultural diversity.\n\nFilms (1080p, 30 fps or more, shot on phones or cameras) are uploaded with a digital poster and a short summary through the online form by 11:59 pm on 2 March 2027. Shortlisted teams meet the judges at the Emirates Airline Festival of Literature in April 2027, where awards are presented.\n\nFirst place wins the chance to work with a local production studio, a shield and an AED 1,000 book voucher; second and third receive shields and AED 500 vouchers. It is ideal for students interested in film, media and Arabic literature."
+  },
+  "highlights": {
+   "en": [
+    "Make a 2–3 minute film from an Arabic book or poem",
+    "Winners work with a local production studio",
+    "Teams of up to four; phones are fine for filming"
+   ]
+  },
+  "eligibility": {
+   "en": "Students aged 14–18 who live in the UAE and study full-time at UAE schools (or homeschool). Teams of up to four. Arabic-language competition."
+  },
+  "how_to_apply": {
+   "en": [
+    "Form a team and choose an Arabic text from the lists (or a qualifying published work).",
+    "Shoot and edit a 2–3 minute film in Modern Standard Arabic with a digital poster.",
+    "Upload the film and summary through the online form by 2 March 2027."
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "film",
+   "video",
+   "digital storytelling",
+   "arabic",
+   "media",
+   "uae",
+   "competition",
+   "high school",
+   "free"
+  ],
+  "url": "https://elfdubai.org/ar/digital-storytelling-competition/",
+  "apply_url": "https://elfdubai.org/ar/digital-storytelling-competition/",
+  "sources": [
+   "https://elfdubai.org/education/",
+   "https://elfdubai.org/ar/digital-storytelling-competition/"
+  ],
+  "score": 5,
+  "score_reason": "Creative, free film contest; UAE residents and Arabic only.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Dubai",
+  "lat": 25.2,
+  "lon": 55.27,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "hub71-access-programme-cohort-21",
+  "section": "project",
+  "family": "startup",
+  "type": "startup accelerator / incentive programme",
+  "org": "Hub71 (Abu Dhabi's global tech ecosystem)",
+  "name": {
+   "en": "Hub71 Access Programme: Cohort 21",
+   "ka": "Hub71 Access Programme — 21-ე ნაკადი",
+   "ar": "برنامج Hub71 Access — الدفعة 21"
+  },
+  "cost": "funded",
+  "duration": {
+   "en": "12 months (starts Sept 2027)",
+   "ka": "12 თვე (იწყება 2027 სექტემბერში)",
+   "ar": "12 شهراً (يبدأ في سبتمبر 2027)"
+  },
+  "grades": "startup founders (any age)",
+  "opens": null,
+  "deadline": "2027-02-28",
+  "deadline_note": "Hub71 lists the Cohort 21 deadline as February 2027 (day not given), programme start September 2027; late applications roll to the next cohort.",
+  "event_dates": "2027-09-01 to 2028-08-31",
+  "summary": {
+   "en": "Abu Dhabi's flagship startup programme for pre-seed to Series A tech companies willing to relocate a founder to Abu Dhabi, with AED 250,000 of in-kind support (office, housing, health insurance, visas) and AED 250,000 cash via a SAFE. Founders from any country can apply.",
+   "ka": "აბუ-დაბის მთავარი სტარტაპ-პროგრამა pre-seed–Series A ტექნოლოგიური კომპანიებისთვის, რომლებიც თანადამფუძნებელს აბუ-დაბიში გადაიყვანენ: 250 000 დირჰამის ნატურალური მხარდაჭერა (ოფისი, საცხოვრებელი, დაზღვევა, ვიზა) და 250 000 დირჰამი SAFE-ით. განაცხადი ნებისმიერი ქვეყნიდან მიიღება.",
+   "ar": "البرنامج الرئيسي للشركات الناشئة في أبوظبي للشركات التقنية من مرحلة ما قبل التأسيس حتى الجولة A المستعدة لنقل أحد مؤسسيها إلى أبوظبي، مع دعم عيني بقيمة 250 ألف درهم (مكتب وسكن وتأمين صحي وتأشيرات) و250 ألف درهم نقداً عبر SAFE. يمكن للمؤسسين من أي دولة التقديم."
+  },
+  "about": {
+   "en": "Hub71 is Abu Dhabi's global technology ecosystem, backed by Mubadala and the Abu Dhabi government. Its Access Programme is a 12-month package for pre-seed to Series A startups that want to set up in Abu Dhabi and scale globally: a four-week launch phase, market-entry preparation, growth acceleration (including a three-month guided track powered by Techstars), a fundraising showcase and a public Demo Day.\n\nSelected startups receive AED 250,000 in in-kind incentives (office space, health insurance, housing, licensing and visa support, legal, financial and marketing services) and AED 250,000 in cash in exchange for equity via a SAFE, with a top-up of up to AED 250,000 for high performers. At least one founder must relocate to Abu Dhabi long term and build a team there.\n\nThe current deadline is February 2027 for a cohort starting in September 2027; applications are reviewed by April and late applicants are considered for the next cohort. This is a serious option for student or recent-graduate founders with traction who are ready to move to the UAE."
+  },
+  "highlights": {
+   "en": [
+    "AED 250k in-kind support plus AED 250k cash via SAFE",
+    "Housing, office, health insurance and visa support in Abu Dhabi",
+    "Techstars-powered guided track and Demo Day"
+   ]
+  },
+  "eligibility": {
+   "en": "Pre-seed to Series A tech startups from any country. At least one founder must relocate to Abu Dhabi long term. A PDF pitch deck is required."
+  },
+  "how_to_apply": {
+   "en": [
+    "Prepare a PDF pitch deck (problem, solution, traction, team, plans for Abu Dhabi).",
+    "Complete the online application at hub71.com/program/access-programme/apply.",
+    "If shortlisted, pitch to the Hub71 team and partners in rounds 2 and 3.",
+    "Await the selection committee decision (reviews by April 2027)."
+   ]
+  },
+  "costs": {
+   "en": "No application fee. Cash investment is in exchange for equity (SAFE note)."
+  },
+  "keywords": [
+   "startup",
+   "accelerator",
+   "abu dhabi",
+   "uae",
+   "funding",
+   "founders",
+   "tech",
+   "entrepreneurship",
+   "hub71",
+   "incubator"
+  ],
+  "url": "https://www.hub71.com/program/access-programme",
+  "apply_url": "https://www.hub71.com/program/access-programme/apply",
+  "sources": [
+   "https://www.hub71.com/",
+   "https://www.hub71.com/program/access-programme"
+  ],
+  "score": 6,
+  "score_reason": "Generous package open to all nationalities; requires an existing startup and relocation.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Abu Dhabi",
+  "lat": 24.45,
+  "lon": 54.38,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "hub71-initiate-programme",
+  "section": "project",
+  "family": "startup",
+  "type": "venture-builder programme for idea-stage founders",
+  "org": "Hub71",
+  "name": {
+   "en": "Hub71 Initiate: Programme for Idea-Stage Founders",
+   "ka": "Hub71 Initiate — პროგრამა იდეის ეტაპზე მყოფი დამფუძნებლებისთვის",
+   "ar": "برنامج Hub71 Initiate للمؤسسين في مرحلة الفكرة"
+  },
+  "cost": "free",
+  "duration": {
+   "en": "Up to 1 year of Hub71 support",
+   "ka": "Hub71-ის მხარდაჭერა 1 წლამდე",
+   "ar": "دعم من Hub71 لمدة تصل إلى عام"
+  },
+  "grades": "founders (any age)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling: applications accepted on the Initiate page; no fixed deadline published.",
+  "event_dates": null,
+  "summary": {
+   "en": "Hub71's entry track for founders at the idea or pre-MVP stage: you join a partner venture builder in Abu Dhabi and get a free licence and office for the first year, mentorship and ecosystem access. Hub71 takes no equity, though venture builders set their own terms.",
+   "ka": "Hub71-ის შესასვლელი მიმართულება იდეის ან pre-MVP ეტაპის დამფუძნებლებისთვის: უერთდები პარტნიორ ვენჩურ-ბილდერს აბუ-დაბიში და იღებ უფასო ლიცენზიას და ოფისს პირველი წლისთვის, მენტორობასა და ეკოსისტემაზე წვდომას. Hub71 წილს არ იღებს, თუმცა ვენჩურ-ბილდერებს საკუთარი პირობები აქვთ.",
+   "ar": "المسار التمهيدي في Hub71 للمؤسسين في مرحلة الفكرة أو ما قبل المنتج الأولي: تنضم إلى شريك لبناء المشاريع في أبوظبي وتحصل على رخصة ومكتب مجاناً للسنة الأولى وإرشاد وإمكانية الوصول إلى المنظومة. لا يأخذ Hub71 حصة، لكن شركاء بناء المشاريع يضعون شروطهم الخاصة."
+  },
+  "about": {
+   "en": "Initiate is Hub71's programme for very early founders, at the ideation or pre-MVP stage, which makes it the most accessible Hub71 track for students and recent graduates with a strong idea. Founders apply to one of Hub71's venture-builder partners (such as SC Ventures, Fikra Ventures or TMC2) according to their sector, and the venture builder helps build the MVP and go-to-market strategy.\n\nHub71 provides a free licence and office space for the first year (the venture builder covers year two), soft-landing guidance in Abu Dhabi, proximity to ADGM's regulatory framework, access to 150+ partners and service providers, and Hub71+ community events. Once milestones are reached, startups can apply to the Hub71 Access Programme.\n\nPriority sectors are FinTech and digital assets, ClimateTech, life sciences, EdTech, mobility and logistics, and FoodTech, with AI-enabled startups encouraged. Hub71 itself takes no equity and gives no direct funding; venture builders set their own funding and equity terms, so read them carefully."
+  },
+  "highlights": {
+   "en": [
+    "For idea and pre-MVP founders",
+    "Free licence and office in Abu Dhabi for year one",
+    "Pathway to the Hub71 Access Programme"
+   ]
+  },
+  "eligibility": {
+   "en": "Early-stage founders at ideation or pre-seed stage building in Hub71 priority sectors (FinTech, ClimateTech, life sciences, EdTech, mobility, FoodTech; AI encouraged). Nationality is not restricted."
+  },
+  "how_to_apply": {
+   "en": [
+    "Choose a venture-builder partner that fits your sector.",
+    "Apply via hub71.com/program/initiate/apply.",
+    "Pass Hub71's programme-fit check and the venture builder's interviews.",
+    "Onboard, relocate/soft-land in Abu Dhabi and start the venture-builder programme."
+   ]
+  },
+  "costs": {
+   "en": "No fee; Hub71 takes no equity. Venture builders usually take equity on their own terms."
+  },
+  "keywords": [
+   "startup",
+   "idea stage",
+   "venture builder",
+   "abu dhabi",
+   "uae",
+   "entrepreneurship",
+   "founders",
+   "hub71",
+   "incubator"
+  ],
+  "url": "https://www.hub71.com/program/initiate",
+  "apply_url": "https://www.hub71.com/program/initiate/apply",
+  "sources": [
+   "https://www.hub71.com/",
+   "https://www.hub71.com/program/initiate"
+  ],
+  "score": 5,
+  "score_reason": "Rolling and open to all, but requires commitment to build in Abu Dhabi.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Abu Dhabi",
+  "lat": 24.45,
+  "lon": 54.38,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "sharjah-entrepreneurship-festival-2027",
+  "section": "project",
+  "family": "startup",
+  "type": "entrepreneurship festival and pitch competition",
+  "org": "Sheraa (Sharjah Entrepreneurship Center)",
+  "name": {
+   "en": "Sharjah Entrepreneurship Festival (SEF) 2027",
+   "ka": "შარჯის მეწარმეობის ფესტივალი (SEF) 2027",
+   "ar": "مهرجان الشارقة لريادة الأعمال 2027"
+  },
+  "cost": "paid",
+  "duration": {
+   "en": "2 days (30–31 January 2027)",
+   "ka": "2 დღე (2027 წლის 30–31 იანვარი)",
+   "ar": "يومان (30–31 يناير 2027)"
+  },
+  "grades": "students and founders (any age)",
+  "opens": null,
+  "deadline": "2027-01-29",
+  "deadline_note": "Festival 30–31 Jan 2027 at SPARK, Sharjah; passes on sale (price rises in stages). Pitch-competition deadline not published.",
+  "event_dates": "2027-01-30 to 2027-01-31",
+  "summary": {
+   "en": "One of the region's largest entrepreneurship festivals, run by Sheraa in Sharjah on 30–31 January 2027, with talks, workshops, a startup showcase and a pitch competition with prize money. Student passes are available.",
+   "ka": "რეგიონის ერთ-ერთი უდიდესი მეწარმეობის ფესტივალი, რომელსაც Sheraa შარჯაში 2027 წლის 30–31 იანვარს ატარებს: ლექციები, ვორქშოფები, სტარტაპების გამოფენა და საპრიზო ფონდიანი პიჩინგის კონკურსი. ხელმისაწვდომია სტუდენტური საშვები.",
+   "ar": "أحد أكبر مهرجانات ريادة الأعمال في المنطقة، ينظمه مركز الشارقة لريادة الأعمال (شراع) في الشارقة يومي 30 و31 يناير 2027، ويضم محاضرات وورش عمل ومعرضاً للشركات الناشئة ومسابقة عروض بجوائز مالية، مع تذاكر خاصة للطلاب."
+  },
+  "about": {
+   "en": "The Sharjah Entrepreneurship Festival (SEF) is the annual flagship event of Sheraa, the Sharjah government-backed entrepreneurship centre. The 2027 edition takes place on 30–31 January 2027 at SPARK in Sharjah and brings together founders, investors, tech innovators, creatives, aspiring entrepreneurs and students.\n\nThe programme typically includes keynote talks and panels, hands-on workshops, an investor lounge, a startup showcase, the Seffy Awards, a children's \"Little Founders\" area and the SEF Pitch Competition, in which startups pitch for prize funding (advertised at AED 200,000–275,000). It is a strong place for student founders to learn, network and find mentors in the UAE ecosystem.\n\nPasses are sold online with student tickets, and prices increase closer to the event. Sheraa also runs student programmes such as the eight-week Startup Dojo for students and aspiring founders, so the festival is a good entry point into its ecosystem."
+  },
+  "highlights": {
+   "en": [
+    "Two-day festival with talks, workshops and investor networking",
+    "SEF Pitch Competition with six-figure AED prize pool",
+    "Student passes; gateway to Sheraa's student programmes"
+   ]
+  },
+  "eligibility": {
+   "en": "Open to anyone with a pass; student tickets available. Pitch competition is for startups (check the SEF site for criteria and deadline)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Buy a festival pass (student pass) on sharjahef.com, early for the lowest price.",
+    "If you have a startup, check the SEF Pitch Competition page for the application window.",
+    "Plan your sessions and workshops and attend on 30–31 January 2027 at SPARK, Sharjah."
+   ]
+  },
+  "costs": {
+   "en": "Paid passes (student tickets available; price not published on the homepage). Travel and accommodation are your own."
+  },
+  "keywords": [
+   "entrepreneurship",
+   "startup",
+   "festival",
+   "pitch competition",
+   "sharjah",
+   "uae",
+   "networking",
+   "students",
+   "sheraa"
+  ],
+  "url": "https://sharjahef.com/",
+  "apply_url": "https://sharjahef.com/",
+  "sources": [
+   "https://sheraa.ae/",
+   "https://sharjahef.com/"
+  ],
+  "score": 5,
+  "score_reason": "Big regional startup event with student passes; paid and in person.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Sharjah",
+  "lat": 25.35,
+  "lon": 55.39,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "cwmun-emirates-2027",
+  "section": "project",
+  "family": "mun",
+  "type": "Model United Nations conference",
+  "org": "Change the World Academy / Associazione Diplomatici (CWMUN)",
+  "name": {
+   "en": "Change the World Model United Nations: CWMUN Emirates 2027",
+   "ka": "Change the World გაეროს მოდელი: CWMUN Emirates 2027",
+   "ar": "نموذج الأمم المتحدة «غيّر العالم»: CWMUN الإمارات 2027"
+  },
+  "cost": "paid",
+  "duration": {
+   "en": "Several days in April 2027 (dates TBC)",
+   "ka": "რამდენიმე დღე 2027 წლის აპრილში (თარიღები დასაზუსტებელია)",
+   "ar": "عدة أيام في أبريل 2027 (التواريخ قيد التأكيد)"
+  },
+  "grades": "ages 9-28 (middle school, high school, university)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Applications by selection interview; organiser lists April 2027 in Abu Dhabi without exact days or a closing date. Apply early, as the preparatory course is mandatory.",
+  "event_dates": null,
+  "summary": {
+   "en": "An international MUN for about 2,000 middle-school, high-school and university students in Abu Dhabi in April 2027, themed \"Renewable Energy Diplomacy\". Students from any country apply via an interview and complete a mandatory preparatory course; merit grants can cover fees.",
+   "ka": "საერთაშორისო გაეროს მოდელი დაახლოებით 2000 მოსწავლისა და სტუდენტისთვის (საშუალო სკოლა, უფროსი კლასები, უნივერსიტეტი) აბუ-დაბიში, 2027 წლის აპრილში, თემით „განახლებადი ენერგიის დიპლომატია“. ნებისმიერი ქვეყნის მონაწილეები გასაუბრებით შეირჩევიან და გადიან სავალდებულო მოსამზადებელ კურსს; დამსახურებაზე დაფუძნებული გრანტი გადასახადს ფარავს.",
+   "ar": "مؤتمر دولي لنموذج الأمم المتحدة لنحو 2000 طالب من المرحلتين المتوسطة والثانوية والجامعة في أبوظبي في أبريل 2027 بعنوان «دبلوماسية الطاقة المتجددة». يتقدم الطلاب من أي دولة عبر مقابلة ويكملون دورة تحضيرية إلزامية، وقد تغطي منح الجدارة الرسوم."
+  },
+  "about": {
+   "en": "Change the World Model United Nations (CWMUN) is a large international MUN circuit run by the Italian non-profit Associazione Diplomatici and Change the World Academy, with conferences in New York, Rome, Paris, Singapore and elsewhere. CWMUN Emirates 2027 will take place in Abu Dhabi in April 2027 (exact dates and venue to be confirmed) for roughly 2,000 students, with the theme \"Renewable Energy Diplomacy: a sustainable path to a global future\".\n\nThere are three age levels: middle school (9–13), high school (14–18) and university (18–28). Participants represent countries in simulated UN committees, and selected students must complete a mandatory online preparatory course before attending. Hotels in Abu Dhabi and Dubai are being arranged by the organiser, and you can register as an individual or with a school/university group.\n\nAdmission is selective: you submit an application and do a short interview with Change the World Academy staff. Merit-based grants can reduce enrolment fees or cover conference participation. Airfare and visas are not included; the organiser can issue an invitation letter for the UAE visa."
+  },
+  "highlights": {
+   "en": [
+    "Around 2,000 delegates from many countries; theme Renewable Energy Diplomacy",
+    "Middle-school, high-school and university levels",
+    "Merit-based grants available; individuals or groups"
+   ]
+  },
+  "eligibility": {
+   "en": "Students aged 9–28 of any nationality (middle school, high school or university). Selection interview and completion of the mandatory preparatory course required. English."
+  },
+  "how_to_apply": {
+   "en": [
+    "Submit an application on the CWMUN Emirates page (individual or group).",
+    "Complete the selection interview with Change the World Academy staff.",
+    "If selected, enrol, apply for a merit grant if needed, and complete the preparatory course.",
+    "Arrange your UAE visa (invitation letter available on request) and travel."
+   ]
+  },
+  "costs": {
+   "en": "Enrolment fee (not published on the page) with optional accommodation packages; airfare and visa not included. Merit-based grants can reduce or waive fees."
+  },
+  "keywords": [
+   "mun",
+   "model un",
+   "abu dhabi",
+   "uae",
+   "conference",
+   "international",
+   "university",
+   "high school",
+   "diplomacy",
+   "energy"
+  ],
+  "url": "https://changetheworldacademy.org/program/emirates",
+  "apply_url": "https://changetheworldacademy.org/program/emirates",
+  "sources": [
+   "https://changetheworldacademy.org/",
+   "https://changetheworldacademy.org/program/emirates"
+  ],
+  "score": 6,
+  "score_reason": "Large international MUN open to all ages and nationalities; fees and exact dates not yet published.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Abu Dhabi",
+  "lat": 24.45,
+  "lon": 54.38,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "kaust-taqadam-startup-accelerator",
+  "section": "project",
+  "family": "startup",
+  "type": "university startup accelerator",
+  "org": "KAUST (with SAB)",
+  "name": {
+   "en": "KAUST TAQADAM Startup Accelerator",
+   "ka": "KAUST TAQADAM — სტარტაპ-აქსელერატორი",
+   "ar": "مسرّعة الشركات الناشئة «تقدّم» من كاوست"
+  },
+  "cost": "funded",
+  "duration": {
+   "en": "6 months",
+   "ka": "6 თვე",
+   "ar": "6 أشهر"
+  },
+  "grades": "founders (any age; student teams welcome)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Next cohort dates not published; register interest on the TAQADAM site or email Apply.Taqadam@kaust.edu.sa.",
+  "event_dates": null,
+  "summary": {
+   "en": "A six-month accelerator run by KAUST with SAB since 2016 that gives selected teams USD 40,000 after a pre-accelerator bootcamp, with a chance at USD 100,000 follow-on funding. It is open to all nationalities, industries and ages.",
+   "ka": "KAUST-ისა და SAB-ის 6-თვიანი აქსელერატორი (2016 წლიდან): შერჩეული გუნდები წინასააქსელერაციო ბუთქემპის შემდეგ 40 000 აშშ დოლარს იღებენ, ხოლო საუკეთესოები — 100 000 დოლარამდე დამატებით დაფინანსებას. ღიაა ყველა მოქალაქეობის, დარგისა და ასაკისთვის.",
+   "ar": "مسرّعة لمدة ستة أشهر تديرها كاوست بالشراكة مع البنك السعودي الأول منذ 2016، تمنح الفرق المختارة 40 ألف دولار بعد معسكر تمهيدي، مع فرصة للحصول على تمويل إضافي بقيمة 100 ألف دولار. مفتوحة لجميع الجنسيات والقطاعات والأعمار."
+  },
+  "about": {
+   "en": "TAQADAM is KAUST's startup accelerator, run with SAB (Saudi Awwal Bank) since 2016. It starts with a pre-accelerator bootcamp; teams selected after the bootcamp receive USD 40,000 and enter a six-month programme of mentorship, workshops and in-person activities at KAUST. At the annual showcase, ten startups secure follow-on funding of USD 100,000, and the most promising can qualify for further pre-seed investment.\n\nTeams also get co-working space, subsidised design, finance and legal services, and help incorporating in Saudi Arabia (for international founders). It is open to all nationalities and industries, with no age limit, and accepts both early- and late-stage startups, which makes it accessible to student and graduate founders.\n\nYou need at least two founders and evidence of progress (customer interviews or signed interest), at least one founder able to attend all required activities, and university permission if you use university IP. International teams need a realistic plan to expand to Saudi Arabia within a year. Cohort dates are announced on the TAQADAM site; register your interest to be notified."
+  },
+  "highlights": {
+   "en": [
+    "USD 40,000 for teams selected after the bootcamp",
+    "USD 100,000 follow-on funding for ten startups at the showcase",
+    "Open to all nationalities and ages; co-working at KAUST"
+   ]
+  },
+  "eligibility": {
+   "en": "Teams of at least two founders, any nationality, industry or age, with evidence of progress. Not enrolled in another accelerator at bootcamp start. International startups must plan to expand to Saudi Arabia within one year."
+  },
+  "how_to_apply": {
+   "en": [
+    "Register your interest on taqadam.kaust.edu.sa (HubSpot form) or email Apply.Taqadam@kaust.edu.sa.",
+    "Apply when the next cohort opens, showing traction and your team.",
+    "Attend the pre-accelerator bootcamp if selected.",
+    "Teams selected after the bootcamp receive funding and join the six-month programme."
+   ]
+  },
+  "costs": {
+   "en": "No fee listed. Funding terms (USD 40,000 and follow-on) are set by the programme; check equity terms when applying."
+  },
+  "keywords": [
+   "startup",
+   "accelerator",
+   "kaust",
+   "saudi arabia",
+   "funding",
+   "entrepreneurship",
+   "founders",
+   "university",
+   "innovation"
+  ],
+  "url": "https://taqadam.kaust.edu.sa/",
+  "apply_url": "https://taqadam.kaust.edu.sa/",
+  "sources": [
+   "https://taqadam.kaust.edu.sa/"
+  ],
+  "score": 5,
+  "score_reason": "Well-funded and open to all, but next cohort dates not yet published.",
+  "iso": "SA",
+  "flag": "🇸🇦",
+  "region": "middle-east",
+  "country": {
+   "en": "Saudi Arabia",
+   "ka": "საუდის არაბეთი",
+   "ar": "المملكة العربية السعودية"
+  },
+  "city": "Thuwal",
+  "lat": 22.31,
+  "lon": 39.1,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "khalifa-university-young-future-energy-leaders-2027",
+  "section": "project",
+  "family": "youth",
+  "type": "year-long energy leadership programme",
+  "org": "Khalifa University of Science and Technology",
+  "name": {
+   "en": "Young Future Energy Leaders (YFEL) 2027",
+   "ka": "მომავლის ენერგეტიკის ახალგაზრდა ლიდერები (YFEL) 2027",
+   "ar": "برنامج قادة المستقبل الشباب في مجال الطاقة (YFEL) 2027"
+  },
+  "cost": "free",
+  "duration": {
+   "en": "About one year",
+   "ka": "დაახლოებით ერთი წელი",
+   "ar": "نحو عام واحد"
+  },
+  "grades": "university (advanced undergraduate, master's) and early-career",
+  "opens": "2027-01-11",
+  "deadline": null,
+  "deadline_note": "KU outreach timeline lists 2027 registration opening 11 Jan 2027 (closing date shown as 30 Sep 2027, which looks like the programme end). Confirm with yfel@ku.ac.ae.",
+  "event_dates": null,
+  "summary": {
+   "en": "Khalifa University's year-long programme that builds leadership in energy, climate and sustainability for advanced undergraduates, master's students and young professionals in the UAE and abroad. It combines courses, case competitions, site visits and mentorship, with links to Abu Dhabi Sustainability Week.",
+   "ka": "Khalifa University-ის ერთწლიანი პროგრამა, რომელიც ენერგეტიკის, კლიმატისა და მდგრადობის სფეროში ლიდერობას ავითარებს უფროსკურსელებში, მაგისტრანტებსა და ახალგაზრდა პროფესიონალებში საამიროებიდან და მის ფარგლებს გარეთ: კურსები, ქეისების შეჯიბრები, ვიზიტები და მენტორობა.",
+   "ar": "برنامج لمدة عام من جامعة خليفة لتنمية القيادة في مجالات الطاقة والمناخ والاستدامة لطلاب البكالوريوس المتقدمين وطلاب الماجستير والمهنيين الشباب في الإمارات وخارجها، ويجمع بين الدورات ومسابقات دراسات الحالة والزيارات الميدانية والإرشاد."
+  },
+  "about": {
+   "en": "Young Future Energy Leaders (YFEL) began in 2010 as part of Masdar Institute's outreach and is now run by Khalifa University in Abu Dhabi. It is a year-long programme for students and young professionals who want to lead in energy and sustainability: participants take a sequence of courses (Foundation, Advanced Exploration, Leadership and Application, the role of policy in renewable energy, entrepreneurship, and being a future leader), along with workshops, debates and panels.\n\nThe programme includes case competitions and project sprints, site visits and international engagements, mentorship and career exposure; members traditionally take part in Abu Dhabi Sustainability Week and the World Future Energy Summit. Graduates receive a certificate of completion and join the YFEL alumni community.\n\nIt is aimed at advanced undergraduates, master's students and early-career professionals with strong English, from the UAE and abroad. KU lists registration for the 2027 cohort opening on 11 January 2027; check the YFEL site or email yfel@ku.ac.ae for the exact requirements before applying."
+  },
+  "highlights": {
+   "en": [
+    "Year-long energy, climate and policy leadership track",
+    "Case competitions, site visits and mentorship",
+    "Linked to Abu Dhabi Sustainability Week; certificate and alumni network"
+   ]
+  },
+  "eligibility": {
+   "en": "Advanced undergraduate students, master's students and early-career professionals interested in energy and sustainability, from the UAE or abroad. Strong English required."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check the YFEL site for the 2027 call (registration listed as opening 11 January 2027).",
+    "Register through KU's portal (pgapply.ku.ac.ae/register/YFEL).",
+    "Complete any selection task (past cohorts were selected through a case-study competition).",
+    "Attend the programme activities in Abu Dhabi through the year."
+   ]
+  },
+  "costs": {
+   "en": "No fee is listed; participants are responsible for their own travel to Abu Dhabi activities unless KU states otherwise."
+  },
+  "keywords": [
+   "energy",
+   "sustainability",
+   "climate",
+   "leadership",
+   "khalifa university",
+   "abu dhabi",
+   "uae",
+   "youth",
+   "masters",
+   "adsw"
+  ],
+  "url": "https://yfel.ku.ac.ae/yfel/",
+  "apply_url": "https://pgapply.ku.ac.ae/register/YFEL",
+  "sources": [
+   "https://www.ku.ac.ae/outreach",
+   "https://yfel.ku.ac.ae/yfel/",
+   "https://www.ku.ac.ae/young-future-energy-leaders"
+  ],
+  "score": 5,
+  "score_reason": "Respected programme with ADSW links; 2027 dates and eligibility details thin on official pages.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Abu Dhabi",
+  "lat": 24.45,
+  "lon": 54.38,
+  "verified_at": "2026-10-30",
+  "premium": false
+ },
+ {
+  "id": "adek-rize-university-preparation-career-guidance",
+  "section": "project",
+  "family": "training",
+  "type": "university preparation and career guidance programme",
+  "org": "Abu Dhabi Department of Education and Knowledge (ADEK)",
+  "name": {
+   "en": "ADEK Rize University Preparation & Career Guidance (UPCG)",
+   "ka": "ADEK Rize — უნივერსიტეტისთვის მომზადება და კარიერული კონსულტირება (UPCG)",
+   "ar": "برنامج «رايز» للتأهيل الجامعي والإرشاد المهني من دائرة التعليم والمعرفة"
+  },
+  "cost": "free",
+  "duration": {
+   "en": "Grades 9–12, ongoing",
+   "ka": "მე-9–მე-12 კლასები, მუდმივი",
+   "ar": "من الصف 9 إلى 12، مستمر"
+  },
+  "grades": "9-12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling: registration link on the ADEK programme page; no deadline published.",
+  "event_dates": null,
+  "summary": {
+   "en": "A free ADEK programme for Emirati high-school students in Abu Dhabi that combines future planning, university guidance, test preparation, counsellor support, scholarship applications and extracurricular projects including ADEK summer programmes.",
+   "ka": "ADEK-ის უფასო პროგრამა აბუ-დაბის ემირატელი მოსწავლეებისთვის: მომავლის დაგეგმვა, უნივერსიტეტის არჩევაში დახმარება, ტესტებისთვის მომზადება, კონსულტანტის მხარდაჭერა, სტიპენდიებზე განაცხადი და კლასგარეშე პროექტები, მათ შორის ADEK-ის საზაფხულო პროგრამები.",
+   "ar": "برنامج مجاني من دائرة التعليم والمعرفة لطلاب المرحلة الثانوية المواطنين في أبوظبي، يجمع بين التخطيط للمستقبل والإرشاد الجامعي والتحضير للاختبارات ودعم المرشدين والتقديم للمنح والأنشطة اللاصفية بما فيها برامج ADEK الصيفية."
+  },
+  "about": {
+   "en": "Rize UPCG is the Abu Dhabi Department of Education and Knowledge's university-preparation and career-guidance programme for UAE national students in grades 9–12 (years 10–13) across Abu Dhabi. It is designed to help students discover their interests, plan their futures and prepare strong university applications in the UAE and abroad.\n\nThe programme has four strands: Future Planning (exploring interests, identifying strengths and building skills); University Guidance (exploring degrees and universities, standardised-test preparation and application support); Counsellor Support (dedicated advisors, career exploration and scholarship applications); and Extracurricular Activities (industry projects, hands-on work experience, portfolio building and ADEK Summer Programs).\n\nIt is free and students can register online at any time through the ADEK page. For Emirati students in Abu Dhabi it is one of the most direct routes into ADEK's summer programmes and scholarship guidance."
+  },
+  "highlights": {
+   "en": [
+    "Free university and career guidance with dedicated advisors",
+    "Test preparation and application and scholarship support",
+    "Access to industry projects and ADEK Summer Programs"
+   ]
+  },
+  "eligibility": {
+   "en": "UAE national high-school students in grades 9–12 (years 10–13) in Abu Dhabi."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the Rize UPCG page on adek.gov.ae.",
+    "Click \"Register to the Rize UPCG program today!\" and complete the form.",
+    "Work with your assigned advisor on future planning, testing and applications."
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "university preparation",
+   "career guidance",
+   "college counselling",
+   "abu dhabi",
+   "uae",
+   "emirati",
+   "free",
+   "sat",
+   "scholarship",
+   "summer programs"
+  ],
+  "url": "https://www.adek.gov.ae/en/Programmes-and-Initiatives/Rize-University-Preparation-and-Career-Guidance",
+  "apply_url": "https://www.adek.gov.ae/en/Programmes-and-Initiatives/Rize-University-Preparation-and-Career-Guidance",
+  "sources": [
+   "https://www.adek.gov.ae/",
+   "https://www.adek.gov.ae/en/Programmes-and-Initiatives/Rize-University-Preparation-and-Career-Guidance"
+  ],
+  "score": 4,
+  "score_reason": "Free and useful, but limited to Emirati students in Abu Dhabi.",
+  "iso": "AE",
+  "flag": "🇦🇪",
+  "region": "middle-east",
+  "country": {
+   "en": "United Arab Emirates",
+   "ka": "არაბთა გაერთიანებული საამიროები",
+   "ar": "الإمارات العربية المتحدة"
+  },
+  "city": "Abu Dhabi",
+  "lat": 24.45,
+  "lon": 54.38,
+  "verified_at": "2026-10-30",
+  "premium": false
+ }
+]

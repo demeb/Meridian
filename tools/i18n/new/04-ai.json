@@ -1,0 +1,97 @@
+{
+ "ai.sub": {
+  "en": "Your education guide · powered by Claude",
+  "ka": "შენი საგანმანათლებლო გზამკვლევი · Claude",
+  "ar": "مرشدك التعليمي · بدعم من Claude"
+ },
+ "ai.hello": {
+  "en": "Hi, I'm Meridian AI",
+  "ka": "გამარჯობა, მე ვარ Meridian AI",
+  "ar": "مرحباً، أنا Meridian AI"
+ },
+ "ai.helloBody": {
+  "en": "Ask me anything about your studies: which universities fit your scores, scholarships, programmes for your startup, essays, CVs or exam prep.",
+  "ka": "მკითხე ნებისმიერი რამ სწავლაზე: რომელი უნივერსიტეტები ერგება შენს ქულებს, სტიპენდიები, პროგრამები შენი სტარტაპისთვის, ესეები, CV ან გამოცდისთვის მომზადება.",
+  "ar": "اسألني عن أي شيء يخص دراستك: الجامعات المناسبة لدرجاتك، المنح، برامج لشركتك الناشئة، المقالات، السيرة الذاتية أو التحضير للاختبارات."
+ },
+ "ai.soon": {
+  "en": "Meridian AI is almost ready. Soon you'll be able to ask about universities, scholarships, essays and more right here.",
+  "ka": "Meridian AI თითქმის მზადაა. მალე აქვე შეძლებ იკითხო უნივერსიტეტებზე, სტიპენდიებზე, ესეებზე და სხვა.",
+  "ar": "Meridian AI على وشك الإطلاق. قريباً ستتمكن من السؤال هنا عن الجامعات والمنح والمقالات وغيرها."
+ },
+ "ai.soonShort": {
+  "en": "Meridian AI is coming soon",
+  "ka": "Meridian AI მალე",
+  "ar": "Meridian AI قريباً"
+ },
+ "ai.s.uni": {
+  "en": "I have SAT 1450 and IELTS 7.0 — which universities fit me?",
+  "ka": "მაქვს SAT 1450 და IELTS 7.0 — რომელი უნივერსიტეტები მერგება?",
+  "ar": "لدي SAT 1450 وIELTS 7.0 — ما الجامعات المناسبة لي؟"
+ },
+ "ai.s.startup": {
+  "en": "I have a startup idea. Which programmes can help me?",
+  "ka": "მაქვს სტარტაპის იდეა. რომელი პროგრამები დამეხმარება?",
+  "ar": "لدي فكرة شركة ناشئة. ما البرامج التي يمكن أن تساعدني؟"
+ },
+ "ai.s.scholar": {
+  "en": "Find fully funded bachelor's scholarships in Europe",
+  "ka": "მიპოვე სრულად დაფინანსებული საბაკალავრო სტიპენდიები ევროპაში",
+  "ar": "ابحث عن منح بكالوريوس ممولة بالكامل في أوروبا"
+ },
+ "ai.s.essay": {
+  "en": "Help me plan my personal statement",
+  "ka": "დამეხმარე პირადი ესეს დაგეგმვაში",
+  "ar": "ساعدني في التخطيط لبياني الشخصي"
+ },
+ "ai.placeholder": {
+  "en": "Ask Meridian AI…",
+  "ka": "ჰკითხე Meridian AI-ს…",
+  "ar": "اسأل Meridian AI…"
+ },
+ "ai.send": {
+  "en": "Send",
+  "ka": "გაგზავნა",
+  "ar": "إرسال"
+ },
+ "ai.clear": {
+  "en": "New chat",
+  "ka": "ახალი საუბარი",
+  "ar": "محادثة جديدة"
+ },
+ "ai.left": {
+  "en": "{n} messages left today",
+  "ka": "დღეს დარჩა {n} შეტყობინება",
+  "ar": "تبقى {n} رسائل اليوم"
+ },
+ "ai.disclaimer": {
+  "en": "AI can make mistakes — check official pages",
+  "ka": "AI შეიძლება შეცდეს — გადაამოწმე ოფიციალურ გვერდებზე",
+  "ar": "قد يخطئ الذكاء الاصطناعي — تحقق من الصفحات الرسمية"
+ },
+ "ai.limit": {
+  "en": "You've used today's Meridian AI messages. They refresh tomorrow — or upgrade for more.",
+  "ka": "დღევანდელი შეტყობინებები ამოიწურა. ხვალ განახლდება — ან გადადი მეტზე.",
+  "ar": "استخدمت رسائل اليوم. تتجدد غداً — أو قم بالترقية للمزيد."
+ },
+ "ai.limitGuest": {
+  "en": "Create a free account to keep chatting with Meridian AI.",
+  "ka": "შექმენი უფასო ანგარიში, რომ Meridian AI-სთან საუბარი გააგრძელო.",
+  "ar": "أنشئ حساباً مجانياً لمواصلة المحادثة مع Meridian AI."
+ },
+ "ai.busy": {
+  "en": "Meridian AI is busy right now. Try again in a minute.",
+  "ka": "Meridian AI ახლა დაკავებულია. სცადე ერთ წუთში.",
+  "ar": "Meridian AI مشغول الآن. حاول بعد دقيقة."
+ },
+ "ai.error": {
+  "en": "Meridian AI couldn't answer. Please try again.",
+  "ka": "Meridian AI-მ ვერ უპასუხა. სცადე თავიდან.",
+  "ar": "تعذّر على Meridian AI الرد. حاول مرة أخرى."
+ },
+ "ai.refused": {
+  "en": "I can't help with that one, but I'm happy to help with your studies, applications or career.",
+  "ka": "ამაში ვერ დაგეხმარები, მაგრამ სიამოვნებით დაგეხმარები სწავლაში, განაცხადებში ან კარიერაში.",
+  "ar": "لا أستطيع المساعدة في ذلك، لكن يسعدني مساعدتك في دراستك أو طلباتك أو مسارك المهني."
+ }
+}

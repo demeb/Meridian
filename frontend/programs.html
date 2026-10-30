@@ -15,10 +15,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Newsreader:ital,wght@0,400;1,400&family=Noto+Sans+Georgian:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&family=Noto+Kufi+Arabic:wght@600;700&display=swap" />
-  <link rel="stylesheet" href="/css/tokens.css" />
-  <link rel="stylesheet" href="/css/base.css" />
-  <link rel="stylesheet" href="/css/components.css" />
-  <link rel="stylesheet" href="/css/pages.css" />
+  <link rel="stylesheet" href="/css/tokens.css?v=r5" />
+  <link rel="stylesheet" href="/css/base.css?v=r5" />
+  <link rel="stylesheet" href="/css/components.css?v=r5" />
+  <link rel="stylesheet" href="/css/pages.css?v=r5" />
   <script>
     /* Set theme + language before first paint so nothing flashes. */
     (function () {
@@ -40,7 +40,7 @@
   <div id="nav-root"></div>
 
   <main id="main">
-    <section class="page-head">
+    <section class="page-head is-compact">
       <div class="grid-backdrop" aria-hidden="true"></div>
       <div class="container-wide">
         <div class="head-row" style="margin-bottom:0">
@@ -61,16 +61,13 @@
 
     <section style="padding-bottom:var(--space-9)">
       <div class="container-wide">
-        <nav class="section-tabs" role="tablist" aria-label="Sections">
+        <nav class="section-tabs section-tabs-2" role="tablist" aria-label="Sections">
           <a href="/programs?s=projects" class="sec-tab" data-section="project" role="tab">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg>
             <span data-i18n="programs.sec.projects">Projects</span><span class="sec-count"></span></a>
           <a href="/programs?s=scholarships" class="sec-tab" data-section="scholarship" role="tab">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="9" r="5.5"/><path d="m8.5 13.8-1.3 7.2L12 18.6l4.8 2.4-1.3-7.2"/></svg>
             <span data-i18n="programs.sec.scholarships">Scholarships</span><span class="sec-count"></span></a>
-          <a href="/universities" class="sec-tab" data-section="university" role="tab">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m2 9 10-5 10 5-10 5z"/><path d="M6 11v5c3 2.5 9 2.5 12 0v-5"/></svg>
-            <span data-i18n="programs.sec.universities">Universities</span><span class="sec-count"></span></a>
         </nav>
 
         <section class="highlights" aria-labelledby="hlTitle">
@@ -80,9 +77,12 @@
               <h2 id="hlTitle" data-i18n="programs.hl.title">Top 10 right now</h2>
               <p class="muted" id="hlNote" data-i18n="programs.hl.note">Ranked by our research agents for funding, prestige, access and how soon the deadline is.</p>
             </div>
+            <div class="hl-side">
+            <div class="hl-scope" id="hlScope" role="group" aria-label="Highlights" hidden></div>
             <div class="hl-nav">
               <button type="button" id="hlPrev" aria-label="Previous"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg></button>
               <button type="button" id="hlNext" aria-label="Next"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg></button>
+            </div>
             </div>
           </div>
           <div class="hl-track" id="highlightTrack"></div>
@@ -142,10 +142,10 @@
 
   <div id="footer-root"></div>
 
-  <script src="/js/i18n.js"></script>
-  <script src="/js/app.js"></script>
-  <script src="/vendor/globe.gl.min.js"></script>
-  <script src="/js/earth.js"></script>
-  <script src="/js/programs.js"></script>
+  <script src="/js/i18n.js?v=r5"></script>
+  <script src="/js/app.js?v=r5"></script>
+  <script src="/vendor/globe.gl.min.js?v=r5"></script>
+  <script src="/js/earth.js?v=r5"></script>
+  <script src="/js/programs.js?v=r5"></script>
 </body>
 </html>

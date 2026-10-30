@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <title>Meridian</title>
+  <meta name="description" content="Official test-prep materials for SAT, ACT, IELTS, TOEFL, Duolingo and more, organised on Meridian." />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#061229" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/brand/favicon-32.png?v=3" />
+  <link rel="icon" type="image/png" sizes="64x64" href="/assets/brand/favicon-64.png?v=3" />
+  <link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png?v=3" />
+  <meta name="apple-mobile-web-app-title" content="Meridian" />
+  <meta property="og:title" content="Meridian" />
+  <meta property="og:image" content="/assets/brand/meridian-logo.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Newsreader:ital,wght@0,400;1,400&family=Noto+Sans+Georgian:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&family=Noto+Kufi+Arabic:wght@600;700&display=swap" />
+  <link rel="stylesheet" href="/css/tokens.css?v=r5" />
+  <link rel="stylesheet" href="/css/base.css?v=r5" />
+  <link rel="stylesheet" href="/css/components.css?v=r5" />
+  <link rel="stylesheet" href="/css/pages.css?v=r5" />
+  <script>
+    /* Set theme + language before first paint so nothing flashes. */
+    (function () {
+      try {
+        var theme = localStorage.getItem('meridian.theme');
+        if (!theme) {
+          theme = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+        }
+        document.documentElement.setAttribute('data-theme', theme);
+        var lang = localStorage.getItem('meridian.lang') || 'en';
+        document.documentElement.setAttribute('lang', lang);
+        document.documentElement.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
+      } catch (e) {}
+    })();
+  </script>
+</head>
+<body data-page="prep">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div id="nav-root"></div>
+
+  <main id="main">
+    <section class="page-head is-compact">
+      <div class="grid-backdrop" aria-hidden="true"></div>
+      <div class="container-wide">
+        <div class="head-row" style="margin-bottom:0">
+          <div style="max-width:62ch">
+            <span class="eyebrow" data-i18n="prep.eyebrow">Prep materials</span>
+            <h1 style="margin-top:1rem;font-size:var(--step-3)" data-i18n="prep.title">Prepare for every exam, from official sources</h1>
+            <p class="lede" data-i18n="prep.lede">SAT, IELTS, TOEFL, Duolingo and more: how each test works, when to book it, and the best official and free materials to study with.</p>
+          </div>
+          <button type="button" class="btn btn-outline" data-ask-ai-key="prep.askAiPrompt" id="prepAsk"><span data-i18n="prep.askAi">Make me a study plan</span></button>
+        </div>
+      </div>
+    </section>
+    <section style="padding-bottom:var(--space-9)">
+      <div class="container-wide">
+        <div class="prep-tabs" id="prepTabs" role="tablist" aria-label="Exams"></div>
+        <div id="prepBody" class="prep-body"><div class="skeleton" style="height:16rem;border-radius:var(--radius-lg)"></div></div>
+        <section class="prep-people">
+          <div class="spread" style="align-items:end;gap:1rem;flex-wrap:wrap">
+            <div>
+              <h2 class="op-h2" data-i18n="prep.people.title">Tutors and counsellors who can help</h2>
+              <p class="muted" data-i18n="prep.people.lede">Book a tutor for a test, or ask a counsellor how it fits your applications.</p>
+            </div>
+            <div class="cluster">
+              <a class="btn btn-outline btn-sm" href="/teachers" data-i18n="prep.people.tutors">Find a tutor</a>
+              <a class="btn btn-outline btn-sm" href="/counselling#counsellors" data-i18n="prep.people.counsellors">College counsellors</a>
+            </div>
+          </div>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <div id="footer-root"></div>
+
+  <script src="/js/i18n.js?v=r5"></script>
+  <script src="/js/app.js?v=r5"></script>
+  <script src="/js/prep.js?v=r5"></script>
+</body>
+</html>

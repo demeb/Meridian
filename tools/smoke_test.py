@@ -22,7 +22,15 @@ ADMIN = os.environ.get("MERIDIAN_ADMIN_TOKEN", "meridian-admin")
 
 class Client:
     def __init__(self):
-        self.opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(CookieJar()))
+        self.jar = CookieJar()
+        self.opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(self.jar))
+
+    def local_cookies(self):
+        # production sets Secure cookies; Python's cookie jar would never send them back
+        # over plain http to 127.0.0.1, so relax the flag when testing a local server
+        if BASE.startswith("http://"):
+            for cookie in self.jar:
+                cookie.secure = False
 
     def call(self, method, path, data=None, form=None, files=None):
         headers = {}
@@ -46,8 +54,10 @@ class Client:
         req = urllib.request.Request(BASE + path, data=payload, headers=headers, method=method)
         try:
             with self.opener.open(req, timeout=20) as resp:
+                self.local_cookies()
                 return resp.status, json.loads(resp.read().decode("utf-8"))
         except urllib.error.HTTPError as err:
+            self.local_cookies()
             return err.code, json.loads(err.read().decode("utf-8") or "{}")
 
 
@@ -73,6 +83,21 @@ def tiny_jpeg():
     buf = io.BytesIO()
     Image.new("RGB", (900, 1200), (40, 90, 180)).save(buf, "JPEG")
     return buf.getvalue()
+
+
+def outbox_code(email):
+    """The newest 6-digit code mailed to this address (dev outbox, no SMTP)."""
+    import glob
+    import re
+    root = os.environ.get("MERIDIAN_STORAGE") or os.path.join(
+        os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "backend")
+    files = sorted(glob.glob(os.path.join(root, "outbox", "*%s*.eml" % email)))
+    for path in reversed(files):
+        text = open(path, encoding="utf-8", errors="ignore").read()
+        match = re.search(r"Subject: (\d{6}) ", text) or re.search(r"code is (\d{6})", text)
+        if match:
+            return match.group(1)
+    return None
 
 
 def cleanup():
@@ -115,10 +140,13 @@ def main():
     student = Client()
     email = signup(student, "Student")
     _, r = student.call("POST", "/api/auth/forgot", {"email": email})
-    check("forgot sends reset code", r.get("ok") and r.get("dev_code"))
+    # outside debug mode the reset code is never shown on screen (it would let anyone
+    # take over an account), so read it from the outbox the way the student's inbox would
+    code = r.get("dev_code") or outbox_code(email)
+    check("forgot sends reset code", r.get("ok") and code)
     _, bad = student.call("POST", "/api/auth/reset", {"email": email, "code": "000000", "password": "another-pass"})
     check("wrong reset code refused", not bad.get("ok"), bad.get("error", ""))
-    _, r = student.call("POST", "/api/auth/reset", {"email": email, "code": r["dev_code"], "password": "another-pass"})
+    _, r = student.call("POST", "/api/auth/reset", {"email": email, "code": code, "password": "another-pass"})
     check("reset with right code", r.get("ok"))
     _, r = student.call("POST", "/api/auth/login", {"email": email, "password": "another-pass"})
     check("login with new password", r.get("ok"))

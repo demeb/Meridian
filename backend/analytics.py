@@ -61,7 +61,7 @@ def track():
     resp = jsonify({"ok": True})
     if not _visitor():
         resp.set_cookie("meridian_v", visitor, max_age=365 * 86400, httponly=True, samesite="Lax",
-                        secure=Config.COOKIE_SECURE)
+                        secure=Config.cookie_secure(request.host))
     return resp
 
 

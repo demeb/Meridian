@@ -110,9 +110,30 @@
     controls.enableDamping = true;
     controls.dampingFactor = 0.08;
 
+    var baseFov = null;
     function size() {
       var rect = el.getBoundingClientRect();
-      globe.width(Math.max(1, Math.round(rect.width))).height(Math.max(1, Math.round(rect.height)));
+      var w = Math.max(1, Math.round(rect.width));
+      var h = Math.max(1, Math.round(rect.height));
+      globe.width(w).height(h);
+      // Hero: the box is taller than it is wide so the arcs can climb up into the
+      // page instead of being cut at the top of the earth. Render it as the top
+      // part of a taller virtual frame, so the earth keeps its size and place.
+      var lift = mode === 'hero' ? h - w : 0;
+      var camera = globe.camera();
+      if (baseFov === null) baseFov = camera.fov;
+      if (lift > 0) {
+        var fullH = w + 2 * lift;
+        camera.fov = 2 * Math.atan(Math.tan(baseFov * Math.PI / 360) * fullH / w) * 180 / Math.PI;
+        camera.aspect = w / fullH;
+        camera.setViewOffset(w, fullH, 0, 0, w, h);
+        camera.updateProjectionMatrix();
+      } else if (camera.view && camera.view.enabled) {
+        camera.fov = baseFov;
+        camera.clearViewOffset();
+        camera.aspect = w / h;
+        camera.updateProjectionMatrix();
+      }
     }
     new ResizeObserver(size).observe(el);
     size();
@@ -211,13 +232,40 @@
     controls.zoomSpeed = 0.8;
     globe.pointOfView({ lat: 34, lng: 22, altitude: 2.1 }, 0);
 
-    // sharp NASA tiles when online, the bundled image when not
+    // Quality never drops when you zoom out: far away the bundled 4K image (with
+    // full anisotropic filtering) is sharper than low-level map tiles, so the
+    // NASA tile engine only takes over once you are close to the surface.
     globe.globeImageUrl(TEX.day);
+    var tilesReady = false, tilesOn = false;
+    function crisp() {
+      var material = globe.globeMaterial();
+      var max = globe.renderer().capabilities.getMaxAnisotropy();
+      if (material && material.map && material.map.anisotropy !== max) {
+        material.map.anisotropy = max;
+        material.map.needsUpdate = true;
+      }
+    }
+    function pickDetail() {
+      if (!tilesReady) return;
+      var alt = globe.pointOfView().altitude;
+      if (!tilesOn && alt < 0.9) {
+        tilesOn = true;
+        globe.globeTileEngineMaxLevel(GIBS_MAX)
+          .globeTileEngineUrl(function (x, y, level) { return GIBS + level + '/' + y + '/' + x + '.jpeg'; });
+      } else if (tilesOn && alt > 1.2) {
+        tilesOn = false;
+        globe.globeTileEngineUrl(null);
+        globe.globeImageUrl(TEX.day);
+        window.setTimeout(crisp, 400);
+      }
+    }
     fetch(GIBS + '1/0/0.jpeg', { mode: 'cors' }).then(function (r) {
-      if (!r.ok) return;
-      globe.globeTileEngineMaxLevel(GIBS_MAX)
-        .globeTileEngineUrl(function (x, y, level) { return GIBS + level + '/' + y + '/' + x + '.jpeg'; });
+      tilesReady = r.ok;
+      pickDetail();
     }).catch(function () {});
+    controls.addEventListener('end', pickDetail);
+    controls.addEventListener('change', function () { window.clearTimeout(api._detailTimer); api._detailTimer = window.setTimeout(pickDetail, 250); });
+    globe.onGlobeReady(crisp);
 
     var state = { hover: null, selected: null, selectedCountry: null, counts: {}, points: [], pins: {} };
     var lang = function () { return (window.M && M.state.lang) || 'en'; };
@@ -241,8 +289,8 @@
       return 'rgba(255, 255, 255, 0.22)';
     }
     function altitude(f) {
-      if (f === state.hover) return 0.032;
-      if (isSel(f)) return 0.02;
+      if (f === state.hover) return 0.014;
+      if (isSel(f)) return 0.01;
       return 0.004;
     }
     function repaintPolygons() {
@@ -301,7 +349,7 @@
       return node;
     }
     globe
-      .htmlLat('lat').htmlLng('lon').htmlAltitude(0.012)
+      .htmlLat('lat').htmlLng('lon').htmlAltitude(0.004)   // on the surface, level with the country caps
       .htmlElement(function (p) { return makePin(p); })
       .htmlTransitionDuration(0)
       .htmlElementVisibilityModifier(function (node, visible) {
@@ -336,10 +384,12 @@
     };
     api.flyTo = function (lat, lng, alt) {
       globe.pointOfView({ lat: lat, lng: lng, altitude: alt || 1.55 }, reducedMotion() ? 0 : 1200);
+      window.setTimeout(pickDetail, 1300);
     };
     api.zoomBy = function (factor) {
       var pov = globe.pointOfView();
       globe.pointOfView({ altitude: Math.max(0.12, Math.min(4, pov.altitude * factor)) }, 420);
+      window.setTimeout(pickDetail, 480);
     };
     api.setAutoRotate = function (on) { controls.autoRotate = on && !reducedMotion(); };
     window.addEventListener('meridian:lang', repaintPolygons);

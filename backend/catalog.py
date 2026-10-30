@@ -21,6 +21,9 @@ from config import DATA_DIR
 PROGRAMS = os.path.join(DATA_DIR, "programs.json")
 UNIVERSITIES = os.path.join(DATA_DIR, "universities.json")
 DIRECTORY = os.path.join(DATA_DIR, "universities-directory.json")
+# Every other QS-ranked university (built by tools/merge_universities.py); when it
+# exists it replaces the old 10k directory, so the catalogue is the QS list only.
+QS_LIST = os.path.join(DATA_DIR, "universities-qs.json")
 ARCHIVE_DIR = os.path.join(DATA_DIR, "archive")
 ARCHIVE = os.path.join(ARCHIVE_DIR, "programs-archive.json")
 
@@ -121,8 +124,10 @@ def universities():
 
 
 def directory():
-    """Every university we know of: full profiles first, then the basic directory."""
+    """Every university we know of: full profiles first, then the basic list."""
     full = universities()
+    if os.path.exists(QS_LIST):
+        return full, _read(QS_LIST, [])
     have = {(u.get("website") or "").split("//")[-1].strip("/").replace("www.", "") for u in full}
     rest = [d for d in _read(DIRECTORY, [])
             if d.get("domain", "").replace("www.", "") not in have]
@@ -140,7 +145,7 @@ def find_university(uni_id):
     for u in universities():
         if u["id"] == uni_id:
             return u
-    for d in _read(DIRECTORY, []):
+    for d in directory()[1]:
         if d["id"] == uni_id:
             return d
     return None

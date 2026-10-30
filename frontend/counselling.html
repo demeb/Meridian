@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <title>Meridian</title>
+  <meta name="description" content="College counselling on Meridian: Meridian AI studio, self-tests, mini-courses on CVs, essays and interviews, and counsellors from partner schools." />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#061229" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/brand/favicon-32.png?v=3" />
+  <link rel="icon" type="image/png" sizes="64x64" href="/assets/brand/favicon-64.png?v=3" />
+  <link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png?v=3" />
+  <meta name="apple-mobile-web-app-title" content="Meridian" />
+  <meta property="og:title" content="Meridian" />
+  <meta property="og:image" content="/assets/brand/meridian-logo.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Newsreader:ital,wght@0,400;1,400&family=Noto+Sans+Georgian:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&family=Noto+Kufi+Arabic:wght@600;700&display=swap" />
+  <link rel="stylesheet" href="/css/tokens.css?v=r5" />
+  <link rel="stylesheet" href="/css/base.css?v=r5" />
+  <link rel="stylesheet" href="/css/components.css?v=r5" />
+  <link rel="stylesheet" href="/css/pages.css?v=r5" />
+  <script>
+    /* Set theme + language before first paint so nothing flashes. */
+    (function () {
+      try {
+        var theme = localStorage.getItem('meridian.theme');
+        if (!theme) {
+          theme = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+        }
+        document.documentElement.setAttribute('data-theme', theme);
+        var lang = localStorage.getItem('meridian.lang') || 'en';
+        document.documentElement.setAttribute('lang', lang);
+        document.documentElement.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
+      } catch (e) {}
+    })();
+  </script>
+</head>
+<body data-page="counselling">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div id="nav-root"></div>
+
+  <main id="main">
+    <section class="page-head is-compact">
+      <div class="grid-backdrop" aria-hidden="true"></div>
+      <div class="container-wide">
+        <span class="eyebrow" data-i18n="cc.eyebrow">College counselling</span>
+        <h1 style="margin-top:1rem;font-size:var(--step-3)" data-i18n="cc.title">Your path to university, step by step</h1>
+        <p class="lede" data-i18n="cc.lede">Work on your plan, essays and CV with Meridian AI, learn the essentials in short courses, take a self-test, and get help from counsellors at partner schools.</p>
+        <nav class="cc-jump" aria-label="On this page">
+          <a href="#ai" data-i18n="cc.nav.ai">Meridian AI studio</a>
+          <a href="#tests" data-i18n="cc.nav.tests">Self-tests</a>
+          <a href="#courses" data-i18n="cc.nav.courses">Mini-courses</a>
+          <a href="#board" data-i18n="cc.nav.board">My school</a>
+          <a href="#counsellors" data-i18n="cc.nav.counsellors">Counsellors</a>
+          <a href="/prep" data-i18n="cc.nav.prep">Prep materials</a>
+        </nav>
+      </div>
+    </section>
+
+    <section class="section-sm" id="ai">
+      <div class="container-wide">
+        <div class="cc-studio">
+          <div class="cc-studio-intro">
+            <span class="ai-hello-mark" aria-hidden="true"></span>
+            <h2 class="op-h2" data-i18n="cc.ai.title">Meridian AI studio</h2>
+            <p class="muted" data-i18n="cc.ai.lede">Pick what you want to work on. Meridian AI coaches you with your profile and Meridian's verified data, and keeps it your own voice.</p>
+            <button type="button" class="btn btn-primary" data-ask-ai=""><span data-i18n="cc.ai.open">Open Meridian AI</span></button>
+          </div>
+          <div class="cc-tools" id="ccTools"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section-sm" id="tests">
+      <div class="container-wide">
+        <h2 class="op-h2" data-i18n="cc.tests.title">Self-tests</h2>
+        <p class="muted" data-i18n="cc.tests.lede">Two quick, fun tests to help you think about where and what to study.</p>
+        <div class="cc-tests" id="ccTests"></div>
+      </div>
+    </section>
+
+    <section class="section-sm" id="courses">
+      <div class="container-wide">
+        <h2 class="op-h2" data-i18n="cc.courses.title">Mini-courses</h2>
+        <p class="muted" data-i18n="cc.courses.lede">Short, practical lessons on the documents and skills every application needs.</p>
+        <div class="cc-courses" id="ccCourses"></div>
+      </div>
+    </section>
+
+    <section class="section-sm" id="board">
+      <div class="container-wide" id="ccBoard"></div>
+    </section>
+
+    <section class="section-sm" id="counsellors" style="padding-bottom:var(--space-9)">
+      <div class="container-wide">
+        <div class="spread" style="align-items:end;gap:1rem;flex-wrap:wrap">
+          <div>
+            <h2 class="op-h2" data-i18n="cc.c.title">College counsellors</h2>
+            <p class="muted" data-i18n="cc.c.lede">Counsellors from Meridian's partner schools. Each one is reviewed by our team before joining.</p>
+          </div>
+          <a class="btn btn-outline" href="#join" id="ccJoinBtn" data-i18n="cc.c.join">Join as a counsellor</a>
+        </div>
+        <div class="cc-people" id="ccPeople"></div>
+        <div id="ccJoin"></div>
+      </div>
+    </section>
+
+    <dialog class="cc-dialog" id="ccDialog" aria-label="Course"><div id="ccDialogBody"></div></dialog>
+  </main>
+
+  <div id="footer-root"></div>
+
+  <script src="/js/i18n.js?v=r5"></script>
+  <script src="/js/app.js?v=r5"></script>
+  <script src="/js/counselling.js?v=r5"></script>
+</body>
+</html>

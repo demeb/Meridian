@@ -473,6 +473,25 @@ Lessons are paid per lesson at the tutor's price plus 10%.
 - [ ] Have a native speaker review the Georgian text the agents wrote
 - [ ] Decide when tutor payouts are sent (the `ledger` table already tracks what each tutor is owed)
 
+## Round 5 (30 Oct 2026) — what was added
+
+| Area | Where | Notes |
+|---|---|---|
+| Meridian AI | `backend/assistant.py`, `frontend/js/ai.js` | Chat button on every page. Claude answers through tools that search *our* catalogue (programmes, scholarships, universities, prep), links to Meridian pages, never invents deadlines. Off until `ANTHROPIC_API_KEY` is set (and `anthropic` installed — Python 3.10+). Daily limits: guest 6, Explorer 25, Compass 120, Navigator 300 (`MERIDIAN_AI_*_LIMIT`). Only counts are stored (`ai_usage`). |
+| Universities | `/universities`, `tools/merge_universities.py` | Its own section. QS-ranked list (~1,500) + full profiles with SAT/ACT ranges, IELTS/TOEFL/Duolingo minimums, tuition, aid, scholarships. Sidebar filters with "your scores" → reach / match / likely. Rank shows only on the university's own page. |
+| Excel | `GET /api/saved/universities.xlsx`, `backend/xlsx.py` | One formatted sheet of the student's saved universities (no extra packages). Button in the account page. |
+| College counselling | `/counselling`, `backend/counselling.py` | AI studio, two self-tests (country fit, RIASEC career), mini-courses (CV, Europass, letters, interviews, email, etiquette, personal statement), counsellor sign-up → admin review, partner schools with email lists, a private school board. |
+| Prep materials | `/prep`, `backend/data/prep.json` | Official info and resources for SAT, ACT, IELTS, TOEFL, Duolingo, PTE, Cambridge, AP, IB, GRE, GMAT, Georgian national exams, QU placement. |
+| Programmes | `tools/merge_round5.py` | ~500 live records from the round-5 agents, fact-checked (closed ones archived — e.g. John Locke). Filters: MUN, Erasmus+, Exchange, FLEX, UWC, summer, competitions, startups, youth, volunteering, STEM, trainings. "Near you" highlights from the student's country of residence. |
+| Arabic | `frontend/js/i18n.js` (`ar` block), `tools/i18n/add_keys.py` | Whole interface in EN / KA / AR, right-to-left layout. Programme texts are translated by `tools/apply_translations.py` from `research/round5/translate/out-*.json`. |
+
+Re-run the data steps any time:
+
+```bash
+python3 -X utf8 tools/merge_round5.py        # programmes + universities + prep/courses/quizzes
+python3 -X utf8 tools/apply_translations.py  # Georgian + Arabic texts
+```
+
 ## Hosting — meridiangoal.com on Render
 
 `render.yaml` describes the live site: one Python web service on the Starter

@@ -188,7 +188,57 @@ CREATE TABLE IF NOT EXISTS reports (
     data       TEXT NOT NULL
 );
 
+-- Meridian AI: how many messages each person sent today (counts only, never the text)
+CREATE TABLE IF NOT EXISTS ai_usage (
+    day   TEXT NOT NULL,
+    who   TEXT NOT NULL,
+    count INTEGER NOT NULL DEFAULT 0,
+    PRIMARY KEY (day, who)
+);
+
+-- College counsellors: partner-school staff, added after our review
+CREATE TABLE IF NOT EXISTS counsellors (
+    id           INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_id      INTEGER NOT NULL UNIQUE REFERENCES users(id),
+    school       TEXT NOT NULL,
+    school_domain TEXT,
+    school_id    INTEGER,
+    title        TEXT,
+    bio          TEXT,
+    expertise    TEXT,
+    languages    TEXT,
+    status       TEXT NOT NULL DEFAULT 'pending',
+    created_at   TEXT NOT NULL
+);
+
+-- Partner schools and the student emails they gave us
+CREATE TABLE IF NOT EXISTS schools (
+    id         INTEGER PRIMARY KEY AUTOINCREMENT,
+    name       TEXT NOT NULL UNIQUE,
+    domain     TEXT,
+    created_at TEXT NOT NULL
+);
+CREATE TABLE IF NOT EXISTS school_members (
+    school_id INTEGER NOT NULL REFERENCES schools(id),
+    email     TEXT NOT NULL,
+    PRIMARY KEY (school_id, email)
+);
+
+-- What counsellors post for their own school's students (webinars, projects, news)
+CREATE TABLE IF NOT EXISTS school_posts (
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    school_id     INTEGER NOT NULL REFERENCES schools(id),
+    counsellor_id INTEGER NOT NULL REFERENCES counsellors(id),
+    kind          TEXT NOT NULL,
+    title         TEXT NOT NULL,
+    body          TEXT,
+    link          TEXT,
+    starts_at     TEXT,
+    created_at    TEXT NOT NULL
+);
+
 CREATE INDEX IF NOT EXISTS idx_codes_user ON verification_codes(user_id);
+CREATE INDEX IF NOT EXISTS idx_posts_school ON school_posts(school_id, created_at);
 CREATE INDEX IF NOT EXISTS idx_apps_user ON applications(user_id);
 CREATE INDEX IF NOT EXISTS idx_events_at ON events(at);
 CREATE INDEX IF NOT EXISTS idx_sessions_user ON sessions(user_id);
@@ -931,3 +981,19 @@ def admin_snapshot():
         })
     conn.close()
     return snapshot
+
+
+# ---------------------------------------------------------------- Meridian AI
+def ai_used_today(who):
+    conn = connect()
+    row = conn.execute("SELECT count FROM ai_usage WHERE day = date('now') AND who = ?", (who,)).fetchone()
+    conn.close()
+    return row["count"] if row else 0
+
+
+def ai_count(who):
+    conn = connect()
+    with conn:
+        conn.execute("""INSERT INTO ai_usage (day, who, count) VALUES (date('now'), ?, 1)
+                        ON CONFLICT(day, who) DO UPDATE SET count = count + 1""", (who,))
+    conn.close()

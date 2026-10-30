@@ -8,33 +8,52 @@
   var plans = { free: { monthly: 0, yearly: 0 }, compass: { monthly: 2900, yearly: 29000 }, navigator: { monthly: 7900, yearly: 79000 } };
 
   var ORDER = ['free', 'compass', 'navigator'];
+  /* [key, free, compass, navigator] — a number is a daily allowance; rows
+     starting with 'group' are section headings in the comparison table */
   var FEATURES = [
-    // [key, free, compass, navigator]
+    ['group', 'discover'],
     ['database', 1, 1, 1],
+    ['unis', 1, 1, 1],
+    ['prep', 1, 1, 1],
+    ['courses', 1, 1, 1],
     ['tutors', 1, 1, 1],
     ['save', 1, 1, 1],
+    ['group', 'apply'],
+    ['excel', 1, 1, 1],
+    ['tracker', 0, 1, 1],
     ['shortlist', 0, 1, 1],
     ['alerts', 0, 1, 1],
-    ['tracker', 0, 1, 1],
     ['priority', 0, 1, 1],
+    ['group', 'support'],
+    ['ai', 25, 120, 300],
     ['checkin', 0, 0, 1],
-    ['essay', 0, 0, 1],
-    ['ai', 0, 0, 'soon']
+    ['essay', 0, 0, 1]
   ];
+  var ROWS = FEATURES.filter(function (f) { return f[0] !== 'group'; });
+  var PLAN_ICON = { free: 'compass', compass: 'target', navigator: 'star' };
+
+  function featLabel(f, col) {
+    var v = f[col];
+    return typeof v === 'number' && f[0] === 'ai'
+      ? M.t('pricing.feat.aiN').replace('{n}', v)
+      : M.t('pricing.feat.' + f[0]);
+  }
 
   function priceFor(plan) {
     var minor = plans[plan][cycle];
     if (!minor) return { main: '0', per: M.t('pricing.forever'), note: '' };
+    var day = ((cycle === 'yearly' ? minor / 365 : minor * 12 / 365) / 100).toFixed(2);
     if (cycle === 'yearly') {
       var monthly = minor / 12 / 100;
       return {
         main: (monthly % 1 ? monthly.toFixed(2) : String(monthly)),
         per: M.t('account.month'),
         note: M.t('pricing.billedYearly').replace('{total}', (minor / 100) + ' ₾')
-          .replace('{save}', ((plans[plan].monthly * 12 - minor) / 100) + ' ₾')
+          .replace('{save}', ((plans[plan].monthly * 12 - minor) / 100) + ' ₾'),
+        day: day
       };
     }
-    return { main: String(minor / 100), per: M.t('account.month'), note: M.t('pricing.billedMonthly') };
+    return { main: String(minor / 100), per: M.t('account.month'), note: M.t('pricing.billedMonthly'), day: day };
   }
 
   function card(plan) {
@@ -54,18 +73,20 @@
     }
     // each tier lists only what it adds over the one below it
     var col = ORDER.indexOf(plan) + 1;
-    var included = FEATURES.filter(function (f) { return f[col] && (col === 1 || !f[col - 1]); });
+    var included = ROWS.filter(function (f) { return f[col] && (col === 1 || f[col] !== f[col - 1]); });
     var lead = col > 1 ? '<p class="plan-lead">' + M.t('pricing.everything').replace('{plan}', M.t('pricing.' + ORDER[col - 2] + '.name')) + '</p>' : '';
     return '<article class="plan' + (popular ? ' plan-popular' : '') + (plan === 'navigator' ? ' plan-premium' : '') + '" data-reveal>' +
       (popular ? '<span class="plan-flag">' + M.t('pricing.popular') + '</span>' : '') +
-      '<h3>' + M.t('pricing.' + plan + '.name') + '</h3>' +
+      '<div class="plan-head"><span class="plan-ico">' + M.icon(PLAN_ICON[plan], 22) + '</span>' +
+        '<h3>' + M.t('pricing.' + plan + '.name') + '</h3></div>' +
       '<p class="plan-for">' + M.t('pricing.' + plan + '.for') + '</p>' +
       '<div class="plan-amount"><b>' + price.main + '</b><span class="gel">₾</span><span class="plan-per">' + price.per + '</span></div>' +
       '<p class="plan-note">' + (price.note || '&nbsp;') + '</p>' +
+      (price.day ? '<p class="plan-day">' + M.t('pricing.perDay').replace('{n}', price.day) + '</p>' : '') +
       cta + lead +
       '<ul class="plan-list">' + included.map(function (f) {
         var soon = f[ORDER.indexOf(plan) + 1] === 'soon';
-        return '<li>' + M.icon('check', 17) + '<span>' + M.t('pricing.feat.' + f[0]) +
+        return '<li>' + M.icon('check', 17) + '<span>' + featLabel(f, col) +
           (soon ? ' <span class="badge badge-accent">' + M.t('footer.soon') + '</span>' : '') + '</span></li>';
       }).join('') + '</ul>' +
     '</article>';
@@ -90,8 +111,9 @@
         return '<th>' + M.t('pricing.' + p + '.name') + '</th>';
       }).join('') + '</tr></thead><tbody>' +
       FEATURES.map(function (f) {
+        if (f[0] === 'group') return '<tr class="compare-group"><th colspan="4">' + M.t('pricing.group.' + f[1]) + '</th></tr>';
         return '<tr><th scope="row">' + M.t('pricing.feat.' + f[0]) + '</th>' + f.slice(1).map(function (v) {
-          return '<td>' + cell(v) + '</td>';
+          return '<td>' + (typeof v === 'number' && f[0] === 'ai' ? '<b class="mono">' + v + '</b><small class="dim"> / ' + M.t('pricing.day') + '</small>' : cell(v)) + '</td>';
         }).join('') + '</tr>';
       }).join('') + '</tbody>';
   }

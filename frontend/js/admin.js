@@ -62,6 +62,16 @@
         '<section class="card card-pad-lg"><h2 style="font-size:var(--step-1)">Student applications</h2>' +
         '<p class="muted" style="font-size:.88rem;margin-top:.3rem">Applications students track on Meridian. University files marked <b>review</b> are complete and waiting for the team.</p>' +
         '<div id="appList" style="margin-top:1rem"><div class="skeleton" style="height:60px"></div></div></section>' +
+        '<section class="card card-pad-lg" id="counselling"><h2 style="font-size:var(--step-1)">College counsellors &amp; partner schools</h2>' +
+        '<p class="muted" style="font-size:.88rem;margin-top:.3rem">Approve only counsellors from partner schools. Add a school with its email domain and/or the student emails it gave us — those students then see the school board on <span class="mono">/counselling</span>.</p>' +
+        '<div id="ccAdmin" style="margin-top:1rem"><div class="skeleton" style="height:60px"></div></div>' +
+        '<form id="schoolForm" class="stack" style="gap:.6rem;margin-top:1.2rem;max-width:640px">' +
+          '<b>Add or update a partner school</b>' +
+          '<input class="input" name="name" placeholder="School name" required />' +
+          '<input class="input" name="domain" placeholder="Email domain (optional), e.g. school.edu.ge" />' +
+          '<textarea class="textarea" name="emails" rows="3" placeholder="Student emails, separated by commas or new lines"></textarea>' +
+          '<button class="btn btn-primary btn-sm" type="submit" style="justify-self:start">Save school</button>' +
+        '</form></section>' +
         '<section class="card card-pad-lg" id="discoveries"><h2 style="font-size:var(--step-1)">Discoveries</h2>' +
         '<p class="muted" style="font-size:.88rem;margin-top:.3rem">New programmes found by the research agents. Nothing goes live until you approve it. Run the agents with <span class="mono">python3 tools/agents/discover.py</span>.</p>' +
         '<div id="discoveryList" style="margin-top:1rem"><div class="skeleton" style="height:60px"></div></div></section>' +
@@ -121,6 +131,7 @@
     loadDiscoveries();
     loadReport();
     loadApplications();
+    loadCounselling();
     host.querySelectorAll('[data-view]').forEach(function (button) {
       button.addEventListener('click', function () { showApplication(button.getAttribute('data-view')); });
     });
@@ -167,6 +178,45 @@
         '</div>' +
         (res.past.length ? '<p class="dim" style="margin-top:1rem;font-size:.84rem">Saved reports: ' + res.past.map(function (p) { return p.period_end; }).join(', ') + '</p>' : '');
     });
+  }
+
+  function paintCounselling(res) {
+    var host = document.getElementById('ccAdmin');
+    if (!host || !res.ok) return;
+    var rows = res.counsellors || [];
+    host.innerHTML = (rows.length ? rows.map(function (c) {
+      return '<div class="disc-row"><div class="disc-main"><b>' + M.esc(c.first_name + ' ' + c.last_name) + '</b> ' +
+        '<span class="badge ' + (c.status === 'pending' ? 'badge-accent' : c.status === 'approved' ? 'badge-success' : '') + '">' + M.esc(c.status) + '</span>' +
+        '<p>' + M.esc(c.email) + ' · ' + M.esc((c.title ? c.title + ', ' : '') + c.school) + (c.expertise ? ' · ' + M.esc(c.expertise) : '') + '</p>' +
+        (c.bio ? '<p class="dim">' + M.esc(c.bio) + '</p>' : '') + '</div>' +
+        (c.status === 'pending' ? '<div class="disc-act"><button type="button" class="btn btn-primary btn-sm" data-cc="' + c.id + '/approve">Approve</button>' +
+          '<button type="button" class="btn btn-ghost btn-sm" data-cc="' + c.id + '/reject">Reject</button></div>' : '') +
+      '</div>';
+    }).join('') : '<p class="dim">No counsellor applications yet.</p>') +
+    '<p class="dim" style="margin-top:.8rem;font-size:.84rem">Partner schools: ' + ((res.schools || []).map(function (s) {
+      return M.esc(s.name) + (s.domain ? ' (@' + M.esc(s.domain) + ')' : '') + ' — ' + s.members + ' emails';
+    }).join(' · ') || 'none yet') + '</p>';
+    host.querySelectorAll('[data-cc]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        M.api('/api/admin/counsellors/' + b.getAttribute('data-cc') + '?token=' + encodeURIComponent(token), { method: 'POST' }).then(paintCounselling);
+      });
+    });
+  }
+
+  function loadCounselling() {
+    M.api('/api/admin/counselling?token=' + encodeURIComponent(token)).then(paintCounselling);
+    var form = document.getElementById('schoolForm');
+    if (form && !form._bound) {
+      form._bound = true;
+      form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        M.api('/api/admin/schools?token=' + encodeURIComponent(token), { body: {
+          name: form.name.value, domain: form.domain.value, emails: form.emails.value } }).then(function (res) {
+          if (!res.ok) return M.toast('Could not save the school.', 'error');
+          form.reset(); paintCounselling(res); M.toast('School saved', 'success');
+        });
+      });
+    }
   }
 
   function loadApplications() {

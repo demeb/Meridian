@@ -15,10 +15,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Newsreader:ital,wght@0,400;1,400&family=Noto+Sans+Georgian:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&family=Noto+Kufi+Arabic:wght@600;700&display=swap" />
-  <link rel="stylesheet" href="/css/tokens.css" />
-  <link rel="stylesheet" href="/css/base.css" />
-  <link rel="stylesheet" href="/css/components.css" />
-  <link rel="stylesheet" href="/css/pages.css" />
+  <link rel="stylesheet" href="/css/tokens.css?v=r5" />
+  <link rel="stylesheet" href="/css/base.css?v=r5" />
+  <link rel="stylesheet" href="/css/components.css?v=r5" />
+  <link rel="stylesheet" href="/css/pages.css?v=r5" />
   <script>
     /* Set theme + language before first paint so nothing flashes. */
     (function () {
@@ -34,7 +34,7 @@
       } catch (e) {}
     })();
   </script>
-  <link rel="stylesheet" href="/css/home.css" />
+  <link rel="stylesheet" href="/css/home.css?v=r5" />
   <link rel="preload" as="image" href="/assets/earth/earth-night.jpg" />
   <script>
     /* The intro plays once per visit, and never for people who asked for less motion. */
@@ -51,10 +51,25 @@
   <!-- ================= INTRO ================= -->
   <div class="intro" id="intro" aria-hidden="true">
     <span class="intro-orb"></span>
-    <svg class="intro-sweep" viewBox="0 0 1600 900" preserveAspectRatio="xMinYMax slice" aria-hidden="true">
-      <path class="sw sw-1" pathLength="1" d="M-40 940 C 380 640, 760 520, 1640 420" />
-      <path class="sw sw-2" pathLength="1" d="M-40 980 C 460 760, 900 640, 1640 600" />
-      <path class="sw sw-3" pathLength="1" d="M-60 860 C 300 520, 640 300, 1100 -40" />
+    <svg class="intro-sweep" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+      <defs>
+        <!-- the lines fade out around the logo so they never cross the wordmark -->
+        <radialGradient id="swHole" cx="50%" cy="48%" r="38%">
+          <stop offset="0.45" stop-color="#000"/>
+          <stop offset="1" stop-color="#fff"/>
+        </radialGradient>
+        <mask id="swMask"><rect width="1600" height="900" fill="url(#swHole)"/></mask>
+        <linearGradient id="swGold" x1="0" y1="1" x2="1" y2="0">
+          <stop offset="0" stop-color="#ffd76e" stop-opacity="0"/>
+          <stop offset=".35" stop-color="#ffd76e"/>
+          <stop offset="1" stop-color="#7fc4ff"/>
+        </linearGradient>
+      </defs>
+      <g mask="url(#swMask)">
+        <path class="sw sw-1" pathLength="1" d="M-60 930 C 420 860, 980 820, 1660 560" />
+        <path class="sw sw-2" pathLength="1" d="M-60 990 C 520 940, 1060 900, 1660 720" />
+        <path class="sw sw-3" pathLength="1" d="M-80 800 C 180 600, 340 300, 600 -60" />
+      </g>
     </svg>
     <div class="intro-stage">
       <span class="brand-mark intro-mark">
@@ -194,11 +209,11 @@
 
   <div id="footer-root"></div>
 
-  <script src="/js/i18n.js"></script>
-  <script src="/js/app.js"></script>
-  <script src="/vendor/globe.gl.min.js" defer></script>
-  <script src="/js/earth.js" defer></script>
-  <script src="/js/intro.js"></script>
-  <script src="/js/home.js" defer></script>
+  <script src="/js/i18n.js?v=r5"></script>
+  <script src="/js/app.js?v=r5"></script>
+  <script src="/vendor/globe.gl.min.js?v=r5" defer></script>
+  <script src="/js/earth.js?v=r5" defer></script>
+  <script src="/js/intro.js?v=r5"></script>
+  <script src="/js/home.js?v=r5" defer></script>
 </body>
 </html>

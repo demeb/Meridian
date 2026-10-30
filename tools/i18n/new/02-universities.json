@@ -1,0 +1,157 @@
+{
+ "uni.f.title": {
+  "en": "Filters",
+  "ka": "ფილტრები",
+  "ar": "عوامل التصفية"
+ },
+ "uni.f.scores": {
+  "en": "Your scores",
+  "ka": "შენი ქულები",
+  "ar": "درجاتك"
+ },
+ "uni.f.scoresHint": {
+  "en": "Enter what you have — we show where you fit.",
+  "ka": "შეიყვანე შენი ქულები და გაჩვენებთ, სად ერგები.",
+  "ar": "أدخل درجاتك وسنريك أين تناسبك الفرص."
+ },
+ "uni.f.fitOnly": {
+  "en": "Only where my scores qualify",
+  "ka": "მხოლოდ სადაც ჩემი ქულები საკმარისია",
+  "ar": "فقط حيث تؤهلني درجاتي"
+ },
+ "uni.f.testOptional": {
+  "en": "SAT/ACT optional",
+  "ka": "SAT/ACT არასავალდებულო",
+  "ar": "SAT/ACT اختياري"
+ },
+ "uni.f.where": {
+  "en": "Where",
+  "ka": "სად",
+  "ar": "أين"
+ },
+ "uni.f.money": {
+  "en": "Cost & aid",
+  "ka": "ღირებულება და დახმარება",
+  "ar": "التكلفة والمساعدات"
+ },
+ "uni.f.schol": {
+  "en": "Has scholarships listed",
+  "ka": "აქვს სტიპენდიები",
+  "ar": "لديها منح مدرجة"
+ },
+ "uni.f.more": {
+  "en": "More",
+  "ka": "მეტი",
+  "ar": "المزيد"
+ },
+ "uni.f.admit": {
+  "en": "Acceptance rate",
+  "ka": "მიღების მაჩვენებელი",
+  "ar": "نسبة القبول"
+ },
+ "uni.f.type": {
+  "en": "Type",
+  "ka": "ტიპი",
+  "ar": "النوع"
+ },
+ "uni.f.full": {
+  "en": "Full profiles only",
+  "ka": "მხოლოდ სრული პროფილები",
+  "ar": "الملفات الكاملة فقط"
+ },
+ "uni.sort": {
+  "en": "Sort",
+  "ka": "დალაგება",
+  "ar": "ترتيب"
+ },
+ "uni.view.list": {
+  "en": "List",
+  "ka": "სია",
+  "ar": "قائمة"
+ },
+ "uni.view.map": {
+  "en": "Map",
+  "ka": "რუკა",
+  "ar": "خريطة"
+ },
+ "uni.results": {
+  "en": "universities",
+  "ka": "უნივერსიტეტი",
+  "ar": "جامعة"
+ },
+ "uni.withData": {
+  "en": "with full admission data",
+  "ka": "სრული მისაღები მონაცემებით",
+  "ar": "ببيانات قبول كاملة"
+ },
+ "uni.english": {
+  "en": "English",
+  "ka": "ინგლისური",
+  "ar": "الإنجليزية"
+ },
+ "uni.optional": {
+  "en": "optional",
+  "ka": "არასავალდებულო",
+  "ar": "اختياري"
+ },
+ "uni.notConsidered": {
+  "en": "Not considered",
+  "ka": "არ ითვალისწინებენ",
+  "ar": "لا يُعتمد"
+ },
+ "uni.basicNote": {
+  "en": "QS-ranked · full admission profile coming soon",
+  "ka": "QS რეიტინგში · სრული პროფილი მალე",
+  "ar": "مصنفة في QS · الملف الكامل قريباً"
+ },
+ "uni.fit.likely": {
+  "en": "Likely",
+  "ka": "სავარაუდო",
+  "ar": "مرجّح"
+ },
+ "uni.fit.match": {
+  "en": "Match",
+  "ka": "შესაფერისი",
+  "ar": "مناسب"
+ },
+ "uni.fit.reach": {
+  "en": "Reach",
+  "ka": "ამბიციური",
+  "ar": "طموح"
+ },
+ "uni.fit.english": {
+  "en": "English ✓",
+  "ka": "ინგლისური ✓",
+  "ar": "الإنجليزية ✓"
+ },
+ "uni.fit.englishShort": {
+  "en": "English score short",
+  "ka": "ინგლისურის ქულა არ კმარა",
+  "ar": "درجة الإنجليزية غير كافية"
+ },
+ "uni.save": {
+  "en": "Save to my list",
+  "ka": "ჩემს სიაში შენახვა",
+  "ar": "احفظ في قائمتي"
+ },
+ "uni.saved": {
+  "en": "Saved to your list",
+  "ka": "შენახულია შენს სიაში",
+  "ar": "تم الحفظ في قائمتك"
+ },
+ "uni.unsaved": {
+  "en": "Removed from your list",
+  "ka": "ამოღებულია სიიდან",
+  "ar": "أُزيلت من قائمتك"
+ },
+ "uni.title": {
+  "en": "Find the university that fits you",
+  "ka": "იპოვე შენთვის შესაფერისი უნივერსიტეტი",
+  "ar": "اعثر على الجامعة التي تناسبك"
+ },
+ "uni.lede": {
+  "en": "QS-ranked universities worldwide. Enter your SAT and English scores to see where you fit, compare costs and aid, and save your list.",
+  "ka": "QS-ის რეიტინგის უნივერსიტეტები მთელი მსოფლიოდან. შეიყვანე SAT და ინგლისურის ქულები, ნახე სად ერგები, შეადარე ფასები და დახმარება და შეინახე შენი სია.",
+  "ar": "جامعات مصنفة في QS حول العالم. أدخل درجات SAT واللغة الإنجليزية لترى أين تناسبك، وقارن التكاليف والمساعدات، واحفظ قائمتك."
+ }
+}

@@ -1,0 +1,2141 @@
+{
+  "verified_at": "2026-10-30",
+  "exams": [
+    {
+      "id": "sat",
+      "name": "SAT",
+      "by": "College Board",
+      "what": {
+        "en": "The main US university admission test, now fully digital. Many US universities are test-optional, but a strong score still helps for selective schools, scholarships and some universities in Qatar, the Gulf and Europe.",
+        "ka": "აშშ-ის უნივერსიტეტებში მისაღები მთავარი ტესტი, რომელიც ახლა სრულად ციფრულია. ბევრი ამერიკული უნივერსიტეტი ტესტს სავალდებულოდ აღარ ითხოვს, მაგრამ მაღალი ქულა მაინც გეხმარება რჩეულ უნივერსიტეტებში, სტიპენდიებისთვის და კატარის, ყურის ქვეყნებისა და ევროპის ზოგიერთ უნივერსიტეტში.",
+        "ar": "اختبار القبول الرئيسي في الجامعات الأمريكية، وأصبح الآن رقمياً بالكامل. كثير من الجامعات الأمريكية لم تعد تشترطه، لكن الدرجة العالية تبقى مفيدة للجامعات التنافسية والمنح وبعض الجامعات في قطر والخليج وأوروبا."
+      },
+      "format": {
+        "en": "Two sections taken in the Bluebook app: Reading and Writing (2 modules, 54 questions, 64 min) and Math (2 modules, 44 questions, 70 min); about 2 h 14 min plus a 10-min break. The test is adaptive by module: how you do on module 1 sets the difficulty of module 2. A Desmos graphing calculator is built in. Score 400–1600 (200–800 per section).",
+        "ka": "ორი ნაწილი, რომელსაც Bluebook აპლიკაციაში აბარებ: Reading and Writing (2 მოდული, 54 კითხვა, 64 წთ) და Math (2 მოდული, 44 კითხვა, 70 წთ); სულ დაახლოებით 2 სთ 14 წთ და 10-წუთიანი შესვენება. ტესტი მოდულების მიხედვით ადაპტირდება: პირველ მოდულში შედეგი მეორის სირთულეს განსაზღვრავს. ჩაშენებულია Desmos-ის გრაფიკული კალკულატორი. ქულა 400–1600 (თითო ნაწილი 200–800).",
+        "ar": "قسمان يُؤدّيان عبر تطبيق Bluebook: القراءة والكتابة (وحدتان، 54 سؤالاً، 64 دقيقة) والرياضيات (وحدتان، 44 سؤالاً، 70 دقيقة)؛ نحو ساعتين و14 دقيقة مع استراحة 10 دقائق. الاختبار تكيّفي حسب الوحدة: أداؤك في الوحدة الأولى يحدد صعوبة الثانية. توجد حاسبة Desmos البيانية داخل التطبيق. الدرجة من 400 إلى 1600 (200–800 لكل قسم)."
+      },
+      "dates": {
+        "en": "Seven weekend dates a year worldwide. 2026–27: 7 Nov 2026 (registration now closed), 5 Dec 2026 (by 20 Nov), 6 Mar 2027 (by 19 Feb), 1 May 2027 (by 16 Apr), 5 Jun 2027 (by 21 May). Anticipated 2027–28: 28 Aug, 18 Sep, 9 Oct, 6 Nov, 4 Dec 2027; 4 Mar, 6 May, 3 Jun 2028. Late registration closes about 4 days after the regular deadline. Scores arrive in about 2 weeks.",
+        "ka": "წელიწადში შვიდი შაბათ-კვირის თარიღი მთელ მსოფლიოში. 2026–27: 2026 წლის 7 ნოემბერი (რეგისტრაცია დასრულდა), 5 დეკემბერი (20 ნოემბრამდე), 2027 წლის 6 მარტი (19 თებერვლამდე), 1 მაისი (16 აპრილამდე), 5 ივნისი (21 მაისამდე). 2027–28 სავარაუდო თარიღები: 2027 წლის 28 აგვისტო, 18 სექტემბერი, 9 ოქტომბერი, 6 ნოემბერი, 4 დეკემბერი; 2028 წლის 4 მარტი, 6 მაისი, 3 ივნისი. დაგვიანებული რეგისტრაცია ჩვეულებრივი ვადიდან დაახლოებით 4 დღეში იხურება. შედეგები დაახლოებით 2 კვირაში მოდის.",
+        "ar": "سبعة مواعيد سنوياً في عطلات نهاية الأسبوع حول العالم. 2026–27: 7 نوفمبر 2026 (انتهى التسجيل)، 5 ديسمبر 2026 (حتى 20 نوفمبر)، 6 مارس 2027 (حتى 19 فبراير)، 1 مايو 2027 (حتى 16 أبريل)، 5 يونيو 2027 (حتى 21 مايو). المواعيد المتوقعة لعام 2027–28: 28 أغسطس، 18 سبتمبر، 9 أكتوبر، 6 نوفمبر، 4 ديسمبر 2027؛ 4 مارس، 6 مايو، 3 يونيو 2028. يُغلق التسجيل المتأخر بعد الموعد العادي بنحو 4 أيام، وتصدر النتائج خلال أسبوعين تقريباً."
+      },
+      "cost": "USD 68 + USD 43 international fee = USD 111 outside the US (late registration +USD 38; some centres add USD 24). Fees valid through June 2027.",
+      "register_url": "https://satsuite.collegeboard.org/sat/registration",
+      "resources": [
+        {
+          "title": {
+            "en": "Bluebook: the official testing and practice app",
+            "ka": "Bluebook — ოფიციალური სატესტო და სავარჯიშო აპლიკაცია",
+            "ar": "Bluebook: التطبيق الرسمي للاختبار والتدريب"
+          },
+          "kind": "app",
+          "provider": "College Board",
+          "url": "https://bluebook.collegeboard.org/",
+          "free": true,
+          "note": {
+            "en": "Install it early: you take the real test in it, and it holds the full-length adaptive practice tests.",
+            "ka": "დააინსტალირე წინასწარ: ნამდვილ ტესტსაც მასში აბარებ და მასშივეა სრული ადაპტური სავარჯიშო ტესტები.",
+            "ar": "ثبّته مبكراً: فيه تؤدي الاختبار الحقيقي، وفيه اختبارات تدريبية تكيّفية كاملة."
+          }
+        },
+        {
+          "title": {
+            "en": "Full-length SAT practice tests",
+            "ka": "SAT-ის სრული სავარჯიშო ტესტები",
+            "ar": "اختبارات SAT تدريبية كاملة"
+          },
+          "kind": "practice-test",
+          "provider": "College Board",
+          "url": "https://satsuite.collegeboard.org/practice/practice-tests",
+          "free": true,
+          "note": {
+            "en": "Official adaptive practice tests with answer explanations. Take one at the start to get a baseline, then one every 2–3 weeks.",
+            "ka": "ოფიციალური ადაპტური ტესტები პასუხების განმარტებით. დასაწყისში ერთი ჩააბარე საწყისი დონის გასაგებად, შემდეგ — ყოველ 2–3 კვირაში.",
+            "ar": "اختبارات تكيّفية رسمية مع شرح الإجابات. أدِّ واحداً في البداية لمعرفة مستواك، ثم واحداً كل أسبوعين إلى ثلاثة."
+          }
+        },
+        {
+          "title": {
+            "en": "Official Digital SAT Prep on Khan Academy",
+            "ka": "Official Digital SAT Prep — Khan Academy",
+            "ar": "التحضير الرسمي لـ SAT الرقمي على Khan Academy"
+          },
+          "kind": "course",
+          "provider": "Khan Academy",
+          "url": "https://www.khanacademy.org/test-prep/digital-sat",
+          "free": true,
+          "note": {
+            "en": "College Board's official free course: lessons and practice for every skill on the test.",
+            "ka": "College Board-ის ოფიციალური უფასო კურსი: გაკვეთილები და სავარჯიშოები ტესტის ყველა უნარზე.",
+            "ar": "الدورة المجانية الرسمية بالشراكة مع College Board: دروس وتمارين لكل مهارة في الاختبار."
+          }
+        },
+        {
+          "title": {
+            "en": "SAT Suite Question Bank",
+            "ka": "SAT Suite-ის კითხვების ბანკი",
+            "ar": "بنك أسئلة SAT Suite"
+          },
+          "kind": "practice-test",
+          "provider": "College Board",
+          "url": "https://satsuitequestionbank.collegeboard.org/",
+          "free": true,
+          "note": {
+            "en": "Thousands of official questions you can filter by skill and difficulty; ideal for drilling weak areas.",
+            "ka": "ათასობით ოფიციალური კითხვა, რომლებიც უნარისა და სირთულის მიხედვით იფილტრება; სუსტი თემების სავარჯიშოდ იდეალურია.",
+            "ar": "آلاف الأسئلة الرسمية يمكن تصفيتها حسب المهارة والصعوبة؛ مثالية للتدرّب على نقاط الضعف."
+          }
+        },
+        {
+          "title": {
+            "en": "Official SAT Question of the Day",
+            "ka": "SAT-ის დღის კითხვა (ოფიციალური)",
+            "ar": "سؤال اليوم الرسمي لـ SAT"
+          },
+          "kind": "practice-test",
+          "provider": "College Board",
+          "url": "https://qotd.collegeboard.org/",
+          "free": true,
+          "note": {
+            "en": "One official question a day: a painless habit for busy weeks.",
+            "ka": "დღეში ერთი ოფიციალური კითხვა — მარტივი ჩვევა დატვირთული კვირებისთვის.",
+            "ar": "سؤال رسمي واحد يومياً: عادة سهلة في الأسابيع المزدحمة."
+          }
+        },
+        {
+          "title": {
+            "en": "What's on the SAT",
+            "ka": "რა არის SAT-ში",
+            "ar": "محتوى اختبار SAT"
+          },
+          "kind": "official",
+          "provider": "College Board",
+          "url": "https://satsuite.collegeboard.org/sat/whats-on-the-test",
+          "free": true,
+          "note": {
+            "en": "The official breakdown of every question type and content area.",
+            "ka": "ყველა ტიპის კითხვისა და თემის ოფიციალური აღწერა.",
+            "ar": "الشرح الرسمي لكل نوع من الأسئلة ومجالات المحتوى."
+          }
+        },
+        {
+          "title": {
+            "en": "Desmos graphing calculator",
+            "ka": "Desmos-ის გრაფიკული კალკულატორი",
+            "ar": "حاسبة Desmos البيانية"
+          },
+          "kind": "app",
+          "provider": "Desmos",
+          "url": "https://www.desmos.com/calculator",
+          "free": true,
+          "note": {
+            "en": "The same calculator is built into Bluebook. Learning to graph equations in it solves many math questions in seconds.",
+            "ka": "იგივე კალკულატორი ჩაშენებულია Bluebook-ში. თუ ისწავლი მასში განტოლებების გრაფიკის აგებას, ბევრ ამოცანას წამებში ამოხსნი.",
+            "ar": "الحاسبة نفسها مدمجة في Bluebook. تعلّم رسم المعادلات فيها يحلّ كثيراً من مسائل الرياضيات في ثوانٍ."
+          }
+        },
+        {
+          "title": {
+            "en": "Scalar Learning",
+            "ka": "Scalar Learning",
+            "ar": "Scalar Learning"
+          },
+          "kind": "video",
+          "provider": "YouTube: Scalar Learning",
+          "url": "https://www.youtube.com/@ScalarLearning",
+          "free": true,
+          "note": {
+            "en": "Large free library of SAT math walkthroughs and Desmos tricks.",
+            "ka": "SAT-ის მათემატიკის ამოხსნებისა და Desmos-ის ხრიკების დიდი უფასო ბიბლიოთეკა.",
+            "ar": "مكتبة مجانية كبيرة لشرح مسائل رياضيات SAT وحيل Desmos."
+          }
+        },
+        {
+          "title": {
+            "en": "SupertutorTV",
+            "ka": "SupertutorTV",
+            "ar": "SupertutorTV"
+          },
+          "kind": "video",
+          "provider": "YouTube: SupertutorTV",
+          "url": "https://www.youtube.com/@SupertutorTV",
+          "free": true,
+          "note": {
+            "en": "Strategy videos for the digital SAT and ACT, including reading and grammar rules.",
+            "ka": "სტრატეგიული ვიდეოები ციფრული SAT-ისა და ACT-ისთვის, მათ შორის კითხვისა და გრამატიკის წესები.",
+            "ar": "فيديوهات استراتيجية لـ SAT الرقمي وACT، تشمل القراءة وقواعد اللغة."
+          }
+        },
+        {
+          "title": {
+            "en": "The Princeton Review",
+            "ka": "The Princeton Review",
+            "ar": "The Princeton Review"
+          },
+          "kind": "video",
+          "provider": "YouTube: The Princeton Review",
+          "url": "https://www.youtube.com/@ThePrincetonReview",
+          "free": true,
+          "note": {
+            "en": "Short test-strategy videos and admissions advice from a well-known prep company.",
+            "ka": "მოკლე სტრატეგიული ვიდეოები და მიღების რჩევები ცნობილი მოსამზადებელი კომპანიისგან.",
+            "ar": "فيديوهات قصيرة عن استراتيجيات الاختبار ونصائح القبول من شركة تحضير معروفة."
+          }
+        }
+      ]
+    },
+    {
+      "id": "act",
+      "name": "ACT",
+      "by": "ACT, Inc.",
+      "what": {
+        "en": "The other US admission test, accepted by every US university that accepts the SAT. Outside the US it is taken on computer at test centres. Choose it if you like a faster pace and straightforward questions.",
+        "ka": "აშშ-ის მეორე მისაღები ტესტი, რომელსაც იღებს ყველა ამერიკული უნივერსიტეტი, რომელიც SAT-ს იღებს. აშშ-ის გარეთ მას კომპიუტერზე, სატესტო ცენტრში აბარებენ. აირჩიე, თუ სწრაფი ტემპი და პირდაპირი კითხვები გირჩევნია.",
+        "ar": "الاختبار الأمريكي الآخر للقبول، وتقبله كل جامعة أمريكية تقبل SAT. خارج الولايات المتحدة يُؤدّى على الحاسوب في مراكز الاختبار. اختره إذا كنت تفضّل الإيقاع السريع والأسئلة المباشرة."
+      },
+      "format": {
+        "en": "English (50 questions, 35 min), Math (45 questions, 50 min) and Reading (36 questions, 40 min) make the composite score of 1–36 (about 2 h 5 min). Science (40 questions, 40 min) and Writing (essay, 40 min) are optional add-ons; check whether your universities want them.",
+        "ka": "English (50 კითხვა, 35 წთ), Math (45 კითხვა, 50 წთ) და Reading (36 კითხვა, 40 წთ) ქმნის საერთო ქულას 1–36 (დაახლოებით 2 სთ 5 წთ). Science (40 კითხვა, 40 წთ) და Writing (ესე, 40 წთ) არჩევითი დამატებებია; გადაამოწმე, ითხოვენ თუ არა მათ შენი უნივერსიტეტები.",
+        "ar": "الإنجليزية (50 سؤالاً، 35 دقيقة) والرياضيات (45 سؤالاً، 50 دقيقة) والقراءة (36 سؤالاً، 40 دقيقة) تشكّل الدرجة المركّبة من 1 إلى 36 (نحو ساعتين و5 دقائق). العلوم (40 سؤالاً، 40 دقيقة) والكتابة (مقال، 40 دقيقة) إضافات اختيارية؛ تحقق إن كانت جامعاتك تطلبها."
+      },
+      "dates": {
+        "en": "International dates 2026–27: 11–12 Dec 2026 (register by 13 Nov), 12–13 Feb 2027 (by 15 Jan), 2–3 Apr 2027 (by 5 Mar), 11–12 Jun 2027 (by 14 May), 9–10 Jul 2027 (by 11 Jun). First scores about 6 days after the test.",
+        "ka": "საერთაშორისო თარიღები 2026–27: 2026 წლის 11–12 დეკემბერი (რეგისტრაცია 13 ნოემბრამდე), 2027 წლის 12–13 თებერვალი (15 იანვრამდე), 2–3 აპრილი (5 მარტამდე), 11–12 ივნისი (14 მაისამდე), 9–10 ივლისი (11 ივნისამდე). პირველი ქულები ტესტიდან დაახლოებით 6 დღეში ჩნდება.",
+        "ar": "المواعيد الدولية 2026–27: 11–12 ديسمبر 2026 (التسجيل حتى 13 نوفمبر)، 12–13 فبراير 2027 (حتى 15 يناير)، 2–3 أبريل 2027 (حتى 5 مارس)، 11–12 يونيو 2027 (حتى 14 مايو)، 9–10 يوليو 2027 (حتى 11 يونيو). تظهر الدرجات الأولى بعد نحو 6 أيام من الاختبار."
+      },
+      "cost": "International: USD 188.50 (with Science 198.50, with Writing 213.50, both 223.50); late fee USD 42; date/centre change USD 49.",
+      "register_url": "https://global.act.org/content/global/en/products-and-services/the-act-non-us/registration.html",
+      "resources": [
+        {
+          "title": {
+            "en": "The ACT for students outside the US",
+            "ka": "ACT აშშ-ის გარეთ მცხოვრები სტუდენტებისთვის",
+            "ar": "اختبار ACT للطلاب خارج الولايات المتحدة"
+          },
+          "kind": "official",
+          "provider": "ACT",
+          "url": "https://global.act.org/content/global/en/products-and-services/the-act-non-us.html",
+          "free": true,
+          "note": {
+            "en": "Official international page: test centres, ID rules, dates and score sending.",
+            "ka": "ოფიციალური საერთაშორისო გვერდი: სატესტო ცენტრები, პირადობის წესები, თარიღები და ქულების გაგზავნა.",
+            "ar": "الصفحة الدولية الرسمية: المراكز وقواعد الهوية والمواعيد وإرسال الدرجات."
+          }
+        },
+        {
+          "title": {
+            "en": "International test dates",
+            "ka": "საერთაშორისო თარიღები",
+            "ar": "المواعيد الدولية"
+          },
+          "kind": "official",
+          "provider": "ACT",
+          "url": "https://global.act.org/content/global/en/products-and-services/the-act-non-us/international-cbt.html",
+          "free": true,
+          "note": {
+            "en": "All deadlines, late-fee dates and score release dates in one table.",
+            "ka": "ყველა ვადა, დაგვიანების საფასურის თარიღი და შედეგების გამოქვეყნების დღე ერთ ცხრილში.",
+            "ar": "كل المواعيد النهائية وتواريخ الرسوم المتأخرة وصدور الدرجات في جدول واحد."
+          }
+        },
+        {
+          "title": {
+            "en": "Free ACT test prep",
+            "ka": "ACT-ის უფასო მომზადება",
+            "ar": "التحضير المجاني لـ ACT"
+          },
+          "kind": "practice-test",
+          "provider": "ACT",
+          "url": "https://www.act.org/content/act/en/products-and-services/the-act/test-preparation/free-act-test-prep.html",
+          "free": true,
+          "note": {
+            "en": "Official free practice test and sample questions for every section.",
+            "ka": "ოფიციალური უფასო სავარჯიშო ტესტი და ნიმუშები ყველა ნაწილისთვის.",
+            "ar": "اختبار تدريبي رسمي مجاني وأسئلة نموذجية لكل قسم."
+          }
+        },
+        {
+          "title": {
+            "en": "Official ACT test preparation (incl. Official Prep Guide)",
+            "ka": "ACT-ის ოფიციალური მომზადება (Official Prep Guide-ის ჩათვლით)",
+            "ar": "التحضير الرسمي لـ ACT (بما فيه الدليل الرسمي)"
+          },
+          "kind": "book",
+          "provider": "ACT",
+          "url": "https://www.act.org/content/act/en/products-and-services/the-act/test-preparation.html",
+          "free": false,
+          "note": {
+            "en": "The Official ACT Prep Guide contains real past tests: the best paid resource if you buy only one book.",
+            "ka": "Official ACT Prep Guide ნამდვილ წინა წლების ტესტებს შეიცავს — საუკეთესო ფასიანი რესურსი, თუ მხოლოდ ერთ წიგნს იყიდი.",
+            "ar": "يحتوي الدليل الرسمي على اختبارات حقيقية سابقة: أفضل مصدر مدفوع إن اشتريت كتاباً واحداً."
+          }
+        },
+        {
+          "title": {
+            "en": "Khan Academy Math",
+            "ka": "Khan Academy — მათემატიკა",
+            "ar": "الرياضيات على Khan Academy"
+          },
+          "kind": "course",
+          "provider": "Khan Academy",
+          "url": "https://www.khanacademy.org/math",
+          "free": true,
+          "note": {
+            "en": "Free lessons from algebra to trigonometry, which covers almost all ACT math.",
+            "ka": "უფასო გაკვეთილები ალგებრიდან ტრიგონომეტრიამდე — თითქმის მთელი ACT-ის მათემატიკა.",
+            "ar": "دروس مجانية من الجبر إلى المثلثات، تغطي تقريباً كل رياضيات ACT."
+          }
+        },
+        {
+          "title": {
+            "en": "SupertutorTV",
+            "ka": "SupertutorTV",
+            "ar": "SupertutorTV"
+          },
+          "kind": "video",
+          "provider": "YouTube: SupertutorTV",
+          "url": "https://www.youtube.com/@SupertutorTV",
+          "free": true,
+          "note": {
+            "en": "Detailed ACT strategy and full practice-test walkthroughs.",
+            "ka": "დეტალური ACT სტრატეგიები და სრული სავარჯიშო ტესტების განხილვა.",
+            "ar": "استراتيجيات مفصّلة لـ ACT وشرح كامل لاختبارات تدريبية."
+          }
+        },
+        {
+          "title": {
+            "en": "Kaplan Test Prep",
+            "ka": "Kaplan Test Prep",
+            "ar": "Kaplan Test Prep"
+          },
+          "kind": "video",
+          "provider": "YouTube: KaplanTestPrep",
+          "url": "https://www.youtube.com/@KaplanTestPrep",
+          "free": true,
+          "note": {
+            "en": "Free strategy sessions and question walkthroughs from Kaplan.",
+            "ka": "Kaplan-ის უფასო სტრატეგიული სესიები და კითხვების განხილვა.",
+            "ar": "جلسات استراتيجية مجانية وشرح أسئلة من Kaplan."
+          }
+        },
+        {
+          "title": {
+            "en": "The Princeton Review",
+            "ka": "The Princeton Review",
+            "ar": "The Princeton Review"
+          },
+          "kind": "video",
+          "provider": "YouTube: The Princeton Review",
+          "url": "https://www.youtube.com/@ThePrincetonReview",
+          "free": true,
+          "note": {
+            "en": "Quick tips on ACT vs SAT, timing and pacing.",
+            "ka": "სწრაფი რჩევები: ACT თუ SAT, დროისა და ტემპის მართვა.",
+            "ar": "نصائح سريعة: ACT أم SAT، وإدارة الوقت والإيقاع."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ielts",
+      "name": "IELTS Academic",
+      "by": "British Council, IDP and Cambridge University Press & Assessment",
+      "what": {
+        "en": "The most widely accepted English test for universities in the UK, Europe, Australia, Canada, Qatar and the Gulf. Most universities ask for an overall 6.0–7.0 with no skill below 5.5–6.5.",
+        "ka": "ინგლისური ენის ყველაზე აღიარებული ტესტი დიდი ბრიტანეთის, ევროპის, ავსტრალიის, კანადის, კატარისა და ყურის ქვეყნების უნივერსიტეტებისთვის. უმეტესობა ითხოვს საერთო ქულას 6.0–7.0, თითოეულ უნარში არანაკლებ 5.5–6.5-ისა.",
+        "ar": "اختبار اللغة الإنجليزية الأوسع قبولاً في جامعات بريطانيا وأوروبا وأستراليا وكندا وقطر والخليج. تطلب معظم الجامعات درجة إجمالية من 6.0 إلى 7.0 دون أن تقل أي مهارة عن 5.5–6.5."
+      },
+      "format": {
+        "en": "Listening (30 min, 40 questions), Reading (60 min, 40 questions), Writing (60 min: a graph/chart description and an essay) and Speaking (11–14 min, face to face with an examiner, sometimes on another day). About 2 h 45 min. Bands 0–9 in half steps. On paper or on computer at a centre; computer results arrive in about 3–5 days.",
+        "ka": "Listening (30 წთ, 40 კითხვა), Reading (60 წთ, 40 კითხვა), Writing (60 წთ: გრაფიკის/დიაგრამის აღწერა და ესე) და Speaking (11–14 წთ, პირისპირ გამომცდელთან, ზოგჯერ სხვა დღეს). სულ დაახლოებით 2 სთ 45 წთ. ქულა 0–9, ნახევარქულიანი ბიჯით. ქაღალდზე ან კომპიუტერზე ცენტრში; კომპიუტერული ტესტის შედეგები დაახლოებით 3–5 დღეში მოდის.",
+        "ar": "الاستماع (30 دقيقة، 40 سؤالاً) والقراءة (60 دقيقة، 40 سؤالاً) والكتابة (60 دقيقة: وصف رسم بياني ومقال) والمحادثة (11–14 دقيقة وجهاً لوجه مع ممتحن، أحياناً في يوم آخر). نحو ساعتين و45 دقيقة. الدرجات من 0 إلى 9 بأنصاف الدرجات. ورقياً أو على الحاسوب في المركز؛ نتائج الحاسوب خلال 3–5 أيام تقريباً."
+      },
+      "dates": {
+        "en": "Computer-delivered IELTS runs several times a week in Tbilisi, Batumi, Doha and most big cities; paper tests up to four times a month. Book 3–6 weeks ahead in busy seasons (spring and summer). Universities usually accept results up to 2 years old.",
+        "ka": "კომპიუტერული IELTS კვირაში რამდენჯერმე ტარდება თბილისში, ბათუმში, დოჰასა და დიდ ქალაქებში; ქაღალდის ტესტი — თვეში ოთხჯერამდე. დატვირთულ სეზონებში (გაზაფხული და ზაფხული) 3–6 კვირით ადრე დაჯავშნე. უნივერსიტეტები, როგორც წესი, 2 წლამდე ძველ შედეგებს იღებენ.",
+        "ar": "يُعقد IELTS على الحاسوب عدة مرات أسبوعياً في تبليسي وباتومي والدوحة ومعظم المدن الكبرى، والورقي حتى أربع مرات شهرياً. احجز قبل 3–6 أسابيع في المواسم المزدحمة (الربيع والصيف). تقبل الجامعات عادةً النتائج حتى عمر سنتين."
+      },
+      "cost": "Set by country: about GEL 760 in Georgia and about QAR 1,290–1,390 in Qatar (2026 listings on ielts.org); check the exact price when booking.",
+      "register_url": "https://ielts.org/take-a-test/booking-your-test",
+      "resources": [
+        {
+          "title": {
+            "en": "IELTS Academic test format",
+            "ka": "IELTS Academic-ის ფორმატი",
+            "ar": "صيغة اختبار IELTS Academic"
+          },
+          "kind": "official",
+          "provider": "IELTS",
+          "url": "https://ielts.org/take-a-test/test-types/ielts-academic-test",
+          "free": true,
+          "note": {
+            "en": "The official description of each section, with timings and task types.",
+            "ka": "თითოეული ნაწილის ოფიციალური აღწერა დროითა და დავალების ტიპებით.",
+            "ar": "الوصف الرسمي لكل قسم مع التوقيت وأنواع المهام."
+          }
+        },
+        {
+          "title": {
+            "en": "Official sample test questions",
+            "ka": "ოფიციალური ნიმუში კითხვები",
+            "ar": "أسئلة نموذجية رسمية"
+          },
+          "kind": "practice-test",
+          "provider": "IELTS",
+          "url": "https://ielts.org/take-a-test/preparation-resources/sample-test-questions",
+          "free": true,
+          "note": {
+            "en": "Free sample papers for all four skills, with answers. Do them under real timing.",
+            "ka": "უფასო ნიმუშები ოთხივე უნარისთვის, პასუხებით. გააკეთე ნამდვილი დროის დაცვით.",
+            "ar": "نماذج مجانية للمهارات الأربع مع الإجابات. حلّها بالتوقيت الحقيقي."
+          }
+        },
+        {
+          "title": {
+            "en": "IELTS preparation resources hub",
+            "ka": "IELTS-ის მოსამზადებელი რესურსები",
+            "ar": "مركز موارد التحضير لـ IELTS"
+          },
+          "kind": "official",
+          "provider": "IELTS",
+          "url": "https://ielts.org/take-a-test/preparation-resources",
+          "free": true,
+          "note": {
+            "en": "All official free and paid prep from the three test partners in one place.",
+            "ka": "სამივე პარტნიორის ყველა ოფიციალური უფასო და ფასიანი რესურსი ერთ ადგილას.",
+            "ar": "كل موارد التحضير الرسمية المجانية والمدفوعة من الشركاء الثلاثة في مكان واحد."
+          }
+        },
+        {
+          "title": {
+            "en": "Road to IELTS",
+            "ka": "Road to IELTS",
+            "ar": "Road to IELTS"
+          },
+          "kind": "course",
+          "provider": "British Council",
+          "url": "https://www.roadtoielts.com/",
+          "free": true,
+          "note": {
+            "en": "British Council's online course: the free version includes practice activities, videos and mock tests.",
+            "ka": "British Council-ის ონლაინ კურსი: უფასო ვერსიაში არის სავარჯიშოები, ვიდეოები და საცდელი ტესტები.",
+            "ar": "دورة British Council عبر الإنترنت: النسخة المجانية فيها تمارين وفيديوهات واختبارات تجريبية."
+          }
+        },
+        {
+          "title": {
+            "en": "IDP IELTS preparation",
+            "ka": "IDP IELTS — მომზადება",
+            "ar": "التحضير مع IDP IELTS"
+          },
+          "kind": "practice-test",
+          "provider": "IDP",
+          "url": "https://ielts.idp.com/prepare",
+          "free": true,
+          "note": {
+            "en": "Free practice tests, webinars and band-score tips from IDP.",
+            "ka": "IDP-ის უფასო სავარჯიშო ტესტები, ვებინარები და რჩევები ქულის ასამაღლებლად.",
+            "ar": "اختبارات تدريبية وندوات مجانية ونصائح لرفع الدرجة من IDP."
+          }
+        },
+        {
+          "title": {
+            "en": "LearnEnglish",
+            "ka": "LearnEnglish",
+            "ar": "LearnEnglish"
+          },
+          "kind": "course",
+          "provider": "British Council",
+          "url": "https://learnenglish.britishcouncil.org/",
+          "free": true,
+          "note": {
+            "en": "Free grammar, vocabulary and skills practice to build your general level before exam technique.",
+            "ka": "უფასო გრამატიკა, ლექსიკა და უნარების სავარჯიშოები ზოგადი დონის ასამაღლებლად, სანამ გამოცდის ტექნიკაზე გადახვალ.",
+            "ar": "تمارين مجانية في القواعد والمفردات والمهارات لرفع مستواك العام قبل تقنيات الاختبار."
+          }
+        },
+        {
+          "title": {
+            "en": "Write & Improve",
+            "ka": "Write & Improve",
+            "ar": "Write & Improve"
+          },
+          "kind": "app",
+          "provider": "Cambridge",
+          "url": "https://writeandimprove.com/",
+          "free": true,
+          "note": {
+            "en": "Free instant feedback on your essays; useful for IELTS Writing Task 2.",
+            "ka": "უფასო მყისიერი შეფასება შენს ესეებზე; სასარგებლოა IELTS Writing Task 2-ისთვის.",
+            "ar": "تقييم فوري مجاني لمقالاتك؛ مفيد للمهمة الثانية في الكتابة."
+          }
+        },
+        {
+          "title": {
+            "en": "IELTS Official",
+            "ka": "IELTS Official",
+            "ar": "IELTS Official"
+          },
+          "kind": "video",
+          "provider": "YouTube: IELTS Official",
+          "url": "https://www.youtube.com/@IELTSofficial",
+          "free": true,
+          "note": {
+            "en": "Official videos on test day, speaking tests and common mistakes.",
+            "ka": "ოფიციალური ვიდეოები გამოცდის დღეზე, Speaking-ზე და გავრცელებულ შეცდომებზე.",
+            "ar": "فيديوهات رسمية عن يوم الاختبار والمحادثة والأخطاء الشائعة."
+          }
+        },
+        {
+          "title": {
+            "en": "E2 IELTS",
+            "ka": "E2 IELTS",
+            "ar": "E2 IELTS"
+          },
+          "kind": "video",
+          "provider": "YouTube: E2 IELTS",
+          "url": "https://www.youtube.com/@E2IELTS",
+          "free": true,
+          "note": {
+            "en": "Clear lessons on every task type, many taught by former examiners.",
+            "ka": "გასაგები გაკვეთილები ყველა ტიპის დავალებაზე, ბევრი მათგანი ყოფილი გამომცდელებისგან.",
+            "ar": "دروس واضحة لكل نوع من المهام، كثير منها يقدمه ممتحنون سابقون."
+          }
+        },
+        {
+          "title": {
+            "en": "IELTS Liz",
+            "ka": "IELTS Liz",
+            "ar": "IELTS Liz"
+          },
+          "kind": "video",
+          "provider": "YouTube: IELTS Liz",
+          "url": "https://www.youtube.com/@IELTSLiz",
+          "free": true,
+          "note": {
+            "en": "Calm, practical tips for Writing and Speaking with model answers.",
+            "ka": "მშვიდი, პრაქტიკული რჩევები Writing-სა და Speaking-ზე, ნიმუშ-პასუხებით.",
+            "ar": "نصائح عملية هادئة للكتابة والمحادثة مع إجابات نموذجية."
+          }
+        },
+        {
+          "title": {
+            "en": "IELTS Advantage",
+            "ka": "IELTS Advantage",
+            "ar": "IELTS Advantage"
+          },
+          "kind": "video",
+          "provider": "YouTube: IELTS Advantage",
+          "url": "https://www.youtube.com/@IELTSAdvantage",
+          "free": true,
+          "note": {
+            "en": "Strategy for reaching band 7+, especially in Writing.",
+            "ka": "სტრატეგია 7+ ქულისთვის, განსაკუთრებით Writing-ში.",
+            "ar": "استراتيجيات للوصول إلى 7 فأكثر، خاصة في الكتابة."
+          }
+        }
+      ]
+    },
+    {
+      "id": "toefl",
+      "name": "TOEFL iBT",
+      "by": "ETS",
+      "what": {
+        "en": "An academic English test accepted by universities worldwide, especially in the US. Since 21 January 2026 it is a shorter, adaptive test reported on a new 1–6 scale.",
+        "ka": "აკადემიური ინგლისურის ტესტი, რომელსაც მთელ მსოფლიოში, განსაკუთრებით აშშ-ში, იღებენ. 2026 წლის 21 იანვრიდან ის უფრო მოკლე, ადაპტური ტესტია და შედეგი ახალ 1–6 შკალაზე ფასდება.",
+        "ar": "اختبار للإنجليزية الأكاديمية تقبله الجامعات حول العالم، خاصة في الولايات المتحدة. منذ 21 يناير 2026 أصبح أقصر وتكيّفياً، وتُعلن نتائجه على مقياس جديد من 1 إلى 6."
+      },
+      "format": {
+        "en": "Reading (~30 min), Listening (~29 min), Writing (~23 min: build a sentence, write an email, academic discussion) and Speaking (~8 min: listen and repeat, interview). Allow about 2 hours with instructions. Each section and the overall score are on a 1–6 scale in half bands; until January 2028 you also get a comparable 0–120 score. At a test centre or at home (Home Edition).",
+        "ka": "Reading (~30 წთ), Listening (~29 წთ), Writing (~23 წთ: წინადადების აწყობა, იმეილის წერა, აკადემიური დისკუსია) და Speaking (~8 წთ: მოისმინე და გაიმეორე, ინტერვიუ). ინსტრუქციებით დაახლოებით 2 საათი დაჭირდება. თითო ნაწილი და საერთო ქულა ფასდება 1–6 შკალაზე, ნახევარქულიანი ბიჯით; 2028 წლის იანვრამდე ძველ 0–120 შკალაზე შესაბამის ქულასაც მიიღებ. ცენტრში ან სახლიდან (Home Edition).",
+        "ar": "القراءة (~30 دقيقة) والاستماع (~29 دقيقة) والكتابة (~23 دقيقة: تركيب جملة، كتابة بريد إلكتروني، نقاش أكاديمي) والمحادثة (~8 دقائق: استمع وكرّر، مقابلة). خصّص نحو ساعتين مع التعليمات. يُقيَّم كل قسم والدرجة الكلية على مقياس 1–6 بأنصاف الدرجات، وحتى يناير 2028 تحصل أيضاً على درجة مقابلة على مقياس 0–120. في مركز أو من المنزل (Home Edition)."
+      },
+      "dates": {
+        "en": "Offered many times a month at centres and almost every day at home. Book at least 3–4 weeks ahead; express registration within 7 days costs USD 49 extra. Scores are valid for 2 years.",
+        "ka": "ცენტრებში თვეში ბევრჯერ ტარდება, სახლიდან კი — თითქმის ყოველდღე. დაჯავშნე მინიმუმ 3–4 კვირით ადრე; 7 დღით ადრე სწრაფი რეგისტრაცია დამატებით 49 აშშ დოლარი ღირს. შედეგები 2 წელი მოქმედებს.",
+        "ar": "يُعقد مرات عديدة شهرياً في المراكز وكل يوم تقريباً من المنزل. احجز قبل 3–4 أسابيع على الأقل؛ التسجيل السريع خلال 7 أيام يكلّف 49 دولاراً إضافية. الدرجات صالحة لسنتين."
+      },
+      "cost": "Set by country (check the ETS fee page for yours); extras: rescheduling USD 69, extra score reports USD 29 each, express registration USD 49.",
+      "register_url": "https://www.ets.org/toefl/test-takers/ibt/register.html",
+      "resources": [
+        {
+          "title": {
+            "en": "About the TOEFL iBT test",
+            "ka": "TOEFL iBT-ის შესახებ",
+            "ar": "عن اختبار TOEFL iBT"
+          },
+          "kind": "official",
+          "provider": "ETS",
+          "url": "https://www.ets.org/toefl/test-takers/ibt/about.html",
+          "free": true,
+          "note": {
+            "en": "Official overview of the 2026 test.",
+            "ka": "2026 წლის ტესტის ოფიციალური მიმოხილვა.",
+            "ar": "النظرة العامة الرسمية على اختبار 2026."
+          }
+        },
+        {
+          "title": {
+            "en": "Test content and structure",
+            "ka": "ტესტის შინაარსი და სტრუქტურა",
+            "ar": "محتوى الاختبار وبنيته"
+          },
+          "kind": "official",
+          "provider": "ETS",
+          "url": "https://www.ets.org/toefl/test-takers/ibt/about/content.html",
+          "free": true,
+          "note": {
+            "en": "Every new task type with timings. Read this first: many older videos and books still show the pre-2026 test.",
+            "ka": "ყველა ახალი დავალების ტიპი დროებით. ჯერ ეს წაიკითხე: ბევრი ძველი ვიდეო და წიგნი ჯერ კიდევ 2026 წლამდელ ტესტს აჩვენებს.",
+            "ar": "كل أنواع المهام الجديدة مع التوقيت. اقرأ هذا أولاً: كثير من الفيديوهات والكتب القديمة ما زالت تعرض اختبار ما قبل 2026."
+          }
+        },
+        {
+          "title": {
+            "en": "Prepare for the TOEFL iBT (free practice tests and TestReady)",
+            "ka": "TOEFL iBT-ისთვის მომზადება (უფასო ტესტები და TestReady)",
+            "ar": "التحضير لـ TOEFL iBT (اختبارات مجانية وTestReady)"
+          },
+          "kind": "practice-test",
+          "provider": "ETS",
+          "url": "https://www.ets.org/toefl/test-takers/ibt/prepare.html",
+          "free": true,
+          "note": {
+            "en": "ETS's official hub: free full practice test, sample questions and the TestReady platform (some parts paid).",
+            "ka": "ETS-ის ოფიციალური ცენტრი: უფასო სრული სავარჯიშო ტესტი, ნიმუშები და TestReady პლატფორმა (ნაწილი ფასიანია).",
+            "ar": "المركز الرسمي من ETS: اختبار تدريبي كامل مجاني وأسئلة نموذجية ومنصة TestReady (بعضها مدفوع)."
+          }
+        },
+        {
+          "title": {
+            "en": "Understanding your scores",
+            "ka": "შენი ქულების გაგება",
+            "ar": "فهم درجاتك"
+          },
+          "kind": "official",
+          "provider": "ETS",
+          "url": "https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html",
+          "free": true,
+          "note": {
+            "en": "How the 1–6 bands map to CEFR levels and the old 0–120 scale.",
+            "ka": "როგორ შეესაბამება 1–6 ქულები CEFR-ის დონეებს და ძველ 0–120 შკალას.",
+            "ar": "كيف تقابل درجات 1–6 مستويات CEFR والمقياس القديم 0–120."
+          }
+        },
+        {
+          "title": {
+            "en": "TOEFL (official channel)",
+            "ka": "TOEFL (ოფიციალური არხი)",
+            "ar": "TOEFL (القناة الرسمية)"
+          },
+          "kind": "video",
+          "provider": "YouTube: TOEFL",
+          "url": "https://www.youtube.com/@TOEFLOfficial",
+          "free": true,
+          "note": {
+            "en": "ETS's official channel with walkthroughs of the new task types.",
+            "ka": "ETS-ის ოფიციალური არხი ახალი დავალებების განხილვით.",
+            "ar": "القناة الرسمية من ETS مع شرح أنواع المهام الجديدة."
+          }
+        },
+        {
+          "title": {
+            "en": "TST Prep TOEFL",
+            "ka": "TST Prep TOEFL",
+            "ar": "TST Prep TOEFL"
+          },
+          "kind": "video",
+          "provider": "YouTube: TST Prep TOEFL",
+          "url": "https://www.youtube.com/@TSTPrep",
+          "free": true,
+          "note": {
+            "en": "Very active channel with templates and practice for each task; choose videos labelled for the 2026 test.",
+            "ka": "ძალიან აქტიური არხი შაბლონებითა და სავარჯიშოებით; აირჩიე 2026 წლის ტესტისთვის მონიშნული ვიდეოები.",
+            "ar": "قناة نشطة جداً فيها قوالب وتمارين لكل مهمة؛ اختر الفيديوهات المخصصة لاختبار 2026."
+          }
+        },
+        {
+          "title": {
+            "en": "Magoosh TOEFL",
+            "ka": "Magoosh TOEFL",
+            "ar": "Magoosh TOEFL"
+          },
+          "kind": "video",
+          "provider": "YouTube: MagooshTOEFL",
+          "url": "https://www.youtube.com/@MagooshTOEFL",
+          "free": true,
+          "note": {
+            "en": "Short lessons on listening, note-taking and speaking.",
+            "ka": "მოკლე გაკვეთილები მოსმენაზე, ჩანაწერების გაკეთებასა და საუბარზე.",
+            "ar": "دروس قصيرة في الاستماع وتدوين الملاحظات والمحادثة."
+          }
+        },
+        {
+          "title": {
+            "en": "Test Resources – TOEFL Preparation",
+            "ka": "Test Resources – TOEFL Preparation",
+            "ar": "Test Resources – TOEFL Preparation"
+          },
+          "kind": "video",
+          "provider": "YouTube: Test Resources",
+          "url": "https://www.youtube.com/@TOEFLResources",
+          "free": true,
+          "note": {
+            "en": "Practice questions with answers for all sections.",
+            "ka": "სავარჯიშო კითხვები პასუხებით ყველა ნაწილისთვის.",
+            "ar": "أسئلة تدريبية مع الإجابات لكل الأقسام."
+          }
+        },
+        {
+          "title": {
+            "en": "BBC Learning English",
+            "ka": "BBC Learning English",
+            "ar": "BBC Learning English"
+          },
+          "kind": "course",
+          "provider": "BBC",
+          "url": "https://www.bbc.co.uk/learningenglish",
+          "free": true,
+          "note": {
+            "en": "Free daily listening and vocabulary practice to raise your overall level.",
+            "ka": "უფასო ყოველდღიური მოსმენისა და ლექსიკის სავარჯიშოები ზოგადი დონის ასამაღლებლად.",
+            "ar": "تمارين يومية مجانية في الاستماع والمفردات لرفع مستواك العام."
+          }
+        }
+      ]
+    },
+    {
+      "id": "duolingo",
+      "name": "Duolingo English Test",
+      "by": "Duolingo",
+      "what": {
+        "en": "A one-hour English test you take online at home, any day. It is cheap and fast, and accepted by thousands of universities (many in the US, Canada, Europe and some in the Gulf). Always check that your target university accepts it.",
+        "ka": "ერთსაათიანი ინგლისურის ტესტი, რომელსაც სახლიდან, ონლაინ, ნებისმიერ დღეს აბარებ. იაფი და სწრაფია, მას ათასობით უნივერსიტეტი იღებს (ბევრი აშშ-ში, კანადასა და ევროპაში, ზოგი — ყურის ქვეყნებში). ყოველთვის გადაამოწმე, იღებს თუ არა მას შენთვის სასურველი უნივერსიტეტი.",
+        "ar": "اختبار إنجليزية مدته ساعة تؤديه عبر الإنترنت من المنزل في أي يوم. رخيص وسريع، وتقبله آلاف الجامعات (كثير منها في الولايات المتحدة وكندا وأوروبا وبعضها في الخليج). تحقق دائماً من أن جامعتك المستهدفة تقبله."
+      },
+      "format": {
+        "en": "About 1 hour: ~5 min setup and ID check, ~45 min adaptive questions (reading, listening, writing and speaking tasks), then ~10 min of a longer writing and speaking sample sent to universities. Overall score 10–160 in 5-point steps, plus subscores. Results in 48 hours (12 hours with Faster Results).",
+        "ka": "დაახლოებით 1 საათი: ~5 წთ მომზადება და პირადობის შემოწმება, ~45 წთ ადაპტური კითხვები (კითხვა, მოსმენა, წერა, საუბარი), შემდეგ ~10 წთ გრძელი წერითი და ზეპირი ნიმუში, რომელიც უნივერსიტეტებს ეგზავნება. საერთო ქულა 10–160, 5-ქულიანი ბიჯით, და ქვექულები. შედეგები 48 საათში (Faster Results-ით — 12 საათში).",
+        "ar": "نحو ساعة: ~5 دقائق للتجهيز والتحقق من الهوية، ~45 دقيقة أسئلة تكيّفية (قراءة واستماع وكتابة ومحادثة)، ثم ~10 دقائق لعيّنة كتابة ومحادثة أطول تُرسل للجامعات. الدرجة الكلية من 10 إلى 160 بخطوات 5 نقاط، مع درجات فرعية. النتائج خلال 48 ساعة (12 ساعة مع خدمة النتائج الأسرع)."
+      },
+      "dates": {
+        "en": "On demand, 24/7, from your own computer. You need a quiet room, a webcam, a microphone, your passport and your phone for the room scan.",
+        "ka": "მოთხოვნისამებრ, 24/7, საკუთარი კომპიუტერიდან. დაგჭირდება წყნარი ოთახი, ვებკამერა, მიკროფონი, პასპორტი და ტელეფონი ოთახის დასასკანერებლად.",
+        "ar": "عند الطلب، على مدار الساعة، من حاسوبك. تحتاج غرفة هادئة وكاميرا وميكروفوناً وجواز سفرك وهاتفك لمسح الغرفة."
+      },
+      "cost": "About USD 70 per test (bundles of two available); Faster Results is an extra fee. Sending scores is free.",
+      "register_url": "https://englishtest.duolingo.com/",
+      "resources": [
+        {
+          "title": {
+            "en": "Duolingo English Test (official site)",
+            "ka": "Duolingo English Test (ოფიციალური საიტი)",
+            "ar": "Duolingo English Test (الموقع الرسمي)"
+          },
+          "kind": "official",
+          "provider": "Duolingo",
+          "url": "https://englishtest.duolingo.com/",
+          "free": true,
+          "note": {
+            "en": "Create a free account first: it unlocks the practice test and readiness tools.",
+            "ka": "ჯერ შექმენი უფასო ანგარიში: ის გიხსნის სავარჯიშო ტესტსა და მოსამზადებელ ინსტრუმენტებს.",
+            "ar": "أنشئ حساباً مجانياً أولاً: يفتح لك الاختبار التدريبي وأدوات الاستعداد."
+          }
+        },
+        {
+          "title": {
+            "en": "Free practice test",
+            "ka": "უფასო სავარჯიშო ტესტი",
+            "ar": "اختبار تدريبي مجاني"
+          },
+          "kind": "practice-test",
+          "provider": "Duolingo",
+          "url": "https://englishtest.duolingo.com/quick",
+          "free": true,
+          "note": {
+            "en": "A shorter, unproctored version you can take as many times as you like; it gives an estimated score range.",
+            "ka": "უფრო მოკლე, ზედამხედველის გარეშე ვერსია, რომლის გავლა რამდენჯერაც გინდა შეგიძლია; გაძლევს ქულის სავარაუდო დიაპაზონს.",
+            "ar": "نسخة أقصر دون مراقبة يمكنك أداؤها كما تشاء؛ تعطيك نطاقاً تقديرياً للدرجة."
+          }
+        },
+        {
+          "title": {
+            "en": "Official Guide for Test Takers (PDF)",
+            "ka": "ოფიციალური სახელმძღვანელო (PDF)",
+            "ar": "الدليل الرسمي للمتقدمين (PDF)"
+          },
+          "kind": "book",
+          "provider": "Duolingo",
+          "url": "https://englishtest-static.duolingo.com/media/resources/test-taker-guide/DET%20Guide%20EN.pdf",
+          "free": true,
+          "note": {
+            "en": "Every question type, room rules and how scores are calculated. Read the rules carefully: breaking one cancels your result.",
+            "ka": "ყველა ტიპის კითხვა, ოთახის წესები და ქულის გამოთვლის წესი. წესები ყურადღებით წაიკითხე: ერთის დარღვევაც კი შედეგს გაგიუქმებს.",
+            "ar": "كل أنواع الأسئلة وقواعد الغرفة وطريقة حساب الدرجة. اقرأ القواعد بعناية: مخالفة واحدة تُلغي نتيجتك."
+          }
+        },
+        {
+          "title": {
+            "en": "Duolingo English Test (official channel)",
+            "ka": "Duolingo English Test (ოფიციალური არხი)",
+            "ar": "Duolingo English Test (القناة الرسمية)"
+          },
+          "kind": "video",
+          "provider": "YouTube: Duolingo English Test",
+          "url": "https://www.youtube.com/@DuolingoEnglishTest",
+          "free": true,
+          "note": {
+            "en": "Official walkthroughs of each question type and test-day setup.",
+            "ka": "ყველა ტიპის კითხვისა და გამოცდის დღის მომზადების ოფიციალური განხილვა.",
+            "ar": "شرح رسمي لكل نوع من الأسئلة وتجهيز يوم الاختبار."
+          }
+        },
+        {
+          "title": {
+            "en": "Duolingo app",
+            "ka": "Duolingo აპლიკაცია",
+            "ar": "تطبيق Duolingo"
+          },
+          "kind": "app",
+          "provider": "Duolingo",
+          "url": "https://www.duolingo.com/",
+          "free": true,
+          "note": {
+            "en": "Free daily English practice; useful for vocabulary, though not a substitute for test practice.",
+            "ka": "უფასო ყოველდღიური ინგლისური; კარგია ლექსიკისთვის, თუმცა ტესტის სავარჯიშოს ვერ ჩაანაცვლებს.",
+            "ar": "تدريب يومي مجاني على الإنجليزية؛ مفيد للمفردات لكنه لا يغني عن التدرّب على الاختبار."
+          }
+        },
+        {
+          "title": {
+            "en": "Write & Improve",
+            "ka": "Write & Improve",
+            "ar": "Write & Improve"
+          },
+          "kind": "app",
+          "provider": "Cambridge",
+          "url": "https://writeandimprove.com/",
+          "free": true,
+          "note": {
+            "en": "Free feedback on short writing, good practice for the writing sample.",
+            "ka": "უფასო შეფასება მოკლე ტექსტებზე — კარგი სავარჯიშო წერითი ნიმუშისთვის.",
+            "ar": "تقييم مجاني لنصوص قصيرة، تدريب جيد لعيّنة الكتابة."
+          }
+        },
+        {
+          "title": {
+            "en": "engVid",
+            "ka": "engVid",
+            "ar": "engVid"
+          },
+          "kind": "video",
+          "provider": "YouTube: engVid",
+          "url": "https://www.youtube.com/@engVid",
+          "free": true,
+          "note": {
+            "en": "Free grammar and vocabulary lessons from many teachers.",
+            "ka": "უფასო გრამატიკისა და ლექსიკის გაკვეთილები სხვადასხვა მასწავლებლისგან.",
+            "ar": "دروس مجانية في القواعد والمفردات من معلمين كثيرين."
+          }
+        }
+      ]
+    },
+    {
+      "id": "pte",
+      "name": "PTE Academic",
+      "by": "Pearson",
+      "what": {
+        "en": "A fully computer-based English test, scored by AI, with fast results. Popular for Australia, New Zealand and the UK, and accepted by many universities in Europe, Canada, the US and the Gulf.",
+        "ka": "სრულად კომპიუტერული ინგლისურის ტესტი, რომელსაც ხელოვნური ინტელექტი აფასებს და შედეგი სწრაფად მოდის. პოპულარულია ავსტრალიის, ახალი ზელანდიისა და დიდი ბრიტანეთისთვის, მას ბევრი უნივერსიტეტი იღებს ევროპაში, კანადაში, აშშ-სა და ყურის ქვეყნებში.",
+        "ar": "اختبار إنجليزية حاسوبي بالكامل، يصحّحه الذكاء الاصطناعي، ونتائجه سريعة. شائع لأستراليا ونيوزيلندا وبريطانيا، وتقبله جامعات كثيرة في أوروبا وكندا والولايات المتحدة والخليج."
+      },
+      "format": {
+        "en": "About 2 hours in three parts: Speaking & Writing together (read aloud, repeat sentence, describe image, essay and more), Reading, and Listening. Many tasks score two skills at once. Score 10–90 overall and per skill. Results usually within 2 days.",
+        "ka": "დაახლოებით 2 საათი, სამ ნაწილად: Speaking & Writing ერთად (ხმამაღლა კითხვა, წინადადების გამეორება, სურათის აღწერა, ესე და სხვ.), Reading და Listening. ბევრი დავალება ერთდროულად ორ უნარს აფასებს. ქულა 10–90, საერთო და თითო უნარზე. შედეგები ჩვეულებრივ 2 დღეში.",
+        "ar": "نحو ساعتين في ثلاثة أجزاء: المحادثة والكتابة معاً (القراءة بصوت عالٍ، تكرار الجمل، وصف صورة، مقال وغيرها)، ثم القراءة، ثم الاستماع. مهام كثيرة تقيّم مهارتين معاً. الدرجة من 10 إلى 90 كلياً ولكل مهارة. النتائج عادة خلال يومين."
+      },
+      "dates": {
+        "en": "Available most days at Pearson test centres (Doha has centres; check availability for Tbilisi); you can often book with only a few days' notice.",
+        "ka": "ტარდება თითქმის ყოველდღე Pearson-ის სატესტო ცენტრებში (დოჰაში ცენტრები არის; თბილისისთვის ხელმისაწვდომობა გადაამოწმე); ხშირად რამდენიმე დღით ადრეც შეიძლება დაჯავშნა.",
+        "ar": "متاح معظم الأيام في مراكز Pearson (توجد مراكز في الدوحة؛ تحقق من التوفر في تبليسي)؛ غالباً يمكن الحجز قبل أيام قليلة فقط."
+      },
+      "cost": "Set by country (roughly USD 200–270); shown when you book on pearsonpte.com.",
+      "register_url": "https://www.pearsonpte.com/pte-academic",
+      "resources": [
+        {
+          "title": {
+            "en": "PTE Academic (official)",
+            "ka": "PTE Academic (ოფიციალური)",
+            "ar": "PTE Academic (الرسمي)"
+          },
+          "kind": "official",
+          "provider": "Pearson",
+          "url": "https://www.pearsonpte.com/pte-academic",
+          "free": true,
+          "note": {
+            "en": "Booking, test centres and accepting universities.",
+            "ka": "დაჯავშნა, სატესტო ცენტრები და მიმღები უნივერსიტეტები.",
+            "ar": "الحجز ومراكز الاختبار والجامعات التي تقبله."
+          }
+        },
+        {
+          "title": {
+            "en": "Test format",
+            "ka": "ტესტის ფორმატი",
+            "ar": "صيغة الاختبار"
+          },
+          "kind": "official",
+          "provider": "Pearson",
+          "url": "https://www.pearsonpte.com/pte-academic/test-format",
+          "free": true,
+          "note": {
+            "en": "All 20+ question types explained, with timings.",
+            "ka": "20-ზე მეტი ტიპის კითხვის ახსნა დროებით.",
+            "ar": "شرح أكثر من 20 نوعاً من الأسئلة مع التوقيت."
+          }
+        },
+        {
+          "title": {
+            "en": "Understanding your score",
+            "ka": "შენი ქულის გაგება",
+            "ar": "فهم درجتك"
+          },
+          "kind": "official",
+          "provider": "Pearson",
+          "url": "https://www.pearsonpte.com/pte-academic/scoring",
+          "free": true,
+          "note": {
+            "en": "How scores are calculated and how they compare to IELTS.",
+            "ka": "როგორ ითვლება ქულა და როგორ შეესაბამება IELTS-ს.",
+            "ar": "كيف تُحسب الدرجات وكيف تقارن بـ IELTS."
+          }
+        },
+        {
+          "title": {
+            "en": "Official preparation (Smart Prep)",
+            "ka": "ოფიციალური მომზადება (Smart Prep)",
+            "ar": "التحضير الرسمي (Smart Prep)"
+          },
+          "kind": "course",
+          "provider": "Pearson",
+          "url": "https://www.pearsonpte.com/pte-academic/preparation",
+          "free": true,
+          "note": {
+            "en": "Free with a myPTE account: a study plan, four guided full practice tests, video courses and test tips; extra scored tests are paid.",
+            "ka": "უფასოა myPTE ანგარიშით: სასწავლო გეგმა, ოთხი სრული სავარჯიშო ტესტი, ვიდეოკურსები და რჩევები; დამატებითი შეფასებული ტესტები ფასიანია.",
+            "ar": "مجاني مع حساب myPTE: خطة دراسة وأربعة اختبارات تدريبية كاملة موجّهة ودورات فيديو ونصائح؛ الاختبارات المصحّحة الإضافية مدفوعة."
+          }
+        },
+        {
+          "title": {
+            "en": "myPTE",
+            "ka": "myPTE",
+            "ar": "myPTE"
+          },
+          "kind": "app",
+          "provider": "Pearson",
+          "url": "https://mypte.pearsonpte.com/",
+          "free": true,
+          "note": {
+            "en": "Your account for booking, free practice and scores.",
+            "ka": "შენი ანგარიში დაჯავშნის, უფასო სავარჯიშოებისა და ქულებისთვის.",
+            "ar": "حسابك للحجز والتدرّب المجاني والدرجات."
+          }
+        },
+        {
+          "title": {
+            "en": "E2 PTE",
+            "ka": "E2 PTE",
+            "ar": "E2 PTE"
+          },
+          "kind": "video",
+          "provider": "YouTube: E2 PTE",
+          "url": "https://www.youtube.com/@E2PTE",
+          "free": true,
+          "note": {
+            "en": "Popular channel with task-by-task strategies.",
+            "ka": "პოპულარული არხი თითოეული დავალების სტრატეგიით.",
+            "ar": "قناة شائعة باستراتيجيات لكل مهمة."
+          }
+        },
+        {
+          "title": {
+            "en": "PTE Tutorials",
+            "ka": "PTE Tutorials",
+            "ar": "PTE Tutorials"
+          },
+          "kind": "video",
+          "provider": "YouTube: PTE TUTORIALS",
+          "url": "https://www.youtube.com/@ptetutorials",
+          "free": true,
+          "note": {
+            "en": "Practice questions with model answers.",
+            "ka": "სავარჯიშო კითხვები ნიმუშ-პასუხებით.",
+            "ar": "أسئلة تدريبية مع إجابات نموذجية."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cambridge",
+      "name": "Cambridge C1 Advanced / C2 Proficiency",
+      "by": "Cambridge University Press & Assessment",
+      "what": {
+        "en": "High-level English qualifications that never expire. C1 Advanced is accepted by thousands of universities (often in place of IELTS); C2 Proficiency is the highest Cambridge level. Great if you want a lasting certificate, not just an admission score.",
+        "ka": "ინგლისური ენის მაღალი დონის კვალიფიკაციები, რომლებსაც ვადა არ გასდით. C1 Advanced-ს ათასობით უნივერსიტეტი იღებს (ხშირად IELTS-ის ნაცვლად); C2 Proficiency Cambridge-ის უმაღლესი დონეა. კარგი არჩევანია, თუ მუდმივი სერტიფიკატი გინდა და არა მხოლოდ მისაღები ქულა.",
+        "ar": "مؤهلات إنجليزية عالية المستوى لا تنتهي صلاحيتها. تقبل آلاف الجامعات C1 Advanced (غالباً بدلاً من IELTS)؛ وC2 Proficiency أعلى مستوى في Cambridge. خيار ممتاز إن أردت شهادة دائمة لا مجرد درجة قبول."
+      },
+      "format": {
+        "en": "Four papers, about 4 hours: Reading & Use of English (90 min), Writing (90 min, two texts), Listening (~40 min) and Speaking (15–16 min, usually in pairs). Scored on the Cambridge English Scale: C1 Advanced 160–210 (pass at C1 from 180), C2 Proficiency 180–230 (pass at C2 from 200). Paper or computer.",
+        "ka": "ოთხი ნაწილი, დაახლოებით 4 საათი: Reading & Use of English (90 წთ), Writing (90 წთ, ორი ტექსტი), Listening (~40 წთ) და Speaking (15–16 წთ, ჩვეულებრივ წყვილებში). ფასდება Cambridge English Scale-ით: C1 Advanced 160–210 (C1 დონე 180-დან), C2 Proficiency 180–230 (C2 დონე 200-დან). ქაღალდზე ან კომპიუტერზე.",
+        "ar": "أربعة أوراق، نحو 4 ساعات: القراءة واستخدام اللغة (90 دقيقة)، الكتابة (90 دقيقة، نصّان)، الاستماع (~40 دقيقة)، المحادثة (15–16 دقيقة، عادة في أزواج). تُقيَّم على مقياس Cambridge English: C1 Advanced من 160 إلى 210 (مستوى C1 من 180)، وC2 Proficiency من 180 إلى 230 (مستوى C2 من 200). ورقياً أو على الحاسوب."
+      },
+      "dates": {
+        "en": "Exam dates are set by authorised centres, typically several per year (computer versions more often). Register with a centre 6–10 weeks before. Results in about 2–4 weeks.",
+        "ka": "გამოცდის თარიღებს ავტორიზებული ცენტრები ადგენენ, ჩვეულებრივ წელიწადში რამდენჯერმე (კომპიუტერული ვერსია უფრო ხშირად). დარეგისტრირდი ცენტრში 6–10 კვირით ადრე. შედეგები დაახლოებით 2–4 კვირაში.",
+        "ar": "تحدد المراكز المعتمدة مواعيد الامتحانات، عادة عدة مرات سنوياً (النسخة الحاسوبية أكثر تكراراً). سجّل لدى مركز قبل 6–10 أسابيع. النتائج خلال 2–4 أسابيع تقريباً."
+      },
+      "cost": "Set by each exam centre (ask your local centre).",
+      "register_url": "https://www.cambridgeenglish.org/find-a-centre/",
+      "resources": [
+        {
+          "title": {
+            "en": "C1 Advanced (official)",
+            "ka": "C1 Advanced (ოფიციალური)",
+            "ar": "C1 Advanced (الرسمي)"
+          },
+          "kind": "official",
+          "provider": "Cambridge English",
+          "url": "https://www.cambridgeenglish.org/exams-and-tests/qualifications/advanced/",
+          "free": true,
+          "note": {
+            "en": "Format, who accepts it and how to register.",
+            "ka": "ფორმატი, ვინ იღებს და როგორ დარეგისტრირდე.",
+            "ar": "الصيغة ومن يقبله وكيف تسجّل."
+          }
+        },
+        {
+          "title": {
+            "en": "C2 Proficiency (official)",
+            "ka": "C2 Proficiency (ოფიციალური)",
+            "ar": "C2 Proficiency (الرسمي)"
+          },
+          "kind": "official",
+          "provider": "Cambridge English",
+          "url": "https://www.cambridgeenglish.org/exams-and-tests/qualifications/proficiency/",
+          "free": true,
+          "note": {
+            "en": "The top-level exam; read the format before choosing between C1 and C2.",
+            "ka": "უმაღლესი დონის გამოცდა; C1-სა და C2-ს შორის არჩევამდე ფორმატი წაიკითხე.",
+            "ar": "امتحان المستوى الأعلى؛ اقرأ الصيغة قبل الاختيار بين C1 وC2."
+          }
+        },
+        {
+          "title": {
+            "en": "Preparing for C1 Advanced: free sample papers",
+            "ka": "C1 Advanced-ისთვის მომზადება: უფასო ნიმუშები",
+            "ar": "التحضير لـ C1 Advanced: نماذج مجانية"
+          },
+          "kind": "practice-test",
+          "provider": "Cambridge English",
+          "url": "https://www.cambridgeenglish.org/exams-and-tests/qualifications/advanced/preparation/",
+          "free": true,
+          "note": {
+            "en": "Official sample tests, handbooks and learning activities.",
+            "ka": "ოფიციალური ნიმუშ-ტესტები, სახელმძღვანელოები და სავარჯიშოები.",
+            "ar": "اختبارات نموذجية رسمية وكتيّبات وأنشطة تعلّم."
+          }
+        },
+        {
+          "title": {
+            "en": "Preparing for C2 Proficiency: free sample papers",
+            "ka": "C2 Proficiency-სთვის მომზადება: უფასო ნიმუშები",
+            "ar": "التحضير لـ C2 Proficiency: نماذج مجانية"
+          },
+          "kind": "practice-test",
+          "provider": "Cambridge English",
+          "url": "https://www.cambridgeenglish.org/exams-and-tests/qualifications/proficiency/preparation/",
+          "free": true,
+          "note": {
+            "en": "Sample papers and the exam handbook for C2.",
+            "ka": "C2-ის ნიმუშები და გამოცდის სახელმძღვანელო.",
+            "ar": "نماذج وكتيّب الامتحان لـ C2."
+          }
+        },
+        {
+          "title": {
+            "en": "Test your English",
+            "ka": "შეამოწმე შენი ინგლისური",
+            "ar": "اختبر لغتك الإنجليزية"
+          },
+          "kind": "practice-test",
+          "provider": "Cambridge English",
+          "url": "https://www.cambridgeenglish.org/test-your-english/",
+          "free": true,
+          "note": {
+            "en": "A free 15-minute level check to decide whether to aim for C1 or C2.",
+            "ka": "უფასო 15-წუთიანი დონის შემოწმება, რომ გადაწყვიტო C1 აირჩიო თუ C2.",
+            "ar": "اختبار مستوى مجاني مدته 15 دقيقة لتقرر بين C1 وC2."
+          }
+        },
+        {
+          "title": {
+            "en": "Write & Improve",
+            "ka": "Write & Improve",
+            "ar": "Write & Improve"
+          },
+          "kind": "app",
+          "provider": "Cambridge",
+          "url": "https://writeandimprove.com/",
+          "free": true,
+          "note": {
+            "en": "Free automatic feedback on essays, reports and reviews: the Writing paper task types.",
+            "ka": "უფასო ავტომატური შეფასება ესეებზე, ანგარიშებსა და მიმოხილვებზე — სწორედ Writing-ის დავალებების ტიპებზე.",
+            "ar": "تقييم آلي مجاني للمقالات والتقارير والمراجعات: أنواع مهام ورقة الكتابة."
+          }
+        },
+        {
+          "title": {
+            "en": "English with Cambridge",
+            "ka": "English with Cambridge",
+            "ar": "English with Cambridge"
+          },
+          "kind": "video",
+          "provider": "YouTube: English with Cambridge",
+          "url": "https://www.youtube.com/@CambridgeEnglishTV",
+          "free": true,
+          "note": {
+            "en": "Official channel with exam tips and speaking test examples.",
+            "ka": "ოფიციალური არხი გამოცდის რჩევებითა და Speaking-ის მაგალითებით.",
+            "ar": "القناة الرسمية مع نصائح الامتحان وأمثلة على اختبار المحادثة."
+          }
+        },
+        {
+          "title": {
+            "en": "Learning English with Cambridge",
+            "ka": "ინგლისურის სწავლა Cambridge-თან",
+            "ar": "تعلّم الإنجليزية مع Cambridge"
+          },
+          "kind": "course",
+          "provider": "Cambridge English",
+          "url": "https://www.cambridgeenglish.org/learning-english/",
+          "free": true,
+          "note": {
+            "en": "Free activities and games sorted by level.",
+            "ka": "უფასო აქტივობები და თამაშები დონეების მიხედვით.",
+            "ar": "أنشطة وألعاب مجانية مرتبة حسب المستوى."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ap",
+      "name": "AP (Advanced Placement)",
+      "by": "College Board",
+      "what": {
+        "en": "University-level courses and exams in about 40 subjects (calculus, physics, biology, economics, history, computer science...). Strong scores (4–5) can earn university credit or placement in the US and Canada and strengthen applications everywhere.",
+        "ka": "უნივერსიტეტის დონის კურსები და გამოცდები დაახლოებით 40 საგანში (კალკულუსი, ფიზიკა, ბიოლოგია, ეკონომიკა, ისტორია, კომპიუტერული მეცნიერება...). მაღალი ქულა (4–5) აშშ-სა და კანადაში უნივერსიტეტის კრედიტს ან უფრო მაღალ კურსზე ჩარიცხვას გაძლევს და განაცხადს ყველგან აძლიერებს.",
+        "ar": "مقررات وامتحانات بمستوى جامعي في نحو 40 مادة (التفاضل والتكامل، الفيزياء، الأحياء، الاقتصاد، التاريخ، علوم الحاسوب...). الدرجات العالية (4–5) قد تمنحك ساعات معتمدة أو تصنيفاً متقدماً في الولايات المتحدة وكندا، وتقوّي طلبك في كل مكان."
+      },
+      "format": {
+        "en": "One exam per subject, usually 2–3 hours, with multiple-choice and free-response sections. Most exams are now taken in the Bluebook app. Scored 1–5 (3 = qualified, 5 = extremely well qualified).",
+        "ka": "თითო საგანზე ერთი გამოცდა, ჩვეულებრივ 2–3 საათი, დახურული და ღია კითხვებით. გამოცდების უმეტესობა ახლა Bluebook აპლიკაციაში ტარდება. ქულა 1–5 (3 = საკმარისი, 5 = უმაღლესი).",
+        "ar": "امتحان واحد لكل مادة، عادة 2–3 ساعات، فيه أسئلة اختيار من متعدد وأسئلة مفتوحة. معظم الامتحانات تُؤدّى الآن عبر تطبيق Bluebook. الدرجة من 1 إلى 5 (3 = مؤهَّل، 5 = مؤهَّل بامتياز)."
+      },
+      "dates": {
+        "en": "Once a year in May. 2027: 3–7 May and 10–14 May; late testing 17–21 May. Schools must order exams by 13 November 2026 (or 12 March 2027 for spring courses). Scores come out in early July.",
+        "ka": "წელიწადში ერთხელ, მაისში. 2027: 3–7 მაისი და 10–14 მაისი; დაგვიანებული გამოცდები 17–21 მაისს. სკოლებმა გამოცდები 2026 წლის 13 ნოემბრამდე უნდა შეუკვეთონ (გაზაფხულის კურსებისთვის — 2027 წლის 12 მარტამდე). ქულები ივლისის დასაწყისში ქვეყნდება.",
+        "ar": "مرة واحدة سنوياً في مايو. 2027: 3–7 مايو و10–14 مايو؛ الاختبار المتأخر 17–21 مايو. على المدارس طلب الامتحانات قبل 13 نوفمبر 2026 (أو 12 مارس 2027 لمقررات الربيع). تصدر الدرجات أوائل يوليو."
+      },
+      "cost": "USD 129 per exam at schools outside the US and Canada (USD 99 inside); late order +USD 40. Authorised test centres may charge more.",
+      "register_url": "https://apstudents.collegeboard.org/",
+      "resources": [
+        {
+          "title": {
+            "en": "AP Students",
+            "ka": "AP Students",
+            "ar": "AP Students"
+          },
+          "kind": "official",
+          "provider": "College Board",
+          "url": "https://apstudents.collegeboard.org/",
+          "free": true,
+          "note": {
+            "en": "Official student site. You register through your school or an authorised test centre, not directly.",
+            "ka": "ოფიციალური სტუდენტური საიტი. რეგისტრაცია ხდება სკოლის ან ავტორიზებული ცენტრის მეშვეობით, არა პირდაპირ.",
+            "ar": "الموقع الرسمي للطلاب. التسجيل عبر مدرستك أو مركز معتمد وليس مباشرة."
+          }
+        },
+        {
+          "title": {
+            "en": "2027 AP exam dates",
+            "ka": "AP გამოცდების თარიღები 2027",
+            "ar": "مواعيد امتحانات AP لعام 2027"
+          },
+          "kind": "official",
+          "provider": "College Board",
+          "url": "https://apstudents.collegeboard.org/exam-dates",
+          "free": true,
+          "note": {
+            "en": "The day and time of every subject.",
+            "ka": "თითოეული საგნის გამოცდის დღე და დრო.",
+            "ar": "يوم ووقت امتحان كل مادة."
+          }
+        },
+        {
+          "title": {
+            "en": "AP courses and exams (course pages)",
+            "ka": "AP კურსები და გამოცდები",
+            "ar": "مقررات وامتحانات AP"
+          },
+          "kind": "official",
+          "provider": "College Board",
+          "url": "https://apstudents.collegeboard.org/courses",
+          "free": true,
+          "note": {
+            "en": "Each subject page lists the exam format and links to past free-response questions.",
+            "ka": "თითოეული საგნის გვერდზე არის გამოცდის ფორმატი და წინა წლების ღია კითხვების ბმულები.",
+            "ar": "صفحة كل مادة تعرض صيغة الامتحان وروابط الأسئلة المفتوحة السابقة."
+          }
+        },
+        {
+          "title": {
+            "en": "Past exam questions (example: Calculus AB)",
+            "ka": "წინა წლების კითხვები (მაგალითი: Calculus AB)",
+            "ar": "أسئلة الامتحانات السابقة (مثال: Calculus AB)"
+          },
+          "kind": "practice-test",
+          "provider": "College Board",
+          "url": "https://apcentral.collegeboard.org/courses/ap-calculus-ab/exam/past-exam-questions",
+          "free": true,
+          "note": {
+            "en": "Real free-response questions with scoring guidelines; every subject has a similar page.",
+            "ka": "ნამდვილი ღია კითხვები შეფასების კრიტერიუმებით; ყველა საგანს მსგავსი გვერდი აქვს.",
+            "ar": "أسئلة مفتوحة حقيقية مع معايير التصحيح؛ لكل مادة صفحة مماثلة."
+          }
+        },
+        {
+          "title": {
+            "en": "AP Classroom (AP Daily videos)",
+            "ka": "AP Classroom (AP Daily ვიდეოები)",
+            "ar": "AP Classroom (فيديوهات AP Daily)"
+          },
+          "kind": "course",
+          "provider": "College Board",
+          "url": "https://myap.collegeboard.org/",
+          "free": true,
+          "note": {
+            "en": "Free official video lessons and practice for every unit once your teacher adds you to a class.",
+            "ka": "უფასო ოფიციალური ვიდეოგაკვეთილები და სავარჯიშოები ყველა თემაზე, როცა მასწავლებელი კლასში დაგამატებს.",
+            "ar": "دروس فيديو وتمارين رسمية مجانية لكل وحدة بعد أن يضيفك معلمك إلى صف."
+          }
+        },
+        {
+          "title": {
+            "en": "Bluebook",
+            "ka": "Bluebook",
+            "ar": "Bluebook"
+          },
+          "kind": "app",
+          "provider": "College Board",
+          "url": "https://bluebook.collegeboard.org/",
+          "free": true,
+          "note": {
+            "en": "Most AP exams are digital: try the practice preview before exam day.",
+            "ka": "AP-ის უმეტესი გამოცდა ციფრულია: გამოცდამდე სცადე სავარჯიშო ვერსია.",
+            "ar": "معظم امتحانات AP رقمية: جرّب المعاينة التدريبية قبل يوم الامتحان."
+          }
+        },
+        {
+          "title": {
+            "en": "Advanced Placement (official channel)",
+            "ka": "Advanced Placement (ოფიციალური არხი)",
+            "ar": "Advanced Placement (القناة الرسمية)"
+          },
+          "kind": "video",
+          "provider": "YouTube: Advanced Placement",
+          "url": "https://www.youtube.com/@AdvancedPlacement",
+          "free": true,
+          "note": {
+            "en": "Official exam-format explainers and review sessions.",
+            "ka": "ოფიციალური ახსნები გამოცდის ფორმატზე და გამეორების სესიები.",
+            "ar": "شروح رسمية لصيغة الامتحان وجلسات مراجعة."
+          }
+        },
+        {
+          "title": {
+            "en": "Heimler's History",
+            "ka": "Heimler's History",
+            "ar": "Heimler's History"
+          },
+          "kind": "video",
+          "provider": "YouTube: Heimler's History",
+          "url": "https://www.youtube.com/@heimlershistory",
+          "free": true,
+          "note": {
+            "en": "The go-to channel for AP World, US and European History.",
+            "ka": "მთავარი არხი AP World, US და European History-სთვის.",
+            "ar": "القناة الأساسية لتاريخ العالم والتاريخ الأمريكي والأوروبي في AP."
+          }
+        },
+        {
+          "title": {
+            "en": "Flipping Physics",
+            "ka": "Flipping Physics",
+            "ar": "Flipping Physics"
+          },
+          "kind": "video",
+          "provider": "YouTube: Flipping Physics",
+          "url": "https://www.youtube.com/@FlippingPhysics",
+          "free": true,
+          "note": {
+            "en": "Clear, fun lessons and reviews for AP Physics 1 and C.",
+            "ka": "გასაგები და სახალისო გაკვეთილები AP Physics 1-ისა და C-სთვის.",
+            "ar": "دروس ومراجعات واضحة وممتعة لـ AP Physics 1 وC."
+          }
+        },
+        {
+          "title": {
+            "en": "The Organic Chemistry Tutor",
+            "ka": "The Organic Chemistry Tutor",
+            "ar": "The Organic Chemistry Tutor"
+          },
+          "kind": "video",
+          "provider": "YouTube: The Organic Chemistry Tutor",
+          "url": "https://www.youtube.com/@TheOrganicChemistryTutor",
+          "free": true,
+          "note": {
+            "en": "Thousands of worked examples in calculus, chemistry and physics.",
+            "ka": "ათასობით ამოხსნილი მაგალითი კალკულუსში, ქიმიასა და ფიზიკაში.",
+            "ar": "آلاف الأمثلة المحلولة في التفاضل والكيمياء والفيزياء."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ib",
+      "name": "IB Diploma Programme",
+      "by": "International Baccalaureate (IB)",
+      "what": {
+        "en": "A two-year school-leaving diploma (ages 16–19) recognised by universities in almost every country. You study six subjects plus the core: Theory of Knowledge, the Extended Essay and CAS (creativity, activity, service). Offered by IB World Schools in Tbilisi, Doha and across the Gulf.",
+        "ka": "ორწლიანი სკოლის დამამთავრებელი დიპლომი (16–19 წლის მოსწავლეებისთვის), რომელსაც თითქმის ყველა ქვეყნის უნივერსიტეტი აღიარებს. სწავლობ ექვს საგანს და ბირთვს: Theory of Knowledge, Extended Essay და CAS (შემოქმედება, აქტივობა, სამსახური). მას IB სკოლები გვთავაზობენ თბილისში, დოჰასა და მთელ ყურის რეგიონში.",
+        "ar": "دبلوم ثانوي مدته سنتان (من 16 إلى 19 عاماً) تعترف به الجامعات في كل البلدان تقريباً. تدرس ست مواد إضافة إلى الجوهر: نظرية المعرفة، والمقال الموسّع، وCAS (الإبداع والنشاط والخدمة). تقدمه مدارس IB في تبليسي والدوحة وعموم الخليج."
+      },
+      "format": {
+        "en": "Three subjects at Higher Level and three at Standard Level, each graded 1–7 through final exams plus internal assessments marked during the course. TOK and the Extended Essay add up to 3 points: maximum 45. The diploma usually needs at least 24 points and completed CAS.",
+        "ka": "სამი საგანი უმაღლეს დონეზე (HL) და სამი სტანდარტულზე (SL), თითო ფასდება 1–7 ქულით: საბოლოო გამოცდებით და კურსის განმავლობაში შესრულებული შიდა შეფასებებით. TOK და Extended Essay 3 ქულამდე ამატებს: მაქსიმუმი 45. დიპლომისთვის ჩვეულებრივ საჭიროა მინიმუმ 24 ქულა და დასრულებული CAS.",
+        "ar": "ثلاث مواد في المستوى العالي وثلاث في المستوى العادي، تُقيَّم كل منها من 1 إلى 7 عبر الامتحانات النهائية والتقييمات الداخلية خلال الدراسة. تضيف نظرية المعرفة والمقال الموسّع حتى 3 نقاط: الحد الأقصى 45. يتطلب الدبلوم عادة 24 نقطة على الأقل وإتمام CAS."
+      },
+      "dates": {
+        "en": "Two exam sessions: May (most schools) and November. The May 2027 session runs from late April to mid-May 2027; your IB coordinator gives the exact timetable. May results are released in early July.",
+        "ka": "ორი საგამოცდო სესია: მაისი (სკოლების უმეტესობა) და ნოემბერი. 2027 წლის მაისის სესია აპრილის ბოლოდან მაისის შუა რიცხვებამდე გაგრძელდება; ზუსტ განრიგს IB კოორდინატორი მოგცემს. მაისის შედეგები ივლისის დასაწყისში ქვეყნდება.",
+        "ar": "دورتان للامتحانات: مايو (معظم المدارس) ونوفمبر. تمتد دورة مايو 2027 من أواخر أبريل إلى منتصف مايو 2027؛ ويعطيك منسق IB الجدول الدقيق. تصدر نتائج مايو أوائل يوليو."
+      },
+      "cost": "Paid through your school (IB registration plus per-subject fees, set by the school).",
+      "register_url": "https://www.ibo.org/programmes/find-an-ib-school/",
+      "resources": [
+        {
+          "title": {
+            "en": "IB Diploma Programme (official)",
+            "ka": "IB Diploma Programme (ოფიციალური)",
+            "ar": "برنامج دبلوم IB (الرسمي)"
+          },
+          "kind": "official",
+          "provider": "International Baccalaureate",
+          "url": "https://www.ibo.org/programmes/diploma-programme/",
+          "free": true,
+          "note": {
+            "en": "Official overview of subjects, the core and recognition.",
+            "ka": "საგნების, ბირთვისა და აღიარების ოფიციალური მიმოხილვა.",
+            "ar": "النظرة الرسمية على المواد والجوهر والاعتراف."
+          }
+        },
+        {
+          "title": {
+            "en": "DP assessment and exams",
+            "ka": "DP შეფასება და გამოცდები",
+            "ar": "تقييم وامتحانات الدبلوم"
+          },
+          "kind": "official",
+          "provider": "International Baccalaureate",
+          "url": "https://www.ibo.org/programmes/diploma-programme/assessment-and-exams/",
+          "free": true,
+          "note": {
+            "en": "How grades, points and exam sessions work.",
+            "ka": "როგორ მუშაობს შეფასებები, ქულები და საგამოცდო სესიები.",
+            "ar": "كيف تعمل الدرجات والنقاط ودورات الامتحانات."
+          }
+        },
+        {
+          "title": {
+            "en": "Find an IB World School",
+            "ka": "IB სკოლის მოძებნა",
+            "ar": "ابحث عن مدرسة IB"
+          },
+          "kind": "official",
+          "provider": "International Baccalaureate",
+          "url": "https://www.ibo.org/programmes/find-an-ib-school/",
+          "free": true,
+          "note": {
+            "en": "Search IB schools in Georgia, Qatar or anywhere else.",
+            "ka": "მოძებნე IB სკოლები საქართველოში, კატარში ან სხვაგან.",
+            "ar": "ابحث عن مدارس IB في جورجيا أو قطر أو أي مكان."
+          }
+        },
+        {
+          "title": {
+            "en": "Follett IB Store (official past papers)",
+            "ka": "Follett IB Store (ოფიციალური წინა წლების ნაშრომები)",
+            "ar": "متجر Follett IB (أوراق الامتحانات السابقة الرسمية)"
+          },
+          "kind": "book",
+          "provider": "Follett / IB",
+          "url": "https://www.follettibstore.com/",
+          "free": false,
+          "note": {
+            "en": "Official past papers and mark schemes; ask your school first, as many already have them.",
+            "ka": "ოფიციალური წინა წლების ნაშრომები და შეფასების სქემები; ჯერ სკოლას ჰკითხე, ბევრს უკვე აქვს.",
+            "ar": "أوراق امتحانات سابقة رسمية ومخططات تصحيح؛ اسأل مدرستك أولاً فكثير منها يملكها."
+          }
+        },
+        {
+          "title": {
+            "en": "Revision Village (IB Maths)",
+            "ka": "Revision Village (IB მათემატიკა)",
+            "ar": "Revision Village (رياضيات IB)"
+          },
+          "kind": "course",
+          "provider": "Revision Village",
+          "url": "https://www.revisionvillage.com/",
+          "free": false,
+          "note": {
+            "en": "Popular IB Maths question bank and videos; some content free, full access paid.",
+            "ka": "IB მათემატიკის პოპულარული კითხვების ბანკი და ვიდეოები; ნაწილი უფასოა, სრული წვდომა — ფასიანი.",
+            "ar": "بنك أسئلة وفيديوهات شائعة لرياضيات IB؛ بعضها مجاني والوصول الكامل مدفوع."
+          }
+        },
+        {
+          "title": {
+            "en": "Revision Village",
+            "ka": "Revision Village",
+            "ar": "Revision Village"
+          },
+          "kind": "video",
+          "provider": "YouTube: Revision Village",
+          "url": "https://www.youtube.com/@RevisionVillage",
+          "free": true,
+          "note": {
+            "en": "Free IB Maths (AA and AI) exam walkthroughs.",
+            "ka": "IB მათემატიკის (AA და AI) გამოცდების უფასო განხილვები.",
+            "ar": "شروح مجانية لامتحانات رياضيات IB (AA وAI)."
+          }
+        },
+        {
+          "title": {
+            "en": "Crash Course",
+            "ka": "Crash Course",
+            "ar": "Crash Course"
+          },
+          "kind": "video",
+          "provider": "YouTube: CrashCourse",
+          "url": "https://www.youtube.com/@crashcourse",
+          "free": true,
+          "note": {
+            "en": "Fast, lively overviews of biology, chemistry, history, economics and more.",
+            "ka": "სწრაფი და ცოცხალი მიმოხილვები ბიოლოგიაში, ქიმიაში, ისტორიაში, ეკონომიკასა და სხვა საგნებში.",
+            "ar": "ملخصات سريعة وحيوية في الأحياء والكيمياء والتاريخ والاقتصاد وغيرها."
+          }
+        },
+        {
+          "title": {
+            "en": "Professor Dave Explains",
+            "ka": "Professor Dave Explains",
+            "ar": "Professor Dave Explains"
+          },
+          "kind": "video",
+          "provider": "YouTube: Professor Dave Explains",
+          "url": "https://www.youtube.com/@ProfessorDaveExplains",
+          "free": true,
+          "note": {
+            "en": "Clear science and maths explanations for HL and SL topics.",
+            "ka": "მეცნიერებისა და მათემატიკის გასაგები ახსნები HL და SL თემებზე.",
+            "ar": "شروح واضحة للعلوم والرياضيات لموضوعات HL وSL."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gre",
+      "name": "GRE General Test",
+      "by": "ETS",
+      "what": {
+        "en": "The admission test for many master's and PhD programmes (and some business schools), mostly in the US but also in Europe and Asia. Many programmes have made it optional; check each one.",
+        "ka": "მისაღები ტესტი მრავალი მაგისტრატურისა და დოქტორანტურის პროგრამისთვის (და ზოგი ბიზნეს სკოლისთვის), ძირითადად აშშ-ში, მაგრამ ევროპასა და აზიაშიც. ბევრმა პროგრამამ ის არასავალდებულო გახადა; თითოეული გადაამოწმე.",
+        "ar": "اختبار القبول في كثير من برامج الماجستير والدكتوراه (وبعض كليات الأعمال)، في الولايات المتحدة غالباً وفي أوروبا وآسيا أيضاً. جعلته برامج كثيرة اختيارياً؛ تحقق من كل برنامج."
+      },
+      "format": {
+        "en": "About 1 h 58 min: Analytical Writing (one essay, 30 min), Verbal Reasoning (2 sections, 27 questions, 41 min) and Quantitative Reasoning (2 sections, 27 questions, 47 min). Verbal and Quant are scored 130–170 each, Writing 0–6. At a test centre or at home.",
+        "ka": "დაახლოებით 1 სთ 58 წთ: Analytical Writing (ერთი ესე, 30 წთ), Verbal Reasoning (2 ნაწილი, 27 კითხვა, 41 წთ) და Quantitative Reasoning (2 ნაწილი, 27 კითხვა, 47 წთ). Verbal და Quant ფასდება 130–170 ქულით, Writing — 0–6. ცენტრში ან სახლიდან.",
+        "ar": "نحو ساعة و58 دقيقة: الكتابة التحليلية (مقال واحد، 30 دقيقة)، الاستدلال اللفظي (قسمان، 27 سؤالاً، 41 دقيقة)، الاستدلال الكمي (قسمان، 27 سؤالاً، 47 دقيقة). يُقيَّم اللفظي والكمي من 130 إلى 170 لكل منهما، والكتابة من 0 إلى 6. في مركز أو من المنزل."
+      },
+      "dates": {
+        "en": "Year-round, almost any day. You can retake once every 21 days, up to 5 times in 12 months. Scores are valid for 5 years.",
+        "ka": "მთელი წლის განმავლობაში, თითქმის ნებისმიერ დღეს. ხელახლა ჩაბარება შეიძლება ყოველ 21 დღეში ერთხელ, 12 თვეში 5-ჯერ. შედეგები 5 წელი მოქმედებს.",
+        "ar": "طوال العام، في أي يوم تقريباً. يمكن الإعادة مرة كل 21 يوماً، حتى 5 مرات في 12 شهراً. الدرجات صالحة لخمس سنوات."
+      },
+      "cost": "USD 249 (from 1 August 2026; China USD 237.86).",
+      "register_url": "https://www.ets.org/gre/test-takers/general-test/register.html",
+      "resources": [
+        {
+          "title": {
+            "en": "About the GRE General Test",
+            "ka": "GRE General Test-ის შესახებ",
+            "ar": "عن اختبار GRE العام"
+          },
+          "kind": "official",
+          "provider": "ETS",
+          "url": "https://www.ets.org/gre/test-takers/general-test/about.html",
+          "free": true,
+          "note": {
+            "en": "Official structure, timing and scoring.",
+            "ka": "ოფიციალური სტრუქტურა, დრო და შეფასება.",
+            "ar": "البنية والتوقيت والتقييم الرسمي."
+          }
+        },
+        {
+          "title": {
+            "en": "POWERPREP free practice tests",
+            "ka": "POWERPREP — უფასო სავარჯიშო ტესტები",
+            "ar": "اختبارات POWERPREP التدريبية المجانية"
+          },
+          "kind": "practice-test",
+          "provider": "ETS",
+          "url": "https://www.ets.org/gre/test-takers/general-test/prepare/powerprep.html",
+          "free": true,
+          "note": {
+            "en": "Two free full-length official tests that use the real scoring. Save them for the last weeks.",
+            "ka": "ორი უფასო სრული ოფიციალური ტესტი ნამდვილი შეფასებით. ბოლო კვირებისთვის შემოინახე.",
+            "ar": "اختباران رسميان كاملان مجانيان بالتقييم الحقيقي. احتفظ بهما للأسابيع الأخيرة."
+          }
+        },
+        {
+          "title": {
+            "en": "Prepare for the GRE (official hub)",
+            "ka": "GRE-სთვის მომზადება (ოფიციალური)",
+            "ar": "التحضير لـ GRE (المركز الرسمي)"
+          },
+          "kind": "official",
+          "provider": "ETS",
+          "url": "https://www.ets.org/gre/test-takers/general-test/prepare.html",
+          "free": true,
+          "note": {
+            "en": "Free and paid official materials, including The Official Guide to the GRE General Test.",
+            "ka": "უფასო და ფასიანი ოფიციალური მასალები, მათ შორის The Official Guide to the GRE General Test.",
+            "ar": "مواد رسمية مجانية ومدفوعة، منها الدليل الرسمي لاختبار GRE."
+          }
+        },
+        {
+          "title": {
+            "en": "GRE fees",
+            "ka": "GRE-ის საფასური",
+            "ar": "رسوم GRE"
+          },
+          "kind": "official",
+          "provider": "ETS",
+          "url": "https://www.ets.org/gre/test-takers/general-test/register/fees.html",
+          "free": true,
+          "note": {
+            "en": "Current fee and rescheduling costs; ETS also runs a Fee Reduction Program for some applicants.",
+            "ka": "მიმდინარე საფასური და გადატანის ღირებულება; ETS ზოგიერთი აპლიკანტისთვის ფასდაკლების პროგრამასაც გვთავაზობს.",
+            "ar": "الرسوم الحالية وتكاليف إعادة الجدولة؛ ولدى ETS برنامج لتخفيض الرسوم لبعض المتقدمين."
+          }
+        },
+        {
+          "title": {
+            "en": "Khan Academy Math",
+            "ka": "Khan Academy — მათემატიკა",
+            "ar": "الرياضيات على Khan Academy"
+          },
+          "kind": "course",
+          "provider": "Khan Academy",
+          "url": "https://www.khanacademy.org/math",
+          "free": true,
+          "note": {
+            "en": "Rebuild the school maths behind GRE Quant for free.",
+            "ka": "უფასოდ აღიდგინე სასკოლო მათემატიკა, რომელსაც GRE Quant ეფუძნება.",
+            "ar": "استعد مجاناً رياضيات المدرسة التي يقوم عليها القسم الكمي."
+          }
+        },
+        {
+          "title": {
+            "en": "Magoosh Test Prep for GRE",
+            "ka": "Magoosh Test Prep for GRE",
+            "ar": "Magoosh Test Prep for GRE"
+          },
+          "kind": "video",
+          "provider": "YouTube: Magoosh Test Prep for GRE",
+          "url": "https://www.youtube.com/@MagooshGRE",
+          "free": true,
+          "note": {
+            "en": "Short strategy lessons for Verbal and Quant.",
+            "ka": "მოკლე სტრატეგიული გაკვეთილები Verbal-სა და Quant-ზე.",
+            "ar": "دروس استراتيجية قصيرة للقسمين اللفظي والكمي."
+          }
+        },
+        {
+          "title": {
+            "en": "The Princeton Review",
+            "ka": "The Princeton Review",
+            "ar": "The Princeton Review"
+          },
+          "kind": "video",
+          "provider": "YouTube: The Princeton Review",
+          "url": "https://www.youtube.com/@ThePrincetonReview",
+          "free": true,
+          "note": {
+            "en": "GRE strategy videos and free practice sessions.",
+            "ka": "GRE სტრატეგიის ვიდეოები და უფასო სავარჯიშო სესიები.",
+            "ar": "فيديوهات استراتيجيات GRE وجلسات تدريب مجانية."
+          }
+        },
+        {
+          "title": {
+            "en": "Anki flashcards",
+            "ka": "Anki ბარათები",
+            "ar": "بطاقات Anki"
+          },
+          "kind": "app",
+          "provider": "Anki",
+          "url": "https://apps.ankiweb.net/",
+          "free": true,
+          "note": {
+            "en": "Free spaced-repetition app; build a deck of GRE vocabulary you meet in practice.",
+            "ka": "უფასო აპლიკაცია ინტერვალური გამეორებისთვის; შექმენი GRE-ის ლექსიკის დასტა სავარჯიშოებიდან.",
+            "ar": "تطبيق مجاني للتكرار المتباعد؛ أنشئ مجموعة بمفردات GRE التي تصادفها في التدريب."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gmat",
+      "name": "GMAT",
+      "by": "GMAC (Graduate Management Admission Council)",
+      "what": {
+        "en": "The main admission test for MBA and business master's programmes (management, finance, analytics) worldwide, including Qatar and the Gulf. Many schools also accept the GRE.",
+        "ka": "MBA-სა და ბიზნესის სამაგისტრო პროგრამების (მენეჯმენტი, ფინანსები, ანალიტიკა) მთავარი მისაღები ტესტი მთელ მსოფლიოში, მათ შორის კატარსა და ყურის ქვეყნებში. ბევრი სკოლა GRE-საც იღებს.",
+        "ar": "اختبار القبول الرئيسي لبرامج MBA وماجستير الأعمال (الإدارة، المالية، التحليلات) حول العالم، بما في ذلك قطر والخليج. كثير من الكليات تقبل GRE أيضاً."
+      },
+      "format": {
+        "en": "2 h 15 min in three 45-minute sections: Quantitative Reasoning (21 questions), Verbal Reasoning (23) and Data Insights (20), with an optional 10-min break. You choose the section order. Total score 205–805. At a test centre or online.",
+        "ka": "2 სთ 15 წთ, სამი 45-წუთიანი ნაწილი: Quantitative Reasoning (21 კითხვა), Verbal Reasoning (23) და Data Insights (20), სურვილისამებრ 10-წუთიანი შესვენებით. ნაწილების თანმიმდევრობას შენ ირჩევ. საერთო ქულა 205–805. ცენტრში ან ონლაინ.",
+        "ar": "ساعتان و15 دقيقة في ثلاثة أقسام كل منها 45 دقيقة: الاستدلال الكمي (21 سؤالاً)، الاستدلال اللفظي (23)، رؤى البيانات (20)، مع استراحة اختيارية 10 دقائق. أنت تختار ترتيب الأقسام. الدرجة الكلية 205–805. في مركز أو عبر الإنترنت."
+      },
+      "dates": {
+        "en": "Year-round: online 24/7, test centres most days. Up to 5 attempts in 12 months and 8 in total. Scores are valid for 5 years.",
+        "ka": "მთელი წლის განმავლობაში: ონლაინ 24/7, ცენტრებში — თითქმის ყოველდღე. 12 თვეში 5 მცდელობამდე, სულ — 8. შედეგები 5 წელი მოქმედებს.",
+        "ar": "طوال العام: عبر الإنترنت على مدار الساعة، وفي المراكز معظم الأيام. حتى 5 محاولات في 12 شهراً و8 إجمالاً. الدرجات صالحة لخمس سنوات."
+      },
+      "cost": "About USD 275 at a test centre and USD 300 online (local taxes may apply).",
+      "register_url": "https://www.mba.com/exams/gmat-exam/register",
+      "resources": [
+        {
+          "title": {
+            "en": "GMAT exam (official)",
+            "ka": "GMAT (ოფიციალური)",
+            "ar": "اختبار GMAT (الرسمي)"
+          },
+          "kind": "official",
+          "provider": "GMAC",
+          "url": "https://www.mba.com/exams/gmat-exam",
+          "free": true,
+          "note": {
+            "en": "Official home of the exam: booking, scores and policies.",
+            "ka": "გამოცდის ოფიციალური გვერდი: დაჯავშნა, ქულები და წესები.",
+            "ar": "الصفحة الرسمية للاختبار: الحجز والدرجات والسياسات."
+          }
+        },
+        {
+          "title": {
+            "en": "Exam structure",
+            "ka": "გამოცდის სტრუქტურა",
+            "ar": "بنية الاختبار"
+          },
+          "kind": "official",
+          "provider": "GMAC",
+          "url": "https://www.mba.com/exams/gmat-exam/about/exam-structure",
+          "free": true,
+          "note": {
+            "en": "Sections, timing and question types.",
+            "ka": "ნაწილები, დრო და კითხვების ტიპები.",
+            "ar": "الأقسام والتوقيت وأنواع الأسئلة."
+          }
+        },
+        {
+          "title": {
+            "en": "GMAT Official Starter Kit (free)",
+            "ka": "GMAT Official Starter Kit (უფასო)",
+            "ar": "حزمة GMAT الرسمية المجانية للبدء"
+          },
+          "kind": "practice-test",
+          "provider": "GMAC",
+          "url": "https://www.mba.com/exams/gmat-exam/prep-for-the-exam/free-official-starter-kit",
+          "free": true,
+          "note": {
+            "en": "Two free full-length official practice exams plus sample questions.",
+            "ka": "ორი უფასო სრული ოფიციალური სავარჯიშო გამოცდა და ნიმუში კითხვები.",
+            "ar": "اختباران تدريبيان رسميان كاملان مجاناً مع أسئلة نموذجية."
+          }
+        },
+        {
+          "title": {
+            "en": "Sample questions",
+            "ka": "ნიმუში კითხვები",
+            "ar": "أسئلة نموذجية"
+          },
+          "kind": "practice-test",
+          "provider": "GMAC",
+          "url": "https://www.mba.com/exams/gmat-exam/about/sample-questions",
+          "free": true,
+          "note": {
+            "en": "Try each question type before you start a study plan.",
+            "ka": "სასწავლო გეგმის დაწყებამდე სცადე ყველა ტიპის კითხვა.",
+            "ar": "جرّب كل نوع من الأسئلة قبل بدء خطة الدراسة."
+          }
+        },
+        {
+          "title": {
+            "en": "GMAT Official",
+            "ka": "GMAT Official",
+            "ar": "GMAT Official"
+          },
+          "kind": "video",
+          "provider": "YouTube: GMAT Official",
+          "url": "https://www.youtube.com/@GMATofficial",
+          "free": true,
+          "note": {
+            "en": "Official channel from GMAC.",
+            "ka": "GMAC-ის ოფიციალური არხი.",
+            "ar": "القناة الرسمية من GMAC."
+          }
+        },
+        {
+          "title": {
+            "en": "GMAT Ninja",
+            "ka": "GMAT Ninja",
+            "ar": "GMAT Ninja"
+          },
+          "kind": "video",
+          "provider": "YouTube: GMAT Ninja",
+          "url": "https://www.youtube.com/@GMATNinjaTutoring",
+          "free": true,
+          "note": {
+            "en": "Long, honest strategy sessions, strong on Verbal and Data Insights.",
+            "ka": "გრძელი და გულწრფელი სტრატეგიული სესიები, განსაკუთრებით Verbal-სა და Data Insights-ზე.",
+            "ar": "جلسات استراتيجية مطوّلة وصريحة، قوية في اللفظي ورؤى البيانات."
+          }
+        },
+        {
+          "title": {
+            "en": "e-GMAT",
+            "ka": "e-GMAT",
+            "ar": "e-GMAT"
+          },
+          "kind": "video",
+          "provider": "YouTube: e-GMAT",
+          "url": "https://www.youtube.com/@eGMAT",
+          "free": true,
+          "note": {
+            "en": "Free webinars and question walkthroughs.",
+            "ka": "უფასო ვებინარები და კითხვების განხილვა.",
+            "ar": "ندوات مجانية وشرح أسئلة."
+          }
+        },
+        {
+          "title": {
+            "en": "Target Test Prep GMAT",
+            "ka": "Target Test Prep GMAT",
+            "ar": "Target Test Prep GMAT"
+          },
+          "kind": "video",
+          "provider": "YouTube: Target Test Prep GMAT",
+          "url": "https://www.youtube.com/@TargetTestPrep",
+          "free": true,
+          "note": {
+            "en": "Quant-focused lessons and score-improvement stories.",
+            "ka": "Quant-ზე ორიენტირებული გაკვეთილები და ქულის გაუმჯობესების ისტორიები.",
+            "ar": "دروس تركّز على القسم الكمي وقصص تحسين الدرجات."
+          }
+        },
+        {
+          "title": {
+            "en": "Magoosh GMAT & MBA Admissions",
+            "ka": "Magoosh GMAT & MBA Admissions",
+            "ar": "Magoosh GMAT & MBA Admissions"
+          },
+          "kind": "video",
+          "provider": "YouTube: Magoosh GMAT",
+          "url": "https://www.youtube.com/@MagooshGMAT",
+          "free": true,
+          "note": {
+            "en": "Short lessons plus MBA application advice.",
+            "ka": "მოკლე გაკვეთილები და MBA-ზე განაცხადის რჩევები.",
+            "ar": "دروس قصيرة ونصائح للتقديم على MBA."
+          }
+        }
+      ]
+    },
+    {
+      "id": "naec-georgia",
+      "name": "Unified National Exams (Georgia) / ერთიანი ეროვნული გამოცდები",
+      "by": "NAEC – National Assessment and Examinations Center (შეფასებისა და გამოცდების ეროვნული ცენტრი)",
+      "what": {
+        "en": "The national entrance exams for bachelor's (and some vocational) programmes at Georgian universities. Your results decide admission and, under the state grant system, how much of your tuition the state may cover.",
+        "ka": "ქართულ უნივერსიტეტებში საბაკალავრო (და ზოგიერთ პროფესიულ) პროგრამებზე მისაღები ეროვნული გამოცდები. შედეგები განსაზღვრავს ჩარიცხვას და სახელმწიფო გრანტის სისტემით — სწავლის საფასურის რა ნაწილს დაფარავს სახელმწიფო.",
+        "ar": "امتحانات القبول الوطنية لبرامج البكالوريوس (وبعض البرامج المهنية) في الجامعات الجورجية. نتائجك تحدد القبول، ووفق نظام المنح الحكومية مقدار ما قد تغطيه الدولة من الرسوم الدراسية."
+      },
+      "format": {
+        "en": "Written tests in July. Most programmes require Georgian language and literature and a foreign language (English, German, French or Russian), plus one or more subjects set by the programme (e.g. mathematics, history, biology, chemistry, physics, geography, civic education). Scores are scaled so subjects can be compared, and universities set minimum thresholds.",
+        "ka": "წერითი ტესტები ივლისში. პროგრამების უმეტესობა ითხოვს ქართულ ენასა და ლიტერატურას და უცხო ენას (ინგლისური, გერმანული, ფრანგული ან რუსული), ასევე პროგრამის მიერ განსაზღვრულ ერთ ან მეტ საგანს (მაგ. მათემატიკა, ისტორია, ბიოლოგია, ქიმია, ფიზიკა, გეოგრაფია, სამოქალაქო განათლება). ქულები სკალირდება, რომ საგნები შედარებადი იყოს, უნივერსიტეტები კი მინიმალურ ზღვარს ადგენენ.",
+        "ar": "اختبارات كتابية في يوليو. تتطلب معظم البرامج اللغة الجورجية وآدابها ولغة أجنبية (الإنجليزية أو الألمانية أو الفرنسية أو الروسية)، إضافة إلى مادة أو أكثر يحددها البرنامج (مثل الرياضيات أو التاريخ أو الأحياء أو الكيمياء أو الفيزياء أو الجغرافيا أو التربية المدنية). تُعدَّل الدرجات إحصائياً لتكون المواد قابلة للمقارنة، وتحدد الجامعات حدوداً دنيا."
+      },
+      "dates": {
+        "en": "Once a year. In 2026, online registration ran 6 April – 11 May and the exams ran 2–22 July. The 2027 timetable and any rule changes are published by NAEC in early 2027: expect registration in spring and exams in July. Check naec.ge for the official subject list and sample tests before you choose subjects.",
+        "ka": "წელიწადში ერთხელ. 2026 წელს ონლაინ რეგისტრაცია 6 აპრილიდან 11 მაისამდე მიმდინარეობდა, გამოცდები კი 2–22 ივლისს ჩატარდა. 2027 წლის განრიგსა და წესების ცვლილებებს NAEC 2027 წლის დასაწყისში გამოაქვეყნებს: რეგისტრაცია სავარაუდოდ გაზაფხულზე იქნება, გამოცდები კი — ივლისში. საგნების არჩევამდე naec.ge-ზე ნახე ოფიციალური ჩამონათვალი და ნიმუში ტესტები.",
+        "ar": "مرة واحدة سنوياً. في 2026 كان التسجيل الإلكتروني من 6 أبريل إلى 11 مايو، وعُقدت الامتحانات من 2 إلى 22 يوليو. ينشر المركز جدول 2027 وأي تغييرات في القواعد مطلع 2027: توقّع التسجيل في الربيع والامتحانات في يوليو. راجع naec.ge لقائمة المواد الرسمية ونماذج الاختبارات قبل اختيار موادك."
+      },
+      "cost": "GEL 10 per subject (2026).",
+      "register_url": "https://naec.ge/",
+      "resources": [
+        {
+          "title": {
+            "en": "NAEC official website",
+            "ka": "NAEC-ის ოფიციალური საიტი",
+            "ar": "الموقع الرسمي للمركز الوطني للتقييم والامتحانات"
+          },
+          "kind": "official",
+          "provider": "NAEC",
+          "url": "https://naec.ge/",
+          "free": true,
+          "note": {
+            "en": "News, rules, subject programmes and published tests from previous years (see the Unified National Exams section).",
+            "ka": "სიახლეები, წესები, საგნობრივი პროგრამები და წინა წლების გამოქვეყნებული ტესტები (იხ. ერთიანი ეროვნული გამოცდების განყოფილება).",
+            "ar": "الأخبار والقواعد وبرامج المواد والاختبارات المنشورة من السنوات السابقة (انظر قسم الامتحانات الوطنية الموحدة)."
+          }
+        },
+        {
+          "title": {
+            "en": "NAEC online services (registration and results)",
+            "ka": "NAEC-ის ონლაინ სერვისები (რეგისტრაცია და შედეგები)",
+            "ar": "خدمات المركز الإلكترونية (التسجيل والنتائج)"
+          },
+          "kind": "official",
+          "provider": "NAEC",
+          "url": "https://online.naec.ge/",
+          "free": true,
+          "note": {
+            "en": "Where you register, pay and later see your scores.",
+            "ka": "აქ რეგისტრირდები, იხდი საფასურს და შემდეგ ნახულობ შედეგებს.",
+            "ar": "هنا تسجّل وتدفع ثم ترى درجاتك لاحقاً."
+          }
+        },
+        {
+          "title": {
+            "en": "Regulation on conducting the Unified National Exams",
+            "ka": "ერთიანი ეროვნული გამოცდების ჩატარების დებულება",
+            "ar": "لائحة إجراء الامتحانات الوطنية الموحدة"
+          },
+          "kind": "official",
+          "provider": "Legislative Herald of Georgia (matsne.gov.ge)",
+          "url": "https://matsne.gov.ge/ka/document/view/1210497",
+          "free": true,
+          "note": {
+            "en": "The legal rules (in Georgian): appeals, grants, scaling. Always read the latest consolidated version.",
+            "ka": "სამართლებრივი წესები: აპელაცია, გრანტები, სკალირება. ყოველთვის უახლესი კონსოლიდირებული ვერსია წაიკითხე.",
+            "ar": "القواعد القانونية (بالجورجية): الطعون والمنح والتعديل الإحصائي. اقرأ دائماً أحدث نسخة موحدة."
+          }
+        },
+        {
+          "title": {
+            "en": "Khan Academy Math",
+            "ka": "Khan Academy — მათემატიკა",
+            "ar": "الرياضيات على Khan Academy"
+          },
+          "kind": "course",
+          "provider": "Khan Academy",
+          "url": "https://www.khanacademy.org/math",
+          "free": true,
+          "note": {
+            "en": "Free practice for algebra, geometry and functions: useful alongside Georgian textbooks.",
+            "ka": "უფასო სავარჯიშოები ალგებრაში, გეომეტრიასა და ფუნქციებში — ქართულ სახელმძღვანელოებთან ერთად სასარგებლოა.",
+            "ar": "تمارين مجانية في الجبر والهندسة والدوال: مفيدة إلى جانب الكتب الجورجية."
+          }
+        },
+        {
+          "title": {
+            "en": "GeoGebra",
+            "ka": "GeoGebra",
+            "ar": "GeoGebra"
+          },
+          "kind": "app",
+          "provider": "GeoGebra",
+          "url": "https://www.geogebra.org/math",
+          "free": true,
+          "note": {
+            "en": "Free graphing and geometry tools to check your work and see functions visually.",
+            "ka": "უფასო გრაფიკული და გეომეტრიული ინსტრუმენტები ნამუშევრის შესამოწმებლად და ფუნქციების ვიზუალურად დასანახად.",
+            "ar": "أدوات مجانية للرسم والهندسة للتحقق من حلولك ورؤية الدوال بصرياً."
+          }
+        },
+        {
+          "title": {
+            "en": "BBC Learning English",
+            "ka": "BBC Learning English",
+            "ar": "BBC Learning English"
+          },
+          "kind": "course",
+          "provider": "BBC",
+          "url": "https://www.bbc.co.uk/learningenglish",
+          "free": true,
+          "note": {
+            "en": "Free grammar, reading and listening practice for the English exam.",
+            "ka": "უფასო გრამატიკის, კითხვისა და მოსმენის სავარჯიშოები ინგლისურის გამოცდისთვის.",
+            "ar": "تمارين مجانية في القواعد والقراءة والاستماع لامتحان الإنجليزية."
+          }
+        },
+        {
+          "title": {
+            "en": "Cambridge: Test your English",
+            "ka": "Cambridge: შეამოწმე შენი ინგლისური",
+            "ar": "Cambridge: اختبر لغتك الإنجليزية"
+          },
+          "kind": "practice-test",
+          "provider": "Cambridge English",
+          "url": "https://www.cambridgeenglish.org/test-your-english/",
+          "free": true,
+          "note": {
+            "en": "Quick free level check to plan your English preparation.",
+            "ka": "სწრაფი უფასო დონის შემოწმება ინგლისურის მომზადების დასაგეგმად.",
+            "ar": "اختبار مستوى سريع ومجاني لتخطيط تحضيرك للإنجليزية."
+          }
+        },
+        {
+          "title": {
+            "en": "Khan Academy (YouTube)",
+            "ka": "Khan Academy (YouTube)",
+            "ar": "Khan Academy (YouTube)"
+          },
+          "kind": "video",
+          "provider": "YouTube: Khan Academy",
+          "url": "https://www.youtube.com/@khanacademy",
+          "free": true,
+          "note": {
+            "en": "Thousands of free lessons in maths, physics, chemistry, biology and history (in English, good extra practice).",
+            "ka": "ათასობით უფასო გაკვეთილი მათემატიკაში, ფიზიკაში, ქიმიაში, ბიოლოგიასა და ისტორიაში (ინგლისურად — კარგი დამატებითი პრაქტიკა).",
+            "ar": "آلاف الدروس المجانية في الرياضيات والفيزياء والكيمياء والأحياء والتاريخ (بالإنجليزية، تدريب إضافي جيد)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "qu-placement",
+      "name": "Qatar University placement tests (ACCUPLACER ESL, QU-Placer Math)",
+      "by": "Qatar University Testing Center",
+      "what": {
+        "en": "Qatar has no single national entrance exam: universities admit on your secondary-school grades plus English and maths requirements. At Qatar University, if you lack an IELTS/TOEFL or SAT/ACT score that meets the minimum, you take its placement tests. Strong results let you skip the Foundation Program and start your degree directly. (Education City universities use SAT/ACT and IELTS/TOEFL instead.)",
+        "ka": "კატარში ერთიანი ეროვნული მისაღები გამოცდა არ არსებობს: უნივერსიტეტები იღებენ სასკოლო ნიშნებით, ინგლისურისა და მათემატიკის მოთხოვნებთან ერთად. Qatar University-ში, თუ IELTS/TOEFL ან SAT/ACT საკმარისი ქულა არ გაქვს, მის შიდა ტესტებს აბარებ. კარგი შედეგი გაძლევს საშუალებას, Foundation Program გამოტოვო და პირდაპირ ძირითადი სწავლა დაიწყო. (Education City-ის უნივერსიტეტები ამის ნაცვლად SAT/ACT-სა და IELTS/TOEFL-ს იყენებენ.)",
+        "ar": "لا يوجد في قطر امتحان قبول وطني موحّد: تقبل الجامعات الطلاب بناءً على درجات الثانوية مع متطلبات الإنجليزية والرياضيات. في جامعة قطر، إن لم تكن لديك درجة كافية في IELTS/TOEFL أو SAT/ACT، تؤدي اختبارات تحديد المستوى. النتائج الجيدة تعفيك من البرنامج التأسيسي وتبدأ تخصصك مباشرة. (تعتمد جامعات المدينة التعليمية على SAT/ACT وIELTS/TOEFL بدلاً من ذلك.)"
+      },
+      "format": {
+        "en": "ACCUPLACER ESL (English): computer-adaptive, four parts (Language Use, Listening, Sentence Meaning, Reading Skills), each 20–120; exemption needs an aggregate of 400 with at least 100 in Reading Skills and 100 in Language Use. QU-Placer Math: 70 questions in 2 hours (Elementary Algebra and Pre-Calculus), calculator provided, score 125–275; 235+ places you in Calculus 1. Alternatives: IELTS 5.5 / TOEFL iBT 61 for English; SAT Math 570 / ACT Math 24 for maths. Medicine and Dental Medicine do not accept ACCUPLACER.",
+        "ka": "ACCUPLACER ESL (ინგლისური): კომპიუტერული ადაპტური ტესტი, ოთხი ნაწილი (Language Use, Listening, Sentence Meaning, Reading Skills), თითო 20–120 ქულა; გათავისუფლებისთვის საჭიროა ჯამში 400, მათ შორის მინიმუმ 100 Reading Skills-ში და 100 Language Use-ში. QU-Placer Math: 70 კითხვა 2 საათში (ელემენტარული ალგებრა და წინასწარი კალკულუსი), კალკულატორს ცენტრი გაძლევს, ქულა 125–275; 235+ ნიშნავს Calculus 1-ზე ჩარიცხვას. ალტერნატივები: ინგლისურისთვის IELTS 5.5 / TOEFL iBT 61; მათემატიკისთვის SAT Math 570 / ACT Math 24. მედიცინისა და სტომატოლოგიის კოლეჯები ACCUPLACER-ს არ იღებენ.",
+        "ar": "ACCUPLACER ESL (الإنجليزية): اختبار حاسوبي تكيّفي من أربعة أجزاء (استخدام اللغة، الاستماع، معنى الجملة، مهارات القراءة)، لكل منها 20–120؛ يتطلب الإعفاء مجموعاً قدره 400 مع 100 على الأقل في مهارات القراءة و100 في استخدام اللغة. QU-Placer Math: سبعون سؤالاً في ساعتين (الجبر الأساسي وما قبل التفاضل)، والآلة الحاسبة توفّرها الجامعة، والدرجة 125–275؛ 235 فأكثر تضعك في Calculus 1. البدائل: IELTS 5.5 أو TOEFL iBT 61 للإنجليزية؛ SAT Math 570 أو ACT Math 24 للرياضيات. لا تقبل كليتا الطب وطب الأسنان ACCUPLACER."
+      },
+      "dates": {
+        "en": "Several on-campus sessions before each admission cycle (see the Testing Center schedule). Each test can be taken only once per admission cycle. SAT/ACT scores are valid for 5 years, IELTS/TOEFL for 2 years.",
+        "ka": "ყოველი მიღების ციკლის წინ კამპუსში რამდენიმე სესია ტარდება (იხ. Testing Center-ის განრიგი). თითოეული ტესტის ჩაბარება ერთ ციკლში მხოლოდ ერთხელ შეიძლება. SAT/ACT ქულები 5 წელი მოქმედებს, IELTS/TOEFL — 2 წელი.",
+        "ar": "عدة جلسات داخل الحرم الجامعي قبل كل دورة قبول (راجع جدول مركز الاختبارات). يمكن أداء كل اختبار مرة واحدة فقط في دورة القبول. درجات SAT/ACT صالحة لخمس سنوات، وIELTS/TOEFL لسنتين."
+      },
+      "cost": "ACCUPLACER ESL QAR 130; QU-Placer Math QAR 100 (paid online).",
+      "register_url": "https://www.qu.edu.qa/en-us/students/admission/undergraduate/competency-requirements/placement-test",
+      "resources": [
+        {
+          "title": {
+            "en": "QU competency requirements",
+            "ka": "QU-ს კომპეტენციის მოთხოვნები",
+            "ar": "متطلبات الكفاءة في جامعة قطر"
+          },
+          "kind": "official",
+          "provider": "Qatar University",
+          "url": "https://www.qu.edu.qa/en-us/students/admission/undergraduate/competency-requirements",
+          "free": true,
+          "note": {
+            "en": "Exact minimum scores for exemption and which colleges require maths.",
+            "ka": "გათავისუფლების ზუსტი მინიმალური ქულები და რომელი კოლეჯები ითხოვენ მათემატიკას.",
+            "ar": "الحدود الدنيا الدقيقة للإعفاء والكليات التي تشترط الرياضيات."
+          }
+        },
+        {
+          "title": {
+            "en": "Placement tests and registration",
+            "ka": "შიდა ტესტები და რეგისტრაცია",
+            "ar": "اختبارات تحديد المستوى والتسجيل"
+          },
+          "kind": "official",
+          "provider": "Qatar University",
+          "url": "https://www.qu.edu.qa/en-us/students/admission/undergraduate/competency-requirements/placement-test",
+          "free": true,
+          "note": {
+            "en": "Who must take each test and the link to register and pay.",
+            "ka": "ვინ უნდა ჩააბაროს თითოეული ტესტი და რეგისტრაციისა და გადახდის ბმული.",
+            "ar": "من يجب عليه أداء كل اختبار ورابط التسجيل والدفع."
+          }
+        },
+        {
+          "title": {
+            "en": "ACCUPLACER English at QU",
+            "ka": "ACCUPLACER English QU-ში",
+            "ar": "ACCUPLACER English في جامعة قطر"
+          },
+          "kind": "official",
+          "provider": "Qatar University Testing Center",
+          "url": "https://www.qu.edu.qa/en-us/testing-center/tests/accuplaceresl",
+          "free": true,
+          "note": {
+            "en": "Test parts, fees, score ranges and course placement.",
+            "ka": "ტესტის ნაწილები, საფასური, ქულების დიაპაზონი და კურსზე განაწილება.",
+            "ar": "أجزاء الاختبار والرسوم ونطاقات الدرجات وتحديد المقرر."
+          }
+        },
+        {
+          "title": {
+            "en": "ACCUPLACER ESL sample questions (PDF)",
+            "ka": "ACCUPLACER ESL ნიმუში კითხვები (PDF)",
+            "ar": "أسئلة نموذجية لـ ACCUPLACER ESL (PDF)"
+          },
+          "kind": "practice-test",
+          "provider": "Qatar University Testing Center",
+          "url": "https://www.qu.edu.qa/SiteImages/static_file/qu/testing%20center/images/accuplacer-esl-tests-sample-questions.pdf",
+          "free": true,
+          "note": {
+            "en": "See every question type before test day.",
+            "ka": "გამოცდამდე გაეცანი ყველა ტიპის კითხვას.",
+            "ar": "تعرّف على كل أنواع الأسئلة قبل يوم الاختبار."
+          }
+        },
+        {
+          "title": {
+            "en": "Free ACCUPLACER practice",
+            "ka": "ACCUPLACER-ის უფასო სავარჯიშოები",
+            "ar": "تدريب مجاني على ACCUPLACER"
+          },
+          "kind": "practice-test",
+          "provider": "College Board",
+          "url": "https://accuplacer.collegeboard.org/students/prepare-for-accuplacer/practice",
+          "free": true,
+          "note": {
+            "en": "Official free practice tests (create a free account).",
+            "ka": "ოფიციალური უფასო სავარჯიშო ტესტები (შექმენი უფასო ანგარიში).",
+            "ar": "اختبارات تدريبية رسمية مجانية (أنشئ حساباً مجانياً)."
+          }
+        },
+        {
+          "title": {
+            "en": "QU-Placer Math test",
+            "ka": "QU-Placer Math ტესტი",
+            "ar": "اختبار QU-Placer Math"
+          },
+          "kind": "official",
+          "provider": "Qatar University Testing Center",
+          "url": "https://www.qu.edu.qa/en-us/testing-center/Tests/Pages/QUPM.aspx",
+          "free": true,
+          "note": {
+            "en": "Topics list, fees and placement rules.",
+            "ka": "თემების სია, საფასური და განაწილების წესები.",
+            "ar": "قائمة الموضوعات والرسوم وقواعد التصنيف."
+          }
+        },
+        {
+          "title": {
+            "en": "QU-Placer Math sample test 1 (PDF)",
+            "ka": "QU-Placer Math ნიმუში ტესტი 1 (PDF)",
+            "ar": "اختبار QU-Placer Math النموذجي 1 (PDF)"
+          },
+          "kind": "practice-test",
+          "provider": "Qatar University Testing Center",
+          "url": "https://www.qu.edu.qa/en-us/testing-center/Documents/QU-Placer%20Math%20Sample%20Test%20No.1%20(May%202024).pdf",
+          "free": true,
+          "note": {
+            "en": "Official sample; time yourself to 2 hours.",
+            "ka": "ოფიციალური ნიმუში; დრო 2 საათამდე შეზღუდე.",
+            "ar": "نموذج رسمي؛ التزم بساعتين."
+          }
+        },
+        {
+          "title": {
+            "en": "QU-Placer Math sample test 2 (PDF)",
+            "ka": "QU-Placer Math ნიმუში ტესტი 2 (PDF)",
+            "ar": "اختبار QU-Placer Math النموذجي 2 (PDF)"
+          },
+          "kind": "practice-test",
+          "provider": "Qatar University Testing Center",
+          "url": "https://www.qu.edu.qa/en-us/testing-center/Documents/Sample%20Test%202%20(Nov%202025).pdf",
+          "free": true,
+          "note": {
+            "en": "A second, newer official sample.",
+            "ka": "მეორე, უფრო ახალი ოფიციალური ნიმუში.",
+            "ar": "نموذج رسمي ثانٍ أحدث."
+          }
+        },
+        {
+          "title": {
+            "en": "Placement test schedule",
+            "ka": "შიდა ტესტების განრიგი",
+            "ar": "جدول اختبارات تحديد المستوى"
+          },
+          "kind": "official",
+          "provider": "Qatar University Testing Center",
+          "url": "https://www.qu.edu.qa/en-us/testing-center/test-schedules/Pages/placementschedule.aspx",
+          "free": true,
+          "note": {
+            "en": "Upcoming test dates.",
+            "ka": "მომავალი ტესტების თარიღები.",
+            "ar": "مواعيد الاختبارات القادمة."
+          }
+        },
+        {
+          "title": {
+            "en": "Khan Academy Math",
+            "ka": "Khan Academy — მათემატიკა",
+            "ar": "الرياضيات على Khan Academy"
+          },
+          "kind": "course",
+          "provider": "Khan Academy",
+          "url": "https://www.khanacademy.org/math",
+          "free": true,
+          "note": {
+            "en": "Free algebra, trigonometry and precalculus: exactly the QU-Placer topics.",
+            "ka": "უფასო ალგებრა, ტრიგონომეტრია და წინასწარი კალკულუსი — ზუსტად QU-Placer-ის თემები.",
+            "ar": "جبر ومثلثات وما قبل التفاضل مجاناً: موضوعات QU-Placer نفسها."
+          }
+        },
+        {
+          "title": {
+            "en": "The Organic Chemistry Tutor",
+            "ka": "The Organic Chemistry Tutor",
+            "ar": "The Organic Chemistry Tutor"
+          },
+          "kind": "video",
+          "provider": "YouTube: The Organic Chemistry Tutor",
+          "url": "https://www.youtube.com/@TheOrganicChemistryTutor",
+          "free": true,
+          "note": {
+            "en": "Step-by-step algebra and precalculus videos.",
+            "ka": "ალგებრისა და წინასწარი კალკულუსის ვიდეოები ნაბიჯ-ნაბიჯ.",
+            "ar": "فيديوهات خطوة بخطوة في الجبر وما قبل التفاضل."
+          }
+        }
+      ]
+    }
+  ]
+}

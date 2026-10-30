@@ -16,8 +16,16 @@
     if (earth && programs.length) earth.setDestinations(destinations());
   }
 
+  /* A calm sky: the best few dozen destinations, at most two per country */
   function destinations() {
-    return programs.map(function (p) { return { lat: p.lat, lng: p.lon }; });
+    var perCountry = {};
+    return programs.slice().sort(function (a, b) { return (b.score || 0) - (a.score || 0); })
+      .filter(function (p) {
+        if (p.lat == null || p.lon == null) return false;
+        perCountry[p.iso] = (perCountry[p.iso] || 0) + 1;
+        return perCountry[p.iso] <= 2;
+      }).slice(0, 36)
+      .map(function (p) { return { lat: p.lat, lng: p.lon }; });
   }
 
   /* Split the headline into letters for the typed reveal. Each word stays
@@ -30,9 +38,12 @@
     title.querySelectorAll('[data-split]').forEach(function (line) {
       var text = M.t(line.getAttribute('data-split'));
       plain.push(text);
+      // Arabic letters join to their neighbours, so there each word moves as one piece
+      var joined = M.state.lang === 'ar';
       line.innerHTML = text.split(' ').map(function (word) {
-        return '<span class="w">' + Array.prototype.map.call(word, function (ch) {
-          return '<span class="ch" style="--i:' + (index++) + '">' + M.esc(ch) + '</span>';
+        var pieces = joined ? [word] : Array.prototype.slice.call(word);
+        return '<span class="w">' + pieces.map(function (ch) {
+          return '<span class="ch" style="--i:' + (index++ * (joined ? 3 : 1)) + '">' + M.esc(ch) + '</span>';
         }).join('') + '</span>';
       }).join(' ');
       line.setAttribute('aria-hidden', 'true');

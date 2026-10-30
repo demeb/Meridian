@@ -63,6 +63,14 @@
     upload: '<path d="M12 15V4M7.5 8.5 12 4l4.5 4.5M4 15v3.5A1.5 1.5 0 0 0 5.5 20h13a1.5 1.5 0 0 0 1.5-1.5V15"/>',
     receipt: '<path d="M6 3h12v18l-3-2-3 2-3-2-3 2z"/><path d="M9 8h6M9 12h6M9 16h3"/>',
     chevronUp: '<path d="m6 15 6-6 6 6"/>',
+    heart: '<path d="M12 20.5s-8-4.6-8-10.4A4.6 4.6 0 0 1 12 7.3a4.6 4.6 0 0 1 8 2.8c0 5.8-8 10.4-8 10.4z"/>',
+    message: '<path d="M20.5 14.5a2 2 0 0 1-2 2H8l-4.5 4V5.5a2 2 0 0 1 2-2h13a2 2 0 0 1 2 2z"/>',
+    download: '<path d="M12 4v11M7.5 10.5 12 15l4.5-4.5M4 15v3.5A1.5 1.5 0 0 0 5.5 20h13a1.5 1.5 0 0 0 1.5-1.5V15"/>',
+    play: '<circle cx="12" cy="12" r="9"/><path d="m10 8.5 5.5 3.5-5.5 3.5z"/>',
+    edit: '<path d="M4 20h4L19.5 8.5a2.1 2.1 0 0 0-4-4L4 16z"/><path d="m14 6 4 4"/>',
+    bulb: '<path d="M9 18h6M10 21.5h4"/><path d="M12 2.5a6.5 6.5 0 0 0-3.8 11.8c.5.4.8 1 .8 1.7v.5h6v-.5c0-.7.3-1.3.8-1.7A6.5 6.5 0 0 0 12 2.5z"/>',
+    list: '<path d="M9 6h11M9 12h11M9 18h11"/><circle cx="4.5" cy="6" r="1"/><circle cx="4.5" cy="12" r="1"/><circle cx="4.5" cy="18" r="1"/>',
+    sliders: '<path d="M4 6h10M18 6h2M4 12h4M12 12h8M4 18h12M20 18h0"/><circle cx="16" cy="6" r="2"/><circle cx="10" cy="12" r="2"/><circle cx="18" cy="18" r="2"/>',
     eye: '<path d="M2.5 12S6 5.5 12 5.5 21.5 12 21.5 12 18 18.5 12 18.5 2.5 12 2.5 12z"/><circle cx="12" cy="12" r="3"/>',
     eyeOff: '<path d="M3 3l18 18M10.6 5.6A9.6 9.6 0 0 1 12 5.5c6 0 9.5 6.5 9.5 6.5a17 17 0 0 1-3 3.8M6.6 6.6C3.9 8.3 2.5 12 2.5 12S6 18.5 12 18.5c1.5 0 2.8-.4 4-1"/><path d="M9.9 9.9a3 3 0 0 0 4.2 4.2"/>'
   };
@@ -427,10 +435,11 @@
         '<div class="container-wide nav-inner">' +
           brandMarkup() +
           '<ul class="nav-links">' +
-            '<li><a class="nav-link' + active('home') + '" href="/">' + t('nav.home') + '</a></li>' +
             '<li><a class="nav-link' + active('programs') + '" href="/programs">' + t('nav.programs') + '</a></li>' +
             '<li><a class="nav-link' + active('universities') + '" href="/universities">' + t('nav.universities') + '</a></li>' +
             '<li><a class="nav-link' + active('teachers') + '" href="/teachers">' + t('nav.teachers') + '</a></li>' +
+            '<li><a class="nav-link' + active('counselling') + '" href="/counselling">' + t('nav.counselling') + '</a></li>' +
+            '<li><a class="nav-link' + active('prep') + '" href="/prep">' + t('nav.prep') + '</a></li>' +
             '<li><a class="nav-link' + active('pricing') + '" href="/pricing">' + t('nav.pricing') + '</a></li>' +
             '<li class="has-menu">' +
               '<a class="nav-link' + active('about') + '" href="/about">' + t('nav.about') +
@@ -460,6 +469,8 @@
           '<a href="/programs">' + t('nav.programs') + '</a>' +
           '<a href="/universities">' + t('nav.universities') + '</a>' +
           '<a href="/teachers">' + t('nav.teachers') + '</a>' +
+          '<a href="/counselling">' + t('nav.counselling') + '</a>' +
+          '<a href="/prep">' + t('nav.prep') + '</a>' +
           '<a href="/pricing">' + t('nav.pricing') + '</a>' +
           '<a href="/about">' + t('nav.about') + '</a>' +
           '<div class="drawer-sub">' +
@@ -669,6 +680,13 @@
     observeCounters();
     bindAccordions();
     loadUser().then(paintAuth);
+    // Meridian AI: the chat button on every page (loaded after the page itself)
+    if (!document.querySelector('script[src^="/js/ai.js"]') && document.body.getAttribute('data-page') !== 'admin') {
+      var ai = document.createElement('script');
+      ai.src = '/js/ai.js?v=r5';
+      ai.defer = true;
+      document.body.appendChild(ai);
+    }
     window.addEventListener('meridian:lang', function () {
       var page = document.body.getAttribute('data-page') || '';
       var nav = document.getElementById('siteNav');
