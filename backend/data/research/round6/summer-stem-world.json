@@ -11598,6 +11598,438 @@
   "verified_at": "2026-10-31"
  },
  {
+  "id": "ictp-school-birational-enumerative-geometry-moduli-spaces-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "research school (graduate)",
+  "org": "Abdus Salam International Centre for Theoretical Physics (ICTP)",
+  "name": {
+   "en": "ICTP School and Workshop on Birational and Enumerative Geometry of Moduli Spaces 2027",
+   "ka": "ICTP-ის სკოლა და სემინარი მოდულების სივრცეების ბირაციონალურ და ენუმერაციულ გეომეტრიაზე 2027",
+   "ar": "مدرسة وورشة ICTP حول الهندسة الثنائية النسبية والتعدادية لفضاءات المعاملات 2027"
+  },
+  "country": {
+   "en": "Italy",
+   "ka": "იტალია",
+   "ar": "إيطاليا"
+  },
+  "city": "Trieste",
+  "iso": "IT",
+  "flag": "🇮🇹",
+  "region": "europe",
+  "lat": 45.7031,
+  "lon": 13.7186,
+  "cost": "funded",
+  "duration": {
+   "en": "2 weeks (15–26 February 2027)",
+   "ka": "2 კვირა (2027 წლის 15–26 თებერვალი)",
+   "ar": "أسبوعان (15–26 فبراير 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": "2026-11-20",
+  "deadline_note": "ICTP: deadline 20 November 2026 for applicants requesting financial support; later applications without support are accepted (the page gives 20 December 2026 in one place and 15 January 2027 in another, so apply without support by 20 December to be safe).",
+  "event_dates": "2027-02-15 to 2027-02-26",
+  "summary": {
+   "en": "A two-week winter school and conference in Trieste on the geometry of moduli spaces (stability conditions, Brill-Noether theory, hyperkähler geometry, Vafa-Witten invariants); no fee, with grants prioritising participants from developing countries.",
+   "ka": "ორკვირიანი ზამთრის სკოლა და კონფერენცია ტრიესტეში მოდულების სივრცეების გეომეტრიაზე (სტაბილურობის პირობები, ბრილ-ნოეთერის თეორია, ჰიპერკელერის გეომეტრია, ვაფა-ვიტენის ინვარიანტები); უფასოა, გრანტები პრიორიტეტულად განვითარებადი ქვეყნების მონაწილეებს.",
+   "ar": "مدرسة شتوية ومؤتمر لمدة أسبوعين في تريستे حول هندسة فضاءات المعاملات (شروط الاستقرار ونظرية بريل-نوثر والهندسة فائقة الكيلر وثوابت فافا-ويتن)؛ بلا رسوم، مع منح بأولوية للمشاركين من الدول النامية."
+  },
+  "about": {
+   "en": "The Abdus Salam International Centre for Theoretical Physics (ICTP), a UNESCO Category 1 institute in Trieste, opens its 2027 Special Program 'Moduli Spaces: Geometry, Structures, and Invariants' with this school and workshop (15–26 February 2027). The first week has five minicourses by Michela Artebani, Izzet Coskun, Martijn Kool, Georg Oberdieck and Alessandra Sarti on central topics in moduli theory; the second week is a conference on recent results, with speakers from ETH Zurich, MIT, Yale, Edinburgh, Peking University and others.\n\nIt is aimed at PhD students, master's students in mathematics and early-career researchers in algebraic geometry. Applicants submit a short research abstract and may be selected for a poster or contributed talk. There is no registration fee, and a limited number of grants (travel and/or subsistence) are available, with priority for participants from developing countries, which include Georgia; accommodation in ICTP guesthouses can be requested."
+  },
+  "highlights": {
+   "en": [
+    "Leading algebraic geometers as lecturers",
+    "No registration fee; grants for developing-country participants",
+    "Poster or contributed-talk opportunity"
+   ]
+  },
+  "eligibility": {
+   "en": "Master's and PhD students and young researchers in mathematics (algebraic geometry) of any nationality; priority for financial support to applicants from developing countries (Georgia is eligible as a developing country under ICTP rules)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the event page and click 'Apply here' (ICTP portal)",
+    "Fill in the form, upload CV and a short research abstract (ICTP template)",
+    "Request financial support and guesthouse accommodation in the form if needed, by 20 November 2026",
+    "Have a recommendation letter sent if requested"
+   ]
+  },
+  "costs": {
+   "en": "No registration fee. Limited ICTP grants cover travel and/or living costs for selected participants (priority to developing countries). Otherwise travel and accommodation are self-funded."
+  },
+  "keywords": [
+   "ictp",
+   "trieste",
+   "mathematics",
+   "algebraic geometry",
+   "winter school",
+   "phd",
+   "grant"
+  ],
+  "url": "https://indico.ictp.it/event/11413",
+  "apply_url": "https://indico.ictp.it/event/11413",
+  "sources": [
+   "https://indico.ictp.it/event/11413",
+   "https://www.ictp.it/home/scientific-calendar?ty%5B54%5D=54&ty%5B60%5D=60"
+  ],
+  "score": 7,
+  "score_reason": "Free graduate school at ICTP with grants for developing-country participants; specialised.",
+  "premium": false,
+  "fields": [
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "ictp-spring-college-physics-complex-systems-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "research school (graduate)",
+  "org": "ICTP and SISSA with the International Master in Physics of Complex Systems",
+  "name": {
+   "en": "ICTP Spring College in the Physics of Complex Systems 2027",
+   "ka": "ICTP-ის საგაზაფხულო კოლეჯი რთული სისტემების ფიზიკაში 2027",
+   "ar": "كلية ICTP الربيعية في فيزياء الأنظمة المعقدة 2027"
+  },
+  "country": {
+   "en": "Italy",
+   "ka": "იტალია",
+   "ar": "إيطاليا"
+  },
+  "city": "Trieste",
+  "iso": "IT",
+  "flag": "🇮🇹",
+  "region": "europe",
+  "lat": 45.7031,
+  "lon": 13.7186,
+  "cost": "funded",
+  "duration": {
+   "en": "4 weeks (15 February – 12 March 2027)",
+   "ka": "4 კვირა (2027 წლის 15 თებერვალი – 12 მარტი)",
+   "ar": "4 أسابيع (15 فبراير – 12 مارس 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": "2026-11-01",
+  "deadline_note": "ICTP: application deadline 1 November 2026 (apply on the ICTP portal immediately); supervisors must send recommendation letters.",
+  "event_dates": "2027-02-15 to 2027-03-12",
+  "summary": {
+   "en": "A four-week intensive college in Trieste for master's and PhD students on the physics of complex systems (networks and neuroscience, learning theory, non-equilibrium transport, physics of cancer); no fee, with grants for developing-country participants.",
+   "ka": "ოთხკვირიანი ინტენსიური კოლეჯი ტრიესტეში მაგისტრანტებისა და დოქტორანტებისთვის რთული სისტემების ფიზიკაში (ქსელები და ნეირომეცნიერება, სწავლების თეორია, არაწონასწორული ტრანსპორტი, კიბოს ფიზიკა); უფასოა, გრანტებით განვითარებადი ქვეყნების მონაწილეებისთვის.",
+   "ar": "كلية مكثفة لمدة أربعة أسابيع في تريستي لطلاب الماجستير والدكتوراه في فيزياء الأنظمة المعقدة (الشبكات وعلم الأعصاب ونظرية التعلم والنقل غير المتوازن وفيزياء السرطان)؛ بلا رسوم، مع منح لمشاركي الدول النامية."
+  },
+  "about": {
+   "en": "ICTP and SISSA, with the partner universities of the International Master in Physics of Complex Systems and support from Politecnico di Torino and Capital Fund Management, run this Spring College from 15 February to 12 March 2027. It consists of four courses of nine lectures each, with a final exam per course: statistical physics of graphs and networks with applications to neuroscience (Raffaella Burioni), exact solutions of gradient flows in learning-theory models (Nicolas Macris, EPFL), non-equilibrium stochastic transport (Kirone Mallick and Izaak Neri) and the physics of cancer (Indian Institute of Science).\n\nThe college is part of the PCS master's programme and is open to qualified master's and PhD students and young researchers in physics and related fields. Applicants need recommendation letters from their supervisors and can submit a poster abstract. There is no registration fee; limited ICTP grants are available with priority for developing countries (Georgia qualifies). Grant holders must attend at least 80% of lectures and sit the exams; certificates require 80% attendance."
+  },
+  "highlights": {
+   "en": [
+    "Four graduate courses with exams in 4 weeks",
+    "No fee; ICTP grants for developing-country students",
+    "Part of an international master's programme"
+   ]
+  },
+  "eligibility": {
+   "en": "Master's and PhD students and young researchers in physics or related quantitative fields, any nationality; recommendation letter from supervisor required; priority for grants to applicants from developing countries (including Georgia)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply on the ICTP portal via 'Apply here' on the event page by 1 November 2026",
+    "Upload CV and optional poster abstract (ICTP template)",
+    "Ask your supervisor to send a recommendation letter",
+    "Indicate if you need financial support"
+   ]
+  },
+  "costs": {
+   "en": "No registration fee. Limited grants for travel and/or subsistence (priority to developing countries). Otherwise travel and accommodation self-funded."
+  },
+  "keywords": [
+   "ictp",
+   "trieste",
+   "physics",
+   "complex systems",
+   "statistical physics",
+   "spring college",
+   "phd",
+   "grant"
+  ],
+  "url": "https://indico.ictp.it/event/11412",
+  "apply_url": "https://indico.ictp.it/event/11412",
+  "sources": [
+   "https://indico.ictp.it/event/11412",
+   "https://www.ictp.it/home/scientific-calendar?ty%5B54%5D=54&ty%5B60%5D=60"
+  ],
+  "score": 6,
+  "score_reason": "Free ICTP college with grants; deadline is 1 November 2026, so very little time left.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "mathematics",
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "tau-summer-school-advanced-epidemiology-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "summer school (public health)",
+  "org": "Tel Aviv University – Lowy International School with the School of Public Health",
+  "name": {
+   "en": "Tel Aviv University Advanced Epidemiology & Preventive Medicine Summer School 2027",
+   "ka": "თელ-ავივის უნივერსიტეტის მოწინავე ეპიდემიოლოგიისა და პრევენციული მედიცინის საზაფხულო სკოლა 2027",
+   "ar": "المدرسة الصيفية لعلم الأوبئة المتقدم والطب الوقائي بجامعة تل أبيب 2027"
+  },
+  "country": {
+   "en": "Israel",
+   "ka": "ისრაელი",
+   "ar": "إسرائيل"
+  },
+  "city": "Tel Aviv",
+  "iso": "IL",
+  "flag": "🇮🇱",
+  "region": "middle-east",
+  "lat": 32.1133,
+  "lon": 34.8044,
+  "cost": "paid",
+  "duration": {
+   "en": "About 2 weeks (July 2027); 1-week courses",
+   "ka": "დაახლოებით 2 კვირა (2027 წლის ივლისი); ერთკვირიანი კურსები",
+   "ar": "نحو أسبوعين (يوليو 2027)؛ دورات لمدة أسبوع"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Estimated from 2026 pattern: the 2026 school ran 12–22 July with rolling admissions (no fixed deadline). 2027 courses and dates not yet published; apply early once the page is updated.",
+  "event_dates": null,
+  "summary": {
+   "en": "Week-long credit-bearing courses in advanced epidemiology at Tel Aviv University each July (2026 topics: reproductive epidemiology, One Health infectious-disease epidemiology, nutrition and public health), with partial scholarships.",
+   "ka": "ერთკვირიანი კრედიტიანი კურსები მოწინავე ეპიდემიოლოგიაში თელ-ავივის უნივერსიტეტში ყოველ ივლისს (2026 წლის თემები: რეპროდუქციული ეპიდემიოლოგია, One Health ინფექციური დაავადებების ეპიდემიოლოგია, კვება და საზოგადოებრივი ჯანმრთელობა), ნაწილობრივი სტიპენდიებით.",
+   "ar": "دورات معتمدة لمدة أسبوع في علم الأوبئة المتقدم بجامعة تل أبيب كل يوليو (مواضيع 2026: وبائيات الإنجاب، ووبائيات الأمراض المعدية ضمن نهج «الصحة الواحدة»، والتغذية والصحة العامة)، مع منح جزئية."
+  },
+  "about": {
+   "en": "Tel Aviv University's Advanced Epidemiology and Preventive Medicine Summer School offers short, intensive courses led by leading faculty and experts. In 2026 it ran from 12 to 22 July with three courses: Reproductive Epidemiology (sociodemographic, environmental and clinical determinants), One Health – Advanced Themes in Infectious Diseases Epidemiology, and Nutrition and Public Health. Each course lasts about a week (half-day sessions) and is worth 2 academic credit hours, so participants can combine courses.\n\nThe school suits medical, public health and life-science students, graduates and health professionals who want up-to-date training in epidemiology. Admission in 2026 was rolling, and partial scholarships were offered. The 2027 programme is expected in July again; check the page for the new course list."
+  },
+  "highlights": {
+   "en": [
+    "2 academic credits per one-week course",
+    "Taught by TAU School of Public Health experts",
+    "Partial scholarships available"
+   ]
+  },
+  "eligibility": {
+   "en": "Students (typically advanced undergraduates and graduate students) and professionals in medicine, public health, life sciences or related fields; any nationality. Check Israeli entry requirements for your passport."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check the programme page for the 2027 courses",
+    "Apply online through TAU International (rolling admissions)",
+    "Ask about partial scholarships when applying",
+    "Arrange accommodation (TAU housing may be available) and travel"
+   ]
+  },
+  "costs": {
+   "en": "2026 tuition: US$900 per 2-credit course; partial scholarships available. Accommodation, travel and insurance extra."
+  },
+  "keywords": [
+   "epidemiology",
+   "public health",
+   "preventive medicine",
+   "tel aviv university",
+   "israel",
+   "summer school",
+   "medicine"
+  ],
+  "url": "https://international.tau.ac.il/epidemiology/",
+  "apply_url": "https://international.tau.ac.il/epidemiology/",
+  "sources": [
+   "https://international.tau.ac.il/epidemiology/",
+   "https://international.tau.ac.il/summer_institute"
+  ],
+  "score": 5,
+  "score_reason": "Short credit-bearing public-health courses; 2027 details estimated from 2026.",
+  "premium": false,
+  "fields": [
+   "medicine-health",
+   "natural-sciences"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "exeter-college-oxford-summer-programme-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "university summer school",
+  "org": "Exeter College, University of Oxford",
+  "name": {
+   "en": "Exeter College Summer Programme (ECSP) 2027, Oxford",
+   "ka": "ექსეტერის კოლეჯის საზაფხულო პროგრამა (ECSP) 2027, ოქსფორდი",
+   "ar": "برنامج كلية إكستر الصيفي (ECSP) 2027، أكسفورد"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "დიდი ბრიტანეთი",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Oxford",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 51.7536,
+  "lon": -1.2566,
+  "cost": "paid",
+  "duration": {
+   "en": "6 weeks (27 June – 7 August 2027)",
+   "ka": "6 კვირა (2027 წლის 27 ივნისი – 7 აგვისტო)",
+   "ar": "6 أسابيع (27 يونيو – 7 أغسطس 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": "2027-06-06",
+  "deadline_note": "Exeter College: applications open (since October 2026) on a rolling basis until 6 June 2027 (5pm GMT); places fill early. Scholarship/bursary deadline 22 February 2027; Independent Research Tutorial applications by 15 April 2027; fee payment by 13 June 2027.",
+  "event_dates": "2027-06-27 to 2027-08-07",
+  "summary": {
+   "en": "Six weeks living and studying at Exeter College, Oxford: two lecture courses taught through Oxford-style small-group tutorials (or a 1-to-1 Independent Research Tutorial), for university students with a strong GPA; a few part-fee scholarships.",
+   "ka": "ექვსი კვირა ცხოვრება და სწავლა ოქსფორდის ექსეტერის კოლეჯში: ორი ლექციური კურსი ოქსფორდის სტილის მცირე ჯგუფური ტუტორიალებით (ან ინდივიდუალური კვლევითი ტუტორიალი) მაღალი GPA-ს მქონე სტუდენტებისთვის; რამდენიმე ნაწილობრივი სტიპენდია.",
+   "ar": "ستة أسابيع من الإقامة والدراسة في كلية إكستر بأكسفورد: مادتان تُدرَّسان بنظام الدروس الصغيرة على طريقة أكسفورد (أو درس بحثي فردي)، لطلاب الجامعات ذوي المعدلات المرتفعة؛ مع عدد قليل من المنح الجزئية."
+  },
+  "about": {
+   "en": "The Exeter College Summer Programme is run by Exeter College itself, one of the oldest colleges of the University of Oxford (founded 1314). From 27 June to 7 August 2027 students live in college (en-suite rooms at the modern Cohen Quadrangle or historic Turl Street) and take two cross-disciplinary lecture courses taught by leading scholars, with teaching modelled on Oxford's tutorial system of small, discussion-based groups. Students interested in specialist research, a senior thesis or graduate school can instead work one-to-one with an expert on an Independent Research Tutorial. Evening lectures, study-skills workshops, formal dinners and a daily social programme complete the experience, and a transcript is issued.\n\nApplicants must be in full-time higher education, be 18 and have completed at least one year of undergraduate study by the start, with a cumulative GPA of at least 3.6/4.0 or equivalent. Admission is rolling and competitive. The college offers a small number of part-fee scholarships and bursaries for admitted students with outstanding records (GPA 3.8+) and financial need (deadline 22 February 2027)."
+  },
+  "highlights": {
+   "en": [
+    "Run by Exeter College, University of Oxford",
+    "Oxford tutorial-style teaching or 1-to-1 research tutorial",
+    "Part-fee scholarships and bursaries for strong students in need"
+   ]
+  },
+  "eligibility": {
+   "en": "Full-time university students of any nationality, aged 18+, with at least one completed year of undergraduate study and a GPA of 3.6/4.0 or equivalent; non-native speakers at non-English-medium universities need an English certificate. Scholarships: GPA 3.8+ and financial need."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply online (rolling) with transcript, academic reference, graded writing sample and English certificate if required; pay the GBP 60 application fee",
+    "Expect a decision within about a week",
+    "If admitted, apply for a scholarship/bursary by 22 February 2027 if eligible",
+    "Pay the programme fee by 13 June 2027 and apply for a UK visa or ETA"
+   ]
+  },
+  "costs": {
+   "en": "2027: application fee GBP 60; tuition GBP 4,495 (two courses, tutorials, academic support, transcript); accommodation GBP 4,355 (single en-suite room, weekday full board, formal dinners, social programme). Flights and insurance extra. Small number of part-fee scholarships/bursaries."
+  },
+  "keywords": [
+   "oxford",
+   "exeter college",
+   "summer programme",
+   "uk",
+   "tutorial",
+   "university students",
+   "scholarship"
+  ],
+  "url": "https://www.exeter.ox.ac.uk/summer-programmes/ecsp/",
+  "apply_url": "https://www.exeter.ox.ac.uk/summer-programmes/ecsp/apply/",
+  "sources": [
+   "https://www.exeter.ox.ac.uk/summer-programmes/ecsp/",
+   "https://www.exeter.ox.ac.uk/summer-programmes/ecsp/dates/",
+   "https://www.exeter.ox.ac.uk/summer-programmes/ecsp/fees-finances/",
+   "https://www.exeter.ox.ac.uk/summer-programmes/ecsp/requirements/"
+  ],
+  "score": 7,
+  "score_reason": "Official Oxford college programme with 2027 dates, fees and deadlines published; expensive, some bursaries.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "uantwerp-winter-school-philosophy-dead-body-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "university winter school",
+  "org": "University of Antwerp – Centre for Ethics, Department of Philosophy",
+  "name": {
+   "en": "Antwerp Winter School on the Philosophy of the Dead Body 2027",
+   "ka": "ანტვერპენის ზამთრის სკოლა მკვდარი სხეულის ფილოსოფიაზე 2027",
+   "ar": "مدرسة أنتويرب الشتوية لفلسفة الجسد الميت 2027"
+  },
+  "country": {
+   "en": "Belgium",
+   "ka": "ბელგია",
+   "ar": "بلجيكا"
+  },
+  "city": "Antwerp",
+  "iso": "BE",
+  "flag": "🇧🇪",
+  "region": "europe",
+  "lat": 51.2194,
+  "lon": 4.4025,
+  "cost": "paid",
+  "duration": {
+   "en": "1 week (1–5 February 2027)",
+   "ka": "1 კვირა (2027 წლის 1–5 თებერვალი)",
+   "ar": "أسبوع واحد (1–5 فبراير 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": "2026-11-09",
+  "deadline_note": "University of Antwerp: apply before 9 November 2026; selection results by 12 November 2026. Apply immediately, especially if you need a visa.",
+  "event_dates": "2027-02-01 to 2027-02-05",
+  "summary": {
+   "en": "A one-week philosophy winter school in Antwerp on the ethical, metaphysical and political status of dead human bodies and death-care practices in Belgium and beyond; EUR 200 student fee.",
+   "ka": "ერთკვირიანი ფილოსოფიური ზამთრის სკოლა ანტვერპენში მკვდარი ადამიანის სხეულის ეთიკურ, მეტაფიზიკურ და პოლიტიკურ სტატუსზე და დაკრძალვის პრაქტიკებზე ბელგიასა და მის ფარგლებს გარეთ; სტუდენტის საფასური 200 ევრო.",
+   "ar": "مدرسة شتوية في الفلسفة لمدة أسبوع في أنتويرب حول الوضع الأخلاقي والميتافيزيقي والسياسي لجثث البشر وممارسات رعاية الموتى في بلجيكا وخارجها؛ رسوم الطلاب 200 يورو."
+  },
+  "about": {
+   "en": "Organised by the University of Antwerp's Centre for Ethics (Department of Philosophy, Faculty of Arts), this winter school (1–5 February 2027) examines the ambiguous status of dead human bodies, as object and subject, material and symbol, revered and despised, and explores the ethical, metaphysical and political implications in an international context that compares death-care practices inside and outside Belgium, including excursions.\n\nIt is designed for master's students and early-stage PhD students with a background in philosophy or death studies; familiarity with philosophical methods is required. Teaching takes place at the city-centre Stadscampus, and successful completion can earn ECTS credits and a micro-credential."
+  },
+  "highlights": {
+   "en": [
+    "Small philosophy seminar on death and the body",
+    "Excursions on death-care practice",
+    "Low EUR 200 student fee"
+   ]
+  },
+  "eligibility": {
+   "en": "Master's and early PhD students in philosophy or death studies (philosophical background required); professionals/researchers at a higher fee; any nationality; good English."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the programme page",
+    "Apply on Mobility Online before 9 November 2026",
+    "Receive the decision by 12 November 2026",
+    "Pay the fee and arrange travel and accommodation"
+   ]
+  },
+  "costs": {
+   "en": "Students EUR 200 (UAntwerp students EUR 50); professionals and funded researchers EUR 250. Includes course material, daily refreshments, lunch on Monday and Friday and excursion transport; travel and accommodation not included."
+  },
+  "keywords": [
+   "winter school",
+   "philosophy",
+   "ethics",
+   "death studies",
+   "antwerp",
+   "belgium"
+  ],
+  "url": "https://www.uantwerpen.be/en/summer-winter-schools/philosophy-of-the-dead-body/",
+  "apply_url": "https://www.uantwerpen.be/en/summer-winter-schools/philosophy-of-the-dead-body/application-deadline/",
+  "sources": [
+   "https://www.uantwerpen.be/en/summer-winter-schools/philosophy-of-the-dead-body/",
+   "https://www.uantwerpen.be/en/summer-winter-schools/philosophy-of-the-dead-body/about-this-programme/",
+   "https://www.uantwerpen.be/en/summer-winter-schools/philosophy-of-the-dead-body/application-deadline/",
+   "https://www.uantwerpen.be/en/summer-winter-schools/philosophy-of-the-dead-body/fee-and-scholarships/"
+  ],
+  "score": 4,
+  "score_reason": "Open but niche and the deadline (9 Nov 2026) is very close.",
+  "premium": false,
+  "fields": [
+   "humanities"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
   "id": "amgen-scholars-europe-2027",
   "section": "project",
   "family": "stem",
@@ -13225,7 +13657,7 @@
    "ar": "مدرسة صيفية لمدة خمسة أيام في كامبريدج حول تعلم الآلة الاحتمالي لطلاب الدراسات العليا والباحثين والمهنيين، بمحاضرات لخبراء بارزين في قسم الهندسة وكلية بيمبروك. القبول انتقائي مع منح سفر للفئات الأقل تمثيلاً."
   },
   "about": {
-   "en": "The ELLIS Cambridge Unit (part of the European Laboratory for Learning and Intelligent Systems) has organised a summer school every year since 2022. Its Summer School on Probabilistic Machine Learning brings together graduate students, researchers and professionals for a week of lectures by well-known researchers and industry scientists on advanced machine-learning topics such as probabilistic modelling, Bayesian deep learning, generative models and machine learning for the sciences. The 2026 edition (13–17 July) was held at the University of Cambridge's Department of Engineering and at Pembroke College.\n\nAdmission is selective via an online application (deadline 17 May in 2026, decisions by 31 May). There is no tuition fee, and lunch and refreshments are provided; attendees cover their own travel and accommodation, and participants who fly to Cambridge pay a GBP 500 'sustainability' fee that is waived for those arriving by train or bus. Travel grants are offered after selection to participants from under-represented backgrounds."
+   "en": "The ELLIS Cambridge Unit (part of the European Laboratory for Learning and Intelligent Systems) has organised a summer school every year since 2022. Its Summer School on Probabilistic Machine Learning brings together graduate students, researchers and professionals for a week of lectures by well-known researchers and industry scientists on advanced machine-learning topics centred on probabilistic modelling, including machine learning for the sciences. The 2026 edition (13–17 July) was held at the University of Cambridge's Department of Engineering and at Pembroke College.\n\nAdmission is selective via an online application (deadline 17 May in 2026, decisions by 31 May). There is no tuition fee, and lunch and refreshments are provided; attendees cover their own travel and accommodation, and participants who fly to Cambridge pay a GBP 500 'sustainability' fee that is waived for those arriving by train or bus. Travel grants are offered after selection to participants from under-represented backgrounds."
   },
   "highlights": {
    "en": [
@@ -13270,6 +13702,545 @@
   "fields": [
    "computer-science",
    "mathematics"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "tulane-pre-college-programs-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "pre-college summer programme",
+  "org": "Tulane University Pre-College Programs",
+  "name": {
+   "en": "Tulane Pre-College Programs 2027",
+   "ka": "ტულეინის უნივერსიტეტის წინასაუნივერსიტეტო პროგრამები 2027",
+   "ar": "برامج ما قبل الجامعة في جامعة تولين 2027"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "New Orleans, Louisiana",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 29.94,
+  "lon": -90.12,
+  "cost": "paid",
+  "duration": {
+   "en": "1–2 weeks (mid-June – late July 2027)",
+   "ka": "1–2 კვირა (ივნისის შუა – ივლისის ბოლო, 2027)",
+   "ar": "أسبوع إلى أسبوعين (منتصف يونيو – أواخر يوليو 2027)"
+  },
+  "grades": "14-18",
+  "opens": "2026-12-05",
+  "deadline": "2027-02-27",
+  "deadline_note": "Estimated from 2026 pattern: the 2026 application opened 5 December 2025; the priority and international-student deadline was 27 February 2026, regular deadline 3 April and extended deadline 24 April (rolling). 2027 dates will be announced via the mailing list.",
+  "event_dates": null,
+  "summary": {
+   "en": "Two-week residential or commuter courses at Tulane in New Orleans for high-school students, including the credit-bearing Tulane Science Scholars, Futures in Public Health and architecture and design, plus enrichment courses in engineering, medicine and more. International students apply by the priority deadline.",
+   "ka": "ორკვირიანი კურსები ტულეინის უნივერსიტეტში ახალ ორლეანში, საცხოვრებლით ან მის გარეშე: საკრედიტო Tulane Science Scholars, Futures in Public Health და არქიტექტურა, ასევე გამდიდრებითი კურსები ინჟინერიაში, მედიცინასა და სხვა სფეროებში. საერთაშორისო მოსწავლეები პრიორიტეტული ვადით აპლიკირებენ.",
+   "ar": "دورات لمدة أسبوعين سكنية أو نهارية في جامعة تولين بنيو أورلينز لطلاب المدارس الثانوية، منها برامج معتمدة مثل Tulane Science Scholars ومستقبل الصحة العامة والعمارة، ودورات إثرائية في الهندسة والطب وغيرها. يتقدم الطلاب الدوليون بحلول الموعد ذي الأولوية."
+  },
+  "about": {
+   "en": "Tulane University's Pre-College Programs bring high-school students to its New Orleans campus for credit-bearing and enrichment courses. Programmes include the Tulane Science Scholars Program (hands-on STEM courses for college credit), Futures in Public Health (science, policy and communication of global health issues) and Explorations in Architecture and Design; the Tulane Summer Enrichment Institute lets students explore subjects such as engineering, medicine and sports without grades, and the Newcomb Summer Session focuses on gender and social change.\n\nResidential students live on campus for a two-week session (in 2026: 14–27 June, 28 June – 11 July, 12–25 July), taking one credit course or two enrichment courses, with evening activities and weekend excursions in New Orleans; commuters can take one-week enrichment or two-week credit courses. In 2026 applications opened in early December with a 27 February priority/international deadline, and admission is rolling until courses fill."
+  },
+  "highlights": {
+   "en": [
+    "Credit-bearing STEM and public-health courses at a top research university",
+    "Residential college experience in New Orleans",
+    "No application fee; need-based aid, including for international credit students"
+   ]
+  },
+  "eligibility": {
+   "en": "High-school students: rising 9th–12th graders for enrichment courses, rising 11th–12th graders for credit courses; residential students must be at least 14. Graduating seniors are not eligible. International students welcome: TOEFL, IELTS or Duolingo scores required if not a native English speaker; passport valid beyond the session and a US-based adult emergency contact (not an embassy) required."
+  },
+  "how_to_apply": {
+   "en": [
+    "Join the mailing list for 2027 updates and choose residential or commuter and your course",
+    "Submit the free online application (opened 5 December in 2026) with transcript and other checklist items",
+    "International applicants: meet the priority deadline (27 February in 2026) and include English test scores",
+    "Pay the 10% deposit within two weeks of acceptance"
+   ]
+  },
+  "costs": {
+   "en": "2026 tuition: commuter enrichment USD 995/week; residential enrichment USD 5,495 (2 weeks); commuter credit USD 2,595; residential credit USD 6,595 (2 weeks). No application fee. Need-based aid available (for international students, credit courses only)."
+  },
+  "keywords": [
+   "tulane",
+   "pre-college",
+   "new orleans",
+   "summer school",
+   "science scholars",
+   "public health",
+   "high school",
+   "usa"
+  ],
+  "url": "https://summer.tulane.edu/",
+  "apply_url": "https://summer.tulane.edu/admissions",
+  "sources": [
+   "https://summer.tulane.edu/",
+   "https://summer.tulane.edu/admissions",
+   "https://summer.tulane.edu/tuition-aid",
+   "https://summer.tulane.edu/academic-programs",
+   "https://summer.tulane.edu/residential-experience"
+  ],
+  "score": 6,
+  "score_reason": "Accessible US pre-college with credit STEM options and aid; internationals welcome.",
+  "premium": false,
+  "fields": [
+   "any",
+   "natural-sciences",
+   "medicine-health"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "rutgers-pre-college-summer-academies-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "pre-college summer programme",
+  "org": "Rutgers University–New Brunswick, Pre-College Summer Programs",
+  "name": {
+   "en": "Rutgers Pre-College Summer Academies 2027",
+   "ka": "რატგერსის უნივერსიტეტის წინასაუნივერსიტეტო საზაფხულო აკადემიები 2027",
+   "ar": "أكاديميات رتغرز الصيفية لما قبل الجامعة 2027"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "New Brunswick, New Jersey",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 40.5,
+  "lon": -74.45,
+  "cost": "paid",
+  "duration": {
+   "en": "1-week residential academies (July 2027)",
+   "ka": "ერთკვირიანი აკადემიები საცხოვრებლით (ივლისი, 2027)",
+   "ar": "أكاديميات سكنية لمدة أسبوع (يوليو 2027)"
+  },
+  "grades": "16-18",
+  "opens": "2027-01-04",
+  "deadline": "2027-04-11",
+  "deadline_note": "Estimated from 2026 pattern: the 2026 application opened 5 January; the international-student deadline was 12 April 2026 (domestic 29 May, extended); academies ran in weeks from 12 July to 1 August 2026.",
+  "event_dates": null,
+  "summary": {
+   "en": "One-week residential academies at Rutgers for 16–18-year-olds finishing 10th or 11th grade, in astronomy and astrophysics, engineering, design and prototyping, physical therapy, pre-law and more. Designed for US and international students.",
+   "ka": "ერთკვირიანი აკადემიები საცხოვრებლით რატგერსის უნივერსიტეტში მე-10 ან მე-11 კლასის დამამთავრებელი 16–18 წლის მოსწავლეებისთვის: ასტრონომია და ასტროფიზიკა, ინჟინერია, დიზაინი და პროტოტიპირება, ფიზიოთერაპია, სამართალი და სხვა. აშშ-ისა და საერთაშორისო მოსწავლეებისთვის.",
+   "ar": "أكاديميات سكنية لمدة أسبوع في جامعة رتغرز لمن هم بعمر 16–18 ويُنهون الصف العاشر أو الحادي عشر، في الفلك والفيزياء الفلكية والهندسة والتصميم والنمذجة والعلاج الطبيعي وما قبل القانون وغيرها. مصممة للطلاب الأمريكيين والدوليين."
+  },
+  "about": {
+   "en": "The Rutgers Pre-College Summer Academies are one-week, in-person residential programmes on the Rutgers–New Brunswick campus, designed for both US and international high-school (secondary-school) students. Each academy combines daily academic workshops, lectures, tours and activities led by Rutgers instructors with evening activities and events, under 24-hour supervision by programme and resident assistants. 2026 topics were Astronomy & Astrophysics, Engineering, Design Invent & Prototype, Physical Therapy (credit), Building Leadership Strategies (credit), Marketing & Product Innovation, College Readiness and Pre-Law & Mock Trial.\n\nIn 2026 academies ran in weeks between 12 July and 1 August; applications opened on 5 January, with an international deadline of 12 April. Class sizes are kept small. Students can attend more than one academy week (each charged separately)."
+  },
+  "highlights": {
+   "en": [
+    "Week-long residential academies incl. astronomy and engineering",
+    "Built for international as well as US students",
+    "Small classes and full residential supervision"
+   ]
+  },
+  "eligibility": {
+   "en": "High-school students completing 10th or 11th grade, aged 16–18 (must be 16 before the summer), minimum 3.0 cumulative GPA and English proficiency (recommended TOEFL 79, IELTS 6.5 or Duolingo 105; otherwise an interview may be arranged). International participants need an F-1 or J-1 visa arranged through Rutgers Global after admission and must buy health insurance."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check the Summer Academies Important Dates page for the 2027 cycle (opened 5 January in 2026)",
+    "Submit the online application with transcript and English proficiency evidence",
+    "International applicants: apply by the international deadline (12 April in 2026)",
+    "Once accepted, pay the USD 500 non-refundable deposit and complete visa documents with Rutgers Global"
+   ]
+  },
+  "costs": {
+   "en": "2026 total cost per one-week academy: USD 2,899 for non-credit academies (including housing and meals); credit academies USD 3,784–5,068 depending on residency status. USD 500 deposit counts toward the total. International students also pay visa, health-insurance and travel costs."
+  },
+  "keywords": [
+   "rutgers",
+   "pre-college",
+   "summer academy",
+   "astronomy",
+   "engineering",
+   "new jersey",
+   "high school",
+   "usa"
+  ],
+  "url": "https://precollegesummer.rutgers.edu/academies",
+  "apply_url": "https://precollegesummer.rutgers.edu/academies",
+  "sources": [
+   "https://precollegesummer.rutgers.edu/",
+   "https://precollegesummer.rutgers.edu/academies",
+   "https://precollegesummer.rutgers.edu/academies/dates",
+   "https://precollegesummer.rutgers.edu/academies/costs",
+   "https://precollegesummer.rutgers.edu/academies/frequently-asked-questions"
+  ],
+  "score": 5,
+  "score_reason": "Short residential academies explicitly designed for international students, incl. astronomy and engineering.",
+  "premium": false,
+  "fields": [
+   "any",
+   "natural-sciences",
+   "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "syracuse-summer-college-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "pre-college summer programme",
+  "org": "Syracuse University Pre-College Programs",
+  "name": {
+   "en": "Syracuse University Summer College 2027",
+   "ka": "სირაკიუზის უნივერსიტეტის Summer College 2027",
+   "ar": "الكلية الصيفية في جامعة سيراكيوز 2027"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Syracuse, New York",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 43.04,
+  "lon": -76.13,
+  "cost": "paid",
+  "duration": {
+   "en": "Up to 4 weeks on campus; 3–6 weeks online (summer 2027)",
+   "ka": "4 კვირამდე კამპუსზე; 3–6 კვირა ონლაინ (ზაფხული, 2027)",
+   "ar": "حتى 4 أسابيع في الحرم الجامعي؛ 3–6 أسابيع عبر الإنترنت (صيف 2027)"
+  },
+  "grades": "15-18",
+  "opens": "2026-12-15",
+  "deadline": "2027-05-01",
+  "deadline_note": "Estimated from 2026 pattern: the 2026 on-campus application opened 15 December 2025 with a financial-aid/scholarship deadline of 1 March and an application deadline of 1 May 2026 (rolling review; decisions in 2–4 weeks).",
+  "event_dates": null,
+  "summary": {
+   "en": "Credit and noncredit college courses for high-school students at Syracuse University, living in a residence hall for up to four weeks, or online from anywhere. Students from 55+ countries have attended; international applicants welcome.",
+   "ka": "საკრედიტო და არაკრედიტული საუნივერსიტეტო კურსები სკოლის მოსწავლეებისთვის სირაკიუზის უნივერსიტეტში, საერთო საცხოვრებელში ოთხ კვირამდე, ან ონლაინ ნებისმიერი ადგილიდან. მონაწილეები 55+ ქვეყნიდან; საერთაშორისო აპლიკანტები მისასალმებელია.",
+   "ar": "مقررات جامعية معتمدة وغير معتمدة لطلاب المدارس الثانوية في جامعة سيراكيوز مع الإقامة في السكن الجامعي حتى أربعة أسابيع، أو عبر الإنترنت من أي مكان. شارك طلاب من أكثر من 55 دولة، ويُرحَّب بالمتقدمين الدوليين."
+  },
+  "about": {
+   "en": "Syracuse University's Summer College lets high-school students take a real college-level course and experience university life. Summer College – On Campus is residential or commuter, lasting up to four weeks, with credit and noncredit courses across many subject areas, plus residence-hall life, dining-centre meals and campus activities. Summer College – Online offers 3-, 4- or 6-week credit and noncredit courses with virtual events, accessible from anywhere in the world.\n\nStudents who successfully complete credit courses earn a Syracuse University transcript. Between 2018 and 2022 participants came from 50 US states and territories and 55+ countries. In 2026 the application opened on 15 December 2025 and closed on 1 May 2026, with rolling decisions; international students taking credit courses on campus need an F-1 visa (I-20 issued about three weeks after the deposit)."
+  },
+  "highlights": {
+   "en": [
+    "Earn Syracuse University credit or try a noncredit course",
+    "Residential college experience or online from anywhere",
+    "Students from 55+ countries"
+   ]
+  },
+  "eligibility": {
+   "en": "Students aged 15+ by move-in. Noncredit courses: rising sophomores, juniors, seniors or recent graduates; credit courses: rising juniors, seniors or recent graduates. Non-native English speakers show proficiency (preferred TOEFL 85, IELTS 6.0, Duolingo 105, or English-medium schooling). International students on campus taking credit courses need an F-1 visa (not B-1/B-2)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Choose On Campus or Online and a course when the 2027 application opens (15 December in 2026)",
+    "Submit transcripts (at least one full year of grades), optional recommendation and English scores if needed; pay the USD 65 fee",
+    "Apply for financial assistance by about 1 March; final deadline about 1 May (rolling)",
+    "International credit students: pay the deposit, receive the I-20 and apply for an F-1 visa"
+   ]
+  },
+  "costs": {
+   "en": "Paid programme; tuition, housing and meal costs vary by course and format (see the Cost and Aid pages). USD 65 non-refundable application fee. Financial assistance and scholarships available by the March deadline."
+  },
+  "keywords": [
+   "syracuse",
+   "summer college",
+   "pre-college",
+   "new york",
+   "college credit",
+   "online",
+   "high school",
+   "usa"
+  ],
+  "url": "https://precollege.syr.edu/",
+  "apply_url": "https://precollege.syr.edu/admissions/apply-to-summer-college-residential/",
+  "sources": [
+   "https://precollege.syr.edu/",
+   "https://precollege.syr.edu/admissions/apply-to-summer-college-residential/",
+   "https://precollege.syr.edu/info-for/international-students/",
+   "https://precollege.syr.edu/cost-and-aid/"
+  ],
+  "score": 5,
+  "score_reason": "Large, flexible pre-college with credit options and strong international participation.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "bentley-pre-college-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "pre-college summer programme (business)",
+  "org": "Bentley University",
+  "name": {
+   "en": "Bentley University Pre-College Programs 2027",
+   "ka": "Bentley-ის უნივერსიტეტის წინასაუნივერსიტეტო პროგრამები 2027",
+   "ar": "برامج ما قبل الجامعة في جامعة Bentley 2027"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Waltham, Massachusetts",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 42.39,
+  "lon": -71.22,
+  "cost": "paid",
+  "duration": {
+   "en": "1-week sessions (7 June – 23 July 2027)",
+   "ka": "ერთკვირიანი სესიები (7 ივნისი – 23 ივლისი, 2027)",
+   "ar": "جلسات لمدة أسبوع (7 يونيو – 23 يوليو 2027)"
+  },
+  "grades": "15-18",
+  "opens": "2027-01-15",
+  "deadline": "2027-05-15",
+  "deadline_note": "Official: the 2027 application opens 15 January 2027; rolling admission on a space-available basis until 15 May 2027. Seven sessions run from the week of 7 June to 23 July 2027.",
+  "event_dates": "2027-06-07 to 2027-07-23",
+  "summary": {
+   "en": "Week-long business, finance and data courses at Bentley near Boston: Wall Street 101 finance courses (some for credit), data analytics, quant risk management, AI in society and entrepreneurship. Residential (16+), commuter or online; international students welcome.",
+   "ka": "ერთკვირიანი კურსები ბიზნესში, ფინანსებსა და მონაცემებში Bentley-ში ბოსტონთან: Wall Street 101 ფინანსური კურსები (ზოგი საკრედიტო), მონაცემთა ანალიტიკა, რაოდენობრივი რისკების მართვა, ხელოვნური ინტელექტი საზოგადოებაში და მეწარმეობა. საცხოვრებლით (16+), დღის ან ონლაინ ფორმატი; საერთაშორისო მოსწავლეებიც.",
+   "ar": "دورات لمدة أسبوع في الأعمال والمالية والبيانات بجامعة Bentley قرب بوسطن: دورات Wall Street 101 المالية (بعضها معتمد)، وتحليل البيانات، وإدارة المخاطر الكمية، والذكاء الاصطناعي في المجتمع، وريادة الأعمال. سكني (16+) أو نهاري أو عبر الإنترنت، ويُرحَّب بالطلاب الدوليين."
+  },
+  "about": {
+   "en": "Bentley University, a business university in Waltham near Boston, runs one-week pre-college courses for high-school students from 7 June to 23 July 2027. The 2027 schedule includes the Wall Street 101 series (Macroeconomics and Financial Markets, Stock Market and Investment Research, Trading Strategies, Global Finance and Trade, Personal Finance, FinTech Business Start-ups, several offered for credit), plus Data Analytics, Quant Risk Management, AI in Society, Pathways for Women in Math, Accounting Adventures, Social Entrepreneurship, and the business of sports, health, fashion and beauty. Courses run 9:00–17:00 with workshops, networking with Bentley students and faculty, and social outings.\n\nStudents aged 16 by 1 September can live in the residence halls (residential fee includes housing, meals, weekday activity transport and an airport shuttle); younger students can attend as commuters or take online Wall Street 101 courses. Applications open 15 January 2027 with rolling admission until 15 May. International students are welcome; those without two years of US high school must show English proficiency."
+  },
+  "highlights": {
+   "en": [
+    "Hands-on finance, data analytics and quant courses",
+    "Residential option with airport shuttle; online option",
+    "Some Wall Street 101 courses earn college credit"
+   ]
+  },
+  "eligibility": {
+   "en": "High-school students; must be 16 by 1 September 2027 to live on campus (younger students may commute or study online). Applicants who have not completed at least two years of US high school must demonstrate English proficiency. International students may apply (Bentley does not support visa applications; scholarships do not cover travel)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Choose one or more 2027 sessions from the schedule",
+    "Create an account and apply online from 15 January 2027; pay the USD 75 application fee",
+    "Rolling admission until 15 May 2027; places are reserved only with full payment",
+    "Optionally request need-based scholarship (international students submit an extra financial form)"
+   ]
+  },
+  "costs": {
+   "en": "2026/27 listed tuition per 5-day course: online USD 1,490; commuter USD 2,450–2,800; residential USD 3,380–3,730 (housing, meals, activity transport and airport shuttle included). USD 75 application fee. Limited need-based scholarships (no travel funding)."
+  },
+  "keywords": [
+   "bentley",
+   "pre-college",
+   "business",
+   "finance",
+   "wall street 101",
+   "data analytics",
+   "boston",
+   "high school",
+   "usa"
+  ],
+  "url": "https://www.bentley.edu/precollege",
+  "apply_url": "https://www.bentley.edu/precollege/apply",
+  "sources": [
+   "https://www.bentley.edu/precollege",
+   "https://www.bentley.edu/precollege/apply",
+   "https://www.bentley.edu/precollege/schedule"
+  ],
+  "score": 5,
+  "score_reason": "Practical finance and data pre-college near Boston; 2027 schedule and dates published.",
+  "premium": false,
+  "fields": [
+   "business",
+   "economics",
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "babson-academy-summer-study-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "pre-college summer programme (entrepreneurship)",
+  "org": "Babson College (Babson Academy)",
+  "name": {
+   "en": "Babson Academy Summer Study 2027",
+   "ka": "Babson Academy-ის საზაფხულო სწავლება 2027",
+   "ar": "الدراسة الصيفية في أكاديمية بابسون 2027"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Massachusetts (NEIA campus) or online",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 42.35,
+  "lon": -71.55,
+  "cost": "paid",
+  "duration": {
+   "en": "3 weeks (12–30 July 2027)",
+   "ka": "3 კვირა (12–30 ივლისი, 2027)",
+   "ar": "3 أسابيع (12–30 يوليو 2027)"
+  },
+  "grades": "15-18",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Official programme dates 12–30 July 2027. Key application dates are published on the programme page (Key Dates tab); an information session is held on 8 December 2026. No deadline is stated on the page we could read.",
+  "event_dates": "2027-07-12 to 2027-07-30",
+  "summary": {
+   "en": "A three-week pre-college course in entrepreneurship from Babson College, a business school known for entrepreneurship education, taken online or in person at the New England Innovation Academy with an added AI-for-innovation strand. For rising juniors and seniors worldwide.",
+   "ka": "სამკვირიანი წინასაუნივერსიტეტო კურსი მეწარმეობაში Babson College-ისგან, აშშ-ის წამყვანი მეწარმეობის სკოლისგან, ონლაინ ან ადგილზე New England Innovation Academy-ში, ხელოვნური ინტელექტისა და ინოვაციის დამატებითი მოდულით. მე-11 და მე-12 კლასელებისთვის მთელი მსოფლიოდან.",
+   "ar": "مقرر لما قبل الجامعة لمدة ثلاثة أسابيع في ريادة الأعمال من كلية بابسون، أبرز كلية أمريكية في هذا المجال، عبر الإنترنت أو حضورياً في New England Innovation Academy مع مسار إضافي في الذكاء الاصطناعي للابتكار. لطلاب الصفين الحادي عشر والثاني عشر من أنحاء العالم."
+  },
+  "about": {
+   "en": "Babson Academy Summer Study is an intensive three-week pre-college programme (12–30 July 2027) built on Babson College's Entrepreneurial Thought & Action methodology. All students take the Babson College course EPS 1110 Introduction to the Entrepreneurial Experience, working in teams on real-world business challenges linked to the UN Global Goals: three hours a day in class plus about five hours of team and individual work (around 40 hours a week).\n\nIt runs in two formats: fully online (classes 8–11 a.m. ET) or in person, hosted by the New England Innovation Academy (NEIA) in Massachusetts, with double-occupancy en-suite dorms, 24/7 supervision, evening activities, a Babson campus tour, local sightseeing and NEIA's AI for Innovation programme. An information session for 2027 is on 8 December 2026."
+  },
+  "highlights": {
+   "en": [
+    "Real Babson College entrepreneurship course",
+    "Online or residential with an AI-for-innovation strand",
+    "Need-based financial assistance with fee waiver"
+   ]
+  },
+  "eligibility": {
+   "en": "Rising high-school juniors or seniors aged at least 15 by the start date (no exceptions). English proficiency required (minimum TOEFL 90 or equivalent IELTS, Duolingo or Cambridge score) unless English is the native language or the school's language of instruction. Open to students worldwide; a computer, webcam and reliable internet are required."
+  },
+  "how_to_apply": {
+   "en": [
+    "Attend the information session (8 December 2026) and check the Key Dates tab",
+    "Complete part 1 of the Workday application and pay the USD 100 fee (waived if applying for need-based aid)",
+    "Complete part 2: school official uploads transcript; add English proficiency evidence and essays",
+    "Choose online or in-person (NEIA) format"
+   ]
+  },
+  "costs": {
+   "en": "Paid programme; tuition for online and in-person formats is listed under 'Program Cost & Aid' on the Babson page. USD 100 application fee (waived for financial-aid applicants). Need-based financial assistance available."
+  },
+  "keywords": [
+   "babson",
+   "entrepreneurship",
+   "pre-college",
+   "business",
+   "summer study",
+   "online",
+   "massachusetts",
+   "high school",
+   "usa"
+  ],
+  "url": "https://www.babson.edu/summer-study/",
+  "apply_url": "https://www.babson.edu/summer-study/",
+  "sources": [
+   "https://www.babson.edu/summer-study/"
+  ],
+  "score": 5,
+  "score_reason": "Entrepreneurship course from Babson College, online or residential; 2027 dates set.",
+  "premium": false,
+  "fields": [
+   "business",
+   "economics"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "smith-college-summer-precollege-programs-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "pre-college summer programme",
+  "org": "Smith College Precollege Programs",
+  "name": {
+   "en": "Smith College Summer Precollege Programs 2027",
+   "ka": "სმიტის კოლეჯის საზაფხულო წინასაუნივერსიტეტო პროგრამები 2027",
+   "ar": "برامج ما قبل الجامعة الصيفية في كلية سميث 2027"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Northampton, Massachusetts",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 42.32,
+  "lon": -72.64,
+  "cost": "paid",
+  "duration": {
+   "en": "1–2 weeks (3–31 July 2027)",
+   "ka": "1–2 კვირა (3–31 ივლისი, 2027)",
+   "ar": "أسبوع إلى أسبوعين (3–31 يوليو 2027)"
+  },
+  "grades": "14-18",
+  "opens": "2026-12-10",
+  "deadline": "2027-03-01",
+  "deadline_note": "Official 2027 dates: applications open 10 December 2026; priority deadline 1 February 2027; tuition-assistance and international-student deadline 1 March 2027; fee rises to USD 100 on 15 April; domestic applications close 1 May 2027.",
+  "event_dates": "2027-07-03 to 2027-07-31",
+  "summary": {
+   "en": "Residential one- and two-week programmes at Smith College for students entering grades 9–12: College Readiness, Creative Writing, Sustainable Futures, Women Gender & Representation and Theatre. International students welcome (18% in 2026); tuition assistance available.",
+   "ka": "ერთ- და ორკვირიანი პროგრამები საცხოვრებლით სმიტის კოლეჯში მე-9–მე-12 კლასში გადასული მოსწავლეებისთვის: კოლეჯისთვის მზადება, შემოქმედებითი წერა, მდგრადი მომავალი, ქალები, გენდერი და რეპრეზენტაცია, თეატრი. საერთაშორისო მოსწავლეები მისასალმებელია (2026 წელს 18%); სწავლის საფასურის დახმარება.",
+   "ar": "برامج سكنية لمدة أسبوع أو أسبوعين في كلية سميث للطلاب المنتقلين إلى الصفوف 9–12: الاستعداد للجامعة، والكتابة الإبداعية، والمستقبل المستدام، والمرأة والنوع الاجتماعي والتمثيل، والمسرح. يُرحَّب بالطلاب الدوليين (18% في 2026) مع مساعدة في الرسوم."
+  },
+  "about": {
+   "en": "Smith College, a residential liberal-arts college in Northampton, Massachusetts, runs summer precollege programmes that give high-school students a taste of college life (no college credit). The 2027 line-up is College Readiness (18–24 July; essays, public speaking and interview preparation), Creative Writing Workshop (3–16 July), Sustainable Futures (18–31 July; environmental activism and change-making), Women, Gender & Representation (18–31 July) and Theatre (18–31 July). Smith's Summer Science & Engineering Program runs separately (3–16 and 18–31 July).\n\nPrecollege programmes are open to students entering 9th–12th grade and do not discriminate on sex or gender identity. Admission is selective: applications open 10 December 2026, reviews are rolling from 4 January, the priority deadline is 1 February and international students must apply by 1 March 2027. In 2026, 18% of participants came from outside the US (including Azerbaijan, Kazakhstan, Moldova, Romania, Lebanon and Pakistan)."
+  },
+  "highlights": {
+   "en": [
+    "Small, selective residential programmes at a leading liberal-arts college",
+    "College-readiness, writing, sustainability, gender studies and theatre options",
+    "Tuition assistance open to international students"
+   ]
+  },
+  "eligibility": {
+   "en": "Students entering 9th–12th grade in autumn 2027. International students welcome; Duolingo, TOEFL or IELTS scores required for international citizens and for students taught in a language other than English (including those taught in English for two years or less)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Choose a programme and apply online from 10 December 2026",
+    "Submit one academic teacher recommendation and the programme essay; pay the fee (USD 50 domestic / 75 international; USD 100 from 15 April)",
+    "International applicants and those requesting tuition assistance apply by 1 March 2027",
+    "Pay the deposit within two weeks of acceptance; final payment due 15 May 2027"
+   ]
+  },
+  "costs": {
+   "en": "2026 rates (2027 coming soon): e.g. College Readiness (1 week) tuition USD 2,795, deposit USD 699; two-week programmes cost more. Tuition assistance available; no travel funding."
+  },
+  "keywords": [
+   "smith college",
+   "precollege",
+   "summer program",
+   "writing",
+   "sustainability",
+   "theatre",
+   "massachusetts",
+   "high school",
+   "usa"
+  ],
+  "url": "https://www.smith.edu/academics/precollege-programs",
+  "apply_url": "https://www.smith.edu/academics/departments-programs-courses/precollege-programs/applying",
+  "sources": [
+   "https://www.smith.edu/academics/precollege-programs",
+   "https://www.smith.edu/academics/departments-programs-courses/precollege-programs/applying",
+   "https://www.smith.edu/academics/departments-programs-courses/precollege-programs/international-students",
+   "https://www.smith.edu/academics/programs-courses/precollege-programs/college-readiness"
+  ],
+  "score": 6,
+  "score_reason": "Selective small-college precollege with full 2027 dates and aid for internationals; deadline 1 Mar 2027.",
+  "premium": false,
+  "fields": [
+   "humanities",
+   "social-sciences",
+   "environment",
+   "arts-design"
   ],
   "verified_at": "2026-10-31"
  }

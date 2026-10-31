@@ -22,6 +22,11 @@ import subprocess
 import sys
 from datetime import date, datetime
 
+
+def write_lines(fh, data):
+    """One record per line, the layout backend/catalog.py loads record by record."""
+    fh.write("[\n" + ",\n".join(json.dumps(r, ensure_ascii=False, separators=(",", ":")) for r in data) + "\n]\n")
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "backend", "data")
 RESEARCH = os.path.join(DATA, "research")
@@ -63,7 +68,7 @@ def save(path, data):
         return
     tmp = path + ".tmp"
     with open(tmp, "w", encoding="utf-8") as fh:
-        json.dump(data, fh, ensure_ascii=False, indent=2)
+        write_lines(fh, data)
     os.replace(tmp, path)
 
 

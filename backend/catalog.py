@@ -48,6 +48,38 @@ _cache = {}
 _last_sweep = [0.0]
 
 
+def _parse(fh):
+    """Lists are stored one record per line ("[\n{...},\n{...}\n]"), so they load
+    record by record: json.load on the whole 30+ MB file builds one giant string
+    (4 bytes a character once a flag emoji is in it) and peaked at ~230 MB, more
+    than half of the server's memory. Any other layout falls back to json.load."""
+    first = fh.readline()
+    if first.strip() != "[":
+        fh.seek(0)
+        return json.load(fh)
+    out = []
+    for line in fh:
+        line = line.strip().rstrip(",")
+        if not line or line == "]":
+            continue
+        try:
+            out.append(json.loads(line))
+        except ValueError:          # not one-record-per-line after all
+            fh.seek(0)
+            return json.load(fh)
+    return out
+
+
+def dump_lines(data, fh):
+    """Write a list one record per line (see _parse); other values as plain JSON."""
+    if not isinstance(data, list):
+        json.dump(data, fh, ensure_ascii=False)
+        return
+    fh.write("[\n")
+    fh.write(",\n".join(json.dumps(item, ensure_ascii=False, separators=(",", ":")) for item in data))
+    fh.write("\n]\n")
+
+
 def _read(path, default):
     try:
         stamp = os.path.getmtime(path)
@@ -57,7 +89,7 @@ def _read(path, default):
     if hit and hit[0] == stamp:
         return hit[1]
     with open(path, "r", encoding="utf-8") as fh:
-        data = json.load(fh)
+        data = _parse(fh)
     _cache[path] = (stamp, data)
     return data
 
@@ -66,7 +98,7 @@ def _write(path, data):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     tmp = path + ".tmp"
     with open(tmp, "w", encoding="utf-8") as fh:
-        json.dump(data, fh, ensure_ascii=False, indent=2)
+        dump_lines(data, fh)
     os.replace(tmp, path)
     _cache.pop(path, None)
 

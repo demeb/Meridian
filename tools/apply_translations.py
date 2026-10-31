@@ -11,6 +11,11 @@ import glob
 import json
 import os
 
+
+def write_lines(fh, data):
+    """One record per line, the layout backend/catalog.py loads record by record."""
+    fh.write("[\n" + ",\n".join(json.dumps(r, ensure_ascii=False, separators=(",", ":")) for r in data) + "\n]\n")
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROGRAMS = os.path.join(ROOT, "backend", "data", "programs.json")
 OUT = [os.path.join(ROOT, "backend", "data", "research", r, "translate", "out-*.json") for r in ("round5", "round6")]
@@ -44,7 +49,8 @@ def main():
                 target[lang] = value
                 filled += 1
     tmp = PROGRAMS + ".tmp"
-    json.dump(programs, open(tmp, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+    with open(tmp, "w", encoding="utf-8") as fh:
+        write_lines(fh, programs)
     os.replace(tmp, PROGRAMS)
     print("translated records available: %d · fields filled: %d" % (len(done), filled))
 
