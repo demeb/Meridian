@@ -1,0 +1,277 @@
+{
+ "uni.f.school": {
+  "en": "Your school",
+  "ka": "შენი სკოლა",
+  "ar": "مدرستك"
+ },
+ "uni.f.diploma": {
+  "en": "School diploma",
+  "ka": "სკოლის ატესტატი",
+  "ar": "شهادة الثانوية"
+ },
+ "uni.f.teachLang": {
+  "en": "Language of teaching",
+  "ka": "სწავლების ენა",
+  "ar": "لغة التدريس"
+ },
+ "uni.ff.title": {
+  "en": "Best universities in your field",
+  "ka": "საუკეთესო უნივერსიტეტები შენს სფეროში",
+  "ar": "أفضل الجامعات في مجالك"
+ },
+ "uni.ff.note": {
+  "en": "Pick a field: the universities strongest in it come first.",
+  "ka": "აირჩიე სფერო — პირველ რიგში გამოჩნდება ის უნივერსიტეტები, რომლებიც მასში ყველაზე ძლიერია.",
+  "ar": "اختر مجالاً لتظهر أولاً الجامعات الأقوى فيه."
+ },
+ "uni.school.title": {
+  "en": "School diploma & language",
+  "ka": "სკოლის ატესტატი და სწავლების ენა",
+  "ar": "شهادة الثانوية ولغة الدراسة"
+ },
+ "uni.dip.national": {
+  "en": "National school diploma",
+  "ka": "ეროვნული ატესტატი",
+  "ar": "شهادة الثانوية الوطنية"
+ },
+ "uni.dip.alevel": {
+  "en": "A levels",
+  "ka": "A level",
+  "ar": "A level"
+ },
+ "uni.dip.ib": {
+  "en": "IB Diploma",
+  "ka": "IB დიპლომი",
+  "ar": "دبلوم IB"
+ },
+ "uni.dip.us": {
+  "en": "American high school diploma",
+  "ka": "ამერიკული სკოლის დიპლომი",
+  "ar": "دبلوم الثانوية الأمريكية"
+ },
+ "uni.dip.accepted": {
+  "en": "Accepted",
+  "ka": "მიიღება",
+  "ar": "مقبولة"
+ },
+ "uni.dip.with-extra": {
+  "en": "Accepted with an extra step (exam, foundation year or recognition)",
+  "ka": "მიიღება დამატებითი ნაბიჯით (გამოცდა, მოსამზადებელი წელი ან აღიარება)",
+  "ar": "مقبولة مع خطوة إضافية (اختبار أو سنة تأسيسية أو معادلة)"
+ },
+ "uni.dip.not-accepted": {
+  "en": "Not accepted on its own",
+  "ka": "დამოუკიდებლად არ მიიღება",
+  "ar": "غير مقبولة وحدها"
+ },
+ "uni.eng.all": {
+  "en": "every bachelor's taught in English",
+  "ka": "ყველა ბაკალავრიატი ინგლისურადაა",
+  "ar": "كل برامج البكالوريوس بالإنجليزية"
+ },
+ "uni.eng.some": {
+  "en": "some bachelor's in English",
+  "ka": "ზოგი ბაკალავრიატი ინგლისურადაა",
+  "ar": "بعض برامج البكالوريوس بالإنجليزية"
+ },
+ "uni.eng.none": {
+  "en": "no bachelor's fully in English",
+  "ka": "ინგლისურენოვანი ბაკალავრიატი არ არის",
+  "ar": "لا توجد برامج بكالوريوس كاملة بالإنجليزية"
+ },
+ "cc.quiz.career.short": {
+  "en": "18 questions on what you enjoy — get careers and fields that suit you.",
+  "ka": "18 კითხვა იმაზე, რა გიყვარს — გაიგე, რომელი პროფესიები და სფეროები გიხდება.",
+  "ar": "18 سؤالاً عمّا تحبّه — اكتشف المهن والتخصصات التي تناسبك."
+ },
+ "cc.quiz.country.short": {
+  "en": "12 questions on budget, goals and language — get the countries that match.",
+  "ka": "12 კითხვა ბიუჯეტზე, მიზნებსა და ენაზე — გაიგე, რომელი ქვეყნები გერგება.",
+  "ar": "12 سؤالاً عن الميزانية والأهداف واللغة — اكتشف الدول التي تناسبك."
+ },
+ "prep.find": {
+  "en": "Find an exam (e.g. IELTS, UCAT, HSK)",
+  "ka": "მოძებნე გამოცდა (მაგ. IELTS, UCAT, HSK)",
+  "ar": "ابحث عن اختبار (مثل IELTS أو UCAT أو HSK)"
+ },
+ "prep.noExam": {
+  "en": "No exam matches.",
+  "ka": "გამოცდა ვერ მოიძებნა.",
+  "ar": "لا يوجد اختبار مطابق."
+ },
+ "prep.noMatch": {
+  "en": "No materials match these filters.",
+  "ka": "ამ ფილტრებით მასალა ვერ მოიძებნა.",
+  "ar": "لا توجد مواد تطابق هذه الفلاتر."
+ },
+ "prep.kind.all": {
+  "en": "All materials",
+  "ka": "ყველა მასალა",
+  "ar": "كل المواد"
+ },
+ "prep.freeOnly": {
+  "en": "Free only",
+  "ka": "მხოლოდ უფასო",
+  "ar": "المجانية فقط"
+ },
+ "prep.who": {
+  "en": "Who needs it",
+  "ka": "ვის სჭირდება",
+  "ar": "من يحتاجه"
+ },
+ "prep.scores": {
+  "en": "Scores",
+  "ka": "ქულები",
+  "ar": "الدرجات"
+ },
+ "prep.tips": {
+  "en": "How to prepare",
+  "ka": "როგორ მოემზადო",
+  "ar": "كيف تستعد"
+ },
+ "pricing.free.for": {
+  "en": "Free forever. Find every opportunity and start preparing.",
+  "ka": "სამუდამოდ უფასო. იპოვე ყველა შესაძლებლობა და დაიწყე მზადება.",
+  "ar": "مجاني دائماً. اعثر على كل فرصة وابدأ الاستعداد."
+ },
+ "pricing.compass.for": {
+  "en": "For students applying this year: every application in one place, with reminders so you never miss a deadline.",
+  "ka": "მათთვის, ვინც წელს აბარებს: ყველა განაცხადი ერთ ადგილას და შეხსენებები, რომ ვადა არ გამოგრჩეს.",
+  "ar": "للطلاب المتقدمين هذا العام: كل طلباتك في مكان واحد مع تذكيرات حتى لا يفوتك أي موعد."
+ },
+ "pricing.navigator.for": {
+  "en": "A real counsellor in your corner: a monthly check-in, essay feedback and a reviewed university list.",
+  "ka": "ნამდვილი კონსულტანტი შენს გვერდით: ყოველთვიური შეხვედრა, ესეს შეფასება და გადამოწმებული უნივერსიტეტების სია.",
+  "ar": "مرشد حقيقي إلى جانبك: لقاء شهري وملاحظات على مقالاتك وقائمة جامعات تمت مراجعتها."
+ },
+ "pricing.feat.database": {
+  "en": "2,000+ projects and 580+ scholarships, with deadlines",
+  "ka": "2000+ პროექტი და 580+ სტიპენდია ვადებით",
+  "ar": "أكثر من 2000 مشروع و580 منحة مع المواعيد النهائية"
+ },
+ "pricing.feat.unis": {
+  "en": "1,500+ universities, matched to your scores",
+  "ka": "1500+ უნივერსიტეტი, შენს ქულებზე მორგებული",
+  "ar": "أكثر من 1500 جامعة مطابقة لدرجاتك"
+ },
+ "pricing.feat.save": {
+  "en": "Save programmes and universities",
+  "ka": "პროგრამებისა და უნივერსიტეტების შენახვა",
+  "ar": "حفظ البرامج والجامعات"
+ },
+ "pricing.feat.tracker": {
+  "en": "Application tracker with document checklists",
+  "ka": "განაცხადების თვალყური დოკუმენტების ჩამონათვალით",
+  "ar": "متتبّع الطلبات مع قوائم المستندات"
+ },
+ "pricing.feat.alerts": {
+  "en": "Deadline reminders by email (30 / 14 / 3 days)",
+  "ka": "ვადის შეხსენებები ელფოსტით (30 / 14 / 3 დღე)",
+  "ar": "تذكيرات بالمواعيد عبر البريد (30 / 14 / 3 أيام)"
+ },
+ "pricing.feat.shortlist": {
+  "en": "A monthly shortlist matched to your profile",
+  "ka": "შენს პროფილზე მორგებული ყოველთვიური სია",
+  "ar": "قائمة شهرية مختارة تناسب ملفك"
+ },
+ "pricing.feat.aiDocs": {
+  "en": "Meridian AI feedback on your CV and essays",
+  "ka": "Meridian AI-ის შეფასება შენს CV-სა და ესეებზე",
+  "ar": "ملاحظات Meridian AI على سيرتك الذاتية ومقالاتك"
+ },
+ "pricing.feat.priority": {
+  "en": "Priority booking with counsellors",
+  "ka": "პრიორიტეტული ჩაწერა კონსულტანტებთან",
+  "ar": "أولوية الحجز مع المرشدين"
+ },
+ "pricing.feat.checkin": {
+  "en": "Monthly 30-minute call with a counsellor",
+  "ka": "ყოველთვიური 30-წუთიანი ზარი კონსულტანტთან",
+  "ar": "مكالمة شهرية لمدة 30 دقيقة مع مرشد"
+ },
+ "pricing.feat.essay": {
+  "en": "One essay or statement reviewed every month",
+  "ka": "ყოველ თვე ერთი ესეს ან სამოტივაციო წერილის განხილვა",
+  "ar": "مراجعة مقال أو خطاب دوافع واحد كل شهر"
+ },
+ "pricing.feat.listReview": {
+  "en": "Your university list reviewed by a counsellor each term",
+  "ka": "შენი უნივერსიტეტების სიის განხილვა კონსულტანტთან ყოველ სემესტრში",
+  "ar": "مراجعة قائمة جامعاتك مع مرشد كل فصل"
+ },
+ "about.lede": {
+  "en": "Opportunities to study, compete and get funded abroad are scattered across thousands of websites. Meridian brings them into one place, checks each one, and puts real people beside them. We are based in Doha.",
+  "ka": "საზღვარგარეთ სწავლის, შეჯიბრებებში მონაწილეობისა და დაფინანსების შესაძლებლობები ათასობით საიტზეა გაფანტული. Meridian მათ ერთ სივრცეში აგროვებს, თითოეულს ამოწმებს და გვერდით ნამდვილ ადამიანებს გიყენებს. ჩვენ დოჰაში ვართ.",
+  "ar": "فرص الدراسة والمنافسة والتمويل في الخارج موزّعة على آلاف المواقع. يجمعها Meridian في مكان واحد، ويتحقق من كل منها، ويضع إلى جانبها أشخاصاً حقيقيين. مقرّنا في الدوحة."
+ },
+ "about.mission.body": {
+  "en": "Every student, in any country, should be able to find the opportunities that fit them and get the guidance to win them. We gather what is scattered across the world, check it against official pages, and make it simple to act on.",
+  "ka": "ყველა მოსწავლეს, ნებისმიერ ქვეყანაში, უნდა შეეძლოს თავისთვის შესაფერისი შესაძლებლობების პოვნა და მათ მოსაპოვებლად საჭირო დახმარების მიღება. ჩვენ ვაგროვებთ მსოფლიოში გაფანტულ ინფორმაციას, ვამოწმებთ ოფიციალურ გვერდებთან და ვამარტივებთ მოქმედებას.",
+  "ar": "يجب أن يتمكن كل طالب، في أي بلد، من العثور على الفرص التي تناسبه والحصول على الإرشاد للفوز بها. نجمع ما هو متفرّق حول العالم، ونتحقق منه في الصفحات الرسمية، ونجعل التصرف بناءً عليه أمراً سهلاً."
+ },
+ "about.vision.body": {
+  "en": "One place where a student can find a programme, a scholarship or a university, prepare for it and apply, without leaving the platform. Next, we will publish our results openly: acceptances, scholarships won and score gains.",
+  "ka": "ერთი სივრცე, სადაც მოსწავლე პოულობს პროგრამას, სტიპენდიას ან უნივერსიტეტს, ემზადება და განაცხადს აგზავნის პლატფორმის დატოვების გარეშე. შემდეგი ნაბიჯი: შედეგების ღიად გამოქვეყნება — ჩარიცხვები, მოპოვებული სტიპენდიები და ქულების ზრდა.",
+  "ar": "مكان واحد يجد فيه الطالب برنامجاً أو منحة أو جامعة، ويستعد لها ويتقدّم إليها دون مغادرة المنصة. الخطوة التالية: نشر نتائجنا بشفافية: حالات القبول والمنح التي فاز بها الطلاب وتحسّن الدرجات."
+ },
+ "about.stat.projects": {
+  "en": "Projects and exchanges",
+  "ka": "პროექტი და გაცვლითი პროგრამა",
+  "ar": "مشروع وبرنامج تبادل"
+ },
+ "about.stat.scholarships": {
+  "en": "Scholarships",
+  "ka": "სტიპენდია",
+  "ar": "منحة دراسية"
+ },
+ "about.stat.universities": {
+  "en": "Universities",
+  "ka": "უნივერსიტეტი",
+  "ar": "جامعة"
+ },
+ "about.stat.languages": {
+  "en": "Languages: English, Georgian, Arabic",
+  "ka": "ენა: ინგლისური, ქართული, არაბული",
+  "ar": "لغات: الإنجليزية والجورجية والعربية"
+ },
+ "about.how.eyebrow": {
+  "en": "How we work",
+  "ka": "როგორ ვმუშაობთ",
+  "ar": "كيف نعمل"
+ },
+ "about.how.title": {
+  "en": "Four promises to every student",
+  "ka": "ოთხი დაპირება ყველა მოსწავლეს",
+  "ar": "أربعة وعود لكل طالب"
+ },
+ "about.team.eyebrow": {
+  "en": "Who we are",
+  "ka": "ვინ ვართ",
+  "ar": "من نحن"
+ },
+ "about.team.title": {
+  "en": "Built by students who went through it",
+  "ka": "შექმნილია სტუდენტების მიერ, რომლებმაც ეს გზა თავად გაიარეს",
+  "ar": "بناه طلاب خاضوا التجربة بأنفسهم"
+ },
+ "about.team.body": {
+  "en": "Meridian was started by two students who applied abroad themselves and found that the hardest part was learning in time what existed. Today a growing team of researchers, tutors and counsellors keeps it running.",
+  "ka": "Meridian ორმა სტუდენტმა დააარსა, რომლებმაც თავად გაიარეს საზღვარგარეთ ჩაბარების პროცესი და მიხვდნენ, რომ ყველაზე რთული დროულად გაგება იყო, რა არსებობდა. დღეს მას მკვლევრების, რეპეტიტორებისა და კონსულტანტების მზარდი გუნდი უძღვება.",
+  "ar": "أسّس Meridian طالبان تقدّما للدراسة في الخارج بنفسيهما واكتشفا أن أصعب ما في الأمر هو معرفة الفرص المتاحة في الوقت المناسب. واليوم يدير المنصة فريق متنامٍ من الباحثين والمدرّسين والمرشدين."
+ },
+ "about.team.cta": {
+  "en": "Meet the team",
+  "ka": "გაიცანი გუნდი",
+  "ar": "تعرّف على الفريق"
+ },
+ "about.team.partner": {
+  "en": "Partner with us",
+  "ka": "გახდი პარტნიორი",
+  "ar": "كن شريكاً لنا"
+ },
+ "about.team.cofounder": {
+  "en": "Co-founder",
+  "ka": "თანადამფუძნებელი",
+  "ar": "شريك مؤسس"
+ }
+}

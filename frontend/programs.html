@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en" data-theme="dark">
 <head>
-  <title>Meridian</title>
+  <title>Programmes and scholarships worldwide · Meridian</title>
   <meta name="description" content="Spin the globe to explore UWC, FLEX, Erasmus+, exchanges, summer schools, scholarships and universities, with verified deadlines." />
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
@@ -10,15 +10,18 @@
   <link rel="icon" type="image/png" sizes="64x64" href="/assets/brand/favicon-64.png?v=3" />
   <link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png?v=3" />
   <meta name="apple-mobile-web-app-title" content="Meridian" />
-  <meta property="og:title" content="Meridian" />
+  <meta property="og:title" content="Programmes and scholarships worldwide · Meridian" />
+  <meta property="og:description" content="Spin the globe to explore UWC, FLEX, Erasmus+, exchanges, summer schools, scholarships and universities, with verified deadlines." />
+  <meta property="og:site_name" content="Meridian" />
+  <meta property="og:type" content="website" />
   <meta property="og:image" content="/assets/brand/meridian-logo.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Newsreader:ital,wght@0,400;1,400&family=Noto+Sans+Georgian:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&family=Noto+Kufi+Arabic:wght@600;700&display=swap" />
-  <link rel="stylesheet" href="/css/tokens.css?v=r6" />
-  <link rel="stylesheet" href="/css/base.css?v=r6" />
-  <link rel="stylesheet" href="/css/components.css?v=r6" />
-  <link rel="stylesheet" href="/css/pages.css?v=r6" />
+  <link rel="stylesheet" href="/css/tokens.css?v=r7" />
+  <link rel="stylesheet" href="/css/base.css?v=r7" />
+  <link rel="stylesheet" href="/css/components.css?v=r7" />
+  <link rel="stylesheet" href="/css/pages.css?v=r7" />
   <script>
     /* Set theme + language before first paint so nothing flashes. */
     (function () {
@@ -89,7 +92,11 @@
         </section>
 
         <div class="explore-bar">
-          <div class="explore-cats" id="typeChips" role="group" aria-label="Programme type"></div>
+          <div class="cats-wrap" id="catsWrap">
+            <button type="button" class="cats-arrow" data-dir="-1" aria-label="Previous"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg></button>
+            <div class="explore-cats" id="typeChips" role="group" aria-label="Programme type"></div>
+            <button type="button" class="cats-arrow" data-dir="1" aria-label="Next"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg></button>
+          </div>
           <div class="explore-controls">
             <label class="ctl"><span data-i18n="programs.filter.host">Host country</span><select class="select" id="hostSelect"></select></label>
             <label class="ctl"><span data-i18n="programs.filter.region">Region</span><select class="select" id="regionSelect"></select></label>
@@ -143,10 +150,10 @@
 
   <div id="footer-root"></div>
 
-  <script src="/js/i18n.js?v=r6"></script>
-  <script src="/js/app.js?v=r6"></script>
-  <script src="/vendor/globe.gl.min.js?v=r6"></script>
-  <script src="/js/earth.js?v=r6"></script>
-  <script src="/js/programs.js?v=r6"></script>
+  <script src="/js/i18n.js?v=r7"></script>
+  <script src="/js/app.js?v=r7"></script>
+  <script src="/vendor/globe.gl.min.js?v=r7"></script>
+  <script src="/js/earth.js?v=r7"></script>
+  <script src="/js/programs.js?v=r7"></script>
 </body>
 </html>

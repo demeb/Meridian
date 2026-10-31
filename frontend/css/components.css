@@ -964,7 +964,8 @@
 
 /* Searchable select (M.searchSelect) */
 .ss-wrap { position: relative; }
-.ss-native { display: none !important; }
+/* hidden but still focusable, so a required <select> can show the browser's message */
+.ss-native { position: absolute !important; inset: auto auto 0 0; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important; padding: 0 !important; border: 0 !important; }
 .ss-button { width: 100%; text-align: start; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; cursor: pointer; }
 .ss-button.is-set { border-color: var(--brand); }
 .ss-panel {
@@ -974,7 +975,15 @@
   background: var(--surface-solid); box-shadow: var(--shadow-3);
   display: none;
 }
-.ss-wrap.is-open .ss-panel { display: block; }
+.ss-wrap.is-open .ss-panel { display: block; animation: ss-in 140ms ease-out; }
+@keyframes ss-in { from { opacity: 0; transform: translateY(-4px); } to { opacity: 1; transform: none; } }
+.ss-wrap.ss-short .ss-search { position: absolute; width: 1px; height: 1px; min-height: 0; opacity: 0; padding: 0; border: 0; margin: 0; }
+.ss-wrap.is-open .ss-button { border-color: var(--brand); box-shadow: 0 0 0 3px var(--brand-soft); }
+.ss-button[disabled] { opacity: 0.55; cursor: not-allowed; }
+.ss-opt { transition: background-color 120ms ease, color 120ms ease; }
+.ss-opt[aria-selected='true']::after { content: ''; float: inline-end; width: 14px; height: 14px; margin-top: 3px;
+  background: currentColor; -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12.5 10 17 19 7'/%3E%3C/svg%3E") center / contain no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12.5 10 17 19 7'/%3E%3C/svg%3E") center / contain no-repeat; }
 .ss-search { width: 100%; min-height: 40px; margin-bottom: 0.35rem; }
 .ss-list { max-height: 300px; overflow-y: auto; overscroll-behavior: contain; }
 .ss-opt {
@@ -1000,3 +1009,79 @@
 [dir='rtl'] .is-folded > .fold-head .fold-btn svg { transform: rotate(90deg); }
 .is-folded > :not(.fold-head) { display: none !important; }
 .is-folded > .fold-head { margin-bottom: 0 !important; }
+
+/* ---------------------------------------------------------------- form controls (round 7)
+   Site-coloured checkboxes, radios and sliders instead of the browser's white boxes. */
+input[type='checkbox']:not(.switch input):not([data-native]),
+input[type='radio']:not([data-native]) {
+  appearance: none; -webkit-appearance: none; flex: none;
+  width: 1.15rem; height: 1.15rem; margin: 0; display: inline-grid; place-content: center;
+  border: 1.5px solid var(--border-strong); border-radius: 6px;
+  background: var(--surface-2); cursor: pointer; vertical-align: middle;
+  transition: background-color 150ms ease, border-color 150ms ease, box-shadow 150ms ease;
+}
+input[type='radio']:not([data-native]) { border-radius: 50%; }
+input[type='checkbox']:not(.switch input):not([data-native])::before {
+  content: ''; width: 0.72rem; height: 0.72rem; background: #fff; transform: scale(0);
+  transition: transform 140ms cubic-bezier(.2, .9, .3, 1.3);
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='3.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M4.5 12.5 9.5 17.5 19.5 6.5'/%3E%3C/svg%3E") center / contain no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='3.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M4.5 12.5 9.5 17.5 19.5 6.5'/%3E%3C/svg%3E") center / contain no-repeat;
+}
+input[type='radio']:not([data-native])::before {
+  content: ''; width: 0.5rem; height: 0.5rem; border-radius: 50%; background: #fff; transform: scale(0);
+  transition: transform 140ms ease;
+}
+input[type='checkbox']:not(.switch input):not([data-native]):hover,
+input[type='radio']:not([data-native]):hover { border-color: var(--brand); }
+input[type='checkbox']:not(.switch input):not([data-native]):checked,
+input[type='radio']:not([data-native]):checked { background: var(--brand); border-color: var(--brand); box-shadow: 0 0 0 3px var(--brand-soft); }
+input[type='checkbox']:not(.switch input):not([data-native]):checked::before,
+input[type='radio']:not([data-native]):checked::before { transform: scale(1); }
+input[type='checkbox']:not([data-native]):focus-visible,
+input[type='radio']:not([data-native]):focus-visible { outline: 2px solid var(--ring); outline-offset: 2px; }
+[data-theme='light'] input[type='checkbox']:not(.switch input):not([data-native]),
+[data-theme='light'] input[type='radio']:not([data-native]) { background: #fff; }
+
+input[type='range']:not([data-native]) {
+  appearance: none; -webkit-appearance: none; height: 26px; background: transparent; cursor: pointer;
+  --fill: 100%;
+}
+input[type='range']:not([data-native])::-webkit-slider-runnable-track {
+  height: 6px; border-radius: 999px;
+  background: linear-gradient(90deg, var(--brand), #6fa8ff var(--fill), var(--surface-3) var(--fill));
+}
+input[type='range']:not([data-native])::-moz-range-track { height: 6px; border-radius: 999px; background: var(--surface-3); }
+input[type='range']:not([data-native])::-moz-range-progress { height: 6px; border-radius: 999px; background: linear-gradient(90deg, var(--brand), #6fa8ff); }
+input[type='range']:not([data-native])::-webkit-slider-thumb {
+  -webkit-appearance: none; width: 20px; height: 20px; margin-top: -7px; border-radius: 50%;
+  background: #fff; border: 4px solid var(--brand); box-shadow: 0 2px 10px rgba(0, 0, 0, 0.35), 0 0 0 4px var(--brand-soft);
+  transition: transform 140ms ease;
+}
+input[type='range']:not([data-native])::-moz-range-thumb {
+  width: 14px; height: 14px; border-radius: 50%; background: #fff; border: 4px solid var(--brand);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.35);
+}
+input[type='range']:not([data-native]):active::-webkit-slider-thumb { transform: scale(1.12); }
+[dir='rtl'] input[type='range']:not([data-native])::-webkit-slider-runnable-track {
+  background: linear-gradient(270deg, var(--brand), #6fa8ff var(--fill), var(--surface-3) var(--fill));
+}
+
+/* Nav dropdowns (Mentorship, About us, language): fully opaque. A blur inside the
+   already-blurred nav bar can't see the page, so text underneath showed through. */
+.has-menu > .nav-menu, .lang-menu {
+  background: linear-gradient(180deg, #11295e 0%, #0a1d45 100%) !important;
+  border-color: rgba(92, 141, 255, 0.34) !important;
+  backdrop-filter: none !important; -webkit-backdrop-filter: none !important;
+  box-shadow: 0 24px 48px -12px rgba(0, 0, 0, 0.65), 0 0 0 1px rgba(0, 0, 0, 0.2);
+  z-index: calc(var(--z-nav) + 2);
+}
+[data-theme='light'] .has-menu > .nav-menu, [data-theme='light'] .lang-menu {
+  background: #ffffff !important; border-color: rgba(13, 33, 72, 0.14) !important;
+  box-shadow: 0 24px 48px -16px rgba(13, 33, 72, 0.35);
+}
+.nav-menu a, .lang-menu button { color: #e8efff; }
+.nav-menu .menu-note { color: #9fb3d6; }
+[data-theme='light'] .nav-menu a, [data-theme='light'] .lang-menu button { color: #0d2148; }
+[data-theme='light'] .nav-menu .menu-note { color: #4a5f86; }
+/* keep the menu open while the pointer crosses the gap under the link */
+.has-menu > .nav-menu::before { content: ''; position: absolute; left: 0; right: 0; top: -12px; height: 12px; }

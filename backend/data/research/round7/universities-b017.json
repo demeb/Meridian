@@ -1,0 +1,1725 @@
+[
+ {
+  "id": "university-of-east-anglia-uea",
+  "name": {
+   "en": "University of East Anglia (UEA)",
+   "ka": "ისტ ანგლიის უნივერსიტეტი (UEA)",
+   "ar": "جامعة إيست أنجليا (UEA)"
+  },
+  "iso": "GB",
+  "city": "Norwich",
+  "lat": 52.622,
+  "lon": 1.239,
+  "type": "public",
+  "website": "https://www.uea.ac.uk",
+  "platform": "Direct application via UEA (UCAS-style entry requirements per course)",
+  "application_url": "https://www.uea.ac.uk/study/international-students",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "UEA does not publish a single international bachelor deadline on the pages checked; each 2027/28 course page lists its own entry terms.",
+  "tuition_intl": {
+   "amount": 24250,
+   "currency": "GBP",
+   "per": "year",
+   "note": "2027/28 course pages: GBP 24,250 (Education) to GBP 29,300 (Biomedicine). Fee depends on the course."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "2027/28 course pages list typical offers such as A-levels ABB or IB 32 points (International Relations) and BBB or IB 31 (Education). UEA says it accepts many international qualifications; country-specific rules are on its international pages. A foundation route exists through the UEA International Study Centre.",
+   "ka": "2027/28 კურსების გვერდებზე მითითებულია ტიპური მოთხოვნები, მაგ. A-level ABB ან IB 32 ქულა (საერთაშორისო ურთიერთობები) და BBB ან IB 31 (განათლება). UEA აცხადებს, რომ ბევრ საერთაშორისო კვალიფიკაციას აღიარებს; ქვეყნების მიხედვით წესები საერთაშორისო გვერდებზეა. არსებობს საფუძვლო (foundation) გზა UEA International Study Centre-ის მეშვეობით.",
+   "ar": "تعرض صفحات مقررات 2027/28 عروض قبول نموذجية مثل A-level بدرجات ABB أو IB بـ32 نقطة (العلاقات الدولية) وBBB أو IB بـ31 (التربية). تذكر UEA أنها تقبل مؤهلات دولية كثيرة، وتوجد شروط خاصة بكل بلد في صفحاتها الدولية. يتوفر مسار تأسيسي عبر UEA International Study Centre."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "social-sciences",
+   "natural-sciences",
+   "business",
+   "medicine-health",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Environmental sciences",
+    "International Relations",
+    "Biomedicine",
+    "Education",
+    "Economics"
+   ],
+   "ka": [
+    "გარემოს მეცნიერებები",
+    "საერთაშორისო ურთიერთობები",
+    "ბიომედიცინა",
+    "განათლება",
+    "ეკონომიკა"
+   ],
+   "ar": [
+    "علوم البيئة",
+    "العلاقات الدولية",
+    "الطب الحيوي",
+    "التربية",
+    "الاقتصاد"
+   ]
+  },
+  "summary": {
+   "en": "UEA is a public research university in Norwich, England, with more than 3,500 international students. 2027/28 international fees on course pages run from GBP 24,250 to GBP 29,300 a year.",
+   "ka": "UEA არის საჯარო კვლევითი უნივერსიტეტი ნორვიჩში (ინგლისი), სადაც 3 500-ზე მეტი საერთაშორისო სტუდენტი სწავლობს. 2027/28 წლისთვის საერთაშორისო სტუდენტის საფასური კურსებზე წელიწადში 24 250-დან 29 300 ფუნტამდეა.",
+   "ar": "UEA جامعة بحثية حكومية في نورويتش بإنجلترا، ويدرس فيها أكثر من 3500 طالب دولي. تتراوح الرسوم الدولية لعام 2027/28 في صفحات المقررات بين 24,250 و29,300 جنيه إسترليني سنوياً."
+  },
+  "about": {
+   "en": "UEA is a public university on a campus on the edge of Norwich, England. It has more than 3,500 international students from over 100 countries and guarantees accommodation for international students, subject to terms. All bachelor courses are taught in English. Entry offers are set course by course and shown on each course page for 2027/28. Most courses ask for IELTS 6.0 overall with 5.5 in each part. A foundation route is available for applicants who do not meet direct entry. Fees depend on the course.",
+   "ka": "UEA საჯარო უნივერსიტეტია, რომლის კამპუსი ნორვიჩის (ინგლისი) განაპირას მდებარეობს. აქ 100-ზე მეტი ქვეყნის 3 500-ზე მეტი საერთაშორისო სტუდენტი სწავლობს და უნივერსიტეტი პირობების დაცვით საერთაშორისო სტუდენტებს საცხოვრებლის გარანტიას აძლევს. ყველა ბაკალავრიატის კურსი ინგლისურ ენაზე ისწავლება. მისაღები მოთხოვნები თითო კურსზეა განსაზღვრული და 2027/28-ისთვის კურსის გვერდზეა მითითებული. უმეტეს კურსზე საჭიროა IELTS 6.0 საერთო ქულით და 5.5 თითო ნაწილში. პირდაპირ მისაღებად საკმარისად მომზადებულ აპლიკანტებს საფუძვლო (foundation) გზა აქვთ. საფასური კურსის მიხედვით განსხვავდება.",
+   "ar": "جامعة UEA جامعة حكومية يقع حرمها على أطراف مدينة نورويتش في إنجلترا. يدرس فيها أكثر من 3500 طالب دولي من أكثر من 100 دولة، وتضمن السكن للطلاب الدوليين وفق شروط محددة. تُدرَّس جميع مقررات البكالوريوس بالإنجليزية. تُحدَّد شروط القبول لكل مقرر وتظهر في صفحته لعام 2027/28. تطلب معظم المقررات IELTS بدرجة 6.0 إجمالاً و5.5 في كل مهارة. يتوفر مسار تأسيسي لمن لا يستوفي شروط القبول المباشر. تختلف الرسوم حسب المقرر."
+  },
+  "aid_intl": {
+   "en": "UEA lists scholarships for UK, EU and international students, but amounts were not visible on the pages checked.",
+   "ka": "UEA-ს გვერდზე მითითებულია სტიპენდიები ბრიტანელი, ევროკავშირისა და საერთაშორისო სტუდენტებისთვის, თუმცა შემოწმებულ გვერდებზე თანხები არ ჩანდა.",
+   "ar": "تذكر UEA منحاً للطلاب البريطانيين والأوروبيين والدوليين، لكن المبالغ لم تظهر في الصفحات التي جرى فحصها."
+  },
+  "tests": {
+   "en": "No entrance test was listed. Most courses ask for IELTS 6.0 overall with 5.5 in each component; tests should be taken within two years of the start date.",
+   "ka": "მისაღები გამოცდა მითითებული არ არის. უმეტეს კურსზე საჭიროა IELTS 6.0 საერთო ქულით და 5.5 თითო ნაწილში; ტესტი კურსის დაწყებამდე ორი წლის განმავლობაში უნდა იყოს ჩაბარებული.",
+   "ar": "لم يُذكر اختبار قبول. تطلب معظم المقررات IELTS بدرجة 6.0 إجمالاً و5.5 في كل مهارة، ويجب أن يكون الاختبار خلال سنتين قبل بدء الدراسة."
+  },
+  "gpa_note": {
+   "en": "Required grades vary by course, for example ABB at A-level or 32 IB points for International Relations and Politics.",
+   "ka": "საჭირო ნიშნები კურსის მიხედვით განსხვავდება, მაგ. საერთაშორისო ურთიერთობებისა და პოლიტიკისთვის A-level-ში ABB ან IB-ის 32 ქულა.",
+   "ar": "تختلف الدرجات المطلوبة حسب المقرر، مثلاً ABB في A-level أو 32 نقطة IB لمقرر العلاقات الدولية والسياسة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის აკადემიური ცნობა (ნიშნების ნუსხა)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test",
+     "ka": "ინგლისური ენის გამოცდის შედეგი",
+     "ar": "نتيجة اختبار اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "UEA scholarships finder",
+    "url": "https://www.uea.ac.uk/study/fees-and-funding/scholarships",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "uk",
+   "england",
+   "norwich",
+   "uea",
+   "research university",
+   "foundation year"
+  ],
+  "sources": [
+   "https://www.uea.ac.uk/study/international-students",
+   "https://www.uea.ac.uk/course/undergraduate/ba-international-relations-and-politics",
+   "https://www.uea.ac.uk/course/undergraduate/ba-education-with-a-year-abroad",
+   "https://www.uea.ac.uk/course/undergraduate/bsc-biomedicine-with-a-year-abroad",
+   "https://www.uea.ac.uk/study/fees-and-funding/scholarships"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "national-university-of-sciences-technology-nust-islamabad",
+  "name": {
+   "en": "National University of Sciences & Technology (NUST) Islamabad",
+   "ka": "მეცნიერებისა და ტექნოლოგიების ეროვნული უნივერსიტეტი (NUST), ისლამაბადი",
+   "ar": "الجامعة الوطنية للعلوم والتكنولوجيا (NUST) إسلام آباد"
+  },
+  "iso": "PK",
+  "city": "Islamabad",
+  "lat": 33.643,
+  "lon": 72.991,
+  "type": "public",
+  "website": "https://www.nust.edu.pk",
+  "platform": "Direct (NUST Entry Test or SAT/ACT international seats)",
+  "application_url": "https://nust.edu.pk/admissions/undergraduates/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Admission dates for the 2027 intake were not readable on the pages checked; NUST runs the NET in series and fees are valid only for the series paid for.",
+  "tuition_intl": {
+   "amount": 5400,
+   "currency": "USD",
+   "per": "year",
+   "note": "International fee structure on NUST site: USD 5,400 tuition a year, plus USD 600 one-time admission processing fee, USD 250 refundable deposit, USD 120 yearly health fee. A fee-remission scholarship can bring the fee to the national-student level."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "NUST states that foreign nationals can apply through the NUST Entry Test (NET) or through ACT/SAT-based international seats. A candidate selected on an international seat cannot move to a national seat. Recognition of school certificates was not stated on the pages checked.",
+   "ka": "NUST აცხადებს, რომ უცხო ქვეყნის მოქალაქეებს შეუძლიათ განაცხადის გაგზავნა NUST-ის მისაღები ტესტით (NET) ან ACT/SAT-ზე დაფუძნებული საერთაშორისო ადგილებით. საერთაშორისო ადგილზე არჩეული კანდიდატი ეროვნულ ადგილზე ვერ გადავა. სასკოლო ატესტატების აღიარების წესი შემოწმებულ გვერდებზე მითითებული არ იყო.",
+   "ar": "تذكر NUST أن الأجانب يمكنهم التقدم عبر اختبار القبول NET أو عبر مقاعد دولية تعتمد على ACT/SAT. لا يمكن للمرشح المقبول على مقعد دولي الانتقال إلى مقعد وطني. لم تُذكر آلية الاعتراف بالشهادات المدرسية في الصفحات التي جرى فحصها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "NET (NUST Entry Test)",
+   "SAT or ACT (international seats)"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Natural sciences",
+    "Medicine (MBBS)"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "მედიცინა (MBBS)"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "العلوم الطبيعية",
+    "الطب (MBBS)"
+   ]
+  },
+  "summary": {
+   "en": "NUST is a public science and technology university in Islamabad, Pakistan. International students pay USD 5,400 a year in tuition and apply through the NUST Entry Test or SAT/ACT.",
+   "ka": "NUST არის საჯარო მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი ისლამაბადში (პაკისტანი). საერთაშორისო სტუდენტები სწავლის საფასურად წელიწადში 5 400 აშშ დოლარს იხდიან და განაცხადს NUST-ის მისაღები ტესტით ან SAT/ACT-ით აგზავნიან.",
+   "ar": "NUST جامعة حكومية للعلوم والتكنولوجيا في إسلام آباد بباكستان. يدفع الطلاب الدوليون 5400 دولار أمريكي سنوياً رسوماً دراسية، ويتقدمون عبر اختبار NUST أو عبر SAT/ACT."
+  },
+  "about": {
+   "en": "NUST is a public university in Islamabad, Pakistan. Foreign nationals can apply to bachelor programmes through the NUST Entry Test (NET) or through a limited number of international seats based on SAT or ACT. The application processing fee for foreign nationals is USD 80 per exam series, and a valid passport number is required. International students pay a separate fee structure of USD 5,400 tuition a year plus other charges. NUST also lists a fee-remission scholarship for international students.",
+   "ka": "NUST საჯარო უნივერსიტეტია ისლამაბადში (პაკისტანი). უცხო ქვეყნის მოქალაქეებს შეუძლიათ ბაკალავრიატზე განაცხადის გაგზავნა NUST-ის მისაღები ტესტით (NET) ან SAT-ზე ან ACT-ზე დაფუძნებული შეზღუდული რაოდენობის საერთაშორისო ადგილებით. უცხო მოქალაქეებისთვის განაცხადის დამუშავების გადასახადია 80 აშშ დოლარი ერთ საგამოცდო სერიაზე და საჭიროა პასპორტის ნომერი. საერთაშორისო სტუდენტებს ცალკე საფასური აქვთ: სწავლა წელიწადში 5 400 აშშ დოლარი და სხვა გადასახადები. NUST საერთაშორისო სტუდენტებისთვის ასევე გვთავაზობს საფასურის შემცირების სტიპენდიას.",
+   "ar": "NUST جامعة حكومية في إسلام آباد بباكستان. يستطيع الأجانب التقدم لبرامج البكالوريوس عبر اختبار القبول NET أو عبر عدد محدود من المقاعد الدولية المعتمدة على SAT أو ACT. رسوم معالجة الطلب للأجانب 80 دولاراً لكل سلسلة اختبار، ويلزم رقم جواز سفر ساري. للطلاب الدوليين هيكل رسوم مستقل: 5400 دولار رسوماً دراسية سنوية إضافة إلى رسوم أخرى. وتعلن NUST أيضاً عن منحة تخفيض رسوم للطلاب الدوليين."
+  },
+  "aid_intl": {
+   "en": "NUST offers international students a fee-remission scholarship that adjusts their fee to the tuition level of national students.",
+   "ka": "NUST საერთაშორისო სტუდენტებს სთავაზობს საფასურის შემცირების სტიპენდიას, რომელიც მათ საფასურს ეროვნული სტუდენტების სწავლის საფასურამდე ამცირებს.",
+   "ar": "تقدم NUST للطلاب الدوليين منحة تخفيض رسوم تجعل رسومهم مساوية للرسوم الدراسية للطلاب المحليين."
+  },
+  "tests": {
+   "en": "Applicants take the NUST Entry Test (NET) or submit SAT/ACT scores for international seats. English test requirements were not stated on the pages checked.",
+   "ka": "აპლიკანტები აბარებენ NUST-ის მისაღებ ტესტს (NET) ან საერთაშორისო ადგილებისთვის აგზავნიან SAT/ACT-ის შედეგებს. ინგლისური ენის ტესტის მოთხოვნა შემოწმებულ გვერდებზე მითითებული არ იყო.",
+   "ar": "يؤدي المتقدمون اختبار NET أو يقدمون نتائج SAT/ACT للمقاعد الدولية. لم تُذكر متطلبات اختبار اللغة الإنجليزية في الصفحات التي جرى فحصها."
+  },
+  "gpa_note": {
+   "en": "Minimum school grades and subject prerequisites were not readable on the pages checked; see the NUST admission policy page.",
+   "ka": "სასკოლო ნიშნების მინიმუმი და საგნობრივი წინაპირობები შემოწმებულ გვერდებზე არ იკითხებოდა; იხილეთ NUST-ის მიღების პოლიტიკის გვერდი.",
+   "ar": "لم تكن الحدود الدنيا للدرجات المدرسية ومتطلبات المواد مقروءة في الصفحات التي جرى فحصها؛ راجع صفحة سياسة القبول في NUST."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance test",
+     "ka": "მისაღები გამოცდა",
+     "ar": "اختبار القبول"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "SAT or ACT score (alternative route)",
+     "ka": "SAT ან ACT-ის შედეგი (ალტერნატიული გზა)",
+     "ar": "نتيجة SAT أو ACT (مسار بديل)"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "NUST fee remission scholarship for international students",
+    "url": "https://nust.edu.pk/admissions/fee-structure/undergraduate-financial-matters/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "pakistan",
+   "islamabad",
+   "nust",
+   "engineering",
+   "NET",
+   "sat"
+  ],
+  "sources": [
+   "https://nust.edu.pk/admissions/undergraduates/",
+   "https://nust.edu.pk/admissions/undergraduates/ug-admission-application-processing-fee/",
+   "https://nust.edu.pk/admissions/fee-structure/undergraduate-financial-matters/",
+   "https://nust.edu.pk/admissions/undergraduates/salient-features/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "daegu-gyeongbuk-institute-of-science-and-technology-dgist",
+  "name": {
+   "en": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)",
+   "ka": "დეგუ-კიონგბუკის მეცნიერებისა და ტექნოლოგიების ინსტიტუტი (DGIST)",
+   "ar": "معهد دايغو غيونغبوك للعلوم والتكنولوجيا (DGIST)"
+  },
+  "iso": "KR",
+  "city": "Daegu",
+  "lat": 35.714,
+  "lon": 128.464,
+  "type": "public",
+  "website": "https://dgist.ac.kr",
+  "platform": "Study in Korea portal (studyinkorea.go.kr), select DGIST",
+  "application_url": "https://www.dgist.ac.kr/iuadm/sub02_03.do",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Online applications run from early December to late January for the autumn start; exact 2027 dates are not published yet.",
+  "tuition_intl": {
+   "amount": 0,
+   "currency": "KRW",
+   "per": "year",
+   "note": "All international undergraduates receive a scholarship with no separate application; DGIST pages list tuition waivers of about KRW 3.8-3.97 million per semester for eight semesters. Conditions apply."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Applicants must graduate from a high school outside Korea and be foreign citizens. GED, home schooling and online-course credentials are not accepted, and international schools located in Korea are not recognised as foreign schools. Documents must be in English or Korean.",
+   "ka": "აპლიკანტებმა უნდა დაამთავრონ კორეის გარეთ მდებარე საშუალო სკოლა და უცხო ქვეყნის მოქალაქეები იყვნენ. GED, ოჯახური განათლება და ონლაინ კურსებით მიღებული დოკუმენტები არ მიიღება, კორეაში მდებარე საერთაშორისო სკოლები კი უცხოურ სკოლებად არ ითვლება. დოკუმენტები ინგლისურ ან კორეულ ენაზე უნდა იყოს.",
+   "ar": "يجب أن يتخرج المتقدم من مدرسة ثانوية خارج كوريا وأن يكون مواطناً أجنبياً. لا تُقبل شهادات GED أو التعليم المنزلي أو الدورات عبر الإنترنت، ولا تُعتبر المدارس الدولية داخل كوريا مدارس أجنبية. يجب أن تكون الوثائق بالإنجليزية أو الكورية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Computer science and engineering",
+    "Electronics engineering",
+    "Chemistry and physics",
+    "Brain sciences",
+    "Materials science"
+   ],
+   "ka": [
+    "კომპიუტერული მეცნიერება და ინჟინერია",
+    "ელექტრონული ინჟინერია",
+    "ქიმია და ფიზიკა",
+    "ტვინის მეცნიერებები",
+    "მასალათმცოდნეობა"
+   ],
+   "ar": [
+    "علوم وهندسة الحاسوب",
+    "هندسة الإلكترونيات",
+    "الكيمياء والفيزياء",
+    "علوم الدماغ",
+    "علم المواد"
+   ]
+  },
+  "summary": {
+   "en": "DGIST is a public science and technology institute in Daegu, South Korea, with lectures in English. International undergraduates receive an automatic tuition scholarship, and there is no minimum English test score.",
+   "ka": "DGIST არის საჯარო მეცნიერებისა და ტექნოლოგიების ინსტიტუტი დეგუში (სამხრეთ კორეა), სადაც ლექციები ინგლისურად ტარდება. საერთაშორისო სტუდენტები ავტომატურად იღებენ სწავლის საფასურის სტიპენდიას და ინგლისურის ტესტის მინიმალური ქულა არ არის დადგენილი.",
+   "ar": "DGIST معهد حكومي للعلوم والتكنولوجيا في دايغو بكوريا الجنوبية، وتُلقى المحاضرات فيه بالإنجليزية. يحصل طلاب البكالوريوس الدوليون تلقائياً على منحة رسوم دراسية، ولا يوجد حد أدنى لدرجة اختبار الإنجليزية."
+  },
+  "about": {
+   "en": "DGIST is a public institute in Daegu, South Korea. Its undergraduate lectures, including basic science and major courses, are taught in English. International applicants must be foreign citizens who finished high school outside Korea, and they apply through the Study in Korea portal with a KRW 50,000 fee. Evaluation includes an interview. There is no nationality quota and no fixed number of places. All international undergraduates get a scholarship without a separate application.",
+   "ka": "DGIST საჯარო ინსტიტუტია დეგუში (სამხრეთ კორეა). საბაკალავრო ლექციები, მათ შორის საბაზო მეცნიერებისა და სპეციალობის კურსები, ინგლისურ ენაზე ტარდება. საერთაშორისო აპლიკანტები უნდა იყვნენ უცხო ქვეყნის მოქალაქეები, რომლებმაც საშუალო სკოლა კორეის გარეთ დაამთავრეს, და განაცხადს Study in Korea პორტალზე აგზავნიან 50 000 ვონის გადასახადით. შეფასება გასაუბრებას მოიცავს. ეროვნული კვოტა არ არსებობს და ადგილების რაოდენობა წინასწარ განსაზღვრული არ არის. ყველა საერთაშორისო სტუდენტი ცალკე განაცხადის გარეშე იღებს სტიპენდიას.",
+   "ar": "DGIST معهد حكومي في دايغو بكوريا الجنوبية. تُدرَّس محاضرات البكالوريوس فيه، بما فيها العلوم الأساسية ومقررات التخصص، بالإنجليزية. يجب أن يكون المتقدمون الدوليون مواطنين أجانب أنهوا الثانوية خارج كوريا، ويتقدمون عبر بوابة Study in Korea برسوم 50,000 وون. يتضمن التقييم مقابلة. لا توجد حصص حسب الجنسية ولا عدد ثابت للمقاعد. يحصل جميع الطلاب الدوليين على منحة دون طلب منفصل."
+  },
+  "aid_intl": {
+   "en": "All international undergraduates receive a scholarship automatically (tuition waiver, plus further awards that depend on GPA and credits).",
+   "ka": "ყველა საერთაშორისო სტუდენტი ავტომატურად იღებს სტიპენდიას (სწავლის საფასურის გათავისუფლება და დამატებითი ჯილდოები, რომლებიც GPA-სა და კრედიტებზეა დამოკიდებული).",
+   "ar": "يحصل جميع طلاب البكالوريوس الدوليين تلقائياً على منحة (إعفاء من الرسوم الدراسية، إضافة إلى مكافآت أخرى تعتمد على المعدل والساعات المعتمدة)."
+  },
+  "tests": {
+   "en": "No minimum English score is set; an English proficiency test (taken within 2 years of the deadline) and standardized test scores are optional. Applicants are interviewed, and skipping the interview disqualifies the application.",
+   "ka": "ინგლისურის მინიმალური ქულა დადგენილი არ არის; ინგლისური ენის ტესტი (ბოლო 2 წლის განმავლობაში ჩაბარებული) და სტანდარტიზებული ტესტის შედეგები სურვილისამებრია. აპლიკანტებს გასაუბრება აქვთ და გასაუბრებაზე გამოუცხადებლობა განაცხადს აუქმებს.",
+   "ar": "لا يوجد حد أدنى لدرجة الإنجليزية؛ اختبار الكفاءة (خلال سنتين قبل الموعد النهائي) ونتائج الاختبارات الموحدة اختيارية. تُجرى مقابلة، ويؤدي التغيب عنها إلى استبعاد الطلب."
+  },
+  "gpa_note": {
+   "en": "No minimum grade is published on the pages checked; applicants submit the diploma and high school transcript, and details are in the admission guide.",
+   "ka": "შემოწმებულ გვერდებზე ნიშნების მინიმუმი გამოქვეყნებული არ არის; აპლიკანტები წარადგენენ ატესტატსა და სკოლის აკადემიურ ცნობას, დეტალები კი მიღების გზამკვლევშია.",
+   "ar": "لا يوجد حد أدنى للدرجات منشور في الصفحات التي جرى فحصها؛ يقدم المتقدم الشهادة وكشف الدرجات، والتفاصيل في دليل القبول."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის აკადემიური ცნობა (ნიშნების ნუსხა)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Interview",
+     "ka": "გასაუბრება",
+     "ar": "مقابلة"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "DGIST international undergraduate scholarship (automatic tuition waiver)",
+    "url": "https://www.dgist.ac.kr/iuadm/sub04_01.do",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "korea",
+   "daegu",
+   "dgist",
+   "stem",
+   "english taught",
+   "tuition waiver"
+  ],
+  "sources": [
+   "https://www.dgist.ac.kr/iuadm/sub02_01.do",
+   "https://www.dgist.ac.kr/iuadm/sub02_02.do",
+   "https://www.dgist.ac.kr/iuadm/sub02_03.do",
+   "https://www.dgist.ac.kr/iuadm/sub02_04.do",
+   "https://www.dgist.ac.kr/iuadm/sub04_01.do",
+   "https://www.dgist.ac.kr/bbs/BBSMSTR_000000000056/list.do",
+   "https://www.dgist.ac.kr/en_college/sub06_05.do"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universite-grenoble-alpes",
+  "name": {
+   "en": "Université Grenoble Alpes",
+   "ka": "გრენობლ-ალპის უნივერსიტეტი",
+   "ar": "جامعة غرونوبل ألب"
+  },
+  "iso": "FR",
+  "city": "Grenoble",
+  "lat": 45.192,
+  "lon": 5.768,
+  "type": "public",
+  "website": "https://www.univ-grenoble-alpes.fr",
+  "platform": "Campus France / Études en France (PEF) or Demande d'Admission Préalable (DAP) for first-year licence",
+  "application_url": "https://international.univ-grenoble-alpes.fr/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Dates depend on the Campus France calendar of your country of residence; UGA's pages checked give no single deadline.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Non-EU students pay differentiated fees, but UGA says it grants exemption from the extra fee on request. A May 2026 decree changes waiver rules and UGA is still assessing it. Amount not confirmed on UGA pages."
+  },
+  "acceptance_rate": null,
+  "students": 59000,
+  "intl_pct": 17,
+  "languages": [
+   "French"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "UGA's science licence page says applicants outside the Études en France countries use a DAP for first-year licence, and others follow the Campus France procedure of their country. The French level and accepted diplomas were not stated on the pages checked.",
+   "ka": "UGA-ს მეცნიერებათა ლიცენციატურის გვერდის მიხედვით, „Études en France“ ქვეყნების გარეთ მცხოვრები აპლიკანტები პირველ კურსზე DAP-ით ირიცხებიან, დანარჩენები კი თავიანთი ქვეყნის Campus France-ის პროცედურას მისდევენ. ფრანგულის დონე და აღიარებული დიპლომები შემოწმებულ გვერდებზე მითითებული არ იყო.",
+   "ar": "تذكر صفحة إجازة العلوم في UGA أن المتقدمين المقيمين خارج دول Études en France يستخدمون DAP للسنة الأولى، وغيرهم يتبعون إجراءات Campus France في بلدهم. لم يُذكر مستوى الفرنسية ولا الشهادات المقبولة في الصفحات التي جرى فحصها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "computer-science",
+   "economics",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Physics and chemistry",
+    "Computer science",
+    "Engineering",
+    "Economics",
+    "Life sciences"
+   ],
+   "ka": [
+    "ფიზიკა და ქიმია",
+    "კომპიუტერული მეცნიერება",
+    "ინჟინერია",
+    "ეკონომიკა",
+    "ცხოვრების შემსწავლელი მეცნიერებები"
+   ],
+   "ar": [
+    "الفيزياء والكيمياء",
+    "علوم الحاسوب",
+    "الهندسة",
+    "الاقتصاد",
+    "علوم الحياة"
+   ]
+  },
+  "summary": {
+   "en": "Université Grenoble Alpes is a large public university in Grenoble, France, with about 59,000 students, around 10,000 of them international. Teaching is mainly in French, and fees for non-EU students can be reduced on request.",
+   "ka": "გრენობლ-ალპის უნივერსიტეტი დიდი საჯარო უნივერსიტეტია გრენობლში (საფრანგეთი), დაახლოებით 59 000 სტუდენტით, რომელთაგან დაახლოებით 10 000 საერთაშორისოა. სწავლება ძირითადად ფრანგულ ენაზეა და ევროკავშირის გარეთ მყოფი სტუდენტებისთვის საფასურის შემცირება თხოვნით შეიძლება.",
+   "ar": "جامعة غرونوبل ألب جامعة حكومية كبيرة في غرونوبل بفرنسا، يدرس فيها نحو 59 ألف طالب بينهم نحو 10 آلاف طالب دولي. التدريس غالباً بالفرنسية، ويمكن تخفيض رسوم الطلاب من خارج الاتحاد الأوروبي عند الطلب."
+  },
+  "about": {
+   "en": "UGA is a public university in Grenoble, in the French Alps, with about 59,000 students, around 10,000 of them international. Non-EU applicants use the Campus France procedure of their country, or a DAP for first-year licence if they live outside the Études en France countries. Bachelor teaching is mainly in French. Non-EU students pay differentiated fees, and UGA allows them to ask for an exemption from the extra fee. A May 2026 decree changes the waiver rules.",
+   "ka": "UGA საჯარო უნივერსიტეტია გრენობლში, საფრანგეთის ალპებში, დაახლოებით 59 000 სტუდენტით, რომელთაგან დაახლოებით 10 000 საერთაშორისოა. ევროკავშირის გარეთ მყოფი აპლიკანტები თავიანთი ქვეყნის Campus France-ის პროცედურას მისდევენ ან, თუ „Études en France“ ქვეყნებს გარეთ ცხოვრობენ, პირველ კურსზე DAP-ს იყენებენ. ბაკალავრიატის სწავლება ძირითადად ფრანგულია. ევროკავშირის გარეთ მყოფი სტუდენტები დიფერენცირებულ საფასურს იხდიან, თუმცა UGA უშვებს დამატებითი საფასურისგან გათავისუფლების თხოვნას. 2026 წლის მაისის დეკრეტი ამ გათავისუფლების წესებს ცვლის.",
+   "ar": "UGA جامعة حكومية في غرونوبل بجبال الألب الفرنسية، يدرس فيها نحو 59 ألف طالب بينهم نحو 10 آلاف طالب دولي. يتبع المتقدمون من خارج الاتحاد الأوروبي إجراءات Campus France في بلدهم، أو DAP للسنة الأولى إن كانوا يقيمون خارج دول Études en France. التدريس في البكالوريوس غالباً بالفرنسية. يدفع الطلاب من خارج الاتحاد رسوماً تفاضلية، وتتيح UGA طلب الإعفاء من الرسم الإضافي. ويغيّر مرسوم صدر في مايو 2026 قواعد الإعفاء."
+  },
+  "aid_intl": {
+   "en": "UGA allows non-EU students to request an exemption from the extra differentiated tuition fee; the Eiffel scholarship listed on its site is for master's level only.",
+   "ka": "UGA ევროკავშირის გარეთ მყოფ სტუდენტებს აძლევს დიფერენცირებული დამატებითი საფასურისგან გათავისუფლების მოთხოვნის უფლებას; საიტზე მითითებული Eiffel-ის სტიპენდია მხოლოდ მაგისტრატურისთვისაა.",
+   "ar": "تتيح UGA للطلاب من خارج الاتحاد الأوروبي طلب الإعفاء من الرسم التفاضلي الإضافي؛ أما منحة Eiffel المذكورة في موقعها فهي لمرحلة الماجستير فقط."
+  },
+  "tests": {
+   "en": "No entrance test was found for licence applicants on the pages checked. The French language level required was not stated.",
+   "ka": "შემოწმებულ გვერდებზე ლიცენციატურის აპლიკანტებისთვის მისაღები გამოცდა ნაპოვნი არ არის. საჭირო ფრანგულის დონე მითითებული არ იყო.",
+   "ar": "لم يُعثر على اختبار قبول لمتقدمي الإجازة في الصفحات التي جرى فحصها. ولم يُذكر مستوى اللغة الفرنسية المطلوب."
+  },
+  "gpa_note": {
+   "en": "UGA's checked pages do not state minimum grades; applications are assessed on the file through Campus France or the DAP.",
+   "ka": "UGA-ს შემოწმებულ გვერდებზე ნიშნების მინიმუმი მითითებული არ არის; განაცხადი ფასდება დოსიეს მიხედვით Campus France-ის ან DAP-ის გავლით.",
+   "ar": "لا تذكر صفحات UGA التي جرى فحصها حداً أدنى للدرجات؛ يُقيَّم الطلب بحسب الملف عبر Campus France أو DAP."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "grenoble",
+   "alps",
+   "public university",
+   "campus france",
+   "fee exemption"
+  ],
+  "sources": [
+   "https://international.univ-grenoble-alpes.fr/",
+   "https://dlst.univ-grenoble-alpes.fr/orientation/re-orientation-/se-re-orienter-vers-le-dlst/etrangers/etudiants-etrangers-ou-titulaires-d-un-diplome-etranger-202747.kjsp",
+   "https://www.univ-grenoble-alpes.fr/requesting-exemption-of-the-additional-tuition-fees-students-from-outside-europe-/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-limerick",
+  "name": {
+   "en": "University of Limerick",
+   "ka": "ლიმერიკის უნივერსიტეტი",
+   "ar": "جامعة ليمريك"
+  },
+  "iso": "IE",
+  "city": "Limerick",
+  "lat": 52.673,
+  "lon": -8.571,
+  "type": "public",
+  "website": "https://www.ul.ie",
+  "platform": "Direct online application for non-EU applicants (per-course link on each course page)",
+  "application_url": "https://www.ul.ie/study/undergraduate",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No non-EU deadline is shown on the course pages checked; only mature applicants have a published CAO date (1 February).",
+  "tuition_intl": {
+   "amount": 17500,
+   "currency": "EUR",
+   "per": "year",
+   "note": "2026-27 non-EU fees: EUR 17,500 for many arts, business and law courses; EUR 22,700 for most science, engineering and computing courses; up to EUR 56,600 for Medicine."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Course pages ask for the Leaving Certificate or an approved equivalent (for example, six subjects including Maths, English and a language, at set grades). Non-EU applicants choose their country on the entry-requirements page to see their equivalent; Georgian and Qatari rules were not visible.",
+   "ka": "კურსის გვერდები მოითხოვს Leaving Certificate-ს ან დამტკიცებულ ექვივალენტს (მაგ. ექვსი საგანი, მათ შორის მათემატიკა, ინგლისური და უცხო ენა, განსაზღვრული ნიშნებით). არა-EU აპლიკანტები შესაბამისი მოთხოვნების სანახავად ირჩევენ თავიანთ ქვეყანას; საქართველოსა და ყატარის წესები არ ჩანდა.",
+   "ar": "تطلب صفحات المقررات شهادة Leaving Certificate أو ما يعادلها المعتمد (مثلاً ست مواد منها الرياضيات والإنجليزية ولغة أخرى بدرجات محددة). يختار المتقدمون من خارج الاتحاد الأوروبي بلدهم في صفحة شروط القبول لمعرفة المعادل؛ ولم تظهر شروط جورجيا وقطر."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business",
+   "medicine-health",
+   "education",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computing",
+    "Business",
+    "Health sciences",
+    "Education",
+    "Arts and humanities"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტინგი",
+    "ბიზნესი",
+    "ჯანდაცვის მეცნიერებები",
+    "განათლება",
+    "ხელოვნება და ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "الحوسبة",
+    "الأعمال",
+    "علوم الصحة",
+    "التربية",
+    "الآداب والعلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "The University of Limerick is a public university in Ireland, teaching in English. Non-EU bachelor fees for 2026-27 start at EUR 17,500 a year.",
+   "ka": "ლიმერიკის უნივერსიტეტი არის საჯარო უნივერსიტეტი ირლანდიაში, სწავლება ინგლისურია. არა-EU სტუდენტების ბაკალავრიატის საფასური 2026-27 წელს წელიწადში 17 500 ევროდან იწყება.",
+   "ar": "جامعة ليمريك جامعة حكومية في أيرلندا، والتدريس فيها بالإنجليزية. تبدأ رسوم البكالوريوس لغير الأوروبيين لعام 2026-27 من 17,500 يورو سنوياً."
+  },
+  "about": {
+   "en": "The University of Limerick is a public university in Limerick, Ireland, and teaches its bachelor programmes in English. Non-EU applicants apply online through a link on each course page. Entry is based on the Leaving Certificate or an approved equivalent, and requirements are set per course. Non-EU fee status applies to anyone who has not lived in the EU, EEA or Switzerland as a taxpayer for 3 of the last 5 years. Fees for 2026-27 run from EUR 13,700 to EUR 56,600 depending on the course.",
+   "ka": "ლიმერიკის უნივერსიტეტი საჯარო უნივერსიტეტია ლიმერიკში (ირლანდია) და ბაკალავრიატის პროგრამებს ინგლისურად ასწავლის. არა-EU აპლიკანტები განაცხადს ონლაინ აგზავნიან თითოეული კურსის გვერდზე მოცემული ბმულით. მიღება ეფუძნება Leaving Certificate-ს ან დამტკიცებულ ექვივალენტს და მოთხოვნები თითო კურსზეა დადგენილი. არა-EU სტატუსი ეკუთვნის ყველას, ვინც ბოლო 5 წლიდან 3 წელი არ ცხოვრობდა ევროკავშირში, EEA-ში ან შვეიცარიაში, როგორც გადასახადის გადამხდელი. 2026-27 წელს საფასური კურსის მიხედვით 13 700-დან 56 600 ევრომდეა.",
+   "ar": "جامعة ليمريك جامعة حكومية في ليمريك بأيرلندا، وتُدرَّس برامج البكالوريوس فيها بالإنجليزية. يتقدم المتقدمون من خارج الاتحاد الأوروبي عبر رابط إلكتروني في صفحة كل مقرر. يعتمد القبول على شهادة Leaving Certificate أو ما يعادلها، وتُحدَّد الشروط لكل مقرر. تُطبَّق صفة الرسوم لغير الأوروبيين على من لم يقم كدافع ضرائب في الاتحاد الأوروبي أو المنطقة الاقتصادية الأوروبية أو سويسرا 3 سنوات من آخر 5. تتراوح الرسوم لعام 2026-27 بين 13,700 و56,600 يورو بحسب المقرر."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students was found on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება ნაპოვნი არ არის.",
+   "ar": "لم يُعثر على دعم مخصص لطلاب البكالوريوس الدوليين في الصفحات التي جرى فحصها."
+  },
+  "tests": {
+   "en": "No entrance test was listed. The English language requirement for non-EU applicants was not visible on the pages checked.",
+   "ka": "მისაღები გამოცდა მითითებული არ არის. არა-EU აპლიკანტებისთვის ინგლისური ენის მოთხოვნა შემოწმებულ გვერდებზე არ ჩანდა.",
+   "ar": "لم يُذكر اختبار قبول. ولم يظهر شرط اللغة الإنجليزية للمتقدمين من خارج الاتحاد الأوروبي في الصفحات التي جرى فحصها."
+  },
+  "gpa_note": {
+   "en": "For example, the International Business BA asks for six Leaving Certificate subjects, including at least a pass-level O4/H7 in Mathematics.",
+   "ka": "მაგ. International Business BA-ზე საჭიროა Leaving Certificate-ის ექვსი საგანი, მათ შორის მათემატიკაში სულ მცირე O4/H7 ნიშანი.",
+   "ar": "مثلاً يطلب مقرر International Business BA ست مواد من Leaving Certificate، منها الرياضيات بدرجة O4/H7 على الأقل."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "ireland",
+   "limerick",
+   "non-eu fees",
+   "engineering",
+   "english taught"
+  ],
+  "sources": [
+   "https://www.ul.ie/fees/course-fees/undergraduate-fees/undergraduate-fees-2026-2027",
+   "https://www.ul.ie/study/undergraduate/arts-ba/entry-requirements",
+   "https://www.ul.ie/study/undergraduate/arts-ba/how-to-apply"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "lut-university",
+  "name": {
+   "en": "LUT University",
+   "ka": "LUT უნივერსიტეტი",
+   "ar": "جامعة LUT"
+  },
+  "iso": "FI",
+  "city": "Lappeenranta",
+  "lat": 61.065,
+  "lon": 28.095,
+  "type": "public",
+  "website": "https://www.lut.fi",
+  "platform": "Studyinfo (Opintopolku) rolling admission",
+  "application_url": "https://www.lut.fi/en/studies/apply-lut/applying-bachelors-programmes/international-rolling-admission-bachelors-studies",
+  "intakes": [
+   "August"
+  ],
+  "deadline": "2027-04-30",
+  "deadline_note": "Rolling admission for autumn 2027 runs 1 September 2026 to 30 April 2027, and can close early if a programme fills; documents must arrive by 30 July 2027.",
+  "tuition_intl": {
+   "amount": 12000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Non-EU/EEA students starting autumn 2026 or later. Early bird discount of EUR 2,000 for the first year on listed programmes. Yearly scholarship up to EUR 3,000 for students who complete enough credits."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Any upper secondary degree completed outside Finland that qualifies for university study at home is assessed individually. Technology programmes ask for about 70% overall, 80% in advanced maths and 80% in physics or chemistry (business: 80% overall, 70% maths), or else a 60% OMPT maths test or SAT 1300 (600 reading/writing and 700 maths). Georgia and Qatar are not in the country-specific document list, so general apostille or legalisation rules apply.",
+   "ka": "ნებისმიერი ფინეთის გარეთ დასრულებული საშუალო განათლება, რომელიც სამშობლოში უნივერსიტეტში სწავლის უფლებას იძლევა, ინდივიდუალურად ფასდება. ტექნოლოგიურ პროგრამებზე საჭიროა დაახლოებით 70% საერთო, 80% გაღრმავებულ მათემატიკაში და 80% ფიზიკაში ან ქიმიაში (ბიზნესზე: 80% საერთო, 70% მათემატიკა) ან 60%-იანი OMPT მათემატიკის ტესტი ან SAT 1300 (600 წერა-კითხვა და 700 მათემატიკა). საქართველო და ყატარი ქვეყნების კონკრეტულ სიაში არ არის, ამიტომ მოქმედებს აპოსტილისა და ლეგალიზაციის ზოგადი წესები.",
+   "ar": "يُقيَّم كل مؤهل ثانوي أُنجز خارج فنلندا ويؤهل للدراسة الجامعية في بلده بصورة فردية. تطلب برامج التكنولوجيا نحو 70% إجمالاً و80% في الرياضيات المتقدمة و80% في الفيزياء أو الكيمياء (الأعمال: 80% إجمالاً و70% رياضيات)، أو اختبار OMPT للرياضيات بنسبة 60%، أو SAT بمجموع 1300 (600 قراءة وكتابة و700 رياضيات). جورجيا وقطر غير مدرجتين في قائمة الوثائق الخاصة بالدول، لذا تُطبَّق القواعد العامة للتصديق (أبوستيل) أو التوثيق."
+  },
+  "sat": {
+   "low": 1300,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": 6.5,
+  "toefl_min": 90,
+  "duolingo_min": null,
+  "other_tests": [
+   "OMPT (LUT online maths placement test, if grades do not meet the maths requirement)"
+  ],
+  "fields": [
+   "engineering",
+   "business",
+   "computer-science",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Energy technology",
+    "Mechanical engineering",
+    "Electrical engineering",
+    "Sustainable business",
+    "Computational science and AI"
+   ],
+   "ka": [
+    "ენერგეტიკული ტექნოლოგიები",
+    "მექანიკური ინჟინერია",
+    "ელექტროინჟინერია",
+    "მდგრადი ბიზნესი",
+    "გამოთვლითი მეცნიერება და AI"
+   ],
+   "ar": [
+    "تقنيات الطاقة",
+    "الهندسة الميكانيكية",
+    "الهندسة الكهربائية",
+    "الأعمال المستدامة",
+    "العلوم الحاسوبية والذكاء الاصطناعي"
+   ]
+  },
+  "summary": {
+   "en": "LUT is a public technology and business university in Lappeenranta, Finland, with English-taught bachelor programmes. Non-EU tuition is EUR 12,000 a year, with a EUR 2,000 early bird discount in year one.",
+   "ka": "LUT არის საჯარო ტექნოლოგიებისა და ბიზნესის უნივერსიტეტი ლაპეენრანტაში (ფინეთი), ინგლისურენოვანი ბაკალავრიატის პროგრამებით. არა-EU სტუდენტებისთვის სწავლა წელიწადში 12 000 ევროა, პირველ წელს კი 2 000 ევროს ადრეული ფასდაკლებაა.",
+   "ar": "LUT جامعة حكومية للتكنولوجيا والأعمال في لابينرانتا بفنلندا، وتقدم برامج بكالوريوس بالإنجليزية. الرسوم لغير الأوروبيين 12,000 يورو سنوياً مع خصم مبكر قدره 2,000 يورو في السنة الأولى."
+  },
+  "about": {
+   "en": "LUT University is a public university in Lappeenranta and Lahti, Finland. It runs 15 English-taught bachelor programmes in technology and business. International applicants apply through Finland's Studyinfo portal in a rolling admission from 1 September 2026 to 30 April 2027, and non-EU citizens pay an application fee. Admission uses school grades or maths and SAT alternatives. Tuition for non-EU/EEA students is EUR 12,000 a year, and studies start at the end of August 2027.",
+   "ka": "LUT უნივერსიტეტი საჯარო უნივერსიტეტია ლაპეენრანტასა და ლაჰტიში (ფინეთი). მას აქვს ტექნოლოგიისა და ბიზნესის 15 ინგლისურენოვანი ბაკალავრიატის პროგრამა. საერთაშორისო აპლიკანტები განაცხადს ფინეთის Studyinfo პორტალზე აგზავნიან მოძრავი მიღებით 2026 წლის 1 სექტემბრიდან 2027 წლის 30 აპრილამდე; არა-EU მოქალაქეები სააპლიკაციო გადასახადს იხდიან. მიღება ეფუძნება სასკოლო ნიშნებს ან მათემატიკისა და SAT-ის ალტერნატივებს. არა-EU/EEA სტუდენტებისთვის სწავლის საფასური წელიწადში 12 000 ევროა, სწავლა 2027 წლის აგვისტოს ბოლოს იწყება.",
+   "ar": "جامعة LUT جامعة حكومية في لابينرانتا ولاهتي بفنلندا. تقدم 15 برنامج بكالوريوس بالإنجليزية في التكنولوجيا والأعمال. يتقدم الدوليون عبر بوابة Studyinfo الفنلندية بنظام القبول المتجدد من 1 سبتمبر 2026 حتى 30 أبريل 2027، ويدفع المواطنون من خارج الاتحاد الأوروبي رسوم تقديم. يعتمد القبول على الدرجات المدرسية أو بدائل الرياضيات وSAT. الرسوم للطلاب من خارج الاتحاد الأوروبي والمنطقة الاقتصادية الأوروبية 12,000 يورو سنوياً، وتبدأ الدراسة في نهاية أغسطس 2027."
+  },
+  "aid_intl": {
+   "en": "Non-EU students get a EUR 2,000 early bird discount in year one, then a EUR 3,000 scholarship in years two and three if they earn enough credits (60 ECTS a year).",
+   "ka": "არა-EU სტუდენტები პირველ წელს იღებენ 2 000 ევროს ადრეულ ფასდაკლებას, ხოლო მეორე და მესამე წელს 3 000 ევროს სტიპენდიას, თუ საკმარის კრედიტებს შეასრულებენ (წელიწადში 60 ECTS).",
+   "ar": "يحصل الطلاب من خارج الاتحاد الأوروبي على خصم مبكر قدره 2,000 يورو في السنة الأولى، ثم منحة 3,000 يورو في السنتين الثانية والثالثة إذا أنجزوا عدداً كافياً من الساعات (60 ECTS سنوياً)."
+  },
+  "tests": {
+   "en": "English proof: IELTS 6.5 (6.0 in writing and speaking) or TOEFL iBT 90, unless you studied in English in a listed country. Maths can be shown by grades, a 60% OMPT result, or SAT 1300 / ACT 28.",
+   "ka": "ინგლისურის დამადასტურებელი: IELTS 6.5 (წერასა და ლაპარაკში 6.0) ან TOEFL iBT 90, თუ მითითებულ ქვეყანაში ინგლისურად არ გისწავლიათ. მათემატიკა შეიძლება დადასტურდეს ნიშნებით, OMPT-ის 60%-ით ან SAT 1300 / ACT 28-ით.",
+   "ar": "إثبات الإنجليزية: IELTS 6.5 (6.0 في الكتابة والمحادثة) أو TOEFL iBT 90، ما لم تكن قد درست بالإنجليزية في بلد مدرج. تُثبَت الرياضيات بالدرجات أو بنتيجة OMPT بنسبة 60% أو بـSAT 1300 / ACT 28."
+  },
+  "gpa_note": {
+   "en": "Technology programmes ask for about 70% overall, 80% in advanced maths and 80% in physics or chemistry; business programmes ask for 80% overall and 70% in maths.",
+   "ka": "ტექნოლოგიურ პროგრამებზე საჭიროა დაახლოებით 70% საერთო, 80% გაღრმავებულ მათემატიკაში და 80% ფიზიკაში ან ქიმიაში; ბიზნეს პროგრამებზე 80% საერთო და 70% მათემატიკაში.",
+   "ar": "تطلب برامج التكنولوجيا نحو 70% إجمالاً و80% في الرياضيات المتقدمة و80% في الفيزياء أو الكيمياء؛ وتطلب برامج الأعمال 80% إجمالاً و70% في الرياضيات."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის აკადემიური ცნობა (ნიშნების ნუსხა)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test",
+     "ka": "ინგლისური ენის გამოცდის შედეგი",
+     "ar": "نتيجة اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Authentication of school documents",
+     "ka": "სასკოლო დოკუმენტების დამოწმება",
+     "ar": "توثيق الوثائق الدراسية"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "LUT bachelor's early bird discount and scholarships",
+    "url": "https://www.lut.fi/en/studies/apply-lut/applying-bachelors-programmes/early-bird-discount-and-scholarships-bachelors",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "finland",
+   "lappeenranta",
+   "lut",
+   "engineering",
+   "english taught",
+   "rolling admission"
+  ],
+  "sources": [
+   "https://www.lut.fi/en/studies/apply-lut/applying-bachelors-programmes/international-rolling-admission-bachelors-studies",
+   "https://www.lut.fi/en/studies/apply-lut/applying-bachelors-programmes/rolling-admission-bachelors-studies/admission-criteria-non-eu-eea-applicants",
+   "https://www.lut.fi/en/studies/apply-lut/applying-bachelors-programmes/rolling-admission-bachelors-studies/admission-criteria-technology-bachelors-programmes-rolling-admission",
+   "https://elut.lut.fi/en/completing-studies/tuition-fee",
+   "https://www.lut.fi/en/studies/apply-lut/applying-bachelors-programmes/early-bird-discount-and-scholarships-bachelors",
+   "https://www.lut.fi/en/country-specific-requirements-document-authentication-bachelors-studies",
+   "https://www.lut.fi/en/studies/bachelors-programmes"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "saint-petersburg-state-university",
+  "name": {
+   "en": "Saint Petersburg State University",
+   "ka": "სანქტ-პეტერბურგის სახელმწიფო უნივერსიტეტი",
+   "ar": "جامعة سانت بطرسبرغ الحكومية"
+  },
+  "iso": "RU",
+  "city": "Saint Petersburg",
+  "lat": 59.941,
+  "lon": 30.299,
+  "type": "public",
+  "website": "https://www.spbu.ru",
+  "platform": "\"Admission to University Online\" (Unified Portal of State Services) and Open International Olympiads",
+  "application_url": "https://abiturient.spbu.ru/en/",
+  "intakes": [],
+  "deadline": "2027-02-05",
+  "deadline_note": "Open International Olympiads (government-funded places) accept applications 2 November 2026 to 5 February 2027; fee-paying 2027 dates are not published (in 2026 they were 20 June to 10 July).",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "RUB",
+   "per": "year",
+   "note": "Fee-paying bachelor fees for 2026/27 are in a PDF on the SPbU site that could not be read. Russian Government Scholarship holders and Olympiad winners get tuition paid."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "SPbU has a page on recognition of foreign educational credentials, which was not readable. Applicants upload the school credential and supplements with a notarised Russian translation.",
+   "ka": "SPbU-ს აქვს უცხოური განათლების დოკუმენტების აღიარების გვერდი, რომელიც წასაკითხი არ იყო. აპლიკანტები ტვირთავენ სკოლის დოკუმენტსა და დანართს რუსულ ნოტარიულად დამოწმებულ თარგმანთან ერთად.",
+   "ar": "لدى SPbU صفحة عن الاعتراف بالشهادات الأجنبية لم تكن مقروءة. يرفع المتقدم الشهادة المدرسية وملحقها مع ترجمة روسية موثقة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Open International Olympiad for Foreign School Students"
+  ],
+  "fields": [
+   "natural-sciences",
+   "mathematics",
+   "law",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Mathematics and mechanics",
+    "Physics",
+    "Law",
+    "Philology",
+    "International relations"
+   ],
+   "ka": [
+    "მათემატიკა და მექანიკა",
+    "ფიზიკა",
+    "სამართალი",
+    "ფილოლოგია",
+    "საერთაშორისო ურთიერთობები"
+   ],
+   "ar": [
+    "الرياضيات والميكانيكا",
+    "الفيزياء",
+    "القانون",
+    "فقه اللغة",
+    "العلاقات الدولية"
+   ]
+  },
+  "summary": {
+   "en": "Saint Petersburg State University is a public research university in Russia, and most bachelor degrees are taught in Russian. Foreigners can win free places through the Open International Olympiads or pay fees, and Russian Government Scholarship holders pay no tuition.",
+   "ka": "სანქტ-პეტერბურგის სახელმწიფო უნივერსიტეტი საჯარო კვლევითი უნივერსიტეტია რუსეთში, ბაკალავრიატის უმეტესობა რუსულ ენაზე ისწავლება. უცხოელებს შეუძლიათ უფასო ადგილები ღია საერთაშორისო ოლიმპიადებით მოიპოვონ ან საფასური გადაიხადონ, რუსეთის მთავრობის სტიპენდიანტები კი სწავლის საფასურს არ იხდიან.",
+   "ar": "جامعة سانت بطرسبرغ الحكومية جامعة بحثية حكومية في روسيا، وتُدرَّس معظم درجات البكالوريوس فيها بالروسية. يمكن للأجانب الفوز بمقاعد مجانية عبر الأولمبياد الدولية المفتوحة أو دفع الرسوم، ولا يدفع حاملو المنحة الحكومية الروسية رسوماً دراسية."
+  },
+  "about": {
+   "en": "SPbU is a public university in Saint Petersburg, Russia. Foreign applicants can enter on government-funded places by winning the Open International Olympiads (applications 2 November 2026 to 5 February 2027), or on a fee-paying basis with a portfolio competition. All applications and documents go online, with Russian translations. Most bachelor degrees are taught in Russian, and the university has a preparatory department and Russian courses. The Russian Government Scholarship covers tuition fully.",
+   "ka": "SPbU საჯარო უნივერსიტეტია სანქტ-პეტერბურგში (რუსეთი). უცხოელ აპლიკანტებს შეუძლიათ სახელმწიფო დაფინანსებულ ადგილებზე ღია საერთაშორისო ოლიმპიადების მოგებით ჩაირიცხონ (განაცხადები 2026 წლის 2 ნოემბრიდან 2027 წლის 5 თებერვლამდე) ან ფასიან საფუძველზე პორტფოლიოს კონკურსით. ყველა განაცხადი და დოკუმენტი ონლაინ იგზავნება რუსული თარგმანით. ბაკალავრიატის უმეტესობა რუსულ ენაზე ისწავლება; უნივერსიტეტს აქვს მოსამზადებელი დეპარტამენტი და რუსული ენის კურსები. რუსეთის მთავრობის სტიპენდია სწავლის საფასურს სრულად ფარავს.",
+   "ar": "جامعة سانت بطرسبرغ الحكومية جامعة حكومية في سانت بطرسبرغ بروسيا. يمكن للمتقدمين الأجانب الالتحاق بمقاعد ممولة حكومياً عبر الفوز في الأولمبياد الدولية المفتوحة (التقديم من 2 نوفمبر 2026 إلى 5 فبراير 2027)، أو على نفقتهم الخاصة عبر مسابقة ملفات الأعمال. تُقدَّم جميع الطلبات والوثائق إلكترونياً مع ترجمة روسية. تُدرَّس معظم درجات البكالوريوس بالروسية، وللجامعة قسم تحضيري ودورات لغة روسية. وتغطي المنحة الحكومية الروسية الرسوم الدراسية بالكامل."
+  },
+  "aid_intl": {
+   "en": "The Russian Government Scholarship fully covers tuition and gives a monthly allowance and reduced dormitory fees; Olympiad winners also get tuition paid from the federal budget.",
+   "ka": "რუსეთის მთავრობის სტიპენდია სწავლის საფასურს სრულად ფარავს და გასცემს ყოველთვიურ დახმარებას და ამცირებს საცხოვრებლის საფასურს; ოლიმპიადის გამარჯვებულთა სწავლასაც ფედერალური ბიუჯეტი აფინანსებს.",
+   "ar": "تغطي المنحة الحكومية الروسية الرسوم الدراسية بالكامل وتمنح بدلاً شهرياً وتخفيضاً في رسوم السكن الجامعي؛ كما تُموَّل دراسة الفائزين في الأولمبياد من الميزانية الاتحادية."
+  },
+  "tests": {
+   "en": "Government-funded places go through the Open International Olympiads (one to three subjects). A Russian-language test was not listed on the pages checked.",
+   "ka": "სახელმწიფო დაფინანსებული ადგილები ივსება ღია საერთაშორისო ოლიმპიადებით (ერთიდან სამ საგანამდე). რუსული ენის ტესტი შემოწმებულ გვერდებზე მითითებული არ იყო.",
+   "ar": "تُشغَل المقاعد الممولة حكومياً عبر الأولمبياد الدولية المفتوحة (من مادة إلى ثلاث). لم يُذكر اختبار لغة روسية في الصفحات التي جرى فحصها."
+  },
+  "gpa_note": {
+   "en": "Minimum school grades were not published on the pages checked; required documents are the passport, school credential with supplements, a photo and consent form.",
+   "ka": "სასკოლო ნიშნების მინიმუმი შემოწმებულ გვერდებზე გამოქვეყნებული არ არის; საჭირო დოკუმენტებია პასპორტი, სკოლის დოკუმენტი დანართით, ფოტო და თანხმობის ფორმა.",
+   "ar": "لم تُنشر الحدود الدنيا للدرجات في الصفحات التي جرى فحصها؛ الوثائق المطلوبة: جواز السفر والشهادة المدرسية مع ملحقها وصورة ونموذج الموافقة."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის აკადემიური ცნობა (ნიშნების ნუსხა)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Photo (3x4 cm)",
+     "ka": "ფოტო (3x4 სმ)",
+     "ar": "صورة شخصية (3×4 سم)"
+    }
+   },
+   {
+    "key": "portfolio",
+    "label": {
+     "en": "Portfolio documents (if applicable)",
+     "ka": "პორტფოლიოს დოკუმენტები (საჭიროების შემთხვევაში)",
+     "ar": "وثائق ملف الأعمال (عند الاقتضاء)"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Russian Government Scholarship / Open International Olympiads",
+    "url": "https://abiturient.spbu.ru/en/info/government-funded-basis/",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "russia",
+   "saint petersburg",
+   "spbu",
+   "olympiad",
+   "government scholarship",
+   "russian taught"
+  ],
+  "sources": [
+   "https://abiturient.spbu.ru/en/",
+   "https://abiturient.spbu.ru/en/info/government-funded-basis/",
+   "https://abiturient.spbu.ru/en/info/fee-paying-contractual-basis/",
+   "https://english.spbu.ru/admission/tuition",
+   "https://english.spbu.ru/news-events/news/spbu-announces-application-dates-fee-paying-study-programmes-international"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "sharif-university-of-technology",
+  "name": {
+   "en": "Sharif University of Technology",
+   "ka": "შარიფის ტექნოლოგიური უნივერსიტეტი",
+   "ar": "جامعة شريف للتكنولوجيا"
+  },
+  "iso": "IR",
+  "city": "Tehran",
+  "lat": 35.702,
+  "lon": 51.351,
+  "type": "public",
+  "website": "https://www.sharif.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The official site could not be reached, so no admission dates for international bachelor applicants were verified.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "USD",
+   "per": "year",
+   "note": "Not verified."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "No qualification rules for international applicants could be verified from the official site.",
+   "ka": "საერთაშორისო აპლიკანტებისთვის კვალიფიკაციის წესები ოფიციალური საიტიდან დადასტურებული არ არის.",
+   "ar": "تعذر التحقق من شروط المؤهلات للمتقدمين الدوليين من الموقع الرسمي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "mathematics",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Mathematics",
+    "Physics"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "მათემატიკა",
+    "ფიზიკა"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "الرياضيات",
+    "الفيزياء"
+   ]
+  },
+  "summary": {
+   "en": "Sharif University of Technology is a public engineering and science university in Tehran, Iran. Entry rules and fees for international bachelor applicants could not be verified, so contact the university before applying.",
+   "ka": "შარიფის ტექნოლოგიური უნივერსიტეტი საჯარო საინჟინრო და საბუნებისმეტყველო უნივერსიტეტია თეირანში (ირანი). საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის მიღების წესები და საფასური დადასტურებული არ არის, ამიტომ განაცხადამდე დაუკავშირდით უნივერსიტეტს.",
+   "ar": "جامعة شريف للتكنولوجيا جامعة حكومية للهندسة والعلوم في طهران بإيران. لم يمكن التحقق من شروط القبول والرسوم للمتقدمين الدوليين للبكالوريوس، لذا تواصل مع الجامعة قبل التقديم."
+  },
+  "about": {
+   "en": "Sharif University of Technology is a public university in Tehran, Iran, focused on engineering and science. Its official website could not be reached during this check, so admission routes, language of teaching and costs for international bachelor applicants are not verified. Applicants should confirm everything with the university directly before planning an application.",
+   "ka": "შარიფის ტექნოლოგიური უნივერსიტეტი საჯარო უნივერსიტეტია თეირანში (ირანი), რომელიც ინჟინერიასა და მეცნიერებაზეა ორიენტირებული. შემოწმებისას მისი ოფიციალური საიტი მიუწვდომელი იყო, ამიტომ საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის მიღების გზები, სწავლების ენა და ხარჯები დადასტურებული არ არის. განაცხადის დაგეგმვამდე ყველაფერი უნივერსიტეტთან პირდაპირ დააზუსტეთ.",
+   "ar": "جامعة شريف للتكنولوجيا جامعة حكومية في طهران بإيران تركّز على الهندسة والعلوم. تعذر الوصول إلى موقعها الرسمي أثناء هذا الفحص، لذا لم يُتحقق من مسارات القبول ولغة التدريس والتكاليف للمتقدمين الدوليين للبكالوريوس. يُنصح بتأكيد كل شيء مع الجامعة مباشرة قبل التخطيط للتقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا يوجد دعم مخصص لطلاب البكالوريوس الدوليين منشور."
+  },
+  "tests": {
+   "en": "Not verified.",
+   "ka": "დადასტურებული არ არის.",
+   "ar": "لم يُتحقق منه."
+  },
+  "gpa_note": {
+   "en": "Not verified.",
+   "ka": "დადასტურებული არ არის.",
+   "ar": "لم يُتحقق منه."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "iran",
+   "tehran",
+   "sharif",
+   "engineering"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "east-china-normal-university",
+  "name": {
+   "en": "East China Normal University",
+   "ka": "აღმოსავლეთ ჩინეთის ნორმალური უნივერსიტეტი",
+   "ar": "جامعة شرق الصين العادية"
+  },
+  "iso": "CN",
+  "city": "Shanghai",
+  "lat": 31.229,
+  "lon": 121.404,
+  "type": "public",
+  "website": "https://www.ecnu.edu.cn",
+  "platform": "ECNU International Students Office online application",
+  "application_url": "http://lxs.ecnu.edu.cn/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Dates for degree admission in 2027 were not published on the pages checked. The separate International Undergraduate Programme (2+2 and 3+1 pathways with partner universities) closed its 2026 cycle on 2026-07-27.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "CNY",
+   "per": "year",
+   "note": "Not published on the pages checked."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "No qualification rules for international bachelor applicants were readable on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის კვალიფიკაციის წესები არ იკითხებოდა.",
+   "ar": "لم تكن شروط المؤهلات للمتقدمين الدوليين للبكالوريوس مقروءة في الصفحات التي جرى فحصها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "education",
+   "humanities",
+   "social-sciences",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Psychology",
+    "Chinese language and literature",
+    "Physics",
+    "Geography"
+   ],
+   "ka": [
+    "განათლება",
+    "ფსიქოლოგია",
+    "ჩინური ენა და ლიტერატურა",
+    "ფიზიკა",
+    "გეოგრაფია"
+   ],
+   "ar": [
+    "التربية",
+    "علم النفس",
+    "اللغة الصينية وآدابها",
+    "الفيزياء",
+    "الجغرافيا"
+   ]
+  },
+  "summary": {
+   "en": "East China Normal University is a public university in Shanghai, China. Fees and entry rules for international bachelor degrees were not published on the pages checked, so contact its International Students Office.",
+   "ka": "აღმოსავლეთ ჩინეთის ნორმალური უნივერსიტეტი საჯარო უნივერსიტეტია შანხაიში (ჩინეთი). საერთაშორისო ბაკალავრიატის საფასური და მიღების წესები შემოწმებულ გვერდებზე გამოქვეყნებული არ იყო, ამიტომ დაუკავშირდით საერთაშორისო სტუდენტების ოფისს.",
+   "ar": "جامعة شرق الصين العادية جامعة حكومية في شنغهاي بالصين. لم تُنشر الرسوم وشروط القبول لبكالوريوس الدوليين في الصفحات التي جرى فحصها، لذا تواصل مع مكتب الطلاب الدوليين."
+  },
+  "about": {
+   "en": "East China Normal University is a public university in Shanghai, China. International students are handled by the International Students Office, which runs the degree application portal and scholarships. A separate International Undergraduate Programme offers pathways with partner universities abroad, and its 2026 cycle closed in July 2026. Tuition, language requirements and 2027 dates for direct bachelor entry were not published on the pages checked.",
+   "ka": "აღმოსავლეთ ჩინეთის ნორმალური უნივერსიტეტი საჯარო უნივერსიტეტია შანხაიში (ჩინეთი). საერთაშორისო სტუდენტებს ემსახურება საერთაშორისო სტუდენტების ოფისი, რომელიც აწარმოებს ხარისხის პროგრამების განაცხადის პორტალს და სტიპენდიებს. ცალკე საერთაშორისო საბაკალავრო პროგრამა სთავაზობს გზებს უცხოეთის პარტნიორ უნივერსიტეტებთან; მისი 2026 წლის ციკლი 2026 წლის ივლისში დაიხურა. პირდაპირი ბაკალავრიატის საფასური, ენის მოთხოვნები და 2027 წლის თარიღები შემოწმებულ გვერდებზე გამოქვეყნებული არ იყო.",
+   "ar": "جامعة شرق الصين العادية جامعة حكومية في شنغهاي بالصين. يتولى مكتب الطلاب الدوليين شؤون الطلاب الدوليين، ويدير بوابة التقديم للدرجات والمنح. يوفر برنامج البكالوريوس الدولي المنفصل مسارات مع جامعات شريكة في الخارج، وقد أُغلقت دورة 2026 منه في يوليو 2026. لم تُنشر الرسوم ومتطلبات اللغة ومواعيد 2027 للقبول المباشر في الصفحات التي جرى فحصها."
+  },
+  "aid_intl": {
+   "en": "ECNU lists scholarships for international undergraduates (the 2024-2025 Excellent International Student Scholarship notice was the latest seen); details for 2027 are not published.",
+   "ka": "ECNU-ს საიტზე მითითებულია სტიპენდიები საერთაშორისო საბაკალავრო სტუდენტებისთვის (ბოლო ნანახი განცხადება 2024-2025 წლის Excellent International Student Scholarship-ზე იყო); 2027 წლის დეტალები გამოქვეყნებული არ არის.",
+   "ar": "تعلن ECNU عن منح لطلاب البكالوريوس الدوليين (آخر إعلان ظهر هو منحة الطلاب الدوليين المتميزين 2024-2025)؛ ولم تُنشر تفاصيل 2027."
+  },
+  "tests": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე გამოქვეყნებული არ არის.",
+   "ar": "غير منشور في الصفحات التي جرى فحصها."
+  },
+  "gpa_note": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე გამოქვეყნებული არ არის.",
+   "ar": "غير منشور في الصفحات التي جرى فحصها."
+  },
+  "requirements": [],
+  "scholarships": [
+   {
+    "name": "ECNU international student scholarships (undergraduate)",
+    "url": "http://lxs.ecnu.edu.cn/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "china",
+   "shanghai",
+   "ecnu",
+   "education",
+   "normal university"
+  ],
+  "sources": [
+   "https://www.ecnu.edu.cn",
+   "http://lxs.ecnu.edu.cn/",
+   "https://ijec.ecnu.edu.cn"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "pontificia-universidad-javeriana",
+  "name": {
+   "en": "Pontificia Universidad Javeriana",
+   "ka": "პაპის ხავერიანას უნივერსიტეტი",
+   "ar": "الجامعة البابوية خافيريانا"
+  },
+  "iso": "CO",
+  "city": "Bogotá",
+  "lat": 4.628,
+  "lon": -74.064,
+  "type": "private",
+  "website": "https://www.javeriana.edu.co",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The official site blocked automated access, so no admission dates were verified.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "COP",
+   "per": "year",
+   "note": "Not verified."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "No qualification rules for international applicants could be verified from the official site.",
+   "ka": "საერთაშორისო აპლიკანტებისთვის კვალიფიკაციის წესები ოფიციალური საიტიდან დადასტურებული არ არის.",
+   "ar": "تعذر التحقق من شروط المؤهلات للمتقدمين الدوليين من الموقع الرسمي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "social-sciences",
+   "medicine-health",
+   "law",
+   "engineering",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Law",
+    "Engineering",
+    "Social sciences"
+   ],
+   "ka": [
+    "მედიცინა",
+    "სამართალი",
+    "ინჟინერია",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الطب",
+    "القانون",
+    "الهندسة",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Pontificia Universidad Javeriana is a private university in Bogotá, Colombia. Entry rules and fees for international bachelor applicants could not be verified, so contact the university before applying.",
+   "ka": "პაპის ხავერიანას უნივერსიტეტი კერძო უნივერსიტეტია ბოგოტაში (კოლუმბია). საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის მიღების წესები და საფასური დადასტურებული არ არის, ამიტომ განაცხადამდე დაუკავშირდით უნივერსიტეტს.",
+   "ar": "الجامعة البابوية خافيريانا جامعة خاصة في بوغوتا بكولومبيا. لم يمكن التحقق من شروط القبول والرسوم للمتقدمين الدوليين للبكالوريوس، لذا تواصل مع الجامعة قبل التقديم."
+  },
+  "about": {
+   "en": "Pontificia Universidad Javeriana is a private university in Bogotá, Colombia. Its official website blocked automated access during this check, so admission routes, language of teaching (most likely Spanish) and costs for international bachelor applicants are not verified. Applicants should confirm everything with the university directly before planning an application.",
+   "ka": "პაპის ხავერიანას უნივერსიტეტი კერძო უნივერსიტეტია ბოგოტაში (კოლუმბია). შემოწმებისას მისმა ოფიციალურმა საიტმა ავტომატური წვდომა დაბლოკა, ამიტომ საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის მიღების გზები, სწავლების ენა (სავარაუდოდ ესპანური) და ხარჯები დადასტურებული არ არის. განაცხადის დაგეგმვამდე ყველაფერი უნივერსიტეტთან პირდაპირ დააზუსტეთ.",
+   "ar": "الجامعة البابوية خافيريانا جامعة خاصة في بوغوتا بكولومبيا. حجب موقعها الرسمي الوصول الآلي أثناء هذا الفحص، لذا لم يُتحقق من مسارات القبول ولغة التدريس (غالباً الإسبانية) والتكاليف للمتقدمين الدوليين للبكالوريوس. يُنصح بتأكيد كل شيء مع الجامعة مباشرة قبل التخطيط للتقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا يوجد دعم مخصص لطلاب البكالوريوس الدوليين منشور."
+  },
+  "tests": {
+   "en": "Not verified.",
+   "ka": "დადასტურებული არ არის.",
+   "ar": "لم يُتحقق منه."
+  },
+  "gpa_note": {
+   "en": "Not verified.",
+   "ka": "დადასტურებული არ არის.",
+   "ar": "لم يُتحقق منه."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "colombia",
+   "bogota",
+   "javeriana",
+   "private",
+   "jesuit"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "macau-university-of-science-and-technology",
+  "name": {
+   "en": "Macau University of Science and Technology",
+   "ka": "მაკაოს მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი",
+   "ar": "جامعة ماكاو للعلوم والتكنولوجيا"
+  },
+  "iso": "MO",
+  "city": "Macau",
+  "lat": 22.153,
+  "lon": 113.567,
+  "type": "private",
+  "website": "https://www.must.edu.mo",
+  "platform": "MUST online application system (oas.must.edu.mo)",
+  "application_url": "https://ugadmissions.must.edu.mo/article/id-1402.html",
+  "intakes": [],
+  "deadline": "2027-04-20",
+  "deadline_note": "For the 2027/28 academic year, non-local applicants (except mainland China) can sit the joint entrance exam on 6-20 January 2027 or apply for direct admission from 27 January to 20 April 2027.",
+  "tuition_intl": {
+   "amount": 174000,
+   "currency": "HKD",
+   "per": "year",
+   "note": "2026/27 first-year fee for non-Macao residents: HKD 174,000 for science, engineering and business degrees; HKD 163,000-206,000 for other degrees; HKD 258,000 for the 6-year medicine degree. Foundation year HKD 179,000."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "The admission requirements page for Hong Kong, Taiwan and international students was not readable, so accepted school qualifications are not verified. A one-year foundation programme (HKD 179,000) exists for applicants who need it.",
+   "ka": "ჰონკონგის, ტაივანისა და საერთაშორისო სტუდენტების მიღების მოთხოვნების გვერდი არ იკითხებოდა, ამიტომ აღიარებული სასკოლო კვალიფიკაციები დადასტურებული არ არის. მათთვის, ვისაც სჭირდება, არსებობს ერთწლიანი მოსამზადებელი (foundation) პროგრამა (179 000 ჰონკონგის დოლარი).",
+   "ar": "لم تكن صفحة شروط القبول للطلاب من هونغ كونغ وتايوان والطلاب الدوليين مقروءة، لذا لم يُتحقق من المؤهلات المدرسية المقبولة. يتوفر برنامج تأسيسي لمدة سنة (179,000 دولار هونغ كونغي) لمن يحتاجه."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Four-university joint entrance exam (Macau), or direct admission"
+  ],
+  "fields": [
+   "business",
+   "medicine-health",
+   "computer-science",
+   "engineering",
+   "law",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine and Chinese medicine",
+    "Pharmacy",
+    "Business administration",
+    "Artificial intelligence",
+    "Law",
+    "Hospitality and tourism"
+   ],
+   "ka": [
+    "მედიცინა და ჩინური მედიცინა",
+    "ფარმაცია",
+    "ბიზნესის ადმინისტრირება",
+    "ხელოვნური ინტელექტი",
+    "სამართალი",
+    "სასტუმრო და ტურიზმის მართვა"
+   ],
+   "ar": [
+    "الطب والطب الصيني",
+    "الصيدلة",
+    "إدارة الأعمال",
+    "الذكاء الاصطناعي",
+    "القانون",
+    "الضيافة والسياحة"
+   ]
+  },
+  "summary": {
+   "en": "MUST is a private university in Macau with bachelor degrees in business, science, medicine, law and arts. Non-Macao residents pay about HKD 174,000 in the first year for most science and business degrees.",
+   "ka": "MUST კერძო უნივერსიტეტია მაკაოში, ბიზნესის, მეცნიერების, მედიცინის, სამართლისა და ხელოვნების ბაკალავრიატით. მაკაოს არარეზიდენტები პირველ წელს უმეტეს მეცნიერებისა და ბიზნესის პროგრამაზე დაახლოებით 174 000 ჰონკონგის დოლარს იხდიან.",
+   "ar": "MUST جامعة خاصة في ماكاو تقدم درجات بكالوريوس في الأعمال والعلوم والطب والقانون والفنون. يدفع غير المقيمين في ماكاو نحو 174,000 دولار هونغ كونغي في السنة الأولى لمعظم درجات العلوم والأعمال."
+  },
+  "about": {
+   "en": "MUST is a private university in Taipa, Macau. Non-local applicants, other than mainland China, apply online for the 2027/28 year either by sitting a joint entrance exam on 6-20 January 2027 or through direct admission from 27 January to 20 April 2027. Tuition for non-Macao residents in 2026/27 is HKD 163,000 to 206,000 in the first year for most bachelor degrees, with higher fees for medicine. A one-year foundation programme is also offered. The language of teaching was not confirmed.",
+   "ka": "MUST კერძო უნივერსიტეტია მაკაოს ტაიპას რაიონში. ადგილობრივი არარეზიდენტი აპლიკანტები (მატერიკული ჩინეთის გარდა) 2027/28 სასწავლო წლისთვის განაცხადს ონლაინ აგზავნიან ან 2027 წლის 6-20 იანვარს ერთობლივ მისაღებ გამოცდაზე გამოცხადებით, ან პირდაპირი მიღებით 2027 წლის 27 იანვრიდან 20 აპრილამდე. მაკაოს არარეზიდენტებისთვის 2026/27 წელს სწავლის საფასური უმეტეს ბაკალავრიატზე პირველ წელს 163 000-დან 206 000 ჰონკონგის დოლარამდეა, მედიცინაზე უფრო მაღალია. ასევე არსებობს ერთწლიანი მოსამზადებელი პროგრამა. სწავლების ენა დადასტურებული არ არის.",
+   "ar": "MUST جامعة خاصة في تايبا بماكاو. يتقدم المتقدمون غير المحليين (عدا البر الصيني) إلكترونياً للعام الدراسي 2027/28 إما بأداء اختبار القبول المشترك في 6-20 يناير 2027 أو عبر القبول المباشر من 27 يناير إلى 20 أبريل 2027. تتراوح رسوم غير المقيمين في ماكاو لعام 2026/27 بين 163,000 و206,000 دولار هونغ كونغي في السنة الأولى لمعظم درجات البكالوريوس، وهي أعلى للطب. يتوفر أيضاً برنامج تأسيسي لمدة سنة. لم تُؤكَّد لغة التدريس."
+  },
+  "aid_intl": {
+   "en": "MUST has a scholarships and financial aid page run by its Student Affairs Office; amounts for international bachelor students were not checked.",
+   "ka": "MUST-ს აქვს სტიპენდიებისა და ფინანსური დახმარების გვერდი სტუდენტთა საქმეთა ოფისის მიერ; საერთაშორისო ბაკალავრიატის სტუდენტებისთვის თანხები არ შემოწმებულა.",
+   "ar": "لدى MUST صفحة للمنح والمساعدات المالية يديرها مكتب شؤون الطلاب؛ ولم تُفحص المبالغ الخاصة بطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Applicants either sit the joint entrance exam (language, mathematics and professional tests) or use direct admission. English test requirements were not verified.",
+   "ka": "აპლიკანტები ან ერთობლივ მისაღებ გამოცდას (ენა, მათემატიკა და პროფესიული ტესტები) აბარებენ, ან პირდაპირი მიღებით სარგებლობენ. ინგლისურის ტესტის მოთხოვნები დადასტურებული არ არის.",
+   "ar": "يؤدي المتقدمون اختبار القبول المشترك (لغة ورياضيات واختبارات مهنية) أو يستخدمون القبول المباشر. لم تُتحقق متطلبات اختبار الإنجليزية."
+  },
+  "gpa_note": {
+   "en": "Not verified: the admission requirements page was not readable.",
+   "ka": "დადასტურებული არ არის: მიღების მოთხოვნების გვერდი არ იკითხებოდა.",
+   "ar": "لم يُتحقق منه: صفحة شروط القبول لم تكن مقروءة."
+  },
+  "requirements": [
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Joint entrance exam (or direct admission route)",
+     "ka": "ერთობლივი მისაღები გამოცდა (ან პირდაპირი მიღების გზა)",
+     "ar": "اختبار القبول المشترك (أو مسار القبول المباشر)"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "MUST scholarships and financial aid",
+    "url": "https://sa.must.edu.mo/article/id-1952.html?locale=zh_MO",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "macau",
+   "must",
+   "medicine",
+   "business",
+   "private university",
+   "foundation year"
+  ],
+  "sources": [
+   "https://ugadmissions.must.edu.mo/page/application-period.html",
+   "https://ugadmissions.must.edu.mo/",
+   "https://www.must.edu.mo/images/Admission/files/PreUBachelorFT_Non_Macao_residents_TC.pdf",
+   "https://sa.must.edu.mo/article/id-1952.html?locale=zh_MO"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "sejong-university",
+  "name": {
+   "en": "Sejong University",
+   "ka": "სეჯონგის უნივერსიტეტი",
+   "ar": "جامعة سيجونغ"
+  },
+  "iso": "KR",
+  "city": "Seoul",
+  "lat": 37.551,
+  "lon": 127.074,
+  "type": "private",
+  "website": "https://www.sejong.ac.kr",
+  "platform": "Sejong International Admissions online application (sos.sejong.ac.kr)",
+  "application_url": "https://sos.sejong.ac.kr/eng/admission/guide/univ.do",
+  "intakes": [],
+  "deadline": "2026-11-13",
+  "deadline_note": "2026-27 cycle: round 1 closed 21 September 2026; round 2 runs 22 October to 13 November 2026 (5 pm KST). Dates for the next cycle are not yet published.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "KRW",
+   "per": "year",
+   "note": "Tuition and application fee are in the English admission guide PDF, which could not be read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Korean"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Eligibility rules are in the English admission guide, which could not be read. Sejong publishes standard document guides for China, Bangladesh, Nepal, Uzbekistan and Vietnam only.",
+   "ka": "მისაღებობის წესები ინგლისურ მიღების გზამკვლევშია, რომელიც წასაკითხი არ იყო. Sejong აქვეყნებს სტანდარტიზებულ დოკუმენტების გზამკვლევებს მხოლოდ ჩინეთის, ბანგლადეშის, ნეპალის, უზბეკეთისა და ვიეტნამისთვის.",
+   "ar": "قواعد الأهلية في دليل القبول الإنجليزي الذي تعذرت قراءته. تنشر Sejong أدلة وثائق موحدة للصين وبنغلاديش ونيبال وأوزبكستان وفيتنام فقط."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "computer-science",
+   "economics",
+   "arts-design",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Global Business Administration",
+    "Global Computer Engineering",
+    "Global Hospitality and Tourism Management",
+    "Global Media and Communication",
+    "Global Economics"
+   ],
+   "ka": [
+    "გლობალური ბიზნეს-ადმინისტრირება",
+    "გლობალური კომპიუტერული ინჟინერია",
+    "გლობალური სასტუმრო და ტურიზმის მართვა",
+    "გლობალური მედია და კომუნიკაცია",
+    "გლობალური ეკონომიკა"
+   ],
+   "ar": [
+    "إدارة الأعمال العالمية",
+    "هندسة الحاسوب العالمية",
+    "إدارة الضيافة والسياحة العالمية",
+    "الإعلام والاتصال العالمي",
+    "الاقتصاد العالمي"
+   ]
+  },
+  "summary": {
+   "en": "Sejong University is a private university in Seoul, South Korea, with an English Track of bachelor majors in business, computing, media and more. Costs and entry rules are in its admission guide, which could not be read.",
+   "ka": "სეჯონგის უნივერსიტეტი კერძო უნივერსიტეტია სეულში (სამხრეთ კორეა), ბიზნესის, კომპიუტინგის, მედიისა და სხვა მიმართულებების ინგლისურენოვანი ბაკალავრიატის სპეციალობებით. ხარჯები და მიღების წესები მიღების გზამკვლევშია, რომელიც წასაკითხი არ იყო.",
+   "ar": "جامعة سيجونغ جامعة خاصة في سيول بكوريا الجنوبية، وتقدم مساراً إنجليزياً لتخصصات البكالوريوس في الأعمال والحوسبة والإعلام وغيرها. التكاليف وشروط القبول في دليل القبول الذي تعذرت قراءته."
+  },
+  "about": {
+   "en": "Sejong University is a private university in Seoul, South Korea. International bachelor applicants apply online in two rounds each cycle; for 2026-27 round 2 closes on 13 November 2026. Original documents must arrive by the deadline or admission is cancelled. The English Track offers majors such as Global Business Administration, Global Economics, Global Computer Engineering and Global Media and Communication. Tuition, language requirements and scholarships are in the English admission guide, which could not be read.",
+   "ka": "სეჯონგის უნივერსიტეტი კერძო უნივერსიტეტია სეულში (სამხრეთ კორეა). საერთაშორისო ბაკალავრიატის აპლიკანტები განაცხადს ონლაინ ორ რაუნდად აგზავნიან; 2026-27 წლისთვის მეორე რაუნდი 2026 წლის 13 ნოემბერს იხურება. დედნები ბოლო ვადამდე უნდა მივიდეს, თორემ ჩარიცხვა უქმდება. ინგლისურ ტრეკზე არის სპეციალობები, მაგ. გლობალური ბიზნეს-ადმინისტრირება, გლობალური ეკონომიკა, გლობალური კომპიუტერული ინჟინერია და გლობალური მედია და კომუნიკაცია. სწავლის საფასური, ენობრივი მოთხოვნები და სტიპენდიები ინგლისურ მიღების გზამკვლევშია, რომელიც წასაკითხი არ იყო.",
+   "ar": "جامعة سيجونغ جامعة خاصة في سيول بكوريا الجنوبية. يتقدم المتقدمون الدوليون للبكالوريوس إلكترونياً على جولتين كل دورة؛ وفي 2026-27 تُغلق الجولة الثانية في 13 نوفمبر 2026. يجب أن تصل الوثائق الأصلية قبل الموعد وإلا أُلغي القبول. يقدم المسار الإنجليزي تخصصات مثل إدارة الأعمال العالمية والاقتصاد العالمي وهندسة الحاسوب العالمية والإعلام والاتصال العالمي. الرسوم ومتطلبات اللغة والمنح في دليل القبول الإنجليزي الذي تعذرت قراءته."
+  },
+  "aid_intl": {
+   "en": "Sejong says several English Track majors offer scholarships for international students, but amounts and criteria were not visible.",
+   "ka": "Sejong აცხადებს, რომ ინგლისური ტრეკის რამდენიმე სპეციალობა საერთაშორისო სტუდენტებისთვის სტიპენდიებს სთავაზობს, თუმცა თანხები და კრიტერიუმები არ ჩანდა.",
+   "ar": "تذكر Sejong أن عدة تخصصات في المسار الإنجليزي تقدم منحاً للطلاب الدوليين، لكن المبالغ والمعايير لم تظهر."
+  },
+  "tests": {
+   "en": "Language requirements (TOPIK or English) are in the admission guide and were not readable; an interview may be held if applicable.",
+   "ka": "ენობრივი მოთხოვნები (TOPIK ან ინგლისური) მიღების გზამკვლევშია და არ იკითხებოდა; საჭიროების შემთხვევაში შეიძლება გასაუბრება ჩატარდეს.",
+   "ar": "متطلبات اللغة (TOPIK أو الإنجليزية) في دليل القبول ولم تكن مقروءة؛ وقد تُجرى مقابلة عند الاقتضاء."
+  },
+  "gpa_note": {
+   "en": "Not verified: grade requirements are in the English admission guide.",
+   "ka": "დადასტურებული არ არის: ნიშნების მოთხოვნები ინგლისურ მიღების გზამკვლევშია.",
+   "ar": "لم يُتحقق منه: متطلبات الدرجات في دليل القبول الإنجليزي."
+  },
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "korea",
+   "seoul",
+   "sejong",
+   "english track",
+   "private university"
+  ],
+  "sources": [
+   "https://www.sejong.ac.kr/eng/academics/Undergraduate_School.do",
+   "https://www.sejong.ac.kr/eng/academics/English_Track.do",
+   "https://sos.sejong.ac.kr/eng/admission/guide/univ.do"
+  ],
+  "verified_at": "2026-11-01"
+ }
+]

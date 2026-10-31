@@ -20,6 +20,7 @@
     ielts: 'english', toefl: 'english', duolingo: 'english', pte: 'english', cambridge: 'english',
     gre: 'graduate', gmat: 'graduate', ap: 'school', ib: 'school' };
   var group = null;
+  var view = { kind: 'all', free: false, q: '' };   // resource filters inside an exam
 
   function groupOf(e) { return e.group || GROUP_OF[e.id] || 'admissions'; }
 
@@ -27,10 +28,22 @@
     var host = document.getElementById('prepTabs');
     var present = GROUPS.filter(function (g) { return exams.some(function (e) { return groupOf(e) === g; }); });
     group = current ? groupOf(current) : present[0];
-    host.innerHTML = '<div class="prep-groups" role="tablist">' + present.map(function (g) {
-        return '<button type="button" data-group="' + g + '" aria-selected="' + (g === group) + '">' + M.t('prep.group.' + g) + '</button>';
-      }).join('') + '</div>' +
-      '<div class="prep-exams">' + exams.filter(function (e) { return groupOf(e) === group; }).map(function (e) {
+    var q = view.q.toLowerCase();
+    // word starts only: "ucat" finds UCAT, not "edUCATion"
+    var listed = q ? exams.filter(function (e) {
+      var words = (e.name + ' ' + (e.by || '') + ' ' + e.id + ' ' + M.t('prep.group.' + groupOf(e))).toLowerCase().split(/[^\p{L}\p{N}]+/u);
+      return q.split(/\s+/).every(function (part) { return words.some(function (w) { return w.indexOf(part) === 0; }); });
+    }) : exams.filter(function (e) { return groupOf(e) === group; });
+    host.innerHTML = '<div class="prep-bar">' +
+        '<div class="prep-groups" role="tablist">' + present.map(function (g) {
+          var n = exams.filter(function (e) { return groupOf(e) === g; }).length;
+          return '<button type="button" data-group="' + g + '" aria-selected="' + (!q && g === group) + '">' + M.t('prep.group.' + g) +
+            ' <span class="prep-gn">' + n + '</span></button>';
+        }).join('') + '</div>' +
+        '<label class="prep-find">' + M.icon('search', 16) +
+          '<input type="search" id="prepFind" autocomplete="off" placeholder="' + M.esc(M.t('prep.find')) + '" value="' + M.esc(view.q) + '" /></label>' +
+      '</div>' +
+      '<div class="prep-exams">' + (listed.length ? '' : '<span class="muted" style="padding:.5rem 0">' + M.t('prep.noExam') + '</span>') + listed.map(function (e) {
         return '<button type="button" role="tab" title="' + M.esc(e.name) + '" data-exam="' + M.esc(e.id) + '" aria-selected="' + (current && current.id === e.id) + '">' +
           M.esc(String(e.name).split(' / ')[0].replace(/\s*\(.*\)\s*$/, '')) + '</button>';
       }).join('') + '</div>';
@@ -39,9 +52,22 @@
     });
     host.querySelectorAll('[data-group]').forEach(function (b) {
       b.addEventListener('click', function () {
+        view.q = '';
         var first = exams.filter(function (e) { return groupOf(e) === b.getAttribute('data-group'); })[0];
         if (first) show(first.id, true);
       });
+    });
+    var find = document.getElementById('prepFind');
+    var timer = null;
+    find.addEventListener('input', function () {
+      window.clearTimeout(timer);
+      timer = window.setTimeout(function () {
+        view.q = find.value.trim();
+        paintTabs();
+        var again = document.getElementById('prepFind');
+        again.focus();
+        again.setSelectionRange(again.value.length, again.value.length);
+      }, 160);
     });
   }
 
@@ -69,10 +95,16 @@
     }
     // materials by exam section (Reading, Math, Listening…) when the data names
     // them, otherwise by kind (official, practice tests, courses…)
-    var bySection = (e.resources || []).some(function (r) { return r.section && r.section !== 'All'; });
+    var all = e.resources || [];
+    var kinds = {};
+    all.forEach(function (r) { kinds[r.kind || 'official'] = (kinds[r.kind || 'official'] || 0) + 1; });
+    var shownRes = all.filter(function (r) {
+      return (view.kind === 'all' || (r.kind || 'official') === view.kind) && (!view.free || r.free);
+    });
+    var bySection = shownRes.some(function (r) { return r.section && r.section !== 'All'; });
     var groups = {};
     var order = [];
-    (e.resources || []).forEach(function (r) {
+    shownRes.forEach(function (r) {
       var key = bySection ? (r.section || 'All') : (r.kind || 'official');
       if (!groups[key]) { groups[key] = []; order.push(key); }
       groups[key].push(r);
@@ -88,11 +120,26 @@
     var facts = [
       ['prep.format', P(e.format)], ['prep.dates', P(e.dates)], ['prep.cost', P(e.cost)]
     ].filter(function (f) { return f[1]; });
+    var tips = P(e.tips) || [];
+    var filterBar = '<div class="prep-filter">' +
+      ['all'].concat(KIND_ORDER.filter(function (k) { return kinds[k]; })).map(function (k) {
+        return '<button type="button" class="fchip" data-kind="' + k + '" aria-pressed="' + (view.kind === k) + '"><span>' +
+          (k === 'all' ? M.t('prep.kind.all') : M.t('prep.kind.' + k)) + '</span><span class="fchip-count">' + (k === 'all' ? all.length : kinds[k]) + '</span></button>';
+      }).join('') +
+      '<button type="button" class="fchip fchip-free" data-free aria-pressed="' + view.free + '">' + M.icon('check', 14) + '<span>' + M.t('prep.freeOnly') + '</span></button>' +
+    '</div>';
     host.innerHTML =
       '<div class="prep-main">' +
         '<div class="prep-hero"><h2>' + M.esc(e.name) + '</h2>' +
           (e.by ? '<p class="by">' + M.esc(e.by) + '</p>' : '') +
           (P(e.what) ? '<p>' + M.esc(firstSentence(P(e.what))) + '</p>' : '') + '</div>' +
+        ((P(e.who) || P(e.scores) || tips.length) ? '<div class="prep-info">' +
+          (P(e.who) ? '<div><b>' + M.icon('users', 15) + M.t('prep.who') + '</b><p>' + M.esc(P(e.who)) + '</p></div>' : '') +
+          (P(e.scores) ? '<div><b>' + M.icon('target', 15) + M.t('prep.scores') + '</b><p>' + M.esc(P(e.scores)) + '</p></div>' : '') +
+          (tips.length ? '<div class="prep-tips"><b>' + M.icon('zap', 15) + M.t('prep.tips') + '</b><ol>' + tips.map(function (t) { return '<li>' + M.esc(t) + '</li>'; }).join('') + '</ol></div>' : '') +
+        '</div>' : '') +
+        filterBar +
+        (keys.length ? '' : '<p class="muted">' + M.t('prep.noMatch') + '</p>') +
         keys.map(function (k) {
           return '<section class="prep-group"><h3>' + M.esc(title(k)) + ' <span class="prep-n">' + groups[k].length + '</span></h3><div class="prep-res">' +
             groups[k].map(resource).join('') + '</div></section>';
@@ -110,10 +157,17 @@
           M.icon('sparkles', 16) + M.t('prep.askAi') + '</button>' +
         '<a class="btn btn-ghost btn-block" href="/teachers?q=' + encodeURIComponent(e.name) + '">' + M.t('prep.people.tutors') + '</a>' +
       '</aside>';
+    host.querySelectorAll('[data-kind]').forEach(function (b) {
+      b.addEventListener('click', function () { view.kind = b.getAttribute('data-kind'); paintBody(); });
+    });
+    var free = host.querySelector('[data-free]');
+    if (free) free.addEventListener('click', function () { view.free = !view.free; paintBody(); });
   }
 
   function show(id, push) {
-    current = exams.filter(function (e) { return e.id === id; })[0] || exams[0] || null;
+    var next = exams.filter(function (e) { return e.id === id; })[0] || exams[0] || null;
+    if (next !== current) view.kind = 'all';
+    current = next;
     paintTabs(); paintBody();
     if (push && current) {
       var url = new URL(window.location.href);

@@ -1,0 +1,1852 @@
+[
+ {
+  "id": "bond-university",
+  "name": {
+   "en": "Bond University",
+   "ka": "ბონდის უნივერსიტეტი",
+   "ar": "جامعة بوند"
+  },
+  "iso": "AU",
+  "city": "Gold Coast",
+  "lat": -28.073,
+  "lon": 153.416,
+  "type": "private",
+  "website": "https://www.bond.edu.au",
+  "platform": "Direct online application (Bond portal) or through an education agent",
+  "application_url": "https://bond.edu.au/entry-to-bond/how-to-apply",
+  "intakes": [
+   "January",
+   "May",
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "No fixed deadline: applications are open year-round and accepted up to the semester start date (2026 classes began 19 Jan, 18 May and 14 Sep; medicine and physiotherapy have their own dates).",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "AUD",
+   "per": "year",
+   "note": "Fees are listed on each programme page under 'Fees'; no single figure is published on the international fees page."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Bond says it recognises many international secondary qualifications. Standard entry is Australian Year 12 or an equivalent, and requirements differ by programme.",
+   "ka": "ბონდი აღიარებს მრავალ საერთაშორისო საშუალო განათლების კვალიფიკაციას. სტანდარტული მოთხოვნაა ავსტრალიის მე-12 კლასის ან ექვივალენტური კვალიფიკაცია; პროგრამების მიხედვით მოთხოვნები განსხვავდება.",
+   "ar": "تذكر بوند أنها تعترف بالعديد من المؤهلات الثانوية الدولية. القبول القياسي يتطلب إتمام السنة 12 الأسترالية أو ما يعادلها، وتختلف الشروط حسب البرنامج."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.5,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "law",
+   "medicine-health",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Law",
+    "Medicine",
+    "Physiotherapy",
+    "Communication"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "სამართალი",
+    "მედიცინა",
+    "ფიზიოთერაპია",
+    "კომუნიკაცია"
+   ],
+   "ar": [
+    "الأعمال",
+    "القانون",
+    "الطب",
+    "العلاج الطبيعي",
+    "الاتصال"
+   ]
+  },
+  "summary": {
+   "en": "Bond is a private university on the Gold Coast, Australia, with three intakes a year. International fees are set per programme and are not listed in one place.",
+   "ka": "ბონდი კერძო უნივერსიტეტია ავსტრალიის გოლდ-კოუსტზე, წელიწადში სამი მიღებით. უცხოელთა საფასური თითოეული პროგრამისთვის ცალ-ცალკეა განსაზღვრული.",
+   "ar": "بوند جامعة خاصة في غولد كوست بأستراليا، وتقبل الطلاب ثلاث مرات في السنة. تُحدَّد الرسوم الدولية لكل برنامج على حدة."
+  },
+  "about": {
+   "en": "Bond University is a private, non-profit university in Gold Coast, Queensland. International students apply online for free, or through an education agent, and can apply until the semester starts. Teaching is in English. Academic entry depends on the programme and on the applicant's secondary qualification, and English can be shown with IELTS, TOEFL iBT, PTE or C1 Advanced. Fees are shown on each programme page. Students must also show living costs of at least AUD 24,505 a year for the visa.",
+   "ka": "ბონდის უნივერსიტეტი კერძო, არაკომერციული უნივერსიტეტია გოლდ-კოუსტზე, კვინზლენდში. უცხოელი სტუდენტები განაცხადს უფასოდ წარადგენენ ონლაინ ან განათლების აგენტის მეშვეობით და შეუძლიათ სემესტრის დაწყებამდე განაცხადონ. სწავლება ინგლისურია. მიღების პირობები დამოკიდებულია პროგრამასა და საშუალო განათლების კვალიფიკაციაზე; ინგლისური შეიძლება დადასტურდეს IELTS, TOEFL iBT, PTE ან C1 Advanced-ით. საფასური მითითებულია თითოეული პროგრამის გვერდზე. ვიზისთვის საჭიროა წელიწადში მინიმუმ 24 505 ავსტრალიური დოლარის საარსებო თანხის დადასტურება.",
+   "ar": "جامعة بوند جامعة خاصة غير ربحية في غولد كوست بولاية كوينزلاند. يقدّم الطلاب الدوليون طلبهم إلكترونياً مجاناً أو عبر وكيل تعليمي، ويمكنهم التقديم حتى بداية الفصل. التدريس بالإنجليزية. يعتمد القبول الأكاديمي على البرنامج وعلى المؤهل الثانوي، ويمكن إثبات الإنجليزية عبر IELTS أو TOEFL iBT أو PTE أو C1 Advanced. الرسوم مذكورة في صفحة كل برنامج. ويجب إثبات تكاليف معيشة لا تقل عن 24,505 دولاراً أسترالياً سنوياً للحصول على التأشيرة."
+  },
+  "aid_intl": {
+   "en": "Bond offers part-fee scholarships and bursaries to international students, and loyalty discounts for families and alumni.",
+   "ka": "ბონდი უცხოელ სტუდენტებს სთავაზობს საფასურის ნაწილობრივ სტიპენდიებსა და გრანტებს, ასევე ფასდაკლებას ოჯახის წევრებისა და კურსდამთავრებულებისთვის.",
+   "ar": "تقدّم بوند منحاً ومساعدات تغطي جزءاً من الرسوم للطلاب الدوليين، وخصومات ولاء لأفراد العائلة والخريجين."
+  },
+  "tests": {
+   "en": "English proof is needed: IELTS (6.5 overall with no band below 6.0 for some programmes, 7.0 for others), TOEFL iBT, PTE Academic or C1 Advanced. TOEFL and PTE scores are on separate pages.",
+   "ka": "საჭიროა ინგლისურის დადასტურება: IELTS (ზოგ პროგრამაზე 6.5, არცერთი ქვეტესტი 6.0-ზე დაბალი; სხვაზე 7.0), TOEFL iBT, PTE Academic ან C1 Advanced.",
+   "ar": "يلزم إثبات الإنجليزية: IELTS (6.5 مع عدم النزول عن 6.0 في أي مهارة لبعض البرامج، و7.0 لبرامج أخرى)، أو TOEFL iBT أو PTE Academic أو C1 Advanced."
+  },
+  "gpa_note": {
+   "en": "Entry is by Year 12 or an equivalent secondary qualification; grade requirements are set per programme.",
+   "ka": "მიღება ხდება მე-12 კლასის ან ექვივალენტური საშუალო კვალიფიკაციით; ქულების მოთხოვნა თითოეულ პროგრამას განსხვავებული აქვს.",
+   "ar": "القبول بشهادة السنة 12 أو مؤهل ثانوي معادل، وتُحدَّد متطلبات الدرجات لكل برنامج."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებების ამონაწერი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test result",
+     "ka": "ინგლისური ენის ტესტის შედეგი",
+     "ar": "نتيجة اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds (for the student visa)",
+     "ka": "ფინანსური შესაძლებლობის დამადასტურებელი დოკუმენტი (ვიზისთვის)",
+     "ar": "إثبات القدرة المالية (لتأشيرة الطالب)"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Bond international part-fee scholarships and bursaries",
+    "url": "https://bond.edu.au/fees-and-finance-options/international-student-fee-information",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "australia",
+   "gold coast",
+   "private",
+   "three intakes",
+   "business",
+   "law",
+   "medicine"
+  ],
+  "sources": [
+   "https://www.bond.edu.au",
+   "https://bond.edu.au/study/bond-for-international-students",
+   "https://bond.edu.au/entry-to-bond/how-to-apply",
+   "https://bond.edu.au/entry-to-bond/how-to-apply/key-dates",
+   "https://bond.edu.au/entry-to-bond/entry-requirements/international-entry-requirements",
+   "https://bond.edu.au/entry-to-bond/entry-requirements/international-entry-requirements/english-language-requirements",
+   "https://bond.edu.au/fees-and-finance-options/international-student-fee-information"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universiti-tenaga-nasional-uniten",
+  "name": {
+   "en": "Universiti Tenaga Nasional (UNITEN)",
+   "ka": "ტენაგა ნასიონალის უნივერსიტეტი (UNITEN)",
+   "ar": "جامعة تيناغا الوطنية (UNITEN)"
+  },
+  "iso": "MY",
+  "city": "Kajang",
+  "lat": 2.976,
+  "lon": 101.731,
+  "type": "private",
+  "website": "https://www.uniten.edu.my",
+  "platform": "Direct online application (UNITEN international admissions)",
+  "application_url": "https://www.uniten.edu.my/apply-now/international-students/",
+  "intakes": [
+   "January"
+  ],
+  "deadline": "2026-12-14",
+  "deadline_note": "This is the closing date for the January 2027 intake (applications open 5 Oct 2026; classes start 11 Jan 2027); dates for later intakes are not published yet.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "MYR",
+   "per": "year",
+   "note": "Not published on the pages reviewed."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry requirements by qualification are not published on the pages reviewed. Applicants send certified copies of school certificates and transcripts, translated if not in English.",
+   "ka": "კვალიფიკაციების მიხედვით მოთხოვნები განხილულ გვერდებზე არ არის გამოქვეყნებული. აბიტურიენტები აგზავნიან სკოლის ატესტატისა და შეფასებების დამოწმებულ ასლებს, საჭიროების შემთხვევაში ინგლისურად ნათარგმნს.",
+   "ar": "لا تنشر الصفحات التي روجعت شروط القبول حسب المؤهل. يرسل المتقدمون نسخاً مصدّقة من الشهادات وكشوف الدرجات، مترجمة إذا لم تكن بالإنجليزية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computing and Informatics",
+    "Business",
+    "Renewable energy"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტინგი და ინფორმატიკა",
+    "ბიზნესი",
+    "განახლებადი ენერგია"
+   ],
+   "ar": [
+    "الهندسة",
+    "الحوسبة والمعلوماتية",
+    "الأعمال",
+    "الطاقة المتجددة"
+   ]
+  },
+  "summary": {
+   "en": "UNITEN is a private university in Selangor, Malaysia, owned by the utility Tenaga Nasional Berhad and known as the Energy University. International fees are not published on the pages reviewed.",
+   "ka": "UNITEN მალაიზიის სელანგორის შტატში მდებარე კერძო უნივერსიტეტია, რომელიც ენერგეტიკულ კომპანია Tenaga Nasional Berhad-ს ეკუთვნის. უცხოელთა საფასური განხილულ გვერდებზე არ არის მითითებული.",
+   "ar": "UNITEN جامعة خاصة في ولاية سيلانغور بماليزيا، تملكها شركة الكهرباء Tenaga Nasional Berhad وتُعرف بـ«جامعة الطاقة». لم تُنشر الرسوم الدولية في الصفحات التي روجعت."
+  },
+  "about": {
+   "en": "UNITEN was founded in 1997 and is wholly owned by Tenaga Nasional Berhad. It has two campuses: Putrajaya Campus in Kajang, which hosts engineering, IT, energy and business, and Sultan Haji Ahmad Shah Campus in Pahang. It holds SETARA Tier 5 (Excellent). International students apply online for foundation, diploma and bachelor's programmes and send certified school certificates and an English test result. The next published intake is January 2027.",
+   "ka": "UNITEN დაარსდა 1997 წელს და მთლიანად Tenaga Nasional Berhad-ის საკუთრებაა. მას ორი კამპუსი აქვს: კაჯანგში, პუტრაჯაიას კამპუსი (ინჟინერია, IT, ენერგეტიკა, ბიზნესი) და სულთან ჰაჯი აჰმად შაჰის კამპუსი პაჰანგში. უნივერსიტეტს SETARA-ს მე-5 დონე (შესანიშნავი) აქვს. უცხოელი სტუდენტები განაცხადს ონლაინ აგზავნიან საფუძველი, დიპლომისა და ბაკალავრიატის პროგრამებზე და წარადგენენ დამოწმებულ ატესტატს და ინგლისურის ტესტის შედეგს. უახლოესი გამოქვეყნებული მიღება 2027 წლის იანვარშია.",
+   "ar": "تأسست UNITEN عام 1997 وتملكها Tenaga Nasional Berhad بالكامل. لها حرمان: حرم بوتراجايا في كاجانغ (الهندسة وتقنية المعلومات والطاقة والأعمال) وحرم السلطان حاج أحمد شاه في باهانغ. حصلت على التصنيف الخامس (ممتاز) في نظام SETARA. يقدّم الطلاب الدوليون طلبهم إلكترونياً للبرامج التأسيسية والدبلوم والبكالوريوس، ويرسلون شهادات مصدّقة ونتيجة اختبار إنجليزي. أقرب قبول منشور هو يناير 2027."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages reviewed.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لا توجد في الصفحات التي روجعت مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "An English test certificate (IELTS, TOEFL or other) is required with the application; minimum scores are not published on the pages reviewed.",
+   "ka": "განაცხადთან ერთად საჭიროა ინგლისურის ტესტის სერტიფიკატი (IELTS, TOEFL ან სხვა); მინიმალური ქულები განხილულ გვერდებზე არ არის მითითებული.",
+   "ar": "يلزم إرفاق شهادة اختبار إنجليزي (IELTS أو TOEFL أو غيرهما)؛ ولم تُنشر الحدود الدنيا للدرجات في الصفحات التي روجعت."
+  },
+  "gpa_note": {
+   "en": "Grade requirements are not published on the pages reviewed.",
+   "ka": "ნიშნების მოთხოვნები განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر متطلبات الدرجات في الصفحات التي روجعت."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებების ამონაწერი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test result",
+     "ka": "ინგლისური ენის ტესტის შედეგი",
+     "ar": "نتيجة اختبار اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "malaysia",
+   "kajang",
+   "engineering",
+   "energy",
+   "private"
+  ],
+  "sources": [
+   "https://www.uniten.edu.my/admission/",
+   "https://www.uniten.edu.my/apply-now/international-students/",
+   "https://www.uniten.edu.my/about-uniten/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "dongguk-university",
+  "name": {
+   "en": "Dongguk University",
+   "ka": "დონგუკის უნივერსიტეტი",
+   "ar": "جامعة دونغوك"
+  },
+  "iso": "KR",
+  "city": "Seoul",
+  "lat": 37.558,
+  "lon": 127.0,
+  "type": "private",
+  "website": "https://www.dongguk.edu",
+  "platform": "Dongguk international admissions portal",
+  "application_url": "https://iadmission.dongguk.edu/dkglobal3_1_en?sca=Undergraduate",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Dates, fees and requirements could not be read from the official international admissions pages; check the portal.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "KRW",
+   "per": "year",
+   "note": "Not available from the pages reviewed."
+  },
+  "acceptance_rate": null,
+  "students": 18000,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published on the pages reviewed.",
+   "ka": "განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي روجعت."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "engineering",
+   "business",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Buddhist studies",
+    "Engineering",
+    "Business",
+    "Arts"
+   ],
+   "ka": [
+    "ბუდისტური კვლევები",
+    "ინჟინერია",
+    "ბიზნესი",
+    "ხელოვნება"
+   ],
+   "ar": [
+    "الدراسات البوذية",
+    "الهندسة",
+    "الأعمال",
+    "الفنون"
+   ]
+  },
+  "summary": {
+   "en": "Dongguk is a private university in Seoul, founded in 1906, with 13 colleges and about 18,000 students. Admission details for international bachelor applicants must be checked on its admissions portal.",
+   "ka": "დონგუკი სეულში მდებარე კერძო უნივერსიტეტია, დაარსებული 1906 წელს, 13 კოლეჯითა და დაახლოებით 18 000 სტუდენტით. საერთაშორისო განაცხადის დეტალები უნდა შემოწმდეს სადმისიო პორტალზე.",
+   "ar": "دونغوك جامعة خاصة في سيول تأسست عام 1906، وفيها 13 كلية ونحو 18,000 طالب. يجب التحقق من تفاصيل القبول للطلاب الدوليين في بوابة القبول."
+  },
+  "about": {
+   "en": "Dongguk University was founded in 1906 in Seoul and has campuses in Gyeongju, Goyang and Los Angeles. It has about 1,300 professors and 18,000 students in 13 colleges, plus a Dharma College and a School of Interdisciplinary Studies. It offers undergraduate and graduate programmes, exchange programmes and Korean language courses for international students. The application period, tuition, language requirements (TOPIK or English) and scholarships are on the international admissions portal.",
+   "ka": "დონგუკის უნივერსიტეტი სეულში 1906 წელს დაარსდა და კამპუსები აქვს გიონჯუში, გოიანგსა და ლოს-ანჯელესში. მას დაახლოებით 1 300 პროფესორი და 18 000 სტუდენტი ჰყავს 13 კოლეჯში, ასევე Dharma College და ინტერდისციპლინარული კვლევების სკოლა. უცხოელებისთვის არის საბაკალავრო და სამაგისტრო პროგრამები, გაცვლითი პროგრამები და კორეული ენის კურსები. განაცხადის ვადები, სწავლის საფასური, ენის მოთხოვნები (TOPIK ან ინგლისური) და სტიპენდიები საერთაშორისო სადმისიო პორტალზეა.",
+   "ar": "تأسست جامعة دونغوك عام 1906 في سيول ولها فروع في غيونغجو وغويانغ ولوس أنجلوس. فيها نحو 1,300 أستاذ و18,000 طالب في 13 كلية، إضافة إلى كلية دارما ومدرسة الدراسات متعددة التخصصات. تقدّم برامج جامعية وعليا وبرامج تبادل ودورات لغة كورية للطلاب الدوليين. تجد مدة التقديم والرسوم ومتطلبات اللغة (TOPIK أو الإنجليزية) والمنح في بوابة القبول الدولية."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students could be read from the pages reviewed.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი დახმარება განხილულ გვერდებზე ვერ მოიძებნა.",
+   "ar": "لم يمكن الاطلاع على مساعدات مخصصة لطلاب البكالوريوس الدوليين في الصفحات التي روجعت."
+  },
+  "tests": {
+   "en": "The portal lists Korean (TOPIK) and English language proficiency as part of admission; scores could not be read.",
+   "ka": "პორტალზე ნახსენებია კორეულის (TOPIK) და ინგლისურის ცოდნა, თუმცა ქულები ვერ მოიძებნა.",
+   "ar": "تذكر البوابة إثبات إتقان الكورية (TOPIK) والإنجليزية ضمن شروط القبول؛ ولم يمكن الاطلاع على الدرجات."
+  },
+  "gpa_note": {
+   "en": "Not published on the pages reviewed.",
+   "ka": "განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي روجعت."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებების ამონაწერი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "korea",
+   "seoul",
+   "private",
+   "buddhist",
+   "1906"
+  ],
+  "sources": [
+   "https://www.dongguk.edu/eng",
+   "https://iadmission.dongguk.edu/dkglobal3_1_en?sca=Undergraduate"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "justus-liebig-university-giessen",
+  "name": {
+   "en": "Justus-Liebig-University Giessen",
+   "ka": "იუსტუს ლიბიგის გისენის უნივერსიტეტი",
+   "ar": "جامعة يوستوس ليبيغ في غيسن"
+  },
+  "iso": "DE",
+  "city": "Giessen",
+  "lat": 50.58,
+  "lon": 8.678,
+  "type": "public",
+  "website": "https://www.uni-giessen.de",
+  "platform": "uni-assist (foreign school qualifications); GUDE portal for German qualifications",
+  "application_url": "https://www.uni-giessen.de/de/internationales/studierenjlu/bewerbung/gs",
+  "intakes": [
+   "Winter semester (October)",
+   "Summer semester (April)"
+  ],
+  "deadline": null,
+  "deadline_note": "Winter 2027/28 bachelor deadlines are not yet published (expected spring 2027; applications usually open in early June). For summer semester 2027, applicants with a foreign school qualification apply by 28 Feb 2027 (admission-free programmes) or 15 Jan 2027 (admission-restricted).",
+  "tuition_intl": {
+   "amount": 0,
+   "currency": "EUR",
+   "per": "year",
+   "note": "JLU states its programmes are free of tuition fees; a semester contribution still applies (amount not read)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "German"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Check in the anabin database whether your school diploma gives direct access; if not, a Studienkolleg year is required. Applicants from China, Vietnam and India need an APS certificate.",
+   "ka": "anabin-ის მონაცემთა ბაზაში შეამოწმეთ, იძლევა თუ არა თქვენი ატესტატი პირდაპირ მიღების უფლებას; თუ არა, საჭიროა Studienkolleg-ის წელი. ჩინეთიდან, ვიეტნამიდან და ინდოეთიდან განმცხადებლებს APS სერტიფიკატი სჭირდებათ.",
+   "ar": "تحقق من قاعدة بيانات anabin إن كانت شهادتك الثانوية تتيح القبول المباشر؛ وإلا فيلزم عام Studienkolleg. يحتاج المتقدمون من الصين وفيتنام والهند إلى شهادة APS."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "natural-sciences",
+   "medicine-health",
+   "environment",
+   "law",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Veterinary medicine",
+    "Life sciences",
+    "Agricultural and environmental sciences",
+    "Law",
+    "Humanities"
+   ],
+   "ka": [
+    "ვეტერინარია",
+    "ბიოლოგიური მეცნიერებები",
+    "აგრარული და გარემოს მეცნიერებები",
+    "სამართალი",
+    "ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "الطب البيطري",
+    "علوم الحياة",
+    "العلوم الزراعية والبيئية",
+    "القانون",
+    "العلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "JLU Giessen is a public German university that charges no tuition fees. International applicants with a foreign school diploma apply through uni-assist and need German for German-taught programmes.",
+   "ka": "გისენის JLU გერმანიის საჯარო უნივერსიტეტია, სადაც სწავლის საფასური არ იხდება. უცხოური ატესტატის მქონე განმცხადებლები uni-assist-ით აგზავნიან განაცხადს და გერმანულენოვან პროგრამებზე გერმანული სჭირდებათ.",
+   "ar": "جامعة JLU غيسن جامعة حكومية ألمانية بلا رسوم دراسية. يتقدّم أصحاب الشهادات الأجنبية عبر uni-assist، ويلزمهم إتقان الألمانية للبرامج المدرَّسة بها."
+  },
+  "about": {
+   "en": "Justus Liebig University is a public university in Giessen, Hesse. Its programmes are free of tuition fees. Bachelor applicants with a foreign school-leaving qualification apply through uni-assist; those whose diploma does not give direct access must first attend a Studienkolleg. Proof of German is required for German-taught programmes. Deadlines differ by programme type. Winter 2027/28 dates will be published in spring 2027.",
+   "ka": "იუსტუს ლიბიგის უნივერსიტეტი საჯარო უნივერსიტეტია ჰესენის მიწაზე, გისენში. სწავლა უფასოა. უცხოური ატესტატის მქონე ბაკალავრიატის განმცხადებლები uni-assist-ით შედიან; თუ ატესტატი პირდაპირ მიღებას არ იძლევა, ჯერ Studienkolleg-ში უნდა ისწავლონ. გერმანულენოვან პროგრამებზე საჭიროა გერმანული ენის ცოდნის დამადასტურებელი დოკუმენტი. ვადები პროგრამის ტიპის მიხედვით განსხვავდება. 2027/28 ზამთრის სემესტრის თარიღები გამოქვეყნდება 2027 წლის გაზაფხულზე.",
+   "ar": "جامعة يوستوس ليبيغ جامعة حكومية في غيسن بولاية هيسن، وبرامجها بلا رسوم دراسية. يتقدّم طلاب البكالوريوس الحاملون لشهادة ثانوية أجنبية عبر uni-assist، ومن لا تتيح شهادته القبول المباشر عليه الالتحاق أولاً بـ Studienkolleg. يلزم إثبات إتقان الألمانية للبرامج المدرَّسة بها. تختلف المواعيد حسب نوع البرنامج، وستُنشر مواعيد شتاء 2027/28 في ربيع 2027."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students was found on the pages reviewed.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი დახმარება განხილულ გვერდებზე ვერ მოიძებნა.",
+   "ar": "لم تُعثر في الصفحات التي روجعت على مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Proof of German is required for German-taught programmes; the exact level is on the JLU language requirements page. English requirements for English-taught programmes are set per programme.",
+   "ka": "გერმანულენოვან პროგრამებზე საჭიროა გერმანულის ცოდნის დადასტურება; ზუსტი დონე JLU-ს ენობრივ მოთხოვნებშია. ინგლისურენოვან პროგრამებზე ინგლისურის მოთხოვნა პროგრამის მიხედვით განისაზღვრება.",
+   "ar": "يلزم إثبات الألمانية للبرامج المدرَّسة بها، والمستوى الدقيق في صفحة متطلبات اللغة لدى JLU. أما متطلبات الإنجليزية للبرامج الإنجليزية فتُحدَّد لكل برنامج."
+  },
+  "gpa_note": {
+   "en": "Some programmes have a numerus clausus (NC) and admit by grade; others are admission-free.",
+   "ka": "ზოგ პროგრამას numerus clausus (NC) აქვს და ნიშნების მიხედვით იღებს; სხვები ღიაა.",
+   "ar": "بعض البرامج لها numerus clausus (NC) وتقبل بحسب الدرجات، وغيرها مفتوح بلا شرط درجات."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებების ამონაწერი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of German (for German-taught programmes)",
+     "ka": "გერმანული ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الألمانية (للبرامج المدرَّسة بالألمانية)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Check that the school diploma gives direct access (anabin); Studienkolleg if not",
+     "ka": "ატესტატის შემოწმება anabin-ში; საჭიროების შემთხვევაში Studienkolleg",
+     "ar": "التحقق من أن الشهادة الثانوية تتيح القبول المباشر (anabin)؛ وإلا فسنة Studienkolleg"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "germany",
+   "giessen",
+   "no tuition",
+   "uni-assist",
+   "studienkolleg",
+   "veterinary"
+  ],
+  "sources": [
+   "https://www.uni-giessen.de/de/internationales/studierenjlu/bewerbung/gs",
+   "https://www.uni-giessen.de/de/internationales/studierenjlu/bewerbung/gs/voraussetzungen",
+   "https://www.uni-giessen.de/de/internationales/studierenjlu/bewerbung/gs/verfahren",
+   "https://www.uni-giessen.de/de/studium/bewerbung/fristen"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "renmin-people-s-university-of-china",
+  "name": {
+   "en": "Renmin (People's) University of China",
+   "ka": "ჩინეთის სახალხო (რენმინის) უნივერსიტეტი",
+   "ar": "جامعة الشعب الصينية (رنمين)"
+  },
+  "iso": "CN",
+  "city": "Beijing",
+  "lat": 39.969,
+  "lon": 116.318,
+  "type": "public",
+  "website": "https://www.ruc.edu.cn",
+  "platform": "Direct application through the RUC International Students Office",
+  "application_url": "http://iso.ruc.edu.cn/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Dates and requirements for international bachelor applicants could not be read; the International Students Office site has a certificate error in the fetch tool.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "CNY",
+   "per": "year",
+   "note": "Not available from the pages reviewed."
+  },
+  "acceptance_rate": null,
+  "students": 29825,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published on the pages reviewed.",
+   "ka": "განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي روجعت."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "social-sciences",
+   "economics",
+   "law",
+   "humanities",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Economics",
+    "Law",
+    "Sociology",
+    "Journalism",
+    "Public administration"
+   ],
+   "ka": [
+    "ეკონომიკა",
+    "სამართალი",
+    "სოციოლოგია",
+    "ჟურნალისტიკა",
+    "საჯარო მმართველობა"
+   ],
+   "ar": [
+    "الاقتصاد",
+    "القانون",
+    "علم الاجتماع",
+    "الصحافة",
+    "الإدارة العامة"
+   ]
+  },
+  "summary": {
+   "en": "Renmin University is a public university in Beijing with 29,825 enrolled students, focused on social sciences and humanities. Admission details for international bachelor applicants must be checked with its International Students Office.",
+   "ka": "რენმინის უნივერსიტეტი პეკინში მდებარე საჯარო უნივერსიტეტია, 29 825 სტუდენტით, სოციალური და ჰუმანიტარული მეცნიერებების ფოკუსით. საერთაშორისო განმცხადებლების პირობები უნდა დაზუსტდეს საერთაშორისო სტუდენტთა ოფისში.",
+   "ar": "جامعة الشعب (رنمين) جامعة حكومية في بكين فيها 29,825 طالباً، وتركّز على العلوم الاجتماعية والإنسانية. يجب التحقق من شروط قبول الطلاب الدوليين لدى مكتب الطلاب الدوليين."
+  },
+  "about": {
+   "en": "Renmin University of China is a public university in Beijing. Its English site lists 29,825 enrolled students and partnerships with more than 200 institutions in 63 countries and regions. International undergraduate applicants are handled by the International Students Office (iso.ruc.edu.cn, international@ruc.edu.cn). Dates, tuition, language of teaching and scholarships could not be read from the pages reviewed, so check that office before applying.",
+   "ka": "ჩინეთის სახალხო უნივერსიტეტი პეკინის საჯარო უნივერსიტეტია. მისი ინგლისური საიტის მიხედვით, მასში 29 825 სტუდენტი სწავლობს და 63 ქვეყნისა და რეგიონის 200-ზე მეტ დაწესებულებასთან აქვს პარტნიორობა. საერთაშორისო განმცხადებლებს ემსახურება საერთაშორისო სტუდენტთა ოფისი (iso.ruc.edu.cn, international@ruc.edu.cn). ვადები, საფასური, სწავლების ენა და სტიპენდიები განხილულ გვერდებზე ვერ მოიძებნა, ამიტომ განაცხადამდე ოფისს დაუკავშირდით.",
+   "ar": "جامعة الشعب الصينية جامعة حكومية في بكين. يذكر موقعها الإنجليزي 29,825 طالباً مسجلاً وشراكات مع أكثر من 200 مؤسسة في 63 دولة ومنطقة. يتولى مكتب الطلاب الدوليين (iso.ruc.edu.cn, international@ruc.edu.cn) متقدمي البكالوريوس الدوليين. لم تظهر المواعيد والرسوم ولغة التدريس والمنح في الصفحات التي روجعت، لذا تواصل مع المكتب قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages reviewed.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لا توجد في الصفحات التي روجعت مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not published on the pages reviewed.",
+   "ka": "განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي روجعت."
+  },
+  "gpa_note": {
+   "en": "Not published on the pages reviewed.",
+   "ka": "განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي روجعت."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებების ამონაწერი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "china",
+   "beijing",
+   "social sciences",
+   "public"
+  ],
+  "sources": [
+   "https://www.ruc.edu.cn",
+   "https://en.ruc.edu.cn/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-huddersfield",
+  "name": {
+   "en": "University of Huddersfield",
+   "ka": "ჰადერსფილდის უნივერსიტეტი",
+   "ar": "جامعة هيدرزفيلد"
+  },
+  "iso": "GB",
+  "city": "Huddersfield",
+  "lat": 53.643,
+  "lon": -1.779,
+  "type": "public",
+  "website": "https://hud.ac.uk",
+  "platform": "Direct online application, UCAS, or an official University representative",
+  "application_url": "https://www.hud.ac.uk/international/applying-to-the-university/",
+  "intakes": [
+   "January"
+  ],
+  "deadline": null,
+  "deadline_note": "The international page lists only the January 2027 intake: apply by 31 Oct 2026 (nursing/allied health earlier); no later intake deadline is published there.",
+  "tuition_intl": {
+   "amount": 17600,
+   "currency": "GBP",
+   "per": "year",
+   "note": "Most undergraduate courses, same for 2026/27 and 2027/28. Allied health and primary education GBP 18,700; nursing GBP 19,800."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry grades are set per course and by country. The IB Diploma with English at Higher Level and GCSE/O Level English grade C are accepted as English proof. The Study Group International Study Centre runs a Foundation Year and International Year One.",
+   "ka": "მისაღები ქულები კურსისა და ქვეყნის მიხედვით განისაზღვრება. ინგლისურის დასადასტურებლად მიიღება IB დიპლომი ინგლისურით უმაღლეს დონეზე და GCSE/O Level ინგლისური, ქულა C. Study Group-ის საერთაშორისო სასწავლო ცენტრი გთავაზობთ Foundation Year-სა და International Year One-ს.",
+   "ar": "تُحدَّد درجات القبول لكل مقرر ولكل بلد. يُقبل دبلوم IB مع الإنجليزية على المستوى العالي، وشهادة GCSE/O Level في الإنجليزية بدرجة C كإثبات للغة. ويقدّم مركز الدراسات الدولي (Study Group) سنة تأسيسية وسنة أولى دولية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 87,
+  "duolingo_min": null,
+  "other_tests": [
+   "PTE Academic 59"
+  ],
+  "fields": [
+   "business",
+   "engineering",
+   "arts-design",
+   "education",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Music",
+    "Business",
+    "Education",
+    "Nursing and health"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მუსიკა",
+    "ბიზნესი",
+    "განათლება",
+    "მედდობა და ჯანდაცვა"
+   ],
+   "ar": [
+    "الهندسة",
+    "الموسيقى",
+    "الأعمال",
+    "التربية",
+    "التمريض والصحة"
+   ]
+  },
+  "summary": {
+   "en": "Huddersfield is a public university in West Yorkshire, England. International undergraduate fees are GBP 17,600 a year for most courses, with merit scholarships up to GBP 4,000 a year.",
+   "ka": "ჰადერსფილდი ინგლისში, დასავლეთ იორკშირში მდებარე საჯარო უნივერსიტეტია. უცხოელებისთვის საბაკალავრო საფასური უმეტეს კურსზე წელიწადში 17 600 გირვანქა სტერლინგია; დამსახურების სტიპენდია წელიწადში 4 000 გირვანქამდეა.",
+   "ar": "هيدرزفيلد جامعة حكومية في غرب يوركشاير بإنجلترا. الرسوم الدولية للبكالوريوس 17,600 جنيه إسترليني سنوياً لمعظم المقررات، مع منح تفوق تصل إلى 4,000 جنيه سنوياً."
+  },
+  "about": {
+   "en": "The University of Huddersfield is a public university in West Yorkshire. International applicants can apply directly, through UCAS, or through an official representative. The international page lists the January 2027 intake with an apply-by date of 31 October 2026. Teaching is in English: IELTS Academic 6.0 (no section below 5.5), TOEFL 87 or PTE 59 is the standard proof. Fees are GBP 17,600 a year for most courses in 2027/28. Pathway courses are available for applicants who need a foundation year.",
+   "ka": "ჰადერსფილდის უნივერსიტეტი დასავლეთ იორკშირის საჯარო უნივერსიტეტია. უცხოელებს შეუძლიათ განაცხადი უშუალოდ, UCAS-ით ან ოფიციალური წარმომადგენლის მეშვეობით წარადგინონ. საერთაშორისო გვერდზე მითითებულია 2027 წლის იანვრის მიღება, განაცხადის ბოლო ვადით 2026 წლის 31 ოქტომბერი. სწავლება ინგლისურია: სტანდარტულად საჭიროა IELTS Academic 6.0 (არცერთი ქვეტესტი 5.5-ზე დაბალი), TOEFL 87 ან PTE 59. 2027/28 წელს საფასური უმეტეს კურსზე წელიწადში 17 600 გირვანქაა. Foundation Year-ის საჭიროების შემთხვევაში არსებობს მოსამზადებელი პროგრამები.",
+   "ar": "جامعة هيدرزفيلد جامعة حكومية في غرب يوركشاير. يمكن للدوليين التقديم مباشرة أو عبر UCAS أو عبر ممثل رسمي للجامعة. تذكر الصفحة الدولية قبول يناير 2027 بموعد تقديم 31 أكتوبر 2026. التدريس بالإنجليزية، والإثبات المعتاد IELTS Academic 6.0 (دون أقل من 5.5 في أي مهارة) أو TOEFL 87 أو PTE 59. الرسوم 17,600 جنيه سنوياً لمعظم المقررات في 2027/28. تتوفر برامج تمهيدية لمن يحتاج سنة تأسيسية."
+  },
+  "aid_intl": {
+   "en": "A merit scholarship of GBP 2,000 to GBP 4,000 a year is awarded automatically to self-funded international students, and GBP 1,000 off year-one fees is offered for paying the deposit by 31 October 2026.",
+   "ka": "თვითდაფინანსებულ უცხოელ სტუდენტებს ავტომატურად ენიჭებათ დამსახურების სტიპენდია წელიწადში 2 000–4 000 გირვანქა; პირველი წლის საფასურზე 1 000 გირვანქის ფასდაკლება მოქმედებს, თუ დეპოზიტი 2026 წლის 31 ოქტომბრამდე გადაიხდება.",
+   "ar": "تُمنح منحة تفوق من 2,000 إلى 4,000 جنيه سنوياً تلقائياً للطلاب الدوليين الممولين ذاتياً، مع خصم 1,000 جنيه من رسوم السنة الأولى عند دفع الوديعة قبل 31 أكتوبر 2026."
+  },
+  "tests": {
+   "en": "IELTS Academic 6.0 overall with no section below 5.5, TOEFL iBT 87 (minimum sections R22 L21 S23 W21) or PTE Academic 59. Online and home-edition tests are not accepted.",
+   "ka": "IELTS Academic საერთო 6.0, არცერთი ნაწილი 5.5-ზე დაბალი; TOEFL iBT 87 (მინიმუმი ნაწილების მიხედვით R22 L21 S23 W21) ან PTE Academic 59. ონლაინ და Home Edition ტესტები არ მიიღება.",
+   "ar": "IELTS Academic بمعدل 6.0 دون أقل من 5.5 في أي جزء، أو TOEFL iBT بدرجة 87 (حدود الأجزاء R22 L21 S23 W21)، أو PTE Academic بدرجة 59. لا تُقبل الاختبارات عبر الإنترنت أو النسخة المنزلية."
+  },
+  "gpa_note": {
+   "en": "Entry grades depend on the course and on the applicant's country; use the entry requirements tool on the international pages.",
+   "ka": "მისაღები ქულები კურსსა და განმცხადებლის ქვეყანაზეა დამოკიდებული; გამოიყენეთ საერთაშორისო გვერდზე არსებული მოთხოვნების ინსტრუმენტი.",
+   "ar": "تعتمد درجات القبول على المقرر وبلد المتقدم؛ استخدم أداة متطلبات القبول في الصفحات الدولية."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებების ამონაწერი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test result",
+     "ka": "ინგლისური ენის ტესტის შედეგი",
+     "ar": "نتيجة اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Personal statement",
+     "ka": "პირადი განცხადება (მოტივაციის წერილი)",
+     "ar": "بيان شخصي"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV (if you have work experience)",
+     "ka": "CV (სამუშაო გამოცდილების არსებობისას)",
+     "ar": "سيرة ذاتية (عند وجود خبرة عملية)"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "International merit scholarship (undergraduate)",
+    "url": "https://www.hud.ac.uk/international/scholarships/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "uk",
+   "england",
+   "huddersfield",
+   "yorkshire",
+   "scholarship",
+   "foundation year"
+  ],
+  "sources": [
+   "https://hud.ac.uk/international/",
+   "https://www.hud.ac.uk/international/applying-to-the-university/",
+   "https://www.hud.ac.uk/international/courses-and-entry-requirements/international-entry-requirements/",
+   "https://www.hud.ac.uk/international/fees-and-funding/",
+   "https://www.hud.ac.uk/international/scholarships/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-jyvaskyla",
+  "name": {
+   "en": "University of Jyväskylä",
+   "ka": "იუვესკიულის უნივერსიტეტი",
+   "ar": "جامعة يوفاسكولا"
+  },
+  "iso": "FI",
+  "city": "Jyväskylä",
+  "lat": 62.236,
+  "lon": 25.738,
+  "type": "public",
+  "website": "https://www.jyu.fi",
+  "platform": "Studyinfo.fi (Finland's national joint application, spring round)",
+  "application_url": "https://www.jyu.fi/en/study-with-us/bachelors-degree-programmes",
+  "intakes": [
+   "August"
+  ],
+  "deadline": null,
+  "deadline_note": "The application period for the 2027 intake opens in January 2027 on Studyinfo.fi; the closing date is not given on the pages reviewed.",
+  "tuition_intl": {
+   "amount": 10000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Non-EU/EEA students, 2027 intake: EUR 10,000 for Business Innovation and Sustainability and Early Childhood Education; EUR 16,000 for Immersive Software Engineering and AI. EUR 1,500 early-bird discount in year one."
+  },
+  "acceptance_rate": null,
+  "students": 15200,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Finnish"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Applicants need a secondary education qualification that gives access to bachelor-level studies in Finland, plus proven English. Depending on the previous qualification, a SAT result may be needed; the programme admission criteria on Studyinfo.fi give the details.",
+   "ka": "განმცხადებელს სჭირდება საშუალო განათლების კვალიფიკაცია, რომელიც ფინეთში ბაკალავრის დონეზე სწავლის უფლებას იძლევა, და ინგლისურის დადასტურება. წინა კვალიფიკაციის მიხედვით შეიძლება SAT-ის შედეგიც იყოს საჭირო; დეტალები პროგრამის მიღების კრიტერიუმებშია Studyinfo.fi-ზე.",
+   "ar": "يلزم مؤهل ثانوي يتيح الدراسة الجامعية الأولى في فنلندا مع إثبات الإنجليزية. وبحسب المؤهل السابق قد تُطلب نتيجة SAT؛ وتوجد التفاصيل في معايير القبول للبرنامج على Studyinfo.fi."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "SAT (for some qualifications)"
+  ],
+  "fields": [
+   "computer-science",
+   "education",
+   "business",
+   "natural-sciences",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Information technology",
+    "Sport and health sciences",
+    "Music",
+    "Sciences"
+   ],
+   "ka": [
+    "განათლება",
+    "ინფორმაციული ტექნოლოგიები",
+    "სპორტისა და ჯანმრთელობის მეცნიერებები",
+    "მუსიკა",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "التربية",
+    "تقنية المعلومات",
+    "علوم الرياضة والصحة",
+    "الموسيقى",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "Jyväskylä is a public university in central Finland with about 15,200 students. Non-EU students pay EUR 10,000 to 16,000 a year for the English-taught bachelor programmes.",
+   "ka": "იუვესკიულა ცენტრალურ ფინეთში მდებარე საჯარო უნივერსიტეტია, დაახლოებით 15 200 სტუდენტით. ევროკავშირის გარეთ მყოფი სტუდენტები ინგლისურენოვან საბაკალავრო პროგრამებში წელიწადში 10 000–16 000 ევროს იხდიან.",
+   "ar": "يوفاسكولا جامعة حكومية في وسط فنلندا فيها نحو 15,200 طالب. يدفع الطلاب من خارج الاتحاد الأوروبي 10,000 إلى 16,000 يورو سنوياً في برامج البكالوريوس الإنجليزية."
+  },
+  "about": {
+   "en": "The University of Jyväskylä is a public university with more than 15,200 students and six faculties. Three bachelor programmes are open to non-EU applicants in English: Business Innovation and Sustainability, Early Childhood Education and Immersive Software Engineering and AI. Each is 180 ECTS (three years) and starts in August. Applications go through Studyinfo.fi in January. Non-EU/EEA students pay tuition of EUR 10,000 to 16,000 a year; a partial scholarship applies from year two.",
+   "ka": "იუვესკიულის უნივერსიტეტი საჯარო უნივერსიტეტია, 15 200-ზე მეტი სტუდენტით და ექვსი ფაკულტეტით. ევროკავშირს გარეთ მყოფი განმცხადებლებისთვის ინგლისურად ღიაა სამი საბაკალავრო პროგრამა: ბიზნეს-ინოვაცია და მდგრადობა, ადრეული ბავშვობის განათლება და ინტერაქტიული პროგრამული ინჟინერია და AI. თითოეული 180 ECTS-ია (სამი წელი) და აგვისტოში იწყება. განაცხადი იანვარში Studyinfo.fi-ზე შეიტანება. ევროკავშირისა და EEA-ს გარეთ მყოფი სტუდენტები წელიწადში 10 000–16 000 ევროს იხდიან; მეორე წლიდან მოქმედებს ნაწილობრივი სტიპენდია.",
+   "ar": "جامعة يوفاسكولا جامعة حكومية فيها أكثر من 15,200 طالب وست كليات. تتاح ثلاثة برامج بكالوريوس بالإنجليزية للمتقدمين من خارج الاتحاد الأوروبي: الابتكار في الأعمال والاستدامة، وتعليم الطفولة المبكرة، وهندسة البرمجيات الغامرة والذكاء الاصطناعي. مدة كل برنامج 180 نقطة ECTS (ثلاث سنوات) ويبدأ في أغسطس. يتم التقديم عبر Studyinfo.fi في يناير. يدفع الطلاب من خارج الاتحاد الأوروبي والمنطقة الاقتصادية الأوروبية 10,000 إلى 16,000 يورو سنوياً، مع منحة جزئية من السنة الثانية."
+  },
+  "aid_intl": {
+   "en": "A EUR 1,500 early-bird discount applies in year one; from year two a JYU Scholarship covers EUR 3,000 to 6,000 of the fee if enough credits are earned (55 ECTS a year). No fully funded scholarships are offered.",
+   "ka": "პირველ წელს მოქმედებს 1 500 ევროს ადრეული გადახდის ფასდაკლება; მეორე წლიდან JYU-ს სტიპენდია ფარავს საფასურის 3 000–6 000 ევროს, თუ საკმარისი კრედიტებია მიღებული (წელიწადში 55 ECTS). სრულად დაფინანსებული სტიპენდიები არ არსებობს.",
+   "ar": "يُطبَّق خصم تسجيل مبكر قدره 1,500 يورو في السنة الأولى؛ ومن السنة الثانية تغطي منحة JYU ما بين 3,000 و6,000 يورو من الرسوم إذا أُنجزت الساعات الكافية (55 ECTS سنوياً). لا تتوفر منح بتمويل كامل."
+  },
+  "tests": {
+   "en": "Proven English skills are required; scores are in each programme's admission criteria on Studyinfo.fi. A SAT result may be needed depending on the previous qualification.",
+   "ka": "საჭიროა ინგლისურის დადასტურებული ცოდნა; ქულები თითოეული პროგრამის მიღების კრიტერიუმებშია Studyinfo.fi-ზე. წინა კვალიფიკაციის მიხედვით შეიძლება SAT-იც იყოს საჭირო.",
+   "ar": "يلزم إثبات إتقان الإنجليزية؛ وتوجد الدرجات في معايير القبول لكل برنامج على Studyinfo.fi. وقد تُطلب نتيجة SAT بحسب المؤهل السابق."
+  },
+  "gpa_note": {
+   "en": "Grade requirements are in the programme admission criteria on Studyinfo.fi; they are not on the pages reviewed.",
+   "ka": "ქულების მოთხოვნები პროგრამის მიღების კრიტერიუმებშია Studyinfo.fi-ზე და განხილულ გვერდებზე არ არის.",
+   "ar": "متطلبات الدرجات في معايير القبول للبرنامج على Studyinfo.fi ولم ترد في الصفحات التي روجعت."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებების ამონაწერი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test result",
+     "ka": "ინგლისური ენის ტესტის შედეგი",
+     "ar": "نتيجة اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "SAT result (depending on previous qualification)",
+     "ka": "SAT-ის შედეგი (წინა კვალიფიკაციის მიხედვით)",
+     "ar": "نتيجة SAT (بحسب المؤهل السابق)"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "JYU Scholarship (years 2 and 3) and early-bird discount",
+    "url": "https://www.jyu.fi/en/study-with-us/tuition-fees-and-other-financial-matters",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "finland",
+   "jyvaskyla",
+   "english-taught",
+   "tuition fee",
+   "studyinfo",
+   "education"
+  ],
+  "sources": [
+   "https://www.jyu.fi/en",
+   "https://www.jyu.fi/en/study-with-us/bachelors-degree-programmes",
+   "https://www.jyu.fi/en/study-with-us/tuition-fees-and-other-financial-matters",
+   "https://www.jyu.fi/en/study-with-us/bachelors-degree-programmes/bachelors-degree-in-early-childhood-education",
+   "https://www.jyu.fi/en/about-us/introduction-and-key-figures"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-cyprus-ucy",
+  "name": {
+   "en": "University of Cyprus (UCY)",
+   "ka": "კვიპროსის უნივერსიტეტი (UCY)",
+   "ar": "جامعة قبرص (UCY)"
+  },
+  "iso": "CY",
+  "city": "Nicosia",
+  "lat": 35.147,
+  "lon": 33.411,
+  "type": "public",
+  "website": "https://www.ucy.ac.cy",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The university website returned an access error (403) to the fetch tool; no admission data could be read from official pages.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Not available from official pages."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published on the pages reviewed.",
+   "ka": "განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي روجعت."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "natural-sciences",
+   "social-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Humanities",
+    "Natural sciences",
+    "Social sciences",
+    "Engineering"
+   ],
+   "ka": [
+    "ჰუმანიტარული მეცნიერებები",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "სოციალური მეცნიერებები",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "العلوم الإنسانية",
+    "العلوم الطبيعية",
+    "العلوم الاجتماعية",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "The University of Cyprus is the main public university in Nicosia. Its website blocked automated access, so no admission or fee data could be confirmed.",
+   "ka": "კვიპროსის უნივერსიტეტი ნიკოსიის მთავარი საჯარო უნივერსიტეტია. მისმა საიტმა ავტომატური წვდომა დაბლოკა, ამიტომ მიღებისა და საფასურის მონაცემები ვერ დადასტურდა.",
+   "ar": "جامعة قبرص هي الجامعة الحكومية الرئيسية في نيقوسيا. حجب موقعها الوصول الآلي، لذا لم يمكن تأكيد بيانات القبول والرسوم."
+  },
+  "about": {
+   "en": "The University of Cyprus (UCY) is a public university in Nicosia. Its official website could not be read by the research tool, so deadlines, tuition for non-EU applicants, language of teaching and entry requirements are not confirmed here. Check the UCY admissions pages directly before applying.",
+   "ka": "კვიპროსის უნივერსიტეტი (UCY) ნიკოსიაში მდებარე საჯარო უნივერსიტეტია. მისი ოფიციალური საიტი კვლევით ინსტრუმენტს არ გაეხსნა, ამიტომ ვადები, არა-ევროკავშირელთა საფასური, სწავლების ენა და მიღების პირობები აქ დადასტურებული არ არის. განაცხადამდე გადაამოწმეთ UCY-ის სადმისიო გვერდები.",
+   "ar": "جامعة قبرص (UCY) جامعة حكومية في نيقوسيا. لم تتمكن أداة البحث من قراءة موقعها الرسمي، لذلك لم تُؤكَّد هنا المواعيد ورسوم غير الأوروبيين ولغة التدريس وشروط القبول. تحقق من صفحات القبول في UCY مباشرة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages reviewed.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لا توجد في الصفحات التي روجعت مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not published on the pages reviewed.",
+   "ka": "განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي روجعت."
+  },
+  "gpa_note": {
+   "en": "Not published on the pages reviewed.",
+   "ka": "განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي روجعت."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "cyprus",
+   "nicosia",
+   "public"
+  ],
+  "sources": [
+   "https://www.ucy.ac.cy"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "chandigarh-university",
+  "name": {
+   "en": "Chandigarh University",
+   "ka": "ჩანდიგარჰის უნივერსიტეტი",
+   "ar": "جامعة شانديغار"
+  },
+  "iso": "IN",
+  "city": "Mohali",
+  "lat": 30.771,
+  "lon": 76.576,
+  "type": "private",
+  "website": "https://www.cuchd.in",
+  "platform": "International admissions portal (international.cuchd.in)",
+  "application_url": "https://international.cuchd.in",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No dates are published on the pages reviewed.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "INR",
+   "per": "year",
+   "note": "The fee table on the university site did not load; no figure confirmed."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published on the pages reviewed.",
+   "ka": "განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي روجعت."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Management"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "მენეჯმენტი"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "الإدارة"
+   ]
+  },
+  "summary": {
+   "en": "Chandigarh University is a private university in Mohali, Punjab, with a separate portal for international applicants. Fees, dates and entry rules were not readable on the pages reviewed.",
+   "ka": "ჩანდიგარჰის უნივერსიტეტი პენჯაბის მოჰალიში მდებარე კერძო უნივერსიტეტია, რომელსაც უცხოელი განმცხადებლებისთვის ცალკე პორტალი აქვს. საფასური, ვადები და მიღების წესები განხილულ გვერდებზე ვერ წაიკითხა.",
+   "ar": "جامعة شانديغار جامعة خاصة في موهالي بولاية البنجاب ولها بوابة مستقلة للمتقدمين الدوليين. لم تظهر الرسوم والمواعيد وشروط القبول في الصفحات التي روجعت."
+  },
+  "about": {
+   "en": "Chandigarh University is a private university in Mohali, near Chandigarh. International applicants use the international admissions site, where the helpline is +91 7626862200 and the email is international@cumail.in. The pages reviewed list pre-arrival, visa and FRRO guidance but do not show fees, dates, English scores or school-qualification rules. Confirm all of these with the international office before applying.",
+   "ka": "ჩანდიგარჰის უნივერსიტეტი კერძო უნივერსიტეტია მოჰალიში, ჩანდიგარჰთან ახლოს. უცხოელი განმცხადებლები იყენებენ საერთაშორისო სადმისიო საიტს; ცხელი ხაზია +91 7626862200, ელფოსტა — international@cumail.in. განხილულ გვერდებზე არის ჩამოსვლამდელი, სავიზო და FRRO ინფორმაცია, მაგრამ არ ჩანს საფასური, ვადები, ინგლისურის ქულები და ატესტატის წესები. ეს ყველაფერი განაცხადამდე საერთაშორისო ოფისთან დაადასტურეთ.",
+   "ar": "جامعة شانديغار جامعة خاصة في موهالي قرب شانديغار. يستخدم المتقدمون الدوليون موقع القبول الدولي، وخط المساعدة +91 7626862200 والبريد international@cumail.in. تعرض الصفحات التي روجعت إرشادات ما قبل الوصول والتأشيرة وFRRO لكنها لا تعرض الرسوم والمواعيد ودرجات الإنجليزية وقواعد المؤهلات المدرسية. أكّد كل ذلك مع المكتب الدولي قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages reviewed.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لا توجد في الصفحات التي روجعت مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not published on the pages reviewed.",
+   "ka": "განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي روجعت."
+  },
+  "gpa_note": {
+   "en": "Not published on the pages reviewed.",
+   "ka": "განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي روجعت."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებების ამონაწერი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "mohali",
+   "chandigarh",
+   "private",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.cuchd.in/international/international.php",
+   "https://international.cuchd.in"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universite-laval",
+  "name": {
+   "en": "Université Laval",
+   "ka": "ლავალის უნივერსიტეტი",
+   "ar": "جامعة لافال"
+  },
+  "iso": "CA",
+  "city": "Québec",
+  "lat": 46.781,
+  "lon": -71.274,
+  "type": "public",
+  "website": "https://www.ulaval.ca",
+  "platform": "Direct online application (monPortail)",
+  "application_url": "https://www.ulaval.ca/en/admission/apply-for-admission",
+  "intakes": [
+   "September",
+   "January",
+   "May"
+  ],
+  "deadline": "2027-02-01",
+  "deadline_note": "International undergraduate deadline for the fall 2027 term (unlimited-enrolment programmes); limited-enrolment programmes such as medicine and pharmacy have earlier dates (1 November of the previous year).",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "CAD",
+   "per": "year",
+   "note": "International tuition was not found on the pages reviewed."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "IB holders apply directly to most programmes (some science, forestry and agriculture programmes need a qualifying year). A-level applicants need three relevant A Levels. A 12-year diploma requires a 30-credit qualifying year. Check the country equivalence page for Georgia or Qatar.",
+   "ka": "IB-ის მფლობელები უმეტეს პროგრამაზე უშუალოდ აგზავნიან განაცხადს (ზოგ საბუნებისმეტყველო, სატყეო და აგრარულ პროგრამაზე საჭიროა მოსამზადებელი წელი). A-level-ის განმცხადებლებს სჭირდებათ სამი შესაბამისი A Level. 12-წლიანი დიპლომის შემთხვევაში საჭიროა 30-კრედიტიანი მოსამზადებელი წელი. საქართველოსა და ყატარის შესაბამისობა შეამოწმეთ ქვეყნების ექვივალენტობის გვერდზე.",
+   "ar": "يتقدّم حاملو IB مباشرة لمعظم البرامج (بعض برامج العلوم والغابات والزراعة تتطلب سنة تأهيلية). يحتاج حاملو A-level إلى ثلاث مواد A Level ذات صلة. الشهادة التي تغطي 12 سنة دراسية تتطلب سنة تأهيلية بـ30 ساعة معتمدة. راجع صفحة معادلة الشهادات حسب البلد لجورجيا أو قطر."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TCF tout public (French)"
+  ],
+  "fields": [
+   "environment",
+   "medicine-health",
+   "natural-sciences",
+   "business",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Forestry and geomatics",
+    "Agriculture and food",
+    "Health sciences",
+    "Business",
+    "Law"
+   ],
+   "ka": [
+    "სატყეო მეურნეობა და გეომატიკა",
+    "სოფლის მეურნეობა და საკვები",
+    "ჯანმრთელობის მეცნიერებები",
+    "ბიზნესი",
+    "სამართალი"
+   ],
+   "ar": [
+    "الغابات والجيوماتكس",
+    "الزراعة والأغذية",
+    "علوم الصحة",
+    "الأعمال",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "Université Laval is a public French-language university in Québec City. International undergraduates apply online by 1 February for the fall term and must prove French.",
+   "ka": "ლავალის უნივერსიტეტი კვებეკ-სიტიში მდებარე ფრანგულენოვანი საჯარო უნივერსიტეტია. უცხოელი საბაკალავრო განმცხადებლები შემოდგომის სემესტრისთვის 1 თებერვლამდე ონლაინ აგზავნიან განაცხადს და ფრანგული უნდა დაადასტურონ.",
+   "ar": "جامعة لافال جامعة حكومية ناطقة بالفرنسية في مدينة كيبيك. يقدّم طلاب البكالوريوس الدوليون طلبهم إلكترونياً قبل 1 فبراير للفصل الخريفي ويجب أن يثبتوا إتقان الفرنسية."
+  },
+  "about": {
+   "en": "Université Laval is a public university in Québec City where teaching is mainly in French. International applicants apply online through monPortail; for fall 2027 the deadline is 1 February 2027, and the application fee is CAD 101.49 for new applicants. Non-French speakers must prove French with the TCF tout public. IB and A-level diplomas are accepted; 12-year diplomas need a qualifying year. International tuition was not found on the pages reviewed.",
+   "ka": "ლავალის უნივერსიტეტი კვებეკ-სიტიში მდებარე საჯარო უნივერსიტეტია, სადაც სწავლება ძირითადად ფრანგულია. უცხოელი განმცხადებლები განაცხადს ონლაინ monPortail-ით აგზავნიან; 2027 წლის შემოდგომისთვის ბოლო ვადაა 2027 წლის 1 თებერვალი, ახალი განმცხადებლის გადასახადი კი 101,49 კანადური დოლარია. არაფრანგულენოვანებმა ფრანგული TCF tout public-ით უნდა დაადასტურონ. IB და A-level დიპლომები მიიღება; 12-წლიანი დიპლომის შემთხვევაში საჭიროა მოსამზადებელი წელი. უცხოელთა საფასური განხილულ გვერდებზე ვერ მოიძებნა.",
+   "ar": "جامعة لافال جامعة حكومية في مدينة كيبيك، والتدريس فيها بالفرنسية في الغالب. يقدّم الدوليون طلبهم إلكترونياً عبر monPortail؛ والموعد النهائي لخريف 2027 هو 1 فبراير 2027، ورسوم التقديم 101.49 دولاراً كندياً للمتقدمين الجدد. على غير الناطقين بالفرنسية إثبات إتقانها عبر TCF tout public. تُقبل شهادات IB وA-level، وتتطلب الشهادة ذات الـ12 سنة سنة تأهيلية. لم تُعثر على الرسوم الدولية في الصفحات التي روجعت."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students was found on the pages reviewed; the university lists scholarships and bursaries at bbaf.ulaval.ca.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი დახმარება განხილულ გვერდებზე ვერ მოიძებნა; სტიპენდიები და გრანტები bbaf.ulaval.ca-ზეა მითითებული.",
+   "ar": "لم تُعثر في الصفحات التي روجعت على مساعدات مخصصة لطلاب البكالوريوس الدوليين؛ وتُدرج الجامعة المنح والمساعدات على bbaf.ulaval.ca."
+  },
+  "tests": {
+   "en": "Non-French speakers must take the TCF tout public (listening, grammar, reading, writing) within two years of applying; minimum scores are not on the page reviewed.",
+   "ka": "არაფრანგულენოვნებმა განაცხადამდე ორი წლის განმავლობაში უნდა ჩააბარონ TCF tout public (მოსმენა, გრამატიკა, კითხვა, წერა); მინიმალური ქულები განხილულ გვერდზე არ არის.",
+   "ar": "على غير الناطقين بالفرنسية أداء TCF tout public (استماع، قواعد، قراءة، كتابة) خلال سنتين قبل التقديم؛ ولم ترد الدرجات الدنيا في الصفحة التي روجعت."
+  },
+  "gpa_note": {
+   "en": "Some programmes list prerequisite college courses in their description; contact the Registrar's Office (reg@reg.ulaval.ca) for grade requirements.",
+   "ka": "ზოგ პროგრამის აღწერაში მითითებულია წინასწარი საკოლეჯო კურსები; ქულების მოთხოვნებისთვის დაუკავშირდით რეგისტრატურას (reg@reg.ulaval.ca).",
+   "ar": "تذكر بعض البرامج في وصفها مقررات تمهيدية جامعية؛ لمتطلبات الدرجات تواصل مع مكتب التسجيل (reg@reg.ulaval.ca)."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებების ამონაწერი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of French (TCF tout public) for non-French speakers",
+     "ka": "ფრანგული ენის ცოდნის დამადასტურებელი დოკუმენტი (TCF tout public)",
+     "ar": "إثبات إتقان اللغة الفرنسية (TCF tout public) لغير الناطقين بها"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "canada",
+   "quebec",
+   "french",
+   "laval",
+   "forestry"
+  ],
+  "sources": [
+   "https://www.ulaval.ca/en",
+   "https://www.ulaval.ca/en/admission/apply-for-admission",
+   "https://www.ulaval.ca/en/admission/apply-for-admission/admission-application-deadlines",
+   "https://www.ulaval.ca/en/admission/apply-for-admission/application-fee",
+   "https://www.ulaval.ca/en/admission/prepare-your-application/admission-requirements-each-type-applicant",
+   "https://www.ulaval.ca/en/admission/prepare-your-application/french-proficiency"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "asia-pacific-university-of-technology-and-innovation-apu-malaysia",
+  "name": {
+   "en": "Asia Pacific University of Technology and Innovation (APU) Malaysia",
+   "ka": "აზია-პასიფიკის ტექნოლოგიისა და ინოვაციების უნივერსიტეტი (APU), მალაიზია",
+   "ar": "جامعة آسيا والمحيط الهادئ للتكنولوجيا والابتكار (APU) ماليزيا"
+  },
+  "iso": "MY",
+  "city": "Kuala Lumpur",
+  "lat": 3.055,
+  "lon": 101.7,
+  "type": "private",
+  "website": "https://www.apu.edu.my",
+  "platform": "Direct online application (admissions.apu.edu.my) or through an APU counsellor or representative",
+  "application_url": "https://www.apu.edu.my/international-students-application-procedures",
+  "intakes": [
+   "March",
+   "July",
+   "November"
+  ],
+  "deadline": null,
+  "deadline_note": "No fixed deadline. APU advises applying 6-8 weeks before the intake and says international students must apply about two months ahead. Degree Level 1 starts 24 Nov 2026, 25 Mar 2027 and 6 Jul 2027.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "MYR",
+   "per": "year",
+   "note": "Tuition is on individual programme pages. A non-refundable pre-arrival processing fee of RM 3,600 covers visa processing, airport pick-up and initial accommodation."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry rules by qualification are on programme pages. APU's scholarship table recognises A-Levels, O-Levels/IGCSE, IB Diploma and IB MYP results.",
+   "ka": "კვალიფიკაციების მიხედვით მოთხოვნები პროგრამის გვერდებზეა. APU-ის სტიპენდიების ცხრილში აღიარებულია A-Level, O-Level/IGCSE, IB დიპლომისა და IB MYP შედეგები.",
+   "ar": "شروط القبول حسب المؤهل مذكورة في صفحات البرامج. يعترف جدول منح APU بنتائج A-Levels وO-Levels/IGCSE ودبلوم IB وIB MYP."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "MUET"
+  ],
+  "fields": [
+   "computer-science",
+   "engineering",
+   "business",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Computing",
+    "Engineering",
+    "Business",
+    "Design",
+    "Actuarial studies"
+   ],
+   "ka": [
+    "კომპიუტინგი",
+    "ინჟინერია",
+    "ბიზნესი",
+    "დიზაინი",
+    "აქტუარული მეცნიერება"
+   ],
+   "ar": [
+    "الحوسبة",
+    "الهندسة",
+    "الأعمال",
+    "التصميم",
+    "العلوم الاكتوارية"
+   ]
+  },
+  "summary": {
+   "en": "APU is a private technology and business university in Kuala Lumpur with three bachelor intakes a year. International students can get a 10-30% tuition discount based on A-Level, O-Level or IB results.",
+   "ka": "APU ქუალა-ლუმპურის კერძო ტექნოლოგიისა და ბიზნესის უნივერსიტეტია, წელიწადში სამი საბაკალავრო მიღებით. უცხოელ სტუდენტებს A-Level-ის, O-Level-ის ან IB-ის შედეგების მიხედვით 10–30%-იანი ფასდაკლება შეიძლება მიეცეთ.",
+   "ar": "APU جامعة خاصة للتكنولوجيا والأعمال في كوالالمبور وتقبل ثلاث دفعات للبكالوريوس سنوياً. يمكن للطلاب الدوليين الحصول على خصم 10-30% من الرسوم بحسب نتائج A-Level أو O-Level أو IB."
+  },
+  "about": {
+   "en": "APU is a private university in Kuala Lumpur. International students apply online or through an APU counsellor, receive an offer, pay the RM 3,600 pre-arrival fee, and APU then files the student visa through EMGS (about 2-3 weeks). Bachelor Level 1 intakes are in November, March and July. Documents are certified school certificates, a passport copy and an English test (IELTS, TOEFL, PTE or MUET). Tuition is listed per programme.",
+   "ka": "APU ქუალა-ლუმპურის კერძო უნივერსიტეტია. უცხოელი სტუდენტები განაცხადს ონლაინ ან APU-ის კონსულტანტის მეშვეობით აგზავნიან, იღებენ შეთავაზებას, იხდიან ჩამოსვლამდელ გადასახადს 3 600 რინგიტს, რის შემდეგაც APU სტუდენტურ ვიზას EMGS-ით აფორმებს (დაახლოებით 2–3 კვირა). ბაკალავრის პირველი დონის მიღებებია ნოემბერში, მარტსა და ივლისში. საჭირო დოკუმენტებია დამოწმებული ატესტატი, პასპორტის ასლი და ინგლისურის ტესტი (IELTS, TOEFL, PTE ან MUET). სწავლის საფასური პროგრამების მიხედვითაა მითითებული.",
+   "ar": "APU جامعة خاصة في كوالالمبور. يقدّم الطلاب الدوليون طلبهم إلكترونياً أو عبر مستشار APU، ثم يستلمون العرض ويدفعون رسوم ما قبل الوصول 3,600 رينغيت، وتتولى APU طلب تأشيرة الطالب عبر EMGS (نحو 2-3 أسابيع). تبدأ دفعات المستوى الأول للبكالوريوس في نوفمبر ومارس ويوليو. المستندات: شهادات مدرسية مصدّقة ونسخة جواز السفر واختبار إنجليزي (IELTS أو TOEFL أو PTE أو MUET). الرسوم الدراسية مذكورة لكل برنامج."
+  },
+  "aid_intl": {
+   "en": "The APU International Students Scholarships and Merit Awards give a 10%, 20% or 30% tuition discount by A-Level, O-Level/IGCSE, IB Diploma or IB MYP grades; the 2026 round closed on 31 October 2026.",
+   "ka": "APU-ის საერთაშორისო სტუდენტთა სტიპენდიები და დამსახურების ჯილდოები სწავლის საფასურზე 10%, 20% ან 30%-იან ფასდაკლებას იძლევა A-Level-ის, O-Level/IGCSE-ს, IB დიპლომის ან IB MYP-ის შეფასებების მიხედვით; 2026 წლის რაუნდი 2026 წლის 31 ოქტომბერს დაიხურა.",
+   "ar": "تمنح منح APU للطلاب الدوليين وجوائز التفوق خصماً 10% أو 20% أو 30% من الرسوم بحسب درجات A-Level أو O-Level/IGCSE أو دبلوم IB أو IB MYP؛ وأُغلقت دورة 2026 في 31 أكتوبر 2026."
+  },
+  "tests": {
+   "en": "An English test (IELTS, TOEFL, PTE or MUET) is needed to assess English; minimum scores are not on the pages reviewed.",
+   "ka": "ინგლისურის შესაფასებლად საჭიროა ტესტი (IELTS, TOEFL, PTE ან MUET); მინიმალური ქულები განხილულ გვერდებზე არ არის.",
+   "ar": "يلزم اختبار إنجليزي (IELTS أو TOEFL أو PTE أو MUET) لتقييم اللغة؛ ولم تُنشر الدرجات الدنيا في الصفحات التي روجعت."
+  },
+  "gpa_note": {
+   "en": "Applicants must meet the programme entry requirements with actual results; scholarship bands start at A-Level ABB/AAC, IB 26 and O-Level 4-5 As.",
+   "ka": "განმცხადებელმა პროგრამის მოთხოვნები რეალური შედეგებით უნდა დააკმაყოფილოს; სტიპენდიის დონეები იწყება A-Level ABB/AAC-დან, IB 26-დან და O-Level 4–5 A-დან.",
+   "ar": "يجب تلبية شروط البرنامج بالنتائج الفعلية؛ وتبدأ شرائح المنح من A-Level بدرجات ABB/AAC وIB بـ26 وO-Level بـ4-5 درجات A."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებების ამონაწერი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test result",
+     "ka": "ინგლისური ენის ტესტის შედეგი",
+     "ar": "نتيجة اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photos",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية بحجم جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "APU International Students Scholarships & Merit Awards",
+    "url": "https://www.apu.edu.my/apu-international-students-scholarships-merit-awards",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "malaysia",
+   "kuala lumpur",
+   "apu",
+   "technology",
+   "scholarship",
+   "private"
+  ],
+  "sources": [
+   "https://www.apu.edu.my/",
+   "https://www.apu.edu.my/international-students-application-procedures",
+   "https://www.apu.edu.my/intake-calendar",
+   "https://www.apu.edu.my/apu-international-students-scholarships-merit-awards",
+   "https://www.apu.edu.my/fees-refund-policy"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "northumbria-university-at-newcastle",
+  "name": {
+   "en": "Northumbria University at Newcastle",
+   "ka": "ნორთამბრიის უნივერსიტეტი ნიუკასლში",
+   "ar": "جامعة نورثمبريا في نيوكاسل"
+  },
+  "iso": "GB",
+  "city": "Newcastle upon Tyne",
+  "lat": 54.977,
+  "lon": -1.607,
+  "type": "public",
+  "website": "https://www.northumbria.ac.uk",
+  "platform": "UCAS, direct online application, or an official education agent",
+  "application_url": "https://www.northumbria.ac.uk/international/international-application-guide/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Applications are open; the application guide refers to a separate Key Dates and Deadlines page that was not read.",
+  "tuition_intl": {
+   "amount": 19850,
+   "currency": "GBP",
+   "per": "year",
+   "note": "2027/28, same as 2026/27. GBP 21,500 for business, computing, engineering, applied science and sport; GBP 19,850 for most other subjects. May rise after year one."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry requirements are given on country pages (Qatar has one; Georgia is not listed). Undergraduates typically need GCSE English Language or an accepted equivalent. Pathway and extended degrees are available.",
+   "ka": "მისაღები მოთხოვნები ქვეყნების გვერდებზეა (ყატარისთვის არსებობს, საქართველო სიაში არ არის). საბაკალავრო განმცხადებლებს როგორც წესი სჭირდებათ GCSE ინგლისური ენა ან მისი აღიარებული ექვივალენტი. არსებობს მოსამზადებელი და გაფართოებული დიპლომები.",
+   "ar": "تُذكر شروط القبول في صفحات الدول (لقطر صفحة، أما جورجيا فغير مدرجة). يحتاج طلاب البكالوريوس عادةً إلى GCSE في اللغة الإنجليزية أو ما يعادلها. تتوفر برامج تمهيدية ودرجات ممتدة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "computer-science",
+   "law",
+   "arts-design",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Computer and information science",
+    "Law",
+    "Design",
+    "Engineering"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "კომპიუტერული და ინფორმაციული მეცნიერება",
+    "სამართალი",
+    "დიზაინი",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "الأعمال",
+    "علوم الحاسوب والمعلومات",
+    "القانون",
+    "التصميم",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "Northumbria is a public university in Newcastle, England. International undergraduate fees for 2027/28 are GBP 19,850 or GBP 21,500 a year, depending on the subject.",
+   "ka": "ნორთამბრია ინგლისში, ნიუკასლში მდებარე საჯარო უნივერსიტეტია. უცხოელებისთვის 2027/28 წელს საბაკალავრო საფასური საგნის მიხედვით წელიწადში 19 850 ან 21 500 გირვანქა სტერლინგია.",
+   "ar": "نورثمبريا جامعة حكومية في نيوكاسل بإنجلترا. الرسوم الدولية للبكالوريوس في 2027/28 هي 19,850 أو 21,500 جنيه إسترليني سنوياً بحسب التخصص."
+  },
+  "about": {
+   "en": "Northumbria University is a public university in Newcastle upon Tyne. International applicants apply through UCAS, directly on the university website, or through one of more than 150 official education agents. Teaching is in English, and IELTS Academic, TOEFL iBT, PTE Academic and Duolingo are accepted. Fees for 2027/28 are GBP 19,850 or GBP 21,500 a year by subject. Scholarships depend on the country the applicant lives in and are found with the university's scholarship search tool.",
+   "ka": "ნორთამბრიის უნივერსიტეტი ნიუკასლ-აპონ-ტაინის საჯარო უნივერსიტეტია. უცხოელი განმცხადებლები განაცხადს აგზავნიან UCAS-ით, უნივერსიტეტის საიტზე უშუალოდ ან 150-ზე მეტი ოფიციალური განათლების აგენტიდან ერთ-ერთის მეშვეობით. სწავლება ინგლისურია; მიიღება IELTS Academic, TOEFL iBT, PTE Academic და Duolingo. 2027/28 წელს საფასური საგნის მიხედვით წელიწადში 19 850 ან 21 500 გირვანქაა. სტიპენდიები განმცხადებლის საცხოვრებელი ქვეყნის მიხედვითაა და უნივერსიტეტის სტიპენდიების საძიებო ინსტრუმენტით მოიძებნება.",
+   "ar": "جامعة نورثمبريا جامعة حكومية في نيوكاسل أبون تاين. يتقدم الدوليون عبر UCAS أو مباشرة من موقع الجامعة أو عبر أحد أكثر من 150 وكيلاً تعليمياً رسمياً. التدريس بالإنجليزية، وتُقبل اختبارات IELTS Academic وTOEFL iBT وPTE Academic وDuolingo. الرسوم في 2027/28 هي 19,850 أو 21,500 جنيه سنوياً بحسب التخصص. تعتمد المنح على بلد إقامة المتقدم وتُعرف عبر أداة البحث عن المنح في الجامعة."
+  },
+  "aid_intl": {
+   "en": "Scholarships depend on the applicant's country of domicile and are found with the university's scholarship search tool; no single scheme is named on the page reviewed.",
+   "ka": "სტიპენდიები განმცხადებლის საცხოვრებელი ქვეყნის მიხედვით განისაზღვრება და უნივერსიტეტის სტიპენდიების საძიებო ინსტრუმენტით მოიძებნება; განხილულ გვერდზე კონკრეტული პროგრამა დასახელებული არ არის.",
+   "ar": "تعتمد المنح على بلد إقامة المتقدم وتُعرف عبر أداة البحث عن المنح في الجامعة؛ ولا يُذكر برنامج بعينه في الصفحة التي روجعت."
+  },
+  "tests": {
+   "en": "English proof can be IELTS Academic, TOEFL iBT (test centre), PTE Academic (test centre) or Duolingo; minimum scores are set per programme and are not on the page reviewed.",
+   "ka": "ინგლისურის დასადასტურებლად შეიძლება IELTS Academic, TOEFL iBT (ტესტ-ცენტრში), PTE Academic (ტესტ-ცენტრში) ან Duolingo; მინიმალური ქულები პროგრამის მიხედვით განისაზღვრება და განხილულ გვერდზე არ არის.",
+   "ar": "يمكن إثبات الإنجليزية عبر IELTS Academic أو TOEFL iBT (في مركز الاختبار) أو PTE Academic (في مركز الاختبار) أو Duolingo؛ وتُحدَّد الدرجات الدنيا لكل برنامج ولم ترد في الصفحة التي روجعت."
+  },
+  "gpa_note": {
+   "en": "Entry grades are set per course; some courses also use interviews or portfolios.",
+   "ka": "მისაღები ქულები კურსის მიხედვით განისაზღვრება; ზოგ კურსზე ასევე გამოიყენება გასაუბრება ან პორტფოლიო.",
+   "ar": "تُحدَّد درجات القبول لكل مقرر؛ وتعتمد بعض المقررات أيضاً على المقابلات أو ملفات الأعمال."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებების ამონაწერი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test result",
+     "ka": "ინგლისური ენის ტესტის შედეგი",
+     "ar": "نتيجة اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Personal statement",
+     "ka": "პირადი განცხადება (მოტივაციის წერილი)",
+     "ar": "بيان شخصي"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "uk",
+   "england",
+   "newcastle",
+   "northumbria",
+   "ucas",
+   "business",
+   "computing"
+  ],
+  "sources": [
+   "https://www.northumbria.ac.uk/",
+   "https://www.northumbria.ac.uk/international/international-application-guide/",
+   "https://www.northumbria.ac.uk/international/entry-requirements/",
+   "https://www.northumbria.ac.uk/international/english-language-centre/acceptable-english-qualifications-1/",
+   "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/international-fees-funding/international-ug-fees/",
+   "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/international-fees-funding/international-ug-funding/"
+  ],
+  "verified_at": "2026-11-01"
+ }
+]

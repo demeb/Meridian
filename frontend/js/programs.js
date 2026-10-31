@@ -244,6 +244,32 @@
         if (selectedId) deselect(); else refresh();
       });
     });
+    syncArrows();
+  }
+
+  /* arrow buttons either side of the type chips (not everyone scrolls sideways) */
+  function syncArrows() {
+    var wrap = document.getElementById('catsWrap');
+    var track = document.getElementById('typeChips');
+    if (!wrap || !track) return;
+    var max = track.scrollWidth - track.clientWidth;
+    var pos = Math.abs(track.scrollLeft);          // negative in right-to-left Arabic
+    wrap.classList.toggle('can-back', max > 4 && pos > 4);
+    wrap.classList.toggle('can-next', max > 4 && pos < max - 4);
+  }
+
+  function mountArrows() {
+    var wrap = document.getElementById('catsWrap');
+    var track = document.getElementById('typeChips');
+    if (!wrap || !track) return;
+    wrap.querySelectorAll('.cats-arrow').forEach(function (button) {
+      button.addEventListener('click', function () {
+        var dir = Number(button.getAttribute('data-dir')) * (document.documentElement.getAttribute('dir') === 'rtl' ? -1 : 1);
+        track.scrollBy({ left: dir * track.clientWidth * 0.7, behavior: 'smooth' });
+      });
+    });
+    track.addEventListener('scroll', syncArrows, { passive: true });
+    window.addEventListener('resize', syncArrows);
   }
 
   function paintSelect(id, table, key) {
@@ -706,6 +732,7 @@
     if (type) filters.type = type;
     ['host', 'region', 'cost', 'field'].forEach(function (key) { if (params.get(key)) filters[key] = params.get(key); });
     mountGlobe();
+    mountArrows();
 
     filters.q = params.get('q') || '';
     var searchInput = document.getElementById('programSearch');

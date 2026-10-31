@@ -153,6 +153,7 @@
     size();
 
     var api = { globe: globe };
+    el.__earth = api;             // for debugging in the console
 
     /* =================================================== hero */
     if (mode === 'hero') {
@@ -241,84 +242,121 @@
 
     /* =================================================== explorer */
     controls.autoRotateSpeed = 0.18;          // half the earlier speed
-    controls.minDistance = 112;
+    controls.minDistance = 118;
     controls.maxDistance = 520;
     controls.zoomSpeed = 0.8;
     globe.pointOfView({ lat: 34, lng: 22, altitude: 2.1 }, 0);
 
-    // Quality never drops when you zoom out: far away the bundled 4K image (with
-    // full anisotropic filtering) is sharper than low-level map tiles, so the
-    // NASA tile engine only takes over once you are close to the surface.
+    // One picture, no extra meshes: the 4K NASA image with every country's
+    // border and tint painted into it (a canvas used as the globe texture).
+    // Drawing 235 countries as 3D shapes cost ~8,000 draw calls a frame; now
+    // only the country under the pointer (and the chosen one) rises as a shape.
+    // No map-tile engine either: tiles left the globe black while loading.
     globe.globeImageUrl(TEX.day);
-    var tilesReady = false, tilesOn = false;
-    function crisp() {
+    var paper = document.createElement('canvas');
+    paper.width = 4096;
+    paper.height = 2048;
+    var baseImage = null, features = [], paintTimer = null;
+    loadImage(TEX.day).then(function (img) { baseImage = img; paintMap(); }).catch(function () {});
+
+    function trace(ctx, f) {
+      var g = f.geometry || {};
+      var polys = g.type === 'Polygon' ? [g.coordinates] : g.type === 'MultiPolygon' ? g.coordinates : [];
+      ctx.beginPath();
+      polys.forEach(function (rings) {
+        rings.forEach(function (ring) {
+          ring.forEach(function (pt, i) {
+            var x = (pt[0] + 180) / 360 * paper.width, y = (90 - pt[1]) / 180 * paper.height;
+            if (i) ctx.lineTo(x, y); else ctx.moveTo(x, y);
+          });
+          ctx.closePath();
+        });
+      });
+    }
+    function paintMap() {
       var material = globe.globeMaterial();
-      var max = globe.renderer().capabilities.getMaxAnisotropy();
-      if (material && material.map && material.map.anisotropy !== max) {
-        material.map.anisotropy = max;
-        material.map.needsUpdate = true;
+      if (!baseImage || !material || !material.map) return;
+      var ctx = paper.getContext('2d');
+      ctx.drawImage(baseImage, 0, 0, paper.width, paper.height);
+      ctx.lineJoin = 'round';
+      features.forEach(function (f) {
+        trace(ctx, f);
+        if (state.counts[f.properties.iso]) {
+          ctx.fillStyle = 'rgba(255, 215, 110, 0.16)';
+          ctx.fill('evenodd');
+        }
+        ctx.strokeStyle = 'rgba(255, 255, 255, 0.42)';
+        ctx.lineWidth = 1.6;
+        ctx.stroke();
+      });
+      if (material.map.image !== paper) {
+        material.map.image = paper;
+        material.map.anisotropy = globe.renderer().capabilities.getMaxAnisotropy();
       }
+      material.map.needsUpdate = true;
     }
-    function pickDetail() {
-      if (!tilesReady) return;
-      var alt = globe.pointOfView().altitude;
-      if (!tilesOn && alt < 0.9) {
-        tilesOn = true;
-        globe.globeTileEngineMaxLevel(GIBS_MAX)
-          .globeTileEngineUrl(function (x, y, level) { return GIBS + level + '/' + y + '/' + x + '.jpeg'; });
-      } else if (tilesOn && alt > 1.2) {
-        tilesOn = false;
-        globe.globeTileEngineUrl(null);
-        globe.globeImageUrl(TEX.day);
-        window.setTimeout(crisp, 400);
+    function repaintSoon() {
+      window.clearTimeout(paintTimer);
+      paintTimer = window.setTimeout(paintMap, 60);
+    }
+    globe.onGlobeReady(paintMap);
+
+    /* which country is at this lat/lng: bounding box first, then ray casting */
+    function inRing(ring, lng, lat) {
+      var inside = false;
+      for (var i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+        var xi = ring[i][0], yi = ring[i][1], xj = ring[j][0], yj = ring[j][1];
+        if ((yi > lat) !== (yj > lat) && lng < (xj - xi) * (lat - yi) / (yj - yi) + xi) inside = !inside;
       }
+      return inside;
     }
-    fetch(GIBS + '1/0/0.jpeg', { mode: 'cors' }).then(function (r) {
-      tilesReady = r.ok;
-      pickDetail();
-    }).catch(function () {});
-    controls.addEventListener('end', pickDetail);
-    controls.addEventListener('change', function () { window.clearTimeout(api._detailTimer); api._detailTimer = window.setTimeout(pickDetail, 250); });
-    globe.onGlobeReady(crisp);
+    function countryAt(lat, lng) {
+      for (var k = 0; k < features.length; k++) {
+        var f = features[k], b = f.__box;
+        if (!b || lng < b[0] || lng > b[2] || lat < b[1] || lat > b[3]) continue;
+        var g = f.geometry;
+        var polys = g.type === 'Polygon' ? [g.coordinates] : g.coordinates;
+        for (var p = 0; p < polys.length; p++) {
+          if (inRing(polys[p][0], lng, lat) && !polys[p].slice(1).some(function (hole) { return inRing(hole, lng, lat); })) return f;
+        }
+      }
+      return null;
+    }
+    function boxOf(f) {
+      var g = f.geometry || {};
+      var polys = g.type === 'Polygon' ? [g.coordinates] : g.type === 'MultiPolygon' ? g.coordinates : [];
+      var box = [180, 90, -180, -90];
+      polys.forEach(function (rings) {
+        rings[0].forEach(function (pt) {
+          box[0] = Math.min(box[0], pt[0]); box[1] = Math.min(box[1], pt[1]);
+          box[2] = Math.max(box[2], pt[0]); box[3] = Math.max(box[3], pt[1]);
+        });
+      });
+      return box;
+    }
 
     var state = { hover: null, selected: null, selectedCountry: null, counts: {}, points: [], pins: {} };
     var lang = function () { return (window.M && M.state.lang) || 'en'; };
     var nameOf = function (f) { var n = f.properties.name || {}; return n[lang()] || n.en || ''; };
     var isSel = function (f) { return f.properties.iso && f.properties.iso === state.selectedCountry; };
 
-    function capColor(f) {
-      if (f === state.hover) return 'rgba(140, 200, 255, 0.36)';
-      if (isSel(f)) return 'rgba(255, 215, 110, 0.34)';
-      if (state.counts[f.properties.iso]) return 'rgba(255, 215, 110, 0.12)';
-      return 'rgba(255, 255, 255, 0.015)';
-    }
-    function sideColor(f) {
-      if (f === state.hover) return 'rgba(140, 200, 255, 0.28)';
-      if (isSel(f)) return 'rgba(255, 215, 110, 0.26)';
-      return 'rgba(255, 255, 255, 0.03)';
-    }
-    function strokeColor(f) {
-      if (f === state.hover) return 'rgba(255, 255, 255, 0.95)';
-      if (isSel(f)) return '#ffd76e';
-      return 'rgba(255, 255, 255, 0.22)';
-    }
-    function altitude(f) {
-      if (f === state.hover) return 0.014;
-      if (isSel(f)) return 0.01;
-      return 0.004;
-    }
+    // only the hovered and the chosen country are 3D shapes (rise and glow)
     function repaintPolygons() {
-      globe
-        .polygonCapColor(function (f) { return capColor(f); })
-        .polygonSideColor(function (f) { return sideColor(f); })
-        .polygonStrokeColor(function (f) { return strokeColor(f); })
-        .polygonAltitude(function (f) { return altitude(f); });
+      var raised = [];
+      if (state.selectedCountry) {
+        features.forEach(function (f) { if (isSel(f)) raised.push(f); });
+      }
+      if (state.hover && raised.indexOf(state.hover) === -1) raised.push(state.hover);
+      globe.polygonsData(raised);
     }
-
     globe
       .atmosphereColor('#8cc8ff')
       .polygonCapCurvatureResolution(3)
-      .polygonsTransitionDuration(320)
+      .polygonsTransitionDuration(220)
+      .polygonCapColor(function (f) { return f === state.hover ? 'rgba(140, 200, 255, 0.36)' : 'rgba(255, 215, 110, 0.34)'; })
+      .polygonSideColor(function (f) { return f === state.hover ? 'rgba(140, 200, 255, 0.28)' : 'rgba(255, 215, 110, 0.26)'; })
+      .polygonStrokeColor(function (f) { return f === state.hover ? 'rgba(255, 255, 255, 0.95)' : '#ffd76e'; })
+      .polygonAltitude(function (f) { return f === state.hover ? 0.014 : 0.01; })
       .polygonLabel(function (f) {
         var p = f.properties;
         var count = state.counts[p.iso] || 0;
@@ -328,18 +366,43 @@
           (p.official && p.official !== p.name.en ? '<em>' + esc(p.official) + '</em>' : '') +
           (sub ? '<small>' + esc(sub) + '</small>' : '') + '</div>';
       })
-      .onPolygonHover(function (f) {
-        state.hover = f || null;
-        el.style.cursor = f ? 'pointer' : '';
-        repaintPolygons();
-      })
       .onPolygonClick(function (f) {
         if (options.onCountry) options.onCountry(f.properties.iso, nameOf(f), f.properties);
       })
-      .onGlobeClick(function () { if (options.onDeselect) options.onDeselect(); });
+      .onGlobeClick(function (at) {
+        var f = at && countryAt(at.lat, at.lng);
+        if (f && options.onCountry) options.onCountry(f.properties.iso, nameOf(f), f.properties);
+        else if (options.onDeselect) options.onDeselect();
+      });
 
-    loadCountries().then(function (features) {
-      globe.polygonsData(features);
+    // hover: find the country under the pointer once per frame, never while dragging
+    var pointer = null, hoverQueued = false;
+    function hoverTick() {
+      hoverQueued = false;
+      if (!pointer || !features.length) return;
+      var rect = el.getBoundingClientRect();
+      var at = globe.toGlobeCoords(pointer.x - rect.left, pointer.y - rect.top);
+      var f = at ? countryAt(at.lat, at.lng) : null;
+      if (f !== state.hover) {
+        state.hover = f;
+        el.style.cursor = f ? 'pointer' : '';
+        repaintPolygons();
+      }
+    }
+    el.addEventListener('pointermove', function (event) {
+      if (event.pointerType !== 'mouse' || event.buttons) return;
+      pointer = { x: event.clientX, y: event.clientY };
+      if (!hoverQueued) { hoverQueued = true; window.requestAnimationFrame(hoverTick); }
+    });
+    el.addEventListener('pointerleave', function () {
+      pointer = null;
+      if (state.hover) { state.hover = null; el.style.cursor = ''; repaintPolygons(); }
+    });
+
+    loadCountries().then(function (list) {
+      features = list;
+      features.forEach(function (f) { f.__box = boxOf(f); });
+      paintMap();
       repaintPolygons();
     });
 
@@ -384,7 +447,7 @@
       state.counts = {};
       state.points.forEach(function (p) { if (p.iso) state.counts[p.iso] = (state.counts[p.iso] || 0) + 1; });
       globe.htmlElementsData(state.points.slice());
-      repaintPolygons();
+      repaintSoon();
     };
     api.select = function (id) {
       state.selected = id;
@@ -398,12 +461,10 @@
     };
     api.flyTo = function (lat, lng, alt) {
       globe.pointOfView({ lat: lat, lng: lng, altitude: alt || 1.55 }, reducedMotion() ? 0 : 1200);
-      window.setTimeout(pickDetail, 1300);
     };
     api.zoomBy = function (factor) {
       var pov = globe.pointOfView();
-      globe.pointOfView({ altitude: Math.max(0.12, Math.min(4, pov.altitude * factor)) }, 420);
-      window.setTimeout(pickDetail, 480);
+      globe.pointOfView({ altitude: Math.max(0.18, Math.min(4, pov.altitude * factor)) }, 420);
     };
     api.setAutoRotate = function (on) { controls.autoRotate = on && !reducedMotion(); };
     window.addEventListener('meridian:lang', repaintPolygons);

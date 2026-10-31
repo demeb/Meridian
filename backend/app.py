@@ -235,6 +235,29 @@ PAGES = {
 }
 
 
+SITE_URL = "https://meridiangoal.com"
+
+
+@app.get("/robots.txt")
+def robots():
+    body = "User-agent: *\nDisallow: /api/\nDisallow: /admin\nDisallow: /account\nSitemap: %s/sitemap.xml\n" % SITE_URL
+    return app.response_class(body, mimetype="text/plain")
+
+
+@app.get("/sitemap.xml")
+def sitemap():
+    """Every public page, programme and university, so search engines find them."""
+    pages = ["", "programs", "programs?s=scholarships", "universities", "teachers", "counselling", "prep",
+             "pricing", "about", "about/research", "faq", "engage"]
+    urls = ["%s/%s" % (SITE_URL, p) for p in pages]
+    urls += ["%s/programs/%s" % (SITE_URL, p["id"]) for p in catalog.programs()]
+    full, rest = catalog.directory()
+    urls += ["%s/universities/%s" % (SITE_URL, u["id"]) for u in list(full) + list(rest) if u.get("id")]
+    body = ('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
+            "".join("<url><loc>%s</loc></url>\n" % u.replace("&", "&amp;") for u in urls) + "</urlset>\n")
+    return app.response_class(body, mimetype="application/xml")
+
+
 @app.route("/uploads/<path:name>")
 def uploads(name):
     return send_from_directory(UPLOAD_DIR, name, max_age=3600)
@@ -253,8 +276,43 @@ def page(route=""):
         return send_from_directory(FRONTEND_DIR, "university.html")
     candidate = os.path.join(FRONTEND_DIR, route)
     if route and os.path.isfile(candidate):
-        return send_from_directory(FRONTEND_DIR, route)
+        response = static_gzip(candidate) or send_from_directory(FRONTEND_DIR, route)
+        if request.args.get("v") and request.host.split(":")[0] not in ("127.0.0.1", "localhost"):
+            # versioned links (?v=r7) never change: let the browser keep them a week
+            response.headers["Cache-Control"] = "public, max-age=604800, immutable"
+        return response
     return send_from_directory(FRONTEND_DIR, "404.html"), 404
+
+
+GZIP_TYPES = {".js": "application/javascript", ".css": "text/css", ".geojson": "application/geo+json",
+              ".json": "application/json", ".svg": "image/svg+xml"}
+_gzip_cache = {}
+
+
+def static_gzip(path):
+    """Scripts, styles and map data gzipped once and kept in memory (globe.gl
+    1.7 MB -> 0.5 MB, the country shapes 1.4 MB -> 0.4 MB)."""
+    kind = GZIP_TYPES.get(os.path.splitext(path)[1].lower())
+    if not kind or "gzip" not in request.headers.get("Accept-Encoding", ""):
+        return None
+    stamp = os.path.getmtime(path)
+    cached = _gzip_cache.get(path)
+    if not cached or cached[0] != stamp:
+        with open(path, "rb") as fh:
+            cached = (stamp, gzip.compress(fh.read(), compresslevel=6))
+        _gzip_cache[path] = cached
+    etag = '"%x-%x"' % (int(stamp), len(cached[1]))
+    if request.headers.get("If-None-Match") == etag:
+        response = make_response("", 304)
+    else:
+        response = make_response(cached[1])
+        response.headers["Content-Encoding"] = "gzip"
+        response.headers["Content-Length"] = str(len(cached[1]))
+    response.mimetype = kind
+    response.headers["ETag"] = etag
+    response.headers["Cache-Control"] = "no-cache"
+    response.vary.add("Accept-Encoding")
+    return response
 
 
 # ---------------------------------------------------------------- auth
@@ -452,7 +510,7 @@ def api_programs():
             "programs": items,
             "access": {"authed": bool(user), "locked": sum(1 for i in items if i["locked"])},
         }, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
-        for stale in [k for k in _LIST_CACHE if k[1:] != key[1:]]:   # a newer catalogue replaces old copies
+        for stale in [k for k in _LIST_CACHE if k[0] != "unis" and k[1:] != key[1:]]:   # a newer catalogue replaces old copies
             _LIST_CACHE.pop(stale, None)
         hit = _LIST_CACHE[key] = (body, gzip.compress(body, compresslevel=6))
     zipped = "gzip" in request.headers.get("Accept-Encoding", "")
@@ -478,7 +536,8 @@ def api_program(program_id):
 # ---------------------------------------------------------------- universities
 UNI_CARD = ("id", "name", "country", "city", "iso", "flag", "region", "lat", "lon", "type", "rank_qs", "tier",
             "platform", "deadline", "tuition_intl", "acceptance_rate", "languages", "summary", "keywords", "aid_intl",
-            "sat", "act", "ielts_min", "toefl_min", "duolingo_min", "logo", "students", "intl_pct", "website")
+            "sat", "act", "ielts_min", "toefl_min", "duolingo_min", "logo", "students", "intl_pct", "website",
+            "fields", "qualifications", "english_bachelors")
 BASIC_CARD = ("id", "name", "country", "city", "iso", "flag", "region", "rank_qs", "tier", "website")
 
 
@@ -528,16 +587,29 @@ def api_universities():
     """The whole catalogue in one response: full profiles carry the admission
     data the filters use; basic QS entries carry just enough for a card."""
     full, rest = catalog.directory()
-    cards = [dict({k: u.get(k) for k in UNI_CARD}, profile="full", logo=logo_for(u),
-                  scholarships=len(u.get("scholarships") or []), study=study_text(u)) for u in full]
-    cards += [dict({k: u.get(k) for k in BASIC_CARD}, profile="basic", logo=logo_for(u))
-              for u in rest if isinstance(u.get("name"), dict)]
-    return jsonify({
-        "ok": True,
-        "universities": cards,
-        "full_count": len(full),
-        "directory_count": len(rest),
-    })
+    key = ("unis", id(full), len(full), id(rest), len(rest))
+    hit = _LIST_CACHE.get(key)
+    if not hit:
+        cards = [dict({k: u.get(k) for k in UNI_CARD}, profile="full", logo=logo_for(u),
+                      scholarships=len(u.get("scholarships") or []), study=study_text(u)) for u in full]
+        cards += [dict({k: u.get(k) for k in BASIC_CARD}, profile="basic", logo=logo_for(u))
+                  for u in rest if isinstance(u.get("name"), dict)]
+        body = json.dumps({
+            "ok": True,
+            "universities": cards,
+            "full_count": len(full),
+            "directory_count": len(rest),
+        }, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+        for stale in [k for k in _LIST_CACHE if k[0] == "unis"]:
+            _LIST_CACHE.pop(stale, None)
+        hit = _LIST_CACHE[key] = (body, gzip.compress(body, compresslevel=6))
+    zipped = "gzip" in request.headers.get("Accept-Encoding", "")
+    response = make_response(hit[1] if zipped else hit[0])
+    response.mimetype = "application/json"
+    if zipped:
+        response.headers["Content-Encoding"] = "gzip"
+    response.vary.add("Accept-Encoding")
+    return response
 
 
 @app.get("/api/universities/directory")
@@ -576,7 +648,8 @@ def api_research():
             "verified": sum(1 for p in programs if p.get("verified_at") or p.get("found_by")),
             "families": len({p["family"] for p in programs}),
             "scholarships": sum(1 for p in programs if p.get("section") == "scholarship"),
-            "universities": len(catalog.universities()),
+            "projects": sum(1 for p in programs if p.get("section") != "scholarship"),
+            "universities": sum(len(part) for part in catalog.directory()),
             "tutors": sum(1 for t in tutors if t.get("user_id")),
         },
     })
@@ -899,7 +972,7 @@ def tutor_profile_from(form, user, existing=None):
         "iso": text("country", 2).upper(),
         "city": localized(text("city", 60)),
         "subjects": split_list(form.get("subjects"), 10),
-        "regions": split_list(form.get("regions"), 4),
+        "regions": split_list(form.get("regions"), 6),
         "languages": split_list(form.get("languages"), 8),
         "experience": int(text("experience", 3) or 0) if text("experience", 3).isdigit() else 0,
         "contact_email": user["email"],

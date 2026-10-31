@@ -1,0 +1,629 @@
+[
+  {
+    "id": "recommendation-letters",
+    "icon": "users",
+    "minutes": 10,
+    "title": {
+      "en": "Recommendation letters: whom to ask and how",
+      "ka": "რეკომენდაციის წერილები: ვის სთხოვო და როგორ",
+      "ar": "خطابات التوصية: من تطلب منه وكيف"
+    },
+    "summary": {
+      "en": "Choose the right referees, ask early, give them a brag sheet and understand how the US, UK and EU systems differ.",
+      "ka": "აირჩიე სწორი რეკომენდატორები, სთხოვე ადრე, მიაწოდე მათ შენი მიღწევების ფურცელი და გაიგე, რით განსხვავდება აშშ-ის, დიდი ბრიტანეთისა და ევროპის სისტემები.",
+      "ar": "اختر الأشخاص المناسبين لكتابة توصيتك، واطلبها مبكراً، وزوّدهم بورقة إنجازاتك، وافهم الفرق بين أنظمة أمريكا وبريطانيا وأوروبا."
+    },
+    "lessons": [
+      {
+        "title": {
+          "en": "What a recommendation adds",
+          "ka": "რას გვმატებს რეკომენდაცია",
+          "ar": "ماذا تضيف التوصية"
+        },
+        "body": {
+          "en": "Your grades and essay show what you say about yourself. A recommendation letter adds a trusted adult's view: how you behave in class, how you handle difficulty, and what kind of person you are. Admissions readers use it to check that your application is true and to learn things you cannot say yourself, such as how you help classmates.\n\nA strong letter is specific. 'She is hardworking' is weak; 'She rewrote her physics lab report three times until the error was gone, then taught the method to the class' is strong. That is why the choice of referee, and the information you give them, matters more than their job title.",
+          "ka": "შენი ნიშნები და ესე გვიჩვენებს, რას ამბობ საკუთარ თავზე. რეკომენდაციის წერილი კი ამატებს სანდო ზრდასრულის შეხედულებას: როგორ იქცევი გაკვეთილზე, როგორ უმკლავდები სირთულეებს და როგორი ადამიანი ხარ. მიმღები კომისია მას იყენებს იმის დასადასტურებლად, რომ განაცხადი სიმართლეა, და იმის გასაგებად, რასაც შენ თვითონ ვერ იტყვი, მაგალითად, როგორ ეხმარები თანაკლასელებს.\n\nძლიერი წერილი კონკრეტულია. „ის შრომისმოყვარეა“ სუსტია; „ფიზიკის ლაბორატორიული ანგარიში სამჯერ გადაწერა, სანამ შეცდომა არ გააქრო, შემდეგ კი მეთოდი კლასს ასწავლა“ ძლიერია. ამიტომ რეკომენდატორის არჩევა და მისთვის მიწოდებული ინფორმაცია უფრო მნიშვნელოვანია, ვიდრე მისი თანამდებობა.",
+          "ar": "تُظهر درجاتك ومقالتك ما تقوله أنت عن نفسك، أما خطاب التوصية فيضيف رأي شخص راشد موثوق: كيف تتصرف في الصف، وكيف تتعامل مع الصعوبات، وأي نوع من الأشخاص أنت. يستخدمه مسؤولو القبول للتأكد من صدق طلبك ولمعرفة أمور لا تستطيع قولها بنفسك، مثل مساعدتك لزملائك.\n\nالخطاب القوي محدد. عبارة «هي مجتهدة» ضعيفة، أما «أعادت كتابة تقرير مختبر الفيزياء ثلاث مرات حتى زال الخطأ، ثم علّمت الصف الطريقة» فقوية. لذلك فإن اختيار من يكتب لك وما تقدّمه له من معلومات أهم من منصبه."
+        },
+        "tips": {
+          "en": [
+            "A short, detailed letter from a teacher who knows you well beats a generic letter from a famous person.",
+            "Remember that the letter is confidential: you cannot control it, only prepare your referee.",
+            "Never write the letter yourself or ask a parent or friend to do it; it is dishonest and can get your application rejected."
+          ],
+          "ka": [
+            "მოკლე, დეტალური წერილი მასწავლებლისგან, რომელიც კარგად გიცნობს, სჯობს ცნობილი ადამიანის ზოგად წერილს.",
+            "გახსოვდეს, რომ წერილი კონფიდენციალურია: მას ვერ აკონტროლებ, მხოლოდ რეკომენდატორს ამზადებ.",
+            "არასოდეს დაწერო წერილი თვითონ და არც მშობელს ან მეგობარს სთხოვო; ეს არაკეთილსინდისიერებაა და განაცხადის უარყოფაც შეიძლება გამოიწვიოს."
+          ],
+          "ar": [
+            "خطاب قصير ومفصّل من معلم يعرفك جيداً أفضل من خطاب عام من شخص مشهور.",
+            "تذكّر أن الخطاب سري: لا تتحكم فيه، بل تُعدّ من يكتبه فقط.",
+            "لا تكتب الخطاب بنفسك ولا تطلب ذلك من أحد الوالدين أو صديق؛ فهذا غير أمين وقد يؤدي إلى رفض طلبك."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Whom to ask",
+          "ka": "ვის სთხოვო",
+          "ar": "من تطلب منه"
+        },
+        "body": {
+          "en": "Ask people who have taught you recently, ideally in the last one or two years, and who have seen you at your best. For most applications that means teachers of academic subjects, preferably in subjects related to what you want to study: a maths or physics teacher for engineering, a literature or history teacher for law. Add a school counsellor or head of year when the system asks for one.\n\nAsk in person or by a polite email, and give a real choice: 'Would you feel able to write a strong recommendation for me?' This wording lets a busy teacher decline kindly, so you only receive letters from people who are happy to write them.",
+          "ka": "სთხოვე იმ ადამიანებს, ვინც ბოლო დროს გასწავლიდა, სასურველია ბოლო ერთი-ორი წლის განმავლობაში, და ვინც შენი საუკეთესო მხარე უნახავს. უმეტეს განაცხადში ეს არის აკადემიური საგნების მასწავლებლები, სასურველია იმ საგნებისა, რომლებიც სასწავლად გინდა: ინჟინერიისთვის მათემატიკის ან ფიზიკის მასწავლებელი, სამართლისთვის ლიტერატურის ან ისტორიის მასწავლებელი. თუ სისტემა მოითხოვს, დაამატე სკოლის მრჩეველი ან კლასის ხელმძღვანელი.\n\nთხოვნა პირადად ან თავაზიანი ელფოსტით გააკეთე და რეალური არჩევანი დაუტოვე: „შეძლებდით ჩემთვის ძლიერი რეკომენდაციის დაწერას?“ ასეთი ფორმულირება დაკავებულ მასწავლებელს საშუალებას აძლევს თავაზიანად უარი თქვას და შენ მხოლოდ იმათგან მიიღებ წერილს, ვისაც სიამოვნებით უნდა მისი დაწერა.",
+          "ar": "اطلب من أشخاص درّسوك حديثاً، ويفضّل خلال السنة أو السنتين الأخيرتين، ورأوك في أفضل حالاتك. في معظم الطلبات يعني ذلك معلمي المواد الأكاديمية، ويفضّل في مواد ترتبط بما تريد دراسته: معلم رياضيات أو فيزياء للهندسة، ومعلم أدب أو تاريخ للقانون. وأضف مرشداً مدرسياً أو مشرف الصف إذا طلب النظام ذلك.\n\nاطلب ذلك مباشرة أو برسالة إلكترونية مهذبة، واترك خياراً حقيقياً: «هل تشعر أنك قادر على كتابة توصية قوية لي؟». تتيح هذه الصياغة للمعلم المشغول أن يعتذر بلطف، فلا تصلك إلا خطابات ممّن يسعده كتابتها."
+        },
+        "tips": {
+          "en": [
+            "Choose one teacher from the humanities and one from the sciences if your subject is broad.",
+            "Do not ask someone who barely knows you, even if they are senior; a detailed letter from a junior teacher is better.",
+            "A coach, employer or research supervisor can be an extra referee if the university allows an additional letter."
+          ],
+          "ka": [
+            "თუ შენი სფერო ფართოა, ერთი მასწავლებელი ჰუმანიტარულ და ერთი საბუნებისმეტყველო საგნებიდან აირჩიე.",
+            "ნუ სთხოვ იმას, ვინც ძლივს გიცნობს, თუნდაც მაღალი თანამდებობის იყოს; დეტალური წერილი ნაკლებად ცნობილი მასწავლებლისგან უკეთესია.",
+            "ტრენერი, დამსაქმებელი ან კვლევის ხელმძღვანელი დამატებითი რეკომენდატორი შეიძლება იყოს, თუ უნივერსიტეტი დამატებით წერილს იღებს."
+          ],
+          "ar": [
+            "اختر معلماً من العلوم الإنسانية وآخر من العلوم إذا كان تخصصك واسعاً.",
+            "لا تطلب ممّن بالكاد يعرفك، حتى لو كان منصبه رفيعاً؛ فخطاب مفصّل من معلم أقل شهرة أفضل.",
+            "يمكن أن يكون المدرّب أو صاحب العمل أو المشرف على بحث مرجعاً إضافياً إذا سمحت الجامعة بخطاب إضافي."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Timing and the brag sheet",
+          "ka": "დრო და მიღწევების ფურცელი",
+          "ar": "التوقيت وورقة الإنجازات"
+        },
+        "body": {
+          "en": "Ask 6 to 8 weeks before the first deadline. Teachers often write many letters at the same time in autumn, and a letter written in a rush is usually weaker. Ask even earlier if your first deadline is in October or November.\n\nWhen the teacher says yes, send a 'brag sheet': a one- or two-page summary that makes it easy to write about you. Include your target universities and programmes with deadlines, your key achievements, two or three moments in their class you are proud of, your goals, and how and where the letter must be submitted. A brag sheet is not boasting; it is a briefing.",
+          "ka": "სთხოვე პირველ ვადამდე 6-8 კვირით ადრე. მასწავლებლები შემოდგომაზე ხშირად ერთდროულად ბევრ წერილს წერენ, აჩქარებით დაწერილი წერილი კი, როგორც წესი, უფრო სუსტია. თუ პირველი ვადა ოქტომბერში ან ნოემბერშია, კიდევ უფრო ადრე სთხოვე.\n\nროცა მასწავლებელი თანხმდება, გაუგზავნე „brag sheet“ (მიღწევების ფურცელი): ერთ-ორგვერდიანი შეჯამება, რომელიც შენზე წერას ამარტივებს. ჩართე სამიზნე უნივერსიტეტები და პროგრამები ვადებით, ძირითადი მიღწევები, ორი-სამი მომენტი მისი გაკვეთილიდან, რითაც ამაყობ, შენი მიზნები და ისიც, როგორ და სად უნდა აიტვირთოს წერილი. ეს ტრაბახი არ არის, ეს ინსტრუქტაჟია.",
+          "ar": "اطلب قبل الموعد النهائي الأول بستة إلى ثمانية أسابيع. يكتب المعلمون غالباً خطابات كثيرة في الوقت نفسه في الخريف، والخطاب المكتوب على عجل يكون عادة أضعف. اطلب مبكراً أكثر إذا كان موعدك الأول في أكتوبر أو نوفمبر.\n\nعندما يوافق المعلم أرسل له «ورقة الإنجازات» (brag sheet): ملخص من صفحة أو صفحتين يسهّل الكتابة عنك. أدرج الجامعات والبرامج المستهدفة مع مواعيدها، وأهم إنجازاتك، وموقفين أو ثلاثة في صفّه تفخر بها، وأهدافك، وكيف وأين يجب تقديم الخطاب. ليست هذه مباهاة، بل إحاطة تعريفية."
+        },
+        "tips": {
+          "en": [
+            "Send the brag sheet within a few days of the 'yes', as a PDF or in the email itself.",
+            "Remind the teacher of specific work: 'my presentation on climate data in March'.",
+            "List every deadline in one table so your referee never has to search for it."
+          ],
+          "ka": [
+            "გაუგზავნე ფურცელი თანხმობიდან რამდენიმე დღეში, PDF-ად ან უშუალოდ წერილში.",
+            "შეახსენე მასწავლებელს კონკრეტული ნამუშევარი: „მარტში კლიმატის მონაცემებზე ჩემი პრეზენტაცია“.",
+            "ყველა ვადა ერთ ცხრილში ჩაწერე, რომ რეკომენდატორს მათი ძებნა არ დასჭირდეს."
+          ],
+          "ar": [
+            "أرسل الورقة خلال أيام قليلة من الموافقة، بصيغة PDF أو داخل الرسالة نفسها.",
+            "ذكّر المعلم بعمل محدد: «عرضي عن بيانات المناخ في مارس».",
+            "اكتب كل المواعيد في جدول واحد حتى لا يضطر من يكتب لك إلى البحث عنها."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "US, UK and EU: what is different",
+          "ka": "აშშ, დიდი ბრიტანეთი და ევროკავშირი: რით განსხვავდება",
+          "ar": "أمريكا وبريطانيا وأوروبا: ما الفرق"
+        },
+        "body": {
+          "en": "United States: through the Common App, most universities want a counsellor recommendation plus usually two teacher recommendations. The counsellor writes about you in the context of the whole school. You are also asked whether you waive your right to see the letters; most applicants do, which tells readers that the letters are candid.\n\nUnited Kingdom: UCAS needs one reference, written by a teacher, adviser or tutor who knows you academically. The same reference goes to all your choices, so it should fit your subject. Continental Europe: many bachelor's programmes in countries such as Germany, Italy or the Netherlands ask for no letters at all, while master's programmes and many scholarships ask for one or two academic references. Always read each programme's own page.",
+          "ka": "აშშ: Common App-ის მეშვეობით უმეტესი უნივერსიტეტი ითხოვს სკოლის მრჩევლის რეკომენდაციას და, როგორც წესი, ორი მასწავლებლის რეკომენდაციას. მრჩეველი შენზე წერს მთელი სკოლის კონტექსტში. გკითხავენ, უარს ამბობ თუ არა წერილების ნახვის უფლებაზე; უმეტესობა უარს ამბობს, რაც მკითხველს აჩვენებს, რომ წერილები გულახდილია.\n\nდიდი ბრიტანეთი: UCAS-ს სჭირდება ერთი რეკომენდაცია, რომელსაც წერს მასწავლებელი, მრჩეველი ან ტუტორი, ვისაც აკადემიურად გიცნობს. იგივე რეკომენდაცია მიდის ყველა შენს არჩევანზე, ამიტომ ის შენს საგანს უნდა შეესაბამებოდეს. კონტინენტური ევროპა: გერმანიის, იტალიის ან ნიდერლანდების ბევრ საბაკალავრო პროგრამას წერილი საერთოდ არ სჭირდება, სამაგისტრო პროგრამები და ბევრი სტიპენდია კი ერთ-ორ აკადემიურ რეკომენდაციას ითხოვს. ყოველთვის წაიკითხე პროგრამის საკუთარი გვერდი.",
+          "ar": "الولايات المتحدة: عبر Common App تطلب معظم الجامعات توصية من المرشد المدرسي، وعادة توصيتين من معلمين. يكتب المرشد عنك في سياق المدرسة كلها. وتُسأل أيضاً إن كنت تتنازل عن حقك في الاطلاع على الخطابات؛ ومعظم المتقدمين يفعلون، وهذا يدل القارئ على أن الخطابات صريحة.\n\nالمملكة المتحدة: تحتاج UCAS إلى مرجع واحد يكتبه معلم أو مستشار أو مدرّس يعرفك أكاديمياً. يُرسل المرجع نفسه إلى جميع خياراتك، لذا يجب أن يناسب تخصصك. أوروبا القارية: كثير من برامج البكالوريوس في دول مثل ألمانيا وإيطاليا وهولندا لا تطلب خطابات إطلاقاً، بينما تطلب برامج الماجستير وكثير من المنح مرجعاً أو مرجعين أكاديميين. اقرأ دائماً صفحة كل برنامج."
+        },
+        "tips": {
+          "en": [
+            "Check each university's requirements page: rules vary even inside one country.",
+            "For the US, make sure your counsellor knows your school's grading system and has a school profile ready.",
+            "For many scholarships, referees upload the letter themselves, so pass on the portal instructions early."
+          ],
+          "ka": [
+            "თითო უნივერსიტეტის მოთხოვნების გვერდი შეამოწმე: წესები ერთი ქვეყნის შიგნითაც განსხვავდება.",
+            "აშშ-ისთვის დარწმუნდი, რომ მრჩეველმა იცის შენი სკოლის შეფასების სისტემა და სკოლის პროფილი მზად აქვს.",
+            "ბევრ სტიპენდიაზე რეკომენდატორი წერილს თვითონ ტვირთავს, ამიტომ პორტალის ინსტრუქცია ადრე გადაეცი."
+          ],
+          "ar": [
+            "راجع صفحة متطلبات كل جامعة: تختلف القواعد حتى داخل البلد الواحد.",
+            "بالنسبة لأمريكا، تأكد من أن مرشدك يعرف نظام التقييم في مدرستك ولديه ملف تعريف المدرسة جاهزاً.",
+            "في كثير من المنح يرفع المرجع الخطاب بنفسه، فسلّمه تعليمات البوابة مبكراً."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Reminders and thank-you",
+          "ka": "შეხსენებები და მადლობა",
+          "ar": "التذكير والشكر"
+        },
+        "body": {
+          "en": "Check the application portal: most show whether a letter has been submitted. Send one polite reminder about two weeks before the deadline, and a final one three or four days before if the letter is still missing. Keep the tone friendly: 'I wanted to check whether you need anything else from me.'\n\nAfter the letters are in, thank each referee, ideally with a handwritten note or a short email. When you get your results, tell them the outcome. Referees remember grateful students, and you may need them again for a scholarship or a transfer.",
+          "ka": "შეამოწმე განაცხადის პორტალი: უმეტესობა აჩვენებს, ატვირთულია თუ არა წერილი. გაგზავნე ერთი თავაზიანი შეხსენება ვადამდე დაახლოებით ორი კვირით ადრე და ბოლო შეხსენება სამი-ოთხი დღით ადრე, თუ წერილი ჯერ კიდევ არ არის. ტონი მეგობრული იყოს: „მინდოდა გამეგო, ხომ არ გჭირდებათ ჩემგან კიდევ რამე.“\n\nწერილების ატვირთვის შემდეგ ყველა რეკომენდატორს მადლობა გადაუხადე, უკეთესია ხელნაწერი ბარათით ან მოკლე ელფოსტით. შედეგების მიღებისას შეატყობინე, რით დასრულდა. რეკომენდატორები მადლიერ მოსწავლეებს ახსოვთ, შენ კი შეიძლება სტიპენდიისთვის ან გადასვლისთვის ისინი კვლავ დაგჭირდეს.",
+          "ar": "راجع بوابة التقديم: يعرض معظمها ما إذا كان الخطاب قد قُدِّم. أرسل تذكيراً مهذباً واحداً قبل الموعد النهائي بنحو أسبوعين، وتذكيراً أخيراً قبله بثلاثة أو أربعة أيام إذا لم يصل الخطاب بعد. اجعل النبرة ودّية: «أردت أن أتأكد إن كنتم تحتاجون أي شيء آخر مني».\n\nبعد وصول الخطابات اشكر كل من كتب لك، ويفضّل ببطاقة مكتوبة بخط اليد أو برسالة قصيرة. وعند صدور النتائج أخبرهم بما حدث. يتذكر من يكتبون التوصيات الطلاب الممتنين، وقد تحتاج إليهم مرة أخرى للحصول على منحة أو للتحويل."
+        },
+        "tips": {
+          "en": [
+            "Never send a reminder on the evening of the deadline; the teacher can no longer fix it.",
+            "Do not give expensive gifts; a sincere note is enough and appropriate.",
+            "Keep a list: who agreed, when you asked, what you sent, and whether the letter was submitted."
+          ],
+          "ka": [
+            "შეხსენება ვადის დღეს საღამოს არასოდეს გააგზავნო; მასწავლებელი უკვე ვეღარაფერს შეასწორებს.",
+            "ძვირფასი საჩუქრები არ გააკეთო; გულწრფელი ბარათი საკმარისი და შესაფერისია.",
+            "აწარმოე სია: ვინ დათანხმდა, როდის სთხოვე, რა გაუგზავნე და ატვირთულია თუ არა წერილი."
+          ],
+          "ar": [
+            "لا ترسل تذكيراً مساء يوم الموعد النهائي؛ فلم يعد بإمكان المعلم تدارك الأمر.",
+            "لا تقدّم هدايا باهظة؛ تكفي رسالة صادقة وهي الأنسب.",
+            "احتفظ بقائمة: من وافق، ومتى طلبت، وماذا أرسلت، وهل قُدِّم الخطاب."
+          ]
+        }
+      }
+    ],
+    "template": {
+      "en": "REQUEST EMAIL\nSubject: Recommendation letter request – [Programme / University], first deadline [date]\n\nDear Mr/Ms [Surname],\n\nI hope you are well. I am applying to [programme] at [universities] and I would be grateful if you could write a recommendation for me. I have valued your [subject] classes since [year], especially [project or moment].\n\nWould you feel able to write a strong recommendation? The first deadline is [date], so the letter would be needed by [date]. I will send a brag sheet and the submission instructions within [two days]. If your schedule is too full, I completely understand.\n\nThank you very much for your time.\n\nKind regards,\n[Full name], [class], [school]\n\nBRAG SHEET OUTLINE (1–2 pages)\n1. Where I am applying: university, programme, deadline, how to submit\n2. What I want to study and why (2–3 sentences)\n3. Main achievements: grades, awards, projects, activities\n4. Moments in your class I am proud of: [topic, date, result]\n5. Qualities I hope the letter can show (e.g. curiosity, teamwork)\n6. Anything the university should know: context, challenges, special circumstances\n7. Thank you and my contact details",
+      "ka": "თხოვნის წერილი\nთემა: რეკომენდაციის თხოვნა – [პროგრამა / უნივერსიტეტი], პირველი ვადა [თარიღი]\n\nპატივცემულო [ბატონო/ქალბატონო] [გვარი],\n\nიმედია, კარგად ბრძანდებით. განაცხადს ვგზავნი [პროგრამაზე] [უნივერსიტეტებში] და მადლობელი ვიქნები, თუ ჩემთვის რეკომენდაციას დაწერთ. [წლიდან] ძალიან მიყვარს თქვენი [საგნის] გაკვეთილები, განსაკუთრებით [პროექტი ან მომენტი].\n\nშეძლებდით ძლიერი რეკომენდაციის დაწერას? პირველი ვადა [თარიღია], ამიტომ წერილი [თარიღამდე] დაგჭირდებათ. [ორი დღის] განმავლობაში გამოგიგზავნით მიღწევების ფურცელს და ატვირთვის ინსტრუქციას. თუ გრაფიკი ძალიან დატვირთული გაქვთ, სრულად გავიგებ.\n\nდიდი მადლობა დროისთვის.\n\nპატივისცემით,\n[სახელი გვარი], [კლასი], [სკოლა]\n\nმიღწევების ფურცლის გეგმა (1–2 გვერდი)\n1. სად ვაბარებ: უნივერსიტეტი, პროგრამა, ვადა, როგორ უნდა აიტვირთოს\n2. რის სწავლა მინდა და რატომ (2–3 წინადადება)\n3. ძირითადი მიღწევები: ნიშნები, ჯილდოები, პროექტები, აქტივობები\n4. თქვენს გაკვეთილზე ის მომენტები, რითაც ვამაყობ: [თემა, თარიღი, შედეგი]\n5. თვისებები, რომლებიც წერილმა შეიძლება აჩვენოს (მაგ., ცნობისმოყვარეობა, გუნდური მუშაობა)\n6. რაც უნივერსიტეტმა უნდა იცოდეს: კონტექსტი, სირთულეები, განსაკუთრებული გარემოებები\n7. მადლობა და ჩემი საკონტაქტო მონაცემები",
+      "ar": "رسالة الطلب\nالموضوع: طلب خطاب توصية – [البرنامج / الجامعة]، الموعد الأول [التاريخ]\n\nالأستاذ/الأستاذة [اسم العائلة] المحترم/ة،\n\nأتمنى أن تكونوا بخير. أتقدم إلى [البرنامج] في [الجامعات]، وسأكون ممتناً لو كتبتم لي خطاب توصية. أقدّر حصصكم في مادة [المادة] منذ [السنة]، وخاصة [مشروع أو موقف].\n\nهل تشعرون أنكم قادرون على كتابة توصية قوية؟ الموعد الأول هو [التاريخ]، لذا سيلزم الخطاب قبل [التاريخ]. سأرسل لكم ورقة إنجازاتي وتعليمات التقديم خلال [يومين]. وإن كان جدولكم مزدحماً فأتفهّم ذلك تماماً.\n\nشكراً جزيلاً لوقتكم.\n\nمع خالص التقدير،\n[الاسم الكامل]، [الصف]، [المدرسة]\n\nمخطط ورقة الإنجازات (صفحة إلى صفحتين)\n1. أين أتقدم: الجامعة، البرنامج، الموعد النهائي، طريقة التقديم\n2. ما أريد دراسته ولماذا (جملتان أو ثلاث)\n3. أهم إنجازاتي: الدرجات، الجوائز، المشاريع، الأنشطة\n4. مواقف في صفكم أفخر بها: [الموضوع، التاريخ، النتيجة]\n5. صفات آمل أن يُظهرها الخطاب (مثل الفضول، العمل الجماعي)\n6. ما ينبغي أن تعرفه الجامعة: السياق، التحديات، الظروف الخاصة\n7. كلمة شكر وبيانات التواصل معي"
+    },
+    "links": [
+      {
+        "title": {
+          "en": "Common App: first-year applicants",
+          "ka": "Common App: პირველკურსელი განმცხადებლები",
+          "ar": "Common App: المتقدمون للسنة الأولى"
+        },
+        "url": "https://www.commonapp.org/apply/first-year-students"
+      },
+      {
+        "title": {
+          "en": "UCAS: applying to university",
+          "ka": "UCAS: უნივერსიტეტში განაცხადი",
+          "ar": "UCAS: التقديم إلى الجامعة"
+        },
+        "url": "https://www.ucas.com/applying"
+      },
+      {
+        "title": {
+          "en": "BigFuture (College Board): plan for college",
+          "ka": "BigFuture (College Board): კოლეჯისთვის მომზადება",
+          "ar": "BigFuture (College Board): التخطيط للجامعة"
+        },
+        "url": "https://bigfuture.collegeboard.org/"
+      }
+    ]
+  },
+  {
+    "id": "scholarship-applications",
+    "icon": "award",
+    "minutes": 14,
+    "title": {
+      "en": "Winning scholarships",
+      "ka": "როგორ მოვიპოვოთ სტიპენდია",
+      "ar": "كيف تفوز بمنحة دراسية"
+    },
+    "summary": {
+      "en": "Find real scholarships, read the rules carefully, plan your calendar, write a strong essay and avoid scams.",
+      "ka": "იპოვე რეალური სტიპენდიები, ყურადღებით წაიკითხე წესები, დაგეგმე კალენდარი, დაწერე ძლიერი ესე და თავი აარიდე თაღლითობას.",
+      "ar": "اعثر على منح حقيقية، واقرأ الشروط بعناية، وخطّط لجدولك الزمني، واكتب مقالة قوية، وتجنّب الاحتيال."
+    },
+    "lessons": [
+      {
+        "title": {
+          "en": "Where real scholarships come from",
+          "ka": "საიდან მოდის რეალური სტიპენდიები",
+          "ar": "من أين تأتي المنح الحقيقية"
+        },
+        "body": {
+          "en": "Real scholarships come from three sources: governments, universities and independent foundations. Government programmes for international students include Chevening (UK), DAAD (Germany), Erasmus Mundus Joint Masters (EU), Stipendium Hungaricum (Hungary), Türkiye Bursları (Türkiye) and the Fulbright programme (USA). University merit aid is money a university gives directly to strong applicants, often decided together with your admission.\n\nBe realistic about the level: several of these, such as Chevening, Erasmus Mundus and Fulbright, are mainly for master's or doctoral study, so as a school student you should note them for later and start with programmes that accept undergraduates, such as Stipendium Hungaricum, Türkiye Bursları and university scholarships. Always check whether your country of citizenship is on each programme's eligible list.",
+          "ka": "რეალური სტიპენდიები სამი წყაროდან მოდის: მთავრობები, უნივერსიტეტები და დამოუკიდებელი ფონდები. საერთაშორისო სტუდენტებისთვის სახელმწიფო პროგრამებია Chevening (დიდი ბრიტანეთი), DAAD (გერმანია), Erasmus Mundus Joint Masters (ევროკავშირი), Stipendium Hungaricum (უნგრეთი), Türkiye Bursları (თურქეთი) და Fulbright-ის პროგრამა (აშშ). უნივერსიტეტის merit aid არის თანხა, რომელსაც უნივერსიტეტი უშუალოდ ძლიერ აპლიკანტებს სთავაზობს, ხშირად მიღებასთან ერთად წყდება.\n\nდონეს რეალისტურად შეხედე: მათგან რამდენიმე, მაგალითად Chevening, Erasmus Mundus და Fulbright, ძირითადად სამაგისტრო ან სადოქტორო სწავლისთვისაა, ამიტომ სკოლის მოსწავლემ ისინი მომავლისთვის უნდა დაიმახსოვროს და დაიწყოს იმ პროგრამებით, რომლებიც ბაკალავრებს იღებს: Stipendium Hungaricum, Türkiye Bursları და უნივერსიტეტების სტიპენდიები. ყოველთვის შეამოწმე, შედის თუ არა შენი მოქალაქეობის ქვეყანა თითოეული პროგრამის დაშვებულ ქვეყანათა სიაში.",
+          "ar": "تأتي المنح الحقيقية من ثلاثة مصادر: الحكومات والجامعات والمؤسسات المستقلة. ومن البرامج الحكومية للطلاب الدوليين Chevening (بريطانيا) وDAAD (ألمانيا) وErasmus Mundus Joint Masters (الاتحاد الأوروبي) وStipendium Hungaricum (المجر) وTürkiye Bursları (تركيا) وبرنامج Fulbright (الولايات المتحدة). أما منح التفوق الجامعية (merit aid) فهي مبالغ تمنحها الجامعة مباشرة للمتقدمين المتميزين، وكثيراً ما تُقرَّر مع قبولك.\n\nكن واقعياً بشأن المستوى الدراسي: عدة منح منها، مثل Chevening وErasmus Mundus وFulbright، مخصصة أساساً لدراسة الماجستير أو الدكتوراه، لذا دوّنها لوقت لاحق وابدأ بالبرامج التي تقبل طلاب البكالوريوس مثل Stipendium Hungaricum وTürkiye Bursları ومنح الجامعات. وتحقق دائماً مما إذا كانت دولة جنسيتك ضمن قائمة الدول المؤهلة في كل برنامج."
+        },
+        "tips": {
+          "en": [
+            "Start from the official website of the scholarship or the university, never from a social-media post.",
+            "Search for 'international scholarships' on the website of every university on your list.",
+            "Write the level (bachelor's, master's), the country list and the deadline in one table."
+          ],
+          "ka": [
+            "დაიწყე სტიპენდიის ან უნივერსიტეტის ოფიციალური ვებგვერდიდან და არა სოციალური ქსელის პოსტიდან.",
+            "შენი სიის თითოეული უნივერსიტეტის ვებგვერდზე მოძებნე „international scholarships“.",
+            "დონე (ბაკალავრიატი, მაგისტრატურა), ქვეყნების სია და ვადა ერთ ცხრილში ჩაწერე."
+          ],
+          "ar": [
+            "ابدأ من الموقع الرسمي للمنحة أو الجامعة، وليس من منشور على وسائل التواصل.",
+            "ابحث عن «international scholarships» في موقع كل جامعة في قائمتك.",
+            "دوّن المستوى (بكالوريوس أو ماجستير) وقائمة الدول والموعد النهائي في جدول واحد."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Read the eligibility rules",
+          "ka": "წაიკითხე შესაბამისობის წესები",
+          "ar": "اقرأ شروط الأهلية"
+        },
+        "body": {
+          "en": "Many applications are rejected before anybody reads the essay, because the applicant did not meet a basic rule: citizenship, age, level of study, minimum grade, language certificate or work experience. Read the rules twice and highlight every 'must'. Then check what is covered: tuition only, or also living costs, flights and health insurance.\n\nAlso read the obligations. Some scholarships require you to keep a minimum grade each year, or to return to your home country for a period after your studies. Make sure you can accept these conditions before you spend weeks applying.",
+          "ka": "ბევრი განაცხადი უარყოფილია ესეს წაკითხვამდეც კი, რადგან აპლიკანტი ძირითად წესს არ აკმაყოფილებდა: მოქალაქეობა, ასაკი, სწავლის დონე, მინიმალური ნიშანი, ენის სერტიფიკატი ან სამუშაო გამოცდილება. წესები ორჯერ წაიკითხე და ყოველი „უნდა“ მონიშნე. შემდეგ შეამოწმე, რას ფარავს სტიპენდია: მხოლოდ სწავლის საფასურს თუ საცხოვრებელ ხარჯებს, ფრენებსა და ჯანმრთელობის დაზღვევასაც.\n\nწაიკითხე ვალდებულებებიც. ზოგ სტიპენდიას ყოველწლიურად მინიმალური ნიშნის შენარჩუნება ან სწავლის შემდეგ გარკვეული პერიოდით სამშობლოში დაბრუნება სჭირდება. სანამ კვირებს დახარჯავ განაცხადზე, დარწმუნდი, რომ ამ პირობებს მიიღებ.",
+          "ar": "يُرفض كثير من الطلبات قبل أن يقرأ أحد المقالة، لأن المتقدم لم يستوفِ شرطاً أساسياً: الجنسية أو العمر أو المستوى الدراسي أو الحد الأدنى للدرجات أو شهادة اللغة أو الخبرة العملية. اقرأ الشروط مرتين وظلّل كل «يجب». ثم تحقق مما تغطيه المنحة: الرسوم الدراسية فقط، أم تكاليف المعيشة والرحلات والتأمين الصحي أيضاً.\n\nاقرأ الالتزامات كذلك. بعض المنح تشترط الحفاظ على حد أدنى من الدرجات كل عام، أو العودة إلى بلدك لفترة بعد الدراسة. تأكد من قدرتك على قبول هذه الشروط قبل أن تقضي أسابيع في التقديم."
+        },
+        "tips": {
+          "en": [
+            "If a rule is unclear, email the programme office and keep the reply.",
+            "Check whether you can hold two scholarships at once; some rules forbid it.",
+            "Look at past winners' profiles to see what kind of applicant succeeds."
+          ],
+          "ka": [
+            "თუ წესი გაუგებარია, მისწერე პროგრამის ოფისს და პასუხი შეინახე.",
+            "შეამოწმე, შეიძლება თუ არა ორი სტიპენდიის ერთდროულად ქონა; ზოგ წესში ეს აკრძალულია.",
+            "გაეცანი წინა გამარჯვებულთა პროფილებს, რომ დაინახო, როგორი აპლიკანტი იმარჯვებს."
+          ],
+          "ar": [
+            "إذا كان شرط غير واضح فراسل مكتب البرنامج واحتفظ بالرد.",
+            "تحقق مما إذا كان يمكنك الحصول على منحتين في الوقت نفسه؛ فبعض القواعد تمنع ذلك.",
+            "اطّلع على ملفات الفائزين السابقين لتعرف أي نوع من المتقدمين ينجح."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Build a calendar and collect documents",
+          "ka": "შეადგინე კალენდარი და შეაგროვე დოკუმენტები",
+          "ar": "ضع جدولاً زمنياً واجمع المستندات"
+        },
+        "body": {
+          "en": "Scholarship deadlines are often earlier than university deadlines, and one missing document can cancel the application. Work backwards from each deadline: essay drafts, recommendation letters (ask 6–8 weeks before), translations and certified copies. Put every date in a calendar with reminders.\n\nTypical documents: passport copy, school certificate and transcript (often translated and certified), language certificate such as IELTS or TOEFL, CV, motivation letter, recommendation letters and a photo. Scan them clearly, name files logically ('Surname_Transcript.pdf') and keep one folder with originals and translations.",
+          "ka": "სტიპენდიების ვადები ხშირად უნივერსიტეტების ვადებზე ადრეა და ერთი დაკარგული დოკუმენტი განაცხადს აუქმებს. ყოველი ვადიდან უკან დაიწყე დათვლა: ესეს ვარიანტები, რეკომენდაციები (სთხოვე 6-8 კვირით ადრე), თარგმანები და დამოწმებული ასლები. ყველა თარიღი კალენდარში შეიტანე შეხსენებებით.\n\nტიპური დოკუმენტებია: პასპორტის ასლი, სკოლის ატესტატი და ნიშნების ამონაწერი (ხშირად თარგმნილი და დამოწმებული), ენის სერტიფიკატი, მაგალითად IELTS ან TOEFL, CV, მოტივაციის წერილი, რეკომენდაციები და ფოტო. გაასკანერე გარკვევით, ფაილებს ლოგიკური სახელები დაარქვი („Gvari_Transcript.pdf“) და დედნები და თარგმანები ერთ საქაღალდეში შეინახე.",
+          "ar": "غالباً تكون مواعيد المنح أبكر من مواعيد الجامعات، وقد يلغي مستند ناقص واحد الطلب كله. اعمل بالعكس من كل موعد نهائي: مسودات المقالة، وخطابات التوصية (اطلبها قبل 6 إلى 8 أسابيع)، والترجمات، والنسخ المصدّقة. ضع كل التواريخ في تقويم مع تذكيرات.\n\nالمستندات المعتادة: صورة جواز السفر، وشهادة المدرسة وكشف الدرجات (غالباً مترجم ومصدّق)، وشهادة لغة مثل IELTS أو TOEFL، والسيرة الذاتية، وخطاب الدافعية، وخطابات التوصية، وصورة شخصية. امسحها ضوئياً بوضوح، وسمِّ الملفات تسمية منطقية («Surname_Transcript.pdf»)، واحتفظ بمجلد واحد للأصول والترجمات."
+        },
+        "tips": {
+          "en": [
+            "Ask your school early for official transcripts; offices can be slow.",
+            "Check the file-size and format limits of the portal before scanning.",
+            "Submit at least two days before the deadline: portals get crowded and slow at the last minute."
+          ],
+          "ka": [
+            "ოფიციალური ამონაწერები სკოლას ადრე სთხოვე; კანცელარიას შეიძლება დრო დასჭირდეს.",
+            "სკანირებამდე შეამოწმე პორტალის ფაილის ზომისა და ფორმატის შეზღუდვები.",
+            "განაცხადი ვადამდე ორი დღით ადრე მაინც გააგზავნე: ბოლო წუთზე პორტალები გადატვირთულია და ნელა მუშაობს."
+          ],
+          "ar": [
+            "اطلب كشوف الدرجات الرسمية من مدرستك مبكراً؛ فقد تتأخر الإدارات.",
+            "راجع حدود حجم الملف وصيغته في البوابة قبل المسح الضوئي.",
+            "قدّم طلبك قبل الموعد النهائي بيومين على الأقل: تزدحم البوابات وتبطؤ في اللحظة الأخيرة."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "The scholarship essay",
+          "ka": "სტიპენდიის ესე",
+          "ar": "مقالة المنحة"
+        },
+        "body": {
+          "en": "Scholarship committees want to fund people who will use the opportunity and give something back. Most essays ask about three things: impact (what you have changed or achieved so far), leadership (how you act when nobody tells you what to do) and fit (why this country and this programme). Use specific stories with results, not general claims.\n\nAnswer 'why this country' honestly: name the university, programmes, research, language or industry that match your goals, and explain what you will do with the degree, including how it will help your community at home. Finish with a concrete plan, not only a dream.",
+          "ka": "სტიპენდიის კომისიას სურს დააფინანსოს ადამიანები, რომლებიც შესაძლებლობას გამოიყენებენ და სანაცვლოდ რაღაცას დაუბრუნებენ საზოგადოებას. ესეების უმეტესობა სამ რამეს ეკითხება: გავლენა (რა შეცვალე ან რა მიაღწიე ამ დრომდე), ლიდერობა (როგორ იქცევი, როცა არავინ გეუბნება რა გააკეთო) და შესაბამისობა (რატომ ეს ქვეყანა და რატომ ეს პროგრამა). გამოიყენე კონკრეტული ისტორიები შედეგებით და არა ზოგადი განცხადებები.\n\nკითხვას „რატომ ეს ქვეყანა“ გულწრფელად უპასუხე: დაასახელე უნივერსიტეტი, პროგრამები, კვლევა, ენა ან დარგი, რომელიც შენს მიზნებს ესადაგება, და ახსენი, რას გააკეთებ დიპლომით, მათ შორის როგორ დაეხმარება ის შენს თემს სახლში. დაასრულე კონკრეტული გეგმით და არა მხოლოდ ოცნებით.",
+          "ar": "تريد لجان المنح تمويل أشخاص سيستفيدون من الفرصة ويردّون الجميل. تسأل معظم المقالات عن ثلاثة أمور: الأثر (ما غيّرته أو حققته حتى الآن)، والقيادة (كيف تتصرف حين لا يخبرك أحد بما تفعل)، والملاءمة (لماذا هذا البلد وهذا البرنامج). استخدم قصصاً محددة ذات نتائج، لا ادعاءات عامة.\n\nأجب عن «لماذا هذا البلد» بصدق: اذكر الجامعة والبرامج والبحث واللغة أو القطاع الذي يناسب أهدافك، واشرح ماذا ستفعل بالشهادة، بما في ذلك كيف ستفيد مجتمعك في بلدك. واختم بخطة محددة لا بحلم فقط."
+        },
+        "tips": {
+          "en": [
+            "Use one story per paragraph: situation, your action, result, lesson.",
+            "Show, don't list: 'I started a school recycling club and measured how much paper we saved' beats 'I care about the environment'.",
+            "Ask a teacher or mentor to read it, then cut every sentence that could appear in anyone's essay."
+          ],
+          "ka": [
+            "თითო აბზაცზე ერთი ისტორია გამოიყენე: სიტუაცია, შენი ქმედება, შედეგი, გაკვეთილი.",
+            "აჩვენე და ნუ ჩამოთვლი: „სკოლაში გადამუშავების კლუბი დავაარსე და გავზომე, რამდენი ქაღალდი დავზოგეთ“ სჯობს „მაინტერესებს გარემო“-ს.",
+            "მასწავლებელს ან მენტორს წააკითხე, შემდეგ კი ამოიღე ყველა წინადადება, რომელიც ნებისმიერის ესეში შეიძლება იყოს."
+          ],
+          "ar": [
+            "استخدم قصة واحدة في كل فقرة: الموقف، وما فعلته، والنتيجة، والدرس.",
+            "أرِ ولا تعدّد: «أسست نادياً لإعادة التدوير في المدرسة وقست كمية الورق التي وفّرناها» أفضل من «أهتم بالبيئة».",
+            "اطلب من معلم أو مرشد أن يقرأها، ثم احذف كل جملة يمكن أن ترد في مقالة أي شخص."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Avoiding scams",
+          "ka": "როგორ აირიდო თაღლითობა",
+          "ar": "كيف تتجنب الاحتيال"
+        },
+        "body": {
+          "en": "The golden rule: a real scholarship never asks you to pay to apply for it or to receive the money. Official government scholarship programmes do not charge for the scholarship application. A university may have a normal application fee, which you pay to the university itself on its official site; that is different from a 'scholarship fee' demanded by a middleman.\n\nBe suspicious of emails saying you have won a scholarship you never applied for, of offers 'guaranteed' for a fee, of artificial urgency and of agents who promise success. Check the website address carefully (official government and university sites, not look-alike domains), and send your passport and personal documents only through the official application portal. If in doubt, ask your school counsellor or the embassy of the country.",
+          "ka": "ოქროს წესი: რეალური სტიპენდია არასოდეს გთხოვს გადახდას განაცხადისთვის ან თანხის მისაღებად. ოფიციალური სახელმწიფო სტიპენდიის პროგრამები სტიპენდიაზე განაცხადისთვის თანხას არ იღებენ. უნივერსიტეტს შეიძლება ჩვეულებრივი სააპლიკაციო მოსაკრებელი ჰქონდეს, რომელსაც უნივერსიტეტს უშუალოდ, მის ოფიციალურ საიტზე უხდი; ეს განსხვავდება შუამავლის მიერ მოთხოვნილი „სტიპენდიის საფასურისგან“.\n\nეჭვით შეხედე წერილებს, რომლებშიც წერია, რომ მოიგე სტიპენდია, რომელზეც განაცხადი არ გაგიგზავნია, „გარანტირებულ“ შეთავაზებებს საფასურის სანაცვლოდ, ხელოვნურ ჩქარობასა და აგენტებს, რომლებიც წარმატებას გპირდებიან. გულდასმით შეამოწმე ვებგვერდის მისამართი (სახელმწიფო და უნივერსიტეტის ოფიციალური საიტები და არა მსგავსი დომენები), პასპორტი და პირადი დოკუმენტები კი მხოლოდ ოფიციალური განაცხადის პორტალით გააგზავნე. თუ ეჭვი გაქვს, ჰკითხე სკოლის მრჩეველს ან ქვეყნის საელჩოს.",
+          "ar": "القاعدة الذهبية: المنحة الحقيقية لا تطلب منك أبداً دفع مال للتقديم عليها أو لاستلام المبلغ. والبرامج الحكومية الرسمية للمنح لا تتقاضى رسوماً على طلب المنحة. وقد تكون للجامعة رسوم تقديم عادية تدفعها للجامعة نفسها على موقعها الرسمي؛ وهذا يختلف عن «رسوم المنحة» التي يطلبها وسيط.\n\nاحذر من الرسائل التي تقول إنك فزت بمنحة لم تتقدم لها، ومن العروض «المضمونة» مقابل رسوم، ومن الاستعجال المصطنع، ومن الوسطاء الذين يعدون بالنجاح. تحقق من عنوان الموقع بدقة (مواقع الحكومات والجامعات الرسمية لا المواقع المشابهة)، ولا ترسل جواز سفرك ومستنداتك الشخصية إلا عبر بوابة التقديم الرسمية. وإن شككت فاسأل مرشد مدرستك أو سفارة الدولة."
+        },
+        "tips": {
+          "en": [
+            "Never share bank card details or passwords with anyone offering a scholarship.",
+            "Search the scholarship's name plus 'scam' and read the warnings on the official site.",
+            "You can apply to official programmes directly; you do not need an agent."
+          ],
+          "ka": [
+            "სტიპენდიის შემომთავაზებელს ბანკის ბარათის მონაცემებს ან პაროლებს არასოდეს გაუზიარებ.",
+            "მოძებნე სტიპენდიის სახელი სიტყვასთან „scam“ ერთად და წაიკითხე ოფიციალური საიტის გაფრთხილებები.",
+            "ოფიციალურ პროგრამებზე განაცხადი უშუალოდ შეგიძლია გააგზავნო; აგენტი არ გჭირდება."
+          ],
+          "ar": [
+            "لا تشارك بيانات بطاقتك المصرفية أو كلمات مرورك مع أي شخص يعرض عليك منحة.",
+            "ابحث عن اسم المنحة مع كلمة «scam» واقرأ التحذيرات في الموقع الرسمي.",
+            "يمكنك التقديم إلى البرامج الرسمية مباشرة؛ ولا تحتاج إلى وسيط."
+          ]
+        }
+      }
+    ],
+    "template": {
+      "en": "SCHOLARSHIP PLANNER (one row per scholarship)\n\nName | Provider | Level | What it covers | Eligible? (yes / no / check) | Deadline | Status\n1. [Scholarship name] | [Government / university] | [BA / MA] | [tuition, living costs, flights...] | [ ] | [date] | [not started / drafting / submitted]\n2. ...\n3. ...\n\nDOCUMENTS CHECKLIST\n[ ] Passport copy   [ ] School certificate + transcript (translated)   [ ] Language certificate   [ ] CV\n[ ] Motivation essay   [ ] 2 recommendation letters   [ ] Photo   [ ] Other: ...\n\nCALENDAR (work backwards from the deadline)\nDeadline minus 8 weeks: ask referees\nDeadline minus 6 weeks: first essay draft\nDeadline minus 3 weeks: translations and certified copies ready\nDeadline minus 1 week: final check and upload\nDeadline minus 2 days: submit",
+      "ka": "სტიპენდიების გეგმა (თითო სტიპენდია - ერთი სტრიქონი)\n\nსახელი | გამცემი | დონე | რას ფარავს | ვარგისი ვარ? (კი / არა / შესამოწმებელია) | ვადა | სტატუსი\n1. [სტიპენდიის სახელი] | [მთავრობა / უნივერსიტეტი] | [ბაკალავრი / მაგისტრი] | [სწავლის საფასური, საცხოვრებელი, ფრენები...] | [ ] | [თარიღი] | [არ დამიწყია / ვწერ / გაგზავნილია]\n2. ...\n3. ...\n\nდოკუმენტების სია\n[ ] პასპორტის ასლი   [ ] ატესტატი + ნიშნების ამონაწერი (თარგმნილი)   [ ] ენის სერტიფიკატი   [ ] CV\n[ ] მოტივაციის ესე   [ ] 2 რეკომენდაცია   [ ] ფოტო   [ ] სხვა: ...\n\nკალენდარი (ვადიდან უკან დათვალე)\nვადამდე 8 კვირით ადრე: სთხოვე რეკომენდატორებს\nვადამდე 6 კვირით ადრე: ესეს პირველი ვარიანტი\nვადამდე 3 კვირით ადრე: თარგმანები და დამოწმებული ასლები მზადაა\nვადამდე 1 კვირით ადრე: ბოლო შემოწმება და ატვირთვა\nვადამდე 2 დღით ადრე: გაგზავნა",
+      "ar": "مخطط المنح (صف لكل منحة)\n\nالاسم | الجهة المانحة | المستوى | ما تغطيه | هل أنا مؤهل؟ (نعم / لا / للتحقق) | الموعد النهائي | الحالة\n1. [اسم المنحة] | [حكومة / جامعة] | [بكالوريوس / ماجستير] | [الرسوم، المعيشة، الرحلات...] | [ ] | [التاريخ] | [لم أبدأ / أكتب / قُدّمت]\n2. ...\n3. ...\n\nقائمة المستندات\n[ ] صورة جواز السفر   [ ] شهادة المدرسة + كشف الدرجات (مترجم)   [ ] شهادة اللغة   [ ] السيرة الذاتية\n[ ] مقالة الدافعية   [ ] خطابا توصية   [ ] صورة شخصية   [ ] أخرى: ...\n\nالجدول الزمني (اعمل بالعكس من الموعد النهائي)\nقبل الموعد بـ 8 أسابيع: اطلب التوصيات\nقبل الموعد بـ 6 أسابيع: المسودة الأولى للمقالة\nقبل الموعد بـ 3 أسابيع: الترجمات والنسخ المصدّقة جاهزة\nقبل الموعد بأسبوع: المراجعة النهائية والرفع\nقبل الموعد بيومين: التقديم"
+    },
+    "links": [
+      {
+        "title": {
+          "en": "Chevening scholarships",
+          "ka": "Chevening-ის სტიპენდიები",
+          "ar": "منح Chevening"
+        },
+        "url": "https://www.chevening.org/scholarships/"
+      },
+      {
+        "title": {
+          "en": "DAAD scholarships",
+          "ka": "DAAD სტიპენდიები",
+          "ar": "منح DAAD"
+        },
+        "url": "https://www.daad.de/en/studying-in-germany/scholarships/"
+      },
+      {
+        "title": {
+          "en": "Erasmus Mundus Joint Masters catalogue",
+          "ka": "Erasmus Mundus Joint Masters-ის კატალოგი",
+          "ar": "كتالوج Erasmus Mundus Joint Masters"
+        },
+        "url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en"
+      },
+      {
+        "title": {
+          "en": "Stipendium Hungaricum",
+          "ka": "Stipendium Hungaricum",
+          "ar": "Stipendium Hungaricum"
+        },
+        "url": "https://stipendiumhungaricum.hu/"
+      },
+      {
+        "title": {
+          "en": "Türkiye Bursları (Türkiye Scholarships)",
+          "ka": "Türkiye Bursları (თურქეთის სტიპენდიები)",
+          "ar": "Türkiye Bursları (منح تركيا)"
+        },
+        "url": "https://turkiyeburslari.gov.tr/en"
+      },
+      {
+        "title": {
+          "en": "Fulbright foreign student programme",
+          "ka": "Fulbright-ის პროგრამა უცხოელი სტუდენტებისთვის",
+          "ar": "برنامج Fulbright للطلاب الأجانب"
+        },
+        "url": "https://foreign.fulbrightonline.org/"
+      }
+    ]
+  },
+  {
+    "id": "university-list",
+    "icon": "list",
+    "minutes": 12,
+    "title": {
+      "en": "Building your university list",
+      "ka": "როგორ შევადგინოთ უნივერსიტეტების სია",
+      "ar": "كيف تبني قائمة جامعاتك"
+    },
+    "summary": {
+      "en": "Balance reach, match and likely universities, compare cost, aid and teaching language, and track every application in one place.",
+      "ka": "დააბალანსე reach, match და likely უნივერსიტეტები, შეადარე ხარჯი, ფინანსური დახმარება და სწავლების ენა და ყველა განაცხადს ერთ ადგილას უთვალთვალე.",
+      "ar": "وازن بين الجامعات الطموحة والمناسبة والمضمونة، وقارن التكلفة والدعم المالي ولغة التدريس، وتابع كل طلب في مكان واحد."
+    },
+    "lessons": [
+      {
+        "title": {
+          "en": "Reach, match and likely",
+          "ka": "Reach, match და likely",
+          "ar": "الطموحة والمناسبة والمضمونة"
+        },
+        "body": {
+          "en": "A good list has three kinds of universities. Reach: your grades and scores are at or below those of the typical admitted student, or the university admits very few applicants. Match: your profile is in the middle of the typical admitted range. Likely (sometimes called safety): your profile is clearly above the typical range, and you would be happy to attend.\n\nTo place a university, compare your grades and test scores (SAT, ACT, IELTS) with the figures it publishes. US universities publish a 'Common Data Set' with grade and score ranges; UK universities state offers such as A-level grades or IB points; many European universities state the entry requirements for your school certificate. For the most selective universities even excellent students are rejected, so treat them as reach.",
+          "ka": "კარგი სია სამი ტიპის უნივერსიტეტისგან შედგება. Reach: შენი ნიშნები და ქულები ტიპური მიღებული სტუდენტის დონეზე ან უფრო დაბალია, ან უნივერსიტეტი ძალიან ცოტა აპლიკანტს იღებს. Match: შენი პროფილი მიღებულთა ტიპური დიაპაზონის შუაშია. Likely (ზოგჯერ safety): შენი პროფილი ტიპურ დიაპაზონზე აშკარად მაღალია და სიამოვნებით ისწავლიდი იქ.\n\nუნივერსიტეტის კატეგორიის დასადგენად შეადარე შენი ნიშნები და ტესტის ქულები (SAT, ACT, IELTS) იმ მონაცემებს, რომლებსაც ის აქვეყნებს. აშშ-ის უნივერსიტეტები აქვეყნებენ „Common Data Set“-ს ნიშნებისა და ქულების დიაპაზონებით; ბრიტანული უნივერსიტეტები მიუთითებენ შეთავაზებებს, მაგალითად A-level-ის ნიშნებს ან IB ქულებს; ბევრი ევროპული უნივერსიტეტი ასახელებს შესაბამის მოთხოვნებს შენი სკოლის ატესტატისთვის. ყველაზე შერჩევითი უნივერსიტეტები შესანიშნავ სტუდენტებსაც ხშირად უარს ეუბნებიან, ამიტომ ისინი reach-ად ჩათვალე.",
+          "ar": "تتكوّن القائمة الجيدة من ثلاثة أنواع من الجامعات. الطموحة (reach): درجاتك ونتائجك مساوية لمتوسط الطلاب المقبولين أو أقل منه، أو أن الجامعة تقبل عدداً قليلاً جداً من المتقدمين. المناسبة (match): ملفك في منتصف النطاق المعتاد للمقبولين. المضمونة (likely، وتسمى أحياناً safety): ملفك أعلى بوضوح من النطاق المعتاد، وتسعد بالدراسة فيها.\n\nلتحديد فئة الجامعة قارن درجاتك ونتائج اختباراتك (SAT وACT وIELTS) بالأرقام التي تنشرها. تنشر الجامعات الأمريكية «Common Data Set» بنطاقات الدرجات والنتائج؛ وتذكر الجامعات البريطانية عروضها مثل درجات A-level أو نقاط IB؛ وتحدد كثير من الجامعات الأوروبية متطلبات القبول لشهادتك المدرسية. وفي الجامعات الأكثر انتقائية يُرفض حتى الطلاب الممتازون، لذا اعتبرها جامعات طموحة."
+        },
+        "tips": {
+          "en": [
+            "A balanced list has a few reach, several match and at least two likely universities.",
+            "A 'likely' university must still be one you would really attend and can afford.",
+            "Check whether each university requires standardised tests, as policies change from year to year."
+          ],
+          "ka": [
+            "დაბალანსებულ სიაში რამდენიმე reach, რამდენიმე match და მინიმუმ ორი likely უნივერსიტეტია.",
+            "likely უნივერსიტეტიც ისეთი უნდა იყოს, სადაც მართლა ისწავლიდი და რომლის საფასურსაც გადაიხდი.",
+            "შეამოწმე, მოითხოვს თუ არა თითოეული უნივერსიტეტი სტანდარტიზებულ ტესტებს: პოლიტიკა წლიდან წლამდე იცვლება."
+          ],
+          "ar": [
+            "القائمة المتوازنة فيها عدد قليل من الجامعات الطموحة وعدة جامعات مناسبة وجامعتان مضمونتان على الأقل.",
+            "يجب أن تكون الجامعة «المضمونة» جامعة تريد الدراسة فيها فعلاً وتستطيع تحمّل تكلفتها.",
+            "تحقق مما إذا كانت كل جامعة تشترط اختبارات موحدة، فالسياسات تتغير من عام لآخر."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Beyond rankings: cost, aid, language, fit",
+          "ka": "რეიტინგებს მიღმა: ხარჯი, დახმარება, ენა, შესაბამისობა",
+          "ar": "ما وراء التصنيفات: التكلفة والدعم واللغة والملاءمة"
+        },
+        "body": {
+          "en": "Rankings are a starting point, not a decision. For each university check: total yearly cost (tuition plus living), financial aid for international students, teaching language, location and living costs, programme content, and what graduates do afterwards. A low-cost public university or a scholarship in another country may suit you better than an expensive famous name. Many public universities in Germany, for example, charge little or no tuition, but rules differ by state and by programme, so always check.\n\nBe careful about teaching language. Many programmes in Europe are taught in English, but others are in German, Italian or Dutch and need a language certificate. Also check visa rules, whether you may work part-time, and whether the degree is recognised back home, for example in Georgia, Qatar or other Gulf countries.",
+          "ka": "რეიტინგი საწყისი წერტილია და არა გადაწყვეტილება. თითოეული უნივერსიტეტისთვის შეამოწმე: წლიური მთლიანი ხარჯი (სწავლის საფასური და საცხოვრებელი), ფინანსური დახმარება საერთაშორისო სტუდენტებისთვის, სწავლების ენა, მდებარეობა და ცხოვრების ხარჯები, პროგრამის შინაარსი და ის, თუ რას აკეთებენ კურსდამთავრებულები. იაფი სახელმწიფო უნივერსიტეტი ან სტიპენდია სხვა ქვეყანაში შეიძლება შენთვის უკეთესი იყოს, ვიდრე ძვირი ცნობილი სახელი. მაგალითად, გერმანიის ბევრ სახელმწიფო უნივერსიტეტში სწავლის საფასური მცირეა ან საერთოდ არ არის, თუმცა წესები მიწების და პროგრამების მიხედვით განსხვავდება, ამიტომ ყოველთვის შეამოწმე.\n\nსწავლების ენას ყურადღება მიაქციე. ევროპაში ბევრი პროგრამა ინგლისურადაა, სხვები კი გერმანულად, იტალიურად ან ჰოლანდიურად და ენის სერტიფიკატს მოითხოვს. ასევე შეამოწმე სავიზო წესები, შეგიძლია თუ არა ნახევარდროული მუშაობა და ცნობენ თუ არა დიპლომს სახლში, მაგალითად საქართველოში, ყატარში ან სხვა ყურის ქვეყნებში.",
+          "ar": "التصنيفات نقطة انطلاق وليست قراراً. تحقق لكل جامعة من: التكلفة السنوية الإجمالية (الرسوم والمعيشة)، والدعم المالي للطلاب الدوليين، ولغة التدريس، والموقع وتكاليف المعيشة، ومحتوى البرنامج، وما يفعله الخريجون بعد التخرج. وقد تناسبك جامعة حكومية منخفضة التكلفة أو منحة في بلد آخر أكثر من اسم مشهور باهظ. فمثلاً تفرض كثير من الجامعات الحكومية في ألمانيا رسوماً قليلة أو لا تفرض رسوماً، لكن القواعد تختلف بين الولايات والبرامج، فتحقق دائماً.\n\nانتبه للغة التدريس. كثير من البرامج في أوروبا تُدرَّس بالإنجليزية، لكن غيرها بالألمانية أو الإيطالية أو الهولندية ويتطلب شهادة لغة. وتحقق أيضاً من قواعد التأشيرة، وإمكانية العمل بدوام جزئي، وهل الشهادة معترف بها في بلدك، مثل جورجيا وقطر ودول الخليج الأخرى."
+        },
+        "tips": {
+          "en": [
+            "Calculate the yearly cost in one currency and compare it with your family's budget and the scholarships you can win.",
+            "Check whether the university gives need-based or merit aid to international students: policies differ a lot.",
+            "Read the programme page, not only the university page: the same university can have very different programmes."
+          ],
+          "ka": [
+            "წლიური ხარჯი ერთ ვალუტაში გამოთვალე და შეადარე შენი ოჯახის ბიუჯეტსა და იმ სტიპენდიებს, რომლებიც შეიძლება მოიგო.",
+            "შეამოწმე, აძლევს თუ არა უნივერსიტეტი საერთაშორისო სტუდენტებს საჭიროებაზე ან მიღწევებზე დაფუძნებულ დახმარებას: პოლიტიკა ძალიან განსხვავდება.",
+            "წაიკითხე პროგრამის გვერდი და არა მხოლოდ უნივერსიტეტის: ერთსა და იმავე უნივერსიტეტში პროგრამები ძალიან განსხვავებული შეიძლება იყოს."
+          ],
+          "ar": [
+            "احسب التكلفة السنوية بعملة واحدة وقارنها بميزانية أسرتك وبالمنح التي قد تفوز بها.",
+            "تحقق مما إذا كانت الجامعة تقدّم دعماً قائماً على الحاجة أو على التفوق للطلاب الدوليين: تختلف السياسات كثيراً.",
+            "اقرأ صفحة البرنامج لا صفحة الجامعة فقط: قد تتباين البرامج داخل الجامعة الواحدة تبايناً كبيراً."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "How many to apply to",
+          "ka": "რამდენ უნივერსიტეტში გააგზავნო განაცხადი",
+          "ar": "كم جامعة تتقدم إليها"
+        },
+        "body": {
+          "en": "There is no magic number, but common guidelines help. For the US, counsellors often suggest roughly 8 to 12 universities, because each application needs essays and fees; the Common App allows up to 20 colleges. For the UK, UCAS gives you up to 5 choices in one application. You cannot apply to both Oxford and Cambridge in the same year, and medicine, dentistry and veterinary subjects allow a maximum of 4 choices. In Europe, systems are separate, so applicants often apply to several universities in two or three countries, each with its own deadlines.\n\nMore is not always better. Each application should still be of good quality. Choose a number you can finish well, and leave time before every deadline.",
+          "ka": "ჯადოსნური რიცხვი არ არსებობს, მაგრამ გავრცელებული რეკომენდაციები გვეხმარება. აშშ-ისთვის მრჩევლები ხშირად დაახლოებით 8-12 უნივერსიტეტს გვირჩევენ, რადგან თითოეულ განაცხადს ესეები და მოსაკრებელი სჭირდება; Common App-ით 20 კოლეჯამდე შეიძლება განაცხადის გაგზავნა. დიდი ბრიტანეთისთვის UCAS ერთ განაცხადში 5 არჩევანს გაძლევს. ერთსა და იმავე წელს ვერ გააგზავნი განაცხადს ორივე უნივერსიტეტში, ოქსფორდსა და კემბრიჯში, ხოლო მედიცინაში, სტომატოლოგიასა და ვეტერინარიაში მაქსიმუმ 4 არჩევანია დაშვებული. ევროპაში სისტემები ცალ-ცალკეა, ამიტომ აპლიკანტები ხშირად ორ-სამ ქვეყანაში რამდენიმე უნივერსიტეტს მიმართავენ, თითოს თავისი ვადებით.\n\nმეტი ყოველთვის უკეთესი არ არის. თითოეული განაცხადი მაინც ხარისხიანი უნდა იყოს. აირჩიე რაოდენობა, რომელსაც კარგად მოასწრებ, და ყოველ ვადამდე დრო დატოვე.",
+          "ar": "لا يوجد رقم سحري، لكن هناك إرشادات شائعة. في الولايات المتحدة ينصح المرشدون غالباً بنحو 8 إلى 12 جامعة، لأن كل طلب يحتاج إلى مقالات ورسوم؛ ويتيح Common App التقديم إلى 20 كلية كحد أقصى. وفي بريطانيا تمنحك UCAS حتى 5 خيارات في طلب واحد. ولا يمكنك التقديم إلى أكسفورد وكامبريدج معاً في العام نفسه، وتسمح تخصصات الطب وطب الأسنان والطب البيطري بحد أقصى 4 خيارات. أما في أوروبا فالأنظمة منفصلة، لذا يتقدم الطلاب غالباً إلى عدة جامعات في دولتين أو ثلاث، ولكل منها مواعيدها.\n\nالأكثر ليس دائماً الأفضل. يجب أن يبقى كل طلب بجودة جيدة. اختر عدداً تستطيع إنجازه جيداً، واترك وقتاً قبل كل موعد نهائي."
+        },
+        "tips": {
+          "en": [
+            "Count application fees in your budget; many universities charge them, and some offer fee waivers.",
+            "For UCAS, use your 5 choices across different levels of difficulty, for example 2 reach, 2 match, 1 likely.",
+            "Note early deadlines: in the UK, mid-October for Oxford, Cambridge and medicine, dentistry and veterinary courses."
+          ],
+          "ka": [
+            "განაცხადის მოსაკრებლები ბიუჯეტში გაითვალისწინე; ბევრი უნივერსიტეტი ითხოვს მათ, ზოგი კი ათავისუფლებს.",
+            "UCAS-ზე 5 არჩევანი სირთულის სხვადასხვა დონეზე განაწილე, მაგალითად 2 reach, 2 match და 1 likely.",
+            "ადრეული ვადები აღნიშნე: დიდ ბრიტანეთში ოქტომბრის შუა რიცხვები ოქსფორდის, კემბრიჯისა და მედიცინის, სტომატოლოგიისა და ვეტერინარიის პროგრამებისთვის."
+          ],
+          "ar": [
+            "أدرج رسوم التقديم في ميزانيتك؛ فكثير من الجامعات تفرضها وبعضها يقدّم إعفاءات.",
+            "في UCAS وزّع خياراتك الخمسة على مستويات صعوبة مختلفة، مثلاً 2 طموحة و2 مناسبة و1 مضمونة.",
+            "دوّن المواعيد المبكرة: في بريطانيا منتصف أكتوبر لأكسفورد وكامبريدج ولبرامج الطب وطب الأسنان والطب البيطري."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Application systems",
+          "ka": "განაცხადის სისტემები",
+          "ar": "أنظمة التقديم"
+        },
+        "body": {
+          "en": "Know which door you enter through. Common App (commonapp.org): one profile, one main essay and one set of recommendations for many US universities, plus extra questions for each. UCAS (ucas.com): the central system for UK universities, with one personal statement for all choices. Universitaly (universitaly.it): the Italian portal where international students pre-enrol for Italian universities and the visa process; many universities also run their own application. Studielink (studielink.nl): the Dutch system for registering at universities and universities of applied sciences. uni-assist (uni-assist.de): a service that checks international documents for many German universities; some universities use their own portals instead.\n\nSystems change, and each university may add its own steps, so always confirm on the university's official page.",
+          "ka": "იცოდე, რომელი კარიბჭით შედიხარ. Common App (commonapp.org): ერთი პროფილი, ერთი მთავარი ესე და ერთი კომპლექტი რეკომენდაცია აშშ-ის ბევრი უნივერსიტეტისთვის, თითოეულისთვის დამატებითი კითხვებით. UCAS (ucas.com): ბრიტანული უნივერსიტეტების ცენტრალური სისტემა, ერთი პირადი განცხადებით ყველა არჩევანისთვის. Universitaly (universitaly.it): იტალიური პორტალი, სადაც საერთაშორისო სტუდენტები წინასწარ რეგისტრირდებიან იტალიურ უნივერსიტეტებში და სავიზო პროცესისთვის; ბევრ უნივერსიტეტს თავისი განაცხადიც აქვს. Studielink (studielink.nl): ნიდერლანდების სისტემა უნივერსიტეტებსა და გამოყენებითი მეცნიერებების უნივერსიტეტებში რეგისტრაციისთვის. uni-assist (uni-assist.de): სერვისი, რომელიც გერმანიის ბევრი უნივერსიტეტისთვის საერთაშორისო დოკუმენტებს ამოწმებს; ზოგი უნივერსიტეტი ამის ნაცვლად საკუთარ პორტალს იყენებს.\n\nსისტემები იცვლება და თითოეულ უნივერსიტეტს შეიძლება საკუთარი დამატებითი ნაბიჯები ჰქონდეს, ამიტომ ყოველთვის უნივერსიტეტის ოფიციალურ გვერდზე დაადასტურე.",
+          "ar": "اعرف من أي باب ستدخل. Common App (commonapp.org): ملف واحد ومقالة رئيسية واحدة ومجموعة توصيات واحدة لكثير من الجامعات الأمريكية، مع أسئلة إضافية لكل جامعة. UCAS (ucas.com): النظام المركزي للجامعات البريطانية، مع بيان شخصي واحد لجميع الخيارات. Universitaly (universitaly.it): البوابة الإيطالية التي يسجّل فيها الطلاب الدوليون تسجيلاً أولياً في الجامعات الإيطالية ولإجراءات التأشيرة؛ وكثير من الجامعات لديها طلب تقديم خاص بها أيضاً. Studielink (studielink.nl): النظام الهولندي للتسجيل في الجامعات وجامعات العلوم التطبيقية. uni-assist (uni-assist.de): خدمة تفحص المستندات الدولية لكثير من الجامعات الألمانية؛ وبعض الجامعات تستخدم بوابات خاصة بها بدلاً منها.\n\nتتغير الأنظمة، وقد تضيف كل جامعة خطواتها الخاصة، لذا تأكد دائماً من الصفحة الرسمية للجامعة."
+        },
+        "tips": {
+          "en": [
+            "Create accounts early and look at deadlines and fees before you finalise your list.",
+            "Keep digital copies of transcripts and certificates, with translations, ready for any system.",
+            "Start from each system's official site: unofficial sites often copy it with errors."
+          ],
+          "ka": [
+            "ანგარიშები ადრე შექმენი და სიის დასრულებამდე ვადები და მოსაკრებლები გადახედე.",
+            "ნიშნების ამონაწერებისა და სერტიფიკატების ციფრული ასლები თარგმანებთან ერთად ნებისმიერი სისტემისთვის მზად გქონდეს.",
+            "დაიწყე თითოეული სისტემის ოფიციალური საიტიდან: არაოფიციალური საიტები მას ხშირად შეცდომებით აკოპირებენ."
+          ],
+          "ar": [
+            "أنشئ الحسابات مبكراً وراجع المواعيد والرسوم قبل أن تنهي قائمتك.",
+            "احتفظ بنسخ رقمية من كشوف الدرجات والشهادات مع ترجماتها جاهزة لأي نظام.",
+            "ابدأ من الموقع الرسمي لكل نظام: فالمواقع غير الرسمية تنسخه غالباً مع أخطاء."
+          ]
+        }
+      },
+      {
+        "title": {
+          "en": "Keep a tracker",
+          "ka": "აწარმოე მეთვალყურეობის ცხრილი",
+          "ar": "احتفظ بجدول متابعة"
+        },
+        "body": {
+          "en": "With ten or more universities, you will lose track of dates, essays and logins unless you keep a tracker. A simple spreadsheet is enough. For each university record the tier (reach, match, likely), programme, deadline, application system, fee, required tests, essays, recommendations, scholarship options and status.\n\nReview the tracker every week. Mark each item when it is done, not just started. Share a read-only copy with a parent or counsellor so they can remind you; and when decisions arrive, add the result, the offer and the aid, so that you can compare your final options calmly.",
+          "ka": "ათი ან მეტი უნივერსიტეტის შემთხვევაში ვადები, ესეები და პაროლები აგერევა, თუ ცხრილს არ აწარმოებ. საკმარისია მარტივი ცხრილი. თითოეული უნივერსიტეტისთვის ჩაწერე კატეგორია (reach, match, likely), პროგრამა, ვადა, განაცხადის სისტემა, მოსაკრებელი, საჭირო ტესტები, ესეები, რეკომენდაციები, სტიპენდიის შესაძლებლობები და სტატუსი.\n\nცხრილი ყოველკვირეულად გადაამოწმე. პუნქტი მაშინ მონიშნე, როცა დასრულებულია და არა მხოლოდ დაწყებული. მშობელს ან მრჩეველს მხოლოდ საკითხავი ასლი გაუზიარე, რომ შეგახსენონ; გადაწყვეტილებების მიღებისას კი დაამატე შედეგი, შეთავაზება და დახმარება, რომ საბოლოო არჩევანი მშვიდად შეადარო.",
+          "ar": "عندما تتقدم إلى عشر جامعات أو أكثر ستضيع منك المواعيد والمقالات وبيانات الدخول ما لم تحتفظ بجدول متابعة. يكفي جدول بيانات بسيط. سجّل لكل جامعة الفئة (طموحة أو مناسبة أو مضمونة) والبرنامج والموعد النهائي ونظام التقديم والرسوم والاختبارات المطلوبة والمقالات والتوصيات وخيارات المنح والحالة.\n\nراجع الجدول كل أسبوع. علّم على كل بند عندما يكتمل لا عندما يبدأ فقط. شارك نسخة للقراءة فقط مع أحد الوالدين أو المرشد ليذكّرك؛ وعند وصول القرارات أضف النتيجة والعرض والدعم المالي لتقارن خياراتك النهائية بهدوء."
+        },
+        "tips": {
+          "en": [
+            "Use colours: red = not started, yellow = in progress, green = submitted.",
+            "Store passwords in a password manager, not in the tracker.",
+            "Add a 'my reason' column: one sentence on why you want each programme."
+          ],
+          "ka": [
+            "გამოიყენე ფერები: წითელი = არ დაწყებულა, ყვითელი = მიმდინარეობს, მწვანე = გაგზავნილია.",
+            "პაროლები პაროლების მენეჯერში შეინახე და არა ცხრილში.",
+            "დაამატე სვეტი „ჩემი მიზეზი“: ერთი წინადადება იმაზე, რატომ გინდა თითოეული პროგრამა."
+          ],
+          "ar": [
+            "استخدم الألوان: أحمر = لم يبدأ، أصفر = قيد العمل، أخضر = تم التقديم.",
+            "احفظ كلمات المرور في مدير كلمات مرور لا في الجدول.",
+            "أضف عموداً بعنوان «سببي»: جملة واحدة عن سبب رغبتك في كل برنامج."
+          ]
+        }
+      }
+    ],
+    "template": {
+      "en": "UNIVERSITY LIST TRACKER\n\nMy priorities (rank 1–5): cost / subject strength / location / teaching language / career outcomes\n\nREACH (2–3)\n1. [University] — [Programme] — System: [Common App / UCAS / own portal] — Deadline: [date]\n   Requirements: [tests, essays, recommendations] — Cost per year: [amount] — Aid: [yes / no / check] — Status: [ ]\n\nMATCH (3–5)\n1. [same fields]\n\nLIKELY (2–3)\n1. [same fields]\n\nWEEKLY CHECK\n[ ] Next deadline: ...   [ ] Documents still missing: ...   [ ] Referees reminded: ...   [ ] Scholarships to apply for: ...",
+      "ka": "უნივერსიტეტების სიის ცხრილი\n\nჩემი პრიორიტეტები (დაალაგე 1–5): ხარჯი / საგნის სიძლიერე / მდებარეობა / სწავლების ენა / კარიერული შედეგები\n\nREACH (2–3)\n1. [უნივერსიტეტი] — [პროგრამა] — სისტემა: [Common App / UCAS / საკუთარი პორტალი] — ვადა: [თარიღი]\n   მოთხოვნები: [ტესტები, ესეები, რეკომენდაციები] — ხარჯი წელიწადში: [თანხა] — დახმარება: [კი / არა / შესამოწმებელია] — სტატუსი: [ ]\n\nMATCH (3–5)\n1. [იგივე ველები]\n\nLIKELY (2–3)\n1. [იგივე ველები]\n\nყოველკვირეული შემოწმება\n[ ] უახლოესი ვადა: ...   [ ] ჯერ კიდევ აკლია დოკუმენტები: ...   [ ] რეკომენდატორებს შეეხსენათ: ...   [ ] სტიპენდიები, რომლებზეც უნდა გავაგზავნო განაცხადი: ...",
+      "ar": "جدول متابعة قائمة الجامعات\n\nأولوياتي (رتّبها من 1 إلى 5): التكلفة / قوة التخصص / الموقع / لغة التدريس / فرص العمل بعد التخرج\n\nالطموحة (2–3)\n1. [الجامعة] — [البرنامج] — النظام: [Common App / UCAS / بوابة الجامعة] — الموعد النهائي: [التاريخ]\n   المتطلبات: [الاختبارات، المقالات، التوصيات] — التكلفة سنوياً: [المبلغ] — الدعم المالي: [نعم / لا / للتحقق] — الحالة: [ ]\n\nالمناسبة (3–5)\n1. [الحقول نفسها]\n\nالمضمونة (2–3)\n1. [الحقول نفسها]\n\nمراجعة أسبوعية\n[ ] الموعد القادم: ...   [ ] مستندات ما زالت ناقصة: ...   [ ] تذكير من يكتبون التوصيات: ...   [ ] منح يجب التقديم إليها: ..."
+    },
+    "links": [
+      {
+        "title": {
+          "en": "Common App",
+          "ka": "Common App",
+          "ar": "Common App"
+        },
+        "url": "https://www.commonapp.org/"
+      },
+      {
+        "title": {
+          "en": "UCAS: applying to university",
+          "ka": "UCAS: უნივერსიტეტში განაცხადი",
+          "ar": "UCAS: التقديم إلى الجامعة"
+        },
+        "url": "https://www.ucas.com/applying"
+      },
+      {
+        "title": {
+          "en": "Universitaly",
+          "ka": "Universitaly",
+          "ar": "Universitaly"
+        },
+        "url": "https://www.universitaly.it/"
+      },
+      {
+        "title": {
+          "en": "Studielink",
+          "ka": "Studielink",
+          "ar": "Studielink"
+        },
+        "url": "https://www.studielink.nl/"
+      },
+      {
+        "title": {
+          "en": "uni-assist",
+          "ka": "uni-assist",
+          "ar": "uni-assist"
+        },
+        "url": "https://www.uni-assist.de/en/"
+      },
+      {
+        "title": {
+          "en": "BigFuture (College Board): college search",
+          "ka": "BigFuture (College Board): კოლეჯის ძიება",
+          "ar": "BigFuture (College Board): البحث عن كلية"
+        },
+        "url": "https://bigfuture.collegeboard.org/"
+      }
+    ]
+  }
+]

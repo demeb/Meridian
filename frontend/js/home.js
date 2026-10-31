@@ -121,15 +121,13 @@
   function paintFacts() {
     var host = document.getElementById('factGrid');
     if (!host || !facts.length) return;
-    host.innerHTML = facts.filter(function (f) { return f.home; }).map(function (fact) {
-      return '<article class="fact" data-reveal>' +
-        '<span class="fact-region">' + M.t('research.region.global') + ' · ' + M.esc(fact.year) + '</span>' +
+    // four short findings, each tied to the problem Meridian solves; details on /about/research
+    host.innerHTML = facts.filter(function (f) { return f.home; }).sort(function (a, b) { return a.home - b.home; }).map(function (fact) {
+      return '<a class="fact fact-mini" data-reveal href="' + M.esc(fact.url) + '" target="_blank" rel="noopener noreferrer" title="' + M.esc(M.pick(fact.detail)) + '">' +
         '<span class="fact-value">' + M.esc(fact.stat) + '</span>' +
         '<p class="fact-label">' + M.esc(M.pick(fact.label)) + '</p>' +
-        '<p class="fact-claim">' + M.esc(M.pick(fact.detail)) + '</p>' +
-        '<p class="fact-source">' + M.t('research.source') + ' <a href="' + M.esc(fact.url) +
-          '" target="_blank" rel="noopener noreferrer">' + M.esc(fact.source) + '</a></p>' +
-      '</article>';
+        '<span class="fact-src">' + M.esc(String(fact.source).split(/ [—–-] /)[0]) + (/^\d{4}/.test(fact.year || '') ? ' · ' + M.esc(String(fact.year).slice(0, 4)) : '') + '</span>' +
+      '</a>';
     }).join('');
     M.observeReveal(host);
   }
@@ -144,29 +142,16 @@
     return '<span class="badge ' + tone + ' badge-dot">' + days + ' ' + M.t('home.rail.days') + '</span>';
   }
 
+  /* small cards: flag, deadline, name, organiser — the whole card is the link */
   function programCard(program) {
     var locked = program.locked;
-    var summary = locked
-      ? M.t('common.unlock')
-      : M.pick(program.summary).slice(0, 132) + '…';
-    return '<article class="card card-hover card-lit program-card" data-reveal>' +
-      '<div class="pc-top">' +
-        '<span class="program-flag">' + program.flag + '</span>' +
-        deadlineBadge(program) +
-      '</div>' +
-      '<h3>' + M.esc(M.pick(program.name)) + '</h3>' +
-      '<p class="pc-desc">' + M.esc(summary) + '</p>' +
-      '<div class="program-meta">' +
-        '<span>' + M.icon('pin', 14) + M.esc(M.pick(program.country)) + '</span>' +
-        '<span>' + M.icon('clock', 14) + M.esc(M.pick(program.duration)) + '</span>' +
-      '</div>' +
-      '<div class="pc-foot">' +
-        '<span class="badge badge-brand">' + M.esc(program.org) + '</span>' +
-        '<a class="btn-link" href="/programs?p=' + encodeURIComponent(program.id) + '">' +
-          (locked ? M.icon('lock', 16) : '') + M.t('common.learnMore') +
-          M.icon('arrowRight', 16) + '</a>' +
-      '</div>' +
-    '</article>';
+    return '<a class="new-card" data-reveal href="/programs/' + encodeURIComponent(program.id) + '">' +
+      '<span class="nc-top"><span class="program-flag">' + program.flag + '</span>' + deadlineBadge(program) + '</span>' +
+      '<b class="nc-name">' + M.esc(M.pick(program.name)) + '</b>' +
+      '<span class="nc-org" title="' + M.esc(program.org) + '">' + M.esc(program.org) + '</span>' +
+      '<span class="nc-foot"><span>' + M.icon('pin', 13) + M.esc(M.pick(program.country)) + '</span>' +
+        '<span class="nc-go">' + (locked ? M.icon('lock', 14) : '') + M.t('common.learnMore') + M.icon('arrowRight', 14) + '</span></span>' +
+    '</a>';
   }
 
   function paintNewPrograms() {
@@ -174,7 +159,7 @@
     if (!host) return;
     var recent = programs.slice().sort(function (a, b) {
       return (b.opens || '') < (a.opens || '') ? -1 : 1;
-    }).slice(0, 6);
+    }).slice(0, 8);
     host.innerHTML = recent.map(programCard).join('');
     M.observeReveal(host);
   }

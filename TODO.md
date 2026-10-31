@@ -1,65 +1,62 @@
-# Oct 30 Website — overnight checklist (31 Oct 2026)
+# Oct 31 Website — overnight checklist (1 Nov 2026)
 
 Legend: [ ] open · [x] done and verified · [!] blocked (reason)
+Stop rule from the user: if the weekly limit reaches 90%, stop all work.
 
-## Data (research agents → round6, merged with tools/merge_round5.py)
-- [x] 2000 projects / 500 scholarships — 2,067 / 588
-- [!] 30% of new projects in Georgia — 167 Georgian records (146 new of 1,947 new = 7.5%): most Georgian calls are on Facebook (login wall) or sites that block automated reading, and autumn calls had closed
-- [x] More exchanges + FLEX (FLEX also shown under Exchange) — exchange 85 + FLEX 32 (was 5 + 2)
-- [!] Facebook pages as sources — logged-out Facebook shows no posts; the linked post's 4 visible items were already in Meridian, 4 more images need a login
-- [x] Universities: more full profiles + other tests (GMAT, LSAT, UCAT…) — 338 full profiles (was 222)
-- [x] Prep: Georgian national exams (NAEC past papers), official materials per section, all university tests — 36 exams, 323 links
-- [x] Georgian/Arabic for new records + the 47 English-only university profiles — all 2,655 programmes and 338 profiles
-  - programme batches in round6/translate/in-01…in-27 (Georgia → Gulf → scholarships → rest): 01–06 running; queue 07–27
-  - do NOT re-run extract_untranslated.py while translators run (it rewrites in-NN); new research after the 31 Oct merge → separate prefix
+## 1. Universities (first goal)
+- [ ] Research all 1,197 basic universities → full profiles (round7, 100 batches of 12; Sonnet agents)
+  - [ ] Czech, Italian, Spanish first (b001–b009)
+  - [ ] the rest by QS rank (b010–b100)
+- [ ] New fields: school qualification (national / A level / IB / US diploma), teaching language, English-taught bachelors, study fields
+- [ ] Same new fields for the 338 existing profiles
+- [x] Filters: school qualification, teaching language, study field search ("best universities in my field")
+- [ ] Merge (tools/merge_universities.py reads round7) + Georgian/Arabic complete
 
-## Navigation and layout
-- [x] Home link back in the nav
-- [x] "Mentorship" dropdown = Teachers + Prep; Counselling stays separate
-- [x] Language picker as a dropdown (default English)
-- [x] Log in / Create account fit in the header in every language
-- [x] Back button returns to the filtered list (e.g. Qatar projects), not just "All results"
-- [x] Collapse button (top right) on long panels: my applications, saved universities, etc.
+## 2. Home
+- [x] Research block: smaller, only 4 findings tied to the problem (1 in 15 · $6 · 372:1 · 22% vs 51%)
+- [x] "New on the platform": small cards (name, organiser, country), whole card is the link
 
-## Home
-- [x] Earth fills the hero again (bigger), animation kept
-- [x] Highlights: button to switch to "Top 10 in my country" (from sign-up country)
+## 3. Programmes page (most important: speed)
+- [x] Programmes page lag → minimum (globe 43 ms → 0.5 ms a frame: countries painted into the Earth texture; scripts/map data gzipped: 4.5 MB → 1.5 MB)
+- [x] Globe turns black when zooming in close (map-tile engine removed)
+- [x] Left/right arrow buttons for the type chips row
 
-## Filters and lists
-- [x] Country filter searchable ("qa" → Qatar); review every filter
-- [x] Major / field filter (programmes, scholarships, universities)
-- [x] Saved button fills blue when saved
-- [x] Scholarships page filter row broken until clicked; general lag
-- [x] Smoother programme opening and globe dragging
+## 4. Filters (everywhere)
+- [x] Filter panel background matches the site colours
+- [x] No plain white boxes: every select is a site-styled dropdown; checkboxes, radios, sliders restyled
+- [x] Teachers: remove counselling subjects (US/UK/Europe admissions, essays, CVs…) from the subject filter
+- [x] Teachers: target region = continents only
+- [x] Teachers: nicer max-price-per-hour slider
 
-## Programmes
-- [x] Tutor suggestion on programme pages (e.g. UWC → teachers filtered to UWC)
+## 5. Menus
+- [x] Dropdowns (Mentorship, About, language) readable — no transparent background
 
-## Universities
-- [x] Logos in the small box on every university card (downloaded files)
-- [x] Other required tests shown on the page and in Excel
+## 6. Prep
+- [x] Polish once more, add more information (who needs it, scores, 3 tips per exam), exam search + free-only + type filters
 
-## Excel export
-- [x] All money in USD, better structure, countries with 5+ universities grouped
-- [x] Other tests column
+## 7. Counselling
+- [x] Self-test boxes smaller and attractive (with pictures — images from the course agent)
+- [ ] Mini-courses: 3 more (two full rows), polish; pictures style reused
 
-## Sign-up and account
-- [x] Date of birth required (day, month, year)
-- [x] Email codes reach Gmail: Gmail SMTP sender (user adds app password on Render) — code ready; user adds app password on Render
+## 8. Packages
+- [x] Rethink Explorer / Compass / Navigator contents (Explorer decent, paid clearly better)
 
-## Pricing
-- [x] Compass $7.99, Navigator $14.99, everything in USD (no GEL)
+## 9. About us
+- [x] Polish: mission/vision, live numbers, 4 principles, who we are — no repeated stats
 
-## Counselling
-- [x] No general mention of partner-school counsellors; school members see their school's counsellors, webinars and programmes
-- [x] Independent counsellors for everyone; affiliation shown on profile
-- [x] Counsellor filter: General, EU, US, Asian university counselling
-- [x] Mini-courses: a picture for each course (Europass template etc.)
+## 10. Languages
+- [ ] Finish Arabic, polish Georgian
 
-## Prep
-- [x] Less text, cleaner structure
+## 11. Sign-up / sign-in
+- [!] Verification code sent automatically to email on sign-up — code already sends it; real delivery needs the Gmail app password in Render (user)
+
+## 12. Search engine
+- [x] Google description: new titles/descriptions on every page, og tags, sitemap.xml (4,189 URLs), robots.txt, structured data — Google updates on its next crawl
+
+## 13. AI (when the key exists)
+- [ ] Meridian AI recommends universities and projects from the student's CV / achievements
 
 ## Finish
-- [x] Smoke test passes, browser check EN/KA/AR, light/dark, mobile
-- [ ] Commit + push (approved) → verify meridiangoal.com
-- [ ] Morning report incl. what the user must do on Render (Gmail app password, ANTHROPIC_API_KEY)
+- [ ] Smoke test, browser check EN/KA/AR, light/dark, mobile
+- [ ] Commit (push only after the user confirms in the morning)
+- [ ] Morning report

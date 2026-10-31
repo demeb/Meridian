@@ -19,7 +19,7 @@
    "url": "https://api.uis.unesco.org/api/public/data/indicators?indicator=26637&geoUnit=UIS:%20World&start=2000",
    "year": "2023",
    "confidence": "high",
-   "home": true
+   "home": false
   },
   {
    "id": "stat-outbound-share",
@@ -59,7 +59,7 @@
    "url": "https://api.uis.unesco.org/api/public/data/indicators?indicator=GER.5T8&geoUnit=UIS:%20World&start=2015",
    "year": "2021 (income groups); 2023 (world)",
    "confidence": "high",
-   "home": true
+   "home": false
   },
   {
    "id": "stat-out-of-school",
@@ -159,7 +159,7 @@
    "url": "https://www.unicef.org/press-releases/around-3-4-youth-lack-skills-needed-employment-new-report-says",
    "year": "2022",
    "confidence": "high",
-   "home": true
+   "home": false
   },
   {
    "id": "stat-youth-neet",
@@ -179,7 +179,7 @@
    "url": "https://www.ilo.org/resource/news/youth-unemployment-rises-young-people-face-harder-road-decent-work",
    "year": "2025 (published Aug 2026)",
    "confidence": "high",
-   "home": true
+   "home": false
   },
   {
    "id": "stat-household-spending",
@@ -259,7 +259,7 @@
    "url": "https://www.schoolcounselor.org/About-School-Counseling/School-Counselor-Roles-Ratios",
    "year": "2024–25",
    "confidence": "high",
-   "home": false
+   "home": 3
   },
   {
    "id": "stat-counsellor-time",
@@ -279,7 +279,7 @@
    "url": "https://www.nacacnet.org/school-counseling/",
    "year": "survey year not stated",
    "confidence": "medium",
-   "home": false
+   "home": 4
   },
   {
    "id": "stat-undermatch",
@@ -299,7 +299,7 @@
    "url": "https://www.brookings.edu/articles/the-missing-one-offs-the-hidden-supply-of-high-achieving-low-income-students/",
    "year": "2013",
    "confidence": "high",
-   "home": false
+   "home": 1
   },
   {
    "id": "stat-information-intervention",
@@ -319,7 +319,7 @@
    "url": "https://siepr.stanford.edu/publications/working-paper/expanding-college-opportunities-high-achieving-low-income-students",
    "year": "2013",
    "confidence": "high",
-   "home": true
+   "home": 2
   },
   {
    "id": "stat-self-funded",
@@ -339,7 +339,7 @@
    "url": "https://opendoorsdata.org/wp-content/uploads/2025/11/OD25_Fast-Facts.pdf",
    "year": "2024/25",
    "confidence": "high",
-   "home": true
+   "home": false
   },
   {
    "id": "stat-scholarship-odds",

@@ -1,0 +1,1046 @@
+{
+ "sat": {
+  "who": {
+   "en": "Students aiming at US universities (and some in Canada, the Gulf and Europe) that ask for or value SAT scores.",
+   "ka": "მოსწავლეები, რომლებიც აშშ-ის (და ზოგ კანადის, ყურის ქვეყნებისა და ევროპის) უნივერსიტეტებში აპირებენ ჩაბარებას, სადაც SAT-ის ქულას ითხოვენ ან აფასებენ.",
+   "ar": "الطلاب الذين يستهدفون الجامعات الأمريكية (وبعض جامعات كندا والخليج وأوروبا) التي تطلب درجات SAT أو تقدّرها."
+  },
+  "scores": {
+   "en": "Total score is 400–1600: each of the two sections is scored 200–800. There is no single passing score; every university publishes its own typical range.",
+   "ka": "საერთო ქულა არის 400–1600: ორივე ნაწილი ფასდება 200–800-ით. ერთიანი გამსვლელი ქულა არ არსებობს; თითოეული უნივერსიტეტი თავის ტიპურ დიაპაზონს თავად აქვეყნებს.",
+   "ar": "الدرجة الكلية 400–1600، وكل قسم من القسمين يُقدَّر من 200 إلى 800. لا توجد درجة نجاح موحّدة؛ كل جامعة تنشر النطاق المعتاد لديها."
+  },
+  "tips": {
+   "en": [
+    "Install Bluebook early and take the official full-length digital practice tests.",
+    "Since each section adapts, treat the first module carefully: it sets your second module's difficulty.",
+    "Learn the built-in Desmos calculator; many Math questions are faster with graphs."
+   ],
+   "ka": [
+    "Bluebook ადრე დააინსტალირე და ოფიციალური სრული ციფრული საცდელი ტესტები ჩააბარე.",
+    "რადგან თითოეული ნაწილი ადაპტირდება, პირველ მოდულს ფრთხილად მოეკიდე: ის განსაზღვრავს მეორეს სირთულეს.",
+    "ისწავლე ჩაშენებული Desmos-ის კალკულატორი; მათემატიკის ბევრი კითხვა გრაფიკით უფრო სწრაფად იხსნება."
+   ],
+   "ar": [
+    "ثبّت Bluebook مبكراً وأجرِ اختبارات التدريب الرقمية الرسمية الكاملة.",
+    "بما أن كل قسم يتكيّف، انتبه جيداً للوحدة الأولى لأنها تحدد صعوبة الثانية.",
+    "تعلّم آلة Desmos المدمجة؛ كثير من أسئلة الرياضيات أسرع بالرسم البياني."
+   ]
+  }
+ },
+ "act": {
+  "who": {
+   "en": "Students applying to US universities, which accept the ACT as an alternative to the SAT, and some universities elsewhere.",
+   "ka": "მოსწავლეები, რომლებიც აშშ-ის უნივერსიტეტებში აბარებენ, სადაც ACT-ს SAT-ის ალტერნატივად იღებენ, და ზოგ სხვა ქვეყნის უნივერსიტეტში.",
+   "ar": "الطلاب المتقدمون إلى الجامعات الأمريكية التي تقبل ACT بديلاً عن SAT، وإلى بعض الجامعات في بلدان أخرى."
+  },
+  "scores": {
+   "en": "Each section and the composite are scored 1–36; the composite averages the required sections. Universities publish their own typical ranges, and there is no pass mark.",
+   "ka": "თითოეული ნაწილი და საერთო (composite) ქულა ფასდება 1–36-ით; საერთო ქულა სავალდებულო ნაწილების საშუალოა. უნივერსიტეტები თავიანთ ტიპურ დიაპაზონს აქვეყნებენ, გამსვლელი ქულა არ არსებობს.",
+   "ar": "كل قسم والدرجة المركّبة (composite) تُقدَّر من 1 إلى 36، والمركّبة هي متوسط الأقسام الإلزامية. تنشر الجامعات نطاقاتها المعتادة، ولا توجد درجة نجاح."
+  },
+  "tips": {
+   "en": [
+    "Practise under timed conditions: ACT sections are fast, with little time per question.",
+    "Answer every question; wrong answers are not penalised, so never leave blanks.",
+    "Use official ACT practice tests on act.org to learn the exact question styles."
+   ],
+   "ka": [
+    "ივარჯიშე დროის შეზღუდვით: ACT-ის ნაწილები სწრაფია და თითო კითხვაზე ცოტა დრო გაქვს.",
+    "უპასუხე ყველა კითხვას; არასწორი პასუხისთვის ქულა არ აკლდება, ამიტომ ცარიელი არაფერი დატოვო.",
+    "გამოიყენე act.org-ზე არსებული ოფიციალური საცდელი ტესტები კითხვების ზუსტი ტიპების გასაცნობად."
+   ],
+   "ar": [
+    "تدرّب بوقت محدد: أقسام ACT سريعة ووقت السؤال قصير.",
+    "أجب عن كل سؤال؛ لا تُخصم درجات على الإجابة الخاطئة فلا تترك فراغاً.",
+    "استخدم اختبارات ACT الرسمية على act.org لتتعرف على أنماط الأسئلة بدقة."
+   ]
+  }
+ },
+ "naec-georgia": {
+  "who": {
+   "en": "Anyone entering a bachelor's programme at a Georgian university, plus applicants for state grants that cover part of the tuition.",
+   "ka": "ყველა, ვინც საქართველოს უნივერსიტეტში ბაკალავრიატზე ჩაბარებას აპირებს, და სახელმწიფო გრანტის მაძიებლები, რომელიც სწავლის საფასურის ნაწილს ფარავს.",
+   "ar": "كل من يريد الالتحاق ببرنامج البكالوريوس في جامعة جورجية، ومن يتقدم للمنح الحكومية التي تغطي جزءاً من الرسوم."
+  },
+  "scores": {
+   "en": "Scores are scaled by NAEC (see its 'How scaling works' page). Each programme sets which subjects count and its own minimum thresholds, so read the applicant handbook.",
+   "ka": "ქულები NAEC-ის მიერ სკალირდება (იხ. გვერდი „როგორ მუშაობს სკალირება“). თითოეული პროგრამა თავად განსაზღვრავს, რომელი საგნები ითვლება და რა მინიმალური ზღვარია, ამიტომ წაიკითხე აბიტურიენტის სახელმძღვანელო.",
+   "ar": "يقوم المركز الوطني NAEC بتحويل الدرجات إلى مقياس موحّد (انظر صفحة «كيف يعمل التحويل»). كل برنامج يحدد المواد المحتسبة وحدوده الدنيا، فاقرأ دليل المتقدّم."
+  },
+  "tips": {
+   "en": [
+    "Check each target programme's required subjects and minimum thresholds in the applicant handbook.",
+    "Solve past exam papers on naec.ge under timed conditions.",
+    "Study the official 2026 subject programmes: exams follow them closely."
+   ],
+   "ka": [
+    "აბიტურიენტის სახელმძღვანელოში შეამოწმე სასურველი პროგრამის საგნები და მინიმალური ზღვრები.",
+    "naec.ge-ზე არსებული წინა წლების გამოცდები დროის შეზღუდვით ამოხსენი.",
+    "შეისწავლე ოფიციალური საგამოცდო პროგრამები: გამოცდები მათ მკაცრად მისდევს."
+   ],
+   "ar": [
+    "راجع في دليل المتقدّم المواد المطلوبة والحدود الدنيا للبرنامج الذي تستهدفه.",
+    "حلّ امتحانات السنوات السابقة من موقع naec.ge بوقت محدد.",
+    "ادرس البرامج الرسمية للمواد؛ فالامتحانات تتبعها عن قرب."
+   ]
+  }
+ },
+ "qu-placement": {
+  "who": {
+   "en": "Applicants to Qatar University who lack a high enough IELTS/TOEFL or SAT/ACT score and want to avoid the Foundation Program.",
+   "ka": "კატარის უნივერსიტეტის აპლიკანტები, რომელთაც საკმარისი IELTS/TOEFL ან SAT/ACT ქულა არ აქვთ და Foundation Program-ის თავიდან აცილება უნდათ.",
+   "ar": "المتقدمون إلى جامعة قطر الذين لا تكفي درجاتهم في IELTS/TOEFL أو SAT/ACT ويريدون تجنّب البرنامج التأسيسي."
+  },
+  "scores": {
+   "en": "ACCUPLACER ESL exemption needs 400 in total with 100+ in Reading Skills and Language Use. QU-Placer Math is scored 125–275, and 235+ places you in Calculus 1.",
+   "ka": "ACCUPLACER ESL-ისგან გათავისუფლებისთვის საჭიროა ჯამში 400, ამასთან Reading Skills და Language Use-ში 100+. QU-Placer Math ფასდება 125–275-ით; 235+ Calculus 1-ში გაგანაწილებს.",
+   "ar": "للإعفاء في ACCUPLACER ESL تحتاج إلى 400 مجموعاً مع 100 فأكثر في Reading Skills وLanguage Use. يُقدَّر QU-Placer Math من 125 إلى 275، و235 فأكثر تضعك في Calculus 1."
+  },
+  "tips": {
+   "en": [
+    "Focus practice on Reading Skills and Language Use, where QU asks for at least 100.",
+    "ACCUPLACER ESL adapts to your answers, so work carefully rather than guessing quickly.",
+    "For QU-Placer Math, review pre-calculus topics; 70 questions in 2 hours is about 1.7 minutes each."
+   ],
+   "ka": [
+    "ივარჯიშე ძირითადად Reading Skills-სა და Language Use-ზე, სადაც QU მინიმუმ 100-ს ითხოვს.",
+    "ACCUPLACER ESL შენს პასუხებს ერგება, ამიტომ დაუფიქრებლად ნუ გამოიცნობ.",
+    "QU-Placer Math-ისთვის გაიმეორე წინასაკალკულუსო თემები; 70 კითხვა 2 საათში დაახლოებით 1,7 წუთია თითოზე."
+   ],
+   "ar": [
+    "ركّز تدريبك على Reading Skills وLanguage Use حيث تطلب الجامعة 100 على الأقل.",
+    "ACCUPLACER ESL يتكيّف مع إجاباتك، فاعمل بتأنٍّ ولا تخمّن بسرعة.",
+    "في QU-Placer Math راجع موضوعات ما قبل التفاضل؛ 70 سؤالاً في ساعتين يعني نحو 1.7 دقيقة للسؤال."
+   ]
+  }
+ },
+ "tr-yos": {
+  "who": {
+   "en": "International students applying to Turkish state universities that use TR-YÖS (private universities often run their own exams).",
+   "ka": "უცხოელი აბიტურიენტები, რომლებიც თურქეთის სახელმწიფო უნივერსიტეტებში აბარებენ და TR-YÖS-ს ითვალისწინებენ (კერძო უნივერსიტეტები ხშირად საკუთარ გამოცდებს ატარებენ).",
+   "ar": "الطلاب الدوليون المتقدمون إلى الجامعات الحكومية التركية التي تعتمد TR-YÖS (والجامعات الخاصة غالباً لها امتحاناتها)."
+  },
+  "scores": {
+   "en": "Results are valid for 2 years. Each university sets its own minimum TR-YÖS score and how much it counts next to your school grades.",
+   "ka": "შედეგი 2 წელი მოქმედებს. თითოეული უნივერსიტეტი თავად განსაზღვრავს TR-YÖS-ის მინიმალურ ქულას და რამდენად ითვლება ის სკოლის ნიშნებთან ერთად.",
+   "ar": "النتائج صالحة لمدة سنتين. كل جامعة تحدد حدّها الأدنى لدرجة TR-YÖS ووزنها إلى جانب درجات مدرستك."
+  },
+  "tips": {
+   "en": [
+    "Practise with the sample questions in ÖSYM's official guide; the test is mostly reasoning and basic maths.",
+    "Use the English or Arabic translation in the booklet if Turkish is not yet strong.",
+    "100 minutes is tight: skip hard questions and return to them if time remains."
+   ],
+   "ka": [
+    "ივარჯიშე ÖSYM-ის ოფიციალურ გზამკვლევში არსებულ ნიმუშებზე; ტესტი ძირითადად ლოგიკა და მარტივი მათემატიკაა.",
+    "თუ თურქული ჯერ სუსტია, ბუკლეტში ინგლისური ან არაბული თარგმანი გამოიყენე.",
+    "100 წუთი ცოტაა: რთულ კითხვას გამოუტოვე და დროის დარჩენის შემთხვევაში დაუბრუნდი."
+   ],
+   "ar": [
+    "تدرّب على الأسئلة النموذجية في دليل ÖSYM الرسمي؛ الاختبار يركّز على الاستدلال والرياضيات الأساسية.",
+    "استعن بترجمة الإنجليزية أو العربية في الكتيّب إن لم تكن التركية قوية بعد.",
+    "100 دقيقة وقت ضيق: تجاوز السؤال الصعب وعُد إليه إن بقي وقت."
+   ]
+  }
+ },
+ "saudi-qudurat-tahsili": {
+  "who": {
+   "en": "Students applying to Saudi universities, which combine Qudurat, Tahsili and secondary-school grades in their admission formula.",
+   "ka": "მოსწავლეები, რომლებიც საუდის არაბეთის უნივერსიტეტებში აბარებენ: მიღებისას Qudurat-ს, Tahsili-სა და საშუალო სკოლის ნიშნებს აერთიანებენ.",
+   "ar": "الطلاب المتقدمون إلى الجامعات السعودية التي تجمع بين القدرات والتحصيلي ودرجات الثانوية في معادلة القبول."
+  },
+  "scores": {
+   "en": "Both tests are reported on a 100-point scale. Each university chooses the weight of Qudurat, Tahsili and school grades, so check its admission page.",
+   "ka": "ორივე ტესტის შედეგი 100-ქულიანი სკალით ცხადდება. თითოეული უნივერსიტეტი თავად ირჩევს Qudurat-ის, Tahsili-სა და სკოლის ნიშნების წონას, ამიტომ მისი მიღების გვერდი ნახე.",
+   "ar": "تُعلن نتيجة الاختبارين على مقياس من 100. كل جامعة تحدد وزن القدرات والتحصيلي والدرجات المدرسية، فراجع صفحة القبول لديها."
+  },
+  "tips": {
+   "en": [
+    "Practise Qudurat verbal and quantitative questions regularly; speed matters more than depth.",
+    "For Tahsili, review the final secondary-years syllabus in biology, chemistry, physics and maths.",
+    "Register early on Etec's platform and check which sitting each university accepts."
+   ],
+   "ka": [
+    "Qudurat-ის ვერბალურ და რაოდენობრივ კითხვებს რეგულარულად ივარჯიშე; სიჩქარე სიღრმეზე მნიშვნელოვანია.",
+    "Tahsili-სთვის გაიმეორე ბოლო წლების პროგრამა ბიოლოგიაში, ქიმიაში, ფიზიკასა და მათემატიკაში.",
+    "Etec-ის პლატფორმაზე ადრე დარეგისტრირდი და შეამოწმე, რომელ სესიას იღებს თითოეული უნივერსიტეტი."
+   ],
+   "ar": [
+    "تدرّب على أسئلة القدرات اللفظية والكمية بانتظام؛ السرعة هنا أهم من العمق.",
+    "للتحصيلي راجع منهج السنوات الأخيرة في الأحياء والكيمياء والفيزياء والرياضيات.",
+    "سجّل مبكراً في منصة هيئة تقويم التعليم وتحقق من الفترة التي تقبلها كل جامعة."
+   ]
+  }
+ },
+ "uae-university-entry": {
+  "who": {
+   "en": "Grade 12 students applying to universities in the UAE, which now set their own entry criteria instead of requiring EmSAT.",
+   "ka": "მე-12 კლასელები, რომლებიც არაბთა გაერთიანებულ საემიროებში აბარებენ: უნივერსიტეტები ახლა EmSAT-ის ნაცვლად საკუთარ კრიტერიუმებს აწესებენ.",
+   "ar": "طلاب الصف الثاني عشر المتقدمون إلى الجامعات في الإمارات، وهي تضع الآن معايير قبولها بنفسها بدل اشتراط EmSAT."
+  },
+  "scores": {
+   "en": "There is no national score. Each university sets its own IELTS/TOEFL, SAT or placement-test requirement, so read its admission page for the exact figure.",
+   "ka": "ეროვნული ქულა არ არსებობს. თითოეული უნივერსიტეტი თავად განსაზღვრავს IELTS/TOEFL-ის, SAT-ის ან განმსაზღვრელი ტესტის მოთხოვნას, ზუსტი ციფრისთვის მისი მიღების გვერდი ნახე.",
+   "ar": "لا توجد درجة وطنية موحّدة. كل جامعة تحدد متطلبات IELTS/TOEFL أو SAT أو اختبار تحديد المستوى، فاقرأ صفحة القبول لمعرفة الرقم الدقيق."
+  },
+  "tips": {
+   "en": [
+    "Shortlist universities first, then note each one's accepted English and maths tests.",
+    "Book IELTS, TOEFL or SAT early if your target accepts them in place of its own test.",
+    "Keep your school grades strong: they are the main part of most UAE applications."
+   ],
+   "ka": [
+    "ჯერ უნივერსიტეტების სია შეადგინე, შემდეგ თითოეულის მიღებული ინგლისურისა და მათემატიკის ტესტები ჩაინიშნე.",
+    "თუ სასურველი უნივერსიტეტი IELTS-ს, TOEFL-ს ან SAT-ს საკუთარი ტესტის ნაცვლად იღებს, ადრე დაჯავშნე.",
+    "სკოლის ნიშნები მაღალი გქონდეს: უმეტეს საემიროების განაცხადში ისინი მთავარია."
+   ],
+   "ar": [
+    "حدّد الجامعات أولاً ثم سجّل اختبارات الإنجليزية والرياضيات المقبولة لدى كل منها.",
+    "احجز IELTS أو TOEFL أو SAT مبكراً إن كانت جامعتك تقبلها بدل اختبارها الخاص.",
+    "حافظ على درجات مدرسية قوية؛ فهي الجزء الأهم في معظم الطلبات الإماراتية."
+   ]
+  }
+ },
+ "ielts": {
+  "who": {
+   "en": "Students applying to universities in the UK, Europe, Australia, Canada, Qatar and the Gulf, and for study visas in some countries.",
+   "ka": "მოსწავლეები, რომლებიც დიდ ბრიტანეთში, ევროპაში, ავსტრალიაში, კანადაში, კატარსა და ყურის ქვეყნებში აბარებენ, და ზოგ ქვეყანაში სასწავლო ვიზისთვის.",
+   "ar": "الطلاب المتقدمون إلى جامعات بريطانيا وأوروبا وأستراليا وكندا وقطر والخليج، وكذلك لتأشيرات الدراسة في بعض الدول."
+  },
+  "scores": {
+   "en": "Bands run 0–9 in half steps; the overall band is the average of the four skills. Most universities ask for 6.0–7.0 overall, often with a minimum per skill.",
+   "ka": "ბენდები 0–9-ია ნახევრის ბიჯით; საერთო ბენდი ოთხი უნარის საშუალოა. უმეტესი უნივერსიტეტი ითხოვს ჯამში 6.0–7.0-ს, ხშირად თითო უნარზე მინიმუმითაც.",
+   "ar": "تتراوح الدرجات من 0 إلى 9 بخطوات نصف درجة، والدرجة الكلية متوسط المهارات الأربع. معظم الجامعات تطلب 6.0–7.0 إجمالاً، وغالباً مع حدّ أدنى لكل مهارة."
+  },
+  "tips": {
+   "en": [
+    "Listening is played only once, so practise reading the questions before the audio starts.",
+    "In Writing, plan Task 2 for 5 minutes, then write at least 250 words.",
+    "Practise the three Speaking parts aloud and record yourself to hear hesitations."
+   ],
+   "ka": [
+    "Listening მხოლოდ ერთხელ ისმის, ამიტომ ივარჯიშე კითხვების წაკითხვაზე აუდიოს დაწყებამდე.",
+    "Writing-ში Task 2-ს 5 წუთი დაუთმე დაგეგმვას და ჩაწერე მინიმუმ 250 სიტყვა.",
+    "Speaking-ის სამივე ნაწილი ხმამაღლა ივარჯიშე და ჩაიწერე თავი, რომ ყოყმანი გაიგონო."
+   ],
+   "ar": [
+    "يُسمع الـ Listening مرة واحدة فقط، فتدرّب على قراءة الأسئلة قبل بدء التسجيل.",
+    "في Writing خصّص 5 دقائق لتخطيط Task 2 ثم اكتب 250 كلمة على الأقل.",
+    "تدرّب على أجزاء Speaking الثلاثة بصوت عالٍ وسجّل نفسك لتسمع التردد."
+   ]
+  }
+ },
+ "toefl": {
+  "who": {
+   "en": "Students applying to universities in the US and many other countries that accept TOEFL iBT as proof of academic English.",
+   "ka": "მოსწავლეები, რომლებიც აშშ-ის და სხვა ბევრი ქვეყნის უნივერსიტეტებში აბარებენ, სადაც TOEFL iBT აკადემიური ინგლისურის დასადასტურებლად მიიღება.",
+   "ar": "الطلاب المتقدمون إلى جامعات الولايات المتحدة ودول كثيرة أخرى تقبل TOEFL iBT دليلاً على الإنجليزية الأكاديمية."
+  },
+  "scores": {
+   "en": "Each section and the total are scored 1–6; until January 2028 a 0–120 equivalent is also shown. Qatar University accepts TOEFL iBT 61 as an alternative to its placement test.",
+   "ka": "თითოეული ნაწილი და ჯამი ფასდება 1–6-ით; 2028 წლის იანვრამდე 0–120 ექვივალენტიც ჩანს. კატარის უნივერსიტეტი TOEFL iBT 61-ს საკუთარი განმსაზღვრელი ტესტის ალტერნატივად იღებს.",
+   "ar": "كل قسم والمجموع يُقدَّر من 1 إلى 6، وحتى يناير 2028 تظهر أيضاً درجة مكافئة من 0 إلى 120. تقبل جامعة قطر TOEFL iBT بدرجة 61 بديلاً عن اختبار تحديد المستوى."
+  },
+  "tips": {
+   "en": [
+    "Check whether your university states its minimum on the new 1–6 scale or the old 0–120.",
+    "The test is adaptive, so answer steadily: early answers shape how hard later tasks get.",
+    "Use ETS's free official practice and TestReady to learn the new task types."
+   ],
+   "ka": [
+    "შეამოწმე, უნივერსიტეტი მინიმუმს ახალი 1–6 სკალით ასახელებს თუ ძველი 0–120-ით.",
+    "ტესტი ადაპტირებადია, ამიტომ თანაბრად უპასუხე: ადრეული პასუხები გვიანდელი ამოცანების სირთულეს განსაზღვრავს.",
+    "გამოიყენე ETS-ის უფასო ოფიციალური სავარჯიშოები და TestReady ახალი დავალებების გასაცნობად."
+   ],
+   "ar": [
+    "تحقق هل تذكر جامعتك حدّها الأدنى على المقياس الجديد 1–6 أم القديم 0–120.",
+    "الاختبار تكيّفي، فأجب بثبات لأن إجاباتك الأولى تحدد صعوبة المهام اللاحقة.",
+    "استخدم تدريبات ETS الرسمية المجانية وTestReady لتتعرف على أنواع المهام الجديدة."
+   ]
+  }
+ },
+ "duolingo": {
+  "who": {
+   "en": "Students who need a fast, low-cost English proof for the many universities (mostly in the US, Canada and the UK) that accept it.",
+   "ka": "მოსწავლეები, ვისაც ინგლისურის დასადასტურებლად სწრაფი და იაფი ვარიანტი სჭირდება, უნივერსიტეტებისთვის (უმეტესად აშშ-ში, კანადასა და დიდ ბრიტანეთში), რომლებიც მას იღებენ.",
+   "ar": "الطلاب الذين يحتاجون إثباتاً سريعاً ومنخفض التكلفة للإنجليزية للجامعات الكثيرة (أغلبها في أمريكا وكندا وبريطانيا) التي تقبله."
+  },
+  "scores": {
+   "en": "Scores run 10–160. There is no universal pass mark; every university states its own minimum, so check your target's admissions page.",
+   "ka": "ქულა 10–160-ია. საერთო გამსვლელი ქულა არ არსებობს; თითოეული უნივერსიტეტი საკუთარ მინიმუმს აქვეყნებს, ამიტომ სასურველი უნივერსიტეტის გვერდი ნახე.",
+   "ar": "تتراوح الدرجات من 10 إلى 160. لا توجد درجة نجاح عامة؛ كل جامعة تحدد حدّها الأدنى، فراجع صفحة القبول لجامعتك."
+  },
+  "tips": {
+   "en": [
+    "Take the free official practice test first to meet the adaptive question types.",
+    "Prepare a quiet room, a working webcam and microphone, and your ID: it is proctored.",
+    "Speak and write in full, clear sentences; the final writing and speaking samples go to universities."
+   ],
+   "ka": [
+    "ჯერ უფასო ოფიციალური საცდელი ტესტი ჩააბარე, რომ ადაპტირებად დავალებებს გაეცნო.",
+    "მოამზადე ჩუმი ოთახი, გამართული კამერა და მიკროფონი და პირადობის მოწმობა: ტესტი მეთვალყურეობით ტარდება.",
+    "ისაუბრე და დაწერე სრული, გასაგები წინადადებებით; ბოლო წერისა და მეტყველების ნიმუშები უნივერსიტეტებს ეგზავნება."
+   ],
+   "ar": [
+    "جرّب الاختبار التدريبي الرسمي المجاني أولاً لتتعرف على الأسئلة التكيّفية.",
+    "جهّز غرفة هادئة وكاميرا وميكروفوناً يعملان وهويتك؛ فالاختبار تحت المراقبة.",
+    "تحدّث واكتب بجمل كاملة وواضحة؛ فعينتا الكتابة والمحادثة الأخيرتان تصلان إلى الجامعات."
+   ]
+  }
+ },
+ "pte": {
+  "who": {
+   "en": "Students aiming at universities in Australia, New Zealand and the UK, and others that accept PTE Academic.",
+   "ka": "მოსწავლეები, რომლებიც ავსტრალიის, ახალი ზელანდიისა და დიდი ბრიტანეთის უნივერსიტეტებში და სხვა მათში აბარებენ, სადაც PTE Academic მიიღება.",
+   "ar": "الطلاب الذين يستهدفون جامعات أستراليا ونيوزيلندا وبريطانيا وغيرها ممن تقبل PTE Academic."
+  },
+  "scores": {
+   "en": "Scores run 10–90 and include separate skill scores. Universities and visa authorities set their own minimums, so check the exact requirement for your course.",
+   "ka": "ქულა 10–90-ია და თითოეული უნარის ცალკე ქულაც შედის. უნივერსიტეტები და სავიზო უწყებები საკუთარ მინიმუმს აწესებენ, ამიტომ შენი პროგრამის ზუსტი მოთხოვნა გადაამოწმე.",
+   "ar": "تتراوح الدرجات من 10 إلى 90 وتتضمن درجات منفصلة للمهارات. تحدد الجامعات وجهات التأشيرات حدودها الدنيا، فتحقق من متطلبات برنامجك."
+  },
+  "tips": {
+   "en": [
+    "Practise speaking clearly and fluently into a microphone; AI scoring rewards smooth delivery, not accent.",
+    "Learn the task types: Read Aloud, Repeat Sentence, Describe Image and Write from Dictation.",
+    "Many tasks score two skills at once, so accuracy in listening and spelling pays double."
+   ],
+   "ka": [
+    "ივარჯიშე მკაფიოდ და თავისუფლად საუბარზე მიკროფონში; AI-ის შეფასება მოქნილ მეტყველებას აფასებს და არა აქცენტს.",
+    "გაიცანი დავალების ტიპები: Read Aloud, Repeat Sentence, Describe Image და Write from Dictation.",
+    "ბევრი დავალება ერთდროულად ორ უნარს ფასდება, ამიტომ მოსმენისა და მართლწერის სიზუსტე ორმაგად ჯდება."
+   ],
+   "ar": [
+    "تدرّب على التحدث بوضوح وطلاقة أمام الميكروفون؛ التصحيح الآلي يكافئ السلاسة لا اللهجة.",
+    "تعرّف على أنواع المهام: Read Aloud وRepeat Sentence وDescribe Image وWrite from Dictation.",
+    "كثير من المهام تُقيّم مهارتين معاً، فدقة الاستماع والإملاء تُحتسب مرتين."
+   ]
+  }
+ },
+ "cambridge": {
+  "who": {
+   "en": "Students who want a lifelong English qualification for universities, scholarships or study in Europe and beyond.",
+   "ka": "მოსწავლეები, ვისაც უნივერსიტეტებისთვის, სტიპენდიებისთვის ან ევროპასა და მის გარეთ სწავლისთვის უვადო ინგლისური სერტიფიკატი სჭირდება.",
+   "ar": "الطلاب الذين يريدون شهادة إنجليزية دائمة للجامعات أو المنح أو الدراسة في أوروبا وخارجها."
+  },
+  "scores": {
+   "en": "C1 Advanced is scored 160–210: 180+ gives a C1 certificate, and 160–179 shows B2 level. C2 Proficiency is scored 180–230; 200+ gives C2.",
+   "ka": "C1 Advanced ფასდება 160–210-ით: 180+ C1 სერტიფიკატს იძლევა, 160–179 კი B2 დონეს აჩვენებს. C2 Proficiency ფასდება 180–230-ით; 200+ C2-ს იძლევა.",
+   "ar": "يُقدَّر C1 Advanced من 160 إلى 210: درجة 180 فأكثر تمنح شهادة C1، و160–179 تدل على مستوى B2. يُقدَّر C2 Proficiency من 180 إلى 230، ودرجة 200 فأكثر تمنح C2."
+  },
+  "tips": {
+   "en": [
+    "Practise Use of English tasks (word formation, key-word transformation); they are unique to Cambridge exams.",
+    "Write in the right register for each task type: formal letter, report, proposal or essay.",
+    "For Speaking, practise discussing ideas with a partner, since you are usually tested in pairs."
+   ],
+   "ka": [
+    "ივარჯიშე Use of English დავალებებზე (სიტყვათწარმოება, key-word transformation); ისინი Cambridge-ის გამოცდებისთვისაა დამახასიათებელი.",
+    "თითოეულ დავალებას სწორი რეგისტრით მიუდექი: ოფიციალური წერილი, ანგარიში, წინადადება ან ესე.",
+    "Speaking-ისთვის პარტნიორთან იმსჯელე იდეებზე, რადგან ჩვეულებრივ წყვილებში გამოგცდიან."
+   ],
+   "ar": [
+    "تدرّب على مهام Use of English (تكوين الكلمات، وإعادة الصياغة بالكلمة المفتاحية)؛ فهي مميزة لاختبارات Cambridge.",
+    "اكتب بالأسلوب المناسب لكل مهمة: رسالة رسمية أو تقرير أو اقتراح أو مقال.",
+    "في Speaking تدرّب على مناقشة الأفكار مع زميل لأن الاختبار يكون غالباً بالأزواج."
+   ]
+  }
+ },
+ "oet": {
+  "who": {
+   "en": "Healthcare students and professionals who must prove English for registration or work as nurses, doctors and others, mainly in the UK, Ireland, Australia and the Gulf.",
+   "ka": "სამედიცინო სფეროს სტუდენტები და სპეციალისტები, რომლებსაც რეგისტრაციისთვის ან სამუშაოდ ინგლისურის დადასტურება სჭირდებათ (მედდა, ექიმი და სხვ.), ძირითადად დიდ ბრიტანეთში, ირლანდიაში, ავსტრალიასა და ყურის ქვეყნებში.",
+   "ar": "طلاب وممارسو الرعاية الصحية الذين يحتاجون إلى إثبات الإنجليزية للتسجيل أو العمل ممرضين وأطباء وغيرهم، خاصة في بريطانيا وأيرلندا وأستراليا والخليج."
+  },
+  "scores": {
+   "en": "Each sub-test is scored 0–500 and graded A (450–500) to E. Regulators set their own minimums, commonly B or C+ per sub-test, so check yours.",
+   "ka": "თითოეული ქვეტესტი ფასდება 0–500-ით და ნიშანი A-დან (450–500) E-მდეა. მარეგულირებლები საკუთარ მინიმუმს აწესებენ, ხშირად B ან C+ თითო ქვეტესტზე, ამიტომ შენსას დააკვირდი.",
+   "ar": "كل اختبار فرعي يُقدَّر من 0 إلى 500 ويُصنَّف من A (450–500) إلى E. تحدد الجهات التنظيمية حدودها، وغالباً B أو C+ لكل اختبار فرعي، فتحقق من جهتك."
+  },
+  "tips": {
+   "en": [
+    "Practise the Writing letter for your own profession, since it is based on a patient case.",
+    "Rehearse Speaking role-plays: explain things in plain language to a patient or relative.",
+    "Learn healthcare vocabulary in context from the official OET sample tests."
+   ],
+   "ka": [
+    "წერილის დაწერა შენს პროფესიაზე ივარჯიშე, რადგან ის პაციენტის შემთხვევას ეფუძნება.",
+    "Speaking-ის როლურ თამაშებს დაუთმე დრო: პაციენტს ან ნათესავს მარტივი ენით აუხსენი.",
+    "სამედიცინო ლექსიკა კონტექსტში ისწავლე OET-ის ოფიციალური სანიმუშო ტესტებიდან."
+   ],
+   "ar": [
+    "تدرّب على رسالة Writing الخاصة بمهنتك لأنها مبنية على حالة مريض.",
+    "كرّر أدوار Speaking: اشرح الأمور بلغة بسيطة لمريض أو قريب له.",
+    "تعلّم المفردات الصحية في سياقها من الاختبارات النموذجية الرسمية لـ OET."
+   ]
+  }
+ },
+ "testdaf": {
+  "who": {
+   "en": "International students applying to German universities, which all recognise TestDaF as proof of German.",
+   "ka": "უცხოელი სტუდენტები, რომლებიც გერმანიის უნივერსიტეტებში აბარებენ: ყველა მათგანი TestDaF-ს გერმანულის დასადასტურებლად აღიარებს.",
+   "ar": "الطلاب الدوليون المتقدمون إلى الجامعات الألمانية، وكلها تعترف بـ TestDaF دليلاً على اللغة الألمانية."
+  },
+  "scores": {
+   "en": "Each part is graded TDN 3, 4 or 5 (roughly B2–C1). Most programmes ask for TDN 4 in every part.",
+   "ka": "თითოეული ნაწილი ფასდება TDN 3, 4 ან 5-ით (დაახლოებით B2–C1). უმეტესი პროგრამა ყველა ნაწილში TDN 4-ს ითხოვს.",
+   "ar": "كل جزء يُصنَّف TDN 3 أو 4 أو 5 (تقريباً B2–C1). تطلب معظم البرامج TDN 4 في كل الأجزاء."
+  },
+  "tips": {
+   "en": [
+    "Practise describing and comparing charts in German; academic Writing tasks use them.",
+    "Take the official TestDaF model tests so the computer-based format feels familiar.",
+    "Learn academic phrases for introducing, contrasting and concluding arguments in speech and writing."
+   ],
+   "ka": [
+    "ივარჯიშე გრაფიკების აღწერასა და შედარებაზე გერმანულად; აკადემიური წერის დავალებები მათ იყენებს.",
+    "ჩააბარე ოფიციალური TestDaF-ის სანიმუშო ტესტები, რომ კომპიუტერული ფორმატი გაგიცნობიერდეს.",
+    "ისწავლე აკადემიური ფრაზები არგუმენტის შესავლის, შედარებისა და დასკვნისთვის მეტყველებასა და წერაში."
+   ],
+   "ar": [
+    "تدرّب على وصف الرسوم البيانية ومقارنتها بالألمانية؛ فمهام الكتابة الأكاديمية تستخدمها.",
+    "أجرِ نماذج TestDaF الرسمية لتألف الصيغة الحاسوبية.",
+    "تعلّم عبارات أكاديمية للتمهيد والمقارنة والاستنتاج في الحديث والكتابة."
+   ]
+  }
+ },
+ "dsh": {
+  "who": {
+   "en": "International applicants to a German university that accepts or requires its own DSH exam instead of TestDaF.",
+   "ka": "უცხოელი აბიტურიენტები, რომლებიც გერმანულ უნივერსიტეტში აბარებენ, სადაც TestDaF-ის ნაცვლად საკუთარი DSH გამოცდა მიიღება ან მოითხოვება.",
+   "ar": "المتقدمون الدوليون إلى جامعة ألمانية تقبل أو تشترط امتحان DSH الخاص بها بدل TestDaF."
+  },
+  "scores": {
+   "en": "DSH-1 needs at least 57% of the points, DSH-2 at least 67% and DSH-3 at least 82%. Most programmes require DSH-2.",
+   "ka": "DSH-1-ისთვის საჭიროა ქულების მინიმუმ 57%, DSH-2-სთვის 67% და DSH-3-სთვის 82%. უმეტესი პროგრამა DSH-2-ს ითხოვს.",
+   "ar": "يتطلب DSH-1 نسبة 57% من النقاط على الأقل، وDSH-2 نسبة 67%، وDSH-3 نسبة 82%. تشترط معظم البرامج DSH-2."
+  },
+  "tips": {
+   "en": [
+    "Practise summarising a lecture from notes; the listening part tests academic note-taking.",
+    "Study academic language structures (passive, nominal style, connectors) for the grammar tasks.",
+    "Ask your target university for its own DSH sample papers and exam dates."
+   ],
+   "ka": [
+    "ივარჯიშე ლექციის შეჯამებაზე ჩანაწერებიდან; მოსმენის ნაწილი აკადემიურ ჩანიშვნას ამოწმებს.",
+    "გრამატიკული დავალებებისთვის ისწავლე აკადემიური ენობრივი სტრუქტურები (ვნებითი, სახელური სტილი, დამაკავშირებლები).",
+    "სასურველ უნივერსიტეტს სთხოვე მისი DSH-ის სანიმუშო ნაშრომები და გამოცდის თარიღები."
+   ],
+   "ar": [
+    "تدرّب على تلخيص محاضرة من ملاحظاتك؛ فجزء الاستماع يختبر التدوين الأكاديمي.",
+    "ادرس البنى اللغوية الأكاديمية (المبني للمجهول والأسلوب الاسمي وأدوات الربط) لمهام القواعد.",
+    "اطلب من جامعتك نماذج DSH الخاصة بها ومواعيد الامتحان."
+   ]
+  }
+ },
+ "delf-dalf": {
+  "who": {
+   "en": "Students applying to universities in France and other French-speaking countries, who must prove their French level.",
+   "ka": "მოსწავლეები, რომლებიც საფრანგეთისა და სხვა ფრანკოფონული ქვეყნების უნივერსიტეტებში აბარებენ და ფრანგულის დონე უნდა დაადასტურონ.",
+   "ar": "الطلاب المتقدمون إلى جامعات فرنسا والدول الناطقة بالفرنسية الذين عليهم إثبات مستواهم في الفرنسية."
+  },
+  "scores": {
+   "en": "Each skill is scored out of 25 (total 100). You pass with 50 overall and at least 5 in each skill. French universities usually ask for DELF B2.",
+   "ka": "თითოეული უნარი ფასდება 25-იდან (სულ 100). გადიხარ, თუ ჯამში 50 გაქვს და თითო უნარში მინიმუმ 5. საფრანგეთის უნივერსიტეტები ჩვეულებრივ DELF B2-ს ითხოვენ.",
+   "ar": "كل مهارة من 25 (المجموع 100). تنجح بـ 50 إجمالاً و5 على الأقل في كل مهارة. تطلب الجامعات الفرنسية عادة DELF B2."
+  },
+  "tips": {
+   "en": [
+    "Practise the B2 argued essay or formal letter: it follows a clear structure you can learn.",
+    "Train listening with French radio and podcasts at natural speed, not slowed-down audio.",
+    "Prepare for the oral by defending an opinion on a topic in two or three minutes."
+   ],
+   "ka": [
+    "ივარჯიშე B2-ის არგუმენტირებულ ესეზე ან ოფიციალურ წერილზე: მას მკაფიო სტრუქტურა აქვს, რომლის სწავლაც შეიძლება.",
+    "მოსმენა გაიმყარე ფრანგული რადიოთი და პოდკასტებით ბუნებრივი სიჩქარით და არა შენელებული ჩანაწერებით.",
+    "ზეპირი ნაწილისთვის ივარჯიშე აზრის დაცვაზე ერთ თემაზე ორი-სამი წუთის განმავლობაში."
+   ],
+   "ar": [
+    "تدرّب على مقال B2 الحجاجي أو الرسالة الرسمية؛ فلهما بنية واضحة يمكن تعلّمها.",
+    "درّب أذنك على الإذاعة والبودكاست الفرنسي بالسرعة الطبيعية لا بتسجيلات مبطّأة.",
+    "استعد للمقابلة الشفهية بالدفاع عن رأيك في موضوع خلال دقيقتين أو ثلاث."
+   ]
+  }
+ },
+ "tcf": {
+  "who": {
+   "en": "Students and applicants who need a quick, official proof of French level for French universities that accept it.",
+   "ka": "მოსწავლეები და აპლიკანტები, ვისაც ფრანგულის დონის სწრაფი და ოფიციალური დადასტურება სჭირდებათ იმ უნივერსიტეტებისთვის, რომლებიც TCF-ს იღებენ.",
+   "ar": "الطلاب الذين يحتاجون إثباتاً رسمياً وسريعاً لمستواهم في الفرنسية للجامعات الفرنسية التي تقبل TCF."
+  },
+  "scores": {
+   "en": "The compulsory tests give a score of 0–699 mapped to CEFR levels A1–C2; B2 is 400–499. Many universities ask for B2, and for the optional writing and speaking too.",
+   "ka": "სავალდებულო ტესტები გაძლევს 0–699 ქულას, რომელიც CEFR-ის A1–C2 დონეებს შეესაბამება; B2 არის 400–499. ბევრი უნივერსიტეტი B2-ს ითხოვს, ასევე არჩევით წერასა და მეტყველებასაც.",
+   "ar": "تمنحك الاختبارات الإلزامية درجة من 0 إلى 699 مقابلة لمستويات CEFR من A1 إلى C2، وB2 هو 400–499. كثير من الجامعات تطلب B2 وتطلب أيضاً الكتابة والتحدث الاختياريين."
+  },
+  "tips": {
+   "en": [
+    "Check whether your university needs the optional writing and speaking before you register.",
+    "In the multiple-choice parts, answer every question; time per question is short.",
+    "Listen to French audio daily and read short French news articles for the reading part."
+   ],
+   "ka": [
+    "რეგისტრაციამდე შეამოწმე, უნივერსიტეტს არჩევითი წერა და მეტყველება ხომ არ სჭირდება.",
+    "არჩევანიანი პასუხების ნაწილებში ყველა კითხვას უპასუხე; თითო კითხვაზე დრო ცოტაა.",
+    "ყოველდღე მოუსმინე ფრანგულ აუდიოს და იკითხე მოკლე ფრანგული სიახლეები წაკითხვისთვის."
+   ],
+   "ar": [
+    "تحقق قبل التسجيل هل تحتاج جامعتك إلى الكتابة والتحدث الاختياريين.",
+    "في الأجزاء متعددة الاختيارات أجب عن كل سؤال؛ فوقت السؤال قصير.",
+    "استمع إلى الفرنسية يومياً واقرأ أخباراً فرنسية قصيرة لجزء القراءة."
+   ]
+  }
+ },
+ "dele": {
+  "who": {
+   "en": "Students planning to study in Spain (usually B2) or elsewhere in the Spanish-speaking world who want a diploma that never expires.",
+   "ka": "მოსწავლეები, რომლებიც ესპანეთში (ჩვეულებრივ B2) ან ესპანურენოვან სხვა ქვეყანაში სწავლას გეგმავენ და უვადო დიპლომი უნდათ.",
+   "ar": "الطلاب الذين يخططون للدراسة في إسبانيا (عادةً B2) أو في بلد ناطق بالإسبانية ويريدون دبلوماً لا تنتهي صلاحيته."
+  },
+  "scores": {
+   "en": "The result is apto or no apto (pass or fail) for the level you choose, A1 to C2. You must pass both the written and the oral group; Spanish universities usually ask for B2.",
+   "ka": "შედეგია apto ან no apto (ჩააბარე ან ვერ ჩააბარე) არჩეულ დონეზე, A1-დან C2-მდე. წერითი და ზეპირი ჯგუფი ორივე უნდა ჩააბარო; ესპანური უნივერსიტეტები ჩვეულებრივ B2-ს ითხოვენ.",
+   "ar": "النتيجة apto أو no apto (ناجح أو غير ناجح) للمستوى الذي تختاره من A1 إلى C2. يجب النجاح في المجموعتين الكتابية والشفهية؛ وتطلب الجامعات الإسبانية عادةً B2."
+  },
+  "tips": {
+   "en": [
+    "Choose the level honestly: you pass or fail one exam, there are no partial grades.",
+    "Practise timed writing tasks, since the written group is passed or failed as a whole.",
+    "Record yourself in the oral exam format and listen back for pace and fillers."
+   ],
+   "ka": [
+    "დონე გულწრფელად აირჩიე: ერთ გამოცდას ან აბარებ, ან არა, ნაწილობრივი ნიშნები არ არის.",
+    "ივარჯიშე წერით დავალებებზე დროის დაცვით, რადგან წერითი ჯგუფი მთლიანად ფასდება.",
+    "ჩაიწერე თავი ზეპირი გამოცდის ფორმატში და მოუსმინე ტემპისა და ზედმეტი სიტყვების გასაკონტროლებლად."
+   ],
+   "ar": [
+    "اختر المستوى بصدق: تنجح أو ترسب في امتحان واحد دون درجات جزئية.",
+    "تدرّب على مهام كتابية بوقت محدد لأن المجموعة الكتابية تُحسب كاملة.",
+    "سجّل نفسك بصيغة الامتحان الشفهي واستمع لتضبط الإيقاع وكلمات الحشو."
+   ]
+  }
+ },
+ "siele": {
+  "who": {
+   "en": "Students aiming at universities in Spain and Latin America that accept SIELE, and those who want quick results.",
+   "ka": "მოსწავლეები, რომლებიც ესპანეთისა და ლათინური ამერიკის უნივერსიტეტებში აბარებენ, სადაც SIELE მიიღება, და ვისაც სწრაფი შედეგი სჭირდება.",
+   "ar": "الطلاب الذين يستهدفون جامعات إسبانيا وأمريكا اللاتينية التي تقبل SIELE، ومن يريدون نتائج سريعة."
+  },
+  "scores": {
+   "en": "Scored 0–1000 and linked to CEFR levels A1–C1; results are valid for 5 years. Each university decides which level or score it needs.",
+   "ka": "ფასდება 0–1000-ით და დაკავშირებულია CEFR-ის A1–C1 დონეებთან; შედეგი 5 წელი მოქმედებს. რომელი დონე ან ქულა სჭირდება, თითოეული უნივერსიტეტი თავად წყვეტს.",
+   "ar": "يُقدَّر من 0 إلى 1000 ويرتبط بمستويات CEFR من A1 إلى C1، والنتيجة صالحة 5 سنوات. كل جامعة تحدد المستوى أو الدرجة المطلوبة."
+  },
+  "tips": {
+   "en": [
+    "Practise on a computer: SIELE is fully computer-based, including writing and speaking.",
+    "Work on all four skills evenly, since SIELE Global reports each one.",
+    "Check your university first; a shorter single-skill SIELE may not be enough."
+   ],
+   "ka": [
+    "კომპიუტერზე ივარჯიშე: SIELE სრულად კომპიუტერულია, წერისა და მეტყველების ჩათვლით.",
+    "ოთხივე უნარზე თანაბრად იმუშავე, რადგან SIELE Global თითოეულს ცალკე აჩვენებს.",
+    "ჯერ უნივერსიტეტი შეამოწმე; ერთი უნარის მოკლე SIELE შეიძლება არ იყოს საკმარისი."
+   ],
+   "ar": [
+    "تدرّب على الحاسوب: SIELE حاسوبي بالكامل بما فيه الكتابة والتحدث.",
+    "ادرس المهارات الأربع بالتساوي لأن SIELE Global يُظهر كل مهارة.",
+    "تحقق من جامعتك أولاً؛ فنسخة SIELE القصيرة بمهارة واحدة قد لا تكفي."
+   ]
+  }
+ },
+ "hsk": {
+  "who": {
+   "en": "Students applying to Chinese universities or Chinese government scholarships, mainly for programmes taught in Chinese.",
+   "ka": "მოსწავლეები, რომლებიც ჩინეთის უნივერსიტეტებსა და ჩინეთის მთავრობის სტიპენდიებზე აპლიკაციას აგზავნიან, ძირითადად ჩინურად სწავლებად პროგრამებზე.",
+   "ar": "الطلاب المتقدمون إلى الجامعات الصينية أو المنح الحكومية الصينية، خاصة في البرامج التي تُدرَّس بالصينية."
+  },
+  "scores": {
+   "en": "You choose a level and receive a score report for it. Most bachelor's programmes taught in Chinese ask for HSK 4, some for HSK 5; the university states which.",
+   "ka": "შენ აირჩევ დონეს და ამ დონისთვის ქულების ანგარიშს იღებ. ჩინურად სწავლებადი ბაკალავრის პროგრამების უმეტესობა HSK 4-ს ითხოვს, ზოგი HSK 5-ს; უნივერსიტეტი ამას აკონკრეტებს.",
+   "ar": "تختار مستوى وتحصل على تقرير درجات له. تطلب معظم برامج البكالوريوس المدرَّسة بالصينية HSK 4 وبعضها HSK 5، وتحدد الجامعة ذلك."
+  },
+  "tips": {
+   "en": [
+    "Check which HSK version your university accepts, as the new HSK 3.0 is being introduced.",
+    "Learn characters and words together with tones, and practise the official sample questions.",
+    "Use the free online demo to get used to the computer-based format."
+   ],
+   "ka": [
+    "შეამოწმე, HSK-ის რომელ ვერსიას იღებს უნივერსიტეტი, რადგან ახალი HSK 3.0 ინერგება.",
+    "ისწავლე იეროგლიფები და სიტყვები ტონებთან ერთად და ივარჯიშე ოფიციალურ ნიმუშებზე.",
+    "გამოიყენე უფასო ონლაინ დემო, რომ კომპიუტერულ ფორმატს მიეჩვიო."
+   ],
+   "ar": [
+    "تحقق من نسخة HSK التي تقبلها جامعتك لأن HSK 3.0 الجديد قيد الإطلاق.",
+    "تعلّم الحروف والكلمات مع النغمات وتدرّب على الأسئلة النموذجية الرسمية.",
+    "استخدم العرض التجريبي المجاني على الإنترنت لتألف الصيغة الحاسوبية."
+   ]
+  }
+ },
+ "jlpt": {
+  "who": {
+   "en": "Students aiming at Japanese universities or scholarships, mostly for programmes taught in Japanese (N2 or N1).",
+   "ka": "მოსწავლეები, რომლებიც იაპონიის უნივერსიტეტებსა და სტიპენდიებზე აპლიკაციას აგზავნიან, ძირითადად იაპონურ ენაზე სწავლებად პროგრამებზე (N2 ან N1).",
+   "ar": "الطلاب الذين يستهدفون الجامعات أو المنح اليابانية، خاصة البرامج المدرَّسة باليابانية (N2 أو N1)."
+  },
+  "scores": {
+   "en": "Levels run N5 to N1; N1 and N2 are scored out of 180. You need the total pass mark and at least 19 in each section: 100 for N1, 90 for N2.",
+   "ka": "დონეები N5-დან N1-მდეა; N1 და N2 180-ქულიანია. გჭირდება საერთო გამსვლელი ქულა და თითო ნაწილში მინიმუმ 19: N1-ზე 100, N2-ზე 90.",
+   "ar": "المستويات من N5 إلى N1؛ يُقدَّر N1 وN2 من 180. تحتاج إلى حد النجاح الكلي و19 على الأقل في كل قسم: 100 لـ N1 و90 لـ N2."
+  },
+  "tips": {
+   "en": [
+    "Use the official sample questions and practice workbooks; they match the real exam.",
+    "Don't neglect any section: scoring below the minimum in one fails you, even with a high total.",
+    "Train listening daily at natural speed, because there is no speaking or writing to balance it."
+   ],
+   "ka": [
+    "გამოიყენე ოფიციალური ნიმუშები და სავარჯიშო რვეულები; ისინი რეალურ გამოცდას შეესაბამება.",
+    "არც ერთი ნაწილი არ უგულებელყო: ერთში მინიმუმზე დაბალი ქულა მაღალი ჯამის მიუხედავად ჩაგაგდებს.",
+    "მოსმენა ყოველდღე ივარჯიშე ბუნებრივი სიჩქარით, რადგან მეტყველება და წერა არ არსებობს, რომ ის გაგაწონასწოროს."
+   ],
+   "ar": [
+    "استخدم النماذج الرسمية وكراسات التدريب؛ فهي تطابق الامتحان الحقيقي.",
+    "لا تهمل أي قسم: درجة أقل من الحد الأدنى في قسم واحد تُرسبك ولو كان المجموع عالياً.",
+    "درّب الاستماع يومياً بالسرعة الطبيعية، فلا يوجد تحدث أو كتابة تعوّض ضعفه."
+   ]
+  }
+ },
+ "topik": {
+  "who": {
+   "en": "Students applying to Korean universities or the Korean Government Scholarship, who must prove their Korean level.",
+   "ka": "მოსწავლეები, რომლებიც კორეის უნივერსიტეტებსა და კორეის მთავრობის სტიპენდიაზე აპლიკაციას აგზავნიან და კორეულის დონე უნდა დაადასტურონ.",
+   "ar": "الطلاب المتقدمون إلى الجامعات الكورية أو المنحة الحكومية الكورية الذين عليهم إثبات مستواهم في الكورية."
+  },
+  "scores": {
+   "en": "TOPIK I is scored out of 200 (level 1 from 80, level 2 from 140). TOPIK II is out of 300: level 3 from 120, level 4 from 150, level 5 from 190, level 6 from 230.",
+   "ka": "TOPIK I ფასდება 200-იდან (დონე 1 — 80-დან, დონე 2 — 140-დან). TOPIK II 300-იდანაა: დონე 3 — 120-დან, დონე 4 — 150-დან, დონე 5 — 190-დან, დონე 6 — 230-დან.",
+   "ar": "يُقدَّر TOPIK I من 200 (المستوى 1 من 80 والمستوى 2 من 140). وTOPIK II من 300: المستوى 3 من 120 والمستوى 4 من 150 والمستوى 5 من 190 والمستوى 6 من 230."
+  },
+  "tips": {
+   "en": [
+    "For TOPIK II, practise the long writing task: an essay of about 600–700 characters.",
+    "Learn Korean word endings and particles in context; listening and reading depend on them.",
+    "Take past papers on topik.go.kr under timed conditions, especially TOPIK II reading."
+   ],
+   "ka": [
+    "TOPIK II-ისთვის ივარჯიშე გრძელ წერით დავალებაზე: დაახლოებით 600–700 ნიშნიანი ესე.",
+    "ისწავლე კორეული დაბოლოებები და ნაწილაკები კონტექსტში; მოსმენა და კითხვა მათზეა დამოკიდებული.",
+    "topik.go.kr-ზე არსებული ძველი ტესტები დროის შეზღუდვით ამოხსენი, განსაკუთრებით TOPIK II-ის კითხვა."
+   ],
+   "ar": [
+    "في TOPIK II تدرّب على المهمة الكتابية الطويلة: مقال بنحو 600–700 حرف.",
+    "تعلّم نهايات الأفعال والأدوات الكورية في سياقها؛ فالاستماع والقراءة يعتمدان عليها.",
+    "حلّ اختبارات سابقة من topik.go.kr بوقت محدد، خاصة قراءة TOPIK II."
+   ]
+  }
+ },
+ "ap": {
+  "who": {
+   "en": "Students who want to show university-level ability or earn credit, especially for US and Canadian universities.",
+   "ka": "მოსწავლეები, ვისაც უნივერსიტეტის დონის უნარების ჩვენება ან კრედიტის მოპოვება სურთ, განსაკუთრებით აშშ-ისა და კანადის უნივერსიტეტებში.",
+   "ar": "الطلاب الذين يريدون إظهار قدرات بمستوى جامعي أو كسب ساعات معتمدة، خاصة في الجامعات الأمريكية والكندية."
+  },
+  "scores": {
+   "en": "Scored 1–5: 3 is 'qualified', 4 'well qualified', 5 'extremely well qualified'. Credit and placement rules differ at every university, so check its AP policy.",
+   "ka": "ფასდება 1–5-ით: 3 — „კვალიფიციური“, 4 — „კარგად კვალიფიციური“, 5 — „უკიდურესად კარგად კვალიფიციური“. კრედიტისა და განაწილების წესები თითოეულ უნივერსიტეტში განსხვავდება, ამიტომ მისი AP პოლიტიკა ნახე.",
+   "ar": "تُقدَّر من 1 إلى 5: 3 «مؤهل» و4 «مؤهل جيداً» و5 «مؤهل جداً». تختلف قواعد الساعات المعتمدة والتصنيف بين الجامعات، فراجع سياسة AP لدى جامعتك."
+  },
+  "tips": {
+   "en": [
+    "Practise past free-response questions and read the official scoring guidelines to see what earns points.",
+    "Use the digital practice in Bluebook if your subject is taken on screen.",
+    "Plan study weeks backwards from the May exam, covering each course unit once before review."
+   ],
+   "ka": [
+    "ივარჯიშე წინა წლების თავისუფალპასუხიან კითხვებზე და წაიკითხე ოფიციალური შეფასების სახელმძღვანელოები, რომ გაიგო რა მოგიტანს ქულას.",
+    "თუ შენი საგანი ეკრანზე ტარდება, Bluebook-ში ციფრულ პრაქტიკას გამოიყენე.",
+    "სასწავლო კვირები მაისის გამოცდიდან უკან დაგეგმე: თითო თემა ერთხელ გაიარე და შემდეგ გაიმეორე."
+   ],
+   "ar": [
+    "تدرّب على أسئلة الإجابة الحرة السابقة واقرأ إرشادات التصحيح الرسمية لتعرف ما يكسب النقاط.",
+    "استخدم التدريب الرقمي في Bluebook إن كان امتحان مادتك على الشاشة.",
+    "خطط أسابيع الدراسة بدءاً من امتحان مايو للخلف، وأنهِ كل وحدة قبل المراجعة."
+   ]
+  }
+ },
+ "ib": {
+  "who": {
+   "en": "Students at IB World Schools in Tbilisi, Doha and the Gulf; the diploma is recognised by universities almost everywhere.",
+   "ka": "IB World Schools-ის მოსწავლეები თბილისში, დოჰასა და ყურის ქვეყნებში; დიპლომი თითქმის ყველგან უნივერსიტეტებშია აღიარებული.",
+   "ar": "طلاب مدارس IB World في تبليسي والدوحة والخليج؛ والدبلوم معترف به في الجامعات في معظم أنحاء العالم."
+  },
+  "scores": {
+   "en": "Six subjects are graded 1–7, plus up to 3 bonus points from the Extended Essay and Theory of Knowledge, for a maximum of 45. The diploma usually needs 24 points.",
+   "ka": "ექვსი საგანი ფასდება 1–7-ით, ამას ემატება Extended Essay-სა და Theory of Knowledge-დან მაქსიმუმ 3 ბონუს ქულა, სულ მაქსიმუმ 45. დიპლომისთვის ჩვეულებრივ 24 ქულა გჭირდება.",
+   "ar": "تُقدَّر المواد الست من 1 إلى 7، وتُضاف حتى 3 نقاط من Extended Essay وTheory of Knowledge، فيصل المجموع الأقصى إلى 45. يتطلب الدبلوم عادةً 24 نقطة."
+  },
+  "tips": {
+   "en": [
+    "Start the Extended Essay and Internal Assessments early; these deadlines cause most late stress.",
+    "Learn each subject's command terms (analyse, evaluate, discuss); examiners mark by them.",
+    "Practise past papers with mark schemes under timed conditions from your first year."
+   ],
+   "ka": [
+    "Extended Essay და Internal Assessment ადრე დაიწყე; ეს ვადები ყველაზე მეტ სტრესს იწვევს.",
+    "ისწავლე თითოეული საგნის command terms (analyse, evaluate, discuss); გამომცდელები მათ მიხედვით აფასებენ.",
+    "წინა წლების ნაშრომები შეფასების სქემებით დროის შეზღუდვით პირველივე წლიდან ამოხსენი."
+   ],
+   "ar": [
+    "ابدأ Extended Essay والتقييمات الداخلية مبكراً؛ فمواعيدها مصدر معظم الضغط المتأخر.",
+    "تعلّم أفعال الطلب في كل مادة (analyse وevaluate وdiscuss) فالمصححون يقيّمون بها.",
+    "حلّ أوراقاً سابقة مع سلالم التصحيح بوقت محدد منذ السنة الأولى."
+   ]
+  }
+ },
+ "tmua": {
+  "who": {
+   "en": "Applicants to Mathematics, Computer Science and Economics at Cambridge, Oxford and other UK universities that require it.",
+   "ka": "კემბრიჯში, ოქსფორდსა და სხვა ბრიტანულ უნივერსიტეტებში მათემატიკის, კომპიუტერულ მეცნიერებასა და ეკონომიკაზე აპლიკანტები, სადაც ეს ტესტი სავალდებულოა.",
+   "ar": "المتقدمون لتخصصات الرياضيات وعلوم الحاسوب والاقتصاد في كامبريدج وأكسفورد وجامعات بريطانية أخرى تشترطه."
+  },
+  "scores": {
+   "en": "Each paper and the overall result are scored 1.0–9.0. There is no universal pass mark; universities use it with your grades, so see each course page.",
+   "ka": "თითოეული ნაშრომი და საერთო შედეგი ფასდება 1.0–9.0-ით. საერთო გამსვლელი ქულა არ არსებობს; უნივერსიტეტები მას ნიშნებთან ერთად იყენებენ, ამიტომ თითოეული პროგრამის გვერდი ნახე.",
+   "ar": "كل ورقة والنتيجة الكلية تُقدَّر من 1.0 إلى 9.0. لا توجد درجة نجاح عامة؛ تستخدمها الجامعات مع درجاتك، فراجع صفحة كل برنامج."
+  },
+  "tips": {
+   "en": [
+    "No calculator is allowed, so practise mental arithmetic and quick algebra.",
+    "Train Paper 2 on logic: spot flawed proofs and decide which statements follow.",
+    "About 3.75 minutes per question: practise under timing, using UAT-UK's official past papers."
+   ],
+   "ka": [
+    "კალკულატორი აკრძალულია, ამიტომ ივარჯიშე გონებრივ არითმეტიკასა და სწრაფ ალგებრაზე.",
+    "მეორე ნაშრომისთვის ივარჯიშე ლოგიკაზე: დაადგინე შეცდომიანი მტკიცებები და რა გამომდინარეობს რაზე.",
+    "თითო კითხვაზე დაახლოებით 3,75 წუთია: ივარჯიშე დროის შეზღუდვით UAT-UK-ის ოფიციალურ ძველ ნაშრომებზე."
+   ],
+   "ar": [
+    "لا تُسمح الآلة الحاسبة، فتدرّب على الحساب الذهني والجبر السريع.",
+    "درّب الورقة الثانية على المنطق: اكتشف البراهين الخاطئة وحدد ما يترتب على ماذا.",
+    "نحو 3.75 دقيقة للسؤال: تدرّب بوقت محدد على أوراق UAT-UK الرسمية السابقة."
+   ]
+  }
+ },
+ "esat": {
+  "who": {
+   "en": "Applicants to engineering and science courses at Cambridge, Oxford, Imperial and other UK universities that require it.",
+   "ka": "კემბრიჯში, ოქსფორდში, Imperial-სა და სხვა ბრიტანულ უნივერსიტეტებში საინჟინრო და საბუნებისმეტყველო პროგრამებზე აპლიკანტები, სადაც ეს ტესტი სავალდებულოა.",
+   "ar": "المتقدمون لتخصصات الهندسة والعلوم في كامبريدج وأكسفورد وإمبريال وجامعات بريطانية أخرى تشترطه."
+  },
+  "scores": {
+   "en": "Each module is scored 1.0–9.0. There is no universal pass mark; each university states which modules it needs and how it uses scores.",
+   "ka": "თითოეული მოდული ფასდება 1.0–9.0-ით. საერთო გამსვლელი ქულა არ არსებობს; თითოეული უნივერსიტეტი ამბობს, რომელი მოდული სჭირდება და როგორ იყენებს ქულებს.",
+   "ar": "كل وحدة تُقدَّر من 1.0 إلى 9.0. لا توجد درجة نجاح عامة؛ تحدد كل جامعة الوحدات المطلوبة وكيف تستخدم الدرجات."
+  },
+  "tips": {
+   "en": [
+    "Pick modules by your course page: everyone takes Mathematics 1, then two more.",
+    "No calculator: practise estimation, standard results and fast, careful algebra.",
+    "Time yourself: 27 questions in 40 minutes leaves under 90 seconds each."
+   ],
+   "ka": [
+    "მოდულები პროგრამის გვერდის მიხედვით აირჩიე: Mathematics 1 ყველას უნდა, შემდეგ კიდევ ორი.",
+    "კალკულატორის გარეშე: ივარჯიშე შეფასებაზე, სტანდარტულ შედეგებსა და სწრაფ, ფრთხილ ალგებრაზე.",
+    "დრო აითვალე: 27 კითხვა 40 წუთში თითოზე 90 წამზე ნაკლებს ნიშნავს."
+   ],
+   "ar": [
+    "اختر الوحدات حسب صفحة تخصصك: الجميع يؤدي Mathematics 1 ثم وحدتين أخريين.",
+    "بلا آلة حاسبة: تدرّب على التقدير والنتائج المعيارية وجبر سريع ودقيق.",
+    "احسب وقتك: 27 سؤالاً في 40 دقيقة يعني أقل من 90 ثانية للسؤال."
+   ]
+  }
+ },
+ "tara": {
+  "who": {
+   "en": "Applicants to many humanities and social science courses at Oxford and UCL that ask for TARA.",
+   "ka": "ოქსფორდსა და UCL-ში ბევრ ჰუმანიტარულ და სოციალურ მეცნიერებათა პროგრამაზე აპლიკანტები, სადაც TARA მოითხოვება.",
+   "ar": "المتقدمون لكثير من تخصصات العلوم الإنسانية والاجتماعية في أكسفورد وUCL التي تطلب TARA."
+  },
+  "scores": {
+   "en": "The two multiple-choice modules are scored 1.0–9.0. The essay is not scored but is sent to universities, who decide how to use all three parts.",
+   "ka": "ორი არჩევანიანი მოდული ფასდება 1.0–9.0-ით. ესე არ ფასდება, მაგრამ უნივერსიტეტებს ეგზავნება; სამივე ნაწილის გამოყენებას უნივერსიტეტები თავად წყვეტენ.",
+   "ar": "وحدتا الاختيار من متعدد تُقدَّران من 1.0 إلى 9.0. المقال لا يُصحَّح بدرجة بل يُرسل إلى الجامعات، وهي تقرر كيف تستخدم الأجزاء الثلاثة."
+  },
+  "tips": {
+   "en": [
+    "Practise spotting assumptions and weak links in short arguments for Critical Thinking.",
+    "For Problem Solving, practise using given information only; no outside knowledge or calculator.",
+    "In the Writing Task, plan briefly, answer the question directly and stay under 750 words."
+   ],
+   "ka": [
+    "Critical Thinking-ისთვის ივარჯიშე მოკლე არგუმენტებში დაშვებებისა და სუსტი რგოლების პოვნაზე.",
+    "Problem Solving-ისთვის ივარჯიშე მხოლოდ მოცემული ინფორმაციით მუშაობაზე; გარე ცოდნა და კალკულატორი არ გჭირდება.",
+    "Writing Task-ში მოკლედ დაგეგმე, პირდაპირ უპასუხე შეკითხვას და 750 სიტყვას არ გადაუხვიო."
+   ],
+   "ar": [
+    "لـ Critical Thinking تدرّب على اكتشاف الافتراضات ونقاط الضعف في حجج قصيرة.",
+    "لـ Problem Solving تدرّب على استخدام المعطيات فقط دون معرفة خارجية أو آلة حاسبة.",
+    "في Writing Task خطّط باختصار وأجب عن السؤال مباشرة ولا تتجاوز 750 كلمة."
+   ]
+  }
+ },
+ "step": {
+  "who": {
+   "en": "Applicants to Mathematics at Cambridge (most often) and some at Warwick and Imperial who hold an offer that names STEP.",
+   "ka": "კემბრიჯის (ყველაზე ხშირად) და ზოგ Warwick-ისა და Imperial-ის მათემატიკის აპლიკანტები, რომელთა შეთავაზებაშიც STEP მითითებულია.",
+   "ar": "المتقدمون للرياضيات في كامبريدج (غالباً) وبعض من في وارويك وإمبريال ممن يحملون عرضاً يذكر STEP."
+  },
+  "scores": {
+   "en": "Grades are S, 1, 2, 3 and U (S is the highest). Your offer names the grades needed in STEP 2 and 3, and requirements differ by university.",
+   "ka": "ნიშნებია S, 1, 2, 3 და U (S უმაღლესია). შეთავაზებაში მითითებულია, რა ნიშნებია საჭირო STEP 2-სა და 3-ში; მოთხოვნები უნივერსიტეტების მიხედვით განსხვავდება.",
+   "ar": "الدرجات S و1 و2 و3 وU (S الأعلى). يذكر عرضك الدرجات المطلوبة في STEP 2 و3، وتختلف المتطلبات بين الجامعات."
+  },
+  "tips": {
+   "en": [
+    "Only your best six answers count, so aim for a few complete solutions, not many partial ones.",
+    "Work through past papers with the published mark schemes and examiner reports.",
+    "Write every step clearly: full, well-argued solutions earn far more than a bare answer."
+   ],
+   "ka": [
+    "მხოლოდ საუკეთესო ექვსი პასუხი ითვლება, ამიტომ ბევრი ნაწილობრივის ნაცვლად რამდენიმე სრული ამონახსნი ისწავლე.",
+    "წინა წლების ნაშრომები გამოქვეყნებული შეფასების სქემებითა და გამომცდელთა ანგარიშებით ამოხსენი.",
+    "ყველა ნაბიჯი მკაფიოდ დაწერე: სრული, დასაბუთებული ამონახსნი ბევრად მეტს გაძლევს, ვიდრე მხოლოდ პასუხი."
+   ],
+   "ar": [
+    "تُحتسب أفضل ست إجابات فقط، فاستهدف حلولاً كاملة قليلة لا كثيراً من الجزئية.",
+    "حلّ أوراقاً سابقة مع سلالم التصحيح وتقارير الممتحنين المنشورة.",
+    "اكتب كل خطوة بوضوح؛ فالحل الكامل المبرر يكسب أكثر بكثير من إجابة مجردة."
+   ]
+  }
+ },
+ "ucat": {
+  "who": {
+   "en": "Applicants to medicine and dentistry at most UK universities; it tests thinking skills, not science knowledge.",
+   "ka": "ბრიტანეთის უმეტეს უნივერსიტეტში მედიცინასა და სტომატოლოგიაზე აპლიკანტები; ტესტი აზროვნების უნარებს ამოწმებს და არა სამეცნიერო ცოდნას.",
+   "ar": "المتقدمون للطب وطب الأسنان في معظم الجامعات البريطانية؛ يقيس مهارات التفكير لا المعرفة العلمية."
+  },
+  "scores": {
+   "en": "Verbal Reasoning, Decision Making and Quantitative Reasoning are each 300–900; Situational Judgement is bands 1–4. Universities set their own cut-offs and weighting.",
+   "ka": "Verbal Reasoning, Decision Making და Quantitative Reasoning თითო 300–900-ია; Situational Judgement — ბენდები 1–4. უნივერსიტეტები საკუთარ ზღვარს და წონას თავად ადგენენ.",
+   "ar": "Verbal Reasoning وDecision Making وQuantitative Reasoning لكل منها 300–900، وSituational Judgement نطاقات 1–4. تحدد الجامعات حدودها وأوزانها بنفسها."
+  },
+  "tips": {
+   "en": [
+    "Use the free official UCAT question banks and practice tests to learn each subtest.",
+    "Each subtest is timed separately, so flag hard questions and move on; there is no negative marking.",
+    "In Situational Judgement, base answers on professional behaviour, patient safety and honesty."
+   ],
+   "ka": [
+    "გამოიყენე უფასო ოფიციალური UCAT-ის კითხვების ბანკები და საცდელი ტესტები თითოეული ქვეტესტის გასაცნობად.",
+    "თითოეული ქვეტესტი ცალკე იზომება დროით, ამიტომ რთული კითხვა მონიშნე და გააგრძელე; ქულის მოკლება არ არის.",
+    "Situational Judgement-ში პასუხები პროფესიულ ქცევას, პაციენტის უსაფრთხოებასა და პატიოსნებას დააფუძნე."
+   ],
+   "ar": [
+    "استخدم بنوك الأسئلة والاختبارات التدريبية الرسمية المجانية لتتعرف على كل اختبار فرعي.",
+    "كل اختبار فرعي له وقت منفصل، فعلّم السؤال الصعب وتابع؛ لا يوجد خصم على الخطأ.",
+    "في Situational Judgement ابنِ إجاباتك على السلوك المهني وسلامة المريض والأمانة."
+   ]
+  }
+ },
+ "lnat": {
+  "who": {
+   "en": "Applicants to law at Oxford, Cambridge, LSE, UCL, KCL and other UK universities that require it.",
+   "ka": "ოქსფორდში, კემბრიჯში, LSE-ში, UCL-სა და KCL-ში და სხვა ბრიტანულ უნივერსიტეტებში სამართალზე აპლიკანტები, სადაც ეს ტესტი სავალდებულოა.",
+   "ar": "المتقدمون للقانون في أكسفورد وكامبريدج وLSE وUCL وKCL وجامعات بريطانية أخرى تشترطه."
+  },
+  "scores": {
+   "en": "Section A is scored out of 42. The Section B essay is not scored, but universities read it. Universities set their own use of the scores.",
+   "ka": "A ნაწილი 42-იდან ფასდება. B ნაწილის ესე არ ფასდება, მაგრამ უნივერსიტეტები მას კითხულობენ. ქულების გამოყენებას უნივერსიტეტები თავად წყვეტენ.",
+   "ar": "القسم A يُقدَّر من 42. مقال القسم B لا يُعطى درجة لكن الجامعات تقرؤه. وتقرر كل جامعة كيف تستخدم الدرجات."
+  },
+  "tips": {
+   "en": [
+    "Spend about 8 minutes per passage in Section A: 12 passages in 95 minutes.",
+    "Read quality newspaper editorials and summarise each argument in one sentence.",
+    "For the essay, plan a clear thesis, give counterarguments and keep under 750 words."
+   ],
+   "ka": [
+    "A ნაწილში თითო ტექსტზე დაახლოებით 8 წუთი დახარჯე: 12 ტექსტი 95 წუთში.",
+    "იკითხე ხარისხიანი გაზეთების რედაქციული სტატიები და თითოეული არგუმენტი ერთი წინადადებით შეაჯამე.",
+    "ესეში მკაფიო თეზისი დაგეგმე, კონტრარგუმენტები მოიყვანე და 750 სიტყვას არ გადაუხვიო."
+   ],
+   "ar": [
+    "اقضِ نحو 8 دقائق لكل نص في القسم A: 12 نصاً في 95 دقيقة.",
+    "اقرأ افتتاحيات الصحف الجيدة ولخّص كل حجة في جملة واحدة.",
+    "في المقال خطّط لأطروحة واضحة واذكر الحجج المضادة ولا تتجاوز 750 كلمة."
+   ]
+  }
+ },
+ "gamsat": {
+  "who": {
+   "en": "Graduates or final-year bachelor's students applying for graduate-entry medicine, and some dentistry or pharmacy, in Australia, the UK and Ireland.",
+   "ka": "კურსდამთავრებულები ან ბაკალავრიატის ბოლო კურსის სტუდენტები, რომლებიც ავსტრალიაში, დიდ ბრიტანეთსა და ირლანდიაში გრადუირებულთათვის განკუთვნილ მედიცინაზე (და ზოგ სტომატოლოგიასა და ფარმაციაზე) აბარებენ.",
+   "ar": "الخريجون أو طلاب السنة الأخيرة من البكالوريوس المتقدمون للطب للخريجين، وبعض طب الأسنان والصيدلة، في أستراليا وبريطانيا وأيرلندا."
+  },
+  "scores": {
+   "en": "Each of the three sections is scored 1–100. The overall score is a weighted average in which the science section counts double. Schools set their own cut-offs.",
+   "ka": "სამივე ნაწილი ფასდება 1–100-ით. საერთო ქულა შეწონილი საშუალოა, სადაც საბუნებისმეტყველო ნაწილი ორმაგად ითვლება. კვალიფიკაციის ზღვარს სკოლები თავად აწესებენ.",
+   "ar": "كل قسم من الأقسام الثلاثة يُقدَّر من 1 إلى 100. الدرجة الكلية متوسط مرجّح يُحتسب فيه قسم العلوم مرتين. تحدد الكليات حدودها بنفسها."
+  },
+  "tips": {
+   "en": [
+    "Spend most study time on the science section: it is first-year university level and counts double.",
+    "Practise ACER's official sample questions to learn the style of each section.",
+    "Train stamina with timed full practice papers; the test is long, over two sittings."
+   ],
+   "ka": [
+    "სწავლის უმეტესი დრო საბუნებისმეტყველო ნაწილს დაუთმე: ის უნივერსიტეტის პირველი კურსის დონისაა და ორმაგად ითვლება.",
+    "ივარჯიშე ACER-ის ოფიციალურ ნიმუშებზე თითოეული ნაწილის სტილის გასაცნობად.",
+    "გამძლეობა დროში შეზღუდული სრული საცდელი ნაშრომებით გაიმყარე; ტესტი გრძელია და ორ სესიად ტარდება."
+   ],
+   "ar": [
+    "اجعل معظم دراستك لقسم العلوم: بمستوى السنة الأولى الجامعية ويُحتسب مرتين.",
+    "تدرّب على نماذج ACER الرسمية لتتعرف على أسلوب كل قسم.",
+    "درّب التحمل باختبارات كاملة بوقت محدد؛ فالاختبار طويل ويُؤدى على جلستين."
+   ]
+  }
+ },
+ "gre": {
+  "who": {
+   "en": "Students applying to master's, PhD and some business programmes, mostly in the US; many programmes now make it optional.",
+   "ka": "სტუდენტები, რომლებიც მაგისტრატურასა და დოქტორანტურაზე და ზოგ ბიზნეს პროგრამაზე აბარებენ, ძირითადად აშშ-ში; ბევრმა პროგრამამ ის ახლა არჩევითი გახადა.",
+   "ar": "الطلاب المتقدمون للماجستير والدكتوراه وبعض برامج الأعمال، خاصة في أمريكا؛ وكثير من البرامج جعلته اختيارياً الآن."
+  },
+  "scores": {
+   "en": "Verbal and Quantitative are each scored 130–170; Analytical Writing 0–6 in half-point steps. Programmes publish their own expectations, and there is no universal pass mark.",
+   "ka": "Verbal და Quantitative თითო ფასდება 130–170-ით; Analytical Writing — 0–6-ით ნახევარი ქულის ბიჯით. პროგრამები საკუთარ მოლოდინებს აქვეყნებენ, საერთო გამსვლელი ქულა არ არსებობს.",
+   "ar": "Verbal وQuantitative لكل منهما 130–170، وAnalytical Writing من 0 إلى 6 بخطوات نصف درجة. تنشر البرامج توقعاتها ولا توجد درجة نجاح موحّدة."
+  },
+  "tips": {
+   "en": [
+    "Use ETS's free official PowerPrep tests to practise the section-adaptive format.",
+    "Within a section you can skip and return, so answer easy questions first.",
+    "Build a Verbal vocabulary list from real reading, and use the on-screen calculator for Quant."
+   ],
+   "ka": [
+    "გამოიყენე ETS-ის უფასო ოფიციალური PowerPrep ტესტები ნაწილების მიხედვით ადაპტირებადი ფორმატის გასაცნობად.",
+    "ერთი ნაწილის ფარგლებში შეგიძლია გამოტოვო და დაუბრუნდე, ამიტომ ჯერ მარტივ კითხვებს უპასუხე.",
+    "Verbal-ისთვის რეალური კითხვიდან შეადგინე ლექსიკის სია, Quant-ში კი ეკრანზე კალკულატორი გამოიყენე."
+   ],
+   "ar": [
+    "استخدم اختبارات PowerPrep الرسمية المجانية من ETS لتتدرب على الصيغة التكيّفية بحسب القسم.",
+    "داخل القسم يمكنك التخطي والعودة، فابدأ بالأسئلة السهلة.",
+    "ابنِ قائمة مفردات لـ Verbal من قراءات حقيقية، واستخدم الآلة الحاسبة على الشاشة في Quant."
+   ]
+  }
+ },
+ "gmat": {
+  "who": {
+   "en": "Graduates applying to MBA and business master's programmes worldwide, including Qatar and the Gulf; many schools also take the GRE.",
+   "ka": "კურსდამთავრებულები, რომლებიც მსოფლიოს მასშტაბით, კატარისა და ყურის ქვეყნების ჩათვლით, MBA-სა და ბიზნეს მაგისტრატურაზე აბარებენ; ბევრი სკოლა GRE-საც იღებს.",
+   "ar": "الخريجون المتقدمون لبرامج MBA وماجستير الأعمال حول العالم، ومنها قطر والخليج؛ وكثير من الكليات تقبل GRE أيضاً."
+  },
+  "scores": {
+   "en": "The total score is 205–805, with each section scored 60–90. Business schools publish their class averages, so check the schools you target.",
+   "ka": "საერთო ქულა 205–805-ია, თითოეული ნაწილი კი 60–90-ით ფასდება. ბიზნეს სკოლები თავიანთი ჯგუფის საშუალო ქულებს აქვეყნებენ, ამიტომ სასურველი სკოლები შეამოწმე.",
+   "ar": "الدرجة الكلية 205–805 وكل قسم يُقدَّر من 60 إلى 90. تنشر كليات الأعمال متوسطات دفعاتها، فراجع الكليات التي تستهدفها."
+  },
+  "tips": {
+   "en": [
+    "Take the official free practice exams to try the three sections and choose your order.",
+    "You can review and change up to three answers per section, so save time for that.",
+    "For Data Insights, practise reading tables and graphs quickly; it is quite different from GRE-style prep."
+   ],
+   "ka": [
+    "გამოიყენე ოფიციალური უფასო საცდელი გამოცდები სამი ნაწილის გასაცნობად და თანმიმდევრობის ასარჩევად.",
+    "თითო ნაწილში სამ პასუხამდე შეგიძლია გადახედო და შეცვალო, ამიტომ ამისთვის დრო შეინახე.",
+    "Data Insights-ისთვის ივარჯიშე ცხრილებისა და გრაფიკების სწრაფ კითხვაზე; ის GRE-ის სტილისგან საკმაოდ განსხვავდება."
+   ],
+   "ar": [
+    "استخدم الاختبارات التدريبية الرسمية المجانية لتجرب الأقسام الثلاثة وتختار ترتيبك.",
+    "يمكنك مراجعة وتغيير ما يصل إلى ثلاث إجابات في كل قسم، فاحتفظ بوقت لذلك.",
+    "في Data Insights تدرّب على قراءة الجداول والرسوم بسرعة؛ فهو يختلف كثيراً عن أسلوب GRE."
+   ]
+  }
+ },
+ "lsat": {
+  "who": {
+   "en": "Students applying to law school (JD) in the US and Canada, and to some law programmes elsewhere.",
+   "ka": "სტუდენტები, რომლებიც აშშ-სა და კანადაში იურიდიულ სკოლებში (JD) და ზოგ სხვა ქვეყნის იურიდიულ პროგრამაზე აბარებენ.",
+   "ar": "الطلاب المتقدمون إلى كليات القانون (JD) في الولايات المتحدة وكندا وبعض برامج القانون في أماكن أخرى."
+  },
+  "scores": {
+   "en": "The score is 120–180; the writing sample is separate and unscored. Each law school publishes its median LSAT, so compare yourself with your targets.",
+   "ka": "ქულა 120–180-ია; წერითი ნიმუში ცალკეა და არ ფასდება. თითოეული იურიდიული სკოლა თავისი მედიანური LSAT-ის ქულას აქვეყნებს, ამიტომ შეადარე საკუთარი თავი სასურველ სკოლებს.",
+   "ar": "الدرجة من 120 إلى 180، وعينة الكتابة منفصلة وبلا درجة. تنشر كل كلية قانون وسيط LSAT لديها، فقارن نفسك بالكليات التي تستهدفها."
+  },
+  "tips": {
+   "en": [
+    "Practise on LSAC's official LawHub tests, which match the real digital interface.",
+    "Review every wrong answer in Logical Reasoning and name the flaw type you missed.",
+    "There is no penalty for wrong answers, so answer every question within each 35-minute section."
+   ],
+   "ka": [
+    "ივარჯიშე LSAC-ის ოფიციალურ LawHub ტესტებზე, რომლებიც რეალურ ციფრულ ინტერფეისს ემთხვევა.",
+    "Logical Reasoning-ში ყველა არასწორი პასუხი გადაამოწმე და დაასახელე, რომელი ტიპის შეცდომა გაგრჩა.",
+    "არასწორი პასუხისთვის ქულა არ აკლდება, ამიტომ თითოეულ 35-წუთიან ნაწილში ყველა კითხვას უპასუხე."
+   ],
+   "ar": [
+    "تدرّب على اختبارات LawHub الرسمية من LSAC فهي تطابق الواجهة الرقمية الحقيقية.",
+    "راجع كل إجابة خاطئة في Logical Reasoning وسمِّ نوع الخطأ المنطقي الذي فاتك.",
+    "لا خصم على الإجابة الخاطئة، فأجب عن كل سؤال في كل قسم مدته 35 دقيقة."
+   ]
+  }
+ },
+ "mcat": {
+  "who": {
+   "en": "Students applying to medical school in the US and Canada, and some in Australia and elsewhere, near the end of a bachelor's degree.",
+   "ka": "სტუდენტები, რომლებიც აშშ-სა და კანადაში (და ზოგ ავსტრალიასა და სხვაგან) სამედიცინო სკოლაში აბარებენ, ბაკალავრის დასრულებასთან ახლოს.",
+   "ar": "الطلاب المتقدمون إلى كليات الطب في الولايات المتحدة وكندا وبعضها في أستراليا وغيرها، قرب نهاية البكالوريوس."
+  },
+  "scores": {
+   "en": "Each section is 118–132 and the total 472–528. AAMC publishes average scores of applicants and accepted students every year.",
+   "ka": "თითოეული ნაწილი 118–132-ია, საერთო ქულა კი 472–528. AAMC ყოველწლიურად აქვეყნებს აპლიკანტებისა და მიღებული სტუდენტების საშუალო ქულებს.",
+   "ar": "كل قسم 118–132 والمجموع 472–528. تنشر AAMC كل عام متوسط درجات المتقدمين والمقبولين."
+  },
+  "tips": {
+   "en": [
+    "Take AAMC's official practice exams; they are the closest match to the real test.",
+    "Practise CARS passages daily, since they need reading skill, not outside knowledge.",
+    "Build stamina: the test lasts about 7½ hours, so do full-length practice under test conditions."
+   ],
+   "ka": [
+    "ჩააბარე AAMC-ის ოფიციალური საცდელი გამოცდები; ისინი რეალურ ტესტს ყველაზე ახლოსაა.",
+    "CARS ტექსტებს ყოველდღე ივარჯიშე, რადგან მათ კითხვის უნარი სჭირდება და არა გარე ცოდნა.",
+    "გამძლეობა გაიმყარე: ტესტი დაახლოებით 7,5 საათი გრძელდება, ამიტომ სრული საცდელი რეალური პირობებით ჩააბარე."
+   ],
+   "ar": [
+    "أجرِ اختبارات AAMC التدريبية الرسمية فهي الأقرب إلى الاختبار الحقيقي.",
+    "تدرّب على نصوص CARS يومياً فهي تحتاج مهارة القراءة لا معرفة خارجية.",
+    "ابنِ التحمل: الاختبار يستغرق نحو 7.5 ساعات، فجرّب نماذج كاملة بظروف الاختبار."
+   ]
+  }
+ },
+ "naec-masters": {
+  "who": {
+   "en": "Bachelor's graduates applying to most master's programmes at Georgian universities.",
+   "ka": "ბაკალავრიატის კურსდამთავრებულები, რომლებიც საქართველოს უნივერსიტეტების უმეტეს სამაგისტრო პროგრამაზე აბარებენ.",
+   "ar": "خريجو البكالوريوس المتقدمون لمعظم برامج الماجستير في الجامعات الجورجية."
+  },
+  "scores": {
+   "en": "NAEC reports your result for the whole test, and universities set their own minimum. Most also require their own subject exam after it.",
+   "ka": "NAEC მთლიანი ტესტის შედეგს გაცნობებს, მინიმუმს კი უნივერსიტეტები თავად ადგენენ. უმეტესს ამის შემდეგ საკუთარი საგნობრივი გამოცდაც აქვს.",
+   "ar": "يعلن NAEC نتيجتك في الاختبار كله، وتحدد الجامعات حدّها الأدنى بنفسها. ومعظمها يشترط أيضاً امتحانها الخاص في المادة بعده."
+  },
+  "tips": {
+   "en": [
+    "Solve the 2026 master's exam papers published on naec.ge under timed conditions.",
+    "Practise each part separately: reading, analytical writing, logical and quantitative reasoning.",
+    "Check the target programme's minimum score and subject exam date in advance."
+   ],
+   "ka": [
+    "naec.ge-ზე გამოქვეყნებული 2026 წლის სამაგისტრო გამოცდის ნაშრომები დროის შეზღუდვით ამოხსენი.",
+    "თითოეული ნაწილი ცალკე ივარჯიშე: კითხვა, ანალიტიკური წერა, ლოგიკური და რაოდენობრივი მსჯელობა.",
+    "წინასწარ შეამოწმე სასურველი პროგრამის მინიმალური ქულა და საგნობრივი გამოცდის თარიღი."
+   ],
+   "ar": [
+    "حلّ أوراق امتحان الماجستير لعام 2026 المنشورة على naec.ge بوقت محدد.",
+    "تدرّب على كل جزء منفصلاً: القراءة والكتابة التحليلية والاستدلال المنطقي والكمي.",
+    "تحقق مسبقاً من الحد الأدنى للبرنامج المستهدف وموعد امتحان المادة."
+   ]
+  }
+ }
+}

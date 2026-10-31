@@ -1,0 +1,2211 @@
+[
+ {
+  "id": "universidad-autonoma-de-madrid",
+  "name": {
+   "en": "Universidad Autónoma de Madrid",
+   "ka": "მადრიდის ავტონომიური უნივერსიტეტი",
+   "ar": "جامعة مدريد المستقلة"
+  },
+  "iso": "ES",
+  "city": "Madrid",
+  "lat": 40.5448,
+  "lon": -3.6925,
+  "type": "public",
+  "website": "https://www.uam.es",
+  "platform": "Madrid district pre-enrolment (preinscripción) after UNEDasiss accreditation",
+  "application_url": "https://www.uam.es/uam/estudios/sistemas-educativos-extranjeros",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "2027/28 dates are not published yet. For 2026/27 the extended pre-enrolment for foreign-system students ran 5 June to 6 July 2026, with a July call (20-24 July 2026) for leftover places.",
+  "tuition_intl": {
+   "amount": 6823,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Non-EU students without Spanish residence pay the Madrid fourth-enrolment rate (2026/27, decree 43/2022): about 6,823 to 8,186 EUR a year depending on the degree (UAM lists 6,823 EUR for English Studies). EU students pay about 1,000 to 1,240 EUR."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Georgian and Qatari school certificates are non-EU, non-agreement systems: the diploma must be homologated by the Spanish Ministry of Education and accredited by UNEDasiss. UK A-levels and the IB Diploma are accredited through UNEDasiss without a Spanish entrance exam. US high school diplomas follow the non-agreement route.",
+   "ka": "საქართველოსა და კატარის სკოლის ატესტატები არაევროპული, შეთანხმების გარეშე სისტემებია: ატესტატი უნდა დადასტურდეს ესპანეთის განათლების სამინისტროში (ჰომოლოგაცია) და UNEDasiss-ში. ბრიტანული A-level და IB დიპლომი UNEDasiss-ით აკრედიტდება ესპანური მისაღები გამოცდის გარეშე. ამერიკული საშუალო სკოლის დიპლომი არასაზავო მარშრუტით გადის.",
+   "ar": "الشهادات الثانوية الجورجية والقطرية تتبع أنظمة غير أوروبية وبلا اتفاقيات: يجب معادلتها لدى وزارة التعليم الإسبانية واعتمادها من UNEDasiss. تُعتمد شهادات A-level البريطانية وبكالوريا IB عبر UNEDasiss دون امتحان قبول إسباني. أما الدبلوم الثانوي الأمريكي فيتبع مسار الأنظمة غير المتفق عليها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "PCE (UNED)",
+   "DELE B2 / SIELE"
+  ],
+  "fields": [
+   "natural-sciences",
+   "medicine-health",
+   "humanities",
+   "economics",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Sciences",
+    "Medicine",
+    "Humanities",
+    "Economics",
+    "Psychology"
+   ],
+   "ka": [
+    "საბუნებისმეტყველო მეცნიერებები",
+    "მედიცინა",
+    "ჰუმანიტარული მეცნიერებები",
+    "ეკონომიკა",
+    "ფსიქოლოგია"
+   ],
+   "ar": [
+    "العلوم الطبيعية",
+    "الطب",
+    "العلوم الإنسانية",
+    "الاقتصاد",
+    "علم النفس"
+   ]
+  },
+  "summary": {
+   "en": "A large public research university in Madrid, mostly taught in Spanish with a few bilingual degrees. Non-EU students pay about 6,800 to 8,200 EUR a year.",
+   "ka": "მადრიდის დიდი საჯარო კვლევითი უნივერსიტეტი, სწავლება ძირითადად ესპანურად, რამდენიმე ორენოვანი პროგრამით. არაევროპელები წელიწადში დაახლოებით 6 800–8 200 ევროს იხდიან.",
+   "ar": "جامعة بحثية عامة كبيرة في مدريد، التدريس فيها بالإسبانية في الغالب مع بعض البرامج ثنائية اللغة. يدفع الطلاب من خارج الاتحاد الأوروبي نحو 6,800 إلى 8,200 يورو سنويًا."
+  },
+  "about": {
+   "en": "UAM is a public university on the Cantoblanco campus north of Madrid. Students from systems like the Georgian or Qatari school certificate first get their diploma homologated by the Spanish Ministry of Education, then an accreditation from UNEDasiss, and apply through the Madrid pre-enrolment. Places go by admission grade, which combines school grades and UNED PCE exams. Most degrees are in Spanish, so Spanish B2 is required. A few degrees are bilingual. Non-EU students without residence pay about 6,800 to 8,200 EUR a year.",
+   "ka": "UAM მადრიდის ჩრდილოეთით, კანტობლანკოს კამპუსზე მდებარე საჯარო უნივერსიტეტია. ქართული ან კატარული ატესტატის მქონე აპლიკანტმა ჯერ ესპანეთის განათლების სამინისტროში უნდა გაატაროს ატესტატის ჰომოლოგაცია, შემდეგ მიიღოს UNEDasiss-ის აკრედიტაცია და განაცხადი მადრიდის წინასწარი რეგისტრაციით შეიტანოს. ადგილები ნაწილდება მისაღები ქულის მიხედვით, რომელიც სკოლის ნიშნებსა და UNED-ის PCE გამოცდებს აერთიანებს. პროგრამების უმეტესობა ესპანურია, ამიტომ საჭიროა ესპანურის B2. რამდენიმე პროგრამა ორენოვანია. რეზიდენტობის არმქონე არაევროპელები წელიწადში დაახლოებით 6 800–8 200 ევროს იხდიან.",
+   "ar": "UAM جامعة عامة في حرم كانتوبلانكو شمال مدريد. على الطالب الحاصل على شهادة ثانوية جورجية أو قطرية أن يعادل شهادته لدى وزارة التعليم الإسبانية، ثم يحصل على اعتماد UNEDasiss، ثم يقدّم عبر التسجيل المسبق في مدريد. تُوزَّع المقاعد حسب درجة القبول التي تجمع درجات المدرسة واختبارات PCE من UNED. معظم البرامج بالإسبانية، لذا يلزم مستوى B2، وبعضها ثنائي اللغة. يدفع الطلاب غير المقيمين من خارج الاتحاد الأوروبي نحو 6,800 إلى 8,200 يورو سنويًا."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Non-EU applicants sit UNED PCE exams to reach a competitive admission grade (up to 14 points), and need Spanish B2 for Spanish-taught degrees. English-taught courses need B2 English.",
+   "ka": "არაევროპელმა აპლიკანტებმა კონკურენტული მისაღები ქულის (მაქსიმუმ 14) მისაღებად უნდა ჩააბარონ UNED-ის PCE გამოცდები, ესპანურენოვანი პროგრამებისთვის კი საჭიროა ესპანურის B2. ინგლისურენოვანი კურსებისთვის საჭიროა ინგლისურის B2.",
+   "ar": "يؤدي المتقدمون من خارج الاتحاد الأوروبي اختبارات PCE من UNED للوصول إلى درجة قبول تنافسية (حتى 14 نقطة)، ويلزمهم مستوى B2 في الإسبانية للبرامج الإسبانية، ومستوى B2 في الإنجليزية للمقررات الإنجليزية."
+  },
+  "gpa_note": {
+   "en": "The access grade is 60% your converted school grade plus PCE results; each PCE counts only with 5/10 or more. There is no fixed minimum, only a cut-off grade for each degree.",
+   "ka": "მისაღები ქულა 60%-ით თქვენი გადაყვანილი სკოლის ნიშნებია და მას PCE-ის შედეგები ემატება; თითოეული PCE ითვლება მხოლოდ 5/10-ის ან მეტის შემთხვევაში. ფიქსირებული მინიმუმი არ არის, თითოეულ პროგრამას აქვს გამავალი ქულა.",
+   "ar": "تشكّل درجة مدرستك المحوّلة 60% من درجة الدخول وتُضاف إليها نتائج PCE، ولا يُحتسب كل اختبار PCE إلا إذا بلغ 5/10 أو أكثر. لا يوجد حد أدنى ثابت بل درجة قبول خاصة بكل برنامج."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Homologation of the school diploma (Spanish Ministry of Education) and UNEDasiss accreditation",
+     "ka": "სკოლის ატესტატის ჰომოლოგაცია (ესპანეთის განათლების სამინისტრო) და UNEDasiss-ის აკრედიტაცია",
+     "ar": "معادلة الشهادة الثانوية (وزارة التعليم الإسبانية) واعتماد UNEDasiss"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "UNED Specific Competence Tests (PCE)",
+     "ka": "UNED-ის სპეციფიკური კომპეტენციების გამოცდები (PCE)",
+     "ar": "اختبارات الكفاءات الخاصة (PCE) من UNED"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Spanish language proof, level B2 (DELE, SIELE or UNEDasiss test)",
+     "ka": "ესპანური ენის B2 დონის დამადასტურებელი (DELE, SIELE ან UNEDasiss-ის ტესტი)",
+     "ar": "إثبات مستوى اللغة الإسبانية B2 (DELE أو SIELE أو اختبار UNEDasiss)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "spain",
+   "madrid",
+   "uam",
+   "public",
+   "pce",
+   "unedasiss",
+   "low cost"
+  ],
+  "sources": [
+   "https://www.uam.es/uam/estudios/sistemas-educativos-extranjeros",
+   "https://www.uam.es/uam/calendario-admision",
+   "https://www.uam.es/uam/en/ingleses",
+   "https://www.upm.es/gsfs/SFS50990"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universitat-pompeu-fabra-barcelona",
+  "name": {
+   "en": "Universitat Pompeu Fabra (Barcelona)",
+   "ka": "პომპეუ ფაბრას უნივერსიტეტი (ბარსელონა)",
+   "ar": "جامعة بومبيو فابرا (برشلونة)"
+  },
+  "iso": "ES",
+  "city": "Barcelona",
+  "lat": 41.3897,
+  "lon": 2.1932,
+  "type": "public",
+  "website": "https://www.upf.edu",
+  "platform": "Catalan university pre-enrolment (Generalitat de Catalunya) after UNEDasiss accreditation",
+  "application_url": "https://www.upf.edu/en/web/graus/estudis-realitzats-en-sistemes-educatius-de-paisos-no-membres-de-la-ue",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "2027/28 dates are not published. UPF lists 2026 pre-enrolment windows in spring and an extraordinary call on 22-29 June 2026. Global Studies has its own non-EU pre-enrolment in June.",
+  "tuition_intl": {
+   "amount": 6800,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Non-EU students without Spanish residence pay about 6,800 EUR for most degrees, about 6,911 EUR for Business degrees and about 11,573 EUR for double degrees (2025/26 table; the page header refers to 2026/27)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Catalan",
+   "Spanish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Georgian and Qatari school certificates are non-EU, non-agreement systems: the diploma must be homologated by the Spanish Ministry of Education and accredited by UNEDasiss. UK A-levels and the IB Diploma are accredited through UNEDasiss without a Spanish entrance exam. US high school diplomas follow the non-agreement route.",
+   "ka": "საქართველოსა და კატარის სკოლის ატესტატები არაევროპული, შეთანხმების გარეშე სისტემებია: ატესტატი უნდა დადასტურდეს ესპანეთის განათლების სამინისტროში (ჰომოლოგაცია) და UNEDasiss-ში. ბრიტანული A-level და IB დიპლომი UNEDasiss-ით აკრედიტდება ესპანური მისაღები გამოცდის გარეშე. ამერიკული საშუალო სკოლის დიპლომი არასაზავო მარშრუტით გადის.",
+   "ar": "الشهادات الثانوية الجورجية والقطرية تتبع أنظمة غير أوروبية وبلا اتفاقيات: يجب معادلتها لدى وزارة التعليم الإسبانية واعتمادها من UNEDasiss. تُعتمد شهادات A-level البريطانية وبكالوريا IB عبر UNEDasiss دون امتحان قبول إسباني. أما الدبلوم الثانوي الأمريكي فيتبع مسار الأنظمة غير المتفق عليها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "PCE (UNED)"
+  ],
+  "fields": [
+   "economics",
+   "social-sciences",
+   "law",
+   "business",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Economics",
+    "Political Science",
+    "Law",
+    "Communication",
+    "Humanities",
+    "Biomedical Engineering"
+   ],
+   "ka": [
+    "ეკონომიკა",
+    "პოლიტიკური მეცნიერებები",
+    "სამართალი",
+    "კომუნიკაცია",
+    "ჰუმანიტარული მეცნიერებები",
+    "ბიომედიცინის ინჟინერია"
+   ],
+   "ar": [
+    "الاقتصاد",
+    "العلوم السياسية",
+    "القانون",
+    "الاتصال",
+    "العلوم الإنسانية",
+    "الهندسة الطبية الحيوية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in central Barcelona known for economics, law and social sciences. Non-EU students pay about 6,800 EUR a year, and Global Studies is taught in English.",
+   "ka": "ბარსელონის ცენტრში მდებარე საჯარო უნივერსიტეტი, ცნობილია ეკონომიკით, სამართლითა და სოციალური მეცნიერებებით. არაევროპელები წელიწადში დაახლოებით 6 800 ევროს იხდიან, ხოლო Global Studies ინგლისურად ისწავლება.",
+   "ar": "جامعة عامة في وسط برشلونة معروفة بالاقتصاد والقانون والعلوم الاجتماعية. يدفع الطلاب من خارج الاتحاد الأوروبي نحو 6,800 يورو سنويًا، ويُدرَّس برنامج Global Studies بالإنجليزية."
+  },
+  "about": {
+   "en": "UPF is a public university with campuses in central Barcelona. Students with a non-EU school certificate, such as a Georgian or Qatari one, must have it homologated, sit the UNED exams and pre-enrol through the Catalan university system. Global Studies is taught in English and has its own non-EU pre-enrolment route; most other degrees use Catalan, Spanish and English. UPF publishes about 6,800 EUR a year for non-EU students without Spanish residence. The application fee is 54.54 EUR.",
+   "ka": "UPF ბარსელონის ცენტრში მდებარე საჯარო უნივერსიტეტია. არაევროპული სკოლის ატესტატის (მაგალითად ქართული ან კატარული) მქონე აპლიკანტმა უნდა გაიაროს ჰომოლოგაცია, ჩააბაროს UNED-ის გამოცდები და კატალონიის საუნივერსიტეტო სისტემაში წინასწარი რეგისტრაცია გააკეთოს. Global Studies ინგლისურად ისწავლება და აქვს არაევროპელებისთვის ცალკე მარშრუტი; სხვა პროგრამების უმეტესობა კატალანურ, ესპანურ და ინგლისურ ენებზეა. UPF-ის მონაცემებით არაევროპელი, რეზიდენტობის არმქონე სტუდენტი წელიწადში დაახლოებით 6 800 ევროს იხდის. განაცხადის საფასურია 54,54 ევრო.",
+   "ar": "UPF جامعة عامة لها حرم في وسط برشلونة. على حامل الشهادة الثانوية غير الأوروبية، مثل الجورجية أو القطرية، معادلتها وأداء اختبارات UNED والتسجيل المسبق عبر نظام الجامعات الكتالوني. يُدرَّس برنامج Global Studies بالإنجليزية وله مسار تسجيل خاص لغير الأوروبيين، وتستخدم معظم البرامج الأخرى الكتالونية والإسبانية والإنجليزية. تنشر UPF نحو 6,800 يورو سنويًا للطلاب غير المقيمين من خارج الاتحاد الأوروبي. رسوم التقديم 54.54 يورو."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Non-EU applicants sit UNED PCE exams to raise their admission grade. Language proof depends on the degree: Catalan or Spanish for most, English for Global Studies.",
+   "ka": "არაევროპელმა აპლიკანტებმა მისაღები ქულის ასამაღლებლად უნდა ჩააბარონ UNED-ის PCE გამოცდები. ენის დამადასტურებელი დამოკიდებულია პროგრამაზე: უმეტესობისთვის კატალანური ან ესპანური, Global Studies-სთვის კი ინგლისური.",
+   "ar": "يؤدي المتقدمون من خارج الاتحاد الأوروبي اختبارات PCE من UNED لرفع درجة القبول. يختلف إثبات اللغة حسب البرنامج: الكتالونية أو الإسبانية لمعظمها، والإنجليزية لبرنامج Global Studies."
+  },
+  "gpa_note": {
+   "en": "Places are given by admission grade (converted school grade plus PCE marks); the cut-off differs by degree and year.",
+   "ka": "ადგილები ნაწილდება მისაღები ქულით (გადაყვანილი სკოლის ნიშნები პლუს PCE-ის ქულები); გამავალი ქულა პროგრამისა და წლის მიხედვით განსხვავდება.",
+   "ar": "تُمنح المقاعد حسب درجة القبول (درجة المدرسة المحوّلة مع علامات PCE)، وتختلف درجة القبول الأدنى بحسب البرنامج والسنة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Homologation of the school diploma (Spanish Ministry of Education) and UNEDasiss accreditation",
+     "ka": "სკოლის ატესტატის ჰომოლოგაცია (ესპანეთის განათლების სამინისტრო) და UNEDasiss-ის აკრედიტაცია",
+     "ar": "معادلة الشهادة الثانوية (وزارة التعليم الإسبانية) واعتماد UNEDasiss"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "UNED Specific Competence Tests (PCE)",
+     "ka": "UNED-ის სპეციფიკური კომპეტენციების გამოცდები (PCE)",
+     "ar": "اختبارات الكفاءات الخاصة (PCE) من UNED"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "spain",
+   "barcelona",
+   "upf",
+   "public",
+   "economics",
+   "global studies",
+   "catalonia"
+  ],
+  "sources": [
+   "https://www.upf.edu/en/web/graus/preus",
+   "https://www.upf.edu/en/web/graus/estudis-iniciats-documentacio",
+   "https://www.upf.edu/en/web/graus/estudis-realitzats-en-sistemes-educatius-de-paisos-no-membres-de-la-ue",
+   "https://www.upf.edu/en/web/humanitats/degree-in-global-studies"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-navarra",
+  "name": {
+   "en": "University of Navarra",
+   "ka": "ნავარას უნივერსიტეტი",
+   "ar": "جامعة نافارا"
+  },
+  "iso": "ES",
+  "city": "Pamplona",
+  "lat": 42.8003,
+  "lon": -1.6609,
+  "type": "private",
+  "website": "https://www.unav.edu",
+  "platform": "Direct (miUNAV portal)",
+  "application_url": "https://www.unav.edu/admision-y-ayudas/grado/estudia-un-grado",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-12-09",
+  "deadline_note": "For 2027/28 the rounds are 9 December 2026 (test 12 December), 9 March 2027, 15 April 2027, then rolling from 31 May while places remain. The December round is open to international applicants for all degrees, and Medicine is December only for international applicants.",
+  "tuition_intl": {
+   "amount": 11750,
+   "currency": "EUR",
+   "per": "year",
+   "note": "From about 11,750 EUR for most degrees up to 19,250 EUR; the full 2026/27 range is 9,127 EUR (Philosophy and Theology double degree) to 20,400 EUR (Medicine). A 95 EUR secretariat fee is added. Prices are the same for all students."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "International students do not take the Spanish PAU. Applicants from outside the EU need the Spanish Bachiller homologation credential (a receipt is accepted at first, the original is due by 1 April the following year). A-level, Abitur, Baccalauréat and IB holders apply for UNEDasiss accreditation.",
+   "ka": "საერთაშორისო სტუდენტები ესპანურ PAU-ს არ აბარებენ. ევროკავშირს გარეთ მყოფ აპლიკანტებს სჭირდებათ ესპანური Bachiller-ის ჰომოლოგაციის დოკუმენტი (თავდაპირველად ქვითარიც მიიღება, ორიგინალი კი მომდევნო წლის 1 აპრილამდე უნდა წარადგინონ). A-level-ის, Abitur-ის, Baccalauréat-ისა და IB-ის მფლობელები UNEDasiss-ის აკრედიტაციას ითხოვენ.",
+   "ar": "لا يؤدي الطلاب الدوليون امتحان PAU الإسباني. يحتاج المتقدمون من خارج الاتحاد الأوروبي إلى وثيقة معادلة شهادة Bachiller الإسبانية (يُقبل الإيصال في البداية ويُسلَّم الأصل قبل 1 أبريل من العام التالي). يتقدم حاملو A-level وAbitur وBaccalauréat وIB بطلب اعتماد UNEDasiss."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "University entrance test (about 3 hours, online or in person)",
+   "DELE B2"
+  ],
+  "fields": [
+   "medicine-health",
+   "business",
+   "law",
+   "engineering",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Nursing",
+    "Law",
+    "Business",
+    "Communication",
+    "Engineering"
+   ],
+   "ka": [
+    "მედიცინა",
+    "საექთნო საქმე",
+    "სამართალი",
+    "ბიზნესი",
+    "კომუნიკაცია",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "الطب",
+    "التمريض",
+    "القانون",
+    "إدارة الأعمال",
+    "الاتصال",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "A private university in Pamplona with its own entrance test, strong in medicine, law and business. Tuition is about 9,100 to 20,400 EUR a year.",
+   "ka": "პამპლონაში მდებარე კერძო უნივერსიტეტი საკუთარი მისაღები ტესტით, ძლიერია მედიცინაში, სამართალსა და ბიზნესში. სწავლის საფასური წელიწადში დაახლოებით 9 100–20 400 ევროა.",
+   "ar": "جامعة خاصة في بامبلونا لها اختبار قبول خاص بها، وتتميز في الطب والقانون والأعمال. الرسوم الدراسية نحو 9,100 إلى 20,400 يورو سنويًا."
+  },
+  "about": {
+   "en": "The University of Navarra is a private university with its main campus in Pamplona. Applicants register on the miUNAV portal, upload their grades and pay a 100 EUR fee, then take a faculty entrance test of about three hours. International students do not take the Spanish PAU, but non-EU diplomas need Spanish homologation. Non-native Spanish speakers must show Spanish proof (DELE B2 is accepted) by 31 May. Some degrees are bilingual and need English. First-year tuition is about 9,100 to 20,400 EUR.",
+   "ka": "ნავარას უნივერსიტეტი კერძო უნივერსიტეტია, მთავარი კამპუსით პამპლონაში. აპლიკანტები miUNAV პორტალზე რეგისტრირდებიან, ტვირთავენ ნიშნებს და იხდიან 100 ევროს, შემდეგ კი ფაკულტეტის დაახლოებით სამსაათიან მისაღებ ტესტს აბარებენ. საერთაშორისო სტუდენტები ესპანურ PAU-ს არ აბარებენ, თუმცა არაევროპულ დიპლომს ესპანური ჰომოლოგაცია სჭირდება. ესპანურის არამშობლიურ მოლაპარაკეებს 31 მაისამდე უნდა წარადგინონ ესპანურის დამადასტურებელი (მიიღება DELE B2). ზოგი პროგრამა ორენოვანია და ინგლისურს მოითხოვს. პირველი კურსის საფასური დაახლოებით 9 100–20 400 ევროა.",
+   "ar": "جامعة نافارا جامعة خاصة وحرمها الرئيسي في بامبلونا. يسجّل المتقدم في بوابة miUNAV ويرفع درجاته ويدفع 100 يورو، ثم يؤدي اختبار قبول خاصًا بالكلية مدته نحو ثلاث ساعات. لا يؤدي الطلاب الدوليون امتحان PAU، لكن الشهادات من خارج الاتحاد الأوروبي تحتاج إلى معادلة إسبانية. على غير الناطقين بالإسبانية إثبات مستواهم قبل 31 مايو (يُقبل DELE B2). بعض البرامج ثنائية اللغة وتتطلب الإنجليزية. الرسوم في السنة الأولى نحو 9,100 إلى 20,400 يورو."
+  },
+  "aid_intl": {
+   "en": "Need- and merit-based aid exists (Beca Alumni and the Programa de Ayudas), plus 16% off for top-5% international students with Matrícula de Honor and a 5% early payment discount.",
+   "ka": "არსებობს საჭიროებისა და მიღწევის მიხედვით დახმარება (Beca Alumni და Programa de Ayudas), ასევე 16%-იანი ფასდაკლება საუკეთესო 5%-ში მყოფი საერთაშორისო სტუდენტებისთვის, რომლებსაც Matrícula de Honor აქვთ, და 5%-იანი ფასდაკლება ადრეული გადახდისას.",
+   "ar": "تتوفر مساعدات حسب الحاجة والتفوق (Beca Alumni وبرنامج المساعدات)، مع خصم 16% للطلاب الدوليين من أفضل 5% الحاصلين على Matrícula de Honor، وخصم 5% للدفع المبكر."
+  },
+  "tests": {
+   "en": "Each faculty runs its own entrance test of about 3 hours. Non-native Spanish speakers need Spanish proof (DELE B2 accepted); bilingual degrees also need English (B2 for most, IELTS 7 or TOEFL iBT 95 for the Medicine International Program).",
+   "ka": "თითოეული ფაკულტეტი საკუთარ, დაახლოებით 3-საათიან მისაღებ ტესტს ატარებს. ესპანურის არამშობლიურ მოლაპარაკეებს სჭირდებათ ესპანურის დამადასტურებელი (მიიღება DELE B2); ორენოვან პროგრამებს ინგლისურიც სჭირდება (უმეტესობისთვის B2, ხოლო Medicine International Program-ისთვის IELTS 7 ან TOEFL iBT 95).",
+   "ar": "تُجري كل كلية اختبار قبول خاصًا بها مدته نحو 3 ساعات. يحتاج غير الناطقين بالإسبانية إلى إثبات مستواهم (يُقبل DELE B2)، وتتطلب البرامج ثنائية اللغة الإنجليزية أيضًا (B2 في معظمها، وIELTS 7 أو TOEFL iBT 95 لبرنامج Medicine International Program)."
+  },
+  "gpa_note": {
+   "en": "International Medicine applicants need a school average of 7/10 or higher; other degrees publish no minimum average.",
+   "ka": "საერთაშორისო სამედიცინო პროგრამის აპლიკანტებს სკოლის საშუალო ქულა 7/10 ან მეტი სჭირდებათ; სხვა პროგრამებისთვის მინიმალური საშუალო ქულა არ არის გამოქვეყნებული.",
+   "ar": "يحتاج المتقدمون الدوليون للطب إلى معدل مدرسي 7/10 أو أكثر، ولا يُنشر حد أدنى للمعدل في البرامج الأخرى."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Homologation of the school diploma (Spanish Ministry of Education)",
+     "ka": "სკოლის ატესტატის ჰომოლოგაცია (ესპანეთის განათლების სამინისტრო)",
+     "ar": "معادلة الشهادة الثانوية (وزارة التعليم الإسبانية)"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "University entrance test (about 3 hours)",
+     "ka": "უნივერსიტეტის მისაღები ტესტი (დაახლოებით 3 საათი)",
+     "ar": "اختبار القبول الجامعي (نحو 3 ساعات)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Spanish language proof, level B2 (DELE, SIELE or UNEDasiss test)",
+     "ka": "ესპანური ენის B2 დონის დამადასტურებელი (DELE, SIELE ან UNEDasiss-ის ტესტი)",
+     "ar": "إثبات مستوى اللغة الإسبانية B2 (DELE أو SIELE أو اختبار UNEDasiss)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee, 100 EUR",
+     "ka": "განაცხადის საფასური, 100 ევრო",
+     "ar": "رسوم التقديم، 100 يورو"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-style photo",
+     "ka": "პასპორტის ტიპის ფოტო",
+     "ar": "صورة شخصية بمقاس جواز السفر"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Beca Alumni (need and merit)",
+    "url": "https://www.unav.edu/admision-y-ayudas/grado/becas-y-ayudas",
+    "coverage": "partial"
+   },
+   {
+    "name": "Programa de Ayudas Universidad de Navarra",
+    "url": "https://www.unav.edu/admision-y-ayudas/grado/becas-y-ayudas",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "spain",
+   "navarra",
+   "pamplona",
+   "private",
+   "medicine",
+   "law",
+   "entrance test"
+  ],
+  "sources": [
+   "https://www.unav.edu/admision-y-ayudas/grado/plazos-de-admision",
+   "https://www.unav.edu/admision-y-ayudas/grado/estudia-un-grado",
+   "https://www.unav.edu/admision-y-ayudas/grado/cuanto-cuesta-estudiar-en-la-universidad/precios-de-primer-curso",
+   "https://www.unav.edu/admision-y-ayudas/grado/becas-y-ayudas"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universidad-carlos-iii-de-madrid-uc3m",
+  "name": {
+   "en": "Universidad Carlos III de Madrid (UC3M)",
+   "ka": "მადრიდის კარლოს III უნივერსიტეტი (UC3M)",
+   "ar": "جامعة كارلوس الثالث في مدريد (UC3M)"
+  },
+  "iso": "ES",
+  "city": "Madrid",
+  "lat": 40.3317,
+  "lon": -3.7656,
+  "type": "public",
+  "website": "https://www.uc3m.es",
+  "platform": "Madrid pre-enrolment (after UNEDasiss) or UC3M Early Admission",
+  "application_url": "https://www.uc3m.es/bachelor-degree/admission/application/international-students/non-european",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "2027/28 dates are not published. General pre-enrolment runs in June and an extraordinary call in July; Early Admission (about 8% of places) is a separate route with its own rounds.",
+  "tuition_intl": {
+   "amount": 6823,
+   "currency": "EUR",
+   "per": "year",
+   "note": "2026/27 non-EU price per credit is 113.71 to 136.44 EUR, so about 6,823 to 8,186 EUR for 60 credits, plus administrative fee and insurance. Students with a Spanish residence permit can get EU prices."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Non-EU systems like the Georgian or Qatari certificate need Spanish homologation, UNEDasiss accreditation and PCE exams, or the separate Early Admission route (outstanding grades). A-level and IB holders apply through UNEDasiss without an entrance exam.",
+   "ka": "არაევროპული სისტემები, მაგალითად ქართული ან კატარული ატესტატი, საჭიროებს ესპანურ ჰომოლოგაციას, UNEDasiss-ის აკრედიტაციასა და PCE გამოცდებს, ან ცალკე Early Admission მარშრუტს (შესანიშნავი ნიშნებით). A-level-ისა და IB-ის მფლობელები UNEDasiss-ით შედიან მისაღები გამოცდის გარეშე.",
+   "ar": "تحتاج الأنظمة غير الأوروبية، مثل الشهادة الجورجية أو القطرية، إلى معادلة إسبانية واعتماد UNEDasiss واختبارات PCE، أو إلى مسار القبول المبكر المنفصل (لأصحاب الدرجات المتميزة). يتقدم حاملو A-level وIB عبر UNEDasiss دون امتحان قبول."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 5.5,
+  "toefl_min": 72,
+  "duolingo_min": null,
+  "other_tests": [
+   "PCE (UNED)",
+   "Spanish B2 (UNED test, DELE, SIELE)"
+  ],
+  "fields": [
+   "economics",
+   "law",
+   "engineering",
+   "social-sciences",
+   "computer-science",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Law",
+    "Economics",
+    "Business",
+    "Engineering",
+    "Communication",
+    "Biomedical Engineering"
+   ],
+   "ka": [
+    "სამართალი",
+    "ეკონომიკა",
+    "ბიზნესი",
+    "ინჟინერია",
+    "კომუნიკაცია",
+    "ბიომედიცინის ინჟინერია"
+   ],
+   "ar": [
+    "القانون",
+    "الاقتصاد",
+    "إدارة الأعمال",
+    "الهندسة",
+    "الاتصال",
+    "الهندسة الطبية الحيوية"
+   ]
+  },
+  "summary": {
+   "en": "A public university near Madrid strong in law, economics and engineering, with English-taught degrees. Non-EU students pay about 6,800 to 8,200 EUR a year.",
+   "ka": "მადრიდის მახლობლად მდებარე საჯარო უნივერსიტეტი, ძლიერია სამართალში, ეკონომიკასა და ინჟინერიაში, აქვს ინგლისურენოვანი პროგრამები. არაევროპელები წელიწადში დაახლოებით 6 800–8 200 ევროს იხდიან.",
+   "ar": "جامعة عامة قرب مدريد قوية في القانون والاقتصاد والهندسة، وفيها برامج بالإنجليزية. يدفع الطلاب من خارج الاتحاد الأوروبي نحو 6,800 إلى 8,200 يورو سنويًا."
+  },
+  "about": {
+   "en": "UC3M is a public university with campuses in Getafe, Leganés and Colmenarejo near Madrid. Non-EU applicants can pre-enrol after Spanish homologation, UNEDasiss accreditation and PCE exams, or use the Early Admission route, which takes about 8% of places and judges grades (90%) and other merits (10%). Early Admission needs B2 in the language of the degree. Some bachelors are taught in English. Non-EU tuition is about 6,800 to 8,200 EUR a year.",
+   "ka": "UC3M საჯარო უნივერსიტეტია, მადრიდის მახლობლად გეტაფეს, ლეგანესისა და კოლმენარეხოს კამპუსებით. არაევროპელ აპლიკანტებს შეუძლიათ წინასწარ დარეგისტრირდნენ ესპანური ჰომოლოგაციის, UNEDasiss-ის აკრედიტაციისა და PCE გამოცდების შემდეგ, ან გამოიყენონ Early Admission მარშრუტი, რომელიც ადგილების დაახლოებით 8%-ს იკავებს და ნიშნებს (90%) და სხვა მიღწევებს (10%) აფასებს. Early Admission-ისთვის საჭიროა პროგრამის სწავლების ენაზე B2. ზოგი ბაკალავრის პროგრამა ინგლისურად ისწავლება. არაევროპელის სწავლის საფასური წელიწადში დაახლოებით 6 800–8 200 ევროა.",
+   "ar": "UC3M جامعة عامة لها حرم جامعي في خيتافي وليغانيس وكولمينارخو قرب مدريد. يمكن للمتقدمين من خارج الاتحاد الأوروبي التسجيل المسبق بعد المعادلة الإسبانية واعتماد UNEDasiss واختبارات PCE، أو عبر مسار القبول المبكر الذي يشغل نحو 8% من المقاعد ويقيّم الدرجات (90%) والإنجازات الأخرى (10%). يشترط القبول المبكر مستوى B2 في لغة البرنامج. بعض برامج البكالوريوس تُدرَّس بالإنجليزية. الرسوم لغير الأوروبيين نحو 6,800 إلى 8,200 يورو سنويًا."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Standard route: UNED PCE exams. Early Admission needs B2 in the teaching language. For English-taught degrees UC3M accepts First Certificate, TOEFL iBT 72 or IELTS Academic 5.5; Spanish-taught degrees need Spanish B2.",
+   "ka": "სტანდარტული მარშრუტი: UNED-ის PCE გამოცდები. Early Admission-ისთვის საჭიროა B2 სწავლების ენაზე. ინგლისურენოვანი პროგრამებისთვის UC3M იღებს First Certificate-ს, TOEFL iBT 72-ს ან IELTS Academic 5.5-ს; ესპანურენოვან პროგრამებს ესპანურის B2 სჭირდება.",
+   "ar": "المسار العادي: اختبارات PCE من UNED. القبول المبكر يتطلب B2 في لغة التدريس. للبرامج الإنجليزية تقبل UC3M شهادة First Certificate أو TOEFL iBT 72 أو IELTS Academic 5.5، وتتطلب البرامج الإسبانية مستوى B2 في الإسبانية."
+  },
+  "gpa_note": {
+   "en": "Early Admission asks for an outstanding academic record, with grades making up 90% of the decision; the standard route uses an admission grade of up to 14 points.",
+   "ka": "Early Admission-ისთვის საჭიროა შესანიშნავი აკადემიური მოსწრება, ნიშნები გადაწყვეტილების 90%-ს შეადგენს; სტანდარტულ მარშრუტზე მისაღები ქულა მაქსიმუმ 14 ქულაა.",
+   "ar": "يتطلب القبول المبكر سجلًا أكاديميًا متميزًا وتشكّل الدرجات 90% من القرار، أما المسار العادي فيعتمد درجة قبول حتى 14 نقطة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Homologation of the school diploma (Spanish Ministry of Education) and UNEDasiss accreditation",
+     "ka": "სკოლის ატესტატის ჰომოლოგაცია (ესპანეთის განათლების სამინისტრო) და UNEDasiss-ის აკრედიტაცია",
+     "ar": "معادلة الشهادة الثانوية (وزارة التعليم الإسبانية) واعتماد UNEDasiss"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "UNED Specific Competence Tests (PCE)",
+     "ka": "UNED-ის სპეციფიკური კომპეტენციების გამოცდები (PCE)",
+     "ar": "اختبارات الكفاءات الخاصة (PCE) من UNED"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Spanish language proof, level B2 (DELE, SIELE or UNEDasiss test)",
+     "ka": "ესპანური ენის B2 დონის დამადასტურებელი (DELE, SIELE ან UNEDasiss-ის ტესტი)",
+     "ar": "إثبات مستوى اللغة الإسبانية B2 (DELE أو SIELE أو اختبار UNEDasiss)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "spain",
+   "madrid",
+   "uc3m",
+   "public",
+   "law",
+   "economics",
+   "early admission",
+   "english taught"
+  ],
+  "sources": [
+   "https://www.uc3m.es/bachelor-degree/admission/application/international-students/non-european",
+   "https://www.uc3m.es/bachelor-degree/admission/application/international-students/early-admission/what-is",
+   "https://www.uc3m.es/bachelor-degree/admission/application/enrollment/prices",
+   "https://www.uc3m.es/bachelor-degree/admission/application/grades-requirements"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universidad-politecnica-de-madrid-upm",
+  "name": {
+   "en": "Universidad Politécnica de Madrid (UPM)",
+   "ka": "მადრიდის პოლიტექნიკური უნივერსიტეტი (UPM)",
+   "ar": "الجامعة التقنية في مدريد (UPM)"
+  },
+  "iso": "ES",
+  "city": "Madrid",
+  "lat": 40.4437,
+  "lon": -3.7287,
+  "type": "public",
+  "website": "https://www.upm.es",
+  "platform": "Madrid district pre-enrolment (preinscripción) after UNEDasiss accreditation",
+  "application_url": "https://www.upm.es/gsfs/SFS42884",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "2027/28 dates are not published. UPM follows the Madrid district calendar, which for 2026/27 gave foreign-system students an extended window from 5 June to 6 July 2026.",
+  "tuition_intl": {
+   "amount": 7714,
+   "currency": "EUR",
+   "per": "year",
+   "note": "2026/27 Madrid price for non-EU students without Spanish residence (fourth-enrolment rate): 128.57 EUR per credit for most UPM degrees, so 7,714 EUR for 60 credits. Biotechnology, Biomedical Engineering and Sports Science cost about 8,186 EUR; Business, Mathematics and Fashion Design about 6,823 EUR. EU students pay about 1,166 EUR."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Georgian and Qatari certificates are non-EU, non-agreement systems: homologate the diploma at the Spanish Ministry of Education, then request UNEDasiss accreditation and sit PCE exams. A-level and IB holders only need UNEDasiss accreditation; PCE exams can raise the grade by up to 4 points.",
+   "ka": "ქართული და კატარული ატესტატები არაევროპული, შეთანხმების გარეშე სისტემებია: ატესტატი ესპანეთის განათლების სამინისტროში უნდა დადასტურდეს, შემდეგ მოითხოვეთ UNEDasiss-ის აკრედიტაცია და ჩააბარეთ PCE გამოცდები. A-level-ისა და IB-ის მფლობელებს მხოლოდ UNEDasiss-ის აკრედიტაცია სჭირდებათ; PCE-ს შეუძლია ქულა 4 ქულამდე გაზარდოს.",
+   "ar": "الشهادتان الجورجية والقطرية من أنظمة غير أوروبية وبلا اتفاقيات: عادِل الشهادة لدى وزارة التعليم الإسبانية، ثم اطلب اعتماد UNEDasiss وأدِّ اختبارات PCE. يكفي لحاملي A-level وIB اعتماد UNEDasiss، ويمكن لاختبارات PCE رفع الدرجة حتى 4 نقاط."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "PCE (UNED)",
+   "Spanish B2 (UNEDasiss test, DELE, SIELE)"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "arts-design",
+   "mathematics"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Architecture",
+    "Telecommunications",
+    "Computer Science",
+    "Aerospace Engineering",
+    "Civil Engineering"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "არქიტექტურა",
+    "ტელეკომუნიკაცია",
+    "კომპიუტერული მეცნიერებები",
+    "საჰაერო-კოსმოსური ინჟინერია",
+    "სამოქალაქო ინჟინერია"
+   ],
+   "ar": [
+    "الهندسة",
+    "العمارة",
+    "الاتصالات",
+    "علوم الحاسوب",
+    "هندسة الطيران والفضاء",
+    "الهندسة المدنية"
+   ]
+  },
+  "summary": {
+   "en": "Spain's leading public technical university, with engineering and architecture schools in Madrid, taught mostly in Spanish. Non-EU students pay about 7,700 EUR a year.",
+   "ka": "ესპანეთის წამყვანი საჯარო ტექნიკური უნივერსიტეტი, მადრიდში მდებარე საინჟინრო და არქიტექტურის სკოლებით, სწავლება ძირითადად ესპანურად. არაევროპელები წელიწადში დაახლოებით 7 700 ევროს იხდიან.",
+   "ar": "من أبرز الجامعات التقنية العامة في إسبانيا، فيها كليات للهندسة والعمارة في مدريد، والتدريس بالإسبانية في الغالب. يدفع الطلاب من خارج الاتحاد الأوروبي نحو 7,700 يورو سنويًا."
+  },
+  "about": {
+   "en": "UPM is a public technical university with engineering, architecture and computing schools across Madrid. Students from a Georgian or Qatari school system must get their diploma homologated, obtain a UNEDasiss accreditation, sit PCE exams and apply through the Madrid pre-enrolment. Bachelor degrees have 240 credits over four years. Teaching is mainly in Spanish, so non-Spanish speakers need Spanish B2. Non-EU students without residence pay about 7,700 EUR a year for most degrees.",
+   "ka": "UPM საჯარო ტექნიკური უნივერსიტეტია, მადრიდში მდებარე საინჟინრო, არქიტექტურისა და კომპიუტერული სკოლებით. ქართული ან კატარული სასკოლო სისტემის კურსდამთავრებულმა ატესტატი უნდა დაადასტუროს ჰომოლოგაციით, მიიღოს UNEDasiss-ის აკრედიტაცია, ჩააბაროს PCE გამოცდები და განაცხადი მადრიდის წინასწარი რეგისტრაციით შეიტანოს. ბაკალავრიატი 240 კრედიტია და ოთხ წელს გრძელდება. სწავლება ძირითადად ესპანურია, ამიტომ ესპანურის არამშობლიურ მოლაპარაკეებს B2 სჭირდებათ. რეზიდენტობის არმქონე არაევროპელები პროგრამების უმეტესობისთვის წელიწადში დაახლოებით 7 700 ევროს იხდიან.",
+   "ar": "UPM جامعة تقنية عامة فيها كليات للهندسة والعمارة والحوسبة في أنحاء مدريد. على الطالب القادم من نظام مدرسي جورجي أو قطري معادلة شهادته، والحصول على اعتماد UNEDasiss، وأداء اختبارات PCE، ثم التقديم عبر التسجيل المسبق في مدريد. تبلغ برامج البكالوريوس 240 ساعة معتمدة على أربع سنوات. التدريس بالإسبانية في الغالب، لذا يلزم غير الناطقين بها مستوى B2. يدفع غير المقيمين من خارج الاتحاد الأوروبي نحو 7,700 يورو سنويًا لمعظم البرامج."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "PCE exams from UNED can raise the access grade by up to 4 points, and UPM weights subjects by degree. Non-native Spanish speakers need Spanish B2, verified in the UNED accreditation.",
+   "ka": "UNED-ის PCE გამოცდებს შეუძლია მისაღები ქულა 4 ქულამდე გაზარდოს, UPM კი საგნებს პროგრამების მიხედვით აწონის. ესპანურის არამშობლიურ მოლაპარაკეებს სჭირდებათ ესპანურის B2, რომელიც UNED-ის აკრედიტაციაში მოწმდება.",
+   "ar": "يمكن لاختبارات PCE من UNED رفع درجة الدخول حتى 4 نقاط، وتمنح UPM أوزانًا للمواد بحسب البرنامج. يلزم غير الناطقين بالإسبانية مستوى B2 يُتحقق منه في اعتماد UNED."
+  },
+  "gpa_note": {
+   "en": "Admission is by cut-off grade per degree; engineering and computing degrees reward PCE results in maths and physics.",
+   "ka": "მიღება პროგრამის გამავალი ქულით ხდება; საინჟინრო და კომპიუტერულ პროგრამებზე მათემატიკისა და ფიზიკის PCE შედეგები უფრო მნიშვნელოვანია.",
+   "ar": "يتم القبول بحسب درجة القبول الأدنى لكل برنامج، وتُكافأ في الهندسة والحوسبة نتائج PCE في الرياضيات والفيزياء."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Homologation of the school diploma (Spanish Ministry of Education) and UNEDasiss accreditation",
+     "ka": "სკოლის ატესტატის ჰომოლოგაცია (ესპანეთის განათლების სამინისტრო) და UNEDasiss-ის აკრედიტაცია",
+     "ar": "معادلة الشهادة الثانوية (وزارة التعليم الإسبانية) واعتماد UNEDasiss"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "UNED Specific Competence Tests (PCE)",
+     "ka": "UNED-ის სპეციფიკური კომპეტენციების გამოცდები (PCE)",
+     "ar": "اختبارات الكفاءات الخاصة (PCE) من UNED"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Spanish language proof, level B2 (DELE, SIELE or UNEDasiss test)",
+     "ka": "ესპანური ენის B2 დონის დამადასტურებელი (DELE, SIELE ან UNEDasiss-ის ტესტი)",
+     "ar": "إثبات مستوى اللغة الإسبانية B2 (DELE أو SIELE أو اختبار UNEDasiss)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "spain",
+   "madrid",
+   "upm",
+   "engineering",
+   "architecture",
+   "public",
+   "technical university"
+  ],
+  "sources": [
+   "https://www.upm.es/gsfs/SFS42884",
+   "https://www.upm.es/gsfs/SFS50990",
+   "https://www.uam.es/uam/calendario-admision"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universitat-politecnica-de-catalunya-barcelonatech-upc",
+  "name": {
+   "en": "Universitat Politècnica de Catalunya - BarcelonaTech (UPC)",
+   "ka": "კატალონიის პოლიტექნიკური უნივერსიტეტი - BarcelonaTech (UPC)",
+   "ar": "جامعة كتالونيا التقنية - برشلونة تك (UPC)"
+  },
+  "iso": "ES",
+  "city": "Barcelona",
+  "lat": 41.3891,
+  "lon": 2.113,
+  "type": "public",
+  "website": "https://www.upc.edu",
+  "platform": "Catalan university pre-enrolment (Generalitat de Catalunya) after UNEDasiss accreditation",
+  "application_url": "https://www.upc.edu/en/bachelors/access-and-admission",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "2027/28 dates are not published. UPC bachelors use the Catalan university pre-enrolment calendar; check the Generalitat calendar for the year you apply.",
+  "tuition_intl": {
+   "amount": 1800,
+   "currency": "EUR",
+   "per": "year",
+   "note": "UPC degree pages list about 1,800 EUR a year for non-EU students without Spanish residence (30 EUR per credit for first enrolment since 2025) and about 1,061 EUR for others. Insurance and fees are extra."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Catalan",
+   "Spanish",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Foreign secondary diplomas from outside the EU must be homologated by the Spanish Ministry of Education and followed by the UNED entrance exams. EU-system and IB holders use UNEDasiss accreditation. Documents issued outside the EU must be legalised with an apostille.",
+   "ka": "ევროკავშირს გარეთ გაცემული საშუალო განათლების დიპლომები უნდა დადასტურდეს ესპანეთის განათლების სამინისტროში (ჰომოლოგაცია), რასაც UNED-ის გამოცდები მოჰყვება. ევროპული სისტემისა და IB-ის მფლობელები UNEDasiss-ის აკრედიტაციას იყენებენ. ევროკავშირს გარეთ გაცემული დოკუმენტები აპოსტილით უნდა იყოს ლეგალიზებული.",
+   "ar": "يجب أن تُعادَل الشهادات الثانوية الصادرة خارج الاتحاد الأوروبي لدى وزارة التعليم الإسبانية ثم تُؤدى امتحانات UNED. يستخدم حاملو أنظمة الاتحاد الأوروبي وIB اعتماد UNEDasiss. ويجب توثيق الوثائق الصادرة خارج الاتحاد بالأبوستيل."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "PCE / UNED entrance exams"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "arts-design",
+   "mathematics",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Architecture",
+    "Computer Science",
+    "Telecommunications",
+    "Civil Engineering",
+    "Data Science"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "არქიტექტურა",
+    "კომპიუტერული მეცნიერებები",
+    "ტელეკომუნიკაცია",
+    "სამოქალაქო ინჟინერია",
+    "მონაცემთა მეცნიერება"
+   ],
+   "ar": [
+    "الهندسة",
+    "العمارة",
+    "علوم الحاسوب",
+    "الاتصالات",
+    "الهندسة المدنية",
+    "علم البيانات"
+   ]
+  },
+  "summary": {
+   "en": "Catalonia's public technical university, strong in engineering, architecture and informatics. Non-EU tuition is only about 1,800 EUR a year, the lowest of this batch.",
+   "ka": "კატალონიის საჯარო ტექნიკური უნივერსიტეტი, ძლიერია ინჟინერიაში, არქიტექტურასა და ინფორმატიკაში. არაევროპელის სწავლის საფასური მხოლოდ დაახლოებით 1 800 ევროა წელიწადში, ამ ჯგუფში ყველაზე დაბალი.",
+   "ar": "الجامعة التقنية العامة في كتالونيا، قوية في الهندسة والعمارة والمعلوماتية. رسوم غير الأوروبيين نحو 1,800 يورو سنويًا فقط، وهي الأدنى في هذه المجموعة."
+  },
+  "about": {
+   "en": "UPC is a public technical university with schools in Barcelona and nearby towns. Students with a non-EU school certificate, such as a Georgian or Qatari one, must have the diploma homologated in Spain, pass the UNED exams and pre-enrol through the Catalan system. Language of teaching differs by subject (Catalan, Spanish or English) and is shown on each course sheet. Non-EU students without residence pay about 1,800 EUR a year. Documents issued outside the EU need an apostille.",
+   "ka": "UPC საჯარო ტექნიკური უნივერსიტეტია, სკოლებით ბარსელონასა და მის მიმდებარე ქალაქებში. არაევროპული სკოლის ატესტატის (მაგალითად ქართული ან კატარული) მქონე აპლიკანტმა უნდა გაიაროს ესპანეთში დიპლომის ჰომოლოგაცია, ჩააბაროს UNED-ის გამოცდები და კატალონიის სისტემით დარეგისტრირდეს. სწავლების ენა საგნის მიხედვით განსხვავდება (კატალანური, ესპანური ან ინგლისური) და მითითებულია თითოეული საგნის ფურცელზე. რეზიდენტობის არმქონე არაევროპელები წელიწადში დაახლოებით 1 800 ევროს იხდიან. ევროკავშირს გარეთ გაცემულ დოკუმენტებს აპოსტილი სჭირდება.",
+   "ar": "UPC جامعة تقنية عامة لها كليات في برشلونة والبلدات المجاورة. على حامل الشهادة غير الأوروبية، مثل الجورجية أو القطرية، معادلة الشهادة في إسبانيا واجتياز امتحانات UNED والتسجيل المسبق عبر النظام الكتالوني. تختلف لغة التدريس بحسب المادة (الكتالونية أو الإسبانية أو الإنجليزية) وتظهر في ورقة كل مادة. يدفع غير المقيمين من خارج الاتحاد الأوروبي نحو 1,800 يورو سنويًا. تحتاج الوثائق الصادرة خارج الاتحاد إلى أبوستيل."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Non-EU applicants take the UNED entrance exams to build an admission grade. Language requirements depend on the language of each subject.",
+   "ka": "არაევროპელი აპლიკანტები მისაღები ქულის მისაღებად UNED-ის გამოცდებს აბარებენ. ენის მოთხოვნები თითოეული საგნის სწავლების ენაზეა დამოკიდებული.",
+   "ar": "يؤدي المتقدمون من خارج الاتحاد الأوروبي امتحانات UNED لتكوين درجة القبول، وتعتمد متطلبات اللغة على لغة تدريس كل مادة."
+  },
+  "gpa_note": {
+   "en": "Places are given by admission grade; for example, the 2026/27 cut-off for Informatics Engineering in Barcelona was 10.008 out of 14.",
+   "ka": "ადგილები ნაწილდება მისაღები ქულით; მაგალითად, 2026/27 წელს ბარსელონაში ინფორმატიკის ინჟინერიის გამავალი ქულა 14-დან 10,008 იყო.",
+   "ar": "تُمنح المقاعد حسب درجة القبول؛ فمثلًا بلغت درجة القبول الأدنى لهندسة المعلوماتية في برشلونة 10.008 من 14 في 2026/27."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Homologation of the school diploma (Spanish Ministry of Education)",
+     "ka": "სკოლის ატესტატის ჰომოლოგაცია (ესპანეთის განათლების სამინისტრო)",
+     "ar": "معادلة الشهادة الثانوية (وزارة التعليم الإسبانية)"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "UNED Specific Competence Tests (PCE)",
+     "ka": "UNED-ის სპეციფიკური კომპეტენციების გამოცდები (PCE)",
+     "ar": "اختبارات الكفاءات الخاصة (PCE) من UNED"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "spain",
+   "barcelona",
+   "upc",
+   "engineering",
+   "architecture",
+   "public",
+   "low tuition",
+   "catalonia"
+  ],
+  "sources": [
+   "https://www.upc.edu/en/bachelors/informatics-engineering-barcelona-fib",
+   "https://www.upc.edu/en/press-room/news/the-upc-reduces-tuition-fees-for-non-eu-students-enrolling-in-master-degrees",
+   "https://www.upc.edu/en/bachelors/access-and-admission/students-with-started-bachelors-degree-abroad"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universitat-politecnica-de-valencia",
+  "name": {
+   "en": "Universitat Politecnica de Valencia",
+   "ka": "ვალენსიის პოლიტექნიკური უნივერსიტეტი",
+   "ar": "جامعة بالنسية التقنية"
+  },
+  "iso": "ES",
+  "city": "València",
+  "lat": 39.4812,
+  "lon": -0.342,
+  "type": "public",
+  "website": "https://www.upv.es",
+  "platform": "Valencian pre-enrolment (shared by the five public universities) after UNEDasiss accreditation",
+  "application_url": "https://www.upv.es/contenidos/rriibbaa/en/international-students/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "2027/28 dates are not published. For 2026/27 the single Valencian pre-enrolment window ran from 15 June to 3 July 2026 (until 14:00), including foreign-system students with a UNED accreditation.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Newly admitted non-EU students without Spanish residence pay twice the Valencian public price for the degree (Decree 101/2024); a study residence permit does not count as residence. The per-credit figures for 2026/27 could not be retrieved."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish",
+   "Valencian"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Students from non-EU systems like the Georgian or Qatari certificate need UNED accreditation (with Spanish homologation) and usually PCE exams for competitive degrees. EU-system and IB holders only need UNEDasiss accreditation.",
+   "ka": "არაევროპული სისტემის (მაგალითად ქართული ან კატარული ატესტატის) მქონე სტუდენტებს სჭირდებათ UNED-ის აკრედიტაცია (ესპანური ჰომოლოგაციით) და კონკურენტულ პროგრამებზე, როგორც წესი, PCE გამოცდები. ევროპული სისტემისა და IB-ის მფლობელებს მხოლოდ UNEDasiss-ის აკრედიტაცია სჭირდებათ.",
+   "ar": "يحتاج الطلاب من الأنظمة غير الأوروبية، مثل الشهادة الجورجية أو القطرية، إلى اعتماد UNED (مع المعادلة الإسبانية) وعادةً إلى اختبارات PCE للبرامج التنافسية. أما حاملو أنظمة الاتحاد الأوروبي وIB فيكفيهم اعتماد UNEDasiss."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "PCE (UNED)",
+   "Spanish or Valencian language proof"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "arts-design",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer Science",
+    "Architecture",
+    "Telecommunications",
+    "Fine Arts",
+    "Business"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერებები",
+    "არქიტექტურა",
+    "ტელეკომუნიკაცია",
+    "სახვითი ხელოვნება",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "العمارة",
+    "الاتصالات",
+    "الفنون الجميلة",
+    "إدارة الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "A large public technical university in València with strong engineering, computing and architecture. Non-EU students pay twice the regional public price.",
+   "ka": "ვალენსიის დიდი საჯარო ტექნიკური უნივერსიტეტი, ძლიერია ინჟინერიაში, კომპიუტერულ მეცნიერებებსა და არქიტექტურაში. არაევროპელები რეგიონულ საჯარო ფასზე ორჯერ მეტს იხდიან.",
+   "ar": "جامعة تقنية عامة كبيرة في بالنسية قوية في الهندسة والحوسبة والعمارة. يدفع الطلاب من خارج الاتحاد الأوروبي ضعف السعر العام الإقليمي."
+  },
+  "about": {
+   "en": "UPV is a public technical university with its main campus in València. Students with a non-EU certificate, such as a Georgian or Qatari one, get Spanish homologation and a UNED accreditation, then use the single Valencian pre-enrolment that covers all five public universities. Places go by admission grade. Teaching is mainly in Spanish or Valencian. Non-EU students without residence pay twice the standard public price for their degree.",
+   "ka": "UPV საჯარო ტექნიკური უნივერსიტეტია, მთავარი კამპუსით ვალენსიაში. არაევროპული ატესტატის (მაგალითად ქართული ან კატარული) მქონე აპლიკანტები იღებენ ესპანურ ჰომოლოგაციასა და UNED-ის აკრედიტაციას, შემდეგ კი ვალენსიის ერთიან წინასწარ რეგისტრაციას იყენებენ, რომელიც ხუთივე საჯარო უნივერსიტეტს მოიცავს. ადგილები ნაწილდება მისაღები ქულით. სწავლება ძირითადად ესპანურ ან ვალენსიურ ენაზეა. რეზიდენტობის არმქონე არაევროპელები საკუთარი პროგრამისთვის დადგენილ საჯარო ფასზე ორჯერ მეტს იხდიან.",
+   "ar": "UPV جامعة تقنية عامة وحرمها الرئيسي في بالنسية. يحصل حامل الشهادة غير الأوروبية، مثل الجورجية أو القطرية، على معادلة إسبانية واعتماد من UNED، ثم يستخدم التسجيل المسبق الموحد في بالنسية الذي يشمل الجامعات العامة الخمس. تُمنح المقاعد حسب درجة القبول. التدريس بالإسبانية أو البلنسية في الغالب. يدفع غير المقيمين من خارج الاتحاد الأوروبي ضعف السعر العام المقرر لبرنامجهم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "PCE exams from UNED are used to build the admission grade. Teaching is mostly in Spanish or Valencian, so language proof is expected.",
+   "ka": "მისაღები ქულის შესაქმნელად გამოიყენება UNED-ის PCE გამოცდები. სწავლება ძირითადად ესპანურ ან ვალენსიურ ენაზეა, ამიტომ ენის დამადასტურებელი მოსალოდნელია.",
+   "ar": "تُستخدم اختبارات PCE من UNED لتكوين درجة القبول. التدريس بالإسبانية أو البلنسية في الغالب، لذا يُتوقع إثبات اللغة."
+  },
+  "gpa_note": {
+   "en": "There is no fixed minimum; each degree has a cut-off grade set by the last admitted student of the year before.",
+   "ka": "ფიქსირებული მინიმუმი არ არის; თითოეულ პროგრამას აქვს გამავალი ქულა, რომელსაც წინა წლის ბოლო ჩარიცხული სტუდენტი განსაზღვრავს.",
+   "ar": "لا يوجد حد أدنى ثابت، ولكل برنامج درجة قبول أدنى يحددها آخر طالب مقبول في العام السابق."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Homologation of the school diploma (Spanish Ministry of Education) and UNEDasiss accreditation",
+     "ka": "სკოლის ატესტატის ჰომოლოგაცია (ესპანეთის განათლების სამინისტრო) და UNEDasiss-ის აკრედიტაცია",
+     "ar": "معادلة الشهادة الثانوية (وزارة التعليم الإسبانية) واعتماد UNEDasiss"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "UNED Specific Competence Tests (PCE)",
+     "ka": "UNED-ის სპეციფიკური კომპეტენციების გამოცდები (PCE)",
+     "ar": "اختبارات الكفاءات الخاصة (PCE) من UNED"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Spanish language proof, level B2 (DELE, SIELE or UNEDasiss test)",
+     "ka": "ესპანური ენის B2 დონის დამადასტურებელი (DELE, SIELE ან UNEDasiss-ის ტესტი)",
+     "ar": "إثبات مستوى اللغة الإسبانية B2 (DELE أو SIELE أو اختبار UNEDasiss)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "spain",
+   "valencia",
+   "upv",
+   "engineering",
+   "architecture",
+   "public",
+   "double price non-eu"
+  ],
+  "sources": [
+   "https://www.upv.es/contenidos/SMAT/info/718876normalc.html",
+   "https://www.upv.es/contenidos/SMAT/info/1192152normalc.html",
+   "https://www.upv.es/contenidos/rriibbaa/en/international-students/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "ie-university",
+  "name": {
+   "en": "IE University",
+   "ka": "IE უნივერსიტეტი",
+   "ar": "جامعة IE"
+  },
+  "iso": "ES",
+  "city": "Segovia",
+  "lat": 40.9429,
+  "lon": -4.1088,
+  "type": "private",
+  "website": "https://www.ie.edu",
+  "platform": "Direct (IE Application Portal) or Common App",
+  "application_url": "https://www.ie.edu/university/admission/admission-process/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-11-06",
+  "deadline_note": "2027/28 rounds: Early 18 Sep 2026, Round 1 on 6 Nov 2026, Round 2 on 15 Jan 2027, Round 3 on 5 Mar 2027. Later applications are considered from May 2027 if places remain.",
+  "tuition_intl": {
+   "amount": 27300,
+   "currency": "EUR",
+   "per": "year",
+   "note": "2027/28 first-year tuition is 27,300 EUR for most bachelors; BBA 29,880; Global BBA 45,120; Architecture and Design 28,020; dual degrees about 31,800 to 34,020. Also a 150 EUR application fee and a 3,000 EUR place reservation fee (5,000 for BBA)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Spanish"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "IE accepts over 60 school systems, including A-levels, IB, US high school, Abitur and French Baccalaureate. Applicants send transcripts for the last two years; predicted grades are used if the system has them. National certificates are judged by the admissions committee.",
+   "ka": "IE იღებს 60-ზე მეტ სასკოლო სისტემას, მათ შორის A-level-ს, IB-ს, ამერიკულ საშუალო სკოლას, Abitur-სა და ფრანგულ Baccalauréat-ს. აპლიკანტები აგზავნიან ბოლო ორი წლის ნიშნებს; თუ სისტემაში არსებობს, გამოიყენება სავარაუდო ნიშნებიც. ეროვნულ ატესტატებს მისაღები კომისია აფასებს.",
+   "ar": "تقبل IE أكثر من 60 نظامًا مدرسيًا منها A-level وIB والثانوية الأمريكية وAbitur والبكالوريا الفرنسية. يرسل المتقدم كشوف درجات آخر سنتين وتُستخدم الدرجات المتوقعة إن وُجدت في نظامه. تقيّم لجنة القبول الشهادات الوطنية."
+  },
+  "sat": {
+   "low": 1300,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": 7.0,
+  "toefl_min": 100,
+  "duolingo_min": 130,
+  "other_tests": [
+   "IE University Admissions Test (or SAT 1300 / ACT 28 / LNAT 22)",
+   "Cambridge C1 Advanced"
+  ],
+  "fields": [
+   "business",
+   "law",
+   "international-relations",
+   "computer-science",
+   "arts-design",
+   "economics"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Law",
+    "International Relations",
+    "Computer Science",
+    "Architecture",
+    "Design"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "სამართალი",
+    "საერთაშორისო ურთიერთობები",
+    "კომპიუტერული მეცნიერებები",
+    "არქიტექტურა",
+    "დიზაინი"
+   ],
+   "ar": [
+    "إدارة الأعمال",
+    "القانون",
+    "العلاقات الدولية",
+    "علوم الحاسوب",
+    "العمارة",
+    "التصميم"
+   ]
+  },
+  "summary": {
+   "en": "A private international university in Segovia and Madrid, taught mainly in English, known for business, law and entrepreneurship. Tuition is about 27,300 EUR a year, with scholarships of 40% to 100%.",
+   "ka": "კერძო საერთაშორისო უნივერსიტეტი სეგოვიასა და მადრიდში, სწავლება ძირითადად ინგლისურად, ცნობილია ბიზნესით, სამართლითა და მეწარმეობით. სწავლის საფასური წელიწადში დაახლოებით 27 300 ევროა, სტიპენდიები 40%–100%-ს ფარავს.",
+   "ar": "جامعة دولية خاصة في سيغوفيا ومدريد، التدريس فيها بالإنجليزية في الغالب، وتشتهر بالأعمال والقانون وريادة الأعمال. الرسوم نحو 27,300 يورو سنويًا مع منح تغطي من 40% إلى 100%."
+  },
+  "about": {
+   "en": "IE University is a private university with campuses in Segovia and Madrid. Applicants apply directly or through the Common App in rounds, take the IE admissions test (or send an SAT, ACT or LNAT score), complete an online assessment and an interview. IE accepts school certificates from over 60 systems. Teaching is mainly in English and non-native speakers need IELTS 7, TOEFL 100 or Duolingo 130 unless exempt. First-year tuition is about 27,300 EUR for most bachelors.",
+   "ka": "IE University კერძო უნივერსიტეტია, კამპუსებით სეგოვიასა და მადრიდში. აპლიკანტები განაცხადს უშუალოდ ან Common App-ით რაუნდებად აგზავნიან, აბარებენ IE-ის მისაღებ ტესტს (ან აგზავნიან SAT-ის, ACT-ის ან LNAT-ის ქულას), გადიან ონლაინ შეფასებასა და გასაუბრებას. IE 60-ზე მეტი სისტემის სასკოლო ატესტატს იღებს. სწავლება ძირითადად ინგლისურადაა, ამიტომ არამშობლიურ მოლაპარაკეებს სჭირდებათ IELTS 7, TOEFL 100 ან Duolingo 130, თუ გათავისუფლებულნი არ არიან. პირველი კურსის საფასური უმეტეს ბაკალავრიატზე დაახლოებით 27 300 ევროა.",
+   "ar": "جامعة IE جامعة خاصة لها حرم في سيغوفيا ومدريد. يقدّم المتقدمون مباشرة أو عبر Common App على جولات، ويؤدون اختبار القبول الخاص بـ IE (أو يرسلون درجة SAT أو ACT أو LNAT)، ثم يُجرون تقييمًا إلكترونيًا ومقابلة. تقبل IE شهادات مدرسية من أكثر من 60 نظامًا. التدريس بالإنجليزية في الغالب، ويحتاج غير الناطقين بها إلى IELTS 7 أو TOEFL 100 أو Duolingo 130 ما لم يُعفوا. رسوم السنة الأولى نحو 27,300 يورو لمعظم برامج البكالوريوس."
+  },
+  "aid_intl": {
+   "en": "Scholarships cover 40% to 100% of tuition, based on profile, financial need and the overall evaluation.",
+   "ka": "სტიპენდიები სწავლის საფასურის 40%–100%-ს ფარავს, პროფილის, ფინანსური საჭიროებისა და საერთო შეფასების მიხედვით.",
+   "ar": "تغطي المنح من 40% إلى 100% من الرسوم الدراسية بحسب الملف الشخصي والحاجة المالية والتقييم العام."
+  },
+  "tests": {
+   "en": "Take the IE admissions test (verbal, logic and numerical, 1.5 to 2 hours, once only) or send SAT 1300, ACT 28 or LNAT 22. Science and technology programmes add a maths assessment. English proof: IELTS 7, TOEFL 100 or Duolingo 130.",
+   "ka": "ჩააბარეთ IE-ის მისაღები ტესტი (ვერბალური, ლოგიკური და რიცხვითი, 1,5–2 საათი, მხოლოდ ერთხელ) ან გამოაგზავნეთ SAT 1300, ACT 28 ან LNAT 22. მეცნიერებისა და ტექნოლოგიების პროგრამებზე დამატებით მათემატიკის შეფასებაა. ინგლისურის დამადასტურებელი: IELTS 7, TOEFL 100 ან Duolingo 130.",
+   "ar": "أدِّ اختبار القبول الخاص بـ IE (لفظي ومنطقي ورقمي، من ساعة ونصف إلى ساعتين، مرة واحدة فقط) أو أرسل SAT 1300 أو ACT 28 أو LNAT 22. تضيف برامج العلوم والتكنولوجيا تقييمًا في الرياضيات. إثبات الإنجليزية: IELTS 7 أو TOEFL 100 أو Duolingo 130."
+  },
+  "gpa_note": {
+   "en": "IE sets no single minimum GPA; strong results are expected, especially in subjects relevant to the chosen programme.",
+   "ka": "IE ერთიან მინიმალურ GPA-ს არ ადგენს; მოსალოდნელია მაღალი შედეგები, განსაკუთრებით არჩეული პროგრამისთვის რელევანტურ საგნებში.",
+   "ar": "لا تضع IE حدًا أدنى موحدًا للمعدل، لكن يُتوقع تحصيل قوي خاصة في المواد المرتبطة بالبرنامج."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "IE admissions test or SAT, ACT or LNAT score",
+     "ka": "IE-ის მისაღები ტესტი ან SAT-ის, ACT-ის ან LNAT-ის ქულა",
+     "ar": "اختبار القبول الخاص بـ IE أو درجة SAT أو ACT أو LNAT"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "School recommendation letter",
+     "ka": "სკოლის სარეკომენდაციო წერილი",
+     "ar": "خطاب توصية من المدرسة"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Interview",
+     "ka": "გასაუბრება",
+     "ar": "مقابلة شخصية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee, 150 EUR",
+     "ka": "განაცხადის საფასური, 150 ევრო",
+     "ar": "رسوم التقديم، 150 يورو"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "IE University scholarships (40% to 100% of tuition)",
+    "url": "https://www.ie.edu/university/admission/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "spain",
+   "segovia",
+   "madrid",
+   "ie university",
+   "private",
+   "business",
+   "law",
+   "english taught",
+   "scholarships"
+  ],
+  "sources": [
+   "https://static.ie.edu/marketing/web/IEU/IEU_Admissions%20Policy.pdf",
+   "https://www.ie.edu/university/admission/payment-methods/",
+   "https://www.ie.edu/university/admission/admission-process/admissions-rounds/",
+   "https://www.ie.edu/university/admission/admission-process/admissions-test/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-granada",
+  "name": {
+   "en": "University of Granada",
+   "ka": "გრანადას უნივერსიტეტი",
+   "ar": "جامعة غرناطة"
+  },
+  "iso": "ES",
+  "city": "Granada",
+  "lat": 37.1773,
+  "lon": -3.5986,
+  "type": "public",
+  "website": "https://www.ugr.es",
+  "platform": "Andalusian single district (Distrito Único Andaluz) pre-enrolment",
+  "application_url": "https://www.ugr.es/info/perfiles/futuros-estudiantes/grado-acceso-admision/fuera-union-europea-paises-sin-convenio",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "2027/28 dates are not published. Foreign-system students apply in one annual call (Fase de Extranjeros); the calendar is on the Distrito Único Andaluz site. The 2026 call for Seville ran 6 to 19 March 2026.",
+  "tuition_intl": {
+   "amount": 757,
+   "currency": "EUR",
+   "per": "year",
+   "note": "2026/27: 12.62 EUR per credit in first enrolment, about 757.20 EUR for 60 credits, plus about 64.80 EUR administrative fee in year one. Same price for national and international students; Medicine and some degrees differ."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Georgian and Qatari certificates are non-EU, non-agreement systems: the diploma must be homologated (or the request submitted) at the Spanish Ministry of Education. These students can use the limited Fase de Extranjeros without the PAU, or sit PAU/UNED PCE exams for the ordinary phase. A-level and IB holders apply through UNEDasiss accreditation.",
+   "ka": "ქართული და კატარული ატესტატები არაევროპული, შეთანხმების გარეშე სისტემებია: ატესტატი უნდა დადასტურდეს (ან მოთხოვნა უნდა იყოს შეტანილი) ესპანეთის განათლების სამინისტროში. ასეთ სტუდენტებს შეუძლიათ PAU-ს გარეშე შეზღუდული Fase de Extranjeros-ის გამოყენება, ან ჩვეულებრივი ფაზისთვის PAU/UNED PCE გამოცდების ჩაბარება. A-level-ისა და IB-ის მფლობელები UNEDasiss-ის აკრედიტაციით განაცხადებენ.",
+   "ar": "الشهادتان الجورجية والقطرية من أنظمة غير أوروبية وبلا اتفاقيات: يجب معادلة الشهادة (أو تقديم طلب المعادلة) لدى وزارة التعليم الإسبانية. يمكن لهؤلاء الطلاب استخدام «مرحلة الأجانب» المحدودة دون PAU، أو أداء PAU/PCE من UNED للمرحلة العادية. يتقدم حاملو A-level وIB عبر اعتماد UNEDasiss."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "PAU or UNED PCE (optional route)",
+   "Spanish B2 recommended"
+  ],
+  "fields": [
+   "languages",
+   "humanities",
+   "natural-sciences",
+   "medicine-health",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Languages",
+    "Translation",
+    "Humanities",
+    "Sciences",
+    "Medicine",
+    "Computer Science"
+   ],
+   "ka": [
+    "ენები",
+    "თარგმანი",
+    "ჰუმანიტარული მეცნიერებები",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "მედიცინა",
+    "კომპიუტერული მეცნიერებები"
+   ],
+   "ar": [
+    "اللغات",
+    "الترجمة",
+    "العلوم الإنسانية",
+    "العلوم الطبيعية",
+    "الطب",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in Granada with very low fees: about 757 EUR a year, the same for international students. Teaching is mostly in Spanish.",
+   "ka": "გრანადას დიდი საჯარო უნივერსიტეტი ძალიან დაბალი საფასურით: წელიწადში დაახლოებით 757 ევრო, საერთაშორისო სტუდენტებისთვისაც იგივე. სწავლება ძირითადად ესპანურია.",
+   "ar": "جامعة عامة كبيرة في غرناطة برسوم منخفضة جدًا: نحو 757 يورو سنويًا للطلاب الدوليين كغيرهم. التدريس بالإسبانية في الغالب."
+  },
+  "about": {
+   "en": "The University of Granada is a large public university with campuses across the city. Students with a non-EU school certificate, such as a Georgian or Qatari one, need Spanish homologation (or proof of the request) and apply online through the Andalusian single district. They can use the Fase de Extranjeros without the PAU, with limited places, or sit PAU or UNED PCE exams. No Spanish certificate is required for admission, but B2 is recommended. Tuition is the same for all students, about 757 EUR a year.",
+   "ka": "გრანადას უნივერსიტეტი დიდი საჯარო უნივერსიტეტია, ქალაქის მასშტაბით განლაგებული კამპუსებით. არაევროპული სკოლის ატესტატის (მაგალითად ქართული ან კატარული) მქონე აპლიკანტებს სჭირდებათ ესპანური ჰომოლოგაცია (ან მოთხოვნის დამადასტურებელი) და განაცხადს ონლაინ ანდალუსიის ერთიანი ოლქის სისტემით აგზავნიან. მათ შეუძლიათ PAU-ს გარეშე, შეზღუდული ადგილებით, Fase de Extranjeros-ის გამოყენება, ან PAU-სა და UNED PCE გამოცდების ჩაბარება. მიღებისთვის ესპანურის სერტიფიკატი სავალდებულო არ არის, თუმცა რეკომენდებულია B2. სწავლის საფასური ყველასთვის ერთია, წელიწადში დაახლოებით 757 ევრო.",
+   "ar": "جامعة غرناطة جامعة عامة كبيرة لها حرم في أنحاء المدينة. يحتاج حامل الشهادة الثانوية غير الأوروبية، مثل الجورجية أو القطرية، إلى معادلة إسبانية (أو إثبات تقديم طلبها) ويتقدم إلكترونيًا عبر المنطقة الجامعية الموحدة في الأندلس. يمكنه استخدام «مرحلة الأجانب» دون PAU بمقاعد محدودة، أو أداء PAU أو PCE من UNED. لا تُشترط شهادة إسبانية للقبول لكن يُنصح بمستوى B2. الرسوم موحدة للجميع ونحو 757 يورو سنويًا."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published; general scholarships are listed on ugr.es/estudiantes/becas-y-ayudas.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის; ზოგადი სტიპენდიები მოცემულია ugr.es/estudiantes/becas-y-ayudas-ზე.",
+   "ar": "لا تُنشر منح مخصصة لطلاب البكالوريوس الدوليين، وتُعرض المنح العامة على ugr.es/estudiantes/becas-y-ayudas."
+  },
+  "tests": {
+   "en": "The Fase de Extranjeros needs no PAU; the ordinary phase needs the PAU general phase or UNED PCE exams. No Spanish certificate is required, but B2 is recommended because most degrees are in Spanish.",
+   "ka": "Fase de Extranjeros-ისთვის PAU საჭირო არ არის; ჩვეულებრივი ფაზისთვის საჭიროა PAU-ს ზოგადი ფაზა ან UNED-ის PCE გამოცდები. ესპანურის სერტიფიკატი სავალდებულო არ არის, მაგრამ რეკომენდებულია B2, რადგან პროგრამების უმეტესობა ესპანურია.",
+   "ar": "لا تحتاج «مرحلة الأجانب» إلى PAU، أما المرحلة العادية فتتطلب المرحلة العامة من PAU أو اختبارات PCE من UNED. لا تُشترط شهادة إسبانية لكن يُنصح بمستوى B2 لأن معظم البرامج بالإسبانية."
+  },
+  "gpa_note": {
+   "en": "In the Fase de Extranjeros the grade is your school grade converted to the Spanish 5-10 scale (maximum 10); with the PAU it can reach 14.",
+   "ka": "Fase de Extranjeros-ში ქულა არის თქვენი სკოლის ნიშნების ესპანურ 5–10 სკალაზე გადაყვანილი მნიშვნელობა (მაქსიმუმ 10); PAU-ს შემთხვევაში ის 14-მდე შეიძლება გაიზარდოს.",
+   "ar": "في «مرحلة الأجانب» تكون الدرجة هي درجة مدرستك المحوّلة إلى المقياس الإسباني 5-10 (الحد الأقصى 10)، ومع PAU قد تصل إلى 14."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Homologation of the school diploma (Spanish Ministry of Education)",
+     "ka": "სკოლის ატესტატის ჰომოლოგაცია (ესპანეთის განათლების სამინისტრო)",
+     "ar": "معادلة الشهادة الثانوية (وزارة التعليم الإسبانية)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "spain",
+   "granada",
+   "ugr",
+   "public",
+   "low tuition",
+   "andalusia",
+   "languages"
+  ],
+  "sources": [
+   "https://www.ugr.es/info/perfiles/futuros-estudiantes/grado-acceso-admision/fuera-union-europea-paises-sin-convenio",
+   "https://saap.ugr.es/grados/estudiantes-extranjeros/preuniversitarios-homologables",
+   "https://www.ugr.es/estudiantes/acceso-a-la-universidad"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universitat-de-valencia",
+  "name": {
+   "en": "Universitat de Valencia",
+   "ka": "ვალენსიის უნივერსიტეტი",
+   "ar": "جامعة بالنسية"
+  },
+  "iso": "ES",
+  "city": "València",
+  "lat": 39.4776,
+  "lon": -0.3639,
+  "type": "public",
+  "website": "https://www.uv.es",
+  "platform": "Valencian pre-enrolment (shared by the five public universities) after UNEDasiss accreditation",
+  "application_url": "https://www.uv.es/uvweb/college/en/undergraduate-studies/admission/non-eu-secondary-school-certificate-1285846510741.html",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "2027/28 dates are not published. Pre-enrolment usually runs from mid-June to the first week of July, with results in mid-July; for 2026/27 the single Valencian window was 15 June to 3 July 2026.",
+  "tuition_intl": {
+   "amount": 1535,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Non-EU students without Spanish residence pay twice the regional price. The UV Law degree page shows 25.58 EUR per credit for them (12.79 for others), about 1,535 EUR for 60 credits; the year is not stated and other degrees differ."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish",
+   "Valencian",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Non-EU school certificates, such as the Georgian or Qatari one, need Spanish homologation (a receipt is enough at first) and UNEDasiss certification, which gives a grade between 5 and 6. PCE exams then raise the grade up to 14. EU-system and IB holders need UNEDasiss only.",
+   "ka": "არაევროპული სკოლის ატესტატებს, მაგალითად ქართულსა და კატარულს, სჭირდება ესპანური ჰომოლოგაცია (თავდაპირველად ქვითარი საკმარისია) და UNEDasiss-ის სერტიფიკაცია, რომელიც 5–6 ქულას იძლევა. შემდეგ PCE გამოცდები ქულას 14-მდე ზრდის. ევროპული სისტემისა და IB-ის მფლობელებს მხოლოდ UNEDasiss სჭირდებათ.",
+   "ar": "تحتاج الشهادات الثانوية غير الأوروبية، مثل الجورجية والقطرية، إلى معادلة إسبانية (يكفي الإيصال في البداية) وشهادة UNEDasiss التي تمنح درجة بين 5 و6. ثم ترفع اختبارات PCE الدرجة حتى 14. أما حاملو أنظمة الاتحاد الأوروبي وIB فيكفيهم UNEDasiss."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "PCE (UNED)"
+  ],
+  "fields": [
+   "natural-sciences",
+   "humanities",
+   "social-sciences",
+   "law",
+   "economics",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Sciences",
+    "Humanities",
+    "Law",
+    "Economics",
+    "Psychology",
+    "Medicine"
+   ],
+   "ka": [
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "სამართალი",
+    "ეკონომიკა",
+    "ფსიქოლოგია",
+    "მედიცინა"
+   ],
+   "ar": [
+    "العلوم الطبيعية",
+    "العلوم الإنسانية",
+    "القانون",
+    "الاقتصاد",
+    "علم النفس",
+    "الطب"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in València, mostly in Spanish and Valencian, with low fees even at the doubled non-EU rate. Admission is by grade after UNEDasiss and PCE.",
+   "ka": "ვალენსიის დიდი საჯარო უნივერსიტეტი, ძირითადად ესპანურ და ვალენსიურ ენებზე, დაბალი საფასურით ორმაგი არაევროპული ტარიფის შემთხვევაშიც. მიღება ქულით ხდება UNEDasiss-სა და PCE-ის შემდეგ.",
+   "ar": "جامعة عامة كبيرة في بالنسية، التدريس بالإسبانية والبلنسية في الغالب، ورسومها منخفضة حتى بالسعر المضاعف لغير الأوروبيين. يتم القبول بالدرجة بعد UNEDasiss وPCE."
+  },
+  "about": {
+   "en": "The Universitat de València is one of Spain's oldest public universities, with several campuses in València. Applicants from a non-EU system get Spanish homologation, a UNEDasiss certificate and optional PCE exams, then use the single Valencian pre-enrolment. Places go by access grade; there is no fixed minimum. Most teaching is in Spanish or Valencian. Non-EU students without residence pay twice the regional public price, for example about 1,535 EUR a year for Law.",
+   "ka": "ვალენსიის უნივერსიტეტი ესპანეთის ერთ-ერთი უძველესი საჯარო უნივერსიტეტია, რამდენიმე კამპუსით ვალენსიაში. არაევროპული სისტემის აპლიკანტები იღებენ ესპანურ ჰომოლოგაციას, UNEDasiss-ის სერტიფიკატს და არჩევით PCE გამოცდებს, შემდეგ კი ვალენსიის ერთიან წინასწარ რეგისტრაციას იყენებენ. ადგილები ნაწილდება მისაღები ქულით; ფიქსირებული მინიმუმი არ არის. სწავლება ძირითადად ესპანურ ან ვალენსიურ ენაზეა. რეზიდენტობის არმქონე არაევროპელები რეგიონულ საჯარო ფასზე ორჯერ მეტს იხდიან, მაგალითად სამართალზე წელიწადში დაახლოებით 1 535 ევროს.",
+   "ar": "جامعة بالنسية من أقدم الجامعات العامة في إسبانيا ولها عدة مواقع جامعية في بالنسية. يحصل المتقدم من نظام غير أوروبي على معادلة إسبانية وشهادة UNEDasiss واختبارات PCE اختيارية، ثم يستخدم التسجيل المسبق الموحد في بالنسية. تُمنح المقاعد حسب درجة الدخول ولا يوجد حد أدنى ثابت. التدريس بالإسبانية أو البلنسية في الغالب. يدفع غير المقيمين من خارج الاتحاد الأوروبي ضعف السعر العام الإقليمي، مثلًا نحو 1,535 يورو سنويًا للقانون."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "PCE exams from UNED (usually held in May, enrolment from February) raise the grade; choose 4 to 6 subjects and check the weighting for your degree. Language proof depends on the degree.",
+   "ka": "UNED-ის PCE გამოცდები (როგორც წესი, მაისში, რეგისტრაცია თებერვლიდან) ქულას ზრდის; აირჩიეთ 4–6 საგანი და შეამოწმეთ თქვენი პროგრამის წონები. ენის დამადასტურებელი პროგრამაზეა დამოკიდებული.",
+   "ar": "تزيد اختبارات PCE من UNED (تُعقد عادةً في مايو ويفتح التسجيل من فبراير) الدرجة؛ اختر 4 إلى 6 مواد وراجع أوزان برنامجك. يختلف إثبات اللغة بحسب البرنامج."
+  },
+  "gpa_note": {
+   "en": "The UV sets no minimum grade; the published cut-off is the grade of the last student admitted to the degree the year before.",
+   "ka": "UV მინიმალურ ქულას არ ადგენს; გამოქვეყნებული გამავალი ქულა არის წინა წელს პროგრამაზე ჩარიცხული ბოლო სტუდენტის ქულა.",
+   "ar": "لا تضع UV حدًا أدنى للدرجة، ودرجة القبول المنشورة هي درجة آخر طالب مقبول في البرنامج في العام السابق."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Homologation of the school diploma (Spanish Ministry of Education) and UNEDasiss accreditation",
+     "ka": "სკოლის ატესტატის ჰომოლოგაცია (ესპანეთის განათლების სამინისტრო) და UNEDasiss-ის აკრედიტაცია",
+     "ar": "معادلة الشهادة الثانوية (وزارة التعليم الإسبانية) واعتماد UNEDasiss"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "UNED Specific Competence Tests (PCE)",
+     "ka": "UNED-ის სპეციფიკური კომპეტენციების გამოცდები (PCE)",
+     "ar": "اختبارات الكفاءات الخاصة (PCE) من UNED"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Spanish language proof, level B2 (DELE, SIELE or UNEDasiss test)",
+     "ka": "ესპანური ენის B2 დონის დამადასტურებელი (DELE, SIELE ან UNEDasiss-ის ტესტი)",
+     "ar": "إثبات مستوى اللغة الإسبانية B2 (DELE أو SIELE أو اختبار UNEDasiss)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "spain",
+   "valencia",
+   "uv",
+   "public",
+   "low tuition",
+   "law",
+   "sciences"
+  ],
+  "sources": [
+   "https://www.uv.es/uvweb/college/en/undergraduate-studies/admission/non-eu-secondary-school-certificate-1285846510741.html",
+   "https://www.uv.es/uvweb/college/en/undergraduate-studies/enrolment/fees-exemptions-1285846107112.html",
+   "https://www.uv.es/uvweb/prospective-students/en/degree-programmes-offered/degree-law-1285852676035/Titulacio.html?id=1285847455682"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universitat-ramon-llull",
+  "name": {
+   "en": "Universitat Ramon Llull",
+   "ka": "რამონ ლუის უნივერსიტეტი",
+   "ar": "جامعة رامون يول"
+  },
+  "iso": "ES",
+  "city": "Barcelona",
+  "lat": 41.4036,
+  "lon": 2.1244,
+  "type": "private",
+  "website": "https://www.url.edu",
+  "platform": "Direct to each school (La Salle, IQS, Blanquerna, Esade and others)",
+  "application_url": "https://www.salleurl.edu/en/admissions/admission-process",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "URL is a federation of schools with separate processes. La Salle opens applications for 2027/28 on 2 November 2026 and keeps them open until places are filled.",
+  "tuition_intl": {
+   "amount": 5340,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Price depends on the school. La Salle 2027/28 examples: Philosophy 5,340; Animation and VFX 11,880; Computer Engineering 11,940; Applied Mathematics 14,640; AI and Data Science 15,660 EUR. Other schools set their own fees."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish",
+   "Catalan",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Non-EU systems, such as the Georgian or Qatari certificate, need a Spanish homologation certificate (or proof of the request) at enrolment. IB and EU-system students need a UNED credential through UNEDasiss. Schools admit by their own test and review.",
+   "ka": "არაევროპული სისტემებისთვის, მაგალითად ქართული ან კატარული ატესტატისთვის, ჩარიცხვისას საჭიროა ესპანური ჰომოლოგაციის სერტიფიკატი (ან მოთხოვნის დამადასტურებელი). IB-ისა და ევროპული სისტემის სტუდენტებს სჭირდებათ UNED-ის კრედენციალი UNEDasiss-ით. სკოლები სტუდენტებს საკუთარი ტესტითა და შეფასებით იღებენ.",
+   "ar": "تحتاج الأنظمة غير الأوروبية، مثل الشهادة الجورجية أو القطرية، إلى شهادة معادلة إسبانية (أو إثبات تقديم الطلب) عند التسجيل. يحتاج طلاب IB وأنظمة الاتحاد الأوروبي إلى اعتماد UNED عبر UNEDasiss. وتقبل المدارس الطلاب باختبارها الخاص وتقييمها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 90,
+  "duolingo_min": null,
+  "other_tests": [
+   "School admission test by field",
+   "Cambridge B2 or C1"
+  ],
+  "fields": [
+   "business",
+   "engineering",
+   "humanities",
+   "medicine-health",
+   "social-sciences",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Architecture",
+    "Communication",
+    "Psychology",
+    "Philosophy"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "არქიტექტურა",
+    "კომუნიკაცია",
+    "ფსიქოლოგია",
+    "ფილოსოფია"
+   ],
+   "ar": [
+    "إدارة الأعمال",
+    "الهندسة",
+    "العمارة",
+    "الاتصال",
+    "علم النفس",
+    "الفلسفة"
+   ]
+  },
+  "summary": {
+   "en": "A private federation of schools in Barcelona (La Salle, IQS, Blanquerna, Esade and others) with some English-taught bachelors. Tuition varies by school, from about 5,300 EUR.",
+   "ka": "ბარსელონის კერძო სკოლების გაერთიანება (La Salle, IQS, Blanquerna, Esade და სხვები), რამდენიმე ინგლისურენოვანი ბაკალავრიატით. სწავლის საფასური სკოლის მიხედვით განსხვავდება, დაახლოებით 5 300 ევროდან.",
+   "ar": "اتحاد خاص لكليات في برشلونة (La Salle وIQS وBlanquerna وEsade وغيرها) فيه بعض برامج البكالوريوس بالإنجليزية. تختلف الرسوم بحسب الكلية وتبدأ من نحو 5,300 يورو."
+  },
+  "about": {
+   "en": "Ramon Llull University groups private schools in Barcelona, with 51 bachelor degrees in total. Each school runs its own application. At La Salle, applicants apply online, upload documents, take a field test, pay a 100 EUR fee and, if admitted, a 3,500 EUR reservation fee. Non-EU systems need a Spanish homologation certificate. English-taught degrees such as Business at IQS and International Relations at Blanquerna need English proof. Tuition depends on the school.",
+   "ka": "რამონ ლუის უნივერსიტეტი ბარსელონაში კერძო სკოლებს აერთიანებს და სულ 51 ბაკალავრიატის პროგრამას სთავაზობს. თითოეული სკოლა განაცხადს ცალკე ატარებს. La Salle-ში აპლიკანტები განაცხადს ონლაინ აგზავნიან, ტვირთავენ დოკუმენტებს, აბარებენ სფეროს ტესტს, იხდიან 100-ევროიან საფასურს და ჩარიცხვის შემთხვევაში 3 500-ევროიან ადგილის დაჯავშნის საფასურს. არაევროპულ სისტემებს ესპანური ჰომოლოგაციის სერტიფიკატი სჭირდება. ინგლისურენოვან პროგრამებს, მაგალითად IQS-ის ბიზნესს და Blanquerna-ს საერთაშორისო ურთიერთობებს, ინგლისურის დამადასტურებელი სჭირდება. სწავლის საფასური სკოლაზეა დამოკიდებული.",
+   "ar": "تضم جامعة رامون يول كليات خاصة في برشلونة وتقدم 51 برنامج بكالوريوس. تدير كل كلية التقديم بنفسها. في La Salle يقدّم المتقدم طلبه إلكترونيًا ويرفع الوثائق ويؤدي اختبارًا في مجاله ويدفع 100 يورو، ثم 3,500 يورو لحجز المقعد عند القبول. تحتاج الأنظمة غير الأوروبية إلى شهادة معادلة إسبانية. تتطلب البرامج الإنجليزية مثل الأعمال في IQS والعلاقات الدولية في Blanquerna إثبات الإنجليزية. تعتمد الرسوم على الكلية."
+  },
+  "aid_intl": {
+   "en": "No university-wide aid for international bachelor students is published; check the school you apply to.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის უნივერსიტეტის მასშტაბით დახმარება გამოქვეყნებული არ არის; შეამოწმეთ სკოლა, რომელშიც აპლიცირებთ.",
+   "ar": "لا تُنشر منح على مستوى الجامعة لطلاب البكالوريوس الدوليين؛ راجع الكلية التي تتقدم إليها."
+  },
+  "tests": {
+   "en": "Each school sets an admission test by field. For fully English-taught degrees La Salle asks for TOEFL iBT 90 to 110, Cambridge B2 or C1, or IELTS 6 to 7; without a certificate the level is tested.",
+   "ka": "თითოეული სკოლა სფეროს მიხედვით საკუთარ მისაღებ ტესტს ადგენს. სრულად ინგლისურენოვანი პროგრამებისთვის La Salle ითხოვს TOEFL iBT 90–110-ს, Cambridge B2-ს ან C1-ს, ან IELTS 6–7-ს; სერტიფიკატის გარეშე დონე ტესტით ან გასაუბრებით ფასდება.",
+   "ar": "تحدد كل كلية اختبار قبول بحسب المجال. للبرامج الإنجليزية بالكامل تطلب La Salle درجة TOEFL iBT من 90 إلى 110 أو Cambridge B2 أو C1 أو IELTS من 6 إلى 7، وبدون شهادة يُقيَّم المستوى باختبار أو مقابلة."
+  },
+  "gpa_note": {
+   "en": "No single minimum grade is published; La Salle asks for transcripts of the last two school years.",
+   "ka": "ერთიანი მინიმალური ნიშანი გამოქვეყნებული არ არის; La Salle ითხოვს სკოლის ბოლო ორი წლის ნიშნების ამონაწერს.",
+   "ar": "لا يُنشر حد أدنى موحد للدرجات؛ تطلب La Salle كشوف درجات آخر سنتين دراسيتين."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-style photo",
+     "ka": "პასპორტის ტიპის ფოტო",
+     "ar": "صورة شخصية بمقاس جواز السفر"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "School recommendation letter",
+     "ka": "სკოლის სარეკომენდაციო წერილი",
+     "ar": "خطاب توصية من المدرسة"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Motivation letter",
+     "ka": "მოტივაციის წერილი",
+     "ar": "خطاب الدافع"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Homologation of the school diploma (Spanish Ministry of Education)",
+     "ka": "სკოლის ატესტატის ჰომოლოგაცია (ესპანეთის განათლების სამინისტრო)",
+     "ar": "معادلة الشهادة الثانوية (وزارة التعليم الإسبانية)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "spain",
+   "barcelona",
+   "ramon llull",
+   "la salle",
+   "iqs",
+   "blanquerna",
+   "private",
+   "english taught"
+  ],
+  "sources": [
+   "https://www.url.edu/en/programmes/admissions/admissions-bachelors-degrees",
+   "https://www.salleurl.edu/en/admissions/admission-process",
+   "https://www.url.edu/en/programmes/bachelors-degrees"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universidad-de-sevilla",
+  "name": {
+   "en": "Universidad de Sevilla",
+   "ka": "სევილიის უნივერსიტეტი",
+   "ar": "جامعة إشبيلية"
+  },
+  "iso": "ES",
+  "city": "Seville",
+  "lat": 37.3818,
+  "lon": -5.9906,
+  "type": "public",
+  "website": "https://www.us.es",
+  "platform": "Andalusian single district (Distrito Único Andaluz) pre-enrolment",
+  "application_url": "http://www.us.es/estudiar/admision/grados",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "2027/28 dates are not published. For 2026/27 the Fase de Extranjeros applications ran 6 to 19 March 2026, with lists on 8 April and 30 April and enrolment 3 to 9 July.",
+  "tuition_intl": {
+   "amount": 757,
+   "currency": "EUR",
+   "per": "year",
+   "note": "First-enrolment price is 12.62 EUR per credit with no distinction by nationality, about 757 EUR for 60 credits plus file and insurance fees; the page does not state the academic year."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Georgian and Qatari certificates are non-EU, non-agreement systems: the diploma must be homologated (or the request submitted) at the Spanish Ministry of Education. These students can use the limited Fase de Extranjeros without the PAU, or sit PAU/UNED PCE exams for the ordinary phase. A-level and IB holders apply through UNEDasiss accreditation.",
+   "ka": "ქართული და კატარული ატესტატები არაევროპული, შეთანხმების გარეშე სისტემებია: ატესტატი უნდა დადასტურდეს (ან მოთხოვნა უნდა იყოს შეტანილი) ესპანეთის განათლების სამინისტროში. ასეთ სტუდენტებს შეუძლიათ PAU-ს გარეშე შეზღუდული Fase de Extranjeros-ის გამოყენება, ან ჩვეულებრივი ფაზისთვის PAU/UNED PCE გამოცდების ჩაბარება. A-level-ისა და IB-ის მფლობელები UNEDasiss-ის აკრედიტაციით განაცხადებენ.",
+   "ar": "الشهادتان الجورجية والقطرية من أنظمة غير أوروبية وبلا اتفاقيات: يجب معادلة الشهادة (أو تقديم طلب المعادلة) لدى وزارة التعليم الإسبانية. يمكن لهؤلاء الطلاب استخدام «مرحلة الأجانب» المحدودة دون PAU، أو أداء PAU/PCE من UNED للمرحلة العادية. يتقدم حاملو A-level وIB عبر اعتماد UNEDasiss."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "PAU or UNED PCE (ordinary phase)"
+  ],
+  "fields": [
+   "law",
+   "humanities",
+   "engineering",
+   "economics",
+   "medicine-health",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Law",
+    "Humanities",
+    "Engineering",
+    "Architecture",
+    "Economics",
+    "Medicine"
+   ],
+   "ka": [
+    "სამართალი",
+    "ჰუმანიტარული მეცნიერებები",
+    "ინჟინერია",
+    "არქიტექტურა",
+    "ეკონომიკა",
+    "მედიცინა"
+   ],
+   "ar": [
+    "القانون",
+    "العلوم الإنسانية",
+    "الهندسة",
+    "العمارة",
+    "الاقتصاد",
+    "الطب"
+   ]
+  },
+  "summary": {
+   "en": "One of Spain's largest public universities, in Seville. Fees are about 757 EUR a year for everyone, and foreign-system students have a reserved 5% of places in 60 degrees.",
+   "ka": "ესპანეთის ერთ-ერთი უდიდესი საჯარო უნივერსიტეტი სევილიაში. საფასური ყველასთვის დაახლოებით 757 ევროა წელიწადში, ხოლო უცხო სისტემის სტუდენტებისთვის 60 პროგრამაზე ადგილების 5% დაცულია.",
+   "ar": "من أكبر الجامعات العامة في إسبانيا، في إشبيلية. الرسوم نحو 757 يورو سنويًا للجميع، ويُخصَّص 5% من المقاعد في 60 برنامجًا لطلاب الأنظمة الأجنبية."
+  },
+  "about": {
+   "en": "The University of Seville is a large public university in southern Spain. Students with a non-EU certificate, such as a Georgian or Qatari one, apply in the Fase de Extranjeros, which reserves 5% of places in 60 degrees. The diploma must be homologated or the request submitted, obtained after 1 January 2023, and the converted grade must pass the degree minimum. Applications go through the Andalusian single district. Teaching is mainly in Spanish. Tuition is the same for all students, about 757 EUR a year.",
+   "ka": "სევილიის უნივერსიტეტი სამხრეთ ესპანეთის დიდი საჯარო უნივერსიტეტია. არაევროპული ატესტატის (მაგალითად ქართული ან კატარული) მქონე აპლიკანტები Fase de Extranjeros-ში მონაწილეობენ, რომელიც 60 პროგრამაზე ადგილების 5%-ს იცავს. ატესტატი უნდა იყოს ჰომოლოგირებული ან მოთხოვნა შეტანილი, მიღებული 2023 წლის 1 იანვრის შემდეგ, ხოლო გადაყვანილი ნიშანი პროგრამის მინიმუმს უნდა აღემატებოდეს. განაცხადი ანდალუსიის ერთიანი ოლქის სისტემით იგზავნება. სწავლება ძირითადად ესპანურია. სწავლის საფასური ყველასთვის ერთია, წელიწადში დაახლოებით 757 ევრო.",
+   "ar": "جامعة إشبيلية جامعة عامة كبيرة في جنوب إسبانيا. يتقدم حاملو الشهادة غير الأوروبية، مثل الجورجية أو القطرية، في «مرحلة الأجانب» التي تحجز 5% من المقاعد في 60 برنامجًا. يجب أن تكون الشهادة معادَلة أو مقدَّمًا طلب معادلتها، وصادرة بعد 1 يناير 2023، وأن تتجاوز الدرجة المحوّلة الحد الأدنى للبرنامج. يتم التقديم عبر المنطقة الجامعية الموحدة في الأندلس. التدريس بالإسبانية في الغالب. الرسوم موحدة للجميع ونحو 757 يورو سنويًا."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "The Fase de Extranjeros needs no PAU. The ordinary phase accepts PAU or UNED PCE exams. A Spanish language requirement is not stated on the admission page.",
+   "ka": "Fase de Extranjeros-ისთვის PAU საჭირო არ არის. ჩვეულებრივი ფაზა იღებს PAU-ს ან UNED-ის PCE გამოცდებს. ესპანური ენის მოთხოვნა მიღების გვერდზე მითითებული არ არის.",
+   "ar": "لا تحتاج «مرحلة الأجانب» إلى PAU، وتقبل المرحلة العادية PAU أو اختبارات PCE من UNED. لا يذكر صفحة القبول شرطًا للغة الإسبانية."
+  },
+  "gpa_note": {
+   "en": "Foreign grades converted to the Spanish scale must exceed a minimum set for each degree in a table on the admission page.",
+   "ka": "უცხოური ნიშნები ესპანურ სკალაზე გადაყვანის შემდეგ უნდა აღემატებოდეს მისაღები გვერდის ცხრილში თითოეული პროგრამისთვის დადგენილ მინიმუმს.",
+   "ar": "يجب أن تتجاوز الدرجات الأجنبية المحوّلة إلى المقياس الإسباني حدًا أدنى مقررًا لكل برنامج في جدول بصفحة القبول."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Homologation of the school diploma (Spanish Ministry of Education)",
+     "ka": "სკოლის ატესტატის ჰომოლოგაცია (ესპანეთის განათლების სამინისტრო)",
+     "ar": "معادلة الشهادة الثانوية (وزارة التعليم الإسبانية)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "spain",
+   "seville",
+   "sevilla",
+   "public",
+   "low tuition",
+   "andalusia",
+   "law",
+   "architecture"
+  ],
+  "sources": [
+   "http://www.us.es/estudiar/admision/grados",
+   "https://cat.us.es/que-precios-debo-abonar-como-estudiante-internacional/que-precios-debo-abonar-como-estudiante",
+   "https://cat.us.es/admision-de-estudiantes-de-sistemas-educativos-extranjeros"
+  ],
+  "verified_at": "2026-11-01"
+ }
+]

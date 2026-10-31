@@ -19,26 +19,35 @@
   }
 
   /* ---------------------------------------------------------- filters */
+  var COUNSELLING = TAX.counselling || [];
+  function regionsOf(teacher) {
+    return (teacher.regions || []).map(function (r) { return (TAX.legacyRegions || {})[r] || r; });
+  }
+
+  /* filter groups are toggle chips (not white checkboxes); every chip shows how many tutors match */
   function checkGroup(hostId, table, key, source) {
     var host = document.getElementById(hostId);
     if (!host) return;
     var used = {};
     all.forEach(function (teacher) {
-      (teacher[source] || []).forEach(function (value) { used[value] = (used[value] || 0) + 1; });
+      var values = source === 'regions' ? regionsOf(teacher) : (teacher[source] || []);
+      values.forEach(function (value) { used[value] = (used[value] || 0) + 1; });
     });
-    host.innerHTML = Object.keys(table).filter(function (value) { return used[value]; }).map(function (value) {
-      return '<label class="check-row">' +
-        '<input type="checkbox" value="' + value + '"' +
-        (filters[key].indexOf(value) !== -1 ? ' checked' : '') + ' />' +
+    host.className = 'chip-filter';
+    host.innerHTML = Object.keys(table).filter(function (value) {
+      return used[value] && !(source === 'subjects' && COUNSELLING.indexOf(value) !== -1);
+    }).map(function (value) {
+      return '<button type="button" class="fchip" data-value="' + value + '" aria-pressed="' + (filters[key].indexOf(value) !== -1) + '">' +
         '<span>' + M.esc(M.pick(table[value])) + '</span>' +
-        '<span class="count">' + used[value] + '</span>' +
-      '</label>';
+        '<span class="fchip-count">' + used[value] + '</span>' +
+      '</button>';
     }).join('');
-    host.querySelectorAll('input').forEach(function (input) {
-      input.addEventListener('change', function () {
-        var index = filters[key].indexOf(input.value);
-        if (input.checked && index === -1) filters[key].push(input.value);
-        if (!input.checked && index !== -1) filters[key].splice(index, 1);
+    host.querySelectorAll('[data-value]').forEach(function (chip) {
+      chip.addEventListener('click', function () {
+        var value = chip.getAttribute('data-value');
+        var index = filters[key].indexOf(value);
+        if (index === -1) filters[key].push(value); else filters[key].splice(index, 1);
+        chip.setAttribute('aria-pressed', String(index === -1));
         render();
       });
     });
@@ -50,7 +59,7 @@
       return (teacher.subjects || []).indexOf(s) !== -1;
     })) return false;
     if (filters.regions.length && !filters.regions.some(function (r) {
-      return (teacher.regions || []).indexOf(r) !== -1;
+      return regionsOf(teacher).indexOf(r) !== -1;
     })) return false;
     if (filters.languages.length && !filters.languages.some(function (l) {
       return (teacher.languages || []).indexOf(l) !== -1;
@@ -215,6 +224,7 @@
       filters = { q: '', subjects: [], regions: [], languages: [], price: 200, sort: filters.sort };
       search.value = '';
       range.value = 200;
+      range.style.setProperty('--fill', '100%');
       output.textContent = '$200+';
       paintFilters();
       render();

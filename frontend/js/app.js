@@ -739,10 +739,11 @@
       }
     });
     loadUser().then(paintAuth);
+    watchSelects();
     // Meridian AI: the chat button on every page (loaded after the page itself)
     if (!document.querySelector('script[src^="/js/ai.js"]') && document.body.getAttribute('data-page') !== 'admin') {
       var ai = document.createElement('script');
-      ai.src = '/js/ai.js?v=r6';
+      ai.src = '/js/ai.js?v=r7';
       ai.defer = true;
       document.body.appendChild(ai);
     }
@@ -923,6 +924,11 @@
         node.dispatchEvent(new Event('change', { bubbles: true }));
       };
       var open = function () {
+        document.querySelectorAll('.ss-wrap.is-open').forEach(function (other) {
+          if (other !== wrap) other.classList.remove('is-open');
+        });
+        // short lists (Funding, Type…) need no search box, only the options
+        wrap.classList.toggle('ss-short', node.options.length <= 9);
         wrap.classList.add('is-open');
         button.setAttribute('aria-expanded', 'true');
         input.value = '';
@@ -967,7 +973,19 @@
         var opt = node.options[node.selectedIndex];
         button.textContent = opt ? opt.textContent : '';
         button.classList.toggle('is-set', node.selectedIndex > 0);
+        button.disabled = node.disabled;
       };
+      // pages re-render the options or set .value directly: follow both
+      new MutationObserver(function () { wrap._sync(); }).observe(node, { childList: true, subtree: true, attributes: true, attributeFilter: ['disabled'] });
+      var proto = Object.getOwnPropertyDescriptor(HTMLSelectElement.prototype, 'value');
+      Object.defineProperty(node, 'value', {
+        configurable: true,
+        get: function () { return proto.get.call(node); },
+        set: function (v) { proto.set.call(node, v); wrap._sync(); }
+      });
+      node.addEventListener('change', function () { wrap._sync(); });
+      if (node.id) { button.id = node.id + 'Btn'; }
+      if (node.getAttribute('aria-label')) button.setAttribute('aria-label', node.getAttribute('aria-label'));
       var label = wrap.closest('label');
       if (label) label.addEventListener('click', function (event) {
         // the <label> would forward clicks to the hidden <select>
@@ -976,6 +994,36 @@
     }
     wrap._extra = extra || wrap._extra || {};
     wrap._sync();
+  }
+
+  /* Every plain <select class="select"> becomes the site-styled dropdown: the
+     browser's own option list is grey/white and ignores the site colours. */
+  function niceSelects(root) {
+    if (!root || !root.querySelectorAll) return;
+    var found = root.matches && root.matches('select.select') ? [root] : root.querySelectorAll('select.select');
+    Array.prototype.forEach.call(found, function (node) {
+      if (node.hasAttribute('data-native') || node.multiple || node.classList.contains('ss-native')) return;
+      searchSelect(node);
+    });
+  }
+  // sliders show their filled part in the brand colour (CSS reads --fill)
+  function fillRange(range) {
+    var min = Number(range.min || 0), max = Number(range.max || 100);
+    range.style.setProperty('--fill', ((Number(range.value) - min) / ((max - min) || 1) * 100) + '%');
+  }
+  function watchSelects() {
+    niceSelects(document);
+    document.querySelectorAll('input[type="range"]').forEach(fillRange);
+    document.addEventListener('input', function (event) {
+      if (event.target.type === 'range') fillRange(event.target);
+    });
+    new MutationObserver(function (records) {
+      records.forEach(function (record) {
+        Array.prototype.forEach.call(record.addedNodes, function (added) {
+          if (added.nodeType === 1 && (added.tagName === 'SELECT' || added.querySelector('select.select'))) niceSelects(added);
+        });
+      });
+    }).observe(document.body, { childList: true, subtree: true });
   }
 
   /* Activity for the weekly report: what was opened, clicked, searched. */

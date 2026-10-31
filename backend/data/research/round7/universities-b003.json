@@ -1,0 +1,2363 @@
+[
+ {
+  "id": "university-of-florence",
+  "name": {
+   "en": "University of Florence",
+   "ka": "ფლორენციის უნივერსიტეტი",
+   "ar": "جامعة فلورنسا"
+  },
+  "iso": "IT",
+  "city": "Florence",
+  "lat": 43.7696,
+  "lon": 11.2558,
+  "type": "public",
+  "website": "https://www.unifi.it",
+  "platform": "Universitaly pre-enrolment (non-EU) + apply.unifi.it portal",
+  "application_url": "https://www.unifi.it/en/study-us/your-learning-path/start-your-enrolment/international-students",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "For 2026/27 the university listed intake rounds for non-EU applicants abroad (10 Dec 2025 to 6 Feb 2026, then 16 Feb to 17 Apr 2026); the page does not say if they cover bachelor programmes, and its 2025/26 study prospectus gave 31 July 2025 for Universitaly pre-enrolment to open-access first-cycle degrees. 2027/28 dates are not published yet.",
+  "tuition_intl": {
+   "amount": 3000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Maximum of the income-based range EUR 156 to EUR 3,000 (2024/25, latest found). Foreign students use an equalised ISEE. Same fees for bachelor and master."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Italian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A secondary diploma recognised in Italy is required. The university does not publish the details by country on the pages checked.",
+   "ka": "იტალიაში აღიარებული საშუალო განათლების დიპლომი სავალდებულოა. შემოწმებულ გვერდებზე ქვეყნების მიხედვით დეტალები არ არის გამოქვეყნებული.",
+   "ar": "يُشترط حصول المتقدم على شهادة ثانوية معترف بها في إيطاليا. لا تنشر الجامعة التفاصيل حسب الدولة في الصفحات التي جرت مراجعتها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Programme-specific admission tests for limited-access degrees"
+  ],
+  "fields": [
+   "humanities",
+   "arts-design",
+   "natural-sciences",
+   "social-sciences",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Architecture",
+    "Humanities",
+    "Agricultural sciences",
+    "Economics",
+    "Medicine"
+   ],
+   "ka": [
+    "არქიტექტურა",
+    "ჰუმანიტარული მეცნიერებები",
+    "აგრარული მეცნიერებები",
+    "ეკონომიკა",
+    "მედიცინა"
+   ],
+   "ar": [
+    "الهندسة المعمارية",
+    "العلوم الإنسانية",
+    "العلوم الزراعية",
+    "الاقتصاد",
+    "الطب"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in the centre of Florence. Fees are income-based and capped at about EUR 3,000 a year, and there is at least one English-taught bachelor programme.",
+   "ka": "ფლორენციის ცენტრში მდებარე მსხვილი სახელმწიფო უნივერსიტეტი. საფასური შემოსავალზეა დამოკიდებული და წელიწადში დაახლოებით 3000 ევროთი შემოიფარგლება; არსებობს ერთი მაინც ინგლისურენოვანი ბაკალავრიატის პროგრამა.",
+   "ar": "جامعة حكومية كبيرة في وسط فلورنسا. الرسوم مرتبطة بالدخل وسقفها نحو 3000 يورو سنوياً، ويوجد برنامج بكالوريوس واحد على الأقل بالإنجليزية."
+  },
+  "about": {
+   "en": "The University of Florence is a public university with several schools across the city. Non-EU applicants abroad apply through the university portal and pre-enrol on Universitaly to get a study visa. Most bachelor degrees are taught in Italian, so Italian proof is needed. The university lists 17 to 18 degrees taught in English, mostly at master level; the bachelor programme named in 2026 is Sustainable Business for Societal Challenges. Fees range from EUR 156 to EUR 3,000 a year depending on income.",
+   "ka": "ფლორენციის უნივერსიტეტი სახელმწიფო უნივერსიტეტია, რომლის სკოლები ქალაქის სხვადასხვა ნაწილშია. ევროკავშირს გარეთ მცხოვრები აბიტურიენტები განაცხადს უნივერსიტეტის პორტალზე აგზავნიან და სასწავლო ვიზისთვის Universitaly-ზე რეგისტრირდებიან. ბაკალავრიატის უმეტესი პროგრამა იტალიურადაა, ამიტომ იტალიურის ცოდნის დადასტურებაა საჭირო. უნივერსიტეტი 17–18 ინგლისურენოვან პროგრამას ასახელებს, უმეტესად მაგისტრატურაში; 2026 წელს დასახელებული ბაკალავრის პროგრამაა Sustainable Business for Societal Challenges. საფასური შემოსავლის მიხედვით წელიწადში 156-დან 3000 ევრომდეა.",
+   "ar": "جامعة فلورنسا جامعة حكومية لها كليات متعددة داخل المدينة. يتقدم الطلاب من خارج الاتحاد الأوروبي عبر بوابة الجامعة ثم يسجلون مسبقاً على Universitaly للحصول على تأشيرة الدراسة. معظم برامج البكالوريوس بالإيطالية، لذا يلزم إثبات اللغة الإيطالية. تعلن الجامعة عن 17 إلى 18 برنامجاً بالإنجليزية معظمها ماجستير، وبرنامج البكالوريوس المذكور عام 2026 هو Sustainable Business for Societal Challenges. تتراوح الرسوم بين 156 و3000 يورو سنوياً حسب الدخل."
+  },
+  "aid_intl": {
+   "en": "No scholarship specific to the English-taught track is published; the regional DSU Toscana grant is income-based.",
+   "ka": "ინგლისურენოვანი მიმართულებისთვის სპეციალური სტიპენდია გამოქვეყნებული არ არის; რეგიონული DSU Toscana-ს გრანტი შემოსავალზეა დამოკიდებული.",
+   "ar": "لا توجد منحة مخصصة للمسار الإنجليزي منشورة؛ أما منحة DSU Toscana الإقليمية فتعتمد على الدخل."
+  },
+  "tests": {
+   "en": "Limited-access degrees have their own admission tests. Italian-taught degrees need Italian proof; English-taught ones need English proof set by each programme.",
+   "ka": "შეზღუდული მიღების პროგრამებს საკუთარი მისაღები გამოცდები აქვს. იტალიურენოვან პროგრამებზე იტალიურის, ინგლისურენოვანზე კი თითოეული პროგრამის მიერ განსაზღვრული ინგლისურის დადასტურებაა საჭირო.",
+   "ar": "للبرامج ذات القبول المحدود اختبارات قبول خاصة بها. تتطلب البرامج بالإيطالية إثباتاً للغة الإيطالية، وتتطلب البرامج بالإنجليزية إثباتاً للإنجليزية يحدده كل برنامج."
+  },
+  "gpa_note": {
+   "en": "A recognised secondary diploma is the base requirement; no minimum grade is published on the pages checked.",
+   "ka": "ძირითადი მოთხოვნაა აღიარებული საშუალო განათლების დიპლომი; შემოწმებულ გვერდებზე მინიმალური ნიშანი მითითებული არ არის.",
+   "ar": "الشرط الأساسي شهادة ثانوية معترف بها؛ لا يوجد حد أدنى للدرجات منشور في الصفحات التي جرت مراجعتها."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (12 years of schooling)",
+     "ka": "საშუალო განათლების ატესტატი (12 წლიანი სწავლება)",
+     "ar": "شهادة الثانوية العامة (12 سنة دراسية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts (last 2 years)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ბოლო 2 წელი)",
+     "ar": "كشف درجات المرحلة الثانوية (آخر سنتين)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma recognition (CIMEA statement or declaration of value)",
+     "ka": "დიპლომის აღიარება (CIMEA-ს დასკვნა ან ღირებულების დეკლარაცია)",
+     "ar": "معادلة الشهادة (بيان CIMEA أو إعلان القيمة)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Italian language proof (B2) for Italian-taught degrees",
+     "ka": "იტალიური ენის ცოდნის დამადასტურებელი საბუთი (B2) იტალიურენოვანი პროგრამებისთვის",
+     "ar": "إثبات إتقان اللغة الإيطالية (B2) للبرامج المدرَّسة بالإيطالية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof (B2)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი (B2)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (B2)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Pre-enrolment on Universitaly (visa applicants)",
+     "ka": "წინასწარი რეგისტრაცია Universitaly-ზე (ვიზის მაძიებლებისთვის)",
+     "ar": "التسجيل المسبق على منصة Universitaly (لمقدمي التأشيرة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "italy",
+   "florence",
+   "firenze",
+   "architecture",
+   "humanities",
+   "income-based fees"
+  ],
+  "sources": [
+   "https://www.unifi.it/en/study-us/your-learning-path/start-your-enrolment/international-students",
+   "https://apply.unifi.it/news/new/28-20262027-academic-year-intake-rounds",
+   "https://www.unifi.it/en/study-us/degree-programmes/international-courses"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-trento",
+  "name": {
+   "en": "University of Trento",
+   "ka": "ტრენტოს უნივერსიტეტი",
+   "ar": "جامعة ترينتو"
+  },
+  "iso": "IT",
+  "city": "Trento",
+  "lat": 46.0679,
+  "lon": 11.1211,
+  "type": "public",
+  "website": "https://www.unitn.it",
+  "platform": "Direct (UniTrento admission call per degree) + Universitaly pre-enrolment",
+  "application_url": "https://www.unitn.it/en/international/coming-unitrento/admission-how-it-works",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-03-23",
+  "deadline_note": "2026/27 bachelor call: applications from mid-December 2025 to 23 March 2026 (12:00); non-EU applicants abroad may only use the first session. 2027/28 dates are not published yet.",
+  "tuition_intl": {
+   "amount": 6000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Non-EU students abroad pay by merit, not ISEE. A 2026/27 call states a EUR 6,000 yearly ceiling. In 2025/26 bachelor bands: score 90+ no fee in year 1, 80-89 EUR 1,000, 70-79 EUR 2,000, 60-69 EUR 3,000."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Italian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A foreign secondary diploma is accepted if it meets the university's rules for international qualifications; applicants can apply while still in the final year.",
+   "ka": "უცხოური საშუალო განათლების დიპლომი მიიღება, თუ ის უნივერსიტეტის წესებს აკმაყოფილებს; განაცხადის გაგზავნა დასკვნით კლასში ყოფნისასაც შეიძლება.",
+   "ar": "تُقبل الشهادة الثانوية الأجنبية إذا استوفت قواعد الجامعة للمؤهلات الدولية، ويمكن التقديم أثناء السنة الأخيرة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "CEnT-S (English curriculum)",
+   "TOLC-E (Italian curriculum)",
+   "UniTrento Italian proficiency test"
+  ],
+  "fields": [
+   "social-sciences",
+   "computer-science",
+   "economics",
+   "natural-sciences",
+   "law",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Sociology",
+    "Computer Science",
+    "Economics",
+    "Physics",
+    "Law",
+    "Cognitive Science"
+   ],
+   "ka": [
+    "სოციოლოგია",
+    "კომპიუტერული მეცნიერება",
+    "ეკონომიკა",
+    "ფიზიკა",
+    "სამართალი",
+    "კოგნიტური მეცნიერება"
+   ],
+   "ar": [
+    "علم الاجتماع",
+    "علوم الحاسوب",
+    "الاقتصاد",
+    "الفيزياء",
+    "القانون",
+    "العلوم المعرفية"
+   ]
+  },
+  "summary": {
+   "en": "A public research university in a mountain city in northern Italy. Non-EU students abroad are ranked by merit and pay fees from zero up to about EUR 6,000 a year depending on the score.",
+   "ka": "ჩრდილოეთ იტალიის მთის ქალაქში მდებარე სახელმწიფო კვლევითი უნივერსიტეტი. ევროკავშირს გარეთ მცხოვრები სტუდენტები დაჯილდოვდებიან დამსახურებით და საფასური ქულის მიხედვით ნულიდან დაახლოებით 6000 ევრომდეა წელიწადში.",
+   "ar": "جامعة بحثية حكومية في مدينة جبلية شمال إيطاليا. يُرتَّب الطلاب من خارج الاتحاد الأوروبي حسب التميز الأكاديمي وتتراوح رسومهم من صفر حتى نحو 6000 يورو سنوياً بحسب الدرجة."
+  },
+  "about": {
+   "en": "UniTrento is a public university with a strong research profile. Each bachelor degree has its own call. Non-EU applicants living abroad apply only in the first session, with seats reserved for them. Economics and Management has an English curriculum (CEnT test) and an Italian one (TOLC-E and Italian B2). Admitted students pre-enrol through the Italian embassy for the visa. Fees depend on the admission score, and on-campus housing is offered to admitted non-EU students for rent.",
+   "ka": "ტრენტოს უნივერსიტეტი ძლიერი კვლევითი პროფილის მქონე სახელმწიფო უნივერსიტეტია. თითოეულ ბაკალავრის პროგრამას საკუთარი კონკურსი აქვს. ევროკავშირს გარეთ მცხოვრები აბიტურიენტები მხოლოდ პირველ სესიაში მონაწილეობენ და მათთვის ადგილები გამოყოფილია. ეკონომიკასა და მენეჯმენტს აქვს ინგლისური (CEnT ტესტი) და იტალიური (TOLC-E და იტალიურის B2) მიმართულება. მიღებული სტუდენტები ვიზისთვის იტალიის საელჩოში რეგისტრირდებიან. საფასური მისაღები ქულით განისაზღვრება.",
+   "ar": "جامعة ترينتو جامعة حكومية ذات سمعة بحثية قوية، ولكل برنامج بكالوريوس إعلان قبول خاص به. يتقدم الطلاب غير الأوروبيين المقيمون في الخارج في الجولة الأولى فقط ولهم مقاعد مخصصة. يقدم برنامج الاقتصاد والإدارة مساراً بالإنجليزية (اختبار CEnT) وآخر بالإيطالية (TOLC-E ومستوى B2 إيطالي). يسجل المقبولون مسبقاً عبر السفارة الإيطالية للحصول على التأشيرة. تتحدد الرسوم بحسب درجة القبول."
+  },
+  "aid_intl": {
+   "en": "Non-EU students abroad get merit-based fee bands from the admission score (in 2025/26 a score of 90 or more meant no tuition in the first year); no separate scholarship application is needed.",
+   "ka": "ევროკავშირს გარეთ მცხოვრებ სტუდენტებს საფასურის შეღავათი მისაღები ქულის მიხედვით ეძლევათ (2025/26-ში 90 ქულა და მეტი პირველ წელს სწავლის საფასურისგან გათავისუფლებას ნიშნავდა); ცალკე განაცხადი საჭირო არ არის.",
+   "ar": "يحصل الطلاب غير الأوروبيين المقيمون في الخارج على شرائح رسوم قائمة على التميز بحسب درجة القبول (في 2025/26 كانت درجة 90 فأكثر تعني إعفاءً من الرسوم في السنة الأولى)، ولا حاجة لطلب منحة منفصل."
+  },
+  "tests": {
+   "en": "English curriculum: CEnT test (English, CISIA). Italian curriculum: TOLC-E and Italian B2 proof. Non-EU applicants abroad must pass the test before the deadline.",
+   "ka": "ინგლისური მიმართულება: CEnT ტესტი (CISIA). იტალიური მიმართულება: TOLC-E და იტალიურის B2. ევროკავშირს გარეთ მყოფმა აბიტურიენტებმა ტესტი ვადამდე უნდა ჩააბარონ.",
+   "ar": "المسار الإنجليزي: اختبار CEnT (من CISIA). المسار الإيطالي: اختبار TOLC-E وإثبات اللغة الإيطالية B2. على المتقدمين غير الأوروبيين اجتياز الاختبار قبل الموعد النهائي."
+  },
+  "gpa_note": {
+   "en": "Admission is a ranking by test score; a valid secondary diploma (12 years of schooling) is the entry base.",
+   "ka": "მიღება ტესტის ქულით რანჟირებაზეა დაფუძნებული; ძირითადი პირობაა ვალიდური საშუალო განათლების დიპლომი (12 წლიანი სწავლება).",
+   "ar": "القبول بترتيب درجات الاختبار، والشرط الأساسي شهادة ثانوية سارية (12 سنة دراسية)."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (12 years of schooling)",
+     "ka": "საშუალო განათლების ატესტატი (12 წლიანი სწავლება)",
+     "ar": "شهادة الثانوية العامة (12 سنة دراسية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts (last 2 years)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ბოლო 2 წელი)",
+     "ar": "كشف درجات المرحلة الثانوية (آخر سنتين)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma recognition (CIMEA statement or declaration of value)",
+     "ka": "დიპლომის აღიარება (CIMEA-ს დასკვნა ან ღირებულების დეკლარაცია)",
+     "ar": "معادلة الشهادة (بيان CIMEA أو إعلان القيمة)"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance test",
+     "ka": "მისაღები გამოცდა",
+     "ar": "اختبار القبول"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof (B2)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი (B2)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (B2)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Italian language proof (B2) for Italian-taught degrees",
+     "ka": "იტალიური ენის ცოდნის დამადასტურებელი საბუთი (B2) იტალიურენოვანი პროგრამებისთვის",
+     "ar": "إثبات إتقان اللغة الإيطالية (B2) للبرامج المدرَّسة بالإيطالية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Pre-enrolment on Universitaly (visa applicants)",
+     "ka": "წინასწარი რეგისტრაცია Universitaly-ზე (ვიზის მაძიებლებისთვის)",
+     "ar": "التسجيل المسبق على منصة Universitaly (لمقدمي التأشيرة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "italy",
+   "trento",
+   "sociology",
+   "computer science",
+   "merit-based fees",
+   "CEnT-S"
+  ],
+  "sources": [
+   "https://corsi.unitn.it/en/economics-and-management/enrollment/admission-and-enrollment",
+   "https://corsi.unitn.it/en/computer-science-bachelor/enrollment/admission-and-enrollment",
+   "https://www.unitn.it/en/study/fees-scholarships-accommodation/tuition-fees"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universita-vita-salute-san-raffaele",
+  "name": {
+   "en": "Università Vita-Salute San Raffaele",
+   "ka": "Università Vita-Salute San Raffaele",
+   "ar": "جامعة فيتا-ساليوت سان رافاييل"
+  },
+  "iso": "IT",
+  "city": "Milan",
+  "lat": 45.5046,
+  "lon": 9.264,
+  "type": "private",
+  "website": "https://www.unisr.it",
+  "platform": "Direct (UniSR admission call per course)",
+  "application_url": "https://www.unisr.it/en/servizi/ammissioni",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Bachelor deadlines are set in each course call and are not published on the general page. For the English-taught International MD (a six-year single-cycle degree) non-EU registration closed on 5 February 2026.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Bachelor fees are not published on the pages checked. The English-taught International MD costs EUR 20,690 per year (2026/27)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Italian",
+   "English"
+  ],
+  "english_bachelors": "none",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Applicants with foreign qualifications have a separate page and must register early so documents can be checked before the test.",
+   "ka": "უცხოური კვალიფიკაციის მქონე აბიტურიენტებისთვის ცალკე გვერდი არსებობს; დოკუმენტების შესამოწმებლად ტესტამდე ადრე უნდა დარეგისტრირდნენ.",
+   "ar": "للمتقدمين بمؤهلات أجنبية صفحة خاصة، ويجب أن يسجلوا مبكراً ليتم فحص الوثائق قبل الاختبار."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "UniSR own admission test (International MD)",
+   "English C1 at enrolment (International MD)"
+  ],
+  "fields": [
+   "medicine-health",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine and Surgery",
+    "Philosophy",
+    "Psychology",
+    "Biotechnology",
+    "Nursing and health professions"
+   ],
+   "ka": [
+    "მედიცინა და ქირურგია",
+    "ფილოსოფია",
+    "ფსიქოლოგია",
+    "ბიოტექნოლოგია",
+    "მედდობა და ჯანდაცვის პროფესიები"
+   ],
+   "ar": [
+    "الطب والجراحة",
+    "الفلسفة",
+    "علم النفس",
+    "التقنية الحيوية",
+    "التمريض والمهن الصحية"
+   ]
+  },
+  "summary": {
+   "en": "A private university in Milan linked to the San Raffaele hospital, focused on medicine, psychology and philosophy. Bachelor degrees are in Italian; the English offer is the six-year International MD (EUR 20,690 a year).",
+   "ka": "მილანში მდებარე კერძო უნივერსიტეტი, რომელიც სან რაფაელეს საავადმყოფოსთანაა დაკავშირებული და მედიცინაზე, ფსიქოლოგიასა და ფილოსოფიაზეა ორიენტირებული. ბაკალავრიატი იტალიურადაა; ინგლისურენოვანი შეთავაზებაა ექვსწლიანი International MD (წელიწადში 20 690 ევრო).",
+   "ar": "جامعة خاصة في ميلانو مرتبطة بمستشفى سان رافاييل وتركز على الطب وعلم النفس والفلسفة. برامج البكالوريوس بالإيطالية، أما العرض الإنجليزي فهو برنامج International MD لمدة ست سنوات (20,690 يورو سنوياً)."
+  },
+  "about": {
+   "en": "UniSR is a private university based at the San Raffaele campus in Milan. Its bachelor degrees cover philosophy, psychology, political science and health professions such as nursing and physiotherapy. They are taught in Italian. Each course has its own call with its own test and dates. The English-taught International MD uses a home-based UniSR test, needs English C1 at enrolment and costs EUR 20,690 a year for 2026/27. Bachelor fees are not listed on the pages checked.",
+   "ka": "UniSR კერძო უნივერსიტეტია, რომელიც მილანში, სან რაფაელეს კამპუსზე მდებარეობს. ბაკალავრიატის პროგრამები მოიცავს ფილოსოფიას, ფსიქოლოგიას, პოლიტიკურ მეცნიერებას და ჯანდაცვის პროფესიებს, მაგალითად მედდობასა და ფიზიოთერაპიას; ისინი იტალიურადაა. თითოეულ კურსს საკუთარი კონკურსი, ტესტი და ვადები აქვს. ინგლისურენოვანი International MD UniSR-ის სახლიდან ჩასაბარებელ ტესტს იყენებს, ჩარიცხვისას ინგლისურის C1 სჭირდება და 2026/27-ში წელიწადში 20 690 ევრო ღირს. ბაკალავრიატის საფასური შემოწმებულ გვერდებზე მითითებული არ არის.",
+   "ar": "جامعة فيتا-ساليوت سان رافاييل جامعة خاصة مقرها حرم سان رافاييل في ميلانو. تشمل برامج البكالوريوس الفلسفة وعلم النفس والعلوم السياسية والمهن الصحية مثل التمريض والعلاج الطبيعي، وهي بالإيطالية. لكل برنامج إعلان قبول واختبار ومواعيد خاصة به. يعتمد برنامج International MD بالإنجليزية على اختبار يُجرى من المنزل ويتطلب مستوى C1 في الإنجليزية عند التسجيل وتبلغ كلفته 20,690 يورو سنوياً لعام 2026/27. لم تُنشر رسوم البكالوريوس في الصفحات التي جرت مراجعتها."
+  },
+  "aid_intl": {
+   "en": "The university has a scholarships and benefits section, but no dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "უნივერსიტეტს აქვს სტიპენდიებისა და შეღავათების განყოფილება, მაგრამ შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لدى الجامعة قسم للمنح والتسهيلات، لكن لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة في الصفحات التي جرت مراجعتها."
+  },
+  "tests": {
+   "en": "Admission tests are set per course in the official call. The International MD uses UniSR's own test (registration fee EUR 200) and needs English C1 at enrolment.",
+   "ka": "მისაღები ტესტები თითოეული კურსისთვის ოფიციალურ კონკურსშია განსაზღვრული. International MD UniSR-ის საკუთარ ტესტს იყენებს (რეგისტრაციის საფასური 200 ევრო) და ჩარიცხვისას ინგლისურის C1 სჭირდება.",
+   "ar": "تُحدَّد اختبارات القبول لكل برنامج في الإعلان الرسمي. يستخدم International MD اختبار UniSR الخاص (رسوم التسجيل 200 يورو) ويتطلب مستوى C1 في الإنجليزية عند التسجيل."
+  },
+  "gpa_note": {
+   "en": "Applicants must have or be about to finish a secondary diploma; the diploma is needed to enrol, not to sit the test.",
+   "ka": "აბიტურიენტს საშუალო განათლების დიპლომი უნდა ჰქონდეს ან მისი მიღების წინ იყოს; დიპლომი ჩარიცხვისთვისაა საჭირო, ტესტის ჩასაბარებლად არა.",
+   "ar": "يجب أن يحمل المتقدم شهادة ثانوية أو يكون على وشك إنهائها؛ الشهادة مطلوبة للتسجيل وليس لدخول الاختبار."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (12 years of schooling)",
+     "ka": "საშუალო განათლების ატესტატი (12 წლიანი სწავლება)",
+     "ar": "شهادة الثانوية العامة (12 سنة دراسية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts (last 2 years)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ბოლო 2 წელი)",
+     "ar": "كشف درجات المرحلة الثانوية (آخر سنتين)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma recognition (CIMEA statement or declaration of value)",
+     "ka": "დიპლომის აღიარება (CIMEA-ს დასკვნა ან ღირებულების დეკლარაცია)",
+     "ar": "معادلة الشهادة (بيان CIMEA أو إعلان القيمة)"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance test",
+     "ka": "მისაღები გამოცდა",
+     "ar": "اختبار القبول"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Italian language proof (B2) for Italian-taught degrees",
+     "ka": "იტალიური ენის ცოდნის დამადასტურებელი საბუთი (B2) იტალიურენოვანი პროგრამებისთვის",
+     "ar": "إثبات إتقان اللغة الإيطالية (B2) للبرامج المدرَّسة بالإيطالية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof (B2)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი (B2)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (B2)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "italy",
+   "milan",
+   "private",
+   "medicine",
+   "psychology",
+   "philosophy",
+   "international MD"
+  ],
+  "sources": [
+   "https://www.unisr.it/en/servizi/ammissioni",
+   "https://www.unisr.it/en/offerta-formativa/medicina-chirurgia/international-medical-doctor-program/ammissioni-mdprogram",
+   "https://www.unisr.it/en/servizi/tasse-contributi/corsi-di-laurea-triennale-e-magistrale",
+   "https://www.unisr.it/offerta-formativa/corsi-laurea-triennale"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-genoa",
+  "name": {
+   "en": "University of Genoa",
+   "ka": "გენუის უნივერსიტეტი",
+   "ar": "جامعة جنوة"
+  },
+  "iso": "IT",
+  "city": "Genoa",
+  "lat": 44.4056,
+  "lon": 8.9463,
+  "type": "public",
+  "website": "https://unige.it",
+  "platform": "UniGeApply + Universitaly pre-enrolment",
+  "application_url": "https://unige.it/iscrizioni-internazionali",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-03-20",
+  "deadline_note": "2026/27: the fall session for non-EU visa applicants closed on 20 March 2026. Residents applying to open-access bachelors had until 25 September 2026. 2027/28 dates are not published yet.",
+  "tuition_intl": {
+   "amount": 3300,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Maximum yearly contribution (medical, health and scientific-technical areas; humanities and social areas EUR 3,025). Income-based; foreign students use an equalised ISEE-U. 2026/27."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Italian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "All non-Italian qualifications go through UniGeApply first. Graduates of three local international schools are exempt from this step.",
+   "ka": "ყველა არაიტალიური კვალიფიკაცია ჯერ UniGeApply-ში გადის. სამი ადგილობრივი საერთაშორისო სკოლის კურსდამთავრებულები ამ ეტაპისგან თავისუფლდებიან.",
+   "ar": "تمر جميع المؤهلات غير الإيطالية أولاً عبر UniGeApply. يُعفى خريجو ثلاث مدارس دولية محلية من هذه الخطوة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Entrance tests for programmed-access degrees",
+   "Italian test for open-access Italian-taught degrees"
+  ],
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "natural-sciences",
+   "economics",
+   "humanities",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Maritime Science and Technology",
+    "Engineering",
+    "Medicine",
+    "Marine Sciences",
+    "Economics"
+   ],
+   "ka": [
+    "საზღვაო მეცნიერება და ტექნოლოგია",
+    "ინჟინერია",
+    "მედიცინა",
+    "საზღვაო მეცნიერებები",
+    "ეკონომიკა"
+   ],
+   "ar": [
+    "العلوم والتقنية البحرية",
+    "الهندسة",
+    "الطب",
+    "علوم البحار",
+    "الاقتصاد"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in the port city of Genoa. Two bachelor programmes are taught in English (Computer Engineering in Imperia and Maritime Science and Technology), and fees are capped at EUR 3,300 a year.",
+   "ka": "ლიგურიის სანაპიროზე, პორტის ქალაქ გენუაში მდებარე მსხვილი სახელმწიფო უნივერსიტეტი. ორი ბაკალავრის პროგრამა ინგლისურადაა (კომპიუტერული ინჟინერია იმპერიაში და საზღვაო მეცნიერება და ტექნოლოგია), საფასური კი წელიწადში 3300 ევროთი შემოიფარგლება.",
+   "ar": "جامعة حكومية كبيرة في مدينة جنوة المينائية. يُدرَّس برنامجا بكالوريوس بالإنجليزية (هندسة الحاسوب في إمبيريا والعلوم والتقنية البحرية)، وسقف الرسوم 3300 يورو سنوياً."
+  },
+  "about": {
+   "en": "The University of Genoa is a public university with campuses in Genoa and nearby towns. Applicants with a foreign diploma apply on UniGeApply, then pre-enrol on Universitaly if they need a visa. Computer Engineering (Imperia) and Maritime Science and Technology (Genoa) are open-access and taught in English, with no Italian needed. Other bachelors are in Italian and need an Italian certificate or a pass in the entrance test. The yearly contribution runs from EUR 0 to EUR 3,300 by income.",
+   "ka": "გენუის უნივერსიტეტი სახელმწიფო უნივერსიტეტია, რომლის კამპუსები გენუასა და მეზობელ ქალაქებშია. უცხოური დიპლომის მქონე აბიტურიენტები განაცხადს UniGeApply-ზე აგზავნიან, ვიზის საჭიროების შემთხვევაში კი Universitaly-ზეც რეგისტრირდებიან. კომპიუტერული ინჟინერია (იმპერია) და საზღვაო მეცნიერება და ტექნოლოგია (გენუა) ღია მიღებისაა და ინგლისურადაა; იტალიური საჭირო არ არის. დანარჩენი ბაკალავრიატი იტალიურადაა და იტალიურის სერტიფიკატი ან მისაღები ტესტის ჩაბარება სჭირდება. წლიური შენატანი შემოსავლის მიხედვით 0-დან 3300 ევრომდეა.",
+   "ar": "جامعة جنوة جامعة حكومية لها حرم في جنوة والبلدات المجاورة. يتقدم أصحاب الشهادات الأجنبية عبر UniGeApply ثم يسجلون مسبقاً على Universitaly إذا احتاجوا تأشيرة. هندسة الحاسوب (إمبيريا) والعلوم والتقنية البحرية (جنوة) برنامجان مفتوحا القبول بالإنجليزية ولا يُشترط فيهما الإيطالية. بقية برامج البكالوريوس بالإيطالية وتتطلب شهادة إيطالية أو النجاح في اختبار القبول. تتراوح المساهمة السنوية من 0 إلى 3300 يورو بحسب الدخل."
+  },
+  "aid_intl": {
+   "en": "Fee reductions follow income (equalised ISEE-U); the pages checked do not list a scholarship reserved for international bachelor students.",
+   "ka": "საფასურის შემცირება შემოსავალზეა დამოკიდებული (გათანაბრებული ISEE-U); შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის დაცული სტიპენდია მითითებული არ არის.",
+   "ar": "تخفيض الرسوم يتبع الدخل (ISEE-U المعادَل)؛ ولا تُدرج الصفحات التي جرت مراجعتها منحة مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "English-taught courses need no Italian. Open-access Italian-taught courses need an accepted Italian certificate; programmed-access courses use their entrance test, which also checks Italian.",
+   "ka": "ინგლისურენოვან კურსებზე იტალიური საჭირო არ არის. ღია მიღების იტალიურენოვან კურსებზე აღიარებული იტალიურის სერტიფიკატია საჭირო; დაგეგმილი მიღების კურსებზე მისაღები ტესტი გამოიყენება, რომელიც იტალიურსაც ამოწმებს.",
+   "ar": "لا تتطلب البرامج بالإنجليزية اللغة الإيطالية. تتطلب البرامج الإيطالية مفتوحة القبول شهادة إيطالية معتمدة، أما البرامج محدودة القبول فتعتمد على اختبار القبول الذي يتحقق أيضاً من الإيطالية."
+  },
+  "gpa_note": {
+   "en": "A recognised secondary qualification is required; no minimum grade is stated for open-access degrees.",
+   "ka": "აღიარებული საშუალო განათლების კვალიფიკაცია სავალდებულოა; ღია მიღების პროგრამებისთვის მინიმალური ნიშანი მითითებული არ არის.",
+   "ar": "يُشترط مؤهل ثانوي معترف به؛ ولا يُذكر حد أدنى للدرجات للبرامج مفتوحة القبول."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (12 years of schooling)",
+     "ka": "საშუალო განათლების ატესტატი (12 წლიანი სწავლება)",
+     "ar": "شهادة الثانوية العامة (12 سنة دراسية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts (last 2 years)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ბოლო 2 წელი)",
+     "ar": "كشف درجات المرحلة الثانوية (آخر سنتين)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma recognition (CIMEA statement or declaration of value)",
+     "ka": "დიპლომის აღიარება (CIMEA-ს დასკვნა ან ღირებულების დეკლარაცია)",
+     "ar": "معادلة الشهادة (بيان CIMEA أو إعلان القيمة)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Italian language proof (B2) for Italian-taught degrees",
+     "ka": "იტალიური ენის ცოდნის დამადასტურებელი საბუთი (B2) იტალიურენოვანი პროგრამებისთვის",
+     "ar": "إثبات إتقان اللغة الإيطالية (B2) للبرامج المدرَّسة بالإيطالية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Pre-enrolment on Universitaly (visa applicants)",
+     "ka": "წინასწარი რეგისტრაცია Universitaly-ზე (ვიზის მაძიებლებისთვის)",
+     "ar": "التسجيل المسبق على منصة Universitaly (لمقدمي التأشيرة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "italy",
+   "genoa",
+   "genova",
+   "maritime",
+   "engineering",
+   "english-taught"
+  ],
+  "sources": [
+   "https://unige.it/iscrizioni-internazionali",
+   "https://corsi.unige.it/corsi/triennale",
+   "https://unige.it/tasse-e-benefici/rate-calcolo",
+   "https://unige.it/tasse-e-benefici"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-milano-bicocca",
+  "name": {
+   "en": "University of Milano-Bicocca",
+   "ka": "მილანო-ბიკოკას უნივერსიტეტი",
+   "ar": "جامعة ميلانو-بيكوكا"
+  },
+  "iso": "IT",
+  "city": "Milan",
+  "lat": 45.5185,
+  "lon": 9.2113,
+  "type": "public",
+  "website": "https://www.unimib.it",
+  "platform": "Apply@Unimib (DreamApply) + Universitaly pre-enrolment",
+  "application_url": "https://apply.unimib.it/en_GB/news/new/39-apply-202627-admission-calls-and-deadlines",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-12-22",
+  "deadline_note": "2027/28: first call for open-access bachelors runs 22 October to 22 December 2026; limited-place calls open in January. Universitaly dates for visa applicants are still to be published; English and Italian certificates are due by 5 February 2027 for the first call.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Fixed tuition depends on country-of-residence group and course area (table in the university's fees guide). Extra: EUR 150 deposit and EUR 146 first instalment (2026/27)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Italian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A diploma after at least 12 years of schooling is required. With 10 or 11 years you must add a foundation year or 1 to 2 years of university study.",
+   "ka": "საჭიროა დიპლომი მინიმუმ 12 წლიანი სწავლების შემდეგ. 10 ან 11 წლიანი სწავლების შემთხვევაში დამატებით სასწავლო წელი (foundation) ან 1-2 წლიანი უნივერსიტეტის სწავლაა საჭირო.",
+   "ar": "يُشترط شهادة بعد 12 سنة دراسية على الأقل. ومع 10 أو 11 سنة يلزم إضافة سنة تأسيسية أو سنة إلى سنتين من الدراسة الجامعية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TOLC / CEnT-S",
+   "TOLC ITA L2 (Italian, minimum 48)"
+  ],
+  "fields": [
+   "natural-sciences",
+   "medicine-health",
+   "economics",
+   "social-sciences",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Psychology",
+    "Biology and Biotechnology",
+    "Economics",
+    "Physics",
+    "Medicine",
+    "Statistics"
+   ],
+   "ka": [
+    "ფსიქოლოგია",
+    "ბიოლოგია და ბიოტექნოლოგია",
+    "ეკონომიკა",
+    "ფიზიკა",
+    "მედიცინა",
+    "სტატისტიკა"
+   ],
+   "ar": [
+    "علم النفس",
+    "الأحياء والتقنية الحيوية",
+    "الاقتصاد",
+    "الفيزياء",
+    "الطب",
+    "الإحصاء"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Milan with a modern campus. International bachelor applicants use DreamApply, then Universitaly if they need a visa; one bachelor (Economics and Science for Environmental Sustainability) is taught in English.",
+   "ka": "მილანში მდებარე სახელმწიფო უნივერსიტეტი თანამედროვე კამპუსით. უცხოელი ბაკალავრიატის აბიტურიენტები DreamApply-ს იყენებენ, ვიზის საჭიროებისას კი Universitaly-ს; ერთი ბაკალავრის პროგრამა (Economics and Science for Environmental Sustainability) ინგლისურადაა.",
+   "ar": "جامعة حكومية في ميلانو بحرم حديث. يستخدم المتقدمون الدوليون للبكالوريوس منصة DreamApply ثم Universitaly إذا احتاجوا تأشيرة؛ وبرنامج بكالوريوس واحد (Economics and Science for Environmental Sustainability) يُدرَّس بالإنجليزية."
+  },
+  "about": {
+   "en": "Milano-Bicocca is a public university in the north of Milan. Applicants with a foreign diploma apply on DreamApply with their diploma, transcripts and any language certificate, then repeat the documents on Universitaly if they need a visa. Courses taught in Italian need Italian B2 (or TOLC ITA L2); English-taught courses need English B2. Many bachelors use the TOLC or CEnT-S test. The yearly fee depends on your country group and the course area.",
+   "ka": "მილანო-ბიკოკა მილანის ჩრდილოეთ ნაწილში მდებარე სახელმწიფო უნივერსიტეტია. უცხოური დიპლომის მქონე აბიტურიენტები DreamApply-ზე დიპლომს, ნიშნების ამონაწერს და ენის სერტიფიკატს ტვირთავენ, ვიზის საჭიროებისას კი იგივე დოკუმენტებს Universitaly-ზეც ათავსებენ. იტალიურენოვან კურსებს იტალიურის B2 (ან TOLC ITA L2), ინგლისურენოვანს კი ინგლისურის B2 სჭირდება. ბევრი ბაკალავრის პროგრამა TOLC ან CEnT-S ტესტს იყენებს. წლიური საფასური ქვეყნის ჯგუფსა და კურსის სფეროზეა დამოკიდებული.",
+   "ar": "جامعة ميلانو-بيكوكا جامعة حكومية في شمال ميلانو. يتقدم أصحاب الشهادات الأجنبية عبر DreamApply مع الشهادة وكشف الدرجات وأي شهادة لغة، ثم يكررون الوثائق على Universitaly إذا احتاجوا تأشيرة. تتطلب البرامج بالإيطالية مستوى B2 (أو TOLC ITA L2) والبرامج بالإنجليزية مستوى B2 في الإنجليزية. تستخدم برامج كثيرة اختبار TOLC أو CEnT-S. تعتمد الرسوم السنوية على مجموعة بلد الإقامة ومجال البرنامج."
+  },
+  "aid_intl": {
+   "en": "The Bicocca International Scholarship pays EUR 10,000 a year with a tuition waiver for students living abroad with a foreign qualification; check its call to see if bachelor students can apply.",
+   "ka": "Bicocca International Scholarship ყოველწლიურად 10 000 ევროს იხდის და სწავლის საფასურისგან ათავისუფლებს უცხოური კვალიფიკაციის მქონე, საზღვარგარეთ მცხოვრებ სტუდენტებს; კონკურსში გადაამოწმეთ, შეუძლიათ თუ არა ბაკალავრიატის სტუდენტებს განაცხადი.",
+   "ar": "تمنح Bicocca International Scholarship مبلغ 10,000 يورو سنوياً مع إعفاء من الرسوم للطلاب المقيمين في الخارج بمؤهل أجنبي؛ راجع إعلان المنحة لمعرفة إن كان طلاب البكالوريوس مؤهلين."
+  },
+  "tests": {
+   "en": "Most bachelors use the TOLC or CEnT-S test. Italian-taught courses need Italian B2 or TOLC ITA L2 (minimum 48); English-taught ones need an English B2 certificate.",
+   "ka": "ბაკალავრის უმეტესობა TOLC ან CEnT-S ტესტს იყენებს. იტალიურენოვან კურსებს იტალიურის B2 ან TOLC ITA L2 (მინიმუმ 48), ინგლისურენოვანს კი ინგლისურის B2 სერტიფიკატი სჭირდება.",
+   "ar": "تستخدم معظم برامج البكالوريوس اختبار TOLC أو CEnT-S. تتطلب البرامج بالإيطالية مستوى B2 أو TOLC ITA L2 (حد أدنى 48) والبرامج بالإنجليزية شهادة B2 في الإنجليزية."
+  },
+  "gpa_note": {
+   "en": "The diploma must be obtained by 31 July 2027; limited-place degrees rank applicants by test score.",
+   "ka": "დიპლომი 2027 წლის 31 ივლისამდე უნდა იყოს მიღებული; შეზღუდული ადგილების პროგრამებზე აბიტურიენტები ტესტის ქულით რანჟირდებიან.",
+   "ar": "يجب الحصول على الشهادة بحلول 31 يوليو 2027؛ وتُرتّب البرامج محدودة المقاعد المتقدمين حسب درجة الاختبار."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (12 years of schooling)",
+     "ka": "საშუალო განათლების ატესტატი (12 წლიანი სწავლება)",
+     "ar": "شهادة الثانوية العامة (12 سنة دراسية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts (last 2 years)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ბოლო 2 წელი)",
+     "ar": "كشف درجات المرحلة الثانوية (آخر سنتين)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma recognition (CIMEA statement or declaration of value)",
+     "ka": "დიპლომის აღიარება (CIMEA-ს დასკვნა ან ღირებულების დეკლარაცია)",
+     "ar": "معادلة الشهادة (بيان CIMEA أو إعلان القيمة)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof (B2)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი (B2)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (B2)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Italian language proof (B2) for Italian-taught degrees",
+     "ka": "იტალიური ენის ცოდნის დამადასტურებელი საბუთი (B2) იტალიურენოვანი პროგრამებისთვის",
+     "ar": "إثبات إتقان اللغة الإيطالية (B2) للبرامج المدرَّسة بالإيطالية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance test",
+     "ka": "მისაღები გამოცდა",
+     "ar": "اختبار القبول"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Pre-enrolment on Universitaly (visa applicants)",
+     "ka": "წინასწარი რეგისტრაცია Universitaly-ზე (ვიზის მაძიებლებისთვის)",
+     "ar": "التسجيل المسبق على منصة Universitaly (لمقدمي التأشيرة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "italy",
+   "milan",
+   "bicocca",
+   "psychology",
+   "DreamApply",
+   "TOLC"
+  ],
+  "sources": [
+   "https://apply.unimib.it/en_GB/news/new/39-apply-202627-admission-calls-and-deadlines",
+   "https://apply.unimib.it/en_GB/news/new/13-bachelors-single-cycle-masters-degree---required-documents",
+   "https://apply.unimib.it/en_GB/contents/content/10-fees-and-funding"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-siena",
+  "name": {
+   "en": "University of Siena",
+   "ka": "სიენის უნივერსიტეტი",
+   "ar": "جامعة سيينا"
+  },
+  "iso": "IT",
+  "city": "Siena",
+  "lat": 43.3188,
+  "lon": 11.3308,
+  "type": "public",
+  "website": "https://www.unisi.it",
+  "platform": "Apply Unisi portal (apply.unisi.it) + Universitaly pre-enrolment",
+  "application_url": "https://admission.unisi.it/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Admissions for 2026/27 are closed; the portal says the 2027/28 intake opens in November 2026 and no deadlines are listed yet.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Amount depends on country of origin and course; the university provides an online fee simulator. Paid in 1 to 4 instalments. Foreign students can use an equalised ISEE."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Italian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A high school diploma or equivalent foreign qualification recognised as valid is required; documents must be in English or Italian or officially translated.",
+   "ka": "საჭიროა საშუალო სკოლის დიპლომი ან მისი ეკვივალენტი უცხოური კვალიფიკაცია, რომელიც ვალიდურადაა აღიარებული; დოკუმენტები ინგლისურ ან იტალიურ ენაზე უნდა იყოს ან ოფიციალურად ითარგმნოს.",
+   "ar": "يُشترط دبلوم ثانوي أو مؤهل أجنبي معادل معترف به؛ ويجب أن تكون الوثائق بالإنجليزية أو الإيطالية أو مترجمة رسمياً."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "CEnT-S (Biotech Engineering for Health)",
+   "Entrance test with OFA (Biotech Engineering for Health)"
+  ],
+  "fields": [
+   "law",
+   "humanities",
+   "economics",
+   "medicine-health",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Law",
+    "Economics and Management",
+    "Humanities",
+    "Medicine",
+    "Biotechnology"
+   ],
+   "ka": [
+    "სამართალი",
+    "ეკონომიკა და მენეჯმენტი",
+    "ჰუმანიტარული მეცნიერებები",
+    "მედიცინა",
+    "ბიოტექნოლოგია"
+   ],
+   "ar": [
+    "القانون",
+    "الاقتصاد والإدارة",
+    "العلوم الإنسانية",
+    "الطب",
+    "التقنية الحيوية"
+   ]
+  },
+  "summary": {
+   "en": "A historic public university in a small Tuscan city. Two three-year bachelors are taught in English (Economics and Management; Biotech Engineering for Health), and applications go through the Apply Unisi portal.",
+   "ka": "პატარა ტოსკანურ ქალაქში მდებარე ისტორიული სახელმწიფო უნივერსიტეტი. ორი სამწლიანი ბაკალავრის პროგრამა ინგლისურადაა (ეკონომიკა და მენეჯმენტი; Biotech Engineering for Health), განაცხადი კი Apply Unisi პორტალით იგზავნება.",
+   "ar": "جامعة حكومية عريقة في مدينة توسكانية صغيرة. يُدرَّس برنامجا بكالوريوس مدة كل منهما ثلاث سنوات بالإنجليزية (الاقتصاد والإدارة؛ Biotech Engineering for Health) ويتم التقديم عبر بوابة Apply Unisi."
+  },
+  "about": {
+   "en": "The University of Siena is a public university in the centre of a small medieval city. Non-EU applicants apply on the Apply Unisi portal, for up to two or three programmes, and need a study visa before enrolling. For 2026/27 Economics and Management (English) set aside 150 places for visa applicants and needed no entrance test. Biotech Engineering for Health has 80 places, the CEnT-S test and English B2. Fees depend on country of origin and course.",
+   "ka": "სიენის უნივერსიტეტი სახელმწიფო უნივერსიტეტია პატარა შუა საუკუნეების ქალაქის ცენტრში. ევროკავშირს გარეთ მცხოვრები აბიტურიენტები განაცხადს Apply Unisi პორტალზე აგზავნიან (ორ ან სამ პროგრამაზე) და ჩარიცხვამდე სასწავლო ვიზა სჭირდებათ. 2026/27-ში ეკონომიკასა და მენეჯმენტზე (ინგლისური) ვიზის მაძიებლებისთვის 150 ადგილი იყო გამოყოფილი და მისაღები ტესტი არ იყო საჭირო. Biotech Engineering for Health-ს 80 ადგილი, CEnT-S ტესტი და ინგლისურის B2 სჭირდება. საფასური წარმოშობის ქვეყნისა და კურსის მიხედვით განისაზღვრება.",
+   "ar": "جامعة سيينا جامعة حكومية في قلب مدينة قروسطية صغيرة. يتقدم الطلاب من خارج الاتحاد الأوروبي عبر بوابة Apply Unisi (لبرنامجين أو ثلاثة) ويحتاجون تأشيرة دراسة قبل التسجيل. في 2026/27 خصص برنامج الاقتصاد والإدارة (بالإنجليزية) 150 مقعداً لمقدمي التأشيرة ولم يشترط اختباراً. أما Biotech Engineering for Health فله 80 مقعداً واختبار CEnT-S ومستوى B2 في الإنجليزية. تتحدد الرسوم حسب بلد المنشأ والبرنامج."
+  },
+  "aid_intl": {
+   "en": "The Siena International Excellence Scholarships listed are for selected master's programmes; no dedicated bachelor aid for international students is published.",
+   "ka": "Siena International Excellence Scholarships არჩეულ მაგისტრატურის პროგრამებზეა; უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი დახმარება გამოქვეყნებული არ არის.",
+   "ar": "منح Siena International Excellence المعلنة مخصصة لبرامج ماجستير محددة؛ ولا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "English-taught courses need English B2 (exemptions apply, e.g. an English-taught diploma). Economics and Management needed no test in 2026/27; Biotech Engineering for Health needs CEnT-S.",
+   "ka": "ინგლისურენოვან კურსებს ინგლისურის B2 სჭირდება (არსებობს გამონაკლისები, მაგ. ინგლისურენოვანი დიპლომი). ეკონომიკასა და მენეჯმენტზე 2026/27-ში ტესტი საჭირო არ იყო; Biotech Engineering for Health-ს CEnT-S სჭირდება.",
+   "ar": "تتطلب البرامج بالإنجليزية مستوى B2 (مع استثناءات مثل الشهادة المدرَّسة بالإنجليزية). لم يشترط الاقتصاد والإدارة اختباراً في 2026/27، بينما يتطلب Biotech Engineering for Health اختبار CEnT-S."
+  },
+  "gpa_note": {
+   "en": "A high school diploma is the entry base; Biotech Engineering for Health also tests basic maths, physics and science.",
+   "ka": "შესვლის საფუძველია საშუალო სკოლის დიპლომი; Biotech Engineering for Health დამატებით ამოწმებს მათემატიკის, ფიზიკისა და საბუნებისმეტყველო მეცნიერებების საბაზო ცოდნას.",
+   "ar": "الأساس هو الشهادة الثانوية؛ ويختبر Biotech Engineering for Health أيضاً أساسيات الرياضيات والفيزياء والعلوم."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (12 years of schooling)",
+     "ka": "საშუალო განათლების ატესტატი (12 წლიანი სწავლება)",
+     "ar": "شهادة الثانوية العامة (12 سنة دراسية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts (last 2 years)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ბოლო 2 წელი)",
+     "ar": "كشف درجات المرحلة الثانوية (آخر سنتين)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma recognition (CIMEA statement or declaration of value)",
+     "ka": "დიპლომის აღიარება (CIMEA-ს დასკვნა ან ღირებულების დეკლარაცია)",
+     "ar": "معادلة الشهادة (بيان CIMEA أو إعلان القيمة)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof (B2)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი (B2)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (B2)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance test",
+     "ka": "მისაღები გამოცდა",
+     "ar": "اختبار القبول"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Pre-enrolment on Universitaly (visa applicants)",
+     "ka": "წინასწარი რეგისტრაცია Universitaly-ზე (ვიზის მაძიებლებისთვის)",
+     "ar": "التسجيل المسبق على منصة Universitaly (لمقدمي التأشيرة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "italy",
+   "siena",
+   "tuscany",
+   "economics",
+   "law",
+   "english-taught"
+  ],
+  "sources": [
+   "https://admission.unisi.it/",
+   "https://apply.unisi.it/courses/course/41-b-economics-and-management",
+   "https://apply.unisi.it/courses/course/145-b-biotech-engineering-health",
+   "https://apply.unisi.it/contents/content/8-tuition-fees-and-costs"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-brescia",
+  "name": {
+   "en": "University of Brescia",
+   "ka": "ბრეშიას უნივერსიტეტი",
+   "ar": "جامعة بريشيا"
+  },
+  "iso": "IT",
+  "city": "Brescia",
+  "lat": 45.5416,
+  "lon": 10.2118,
+  "type": "public",
+  "website": "https://www.unibs.it",
+  "platform": "Direct (University of Brescia portal) + Universitaly pre-enrolment",
+  "application_url": "https://www.unibs.it/en/international/degree-seeking-students/admission/non-eu-candidates-living-abroad",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-08-31",
+  "deadline_note": "2026/27: Universitaly deadline for non-EU candidates abroad was 31 August 2026. 2027/28 dates are not published yet.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Fees are based on ISEE (new rules approved for 2026/27); a regional fee of EUR 130, 160 or 190 applies. Foundation Year: EUR 4,800 (2025/26)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Italian",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A foreign diploma must be recognised as suitable. Applicants with a shorter school path can take the Foundation Year, which leads to Italian-taught bachelors.",
+   "ka": "უცხოური დიპლომი შესაფერისად უნდა იყოს აღიარებული. მოკლე სასკოლო გზის მქონე აბიტურიენტებს შეუძლიათ Foundation Year გაიარონ, რომელიც იტალიურენოვან ბაკალავრიატს უძღვის წინ.",
+   "ar": "يجب الاعتراف بالشهادة الأجنبية كمناسبة. ويمكن لمن لديهم مسار دراسي أقصر الالتحاق بالسنة التأسيسية التي تؤدي إلى برامج بكالوريوس بالإيطالية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "National or university admission tests for limited-access degrees (EUR 55 registration)"
+  ],
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "economics",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Medicine and Surgery",
+    "Nursing",
+    "Economics and Banking",
+    "Law"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მედიცინა და ქირურგია",
+    "მედდობა",
+    "ეკონომიკა და ბანკინგი",
+    "სამართალი"
+   ],
+   "ar": [
+    "الهندسة",
+    "الطب والجراحة",
+    "التمريض",
+    "الاقتصاد والمصارف",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Lombardy with strong engineering and health degrees. Non-EU bachelor applicants usually study in Italian, and a funded STAR scholarship route starts with a Foundation Year.",
+   "ka": "ლომბარდიაში მდებარე სახელმწიფო უნივერსიტეტი ძლიერი საინჟინრო და ჯანდაცვის პროგრამებით. ევროკავშირს გარეთ მცხოვრები ბაკალავრიატის აბიტურიენტები, როგორც წესი, იტალიურად სწავლობენ; დაფინანსებული STAR სტიპენდიის გზა Foundation Year-ით იწყება.",
+   "ar": "جامعة حكومية في لومباردية ببرامج قوية في الهندسة والصحة. يدرس طلاب البكالوريوس غير الأوروبيين عادةً بالإيطالية، ويبدأ مسار منحة STAR الممولة بالسنة التأسيسية."
+  },
+  "about": {
+   "en": "The University of Brescia is a public university with engineering, medicine, economics and law. Non-EU candidates abroad must have their qualification pre-assessed, then submit one application on Universitaly; they can choose only one university and one programme. Italian B2 is needed for Italian-taught courses. Fees follow ISEE. The STAR scholarship pays for the Foundation Year in 2026/27 and then a bachelor taught in Italian in 2027/28, worth EUR 6,132.10 each.",
+   "ka": "ბრეშიას უნივერსიტეტი სახელმწიფო უნივერსიტეტია ინჟინერიის, მედიცინის, ეკონომიკისა და სამართლის პროგრამებით. ევროკავშირს გარეთ მცხოვრებ კანდიდატებს კვალიფიკაციის წინასწარი შეფასება სჭირდებათ, შემდეგ კი Universitaly-ზე ერთ განაცხადს აგზავნიან; შეუძლიათ მხოლოდ ერთი უნივერსიტეტი და ერთი პროგრამა აირჩიონ. იტალიურენოვან კურსებს იტალიურის B2 სჭირდება. საფასური ISEE-ზეა დამოკიდებული. STAR სტიპენდია 2026/27-ში Foundation Year-ს, 2027/28-ში კი იტალიურენოვან ბაკალავრიატს აფინანსებს; თითოეულის ღირებულებაა 6132,10 ევრო.",
+   "ar": "جامعة بريشيا جامعة حكومية فيها الهندسة والطب والاقتصاد والقانون. يحتاج المرشحون غير الأوروبيين من الخارج إلى تقييم مسبق لمؤهلهم ثم تقديم طلب واحد على Universitaly، ولا يمكنهم اختيار أكثر من جامعة وبرنامج واحد. يلزم مستوى B2 في الإيطالية للبرامج بالإيطالية. تتبع الرسوم نظام ISEE. تغطي منحة STAR السنة التأسيسية في 2026/27 ثم بكالوريوس بالإيطالية في 2027/28، وقيمة كل منحة 6,132.10 يورو."
+  },
+  "aid_intl": {
+   "en": "The STAR scholarship for non-EU students covers the Foundation Year in 2026/27 and a bachelor taught in Italian in 2027/28, EUR 6,132.10 each.",
+   "ka": "STAR სტიპენდია ევროკავშირს გარეთ მყოფი სტუდენტებისთვის 2026/27-ში Foundation Year-ს, 2027/28-ში კი იტალიურენოვან ბაკალავრიატს ფარავს, თითოეული 6132,10 ევრო.",
+   "ar": "تغطي منحة STAR للطلاب غير الأوروبيين السنة التأسيسية في 2026/27 وبكالوريوساً بالإيطالية في 2027/28، بقيمة 6,132.10 يورو لكل منهما."
+  },
+  "tests": {
+   "en": "Italian B2 is needed for Italian-taught degrees. Limited-access degrees use a national or university test (EUR 55 to register).",
+   "ka": "იტალიურენოვან პროგრამებს იტალიურის B2 სჭირდება. შეზღუდული მიღების პროგრამები ეროვნულ ან უნივერსიტეტის ტესტს იყენებს (რეგისტრაცია 55 ევრო).",
+   "ar": "تتطلب البرامج بالإيطالية مستوى B2. وتستخدم البرامج محدودة القبول اختباراً وطنياً أو جامعياً (رسوم التسجيل 55 يورو)."
+  },
+  "gpa_note": {
+   "en": "Candidates need a qualification comparable to an Italian secondary diploma; no minimum grade is published on the pages checked.",
+   "ka": "კანდიდატს იტალიური საშუალო განათლების დიპლომის შესადარებელი კვალიფიკაცია სჭირდება; შემოწმებულ გვერდებზე მინიმალური ნიშანი მითითებული არ არის.",
+   "ar": "يحتاج المرشح إلى مؤهل مماثل للشهادة الثانوية الإيطالية؛ ولا يوجد حد أدنى للدرجات منشور في الصفحات التي جرت مراجعتها."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (12 years of schooling)",
+     "ka": "საშუალო განათლების ატესტატი (12 წლიანი სწავლება)",
+     "ar": "شهادة الثانوية العامة (12 سنة دراسية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts (last 2 years)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ბოლო 2 წელი)",
+     "ar": "كشف درجات المرحلة الثانوية (آخر سنتين)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma recognition (CIMEA statement or declaration of value)",
+     "ka": "დიპლომის აღიარება (CIMEA-ს დასკვნა ან ღირებულების დეკლარაცია)",
+     "ar": "معادلة الشهادة (بيان CIMEA أو إعلان القيمة)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Italian language proof (B2) for Italian-taught degrees",
+     "ka": "იტალიური ენის ცოდნის დამადასტურებელი საბუთი (B2) იტალიურენოვანი პროგრამებისთვის",
+     "ar": "إثبات إتقان اللغة الإيطالية (B2) للبرامج المدرَّسة بالإيطالية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance test",
+     "ka": "მისაღები გამოცდა",
+     "ar": "اختبار القبول"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Pre-enrolment on Universitaly (visa applicants)",
+     "ka": "წინასწარი რეგისტრაცია Universitaly-ზე (ვიზის მაძიებლებისთვის)",
+     "ar": "التسجيل المسبق على منصة Universitaly (لمقدمي التأشيرة)"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "STAR scholarship for non-EU students (Foundation Year, then Italian-taught bachelor)",
+    "url": "https://www.unibs.it/sites/default/files/2026-02/Call%20for%20applications_STAR%20L.pdf",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "italy",
+   "brescia",
+   "lombardy",
+   "engineering",
+   "scholarship",
+   "foundation year"
+  ],
+  "sources": [
+   "https://www.unibs.it/en/international/degree-seeking-students/admission/non-eu-candidates-living-abroad",
+   "https://www.unibs.it/en/international/degree-seeking-students/admission/non-eu-candidates-living-abroad/application-study-visa-universitaly-portal",
+   "https://www.unibs.it/en/university/communication/all-news/student-fees-20262027-academic-year-new-regulations-approved",
+   "https://www.unibs.it/sites/default/files/2026-02/Call%20for%20applications_STAR%20L.pdf"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "ca-foscari-university-of-venice",
+  "name": {
+   "en": "Ca' Foscari University of Venice",
+   "ka": "ვენეციის კა' ფოსკარის უნივერსიტეტი",
+   "ar": "جامعة كا' فوسكاري في البندقية"
+  },
+  "iso": "IT",
+  "city": "Venice",
+  "lat": 45.4343,
+  "lon": 12.3265,
+  "type": "public",
+  "website": "https://www.unive.it",
+  "platform": "apply.unive.it (DreamApply) + Universitaly pre-enrolment",
+  "application_url": "https://apply.unive.it",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "2027/28 dates are not published; applicants register on apply.unive.it to be told when their category opens. For 2026/27 the Universitaly pre-enrolment deadline was 30 September 2026, but another page said visa applicants could no longer apply for that year.",
+  "tuition_intl": {
+   "amount": 1300,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Bachelor fee by country group (2026/27): non-EU OECD EUR 2,100; all other countries EUR 1,300; developing countries EUR 700. Digital Management EUR 8,934; Hospitality Innovation and e-Tourism EUR 7,123."
+  },
+  "acceptance_rate": null,
+  "students": 23000,
+  "intl_pct": null,
+  "languages": [
+   "Italian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "At least 12 years of schooling are required; documents must be in English or Italian or professionally translated.",
+   "ka": "საჭიროა მინიმუმ 12 წლიანი სწავლება; დოკუმენტები ინგლისურ ან იტალიურ ენაზე უნდა იყოს, ან პროფესიულად ითარგმნოს.",
+   "ar": "يُشترط 12 سنة دراسية على الأقل؛ ويجب أن تكون الوثائق بالإنجليزية أو الإيطالية أو مترجمة مهنياً."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": 5.5,
+  "toefl_min": 72,
+  "duolingo_min": null,
+  "other_tests": [
+   "SAT / CEnT-S / TOLC-E (Economics and Business)",
+   "Italian B2 test for Italian-taught degrees"
+  ],
+  "fields": [
+   "languages",
+   "humanities",
+   "economics",
+   "business",
+   "environment",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Languages",
+    "Economics and Management",
+    "Humanities",
+    "Asian and African Studies",
+    "Environmental Sciences",
+    "Computer Science"
+   ],
+   "ka": [
+    "ენები",
+    "ეკონომიკა და მენეჯმენტი",
+    "ჰუმანიტარული მეცნიერებები",
+    "აზიისა და აფრიკის კვლევები",
+    "გარემოს მეცნიერებები",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "اللغات",
+    "الاقتصاد والإدارة",
+    "العلوم الإنسانية",
+    "دراسات آسيا وأفريقيا",
+    "علوم البيئة",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Venice with about 23,000 students and nine English-taught bachelors. International fees are EUR 700 to EUR 2,100 a year for most programmes, and eight yearly EUR 10,000 entrance scholarships exist for bachelor students.",
+   "ka": "ვენეციაში მდებარე სახელმწიფო უნივერსიტეტი დაახლოებით 23 000 სტუდენტით და ცხრა ინგლისურენოვანი ბაკალავრის პროგრამით. უმეტეს პროგრამაზე საერთაშორისო საფასური წელიწადში 700-დან 2100 ევრომდეა და ბაკალავრიატის სტუდენტებისთვის არსებობს რვა ყოველწლიური 10 000-ევროიანი ჩარიცხვის სტიპენდია.",
+   "ar": "جامعة حكومية في البندقية فيها نحو 23,000 طالب وتسعة برامج بكالوريوس بالإنجليزية. تتراوح الرسوم الدولية بين 700 و2100 يورو سنوياً لمعظم البرامج، وتتوفر ثماني منح دخول سنوية بقيمة 10,000 يورو لطلاب البكالوريوس."
+  },
+  "about": {
+   "en": "Ca' Foscari has eight departments, including a business school. Bachelors in English include Economics and Business, Computer Science, Philosophy, International and Economic Studies, and Italian and Mediterranean Studies. Applicants with foreign schooling ask for a preliminary evaluation on apply.unive.it and upload diploma, mark sheet, passport and English B2 (IELTS 5.5 or TOEFL iBT 72). Limited programmes need an entry test such as SAT, CEnT-S or TOLC-E. Fees depend on your country group.",
+   "ka": "კა' ფოსკარი რვა დეპარტამენტისგან შედგება, მათ შორის ბიზნეს სკოლისგან. ინგლისურენოვან ბაკალავრიატში შედის ეკონომიკა და ბიზნესი, კომპიუტერული მეცნიერება, ფილოსოფია, საერთაშორისო და ეკონომიკური კვლევები და იტალიისა და ხმელთაშუა ზღვის კვლევები. უცხოური განათლების მქონე აბიტურიენტები apply.unive.it-ზე წინასწარ შეფასებას ითხოვენ და ტვირთავენ დიპლომს, ნიშნების ამონაწერს, პასპორტსა და ინგლისურის B2-ს (IELTS 5.5 ან TOEFL iBT 72). შეზღუდული მიღების პროგრამებს მისაღები ტესტი სჭირდება, მაგალითად SAT, CEnT-S ან TOLC-E. საფასური ქვეყნის ჯგუფზეა დამოკიდებული.",
+   "ar": "تضم كا' فوسكاري ثمانية أقسام منها كلية أعمال. من برامج البكالوريوس بالإنجليزية الاقتصاد والأعمال وعلوم الحاسوب والفلسفة والدراسات الدولية والاقتصادية والدراسات الإيطالية والمتوسطية. يطلب أصحاب التعليم الأجنبي تقييماً مبدئياً عبر apply.unive.it ويرفعون الشهادة وكشف الدرجات وجواز السفر وإثبات الإنجليزية B2 (IELTS 5.5 أو TOEFL iBT 72). تتطلب البرامج محدودة القبول اختبار دخول مثل SAT أو CEnT-S أو TOLC-E. تعتمد الرسوم على مجموعة البلد."
+  },
+  "aid_intl": {
+   "en": "For autumn 2026 there are 8 renewable entrance scholarships of EUR 10,000 a year for exceptional international bachelor students.",
+   "ka": "2026 წლის შემოდგომისთვის გამორჩეული უცხოელი ბაკალავრიატის სტუდენტებისთვის 8 განახლებადი ჩარიცხვის სტიპენდიაა, წელიწადში 10 000 ევრო.",
+   "ar": "لخريف 2026 توجد 8 منح دخول قابلة للتجديد بقيمة 10,000 يورو سنوياً للطلاب الدوليين المتميزين في البكالوريوس."
+  },
+  "tests": {
+   "en": "English B2 is required (IELTS 5.5 or TOEFL iBT 72). Economics and Business accepts SAT, CEnT-S or TOLC-E (Italian); Italian-taught degrees need Italian B2.",
+   "ka": "ინგლისურის B2 სავალდებულოა (IELTS 5.5 ან TOEFL iBT 72). ეკონომიკა და ბიზნესი იღებს SAT-ს, CEnT-S-ს ან TOLC-E-ს (იტალიური); იტალიურენოვან პროგრამებს იტალიურის B2 სჭირდება.",
+   "ar": "مستوى B2 في الإنجليزية مطلوب (IELTS 5.5 أو TOEFL iBT 72). يقبل برنامج الاقتصاد والأعمال SAT أو CEnT-S أو TOLC-E (الإيطالي)، وتتطلب البرامج بالإيطالية مستوى B2."
+  },
+  "gpa_note": {
+   "en": "At least 12 years of schooling and official school marks are required; limited-access programmes rank applicants by entry test.",
+   "ka": "საჭიროა მინიმუმ 12 წლიანი სწავლება და სკოლის ოფიციალური ნიშნები; შეზღუდული მიღების პროგრამები აბიტურიენტებს მისაღები ტესტით რანჟირებს.",
+   "ar": "يُشترط 12 سنة دراسية على الأقل وكشف درجات مدرسي رسمي؛ وتُرتّب البرامج محدودة القبول المتقدمين بحسب اختبار الدخول."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (12 years of schooling)",
+     "ka": "საშუალო განათლების ატესტატი (12 წლიანი სწავლება)",
+     "ar": "شهادة الثانوية العامة (12 سنة دراسية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts (last 2 years)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ბოლო 2 წელი)",
+     "ar": "كشف درجات المرحلة الثانوية (آخر سنتين)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof (B2)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი (B2)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (B2)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance test",
+     "ka": "მისაღები გამოცდა",
+     "ar": "اختبار القبول"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma recognition (CIMEA statement or declaration of value)",
+     "ka": "დიპლომის აღიარება (CIMEA-ს დასკვნა ან ღირებულების დეკლარაცია)",
+     "ar": "معادلة الشهادة (بيان CIMEA أو إعلان القيمة)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Pre-enrolment on Universitaly (visa applicants)",
+     "ka": "წინასწარი რეგისტრაცია Universitaly-ზე (ვიზის მაძიებლებისთვის)",
+     "ar": "التسجيل المسبق على منصة Universitaly (لمقدمي التأشيرة)"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Entrance scholarships for exceptional bachelor students (EUR 10,000 a year, renewable)",
+    "url": "https://www.unive.it/scholarships",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "italy",
+   "venice",
+   "venezia",
+   "languages",
+   "economics",
+   "english-taught",
+   "scholarship"
+  ],
+  "sources": [
+   "https://apply.unive.it",
+   "https://apply.unive.it/courses/course/270-ba-economics-and-business",
+   "https://www.unive.it/pag/fileadmin/user_upload/inglese/international/doc/degree-seeking/CaFoscari_EnglishDegreeProgrammes.pdf",
+   "https://www.unive.it/pag/40813/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "free-university-of-bozen-bolzano",
+  "name": {
+   "en": "Free University of Bozen-Bolzano",
+   "ka": "ბოლცანოს თავისუფალი უნივერსიტეტი",
+   "ar": "جامعة بولزانو الحرة"
+  },
+  "iso": "IT",
+  "city": "Bolzano",
+  "lat": 46.4983,
+  "lon": 11.3548,
+  "type": "public",
+  "website": "https://www.unibz.it",
+  "platform": "Direct (unibz application portal) + Universitaly pre-enrolment",
+  "application_url": "https://www.unibz.it/en/faculties/economics-management/bachelor-economics-management",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-04-28",
+  "deadline_note": "2027/28: non-EU applicants living abroad have one window, 1 March to 28 April 2027 (noon); there is no late round for them. Other programmes list slightly different dates, so check the page of your degree.",
+  "tuition_intl": {
+   "amount": 1200,
+   "currency": "EUR",
+   "per": "year",
+   "note": "About EUR 1,200 a year in two instalments of EUR 600 (Economics and Management page, 2027/28); the page lists no separate non-EU fee."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Italian",
+   "German",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Foreign certificates count if obtained after 12 years of education and you attended at least the last two years in that foreign school system. American, British and Greek certificates follow separate ministry rules.",
+   "ka": "უცხოური სერტიფიკატი მიიღება, თუ ის 12 წლიანი განათლების შემდეგაა მიღებული და ბოლო ორი წელი მაინც ამ უცხოურ სასკოლო სისტემაში გაიარეთ. ამერიკული, ბრიტანული და ბერძნული სერტიფიკატები ცალკე სამინისტრო წესებს ექვემდებარება.",
+   "ar": "تُعد الشهادة الأجنبية معادلة إذا نُلتت بعد 12 سنة تعليمية وتابعتَ آخر سنتين على الأقل في ذلك النظام المدرسي الأجنبي. تخضع الشهادات الأمريكية والبريطانية واليونانية لقواعد وزارية منفصلة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "unibz language exams (B2 in first and second language)",
+   "Admission interview or portfolio (some degrees)",
+   "TOLC-I / CEnT-S (Engineering)"
+  ],
+  "fields": [
+   "business",
+   "computer-science",
+   "engineering",
+   "arts-design",
+   "education",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Economics and Management",
+    "Computer Science",
+    "Engineering",
+    "Design and Art",
+    "Social Education",
+    "Communication Sciences"
+   ],
+   "ka": [
+    "ეკონომიკა და მენეჯმენტი",
+    "კომპიუტერული მეცნიერება",
+    "ინჟინერია",
+    "დიზაინი და ხელოვნება",
+    "სოციალური განათლება",
+    "კომუნიკაციის მეცნიერებები"
+   ],
+   "ar": [
+    "الاقتصاد والإدارة",
+    "علوم الحاسوب",
+    "الهندسة",
+    "التصميم والفن",
+    "التربية الاجتماعية",
+    "علوم الاتصال"
+   ]
+  },
+  "summary": {
+   "en": "A small public university in South Tyrol with trilingual teaching in Italian, German and English. Tuition is about EUR 1,200 a year, but non-EU places are few and the application window is short.",
+   "ka": "სამხრეთ ტიროლში მდებარე პატარა სახელმწიფო უნივერსიტეტი იტალიურ, გერმანულ და ინგლისურ ენებზე სწავლებით. სწავლის საფასური დაახლოებით 1200 ევროა წელიწადში, თუმცა ევროკავშირს გარეთ მცხოვრებთათვის ადგილები ცოტაა და განაცხადის პერიოდი მოკლეა.",
+   "ar": "جامعة حكومية صغيرة في جنوب تيرول بتدريس ثلاثي اللغات بالإيطالية والألمانية والإنجليزية. الرسوم نحو 1200 يورو سنوياً، لكن المقاعد المخصصة لغير الأوروبيين قليلة ونافذة التقديم قصيرة."
+  },
+  "about": {
+   "en": "unibz teaches in Italian, German and English across campuses in Bolzano, Bressanone and Brunico. Non-EU applicants living abroad get a small quota (5 places in Economics and Management, 4 in Computer Science) and one application window. Entry is by points from your last two school years plus language exams at B2 in two of the three languages. Some degrees use an interview, portfolio or entrance test. Tuition is about EUR 1,200 a year; the application fee is EUR 50.",
+   "ka": "unibz ასწავლის იტალიურ, გერმანულ და ინგლისურ ენებზე ბოლცანოს, ბრიქსენისა და ბრუნეკის კამპუსებზე. ევროკავშირს გარეთ მცხოვრებ აბიტურიენტებს მცირე კვოტა (ეკონომიკასა და მენეჯმენტში 5 ადგილი, კომპიუტერულ მეცნიერებაში 4) და განაცხადის ერთი პერიოდი აქვთ. მიღება ბოლო ორი სასკოლო წლის ქულებითა და სამი ენიდან ორში B2 დონის ენის გამოცდებით ხდება. ზოგ პროგრამაზე გასაუბრება, პორტფოლიო ან მისაღები ტესტია. სწავლის საფასური დაახლოებით 1200 ევროა წელიწადში; განაცხადის საფასური 50 ევროა.",
+   "ar": "تدرّس unibz بالإيطالية والألمانية والإنجليزية في حرمها ببولزانو وبريسانوني وبرونيكو. يحصل المتقدمون غير الأوروبيين المقيمون في الخارج على حصة صغيرة (5 مقاعد في الاقتصاد والإدارة و4 في علوم الحاسوب) ونافذة تقديم واحدة. يتم القبول بنقاط آخر سنتين دراسيتين مع اختبارات لغة بمستوى B2 في لغتين من الثلاث. تعتمد بعض البرامج على مقابلة أو ملف أعمال أو اختبار دخول. الرسوم نحو 1200 يورو سنوياً ورسوم التقديم 50 يورو."
+  },
+  "aid_intl": {
+   "en": "Foreign students holding an Italian government scholarship are exempt from tuition, and holders of a Province of Bozen-Bolzano scholarship may be refunded their fees.",
+   "ka": "იტალიის მთავრობის სტიპენდიის მქონე უცხოელი სტუდენტები სწავლის საფასურისგან თავისუფლდებიან, ბოლცანოს პროვინციის სტიპენდიანტებს კი საფასური შეიძლება დაუბრუნდეთ.",
+   "ar": "يُعفى الطلاب الأجانب الحاصلون على منحة الحكومة الإيطالية من الرسوم، وقد تُسترد رسوم حاملي منحة مقاطعة بولزانو."
+  },
+  "tests": {
+   "en": "Language exams (B2 in the first and second language) are mandatory. Economics and Management scores grades out of 33 points (21 needed); Design and Art, social programmes and Engineering use an interview, creative work or test.",
+   "ka": "ენის გამოცდები (B2 პირველ და მეორე ენაში) სავალდებულოა. ეკონომიკასა და მენეჯმენტში ნიშნები 33 ქულიანი სისტემით ფასდება (საჭიროა 21); დიზაინსა და ხელოვნებაში, სოციალურ პროგრამებსა და ინჟინერიაში გასაუბრება, შემოქმედებითი ნამუშევარი ან ტესტია.",
+   "ar": "اختبارات اللغة (B2 في اللغة الأولى والثانية) إلزامية. يحتسب الاقتصاد والإدارة الدرجات من 33 نقطة (يلزم 21)، وتعتمد برامج التصميم والفن والبرامج الاجتماعية والهندسة على مقابلة أو عمل إبداعي أو اختبار."
+  },
+  "gpa_note": {
+   "en": "Economics and Management needs at least 21 of 33 points, mostly from grade averages in the last two school years.",
+   "ka": "ეკონომიკასა და მენეჯმენტს სჭირდება მინიმუმ 21 ქულა 33-დან, ძირითადად ბოლო ორი სასკოლო წლის საშუალო ნიშნებიდან.",
+   "ar": "يتطلب الاقتصاد والإدارة 21 نقطة على الأقل من 33، معظمها من متوسط الدرجات في آخر سنتين دراسيتين."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (12 years of schooling)",
+     "ka": "საშუალო განათლების ატესტატი (12 წლიანი სწავლება)",
+     "ar": "شهادة الثانوية العامة (12 سنة دراسية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts (last 2 years)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ბოლო 2 წელი)",
+     "ar": "كشف درجات المرحلة الثانوية (آخر سنتين)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof (B2)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი (B2)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (B2)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Italian language proof (B2) for Italian-taught degrees",
+     "ka": "იტალიური ენის ცოდნის დამადასტურებელი საბუთი (B2) იტალიურენოვანი პროგრამებისთვის",
+     "ar": "إثبات إتقان اللغة الإيطالية (B2) للبرامج المدرَّسة بالإيطالية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Interview",
+     "ka": "გასაუბრება",
+     "ar": "مقابلة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Pre-enrolment on Universitaly (visa applicants)",
+     "ka": "წინასწარი რეგისტრაცია Universitaly-ზე (ვიზის მაძიებლებისთვის)",
+     "ar": "التسجيل المسبق على منصة Universitaly (لمقدمي التأشيرة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "italy",
+   "bolzano",
+   "south tyrol",
+   "trilingual",
+   "computer science",
+   "low tuition"
+  ],
+  "sources": [
+   "https://www.unibz.it/en/faculties/economics-management/bachelor-economics-management",
+   "https://www.unibz.it/en/faculties/engineering/bachelor-computer-science",
+   "https://www.unibz.it/en/faculties/design-art/bachelor-design"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universita-politecnica-delle-marche",
+  "name": {
+   "en": "Universita' Politecnica delle Marche",
+   "ka": "Università Politecnica delle Marche (მარკეს პოლიტექნიკური უნივერსიტეტი)",
+   "ar": "جامعة ماركي التقنية (Università Politecnica delle Marche)"
+  },
+  "iso": "IT",
+  "city": "Ancona",
+  "lat": 43.6158,
+  "lon": 13.5189,
+  "type": "public",
+  "website": "https://www.univpm.it",
+  "platform": "UNIVPM move-in portal (pre-evaluation) + Universitaly pre-enrolment",
+  "application_url": "https://www.international.univpm.it/international-admissions/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-01-30",
+  "deadline_note": "2026/27: first call 16 Dec 2025 to 30 Jan 2026; further calls to 30 Jun 2026, and a 4th call (1-31 July 2026) listing Georgia among eligible countries. 2027/28 dates are not published yet.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Fixed part EUR 156 (regional tax and stamp duty) plus a variable part by course and ISEE (equalised ISEE for foreign students). Paid in three instalments."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Italian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A diploma with at least 12 years of schooling and transcripts of the last 2 years are required; with 10 or 11 years you need a foundation year or one full year of university with 60 ECTS.",
+   "ka": "საჭიროა დიპლომი მინიმუმ 12 წლიანი სწავლებით და ბოლო 2 წლის ნიშნების ამონაწერი; 10 ან 11 წლიანი სწავლების შემთხვევაში foundation წელი ან უნივერსიტეტის სრული წელი (60 ECTS) გჭირდებათ.",
+   "ar": "يُشترط شهادة بعد 12 سنة دراسية على الأقل وكشف درجات آخر سنتين؛ ومع 10 أو 11 سنة يلزم سنة تأسيسية أو سنة جامعية كاملة (60 ECTS)."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Italian B2 (CSAL test, CLIQ certificate or ITA-L2 score 43/72)",
+   "English B2 for English-taught degrees",
+   "Admission test for restricted-access degrees"
+  ],
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "economics",
+   "natural-sciences",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Medicine and Surgery",
+    "Economics",
+    "Agricultural and Food Sciences",
+    "Marine Biology",
+    "Biomedical Engineering"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მედიცინა და ქირურგია",
+    "ეკონომიკა",
+    "აგრარული და სასურსათო მეცნიერებები",
+    "საზღვაო ბიოლოგია",
+    "ბიოსამედიცინო ინჟინერია"
+   ],
+   "ar": [
+    "الهندسة",
+    "الطب والجراحة",
+    "الاقتصاد",
+    "العلوم الزراعية والغذائية",
+    "الأحياء البحرية",
+    "الهندسة الطبية الحيوية"
+   ]
+  },
+  "summary": {
+   "en": "A public technical and medical university on the Adriatic coast. Two bachelors are fully in English (Digital Economics and Business; Environmental Sciences and Civil Protection), and most others need Italian B2.",
+   "ka": "ადრიატიკის სანაპიროზე მდებარე სახელმწიფო ტექნიკური და სამედიცინო უნივერსიტეტი. ორი ბაკალავრის პროგრამა მთლიანად ინგლისურადაა (Digital Economics and Business; Environmental Sciences and Civil Protection), დანარჩენების უმეტესობას კი იტალიურის B2 სჭირდება.",
+   "ar": "جامعة حكومية تقنية وطبية على ساحل الأدرياتيكي. يُدرَّس برنامجا بكالوريوس بالكامل بالإنجليزية (Digital Economics and Business؛ Environmental Sciences and Civil Protection)، ومعظم البرامج الأخرى تتطلب الإيطالية بمستوى B2."
+  },
+  "about": {
+   "en": "UNIVPM has campuses in Ancona and nearby towns. Every international student first sends a pre-evaluation application on its move-in portal (EUR 10 per application, up to two). The committee checks your preparation and your diploma, then visa students pre-enrol on Universitaly. Free-access bachelors are mostly in Italian (Italian B2); the English-taught ones need English B2. Medicine and health bachelors are restricted-access and closed to non-EU visa applicants.",
+   "ka": "UNIVPM-ს კამპუსები ანკონასა და მეზობელ ქალაქებშია. ყველა უცხოელი სტუდენტი ჯერ move-in პორტალზე აგზავნის წინასწარი შეფასების განაცხადს (10 ევრო თითო განაცხადზე, მაქსიმუმ ორი). კომისია აფასებს თქვენს მომზადებასა და დიპლომს, შემდეგ კი ვიზის მაძიებლები Universitaly-ზე რეგისტრირდებიან. ღია მიღების ბაკალავრიატი ძირითადად იტალიურადაა (იტალიურის B2); ინგლისურენოვანზე ინგლისურის B2 სჭირდება. მედიცინისა და ჯანდაცვის ბაკალავრიატი შეზღუდული მიღებისაა და ვიზის მაძიებელი არაევროპელებისთვის დახურულია.",
+   "ar": "لجامعة ماركي التقنية فروع في أنكونا والبلدات المجاورة. يرسل كل طالب دولي أولاً طلب تقييم مسبق عبر بوابة move-in (10 يورو لكل طلب وبحد أقصى طلبين). تقيّم اللجنة إعدادك وشهادتك ثم يسجل طلاب التأشيرة مسبقاً على Universitaly. برامج البكالوريوس مفتوحة القبول معظمها بالإيطالية (B2)، وتلك بالإنجليزية تتطلب B2 في الإنجليزية. برامج الطب والصحة محدودة القبول ومغلقة أمام غير الأوروبيين الذين يحتاجون تأشيرة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة في الصفحات التي جرت مراجعتها."
+  },
+  "tests": {
+   "en": "Italian-taught degrees need Italian B2 (university test, PLIDA/CELI/CERT.IT/CILS, or ITA-L2 43/72). English-taught degrees need English B2. Passing the requirement does not guarantee admission.",
+   "ka": "იტალიურენოვან პროგრამებს იტალიურის B2 სჭირდება (უნივერსიტეტის ტესტი, PLIDA/CELI/CERT.IT/CILS ან ITA-L2 43/72). ინგლისურენოვან პროგრამებს ინგლისურის B2. მოთხოვნის დაკმაყოფილება მიღებას არ გარანტირებს.",
+   "ar": "تتطلب البرامج بالإيطالية مستوى B2 (اختبار الجامعة أو PLIDA/CELI/CERT.IT/CILS أو ITA-L2 بدرجة 43/72). وتتطلب البرامج بالإنجليزية مستوى B2. استيفاء الشرط لا يضمن القبول."
+  },
+  "gpa_note": {
+   "en": "Each application is judged on grades, previous studies and motivation; no minimum grade is published.",
+   "ka": "თითოეული განაცხადი ფასდება ნიშნების, წინა სწავლისა და მოტივაციის მიხედვით; მინიმალური ნიშანი გამოქვეყნებული არ არის.",
+   "ar": "يُقيَّم كل طلب بحسب الدرجات والدراسة السابقة والدافع؛ ولا يوجد حد أدنى للدرجات منشور."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (12 years of schooling)",
+     "ka": "საშუალო განათლების ატესტატი (12 წლიანი სწავლება)",
+     "ar": "شهادة الثانوية العامة (12 سنة دراسية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts (last 2 years)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ბოლო 2 წელი)",
+     "ar": "كشف درجات المرحلة الثانوية (آخر سنتين)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma recognition (CIMEA statement or declaration of value)",
+     "ka": "დიპლომის აღიარება (CIMEA-ს დასკვნა ან ღირებულების დეკლარაცია)",
+     "ar": "معادلة الشهادة (بيان CIMEA أو إعلان القيمة)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof (B2)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი (B2)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (B2)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Italian language proof (B2) for Italian-taught degrees",
+     "ka": "იტალიური ენის ცოდნის დამადასტურებელი საბუთი (B2) იტალიურენოვანი პროგრამებისთვის",
+     "ar": "إثبات إتقان اللغة الإيطالية (B2) للبرامج المدرَّسة بالإيطالية"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Motivation letter",
+     "ka": "სამოტივაციო წერილი",
+     "ar": "خطاب الدافع"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Pre-enrolment on Universitaly (visa applicants)",
+     "ka": "წინასწარი რეგისტრაცია Universitaly-ზე (ვიზის მაძიებლებისთვის)",
+     "ar": "التسجيل المسبق على منصة Universitaly (لمقدمي التأشيرة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "italy",
+   "ancona",
+   "marche",
+   "engineering",
+   "medicine",
+   "english-taught",
+   "georgia call"
+  ],
+  "sources": [
+   "https://www.international.univpm.it/international-admissions/",
+   "https://www.international.univpm.it/wp-content/uploads/2025/12/UNIVPM-ADMISSION-GUIDELINES_movein_2026-2027-1.pdf",
+   "https://www.univpm.it/Entra/Universita_Politecnica_delle_Marche_Home/Tasse_e_agevolazioni/Tuition_and_Fees"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-bari",
+  "name": {
+   "en": "University of Bari",
+   "ka": "ბარის უნივერსიტეტი",
+   "ar": "جامعة باري"
+  },
+  "iso": "IT",
+  "city": "Bari",
+  "lat": 41.1171,
+  "lon": 16.8719,
+  "type": "public",
+  "website": "https://www.uniba.it",
+  "platform": "apply.uniba.it (DreamApply pre-evaluation) + Universitaly pre-enrolment",
+  "application_url": "https://apply.uniba.it/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Deadlines are set each year: open-access degrees have their own pre-enrolment dates, and limited-place degrees follow their entrance-exam deadline. The dates for 2027/28 are not published yet.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "No amounts on the pages checked. Fees are paid in four instalments and calculated with an online simulator; non-EU students abroad submit an equalised ISEE by 31 January. Refugees are exempt."
+  },
+  "acceptance_rate": null,
+  "students": 50000,
+  "intl_pct": null,
+  "languages": [
+   "Italian",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A diploma after at least 12 years of study that gives access to university in the issuing country is required, with a CIMEA statement or declaration of value.",
+   "ka": "საჭიროა დიპლომი მინიმუმ 12 წლიანი სწავლების შემდეგ, რომელიც გამცემ ქვეყანაში უნივერსიტეტში შესვლის უფლებას იძლევა, CIMEA-ს დასკვნით ან ღირებულების დეკლარაციით.",
+   "ar": "يُشترط شهادة بعد 12 سنة دراسية على الأقل تتيح دخول الجامعة في بلد الإصدار، مع بيان CIMEA أو إعلان القيمة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Italian language test (CLA) for Italian-taught degrees",
+   "Skills assessment test for open-access degrees",
+   "Entrance tests for limited-access degrees"
+  ],
+  "fields": [
+   "medicine-health",
+   "law",
+   "natural-sciences",
+   "humanities",
+   "economics",
+   "languages"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Law",
+    "Biology",
+    "Economics",
+    "Languages and Cultures",
+    "Statistics"
+   ],
+   "ka": [
+    "მედიცინა",
+    "სამართალი",
+    "ბიოლოგია",
+    "ეკონომიკა",
+    "ენები და კულტურები",
+    "სტატისტიკა"
+   ],
+   "ar": [
+    "الطب",
+    "القانون",
+    "الأحياء",
+    "الاقتصاد",
+    "اللغات والثقافات",
+    "الإحصاء"
+   ]
+  },
+  "summary": {
+   "en": "One of the largest public universities in southern Italy, with over 50,000 students. Most bachelors found are in Italian, so Italian proof is needed; fees are not listed on the pages checked.",
+   "ka": "სამხრეთ იტალიის ერთ-ერთი უდიდესი სახელმწიფო უნივერსიტეტი, 50 000-ზე მეტი სტუდენტით. ნაპოვნი ბაკალავრის პროგრამების უმეტესობა იტალიურადაა, ამიტომ იტალიურის დადასტურებაა საჭირო; საფასური შემოწმებულ გვერდებზე მითითებული არ არის.",
+   "ar": "من أكبر الجامعات الحكومية في جنوب إيطاليا ويزيد عدد طلابها على 50,000. معظم برامج البكالوريوس التي وُجدت بالإيطالية لذا يلزم إثبات اللغة الإيطالية؛ ولم تُدرج الرسوم في الصفحات التي جرت مراجعتها."
+  },
+  "about": {
+   "en": "The University of Bari Aldo Moro was founded in 1925 and has over 50,000 students. Foreign-diploma applicants first request a pre-evaluation on apply.uniba.it (EUR 20, non-refundable) with a CIMEA statement or declaration of value. After a positive result they pre-enrol on Universitaly for the visa. Italian-taught degrees need an Italian test from the university language centre. Open-access degrees still require a skills test, which does not block enrolment.",
+   "ka": "ბარის ალდო მოროს უნივერსიტეტი 1925 წელს დაარსდა და 50 000-ზე მეტი სტუდენტი ჰყავს. უცხოური დიპლომის მქონე აბიტურიენტები ჯერ apply.uniba.it-ზე ითხოვენ წინასწარ შეფასებას (20 ევრო, უკან არ ბრუნდება) CIMEA-ს დასკვნით ან ღირებულების დეკლარაციით. დადებითი შედეგის შემდეგ ვიზისთვის Universitaly-ზე რეგისტრირდებიან. იტალიურენოვან პროგრამებზე უნივერსიტეტის ენის ცენტრის იტალიურის ტესტია საჭირო. ღია მიღების პროგრამებზეც უნარების შემოწმების ტესტი სავალდებულოა, თუმცა ის ჩარიცხვას არ ბლოკავს.",
+   "ar": "تأسست جامعة باري ألدو مورو عام 1925 ويزيد عدد طلابها على 50,000. يطلب أصحاب الشهادات الأجنبية أولاً تقييماً مسبقاً عبر apply.uniba.it (20 يورو غير مستردة) مع بيان CIMEA أو إعلان القيمة. وبعد النتيجة الإيجابية يسجلون مسبقاً على Universitaly للتأشيرة. تتطلب البرامج بالإيطالية اختبار لغة إيطالية من مركز اللغات بالجامعة. وتتطلب البرامج مفتوحة القبول اختبار مهارات لا يمنع التسجيل."
+  },
+  "aid_intl": {
+   "en": "Students with refugee status are fully exempt from fees; no other dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "ლტოლვილის სტატუსის მქონე სტუდენტები საფასურისგან სრულად თავისუფლდებიან; შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის სხვა სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "يُعفى الطلاب الحاصلون على صفة لاجئ من الرسوم بالكامل؛ ولا توجد مساعدات مخصصة أخرى لطلاب البكالوريوس الدوليين في الصفحات التي جرت مراجعتها."
+  },
+  "tests": {
+   "en": "Non-EU students abroad take the university's Italian test for Italian-taught degrees unless they hold a CLIQ B2 certificate. Limited-access degrees use an entrance test; open-access ones use a skills test.",
+   "ka": "ევროკავშირს გარეთ მყოფი სტუდენტები იტალიურენოვან პროგრამებზე უნივერსიტეტის იტალიურის ტესტს აბარებენ, თუ CLIQ B2 სერტიფიკატი არ აქვთ. შეზღუდული მიღების პროგრამებზე მისაღები ტესტია, ღია მიღებისაზე კი უნარების ტესტი.",
+   "ar": "يجتاز الطلاب غير الأوروبيين المقيمون في الخارج اختبار الإيطالية الخاص بالجامعة للبرامج بالإيطالية ما لم يحملوا شهادة CLIQ بمستوى B2. تعتمد البرامج محدودة القبول على اختبار قبول، ومفتوحة القبول على اختبار مهارات."
+  },
+  "gpa_note": {
+   "en": "A 12-year diploma that allows university entry at home is required; the pages checked set no minimum grade.",
+   "ka": "საჭიროა 12 წლიანი დიპლომი, რომელიც სამშობლოში უნივერსიტეტში შესვლის უფლებას იძლევა; შემოწმებულ გვერდებზე მინიმალური ნიშანი განსაზღვრული არ არის.",
+   "ar": "يُشترط شهادة مدتها 12 سنة تتيح دخول الجامعة في بلدك؛ ولا تحدد الصفحات التي جرت مراجعتها حداً أدنى للدرجات."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (12 years of schooling)",
+     "ka": "საშუალო განათლების ატესტატი (12 წლიანი სწავლება)",
+     "ar": "شهادة الثانوية العامة (12 سنة دراسية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts (last 2 years)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ბოლო 2 წელი)",
+     "ar": "كشف درجات المرحلة الثانوية (آخر سنتين)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma recognition (CIMEA statement or declaration of value)",
+     "ka": "დიპლომის აღიარება (CIMEA-ს დასკვნა ან ღირებულების დეკლარაცია)",
+     "ar": "معادلة الشهادة (بيان CIMEA أو إعلان القيمة)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Italian language proof (B2) for Italian-taught degrees",
+     "ka": "იტალიური ენის ცოდნის დამადასტურებელი საბუთი (B2) იტალიურენოვანი პროგრამებისთვის",
+     "ar": "إثبات إتقان اللغة الإيطالية (B2) للبرامج المدرَّسة بالإيطالية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance test",
+     "ka": "მისაღები გამოცდა",
+     "ar": "اختبار القبول"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Pre-enrolment on Universitaly (visa applicants)",
+     "ka": "წინასწარი რეგისტრაცია Universitaly-ზე (ვიზის მაძიებლებისთვის)",
+     "ar": "التسجيل المسبق على منصة Universitaly (لمقدمي التأشيرة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "italy",
+   "bari",
+   "puglia",
+   "southern italy",
+   "medicine",
+   "law",
+   "large university"
+  ],
+  "sources": [
+   "https://www.uniba.it/it/studenti/segreterie-studenti/studenti-stranieri/intern-2.pdf",
+   "https://apply.uniba.it/",
+   "https://www.uniba.it/en/education/bachelor-degree"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-messina-unime",
+  "name": {
+   "en": "University of Messina (UniME)",
+   "ka": "მესინის უნივერსიტეტი (UniME)",
+   "ar": "جامعة ميسينا (UniME)"
+  },
+  "iso": "IT",
+  "city": "Messina",
+  "lat": 38.1938,
+  "lon": 15.554,
+  "type": "public",
+  "website": "https://www.unime.it",
+  "platform": "UniME Application Portal (pre-evaluation) + Universitaly pre-enrolment",
+  "application_url": "https://international.unime.it/study-us/application-and-admission",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-12-20",
+  "deadline_note": "2027/28 non-EU visa applicants: 1st call (early bird, only with final documents, language certificate and DoV/CIMEA ready) 1 to 20 Dec 2026; 2nd call 2 Feb to 19 Mar 2027; 3rd call 8 Apr to 8 May 2027.",
+  "tuition_intl": {
+   "amount": 506,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Maximum of four country groups: A EUR 156, B EUR 256, C EUR 356, D EUR 506 (from 2025/26). Application fee EUR 40 for up to two applications (2027/28)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Italian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A secondary diploma recognised by a CIMEA statement or declaration of value is needed. With fewer than 12 school years, the UniME Foundation Course gives direct entry to open-access bachelors.",
+   "ka": "საჭიროა საშუალო განათლების დიპლომი, რომელიც CIMEA-ს დასკვნით ან ღირებულების დეკლარაციით არის აღიარებული. 12 წელზე ნაკლები სწავლებისას UniME Foundation Course ღია მიღების ბაკალავრიატზე პირდაპირ შესვლის საშუალებას იძლევა.",
+   "ar": "يلزم شهادة ثانوية معترف بها ببيان CIMEA أو إعلان القيمة. ومع أقل من 12 سنة دراسية تتيح الدورة التأسيسية في UniME الدخول المباشر إلى برامج البكالوريوس مفتوحة القبول."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "IMAT (English-taught Medicine and Surgery)",
+   "UniME ITA-Test (Italian B2)"
+  ],
+  "fields": [
+   "medicine-health",
+   "law",
+   "engineering",
+   "natural-sciences",
+   "social-sciences",
+   "economics"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine and Surgery",
+    "Marine Biology",
+    "Civil Engineering",
+    "Political Sciences",
+    "Law",
+    "Business Management"
+   ],
+   "ka": [
+    "მედიცინა და ქირურგია",
+    "საზღვაო ბიოლოგია",
+    "სამოქალაქო ინჟინერია",
+    "პოლიტიკური მეცნიერებები",
+    "სამართალი",
+    "ბიზნეს მენეჯმენტი"
+   ],
+   "ar": [
+    "الطب والجراحة",
+    "الأحياء البحرية",
+    "الهندسة المدنية",
+    "العلوم السياسية",
+    "القانون",
+    "إدارة الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Sicily with seven English-taught bachelors and very low fees: EUR 156 to EUR 506 a year by country group. Non-EU applicants need an admission letter before the visa step.",
+   "ka": "სიცილიაში მდებარე სახელმწიფო უნივერსიტეტი შვიდი ინგლისურენოვანი ბაკალავრის პროგრამით და ძალიან დაბალი საფასურით: წელიწადში 156-დან 506 ევრომდე ქვეყნის ჯგუფის მიხედვით. ევროკავშირს გარეთ მცხოვრებ აბიტურიენტებს ვიზის ეტაპამდე მიღების წერილი სჭირდებათ.",
+   "ar": "جامعة حكومية في صقلية فيها سبعة برامج بكالوريوس بالإنجليزية ورسوم منخفضة جداً: من 156 إلى 506 يورو سنوياً بحسب مجموعة البلد. يحتاج المتقدمون غير الأوروبيين إلى خطاب قبول قبل خطوة التأشيرة."
+  },
+  "about": {
+   "en": "The University of Messina teaches bachelors in English in Business Management, Civil Engineering, Data Analysis, Heritage Innovation Engineering, Marine Biology and Blue Biotechnologies, Political Sciences and International Relations, and Transnational and European Legal Studies. Applicants register on the UniME portal, pay the application fee and upload documents; a positive result gives an admission letter, after which they pre-enrol on Universitaly for the D visa. English B2 is needed for English-taught degrees and Italian B2 for Italian-taught ones.",
+   "ka": "მესინის უნივერსიტეტში ბაკალავრიატი ინგლისურად ისწავლება ბიზნეს მენეჯმენტში, სამოქალაქო ინჟინერიაში, მონაცემთა ანალიზში, Heritage Innovation Engineering-ში, საზღვაო ბიოლოგიასა და Blue Biotechnologies-ში, პოლიტიკურ მეცნიერებებსა და საერთაშორისო ურთიერთობებში და ტრანსნაციონალურ და ევროპულ სამართლებრივ კვლევებში. აბიტურიენტები UniME-ს პორტალზე რეგისტრირდებიან, იხდიან განაცხადის საფასურს და ტვირთავენ დოკუმენტებს; დადებითი შედეგისას ღებულობენ მიღების წერილს, რის შემდეგაც D ვიზისთვის Universitaly-ზე რეგისტრირდებიან. ინგლისურენოვან პროგრამებზე ინგლისურის B2 სჭირდება, იტალიურენოვანზე კი იტალიურის B2.",
+   "ar": "تُدرَّس بالإنجليزية في جامعة ميسينا برامج بكالوريوس في إدارة الأعمال والهندسة المدنية وتحليل البيانات وهندسة ابتكار التراث والأحياء البحرية والتقنيات الحيوية الزرقاء والعلوم السياسية والعلاقات الدولية والدراسات القانونية عبر الوطنية والأوروبية. يسجل المتقدمون على بوابة UniME ويدفعون رسوم التقديم ويرفعون الوثائق؛ وعند النتيجة الإيجابية يحصلون على خطاب قبول ثم يسجلون مسبقاً على Universitaly لتأشيرة D. يلزم مستوى B2 في الإنجليزية للبرامج بالإنجليزية وB2 في الإيطالية للبرامج بالإيطالية."
+  },
+  "aid_intl": {
+   "en": "Fees are cut by country group (EUR 156 for the poorest countries); the pages checked do not describe other scholarships for international bachelor students.",
+   "ka": "საფასური ქვეყნების ჯგუფის მიხედვით მცირდება (ყველაზე ღარიბი ქვეყნებისთვის 156 ევრო); შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის სხვა სტიპენდიები აღწერილი არ არის.",
+   "ar": "تُخفَّض الرسوم بحسب مجموعة البلد (156 يورو لأفقر البلدان)؛ ولا تصف الصفحات التي جرت مراجعتها منحاً أخرى لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "English-taught degrees need an English B2 certificate; Italian-taught ones need Italian B2 or the UniME ITA-Test. Medicine and Surgery in English uses the IMAT.",
+   "ka": "ინგლისურენოვან პროგრამებს ინგლისურის B2 სერტიფიკატი სჭირდება; იტალიურენოვანს — იტალიურის B2 ან UniME ITA-Test. ინგლისურენოვანი მედიცინა და ქირურგია IMAT-ს იყენებს.",
+   "ar": "تتطلب البرامج بالإنجليزية شهادة B2 في الإنجليزية، والبرامج بالإيطالية B2 في الإيطالية أو اختبار UniME ITA-Test. يستخدم الطب والجراحة بالإنجليزية اختبار IMAT."
+  },
+  "gpa_note": {
+   "en": "Incomplete applications or those not meeting entry and language requirements are rejected; no minimum grade is published.",
+   "ka": "არასრული განაცხადები ან ისინი, რომლებიც შესვლისა და ენის მოთხოვნებს არ აკმაყოფილებს, უარყოფილია; მინიმალური ნიშანი გამოქვეყნებული არ არის.",
+   "ar": "تُرفض الطلبات غير المكتملة أو التي لا تستوفي شروط القبول واللغة؛ ولا يوجد حد أدنى للدرجات منشور."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (12 years of schooling)",
+     "ka": "საშუალო განათლების ატესტატი (12 წლიანი სწავლება)",
+     "ar": "شهادة الثانوية العامة (12 سنة دراسية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts (last 2 years)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ბოლო 2 წელი)",
+     "ar": "كشف درجات المرحلة الثانوية (آخر سنتين)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma recognition (CIMEA statement or declaration of value)",
+     "ka": "დიპლომის აღიარება (CIMEA-ს დასკვნა ან ღირებულების დეკლარაცია)",
+     "ar": "معادلة الشهادة (بيان CIMEA أو إعلان القيمة)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof (B2)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი (B2)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (B2)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Italian language proof (B2) for Italian-taught degrees",
+     "ka": "იტალიური ენის ცოდნის დამადასტურებელი საბუთი (B2) იტალიურენოვანი პროგრამებისთვის",
+     "ar": "إثبات إتقان اللغة الإيطالية (B2) للبرامج المدرَّسة بالإيطالية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Pre-enrolment on Universitaly (visa applicants)",
+     "ka": "წინასწარი რეგისტრაცია Universitaly-ზე (ვიზის მაძიებლებისთვის)",
+     "ar": "التسجيل المسبق على منصة Universitaly (لمقدمي التأشيرة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "italy",
+   "messina",
+   "sicily",
+   "low tuition",
+   "english-taught",
+   "marine biology"
+  ],
+  "sources": [
+   "https://international.unime.it/study-us/application-and-admission",
+   "https://international.unime.it/study-us/english-taught-programmes",
+   "https://international.unime.it/study-us/fees-and-fundings",
+   "https://international.unime.it/study-us/how-enrol"
+  ],
+  "verified_at": "2026-11-01"
+ }
+]

@@ -1,0 +1,2086 @@
+[
+ {
+  "id": "czech-technical-university-in-prague",
+  "name": {
+   "en": "Czech Technical University in Prague",
+   "ka": "პრაღის ჩეხეთის ტექნიკური უნივერსიტეტი (ČVUT)",
+   "ar": "الجامعة التقنية التشيكية في براغ"
+  },
+  "iso": "CZ",
+  "city": "Prague",
+  "lat": 50.1036,
+  "lon": 14.3897,
+  "type": "public",
+  "website": "https://cvut.cz",
+  "platform": "Direct (online application to each faculty) + recognition of the school diploma",
+  "application_url": "https://fjfi.cvut.cz/en/applicants/bachelors-degree/admission-procedure-bachelors-studies-and-follow-masters-studies",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-06-30",
+  "deadline_note": "Faculty of Nuclear Sciences and Physical Engineering accepts applications until 30 June 2027 (2027/28). Other faculties set their own dates: Biomedical Engineering and Informatics closed 31 March in 2026/27, Transportation Sciences 31 March, Mechanical Engineering wants documents by 30 June.",
+  "tuition_intl": {
+   "amount": 110000,
+   "currency": "CZK",
+   "per": "year",
+   "note": "Mechanical Engineering and Nuclear Sciences: 110,000 CZK a year. Biomedical Engineering and Informatics: 55,000 CZK a semester. Information Technology: 64,000 CZK a semester. Fees differ by faculty."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Czech",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A foreign school certificate must be recognised in Czechia. For Mechanical Engineering the Prague City Council validates it; small differences from the Czech curriculum mean a validation exam. For 2026/27 the Biomedical Engineering faculty accepted a recognition certificate from the CTU Rector's Office. Rules for A-level, IB and US diplomas are not published.",
+   "ka": "უცხოური სკოლის ატესტატი ჩეხეთში უნდა აღიარდეს. მანქანათმშენებლობის ფაკულტეტზე მას პრაღის მუნიციპალიტეტი ამოწმებს; ჩეხური პროგრამისგან მცირე განსხვავების შემთხვევაში საჭიროა დამატებითი გამოცდა. A-level-ის, IB-სა და აშშ-ის დიპლომის შესახებ წესები გამოქვეყნებული არ არის.",
+   "ar": "يجب الاعتراف بشهادة الثانوية الأجنبية في التشيك. في كلية الهندسة الميكانيكية يتولى مجلس مدينة براغ التحقق منها، وإذا كانت هناك فروق بسيطة عن المنهج التشيكي يُطلب امتحان تكميلي. قواعد A-level وIB والدبلوم الأمريكي غير منشورة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 5.5,
+  "toefl_min": 65,
+  "duolingo_min": null,
+  "other_tests": [
+   "English B2 certificate or Teams interview (Biomedical Engineering)"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "mathematics"
+  ],
+  "strengths": {
+   "en": [
+    "Mechanical Engineering",
+    "Nuclear Sciences and Physical Engineering",
+    "Information Technology",
+    "Biomedical Engineering and Informatics",
+    "Transportation Sciences"
+   ],
+   "ka": [
+    "მანქანათმშენებლობა",
+    "ბირთვული მეცნიერებები და ფიზიკური ინჟინერია",
+    "ინფორმაციული ტექნოლოგიები",
+    "ბიომედიცინის ინჟინერია და ინფორმატიკა",
+    "სატრანსპორტო მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة الميكانيكية",
+    "العلوم النووية والهندسة الفيزيائية",
+    "تكنولوجيا المعلومات",
+    "الهندسة الطبية الحيوية والمعلوماتية",
+    "علوم النقل"
+   ]
+  },
+  "summary": {
+   "en": "The largest technical university in Czechia, in Prague. English bachelor programmes charge about 110,000 CZK a year at several faculties.",
+   "ka": "ჩეხეთის უდიდესი ტექნიკური უნივერსიტეტი პრაღაში. ინგლისურენოვანი ბაკალავრიატის საფასური რამდენიმე ფაკულტეტზე წელიწადში დაახლოებით 110 000 CZK-ია.",
+   "ar": "أكبر جامعة تقنية في التشيك وتقع في براغ. تبلغ رسوم برامج البكالوريوس بالإنجليزية نحو 110,000 كرونة تشيكية سنويًا في عدة كليات."
+  },
+  "about": {
+   "en": "CTU in Prague is a public technical university with several faculties, each running its own admission. Some bachelor programmes are taught in English, including mechanical engineering, nuclear engineering, information technology and biomedical informatics. Each faculty sets its own deadline, fee and language rule, usually B2 English. A foreign school certificate must be recognised in Czechia before enrolment. Tuition for English study is about 110,000 CZK a year at several faculties; Czech-taught study is free.",
+   "ka": "პრაღის ჩეხეთის ტექნიკური უნივერსიტეტი საჯარო უნივერსიტეტია რამდენიმე ფაკულტეტით და თითოეული ფაკულტეტი მისაღებს ცალკე ატარებს. ბაკალავრიატის ზოგი პროგრამა ინგლისურადაა, მათ შორის მანქანათმშენებლობა, ბირთვული ინჟინერია, ინფორმაციული ტექნოლოგიები და ბიომედიცინის ინფორმატიკა. ვადას, საფასურსა და ენობრივ მოთხოვნას (ჩვეულებრივ B2) თითოეული ფაკულტეტი თავად ადგენს. უცხოური ატესტატი ჩეხეთში უნდა აღიარდეს. ინგლისურენოვანი სწავლა რამდენიმე ფაკულტეტზე წელიწადში დაახლოებით 110 000 CZK ღირს; ჩეხურენოვანი სწავლა უფასოა.",
+   "ar": "جامعة براغ التقنية جامعة حكومية تضم عدة كليات، وتدير كل كلية القبول بنفسها. بعض برامج البكالوريوس بالإنجليزية، ومنها الهندسة الميكانيكية والهندسة النووية وتكنولوجيا المعلومات والمعلوماتية الطبية الحيوية. تحدد كل كلية موعدها ورسومها وشرط اللغة، وهو عادة مستوى B2. يجب الاعتراف بالشهادة الثانوية الأجنبية في التشيك قبل التسجيل. تبلغ رسوم الدراسة بالإنجليزية نحو 110,000 كرونة سنويًا في عدة كليات، أما الدراسة بالتشيكية فمجانية."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Most bachelor programmes need no entrance exam; Biomedical Engineering asks for a motivation letter and an English interview. Proof of English at B2 (IELTS 5.5, TOEFL iBT 65) is usually required.",
+   "ka": "ბაკალავრიატის უმეტეს პროგრამაზე მისაღები გამოცდა არ არის; ბიომედიცინის ინჟინერიაზე საჭიროა მოტივაციის წერილი და ინგლისურად გასაუბრება. ჩვეულებრივ მოითხოვება ინგლისურის B2 დონე (IELTS 5.5, TOEFL iBT 65).",
+   "ar": "لا تتطلب معظم برامج البكالوريوس امتحان قبول؛ وتطلب الهندسة الطبية الحيوية رسالة دافع ومقابلة بالإنجليزية. يُطلب عادة إثبات مستوى B2 في الإنجليزية (IELTS 5.5 وTOEFL iBT 65)."
+  },
+  "gpa_note": {
+   "en": "No minimum grades are published; applicants need a school certificate that gives access to university in their country.",
+   "ka": "მინიმალური ქულა გამოქვეყნებული არ არის; საჭიროა ატესტატი, რომელიც მოსწავლეს საკუთარ ქვეყანაში უნივერსიტეტში შესვლის უფლებას აძლევს.",
+   "ar": "لا توجد درجات دنيا منشورة؛ يلزم حيازة شهادة ثانوية تتيح الالتحاق بالجامعة في بلد الطالب."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (nostrification) of the school diploma",
+     "ka": "სკოლის დიპლომის აღიარება (ნოსტრიფიკაცია)",
+     "ar": "الاعتراف بشهادة الثانوية (النوستريفيكاسيا)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English (B2 or equivalent)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი (B2 ან ექვივალენტი)",
+     "ar": "إثبات إجادة اللغة الإنجليزية (مستوى B2 أو ما يعادله)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Motivation letter",
+     "ka": "მოტივაციის წერილი",
+     "ar": "رسالة الدافع"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Online interview",
+     "ka": "ონლაინ გასაუბრება",
+     "ar": "مقابلة عبر الإنترنت"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical fitness certificate",
+     "ka": "ჯანმრთელობის ცნობა",
+     "ar": "شهادة اللياقة الطبية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "czechia",
+   "prague",
+   "engineering",
+   "technical",
+   "english bachelor"
+  ],
+  "sources": [
+   "https://fjfi.cvut.cz/en/applicants/bachelors-degree/admission-procedure-bachelors-studies-and-follow-masters-studies",
+   "https://www.fs.cvut.cz/en/prospective-students/application-process/basic-information/",
+   "https://www.fbmi.cvut.cz/en/admissions/how-to-apply",
+   "https://fit.cvut.cz/en/studies/study-guide/bachelor-and-master-study-program/tuition-fee-payment"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "masaryk-university",
+  "name": {
+   "en": "Masaryk University",
+   "ka": "მასარიკის უნივერსიტეტი",
+   "ar": "جامعة ماساريك"
+  },
+  "iso": "CZ",
+  "city": "Brno",
+  "lat": 49.1996,
+  "lon": 16.6008,
+  "type": "public",
+  "website": "https://www.muni.cz",
+  "platform": "Direct (MU e-application)",
+  "application_url": "https://www.muni.cz/en/admissions/bachelors-and-masters-studies/how-to-apply",
+  "intakes": [
+   "September",
+   "February"
+  ],
+  "deadline": null,
+  "deadline_note": "Deadlines depend on the faculty and the year is not stated: Science 1 Nov to 28 Feb, Informatics and Economics 15 Dec to 30 Apr, Social Studies 1 Nov to 15 May, Pharmacy (non-EU) to 31 May. Some faculties also have a February intake.",
+  "tuition_intl": {
+   "amount": 3000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "From 3,000 EUR (Social Studies) to 7,500 EUR (Pharmacy); Informatics 4,500 EUR; Arts 76,000 CZK; Economics 100,000-120,000 CZK; General Medicine 380,000 CZK. Czech-taught study is free."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Czech",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Applicants must prove completed secondary education; foreign school certificates need an Apostille or legalisation. Details are on MU's page on verifying the admission condition.",
+   "ka": "განმცხადებელმა უნდა დაადასტუროს საშუალო განათლების დასრულება; უცხოურ ატესტატს სჭირდება აპოსტილი ან ლეგალიზაცია. დეტალები MU-ს გვერდზეა, სადაც მისაღები პირობის გადამოწმებაა აღწერილი.",
+   "ar": "على المتقدم إثبات إتمام التعليم الثانوي، وتحتاج الشهادة الأجنبية إلى أبوستيل أو تصديق. التفاصيل في صفحة الجامعة الخاصة بالتحقق من شرط القبول."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Faculty entrance exam or online interview"
+  ],
+  "fields": [
+   "natural-sciences",
+   "social-sciences",
+   "computer-science",
+   "economics",
+   "humanities",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Informatics",
+    "Social Studies",
+    "Science",
+    "Economics and Administration",
+    "Arts",
+    "Medicine"
+   ],
+   "ka": [
+    "ინფორმატიკა",
+    "სოციალური მეცნიერებები",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ეკონომიკა და ადმინისტრირება",
+    "ხელოვნების ფაკულტეტი",
+    "მედიცინა"
+   ],
+   "ar": [
+    "المعلوماتية",
+    "الدراسات الاجتماعية",
+    "العلوم",
+    "الاقتصاد والإدارة",
+    "الآداب",
+    "الطب"
+   ]
+  },
+  "summary": {
+   "en": "A large public research university in Brno. English bachelor fees run from about 3,000 EUR a year, and each faculty sets its own entry rules.",
+   "ka": "ბრნოს დიდი საჯარო სამეცნიერო უნივერსიტეტი. ინგლისურენოვანი ბაკალავრიატის საფასური დაახლოებით წელიწადში 3 000 ევროდან იწყება, ხოლო მისაღებ წესებს თითოეული ფაკულტეტი თავად ადგენს.",
+   "ar": "جامعة بحثية حكومية كبيرة في برنو. تبدأ رسوم البكالوريوس بالإنجليزية من نحو 3,000 يورو سنويًا، وتضع كل كلية شروط القبول الخاصة بها."
+  },
+  "about": {
+   "en": "Masaryk University is a large public university in Brno. It offers bachelor programmes in English at the faculties of Science, Arts, Education, Economics, Informatics and Social Studies. Applicants apply through the MU e-application and then follow their faculty's steps, such as an entrance exam, essay or online interview. B2 English is asked by several faculties. Tuition is charged per year and differs by faculty, from about 3,000 EUR; Czech-taught programmes are free.",
+   "ka": "მასარიკის უნივერსიტეტი ბრნოში მდებარე დიდი საჯარო უნივერსიტეტია. ბაკალავრიატის ინგლისურენოვანი პროგრამები არსებობს მეცნიერების, ხელოვნების, განათლების, ეკონომიკის, ინფორმატიკისა და სოციალური მეცნიერებების ფაკულტეტებზე. განაცხადი MU-ს ელექტრონული სისტემით იგზავნება, შემდეგ კი საჭიროა ფაკულტეტის ეტაპები, მაგალითად მისაღები გამოცდა, ესე ან ონლაინ გასაუბრება. რამდენიმე ფაკულტეტი ინგლისურის B2 დონეს ითხოვს. საფასური წლიურია და ფაკულტეტის მიხედვით განსხვავდება, დაახლოებით 3 000 ევროდან; ჩეხურენოვანი პროგრამები უფასოა.",
+   "ar": "جامعة ماساريك جامعة حكومية كبيرة في برنو. تقدم برامج بكالوريوس بالإنجليزية في كليات العلوم والآداب والتربية والاقتصاد والمعلوماتية والدراسات الاجتماعية. يُقدَّم الطلب عبر نظام MU الإلكتروني ثم تُتبع خطوات الكلية مثل امتحان القبول أو مقال أو مقابلة عبر الإنترنت. تطلب عدة كليات مستوى B2 في الإنجليزية. الرسوم سنوية وتختلف حسب الكلية بدءًا من نحو 3,000 يورو، أما البرامج بالتشيكية فمجانية."
+  },
+  "aid_intl": {
+   "en": "Faculties offer their own aid and there is an accommodation scholarship for full-time first-degree students; no general fee waiver for English programmes is published.",
+   "ka": "ფაკულტეტებს საკუთარი დახმარება აქვთ და სრულ განაკვეთზე მოსწავლე პირველი ხარისხის სტუდენტებისთვის არსებობს საცხოვრებლის სტიპენდია; ინგლისურ პროგრამებზე საერთო გათავისუფლება გამოქვეყნებული არ არის.",
+   "ar": "تقدم الكليات مساعدات خاصة بها، وتوجد منحة سكن لطلاب الدرجة الأولى بدوام كامل؛ ولا يُنشر إعفاء عام من الرسوم للبرامج الإنجليزية."
+  },
+  "tests": {
+   "en": "Depends on the faculty: Informatics holds an entrance exam, Social Studies an exam or online interview, Economics an essay. B2 English proof is requested by Informatics and Social Studies.",
+   "ka": "ფაკულტეტზეა დამოკიდებული: ინფორმატიკას მისაღები გამოცდა აქვს, სოციალურ მეცნიერებებს გამოცდა ან ონლაინ გასაუბრება, ეკონომიკას — ესე. ინფორმატიკასა და სოციალურ მეცნიერებებზე საჭიროა ინგლისურის B2.",
+   "ar": "يختلف حسب الكلية: المعلوماتية تجري امتحان قبول، والدراسات الاجتماعية امتحانًا أو مقابلة عبر الإنترنت، والاقتصاد مقالًا. تطلب المعلوماتية والدراسات الاجتماعية إثبات مستوى B2 في الإنجليزية."
+  },
+  "gpa_note": {
+   "en": "No minimum grade is published; Informatics asks for a transcript with course syllabi and Pharmacy needs at least 40 test points.",
+   "ka": "მინიმალური ქულა გამოქვეყნებული არ არის; ინფორმატიკა ითხოვს უწყისს და კურსების სილაბუსებს, ფარმაცია კი ტესტში მინიმუმ 40 ქულას.",
+   "ar": "لا توجد درجة دنيا منشورة؛ تطلب المعلوماتية كشف درجات مع توصيف المقررات، وتشترط الصيدلة 40 نقطة على الأقل في الاختبار."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებების ჯამური უწყისი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (nostrification) of the school diploma",
+     "ka": "სკოლის დიპლომის აღიარება (ნოსტრიფიკაცია)",
+     "ar": "الاعتراف بشهادة الثانوية (النوستريفيكاسيا)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English (B2 or equivalent)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი (B2 ან ექვივალენტი)",
+     "ar": "إثبات إجادة اللغة الإنجليزية (مستوى B2 أو ما يعادله)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Motivation letter",
+     "ka": "მოტივაციის წერილი",
+     "ar": "رسالة الدافع"
+    }
+   },
+   {
+    "key": "essay",
+    "label": {
+     "en": "Essay",
+     "ka": "ესე",
+     "ar": "مقال"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV",
+     "ka": "CV (რეზიუმე)",
+     "ar": "السيرة الذاتية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Online interview",
+     "ka": "ონლაინ გასაუბრება",
+     "ar": "مقابلة عبر الإنترنت"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Faculty scholarships and accommodation scholarship",
+    "url": "https://www.muni.cz/en/admissions/bachelors-and-masters-studies/tuition-fees-and-financial-aid",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "czechia",
+   "brno",
+   "english bachelor",
+   "informatics",
+   "social studies"
+  ],
+  "sources": [
+   "https://www.muni.cz/en/admissions/bachelors-and-masters-studies/how-to-apply",
+   "https://www.muni.cz/en/admissions/bachelors-and-masters-studies/tuition-fees-and-financial-aid",
+   "https://www.muni.cz/en/admissions/bachelors-and-masters-studies"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "brno-university-of-technology",
+  "name": {
+   "en": "Brno University of Technology",
+   "ka": "ბრნოს ტექნიკური უნივერსიტეტი",
+   "ar": "جامعة برنو للتكنولوجيا"
+  },
+  "iso": "CZ",
+  "city": "Brno",
+  "lat": 49.2014,
+  "lon": 16.5984,
+  "type": "public",
+  "website": "https://www.vut.cz",
+  "platform": "Direct (BUT e-application)",
+  "application_url": "https://www.vut.cz/en/study-options/degree-studies-en",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "The 2027/28 date is not published yet. For 2026/27 applications ran from 1 November 2025 to 31 March 2026 at most faculties; the general deadline is 31 March.",
+  "tuition_intl": {
+   "amount": 4500,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Electrical Engineering: 4,500 EUR for non-EU students (1,000 EUR for EU). Older FAQ page: Civil Engineering and Mechanical Engineering 3,000 EUR, Architecture 3,800 EUR. Business and Management 9,200 EUR for non-EU (older figure). BUT states a 1,000-9,000 EUR range."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Czech",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Foreign school certificates are assessed by the faculty (a fee applies, 750 CZK at Electrical Engineering for 2026/27) with certified copies; some countries need superlegalisation. Bachelor programmes generally set no previous-grade requirement.",
+   "ka": "უცხოური ატესტატს ფაკულტეტი აფასებს (საფასური ეკისრება; 2026/27 წელს ელექტროინჟინერიაზე 750 CZK) და საჭიროა დამოწმებული ასლები; ზოგ ქვეყანას სუპერლეგალიზაცია სჭირდება. ბაკალავრიატზე, როგორც წესი, წინა ნიშნების მოთხოვნა არ არის.",
+   "ar": "تقيّم الكلية الشهادة الثانوية الأجنبية (برسوم؛ 750 كرونة في كلية الهندسة الكهربائية لعام 2026/27) بنسخ مصدقة، وبعض الدول تتطلب تصديقًا إضافيًا. لا تضع برامج البكالوريوس عادة شرطًا للدرجات السابقة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 5.5,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Faculty entrance exam or document-based admission"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "economics",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Electrical Engineering",
+    "Mechanical Engineering",
+    "Civil Engineering",
+    "Architecture",
+    "Business and Management"
+   ],
+   "ka": [
+    "ელექტროინჟინერია",
+    "მანქანათმშენებლობა",
+    "სამოქალაქო ინჟინერია",
+    "არქიტექტურა",
+    "ბიზნესი და მენეჯმენტი"
+   ],
+   "ar": [
+    "الهندسة الكهربائية",
+    "الهندسة الميكانيكية",
+    "الهندسة المدنية",
+    "العمارة",
+    "الأعمال والإدارة"
+   ]
+  },
+  "summary": {
+   "en": "A large technical university in Brno. English bachelor programmes cost from 1,000 to about 9,000 EUR a year, with non-EU fees at the higher end.",
+   "ka": "ბრნოს დიდი ტექნიკური უნივერსიტეტი. ინგლისურენოვანი ბაკალავრიატი წელიწადში 1 000-დან დაახლოებით 9 000 ევრომდე ღირს, ევროკავშირის გარეთ მყოფებისთვის უფრო მაღალი საფასურით.",
+   "ar": "جامعة تقنية كبيرة في برنو. تتراوح رسوم البكالوريوس بالإنجليزية بين 1,000 ونحو 9,000 يورو سنويًا، وتكون رسوم الطلاب من خارج الاتحاد الأوروبي في الحد الأعلى."
+  },
+  "about": {
+   "en": "Brno University of Technology is a public university with several faculties and English bachelor programmes in architecture, civil engineering, electrical engineering, mechanical engineering and business. Each faculty runs its own admission through the BUT e-application. Applicants need B2 English (IELTS 5.5 to 6.5 equivalent) and, depending on the programme, an entrance exam or document-based admission. A foreign school certificate is assessed against the Czech system. Czech-taught study is free; English programmes charge 1,000 to 9,000 EUR a year.",
+   "ka": "ბრნოს ტექნიკური უნივერსიტეტი საჯარო უნივერსიტეტია რამდენიმე ფაკულტეტით და ბაკალავრიატის ინგლისურენოვანი პროგრამებით არქიტექტურაში, სამოქალაქო, ელექტრო და მექანიკურ ინჟინერიაში და ბიზნესში. მისაღებს თითოეული ფაკულტეტი BUT-ის ელექტრონული სისტემით ატარებს. საჭიროა ინგლისურის B2 დონე (IELTS 5.5–6.5-ის ექვივალენტი) და პროგრამის მიხედვით მისაღები გამოცდა ან დოკუმენტების შეფასება. უცხოური ატესტატი ჩეხურ სისტემასთან შედარებით ფასდება. ჩეხურენოვანი სწავლა უფასოა; ინგლისური პროგრამები წელიწადში 1 000–9 000 ევრო ღირს.",
+   "ar": "جامعة برنو للتكنولوجيا جامعة حكومية متعددة الكليات، ولديها برامج بكالوريوس بالإنجليزية في العمارة والهندسة المدنية والكهربائية والميكانيكية والأعمال. تدير كل كلية القبول عبر نظام BUT الإلكتروني. يلزم مستوى B2 في الإنجليزية (ما يعادل IELTS 5.5 إلى 6.5) ويُطلب بحسب البرنامج امتحان قبول أو قبول على أساس الوثائق. تُقيَّم الشهادة الثانوية الأجنبية مقارنة بالنظام التشيكي. الدراسة بالتشيكية مجانية، والبرامج الإنجليزية تتراوح رسومها بين 1,000 و9,000 يورو سنويًا."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the admission pages; a general scholarships page exists.",
+   "ka": "მისაღების გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული; არსებობს სტიპენდიების ზოგადი გვერდი.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين على صفحات القبول؛ وتوجد صفحة عامة للمنح."
+  },
+  "tests": {
+   "en": "Depends on the programme: an entrance exam plus an English exam, or document-based admission. English at B2 (IELTS 5.5 to 6.5) must be proven by a certificate or previous English-language education.",
+   "ka": "პროგრამის მიხედვით: მისაღები და ინგლისურის გამოცდა ან დოკუმენტებზე დაფუძნებული შერჩევა. ინგლისურის B2 დონე (IELTS 5.5–6.5) სერტიფიკატით ან ინგლისურენოვანი განათლებით უნდა დადასტურდეს.",
+   "ar": "يختلف حسب البرنامج: امتحان قبول مع امتحان إنجليزية، أو قبول على أساس الوثائق. يجب إثبات مستوى B2 (IELTS من 5.5 إلى 6.5) بشهادة أو بتعليم سابق بالإنجليزية."
+  },
+  "gpa_note": {
+   "en": "Bachelor programmes generally have no requirements about previous studies or grades.",
+   "ka": "ბაკალავრიატზე, როგორც წესი, წინა სწავლისა და ნიშნების მოთხოვნები არ არის.",
+   "ar": "لا تضع برامج البكالوريوس عادة شروطًا تخص الدراسة السابقة أو الدرجات."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (nostrification) of the school diploma",
+     "ka": "სკოლის დიპლომის აღიარება (ნოსტრიფიკაცია)",
+     "ar": "الاعتراف بشهادة الثانوية (النوستريفيكاسيا)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English (B2 or equivalent)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი (B2 ან ექვივალენტი)",
+     "ar": "إثبات إجادة اللغة الإنجليزية (مستوى B2 أو ما يعادله)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "BUT scholarships",
+    "url": "https://www.vut.cz/en/students/scholarships",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "czechia",
+   "brno",
+   "engineering",
+   "architecture",
+   "english bachelor"
+  ],
+  "sources": [
+   "https://www.vut.cz/en/students/admission-office/faq",
+   "https://www.fekt.vut.cz/en/applicants/studies_in_english/fees",
+   "https://www.vut.cz/en/study-options/recognition",
+   "https://www.vut.cz/en/study-options/degree-studies-en"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-chemistry-and-technology-prague",
+  "name": {
+   "en": "University of Chemistry and Technology, Prague",
+   "ka": "პრაღის ქიმიისა და ტექნოლოგიის უნივერსიტეტი",
+   "ar": "جامعة الكيمياء والتكنولوجيا في براغ"
+  },
+  "iso": "CZ",
+  "city": "Prague",
+  "lat": 50.1046,
+  "lon": 14.3917,
+  "type": "public",
+  "website": "https://www.vscht.cz",
+  "platform": "Direct (UCT Prague online application)",
+  "application_url": "https://study.vscht.cz/admission-proceedings",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "The 2027/28 dates are not published yet. For 2026/27 the application period ran from 1 December to 31 January, with an online exam on 16 February and results by 15 March.",
+  "tuition_intl": {
+   "amount": 84500,
+   "currency": "CZK",
+   "per": "year",
+   "note": "2026/27: Chemistry 84,500 CZK (about 3,500 EUR); Economics 110,000 CZK (about 4,530 EUR). Amount stays fixed for the whole programme."
+  },
+  "acceptance_rate": null,
+  "students": 4310,
+  "intl_pct": 26.4,
+  "languages": [
+   "Czech",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Admitted applicants complete recognition of their foreign school diploma (800 CZK) or send a Czech nostrification certificate; copies need an apostille or superlegalisation and translation. Paper copies for non-EU applicants are due by 15 June.",
+   "ka": "მიღებულმა განმცხადებლებმა უცხოური ატესტატის აღიარება უნდა გაიარონ (800 CZK) ან ჩეხური ნოსტრიფიკაციის ცნობა წარადგინონ; ასლებს სჭირდება აპოსტილი ან სუპერლეგალიზაცია და თარგმანი. ევროკავშირის გარეთ მყოფებმა ქაღალდის ასლები 15 ივნისამდე უნდა გაგზავნონ.",
+   "ar": "على المقبولين إتمام الاعتراف بشهادتهم الثانوية الأجنبية (800 كرونة) أو إرسال شهادة نوستريفيكاسيا تشيكية؛ وتحتاج النسخ إلى أبوستيل أو تصديق إضافي وترجمة. يجب أن تصل النسخ الورقية من غير مواطني الاتحاد الأوروبي قبل 15 يونيو."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "UCT online exam in Mathematics and Chemistry",
+   "Online selection interview"
+  ],
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "economics",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Chemistry",
+    "Chemical Engineering",
+    "Materials",
+    "Medicinal and Organic Chemistry",
+    "Economics and Management"
+   ],
+   "ka": [
+    "ქიმია",
+    "ქიმიური ინჟინერია",
+    "მასალათმცოდნეობა",
+    "სამედიცინო და ორგანული ქიმია",
+    "ეკონომიკა და მენეჯმენტი"
+   ],
+   "ar": [
+    "الكيمياء",
+    "الهندسة الكيميائية",
+    "المواد",
+    "الكيمياء الطبية والعضوية",
+    "الاقتصاد والإدارة"
+   ]
+  },
+  "summary": {
+   "en": "A small public university in Prague focused on chemistry, chemical engineering and materials. English bachelor fees are 84,500 to 110,000 CZK a year.",
+   "ka": "პრაღის პატარა საჯარო უნივერსიტეტი, რომელიც ქიმიაზე, ქიმიურ ინჟინერიასა და მასალებზეა ორიენტირებული. ინგლისურენოვანი ბაკალავრიატის საფასური წელიწადში 84 500–110 000 CZK-ია.",
+   "ar": "جامعة حكومية صغيرة في براغ متخصصة في الكيمياء والهندسة الكيميائية والمواد. تتراوح رسوم البكالوريوس بالإنجليزية بين 84,500 و110,000 كرونة سنويًا."
+  },
+  "about": {
+   "en": "UCT Prague is a public university with about 4,300 students, over a quarter of them from abroad. English bachelor programmes cover chemistry, materials and economics and management, in 3 or 4 years. There is one application round (1 December to 31 January). Applicants pay 3,000 CZK, sit an online maths and chemistry exam and an interview, and must recognise their school diploma. English tuition is 84,500 CZK a year for Chemistry and 110,000 CZK for Economics.",
+   "ka": "პრაღის ქიმიისა და ტექნოლოგიის უნივერსიტეტი საჯარო უნივერსიტეტია დაახლოებით 4 300 სტუდენტით, რომელთა მეოთხედზე მეტი უცხოელია. ბაკალავრიატის ინგლისური პროგრამები მოიცავს ქიმიას, მასალებს და ეკონომიკასა და მენეჯმენტს (3 ან 4 წელი). განაცხადის ერთი ეტაპია (1 დეკემბრიდან 31 იანვრამდე). განმცხადებელი იხდის 3 000 CZK-ს, ონლაინ აბარებს მათემატიკასა და ქიმიაში და გადის გასაუბრებას, ასევე უნდა აღიაროს ატესტატი. ინგლისურენოვანი სწავლა ქიმიაზე 84 500 CZK-ია, ეკონომიკაზე — 110 000 CZK წელიწადში.",
+   "ar": "جامعة الكيمياء والتكنولوجيا في براغ جامعة حكومية يبلغ عدد طلابها نحو 4,300، أكثر من ربعهم من الخارج. تغطي برامج البكالوريوس بالإنجليزية الكيمياء والمواد والاقتصاد والإدارة لمدة 3 أو 4 سنوات. هناك جولة تقديم واحدة (من 1 ديسمبر إلى 31 يناير). يدفع المتقدم 3,000 كرونة ويجري امتحانًا إلكترونيًا في الرياضيات والكيمياء ومقابلة، ويجب الاعتراف بشهادته الثانوية. الرسوم 84,500 كرونة سنويًا للكيمياء و110,000 للاقتصاد."
+  },
+  "aid_intl": {
+   "en": "A scholarship page exists on the UCT site, but no dedicated aid for international bachelor students is published.",
+   "ka": "UCT-ის საიტზე არსებობს სტიპენდიის გვერდი, მაგრამ უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "توجد صفحة منح على موقع الجامعة، لكن لا تُنشر منحة مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Online entrance exam in Mathematics and Chemistry (16 February in 2026) and an online selection interview. No English score is stated for the Chemistry bachelor.",
+   "ka": "ონლაინ მისაღები გამოცდა მათემატიკასა და ქიმიაში (2026 წელს 16 თებერვალი) და ონლაინ გასაუბრება. ქიმიის ბაკალავრიატისთვის ინგლისურის ქულა მითითებული არ არის.",
+   "ar": "امتحان قبول إلكتروني في الرياضيات والكيمياء (16 فبراير في عام 2026) ومقابلة اختيار عبر الإنترنت. لا تُذكر درجة إنجليزية لبكالوريوس الكيمياء."
+  },
+  "gpa_note": {
+   "en": "Applicants must be 18 by mid-February of the first year; admission is based on the exam, interview and documents.",
+   "ka": "განმცხადებელს პირველი წლის თებერვლის შუა რიცხვებისთვის 18 წელი უნდა შესრულებოდეს; მიღება ეფუძნება გამოცდას, გასაუბრებას და დოკუმენტებს.",
+   "ar": "يجب أن يبلغ المتقدم 18 عامًا بحلول منتصف فبراير من السنة الأولى؛ ويعتمد القبول على الامتحان والمقابلة والوثائق."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (nostrification) of the school diploma",
+     "ka": "სკოლის დიპლომის აღიარება (ნოსტრიფიკაცია)",
+     "ar": "الاعتراف بشهادة الثانوية (النوستريفيكاسيا)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Online interview",
+     "ka": "ონლაინ გასაუბრება",
+     "ar": "مقابلة عبر الإنترنت"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "UCT Prague scholarships",
+    "url": "https://study.vscht.cz/studying-at-uct/scholarship",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "czechia",
+   "prague",
+   "chemistry",
+   "materials",
+   "english bachelor"
+  ],
+  "sources": [
+   "https://study.vscht.cz/admission-proceedings",
+   "https://study.vscht.cz/studying-at-uct/tuition-fees",
+   "https://study.vscht.cz/degree-programmes/bachelor",
+   "https://www.vscht.cz/about-us/uct-prague-in-numbers"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "palacky-university-olomouc",
+  "name": {
+   "en": "Palacký University Olomouc",
+   "ka": "პალაცკის უნივერსიტეტი ოლომოუცში",
+   "ar": "جامعة بالاكي في أولوموك"
+  },
+  "iso": "CZ",
+  "city": "Olomouc",
+  "lat": 49.5938,
+  "lon": 17.2509,
+  "type": "public",
+  "website": "https://www.upol.cz",
+  "platform": "Direct (UP online application)",
+  "application_url": "https://international.upol.cz/en/admissions-office/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-03-15",
+  "deadline_note": "Faculty of Science: English bachelor applications 1 November 2026 to 15 March 2027 (2027/28). Health Sciences (Physiotherapy) runs to 31 July 2027. Education and Arts used 15 and 31 March in earlier cycles, so confirm for 2027/28.",
+  "tuition_intl": {
+   "amount": 2000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Depends on the programme: English Language for Education 2,000 EUR, English Philology 4,200 EUR, Physiotherapy 8,000 EUR. Science fees are listed on the faculty page. Czech-taught study is free."
+  },
+  "acceptance_rate": null,
+  "students": 23132,
+  "intl_pct": 11.6,
+  "languages": [
+   "Czech",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Education earned abroad must be proven and assessed for admission; documents are legalised according to the country (apostille or superlegalisation). The university assesses it without a separate nostrification for admission.",
+   "ka": "საზღვარგარეთ მიღებული განათლება უნდა დადასტურდეს და მისაღებისთვის შეფასდეს; დოკუმენტები ქვეყნის მიხედვით ლეგალიზდება (აპოსტილი ან სუპერლეგალიზაცია). მისაღებისთვის ცალკე ნოსტრიფიკაცია საჭირო არ არის.",
+   "ar": "يجب إثبات التعليم الحاصل عليه في الخارج وتقييمه لغرض القبول؛ وتُصدَّق الوثائق بحسب البلد (أبوستيل أو تصديق إضافي). تقيّمه الجامعة دون نوستريفيكاسيا منفصلة لغرض القبول."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Faculty entrance exam (Science)",
+   "English B2 certificate (Arts)"
+  ],
+  "fields": [
+   "natural-sciences",
+   "medicine-health",
+   "humanities",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Science",
+    "Medicine and Dentistry",
+    "Health Sciences",
+    "Arts and Humanities",
+    "Education",
+    "Law"
+   ],
+   "ka": [
+    "საბუნებისმეტყველო მეცნიერებები",
+    "მედიცინა და სტომატოლოგია",
+    "ჯანდაცვის მეცნიერებები",
+    "ხელოვნება და ჰუმანიტარული მეცნიერებები",
+    "განათლება",
+    "სამართალი"
+   ],
+   "ar": [
+    "العلوم",
+    "الطب وطب الأسنان",
+    "العلوم الصحية",
+    "الآداب والعلوم الإنسانية",
+    "التربية",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Olomouc founded in 1573, with 23,132 students. English bachelor fees start at about 2,000 EUR a year and depend on the faculty.",
+   "ka": "ოლომოუცის საჯარო უნივერსიტეტი, დაარსებული 1573 წელს, 23 132 სტუდენტით. ინგლისურენოვანი ბაკალავრიატის საფასური წელიწადში დაახლოებით 2 000 ევროდან იწყება და ფაკულტეტზეა დამოკიდებული.",
+   "ar": "جامعة حكومية في أولوموك تأسست عام 1573 ويدرس فيها 23,132 طالبًا. تبدأ رسوم البكالوريوس بالإنجليزية من نحو 2,000 يورو سنويًا وتختلف حسب الكلية."
+  },
+  "about": {
+   "en": "Palacký University is a public university in Olomouc with eight faculties and 2,677 international students from 88 countries (2025). English bachelor programmes exist in science, physiotherapy, English philology and teacher education. Each faculty runs its own application, with fees of 33 to 60 EUR and deadlines between March and July. Foreign education is assessed for admission only. Tuition is paid per year and varies by programme, from about 2,000 EUR; Czech-taught study is free.",
+   "ka": "პალაცკის უნივერსიტეტი ოლომოუცის საჯარო უნივერსიტეტია რვა ფაკულტეტით და 88 ქვეყნის 2 677 უცხოელი სტუდენტით (2025). ბაკალავრიატის ინგლისური პროგრამებია მეცნიერებაში, ფიზიოთერაპიაში, ინგლისურ ფილოლოგიასა და პედაგოგიკაში. თითოეული ფაკულტეტი განაცხადს ცალკე იღებს: საფასური 33–60 ევროა, ვადები მარტიდან ივლისამდე. უცხოური განათლება მხოლოდ მისაღებისთვის ფასდება. სწავლის საფასური წლიურია და პროგრამის მიხედვით განსხვავდება, დაახლოებით 2 000 ევროდან; ჩეხურენოვანი სწავლა უფასოა.",
+   "ar": "جامعة بالاكي جامعة حكومية في أولوموك لديها ثماني كليات و2,677 طالبًا دوليًا من 88 دولة (2025). توجد برامج بكالوريوس بالإنجليزية في العلوم والعلاج الطبيعي والفيلولوجيا الإنجليزية وإعداد المعلمين. تدير كل كلية التقديم بنفسها برسوم من 33 إلى 60 يورو ومواعيد بين مارس ويوليو. يُقيَّم التعليم الأجنبي لغرض القبول فقط. الرسوم سنوية وتختلف حسب البرنامج بدءًا من نحو 2,000 يورو، والدراسة بالتشيكية مجانية."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Science holds an entrance exam; Arts asks for English at B2. Other faculties publish their own rules.",
+   "ka": "საბუნებისმეტყველო ფაკულტეტზე მისაღები გამოცდაა; ხელოვნების ფაკულტეტი ინგლისურის B2 დონეს ითხოვს. სხვა ფაკულტეტები საკუთარ წესებს აქვეყნებენ.",
+   "ar": "تجري كلية العلوم امتحان قبول، وتطلب كلية الآداب مستوى B2 في الإنجليزية. تنشر الكليات الأخرى قواعدها الخاصة."
+  },
+  "gpa_note": {
+   "en": "No minimum grades are published; applicants must prove completed secondary education.",
+   "ka": "მინიმალური ნიშნები გამოქვეყნებული არ არის; განმცხადებელმა საშუალო განათლების დასრულება უნდა დაადასტუროს.",
+   "ar": "لا توجد درجات دنيا منشورة؛ على المتقدم إثبات إتمام التعليم الثانوي."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებების ჯამური უწყისი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English (B2 or equivalent)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი (B2 ან ექვივალენტი)",
+     "ar": "إثبات إجادة اللغة الإنجليزية (مستوى B2 أو ما يعادله)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "czechia",
+   "olomouc",
+   "physiotherapy",
+   "science",
+   "english bachelor"
+  ],
+  "sources": [
+   "https://www.upol.cz/en/university/basic-information/",
+   "https://www.prf.upol.cz/en/prospective-students/",
+   "https://international.upol.cz/en/admissions-office/",
+   "https://www.studuj.upol.cz/en/study-programmes/",
+   "https://www.fzv.upol.cz/en/admissions/bachelor-programmes/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "czech-university-of-life-sciences-in-prague",
+  "name": {
+   "en": "Czech University of Life Sciences in Prague",
+   "ka": "პრაღის ჩეხეთის სიცოცხლის მეცნიერებათა უნივერსიტეტი (CZU)",
+   "ar": "الجامعة التشيكية لعلوم الحياة في براغ"
+  },
+  "iso": "CZ",
+  "city": "Prague",
+  "lat": 50.1344,
+  "lon": 14.3722,
+  "type": "public",
+  "website": "https://www.czu.cz",
+  "platform": "Direct (CZU application system)",
+  "application_url": "https://study.czu.cz/admission/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-01-15",
+  "deadline_note": "Faculty of Environmental Sciences: applications 15 September 2026 to 15 January 2027 (2027/28). Faculty of Economics and Management opens further windows up to 31 March 2027. Other faculties set their own dates.",
+  "tuition_intl": {
+   "amount": 1000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Faculty of Engineering 2025/26: 1,000 EUR for non-EU, 500 EUR for EU. Each faculty sets its own fees; the CZU study site shows 1,000 to 2,600 a year for three programmes (currency not stated)."
+  },
+  "acceptance_rate": null,
+  "students": 20000,
+  "intl_pct": null,
+  "languages": [
+   "Czech",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "The secondary school graduation certificate must be recognised by CZU's recognition authority before admission. The rules are on the university's recognition page.",
+   "ka": "საშუალო სკოლის დამთავრების ატესტატი მიღებამდე CZU-ს აღიარების ორგანომ უნდა აღიაროს. წესები უნივერსიტეტის აღიარების გვერდზეა.",
+   "ar": "يجب أن تعترف الجهة المختصة في الجامعة بشهادة إتمام الثانوية قبل القبول. القواعد في صفحة الاعتراف بالجامعة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "SCIO GAP test (Environmental Sciences)"
+  ],
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "economics",
+   "engineering",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Agriculture and Food",
+    "Forestry",
+    "Environmental Engineering",
+    "Business Administration",
+    "Agricultural Engineering",
+    "Informatics"
+   ],
+   "ka": [
+    "სოფლის მეურნეობა და საკვები",
+    "სატყეო მეურნეობა",
+    "გარემოსდაცვითი ინჟინერია",
+    "ბიზნესის ადმინისტრირება",
+    "სასოფლო-სამეურნეო ინჟინერია",
+    "ინფორმატიკა"
+   ],
+   "ar": [
+    "الزراعة والغذاء",
+    "الغابات",
+    "هندسة البيئة",
+    "إدارة الأعمال",
+    "الهندسة الزراعية",
+    "المعلوماتية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Prague with about 20,000 students, strong in agriculture, forestry, environment and business. About 15 bachelor fields are taught in English; fees vary by faculty and start near 1,000 EUR a year for non-EU students.",
+   "ka": "პრაღის საჯარო უნივერსიტეტი დაახლოებით 20 000 სტუდენტით, ძლიერია სოფლის მეურნეობაში, სატყეო საქმეში, გარემოსა და ბიზნესში. ბაკალავრიატის დაახლოებით 15 მიმართულება ინგლისურადაა; საფასური ფაკულტეტის მიხედვით განსხვავდება და ევროკავშირის გარეთ მყოფებისთვის დაახლოებით 1 000 ევროდან იწყება.",
+   "ar": "جامعة حكومية في براغ يدرس فيها نحو 20,000 طالب، قوية في الزراعة والغابات والبيئة والأعمال. يُدرَّس نحو 15 تخصص بكالوريوس بالإنجليزية، وتختلف الرسوم حسب الكلية وتبدأ من نحو 1,000 يورو سنويًا لغير مواطني الاتحاد الأوروبي."
+  },
+  "about": {
+   "en": "The Czech University of Life Sciences is a public university in Prague-Suchdol with about 20,000 students. About 15 bachelor fields are taught in English, including business administration, economics and management, informatics, agriculture, forestry and environmental engineering. Faculties run their own rounds, entrance tests (for example the SCIO GAP test) and fees. The application fee is 850 CZK. The school certificate must be recognised, and non-EU students need a visa, which can take up to 60 days.",
+   "ka": "ჩეხეთის სიცოცხლის მეცნიერებათა უნივერსიტეტი პრაღა-სუხდოლში მდებარე საჯარო უნივერსიტეტია დაახლოებით 20 000 სტუდენტით. ბაკალავრიატის დაახლოებით 15 მიმართულება ინგლისურადაა, მათ შორის ბიზნესის ადმინისტრირება, ეკონომიკა და მენეჯმენტი, ინფორმატიკა, სოფლის მეურნეობა, სატყეო საქმე და გარემოსდაცვითი ინჟინერია. ფაკულტეტები თავად ადგენენ ეტაპებს, ტესტებს (მაგ. SCIO GAP) და საფასურს. განაცხადის საფასური 850 CZK-ია. ატესტატი უნდა აღიარდეს, ხოლო ევროკავშირის გარეთ მყოფებს ვიზა სჭირდებათ, რაც 60 დღემდე შეიძლება გაგრძელდეს.",
+   "ar": "الجامعة التشيكية لعلوم الحياة جامعة حكومية في براغ-سوخدول يدرس فيها نحو 20,000 طالب. يُدرَّس نحو 15 تخصص بكالوريوس بالإنجليزية، منها إدارة الأعمال والاقتصاد والإدارة والمعلوماتية والزراعة والغابات والهندسة البيئية. تحدد الكليات جولاتها واختباراتها (مثل اختبار SCIO GAP) ورسومها. رسوم التقديم 850 كرونة. يجب الاعتراف بالشهادة الثانوية، ويحتاج غير مواطني الاتحاد الأوروبي إلى تأشيرة قد تستغرق حتى 60 يومًا."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Entrance rules vary by faculty: a written test, an online interview or the SCIO GAP test (Environmental Sciences, sittings from October to January). Language rules are in each faculty's admission regulation.",
+   "ka": "მისაღები წესები ფაკულტეტის მიხედვით განსხვავდება: წერითი ტესტი, ონლაინ გასაუბრება ან SCIO GAP ტესტი (გარემოს მეცნიერებები, ტესტირება ოქტომბრიდან იანვრამდე). ენობრივი მოთხოვნები თითოეული ფაკულტეტის მისაღებ წესებშია.",
+   "ar": "تختلف قواعد القبول حسب الكلية: اختبار تحريري أو مقابلة عبر الإنترنت أو اختبار SCIO GAP (العلوم البيئية، بجلسات من أكتوبر إلى يناير). شروط اللغة في لائحة القبول لكل كلية."
+  },
+  "gpa_note": {
+   "en": "No minimum grades are published; applicants need a recognised secondary school graduation certificate.",
+   "ka": "მინიმალური ნიშნები გამოქვეყნებული არ არის; საჭიროა აღიარებული საშუალო სკოლის ატესტატი.",
+   "ar": "لا توجد درجات دنيا منشورة؛ يلزم حيازة شهادة إتمام ثانوية معترف بها."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (nostrification) of the school diploma",
+     "ka": "სკოლის დიპლომის აღიარება (ნოსტრიფიკაცია)",
+     "ar": "الاعتراف بشهادة الثانوية (النوستريفيكاسيا)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "czechia",
+   "prague",
+   "agriculture",
+   "forestry",
+   "environment",
+   "english bachelor"
+  ],
+  "sources": [
+   "https://study.czu.cz/admission/",
+   "https://study.czu.cz/",
+   "https://www.czu.cz/en/r-9188-study/r-9250-study-at-czu",
+   "https://www.tf.czu.cz/en/r-9402-study/r-9491-information-for-students/r-10970-tuition-fees-for-studies-in-english",
+   "https://www.fzp.czu.cz/en/r-20074-applicants/r-9792-admission-procedures/r-14065-bachelor-s-study-programmes",
+   "https://www.czu.cz/en/r-9190-international-relations/r-9288-study-in-english"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "mendel-university-in-brno",
+  "name": {
+   "en": "Mendel University in Brno",
+   "ka": "ბრნოს მენდელის უნივერსიტეტი",
+   "ar": "جامعة مندل في برنو"
+  },
+  "iso": "CZ",
+  "city": "Brno",
+  "lat": 49.2092,
+  "lon": 16.615,
+  "type": "public",
+  "website": "https://mendelu.cz",
+  "platform": "Direct (faculty online application)",
+  "application_url": "https://mendelu.cz/en/admissions/degree-programmes",
+  "intakes": [
+   "September",
+   "February"
+  ],
+  "deadline": null,
+  "deadline_note": "Faculty of Business and Economics opens 2027/28 admission on 15 October 2026; exam application deadlines are 31 January, 31 March, 31 May, 30 September and 30 November. Regional Development faculty used 9 August 2026 for September.",
+  "tuition_intl": {
+   "amount": 80000,
+   "currency": "CZK",
+   "per": "year",
+   "note": "Economics and Management (about 3,300 EUR). International Territorial Studies 65,000 CZK (about 2,700 EUR). Czech-taught study is free."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": 20,
+  "languages": [
+   "Czech",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Foreign secondary education is verified for the purpose of admission; the Business and Economics faculty charges 900 CZK and requires it before admission documents are issued.",
+   "ka": "უცხოური საშუალო განათლება მისაღებისთვის მოწმდება; ბიზნესისა და ეკონომიკის ფაკულტეტზე ეს 900 CZK ღირს და ის სავალდებულოა მიღების დოკუმენტების გაცემამდე.",
+   "ar": "يُتحقق من التعليم الثانوي الأجنبي لغرض القبول؛ تتقاضى كلية الأعمال والاقتصاد 900 كرونة وتشترطه قبل إصدار وثائق القبول."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "SCIO GAP test (mini version, 60% needed) or university exam (60/100)"
+  ],
+  "fields": [
+   "environment",
+   "economics",
+   "business",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Business and Economics",
+    "Forestry",
+    "Regional Development and International Studies"
+   ],
+   "ka": [
+    "ბიზნესი და ეკონომიკა",
+    "სატყეო საქმე",
+    "რეგიონული განვითარება და საერთაშორისო კვლევები"
+   ],
+   "ar": [
+    "الأعمال والاقتصاد",
+    "الغابات",
+    "التنمية الإقليمية والدراسات الدولية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Brno where about 20% of students come from abroad. The English bachelor in Economics and Management costs 80,000 CZK a year.",
+   "ka": "ბრნოს საჯარო უნივერსიტეტი, სადაც სტუდენტების დაახლოებით 20% საზღვარგარეთიდანაა. ეკონომიკისა და მენეჯმენტის ინგლისურენოვანი ბაკალავრიატი წელიწადში 80 000 CZK ღირს.",
+   "ar": "جامعة حكومية في برنو يأتي نحو 20% من طلابها من الخارج. تبلغ رسوم بكالوريوس الاقتصاد والإدارة بالإنجليزية 80,000 كرونة سنويًا."
+  },
+  "about": {
+   "en": "Mendel University in Brno is a public university with about 20% international students. English bachelor programmes include Economics and Management and International Territorial Studies, with September and February intakes. Applicants pay 1,000 CZK, take the university exam or the SCIO GAP test, and submit a motivation letter in English. The total needed is 120 points, at least 60 in each part. Tuition for Economics and Management is 80,000 CZK a year; Czech-taught programmes are free.",
+   "ka": "ბრნოს მენდელის უნივერსიტეტი საჯარო უნივერსიტეტია, სადაც უცხოელი სტუდენტები დაახლოებით 20%-ია. ბაკალავრიატის ინგლისურ პროგრამებს შორისაა ეკონომიკა და მენეჯმენტი და საერთაშორისო ტერიტორიული კვლევები; მიღება სექტემბერსა და თებერვალში ტარდება. განმცხადებელი იხდის 1 000 CZK-ს, აბარებს უნივერსიტეტის გამოცდას ან SCIO GAP ტესტს და აგზავნის მოტივაციის წერილს ინგლისურად. საჭიროა სულ 120 ქულა, თითოეულ ნაწილში მინიმუმ 60. ეკონომიკა და მენეჯმენტი წელიწადში 80 000 CZK ღირს; ჩეხურენოვანი პროგრამები უფასოა.",
+   "ar": "جامعة مندل في برنو جامعة حكومية يبلغ نحو 20% من طلابها دوليين. تشمل برامج البكالوريوس بالإنجليزية الاقتصاد والإدارة والدراسات الإقليمية الدولية، مع قبول في سبتمبر وفبراير. يدفع المتقدم 1,000 كرونة ويجري امتحان الجامعة أو اختبار SCIO GAP ويقدم رسالة دافع بالإنجليزية. المطلوب 120 نقطة في المجموع على ألا يقل كل جزء عن 60. رسوم الاقتصاد والإدارة 80,000 كرونة سنويًا، والبرامج بالتشيكية مجانية."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Choose the university exam (25-question prerequisites test, 60/100 needed) or the SCIO GAP mini test (60%), plus an English motivation letter scored 60/100. English proof such as FCE, IELTS 5 to 6 or TOEFL 87 to 109 applies to the visa-nomination route.",
+   "ka": "აირჩიეთ უნივერსიტეტის გამოცდა (25 კითხვიანი ტესტი, საჭიროა 60/100) ან SCIO GAP მინი ტესტი (60%), ასევე ინგლისური მოტივაციის წერილი (60/100). ინგლისურის დამადასტურებელი საბუთი, როგორიცაა FCE, IELTS 5–6 ან TOEFL 87–109, ვიზის ნომინაციის გზაზე მოითხოვება.",
+   "ar": "يمكن اختيار امتحان الجامعة (اختبار من 25 سؤالًا ويلزم 60/100) أو اختبار SCIO GAP المصغّر (60%)، مع رسالة دافع بالإنجليزية تُقيَّم من 100 ويلزم 60. يُطلب إثبات الإنجليزية مثل FCE أو IELTS من 5 إلى 6 أو TOEFL من 87 إلى 109 في مسار ترشيح التأشيرة."
+  },
+  "gpa_note": {
+   "en": "No minimum school grades are published; admission is by the test and motivation letter (120 points needed in total).",
+   "ka": "სკოლის მინიმალური ნიშნები გამოქვეყნებული არ არის; მიღება ტესტსა და მოტივაციის წერილზეა დამოკიდებული (სულ საჭიროა 120 ქულა).",
+   "ar": "لا توجد درجات مدرسية دنيا منشورة؛ يعتمد القبول على الاختبار ورسالة الدافع (120 نقطة في المجموع)."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (nostrification) of the school diploma",
+     "ka": "სკოლის დიპლომის აღიარება (ნოსტრიფიკაცია)",
+     "ar": "الاعتراف بشهادة الثانوية (النوستريفيكاسيا)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Motivation letter",
+     "ka": "მოტივაციის წერილი",
+     "ar": "رسالة الدافع"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English (B2 or equivalent)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი (B2 ან ექვივალენტი)",
+     "ar": "إثبات إجادة اللغة الإنجليزية (مستوى B2 أو ما يعادله)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "czechia",
+   "brno",
+   "economics",
+   "forestry",
+   "agriculture",
+   "english bachelor"
+  ],
+  "sources": [
+   "https://pef.mendelu.cz/en/faculty-of-business-and-economics/admissions/admission-process/",
+   "https://mendelu.cz/en/admissions/study-at-mendelu/",
+   "https://mendelu.cz/en/admissions/degree-programmes",
+   "https://mendelu.cz/en/admissions/recognition-of-foreign-education/",
+   "https://frrms.mendelu.cz/en/admissions/how-to-apply/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "prague-university-of-economics-and-business",
+  "name": {
+   "en": "Prague University of Economics and Business",
+   "ka": "პრაღის ეკონომიკისა და ბიზნესის უნივერსიტეტი (VŠE)",
+   "ar": "جامعة براغ للاقتصاد والأعمال"
+  },
+  "iso": "CZ",
+  "city": "Prague",
+  "lat": 50.0848,
+  "lon": 14.4413,
+  "type": "public",
+  "website": "https://www.vse.cz",
+  "platform": "Direct (InSIS e-application)",
+  "application_url": "https://admissions.vse.cz/admission-procedure/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Applications for English programmes for 2027/28 open on 1 November 2026; the closing date is not published on the admission page.",
+  "tuition_intl": {
+   "amount": 6000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "6,000 EUR a year (3,000 EUR a semester). The page also cites 5,000 EUR for the cost-of-living section, so confirm with the admissions office."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Czech",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Applicants submit the leaving certificate and a certificate that it qualifies for bachelor study in their country. The VŠE Legal Department assesses foreign education inside the InSIS application.",
+   "ka": "განმცხადებელი აბარებს ატესტატს და ცნობას, რომ იგი საკუთარ ქვეყანაში ბაკალავრიატზე სწავლის უფლებას იძლევა. უცხოურ განათლებას VŠE-ს იურიდიული დეპარტამენტი InSIS-ის განაცხადში აფასებს.",
+   "ar": "يقدم المتقدم شهادة الثانوية وشهادة تثبت أنها تؤهل لدراسة البكالوريوس في بلده. تقيّم الإدارة القانونية في VŠE التعليم الأجنبي داخل طلب InSIS."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Programme entrance exams"
+  ],
+  "fields": [
+   "economics",
+   "business",
+   "international-relations",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Business Administration",
+    "International Business",
+    "Economics",
+    "Finance and Accounting",
+    "International and Diplomatic Studies",
+    "Economic Data Science"
+   ],
+   "ka": [
+    "ბიზნესის ადმინისტრირება",
+    "საერთაშორისო ბიზნესი",
+    "ეკონომიკა",
+    "ფინანსები და ბუღალტერია",
+    "საერთაშორისო და დიპლომატიური კვლევები",
+    "ეკონომიკური მონაცემთა მეცნიერება"
+   ],
+   "ar": [
+    "إدارة الأعمال",
+    "الأعمال الدولية",
+    "الاقتصاد",
+    "المالية والمحاسبة",
+    "الدراسات الدولية والدبلوماسية",
+    "علم البيانات الاقتصادية"
+   ]
+  },
+  "summary": {
+   "en": "A public economics university in Prague with English bachelors in business, economics, finance and diplomacy. Tuition is 6,000 EUR a year and the application fee is 100 EUR.",
+   "ka": "პრაღის საჯარო ეკონომიკური უნივერსიტეტი, სადაც ინგლისურად ისწავლება ბიზნესის, ეკონომიკის, ფინანსებისა და დიპლომატიის ბაკალავრიატი. სწავლის საფასური წელიწადში 6 000 ევროა, განაცხადის საფასური — 100 ევრო.",
+   "ar": "جامعة حكومية للاقتصاد في براغ تقدم بكالوريوس بالإنجليزية في الأعمال والاقتصاد والمالية والدبلوماسية. الرسوم 6,000 يورو سنويًا ورسوم التقديم 100 يورو."
+  },
+  "about": {
+   "en": "Prague University of Economics and Business (VŠE) is a public university in Prague. Its English bachelor programmes include Business Administration, International Business, Economics, Finance and Accounting, International and Diplomatic Studies and Economic Data Science; Business Information Systems starts in September 2027. Applicants register in the InSIS system, pay 100 EUR and pass programme entrance exams. Foreign school certificates are assessed by the university's legal department. Tuition is 6,000 EUR a year.",
+   "ka": "პრაღის ეკონომიკისა და ბიზნესის უნივერსიტეტი (VŠE) პრაღის საჯარო უნივერსიტეტია. ბაკალავრიატის ინგლისური პროგრამებია: ბიზნესის ადმინისტრირება, საერთაშორისო ბიზნესი, ეკონომიკა, ფინანსები და ბუღალტერია, საერთაშორისო და დიპლომატიური კვლევები და ეკონომიკური მონაცემთა მეცნიერება; ბიზნეს-საინფორმაციო სისტემები 2027 წლის სექტემბერში იწყება. განმცხადებელი InSIS-ში რეგისტრირდება, იხდის 100 ევროს და აბარებს პროგრამის მისაღებ გამოცდებს. უცხოურ ატესტატს უნივერსიტეტის იურიდიული დეპარტამენტი აფასებს. სწავლის საფასური წელიწადში 6 000 ევროა.",
+   "ar": "جامعة براغ للاقتصاد والأعمال (VŠE) جامعة حكومية في براغ. تشمل برامج البكالوريوس بالإنجليزية إدارة الأعمال والأعمال الدولية والاقتصاد والمالية والمحاسبة والدراسات الدولية والدبلوماسية وعلم البيانات الاقتصادية، وتبدأ نظم معلومات الأعمال في سبتمبر 2027. يسجل المتقدم في نظام InSIS ويدفع 100 يورو ويجتاز امتحانات القبول الخاصة بالبرنامج. تقيّم الإدارة القانونية بالجامعة الشهادات الثانوية الأجنبية. الرسوم 6,000 يورو سنويًا."
+  },
+  "aid_intl": {
+   "en": "Only merit-based scholarships are offered; the Czech government's scholarship for developing countries lists only master's programmes at VŠE.",
+   "ka": "მხოლოდ დამსახურებაზე დაფუძნებული სტიპენდიებია; ჩეხეთის მთავრობის სტიპენდიაში განვითარებადი ქვეყნებისთვის VŠE-ზე მხოლოდ სამაგისტრო პროგრამებია მითითებული.",
+   "ar": "تُقدَّم منح التفوق الدراسي فقط؛ وتشمل منحة الحكومة التشيكية للدول النامية برامج الماجستير فقط في VŠE."
+  },
+  "tests": {
+   "en": "Entrance exams are required and differ by programme; see each programme page. No English score is stated on the admission page.",
+   "ka": "მისაღები გამოცდები სავალდებულოა და პროგრამის მიხედვით განსხვავდება; იხილეთ პროგრამის გვერდი. მისაღების გვერდზე ინგლისურის ქულა მითითებული არ არის.",
+   "ar": "امتحانات القبول مطلوبة وتختلف حسب البرنامج؛ راجع صفحة كل برنامج. لا تُذكر درجة إنجليزية في صفحة القبول."
+  },
+  "gpa_note": {
+   "en": "Applicants need a leaving certificate that qualifies for bachelor study in their country; no minimum grade is published.",
+   "ka": "საჭიროა ატესტატი, რომელიც საკუთარ ქვეყანაში ბაკალავრიატზე სწავლის უფლებას იძლევა; მინიმალური ნიშანი გამოქვეყნებული არ არის.",
+   "ar": "يلزم حيازة شهادة ثانوية تؤهل لدراسة البكالوريوس في بلد المتقدم؛ ولا توجد درجة دنيا منشورة."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებების ჯამური უწყისი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (nostrification) of the school diploma",
+     "ka": "სკოლის დიპლომის აღიარება (ნოსტრიფიკაცია)",
+     "ar": "الاعتراف بشهادة الثانوية (النوستريفيكاسيا)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "czechia",
+   "prague",
+   "economics",
+   "business",
+   "finance",
+   "english bachelor"
+  ],
+  "sources": [
+   "https://admissions.vse.cz/admission-procedure/",
+   "https://admissions.vse.cz/",
+   "https://admissions.vse.cz/bachelors-programmes/",
+   "https://www.vse.cz/english/study-at-vse/bachelor-programmes/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-south-bohemia-in-ceske-budejovice",
+  "name": {
+   "en": "University of South Bohemia in České Budějovice",
+   "ka": "სამხრეთ ბოჰემიის უნივერსიტეტი ჩესკე-ბუდეიოვიცეში",
+   "ar": "جامعة جنوب بوهيميا في تشيسكي بوديوفيتسه"
+  },
+  "iso": "CZ",
+  "city": "České Budějovice",
+  "lat": 48.9764,
+  "lon": 14.4536,
+  "type": "public",
+  "website": "https://www.jcu.cz",
+  "platform": "Direct (JCU e-application)",
+  "application_url": "https://www.jcu.cz/en/admissions/admission-procedure",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Most faculties accept applications until the end of March for the autumn start, but dates differ by faculty and the 2027/28 dates are not published on the central page. Admission exams are mostly in June.",
+  "tuition_intl": {
+   "amount": 3300,
+   "currency": "EUR",
+   "per": "year",
+   "note": "The university states a range of 20 to 3,300 EUR a year for foreign-language study, depending on the faculty. The fee for the English bachelor is on its programme page. Czech-taught study is free."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Czech",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A foreign secondary certificate that gives access to higher education in its own country is enough, with an officially verified copy. Documents from Hungary, Poland, Slovakia, Slovenia and Germany need only a verified copy; other countries have extra verification steps.",
+   "ka": "საკმარისია უცხოური საშუალო განათლების დოკუმენტი, რომელიც საკუთარ ქვეყანაში უმაღლეს განათლებაზე წვდომას იძლევა, ოფიციალურად დამოწმებული ასლით. უნგრეთის, პოლონეთის, სლოვაკეთის, სლოვენიისა და გერმანიის დოკუმენტებს მხოლოდ დამოწმებული ასლი სჭირდება; სხვა ქვეყნებისთვის დამატებითი გადამოწმებაა საჭირო.",
+   "ar": "تكفي شهادة ثانوية أجنبية تتيح الالتحاق بالتعليم العالي في بلدها مع نسخة موثقة رسميًا. وثائق المجر وبولندا وسلوفاكيا وسلوفينيا وألمانيا تحتاج نسخة موثقة فقط، أما الدول الأخرى فلها خطوات تحقق إضافية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Faculty admission exam"
+  ],
+  "fields": [
+   "natural-sciences",
+   "environment",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Biological Chemistry",
+    "Science",
+    "Arts"
+   ],
+   "ka": [
+    "ბიოლოგიური ქიმია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ხელოვნების ფაკულტეტი"
+   ],
+   "ar": [
+    "الكيمياء الحيوية",
+    "العلوم",
+    "الآداب"
+   ]
+  },
+  "summary": {
+   "en": "A public university in České Budějovice with eight faculties. Only one English bachelor is listed (Biological Chemistry); foreign-language fees are 20 to 3,300 EUR a year.",
+   "ka": "საჯარო უნივერსიტეტი ჩესკე-ბუდეიოვიცეში რვა ფაკულტეტით. ინგლისურ ენაზე ბაკალავრიატის მხოლოდ ერთი პროგრამაა მითითებული (ბიოლოგიური ქიმია); უცხოენოვანი სწავლის საფასური წელიწადში 20–3 300 ევროა.",
+   "ar": "جامعة حكومية في تشيسكي بوديوفيتسه تضم ثماني كليات. يُدرج برنامج بكالوريوس واحد فقط بالإنجليزية (الكيمياء الحيوية)، ورسوم الدراسة بلغة أجنبية من 20 إلى 3,300 يورو سنويًا."
+  },
+  "about": {
+   "en": "The University of South Bohemia is a public university in České Budějovice. Its programme list shows one English-taught bachelor, Biological Chemistry at the Faculty of Science (3 years); most bachelors are taught in Czech and need Czech at B1/B2. Applications are made online (fee 500 CZK), usually by the end of March, with exams in June. Foreign-language study costs 20 to 3,300 EUR a year depending on the faculty. A grant of about 88,000 CZK exists for students in foreign-language degrees.",
+   "ka": "სამხრეთ ბოჰემიის უნივერსიტეტი ჩესკე-ბუდეიოვიცეს საჯარო უნივერსიტეტია. პროგრამების სიაში ინგლისურენოვანი ბაკალავრიატიდან ერთია — ბიოლოგიური ქიმია საბუნებისმეტყველო ფაკულტეტზე (3 წელი); ბაკალავრიატის უმეტესობა ჩეხურადაა და B1/B2 დონის ჩეხური სჭირდება. განაცხადი ონლაინ იგზავნება (საფასური 500 CZK), ჩვეულებრივ მარტის ბოლომდე, გამოცდები ივნისშია. უცხოენოვანი სწავლა ფაკულტეტის მიხედვით წელიწადში 20–3 300 ევრო ღირს. უცხოენოვანი ხარისხის სტუდენტებისთვის არსებობს დაახლოებით 88 000 CZK გრანტი.",
+   "ar": "جامعة جنوب بوهيميا جامعة حكومية في تشيسكي بوديوفيتسه. تُظهر قائمة برامجها بكالوريوسًا واحدًا بالإنجليزية هو الكيمياء الحيوية في كلية العلوم (3 سنوات)؛ ومعظم البكالوريوس بالتشيكية ويتطلب مستوى B1/B2. يُقدَّم الطلب إلكترونيًا (الرسوم 500 كرونة) عادة حتى نهاية مارس، والامتحانات في يونيو. تتراوح رسوم الدراسة بلغة أجنبية بين 20 و3,300 يورو سنويًا حسب الكلية. توجد منحة بنحو 88,000 كرونة لطلاب الدرجات بلغة أجنبية."
+  },
+  "aid_intl": {
+   "en": "A grant of about 88,000 CZK (average) exists for students in degree programmes taught in a foreign language; merit scholarships also exist.",
+   "ka": "უცხოენოვან ხარისხის პროგრამებზე მოსწავლე სტუდენტებისთვის არსებობს დაახლოებით 88 000 CZK (საშუალო) გრანტი; ასევე არსებობს დამსახურების სტიპენდიები.",
+   "ar": "توجد منحة بنحو 88,000 كرونة (متوسط) لطلاب برامج الدرجات المدرّسة بلغة أجنبية، كما توجد منح تفوق."
+  },
+  "tests": {
+   "en": "Admission exams are mostly held in June and differ by faculty. No English score is stated on the central page.",
+   "ka": "მისაღები გამოცდები ძირითადად ივნისში ტარდება და ფაკულტეტის მიხედვით განსხვავდება. ცენტრალურ გვერდზე ინგლისურის ქულა მითითებული არ არის.",
+   "ar": "تُجرى امتحانات القبول غالبًا في يونيو وتختلف حسب الكلية. لا تُذكر درجة إنجليزية في الصفحة المركزية."
+  },
+  "gpa_note": {
+   "en": "Applicants need proof of completed secondary education with a school-leaving examination; no minimum grade is published.",
+   "ka": "საჭიროა საშუალო განათლების დასრულების დადასტურება, რომელიც სკოლის დამამთავრებელ გამოცდას მოიცავს; მინიმალური ნიშანი გამოქვეყნებული არ არის.",
+   "ar": "يلزم إثبات إتمام التعليم الثانوي بما في ذلك امتحان التخرج؛ ولا توجد درجة دنيا منشورة."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (nostrification) of the school diploma",
+     "ka": "სკოლის დიპლომის აღიარება (ნოსტრიფიკაცია)",
+     "ar": "الاعتراف بشهادة الثانوية (النوستريفيكاسيا)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Grant for studies in the Czech Republic (foreign-language degrees)",
+    "url": "https://www.jcu.cz/en/admissions/tuition-fees-scholarships",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "czechia",
+   "ceske budejovice",
+   "biology",
+   "chemistry",
+   "english bachelor"
+  ],
+  "sources": [
+   "https://www.jcu.cz/en/admissions/admission-procedure",
+   "https://www.jcu.cz/en/admissions/tuition-fees-scholarships",
+   "https://www.jcu.cz/en/study-at-usb/degree-programmes"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "vsb-technical-university-of-ostrava",
+  "name": {
+   "en": "VSB - Technical University of Ostrava",
+   "ka": "ოსტრავის VSB ტექნიკური უნივერსიტეტი",
+   "ar": "جامعة VSB التقنية في أوسترافا"
+  },
+  "iso": "CZ",
+  "city": "Ostrava",
+  "lat": 49.8312,
+  "lon": 18.1612,
+  "type": "public",
+  "website": "https://www.vsb.cz",
+  "platform": "Direct (VSB-TUO e-application)",
+  "application_url": "https://www.vsb.cz/en/study/admissions/degree-students/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-01-31",
+  "deadline_note": "English bachelor applications for 2027/28 run 1 October 2026 to 31 January 2027 (1st round) at Mining and Geology, Materials, Economics, Electrical Engineering and Computer Science, and Safety Engineering. Civil Engineering published only a 2025/26 date.",
+  "tuition_intl": {
+   "amount": 100000,
+   "currency": "CZK",
+   "per": "year",
+   "note": "2026/27: 50,000 CZK per semester (about 4,000 EUR a year), paid in two instalments. One rate for English bachelors; Czech-taught study is free."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Czech",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Recognition of foreign education is handled on a separate university page; faculty rules differ and the central page does not state certificate-specific rules.",
+   "ka": "უცხოური განათლების აღიარება უნივერსიტეტის ცალკე გვერდზეა აღწერილი; ფაკულტეტების წესები განსხვავდება და ცენტრალურ გვერდზე კონკრეტული ატესტატის წესები მითითებული არ არის.",
+   "ar": "يُعالج الاعتراف بالتعليم الأجنبي في صفحة منفصلة بالجامعة؛ وتختلف قواعد الكليات ولا تذكر الصفحة المركزية قواعد خاصة بكل شهادة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "economics",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Mining and Geology",
+    "Materials Science",
+    "Electrical Engineering and Computer Science",
+    "Economics",
+    "Safety Engineering",
+    "Civil Engineering"
+   ],
+   "ka": [
+    "სამთო საქმე და გეოლოგია",
+    "მასალათმცოდნეობა",
+    "ელექტროინჟინერია და კომპიუტერული მეცნიერება",
+    "ეკონომიკა",
+    "უსაფრთხოების ინჟინერია",
+    "სამოქალაქო ინჟინერია"
+   ],
+   "ar": [
+    "التعدين والجيولوجيا",
+    "علوم المواد",
+    "الهندسة الكهربائية وعلوم الحاسوب",
+    "الاقتصاد",
+    "هندسة السلامة",
+    "الهندسة المدنية"
+   ]
+  },
+  "summary": {
+   "en": "A public technical university in Ostrava with English bachelors at six faculties. Tuition is 50,000 CZK a semester and applications close 31 January 2027.",
+   "ka": "ოსტრავის საჯარო ტექნიკური უნივერსიტეტი ინგლისურენოვანი ბაკალავრიატით ექვს ფაკულტეტზე. სწავლის საფასური სემესტრში 50 000 CZK-ია, განაცხადები 2027 წლის 31 იანვარს იხურება.",
+   "ar": "جامعة تقنية حكومية في أوسترافا لديها برامج بكالوريوس بالإنجليزية في ست كليات. الرسوم 50,000 كرونة للفصل الدراسي، وينتهي التقديم في 31 يناير 2027."
+  },
+  "about": {
+   "en": "VSB - Technical University of Ostrava is a public university in Ostrava-Poruba. It offers English bachelor programmes at the faculties of Mining and Geology, Materials, Economics, Electrical Engineering and Computer Science, Civil Engineering and Safety Engineering. The first 2027/28 round runs from 1 October 2026 to 31 January 2027, with an electronic application. English-taught bachelors cost 50,000 CZK per semester (2026/27) paid in two instalments. Czech-taught study is free. Entrance rules vary by faculty.",
+   "ka": "ოსტრავის VSB ტექნიკური უნივერსიტეტი ოსტრავა-პორუბას საჯარო უნივერსიტეტია. ინგლისურენოვანი ბაკალავრიატი აქვს სამთო საქმისა და გეოლოგიის, მასალების, ეკონომიკის, ელექტროინჟინერიისა და კომპიუტერული მეცნიერების, სამოქალაქო ინჟინერიისა და უსაფრთხოების ინჟინერიის ფაკულტეტებზე. 2027/28-ის პირველი ეტაპი 2026 წლის 1 ოქტომბრიდან 2027 წლის 31 იანვრამდეა, განაცხადი ელექტრონულია. ინგლისურენოვანი ბაკალავრიატი 2026/27-ში სემესტრში 50 000 CZK ღირს და ორ ნაწილად იხდება. ჩეხურენოვანი სწავლა უფასოა. მისაღები წესები ფაკულტეტის მიხედვით განსხვავდება.",
+   "ar": "جامعة VSB التقنية في أوسترافا جامعة حكومية في أوسترافا-بوروبا. تقدم برامج بكالوريوس بالإنجليزية في كليات التعدين والجيولوجيا والمواد والاقتصاد والهندسة الكهربائية وعلوم الحاسوب والهندسة المدنية وهندسة السلامة. الجولة الأولى لعام 2027/28 من 1 أكتوبر 2026 إلى 31 يناير 2027 بطلب إلكتروني. تبلغ رسوم البكالوريوس بالإنجليزية 50,000 كرونة للفصل (2026/27) على دفعتين. الدراسة بالتشيكية مجانية. تختلف قواعد القبول حسب الكلية."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Admission conditions vary by faculty; the central pages do not list entrance tests or English scores.",
+   "ka": "მისაღები პირობები ფაკულტეტის მიხედვით განსხვავდება; ცენტრალურ გვერდებზე მისაღები ტესტები და ინგლისურის ქულები მითითებული არ არის.",
+   "ar": "تختلف شروط القبول حسب الكلية؛ ولا تذكر الصفحات المركزية اختبارات قبول أو درجات إنجليزية."
+  },
+  "gpa_note": {
+   "en": "No minimum grades are published on the central pages; check the faculty.",
+   "ka": "ცენტრალურ გვერდებზე მინიმალური ნიშნები გამოქვეყნებული არ არის; გადაამოწმეთ ფაკულტეტზე.",
+   "ar": "لا توجد درجات دنيا منشورة في الصفحات المركزية؛ راجع الكلية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (nostrification) of the school diploma",
+     "ka": "სკოლის დიპლომის აღიარება (ნოსტრიფიკაცია)",
+     "ar": "الاعتراف بشهادة الثانوية (النوستريفيكاسيا)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "czechia",
+   "ostrava",
+   "engineering",
+   "mining",
+   "english bachelor"
+  ],
+  "sources": [
+   "https://www.vsb.cz/en/study/admissions/application-dates/",
+   "https://www.vsb.cz/en/study/admissions/tuition-fees/",
+   "https://www.vsb.cz/en/study/degree-students/degree-studies/bachelor-degree/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "technical-university-of-liberec",
+  "name": {
+   "en": "Technical University of Liberec",
+   "ka": "ლიბერეცის ტექნიკური უნივერსიტეტი",
+   "ar": "الجامعة التقنية في ليبيريتس"
+  },
+  "iso": "CZ",
+  "city": "Liberec",
+  "lat": 50.771,
+  "lon": 15.056,
+  "type": "public",
+  "website": "https://www.tul.cz",
+  "platform": "Direct (TUL e-application)",
+  "application_url": "https://www.tul.cz/en/admissions/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "The 2027/28 deadline is not published on the pages found; check the English programmes page or international@tul.cz.",
+  "tuition_intl": {
+   "amount": 4000,
+   "currency": "USD",
+   "per": "year",
+   "note": "Page for 2024/25: 4,000 USD (Mechanical Engineering, Textile, Science and Humanities, Mechatronics non-EU) or 5,000 USD (Economics, Arts and Architecture). Check the current figure."
+  },
+  "acceptance_rate": null,
+  "students": 7000,
+  "intl_pct": null,
+  "languages": [
+   "Czech",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Recognition of the secondary diploma by the Liberec Region must be completed before an offer. Signatures and stamps must be verified by the issuing country's foreign ministry and the Czech embassy unless a treaty applies.",
+   "ka": "შეთავაზების მიღებამდე საშუალო განათლების დიპლომი ლიბერეცის რეგიონულმა ორგანომ უნდა აღიაროს. ხელმოწერები და ბეჭდები უნდა გადაამოწმოს გამცემი ქვეყნის საგარეო უწყებამ და ჩეხეთის საელჩომ, თუ ხელშეკრულება სხვას არ ითვალისწინებს.",
+   "ar": "يجب أن تتم تسوية الاعتراف بشهادة الثانوية لدى منطقة ليبيريتس قبل العرض. يجب أن تصدّق وزارة خارجية بلد الإصدار والسفارة التشيكية التواقيع والأختام ما لم تنطبق اتفاقية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "business",
+   "arts-design",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Mechanical Engineering",
+    "Textile Engineering",
+    "Mechatronics",
+    "Economics",
+    "Arts and Architecture",
+    "Science and Humanities"
+   ],
+   "ka": [
+    "მანქანათმშენებლობა",
+    "ტექსტილის ინჟინერია",
+    "მექატრონიკა",
+    "ეკონომიკა",
+    "ხელოვნება და არქიტექტურა",
+    "საბუნებისმეტყველო და ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة الميكانيكية",
+    "هندسة النسيج",
+    "الميكاترونيكس",
+    "الاقتصاد",
+    "الفنون والعمارة",
+    "العلوم والإنسانيات"
+   ]
+  },
+  "summary": {
+   "en": "A public technical university in Liberec with about 7,000 students. English bachelors in engineering, textiles, business and humanities cost 4,000 to 5,000 USD a year (2024/25 figures).",
+   "ka": "ლიბერეცის საჯარო ტექნიკური უნივერსიტეტი დაახლოებით 7 000 სტუდენტით. ინგლისურენოვანი ბაკალავრიატი ინჟინერიაში, ტექსტილში, ბიზნესსა და ჰუმანიტარულ მეცნიერებებში წელიწადში 4 000–5 000 აშშ დოლარი ღირს (2024/25-ის მონაცემები).",
+   "ar": "جامعة تقنية حكومية في ليبيريتس يدرس فيها نحو 7,000 طالب. تبلغ رسوم البكالوريوس بالإنجليزية في الهندسة والنسيج والأعمال والإنسانيات 4,000 إلى 5,000 دولار سنويًا (أرقام 2024/25)."
+  },
+  "about": {
+   "en": "The Technical University of Liberec is a public university with about 7,000 students at seven faculties. English bachelors are Mechanical Engineering, Textile Technologies, Materials and Nanomaterials, Design, European Business and Anglophone Studies. The recognition of the secondary diploma by the Liberec Region comes before any offer. Fees listed for 2024/25 are 4,000 USD (5,000 USD for Economics and Arts and Architecture) and the application fee was 2,000 CZK. Check current figures with the university.",
+   "ka": "ლიბერეცის ტექნიკური უნივერსიტეტი საჯარო უნივერსიტეტია დაახლოებით 7 000 სტუდენტით და შვიდი ფაკულტეტით. ინგლისურენოვანი ბაკალავრიატია მანქანათმშენებლობა, ტექსტილის ტექნოლოგიები, მასალები და ნანომასალები, დიზაინი, ევროპული ბიზნესი და ანგლოფონური კვლევები. ნებისმიერ შეთავაზებამდე ლიბერეცის რეგიონმა უნდა აღიაროს საშუალო განათლების დიპლომი. 2024/25-ისთვის მითითებული საფასური 4 000 აშშ დოლარია (ეკონომიკასა და ხელოვნება-არქიტექტურაზე 5 000), განაცხადის საფასური კი 2 000 CZK იყო. მიმდინარე მონაცემები უნივერსიტეტში გადაამოწმეთ.",
+   "ar": "الجامعة التقنية في ليبيريتس جامعة حكومية يدرس فيها نحو 7,000 طالب في سبع كليات. برامج البكالوريوس بالإنجليزية هي الهندسة الميكانيكية وتقنيات النسيج والمواد والمواد النانوية والتصميم والأعمال الأوروبية والدراسات الأنجلوفونية. يسبق أي عرض اعتراف منطقة ليبيريتس بشهادة الثانوية. الرسوم المدرجة لعام 2024/25 هي 4,000 دولار (5,000 للاقتصاد والفنون والعمارة) ورسوم التقديم 2,000 كرونة. تحقق من الأرقام الحالية لدى الجامعة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "The pages found do not list entrance tests or English scores; check the English programmes page.",
+   "ka": "მოძიებულ გვერდებზე მისაღები ტესტები და ინგლისურის ქულები მითითებული არ არის; გადაამოწმეთ ინგლისური პროგრამების გვერდი.",
+   "ar": "لا تذكر الصفحات المتاحة اختبارات قبول أو درجات إنجليزية؛ راجع صفحة البرامج الإنجليزية."
+  },
+  "gpa_note": {
+   "en": "No minimum grades are published; eligibility is set separately for each programme.",
+   "ka": "მინიმალური ნიშნები გამოქვეყნებული არ არის; საფუძვლები თითოეულ პროგრამაზე ცალკეა განსაზღვრული.",
+   "ar": "لا توجد درجات دنيا منشورة؛ تُحدَّد شروط الأهلية لكل برنامج على حدة."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (nostrification) of the school diploma",
+     "ka": "სკოლის დიპლომის აღიარება (ნოსტრიფიკაცია)",
+     "ar": "الاعتراف بشهادة الثانوية (النوستريفيكاسيا)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "czechia",
+   "liberec",
+   "engineering",
+   "textile",
+   "english bachelor"
+  ],
+  "sources": [
+   "https://www.tul.cz/en/",
+   "https://www.tul.cz/en/students/fees-for-students/",
+   "https://www.tul.cz/en/admissions/recognition-of-previous-education/",
+   "https://www.tul.cz/en/admissions/study-programmes/detailed-information-for-english-programmes/undergraduate-programmes/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "tomas-bata-university-in-zlin",
+  "name": {
+   "en": "Tomas Bata University in Zlin",
+   "ka": "ზლინის ტომას ბატას უნივერსიტეტი",
+   "ar": "جامعة توماس باتا في زلين"
+  },
+  "iso": "CZ",
+  "city": "Zlin",
+  "lat": 49.226,
+  "lon": 17.658,
+  "type": "public",
+  "website": "https://www.utb.cz",
+  "platform": "Direct (TBU e-application)",
+  "application_url": "https://www.utb.cz/en/admissions/study-in-english/apply-now/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-04-30",
+  "deadline_note": "Faculty of Management and Economics: applications open November 2026 and close 30 April 2027 (2027/28). Other faculties set their own dates.",
+  "tuition_intl": {
+   "amount": 54000,
+   "currency": "CZK",
+   "per": "payment (period not stated)",
+   "note": "Faculty of Management and Economics, bachelor in English: 54,000 CZK payable within 30 days of enrolment; the page does not state whether this is per semester or year. The 2027/28 fee list is in a rector's directive."
+  },
+  "acceptance_rate": null,
+  "students": 9052,
+  "intl_pct": null,
+  "languages": [
+   "Czech",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Three routes: an existing Czech nostrification certificate (no fee), TBU's own assessment for 1,050 CZK, or full nostrification valid for any Czech university for 3,000 CZK. Applicants from Slovakia, Poland, Hungary, Slovenia and Germany pay no recognition fee.",
+   "ka": "სამი გზა არსებობს: უკვე არსებული ჩეხური ნოსტრიფიკაციის ცნობა (საფასურის გარეშე), TBU-ს საკუთარი შეფასება 1 050 CZK-ად, ან ნებისმიერ ჩეხურ უნივერსიტეტში მოქმედი სრული ნოსტრიფიკაცია 3 000 CZK-ად. სლოვაკეთის, პოლონეთის, უნგრეთის, სლოვენიისა და გერმანიის განმცხადებლებს აღიარების საფასური არ ეკისრებათ.",
+   "ar": "هناك ثلاثة مسارات: شهادة نوستريفيكاسيا تشيكية قائمة (بلا رسوم)، أو تقييم TBU الخاص بمبلغ 1,050 كرونة، أو نوستريفيكاسيا كاملة صالحة لأي جامعة تشيكية بمبلغ 3,000 كرونة. لا يدفع المتقدمون من سلوفاكيا وبولندا والمجر وسلوفينيا وألمانيا رسوم اعتراف."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "economics",
+   "computer-science",
+   "arts-design",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Management and Economics",
+    "Applied Informatics",
+    "Multimedia Communications",
+    "Technology",
+    "Logistics and Crisis Management"
+   ],
+   "ka": [
+    "მენეჯმენტი და ეკონომიკა",
+    "გამოყენებითი ინფორმატიკა",
+    "მულტიმედიური კომუნიკაციები",
+    "ტექნოლოგიები",
+    "ლოჯისტიკა და კრიზისების მართვა"
+   ],
+   "ar": [
+    "الإدارة والاقتصاد",
+    "المعلوماتية التطبيقية",
+    "الاتصالات متعددة الوسائط",
+    "التكنولوجيا",
+    "اللوجستيات وإدارة الأزمات"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Zlín with 9,052 students and English bachelors in finance, economics and management and risk management. The application fee is 790 CZK; the deadline 30 April 2027 at the Management and Economics faculty.",
+   "ka": "ზლინის საჯარო უნივერსიტეტი 9 052 სტუდენტით და ინგლისურენოვანი ბაკალავრიატით ფინანსებში, ეკონომიკასა და მენეჯმენტში და რისკების მართვაში. განაცხადის საფასური 790 CZK-ია; მენეჯმენტისა და ეკონომიკის ფაკულტეტზე ვადა 2027 წლის 30 აპრილია.",
+   "ar": "جامعة حكومية في زلين يدرس فيها 9,052 طالبًا ولديها بكالوريوس بالإنجليزية في المالية والاقتصاد والإدارة وإدارة المخاطر. رسوم التقديم 790 كرونة، والموعد النهائي في كلية الإدارة والاقتصاد 30 أبريل 2027."
+  },
+  "about": {
+   "en": "Tomas Bata University is a public university in Zlín with 9,052 students and six faculties. English bachelors include Economics and Management and Finance and Financial Technologies (Management and Economics) and Risk Management (Logistics and Crisis Management). At the Faculty of Management and Economics there is no entrance exam: applicants write an English essay of 2,500 to 3,000 words, and 10 to 50 places are open. The application fee is 790 CZK and tuition is 54,000 CZK per payment.",
+   "ka": "ტომას ბატას უნივერსიტეტი ზლინის საჯარო უნივერსიტეტია 9 052 სტუდენტით და ექვსი ფაკულტეტით. ინგლისურენოვანი ბაკალავრიატებია ეკონომიკა და მენეჯმენტი და ფინანსები და ფინანსური ტექნოლოგიები (მენეჯმენტისა და ეკონომიკის ფაკულტეტი) და რისკების მართვა (ლოჯისტიკისა და კრიზისების მართვის ფაკულტეტი). მენეჯმენტისა და ეკონომიკის ფაკულტეტზე მისაღები გამოცდა არ არის: განმცხადებელი წერს 2 500–3 000 სიტყვიან ინგლისურ ესეს; ადგილები 10-დან 50-მდეა. განაცხადის საფასური 790 CZK-ია, ხოლო სწავლის საფასური — 54 000 CZK თითო გადახდაზე.",
+   "ar": "جامعة توماس باتا جامعة حكومية في زلين يدرس فيها 9,052 طالبًا وتضم ست كليات. تشمل برامج البكالوريوس بالإنجليزية الاقتصاد والإدارة والمالية والتقنيات المالية (كلية الإدارة والاقتصاد) وإدارة المخاطر (كلية اللوجستيات وإدارة الأزمات). لا يوجد امتحان قبول في كلية الإدارة والاقتصاد، إذ يكتب المتقدم مقالًا بالإنجليزية من 2,500 إلى 3,000 كلمة، والمقاعد من 10 إلى 50. رسوم التقديم 790 كرونة والرسوم الدراسية 54,000 كرونة للدفعة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "No entrance exam at the Faculty of Management and Economics; an English essay of 2,500 to 3,000 words is submitted instead. An English proficiency table is published; the minimum level is on that page.",
+   "ka": "მენეჯმენტისა და ეკონომიკის ფაკულტეტზე მისაღები გამოცდა არ არის; მის ნაცვლად 2 500–3 000 სიტყვიანი ინგლისური ესე იგზავნება. ინგლისურის გამოცდების ექვივალენტობის ცხრილი გამოქვეყნებულია; მინიმალური დონე ამ გვერდზეა.",
+   "ar": "لا يوجد امتحان قبول في كلية الإدارة والاقتصاد، ويُقدَّم بدلًا منه مقال بالإنجليزية من 2,500 إلى 3,000 كلمة. نُشر جدول معادلة لاختبارات الإنجليزية، والحد الأدنى للمستوى في تلك الصفحة."
+  },
+  "gpa_note": {
+   "en": "No minimum grades are published; each faculty sets its own admission rules.",
+   "ka": "მინიმალური ნიშნები გამოქვეყნებული არ არის; მისაღებ წესებს თითოეული ფაკულტეტი თავად ადგენს.",
+   "ar": "لا توجد درجات دنيا منشورة؛ تضع كل كلية قواعد القبول الخاصة بها."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (nostrification) of the school diploma",
+     "ka": "სკოლის დიპლომის აღიარება (ნოსტრიფიკაცია)",
+     "ar": "الاعتراف بشهادة الثانوية (النوستريفيكاسيا)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "essay",
+    "label": {
+     "en": "Essay",
+     "ka": "ესე",
+     "ar": "مقال"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English (B2 or equivalent)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი (B2 ან ექვივალენტი)",
+     "ar": "إثبات إجادة اللغة الإنجليزية (مستوى B2 أو ما يعادله)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "czechia",
+   "zlin",
+   "management",
+   "economics",
+   "informatics",
+   "english bachelor"
+  ],
+  "sources": [
+   "https://www.utb.cz/en/",
+   "https://www.utb.cz/en/admissions/study-in-english/degree-studies/",
+   "https://fame.utb.cz/en/study/admission-requirements/deadlines/",
+   "https://fame.utb.cz/en/study/application/tuition-fee/"
+  ],
+  "verified_at": "2026-11-01"
+ }
+]

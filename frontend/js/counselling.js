@@ -11,6 +11,9 @@
 
   /* What students can work on with Meridian AI; each opens the chat with a starter */
   var TOOLS = [
+    { icon: 'sparkles', title: { en: 'Recommend from my CV', ka: 'რეკომენდაცია ჩემი CV-ით', ar: 'توصيات من سيرتي الذاتية' },
+      desc: { en: 'Paste your CV or achievements: get universities, projects and scholarships that fit you.', ka: 'ჩასვი შენი CV ან მიღწევები და მიიღე შენზე მორგებული უნივერსიტეტები, პროექტები და სტიპენდიები.', ar: 'الصق سيرتك الذاتية أو إنجازاتك لتحصل على جامعات ومشاريع ومنح تناسبك.' },
+      ask: { en: 'Recommend universities, projects and scholarships on Meridian that fit me. Here is my CV / my achievements (grade, scores, activities, awards, goals): ', ka: 'მირჩიე Meridian-ზე ჩემზე მორგებული უნივერსიტეტები, პროექტები და სტიპენდიები. აი ჩემი CV / მიღწევები (კლასი, ქულები, აქტივობები, ჯილდოები, მიზნები): ', ar: 'اقترح عليّ جامعات ومشاريع ومنحاً على Meridian تناسبني. هذه سيرتي الذاتية / إنجازاتي (الصف والدرجات والأنشطة والجوائز والأهداف): ' } },
     { icon: 'compass', title: { en: 'Plan my path', ka: 'ჩემი გზის დაგეგმვა', ar: 'خطط لمساري' },
       desc: { en: 'A month-by-month plan for tests, applications and deadlines.', ka: 'თვეების მიხედვით გეგმა გამოცდებისთვის, განაცხადებისა და ვადებისთვის.', ar: 'خطة شهرية للاختبارات والطلبات والمواعيد.' },
       ask: { en: 'Help me build a month-by-month plan for my university applications, using my profile.', ka: 'დამეხმარე ჩემი პროფილის მიხედვით უნივერსიტეტების განაცხადების თვიური გეგმის შედგენაში.', ar: 'ساعدني في إعداد خطة شهرية لطلبات الجامعات بناءً على ملفي.' } },
@@ -73,13 +76,17 @@
     host.innerHTML = keys.length ? keys.map(function (key) {
       var q = quizzes[key];
       var meta = QUIZ_META[key] || { icon: 'target', minutes: 4 };
+      // compact: picture, title, one line, start (the long explanation shows inside the test)
       return '<article class="cc-test">' +
-        '<span class="cc-test-ico">' + M.icon(meta.icon, 26) + '</span>' +
-        '<h3>' + M.esc(P(q.title)) + '</h3>' +
-        '<p class="muted">' + M.esc(P(q.intro)) + '</p>' +
-        '<div class="cluster" style="margin-top:auto"><span class="badge">' + q.questions.length + ' ' + M.t('cc.questions') + '</span>' +
-          '<span class="badge">~' + meta.minutes + ' min</span></div>' +
-        '<button type="button" class="btn btn-primary" data-quiz="' + key + '">' + M.t('cc.start') + M.icon('arrowRight', 16) + '</button>' +
+        '<img class="cc-test-img" src="/img/quiz-' + key + '.svg" alt="" loading="lazy" decoding="async" onerror="this.remove()" />' +
+        '<div class="cc-test-body">' +
+          '<h3>' + M.esc(P(q.title)) + '</h3>' +
+          '<p class="muted">' + M.esc(M.t('cc.quiz.' + key + '.short')) + '</p>' +
+          '<div class="cc-test-foot">' +
+            '<span class="badge">' + q.questions.length + ' ' + M.t('cc.questions') + ' · ~' + meta.minutes + ' min</span>' +
+            '<button type="button" class="btn btn-primary btn-sm" data-quiz="' + key + '">' + M.t('cc.start') + M.icon('arrowRight', 16) + '</button>' +
+          '</div>' +
+        '</div>' +
       '</article>';
     }).join('') : '<p class="muted">' + M.t('cc.soon') + '</p>';
     host.querySelectorAll('[data-quiz]').forEach(function (b) {
@@ -98,6 +105,7 @@
         '<div class="quiz-top"><span class="eyebrow">' + M.esc(P(quiz.title)) + '</span>' +
           '<span class="mono dim">' + (i + 1) + ' / ' + quiz.questions.length + '</span></div>' +
         '<div class="progress-line"><i style="width:' + Math.round(i / quiz.questions.length * 100) + '%"></i></div>' +
+        (i === 0 && P(quiz.intro) ? '<p class="muted quiz-intro">' + M.esc(P(quiz.intro)) + '</p>' : '') +
         '<h3 class="quiz-q">' + M.esc(P(q.q || q.question)) + '</h3>' +
         '<div class="quiz-options">' + (q.options || []).map(function (o, n) {
           return '<button type="button" data-opt="' + n + '">' + M.esc(P(o.t || o.text || o.label)) + '</button>';

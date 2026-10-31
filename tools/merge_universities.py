@@ -98,6 +98,27 @@ def enrich(u):
             u[key] = None
 
 
+def substance(u):
+    """How many key admission facts a researched record actually has."""
+    missing = re.compile(r"not (been )?(retrieved|available|found|published|readable|accessible)|could not|unable to|no (official )?data", re.I)
+    def text(v):
+        v = (v.get("en") if isinstance(v, dict) else v) or ""
+        return "" if missing.search(str(v)) else str(v)
+    tuition = u.get("tuition_intl") if isinstance(u.get("tuition_intl"), dict) else {}
+    checks = [
+        tuition.get("amount") is not None,
+        bool(u.get("deadline") or text(u.get("deadline_note"))),
+        len(text(u.get("tests"))) > 60,
+        bool(u.get("application_url")) and domain(u.get("application_url")) + "/" != domain(u.get("website")) + "/"
+        and u.get("application_url").rstrip("/") != (u.get("website") or "").rstrip("/"),
+        any((u.get("qualifications") or {}).values()) if isinstance(u.get("qualifications"), dict) else False,
+        bool(u.get("ielts_min") or u.get("toefl_min") or u.get("other_tests")),
+        len(text(u.get("gpa_note"))) > 40,
+        len(u.get("requirements") or []) >= 3,
+    ]
+    return sum(1 for c in checks if c)
+
+
 def translate(unis):
     """Georgian and Arabic from the translation agent (research/round5/translate/uni-out.json)."""
     done = {}
@@ -155,11 +176,18 @@ def main():
     full = {}
     files = sorted(glob.glob(os.path.join(RESEARCH, "incoming", "universities-*.json"))) + \
         sorted(p for p in glob.glob(os.path.join(RESEARCH, "round5", "universities-*.json")) if "qs-list" not in p) + \
-        sorted(glob.glob(os.path.join(RESEARCH, "round6", "universities-*.json")))
+        sorted(glob.glob(os.path.join(RESEARCH, "round6", "universities-*.json"))) + \
+        sorted(glob.glob(os.path.join(RESEARCH, "round7", "universities-*.json")))
+    thin = []
     for path in files:
         rows = load(path)
         for u in rows:
             if not isinstance(u, dict) or not u.get("id") or not u.get("name"):
+                continue
+            # round 7: a record with almost no admission facts stays a basic page
+            # (listed in round7/THIN.txt for a retry) instead of an empty profile
+            if "round7" in path and substance(u) < 4:
+                thin.append("%s | %s" % (u["id"], os.path.basename(path)))
                 continue
             if isinstance(u["name"], str):
                 u["name"] = {"en": u["name"]}
@@ -185,6 +213,10 @@ def main():
             full[u["id"]] = u
         print("  %-60s %4d" % (os.path.relpath(path, ROOT), len(rows)))
 
+    with open(os.path.join(RESEARCH, "round7", "THIN.txt"), "w", encoding="utf-8") as fh:
+        fh.write("\n".join(thin) + ("\n" if thin else ""))
+    if thin:
+        print("  kept as basic pages (too little official data): %d — see research/round7/THIN.txt" % len(thin))
     taken = {u.get("_qs") for u in full.values() if u.get("_qs")}
     taken_domains = {domain(u.get("website")) for u in full.values()}
     basic, seen = [], set(full)
@@ -209,10 +241,21 @@ def main():
     out = sorted(full.values(), key=lambda u: (u.get("rank_qs") or 99999, u["name"].get("en", "")))
     for u in out:
         enrich(u)
+        # round 7 agents wrote percentages (45); the site stores fractions (0.45)
+        for key in ("acceptance_rate", "intl_pct"):
+            if isinstance(u.get(key), (int, float)) and u[key] > 1:
+                u[key] = round(u[key] / 100.0, 3)
+        if not u.get("top_programs") and isinstance(u.get("strengths"), dict):
+            u["top_programs"] = u["strengths"]
+        # the QS list's country/region wins over whatever the agent wrote
+        if not isinstance(u.get("country"), dict) or not u["country"].get("ka"):
+            u["country"] = country_of(u["iso"], u.get("country") if isinstance(u.get("country"), dict) else None)
     translate(out)
     for u in out:
         u.pop("_qs", None)
-    json.dump(out, open(os.path.join(DATA, "universities.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    # one record per line: the server loads it record by record (backend/catalog.py)
+    with open(os.path.join(DATA, "universities.json"), "w", encoding="utf-8") as fh:
+        fh.write("[\n" + ",\n".join(json.dumps(u, ensure_ascii=False, separators=(",", ":")) for u in out) + "\n]\n")
     json.dump(basic, open(os.path.join(DATA, "universities-qs.json"), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
     print("full profiles: %d   basic QS pages: %d   total: %d" % (len(out), len(basic), len(out) + len(basic)))
 

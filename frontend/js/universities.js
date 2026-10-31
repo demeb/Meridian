@@ -15,7 +15,7 @@
   var shown = PAGE;
   var view = 'list';
   var DEFAULTS = { q: '', region: 'all', country: 'all', tier: 'all', tuition: 'all', platform: 'all', admit: 'all',
-    type: 'all', major: 'all', aid: false, schol: false, full: false, fitOnly: false, testOptional: false, sort: 'rank',
+    type: 'all', major: 'all', diploma: 'all', teach: 'all', aid: false, schol: false, full: false, fitOnly: false, testOptional: false, sort: 'rank',
     sat: null, act: null, ielts: null, toefl: null, duo: null };
   var filters = Object.assign({}, DEFAULTS);
 
@@ -61,6 +61,45 @@
     deadline: { en: 'Deadline: soonest', ka: 'ვადა: უახლოესი', ar: 'الموعد: الأقرب' },
     admit: { en: 'Acceptance rate: highest', ka: 'მიღების მაჩვენებელი: მაღალი', ar: 'نسبة القبول: الأعلى' }
   };
+  // the school-leaving diploma a student has -> which qualification keys a university must accept
+  var DIPLOMAS = {
+    all: { en: 'Any diploma', ka: 'ნებისმიერი ატესტატი', ar: 'أي شهادة' },
+    national: { en: 'National school diploma', ka: 'ეროვნული ატესტატი', ar: 'شهادة الثانوية الوطنية' },
+    'national-a-level': { en: 'National diploma + A levels', ka: 'ეროვნული ატესტატი + A level', ar: 'شهادة وطنية + A level' },
+    'a-level': { en: 'GCSE + A levels', ka: 'GCSE + A level', ar: 'GCSE + A level' },
+    ib: { en: 'IB Diploma', ka: 'IB დიპლომი', ar: 'دبلوم البكالوريا الدولية IB' },
+    'us-diploma': { en: 'American high school diploma', ka: 'ამერიკული სკოლის დიპლომი', ar: 'دبلوم الثانوية الأمريكية' }
+  };
+  var DIPLOMA_KEYS = { national: ['national'], 'national-a-level': ['a-level', 'national'], 'a-level': ['a-level'], ib: ['ib'], 'us-diploma': ['us-diploma'] };
+  var LANG_NAMES = {
+    English: { ka: 'ინგლისური', ar: 'الإنجليزية' }, Spanish: { ka: 'ესპანური', ar: 'الإسبانية' },
+    Italian: { ka: 'იტალიური', ar: 'الإيطالية' }, Czech: { ka: 'ჩეხური', ar: 'التشيكية' },
+    German: { ka: 'გერმანული', ar: 'الألمانية' }, French: { ka: 'ფრანგული', ar: 'الفرنسية' },
+    Dutch: { ka: 'ნიდერლანდური', ar: 'الهولندية' }, Chinese: { ka: 'ჩინური', ar: 'الصينية' },
+    Japanese: { ka: 'იაპონური', ar: 'اليابانية' }, Korean: { ka: 'კორეული', ar: 'الكورية' },
+    Russian: { ka: 'რუსული', ar: 'الروسية' }, Turkish: { ka: 'თურქული', ar: 'التركية' },
+    Arabic: { ka: 'არაბული', ar: 'العربية' }, Portuguese: { ka: 'პორტუგალიური', ar: 'البرتغالية' },
+    Polish: { ka: 'პოლონური', ar: 'البولندية' }, Swedish: { ka: 'შვედური', ar: 'السويدية' },
+    Catalan: { ka: 'კატალანური', ar: 'الكتالونية' }, Georgian: { ka: 'ქართული', ar: 'الجورجية' }
+  };
+
+  /* a diploma counts when the university accepts it (directly or with an extra step) */
+  function diplomaOk(u) {
+    var q = u.qualifications;
+    if (!q) return false;
+    return (DIPLOMA_KEYS[filters.diploma] || []).some(function (key) { return q[key] === 'accepted' || q[key] === 'with-extra'; });
+  }
+  function teachesIn(u, language) {
+    if (language === 'English' && u.english_bachelors === 'none') return false;
+    return (u.languages || []).some(function (l) { return String(l).toLowerCase().indexOf(language.toLowerCase()) === 0; });
+  }
+  /* 0 = the field a university is strongest in, 1 = second… (99 when it doesn't list it) */
+  function fieldRank(u) {
+    var list = M.fieldsOf(u, u.study);
+    var i = list.indexOf(filters.major);
+    return i === -1 ? 99 : i;
+  }
+
   // rough rates, only used to compare tuition across currencies
   var USD = { USD: 1, EUR: 1.08, GBP: 1.27, CHF: 1.12, CAD: 0.73, AUD: 0.66, NZD: 0.6, JPY: 0.0067, KRW: 0.00073,
     CNY: 0.14, HKD: 0.13, SGD: 0.74, QAR: 0.27, AED: 0.27, SAR: 0.27, TRY: 0.03, SEK: 0.095, NOK: 0.093, DKK: 0.145,
@@ -149,6 +188,8 @@
     }
     if (filters.type !== 'all' && u.type !== filters.type) return false;
     if (filters.major !== 'all' && M.fieldsOf(u, u.study).indexOf(filters.major) === -1) return false;
+    if (filters.diploma !== 'all' && !diplomaOk(u)) return false;
+    if (filters.teach !== 'all' && !teachesIn(u, filters.teach)) return false;
     if (filters.platform !== 'all' && u.platform !== filters.platform) return false;
     if (filters.aid) {
       var aid = (M.pick(u.aid_intl) || '').toLowerCase();
@@ -169,7 +210,13 @@
       case 'tuition': return (tuitionUSD(a) === null ? 1e9 : tuitionUSD(a)) - (tuitionUSD(b) === null ? 1e9 : tuitionUSD(b));
       case 'deadline': return (a.deadline || '9999') < (b.deadline || '9999') ? -1 : (a.deadline || '9999') > (b.deadline || '9999') ? 1 : 0;
       case 'admit': return (b.acceptance_rate || -1) - (a.acceptance_rate || -1);
-      default: return (a.rank_qs || 99999) - (b.rank_qs || 99999) || (a.profile === 'full' ? -1 : 1);
+      default:
+        // with a field chosen, the universities strongest in it lead (then by rank)
+        if (filters.major !== 'all') {
+          var f = Math.min(fieldRank(a), 2) - Math.min(fieldRank(b), 2);
+          if (f) return f;
+        }
+        return (a.rank_qs || 99999) - (b.rank_qs || 99999) || (a.profile === 'full' ? -1 : 1);
     }
   }
 
@@ -231,6 +278,15 @@
     var majors = { all: { en: 'Any major', ka: 'ნებისმიერი სპეციალობა', ar: 'أي تخصص' } };
     Object.keys(M.FIELDS).forEach(function (key) { if (key !== 'any') majors[key] = M.FIELDS[key]; });
     select('fMajor', majors, 'major');
+    select('fDiploma', DIPLOMAS, 'diploma');
+    var langs = {};
+    unis.forEach(function (u) { (u.languages || []).forEach(function (l) { var k = String(l).split(/[ (]/)[0]; if (LANG_NAMES[k]) langs[k] = (langs[k] || 0) + 1; }); });
+    var teach = { all: { en: 'Any language', ka: 'ნებისმიერი ენა', ar: 'أي لغة' } };
+    Object.keys(langs).sort(function (a, b) { return langs[b] - langs[a]; }).forEach(function (k) {
+      teach[k] = { en: k + ' (' + langs[k] + ')', ka: LANG_NAMES[k].ka + ' (' + langs[k] + ')', ar: LANG_NAMES[k].ar + ' (' + langs[k] + ')' };
+    });
+    select('fTeachLang', teach, 'teach');
+    paintFieldFinder();
     var countries = {};
     unis.forEach(function (u) {
       if (!u.iso) return;
@@ -259,6 +315,48 @@
     check('fAid', 'aid'); check('fSchol', 'schol'); check('fFull', 'full');
     check('fFitOnly', 'fitOnly'); check('fTestOptional', 'testOptional');
     score('fSat', 'sat'); score('fAct', 'act'); score('fIelts', 'ielts'); score('fToefl', 'toefl'); score('fDuo', 'duo');
+  }
+
+  /* "Best universities in your field": one chip per field, the same filter as Major */
+  function paintFieldFinder() {
+    var host = document.getElementById('ffChips');
+    if (!host) return;
+    var count = {};
+    unis.forEach(function (u) { M.fieldsOf(u, u.study).forEach(function (f) { count[f] = (count[f] || 0) + 1; }); });
+    host.innerHTML = Object.keys(M.FIELDS).filter(function (key) { return key === 'any' || count[key]; }).map(function (key) {
+      var value = key === 'any' ? 'all' : key;
+      return '<button type="button" class="cat-chip" data-field="' + value + '" aria-pressed="' + (filters.major === value) + '">' +
+        '<span>' + M.esc(M.pick(M.FIELDS[key])) + '</span>' +
+        (key === 'any' ? '' : '<span class="cat-count">' + count[key] + '</span>') + '</button>';
+    }).join('');
+    host.querySelectorAll('[data-field]').forEach(function (chip) {
+      chip.addEventListener('click', function () {
+        filters.major = chip.getAttribute('data-field');
+        document.getElementById('fMajor').value = filters.major;
+        host.querySelectorAll('[data-field]').forEach(function (c) { c.setAttribute('aria-pressed', String(c === chip)); });
+        refresh(true);
+      });
+    });
+    syncFieldArrows();
+  }
+  function syncFieldArrows() {
+    var wrap = document.getElementById('ffWrap'), track = document.getElementById('ffChips');
+    if (!wrap || !track) return;
+    var max = track.scrollWidth - track.clientWidth, pos = Math.abs(track.scrollLeft);
+    wrap.classList.toggle('can-back', max > 4 && pos > 4);
+    wrap.classList.toggle('can-next', max > 4 && pos < max - 4);
+  }
+  function mountFieldArrows() {
+    var wrap = document.getElementById('ffWrap'), track = document.getElementById('ffChips');
+    if (!wrap || !track) return;
+    wrap.querySelectorAll('.cats-arrow').forEach(function (button) {
+      button.addEventListener('click', function () {
+        var dir = Number(button.getAttribute('data-dir')) * (document.documentElement.getAttribute('dir') === 'rtl' ? -1 : 1);
+        track.scrollBy({ left: dir * track.clientWidth * 0.7, behavior: 'smooth' });
+      });
+    });
+    track.addEventListener('scroll', syncFieldArrows, { passive: true });
+    window.addEventListener('resize', syncFieldArrows);
   }
 
   /* ---------------------------------------------------------- cards */
@@ -493,12 +591,16 @@
 
   function refresh(resetPage) {
     if (resetPage) shown = PAGE;
+    document.querySelectorAll('#ffChips [data-field]').forEach(function (chip) {
+      chip.setAttribute('aria-pressed', String(chip.getAttribute('data-field') === filters.major));
+    });
     paintGrid();
     if (view === 'map') startDrawing();
   }
 
   function init() {
     mountMap();
+    mountFieldArrows();
     loadScores();
     var search = document.getElementById('uniSearch');
     var params = new URLSearchParams(window.location.search);

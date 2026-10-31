@@ -90,6 +90,7 @@
     var programs = M.pick(uni.top_programs) || [];
     host.innerHTML =
       glance() +
+      schoolBlock() +
       '<section class="op-block"><h2 class="op-h2">' + M.t('op.about') + '</h2><div class="op-prose">' +
         paragraphs(M.pick(uni.about) || M.pick(uni.summary)) + '</div></section>' +
       (programs.length ? '<section class="op-block"><h2 class="op-h2">' + M.t('uni.topPrograms') + '</h2><div class="tag-list">' +
@@ -122,6 +123,26 @@
       cells.map(function (c) {
         return '<div><dt>' + M.esc(c[0]) + '</dt><dd>' + M.esc(c[1]) + '</dd>' + (c[2] ? '<small>' + M.esc(c[2]) + '</small>' : '') + '</div>';
       }).join('') + '</dl></section>';
+  }
+
+  /* Which school diplomas the university takes, and the language of teaching */
+  var DIPLOMA_ROWS = [['national', 'uni.dip.national'], ['a-level', 'uni.dip.alevel'], ['ib', 'uni.dip.ib'], ['us-diploma', 'uni.dip.us']];
+  function schoolBlock() {
+    var q = uni.qualifications || {};
+    var rows = DIPLOMA_ROWS.filter(function (row) { return q[row[0]]; });
+    var langs = (uni.languages || []).join(' · ');
+    var english = uni.english_bachelors ? M.t('uni.eng.' + uni.english_bachelors) : '';
+    var note = uni.qualifications_note ? M.pick(uni.qualifications_note) : '';
+    if (!rows.length && !note && !langs) return '';
+    return '<section class="op-block"><h2 class="op-h2">' + M.t('uni.school.title') + '</h2>' +
+      (rows.length ? '<ul class="dip-list">' + rows.map(function (row) {
+        var status = q[row[0]];
+        return '<li class="dip-' + status + '"><span class="dip-dot"></span><b>' + M.esc(M.t(row[1])) + '</b><span>' +
+          M.esc(M.t('uni.dip.' + status)) + '</span></li>';
+      }).join('') + '</ul>' : '') +
+      (note ? '<p class="muted" style="margin-top:.8rem">' + M.esc(note) + '</p>' : '') +
+      (langs ? '<p class="dip-lang"><b>' + M.t('uni.f.teachLang') + ':</b> ' + M.esc(langs) + (english ? ' · ' + M.esc(english) : '') + '</p>' : '') +
+      '</section>';
   }
 
   function scholarshipsBlock() {

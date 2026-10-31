@@ -70,7 +70,7 @@
         '<h3><span class="step-no">' + (opts.photo !== false ? 3 : 2) + '</span>' + M.t('apply.expertise.title') + '</h3>' +
         '<p class="label">' + M.t('apply.subjects') + '</p>' + chips('subjects', TAX.subjects, profile.subjects || [], 10) +
         '<span class="field-error" id="subjectsError">—</span>' +
-        '<p class="label" style="margin-top:1.2rem">' + M.t('apply.regions') + '</p>' + chips('regions', TAX.regions, profile.regions || [], 4) +
+        '<p class="label" style="margin-top:1.2rem">' + M.t('apply.regions') + '</p>' + chips('regions', TAX.regions, (profile.regions || []).map(function (r) { return (TAX.legacyRegions || {})[r] || r; }), 6) +
         '<p class="label" style="margin-top:1.2rem">' + M.t('apply.languages') + '</p>' + chips('languages', TAX.languages, profile.languages || [], 8) +
         '<div class="auth-row" style="margin-top:1.2rem">' +
           '<div class="field"><label for="f-experience">' + M.t('apply.experience') + '</label>' +

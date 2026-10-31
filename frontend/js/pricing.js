@@ -18,16 +18,18 @@
     ['courses', 1, 1, 1],
     ['tutors', 1, 1, 1],
     ['save', 1, 1, 1],
-    ['group', 'apply'],
     ['excel', 1, 1, 1],
+    ['group', 'apply'],
     ['tracker', 0, 1, 1],
-    ['shortlist', 0, 1, 1],
     ['alerts', 0, 1, 1],
+    ['shortlist', 0, 1, 1],
+    ['aiDocs', 0, 1, 1],
     ['priority', 0, 1, 1],
     ['group', 'support'],
     ['ai', 25, 120, 300],
     ['checkin', 0, 0, 1],
-    ['essay', 0, 0, 1]
+    ['essay', 0, 0, 1],
+    ['listReview', 0, 0, 1]
   ];
   var ROWS = FEATURES.filter(function (f) { return f[0] !== 'group'; });
   var PLAN_ICON = { free: 'compass', compass: 'target', navigator: 'star' };

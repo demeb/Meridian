@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="en" data-theme="dark">
 <head>
-  <title>Meridian</title>
-  <meta name="description" content="Meridian brings programmes, tutors and college counselling for students in Georgia into one place." />
+  <title>About Meridian</title>
+  <meta name="description" content="Meridian is an education platform based in Doha that helps students from any country find study-abroad opportunities, scholarships and universities, and get the guidance to apply." />
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <meta name="theme-color" content="#061229" />
@@ -10,15 +10,18 @@
   <link rel="icon" type="image/png" sizes="64x64" href="/assets/brand/favicon-64.png?v=3" />
   <link rel="apple-touch-icon" href="/assets/brand/apple-touch-icon.png?v=3" />
   <meta name="apple-mobile-web-app-title" content="Meridian" />
-  <meta property="og:title" content="Meridian" />
+  <meta property="og:title" content="About Meridian" />
+  <meta property="og:description" content="Meridian is an education platform based in Doha that helps students from any country find study-abroad opportunities, scholarships and universities, and get the guidance to apply." />
+  <meta property="og:site_name" content="Meridian" />
+  <meta property="og:type" content="website" />
   <meta property="og:image" content="/assets/brand/meridian-logo.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Newsreader:ital,wght@0,400;1,400&family=Noto+Sans+Georgian:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&family=Noto+Kufi+Arabic:wght@600;700&display=swap" />
-  <link rel="stylesheet" href="/css/tokens.css?v=r6" />
-  <link rel="stylesheet" href="/css/base.css?v=r6" />
-  <link rel="stylesheet" href="/css/components.css?v=r6" />
-  <link rel="stylesheet" href="/css/pages.css?v=r6" />
+  <link rel="stylesheet" href="/css/tokens.css?v=r7" />
+  <link rel="stylesheet" href="/css/base.css?v=r7" />
+  <link rel="stylesheet" href="/css/components.css?v=r7" />
+  <link rel="stylesheet" href="/css/pages.css?v=r7" />
   <script>
     /* Set theme + language before first paint so nothing flashes. */
     (function () {
@@ -52,20 +55,14 @@
 
     <section class="section-sm">
       <div class="container">
-        <div class="grid grid-2" data-reveal-group>
-          <article class="card card-pad-lg" data-reveal="left">
-            <span class="value-icon">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="m15.5 8.5-2 5.2-5.2 2 2-5.2z"/></svg>
-            </span>
-            <h2 style="font-size:var(--step-2);margin:1.2rem 0 .8rem" data-i18n="about.mission.title">Our mission</h2>
-            <p class="muted" data-i18n="about.mission.body"></p>
+        <div class="about-mv" data-reveal-group>
+          <article class="about-mv-card" data-reveal>
+            <span class="eyebrow" data-i18n="about.mission.title">Our mission</span>
+            <p data-i18n="about.mission.body"></p>
           </article>
-          <article class="card card-pad-lg" data-reveal="right">
-            <span class="value-icon">
-              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m3 16 5.5-5.5 3.5 3.5L21 5"/><path d="M15.5 5H21v5.5"/></svg>
-            </span>
-            <h2 style="font-size:var(--step-2);margin:1.2rem 0 .8rem" data-i18n="about.vision.title">Where this goes</h2>
-            <p class="muted" data-i18n="about.vision.body"></p>
+          <article class="about-mv-card" data-reveal>
+            <span class="eyebrow" data-i18n="about.vision.title">Where this goes</span>
+            <p data-i18n="about.vision.body"></p>
           </article>
         </div>
       </div>
@@ -73,30 +70,48 @@
 
     <section class="section-sm">
       <div class="container">
-        <div class="card card-pad-lg">
-          <h2 class="eyebrow" style="margin-bottom:1.8rem" data-i18n="about.numbers.title">Meridian today</h2>
-          <div class="grid grid-4" id="aboutStats">
-            <div><div class="stat-value"><span data-live="programs">—</span></div><div class="stat-label" data-i18n="research.live.programs">Programmes in the database</div></div>
-            <div><div class="stat-value"><span data-live="countries">—</span></div><div class="stat-label" data-i18n="research.live.countries">Host countries</div></div>
-            <div><div class="stat-value"><span data-live="verified">—</span></div><div class="stat-label" data-i18n="research.live.verified">Checked against official pages</div></div>
-            <div><div class="stat-value"><span data-live="families">—</span></div><div class="stat-label" data-i18n="about.stat.families">Programme categories</div></div>
-          </div>
+        <div class="about-stats" id="aboutStats">
+          <div><b data-live="projects">—</b><span data-i18n="about.stat.projects">Projects and exchanges</span></div>
+          <div><b data-live="scholarships">—</b><span data-i18n="about.stat.scholarships">Scholarships</span></div>
+          <div><b data-live="universities">—</b><span data-i18n="about.stat.universities">Universities</span></div>
+          <div><b>3</b><span data-i18n="about.stat.languages">Languages: English, Georgian, Arabic</span></div>
         </div>
       </div>
     </section>
 
-    <section class="section">
+    <section class="section-sm">
       <div class="container">
-        <div id="pillarList"></div>
+        <div class="section-head" data-reveal>
+          <span class="eyebrow" data-i18n="about.how.eyebrow">How we work</span>
+          <h2 style="margin-top:1rem" data-i18n="about.how.title">Four promises to every student</h2>
+        </div>
+        <div class="about-principles" id="pillarList"></div>
+      </div>
+    </section>
+
+    <section class="section" style="padding-top:var(--space-6)">
+      <div class="container">
+        <div class="about-team" data-reveal>
+          <div class="about-team-copy">
+            <span class="eyebrow" data-i18n="about.team.eyebrow">Who we are</span>
+            <h2 style="margin:1rem 0 .7rem" data-i18n="about.team.title">Built by students who went through it</h2>
+            <p class="muted" data-i18n="about.team.body"></p>
+            <div class="cluster" style="margin-top:1.2rem">
+              <a class="btn btn-primary" href="/about/leadership" data-i18n="about.team.cta">Meet the team</a>
+              <a class="btn btn-ghost" href="/engage" data-i18n="about.team.partner">Partner with us</a>
+            </div>
+          </div>
+          <div class="about-team-people" id="aboutPeople"></div>
+        </div>
       </div>
     </section>
   </main>
 
   <div id="footer-root"></div>
 
-  <script src="/js/i18n.js?v=r6"></script>
-  <script src="/js/app.js?v=r6"></script>
-  <script src="/js/taxonomy.js?v=r6"></script>
-  <script src="/js/about.js?v=r6"></script>
+  <script src="/js/i18n.js?v=r7"></script>
+  <script src="/js/app.js?v=r7"></script>
+  <script src="/js/taxonomy.js?v=r7"></script>
+  <script src="/js/about.js?v=r7"></script>
 </body>
 </html>
