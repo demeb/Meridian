@@ -3671,7 +3671,8 @@
   "apply_url": "https://freeuni.edu.ge/ge/freshmen/contests/%E1%83%9A%E1%83%90%E1%83%95%E1%83%A3%E1%83%90%E1%83%96%E1%83%98%E1%83%94%E1%83%A1-%E1%83%AC%E1%83%A0%E1%83%94/",
   "sources": [
    "https://freeuni.edu.ge/ge/freshmen/?entrants=contests",
-   "https://freeuni.edu.ge/ge/freshmen/contests/%E1%83%9A%E1%83%90%E1%83%95%E1%83%A3%E1%83%90%E1%83%96%E1%83%98%E1%83%94%E1%83%A1-%E1%83%AC%E1%83%A0%E1%83%94/"
+   "https://freeuni.edu.ge/ge/freshmen/contests/%E1%83%9A%E1%83%90%E1%83%95%E1%83%A3%E1%83%90%E1%83%96%E1%83%98%E1%83%94%E1%83%A1-%E1%83%AC%E1%83%A0%E1%83%94/",
+   "https://agruni.edu.ge/ge/freshmen/contests/lavoisier-circle/"
   ],
   "score": 7,
   "score_reason": "Big grants, team format; 2027 dates pending",
@@ -3853,7 +3854,8 @@
   "apply_url": "https://freeuni.edu.ge/ge/freshmen/contests/%E1%83%94%E1%83%93%E1%83%98%E1%83%A1%E1%83%9D%E1%83%9C%E1%83%98%E1%83%A1-%E1%83%9A%E1%83%98%E1%83%92%E1%83%90/",
   "sources": [
    "https://freeuni.edu.ge/ge/freshmen/?entrants=contests",
-   "https://freeuni.edu.ge/ge/freshmen/contests/%E1%83%94%E1%83%93%E1%83%98%E1%83%A1%E1%83%9D%E1%83%9C%E1%83%98%E1%83%A1-%E1%83%9A%E1%83%98%E1%83%92%E1%83%90/"
+   "https://freeuni.edu.ge/ge/freshmen/contests/%E1%83%94%E1%83%93%E1%83%98%E1%83%A1%E1%83%9D%E1%83%9C%E1%83%98%E1%83%A1-%E1%83%9A%E1%83%98%E1%83%92%E1%83%90/",
+   "https://agruni.edu.ge/ge/freshmen/contests/edisons-league/"
   ],
   "score": 7,
   "score_reason": "Big grants, hands-on engineering; 2027 dates pending",
@@ -4025,7 +4027,8 @@
   "apply_url": "https://freeuni.edu.ge/ge/freshmen/contests/%E1%83%9D%E1%83%9A%E1%83%98%E1%83%9B%E1%83%9E%E1%83%98%E1%83%94%E1%83%9A%E1%83%94%E1%83%91%E1%83%98%E1%83%A1-%E1%83%91%E1%83%90%E1%83%9C%E1%83%90%E1%83%99%E1%83%98/",
   "sources": [
    "https://freeuni.edu.ge/ge/freshmen/?entrants=contests",
-   "https://freeuni.edu.ge/ge/freshmen/contests/%E1%83%9D%E1%83%9A%E1%83%98%E1%83%9B%E1%83%9E%E1%83%98%E1%83%94%E1%83%9A%E1%83%94%E1%83%91%E1%83%98%E1%83%A1-%E1%83%91%E1%83%90%E1%83%9C%E1%83%90%E1%83%99%E1%83%98/"
+   "https://freeuni.edu.ge/ge/freshmen/contests/%E1%83%9D%E1%83%9A%E1%83%98%E1%83%9B%E1%83%9E%E1%83%98%E1%83%94%E1%83%9A%E1%83%94%E1%83%91%E1%83%98%E1%83%A1-%E1%83%91%E1%83%90%E1%83%9C%E1%83%90%E1%83%99%E1%83%98/",
+   "https://agruni.edu.ge/ge/freshmen/?entrants=contests"
   ],
   "score": 5,
   "score_reason": "Fully funded but only for olympiad finalists",
@@ -4119,6 +4122,444 @@
   "premium": false,
   "fields": [
    "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "iliauni-summer-school-english-georgian-studies-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "international summer school",
+  "org": "Ilia State University",
+  "name": {
+   "en": "Ilia State University Summer School of English and Georgian Studies 2027",
+   "ka": "ილიას სახელმწიფო უნივერსიტეტის ინგლისური ენისა და ქართველოლოგიის საზაფხულო სკოლა 2027",
+   "ar": "المدرسة الصيفية للغة الإنجليزية والدراسات الجورجية في جامعة إيليا الحكومية 2027"
+  },
+  "country": {
+   "en": "Georgia",
+   "ka": "საქართველო",
+   "ar": "جورجيا"
+  },
+  "city": "Tbilisi",
+  "iso": "GE",
+  "flag": "🇬🇪",
+  "region": "europe",
+  "lat": 41.716,
+  "lon": 44.783,
+  "cost": "paid",
+  "duration": {
+   "en": "2 weeks in July",
+   "ka": "2 კვირა ივლისში",
+   "ar": "أسبوعان في يوليو"
+  },
+  "grades": "university (18+)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "2027 edition not yet announced (checked 31 Oct 2026). 2026 edition ran 5-19 July with early-bird deadline 10 May and final deadline 31 May; expect a similar calendar.",
+  "event_dates": null,
+  "summary": {
+   "en": "A two-week July summer school at Ilia State University in Tbilisi combining English classes (B1-B2) with an introduction to the Georgian language, history and culture, plus trips to Kakheti and Mtskheta. Open to university students aged 18+ from any country.",
+   "ka": "ორკვირიანი ივლისის საზაფხულო სკოლა ილიას სახელმწიფო უნივერსიტეტში: ინგლისური ენა (B1-B2), ქართული ენის საფუძვლები, ისტორია და კულტურა, ექსკურსიები კახეთსა და მცხეთაში. ღიაა ნებისმიერი ქვეყნის 18+ სტუდენტებისთვის.",
+   "ar": "مدرسة صيفية لمدة أسبوعين في يوليو بجامعة إيليا الحكومية في تبليسي تجمع دروس الإنجليزية (B1-B2) مع مقدمة في اللغة والتاريخ والثقافة الجورجية ورحلات إلى كاخيتي وMtskheta، ومفتوحة لطلاب الجامعات من سن 18 من أي بلد."
+  },
+  "about": {
+   "en": "Ilia State University's Summer School of English and Georgian Studies brings international university students to Tbilisi for two weeks each July. The programme combines English-language development at B1 or B2 level with a first introduction to the Georgian language and courses on Georgian history, culture and society, including the country's role in the Black Sea and Caucasus region.\n\nField trips include a Tbilisi city tour, Kakheti (Sighnaghi and the wine route), Mtskheta (Svetitskhoveli Cathedral and Jvari Monastery), the Ethnographic Museum and the Georgian National Museum. In 2026 it ran from 5 to 19 July on the main campus; the fee was 1,500 USD (5% off for registration by 10 May), covering tuition, materials, two weeks' accommodation, insurance, field trips and some meals. Applicants email summer@iliauni.edu.ge with an ID copy, CV and a recommendation letter from their university.\n\nA compact way to spend part of the summer in Georgia while improving English and earning a certificate from a leading Georgian university."
+  },
+  "highlights": {
+   "en": [
+    "English (B1-B2) plus Georgian language and culture",
+    "Trips to Kakheti, Mtskheta and museums",
+    "Accommodation and insurance included"
+   ]
+  },
+  "eligibility": {
+   "en": "Full-time students at any higher-education institution who have completed at least one semester and are 18+; English at B1-B2. Open to all nationalities."
+  },
+  "how_to_apply": {
+   "en": [
+    "Watch the Ilia State University International Relations Office site for the 2027 call (expected spring)",
+    "Email summer@iliauni.edu.ge with a copy of your passport/ID, your CV and a recommendation letter from your university",
+    "Register by the early-bird date for a 5% discount",
+    "Pay the fee and arrange your flight to Tbilisi"
+   ]
+  },
+  "costs": {
+   "en": "2026 fee: 1,500 USD (tuition, materials, 2 weeks' accommodation, insurance, field trips, some meals). Airfare and personal costs not included."
+  },
+  "keywords": [
+   "summer school",
+   "english",
+   "georgian language",
+   "culture",
+   "tbilisi",
+   "ilia state university",
+   "international"
+  ],
+  "url": "https://iro.iliauni.edu.ge/?p=3027",
+  "apply_url": "mailto:summer@iliauni.edu.ge",
+  "sources": [
+   "https://iro.iliauni.edu.ge/?p=3027"
+  ],
+  "score": 5,
+  "score_reason": "Solid paid summer school; 2027 dates not yet out",
+  "premium": false,
+  "fields": [
+   "languages",
+   "humanities"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "tbilisi-american-corner-clubs-2026-27",
+  "section": "project",
+  "family": "youth",
+  "type": "American Corner clubs for pupils",
+  "org": "Tbilisi American Corner at the National Palace of Youth",
+  "name": {
+   "en": "Tbilisi American Corner Clubs 2026-27: STEM, Coding, Robotics, 3D Printing, SAT Math",
+   "ka": "თბილისის ამერიკული კუთხის კლუბები 2026-27: STEM, კოდირება, რობოტიკა, 3D ბეჭდვა, SAT მათემატიკა",
+   "ar": "نوادي الركن الأمريكي في تبليسي 2026-27: STEM والبرمجة والروبوتات والطباعة ثلاثية الأبعاد ورياضيات SAT"
+  },
+  "country": {
+   "en": "Georgia",
+   "ka": "საქართველო",
+   "ar": "جورجيا"
+  },
+  "city": "Tbilisi",
+  "iso": "GE",
+  "flag": "🇬🇪",
+  "region": "europe",
+  "lat": 41.716,
+  "lon": 44.783,
+  "cost": "free",
+  "duration": {
+   "en": "School year 2026-27 (weekly sessions)",
+   "ka": "2026-27 სასწავლო წელი (ყოველკვირეული მეცადინეობები)",
+   "ar": "العام الدراسي 2026-27 (جلسات أسبوعية)"
+  },
+  "grades": "5-12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "2026-27 membership registration opened 15 Sep 2026 via online form (checked 31 Oct 2026); clubs run through the school year while places last. No fee is listed on the page.",
+  "event_dates": null,
+  "summary": {
+   "en": "Fifteen weekly clubs for pupils in grades 5-12 at the Tbilisi American Corner, from English and book clubs to STEM, coding, robotics, 3D printing, American government and an SAT Math programme.",
+   "ka": "თხუთმეტი ყოველკვირეული კლუბი V-XII კლასელებისთვის თბილისის ამერიკულ კუთხეში: ინგლისური და წიგნის კლუბები, STEM, კოდირება, რობოტიკა, 3D ბეჭდვა, ამერიკის მმართველობა და SAT მათემატიკის პროგრამა.",
+   "ar": "خمسة عشر نادياً أسبوعياً لتلاميذ الصفوف 5-12 في الركن الأمريكي في تبليسي، من نوادي الإنجليزية والكتب إلى STEM والبرمجة والروبوتات والطباعة ثلاثية الأبعاد والحكومة الأمريكية وبرنامج رياضيات SAT."
+  },
+  "about": {
+   "en": "The Tbilisi American Corner, located in the National Palace of Youth on Rustaveli Avenue, is part of the US Embassy-supported network of American Spaces. For 2026-27 it runs 15 clubs for members in grades 5-12: English for Kids (grades 5-6), American Book Club (7-8), All About America and Conversation Club (9-12), STEM Club (9-12), Coding Club (6-7), Robotics (5-6), 3D Printing Club (9-12), American Government Club (9-11), movie clubs, a board-games club and an SAT Math Program for grade 11.\n\nMembership is by online registration, which opened on 15 September 2026; clubs meet weekly through the school year. The page lists no fees. Questions go to +995 599 899 755 or info@nationalpalace.ge.\n\nEspecially useful for pupils preparing for US universities (SAT Math, English conversation) or wanting hands-on STEM and 3D printing."
+  },
+  "highlights": {
+   "en": [
+    "SAT Math programme for grade 11",
+    "STEM, coding, robotics and 3D printing",
+    "English conversation and American studies clubs"
+   ]
+  },
+  "eligibility": {
+   "en": "Pupils in grades 5-12 (each club has its own grade range). Clubs run mainly in English."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the Tbilisi American Corner page on youthpalace.ge",
+    "Fill in the membership registration form linked there",
+    "Choose clubs that match your grade",
+    "Attend weekly at the National Palace of Youth, 6 Rustaveli Avenue"
+   ]
+  },
+  "costs": {
+   "en": "No fee is listed on the page; confirm when registering."
+  },
+  "keywords": [
+   "american corner",
+   "sat",
+   "english",
+   "stem",
+   "coding",
+   "robotics",
+   "3d printing",
+   "club",
+   "tbilisi",
+   "usa"
+  ],
+  "url": "https://youthpalace.ge/directions/21/Tbilisis-amerikuli-kuTxe",
+  "apply_url": "https://shorturl.at/ApdYH",
+  "sources": [
+   "https://youthpalace.ge/",
+   "https://youthpalace.ge/directions/21/Tbilisis-amerikuli-kuTxe"
+  ],
+  "score": 6,
+  "score_reason": "Broad free-looking clubs incl. SAT prep",
+  "premium": false,
+  "fields": [
+   "any",
+   "computer-science",
+   "languages"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "sat"
+  ]
+ },
+ {
+  "id": "youth-palace-film-studios-2026-27",
+  "section": "project",
+  "family": "training",
+  "type": "free film studios for children and teens",
+  "org": "National Palace of Youth (Tbilisi)",
+  "name": {
+   "en": "National Palace of Youth Free Film Studios: Pioneer Film (12-17) and First Steps in Cinema (8-11)",
+   "ka": "ეროვნული სასახლის უფასო კინოსტუდიები: „პიონერფილმი“ (12-17) და „პირველი ნაბიჯები კინოში“ (8-11)",
+   "ar": "استوديوهات السينما المجانية في القصر الوطني للشباب: Pioneer Film (12-17) وخطوات أولى في السينما (8-11)"
+  },
+  "country": {
+   "en": "Georgia",
+   "ka": "საქართველო",
+   "ar": "جورجيا"
+  },
+  "city": "Tbilisi",
+  "iso": "GE",
+  "flag": "🇬🇪",
+  "region": "europe",
+  "lat": 41.716,
+  "lon": 44.783,
+  "cost": "free",
+  "duration": {
+   "en": "School year 2026-27 (weekly sessions)",
+   "ka": "2026-27 სასწავლო წელი (ყოველკვირეული მეცადინეობები)",
+   "ar": "العام الدراسي 2026-27 (جلسات أسبوعية)"
+  },
+  "grades": "8-17 years",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "2026-27 club list published on youthpalace.ge with online registration (checked 31 Oct 2026); clubs enrol through the school year while places last.",
+  "event_dates": null,
+  "summary": {
+   "en": "Two free film studios at Tbilisi's National Palace of Youth: the Pioneer Film studio for ages 12-17 and First Steps in Cinema for ages 8-11, alongside a paid photography circle.",
+   "ka": "ორი უფასო კინოსტუდია თბილისის ეროვნულ სასახლეში: „პიონერფილმი“ 12-17 წლისთვის და „პირველი ნაბიჯები კინოში“ 8-11 წლისთვის, ასევე ფასიანი ფოტოხელოვნების წრე.",
+   "ar": "استوديوهان مجانيان للسينما في القصر الوطني للشباب في تبليسي: استوديو Pioneer Film للأعمار 12-17 و«خطوات أولى في السينما» للأعمار 8-11، إلى جانب حلقة تصوير مدفوعة."
+  },
+  "about": {
+   "en": "The Audio-Visual direction of the National Palace of Youth runs two free film programmes for 2026-27: the amateur film studio 'Pioneer Film' (პიონერფილმი) for ages 12-17 and 'First Steps in Cinema' for ages 8-11. Members learn filmmaking by doing, and the Palace also hosts the international youth film festival 'Taoba', where young filmmakers screen their work.\n\nA photography circle for ages 12-17 is also available at 70 GEL a month. Registration is online; coordinator Maia Landia (577 777 871) confirms groups.\n\nA free way for children and teenagers to start making films and build a creative portfolio."
+  },
+  "highlights": {
+   "en": [
+    "Free film studios for ages 8-11 and 12-17",
+    "Linked to the 'Taoba' youth film festival",
+    "Photography circle also available"
+   ]
+  },
+  "eligibility": {
+   "en": "Children aged 8-11 and teenagers aged 12-17. Georgian-language."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the direction page on youthpalace.ge",
+    "Register online at registration.youthpalace.ge",
+    "Call the direction coordinator to confirm a group and schedule",
+    "Attend sessions at the Palace, 6 Rustaveli Avenue, Tbilisi"
+   ]
+  },
+  "costs": {
+   "en": "Film studios free; photography circle 70 GEL/month."
+  },
+  "keywords": [
+   "film",
+   "cinema",
+   "photography",
+   "arts",
+   "club",
+   "free",
+   "tbilisi",
+   "youth palace"
+  ],
+  "url": "https://youthpalace.ge/directions/16/audio-vizualuri-mimarTuleba",
+  "apply_url": "https://registration.youthpalace.ge/register",
+  "sources": [
+   "https://youthpalace.ge/",
+   "https://youthpalace.ge/directions/16/audio-vizualuri-mimarTuleba"
+  ],
+  "score": 5,
+  "score_reason": "Free arts studios in central Tbilisi",
+  "premium": false,
+  "fields": [
+   "arts-design"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "youth-palace-chess-school-2026-27",
+  "section": "project",
+  "family": "training",
+  "type": "chess school",
+  "org": "National Palace of Youth (Tbilisi)",
+  "name": {
+   "en": "National Palace of Youth Chess School 2026-27 (Tbilisi)",
+   "ka": "ეროვნული სასახლის საჭადრაკო სკოლა 2026-27",
+   "ar": "مدرسة الشطرنج في القصر الوطني للشباب 2026-27 (تبليسي)"
+  },
+  "country": {
+   "en": "Georgia",
+   "ka": "საქართველო",
+   "ar": "جورجيا"
+  },
+  "city": "Tbilisi",
+  "iso": "GE",
+  "flag": "🇬🇪",
+  "region": "europe",
+  "lat": 41.716,
+  "lon": 44.783,
+  "cost": "paid",
+  "duration": {
+   "en": "School year 2026-27 (weekly sessions)",
+   "ka": "2026-27 სასწავლო წელი (ყოველკვირეული მეცადინეობები)",
+   "ar": "العام الدراسي 2026-27 (جلسات أسبوعية)"
+  },
+  "grades": "5-17 years",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "2026-27 club list published on youthpalace.ge with online registration (checked 31 Oct 2026); clubs enrol through the school year while places last.",
+  "event_dates": null,
+  "summary": {
+   "en": "Weekly chess groups at the National Palace of Youth in Tbilisi for ages 5-17, from beginners to ranked players, plus a selective enhanced group.",
+   "ka": "ყოველკვირეული საჭადრაკო ჯგუფები თბილისის ეროვნულ სასახლეში 5-17 წლისთვის, დამწყებებიდან თანრიგიან მოთამაშეებამდე, ასევე შერჩევითი გაძლიერებული ჯგუფი.",
+   "ar": "مجموعات شطرنج أسبوعية في القصر الوطني للشباب في تبليسي للأعمار 5-17، من المبتدئين إلى اللاعبين المصنفين، مع مجموعة متقدمة انتقائية."
+  },
+  "about": {
+   "en": "The Chess School of the National Palace of Youth is one of Tbilisi's long-standing chess clubs. For 2026-27 it offers groups for ages 5-17 at several levels (beginners in their 2nd-3rd year, ranked players, amateurs and advanced, the last for ages 5-14) at 80 GEL a month, and a selective enhanced group for strong players at 150 GEL a month. Adult groups are also available.\n\nRegistration is online; coordinator Maia Bokuchava (598 180 979) advises on levels.\n\nStructured coaching for children who want to compete in national youth chess events."
+  },
+  "highlights": {
+   "en": [
+    "Ages 5-17 by level",
+    "Selective enhanced group",
+    "Central Tbilisi"
+   ]
+  },
+  "eligibility": {
+   "en": "Children and teenagers aged 5-17 (adult groups also). Georgian-language."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the direction page on youthpalace.ge",
+    "Register online at registration.youthpalace.ge",
+    "Call the direction coordinator to confirm a group and schedule",
+    "Attend sessions at the Palace, 6 Rustaveli Avenue, Tbilisi"
+   ]
+  },
+  "costs": {
+   "en": "80 GEL/month (preparatory groups); 150 GEL/month (enhanced and adult groups)."
+  },
+  "keywords": [
+   "chess",
+   "club",
+   "kids",
+   "tbilisi",
+   "youth palace",
+   "competition"
+  ],
+  "url": "https://youthpalace.ge/directions/9/saWadrako-skola",
+  "apply_url": "https://registration.youthpalace.ge/register",
+  "sources": [
+   "https://youthpalace.ge/",
+   "https://youthpalace.ge/directions/9/saWadrako-skola"
+  ],
+  "score": 3,
+  "score_reason": "Paid club; niche",
+  "premium": false,
+  "fields": [
+   "mathematics",
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "tbc-risk-academy-2027",
+  "section": "project",
+  "family": "training",
+  "type": "free data and risk analytics academy",
+  "org": "TBC Bank - TBC Education",
+  "name": {
+   "en": "TBC Risk Academy 2027: Free Data and Risk Analytics Programme",
+   "ka": "თიბისის რისკების აკადემია 2027: უფასო ანალიტიკისა და რისკების მართვის პროგრამა",
+   "ar": "أكاديمية TBC للمخاطر 2027: برنامج مجاني في تحليل البيانات وإدارة المخاطر"
+  },
+  "country": {
+   "en": "Georgia",
+   "ka": "საქართველო",
+   "ar": "جورجيا"
+  },
+  "city": "Tbilisi",
+  "iso": "GE",
+  "flag": "🇬🇪",
+  "region": "europe",
+  "lat": 41.716,
+  "lon": 44.783,
+  "cost": "free",
+  "duration": {
+   "en": "About 4 months (two groups, Sept-Dec and Nov-Mar)",
+   "ka": "დაახლოებით 4 თვე (ორი ჯგუფი: სექტ-დეკ და ნოემ-მარტი)",
+   "ar": "نحو 4 أشهر (مجموعتان: سبتمبر-ديسمبر ونوفمبر-مارس)"
+  },
+  "grades": "18+",
+  "opens": null,
+  "deadline": "2027-05-15",
+  "deadline_note": "Annual. Expected on the last cycle's pattern: web registration 27 Apr-15 May, in-person test late May, video interview June, assignment July, lectures from September/November. Confirm on the TBC page.",
+  "event_dates": null,
+  "summary": {
+   "en": "A fully funded four-month hybrid programme from TBC Bank teaching Excel, SQL, Power BI and data analytics for risk management, for anyone 18+ with no prior experience needed. Forty participants are selected through tests, a video interview and a presentation.",
+   "ka": "TBC ბანკის სრულად დაფინანსებული ოთხთვიანი ჰიბრიდული პროგრამა: Excel, SQL, Power BI და მონაცემთა ანალიტიკა რისკების მართვისთვის, 18+ ასაკისთვის, წინასწარი გამოცდილების გარეშე. 40 მონაწილე ტესტებით, ვიდეოგასაუბრებითა და პრეზენტაციით შეირჩევა.",
+   "ar": "برنامج هجين ممول بالكامل لمدة أربعة أشهر من بنك TBC يعلّم Excel وSQL وPower BI وتحليل البيانات لإدارة المخاطر، لمن هم 18+ دون خبرة سابقة، ويُختار 40 مشاركاً عبر اختبارات ومقابلة بالفيديو وعرض تقديمي."
+  },
+  "about": {
+   "en": "TBC Risk Academy is an intensive, roughly four-month programme from TBC Bank that teaches analytical skills and the fundamentals of risk management through practical and theoretical training led by sector specialists. Modules cover Excel 365 (data cleaning, pivot tables, modelling, Solver), SQL (joins, CTEs, views, procedures), Power BI (Power Query, data modelling, DAX) and data analytics (dashboard design, Databricks and AI in analytics, final project), plus meetings with heads of TBC's risk departments.\n\nClasses are hybrid, two to three times a week, mostly in the evenings, with an in-person test after each subject. Forty participants are split into two groups (last cycle: 8 September-25 December and 4 November-10 March). Selection runs in spring: web registration (27 April-15 May in the last cycle), an online info day, an in-person test on probability, Excel and logic, a video interview, and an assignment presented to TBC's risk team. Everyone admitted is 100% funded and receives a certificate on completion.\n\nIdeal for third- and fourth-year students or graduates in economics, maths or business who want a data-analytics career."
+  },
+  "highlights": {
+   "en": [
+    "100% funded by TBC Bank",
+    "Excel, SQL, Power BI and analytics",
+    "Meet TBC's risk leadership"
+   ]
+  },
+  "eligibility": {
+   "en": "Anyone aged 18+ (typically final-year students or recent graduates) motivated to study analytics; no risk-management experience needed. Georgian-language."
+  },
+  "how_to_apply": {
+   "en": [
+    "Watch the TBC Risk Academy page from April 2027",
+    "Register online within the window (last cycle: 27 April-15 May)",
+    "Attend the online info day and pass the in-person test",
+    "Complete the video interview and the assignment presentation"
+   ]
+  },
+  "costs": {
+   "en": "Free (100% funded by TBC Bank)."
+  },
+  "keywords": [
+   "data analytics",
+   "risk management",
+   "sql",
+   "excel",
+   "power bi",
+   "banking",
+   "free",
+   "tbc",
+   "tbilisi"
+  ],
+  "url": "https://tbcbank.ge/ka/tbc-education/risks-academy",
+  "apply_url": "https://tbcbank.ge/ka/tbc-education/risks-academy",
+  "sources": [
+   "https://tbcbank.ge/tbc-education",
+   "https://tbcbank.ge/ka/tbc-education/risks-academy"
+  ],
+  "score": 6,
+  "score_reason": "Free, career-relevant; 2027 registration in spring",
+  "premium": false,
+  "fields": [
+   "economics",
+   "business",
+   "mathematics"
   ],
   "verified_at": "2026-10-31"
  }

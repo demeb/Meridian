@@ -5000,5 +5000,1408 @@
   ],
   "coverage": "partial",
   "coverage_pct": 30
+ },
+ {
+  "id": "dundee-global-excellence-scholarship-undergraduate-2027",
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university merit scholarship (fee discount)",
+  "org": "University of Dundee",
+  "name": {
+   "en": "University of Dundee Global Excellence Scholarship (Undergraduate)",
+   "ka": "დანდის უნივერსიტეტის გლობალური ექსელენსის სტიპენდია (ბაკალავრიატი)",
+   "ar": "منحة التميز العالمية في جامعة دندي (البكالوريوس)"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Dundee",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 56.458,
+  "lon": -2.982,
+  "cost": "scholarship",
+  "duration": {
+   "en": "£3,000 a year, up to 5 years (max £15,000)",
+   "ka": "წელიწადში £3,000, 5 წლამდე (მაქს. £15,000)",
+   "ar": "3,000 جنيه سنوياً حتى 5 سنوات (بحد أقصى 15,000)"
+  },
+  "grades": "12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "2027/28 terms published: automatic at offer stage for September 2027 or January 2028 entry; no separate deadline stated.",
+  "event_dates": null,
+  "summary": {
+   "en": "Dundee automatically gives international undergraduates with AAB at A level (or equivalent) £3,000 off tuition every year, up to £15,000, for September 2027 or January 2028 entry.",
+   "ka": "დანდი A level-ზე AAB-ის (ან ეკვივალენტის) მქონე საერთაშორისო ბაკალავრებს 2027 წლის სექტემბრის ან 2028 წლის იანვრის ნაკადისთვის ყოველწლიურად £3,000-ით, ჯამში £15,000-მდე, ავტომატურად უმცირებს საფასურს.",
+   "ar": "تمنح جامعة دندي تلقائياً طلاب البكالوريوس الدوليين الحاصلين على AAB في A level (أو ما يعادلها) خصماً قدره 3,000 جنيه سنوياً حتى 15,000 جنيه، للالتحاق في سبتمبر 2027 أو يناير 2028."
+  },
+  "about": {
+   "en": "The University of Dundee (Scotland) offers the Global Excellence Scholarship as a £3,000-per-year tuition discount for up to five years (maximum £15,000) to international fee-paying undergraduates starting in September 2027 or January 2028.\n\nYou need an offer for a full-time on-campus programme with fees of at least £19,450 (Medicine and Dentistry excluded) and AAB at A level or equivalent. There is no nationality restriction. Eligibility is assessed automatically at offer stage and shown in the eVision portal."
+  },
+  "highlights": {
+   "en": [
+    "£3,000 every year (up to £15,000)",
+    "Automatic for AAB or equivalent",
+    "Sept 2027 or Jan 2028 entry"
+   ]
+  },
+  "eligibility": {
+   "en": "International fee payers with an offer for an eligible full-time on-campus undergraduate programme (fee ≥ £19,450; not Medicine/Dentistry) and AAB at A level or equivalent. Not International College Dundee applicants."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply for your course through UCAS (equal-consideration deadline 13 January 2027 for most courses; many accept international applications until 30 June 2027).",
+    "Meet AAB (or equivalent); pending results are verified before confirmation.",
+    "Check the eVision portal for the scholarship decision at offer stage."
+   ]
+  },
+  "costs": {
+   "en": "£3,000 tuition fee discount per year for up to 5 years."
+  },
+  "keywords": [
+   "uk",
+   "scotland",
+   "dundee",
+   "undergraduate",
+   "bachelor",
+   "automatic",
+   "merit"
+  ],
+  "url": "https://www.dundee.ac.uk/corporate-information/key-facts-global-excellence-scholarship",
+  "apply_url": "https://www.dundee.ac.uk/corporate-information/key-facts-global-excellence-scholarship",
+  "sources": [
+   "https://www.dundee.ac.uk/corporate-information/key-facts-global-excellence-scholarship"
+  ],
+  "score": 6,
+  "score_reason": "Automatic multi-year award for all nationalities.",
+  "premium": false,
+  "verified_at": "2026-10-31",
+  "fields": [
+   "any"
+  ],
+  "tutor_tags": [
+   "essay"
+  ],
+  "level": [
+   "bachelor"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 14
+ },
+ {
+  "id": "manchester-met-undergraduate-international-scholarship-2027",
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university scholarship (automatic fee reduction)",
+  "org": "Manchester Metropolitan University",
+  "name": {
+   "en": "Manchester Metropolitan University Undergraduate International Scholarship",
+   "ka": "მანჩესტერის მეტროპოლიტენ უნივერსიტეტის საერთაშორისო საბაკალავრო სტიპენდია",
+   "ar": "منحة البكالوريوس الدولية في جامعة مانشستر متروبوليتان"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Manchester",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 53.47,
+  "lon": -2.24,
+  "cost": "scholarship",
+  "duration": {
+   "en": "£2,000 a year for the whole degree",
+   "ka": "წელიწადში £2,000 მთელი პროგრამის განმავლობაში",
+   "ar": "2,000 جنيه سنوياً طوال الدراسة"
+  },
+  "grades": "12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "September 2027 entry; assessed automatically when you apply. No separate deadline published.",
+  "event_dates": null,
+  "summary": {
+   "en": "Manchester Met gives every self-funded overseas student accepted onto a full-time bachelor's degree starting September 2027 £2,000 off tuition each year. Eligibility is checked automatically.",
+   "ka": "მანჩესტერის მეტროპოლიტენი 2027 წლის სექტემბრიდან სრულ განაკვეთზე ბაკალავრიატზე მიღებულ ყველა თვითდაფინანსებულ საერთაშორისო სტუდენტს ყოველწლიურად £2,000-ით უმცირებს საფასურს. შემოწმება ავტომატურია.",
+   "ar": "تمنح جامعة مانشستر متروبوليتان كل طالب دولي ذاتي التمويل مقبول في بكالوريوس بدوام كامل يبدأ في سبتمبر 2027 خصماً قدره 2,000 جنيه سنوياً، ويتم التحقق من الأهلية تلقائياً."
+  },
+  "about": {
+   "en": "Manchester Metropolitan University's Undergraduate International Scholarship takes £2,000 off tuition for each year of an eligible taught bachelor's degree on the Manchester campus, for self-funded students paying full overseas fees and starting in September 2027.\n\nThere is no separate application; eligibility is assessed when you apply. It cannot be combined with other Manchester Met financial support. Open to all non-UK nationalities."
+  },
+  "highlights": {
+   "en": [
+    "£2,000 off every year",
+    "Automatic",
+    "Central Manchester campus"
+   ]
+  },
+  "eligibility": {
+   "en": "Self-funded overseas-fee students accepted onto a full-time taught bachelor's at the Manchester campus starting September 2027."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply for your course through UCAS (equal-consideration deadline 13 January 2027 for most courses; many accept international applications until 30 June 2027).",
+    "Accept your offer.",
+    "The scholarship is applied automatically each year."
+   ]
+  },
+  "costs": {
+   "en": "£2,000 tuition fee reduction per year of study."
+  },
+  "keywords": [
+   "uk",
+   "england",
+   "manchester",
+   "mmu",
+   "undergraduate",
+   "bachelor",
+   "automatic"
+  ],
+  "url": "https://www.mmu.ac.uk/study/international/before-you-apply/fees-and-funding/scholarships-and-funding/scholarships",
+  "apply_url": "https://www.mmu.ac.uk/study/international/before-you-apply/fees-and-funding/scholarships-and-funding/scholarships",
+  "sources": [
+   "https://www.mmu.ac.uk/study/international/before-you-apply/fees-and-funding/scholarships-and-funding/scholarships"
+  ],
+  "score": 4,
+  "score_reason": "Automatic but small.",
+  "premium": false,
+  "verified_at": "2026-10-31",
+  "fields": [
+   "any"
+  ],
+  "tutor_tags": [
+   "essay"
+  ],
+  "level": [
+   "bachelor"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 11
+ },
+ {
+  "id": "aston-international-community-scholarship-undergraduate-2027",
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university scholarship (competitive fee discount)",
+  "org": "Aston University",
+  "name": {
+   "en": "Aston University International Community Scholarship (Undergraduate)",
+   "ka": "ასტონის უნივერსიტეტის საერთაშორისო თემის სტიპენდია (ბაკალავრიატი)",
+   "ar": "منحة المجتمع الدولي في جامعة أستون (البكالوريوس)"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Birmingham",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 52.487,
+  "lon": -1.888,
+  "cost": "scholarship",
+  "duration": {
+   "en": "£3,000 a year for 3 years (£9,000)",
+   "ka": "წელიწადში £3,000 3 წლით (£9,000)",
+   "ar": "3,000 جنيه سنوياً لمدة 3 سنوات (9,000)"
+  },
+  "grades": "12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "September 2027 entry; early and final application rounds marked 'TBC'. The application link is emailed to eligible offer holders.",
+  "event_dates": null,
+  "summary": {
+   "en": "Aston University in Birmingham gives selected self-funded international undergraduates £9,000 over three years (£3,000 a year). Offer holders receive an application link by email.",
+   "ka": "ბირმინგემის ასტონის უნივერსიტეტი შერჩეულ თვითდაფინანსებულ საერთაშორისო ბაკალავრებს სამ წელიწადში £9,000-ს (წელიწადში £3,000) აძლევს. შეთავაზების მქონეებს განაცხადის ბმული ელფოსტით ეგზავნებათ.",
+   "ar": "تمنح جامعة أستون في برمنغهام طلاب البكالوريوس الدوليين ذاتيي التمويل المختارين 9,000 جنيه على ثلاث سنوات (3,000 سنوياً)، ويتلقى حاملو العروض رابط الطلب بالبريد الإلكتروني."
+  },
+  "about": {
+   "en": "Aston University's International Community Scholarship (Undergraduate) for September 2027 is a competitive, application-based award worth £9,000: a £3,000 tuition discount in each of years 1–3 (years 2 and 3 awarded automatically on progression; not in placement years).\n\nIt is for self-funded international offer-holders entering Year 1 of a full-time on-campus degree; Nursing, Medicine, Optometry, Pharmacy and Audiology are excluded. The application link is emailed to eligible offer-holders. Aston's top award, the Sir Adrian Cadbury Chancellor's Scholarship, is listed separately."
+  },
+  "highlights": {
+   "en": [
+    "£9,000 over three years",
+    "Application link emailed to offer holders",
+    "All nationalities"
+   ]
+  },
+  "eligibility": {
+   "en": "Self-funded international offer-holders entering Year 1 of an eligible full-time on-campus undergraduate degree in September 2027."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply for your course through UCAS (equal-consideration deadline 13 January 2027 for most courses; many accept international applications until 30 June 2027).",
+    "Wait for the scholarship application link emailed after your offer (contact hello@aston.ac.uk if missing).",
+    "Submit in the early or final round; pay the deposit within 21/14 days if awarded."
+   ]
+  },
+  "costs": {
+   "en": "£3,000 tuition fee discount per year for years 1–3."
+  },
+  "keywords": [
+   "uk",
+   "england",
+   "birmingham",
+   "aston",
+   "undergraduate",
+   "bachelor"
+  ],
+  "url": "https://www.aston.ac.uk/international/scholarships",
+  "apply_url": "https://www.aston.ac.uk/international/scholarships",
+  "sources": [
+   "https://www.aston.ac.uk/international/scholarships"
+  ],
+  "score": 5,
+  "score_reason": "Multi-year award, all nationalities; dates TBC.",
+  "premium": false,
+  "verified_at": "2026-10-31",
+  "fields": [
+   "any"
+  ],
+  "tutor_tags": [
+   "essay"
+  ],
+  "level": [
+   "bachelor"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 13
+ },
+ {
+  "id": "aston-sir-adrian-cadbury-chancellors-scholarship-2027",
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university merit scholarship (application)",
+  "org": "Aston University",
+  "name": {
+   "en": "Aston University Sir Adrian Cadbury Chancellor's Scholarship",
+   "ka": "ასტონის უნივერსიტეტის სერ ადრიან კედბერის კანცლერის სტიპენდია",
+   "ar": "منحة المستشار السير أدريان كادبوري في جامعة أستون"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Birmingham",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 52.487,
+  "lon": -1.888,
+  "cost": "scholarship",
+  "duration": {
+   "en": "£10,000 tuition reduction",
+   "ka": "£10,000 სწავლის საფასურის შემცირება",
+   "ar": "تخفيض الرسوم بمقدار 10,000 جنيه"
+  },
+  "grades": "12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "September 2027 entry; deadline and decision date marked 'TBC'. A personal application link is emailed after your offer.",
+  "event_dates": null,
+  "summary": {
+   "en": "Aston's top undergraduate award gives self-funded international offer-holders a £10,000 tuition reduction. Applicants write a 500-word statement on how they will make a positive impact on communities.",
+   "ka": "ასტონის მთავარი საბაკალავრო ჯილდო თვითდაფინანსებულ საერთაშორისო შეთავაზების მფლობელებს სწავლის საფასურს £10,000-ით უმცირებს. აპლიკანტები წერენ 500-სიტყვიან ესეს იმაზე, თუ როგორ მოახდენენ დადებით გავლენას საზოგადოებაზე.",
+   "ar": "تمنح أعلى جائزة بكالوريوس في جامعة أستون حاملي العروض الدوليين ذاتيي التمويل تخفيضاً قدره 10,000 جنيه، ويكتب المتقدمون بياناً من 500 كلمة عن كيفية إحداث أثر إيجابي في المجتمعات."
+  },
+  "about": {
+   "en": "Named after Aston's former Chancellor, the Sir Adrian Cadbury Chancellor's Scholarship is a £10,000 tuition fee reduction for self-funded international undergraduate offer-holders starting in September 2027.\n\nAfter your offer you receive a personal application link; you submit a form and a 500-word statement (450–550 words) on how you will make a positive impact and use your degree to support communities. Nursing, Medicine, Optometry, Pharmacy and Audiology are excluded. Aston scholarships cannot be combined; you get the highest one you qualify for."
+  },
+  "highlights": {
+   "en": [
+    "£10,000 off tuition",
+    "500-word impact statement",
+    "Any nationality"
+   ]
+  },
+  "eligibility": {
+   "en": "Self-funded international undergraduate offer-holders for September 2027 (excluded: Nursing, Medicine, Optometry, Pharmacy, Audiology)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply for your course through UCAS (equal-consideration deadline 13 January 2027 for most courses; many accept international applications until 30 June 2027).",
+    "Use the personal application link emailed after your offer.",
+    "Submit the form and a 500-word statement (between 450 and 550 words)."
+   ]
+  },
+  "costs": {
+   "en": "£10,000 tuition fee reduction."
+  },
+  "keywords": [
+   "uk",
+   "england",
+   "birmingham",
+   "aston",
+   "undergraduate",
+   "bachelor",
+   "merit",
+   "essay"
+  ],
+  "url": "https://www.aston.ac.uk/international/scholarships",
+  "apply_url": "https://www.aston.ac.uk/international/scholarships",
+  "sources": [
+   "https://www.aston.ac.uk/international/scholarships"
+  ],
+  "score": 6,
+  "score_reason": "Large award with an essay; open to all nationalities.",
+  "premium": false,
+  "verified_at": "2026-10-31",
+  "fields": [
+   "any"
+  ],
+  "tutor_tags": [
+   "essay"
+  ],
+  "level": [
+   "bachelor"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 40
+ },
+ {
+  "id": "rgu-vice-chancellors-undergraduate-scholarship-2027",
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university scholarship (full first-year tuition)",
+  "org": "Robert Gordon University (RGU)",
+  "name": {
+   "en": "Robert Gordon University Vice-Chancellor's Undergraduate Scholarship",
+   "ka": "რობერტ გორდონის უნივერსიტეტის ვიცე-კანცლერის საბაკალავრო სტიპენდია",
+   "ar": "منحة نائب رئيس جامعة روبرت غوردون للبكالوريوس"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Aberdeen",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 57.119,
+  "lon": -2.137,
+  "cost": "scholarship",
+  "duration": {
+   "en": "Full first-year tuition fee",
+   "ka": "პირველი წლის სრული საფასური",
+   "ar": "رسوم السنة الأولى كاملة"
+  },
+  "grades": "12",
+  "opens": null,
+  "deadline": "2027-06-01",
+  "deadline_note": "September 2027 intake: applications close 1 June 2027; all offer conditions (except deposit) must be met by then.",
+  "event_dates": null,
+  "summary": {
+   "en": "Robert Gordon University in Aberdeen covers the full first-year tuition fee for selected self-funded international or EU undergraduates starting in September 2027. All countries are eligible.",
+   "ka": "აბერდინის რობერტ გორდონის უნივერსიტეტი 2027 წლის სექტემბრიდან შერჩეულ თვითდაფინანსებულ საერთაშორისო ან EU ბაკალავრებს პირველი წლის სრულ საფასურს უფარავს. ყველა ქვეყანა უფლებამოსილია.",
+   "ar": "تغطي جامعة روبرت غوردون في أبردين رسوم السنة الأولى كاملة لطلاب البكالوريوس الدوليين أو الأوروبيين ذاتيي التمويل المختارين الذين يبدؤون في سبتمبر 2027، وجميع الدول مؤهلة."
+  },
+  "about": {
+   "en": "RGU's Vice-Chancellor's Undergraduate Scholarship covers the entire first-year tuition fee of any undergraduate degree for selected students entering Year 1 or Year 2 in September 2027.\n\nApplicants must hold an offer for a full-time on-campus course, be classed as international or European fee payers, be self-funding and have met all offer conditions (except the deposit) by 1 June 2027. Students from every country, including Georgia and Qatar, are eligible. Only one RGU-funded scholarship per programme."
+  },
+  "highlights": {
+   "en": [
+    "Full first-year tuition",
+    "All countries eligible",
+    "Deadline 1 June 2027"
+   ]
+  },
+  "eligibility": {
+   "en": "Self-funding international or EU fee payers with an offer for a full-time on-campus RGU undergraduate course (Year 1 or 2 entry), September 2027."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply to RGU (UCAS or direct).",
+    "Meet your offer conditions by 1 June 2027.",
+    "Submit the Vice-Chancellor's Undergraduate Scholarship application before 1 June 2027."
+   ]
+  },
+  "costs": {
+   "en": "100% of the first year's tuition fee."
+  },
+  "keywords": [
+   "uk",
+   "scotland",
+   "aberdeen",
+   "rgu",
+   "undergraduate",
+   "bachelor",
+   "full tuition",
+   "georgia",
+   "qatar"
+  ],
+  "url": "https://www.rgu.ac.uk/study/finance-funding/funding-and-scholarships/vice-chancellor-s-undergraduate-scholarship",
+  "apply_url": "https://www.rgu.ac.uk/study/finance-funding/funding-and-scholarships/vice-chancellor-s-undergraduate-scholarship",
+  "sources": [
+   "https://www.rgu.ac.uk/study/finance-funding/funding-and-scholarships/vice-chancellor-s-undergraduate-scholarship"
+  ],
+  "score": 7,
+  "score_reason": "Full first-year tuition, open to all nationalities.",
+  "premium": false,
+  "verified_at": "2026-10-31",
+  "fields": [
+   "any"
+  ],
+  "tutor_tags": [
+   "essay"
+  ],
+  "level": [
+   "bachelor"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 25
+ },
+ {
+  "id": "rgu-international-student-discount-undergraduate-2027",
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university fee discount",
+  "org": "Robert Gordon University (RGU)",
+  "name": {
+   "en": "RGU International Student Discount for Undergraduate Students",
+   "ka": "RGU-ის საერთაშორისო სტუდენტის ფასდაკლება ბაკალავრებისთვის",
+   "ar": "خصم الطلاب الدوليين لطلاب البكالوريوس في جامعة روبرت غوردون"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Aberdeen",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 57.119,
+  "lon": -2.137,
+  "cost": "scholarship",
+  "duration": {
+   "en": "£2,000 every year of study",
+   "ka": "სწავლის ყოველ წელს £2,000",
+   "ar": "2,000 جنيه كل سنة دراسية"
+  },
+  "grades": "12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "September intake each year; awarded to eligible self-funded international entrants to year one.",
+  "event_dates": null,
+  "summary": {
+   "en": "RGU takes £2,000 off undergraduate tuition every year for self-funded international students starting year one in September. All countries are eligible.",
+   "ka": "RGU სექტემბერში პირველ კურსზე ჩარიცხულ თვითდაფინანსებულ საერთაშორისო სტუდენტებს საბაკალავრო საფასურს ყოველწლიურად £2,000-ით უმცირებს. ყველა ქვეყანა უფლებამოსილია.",
+   "ar": "تخصم جامعة روبرت غوردون 2,000 جنيه سنوياً من رسوم البكالوريوس للطلاب الدوليين ذاتيي التمويل الذين يبدؤون السنة الأولى في سبتمبر، وجميع الدول مؤهلة."
+  },
+  "about": {
+   "en": "Robert Gordon University's International Student Discount gives any international self-funded fee-paying student a £2,000 discount on each year of undergraduate tuition, for a full-time on-campus course entering Year 1 in September.\n\nAll countries of residence are eligible. Students can only hold one RGU-funded scholarship per programme, so strong applicants should also consider the Vice-Chancellor's Undergraduate Scholarship."
+  },
+  "highlights": {
+   "en": [
+    "£2,000 off every year",
+    "All countries",
+    "Full-time on-campus Year 1 entry"
+   ]
+  },
+  "eligibility": {
+   "en": "International self-funded fee-paying students entering Year 1 of a full-time on-campus RGU undergraduate course in September."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply to RGU for September entry.",
+    "Receive an offer and confirm self-funding status.",
+    "Follow the 'How to apply' steps on the discount page to claim it."
+   ]
+  },
+  "costs": {
+   "en": "£2,000 discount per year of undergraduate tuition."
+  },
+  "keywords": [
+   "uk",
+   "scotland",
+   "aberdeen",
+   "rgu",
+   "undergraduate",
+   "bachelor",
+   "fee discount"
+  ],
+  "url": "https://www.rgu.ac.uk/study/finance-funding/funding-and-scholarships/rgu-international-student-discount-for-undergraduate-students",
+  "apply_url": "https://www.rgu.ac.uk/study/finance-funding/funding-and-scholarships/rgu-international-student-discount-for-undergraduate-students",
+  "sources": [
+   "https://www.rgu.ac.uk/study/finance-funding/funding-and-scholarships/rgu-international-student-discount-for-undergraduate-students"
+  ],
+  "score": 4,
+  "score_reason": "Simple discount for all international students.",
+  "premium": false,
+  "verified_at": "2026-10-31",
+  "fields": [
+   "any"
+  ],
+  "tutor_tags": [
+   "essay"
+  ],
+  "level": [
+   "bachelor"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 12
+ },
+ {
+  "id": "keele-undergraduate-global-scholarship-2027",
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university merit scholarship (automatic fee discount)",
+  "org": "Keele University",
+  "name": {
+   "en": "Keele University Undergraduate Global Scholarship",
+   "ka": "კილის უნივერსიტეტის საბაკალავრო გლობალური სტიპენდია",
+   "ar": "منحة البكالوريوس العالمية في جامعة كيل"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Keele",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 53.003,
+  "lon": -2.272,
+  "cost": "scholarship",
+  "duration": {
+   "en": "£3,000 tuition discount",
+   "ka": "£3,000 სწავლის საფასურის ფასდაკლება",
+   "ar": "خصم 3,000 جنيه من الرسوم"
+  },
+  "grades": "12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Listed for 2027/28 entry; automatic based on academic achievement.",
+  "event_dates": null,
+  "summary": {
+   "en": "Keele University automatically gives international undergraduates a £3,000 tuition discount based on academic achievement, with an extra £1,000 International Baccalaureate scholarship for IB students.",
+   "ka": "კილის უნივერსიტეტი საერთაშორისო ბაკალავრებს აკადემიური მიღწევის საფუძველზე ავტომატურად აძლევს £3,000-იან ფასდაკლებას, IB-ის სტუდენტებს კი დამატებით £1,000-იან სტიპენდიას.",
+   "ar": "تمنح جامعة كيل تلقائياً طلاب البكالوريوس الدوليين خصماً قدره 3,000 جنيه بناءً على التحصيل الأكاديمي، مع منحة إضافية قدرها 1,000 جنيه لطلاب البكالوريا الدولية."
+  },
+  "about": {
+   "en": "Keele University in Staffordshire lists the Undergraduate Global Scholarship for 2026/27 and 2027/28 entry: a £3,000 tuition fee discount for international fee-paying students, awarded automatically on academic achievement. An Advanced Entry Scholarship (£3,000) and an International Baccalaureate Global Scholarship (£1,000) are also available.\n\nKeele has one of the UK's largest single-site campuses and is strong in medicine-related sciences, law, and natural sciences. All nationalities qualify."
+  },
+  "highlights": {
+   "en": [
+    "£3,000 discount, automatic",
+    "Extra £1,000 for IB students",
+    "All nationalities"
+   ]
+  },
+  "eligibility": {
+   "en": "International fee-paying undergraduate entrants for 2027/28 meeting the academic achievement criteria."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply for your course through UCAS (equal-consideration deadline 13 January 2027 for most courses; many accept international applications until 30 June 2027).",
+    "Meet the academic achievement criteria in your offer.",
+    "The discount is applied automatically."
+   ]
+  },
+  "costs": {
+   "en": "£3,000 tuition fee discount (plus £1,000 for eligible IB diploma holders)."
+  },
+  "keywords": [
+   "uk",
+   "england",
+   "keele",
+   "undergraduate",
+   "bachelor",
+   "automatic",
+   "ib"
+  ],
+  "url": "https://www.keele.ac.uk/study/undergraduate/tuitionfeesandfunding/undergraduatefunding/undergraduatebursariesandscholarshipsinternationalstudents/",
+  "apply_url": "https://www.keele.ac.uk/study/undergraduate/tuitionfeesandfunding/undergraduatefunding/undergraduatebursariesandscholarshipsinternationalstudents/",
+  "sources": [
+   "https://www.keele.ac.uk/study/undergraduate/tuitionfeesandfunding/undergraduatefunding/undergraduatebursariesandscholarshipsinternationalstudents/"
+  ],
+  "score": 4,
+  "score_reason": "Automatic but modest.",
+  "premium": false,
+  "verified_at": "2026-10-31",
+  "fields": [
+   "any"
+  ],
+  "tutor_tags": [
+   "essay"
+  ],
+  "level": [
+   "bachelor"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 15
+ },
+ {
+  "id": "lcc-international-university-ba-financial-aid-2027",
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university need-based aid and scholarships",
+  "org": "LCC International University",
+  "name": {
+   "en": "LCC International University Need-Based Aid and Scholarships (BA)",
+   "ka": "LCC International University-ის საჭიროებაზე დაფუძნებული დახმარება და სტიპენდიები (BA)",
+   "ar": "المساعدات حسب الحاجة والمنح في جامعة LCC الدولية (البكالوريوس)"
+  },
+  "country": {
+   "en": "Lithuania",
+   "ka": "ლიტვა",
+   "ar": "ليتوانيا"
+  },
+  "city": "Klaipėda",
+  "iso": "LT",
+  "flag": "🇱🇹",
+  "region": "europe",
+  "lat": 55.713,
+  "lon": 21.135,
+  "cost": "scholarship",
+  "duration": {
+   "en": "Full length of the bachelor's degree",
+   "ka": "საბაკალავრო პროგრამის მთელი პერიოდი",
+   "ar": "طوال مدة درجة البكالوريوس"
+  },
+  "grades": "12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling: submit the Need-Based Aid application as early as possible with your admission application for 2027/28.",
+  "event_dates": null,
+  "summary": {
+   "en": "LCC International University in Lithuania covers up to 90% of tuition through need-based aid (10–80%) and 16 merit scholarships; 9 in 10 applicants receive need-based aid. BA tuition is €4,500 a year in 2027/28.",
+   "ka": "ლიტვის LCC International University სწავლის საფასურის 90%-მდე ფარავს საჭიროებაზე დაფუძნებული დახმარებით (10–80%) და 16 აკადემიური სტიპენდიით; 10-დან 9 აპლიკანტი იღებს დახმარებას. BA-ის საფასური 2027/28 წელს €4,500-ია.",
+   "ar": "تغطي جامعة LCC الدولية في ليتوانيا حتى 90% من الرسوم عبر مساعدات حسب الحاجة (10–80%) و16 منحة جدارة، ويحصل 9 من كل 10 متقدمين على المساعدة. رسوم البكالوريوس 4,500 يورو سنوياً في 2027/28."
+  },
+  "about": {
+   "en": "LCC International University is an English-language liberal arts university in Klaipėda, Lithuania, popular with students from Eastern Europe, the Caucasus and Central Asia. Bachelor's tuition for 2027/28 is €4,500 per year, and 63% of students receive financial aid.\n\nNeed-Based Aid (10%–80% of tuition) is based on family circumstances and admission scores; 9 out of 10 applicants receive it. You can also apply for 16 scholarships and grants (e.g. leadership awards), combinable up to 90% of tuition. Students from Georgia and other countries are eligible."
+  },
+  "highlights": {
+   "en": [
+    "Up to 90% of tuition covered",
+    "9 in 10 need-based applicants get aid",
+    "Low €4,500 tuition"
+   ]
+  },
+  "eligibility": {
+   "en": "BA applicants of any nationality; need-based aid by family finances and entry scores; scholarships by their own criteria."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply for admission to an LCC BA programme for 2027/28.",
+    "Submit the Need-Based Aid application form early.",
+    "Apply for any of the 16 scholarships/grants you qualify for.",
+    "You receive the highest-value combination up to 90% of tuition."
+   ]
+  },
+  "costs": {
+   "en": "Need-based aid 10–80% of tuition plus scholarships, total up to 90% of €4,500/year."
+  },
+  "keywords": [
+   "lithuania",
+   "klaipeda",
+   "lcc",
+   "liberal arts",
+   "bachelor",
+   "need-based",
+   "georgia",
+   "affordable"
+  ],
+  "url": "https://www.lcc.lt/tuition-and-fees",
+  "apply_url": "https://www.lcc.lt/tuition-and-fees",
+  "sources": [
+   "https://www.lcc.lt/tuition-and-fees"
+  ],
+  "score": 7,
+  "score_reason": "Very affordable with high aid rates; popular with Caucasus students.",
+  "premium": false,
+  "verified_at": "2026-10-31",
+  "fields": [
+   "business",
+   "social-sciences",
+   "humanities",
+   "international-relations"
+  ],
+  "tutor_tags": [
+   "essay"
+  ],
+  "level": [
+   "bachelor"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 50
+ },
+ {
+  "id": "dcu-international-merit-scholarship-non-eu-undergraduate-2027",
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university merit scholarship (fee reduction)",
+  "org": "Dublin City University (DCU)",
+  "name": {
+   "en": "DCU International Merit Scholarships for Non-EU Undergraduates (2027-28)",
+   "ka": "DCU-ის საერთაშორისო აკადემიური სტიპენდიები არა-EU ბაკალავრებისთვის (2027-28)",
+   "ar": "منح الجدارة الدولية في جامعة مدينة دبلن لطلاب البكالوريوس من خارج الاتحاد الأوروبي (2027-28)"
+  },
+  "country": {
+   "en": "Ireland",
+   "ka": "ირლანდია",
+   "ar": "أيرلندا"
+  },
+  "city": "Dublin",
+  "iso": "IE",
+  "flag": "🇮🇪",
+  "region": "europe",
+  "lat": 53.386,
+  "lon": -6.257,
+  "cost": "scholarship",
+  "duration": {
+   "en": "First year of study",
+   "ka": "სწავლის პირველი წელი",
+   "ar": "السنة الأولى من الدراسة"
+  },
+  "grades": "12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "2027-28 scheme published. Automatic: every non-EU applicant is considered and told with the admission decision.",
+  "event_dates": null,
+  "summary": {
+   "en": "Dublin City University automatically considers every non-EU undergraduate applicant for a 2027-28 fee reduction, e.g. €5,000 in Engineering and Computing or €1,850 in Humanities and Social Sciences.",
+   "ka": "დუბლინის საქალაქო უნივერსიტეტი ყველა არა-EU საბაკალავრო აპლიკანტს ავტომატურად განიხილავს 2027-28 წლის საფასურის შემცირებისთვის, მაგ. ინჟინერიასა და კომპიუტინგში €5,000, ჰუმანიტარულ და სოციალურ მეცნიერებებში €1,850.",
+   "ar": "تنظر جامعة مدينة دبلن تلقائياً في منح كل متقدم للبكالوريوس من خارج الاتحاد الأوروبي تخفيضاً في رسوم 2027-28، مثل 5,000 يورو في الهندسة والحوسبة أو 1,850 يورو في العلوم الإنسانية والاجتماعية."
+  },
+  "about": {
+   "en": "DCU offers partial merit-based scholarships to non-EU students for 2027-28, applied as a reduction on the full-time non-EU tuition fee. Faculty awards include €5,000 for undergraduate programmes in the Faculty of Engineering and Computing (e.g. Common Entry Engineering, Computer Science, Data Science and AI) and €1,850 for Humanities and Social Sciences programmes (e.g. International Relations, Law, Languages, Jazz).\n\nAll non-EU applicants are automatically considered and are told with their admission decision. Only one DCU scholarship can be held. Students from Georgia, Qatar and any non-EU country qualify."
+  },
+  "highlights": {
+   "en": [
+    "Up to €5,000 off 2027-28 fees",
+    "Automatic for all non-EU applicants",
+    "Strong for engineering and computing"
+   ]
+  },
+  "eligibility": {
+   "en": "Non-EU applicants to eligible full-time DCU undergraduate programmes for 2027-28."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply to DCU as a non-EU undergraduate (direct international application).",
+    "You are automatically considered for the faculty merit scholarship.",
+    "The award is communicated with your offer."
+   ]
+  },
+  "costs": {
+   "en": "€5,000 (Engineering & Computing) or €1,850 (Humanities & Social Sciences) reduction on 2027-28 non-EU tuition; other faculties have their own awards."
+  },
+  "keywords": [
+   "ireland",
+   "dublin",
+   "dcu",
+   "undergraduate",
+   "bachelor",
+   "non-eu",
+   "automatic",
+   "computer science",
+   "engineering"
+  ],
+  "url": "https://www.dcu.ie/global/dcu-international-scholarships-non-eu-students-2027-28",
+  "apply_url": "https://www.dcu.ie/global/dcu-international-scholarships-non-eu-students-2027-28",
+  "sources": [
+   "https://www.dcu.ie/global/dcu-international-scholarships-non-eu-students-2027-28",
+   "https://www.dcu.ie/scholarships/international-scholarships"
+  ],
+  "score": 6,
+  "score_reason": "Automatic, all non-EU nationalities; modest amounts.",
+  "premium": false,
+  "verified_at": "2026-10-31",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "humanities",
+   "social-sciences",
+   "international-relations",
+   "law"
+  ],
+  "tutor_tags": [
+   "essay"
+  ],
+  "level": [
+   "bachelor"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 20
+ },
+ {
+  "id": "sse-riga-bachelor-admissions-scholarship-2027",
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "business school merit scholarship (tuition waiver)",
+  "org": "Stockholm School of Economics in Riga (SSE Riga)",
+  "name": {
+   "en": "SSE Riga Admissions Scholarship (BSc in Economics and Business)",
+   "ka": "SSE Riga-ს მისაღები სტიპენდია (ეკონომიკისა და ბიზნესის ბაკალავრიატი)",
+   "ar": "منحة القبول في مدرسة ستوكهولم للاقتصاد في ريغا (بكالوريوس الاقتصاد والأعمال)"
+  },
+  "country": {
+   "en": "Latvia",
+   "ka": "ლატვია",
+   "ar": "لاتفيا"
+  },
+  "city": "Riga",
+  "iso": "LV",
+  "flag": "🇱🇻",
+  "region": "europe",
+  "lat": 56.951,
+  "lon": 24.1,
+  "cost": "scholarship",
+  "duration": {
+   "en": "1 to 3 years, partial or full tuition",
+   "ka": "1-დან 3 წლამდე, ნაწილობრივი ან სრული საფასური",
+   "ar": "من سنة إلى 3 سنوات، رسوم جزئية أو كاملة"
+  },
+  "grades": "12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "No application: all 2027/28 bachelor applicants are considered based on test and interview results. Follow SSE Riga's admission round dates.",
+  "event_dates": null,
+  "summary": {
+   "en": "SSE Riga awards up to 20 Admissions Scholarships of partial or full tuition waivers for one to three years to the best bachelor's applicants. Every applicant is considered automatically.",
+   "ka": "SSE Riga საუკეთესო საბაკალავრო აპლიკანტებს 20-მდე მისაღებ სტიპენდიას ანიჭებს — სწავლის საფასურის ნაწილობრივ ან სრულ შეღავათს ერთიდან სამ წლამდე. ყველა აპლიკანტი ავტომატურად განიხილება.",
+   "ar": "تمنح مدرسة ستوكهولم للاقتصاد في ريغا ما يصل إلى 20 منحة قبول تعفي جزئياً أو كلياً من الرسوم لمدة سنة إلى ثلاث سنوات لأفضل المتقدمين للبكالوريوس، ويُنظر في جميع المتقدمين تلقائياً."
+  },
+  "about": {
+   "en": "SSE Riga, a branch of the Stockholm School of Economics in Latvia, runs a highly ranked three-year BSc in Economics and Business. Non-EU/EEA students pay €8,350 a year (fixed for three years) for 2027/28 entry.\n\nUp to 20 Admissions Scholarships offer partial or full tuition fee waivers for one to three years. They are competitive and require no separate application: SSE Riga considers test and interview results, academic excellence, extracurricular activities and cohort diversity. In 2026, 51 bachelor students received €235,810 in scholarships. Open to all nationalities."
+  },
+  "highlights": {
+   "en": [
+    "Partial or full tuition waivers",
+    "No separate application",
+    "Top Baltic business school"
+   ]
+  },
+  "eligibility": {
+   "en": "All applicants to the SSE Riga BSc in Economics and Business; awarded competitively on entrance test, interview, grades, activities and diversity."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply to the SSE Riga bachelor's programme.",
+    "Take the entrance test and interview.",
+    "You are automatically considered for an Admissions Scholarship."
+   ]
+  },
+  "costs": {
+   "en": "Partial or full tuition waiver for 1–3 years (non-EU tuition €8,350/year)."
+  },
+  "keywords": [
+   "latvia",
+   "riga",
+   "sse riga",
+   "stockholm school of economics",
+   "economics",
+   "business",
+   "bachelor",
+   "merit"
+  ],
+  "url": "https://www.sseriga.edu/education/bachelor/tuition-fee",
+  "apply_url": "https://www.sseriga.edu/education/bachelor/tuition-fee",
+  "sources": [
+   "https://www.sseriga.edu/education/bachelor/tuition-fee"
+  ],
+  "score": 6,
+  "score_reason": "Possible full waivers at a top business school; competitive.",
+  "premium": false,
+  "verified_at": "2026-10-31",
+  "fields": [
+   "economics",
+   "business"
+  ],
+  "tutor_tags": [
+   "interview",
+   "sat"
+  ],
+  "level": [
+   "bachelor"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 50
+ },
+ {
+  "id": "tobb-etu-international-undergraduate-scholarship-2027",
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university merit scholarship (tuition discount)",
+  "org": "TOBB University of Economics and Technology (TOBB ETÜ)",
+  "name": {
+   "en": "TOBB ETÜ Merit Scholarships for International Undergraduates",
+   "ka": "TOBB ETÜ-ს აკადემიური სტიპენდიები საერთაშორისო ბაკალავრებისთვის",
+   "ar": "منح الجدارة لطلاب البكالوريوس الدوليين في جامعة TOBB للاقتصاد والتكنولوجيا"
+  },
+  "country": {
+   "en": "Türkiye",
+   "ka": "თურქეთი",
+   "ar": "تركيا"
+  },
+  "city": "Ankara",
+  "iso": "TR",
+  "flag": "🇹🇷",
+  "region": "europe",
+  "lat": 39.921,
+  "lon": 32.799,
+  "cost": "scholarship",
+  "duration": {
+   "en": "Full length of the bachelor's degree",
+   "ka": "საბაკალავრო პროგრამის მთელი პერიოდი",
+   "ar": "طوال مدة درجة البكالوريوس"
+  },
+  "grades": "12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Awarded at admission through TOBB ETÜ's international application process; check the international office page for 2027-28 application dates.",
+  "event_dates": null,
+  "summary": {
+   "en": "TOBB ETÜ in Ankara offers international undergraduates merit-based tuition discounts of 25%, 50% or 75% on its $16,500 annual fee, purely on academic excellence. Its co-op system adds paid work terms.",
+   "ka": "ანკარის TOBB ETÜ საერთაშორისო ბაკალავრებს $16,500-იან წლიურ საფასურზე 25%-იან, 50%-იან ან 75%-იან ფასდაკლებას სთავაზობს მხოლოდ აკადემიური ბრწყინვალების საფუძველზე. ქოოპ-სისტემა ანაზღაურებად სამუშაო პერიოდებსაც მოიცავს.",
+   "ar": "تقدم جامعة TOBB للاقتصاد والتكنولوجيا في أنقرة لطلاب البكالوريوس الدوليين خصومات جدارة بنسبة 25% أو 50% أو 75% على الرسوم السنوية البالغة 16,500 دولار، على أساس التفوق الأكاديمي فقط، مع نظام تعليم تعاوني يتضمن فترات عمل مدفوعة."
+  },
+  "about": {
+   "en": "TOBB ETÜ is a private, non-profit university in Ankara founded by the Union of Chambers and Commodity Exchanges of Türkiye, known for engineering, economics and its cooperative (co-op) education system. Annual undergraduate tuition for international students is $16,500 ($23,100 for Medicine).\n\nIt offers purely merit-based tuition discounts of 25%, 50% or 75%; the 25% tier goes to selected highly qualified candidates and the 50%/75% tiers are rare and reserved for outstanding, world-class credentials. Students who start without a scholarship can later earn an Academic Excellence Scholarship with a GPA of 3.50+. Discounts cover tuition only."
+  },
+  "highlights": {
+   "en": [
+    "25%, 50% or 75% off tuition",
+    "Purely merit-based",
+    "Co-op education with paid work terms"
+   ]
+  },
+  "eligibility": {
+   "en": "International undergraduate applicants with excellent academic credentials (any nationality); later Academic Excellence awards need a 3.50/4.00 GPA."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply through TOBB ETÜ's international undergraduate admissions.",
+    "Submit transcripts and exam scores (e.g. SAT, IB, A-levels).",
+    "Scholarship tier is decided at admission."
+   ]
+  },
+  "costs": {
+   "en": "Tuition discount of 25% (pay $12,375), 50% ($8,250) or 75% ($4,125) per year; no housing or stipend."
+  },
+  "keywords": [
+   "turkey",
+   "türkiye",
+   "ankara",
+   "tobb etu",
+   "bachelor",
+   "engineering",
+   "economics",
+   "merit",
+   "co-op"
+  ],
+  "url": "https://www.etu.edu.tr/en/uluslararasi/sayfa/tuition-fees-and-scholarship-opportunities",
+  "apply_url": "https://www.etu.edu.tr/en/uluslararasi/sayfa/tuition-fees-and-scholarship-opportunities",
+  "sources": [
+   "https://www.etu.edu.tr/en/uluslararasi/sayfa/tuition-fees-and-scholarship-opportunities"
+  ],
+  "score": 5,
+  "score_reason": "Real tiered merit discounts; top tiers are rare.",
+  "premium": false,
+  "verified_at": "2026-10-31",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "economics",
+   "business",
+   "law",
+   "medicine-health"
+  ],
+  "tutor_tags": [
+   "sat"
+  ],
+  "level": [
+   "bachelor"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 50
+ },
+ {
+  "id": "brunel-eu-undergraduate-bursary-2027",
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university bursary (automatic fee reduction)",
+  "org": "Brunel University of London",
+  "name": {
+   "en": "Brunel University of London EU Undergraduate Bursary 2027/28",
+   "ka": "ბრუნელის ლონდონის უნივერსიტეტის EU საბაკალავრო ბურსა 2027/28",
+   "ar": "منحة البكالوريوس لطلاب الاتحاد الأوروبي في جامعة برونيل لندن 2027/28"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "London",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 51.533,
+  "lon": -0.473,
+  "cost": "scholarship",
+  "duration": {
+   "en": "£5,000 (see terms for how it is spread)",
+   "ka": "£5,000 (განაწილება — წესებში)",
+   "ar": "5,000 جنيه (التوزيع حسب الشروط)"
+  },
+  "grades": "12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Listed as open for 2027/8 entry with no application required.",
+  "event_dates": null,
+  "summary": {
+   "en": "Brunel University of London gives EU students paying international fees a £5,000 bursary on their undergraduate tuition for 2027/28. No application is required.",
+   "ka": "ბრუნელის ლონდონის უნივერსიტეტი საერთაშორისო საფასურის გადამხდელ EU სტუდენტებს 2027/28 წლისთვის საბაკალავრო საფასურზე £5,000-იან ბურსას აძლევს. განაცხადი საჭირო არ არის.",
+   "ar": "تمنح جامعة برونيل لندن طلاب الاتحاد الأوروبي الذين يدفعون الرسوم الدولية منحة قدرها 5,000 جنيه على رسوم البكالوريوس لعام 2027/28، دون الحاجة إلى طلب."
+  },
+  "about": {
+   "en": "Since Brexit, most EU students pay international fees in the UK. Brunel University of London (Uxbridge, west London) offers an EU Undergraduate Bursary of £5,000 for 2027/8 entry to eligible EU students, awarded with no application.\n\nBrunel is known for engineering, design, computer science and sport sciences. Non-EU students should check Brunel's scholarship search for other awards (e.g. school-partner discounts)."
+  },
+  "highlights": {
+   "en": [
+    "£5,000 bursary",
+    "No application",
+    "For EU students paying international fees"
+   ]
+  },
+  "eligibility": {
+   "en": "EU nationals classed as international fee payers starting an eligible Brunel undergraduate course in 2027/28."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply via UCAS for a Brunel undergraduate course.",
+    "Ensure your EU nationality and fee status are recorded.",
+    "The bursary is applied automatically."
+   ]
+  },
+  "costs": {
+   "en": "£5,000 off tuition."
+  },
+  "keywords": [
+   "uk",
+   "england",
+   "london",
+   "brunel",
+   "undergraduate",
+   "bachelor",
+   "eu students",
+   "automatic"
+  ],
+  "url": "https://www.brunel.ac.uk/scholarships/home",
+  "apply_url": "https://www.brunel.ac.uk/scholarships/home",
+  "sources": [
+   "https://www.brunel.ac.uk/scholarships/home"
+  ],
+  "score": 4,
+  "score_reason": "Automatic but EU-only.",
+  "premium": false,
+  "verified_at": "2026-10-31",
+  "fields": [
+   "any"
+  ],
+  "tutor_tags": [
+   "essay"
+  ],
+  "level": [
+   "bachelor"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 25
+ },
+ {
+  "id": "maastricht-um-nl-global-studies-scholarship-2027",
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university full scholarship (tuition + stipend)",
+  "org": "Maastricht University",
+  "name": {
+   "en": "Maastricht University UM NL Global Studies Scholarship (Bachelor, full)",
+   "ka": "მაასტრიხტის უნივერსიტეტის UM NL Global Studies სტიპენდია (ბაკალავრიატი, სრული)",
+   "ar": "منحة UM NL للدراسات العالمية في جامعة ماستريخت (بكالوريوس، كاملة)"
+  },
+  "country": {
+   "en": "Netherlands",
+   "ka": "ნიდერლანდები",
+   "ar": "هولندا"
+  },
+  "city": "Maastricht",
+  "iso": "NL",
+  "flag": "🇳🇱",
+  "region": "europe",
+  "lat": 50.849,
+  "lon": 5.688,
+  "cost": "fully-funded",
+  "duration": {
+   "en": "36 months (whole bachelor's)",
+   "ka": "36 თვე (მთელი ბაკალავრიატი)",
+   "ar": "36 شهراً (كامل البكالوريوس)"
+  },
+  "grades": "12",
+  "opens": "2026-10-01",
+  "deadline": "2027-02-01",
+  "deadline_note": "Official 2027-28 dates: scholarship applications 1 Oct 2026 – 1 Feb 2027 (23:59 CET); your complete Global Studies admission file must be submitted before 10 Dec 2026.",
+  "event_dates": null,
+  "summary": {
+   "en": "Maastricht University fully funds a top-performing student from an OECD aid-eligible country (Georgia qualifies) on its Global Studies bachelor's: full tuition waiver plus a living stipend for three years.",
+   "ka": "მაასტრიხტის უნივერსიტეტი Global Studies-ის ბაკალავრიატზე სრულად აფინანსებს OECD-ის დახმარების მიმღები ქვეყნის (საქართველოც შედის) საუკეთესო სტუდენტს: სწავლის საფასურის სრული შეღავათი და საცხოვრებელი სტიპენდია სამი წლით.",
+   "ar": "تموّل جامعة ماستريخت بالكامل طالباً متفوقاً من دولة مؤهلة لمساعدات OECD الإنمائية (جورجيا مؤهلة) في بكالوريوس الدراسات العالمية: إعفاء كامل من الرسوم وراتب معيشي لثلاث سنوات."
+  },
+  "about": {
+   "en": "The UM NL Global Studies Scholarship offers full coverage (tuition fee waiver plus monthly stipend; €20,150 for living expenses in 2027-28) for the three-year, English-taught Global Studies bachelor's at Maastricht University, a problem-based programme with an interdisciplinary thesis. Places are very limited (one full scholarship per academic year for selected top students).\n\nYou must hold the nationality of a country eligible for OECD Official Development Assistance (this includes Georgia; Qatar is not ODA-eligible), have no EU/EEA/Swiss/Surinamese dual nationality, demonstrate financial need and strong development potential, be 35 or younger on 1 Sept 2027, and have submitted a complete Global Studies application before 10 December 2026."
+  },
+  "highlights": {
+   "en": [
+    "Full tuition waiver + €20,150/year living stipend",
+    "Georgia eligible (ODA country)",
+    "Admission file by 10 Dec 2026"
+   ]
+  },
+  "eligibility": {
+   "en": "Nationals of OECD ODA-eligible countries (Georgia included; not Qatar), no EU/EEA/Swiss/Surinamese dual nationality, with financial need, admitted (conditionally) to Global Studies for 2027-28, application file complete before 10 Dec 2026, aged ≤35."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply to the Global Studies bachelor's via Studielink and UM, with a complete file before 10 December 2026.",
+    "Receive your UM student ID.",
+    "Submit the scholarship application (motivation, proof of need, documents) between 1 Oct 2026 and 1 Feb 2027.",
+    "Shortlisted candidates go through UM's selection procedure."
+   ]
+  },
+  "costs": {
+   "en": "Tuition fee waiver plus €20,150 per year for living expenses (2027-28 figure), for 36 months."
+  },
+  "keywords": [
+   "netherlands",
+   "maastricht",
+   "global studies",
+   "full scholarship",
+   "bachelor",
+   "georgia",
+   "oda",
+   "need-based"
+  ],
+  "url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/um-nl-global-studies",
+  "apply_url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/um-nl-global-studies",
+  "sources": [
+   "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/um-nl-global-studies"
+  ],
+  "score": 8,
+  "score_reason": "Rare fully funded bachelor's in the Netherlands; Georgians eligible.",
+  "premium": false,
+  "verified_at": "2026-10-31",
+  "fields": [
+   "international-relations",
+   "social-sciences",
+   "humanities",
+   "environment"
+  ],
+  "tutor_tags": [
+   "essay"
+  ],
+  "level": [
+   "bachelor"
+  ],
+  "coverage": "full",
+  "coverage_pct": 100
+ },
+ {
+  "id": "erasmus-school-of-economics-philip-hans-franses-scholarship-2027",
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university merit scholarship (tuition waiver)",
+  "org": "Erasmus School of Economics, Erasmus University Rotterdam",
+  "name": {
+   "en": "Philip Hans Franses Scholarship — Erasmus School of Economics (Bachelor)",
+   "ka": "ფილიპ ჰანს ფრანსესის სტიპენდია — ერაზმუსის ეკონომიკის სკოლა (ბაკალავრიატი)",
+   "ar": "منحة فيليب هانز فرانسيس — كلية إيراسموس للاقتصاد (البكالوريوس)"
+  },
+  "country": {
+   "en": "Netherlands",
+   "ka": "ნიდერლანდები",
+   "ar": "هولندا"
+  },
+  "city": "Rotterdam",
+  "iso": "NL",
+  "flag": "🇳🇱",
+  "region": "europe",
+  "lat": 51.917,
+  "lon": 4.526,
+  "cost": "scholarship",
+  "duration": {
+   "en": "First year of study",
+   "ka": "სწავლის პირველი წელი",
+   "ar": "السنة الأولى من الدراسة"
+  },
+  "grades": "12",
+  "opens": null,
+  "deadline": "2027-02-01",
+  "deadline_note": "For 2027-28: register in Studielink and submit documents in the EUR Admission Portal before 1 Feb 2027 (15 Jan 2027 for International Bachelor Economics and Business Economics). Maths entrance exam (if required) by 1 Apr 2027.",
+  "event_dates": null,
+  "summary": {
+   "en": "Erasmus School of Economics gives non-EEA students a €10,000 waiver on first-year tuition for its international bachelor's in Econometrics or Economics and Business Economics.",
+   "ka": "ერაზმუსის ეკონომიკის სკოლა არა-EEA სტუდენტებს ეკონომეტრიკის ან ეკონომიკისა და ბიზნეს-ეკონომიკის საერთაშორისო ბაკალავრიატზე პირველი წლის საფასურზე €10,000-იან შეღავათს აძლევს.",
+   "ar": "تمنح كلية إيراسموس للاقتصاد الطلاب من خارج المنطقة الاقتصادية الأوروبية إعفاءً قدره 10,000 يورو من رسوم السنة الأولى في برامج البكالوريوس الدولية في الاقتصاد القياسي أو الاقتصاد واقتصاد الأعمال."
+  },
+  "about": {
+   "en": "Named after the school's emeritus dean, an eminent econometrician, the Philip Hans Franses Scholarship is a partial tuition fee waiver of €10,000 for the first year of selected bachelor's programmes at Erasmus School of Economics, one of Europe's leading economics schools.\n\nIt is for nationals of non-EEA countries (Georgia and Qatar included) selected for the International Bachelor in Econometrics and Operations Research, the International Bachelor Economics and Business Economics, or the double bachelor BSc² Econometrics and Economics. You must register and submit your admission documents in time, pass the maths entrance exam if required, and complete the immigration procedure."
+  },
+  "highlights": {
+   "en": [
+    "€10,000 off first-year tuition",
+    "Non-EEA nationals",
+    "Econometrics & economics programmes"
+   ]
+  },
+  "eligibility": {
+   "en": "Non-EEA nationals selected for an eligible ESE bachelor's (IBEOR, IBEB, BSc² Econometrics & Economics) for 2027-28 who meet all application deadlines."
+  },
+  "how_to_apply": {
+   "en": [
+    "Register for the programme in Studielink.",
+    "Submit documents in the EUR Admission Portal before 1 Feb 2027 (15 Jan for IBEB).",
+    "Pass the mathematics entrance exam by 1 Apr 2027 if required.",
+    "Complete the immigration procedure (by May recommended; 10 July final)."
+   ]
+  },
+  "costs": {
+   "en": "€10,000 partial tuition fee waiver for year 1 (non-EEA tuition is higher; remainder payable)."
+  },
+  "keywords": [
+   "netherlands",
+   "rotterdam",
+   "erasmus",
+   "econometrics",
+   "economics",
+   "bachelor",
+   "non-eea",
+   "merit"
+  ],
+  "url": "https://www.eur.nl/en/ese/education/bachelor/fees-and-scholarships/scholarships-and-grants/philip-hans-franses-scholarship",
+  "apply_url": "https://www.eur.nl/en/ese/education/bachelor/fees-and-scholarships/scholarships-and-grants/philip-hans-franses-scholarship",
+  "sources": [
+   "https://www.eur.nl/en/ese/education/bachelor/fees-and-scholarships/scholarships-and-grants/philip-hans-franses-scholarship",
+   "https://www.eur.nl/en/ese/education/bachelor/fees-and-scholarships/scholarships-and-grants"
+  ],
+  "score": 7,
+  "score_reason": "€10k waiver at a top economics school with clear deadlines.",
+  "premium": false,
+  "verified_at": "2026-10-31",
+  "fields": [
+   "economics",
+   "mathematics",
+   "business"
+  ],
+  "tutor_tags": [
+   "essay"
+  ],
+  "level": [
+   "bachelor"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 50
+ },
+ {
+  "id": "ieseg-bachelor-scholarships-tuition-waivers-2027",
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "business school merit and need-based waivers",
+  "org": "IÉSEG School of Management",
+  "name": {
+   "en": "IÉSEG Scholarships and Tuition Waivers (Bachelor in International Business)",
+   "ka": "IÉSEG-ის სტიპენდიები და საფასურის შეღავათები (საერთაშორისო ბიზნესის ბაკალავრიატი)",
+   "ar": "منح وإعفاءات الرسوم في IÉSEG (بكالوريوس الأعمال الدولية)"
+  },
+  "country": {
+   "en": "France",
+   "ka": "საფრანგეთი",
+   "ar": "فرنسا"
+  },
+  "city": "Lille",
+  "iso": "FR",
+  "flag": "🇫🇷",
+  "region": "europe",
+  "lat": 50.634,
+  "lon": 3.059,
+  "cost": "scholarship",
+  "duration": {
+   "en": "First year of study",
+   "ka": "სწავლის პირველი წელი",
+   "ar": "السنة الأولى من الدراسة"
+  },
+  "grades": "12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Merit waivers are decided by the admission committee and released with your admission decision; need-based commissions run several times a year. Follow IÉSEG's bachelor admission rounds for 2027.",
+  "event_dates": null,
+  "summary": {
+   "en": "IÉSEG, a top French business school in Lille and Paris, gives many bachelor's applicants tuition waivers of up to €5,000 automatically at admission, plus need-based waivers and 0% honour loans.",
+   "ka": "IÉSEG, საფრანგეთის წამყვანი ბიზნეს-სკოლა ლილსა და პარიზში, ბაკალავრიატის ბევრ აპლიკანტს მიღებისას ავტომატურად აძლევს €5,000-მდე შეღავათს, ასევე საჭიროებაზე დაფუძნებულ შეღავათებსა და უპროცენტო სესხებს.",
+   "ar": "تمنح IÉSEG، وهي كلية أعمال فرنسية رائدة في ليل وباريس، كثيراً من المتقدمين للبكالوريوس إعفاءات من الرسوم تصل إلى 5,000 يورو تلقائياً عند القبول، إضافة إلى إعفاءات حسب الحاجة وقروض شرف بلا فوائد."
+  },
+  "about": {
+   "en": "IÉSEG School of Management (Lille and Paris-La Défense) offers an English-taught Bachelor in International Business and a Bachelor in Management & Tech Design. It awards large numbers of scholarships as tuition waivers of up to €5,000 to students who meet the criteria; no separate application is needed, as decisions are made by the admission commission and released with the admission decision.\n\nStudents with financial difficulties can also apply to IÉSEG's financial support commissions for a need-based tuition waiver (with guarantors' income documents) or a 0% 'loan of honour' repaid after graduation. International students of any nationality are eligible."
+  },
+  "highlights": {
+   "en": [
+    "Waivers up to €5,000, automatic",
+    "Need-based waivers on request",
+    "0% honour loans"
+   ]
+  },
+  "eligibility": {
+   "en": "Applicants to IÉSEG bachelor's programmes (any nationality) meeting merit criteria; need-based support requires a financial file."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply to an IÉSEG bachelor's programme in one of the 2027 admission rounds.",
+    "Merit waivers are announced with your admission decision.",
+    "For need-based help, send a letter and guarantors' income/tax documents to a financial support commission."
+   ]
+  },
+  "costs": {
+   "en": "Tuition waivers up to €5,000; need-based waivers and interest-free honour loans also available."
+  },
+  "keywords": [
+   "france",
+   "lille",
+   "paris",
+   "ieseg",
+   "business",
+   "bachelor",
+   "merit",
+   "need-based"
+  ],
+  "url": "https://www.ieseg.fr/en/life-at-ieseg/practical-information/finance-your-education/",
+  "apply_url": "https://www.ieseg.fr/en/life-at-ieseg/practical-information/finance-your-education/",
+  "sources": [
+   "https://www.ieseg.fr/en/life-at-ieseg/practical-information/finance-your-education/"
+  ],
+  "score": 5,
+  "score_reason": "Automatic merit waivers at a well-ranked French business school.",
+  "premium": false,
+  "verified_at": "2026-10-31",
+  "fields": [
+   "business",
+   "economics"
+  ],
+  "tutor_tags": [
+   "essay"
+  ],
+  "level": [
+   "bachelor"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 20
  }
 ]

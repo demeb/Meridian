@@ -9248,5 +9248,3644 @@
    "computer-science"
   ],
   "verified_at": "2026-10-31"
+ },
+ {
+  "id": "academic-worldquest-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "World Affairs Councils of America",
+  "name": {
+   "en": "Academic WorldQuest 2027 (25th Anniversary National Competition)",
+   "ka": "Academic WorldQuest 2027 (25-ე საიუბილეო ეროვნული შეჯიბრი)",
+   "ar": "مسابقة Academic WorldQuest 2027 (المسابقة الوطنية في ذكراها الخامسة والعشرين)"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Washington, D.C.",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 38.91,
+  "lon": -77.04,
+  "cost": "paid",
+  "duration": {
+   "en": "Two days",
+   "ka": "ორი დღე",
+   "ar": "يومان"
+  },
+  "grades": "9-12 (US)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Local council contests in winter/spring 2027 (team registration available January 2027); National Competition 12–13 Apr 2027 in Washington, D.C.",
+  "event_dates": "2027-04-12 to 2027-04-13",
+  "summary": {
+   "en": "A US high-school team quiz on international affairs, world geography and current global issues, run through local World Affairs Councils. The 25th national competition is in Washington, D.C. on 12–13 April 2027.",
+   "ka": "აშშ-ის საშუალო სკოლის გუნდური ვიქტორინა საერთაშორისო ურთიერთობებზე, მსოფლიო გეოგრაფიასა და მიმდინარე გლობალურ საკითხებზე, რომელსაც ადგილობრივი World Affairs Councils ატარებენ. 25-ე ეროვნული შეჯიბრი ვაშინგტონში 2027 წლის 12–13 აპრილს გაიმართება.",
+   "ar": "مسابقة أسئلة جماعية لطلاب المدارس الثانوية الأمريكية في الشؤون الدولية والجغرافيا العالمية والقضايا العالمية الراهنة، تُنظَّم عبر مجالس الشؤون العالمية المحلية. وتُقام المسابقة الوطنية الخامسة والعشرون في واشنطن العاصمة في 12–13 أبريل 2027."
+  },
+  "about": {
+   "en": "Teams of four students prepare from an annual study guide covering topics such as global health, diplomacy, regional affairs and economics, then compete at a contest hosted by their local World Affairs Council. Each council's winning team goes to the national competition in Washington, D.C., which includes a 'DC Experience' of briefings and visits with about 250 peers.\n\nIt is one of the few US competitions focused squarely on international relations and foreign policy."
+  },
+  "highlights": {
+   "en": [
+    "Focused on international affairs",
+    "Annual study guide provided",
+    "National final in Washington, D.C."
+   ]
+  },
+  "eligibility": {
+   "en": "US high-school teams of four in areas served by a participating World Affairs Council."
+  },
+  "how_to_apply": {
+   "en": [
+    "Find your local World Affairs Council",
+    "Form a team of four with a teacher",
+    "Register when team registration opens (Jan 2027)",
+    "Study the 2027 guide and compete locally"
+   ]
+  },
+  "costs": {
+   "en": "Local fees vary; national travel often supported by councils."
+  },
+  "keywords": [
+   "international relations",
+   "geopolitics",
+   "quiz",
+   "foreign policy",
+   "usa",
+   "team"
+  ],
+  "url": "https://www.worldaffairscouncils.org/academic-worldquest",
+  "apply_url": "https://www.worldaffairscouncils.org/academic-worldquest",
+  "sources": [
+   "https://www.worldaffairscouncils.org/academic-worldquest"
+  ],
+  "score": 5,
+  "score_reason": "Rare IR-focused contest; US only",
+  "premium": false,
+  "fields": [
+   "international-relations",
+   "social-sciences"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "bebras-usa-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Bebras USA",
+  "name": {
+   "en": "Bebras Computing Challenge USA 2026",
+   "ka": "Bebras-ის კომპიუტერული გამოწვევა აშშ 2026",
+   "ar": "تحدي Bebras للحوسبة في الولايات المتحدة 2026"
+  },
+  "country": {
+   "en": "United States (online)",
+   "ka": "აშშ (ონლაინ)",
+   "ar": "الولايات المتحدة (عبر الإنترنت)"
+  },
+  "city": "Online",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 39.83,
+  "lon": -98.58,
+  "cost": "free",
+  "duration": {
+   "en": "One day",
+   "ka": "ერთი დღე",
+   "ar": "يوم واحد"
+  },
+  "grades": "grades 2-12",
+  "opens": null,
+  "deadline": "2026-11-20",
+  "deadline_note": "Challenge window 9–20 Nov 2026; coordinators register on the official site",
+  "event_dates": "2026-11-09 to 2026-11-20",
+  "summary": {
+   "en": "The US edition of the international Bebras computational-thinking challenge, taken online in schools between 9 and 20 November 2026. Teachers register as coordinators to enrol students.",
+   "ka": "საერთაშორისო Bebras კომპიუტერული აზროვნების გამოწვევის ამერიკული ვერსია, რომელიც სკოლებში ონლაინ 2026 წლის 9–20 ნოემბერს ტარდება. მასწავლებლები კოორდინატორებად რეგისტრირდებიან მოსწავლეების ჩასაწერად.",
+   "ar": "النسخة الأمريكية من تحدي Bebras الدولي للتفكير الحاسوبي، وتُؤدّى عبر الإنترنت في المدارس بين 9 و20 نوفمبر 2026. ويسجّل المعلمون كمنسقين لتسجيل الطلاب."
+  },
+  "about": {
+   "en": "Bebras tasks are short, interactive puzzles that build computational thinking — algorithms, patterns and data — without requiring programming knowledge. Students in different age groups take a timed challenge online under teacher supervision.\n\nIt is free and a gentle introduction to computer science for students who have never coded."
+  },
+  "highlights": {
+   "en": [
+    "Free, no coding needed",
+    "Runs in class during a two-week window",
+    "Part of a 60+ country challenge"
+   ]
+  },
+  "eligibility": {
+   "en": "Students in US schools, entered by a registered teacher-coordinator."
+  },
+  "how_to_apply": {
+   "en": [
+    "Teacher registers as coordinator on bebraschallenge.org",
+    "Try the practice challenges",
+    "Take the challenge in class 9–20 Nov 2026"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "bebras",
+   "computational thinking",
+   "computer science",
+   "usa",
+   "free"
+  ],
+  "url": "https://www.bebraschallenge.org/",
+  "apply_url": "https://www.bebraschallenge.org/",
+  "sources": [
+   "https://www.bebraschallenge.org/"
+  ],
+  "score": 4,
+  "score_reason": "Free intro CS challenge; US schools",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "informatik-biber-switzerland-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Schweizerischer Verein für Informatik in der Ausbildung (SVIA)",
+  "name": {
+   "en": "Informatik-Biber Switzerland 2026 (Swiss Bebras)",
+   "ka": "Informatik-Biber შვეიცარია 2026 (შვეიცარიის Bebras)",
+   "ar": "مسابقة Informatik-Biber في سويسرا 2026 (Bebras السويسرية)"
+  },
+  "country": {
+   "en": "Switzerland (online)",
+   "ka": "შვეიცარია (ონლაინ)",
+   "ar": "سويسرا (عبر الإنترنت)"
+  },
+  "city": "Online",
+  "iso": "CH",
+  "flag": "🇨🇭",
+  "region": "europe",
+  "lat": 46.95,
+  "lon": 7.45,
+  "cost": "free",
+  "duration": {
+   "en": "One day",
+   "ka": "ერთი დღე",
+   "ar": "يوم واحد"
+  },
+  "grades": "grades 1-13",
+  "opens": null,
+  "deadline": "2026-11-20",
+  "deadline_note": "Next contest 9–20 Nov 2026; participant registration open now (official site)",
+  "event_dates": "2026-11-09 to 2026-11-20",
+  "summary": {
+   "en": "Switzerland's free computational-thinking contest, part of the international Bebras challenge, taken online in schools between 9 and 20 November 2026, followed by a Biber final for top scorers.",
+   "ka": "შვეიცარიის უფასო კონკურსი კომპიუტერულ აზროვნებაში, საერთაშორისო Bebras გამოწვევის ნაწილი, რომელიც სკოლებში ონლაინ 2026 წლის 9–20 ნოემბერს ტარდება; საუკეთესოებისთვის შემდეგ Biber-ის ფინალი იმართება.",
+   "ar": "المسابقة السويسرية المجانية في التفكير الحاسوبي، وهي جزء من تحدي Bebras الدولي، وتُؤدّى عبر الإنترنت في المدارس بين 9 و20 نوفمبر 2026، يليها نهائي Biber لأصحاب الدرجات العليا."
+  },
+  "about": {
+   "en": "The Swiss Informatik-Biber (Castor in French, Castoro in Italian) offers age-appropriate interactive tasks on algorithms and logic for all school levels, in German, French and Italian. Teachers act as coordinators and run the contest in class during the window.\n\nTop participants are invited to the Biber final, and interested students can move on to the Swiss Olympiad in Informatics."
+  },
+  "highlights": {
+   "en": [
+    "Free; German, French and Italian",
+    "All school levels",
+    "Biber final for top scorers"
+   ]
+  },
+  "eligibility": {
+   "en": "School students in Switzerland and Liechtenstein, registered by a teacher-coordinator."
+  },
+  "how_to_apply": {
+   "en": [
+    "Teacher registers on informatik-biber.ch",
+    "Practise with past tasks",
+    "Take the contest in class 9–20 Nov 2026"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "bebras",
+   "biber",
+   "switzerland",
+   "computational thinking",
+   "free"
+  ],
+  "url": "https://informatik-biber.ch/",
+  "apply_url": "https://informatik-biber.ch/",
+  "sources": [
+   "https://informatik-biber.ch/"
+  ],
+  "score": 4,
+  "score_reason": "Free national CS challenge; Swiss schools",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "scholastic-art-writing-awards-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Alliance for Young Artists & Writers",
+  "name": {
+   "en": "Scholastic Art & Writing Awards 2027",
+   "ka": "Scholastic Art & Writing Awards 2027 (ხელოვნებისა და ლიტერატურის ჯილდოები)",
+   "ar": "جوائز Scholastic للفنون والكتابة 2027"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "New York",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 40.71,
+  "lon": -74.01,
+  "cost": "paid",
+  "duration": {
+   "en": "Single submission, results months later",
+   "ka": "ერთჯერადი ნამუშევრის გაგზავნა, შედეგები რამდენიმე თვეში",
+   "ar": "تقديم عمل واحد، والنتائج بعد أشهر"
+  },
+  "grades": "7-12 (age 13+)",
+  "opens": "2026-10-01",
+  "deadline": "2026-12-01",
+  "deadline_note": "Entries opened 1 Oct 2026; regional deadlines start 1 Dec 2026 and run as late as 4 Jan 2027 depending on region (official calendar)",
+  "event_dates": null,
+  "summary": {
+   "en": "The longest-running US recognition programme for creative teens, with art and writing categories and scholarships. Entries are open, with regional deadlines between 1 December 2026 and 4 January 2027.",
+   "ka": "აშშ-ის ყველაზე ხანგრძლივი პროგრამა შემოქმედებითი მოზარდების დასაჯილდოებლად, ხელოვნებისა და ლიტერატურის კატეგორიებითა და სტიპენდიებით. ნამუშევრების მიღება ღიაა, რეგიონული ვადებით 2026 წლის 1 დეკემბრიდან 2027 წლის 4 იანვრამდე.",
+   "ar": "أقدم برنامج أمريكي لتكريم المراهقين المبدعين، بفئات في الفنون والكتابة ومنح دراسية. باب المشاركة مفتوح، والمواعيد النهائية الإقليمية بين 1 ديسمبر 2026 و4 يناير 2027."
+  },
+  "about": {
+   "en": "Since 1923 the Scholastic Awards have recognised teens' work in categories from painting, photography and film to poetry, short stories and critical essays. Entries are judged first by regional affiliates (results on 27 January 2027); Gold Key works advance to national judging (results on 31 March 2027), with scholarships and a national celebration.\n\nPast winners include many well-known artists and writers. Students may enter individually or through their teachers."
+  },
+  "highlights": {
+   "en": [
+    "Art and writing categories",
+    "Regional then national judging",
+    "Scholarships for top work"
+   ]
+  },
+  "eligibility": {
+   "en": "Students in grades 7–12, aged 13+, who attend school and live in the US, US territories/military bases or Canada (excluding Quebec); US schools abroad are not eligible."
+  },
+  "how_to_apply": {
+   "en": [
+    "Use the Region Locator to find your regional deadline",
+    "Create an account on the Scholastic Awards portal",
+    "Upload your work in the right category and pay the fee (waivers available)",
+    "Submit before your region's deadline"
+   ]
+  },
+  "costs": {
+   "en": "Per-entry fee (fee waivers available for students in need)."
+  },
+  "keywords": [
+   "art",
+   "writing",
+   "poetry",
+   "photography",
+   "scholastic",
+   "usa",
+   "canada",
+   "scholarship"
+  ],
+  "url": "https://www.artandwriting.org/",
+  "apply_url": "https://www.artandwriting.org/awards/how-to-enter/calendar/",
+  "sources": [
+   "https://www.artandwriting.org/awards/how-to-enter/calendar/",
+   "https://www.artandwriting.org/participation-terms/"
+  ],
+  "score": 7,
+  "score_reason": "Top US/Canada creative award, deadlines in December",
+  "premium": false,
+  "fields": [
+   "arts-design",
+   "humanities"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "essay"
+  ]
+ },
+ {
+  "id": "rit-next-big-idea-high-school-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Rochester Institute of Technology — National Technical Institute for the Deaf (NTID)",
+  "name": {
+   "en": "The Next Big Idea: High School 2027 (RIT/NTID)",
+   "ka": "The Next Big Idea: High School 2027 (RIT/NTID)",
+   "ar": "مسابقة The Next Big Idea للمدارس الثانوية 2027 (RIT/NTID)"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Rochester, NY",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 43.08,
+  "lon": -77.67,
+  "cost": "free",
+  "duration": {
+   "en": "Several months (preparation to final)",
+   "ka": "რამდენიმე თვე (მომზადებიდან ფინალამდე)",
+   "ar": "عدة أشهر (من التحضير حتى النهائي)"
+  },
+  "grades": "9-12 (deaf and hard-of-hearing students)",
+  "opens": "2027-01-11",
+  "deadline": "2027-03-19",
+  "deadline_note": "Registration 11 Jan–19 Mar 2027 (official page)",
+  "event_dates": null,
+  "summary": {
+   "en": "An entrepreneurship pitch competition from RIT's National Technical Institute for the Deaf for teams of deaf and hard-of-hearing high-school students. Registration runs from 11 January to 19 March 2027.",
+   "ka": "RIT-ის ყრუთა ეროვნული ტექნიკური ინსტიტუტის მეწარმეობის პიჩ-კონკურსი ყრუ და სმენადაქვეითებული საშუალო სკოლის მოსწავლეების გუნდებისთვის. რეგისტრაცია 2027 წლის 11 იანვრიდან 19 მარტამდე მიმდინარეობს.",
+   "ar": "مسابقة عروض ريادية من المعهد التقني الوطني للصم في RIT لفرق طلاب المدارس الثانوية الصم وضعاف السمع. ويستمر التسجيل من 11 يناير إلى 19 مارس 2027."
+  },
+  "about": {
+   "en": "Teams develop an innovative product or service idea, then submit a pitch video and business plan materials. Prizes and judging details are on the official Prizes page.\n\nIt gives deaf and hard-of-hearing students a showcase for entrepreneurial and technical talent and a first look at RIT/NTID."
+  },
+  "highlights": {
+   "en": [
+    "For deaf and hard-of-hearing students",
+    "Pitch your product or service idea",
+    "Run by RIT/NTID"
+   ]
+  },
+  "eligibility": {
+   "en": "Teams of deaf and hard-of-hearing high-school students (see the official requirements page)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the requirements and pitch guidelines",
+    "Form a team with an adult coach",
+    "Register between 11 Jan and 19 Mar 2027",
+    "Submit your pitch"
+   ]
+  },
+  "costs": {
+   "en": "Free to enter."
+  },
+  "keywords": [
+   "entrepreneurship",
+   "pitch",
+   "business",
+   "deaf",
+   "accessibility",
+   "usa"
+  ],
+  "url": "https://www.rit.edu/ntid/nextbigideahs",
+  "apply_url": "https://www.rit.edu/ntid/nextbigideahs",
+  "sources": [
+   "https://www.rit.edu/ntid/nextbigideahs"
+  ],
+  "score": 4,
+  "score_reason": "Inclusive pitch contest; niche eligibility",
+  "premium": false,
+  "fields": [
+   "business",
+   "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "tower-poetry-competition-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Christ Church, University of Oxford (Christopher Tower Poetry Competition)",
+  "name": {
+   "en": "Tower Poetry Competition 2027: 'The Deep'",
+   "ka": "Tower-ის პოეზიის კონკურსი 2027: „სიღრმე“",
+   "ar": "مسابقة Tower للشعر 2027: «الأعماق»"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Oxford",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 51.75,
+  "lon": -1.26,
+  "cost": "free",
+  "duration": {
+   "en": "Single submission, results months later",
+   "ka": "ერთჯერადი ნამუშევრის გაგზავნა, შედეგები რამდენიმე თვეში",
+   "ar": "تقديم عمل واحد، والنتائج بعد أشهر"
+  },
+  "grades": "ages 16-18 (UK)",
+  "opens": null,
+  "deadline": "2027-02-18",
+  "deadline_note": "Closes Thursday 18 Feb 2027, 12 noon (official Christ Church page)",
+  "event_dates": null,
+  "summary": {
+   "en": "The UK's most valuable prize for young poets, run by Christ Church, Oxford, for students aged 16–18 educated in the UK: £5,000 first prize on the theme 'The Deep'. Free to enter until 18 February 2027.",
+   "ka": "გაერთიანებული სამეფოს ყველაზე ძვირფასი პრემია ახალგაზრდა პოეტებისთვის, რომელსაც ოქსფორდის Christ Church ატარებს გაერთიანებულ სამეფოში მცხოვრები 16–18 წლის მოსწავლეებისთვის: პირველი პრიზი 5,000 ფუნტი, თემაზე „სიღრმე“. მონაწილეობა უფასოა 2027 წლის 18 თებერვლამდე.",
+   "ar": "أعلى جائزة قيمة للشعراء الشباب في المملكة المتحدة، تنظمها كلية Christ Church في أكسفورد للطلاب من سن 16 إلى 18 الذين يدرسون في المملكة المتحدة: جائزة أولى قدرها 5,000 جنيه حول موضوع «الأعماق». والمشاركة مجانية حتى 18 فبراير 2027."
+  },
+  "about": {
+   "en": "Students write a single poem on the year's theme, interpreted as freely as they like. Prizes: £5,000 first, £3,000 second, £1,500 third and ten runners-up of £500 each; the top three are also offered places on the Tower Poetry Summer School. Judges for 2027 include poet Liz Berry.\n\nThe competition is free and is a strong credential for students applying to read English at university."
+  },
+  "highlights": {
+   "en": [
+    "£5,000 first prize; 13 cash prizes",
+    "Free to enter",
+    "Winners join the Tower Poetry Summer School"
+   ]
+  },
+  "eligibility": {
+   "en": "Students aged 16–18 in secondary education (school, sixth form, college) in the UK."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the 2027 theme 'The Deep' and rules",
+    "Write and revise one poem",
+    "Submit via the Christ Church entry page before 12 noon on 18 Feb 2027"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "poetry",
+   "writing",
+   "oxford",
+   "uk",
+   "free",
+   "prize"
+  ],
+  "url": "https://www.chch.ox.ac.uk/tower-poetry/enter-tower-poetry-competition",
+  "apply_url": "https://www.chch.ox.ac.uk/tower-poetry/enter-tower-poetry-competition",
+  "sources": [
+   "https://www.chch.ox.ac.uk/tower-poetry/enter-tower-poetry-competition"
+  ],
+  "score": 7,
+  "score_reason": "Richest UK youth poetry prize, free",
+  "premium": false,
+  "fields": [
+   "humanities",
+   "arts-design"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "essay"
+  ]
+ },
+ {
+  "id": "guernsey-international-poetry-competition-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Guernsey Literary Festival (Poems on the Move)",
+  "name": {
+   "en": "Guernsey International Poetry Competition 2027",
+   "ka": "გერნსის საერთაშორისო პოეზიის კონკურსი 2027",
+   "ar": "مسابقة غيرنزي الدولية للشعر 2027"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "St Peter Port, Guernsey",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 49.46,
+  "lon": -2.54,
+  "cost": "free",
+  "duration": {
+   "en": "Single submission, results months later",
+   "ka": "ერთჯერადი ნამუშევრის გაგზავნა, შედეგები რამდენიმე თვეში",
+   "ar": "تقديم عمل واحد، والنتائج بعد أشهر"
+  },
+  "grades": "young people's category (see rules)",
+  "opens": null,
+  "deadline": "2027-01-15",
+  "deadline_note": "Deadline 15 Jan 2027 (official site); Young People's Poetry category is free to enter",
+  "event_dates": null,
+  "summary": {
+   "en": "An international poetry competition from the Guernsey Literary Festival with a free Young People's category; winning poems appear on Guernsey's buses. Entries close on 15 January 2027.",
+   "ka": "გერნსის ლიტერატურული ფესტივალის საერთაშორისო პოეზიის კონკურსი უფასო ახალგაზრდული კატეგორიით; გამარჯვებული ლექსები გერნსის ავტობუსებში ჩნდება. ნამუშევრების მიღება 2027 წლის 15 იანვარს სრულდება.",
+   "ar": "مسابقة شعر دولية من مهرجان غيرنزي الأدبي مع فئة مجانية للشباب؛ وتُعرض القصائد الفائزة في حافلات غيرنزي. ويُغلق باب المشاركة في 15 يناير 2027."
+  },
+  "about": {
+   "en": "The competition looks for powerful short poems of no more than 14 lines, with no set theme; the 2027 judge is poet Clare Pollard. There are three categories: Open, Channel Islands and Young People's Poetry (free entry).\n\nWinning poems are brought to life through 'Poems on the Move', displayed on Guernsey's buses for islanders and visitors."
+  },
+  "highlights": {
+   "en": [
+    "Free Young People's category",
+    "Short poems (max 14 lines), any theme",
+    "Winning poems displayed on buses"
+   ]
+  },
+  "eligibility": {
+   "en": "Poets worldwide; the Young People's category is for young writers (age limits in the official rules)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the rules and categories on poemsonthemove.com",
+    "Write a poem of up to 14 lines",
+    "Enter the Young People's category online before 15 Jan 2027"
+   ]
+  },
+  "costs": {
+   "en": "Free for the Young People's category (adult categories £5 per poem)."
+  },
+  "keywords": [
+   "poetry",
+   "writing",
+   "international",
+   "free",
+   "guernsey"
+  ],
+  "url": "https://poemsonthemove.com/",
+  "apply_url": "https://poemsonthemove.com/",
+  "sources": [
+   "https://poemsonthemove.com/"
+  ],
+  "score": 5,
+  "score_reason": "International, free youth category",
+  "premium": false,
+  "fields": [
+   "humanities",
+   "arts-design"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "cranmer-awards-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "The Prayer Book Society",
+  "name": {
+   "en": "Cranmer Awards 2027 (recitation and poetry)",
+   "ka": "Cranmer-ის ჯილდოები 2027 (დეკლამაცია და პოეზია)",
+   "ar": "جوائز Cranmer 2027 (الإلقاء والشعر)"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "York",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 53.96,
+  "lon": -1.08,
+  "cost": "free",
+  "duration": {
+   "en": "Single submission, results months later",
+   "ka": "ერთჯერადი ნამუშევრის გაგზავნა, შედეგები რამდენიმე თვეში",
+   "ar": "تقديم عمل واحد، والنتائج بعد أشهر"
+  },
+  "grades": "ages 11-18 (UK)",
+  "opens": null,
+  "deadline": "2026-12-06",
+  "deadline_note": "Online entries open; must be received by Sun 6 Dec 2026; regional heats autumn 2026; national final in York, February 2027 (official page)",
+  "event_dates": "2027-02-27 to 2027-02-27",
+  "summary": {
+   "en": "The Prayer Book Society's 38th annual Cranmer Awards for 11–18-year-olds: recite passages from the 1662 Book of Common Prayer, or write a poem about Thomas Cranmer. Entries close on 6 December 2026; the national final is in York in February 2027.",
+   "ka": "Prayer Book Society-ის 38-ე ყოველწლიური Cranmer-ის ჯილდოები 11–18 წლისთვის: წაიკითხე ზეპირად 1662 წლის Book of Common Prayer-ის მონაკვეთები ან დაწერე ლექსი თომას კრანმერზე. ნამუშევრების მიღება 2026 წლის 6 დეკემბერს სრულდება; ეროვნული ფინალი იორკში 2027 წლის თებერვალშია.",
+   "ar": "جوائز Cranmer السنوية الثامنة والثلاثون من جمعية Prayer Book للشباب من 11 إلى 18 عامًا: إلقاء مقاطع من كتاب الصلاة المشتركة لعام 1662، أو كتابة قصيدة عن توماس كرانمر. ويُغلق باب المشاركة في 6 ديسمبر 2026، ويُقام النهائي الوطني في يورك في فبراير 2027."
+  },
+  "about": {
+   "en": "The Cranmer Awards celebrate the language of the Book of Common Prayer through recitation, with Junior (11–14) and Senior (15–18) categories, regional heats across the UK and a national final held on the last Saturday of February. Since 2027 there is also a poetry strand: students write a verse about Thomas Cranmer, and shortlisted poems are displayed and voted on at the national final.\n\nOpen to young people of all backgrounds and faiths; a good opportunity for students interested in English literature, drama and public speaking."
+  },
+  "highlights": {
+   "en": [
+    "Recitation and poetry strands",
+    "Junior and Senior categories",
+    "National final in York"
+   ]
+  },
+  "eligibility": {
+   "en": "Young people aged 11–18 of any background or faith (UK-based heats)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Choose recitation or poetry",
+    "Apply online on pbs.org.uk",
+    "Submit by Sunday 6 Dec 2026",
+    "Compete at a regional heat; finalists go to York"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "poetry",
+   "recitation",
+   "public speaking",
+   "literature",
+   "uk",
+   "free"
+  ],
+  "url": "https://www.pbs.org.uk/cranmer/",
+  "apply_url": "https://www.pbs.org.uk/cranmer/",
+  "sources": [
+   "https://www.pbs.org.uk/cranmer/"
+  ],
+  "score": 4,
+  "score_reason": "Niche UK literature/speaking contest",
+  "premium": false,
+  "fields": [
+   "humanities",
+   "arts-design"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "hive-young-writers-competition-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Hive South Yorkshire",
+  "name": {
+   "en": "Hive Young Writers' Competition 2026/27",
+   "ka": "Hive-ის ახალგაზრდა მწერლების კონკურსი 2026/27",
+   "ar": "مسابقة Hive للكتّاب الشباب 2026/27"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Sheffield",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 53.38,
+  "lon": -1.47,
+  "cost": "free",
+  "duration": {
+   "en": "Single submission, results months later",
+   "ka": "ერთჯერადი ნამუშევრის გაგზავნა, შედეგები რამდენიმე თვეში",
+   "ar": "تقديم عمل واحد، والنتائج بعد أشهر"
+  },
+  "grades": "ages 14-30 (North and Midlands of England)",
+  "opens": null,
+  "deadline": "2027-02-24",
+  "deadline_note": "Deadline midnight 24 Feb 2027 (official competition page)",
+  "event_dates": null,
+  "summary": {
+   "en": "A free writing competition for 14–30-year-olds from the North and Midlands of England, in poetry, flash fiction and stories, with mentoring, publication and prizes. Entries close on 24 February 2027.",
+   "ka": "უფასო ლიტერატურული კონკურსი ინგლისის ჩრდილოეთისა და შუა რეგიონების 14–30 წლის ახალგაზრდებისთვის პოეზიაში, მოკლე პროზასა და მოთხრობებში, მენტორობით, პუბლიკაციით და პრიზებით. ნამუშევრების მიღება 2027 წლის 24 თებერვალს სრულდება.",
+   "ar": "مسابقة كتابة مجانية للشباب من 14 إلى 30 عامًا من شمال إنجلترا ووسطها في الشعر والقصص القصيرة جدًا والقصص، مع إرشاد ونشر وجوائز. ويُغلق باب المشاركة في 24 فبراير 2027."
+  },
+  "about": {
+   "en": "Hive's competition has three age categories (14–16, 17–19, 20–30) and no set theme. Writers may enter up to two pieces of any form — poetry, flash fiction or stories (including script style) — and individual and class entries are welcome.\n\nPrizes include print publication, professional feedback and mentoring sessions, and tech and writing prizes; commended writers are invited to submit to the next Hive anthology."
+  },
+  "highlights": {
+   "en": [
+    "Free; three age categories",
+    "Poetry, flash fiction and stories",
+    "Mentoring and publication prizes"
+   ]
+  },
+  "eligibility": {
+   "en": "Young people aged 14–30 living in, from or studying in the North or Midlands of England (as defined on Hive's map)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check you are in the eligible region (map on the site)",
+    "Write up to two pieces",
+    "Enter online before midnight on 24 Feb 2027"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "writing",
+   "poetry",
+   "short story",
+   "uk",
+   "free",
+   "young writers"
+  ],
+  "url": "https://www.hivesouthyorkshire.com/competition",
+  "apply_url": "https://www.hivesouthyorkshire.com/competition",
+  "sources": [
+   "https://www.hivesouthyorkshire.com/competition"
+  ],
+  "score": 4,
+  "score_reason": "Free regional UK writing contest",
+  "premium": false,
+  "fields": [
+   "humanities",
+   "arts-design"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "science-olympiad-national-tournament-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Science Olympiad, Inc.",
+  "name": {
+   "en": "Science Olympiad National Tournament 2027",
+   "ka": "Science Olympiad-ის ეროვნული ტურნირი 2027",
+   "ar": "البطولة الوطنية لأولمبياد العلوم (Science Olympiad) 2027"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Columbus, Ohio",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 40.0,
+  "lon": -83.02,
+  "cost": "paid",
+  "duration": {
+   "en": "Two days",
+   "ka": "ორი დღე",
+   "ar": "يومان"
+  },
+  "grades": "6-12 (Divisions B and C)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "2027 rules live; teams compete in regional and state tournaments in early 2027; National Tournament 14–15 May 2027 at The Ohio State University",
+  "event_dates": "2027-05-14 to 2027-05-15",
+  "summary": {
+   "en": "The leading US team STEM competition, with events in biology, chemistry, physics, earth science and engineering, culminating in the National Tournament at Ohio State University on 14–15 May 2027.",
+   "ka": "აშშ-ის წამყვანი გუნდური STEM შეჯიბრი ბიოლოგიის, ქიმიის, ფიზიკის, დედამიწის მეცნიერებებისა და ინჟინერიის ღონისძიებებით, რომელიც ოჰაიოს სახელმწიფო უნივერსიტეტში 2027 წლის 14–15 მაისის ეროვნული ტურნირით სრულდება.",
+   "ar": "أبرز مسابقة جماعية في العلوم والتكنولوجيا في الولايات المتحدة، تضم مسابقات في الأحياء والكيمياء والفيزياء وعلوم الأرض والهندسة، وتُختتم بالبطولة الوطنية في جامعة ولاية أوهايو في 14–15 مايو 2027."
+  },
+  "about": {
+   "en": "Science Olympiad teams compete in a mix of written tests, lab practicals and build events (such as bridges, flying machines and robots). Division B is for middle school and Division C for high school. Around 7,000 teams take part in 450 tournaments; state winners qualify for nationals.\n\nTeams join through their state chapter; invitational tournaments run through the autumn and winter."
+  },
+  "highlights": {
+   "en": [
+    "Test, lab and build events",
+    "Middle (B) and high school (C)",
+    "National Tournament at Ohio State, May 2027"
+   ]
+  },
+  "eligibility": {
+   "en": "US middle- and high-school teams registered with their state Science Olympiad chapter."
+  },
+  "how_to_apply": {
+   "en": [
+    "Start or join your school's team",
+    "Register with your state chapter",
+    "Prepare using the 2027 rules",
+    "Compete at regional/state tournaments to qualify"
+   ]
+  },
+  "costs": {
+   "en": "State membership and tournament fees; travel self-funded."
+  },
+  "keywords": [
+   "science olympiad",
+   "stem",
+   "team",
+   "engineering",
+   "biology",
+   "chemistry",
+   "usa"
+  ],
+  "url": "https://www.soinc.org/",
+  "apply_url": "https://www.soinc.org/",
+  "sources": [
+   "https://www.soinc.org/"
+  ],
+  "score": 5,
+  "score_reason": "Largest US team STEM league",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "olympiad"
+  ]
+ },
+ {
+  "id": "ethics-olympiad-2026-27",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Ethics Olympiad",
+  "name": {
+   "en": "Ethics Olympiad 2026–27 (Middle and Senior School)",
+   "ka": "ეთიკის ოლიმპიადა 2026–27 (საშუალო და უფროსი კლასები)",
+   "ar": "أولمبياد الأخلاقيات 2026–27 (المرحلتان المتوسطة والثانوية)"
+  },
+  "country": {
+   "en": "Online (Australia-based, international)",
+   "ka": "ონლაინ (ავსტრალია, საერთაშორისო)",
+   "ar": "عبر الإنترنت (مقرها أستراليا، دولية)"
+  },
+  "city": "Online",
+  "iso": "AU",
+  "flag": "🇦🇺",
+  "region": "oceania",
+  "lat": -33.87,
+  "lon": 151.21,
+  "cost": "paid",
+  "duration": {
+   "en": "One day",
+   "ka": "ერთი დღე",
+   "ar": "يوم واحد"
+  },
+  "grades": "ages 11-18",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Middle School Olympiads November 2026; Senior School Olympiads May 2027; International Senior Final mid-year (2026's was 23 July) — register on the official site",
+  "event_dates": "2026-11-01 to 2027-07-31",
+  "summary": {
+   "en": "A team competition in ethical reasoning in which students discuss real-world ethical cases with other schools in front of judges. Middle School rounds are in November 2026 and Senior School rounds in May 2027, leading to an International Final.",
+   "ka": "გუნდური შეჯიბრი ეთიკურ მსჯელობაში, სადაც მოსწავლეები რეალურ ეთიკურ შემთხვევებს სხვა სკოლებთან ერთად მსაჯების წინაშე განიხილავენ. საშუალო კლასების ტურები 2026 წლის ნოემბერშია, უფროსი კლასების კი 2027 წლის მაისში, რასაც საერთაშორისო ფინალი მოსდევს.",
+   "ar": "مسابقة جماعية في الاستدلال الأخلاقي يناقش فيها الطلاب حالات أخلاقية واقعية مع مدارس أخرى أمام حكّام. وتُقام جولات المرحلة المتوسطة في نوفمبر 2026 وجولات المرحلة الثانوية في مايو 2027، وصولًا إلى نهائي دولي."
+  },
+  "about": {
+   "en": "Unlike debate, the Ethics Olympiad rewards collaboration: teams of students analyse age-appropriate ethical cases in advance and then discuss them in heats, judged on critical thinking, clarity, respectful engagement and depth. Events run online with schools from about 14 countries, including Australia, New Zealand, China and the US.\n\nThe Middle School division (ages 11–14) runs in November 2026 and the Senior division (ages 15–18) in May 2027; top senior teams progress to the International Final. Training days for teachers and students are also offered."
+  },
+  "highlights": {
+   "en": [
+    "Collaborative, not adversarial",
+    "Schools from ~14 countries",
+    "International Final for top senior teams"
+   ]
+  },
+  "eligibility": {
+   "en": "School teams: Middle School ages 11–14 (Years 7–9); Senior School ages 15–18 (Years 10–13); open to schools internationally."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask a teacher to register your school for the relevant Olympiad",
+    "Form a team and study the published cases",
+    "Compete in the online heats",
+    "Qualify for the International Final"
+   ]
+  },
+  "costs": {
+   "en": "School registration fee (see ethicsolympiad.org)."
+  },
+  "keywords": [
+   "ethics",
+   "philosophy",
+   "debate",
+   "critical thinking",
+   "team",
+   "online"
+  ],
+  "url": "https://ethicsolympiad.org/",
+  "apply_url": "https://ethicsolympiad.org/",
+  "sources": [
+   "https://ethicsolympiad.org/"
+  ],
+  "score": 6,
+  "score_reason": "International philosophy/ethics contest",
+  "premium": false,
+  "fields": [
+   "humanities",
+   "social-sciences"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "debate"
+  ]
+ },
+ {
+  "id": "fpspi-world-finals-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Future Problem Solving Program International (FPSPI)",
+  "name": {
+   "en": "Future Problem Solving Program International: World Finals 2027",
+   "ka": "Future Problem Solving Program International: მსოფლიო ფინალი 2027",
+   "ar": "برنامج حل مشكلات المستقبل الدولي: النهائيات العالمية 2027"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Bloomington, Indiana",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 39.17,
+  "lon": -86.52,
+  "cost": "paid",
+  "duration": {
+   "en": "Five days",
+   "ka": "ხუთი დღე",
+   "ar": "خمسة أيام"
+  },
+  "grades": "grades 4-12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Registration for 2026–27 open; affiliate (regional) competitions during the year; World Finals 9–13 Jun 2027 at Indiana University",
+  "event_dates": "2027-06-09 to 2027-06-13",
+  "summary": {
+   "en": "A year-long creative problem-solving competition on future global issues, run through regional affiliates in 14+ countries, with World Finals at Indiana University on 9–13 June 2027. Registration for 2026–27 is open.",
+   "ka": "მთელი წლის შემოქმედებითი პრობლემების გადაჭრის შეჯიბრი მომავლის გლობალურ საკითხებზე, რომელიც 14-ზე მეტი ქვეყნის რეგიონული ფილიალების მეშვეობით ტარდება, მსოფლიო ფინალით ინდიანას უნივერსიტეტში 2027 წლის 9–13 ივნისს. 2026–27 წლის რეგისტრაცია ღიაა.",
+   "ar": "مسابقة تمتد طوال العام في الحل الإبداعي للمشكلات حول قضايا عالمية مستقبلية، تُدار عبر فروع إقليمية في أكثر من 14 دولة، مع نهائيات عالمية في جامعة إنديانا من 9 إلى 13 يونيو 2027. والتسجيل لموسم 2026–27 مفتوح."
+  },
+  "about": {
+   "en": "FPSPI students use a six-step problem-solving model on 'future scenes' built around the year's topics (for 2026–27, topics include the digital dark age, disappearing cultures, influencer marketing and health security). Programmes include Global Issues, Community Projects, Creative Writing and Storytelling.\n\nRegional affiliate champions — about 7% of participants — are invited to the World Finals."
+  },
+  "highlights": {
+   "en": [
+    "Topics on future global issues",
+    "Team and individual components",
+    "World Finals at Indiana University"
+   ]
+  },
+  "eligibility": {
+   "en": "Students in grades 4–12 through an FPSPI affiliate programme in their region/country (or individual registration where no affiliate exists)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Find an affiliate near you on fpspi.org",
+    "Register for 2026–27",
+    "Work through the practice and qualifying problems",
+    "Qualify for the World Finals in June 2027"
+   ]
+  },
+  "costs": {
+   "en": "Programme and affiliate fees; World Finals travel self-funded."
+  },
+  "keywords": [
+   "problem solving",
+   "creative thinking",
+   "global issues",
+   "writing",
+   "team"
+  ],
+  "url": "https://www.fpspi.org/",
+  "apply_url": "https://www.fpspi.org/international-conference/",
+  "sources": [
+   "https://www.fpspi.org/",
+   "https://www.fpspi.org/international-conference/"
+  ],
+  "score": 5,
+  "score_reason": "Global creative problem-solving league",
+  "premium": false,
+  "fields": [
+   "social-sciences",
+   "humanities",
+   "environment"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "international-history-olympiad-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "International Academic Competitions (IAC)",
+  "name": {
+   "en": "International History Olympiad 2027 (Berlin)",
+   "ka": "ისტორიის საერთაშორისო ოლიმპიადა 2027 (ბერლინი)",
+   "ar": "الأولمبياد الدولي للتاريخ 2027 (برلين)"
+  },
+  "country": {
+   "en": "Germany",
+   "ka": "გერმანია",
+   "ar": "ألمانيا"
+  },
+  "city": "Berlin",
+  "iso": "DE",
+  "flag": "🇩🇪",
+  "region": "europe",
+  "lat": 52.52,
+  "lon": 13.4,
+  "cost": "paid",
+  "duration": {
+   "en": "About one week (on-site final)",
+   "ka": "დაახლოებით ერთი კვირა (ფინალი ადგილზე)",
+   "ar": "نحو أسبوع (نهائي حضوري)"
+  },
+  "grades": "primary and secondary (K-12)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Olympiad 17–24 Jul 2027 at Hotel MOA, Berlin; qualify via IAC History Bee/Bowl tournaments (Asia, Canada, Europe, USA) or the Olympiad Qualifying Exam during 2026–27",
+  "event_dates": "2027-07-17 to 2027-07-24",
+  "summary": {
+   "en": "A week-long international history competition in Berlin on 17–24 July 2027 for primary and secondary students who qualify through IAC History Bee and Bowl tournaments or the Olympiad Qualifying Exam.",
+   "ka": "ერთკვირიანი საერთაშორისო ისტორიული შეჯიბრი ბერლინში 2027 წლის 17–24 ივლისს დაწყებითი და საშუალო სკოლის მოსწავლეებისთვის, რომლებიც IAC History Bee and Bowl ტურნირების ან ოლიმპიადის საკვალიფიკაციო გამოცდის გავლით კვალიფიცირდებიან.",
+   "ar": "مسابقة دولية في التاريخ لمدة أسبوع في برلين من 17 إلى 24 يوليو 2027 لطلاب المرحلتين الابتدائية والثانوية الذين يتأهلون عبر بطولات IAC History Bee and Bowl أو اختبار التأهل للأولمبياد."
+  },
+  "about": {
+   "en": "The International History Olympiad, organised by International Academic Competitions, brings together top young history students for quiz-bowl style team and individual events, history-themed games, and excursions. Students qualify through regional History Bee and History Bowl tournaments held in Asia, Canada, Europe and the US during the school year, or by taking the online Olympiad Qualifying Exam.\n\nIAC also runs online practice tournaments, so students in countries without regional events can still prepare and qualify."
+  },
+  "highlights": {
+   "en": [
+    "Week of history competitions in Berlin",
+    "Qualify via regional tournaments or exam",
+    "Students from many countries"
+   ]
+  },
+  "eligibility": {
+   "en": "Primary and secondary students who qualify through IAC History Bee/Bowl regionals or the Olympiad Qualifying Exam."
+  },
+  "how_to_apply": {
+   "en": [
+    "Register for a History Bee/Bowl regional tournament or the qualifying exam on iacompetitions.com",
+    "Qualify during the 2026–27 season",
+    "Register for the Olympiad and pay the participation fee",
+    "Travel to Berlin for 17–24 Jul 2027"
+   ]
+  },
+  "costs": {
+   "en": "Tournament and Olympiad fees plus travel (see the Costs page on historyolympiad.com)."
+  },
+  "keywords": [
+   "history",
+   "quiz",
+   "olympiad",
+   "berlin",
+   "humanities",
+   "international"
+  ],
+  "url": "https://www.historyolympiad.com/",
+  "apply_url": "https://www.iacompetitions.com/",
+  "sources": [
+   "https://www.historyolympiad.com/",
+   "https://www.iacompetitions.com/"
+  ],
+  "score": 5,
+  "score_reason": "International humanities olympiad; paid",
+  "premium": false,
+  "fields": [
+   "humanities",
+   "social-sciences"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "mate-rov-world-championship-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "MATE Inspiration for Innovation (Marine Technology Society)",
+  "name": {
+   "en": "MATE ROV Competition World Championship 2027",
+   "ka": "MATE ROV-ის შეჯიბრის მსოფლიო ჩემპიონატი 2027",
+   "ar": "بطولة العالم لمسابقة MATE ROV 2027"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Federal Way, Washington",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 47.31,
+  "lon": -122.31,
+  "cost": "paid",
+  "duration": {
+   "en": "Three days",
+   "ka": "სამი დღე",
+   "ar": "ثلاثة أيام"
+  },
+  "grades": "middle school to university (by class)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "2027 season under way; regional contests in spring 2027 qualify teams; World Championship 24–26 Jun 2027 at Weyerhaeuser King County Aquatic Center (official page)",
+  "event_dates": "2027-06-24 to 2027-06-26",
+  "summary": {
+   "en": "An international underwater-robotics competition in which student teams design remotely operated vehicles for real ocean-industry missions. The 2027 World Championship is on 24–26 June in Federal Way, Washington.",
+   "ka": "საერთაშორისო წყალქვეშა რობოტიკის შეჯიბრი, სადაც სტუდენტური გუნდები ოკეანის ინდუსტრიის რეალური მისიებისთვის დისტანციურად მართულ აპარატებს აპროექტებენ. 2027 წლის მსოფლიო ჩემპიონატი 24–26 ივნისს ფედერალ-უეიში, ვაშინგტონის შტატში ტარდება.",
+   "ar": "مسابقة دولية لروبوتات ما تحت الماء تصمم فيها الفرق الطلابية مركبات يتم التحكم فيها عن بُعد لمهام حقيقية في صناعات المحيطات. وتُقام بطولة العالم لعام 2027 في 24–26 يونيو في فيدرال واي بولاية واشنطن."
+  },
+  "about": {
+   "en": "The MATE ROV Competition, supported by the US National Science Foundation and the Marine Technology Society, has classes from Scout and Navigator (beginners) through Ranger and Pioneer to Explorer (advanced, mostly university). Teams build an ROV, write technical documentation, give an engineering presentation and complete product demonstrations in a pool.\n\nTeams qualify through regional contests held in the US and in many other countries; Ranger, Pioneer and Explorer winners advance to the World Championship."
+  },
+  "highlights": {
+   "en": [
+    "Classes from beginner to university level",
+    "Regional contests worldwide",
+    "World Championship 24–26 June 2027"
+   ]
+  },
+  "eligibility": {
+   "en": "Student teams from middle school to university, competing in the class matching their level; international teams enter through MATE regional contests."
+  },
+  "how_to_apply": {
+   "en": [
+    "Pick your class and read the 2027 competition manual",
+    "Register your team on materovcompetition.org",
+    "Compete at a regional event (spring 2027)",
+    "Qualify for the World Championship"
+   ]
+  },
+  "costs": {
+   "en": "Registration fees per team; ROV build and travel self-funded."
+  },
+  "keywords": [
+   "robotics",
+   "rov",
+   "underwater",
+   "marine",
+   "engineering",
+   "team"
+  ],
+  "url": "https://materovcompetition.org/world-championship",
+  "apply_url": "https://materovcompetition.org/",
+  "sources": [
+   "https://materovcompetition.org/",
+   "https://materovcompetition.org/world-championship"
+  ],
+  "score": 6,
+  "score_reason": "Global underwater robotics league",
+  "premium": false,
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "usa-ai-olympiad-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "USA Artificial Intelligence Olympiad (USAAIO)",
+  "name": {
+   "en": "USA Artificial Intelligence Olympiad (USA-NA-AIO) 2027",
+   "ka": "აშშ-ის ხელოვნური ინტელექტის ოლიმპიადა (USA-NA-AIO) 2027",
+   "ar": "أولمبياد الذكاء الاصطناعي الأمريكي (USA-NA-AIO) 2027"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Online",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 42.37,
+  "lon": -71.12,
+  "cost": "paid",
+  "duration": {
+   "en": "Multi-round season over several months",
+   "ka": "რამდენიმეთვიანი, მრავალტურიანი სეზონი",
+   "ar": "موسم من عدة جولات على مدى أشهر"
+  },
+  "grades": "K-12 (US and Canada)",
+  "opens": null,
+  "deadline": "2027-01-31",
+  "deadline_note": "Registration closes 31 Jan 2027, 11:59 pm EST; Round 1 Fri 19 Feb 2027, 12–3 pm ET (official site)",
+  "event_dates": "2027-02-19 to 2027-06-15",
+  "summary": {
+   "en": "The AI olympiad for K–12 students in the US and Canada, selecting the US teams for the International Olympiad in Artificial Intelligence. Registration closes on 31 January 2027 and Round 1 is on 19 February 2027.",
+   "ka": "ხელოვნური ინტელექტის ოლიმპიადა აშშ-სა და კანადის K–12 მოსწავლეებისთვის, რომელიც ხელოვნური ინტელექტის საერთაშორისო ოლიმპიადისთვის აშშ-ის გუნდებს არჩევს. რეგისტრაცია 2027 წლის 31 იანვარს სრულდება, პირველი ტური კი 19 თებერვალს ტარდება.",
+   "ar": "أولمبياد الذكاء الاصطناعي لطلاب المرحلة K–12 في الولايات المتحدة وكندا، ويختار الفرق الأمريكية للأولمبياد الدولي للذكاء الاصطناعي. ويُغلق التسجيل في 31 يناير 2027، وتُعقد الجولة الأولى في 19 فبراير 2027."
+  },
+  "about": {
+   "en": "USA-NA-AIO tests machine-learning theory and practical coding (Python, notebooks) following a published syllabus, with past problems online. Round 1 is a three-hour online exam; in 2026, Round 2 was held at Harvard and MIT in April and the Round 3 camp with team-selection tests at Harvard in June.\n\nTop students represent the US at the IOAI and IAIO."
+  },
+  "highlights": {
+   "en": [
+    "Path to the IOAI",
+    "Syllabus and past problems online",
+    "Round 1: 19 Feb 2027"
+   ]
+  },
+  "eligibility": {
+   "en": "K–12 students in the US and Canada."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the syllabus and Round 1 rules",
+    "Register on usaaio.org by 31 Jan 2027",
+    "Practise with past problems",
+    "Take Round 1 on 19 Feb 2027"
+   ]
+  },
+  "costs": {
+   "en": "Registration fee (see usaaio.org)."
+  },
+  "keywords": [
+   "ai",
+   "artificial intelligence",
+   "machine learning",
+   "olympiad",
+   "ioai",
+   "usa",
+   "canada"
+  ],
+  "url": "https://usaaio.org/",
+  "apply_url": "https://usaaio.org/",
+  "sources": [
+   "https://usaaio.org/"
+  ],
+  "score": 6,
+  "score_reason": "New, prestigious AI olympiad pathway",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "olympiad"
+  ]
+ },
+ {
+  "id": "nsa-codebreaker-challenge-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "U.S. National Security Agency (NSA)",
+  "name": {
+   "en": "NSA Codebreaker Challenge 2026",
+   "ka": "NSA Codebreaker Challenge 2026 (კიბერუსაფრთხოების გამოწვევა)",
+   "ar": "تحدي NSA Codebreaker 2026 للأمن السيبراني"
+  },
+  "country": {
+   "en": "United States (online)",
+   "ka": "აშშ (ონლაინ)",
+   "ar": "الولايات المتحدة (عبر الإنترنت)"
+  },
+  "city": "Online",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 39.11,
+  "lon": -76.77,
+  "cost": "free",
+  "duration": {
+   "en": "Multi-round season over several months",
+   "ka": "რამდენიმეთვიანი, მრავალტურიანი სეზონი",
+   "ar": "موسم من عدة جولات على مدى أشهر"
+  },
+  "grades": "university (US)",
+  "opens": "2026-09-25",
+  "deadline": "2027-01-20",
+  "deadline_note": "Challenge runs 25 Sep 2026 – 20 Jan 2027 (official site); join any time before it closes",
+  "event_dates": "2026-09-25 to 2027-01-20",
+  "summary": {
+   "en": "The NSA's annual reverse-engineering and cybersecurity challenge for university students, with a multi-task mission scenario solved at your own pace until 20 January 2027.",
+   "ka": "NSA-ს ყოველწლიური რევერს-ინჟინერიისა და კიბერუსაფრთხოების გამოწვევა უნივერსიტეტის სტუდენტებისთვის, მრავალდავალებიანი მისიის სცენარით, რომლის ამოხსნაც საკუთარი ტემპით 2027 წლის 20 იანვრამდეა შესაძლებელი.",
+   "ar": "التحدي السنوي للهندسة العكسية والأمن السيبراني من وكالة الأمن القومي الأمريكية لطلاب الجامعات، بسيناريو مهمة متعدد المهام يُحل بالوتيرة الخاصة بك حتى 20 يناير 2027."
+  },
+  "about": {
+   "en": "The Codebreaker Challenge presents a realistic national-security scenario split into progressively harder tasks involving reverse engineering, network analysis, cryptography and vulnerability research. Students work individually, and schools are ranked on a public leaderboard.\n\nIt is a well-known recruiting and skills showcase for students interested in cybersecurity careers."
+  },
+  "highlights": {
+   "en": [
+    "Realistic multi-stage cyber mission",
+    "Self-paced over four months",
+    "School leaderboard"
+   ]
+  },
+  "eligibility": {
+   "en": "Students at US colleges and universities (see the site's registration rules)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Register with your school email on nsa-codebreaker.org",
+    "Read the mission brief",
+    "Solve tasks at your own pace before 20 Jan 2027"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "cybersecurity",
+   "reverse engineering",
+   "ctf",
+   "nsa",
+   "university",
+   "usa"
+  ],
+  "url": "https://nsa-codebreaker.org/",
+  "apply_url": "https://nsa-codebreaker.org/",
+  "sources": [
+   "https://nsa-codebreaker.org/"
+  ],
+  "score": 5,
+  "score_reason": "Free, respected cyber challenge; US students",
+  "premium": false,
+  "fields": [
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "bebras-india-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Bebras India",
+  "name": {
+   "en": "Bebras India Computational Thinking Challenge 2026",
+   "ka": "Bebras India — კომპიუტერული აზროვნების გამოწვევა 2026",
+   "ar": "تحدي Bebras الهندي للتفكير الحاسوبي 2026"
+  },
+  "country": {
+   "en": "India (online)",
+   "ka": "ინდოეთი (ონლაინ)",
+   "ar": "الهند (عبر الإنترنت)"
+  },
+  "city": "Online",
+  "iso": "IN",
+  "flag": "🇮🇳",
+  "region": "asia",
+  "lat": 28.61,
+  "lon": 77.21,
+  "cost": "free",
+  "duration": {
+   "en": "One day",
+   "ka": "ერთი დღე",
+   "ar": "يوم واحد"
+  },
+  "grades": "school students (age categories)",
+  "opens": null,
+  "deadline": "2026-12-05",
+  "deadline_note": "Challenge 16 Nov–5 Dec 2026; teacher registrations open (official site)",
+  "event_dates": "2026-11-16 to 2026-12-05",
+  "summary": {
+   "en": "Bebras India Computational Thinking Challenge 2026: the national edition of the international Bebras computational-thinking challenge, taken online in schools between 16 Nov 2026 and 5 Dec 2026.",
+   "ka": "Bebras India — კომპიუტერული აზროვნების გამოწვევა 2026: საერთაშორისო Bebras კომპიუტერული აზროვნების გამოწვევის ეროვნული ვერსია, რომელიც სკოლებში ონლაინ 16 Nov 2026 – 5 Dec 2026 პერიოდში ტარდება.",
+   "ar": "تحدي Bebras الهندي للتفكير الحاسوبي 2026: النسخة الوطنية من تحدي Bebras الدولي للتفكير الحاسوبي، وتُؤدّى عبر الإنترنت في المدارس بين 16 Nov 2026 و5 Dec 2026."
+  },
+  "about": {
+   "en": "Bebras runs every November in dozens of countries. Its short interactive tasks teach the ideas behind computing — algorithms, logic, data and patterns — without requiring any programming, with separate age categories. Teachers register as coordinators and run the challenge in class during the window.\n\nBebras India publishes booklets and a hall of fame of top performers; registrations are made by teachers for their schools."
+  },
+  "highlights": {
+   "en": [
+    "Free, no coding needed",
+    "Age-based categories",
+    "Part of the international Bebras network"
+   ]
+  },
+  "eligibility": {
+   "en": "School students in India (online), entered by a registered teacher-coordinator."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask a teacher to register as coordinator on the official site",
+    "Try the practice tasks",
+    "Take the challenge in class during the window"
+   ]
+  },
+  "costs": {
+   "en": "Free (some national organisers may charge a small school fee)."
+  },
+  "keywords": [
+   "bebras",
+   "computational thinking",
+   "computer science",
+   "school",
+   "india (online)"
+  ],
+  "url": "https://www.bebras.in/",
+  "apply_url": "https://www.bebras.in/",
+  "sources": [
+   "https://www.bebras.in/"
+  ],
+  "score": 4,
+  "score_reason": "Free national CS challenge; school-based",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "bebras-japan-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Bebras Japan (ビーバーチャレンジ)",
+  "name": {
+   "en": "Bebras Challenge Japan 2026",
+   "ka": "Bebras Challenge იაპონია 2026",
+   "ar": "تحدي Bebras في اليابان 2026"
+  },
+  "country": {
+   "en": "Japan (online)",
+   "ka": "იაპონია (ონლაინ)",
+   "ar": "اليابان (عبر الإنترنت)"
+  },
+  "city": "Online",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 35.68,
+  "lon": 139.69,
+  "cost": "free",
+  "duration": {
+   "en": "One day",
+   "ka": "ერთი დღე",
+   "ar": "يوم واحد"
+  },
+  "grades": "school students (Benjamin to Senior)",
+  "opens": null,
+  "deadline": "2026-11-28",
+  "deadline_note": "Challenge scheduled 16–28 Nov 2026; participation recruitment open (official site)",
+  "event_dates": "2026-11-16 to 2026-11-28",
+  "summary": {
+   "en": "Bebras Challenge Japan 2026: the national edition of the international Bebras computational-thinking challenge, taken online in schools between 16 Nov 2026 and 28 Nov 2026.",
+   "ka": "Bebras Challenge იაპონია 2026: საერთაშორისო Bebras კომპიუტერული აზროვნების გამოწვევის ეროვნული ვერსია, რომელიც სკოლებში ონლაინ 16 Nov 2026 – 28 Nov 2026 პერიოდში ტარდება.",
+   "ar": "تحدي Bebras في اليابان 2026: النسخة الوطنية من تحدي Bebras الدولي للتفكير الحاسوبي، وتُؤدّى عبر الإنترنت في المدارس بين 16 Nov 2026 و28 Nov 2026."
+  },
+  "about": {
+   "en": "Bebras runs every November in dozens of countries. Its short interactive tasks teach the ideas behind computing — algorithms, logic, data and patterns — without requiring any programming, with separate age categories. Teachers register as coordinators and run the challenge in class during the window.\n\nThe Japanese edition runs in Japanese with Benjamin, Cadet, Junior and Senior categories."
+  },
+  "highlights": {
+   "en": [
+    "Free, no coding needed",
+    "Age-based categories",
+    "Part of the international Bebras network"
+   ]
+  },
+  "eligibility": {
+   "en": "School students in Japan (online), entered by a registered teacher-coordinator."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask a teacher to register as coordinator on the official site",
+    "Try the practice tasks",
+    "Take the challenge in class during the window"
+   ]
+  },
+  "costs": {
+   "en": "Free (some national organisers may charge a small school fee)."
+  },
+  "keywords": [
+   "bebras",
+   "computational thinking",
+   "computer science",
+   "school",
+   "japan (online)"
+  ],
+  "url": "https://bebras.eplang.jp/",
+  "apply_url": "https://bebras.eplang.jp/",
+  "sources": [
+   "https://bebras.eplang.jp/"
+  ],
+  "score": 4,
+  "score_reason": "Free national CS challenge; school-based",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "biber-der-informatik-austria-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Österreichische Computer Gesellschaft (OCG)",
+  "name": {
+   "en": "Biber der Informatik 2026 (Austria)",
+   "ka": "Biber der Informatik 2026 (ავსტრია)",
+   "ar": "مسابقة Biber der Informatik 2026 (النمسا)"
+  },
+  "country": {
+   "en": "Austria (online)",
+   "ka": "ავსტრია (ონლაინ)",
+   "ar": "النمسا (عبر الإنترنت)"
+  },
+  "city": "Online",
+  "iso": "AT",
+  "flag": "🇦🇹",
+  "region": "europe",
+  "lat": 48.21,
+  "lon": 16.37,
+  "cost": "free",
+  "duration": {
+   "en": "One day",
+   "ka": "ერთი დღე",
+   "ar": "يوم واحد"
+  },
+  "grades": "school students (grades 3-13)",
+  "opens": null,
+  "deadline": "2026-11-20",
+  "deadline_note": "Contest 9–20 Nov 2026 (official OCG page)",
+  "event_dates": "2026-11-09 to 2026-11-20",
+  "summary": {
+   "en": "Biber der Informatik 2026 (Austria): the national edition of the international Bebras computational-thinking challenge, taken online in schools between 9 Nov 2026 and 20 Nov 2026.",
+   "ka": "Biber der Informatik 2026 (ავსტრია): საერთაშორისო Bebras კომპიუტერული აზროვნების გამოწვევის ეროვნული ვერსია, რომელიც სკოლებში ონლაინ 9 Nov 2026 – 20 Nov 2026 პერიოდში ტარდება.",
+   "ar": "مسابقة Biber der Informatik 2026 (النمسا): النسخة الوطنية من تحدي Bebras الدولي للتفكير الحاسوبي، وتُؤدّى عبر الإنترنت في المدارس بين 9 Nov 2026 و20 Nov 2026."
+  },
+  "about": {
+   "en": "Bebras runs every November in dozens of countries. Its short interactive tasks teach the ideas behind computing — algorithms, logic, data and patterns — without requiring any programming, with separate age categories. Teachers register as coordinators and run the challenge in class during the window.\n\nThe Austrian edition is run in German by the Austrian Computer Society (OCG)."
+  },
+  "highlights": {
+   "en": [
+    "Free, no coding needed",
+    "Age-based categories",
+    "Part of the international Bebras network"
+   ]
+  },
+  "eligibility": {
+   "en": "School students in Austria (online), entered by a registered teacher-coordinator."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask a teacher to register as coordinator on the official site",
+    "Try the practice tasks",
+    "Take the challenge in class during the window"
+   ]
+  },
+  "costs": {
+   "en": "Free (some national organisers may charge a small school fee)."
+  },
+  "keywords": [
+   "bebras",
+   "computational thinking",
+   "computer science",
+   "school",
+   "austria (online)"
+  ],
+  "url": "https://www.ocg.at/de/biber",
+  "apply_url": "https://www.ocg.at/de/biber",
+  "sources": [
+   "https://www.ocg.at/de/biber"
+  ],
+  "score": 4,
+  "score_reason": "Free national CS challenge; school-based",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "bebras-hungary-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "ELTE / Hungarian Bebras (Hód kihívás)",
+  "name": {
+   "en": "Bebras Challenge Hungary 2026 (Hód kihívás)",
+   "ka": "Bebras Challenge უნგრეთი 2026 (Hód kihívás)",
+   "ar": "تحدي Bebras في المجر 2026 (Hód kihívás)"
+  },
+  "country": {
+   "en": "Hungary (online)",
+   "ka": "უნგრეთი (ონლაინ)",
+   "ar": "المجر (عبر الإنترنت)"
+  },
+  "city": "Online",
+  "iso": "HU",
+  "flag": "🇭🇺",
+  "region": "europe",
+  "lat": 47.5,
+  "lon": 19.04,
+  "cost": "free",
+  "duration": {
+   "en": "One day",
+   "ka": "ერთი დღე",
+   "ar": "يوم واحد"
+  },
+  "grades": "school students (5 age categories)",
+  "opens": null,
+  "deadline": "2026-11-20",
+  "deadline_note": "Registration open for the 2026 challenge, held over two weeks 9–20 Nov (official site post of 25 Oct 2026)",
+  "event_dates": "2026-11-09 to 2026-11-20",
+  "summary": {
+   "en": "Bebras Challenge Hungary 2026 (Hód kihívás): the national edition of the international Bebras computational-thinking challenge, taken online in schools between 9 Nov 2026 and 20 Nov 2026.",
+   "ka": "Bebras Challenge უნგრეთი 2026 (Hód kihívás): საერთაშორისო Bebras კომპიუტერული აზროვნების გამოწვევის ეროვნული ვერსია, რომელიც სკოლებში ონლაინ 9 Nov 2026 – 20 Nov 2026 პერიოდში ტარდება.",
+   "ar": "تحدي Bebras في المجر 2026 (Hód kihívás): النسخة الوطنية من تحدي Bebras الدولي للتفكير الحاسوبي، وتُؤدّى عبر الإنترنت في المدارس بين 9 Nov 2026 و20 Nov 2026."
+  },
+  "about": {
+   "en": "Bebras runs every November in dozens of countries. Its short interactive tasks teach the ideas behind computing — algorithms, logic, data and patterns — without requiring any programming, with separate age categories. Teachers register as coordinators and run the challenge in class during the window.\n\nThe Hungarian edition runs in five age categories; teachers register on the e-hod admin site."
+  },
+  "highlights": {
+   "en": [
+    "Free, no coding needed",
+    "Age-based categories",
+    "Part of the international Bebras network"
+   ]
+  },
+  "eligibility": {
+   "en": "School students in Hungary (online), entered by a registered teacher-coordinator."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask a teacher to register as coordinator on the official site",
+    "Try the practice tasks",
+    "Take the challenge in class during the window"
+   ]
+  },
+  "costs": {
+   "en": "Free (some national organisers may charge a small school fee)."
+  },
+  "keywords": [
+   "bebras",
+   "computational thinking",
+   "computer science",
+   "school",
+   "hungary (online)"
+  ],
+  "url": "https://e-hod.elte.hu/",
+  "apply_url": "https://e-hod.elte.hu/",
+  "sources": [
+   "https://e-hod.elte.hu/"
+  ],
+  "score": 4,
+  "score_reason": "Free national CS challenge; school-based",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "toshiba-nsta-exploravision-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Toshiba & National Science Teaching Association (NSTA)",
+  "name": {
+   "en": "Toshiba/NSTA ExploraVision 2027",
+   "ka": "Toshiba/NSTA ExploraVision 2027 (მომავლის ტექნოლოგიების კონკურსი)",
+   "ar": "مسابقة Toshiba/NSTA ExploraVision 2027"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Arlington, VA",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 38.88,
+  "lon": -77.1,
+  "cost": "free",
+  "duration": {
+   "en": "Several months (preparation to final)",
+   "ka": "რამდენიმე თვე (მომზადებიდან ფინალამდე)",
+   "ar": "عدة أشهر (من التحضير حتى النهائي)"
+  },
+  "grades": "K-12 (US and Canada)",
+  "opens": null,
+  "deadline": "2027-01-27",
+  "deadline_note": "Coaches submit projects online by 8:00 pm ET, 27 Jan 2027 (official rules page)",
+  "event_dates": null,
+  "summary": {
+   "en": "A science competition in which K–12 teams imagine a technology 20 years in the future, research it and present it in a written description and flyer. Coaches submit projects by 27 January 2027.",
+   "ka": "სამეცნიერო კონკურსი, სადაც K–12 გუნდები 20 წლის შემდეგ არსებულ ტექნოლოგიას წარმოიდგენენ, იკვლევენ და წერილობითი აღწერითა და ფლაერით წარადგენენ. მწვრთნელები პროექტებს 2027 წლის 27 იანვრამდე აგზავნიან.",
+   "ar": "مسابقة علمية تتخيل فيها فرق K–12 تقنية بعد 20 عامًا في المستقبل وتبحث فيها وتعرضها في وصف مكتوب ومنشور ترويجي. ويقدم المدربون المشاريع حتى 27 يناير 2027."
+  },
+  "about": {
+   "en": "ExploraVision teams of students, guided by a teacher coach, pick an existing technology, research how it works and project how it could evolve. The submission includes an abstract, a project description (up to 11 pages), bibliography and a 'technology launch' flyer.\n\nRegional and national winners are recognised by Toshiba and NSTA; see the Prizes page for details."
+  },
+  "highlights": {
+   "en": [
+    "Imagine technology 20 years ahead",
+    "Small teams with a teacher coach",
+    "Free to enter"
+   ]
+  },
+  "eligibility": {
+   "en": "K–12 students in the US and Canada, in teams with a teacher coach (see official rules)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Form a team and find a teacher coach",
+    "Choose a technology and research it",
+    "Write the abstract, description and flyer",
+    "Coach submits online by 27 Jan 2027"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "science",
+   "technology",
+   "innovation",
+   "team",
+   "usa",
+   "canada",
+   "free"
+  ],
+  "url": "https://www.exploravision.org/",
+  "apply_url": "https://www.exploravision.org/rules-requirements/",
+  "sources": [
+   "https://www.exploravision.org/rules-requirements/"
+  ],
+  "score": 5,
+  "score_reason": "Long-running free science contest; US/Canada",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "future-engineers-future-creatures-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Future Engineers",
+  "name": {
+   "en": "Future Creatures Challenge 2026–27 (Future Engineers)",
+   "ka": "Future Creatures გამოწვევა 2026–27 (Future Engineers)",
+   "ar": "تحدي Future Creatures 2026–27 (Future Engineers)"
+  },
+  "country": {
+   "en": "United States (online)",
+   "ka": "აშშ (ონლაინ)",
+   "ar": "الولايات المتحدة (عبر الإنترنت)"
+  },
+  "city": "Online",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 34.05,
+  "lon": -118.24,
+  "cost": "free",
+  "duration": {
+   "en": "Single submission, results months later",
+   "ka": "ერთჯერადი ნამუშევრის გაგზავნა, შედეგები რამდენიმე თვეში",
+   "ar": "تقديم عمل واحد، والنتائج بعد أشهر"
+  },
+  "grades": "K-12 (US)",
+  "opens": "2026-10-06",
+  "deadline": "2027-02-17",
+  "deadline_note": "Entries due 17 Feb 2027, 8:00 pm PT; finalists 6 Apr, winners 13 Apr 2027 (official page)",
+  "event_dates": null,
+  "summary": {
+   "en": "A free online challenge for US K–12 students: draw how a rainforest animal might adapt in the future to environmental change. Entries close on 17 February 2027.",
+   "ka": "უფასო ონლაინ გამოწვევა აშშ-ის K–12 მოსწავლეებისთვის: დახატე, როგორ შეიძლება შეეგუოს ტროპიკული ტყის ცხოველი მომავალში გარემოს ცვლილებას. ნამუშევრების მიღება 2027 წლის 17 თებერვალს სრულდება.",
+   "ar": "تحدٍّ مجاني عبر الإنترنت لطلاب K–12 في الولايات المتحدة: ارسم كيف يمكن لحيوان من الغابات المطيرة أن يتكيف مستقبلًا مع التغير البيئي. ويُغلق باب المشاركة في 17 فبراير 2027."
+  },
+  "about": {
+   "en": "Students pick a vertebrate living in a tropical rainforest, research its present-day adaptations and illustrate how it might evolve in response to future environmental change, with a short explanation. Lesson plans and NASA climate resources are provided for classes.\n\nFuture Engineers, developed with support from the US Department of Education, runs free national student challenges (including NASA's 'Name the Rover' contest). Prizes for each grade band include gift cards and a WWF species adoption."
+  },
+  "highlights": {
+   "en": [
+    "Free; science + art",
+    "Grade bands K–5, 6–8, 9–12",
+    "Classroom resources provided"
+   ]
+  },
+  "eligibility": {
+   "en": "Individual K–12 students in US public, private and home schools (including US territories and US-operated schools overseas); no team entries."
+  },
+  "how_to_apply": {
+   "en": [
+    "Sign up on futureengineers.org (student or teacher)",
+    "Research a rainforest animal's adaptations",
+    "Draw your future creature and write the explanation",
+    "Submit by 17 Feb 2027, 8 pm PT"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "art",
+   "drawing",
+   "biology",
+   "environment",
+   "evolution",
+   "usa",
+   "free"
+  ],
+  "url": "https://www.futureengineers.org/futurecreatures",
+  "apply_url": "https://www.futureengineers.org/futurecreatures",
+  "sources": [
+   "https://www.futureengineers.org/futurecreatures"
+  ],
+  "score": 4,
+  "score_reason": "Free creative science challenge; US only",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "arts-design",
+   "environment"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "nasa-techrise-student-challenge-2026-27",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "NASA Flight Opportunities (run by Future Engineers)",
+  "name": {
+   "en": "NASA TechRise Student Challenge 2026–27",
+   "ka": "NASA TechRise სტუდენტური გამოწვევა 2026–27",
+   "ar": "تحدي NASA TechRise للطلاب 2026–27"
+  },
+  "country": {
+   "en": "United States (online)",
+   "ka": "აშშ (ონლაინ)",
+   "ar": "الولايات المتحدة (عبر الإنترنت)"
+  },
+  "city": "Online",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 34.05,
+  "lon": -118.24,
+  "cost": "free",
+  "duration": {
+   "en": "Several months (preparation to final)",
+   "ka": "რამდენიმე თვე (მომზადებიდან ფინალამდე)",
+   "ar": "عدة أشهر (من التحضير حتى النهائي)"
+  },
+  "grades": "6-12 (US schools)",
+  "opens": null,
+  "deadline": "2026-11-02",
+  "deadline_note": "Proposals due 2 Nov 2026, 11:59 pm PT (official challenge page)",
+  "event_dates": null,
+  "summary": {
+   "en": "NASA's challenge for US school teams in grades 6–12 to design an experiment that flies on a high-altitude balloon. Winning teams get a build kit, mentoring and a flight; proposals are due on 2 November 2026.",
+   "ka": "NASA-ს გამოწვევა აშშ-ის 6–12 კლასების სასკოლო გუნდებისთვის: დააპროექტე ექსპერიმენტი, რომელიც მაღალი სიმაღლის აეროსტატით გაფრინდება. გამარჯვებული გუნდები იღებენ ასაწყობ ნაკრებს, მენტორობას და ფრენას; წინადადებების ვადაა 2026 წლის 2 ნოემბერი.",
+   "ar": "تحدٍّ من ناسا لفرق المدارس الأمريكية في الصفوف 6–12 لتصميم تجربة تطير على منطاد على ارتفاع عالٍ. وتحصل الفرق الفائزة على مجموعة بناء وإرشاد ورحلة طيران، وموعد تقديم المقترحات 2 نوفمبر 2026."
+  },
+  "about": {
+   "en": "Teams of at least four students with a teacher or school employee as team lead write a proposal for a science or technology experiment. Winning teams receive a starter kit with a flight box, virtual mentoring and technical support, and an assigned spot on a NASA-sponsored high-altitude balloon flight.\n\nEducators can submit unlimited proposals, each from a different team."
+  },
+  "highlights": {
+   "en": [
+    "Your experiment flies on a NASA-sponsored balloon",
+    "Kit, mentoring and support for winners",
+    "Free"
+   ]
+  },
+  "eligibility": {
+   "en": "Teams of 4+ students in grades 6–12 at US public, private or charter schools (including US territories), led by a teacher/school employee."
+  },
+  "how_to_apply": {
+   "en": [
+    "Form a team of 4+ with a teacher lead",
+    "Draft your experiment proposal using the template",
+    "Teacher submits via the Future Engineers dashboard by 2 Nov 2026"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "nasa",
+   "space",
+   "engineering",
+   "experiment",
+   "balloon",
+   "usa",
+   "team"
+  ],
+  "url": "https://www.futureengineers.org/nasatechrise",
+  "apply_url": "https://www.futureengineers.org/nasatechrise",
+  "sources": [
+   "https://www.futureengineers.org/nasatechrise"
+  ],
+  "score": 5,
+  "score_reason": "NASA flight opportunity; deadline in 2 days; US only",
+  "premium": false,
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "wudc-2027-ottawa",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "English Debating Society, University of Ottawa (WUDC 2027 host)",
+  "name": {
+   "en": "World Universities Debating Championship (WUDC) 2027, Ottawa",
+   "ka": "მსოფლიო საუნივერსიტეტო დებატების ჩემპიონატი (WUDC) 2027, ოტავა",
+   "ar": "بطولة العالم للمناظرات الجامعية (WUDC) 2027، أوتاوا"
+  },
+  "country": {
+   "en": "Canada",
+   "ka": "კანადა",
+   "ar": "كندا"
+  },
+  "city": "Ottawa",
+  "iso": "CA",
+  "flag": "🇨🇦",
+  "region": "americas",
+  "lat": 45.42,
+  "lon": -75.68,
+  "cost": "paid",
+  "duration": {
+   "en": "About one week (on-site final)",
+   "ka": "დაახლოებით ერთი კვირა (ფინალი ადგილზე)",
+   "ar": "نحو أسبوع (نهائي حضوري)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Hosted by the English Debating Society of the University of Ottawa over the New Year period (late Dec 2026–early Jan 2027); institutions register teams on the official Tabbycat site",
+  "event_dates": null,
+  "summary": {
+   "en": "The world's largest debating tournament, in British Parliamentary format, hosted by the University of Ottawa over the 2026/27 New Year period. Universities register teams through the official tournament site.",
+   "ka": "მსოფლიოში ყველაზე დიდი დებატების ტურნირი ბრიტანული საპარლამენტო ფორმატით, რომელსაც ოტავას უნივერსიტეტი 2026/27 წლის საახალწლო პერიოდში მასპინძლობს. უნივერსიტეტები გუნდებს ოფიციალური ტურნირის საიტზე არეგისტრირებენ.",
+   "ar": "أكبر بطولة مناظرات في العالم بصيغة البرلمان البريطاني، تستضيفها جامعة أوتاوا خلال فترة رأس السنة 2026/27. وتسجّل الجامعات فرقها عبر الموقع الرسمي للبطولة."
+  },
+  "about": {
+   "en": "WUDC brings together hundreds of two-person teams and adjudicators from universities worldwide for nine preliminary rounds followed by elimination rounds, including English as a Second Language (ESL) and English as a Foreign Language (EFL) categories.\n\nStudents usually attend as part of their university debating society after internal trials. Contact your society early about selection, registration fees and travel funding."
+  },
+  "highlights": {
+   "en": [
+    "World's largest debate tournament",
+    "ESL and EFL categories",
+    "Hosted by University of Ottawa"
+   ]
+  },
+  "eligibility": {
+   "en": "University students representing their institution's debating society, as two-person teams or as adjudicators."
+  },
+  "how_to_apply": {
+   "en": [
+    "Join your university debating society",
+    "Take part in its WUDC trials",
+    "Society registers teams and judges on the official Tabbycat site",
+    "Arrange travel and visa for Canada"
+   ]
+  },
+  "costs": {
+   "en": "Team and judge registration fees (covering accommodation and meals) plus travel; many universities subsidise."
+  },
+  "keywords": [
+   "debate",
+   "british parliamentary",
+   "wudc",
+   "university",
+   "canada",
+   "public speaking"
+  ],
+  "url": "https://wudc2027.calicotab.com/",
+  "apply_url": "https://wudc2027.calicotab.com/",
+  "sources": [
+   "https://wudc2027.calicotab.com/"
+  ],
+  "score": 6,
+  "score_reason": "Pinnacle of university debating",
+  "premium": false,
+  "fields": [
+   "humanities",
+   "social-sciences",
+   "international-relations"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "debate"
+  ]
+ },
+ {
+  "id": "hack-club-snowglobe-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "hackathon",
+  "org": "Hack Club",
+  "name": {
+   "en": "Snowglobe 2026",
+   "ka": "Snowglobe 2026",
+   "ar": "Snowglobe 2026"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "San Francisco",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 37.77,
+  "lon": -122.42,
+  "cost": "free",
+  "duration": {
+   "en": "Three days",
+   "ka": "სამი დღე",
+   "ar": "ثلاثة أيام"
+  },
+  "grades": "ages 13-18 (girls)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Event 20–22 Nov 2026 at Notion HQ; qualify by logging 50 verified coding hours before the event (official page)",
+  "event_dates": "2026-11-20 to 2026-11-22",
+  "summary": {
+   "en": "Snowglobe 2026 is a free hackathon in San Francisco, United States on 20.11.2026–22.11.2026: Hack Club's all-girls high-school hackathon at Notion HQ, billed as the largest in the world; teens qualify by coding 50 verified hours and shipping projects.",
+   "ka": "Snowglobe 2026 — უფასო ჰაკათონი (San Francisco, აშშ), 20.11.2026–22.11.2026. მონაწილეები გუნდურად ქმნიან პროექტებს მენტორების დახმარებით.",
+   "ar": "Snowglobe 2026 هاكاثون مجاني في San Francisco، الولايات المتحدة بتاريخ 20.11.2026–22.11.2026. يبني المشاركون مشاريع ضمن فرق بمساعدة مرشدين."
+  },
+  "about": {
+   "en": "Snowglobe 2026 is Hack Club's all-girls high-school hackathon at Notion HQ, billed as the largest in the world; teens qualify by coding 50 verified hours and shipping projects. It takes place in person in San Francisco from 2026-11-20 to 2026-11-22, organised by Hack Club.\n\nParticipants team up, attend workshops, build a working project and present it to judges. Food and workspace are provided free; travel is usually self-funded unless the organisers announce support."
+  },
+  "highlights": {
+   "en": [
+    "Free to attend",
+    "Girls aged 13–18 worldwide",
+    "Qualify by coding 50 hours"
+   ]
+  },
+  "eligibility": {
+   "en": "Any teen girl or girl-identifying person aged 13–18 (inclusive), from any country, who completes the 50-hour qualification."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open https://snowglobe.hackclub.com/ and register or apply",
+    "Form a team or join one at the event",
+    "Arrange travel to the venue",
+    "Build and present your project"
+   ]
+  },
+  "costs": {
+   "en": "Free to attend; travel and accommodation self-funded unless stated."
+  },
+  "keywords": [
+   "hackathon",
+   "coding",
+   "free",
+   "girls",
+   "high school",
+   "teen",
+   "hack club",
+   "san francisco"
+  ],
+  "url": "https://snowglobe.hackclub.com/",
+  "apply_url": "https://snowglobe.hackclub.com/",
+  "sources": [
+   "https://hackathons.hackclub.com/api/events/upcoming",
+   "https://snowglobe.hackclub.com/"
+  ],
+  "score": 6,
+  "score_reason": "Free all-girls teen hackathon with prizes",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "hack-club-phantom-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "hackathon",
+  "org": "Hack Club",
+  "name": {
+   "en": "PHANTOM 2027",
+   "ka": "PHANTOM 2027",
+   "ar": "PHANTOM 2027"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Philadelphia",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 39.95,
+  "lon": -75.17,
+  "cost": "free",
+  "duration": {
+   "en": "Three days",
+   "ka": "სამი დღე",
+   "ar": "ثلاثة أيام"
+  },
+  "grades": "high school (teens)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Event 12–14 Feb 2027 (Hack Club official hackathon listing and event site)",
+  "event_dates": "2027-02-12 to 2027-02-14",
+  "summary": {
+   "en": "PHANTOM 2027 is a free hackathon in Philadelphia, United States on 12.02.2027–14.02.2027: an 'escape room' themed hackathon for teenagers run by Hack Club, the nonprofit network of 100k+ technical high-schoolers.",
+   "ka": "PHANTOM 2027 — უფასო ჰაკათონი (Philadelphia, აშშ), 12.02.2027–14.02.2027. მონაწილეები გუნდურად ქმნიან პროექტებს მენტორების დახმარებით.",
+   "ar": "PHANTOM 2027 هاكاثون مجاني في Philadelphia، الولايات المتحدة بتاريخ 12.02.2027–14.02.2027. يبني المشاركون مشاريع ضمن فرق بمساعدة مرشدين."
+  },
+  "about": {
+   "en": "PHANTOM 2027 is an 'escape room' themed hackathon for teenagers run by Hack Club, the nonprofit network of 100k+ technical high-schoolers. It takes place in person in Philadelphia from 2027-02-12 to 2027-02-14, organised by Hack Club.\n\nParticipants team up, attend workshops, build a working project and present it to judges. Food and workspace are provided free; travel is usually self-funded unless the organisers announce support."
+  },
+  "highlights": {
+   "en": [
+    "Free to attend",
+    "Run by nonprofit Hack Club",
+    "Beginner friendly"
+   ]
+  },
+  "eligibility": {
+   "en": "Teenagers / high-school students (see the event FAQ for exact age rules)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open https://phantom.hackclub.com and register or apply",
+    "Form a team or join one at the event",
+    "Arrange travel to the venue",
+    "Build and present your project"
+   ]
+  },
+  "costs": {
+   "en": "Free to attend; travel and accommodation self-funded unless stated."
+  },
+  "keywords": [
+   "hackathon",
+   "coding",
+   "free",
+   "high school",
+   "teen",
+   "hack club",
+   "philadelphia"
+  ],
+  "url": "https://phantom.hackclub.com",
+  "apply_url": "https://phantom.hackclub.com",
+  "sources": [
+   "https://hackathons.hackclub.com/api/events/upcoming",
+   "https://phantom.hackclub.com"
+  ],
+  "score": 5,
+  "score_reason": "Free Hack Club teen hackathon",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "pakistan-hardware-hack-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "hackathon",
+  "org": "TeenHacks (Hack Club community event)",
+  "name": {
+   "en": "Pakistan Hardware Hack 2027 (TeenHacks)",
+   "ka": "Pakistan Hardware Hack 2027 (TeenHacks)",
+   "ar": "Pakistan Hardware Hack 2027 (TeenHacks)"
+  },
+  "country": {
+   "en": "Pakistan",
+   "ka": "პაკისტანი",
+   "ar": "باكستان"
+  },
+  "city": "Lahore",
+  "iso": "PK",
+  "flag": "🇵🇰",
+  "region": "asia",
+  "lat": 31.55,
+  "lon": 74.34,
+  "cost": "free",
+  "duration": {
+   "en": "36-hour hackathon (one weekend)",
+   "ka": "36-საათიანი ჰაკათონი (ერთი შაბათ-კვირა)",
+   "ar": "هاكاثون لمدة 36 ساعة (عطلة نهاية أسبوع واحدة)"
+  },
+  "grades": "ages 13-19 (school students)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Event 27–28 Feb 2027 with two 12-hour build sessions; registration open (official site and Hack Club listing)",
+  "event_dates": "2027-02-27 to 2027-02-28",
+  "summary": {
+   "en": "Pakistan Hardware Hack 2027 (TeenHacks) is a free hackathon in Lahore, Pakistan on 27.02.2027–28.02.2027: Pakistan's first teen-only hardware hackathon, with paths for new and experienced hardware builders.",
+   "ka": "Pakistan Hardware Hack 2027 (TeenHacks) — უფასო ჰაკათონი (Lahore, პაკისტანი), 27.02.2027–28.02.2027. მონაწილეები გუნდურად ქმნიან პროექტებს მენტორების დახმარებით.",
+   "ar": "Pakistan Hardware Hack 2027 (TeenHacks) هاكاثون مجاني في Lahore، باكستان بتاريخ 27.02.2027–28.02.2027. يبني المشاركون مشاريع ضمن فرق بمساعدة مرشدين."
+  },
+  "about": {
+   "en": "Pakistan Hardware Hack 2027 (TeenHacks) is Pakistan's first teen-only hardware hackathon, with paths for new and experienced hardware builders. It takes place in person in Lahore from 2027-02-27 to 2027-02-28, organised by TeenHacks (Hack Club community event).\n\nParticipants team up, attend workshops, build a working project and present it to judges. Food and workspace are provided free; travel is usually self-funded unless the organisers announce support."
+  },
+  "highlights": {
+   "en": [
+    "Free to attend",
+    "Teen-only, hardware focus",
+    "Paths for beginners and experienced builders"
+   ]
+  },
+  "eligibility": {
+   "en": "School students aged 13–19 (currently enrolled in school)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open https://teenhacks.org/ and register or apply",
+    "Form a team or join one at the event",
+    "Arrange travel to the venue",
+    "Build and present your project"
+   ]
+  },
+  "costs": {
+   "en": "Free to attend; travel and accommodation self-funded unless stated."
+  },
+  "keywords": [
+   "hackathon",
+   "coding",
+   "free",
+   "hardware",
+   "pakistan",
+   "teen",
+   "electronics",
+   "high school"
+  ],
+  "url": "https://teenhacks.org/",
+  "apply_url": "https://teenhacks.org/",
+  "sources": [
+   "https://hackathons.hackclub.com/api/events/upcoming",
+   "https://teenhacks.org/"
+  ],
+  "score": 5,
+  "score_reason": "Rare free teen hardware hackathon in South Asia",
+  "premium": false,
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "gullhacks-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "hackathon",
+  "org": "Salisbury University",
+  "name": {
+   "en": "GullHacks 2026",
+   "ka": "GullHacks 2026",
+   "ar": "GullHacks 2026"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Salisbury, MD",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 38.34,
+  "lon": -75.6,
+  "cost": "free",
+  "duration": {
+   "en": "24-hour hackathon",
+   "ka": "24-საათიანი ჰაკათონი",
+   "ar": "هاكاثون لمدة 24 ساعة"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Event 7–8 Nov 2026; registration open (official site; MLH 2027 season listing)",
+  "event_dates": "2026-11-07 to 2026-11-08",
+  "summary": {
+   "en": "GullHacks 2026 is a free hackathon in Salisbury, MD, United States on 7.11.2026–8.11.2026: Salisbury University's 24-hour hackathon ('Navigate New Horizons') for about 200 hackers.",
+   "ka": "GullHacks 2026 — უფასო ჰაკათონი (Salisbury, MD, აშშ), 7.11.2026–8.11.2026. მონაწილეები გუნდურად ქმნიან პროექტებს მენტორების დახმარებით.",
+   "ar": "GullHacks 2026 هاكاثون مجاني في Salisbury, MD، الولايات المتحدة بتاريخ 7.11.2026–8.11.2026. يبني المشاركون مشاريع ضمن فرق بمساعدة مرشدين."
+  },
+  "about": {
+   "en": "GullHacks 2026 is Salisbury University's 24-hour hackathon ('Navigate New Horizons') for about 200 hackers. It takes place in person in Salisbury, MD from 2026-11-07 to 2026-11-08, organised by Salisbury University.\n\nParticipants team up, attend workshops, build a working project and present it to judges. Food and workspace are provided free; travel is usually self-funded unless the organisers announce support."
+  },
+  "highlights": {
+   "en": [
+    "Free to attend",
+    "MLH member event"
+   ]
+  },
+  "eligibility": {
+   "en": "College/university students (MLH member event rules apply)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open https://hub.salisbury.edu/hackathon/ and register or apply",
+    "Form a team or join one at the event",
+    "Arrange travel to the venue",
+    "Build and present your project"
+   ]
+  },
+  "costs": {
+   "en": "Free to attend; travel and accommodation self-funded unless stated."
+  },
+  "keywords": [
+   "hackathon",
+   "coding",
+   "free",
+   "mlh",
+   "maryland",
+   "university"
+  ],
+  "url": "https://hub.salisbury.edu/hackathon/",
+  "apply_url": "https://hub.salisbury.edu/hackathon/",
+  "sources": [
+   "https://www.mlh.com/seasons/2027/events",
+   "https://hub.salisbury.edu/hackathon/"
+  ],
+  "score": 5,
+  "score_reason": "Free MLH hackathon, registration open",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "sheridan-datathon-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "hackathon",
+  "org": "Sheridan College",
+  "name": {
+   "en": "Sheridan Datathon 2026",
+   "ka": "Sheridan Datathon 2026",
+   "ar": "Sheridan Datathon 2026"
+  },
+  "country": {
+   "en": "Canada",
+   "ka": "კანადა",
+   "ar": "كندا"
+  },
+  "city": "Mississauga",
+  "iso": "CA",
+  "flag": "🇨🇦",
+  "region": "americas",
+  "lat": 43.59,
+  "lon": -79.65,
+  "cost": "free",
+  "duration": {
+   "en": "24-hour hackathon",
+   "ka": "24-საათიანი ჰაკათონი",
+   "ar": "هاكاثون لمدة 24 ساعة"
+  },
+  "grades": "university/college",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Event 7–8 Nov 2026 at Sheridan HMC; registration open (official site; MLH 2027 season listing)",
+  "event_dates": "2026-11-07 to 2026-11-08",
+  "summary": {
+   "en": "Sheridan Datathon 2026 is a free hackathon in Mississauga, Canada on 7.11.2026–8.11.2026: a student-led 24-hour data-science hackathon at Sheridan College.",
+   "ka": "Sheridan Datathon 2026 — უფასო ჰაკათონი (Mississauga, კანადა), 7.11.2026–8.11.2026. მონაწილეები გუნდურად ქმნიან პროექტებს მენტორების დახმარებით.",
+   "ar": "Sheridan Datathon 2026 هاكاثون مجاني في Mississauga، كندا بتاريخ 7.11.2026–8.11.2026. يبني المشاركون مشاريع ضمن فرق بمساعدة مرشدين."
+  },
+  "about": {
+   "en": "Sheridan Datathon 2026 is a student-led 24-hour data-science hackathon at Sheridan College. It takes place in person in Mississauga from 2026-11-07 to 2026-11-08, organised by Sheridan College.\n\nParticipants team up, attend workshops, build a working project and present it to judges. Food and workspace are provided free; travel is usually self-funded unless the organisers announce support."
+  },
+  "highlights": {
+   "en": [
+    "Free to attend",
+    "Data-science focus",
+    "MLH member event"
+   ]
+  },
+  "eligibility": {
+   "en": "College and university students (MLH member event rules apply)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open https://sheridandatathon.com/ and register or apply",
+    "Form a team or join one at the event",
+    "Arrange travel to the venue",
+    "Build and present your project"
+   ]
+  },
+  "costs": {
+   "en": "Free to attend; travel and accommodation self-funded unless stated."
+  },
+  "keywords": [
+   "hackathon",
+   "coding",
+   "free",
+   "datathon",
+   "data science",
+   "mlh",
+   "toronto",
+   "canada"
+  ],
+  "url": "https://sheridandatathon.com/",
+  "apply_url": "https://sheridandatathon.com/",
+  "sources": [
+   "https://www.mlh.com/seasons/2027/events",
+   "https://sheridandatathon.com/"
+  ],
+  "score": 5,
+  "score_reason": "Free data hackathon, registration open",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "hack-coms-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "hackathon",
+  "org": "Golisano College of Computing & Information Sciences, RIT",
+  "name": {
+   "en": "HACK.COMS 2026",
+   "ka": "HACK.COMS 2026",
+   "ar": "HACK.COMS 2026"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Rochester, NY",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 43.08,
+  "lon": -77.67,
+  "cost": "free",
+  "duration": {
+   "en": "24-hour hackathon",
+   "ka": "24-საათიანი ჰაკათონი",
+   "ar": "هاكاثون لمدة 24 ساعة"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Event 7 Nov 9:00 am – 8 Nov 4:30 pm EDT 2026; registration via MLH (official MLH event page)",
+  "event_dates": "2026-11-07 to 2026-11-08",
+  "summary": {
+   "en": "HACK.COMS 2026 is a free hackathon in Rochester, NY, United States on 7.11.2026–8.11.2026: an MLH member hackathon at RIT's Golisano College of Computing and Information Sciences.",
+   "ka": "HACK.COMS 2026 — უფასო ჰაკათონი (Rochester, NY, აშშ), 7.11.2026–8.11.2026. მონაწილეები გუნდურად ქმნიან პროექტებს მენტორების დახმარებით.",
+   "ar": "HACK.COMS 2026 هاكاثون مجاني في Rochester, NY، الولايات المتحدة بتاريخ 7.11.2026–8.11.2026. يبني المشاركون مشاريع ضمن فرق بمساعدة مرشدين."
+  },
+  "about": {
+   "en": "HACK.COMS 2026 is an MLH member hackathon at RIT's Golisano College of Computing and Information Sciences. It takes place in person in Rochester, NY from 2026-11-07 to 2026-11-08, organised by Golisano College of Computing & Information Sciences, RIT.\n\nParticipants team up, attend workshops, build a working project and present it to judges. Food and workspace are provided free; travel is usually self-funded unless the organisers announce support."
+  },
+  "highlights": {
+   "en": [
+    "Free to attend",
+    "MLH member event"
+   ]
+  },
+  "eligibility": {
+   "en": "University students (per the MLH event page)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open https://events.mlh.com/events/14418-hack-coms-2026 and register or apply",
+    "Form a team or join one at the event",
+    "Arrange travel to the venue",
+    "Build and present your project"
+   ]
+  },
+  "costs": {
+   "en": "Free to attend; travel and accommodation self-funded unless stated."
+  },
+  "keywords": [
+   "hackathon",
+   "coding",
+   "free",
+   "mlh",
+   "rit",
+   "rochester",
+   "university"
+  ],
+  "url": "https://events.mlh.com/events/14418-hack-coms-2026",
+  "apply_url": "https://events.mlh.com/events/14418-hack-coms-2026",
+  "sources": [
+   "https://events.mlh.com/events/14418-hack-coms-2026"
+  ],
+  "score": 5,
+  "score_reason": "Free MLH hackathon at RIT",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "hackwithaditya-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "hackathon",
+  "org": "Aditya University",
+  "name": {
+   "en": "HackWithAditya 2026",
+   "ka": "HackWithAditya 2026",
+   "ar": "HackWithAditya 2026"
+  },
+  "country": {
+   "en": "India",
+   "ka": "ინდოეთი",
+   "ar": "الهند"
+  },
+  "city": "Surampalem, Andhra Pradesh",
+  "iso": "IN",
+  "flag": "🇮🇳",
+  "region": "asia",
+  "lat": 17.09,
+  "lon": 82.07,
+  "cost": "free",
+  "duration": {
+   "en": "Multi-round season over several months",
+   "ka": "რამდენიმეთვიანი, მრავალტურიანი სეზონი",
+   "ar": "موسم من عدة جولات على مدى أشهر"
+  },
+  "grades": "university students",
+  "opens": null,
+  "deadline": "2026-11-25",
+  "deadline_note": "Level 1 prototype submissions close 25 Nov 2026, 11:45 pm IST (official Devpost page); shortlisted teams join a 48-hour build at Aditya University",
+  "event_dates": "2026-10-16 to 2026-11-25",
+  "summary": {
+   "en": "HackWithAditya 2026 is a free hackathon in Surampalem, Andhra Pradesh, India on 16.10.2026–25.11.2026: a two-level hackathon by Aditya University with a ₹500,000 prize pool: an online screening round, then an intensive 48-hour build on campus.",
+   "ka": "HackWithAditya 2026 — უფასო ჰაკათონი (Surampalem, Andhra Pradesh, ინდოეთი), 16.10.2026–25.11.2026. მონაწილეები გუნდურად ქმნიან პროექტებს მენტორების დახმარებით.",
+   "ar": "HackWithAditya 2026 هاكاثون مجاني في Surampalem, Andhra Pradesh، الهند بتاريخ 16.10.2026–25.11.2026. يبني المشاركون مشاريع ضمن فرق بمساعدة مرشدين."
+  },
+  "about": {
+   "en": "HackWithAditya 2026 is a two-level hackathon by Aditya University with a ₹500,000 prize pool: an online screening round, then an intensive 48-hour build on campus. It takes place in person in Surampalem, Andhra Pradesh from 2026-10-16 to 2026-11-25, organised by Aditya University.\n\nParticipants team up, attend workshops, build a working project and present it to judges. Food and workspace are provided free; travel is usually self-funded unless the organisers announce support."
+  },
+  "highlights": {
+   "en": [
+    "Free to attend",
+    "₹500,000 prize pool",
+    "Level 1 is free and online"
+   ]
+  },
+  "eligibility": {
+   "en": "Teams of 4–6 builders (students); full eligibility on the official website hackathon.adityauniversity.in."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open https://hackwithaditya.devpost.com/ and register or apply",
+    "Form a team or join one at the event",
+    "Arrange travel to the venue",
+    "Build and present your project"
+   ]
+  },
+  "costs": {
+   "en": "Free to attend; travel and accommodation self-funded unless stated."
+  },
+  "keywords": [
+   "hackathon",
+   "coding",
+   "free",
+   "india",
+   "university",
+   "devpost",
+   "prizes"
+  ],
+  "url": "https://hackwithaditya.devpost.com/",
+  "apply_url": "https://hackwithaditya.devpost.com/",
+  "sources": [
+   "https://hackwithaditya.devpost.com/"
+  ],
+  "score": 5,
+  "score_reason": "Free Indian university hackathon with big prize pool",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "destination-imagination-global-finals-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Destination Imagination, Inc.",
+  "name": {
+   "en": "Destination Imagination Global Finals 2027",
+   "ka": "Destination Imagination-ის გლობალური ფინალი 2027",
+   "ar": "النهائيات العالمية لمسابقة Destination Imagination 2027"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Kansas City, Missouri",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 39.1,
+  "lon": -94.58,
+  "cost": "paid",
+  "duration": {
+   "en": "Four days",
+   "ka": "ოთხი დღე",
+   "ar": "أربعة أيام"
+  },
+  "grades": "K-12 and university levels",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Global Finals 20–23 May 2027 in Kansas City; teams qualify by ranking at their Affiliate Tournament (season August–May); waitlist opens in January (official page)",
+  "event_dates": "2027-05-20 to 2027-05-23",
+  "summary": {
+   "en": "A team creativity and problem-solving competition in which students solve open-ended STEAM challenges and present them live. The 2027 Global Finals are on 20–23 May in Kansas City.",
+   "ka": "გუნდური კრეატიულობისა და პრობლემების გადაჭრის შეჯიბრი, სადაც მოსწავლეები ღია STEAM გამოწვევებს ხსნიან და ცოცხლად წარადგენენ. 2027 წლის გლობალური ფინალი 20–23 მაისს კანზას-სიტიში ტარდება.",
+   "ar": "مسابقة جماعية في الإبداع وحل المشكلات يحل فيها الطلاب تحديات STEAM مفتوحة ويعرضونها مباشرة. وتُقام النهائيات العالمية لعام 2027 في 20–23 مايو في مدينة كانساس سيتي."
+  },
+  "about": {
+   "en": "Destination Imagination teams of students choose one of the season's challenges (technical, scientific, fine arts, improvisational, engineering, service learning) and spend months designing a solution, which they present at an Affiliate Tournament together with an 'Instant Challenge' solved on the spot. Top-ranked teams are invited to Global Finals, which bring together teams from around the world.\n\nTeams register through their regional or national affiliate; there is also a Team Film Challenge (September–December) that can be done remotely."
+  },
+  "highlights": {
+   "en": [
+    "Open-ended STEAM challenges",
+    "Teams from around the world",
+    "Global Finals 20–23 May 2027"
+   ]
+  },
+  "eligibility": {
+   "en": "Student teams from elementary to university level registered with DI, competing through their affiliate (teams from China are not eligible for the waitlist route)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Start a team with an adult team manager",
+    "Register with DI and your affiliate",
+    "Choose a challenge and develop your solution",
+    "Rank at your Affiliate Tournament to qualify"
+   ]
+  },
+  "costs": {
+   "en": "Team registration and tournament fees; Global Finals travel self-funded."
+  },
+  "keywords": [
+   "creativity",
+   "problem solving",
+   "steam",
+   "team",
+   "engineering",
+   "theatre"
+  ],
+  "url": "https://www.destinationimagination.org/challenge-experience/global-finals",
+  "apply_url": "https://www.destinationimagination.org/",
+  "sources": [
+   "https://www.destinationimagination.org/challenge-experience/global-finals"
+  ],
+  "score": 5,
+  "score_reason": "Global creativity league; paid",
+  "premium": false,
+  "fields": [
+   "engineering",
+   "arts-design",
+   "natural-sciences"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "odyssey-of-the-mind-world-finals-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Odyssey of the Mind (Creative Competitions, Inc.)",
+  "name": {
+   "en": "Odyssey of the Mind World Finals 2027",
+   "ka": "Odyssey of the Mind-ის მსოფლიო ფინალი 2027",
+   "ar": "النهائيات العالمية لمسابقة Odyssey of the Mind 2027"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "East Lansing, Michigan",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 42.73,
+  "lon": -84.48,
+  "cost": "paid",
+  "duration": {
+   "en": "Four days",
+   "ka": "ოთხი დღე",
+   "ar": "أربعة أيام"
+  },
+  "grades": "K-12 and college divisions",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "World Finals 26–29 May 2027 at Michigan State University; teams qualify through regional/state/national association tournaments; 2026–27 problem synopses published",
+  "event_dates": "2027-05-26 to 2027-05-29",
+  "summary": {
+   "en": "An international creative problem-solving competition in which teams solve one of several long-term problems and a spontaneous problem. The 2027 World Finals are at Michigan State University on 26–29 May.",
+   "ka": "საერთაშორისო შემოქმედებითი პრობლემების გადაჭრის შეჯიბრი, სადაც გუნდები ხსნიან რამდენიმე გრძელვადიანი ამოცანიდან ერთ-ერთს და სპონტანურ ამოცანას. 2027 წლის მსოფლიო ფინალი მიჩიგანის სახელმწიფო უნივერსიტეტში 26–29 მაისს ტარდება.",
+   "ar": "مسابقة دولية في حل المشكلات بشكل إبداعي تحل فيها الفرق واحدة من عدة مسائل طويلة الأمد ومسألة عفوية. وتُقام النهائيات العالمية لعام 2027 في جامعة ولاية ميشيغان من 26 إلى 29 مايو."
+  },
+  "about": {
+   "en": "Odyssey of the Mind teams work for months on an open-ended 'long-term problem' — building vehicles, structures or theatrical performances — under strict rules and budgets, then present it at tournaments alongside a spontaneous problem solved on the day. Teams advance through regional and state/national association competitions to World Finals.\n\nThe programme is international, with associations in many countries; schools purchase a membership to access the 2026–27 problems."
+  },
+  "highlights": {
+   "en": [
+    "New long-term problems each year",
+    "Spontaneous problem-solving round",
+    "World Finals at Michigan State, May 2027"
+   ]
+  },
+  "eligibility": {
+   "en": "Teams from schools or organisations with an Odyssey of the Mind membership, competing in age divisions from primary to college, through their regional/national association."
+  },
+  "how_to_apply": {
+   "en": [
+    "Buy or renew a membership on odysseyofthemind.com",
+    "Form a team and pick a long-term problem",
+    "Compete at your regional/association tournament",
+    "Qualify for World Finals"
+   ]
+  },
+  "costs": {
+   "en": "Membership and tournament fees; World Finals travel self-funded."
+  },
+  "keywords": [
+   "creativity",
+   "problem solving",
+   "team",
+   "engineering",
+   "performance",
+   "international"
+  ],
+  "url": "https://www.odysseyofthemind.com/",
+  "apply_url": "https://www.omworldfinals.com/",
+  "sources": [
+   "https://www.odysseyofthemind.com/",
+   "https://www.omworldfinals.com/"
+  ],
+  "score": 5,
+  "score_reason": "Classic international creativity contest",
+  "premium": false,
+  "fields": [
+   "engineering",
+   "arts-design",
+   "humanities"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "georg-mohr-konkurrencen-2026-27",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Georg Mohr-Konkurrencen (Danish Mathematical Olympiad)",
+  "name": {
+   "en": "Georg Mohr Competition 2026–27 (Danish Mathematical Olympiad)",
+   "ka": "Georg Mohr-ის კონკურსი 2026–27 (დანიის მათემატიკური ოლიმპიადა)",
+   "ar": "مسابقة Georg Mohr 2026–27 (الأولمبياد الرياضي الدنماركي)"
+  },
+  "country": {
+   "en": "Denmark",
+   "ka": "დანია",
+   "ar": "الدنمارك"
+  },
+  "city": "Copenhagen",
+  "iso": "DK",
+  "flag": "🇩🇰",
+  "region": "europe",
+  "lat": 55.68,
+  "lon": 12.57,
+  "cost": "free",
+  "duration": {
+   "en": "One timed exam (a few hours)",
+   "ka": "ერთი დროში შეზღუდული გამოცდა (რამდენიმე საათი)",
+   "ar": "اختبار واحد محدد الوقت (بضع ساعات)"
+  },
+  "grades": "upper secondary (Denmark)",
+  "opens": null,
+  "deadline": "2026-11-24",
+  "deadline_note": "Round 1 on 24 Nov 2026; round 2 on 12 Jan 2027 (official site)",
+  "event_dates": "2026-11-24 to 2027-01-12",
+  "summary": {
+   "en": "Denmark's national mathematics olympiad: round 1 is on 24 November 2026 and round 2 on 12 January 2027, leading to selection for the IMO, EGMO and Baltic Way teams.",
+   "ka": "დანიის ეროვნული მათემატიკური ოლიმპიადა: პირველი ტური 2026 წლის 24 ნოემბერს, მეორე კი 2027 წლის 12 იანვარს ტარდება და IMO-ს, EGMO-სა და Baltic Way-ის გუნდების შერჩევამდე მიდის.",
+   "ar": "الأولمبياد الوطني للرياضيات في الدنمارك: الجولة الأولى في 24 نوفمبر 2026 والثانية في 12 يناير 2027، وتؤدي إلى اختيار فرق أولمبياد الرياضيات الدولي وأولمبياد الفتيات الأوروبي وBaltic Way."
+  },
+  "about": {
+   "en": "The Georg Mohr Competition is held in Danish upper-secondary schools. Round 1 is sat at school; the best students go on to round 2, and the top performers are invited to training for international olympiads (in 2026 Denmark won a bronze medal at the IMO).\n\nTeachers register their schools; materials and a teacher info pack for 2027 are on the site."
+  },
+  "highlights": {
+   "en": [
+    "Two rounds: 24 Nov 2026 and 12 Jan 2027",
+    "Free, sat at school",
+    "Path to IMO, EGMO and Baltic Way"
+   ]
+  },
+  "eligibility": {
+   "en": "Students at upper-secondary schools in Denmark (younger strong students may also participate)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask your maths teacher to register the school",
+    "Practise with past round-1 problems",
+    "Sit round 1 at school on 24 Nov 2026"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "math",
+   "olympiad",
+   "denmark",
+   "imo",
+   "school"
+  ],
+  "url": "https://www.georgmohr.dk/",
+  "apply_url": "https://www.georgmohr.dk/",
+  "sources": [
+   "https://www.georgmohr.dk/"
+  ],
+  "score": 4,
+  "score_reason": "National olympiad entry round; Danish schools",
+  "premium": false,
+  "fields": [
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "olympiad"
+  ]
+ },
+ {
+  "id": "dutch-informatics-olympiad-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Stichting Nederlandse Informatica Olympiade",
+  "name": {
+   "en": "Dutch Olympiad in Informatics (NIO) 2027",
+   "ka": "ნიდერლანდების ინფორმატიკის ოლიმპიადა (NIO) 2027",
+   "ar": "الأولمبياد الهولندي للمعلوماتية (NIO) 2027"
+  },
+  "country": {
+   "en": "Netherlands",
+   "ka": "ნიდერლანდები",
+   "ar": "هولندا"
+  },
+  "city": "Online",
+  "iso": "NL",
+  "flag": "🇳🇱",
+  "region": "europe",
+  "lat": 52.09,
+  "lon": 5.12,
+  "cost": "free",
+  "duration": {
+   "en": "Multi-round season over several months",
+   "ka": "რამდენიმეთვიანი, მრავალტურიანი სეზონი",
+   "ar": "موسم من عدة جولات على مدى أشهر"
+  },
+  "grades": "secondary school (Netherlands)",
+  "opens": "2026-09-15",
+  "deadline": "2027-01-21",
+  "deadline_note": "First round online 15 Sep 2026 – 21 Jan 2027 (submit via submit.informaticaolympiade.nl); second round March 2027 in Enschede; national final June 2027 (official site)",
+  "event_dates": "2026-09-15 to 2027-06-30",
+  "summary": {
+   "en": "The Netherlands' informatics olympiad: solve the first-round programming problems online until 21 January 2027, then compete in Enschede in March for a place in the training that selects the Dutch IOI team.",
+   "ka": "ნიდერლანდების ინფორმატიკის ოლიმპიადა: ამოხსენი პირველი ტურის პროგრამირების ამოცანები ონლაინ 2027 წლის 21 იანვრამდე, შემდეგ მარტში ენსხედეში იასპარეზე ადგილისთვის ტრენინგზე, სადაც ჰოლანდიის IOI გუნდი ირჩევა.",
+   "ar": "الأولمبياد الهولندي للمعلوماتية: حل مسائل البرمجة في الجولة الأولى عبر الإنترنت حتى 21 يناير 2027، ثم تنافس في إنسخيده في مارس على مكان في التدريب الذي يختار الفريق الهولندي لأولمبياد المعلوماتية الدولي."
+  },
+  "about": {
+   "en": "The NIO first round is a take-home set of programming tasks that students can work on at their own pace and submit online. Qualifiers attend the second round in Enschede (March 2027), then final training in Baarn and the national final (June 2027). The Dutch team competes at WEOI (Spain), EGOI (Poland) and IOI 2027 (Germany).\n\nTasks and the submission system are online; the competition is free."
+  },
+  "highlights": {
+   "en": [
+    "Take-home first round until 21 Jan 2027",
+    "Path to IOI 2027 in Germany",
+    "Free"
+   ]
+  },
+  "eligibility": {
+   "en": "Secondary-school students in the Netherlands (check the site for exact eligibility)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Download the round-1 tasks from informaticaolympiade.nl",
+    "Write your solutions",
+    "Submit before 21 Jan 2027",
+    "Qualify for round 2 in March"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "informatics",
+   "olympiad",
+   "programming",
+   "netherlands",
+   "ioi",
+   "free"
+  ],
+  "url": "https://www.informaticaolympiade.nl/",
+  "apply_url": "https://www.informaticaolympiade.nl/",
+  "sources": [
+   "https://www.informaticaolympiade.nl/"
+  ],
+  "score": 5,
+  "score_reason": "Free take-home IOI route; Dutch students",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "olympiad"
+  ]
+ },
+ {
+  "id": "vlaamse-wiskunde-olympiade-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Vlaamse Wiskunde Olympiade vzw",
+  "name": {
+   "en": "Flemish Mathematical Olympiad (VWO/JWO) 2027",
+   "ka": "ფლამანდიის მათემატიკური ოლიმპიადა (VWO/JWO) 2027",
+   "ar": "الأولمبياد الرياضي الفلمنكي (VWO/JWO) 2027"
+  },
+  "country": {
+   "en": "Belgium",
+   "ka": "ბელგია",
+   "ar": "بلجيكا"
+  },
+  "city": "Leuven",
+  "iso": "BE",
+  "flag": "🇧🇪",
+  "region": "europe",
+  "lat": 50.88,
+  "lon": 4.7,
+  "cost": "free",
+  "duration": {
+   "en": "One timed exam (a few hours)",
+   "ka": "ერთი დროში შეზღუდული გამოცდა (რამდენიმე საათი)",
+   "ar": "اختبار واحد محدد الوقت (بضع ساعات)"
+  },
+  "grades": "secondary school (Flanders)",
+  "opens": "2026-10-01",
+  "deadline": "2026-11-23",
+  "deadline_note": "School registration 1 Oct–23 Nov 2026; first round 13 Jan 2027, second round 3 Mar 2027, final 21 Apr 2027 (official 2026–27 calendar)",
+  "event_dates": "2027-01-13 to 2027-04-21",
+  "summary": {
+   "en": "The 42nd Flemish Mathematical Olympiad (and 26th Junior edition): schools register by 23 November 2026, round 1 is on 13 January 2027 and the final on 21 April 2027.",
+   "ka": "ფლამანდიის 42-ე მათემატიკური ოლიმპიადა (და 26-ე უმცროსთა გამოცემა): სკოლები რეგისტრირდებიან 2026 წლის 23 ნოემბრამდე, პირველი ტური 2027 წლის 13 იანვარს, ფინალი კი 21 აპრილს ტარდება.",
+   "ar": "الأولمبياد الرياضي الفلمنكي الثاني والأربعون (والنسخة السادسة والعشرون للناشئين): تسجّل المدارس حتى 23 نوفمبر 2026، وتُعقد الجولة الأولى في 13 يناير 2027 والنهائي في 21 أبريل 2027."
+  },
+  "about": {
+   "en": "The VWO (upper secondary) and JWO (lower secondary) are Flanders' national maths olympiads, supported by Belgian universities. Round 1 is sat at school; the best go to round 2 and the final, and finalists can enter training for the Benelux, European Girls' and International Mathematical Olympiads.\n\nResults are announced at a proclamation on 19 May 2027."
+  },
+  "highlights": {
+   "en": [
+    "Junior (JWO) and senior (VWO) levels",
+    "Three rounds, Jan–Apr 2027",
+    "Path to BxMO, EGMO and IMO"
+   ]
+  },
+  "eligibility": {
+   "en": "Students at secondary schools in Flanders/Belgium (Dutch-language), registered by their school."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask your school's VWO coordinator to register you by 23 Nov 2026",
+    "Practise with past questions or usolv-it",
+    "Sit round 1 on 13 Jan 2027"
+   ]
+  },
+  "costs": {
+   "en": "Free for students (schools register)."
+  },
+  "keywords": [
+   "math",
+   "olympiad",
+   "belgium",
+   "flanders",
+   "imo"
+  ],
+  "url": "https://www.vwo.be/",
+  "apply_url": "https://www.vwo.be/vwo/kalender/",
+  "sources": [
+   "https://www.vwo.be/",
+   "https://www.vwo.be/vwo/kalender/"
+  ],
+  "score": 4,
+  "score_reason": "National olympiad; Flemish schools",
+  "premium": false,
+  "fields": [
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "olympiad"
+  ]
+ },
+ {
+  "id": "charles-causley-young-peoples-poetry-competition-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "The Charles Causley Trust",
+  "name": {
+   "en": "Charles Causley Young People's Poetry Competition 2026",
+   "ka": "Charles Causley-ს ახალგაზრდების პოეზიის კონკურსი 2026",
+   "ar": "مسابقة Charles Causley الشعرية للشباب 2026"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Launceston, Cornwall",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 50.64,
+  "lon": -4.36,
+  "cost": "free",
+  "duration": {
+   "en": "Single submission, results months later",
+   "ka": "ერთჯერადი ნამუშევრის გაგზავნა, შედეგები რამდენიმე თვეში",
+   "ar": "تقديم عمل واحد، والنتائج بعد أشهر"
+  },
+  "grades": "ages 5-18 (Cornwall)",
+  "opens": null,
+  "deadline": "2026-12-31",
+  "deadline_note": "Closing date midnight 31 Dec 2026; winners contacted March 2027 and awarded at the May 2027 Launceston Poetry Festival (official page)",
+  "event_dates": null,
+  "summary": {
+   "en": "A free poetry competition for young people in Cornwall aged 5–18 on the theme 'Heritage', with winners celebrated at the 2027 Launceston Poetry Festival. Entries close on 31 December 2026.",
+   "ka": "უფასო პოეზიის კონკურსი კორნუოლის 5–18 წლის ახალგაზრდებისთვის თემაზე „მემკვიდრეობა“; გამარჯვებულებს 2027 წლის ლონსესტონის პოეზიის ფესტივალზე დააჯილდოებენ. ნამუშევრების მიღება 2026 წლის 31 დეკემბერს სრულდება.",
+   "ar": "مسابقة شعر مجانية للشباب في كورنوال من سن 5 إلى 18 عامًا حول موضوع «التراث»، ويُحتفى بالفائزين في مهرجان لونسيستون للشعر لعام 2027. ويُغلق باب المشاركة في 31 ديسمبر 2026."
+  },
+  "about": {
+   "en": "Run by the trust that cares for poet Charles Causley's home in Launceston, the competition has three age categories (5–10, 11–15, 16–18). This year's theme, 'Heritage', invites young people to explore Cornish roots in partnership with English Heritage; prizes include free English Heritage membership.\n\nEntries can come through schools, groups or individually, with a completed entry form."
+  },
+  "highlights": {
+   "en": [
+    "Free; three age categories",
+    "Theme: Heritage",
+    "Prize-giving at the Launceston Poetry Festival"
+   ]
+  },
+  "eligibility": {
+   "en": "Young people aged 5–18 living in Cornwall."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the rules of entry",
+    "Write your poem on 'Heritage'",
+    "Send it with the entry form by 31 Dec 2026"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "poetry",
+   "writing",
+   "cornwall",
+   "uk",
+   "free"
+  ],
+  "url": "https://causleytrust.org/the-charles-causley-young-peoples-poetry-competition/",
+  "apply_url": "https://causleytrust.org/the-charles-causley-young-peoples-poetry-competition/",
+  "sources": [
+   "https://causleytrust.org/the-charles-causley-young-peoples-poetry-competition/"
+  ],
+  "score": 3,
+  "score_reason": "Local but free and reputable",
+  "premium": false,
+  "fields": [
+   "humanities",
+   "arts-design"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "canada-jay-mathematical-competition-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Canadian Mathematical Society (CMS)",
+  "name": {
+   "en": "Canada Jay Mathematical Competition (CJMC) 2026",
+   "ka": "კანადური ჩხიკვის მათემატიკური კონკურსი (CJMC) 2026",
+   "ar": "مسابقة Canada Jay الرياضية (CJMC) 2026"
+  },
+  "country": {
+   "en": "Canada",
+   "ka": "კანადა",
+   "ar": "كندا"
+  },
+  "city": "Online / in school",
+  "iso": "CA",
+  "flag": "🇨🇦",
+  "region": "americas",
+  "lat": 45.42,
+  "lon": -75.7,
+  "cost": "paid",
+  "duration": {
+   "en": "One timed exam (a few hours)",
+   "ka": "ერთი დროში შეზღუდული გამოცდა (რამდენიმე საათი)",
+   "ar": "اختبار واحد محدد الوقت (بضع ساعات)"
+  },
+  "grades": "grades 7-12 (suggested)",
+  "opens": "2026-09-01",
+  "deadline": "2026-11-12",
+  "deadline_note": "Registration until 12 Nov 2026 (payment by 13 Nov); contest 19 Nov 2026 in the Americas and 20 Nov 2026 elsewhere (official CMS page)",
+  "event_dates": "2026-11-19 to 2026-11-20",
+  "summary": {
+   "en": "An accessible mathematics competition from the Canadian Mathematical Society, open to schools and independent students worldwide, held on 19–20 November 2026. Registration closes on 12 November.",
+   "ka": "კანადის მათემატიკური საზოგადოების ხელმისაწვდომი მათემატიკური კონკურსი, ღია მსოფლიოს სკოლებისა და დამოუკიდებელი მოსწავლეებისთვის, რომელიც 2026 წლის 19–20 ნოემბერს ტარდება. რეგისტრაცია 12 ნოემბერს სრულდება.",
+   "ar": "مسابقة رياضيات ميسّرة من الجمعية الرياضية الكندية، مفتوحة للمدارس والطلاب المستقلين حول العالم، وتُقام في 19–20 نوفمبر 2026. ويُغلق التسجيل في 12 نوفمبر."
+  },
+  "about": {
+   "en": "The CJMC is one of the CMS's open competitions alongside the COMC and the Canada Lynx competition. Schools register through the CMS portal, and students whose school is not participating can register independently. Outside Canada the fee is USD 15 per student (minimum 5).\n\nIt is a good confidence-building contest before harder olympiad-style papers."
+  },
+  "highlights": {
+   "en": [
+    "Open to students worldwide",
+    "Independent registration possible",
+    "Run by the Canadian Mathematical Society"
+   ]
+  },
+  "eligibility": {
+   "en": "Students (suggested grades 7–12) at participating schools anywhere, or independent students whose school is not participating."
+  },
+  "how_to_apply": {
+   "en": [
+    "School registers on the CMS portal (or register as an independent student)",
+    "Register by 12 Nov and pay by 13 Nov 2026",
+    "Write the contest on 19/20 Nov 2026"
+   ]
+  },
+  "costs": {
+   "en": "CAD 12 per student in Canada; USD 15 per student outside Canada (minimum 5)."
+  },
+  "keywords": [
+   "math",
+   "canada",
+   "cms",
+   "math contest",
+   "international"
+  ],
+  "url": "https://cms.math.ca/competitions/cjmc/",
+  "apply_url": "https://cms.math.ca/competitions/cjmc/",
+  "sources": [
+   "https://cms.math.ca/competitions/cjmc/"
+  ],
+  "score": 5,
+  "score_reason": "Open worldwide, soon",
+  "premium": false,
+  "fields": [
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "jugendwettbewerb-informatik-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "Bundesweite Informatikwettbewerbe (BWINF)",
+  "name": {
+   "en": "Jugendwettbewerb Informatik 2027",
+   "ka": "Jugendwettbewerb Informatik 2027 (გერმანიის ახალგაზრდული ინფორმატიკის კონკურსი)",
+   "ar": "مسابقة Jugendwettbewerb Informatik 2027 للشباب في ألمانيا"
+  },
+  "country": {
+   "en": "Germany (online)",
+   "ka": "გერმანია (ონლაინ)",
+   "ar": "ألمانيا (عبر الإنترنت)"
+  },
+  "city": "Online",
+  "iso": "DE",
+  "flag": "🇩🇪",
+  "region": "europe",
+  "lat": 50.74,
+  "lon": 7.1,
+  "cost": "free",
+  "duration": {
+   "en": "Multi-round season over several months",
+   "ka": "რამდენიმეთვიანი, მრავალტურიანი სეზონი",
+   "ar": "موسم من عدة جولات على مدى أشهر"
+  },
+  "grades": "from grade 5 (beginners)",
+  "opens": "2027-02-01",
+  "deadline": null,
+  "deadline_note": "Based on the 2026 cycle (round 1 23 Feb–8 Mar, round 2 17 Apr–3 May, round 3 Sep–Nov); 2027 dates to be confirmed on bwinf.de",
+  "event_dates": "2027-02-20 to 2027-11-30",
+  "summary": {
+   "en": "Germany's programming competition for beginners from grade 5: two online rounds in spring with block-based and text programming tasks, then a take-home third round. The 2027 edition starts in early spring.",
+   "ka": "გერმანიის პროგრამირების კონკურსი დამწყებთათვის მე-5 კლასიდან: ორი ონლაინ ტური გაზაფხულზე ბლოკური და ტექსტური პროგრამირების ამოცანებით, შემდეგ სახლში შესასრულებელი მესამე ტური. 2027 წლის გამოცემა ადრე გაზაფხულზე იწყება.",
+   "ar": "مسابقة البرمجة الألمانية للمبتدئين من الصف الخامس: جولتان عبر الإنترنت في الربيع بمهام برمجة بالكتل والنصوص، ثم جولة ثالثة تُنجز في المنزل. وتبدأ نسخة 2027 في أوائل الربيع."
+  },
+  "about": {
+   "en": "The Jugendwettbewerb Informatik is aimed at young people with little or no programming experience. Rounds 1 and 2 are online with three levels (bronze, silver, gold), and each starts with a practice contest; round 3 is a take-home round using your own programming tools. Individuals or teams (up to two in rounds 1–2, up to four in round 3) can take part.\n\nIt leads naturally into the Bundeswettbewerb Informatik and Germany's IOI selection."
+  },
+  "highlights": {
+   "en": [
+    "Beginner friendly; three levels",
+    "Online rounds with practice contests",
+    "Free"
+   ]
+  },
+  "eligibility": {
+   "en": "Students recommended from grade 5 (possible from grade 3) at schools in Germany and German schools abroad."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask a teacher to register the class on bwinf.de",
+    "Try the practice contest",
+    "Take rounds 1 and 2 online in spring 2027"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "programming",
+   "informatik",
+   "germany",
+   "coding",
+   "beginner",
+   "free"
+  ],
+  "url": "https://bwinf.de/jugendwettbewerb/",
+  "apply_url": "https://bwinf.de/jugendwettbewerb/",
+  "sources": [
+   "https://bwinf.de/jugendwettbewerb/",
+   "https://bwinf.de/"
+  ],
+  "score": 4,
+  "score_reason": "Free beginner programming contest; Germany",
+  "premium": false,
+  "fields": [
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "ukmt-senior-kangaroo-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "UK Mathematics Trust (UKMT)",
+  "name": {
+   "en": "UKMT Andrew Jobbings Senior Kangaroo 2026",
+   "ka": "UKMT-ის Andrew Jobbings უფროსი Kangaroo 2026",
+   "ar": "مسابقة UKMT Andrew Jobbings Senior Kangaroo 2026"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Leeds",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 53.8,
+  "lon": -1.55,
+  "cost": "paid",
+  "duration": {
+   "en": "One timed exam (a few hours)",
+   "ka": "ერთი დროში შეზღუდული გამოცდა (რამდენიმე საათი)",
+   "ar": "اختبار واحد محدد الوقت (بضع ساعات)"
+  },
+  "grades": "UK Years 12-13 (qualifiers)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Wednesday 18 Nov 2026 (UKMT 2026-27 calendar); entry by qualification from the Senior Mathematical Challenge (7 Oct 2026) or discretionary school entry",
+  "event_dates": "2026-11-18 to 2026-11-18",
+  "summary": {
+   "en": "UKMT's one-hour follow-on paper for strong Senior Mathematical Challenge scorers, held on 18 November 2026 alongside BMO Round 1.",
+   "ka": "UKMT-ის ერთსაათიანი მომდევნო ნაშრომი უფროსი მათემატიკური გამოწვევის წარმატებული მონაწილეებისთვის, რომელიც 2026 წლის 18 ნოემბერს, BMO-ს პირველ ტურთან ერთად ტარდება.",
+   "ar": "ورقة متابعة مدتها ساعة من UKMT لأصحاب الدرجات العالية في تحدي الرياضيات للكبار، وتُعقد في 18 نوفمبر 2026 بالتزامن مع الجولة الأولى من BMO."
+  },
+  "about": {
+   "en": "The Senior Kangaroo is a one-hour paper designed for students who did well in the Senior Mathematical Challenge but are not invited to BMO1. It rewards careful reasoning and is sat in school.\n\nSchools may also make discretionary entries for students who missed the SMC."
+  },
+  "highlights": {
+   "en": [
+    "One-hour follow-on paper",
+    "18 November 2026",
+    "Follow-on from the SMC"
+   ]
+  },
+  "eligibility": {
+   "en": "Students in UK Years 12–13 (and equivalent at international schools) who qualify via the SMC or are entered at the school's discretion."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check your SMC result with your teacher",
+    "Ask about a discretionary entry if needed",
+    "Sit the paper in school on 18 Nov 2026"
+   ]
+  },
+  "costs": {
+   "en": "Entry fees paid by schools (follow-on rounds for qualifiers are low-cost or free)."
+  },
+  "keywords": [
+   "math",
+   "uk",
+   "ukmt",
+   "olympiad",
+   "kangaroo"
+  ],
+  "url": "https://www.ukmt.org.uk/",
+  "apply_url": "https://www.ukmt.org.uk/competition-calendar",
+  "sources": [
+   "https://www.ukmt.org.uk/competition-calendar"
+  ],
+  "score": 4,
+  "score_reason": "UKMT follow-on/entry round; UK and international schools",
+  "premium": false,
+  "fields": [
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "olympiad"
+  ]
+ },
+ {
+  "id": "ukmt-intermediate-olympiads-kangaroos-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "UK Mathematics Trust (UKMT)",
+  "name": {
+   "en": "UKMT Intermediate Olympiads and Kangaroos 2027 (Cayley, Hamilton, Maclaurin)",
+   "ka": "UKMT-ის საშუალო ოლიმპიადები და Kangaroo 2027 (Cayley, Hamilton, Maclaurin)",
+   "ar": "أولمبيادات UKMT المتوسطة ومسابقات Kangaroo 2027 (Cayley وHamilton وMaclaurin)"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Leeds",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 53.8,
+  "lon": -1.55,
+  "cost": "paid",
+  "duration": {
+   "en": "One timed exam (a few hours)",
+   "ka": "ერთი დროში შეზღუდული გამოცდა (რამდენიმე საათი)",
+   "ar": "اختبار واحد محدد الوقت (بضع ساعات)"
+  },
+  "grades": "UK Years 9-11 (qualifiers)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Thursday 18 Mar 2027 (UKMT 2026-27 calendar); qualification via the Intermediate Mathematical Challenge on 27 Jan 2027",
+  "event_dates": "2027-03-18 to 2027-03-18",
+  "summary": {
+   "en": "UKMT's follow-on rounds for top Intermediate Mathematical Challenge scorers: the Cayley, Hamilton and Maclaurin Olympiads and the Grey and Pink Kangaroos, all on 18 March 2027.",
+   "ka": "UKMT-ის მომდევნო ტურები საშუალო მათემატიკური გამოწვევის საუკეთესო მონაწილეებისთვის: Cayley, Hamilton და Maclaurin ოლიმპიადები და Grey და Pink Kangaroo, ყველა 2027 წლის 18 მარტს.",
+   "ar": "جولات المتابعة من UKMT لأصحاب أعلى الدرجات في تحدي الرياضيات المتوسط: أولمبيادات Cayley وHamilton وMaclaurin ومسابقتا Grey وPink Kangaroo، وجميعها في 18 مارس 2027."
+  },
+  "about": {
+   "en": "Students who score highly in the Intermediate Mathematical Challenge (27 January 2027) are invited to an age-appropriate olympiad (Cayley for Year 9, Hamilton for Year 10, Maclaurin for Year 11) requiring full written solutions, or to the Grey/Pink Kangaroo multiple-choice papers.\n\nCertificates and medals are awarded to top performers."
+  },
+  "highlights": {
+   "en": [
+    "Proof-style olympiads by year group",
+    "18 March 2027",
+    "Certificates and medals"
+   ]
+  },
+  "eligibility": {
+   "en": "Students in UK Years 9–11 (or equivalent at international schools) who qualify via the IMC."
+  },
+  "how_to_apply": {
+   "en": [
+    "Take the Intermediate Mathematical Challenge on 27 Jan 2027",
+    "Check whether you qualified",
+    "Sit the follow-on round in school on 18 Mar 2027"
+   ]
+  },
+  "costs": {
+   "en": "Entry fees paid by schools (follow-on rounds for qualifiers are low-cost or free)."
+  },
+  "keywords": [
+   "math",
+   "uk",
+   "ukmt",
+   "olympiad",
+   "kangaroo"
+  ],
+  "url": "https://www.ukmt.org.uk/",
+  "apply_url": "https://www.ukmt.org.uk/competition-calendar",
+  "sources": [
+   "https://www.ukmt.org.uk/competition-calendar"
+  ],
+  "score": 4,
+  "score_reason": "UKMT follow-on/entry round; UK and international schools",
+  "premium": false,
+  "fields": [
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "olympiad"
+  ]
+ },
+ {
+  "id": "ukmt-junior-olympiad-kangaroo-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "UK Mathematics Trust (UKMT)",
+  "name": {
+   "en": "UKMT Junior Mathematical Olympiad and Junior Kangaroo 2027",
+   "ka": "UKMT-ის უმცროსთა მათემატიკური ოლიმპიადა და Junior Kangaroo 2027",
+   "ar": "الأولمبياد الرياضي للناشئين وJunior Kangaroo من UKMT 2027"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Leeds",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 53.8,
+  "lon": -1.55,
+  "cost": "paid",
+  "duration": {
+   "en": "One timed exam (a few hours)",
+   "ka": "ერთი დროში შეზღუდული გამოცდა (რამდენიმე საათი)",
+   "ar": "اختبار واحد محدد الوقت (بضع ساعات)"
+  },
+  "grades": "UK Years 7-8 (qualifiers)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Tuesday 15 Jun 2027 (UKMT 2026-27 calendar); qualification via the Junior Mathematical Challenge on 5 May 2027",
+  "event_dates": "2027-06-15 to 2027-06-15",
+  "summary": {
+   "en": "UKMT's follow-on rounds for top Junior Mathematical Challenge scorers: the Junior Mathematical Olympiad and Junior Kangaroo on 15 June 2027.",
+   "ka": "UKMT-ის მომდევნო ტურები უმცროსი მათემატიკური გამოწვევის საუკეთესო მონაწილეებისთვის: უმცროსთა მათემატიკური ოლიმპიადა და Junior Kangaroo 2027 წლის 15 ივნისს.",
+   "ar": "جولات المتابعة من UKMT لأصحاب أعلى الدرجات في تحدي الرياضيات للناشئين: الأولمبياد الرياضي للناشئين وJunior Kangaroo في 15 يونيو 2027."
+  },
+  "about": {
+   "en": "The Junior Mathematical Olympiad is an olympiad-style paper for the highest JMC scorers; the Junior Kangaroo is a paper for the next band of qualifiers.\n\nBoth are sat in school, and medals and certificates are awarded to top performers."
+  },
+  "highlights": {
+   "en": [
+    "Olympiad-style junior paper",
+    "15 June 2027",
+    "Medals for top scorers"
+   ]
+  },
+  "eligibility": {
+   "en": "Students in UK Years 7–8 (or equivalent at international schools) who qualify via the JMC."
+  },
+  "how_to_apply": {
+   "en": [
+    "Take the Junior Mathematical Challenge on 5 May 2027",
+    "Check whether you qualified",
+    "Sit the JMO or Junior Kangaroo on 15 Jun 2027"
+   ]
+  },
+  "costs": {
+   "en": "Entry fees paid by schools (follow-on rounds for qualifiers are low-cost or free)."
+  },
+  "keywords": [
+   "math",
+   "uk",
+   "ukmt",
+   "olympiad",
+   "kangaroo"
+  ],
+  "url": "https://www.ukmt.org.uk/",
+  "apply_url": "https://www.ukmt.org.uk/competition-calendar",
+  "sources": [
+   "https://www.ukmt.org.uk/competition-calendar"
+  ],
+  "score": 4,
+  "score_reason": "UKMT follow-on/entry round; UK and international schools",
+  "premium": false,
+  "fields": [
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "olympiad"
+  ]
+ },
+ {
+  "id": "ukmt-primary-kangaroo-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "competition",
+  "org": "UK Mathematics Trust (UKMT)",
+  "name": {
+   "en": "UKMT Primary Kangaroo 2027",
+   "ka": "UKMT-ის დაწყებითი Kangaroo 2027",
+   "ar": "مسابقة UKMT Primary Kangaroo 2027"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Leeds",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 53.8,
+  "lon": -1.55,
+  "cost": "paid",
+  "duration": {
+   "en": "One timed exam (a few hours)",
+   "ka": "ერთი დროში შეზღუდული გამოცდა (რამდენიმე საათი)",
+   "ar": "اختبار واحد محدد الوقت (بضع ساعات)"
+  },
+  "grades": "primary (UK Years 5-6 / ages 9-11)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Sat in school between Thu 18 and Thu 25 Mar 2027 (UKMT 2026-27 calendar); entries for 2026-27 UKMT competitions are open",
+  "event_dates": "2027-03-18 to 2027-03-25",
+  "summary": {
+   "en": "UKMT's maths challenge for primary-school pupils, sat in school between 18 and 25 March 2027, part of the international Kangaroo family of competitions.",
+   "ka": "UKMT-ის მათემატიკური გამოწვევა დაწყებითი სკოლის მოსწავლეებისთვის, რომელიც სკოლაში 2027 წლის 18–25 მარტს იწერება და საერთაშორისო Kangaroo-ს ოჯახის ნაწილია.",
+   "ar": "تحدي UKMT للرياضيات لتلاميذ المرحلة الابتدائية، ويُؤدّى في المدرسة بين 18 و25 مارس 2027، وهو جزء من عائلة مسابقات Kangaroo الدولية."
+  },
+  "about": {
+   "en": "The Primary Kangaroo is an open-entry multiple-choice challenge designed to make problem solving fun for younger pupils. Schools choose a day in the window and run it in class; certificates are awarded to top scorers.\n\nIt is a natural first step before the Junior Mathematical Challenge."
+  },
+  "highlights": {
+   "en": [
+    "Open entry for primary pupils",
+    "18–25 March 2027 window",
+    "Certificates for top scorers"
+   ]
+  },
+  "eligibility": {
+   "en": "Primary-school pupils (UK Years 5–6 or equivalent), including at international schools, entered by their school."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask your teacher to enter the school on ukmt.org.uk",
+    "Practise with past papers",
+    "Sit the challenge in school 18–25 Mar 2027"
+   ]
+  },
+  "costs": {
+   "en": "Entry fees paid by schools (follow-on rounds for qualifiers are low-cost or free)."
+  },
+  "keywords": [
+   "math",
+   "uk",
+   "ukmt",
+   "olympiad",
+   "kangaroo"
+  ],
+  "url": "https://www.ukmt.org.uk/",
+  "apply_url": "https://www.ukmt.org.uk/competition-calendar",
+  "sources": [
+   "https://www.ukmt.org.uk/competition-calendar"
+  ],
+  "score": 4,
+  "score_reason": "UKMT follow-on/entry round; UK and international schools",
+  "premium": false,
+  "fields": [
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "olympiad"
+  ]
  }
 ]

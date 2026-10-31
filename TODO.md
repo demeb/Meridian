@@ -4,11 +4,13 @@ Legend: [ ] open · [x] done and verified · [!] blocked (reason)
 
 ## Data (research agents → round6, merged with tools/merge_round5.py)
 - [ ] 2000 projects / 500 scholarships, 30% of new projects in Georgia
-- [ ] More exchanges + FLEX (FLEX also shown under Exchange)
+- [x] More exchanges + FLEX (FLEX also shown under Exchange) — exchange 85 + FLEX 32 (was 5 + 2)
 - [ ] Facebook pages as sources (Georgian MUNs/clubs) + the Facebook post the user linked — FB post: its 4 visible items already in Meridian; 4 more images need a login
-- [ ] Universities: more full profiles + other tests (GMAT, LSAT, UCAT…)
-- [ ] Prep: Georgian national exams (NAEC past papers), official materials per section, all university tests (GMAT, GRE, LSAT, MCAT, UCAT…)
+- [x] Universities: more full profiles + other tests (GMAT, LSAT, UCAT…) — 338 full profiles (was 222)
+- [x] Prep: Georgian national exams (NAEC past papers), official materials per section, all university tests — 36 exams, 323 links
 - [ ] Georgian/Arabic for new records + the 47 English-only university profiles
+  - programme batches in round6/translate/in-01…in-27 (Georgia → Gulf → scholarships → rest): 01–06 running; queue 07–27
+  - do NOT re-run extract_untranslated.py while translators run (it rewrites in-NN); new research after the 31 Oct merge → separate prefix
 
 ## Navigation and layout
 - [x] Home link back in the nav
@@ -51,12 +53,12 @@ Legend: [ ] open · [x] done and verified · [!] blocked (reason)
 - [x] No general mention of partner-school counsellors; school members see their school's counsellors, webinars and programmes
 - [x] Independent counsellors for everyone; affiliation shown on profile
 - [x] Counsellor filter: General, EU, US, Asian university counselling
-- [ ] Mini-courses: a picture for each course (Europass template etc.)
+- [x] Mini-courses: a picture for each course (Europass template etc.)
 
 ## Prep
-- [ ] Less text, cleaner structure
+- [x] Less text, cleaner structure
 
 ## Finish
-- [ ] Smoke test passes, browser check EN/KA/AR, light/dark, mobile
+- [x] Smoke test passes, browser check EN/KA/AR, light/dark, mobile
 - [ ] Commit + push (approved) → verify meridiangoal.com
 - [ ] Morning report incl. what the user must do on Render (Gmail app password, ANTHROPIC_API_KEY)

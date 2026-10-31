@@ -42,6 +42,11 @@ FAMILY_ALIASES = {"university": "scholarship", "hackathon": "competition", "olym
 AGGREGATORS = re.compile(r"mymun|opportunitydesk|youthop\.|youthopportunities|scholars4dev|opportunitiescircle|"
                          r"afterschoolafrica|scholarshipportal|opportunitiesforafricans|worldscholarshipforum", re.I)
 REQUIRED = ("id", "name", "iso", "url")
+# programmes the founder confirmed closed: never re-add them, whatever a research file says
+BLOCKED = re.compile(r"john[- ]locke", re.I)
+# the same programme found by two research agents under different ids: keep the first
+DUPLICATES = {"earth-prize-2027", "lithuania-state-scholarship-masters-2027",
+              "vilnius-university-masters-tuition-waiver-2027", "york-international-masters-scholarship-2027"}
 
 
 def load(path, default=None):
@@ -77,6 +82,8 @@ def tri(value):
 
 def normalise(r, source):
     r = dict(r)
+    if BLOCKED.search(r.get("id", "")) or BLOCKED.search(json.dumps(r.get("name", ""), ensure_ascii=False)):
+        return None, "blocked (confirmed closed)"
     r["iso"] = (r.get("iso") or "").upper()
     if r["iso"] in ("EU", "XX", ""):
         return None, "no host country"
@@ -158,6 +165,8 @@ def main():
 
     kept = []
     for record in live:
+        if record["id"] in DUPLICATES:
+            continue
         record = apply_verdict(record)
         if record is not None:
             kept.append(record)
@@ -180,7 +189,7 @@ def main():
         for raw in rows:
             if not isinstance(raw, dict) or not raw.get("id"):
                 continue
-            if raw["id"] in ids or raw["id"] in archived_ids:
+            if raw["id"] in ids or raw["id"] in archived_ids or raw["id"] in DUPLICATES:
                 continue
             record, why = normalise(raw, path)
             if record is None:

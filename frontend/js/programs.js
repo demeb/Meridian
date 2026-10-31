@@ -319,7 +319,7 @@
       return d === null || d >= 0;
     }).sort(rank);
     var home = homeCountry();
-    if (hlScope !== 'local' || !home) return open.slice(0, 10);
+    if (hlScope !== 'local' || !home) return varied(open);
     // the best ten in the student's own country first, then its neighbours, then its region
     var near = nearSet(home);
     var local = open.filter(function (p) { return p.iso === home; });
@@ -335,7 +335,23 @@
         }));
       }
     }
-    return (local.length ? local : open).slice(0, 10);
+    return local.length >= 10 ? local.slice(0, 10) : local.concat(varied(open.filter(function (p) {
+      return local.indexOf(p) === -1;
+    }))).slice(0, 10);
+  }
+
+  // a mixed top ten: at most two of one kind (e.g. FLEX in 30 countries) or one country
+  function varied(list) {
+    var byKind = {}, byCountry = {}, out = [];
+    list.forEach(function (p) {
+      if (out.length >= 10) return;
+      var kind = p.family === 'scholarship' ? p.org : p.family;
+      if ((byKind[kind] || 0) >= 2 || (byCountry[p.iso] || 0) >= 2) return;
+      byKind[kind] = (byKind[kind] || 0) + 1;
+      byCountry[p.iso] = (byCountry[p.iso] || 0) + 1;
+      out.push(p);
+    });
+    return out;
   }
 
   function homeName(iso) {

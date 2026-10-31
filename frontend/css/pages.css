@@ -1856,3 +1856,4 @@ label.field > span { font-size: 0.82rem; font-weight: 600; color: var(--text-mut
 .prep-facts details.is-short summary { cursor: default; }
 .prep-n { display: inline-grid; place-items: center; min-width: 1.4rem; height: 1.2rem; margin-inline-start: .3rem; padding: 0 .35rem; border-radius: 999px; background: var(--surface-3, var(--surface-2)); font-size: .66rem; letter-spacing: 0; color: var(--text-muted); }
 .prep-res small { display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.prep-exams button { max-width: 260px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }

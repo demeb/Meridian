@@ -31,8 +31,8 @@
         return '<button type="button" data-group="' + g + '" aria-selected="' + (g === group) + '">' + M.t('prep.group.' + g) + '</button>';
       }).join('') + '</div>' +
       '<div class="prep-exams">' + exams.filter(function (e) { return groupOf(e) === group; }).map(function (e) {
-        return '<button type="button" role="tab" data-exam="' + M.esc(e.id) + '" aria-selected="' + (current && current.id === e.id) + '">' +
-          M.esc(String(e.name).split(' / ')[0]) + '</button>';
+        return '<button type="button" role="tab" title="' + M.esc(e.name) + '" data-exam="' + M.esc(e.id) + '" aria-selected="' + (current && current.id === e.id) + '">' +
+          M.esc(String(e.name).split(' / ')[0].replace(/\s*\(.*\)\s*$/, '')) + '</button>';
       }).join('') + '</div>';
     host.querySelectorAll('[data-exam]').forEach(function (b) {
       b.addEventListener('click', function () { show(b.getAttribute('data-exam'), true); });

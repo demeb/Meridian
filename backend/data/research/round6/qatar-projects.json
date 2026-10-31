@@ -4690,5 +4690,1701 @@
    "medicine-health"
   ],
   "verified_at": "2026-10-31"
+ },
+ {
+  "id": "qu-ysc-stem-workshops",
+  "section": "project",
+  "family": "training",
+  "type": "fee-based STEM courses for school students",
+  "org": "Qatar University Young Scientists Center (QUYSC)",
+  "name": {
+   "en": "QU Young Scientists Center STEM courses (Arduino, electronics, Little Scientist)",
+   "ka": "QU Young Scientists Center-ის STEM კურსები (Arduino, ელექტრონიკა, Little Scientist)",
+   "ar": "دورات STEM في مركز العلماء الشباب بجامعة قطر (Arduino، الإلكترونيات، العالِم الصغير)"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.375,
+  "lon": 51.49,
+  "cost": "paid",
+  "duration": {
+   "en": "Short courses, mainly in summer",
+   "ka": "მოკლე კურსები, ძირითადად ზაფხულში",
+   "ar": "دورات قصيرة، غالبًا في الصيف"
+  },
+  "grades": "4-12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Offered periodically, mostly in summer; contact QUYSC for the next dates.",
+  "event_dates": null,
+  "summary": {
+   "en": "Short project-based courses from Qatar University's Young Scientists Center for school students, including Arduino and sensors for grades 7-9, basic and digital electronics, \"Think Like Newton\" and \"The Little Scientist\". Participants who finish receive a QU certificate.",
+   "ka": "მოკლე პროექტზე დაფუძნებული კურსები Qatar University-ის Young Scientists Center-ისგან მოსწავლეებისთვის: Arduino და სენსორები მე-7-9 კლასებისთვის, ელექტრონიკა, \"Think Like Newton\" და \"The Little Scientist\". დასრულებისას QU-ის სერტიფიკატი გაიცემა.",
+   "ar": "دورات قصيرة قائمة على المشاريع من مركز العلماء الشباب بجامعة قطر لطلاب المدارس، منها Arduino والمستشعرات للصفوف 7-9، والإلكترونيات الأساسية والرقمية، و\"فكّر مثل نيوتن\" و\"العالِم الصغير\"، مع شهادة من الجامعة عند الإتمام."
+  },
+  "about": {
+   "en": "The Qatar University Young Scientists Center (QUYSC) runs fee-based STEM courses alongside its free research programmes. The Arduino course (grades 7-9) teaches circuits, ultrasonic sensors, servo motors and temperature/humidity sensors through projects such as an Arduino traffic-light system; other courses cover basic electronic components and circuits, digital electronics and logic gates, 'Think Like Newton' and 'The Little Scientist' for younger pupils. Some courses are delivered online.\n\nCourses are taught by QUYSC researchers, scientists and engineers; students who complete a course receive a certificate from the centre. Fees are around QAR 300 per student; registration is by email to the course tutor listed on the workshops page."
+  },
+  "highlights": {
+   "en": [
+    "Hands-on electronics and Arduino projects",
+    "Certificate from Qatar University",
+    "Courses for grades 4-12"
+   ]
+  },
+  "eligibility": {
+   "en": "School students in Qatar; each course lists its grade range (e.g., Arduino for grades 7-9)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the QUYSC fee-based workshops page",
+    "Choose a course for your grade",
+    "Register by emailing or calling the listed tutor",
+    "Pay the course fee"
+   ]
+  },
+  "costs": {
+   "en": "About QAR 300 per student per course."
+  },
+  "keywords": [
+   "arduino",
+   "electronics",
+   "stem",
+   "coding",
+   "qatar university",
+   "summer course",
+   "kids"
+  ],
+  "url": "https://www.qu.edu.qa/en-us/Research/ysc/fee-based-workshops/Pages/default.aspx",
+  "apply_url": "https://www.qu.edu.qa/en-us/Research/ysc/fee-based-workshops/Pages/default.aspx",
+  "sources": [
+   "https://www.qu.edu.qa/en-us/Research/ysc/fee-based-workshops/Pages/default.aspx",
+   "https://www.qu.edu.qa/en-us/Research/ysc/fee-based-workshops/Pages/arduino.aspx",
+   "https://www.qu.edu.qa/en-us/Research/ysc/Pages/workshops.aspx"
+  ],
+  "score": 4,
+  "score_reason": "Affordable university-run STEM courses; schedule not fixed.",
+  "premium": false,
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "qu-i-am-a-researcher",
+  "section": "project",
+  "family": "stem",
+  "type": "high school research track",
+  "org": "Qatar University Young Scientists Center (QUYSC)",
+  "name": {
+   "en": "QU \"I am a Researcher\" research track for high school students",
+   "ka": "QU-ის „მე ვარ მკვლევარი“ კვლევითი ტრეკი მოსწავლეებისთვის",
+   "ar": "مسار \"أنا باحث\" في جامعة قطر لطلاب الثانوية"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.375,
+  "lon": 51.49,
+  "cost": "free",
+  "duration": {
+   "en": "2-3 months, 2-4 hours a week",
+   "ka": "2-3 თვე, კვირაში 2-4 საათი",
+   "ar": "2-3 أشهر، 2-4 ساعات أسبوعيًا"
+  },
+  "grades": "10-12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Cycle-based by nomination; no public deadline.",
+  "event_dates": null,
+  "summary": {
+   "en": "A 2-3 month Qatar University track in which nominated Qatari high school students do real research in QU labs and departments under expert mentors. Past participants reached international fairs such as ISEF.",
+   "ka": "2-3 თვიანი Qatar University-ის ტრეკი, რომლის ფარგლებშიც წარდგენილი კატარელი მოსწავლეები QU-ის ლაბორატორიებში რეალურ კვლევას ატარებენ ექსპერტ-მენტორებთან ერთად. ყოფილი მონაწილეები ISEF-ის მსგავს საერთაშორისო გამოფენებზეც მოხვდნენ.",
+   "ar": "مسار في جامعة قطر لمدة 2-3 أشهر يجري فيه طلاب الثانوية القطريون المرشحون أبحاثًا حقيقية في مختبرات الجامعة بإشراف خبراء، وقد وصل مشاركون سابقون إلى معارض دولية مثل ISEF."
+  },
+  "about": {
+   "en": "'I am a Researcher' (IR) gives pre-university students in Qatar advanced research experience in real labs at Qatar University's research institutions and departments. Nominated students work with professors and researchers, learn research methodology and manage hands-on projects; a recent online edition focused on game and mobile-app development using Java, C++, Python and Unity.\n\nThe track runs 2-3 months at 2-4 hours a week for grades 10-12, with 1-2 students per project. Participants receive certificates and volunteering letters, present at a final ceremony and can enter national and international competitions; the programme helped Qatar win its first ISEF award in 2019."
+  },
+  "highlights": {
+   "en": [
+    "Research in Qatar University labs",
+    "Pathway to ISEF and other competitions",
+    "Certificate and volunteering letter"
+   ]
+  },
+  "eligibility": {
+   "en": "Qatari high school students in grades 10-12, nominated through schools or QUYSC."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask your school science coordinator about nomination",
+    "Or contact the QU Young Scientists Center",
+    "Work with your mentor 2-4 hours a week and present at the final ceremony"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "research",
+   "high school",
+   "isef",
+   "science fair",
+   "qatar university",
+   "lab",
+   "coding"
+  ],
+  "url": "https://www.qu.edu.qa/en-us/Research/ysc/bridge-program/Pages/am-a-researcher.aspx",
+  "apply_url": "https://www.qu.edu.qa/en-us/Research/ysc/bridge-program/Pages/am-a-researcher.aspx",
+  "sources": [
+   "https://www.qu.edu.qa/en-us/Research/ysc/bridge-program/Pages/am-a-researcher.aspx"
+  ],
+  "score": 5,
+  "score_reason": "Strong research track toward ISEF; Qatari nationals by nomination.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "olympiad"
+  ]
+ },
+ {
+  "id": "qrdi-urep-undergraduate-research-experience",
+  "section": "project",
+  "family": "stem",
+  "type": "undergraduate research grant and competition",
+  "org": "Qatar Research, Development and Innovation (QRDI) Council",
+  "name": {
+   "en": "Undergraduate Research Experience Program (UREP), QRDI Council",
+   "ka": "Undergraduate Research Experience Program (UREP), QRDI Council",
+   "ar": "برنامج الخبرة البحثية للطلاب الجامعيين (UREP)، مجلس قطر للبحوث والتطوير والابتكار"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.286,
+  "lon": 51.533,
+  "cost": "funded",
+  "duration": {
+   "en": "Project of about a year; annual competition each November",
+   "ka": "დაახლოებით ერთწლიანი პროექტი; ყოველწლიური კონკურსი ნოემბერში",
+   "ar": "مشروع لمدة عام تقريبًا؛ ومسابقة سنوية كل نوفمبر"
+  },
+  "grades": "university",
+  "opens": "2026-11-15",
+  "deadline": null,
+  "deadline_note": "Annual. Recent call windows ran mid-November to mid-January; next call not yet posted.",
+  "event_dates": null,
+  "summary": {
+   "en": "Qatar's national programme that funds undergraduate research projects at universities in Qatar and ends with an annual UREP competition for the best oral and poster presentations. More than 5,800 students have taken part since 2006.",
+   "ka": "კატარის ეროვნული პროგრამა, რომელიც აფინანსებს ბაკალავრიატის სტუდენტების კვლევით პროექტებს კატარის უნივერსიტეტებში და სრულდება ყოველწლიური UREP კონკურსით საუკეთესო პრეზენტაციებისთვის. 2006 წლიდან 5,800-ზე მეტმა სტუდენტმა მიიღო მონაწილეობა.",
+   "ar": "البرنامج الوطني في قطر الذي يموّل مشاريع بحثية لطلاب البكالوريوس في جامعات قطر، ويختتم بمسابقة UREP السنوية لأفضل العروض الشفوية والملصقات. وقد شارك فيه أكثر من 5,800 طالب منذ 2006."
+  },
+  "about": {
+   "en": "UREP, now run by the QRDI Council (formerly QNRF), lets teams of undergraduate students work on research projects with faculty mentors at universities in Qatar, including Qatar University, UDST, Weill Cornell Medicine-Qatar, Texas A&M Qatar, Carnegie Mellon Qatar and Georgetown Qatar. Funded teams later present their results at the UREP competition; the 17th competition (November 2025) featured projects from a rehabilitation robot to drone systems for solar panels, judged on scientific merit, outcomes, learning and presentation, alongside the BRIO image award.\n\nProposals are submitted by faculty with their student teams; recent calls opened in mid-November and closed in mid-January. Students interested should approach a faculty member at their university about joining a UREP proposal."
+  },
+  "highlights": {
+   "en": [
+    "Funded research as an undergraduate",
+    "National competition with oral and poster awards",
+    "Open to students at universities across Qatar"
+   ]
+  },
+  "eligibility": {
+   "en": "Full-time undergraduate students at universities in Qatar, applying with a faculty mentor."
+  },
+  "how_to_apply": {
+   "en": [
+    "Talk to a faculty member about a UREP project",
+    "Prepare the proposal together with your team",
+    "Submit through the QRDI submission system during the call",
+    "Present results at the UREP competition"
+   ]
+  },
+  "costs": {
+   "en": "Funded by QRDI Council; free for students."
+  },
+  "keywords": [
+   "undergraduate research",
+   "grant",
+   "qnrf",
+   "qrdi",
+   "competition",
+   "poster",
+   "university"
+  ],
+  "url": "https://qrdi.org.qa/en-us/News-Detail?Id=186",
+  "apply_url": "https://qrdi.org.qa/en-us/News-Detail?Id=186",
+  "sources": [
+   "https://qrdi.org.qa/en-us/News-Detail?Id=186"
+  ],
+  "score": 6,
+  "score_reason": "Real research funding for undergraduates in Qatar; faculty-led applications.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "medicine-health",
+   "computer-science",
+   "social-sciences"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "qcdc-career-camps",
+  "section": "project",
+  "family": "summer",
+  "type": "career exploration camp",
+  "org": "Qatar Career Development Center (QCDC), Qatar Foundation",
+  "name": {
+   "en": "QCDC Career Camps (summer and winter)",
+   "ka": "QCDC-ის კარიერული ბანაკები (ზაფხული და ზამთარი)",
+   "ar": "المعسكرات المهنية من QCDC (صيفية وشتوية)"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.317,
+  "lon": 51.437,
+  "cost": "paid",
+  "duration": {
+   "en": "Several days in school holidays (summer and winter)",
+   "ka": "რამდენიმე დღე სკოლის არდადეგებზე (ზაფხული და ზამთარი)",
+   "ar": "عدة أيام في العطلات المدرسية (الصيف والشتاء)"
+  },
+  "grades": "9-12",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Recurring in school holidays; next dates announced on the QCDC calendar.",
+  "event_dates": null,
+  "summary": {
+   "en": "Summer and winter camps for high school students in Qatar that combine career workshops, site visits and job shadowing at leading organisations with sports and recreation. Each camp ends with a session introducing Qatar's universities.",
+   "ka": "ზაფხულისა და ზამთრის ბანაკები კატარის მოსწავლეებისთვის, რომლებიც აერთიანებს კარიერულ ვორქშოპებს, წამყვან ორგანიზაციებში ვიზიტებსა და სამუშაოზე დაკვირვებას სპორტთან და დასვენებასთან ერთად. თითოეული ბანაკი კატარის უნივერსიტეტების გაცნობით სრულდება.",
+   "ar": "معسكرات صيفية وشتوية لطلاب الثانوية في قطر تجمع بين ورش العمل المهنية والزيارات الميدانية والتظليل الوظيفي في مؤسسات رائدة، مع أنشطة رياضية وترفيهية، وتختتم بجلسة تعريفية بجامعات قطر."
+  },
+  "about": {
+   "en": "QCDC, founded by Qatar Foundation, organises summer and winter Career Camps to help high school students make informed academic and career decisions. Camps mix career-planning workshops, site visits and job-shadowing at leading organisations in Qatar, and recreational, sports and educational activities that build confidence, communication and teamwork.\n\nThe final day of each camp introduces universities in Qatar, with representatives explaining their programmes and admission requirements. Camps are open to boys and girls, with separate groups. Dates are announced on QCDC's event calendar before each school holiday."
+  },
+  "highlights": {
+   "en": [
+    "Site visits and job shadowing",
+    "University information day included",
+    "Separate groups for boys and girls"
+   ]
+  },
+  "eligibility": {
+   "en": "High school students in Qatar."
+  },
+  "how_to_apply": {
+   "en": [
+    "Watch the QCDC event calendar before the summer and winter holidays",
+    "Register through the camp announcement",
+    "Attend all camp days"
+   ]
+  },
+  "costs": {
+   "en": "Check each camp announcement for fees."
+  },
+  "keywords": [
+   "career camp",
+   "summer camp",
+   "winter camp",
+   "job shadowing",
+   "university",
+   "qatar foundation"
+  ],
+  "url": "https://qcdc.org.qa/discover/programes-and-initiatives/",
+  "apply_url": "https://qcdc.org.qa/event-calendar/",
+  "sources": [
+   "https://qcdc.org.qa/discover/programes-and-initiatives/",
+   "https://qcdc.org.qa/event-calendar/"
+  ],
+  "score": 5,
+  "score_reason": "Useful career camp; dates announced only shortly before.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "qcdc-career-development-workshop-series",
+  "section": "project",
+  "family": "training",
+  "type": "career skills workshops",
+  "org": "Qatar Career Development Center (QCDC), Qatar Foundation",
+  "name": {
+   "en": "QCDC Career Development Workshop Series",
+   "ka": "QCDC-ის კარიერული განვითარების ვორქშოპების სერია",
+   "ar": "سلسلة ورش التطوير المهني من QCDC"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.317,
+  "lon": 51.437,
+  "cost": "free",
+  "duration": {
+   "en": "Short workshops through the year",
+   "ka": "მოკლე ვორქშოპები მთელი წლის განმავლობაში",
+   "ar": "ورش قصيرة على مدار العام"
+  },
+  "grades": "10-12 / university",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling.",
+  "event_dates": null,
+  "summary": {
+   "en": "A series of career-management workshops from Qatar Foundation's career centre covering career exploration, digital career tools and career planning. Open to students and young people in Qatar.",
+   "ka": "კარიერის მართვის ვორქშოპების სერია Qatar Foundation-ის კარიერული ცენტრისგან: კარიერის კვლევა, ციფრული კარიერული ინსტრუმენტები და დაგეგმვა. ღიაა კატარის მოსწავლეებისა და ახალგაზრდებისთვის.",
+   "ar": "سلسلة ورش في إدارة المسار المهني من مركز قطر للتطوير المهني التابع لـ Qatar Foundation، تغطي استكشاف المهن والأدوات الرقمية والتخطيط المهني، ومفتوحة للطلاب والشباب في قطر."
+  },
+  "about": {
+   "en": "The Career Development Workshop Series is a QCDC initiative that helps participants acquire the knowledge, skills and attitudes needed to manage their careers over the long term. Workshops focus on career exploration, IT-based career development skills and career planning at different stages, and complement QCDC's counselling (Al-Dileela), job-shadowing (My Career – My Future) and Career Village programmes.\n\nWorkshops are announced on QCDC's event calendar and social media; many are delivered in Arabic."
+  },
+  "highlights": {
+   "en": [
+    "Practical career-planning skills",
+    "Run by Qatar Foundation's national career centre",
+    "Complements job shadowing and counselling"
+   ]
+  },
+  "eligibility": {
+   "en": "Students and young people in Qatar."
+  },
+  "how_to_apply": {
+   "en": [
+    "Follow the QCDC event calendar",
+    "Register for the workshop you want",
+    "Attend in person or online as announced"
+   ]
+  },
+  "costs": {
+   "en": "Mostly free."
+  },
+  "keywords": [
+   "career",
+   "workshop",
+   "career planning",
+   "qatar foundation",
+   "skills"
+  ],
+  "url": "https://qcdc.org.qa/discover/programes-and-initiatives/",
+  "apply_url": "https://qcdc.org.qa/event-calendar/",
+  "sources": [
+   "https://qcdc.org.qa/discover/programes-and-initiatives/"
+  ],
+  "score": 4,
+  "score_reason": "Free career workshops; irregular schedule.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "qatar-national-volunteering-platform",
+  "section": "project",
+  "family": "volunteering",
+  "type": "national volunteering portal",
+  "org": "Ministry of Social Development and Family, Qatar",
+  "name": {
+   "en": "Tatawwa: Qatar National Volunteering Platform",
+   "ka": "Tatawwa — კატარის ეროვნული მოხალისეობის პლატფორმა",
+   "ar": "منصة \"تطوّع\" الوطنية للعمل التطوعي في قطر"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.286,
+  "lon": 51.533,
+  "cost": "free",
+  "duration": {
+   "en": "Ongoing",
+   "ka": "მუდმივი",
+   "ar": "مستمر"
+  },
+  "grades": "16+",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling.",
+  "event_dates": null,
+  "summary": {
+   "en": "Qatar's official national platform for volunteering, where residents can create a profile, find volunteering opportunities across organisations and log their volunteer hours. It is run by the Ministry of Social Development and Family.",
+   "ka": "კატარის ოფიციალური ეროვნული მოხალისეობის პლატფორმა, სადაც მაცხოვრებლებს შეუძლიათ პროფილის შექმნა, სხვადასხვა ორგანიზაციის მოხალისეობრივი შესაძლებლობების მოძებნა და საათების აღრიცხვა. მას სოციალური განვითარებისა და ოჯახის სამინისტრო მართავს.",
+   "ar": "المنصة الوطنية الرسمية للتطوع في قطر، حيث يمكن للمقيمين إنشاء ملف شخصي والعثور على فرص تطوعية لدى مختلف الجهات وتوثيق ساعات تطوعهم. وتديرها وزارة التنمية الاجتماعية والأسرة."
+  },
+  "about": {
+   "en": "Tatawwa ('volunteer') is the National Volunteering Platform of Qatar, operated by the Ministry of Social Development and Family (MSDF). It brings volunteering opportunities from different organisations into one place so that residents can register, browse and apply for opportunities and keep a record of their volunteering.\n\nFor students it is the simplest official way to find recognised volunteering in Qatar; age and residency requirements are set on the portal and by each opportunity (many require participants to be 18+)."
+  },
+  "highlights": {
+   "en": [
+    "Official government volunteering portal",
+    "Opportunities from many organisations",
+    "Record of volunteer hours"
+   ]
+  },
+  "eligibility": {
+   "en": "Residents of Qatar; check age limits on the portal (many opportunities 18+)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open volunteer.gov.qa",
+    "Create an account with your Qatari ID",
+    "Browse and apply for opportunities"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "volunteering",
+   "volunteer hours",
+   "community service",
+   "qatar",
+   "government"
+  ],
+  "url": "https://volunteer.gov.qa/",
+  "apply_url": "https://volunteer.gov.qa/",
+  "sources": [
+   "https://volunteer.gov.qa/"
+  ],
+  "score": 5,
+  "score_reason": "Official one-stop volunteering portal; eligibility set per opportunity.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "m7-maker-space-and-masterclasses",
+  "section": "project",
+  "family": "training",
+  "type": "design maker space and masterclasses",
+  "org": "M7 (Qatar Museums)",
+  "name": {
+   "en": "M7 Maker Space and Masterclass Series",
+   "ka": "M7-ის Maker Space და მასტერკლასების სერია",
+   "ar": "مساحة الصانعين وسلسلة الدروس المتقدمة في M7"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.287,
+  "lon": 51.526,
+  "cost": "free",
+  "duration": {
+   "en": "Daily bookings; masterclasses over a few days",
+   "ka": "ყოველდღიური ჯავშანი; მასტერკლასები რამდენიმე დღე",
+   "ar": "حجز يومي؛ ودروس متقدمة على مدى أيام"
+  },
+  "grades": "16+",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling bookings; masterclasses announced on the M7 calendar.",
+  "event_dates": null,
+  "summary": {
+   "en": "M7, Qatar Museums' hub for fashion and design in Msheireb, offers a bookable Maker Space with sewing, silkscreen and plastic-recycling machines and periodic masterclasses led by industry experts. Open to designers and creatives, including students.",
+   "ka": "M7 — Qatar Museums-ის მოდისა და დიზაინის ცენტრი მუშეირებში — სთავაზობს დაჯავშნად Maker Space-ს საკერავი, აბრეშუმის ბეჭდვისა და პლასტმასის გადამუშავების დანადგარებით და ინდუსტრიის ექსპერტების მასტერკლასებს.",
+   "ar": "يقدم M7، مركز الأزياء والتصميم التابع لمتاحف قطر في مشيرب، مساحة صانعين قابلة للحجز بآلات خياطة وطباعة حريرية وإعادة تدوير البلاستيك، ودروسًا متقدمة دورية يقدمها خبراء الصناعة، ومفتوحة للمصممين والمبدعين بمن فيهم الطلاب."
+  },
+  "about": {
+   "en": "M7 is Qatar Museums' creative hub in Msheireb Downtown Doha for fashion, design and technology. Its Maker Space, part of the Learning Space, gives designers and creatives access to industrial and home sewing machines, overlockers, mannequins, embroidery and beading tools, a silkscreen set-up and Plasticpreneur plastic grinder, injection-moulding and extruder machines. It can be booked daily or taken over for a period through a proposal.\n\nThe M7 Masterclass Series offers multi-day, skill-based programmes led by globally recognised industry figures (for example jewellery design with The Design Studio by Azza Fahmy). Upcoming masterclasses are posted on M7's calendar."
+  },
+  "highlights": {
+   "en": [
+    "Free-to-book maker equipment for creative projects",
+    "Masterclasses with leading designers",
+    "In the heart of Msheireb, Doha"
+   ]
+  },
+  "eligibility": {
+   "en": "Designers and creatives in Qatar, including art and design students."
+  },
+  "how_to_apply": {
+   "en": [
+    "Email tlsm7@m7.org.qa to book the Maker Space or propose a takeover",
+    "Check the M7 calendar for masterclasses",
+    "Register for the masterclass you want"
+   ]
+  },
+  "costs": {
+   "en": "Maker Space booking on request; masterclass fees vary."
+  },
+  "keywords": [
+   "fashion",
+   "design",
+   "maker space",
+   "sewing",
+   "recycling",
+   "masterclass",
+   "qatar museums",
+   "m7"
+  ],
+  "url": "https://m7.org.qa/en/industry-programmes/maker-space/",
+  "apply_url": "mailto:tlsm7@m7.org.qa",
+  "sources": [
+   "https://m7.org.qa/en/industry-programmes/",
+   "https://m7.org.qa/en/industry-programmes/maker-space/",
+   "https://m7.org.qa/en/industry-programmes/masterclass/"
+  ],
+  "score": 4,
+  "score_reason": "Great resource for young designers; not a structured programme.",
+  "premium": false,
+  "fields": [
+   "arts-design"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "tasmu-accelerator-2027",
+  "section": "project",
+  "family": "startup",
+  "type": "government tech accelerator",
+  "org": "Ministry of Communications and Information Technology (MCIT), Qatar – TASMU Smart Qatar",
+  "name": {
+   "en": "TASMU Accelerator (next cohort, 2027)",
+   "ka": "TASMU Accelerator (შემდეგი ნაკადი, 2027)",
+   "ar": "مسرّع تسمو TASMU Accelerator (الدفعة القادمة 2027)"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.286,
+  "lon": 51.533,
+  "cost": "free",
+  "duration": {
+   "en": "About 9 months (registration Mar-May, acceleration Jul-Dec)",
+   "ka": "დაახლოებით 9 თვე (რეგისტრაცია მარტი-მაისი, აქსელერაცია ივლისი-დეკემბერი)",
+   "ar": "نحو 9 أشهر (التسجيل مارس-مايو، والتسريع يوليو-ديسمبر)"
+  },
+  "grades": "18+ / founders",
+  "opens": "2027-03-01",
+  "deadline": null,
+  "deadline_note": "Annual; 2026 registration ran Mar-May 2026. Next cohort expected to open around March 2027.",
+  "event_dates": null,
+  "summary": {
+   "en": "Qatar's government accelerator for tech startups building smart-city solutions in transport and logistics, healthcare, environment and smart cities. Registration usually opens March-May, followed by pre-acceleration and a six-month acceleration phase.",
+   "ka": "კატარის სახელმწიფო აქსელერატორი ტექნოლოგიური სტარტაპებისთვის, რომლებიც ქმნიან ჭკვიანი ქალაქის გადაწყვეტებს ტრანსპორტში, ჯანდაცვაში, გარემოსა და ქალაქებში. რეგისტრაცია ჩვეულებრივ მარტი-მაისშია, შემდეგ წინასააქსელერაციო და ექვსთვიანი აქსელერაციის ეტაპები.",
+   "ar": "المسرّع الحكومي في قطر للشركات التقنية الناشئة التي تطور حلول المدن الذكية في النقل والخدمات اللوجستية والرعاية الصحية والبيئة. يُفتح التسجيل عادة في مارس-مايو، ثم مرحلة ما قبل التسريع ومرحلة تسريع لمدة ستة أشهر."
+  },
+  "about": {
+   "en": "The TASMU Accelerator was launched by MCIT as part of the TASMU Smart Qatar programme to help tech startups bring their solutions to the Qatari market. The 2026 (fourth) cohort focused on transportation and logistics, healthcare, environment and smart cities, with registration from March to May 2026, screening in June, pre-acceleration in June-July and acceleration from July to December, followed by a support programme.\n\nStartups receive mentoring, partner access and help to pilot and scale in Qatar. The next cohort is expected to follow the same yearly timeline; interested founders can register to stay in touch through the accelerator's F6S page."
+  },
+  "highlights": {
+   "en": [
+    "Government-backed route into the Qatari market",
+    "Mentors and corporate partners",
+    "Focus on smart-city sectors"
+   ]
+  },
+  "eligibility": {
+   "en": "Tech startups (local and international) with solutions for Qatar's smart-city priorities. University founders with a working product can apply."
+  },
+  "how_to_apply": {
+   "en": [
+    "Register interest on the accelerator's F6S page",
+    "Apply when registration opens (around March 2027)",
+    "Pass screening and join pre-acceleration"
+   ]
+  },
+  "costs": {
+   "en": "Free to apply."
+  },
+  "keywords": [
+   "accelerator",
+   "startup",
+   "smart city",
+   "government",
+   "tech",
+   "mcit",
+   "tasmu"
+  ],
+  "url": "https://accelerator.tasmu.gov.qa/",
+  "apply_url": "https://www.f6s.com/tasmu-org/connect",
+  "sources": [
+   "https://accelerator.tasmu.gov.qa/"
+  ],
+  "score": 5,
+  "score_reason": "Serious government accelerator; for founders with a product, next call 2027.",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "engineering",
+   "business"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "qatar-fintech-hub-pre-acceleration",
+  "section": "project",
+  "family": "startup",
+  "type": "fintech pre-acceleration and acceleration",
+  "org": "Qatar FinTech Hub (QFTH), powered by Qatar Development Bank",
+  "name": {
+   "en": "Qatar FinTech Hub Pre-Acceleration and Acceleration programmes",
+   "ka": "Qatar FinTech Hub-ის წინასააქსელერაციო და აქსელერაციის პროგრამები",
+   "ar": "برنامجا ما قبل التسريع والتسريع في مركز قطر للتكنولوجيا المالية"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.286,
+  "lon": 51.533,
+  "cost": "free",
+  "duration": {
+   "en": "Several months per wave",
+   "ka": "რამდენიმე თვე თითო ტალღაზე",
+   "ar": "عدة أشهر لكل دفعة"
+  },
+  "grades": "18+ / founders",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Wave-based; next wave dates not published (7 waves so far).",
+  "event_dates": null,
+  "summary": {
+   "en": "Wave-based programmes from Qatar Development Bank's FinTech Hub that help early-stage fintechs validate their MVP, meet regulatory requirements and become investment-ready, then scale in Qatar. Open to local and international startups.",
+   "ka": "Qatar Development Bank-ის FinTech Hub-ის ტალღებად მიმდინარე პროგრამები, რომლებიც ადრეული ეტაპის ფინტექ სტარტაპებს ეხმარება MVP-ის ვალიდაციაში, რეგულაციებთან შესაბამისობასა და ინვესტიციისთვის მზადებაში. ღიაა ადგილობრივი და საერთაშორისო სტარტაპებისთვის.",
+   "ar": "برامج على شكل دفعات من مركز قطر للتكنولوجيا المالية التابع لبنك قطر للتنمية تساعد الشركات الناشئة في التكنولوجيا المالية على التحقق من منتجها الأولي والامتثال التنظيمي والاستعداد للاستثمار ثم التوسع في قطر. مفتوحة للشركات المحلية والدولية."
+  },
+  "about": {
+   "en": "Qatar FinTech Hub (QFTH), launched in 2020 and powered by Qatar Development Bank, supports fintech innovation under Qatar's National FinTech Strategy. Its Pre-Acceleration programme helps early-stage fintechs validate MVPs, align with regulatory frameworks and build investment readiness; the Acceleration programme supports go-to-market, regional expansion, localisation and regulatory licensing; a FinTech Development Grant is available to Qatar-based fintechs.\n\nSeven waves have graduated more than 100 local and international fintechs, with QAR 39.8M+ in programme funding. Startups with a fintech MVP, including student founders, can apply when the next wave opens."
+  },
+  "highlights": {
+   "en": [
+    "Regulatory pre-screening and licensing support",
+    "Funding and investor connections",
+    "Open to international startups"
+   ]
+  },
+  "eligibility": {
+   "en": "Early-stage and growth fintech startups, local and international."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the programme details on fintech.qa",
+    "Apply when the next wave is announced",
+    "Prepare your MVP, team and business plan"
+   ]
+  },
+  "costs": {
+   "en": "Free to apply; programme support and funding for selected startups."
+  },
+  "keywords": [
+   "fintech",
+   "accelerator",
+   "startup",
+   "qdb",
+   "banking",
+   "investment",
+   "pre-acceleration"
+  ],
+  "url": "https://fintech.qa/en",
+  "apply_url": "https://fintech.qa/en",
+  "sources": [
+   "https://fintech.qa/en",
+   "https://jusour.qa/programs/entrepreneurs"
+  ],
+  "score": 5,
+  "score_reason": "Strong fintech pathway in Qatar; needs an existing MVP.",
+  "premium": false,
+  "fields": [
+   "business",
+   "computer-science",
+   "economics"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "jusour-sahem-student-part-time-jobs",
+  "section": "project",
+  "family": "training",
+  "type": "part-time work programme for university students",
+  "org": "Jusour (Qatar)",
+  "name": {
+   "en": "Sahem: part-time jobs for university students in Qatar (Jusour)",
+   "ka": "Sahem: ნახევარ განაკვეთზე სამუშაო კატარის სტუდენტებისთვის (Jusour)",
+   "ar": "برنامج \"ساهم\": وظائف بدوام جزئي لطلاب الجامعات في قطر (جسور)"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.286,
+  "lon": 51.533,
+  "cost": "free",
+  "duration": {
+   "en": "Flexible, short-term contracts",
+   "ka": "მოქნილი, მოკლევადიანი კონტრაქტები",
+   "ar": "عقود مرنة قصيرة الأجل"
+  },
+  "grades": "university / 17+",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling.",
+  "event_dates": null,
+  "summary": {
+   "en": "A national programme that matches university students in Qatar (17+) and people with disabilities with flexible part-time jobs at registered companies, with an experience certificate at the end. Contracts are approved by the Ministry of Labour.",
+   "ka": "ეროვნული პროგრამა, რომელიც კატარის უნივერსიტეტების სტუდენტებს (17+) და შშმ პირებს რეგისტრირებულ კომპანიებში მოქნილ ნახევარ განაკვეთზე სამუშაოებს უკავშირებს და ბოლოს გამოცდილების სერტიფიკატს აძლევს.",
+   "ar": "برنامج وطني يربط طلاب الجامعات في قطر (17 عامًا فأكثر) والأشخاص ذوي الإعاقة بوظائف مرنة بدوام جزئي لدى شركات مسجلة، مع شهادة خبرة في النهاية، وبعقود معتمدة من وزارة العمل."
+  },
+  "about": {
+   "en": "Sahem ('contribute') is run by Jusour to bring students into Qatar's labour market. University students enrolled at accredited institutions in Qatar can take part-time jobs with companies registered on the Sahem platform, under flexible training contracts approved by the Ministry of Labour. Participants receive an experience certificate when the job ends and a Sahem card with discounts, and the experience can lead to a full-time job later.\n\nTo be eligible you must be a current student at a university or higher-education institution in Qatar, aged 17 or over, with a valid Qatari ID. Employment of Qatari students and children of Qatari women counts towards companies' Qatarization quotas."
+  },
+  "highlights": {
+   "en": [
+    "Paid part-time work while studying",
+    "Ministry of Labour-approved contracts",
+    "Experience certificate and discount card"
+   ]
+  },
+  "eligibility": {
+   "en": "Current university students in Qatar aged 17+ with a valid Qatari ID; also people with disabilities."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the Sahem page on jusour.qa",
+    "Register on the Sahem platform as a university student",
+    "Apply to part-time roles posted by companies"
+   ]
+  },
+  "costs": {
+   "en": "Free; jobs are paid by employers."
+  },
+  "keywords": [
+   "part-time job",
+   "students",
+   "work experience",
+   "qatar",
+   "internship",
+   "paid"
+  ],
+  "url": "https://jusour.qa/programs/sahem-empowering-your-future",
+  "apply_url": "https://jusour.qa/programs/sahem-empowering-your-future",
+  "sources": [
+   "https://jusour.qa/programs/sahem-empowering-your-future"
+  ],
+  "score": 5,
+  "score_reason": "Paid work experience for students in Qatar; QID required.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "qlc-tomorrows-leaders-camp-2027",
+  "section": "project",
+  "family": "youth",
+  "type": "leadership summer camp",
+  "org": "Qatar Leadership Centre (QLC)",
+  "name": {
+   "en": "Tomorrow's Leaders Camp 2027 (Qatar Leadership Centre)",
+   "ka": "ხვალინდელი ლიდერების ბანაკი 2027 (Qatar Leadership Centre)",
+   "ar": "معسكر قيادات الغد 2027 (مركز قطر للقيادات)"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.286,
+  "lon": 51.533,
+  "cost": "free",
+  "duration": {
+   "en": "10 days in July (2026: 5-16 July)",
+   "ka": "10 დღე ივლისში (2026: 5-16 ივლისი)",
+   "ar": "10 أيام في يوليو (2026: 5-16 يوليو)"
+  },
+  "grades": "10-12",
+  "opens": "2027-03-01",
+  "deadline": null,
+  "deadline_note": "Annual summer camp; 2027 registration dates not yet published (QLC registration page shows TBC).",
+  "event_dates": null,
+  "summary": {
+   "en": "A 10-day summer leadership camp by the Qatar Leadership Centre for Qatari high school students in grades 10-12, built around community-service projects, teamwork, communication and problem-solving. Separate camps run for boys and girls in July.",
+   "ka": "10-დღიანი საზაფხულო ლიდერობის ბანაკი Qatar Leadership Centre-ისგან კატარელი მე-10-12 კლასის მოსწავლეებისთვის: სათემო პროექტები, გუნდური მუშაობა, კომუნიკაცია და პრობლემების გადაჭრა. ბიჭებისა და გოგონების ბანაკები ცალ-ცალკე იმართება ივლისში.",
+   "ar": "معسكر قيادي صيفي لمدة 10 أيام من مركز قطر للقيادات لطلاب الثانوية القطريين في الصفوف 10-12، يرتكز على مشاريع خدمة المجتمع والعمل الجماعي والتواصل وحل المشكلات، مع معسكرين منفصلين للبنين والبنات في يوليو."
+  },
+  "about": {
+   "en": "Tomorrow's Leaders Camp is part of QLC's Young Leaders Program. It is an educational camp focused on community service and personal development: through practical projects students make a tangible community impact while building teamwork, effective communication, problem-solving, resilience, self-confidence and leadership traits. The programme mixes interactive activities and workshops, in Arabic and English, on weekday mornings in Doha.\n\nThe 2026 edition ran 5-16 July with a 10-day boys' camp and a 10-day girls' camp. Applicants must be Qatari, under 20, in grades 10-12 with at least 85% in their first-semester results; documents include ID, passport, transcript, a personal essay and parental consent, and selected students pay a QAR 2,000 refundable-on-completion deposit. The 2027 camp is expected on the same summer pattern."
+  },
+  "highlights": {
+   "en": [
+    "Run by Qatar's national leadership centre",
+    "Community-impact projects",
+    "Bilingual Arabic/English programme"
+   ]
+  },
+  "eligibility": {
+   "en": "Qatari nationals in grades 10-12, under 20, with 85%+ first-semester average."
+  },
+  "how_to_apply": {
+   "en": [
+    "Register on the QLC portal when the 2027 call opens (spring)",
+    "Upload ID, passport, transcript, personal essay and parental consent",
+    "Pass the assessment stages",
+    "Submit a medical fitness certificate and the QAR 2,000 deposit if selected"
+   ]
+  },
+  "costs": {
+   "en": "Free programme; QAR 2,000 security deposit (non-refundable if you withdraw or are absent)."
+  },
+  "keywords": [
+   "leadership",
+   "summer camp",
+   "community service",
+   "qatari students",
+   "high school",
+   "qlc"
+  ],
+  "url": "https://www.qlc.qa/%d9%85%d8%b9%d8%b3%d9%83%d8%b1-%d9%82%d9%8a%d8%a7%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%ba%d8%af/",
+  "apply_url": "https://portal.qlc.org.qa/LMSClient/register",
+  "sources": [
+   "https://www.qlc.qa/%d9%85%d8%b9%d8%b3%d9%83%d8%b1-%d9%82%d9%8a%d8%a7%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%ba%d8%af/",
+   "https://www.qlc.qa/%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-2025/"
+  ],
+  "score": 6,
+  "score_reason": "Well-run national leadership camp; Qatari nationals only.",
+  "premium": false,
+  "fields": [
+   "any",
+   "social-sciences"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "essay",
+   "interview"
+  ]
+ },
+ {
+  "id": "qlc-international-fellowship-program-2027",
+  "section": "project",
+  "family": "youth",
+  "type": "international leadership fellowship",
+  "org": "Qatar Leadership Centre (QLC)",
+  "name": {
+   "en": "QLC International Fellowship Program (Young Leaders) 2027",
+   "ka": "QLC-ის საერთაშორისო სტიპენდიატის პროგრამა (ახალგაზრდა ლიდერები) 2027",
+   "ar": "برنامج الزمالة الدولي من مركز قطر للقيادات (القيادات اليافعة) 2027"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.286,
+  "lon": 51.533,
+  "cost": "fully-funded",
+  "duration": {
+   "en": "Up to 7 weeks in summer (USA) plus 2 preparatory modules in Doha",
+   "ka": "7 კვირამდე ზაფხულში (აშშ) + 2 მოსამზადებელი მოდული დოჰაში",
+   "ar": "حتى 7 أسابيع صيفًا (الولايات المتحدة) ووحدتان تحضيريتان في الدوحة"
+  },
+  "grades": "10-12 / university",
+  "opens": "2026-12-01",
+  "deadline": null,
+  "deadline_note": "Annual; 2025 deadline was 23 Jan 2025. Next call expected winter 2026-27 with a January deadline (not yet posted).",
+  "event_dates": null,
+  "summary": {
+   "en": "A Qatar Leadership Centre fellowship that sends outstanding Qatari students on a summer leadership and diplomacy programme of up to seven weeks in the United States, after two preparatory modules in Doha. Applications have closed in January.",
+   "ka": "Qatar Leadership Centre-ის სტიპენდია, რომელიც გამორჩეულ კატარელ სტუდენტებს აგზავნის შვიდ კვირამდე ხანგრძლივობის საზაფხულო ლიდერობისა და დიპლომატიის პროგრამაზე აშშ-ში, დოჰაში ორი მოსამზადებელი მოდულის შემდეგ. განაცხადები იანვარში იხურება.",
+   "ar": "زمالة من مركز قطر للقيادات ترسل الطلاب القطريين المتميزين إلى برنامج صيفي في القيادة والدبلوماسية لمدة تصل إلى سبعة أسابيع في الولايات المتحدة، بعد وحدتين تحضيريتين في الدوحة. ويُغلق التقديم في يناير."
+  },
+  "about": {
+   "en": "The International Fellowship Program is one of QLC's Young Leaders programmes. It develops international leadership, diplomatic and academic skills: fellows interact with global leaders, diplomats and experts, build professional networks and deepen their understanding of global citizenship and international governance during a summer programme in the United States of up to seven weeks, preceded by two preparatory modules in Doha.\n\nThe 2025 call (deadline 23 January 2025) targeted outstanding Qatari students, with eligibility listed as Qatari nationality, under 20 and in secondary school grades 10-12 with at least 85%, while the programme description refers to third- and fourth-year university students. Check the current call for the exact level. A new cycle is expected each winter with a January deadline."
+  },
+  "highlights": {
+   "en": [
+    "Summer leadership programme in the USA",
+    "Meet diplomats and global leaders",
+    "Preparatory modules in Doha"
+   ]
+  },
+  "eligibility": {
+   "en": "Qatari nationals; check the current call for level (secondary grades 10-12 under 20 with 85%+, or 3rd/4th-year university students)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Watch the QLC Young Leaders pages from November",
+    "Register on the QLC portal",
+    "Upload ID, passport, transcript and a personal essay with parental consent",
+    "Complete assessments and interviews"
+   ]
+  },
+  "costs": {
+   "en": "Programme costs covered by QLC; a QAR 2,000 deposit applies to selected participants."
+  },
+  "keywords": [
+   "fellowship",
+   "leadership",
+   "diplomacy",
+   "usa",
+   "qatari students",
+   "summer",
+   "qlc"
+  ],
+  "url": "https://www.qlc.qa/%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-2025/",
+  "apply_url": "https://portal.qlc.org.qa/LMSClient/register",
+  "sources": [
+   "https://www.qlc.qa/%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-2025/"
+  ],
+  "score": 6,
+  "score_reason": "Funded US leadership summer for Qataris; next call not yet published.",
+  "premium": false,
+  "fields": [
+   "international-relations",
+   "social-sciences"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "essay",
+   "interview"
+  ]
+ },
+ {
+  "id": "qdb-lean-startup-program",
+  "section": "project",
+  "family": "startup",
+  "type": "startup incubation programme",
+  "org": "Qatar Development Bank – Qatar Business Incubation Center (QBIC)",
+  "name": {
+   "en": "QDB Lean Startup Program (Qatar Business Incubation Center)",
+   "ka": "QDB Lean Startup Program (Qatar Business Incubation Center)",
+   "ar": "برنامج \"لين ستارت أب\" من بنك قطر للتنمية (مركز قطر لحاضنات الأعمال)"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.286,
+  "lon": 51.533,
+  "cost": "free",
+  "duration": {
+   "en": "About 1 year",
+   "ka": "დაახლოებით 1 წელი",
+   "ar": "نحو عام واحد"
+  },
+  "grades": "18+ / founders",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Intakes announced through QDB; no fixed public deadline.",
+  "event_dates": null,
+  "summary": {
+   "en": "Qatar Development Bank's incubation programme for early-stage tech startups: a year of office space, bi-weekly coaching with a lean-certified coach, networking and investment of up to QAR 100,000, ending with a Demo Day. Graduates can continue to the Lean Acceleration Program.",
+   "ka": "Qatar Development Bank-ის საინკუბაციო პროგრამა ადრეული ეტაპის ტექნოლოგიური სტარტაპებისთვის: ერთი წლის ოფისი, ორკვირიანი ქოუჩინგი, ქსელი და 100,000 რიალამდე ინვესტიცია, Demo Day-ით დასრულებით.",
+   "ar": "برنامج احتضان من بنك قطر للتنمية للشركات التقنية الناشئة في مراحلها الأولى: مكتب لمدة عام، وتوجيه كل أسبوعين مع مدرب معتمد، وتواصل، واستثمار يصل إلى 100,000 ريال، ويختتم بيوم عرض للمستثمرين."
+  },
+  "about": {
+   "en": "The Lean Startup Program, run by Qatar Development Bank through the Qatar Business Incubation Center (QBIC), supports sector-agnostic early-stage tech startups (sports tech, fashion tech, mobility, ICT, fintech and more). Benefits listed on the government's Startup Qatar portal include office space for one year to obtain a licence and register a company in Qatar, one year of bi-weekly coaching with a lean-certified business coach, marketing exposure and networking at QDB-sponsored events (including Web Summit), and investment of up to QAR 100,000.\n\nIntake starts with a three-day QDB hackathon for idea-stage startups to build their business model and pitch deck; graduates pitch at a Mini Demo Day (usually early December) and can move on to the Lean Acceleration Program and its Demo Day in June."
+  },
+  "highlights": {
+   "en": [
+    "Up to QAR 100,000 investment",
+    "One year of office space and coaching",
+    "Demo Day with QDB and angel investors"
+   ]
+  },
+  "eligibility": {
+   "en": "Early-stage technology startups and founders in Qatar (age 18+)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the programme on the Startup Qatar portal",
+    "Join the next QDB incubation hackathon / intake",
+    "Apply through QDB/QBIC and pitch to the selection committee"
+   ]
+  },
+  "costs": {
+   "en": "Free; QDB invests up to QAR 100,000 in selected startups."
+  },
+  "keywords": [
+   "incubator",
+   "startup",
+   "qdb",
+   "qbic",
+   "investment",
+   "lean startup",
+   "demo day",
+   "entrepreneurship"
+  ],
+  "url": "https://startupqatar.qa/en",
+  "apply_url": "https://www.qdb.qa/en",
+  "sources": [
+   "https://startupqatar.qa/en",
+   "https://jusour.qa/programs/entrepreneurs"
+  ],
+  "score": 6,
+  "score_reason": "Major national incubator with funding; for founders based in Qatar.",
+  "premium": false,
+  "fields": [
+   "business",
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "cmuq-qatar-mathematics-research-forum",
+  "section": "project",
+  "family": "training",
+  "type": "mathematics research seminar series",
+  "org": "Carnegie Mellon University in Qatar (CMU-Q)",
+  "name": {
+   "en": "Qatar Mathematics Research Forum (QMRF) seminars at CMU-Q",
+   "ka": "Qatar Mathematics Research Forum (QMRF) — სემინარები CMU-Q-ში",
+   "ar": "منتدى قطر للبحوث الرياضية (QMRF): ندوات في CMU-Q"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.317,
+  "lon": 51.437,
+  "cost": "free",
+  "duration": {
+   "en": "1-hour seminars, roughly monthly",
+   "ka": "1-საათიანი სემინარები, დაახლოებით ყოველთვიურად",
+   "ar": "ندوات لمدة ساعة، شهريًا تقريبًا"
+  },
+  "grades": "university / 16+",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Next seminar 17 Nov 2026; recurring.",
+  "event_dates": "2026-11-17 to 2026-11-17",
+  "summary": {
+   "en": "A free monthly seminar series at Carnegie Mellon Qatar where mathematicians from universities across Qatar present research, open to students who want to meet the country's maths research community. The next seminar is on 17 November 2026.",
+   "ka": "უფასო ყოველთვიური სემინარების სერია Carnegie Mellon Qatar-ში, სადაც კატარის უნივერსიტეტების მათემატიკოსები კვლევებს წარადგენენ; ღიაა სტუდენტებისთვის. შემდეგი სემინარი 2026 წლის 17 ნოემბერს გაიმართება.",
+   "ar": "سلسلة ندوات شهرية مجانية في Carnegie Mellon Qatar يعرض فيها رياضيون من جامعات قطر أبحاثهم، ومفتوحة للطلاب الراغبين في التعرف على مجتمع البحث الرياضي في البلاد. الندوة القادمة في 17 نوفمبر 2026."
+  },
+  "about": {
+   "en": "The Qatar Mathematics Research Forum (QMRF) is a touchpoint for mathematicians, researchers and students from institutions across Qatar to exchange ideas, learn about each other's research and explore collaboration. It also gives students and early-career researchers a way into the wider mathematical community, with plans for joint seminars, workshops and scientific meetings.\n\nSeminars take place at CMU-Q in Education City (Room 1213, 1:00-2:00 pm). Recent and upcoming talks include Dr Hassan Hachem (HBKU) on degradation dynamics (27 October 2026) and Dr Aline Abassian (UDST) on mathematical modelling in mathematics education (17 November 2026)."
+  },
+  "highlights": {
+   "en": [
+    "Meet mathematicians from all Qatar universities",
+    "Free, one-hour talks",
+    "Good for students considering maths research"
+   ]
+  },
+  "eligibility": {
+   "en": "Students, researchers and professionals interested in mathematics; university students especially welcome."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check the QMRF page for the next seminar",
+    "Contact the organiser if attending for the first time",
+    "Attend at CMU-Q in Education City"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "mathematics",
+   "research",
+   "seminar",
+   "carnegie mellon",
+   "university",
+   "free"
+  ],
+  "url": "https://www.qatar.cmu.edu/research/qatar-mathematics-research-forum/",
+  "apply_url": "https://www.qatar.cmu.edu/research/qatar-mathematics-research-forum/",
+  "sources": [
+   "https://www.qatar.cmu.edu/research/qatar-mathematics-research-forum/",
+   "https://www.qatar.cmu.edu/community-initiatives/"
+  ],
+  "score": 4,
+  "score_reason": "Free research seminars; niche audience.",
+  "premium": false,
+  "fields": [
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "cmuq-university-lectures",
+  "section": "project",
+  "family": "training",
+  "type": "public lecture series",
+  "org": "Carnegie Mellon University in Qatar (CMU-Q)",
+  "name": {
+   "en": "CMU-Q University Lectures (Dean's and Distinguished Lectures)",
+   "ka": "CMU-Q-ის საუნივერსიტეტო ლექციები (დეკანის და გამორჩეული ლექციები)",
+   "ar": "محاضرات CMU-Q الجامعية (محاضرات العميد والمحاضرات المتميزة)"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.317,
+  "lon": 51.437,
+  "cost": "free",
+  "duration": {
+   "en": "Evening lectures through the academic year",
+   "ka": "საღამოს ლექციები სასწავლო წლის განმავლობაში",
+   "ar": "محاضرات مسائية على مدار العام الدراسي"
+  },
+  "grades": "any",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling through the academic year.",
+  "event_dates": null,
+  "summary": {
+   "en": "Free public lectures and panels at Carnegie Mellon Qatar where leading experts discuss technology, sustainability, business, science and policy. They run throughout the academic year and are open to students and the public.",
+   "ka": "უფასო საჯარო ლექციები და პანელები Carnegie Mellon Qatar-ში, სადაც წამყვანი ექსპერტები ტექნოლოგიებზე, მდგრადობაზე, ბიზნესზე, მეცნიერებასა და პოლიტიკაზე საუბრობენ. იმართება მთელი სასწავლო წლის განმავლობაში.",
+   "ar": "محاضرات وندوات عامة مجانية في Carnegie Mellon Qatar يناقش فيها خبراء بارزون التكنولوجيا والاستدامة والأعمال والعلوم والسياسات، وتُعقد على مدار العام الدراسي ومفتوحة للطلاب والجمهور."
+  },
+  "about": {
+   "en": "CMU-Q's University Lectures bring some of the world's most thoughtful people to Education City to lead public conversations on technology, sustainability, business, science, government policy and strategic planning. Formats include the Dean's Lecture, Dean's Panel and Distinguished Lecture series, held throughout the academic year.\n\nThey are a free way for high school and university students in Doha to hear world-class speakers, ask questions and experience a Carnegie Mellon campus. Upcoming lectures and registration links are posted on CMU-Q's events page."
+  },
+  "highlights": {
+   "en": [
+    "World-class speakers in Doha",
+    "Free and open to the public",
+    "Great exposure to a top university campus"
+   ]
+  },
+  "eligibility": {
+   "en": "Open to the public, including high school and university students."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check CMU-Q's events page for upcoming lectures",
+    "Register for the lecture (if required)",
+    "Attend in Education City"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "lecture",
+   "talks",
+   "technology",
+   "policy",
+   "carnegie mellon",
+   "free",
+   "education city"
+  ],
+  "url": "https://www.qatar.cmu.edu/community-initiatives/university-lectures/",
+  "apply_url": "https://www.qatar.cmu.edu/events/",
+  "sources": [
+   "https://www.qatar.cmu.edu/community-initiatives/university-lectures/"
+  ],
+  "score": 4,
+  "score_reason": "Free inspiring talks; not a structured programme.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "qstp-pitch-to-the-300-2026",
+  "section": "project",
+  "family": "startup",
+  "type": "investor-founder pitch event",
+  "org": "Qatar Science & Technology Park (QSTP) – The 300",
+  "name": {
+   "en": "Pitch to The 300: Investor-Startup Connect (3 November 2026)",
+   "ka": "Pitch to The 300: ინვესტორებისა და სტარტაპების შეხვედრა (2026 წლის 3 ნოემბერი)",
+   "ar": "Pitch to The 300: لقاء المستثمرين والشركات الناشئة (3 نوفمبر 2026)"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.317,
+  "lon": 51.437,
+  "cost": "free",
+  "duration": {
+   "en": "1 afternoon, 3 November 2026, 3-5 pm",
+   "ka": "1 საღამო, 2026 წლის 3 ნოემბერი, 15:00-17:00",
+   "ar": "أمسية واحدة، 3 نوفمبر 2026، 3-5 مساءً"
+  },
+  "grades": "18+",
+  "opens": null,
+  "deadline": "2026-11-02",
+  "deadline_note": "Register before the event on 3 Nov 2026.",
+  "event_dates": "2026-11-03 to 2026-11-03",
+  "summary": {
+   "en": "An afternoon at QSTP where founders building solutions for the region pitch to women investors from QSTP's The 300 initiative, followed by Q&A and networking. Free registration for founders and attendees.",
+   "ka": "შეხვედრა QSTP-ში, სადაც რეგიონისთვის გადაწყვეტილებების შემქმნელი დამფუძნებლები QSTP-ის The 300 ინიციატივის ქალ ინვესტორებს წარუდგენენ პროექტებს, რასაც მოჰყვება კითხვები და ნეთვორქინგი. რეგისტრაცია უფასოა.",
+   "ar": "أمسية في QSTP يعرض فيها مؤسسو الشركات الناشئة حلولهم على مستثمرات من مبادرة The 300، تليها أسئلة وتواصل. التسجيل مجاني للمؤسسين والحضور."
+  },
+  "about": {
+   "en": "Pitch to The 300 is the second Investor-Startup Connect organised by QSTP's The 300, an initiative that educates and empowers women in Qatar to invest in high-potential startups and co-invest in Qatar-based ventures. Founders pitch at 3:30 pm, followed by questions, coffee and conversation, at the QSTP Incubation Center in Education City.\n\nFor student and early-stage founders it is a chance to practise a pitch in front of real investors and meet Qatar's growing angel community; attendees can also register just to learn how investors evaluate startups."
+  },
+  "highlights": {
+   "en": [
+    "Pitch to real angel investors",
+    "Free registration",
+    "Networking at QSTP Incubation Center"
+   ]
+  },
+  "eligibility": {
+   "en": "Founders and startup-curious students and professionals in Qatar."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the event page",
+    "Register through the form",
+    "Attend on 3 November at QSTP"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "pitch",
+   "investors",
+   "startup",
+   "angel investment",
+   "women",
+   "qstp",
+   "networking"
+  ],
+  "url": "https://qstp.qa/events/pitch-to-the-300/",
+  "apply_url": "https://docs.google.com/forms/d/e/1FAIpQLSd1zW27Anro4Ux6uJtT_915ZooZaoW_uUq7CIPwVqU0rP32RA/viewform",
+  "sources": [
+   "https://qstp.qa/events/pitch-to-the-300/",
+   "https://qstp.qa/programs/the-300/"
+  ],
+  "score": 4,
+  "score_reason": "Real investor exposure, but a single short event.",
+  "premium": false,
+  "fields": [
+   "business"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "qsc-makers-oasis",
+  "section": "project",
+  "family": "stem",
+  "type": "makerspace and fab lab membership",
+  "org": "Qatar Scientific Club (Ministry of Sports and Youth)",
+  "name": {
+   "en": "Makers' Oasis fab lab (Qatar Scientific Club)",
+   "ka": "Makers' Oasis — ფაბლაბი (Qatar Scientific Club)",
+   "ar": "واحة الصنّاع (النادي العلمي القطري)"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.286,
+  "lon": 51.533,
+  "cost": "free",
+  "duration": {
+   "en": "Ongoing membership",
+   "ka": "მუდმივი წევრობა",
+   "ar": "عضوية مستمرة"
+  },
+  "grades": "15+",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling membership.",
+  "event_dates": null,
+  "summary": {
+   "en": "A fully equipped makerspace at the Qatar Scientific Club with CNC cutting, electronics, metal and wood workshops where members aged 15+ can design, build and prototype their own projects with expert support.",
+   "ka": "სრულად აღჭურვილი მეიქერსფეისი Qatar Scientific Club-ში CNC ჭრით, ელექტრონიკის, ლითონისა და ხის სახელოსნოებით, სადაც 15+ წლის წევრებს შეუძლიათ საკუთარი პროექტების დიზაინი, აწყობა და პროტოტიპირება ექსპერტების დახმარებით.",
+   "ar": "مساحة صانعين مجهزة بالكامل في النادي العلمي القطري تضم ورش القطع الرقمي CNC والإلكترونيات والمعادن والخشب، حيث يصمم الأعضاء من عمر 15 عامًا فأكثر مشاريعهم ويصنعون نماذجها الأولية بدعم من المختصين."
+  },
+  "about": {
+   "en": "Makers' Oasis is a group of hand and digital fabrication labs at the Qatar Scientific Club, equipped with modern measuring and manufacturing tools so that members of the community can design, build and innovate quickly and cheaply. It covers five specialisations: design, manufacturing, electronics, software and production mechanics, with workshops for engineering design, fabrication and assembly, CNC cutting, electronics, metal forming and woodwork.\n\nIt welcomes everyone aged 15 and above, offering training and exchange between hobbyists and specialists. Students can use it to build science-fair projects, robots or startup prototypes."
+  },
+  "highlights": {
+   "en": [
+    "CNC, electronics, metal and wood workshops",
+    "Expert help to turn ideas into prototypes",
+    "Open to everyone 15+"
+   ]
+  },
+  "eligibility": {
+   "en": "Members of the community aged 15+ in Qatar."
+  },
+  "how_to_apply": {
+   "en": [
+    "Register as a member on the QSC website",
+    "Book a visit or training to use the labs",
+    "Bring your project and work with the lab specialists"
+   ]
+  },
+  "costs": {
+   "en": "Membership and training mostly free; some courses have fees."
+  },
+  "keywords": [
+   "makerspace",
+   "fab lab",
+   "cnc",
+   "prototyping",
+   "electronics",
+   "robotics",
+   "qatar scientific club"
+  ],
+  "url": "https://qsc.org.qa/%d9%85%d8%b1%d8%a7%d9%83%d8%b2/%d9%85%d8%b1%d9%83%d8%b2-%d9%88%d8%a7%d8%ad%d8%a9-%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9/",
+  "apply_url": "https://qsc.org.qa/register/",
+  "sources": [
+   "https://qsc.org.qa/%d9%85%d8%b1%d8%a7%d9%83%d8%b2/%d9%85%d8%b1%d9%83%d8%b2-%d9%88%d8%a7%d8%ad%d8%a9-%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9/",
+   "https://qsc.org.qa/"
+  ],
+  "score": 5,
+  "score_reason": "Free access to serious fabrication tools; Doha-based.",
+  "premium": false,
+  "fields": [
+   "engineering",
+   "computer-science",
+   "arts-design"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "qsc-promising-innovator-centre",
+  "section": "project",
+  "family": "stem",
+  "type": "STEM centre for children",
+  "org": "Qatar Scientific Club (Ministry of Sports and Youth)",
+  "name": {
+   "en": "Promising Innovator Centre (STEM for ages 7-14, Qatar Scientific Club)",
+   "ka": "Promising Innovator Centre — STEM 7-14 წლის ბავშვებისთვის (Qatar Scientific Club)",
+   "ar": "مركز المبتكر الواعد (STEM للأعمار 7-14، النادي العلمي القطري)"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.286,
+  "lon": 51.533,
+  "cost": "free",
+  "duration": {
+   "en": "Ongoing membership and workshops",
+   "ka": "მუდმივი წევრობა და ვორქშოპები",
+   "ar": "عضوية وورش مستمرة"
+  },
+  "grades": "7-14 years",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling.",
+  "event_dates": null,
+  "summary": {
+   "en": "A STEM centre at the Qatar Scientific Club for girls and boys aged 7-14, with science labs, a fab lab, electronics and robotics labs and a 3D science dome. Children learn through workshops and hands-on projects.",
+   "ka": "STEM ცენტრი Qatar Scientific Club-ში 7-14 წლის გოგონებისა და ბიჭებისთვის: სამეცნიერო ლაბორატორიები, ფაბლაბი, ელექტრონიკისა და რობოტიკის ლაბორატორიები და 3D სამეცნიერო გუმბათი.",
+   "ar": "مركز STEM في النادي العلمي القطري للبنات والبنين بعمر 7-14 عامًا، يضم مختبرات علوم ومعمل تصنيع ومختبرات إلكترونيات وروبوتات وقبة علمية ثلاثية الأبعاد، ويتعلم فيه الأطفال عبر الورش والمشاريع العملية."
+  },
+  "about": {
+   "en": "The Promising Innovator Centre attracts young members to technology and introduces scientific and engineering concepts through an accredited STEM curriculum of workshops and applied projects, plus hand and digital fabrication skills. It aims to discover and support talented children, build a culture of making and prototyping, and encourage scientific research and innovation.\n\nFacilities include applied-science labs (chemistry, biology, physics and mathematics), a fab lab, a 'smart zone' for electronics, robotics and IT, and a 3D science dome for earth and space science. It serves boys and girls aged 7-14."
+  },
+  "highlights": {
+   "en": [
+    "Real labs for chemistry, biology and physics",
+    "Robotics and electronics for children",
+    "3D science dome"
+   ]
+  },
+  "eligibility": {
+   "en": "Girls and boys aged 7-14 in Qatar."
+  },
+  "how_to_apply": {
+   "en": [
+    "Register your child on the QSC website (parent registration available)",
+    "Choose workshops or membership",
+    "Attend sessions at the centre"
+   ]
+  },
+  "costs": {
+   "en": "Many activities free; some workshops charge a fee."
+  },
+  "keywords": [
+   "stem",
+   "kids",
+   "robotics",
+   "science lab",
+   "fab lab",
+   "qatar scientific club",
+   "children"
+  ],
+  "url": "https://qsc.org.qa/%d9%85%d8%b1%d8%a7%d9%83%d8%b2/%d9%85%d8%b1%d9%83%d8%b2-%d8%a7%d9%84%d9%85%d8%a8%d8%aa%d9%83%d8%b1-%d8%a7%d9%84%d9%88%d8%a7%d8%b9%d8%af/",
+  "apply_url": "https://qsc.org.qa/register/",
+  "sources": [
+   "https://qsc.org.qa/%d9%85%d8%b1%d8%a7%d9%83%d8%b2/%d9%85%d8%b1%d9%83%d8%b2-%d8%a7%d9%84%d9%85%d8%a8%d8%aa%d9%83%d8%b1-%d8%a7%d9%84%d9%88%d8%a7%d8%b9%d8%af/"
+  ],
+  "score": 5,
+  "score_reason": "Strong free STEM centre for younger students.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "qsc-car-mechanics-centre",
+  "section": "project",
+  "family": "training",
+  "type": "automotive mechanics training centre",
+  "org": "Qatar Scientific Club (Ministry of Sports and Youth)",
+  "name": {
+   "en": "Car Mechanics Centre (Qatar Scientific Club)",
+   "ka": "ავტომექანიკის ცენტრი (Qatar Scientific Club)",
+   "ar": "مركز ميكانيكا السيارات (النادي العلمي القطري)"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.286,
+  "lon": 51.533,
+  "cost": "free",
+  "duration": {
+   "en": "Ongoing courses by level",
+   "ka": "მუდმივი კურსები დონეების მიხედვით",
+   "ar": "دورات مستمرة حسب المستوى"
+  },
+  "grades": "15+",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling.",
+  "event_dates": null,
+  "summary": {
+   "en": "A 475 m² training centre at the Qatar Scientific Club where young people aged 15+ learn car mechanics and auto electrics from beginner to professional level, with workshops, a motorbike shop and a driving simulator.",
+   "ka": "475 მ² სასწავლო ცენტრი Qatar Scientific Club-ში, სადაც 15+ წლის ახალგაზრდები სწავლობენ ავტომექანიკასა და ავტოელექტრიკას დამწყებიდან პროფესიონალურ დონემდე.",
+   "ar": "مركز تدريب بمساحة 475 مترًا مربعًا في النادي العلمي القطري يتعلم فيه الشباب من عمر 15 عامًا فأكثر ميكانيكا السيارات وكهرباءها من المستوى المبتدئ إلى الاحترافي، مع ورش ودراجات نارية ومحاكي قيادة."
+  },
+  "about": {
+   "en": "The Car Mechanics Centre is a fully air-conditioned, safety-certified facility equipped with specialist engine equipment, training rooms and a lounge. It trains members in two core tracks, car mechanics and car electrics, at beginner, hobbyist and professional levels, and promotes safe motorsport through supervised car preparation and regular safe-racing events at approved tracks.\n\nFacilities include a car workshop, a motorcycle workshop, lifts of various sizes and a driving simulator. Members must be 15 or older."
+  },
+  "highlights": {
+   "en": [
+    "Hands-on engine and electrics training",
+    "Motorbike workshop and driving simulator",
+    "Safe-racing events"
+   ]
+  },
+  "eligibility": {
+   "en": "Young people aged 15+ in Qatar."
+  },
+  "how_to_apply": {
+   "en": [
+    "Register as a QSC member online",
+    "Choose a car mechanics or car electrics programme",
+    "Attend training at the centre"
+   ]
+  },
+  "costs": {
+   "en": "Check with QSC; many programmes free or low-cost."
+  },
+  "keywords": [
+   "mechanics",
+   "cars",
+   "automotive",
+   "engineering",
+   "vocational",
+   "qatar scientific club"
+  ],
+  "url": "https://qsc.org.qa/%d9%85%d8%b1%d8%a7%d9%83%d8%b2/%d9%85%d8%b1%d9%83%d8%b2-%d9%85%d9%8a%d9%83%d8%a7%d9%86%d9%8a%d9%83%d8%a7-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa/",
+  "apply_url": "https://qsc.org.qa/register/",
+  "sources": [
+   "https://qsc.org.qa/%d9%85%d8%b1%d8%a7%d9%83%d8%b2/%d9%85%d8%b1%d9%83%d8%b2-%d9%85%d9%8a%d9%83%d8%a7%d9%86%d9%8a%d9%83%d8%a7-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa/"
+  ],
+  "score": 4,
+  "score_reason": "Unique hands-on vocational training; niche interest.",
+  "premium": false,
+  "fields": [
+   "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "hbku-student-enrichment-program",
+  "section": "project",
+  "family": "training",
+  "type": "co-curricular skills programme",
+  "org": "Hamad Bin Khalifa University (HBKU) – College of Science and Engineering",
+  "name": {
+   "en": "HBKU Student Enrichment Program (LEAD)",
+   "ka": "HBKU-ის სტუდენტური გამდიდრების პროგრამა (LEAD)",
+   "ar": "برنامج إثراء الطلاب في HBKU (LEAD)"
+  },
+  "country": {
+   "en": "Qatar",
+   "ka": "კატარი",
+   "ar": "قطر"
+  },
+  "city": "Doha",
+  "iso": "QA",
+  "flag": "🇶🇦",
+  "region": "middle-east",
+  "lat": 25.317,
+  "lon": 51.437,
+  "cost": "free",
+  "duration": {
+   "en": "Half-day to 5-day courses through the year",
+   "ka": "ნახევარი დღიდან 5 დღემდე კურსები მთელი წლის განმავლობაში",
+   "ar": "دورات من نصف يوم إلى 5 أيام على مدار العام"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling each semester.",
+  "event_dates": null,
+  "summary": {
+   "en": "A co-curricular programme for HBKU engineering students offering short courses in semester breaks, internationally recognised certifications, hackathons, consultations and industry experiences. Participation is tracked on the Student Involvement Record.",
+   "ka": "თანმხლები პროგრამა HBKU-ის საინჟინრო სტუდენტებისთვის: მოკლე კურსები არდადეგებზე, საერთაშორისოდ აღიარებული სერტიფიკატები, ჰაკათონები, კონსულტაციები და ინდუსტრიული გამოცდილება.",
+   "ar": "برنامج مصاحب لطلاب الهندسة في HBKU يقدم دورات قصيرة في العطلات وشهادات معترفًا بها دوليًا وهاكاثونات واستشارات وخبرات عملية مع الصناعة، وتُسجل المشاركة في سجل مشاركة الطالب."
+  },
+  "about": {
+   "en": "HBKU's Student Enrichment Program ('LEAD: Learn. Engage. Aspire. Distinguish.') equips undergraduate and graduate engineering students with skills to stand out in their careers, bridging academic knowledge and industry needs. Focus areas are management and leadership, emerging technologies, and innovation and entrepreneurship.\n\nServices include short technical and non-technical courses (half a day to five days) during semester breaks, internationally recognised certifications, hackathons, one-on-one consultations, awareness programmes and experiential learning with industry partners. Activities are recorded on the official Student Involvement Record."
+  },
+  "highlights": {
+   "en": [
+    "Industry certifications for free",
+    "Hackathons and emerging-tech courses",
+    "Recorded on your Student Involvement Record"
+   ]
+  },
+  "eligibility": {
+   "en": "Undergraduate and graduate engineering students at HBKU."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check the Student Enrichment Program page each semester",
+    "Register for courses or hackathons",
+    "Book a one-on-one consultation"
+   ]
+  },
+  "costs": {
+   "en": "Free for HBKU students."
+  },
+  "keywords": [
+   "certification",
+   "hackathon",
+   "engineering",
+   "leadership",
+   "hbku",
+   "skills"
+  ],
+  "url": "https://www.hbku.edu.qa/en/student-enrichment-program",
+  "apply_url": "https://www.hbku.edu.qa/en/student-enrichment-program",
+  "sources": [
+   "https://www.hbku.edu.qa/en/student-enrichment-program"
+  ],
+  "score": 4,
+  "score_reason": "Useful extras, but only for enrolled HBKU students.",
+  "premium": false,
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31"
  }
 ]

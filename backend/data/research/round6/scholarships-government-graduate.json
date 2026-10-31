@@ -4097,7 +4097,7 @@
   "deadline_note": "2027-28 competition closed 28 July 2026 (11:59 p.m.); 2028-29 expected on the same pattern (estimate).",
   "summary": {
    "en": "Full funding for citizens of Azerbaijan to earn a master's at a U.S. university: tuition, living stipend, health insurance and airfare. The 2027-28 round closed in July 2026; the 2028-29 call is expected on the same annual pattern.",
-   "ka": "სრული დაფინანსება აზერბაიჯანი-ის მოქალაქეებისთვის აშშ-ის უნივერსიტეტში მაგისტრატურისთვის: სწავლა, სტიპენდია, დაზღვევა და ავიაბილეთი. 2028-29 კონკურსი იგივე ყოველწლიური გრაფიკით არის მოსალოდნელი.",
+   "ka": "სრული დაფინანსება აზერბაიჯანის მოქალაქეებისთვის აშშ-ის უნივერსიტეტში მაგისტრატურისთვის: სწავლა, სტიპენდია, დაზღვევა და ავიაბილეთი. 2028-29 კონკურსი იგივე ყოველწლიური გრაფიკით არის მოსალოდნელი.",
    "ar": "تمويل كامل لمواطني أذربيجان لنيل الماجستير في جامعة أمريكية: الرسوم والراتب والتأمين الصحي وتذاكر الطيران. يُتوقع إعلان دورة 2028-29 وفق النمط السنوي نفسه."
   },
   "about": {
@@ -4190,7 +4190,7 @@
   "deadline_note": "2027-28 competition closed 30 June 2026; 2028-29 expected on the same pattern (estimate).",
   "summary": {
    "en": "Full funding for citizens of Uzbekistan to earn a master's at a U.S. university: tuition, living stipend, health insurance and airfare. The 2027-28 round closed in June 2026; the 2028-29 call is expected on the same annual pattern.",
-   "ka": "სრული დაფინანსება უზბეკეთი-ის მოქალაქეებისთვის აშშ-ის უნივერსიტეტში მაგისტრატურისთვის: სწავლა, სტიპენდია, დაზღვევა და ავიაბილეთი. 2028-29 კონკურსი იგივე ყოველწლიური გრაფიკით არის მოსალოდნელი.",
+   "ka": "სრული დაფინანსება უზბეკეთის მოქალაქეებისთვის აშშ-ის უნივერსიტეტში მაგისტრატურისთვის: სწავლა, სტიპენდია, დაზღვევა და ავიაბილეთი. 2028-29 კონკურსი იგივე ყოველწლიური გრაფიკით არის მოსალოდნელი.",
    "ar": "تمويل كامل لمواطني أوزبكستان لنيل الماجستير في جامعة أمريكية: الرسوم والراتب والتأمين الصحي وتذاكر الطيران. يُتوقع إعلان دورة 2028-29 وفق النمط السنوي نفسه."
   },
   "about": {
@@ -4591,6 +4591,915 @@
   ],
   "score": 5,
   "score_reason": "Automatic, modest, any nationality",
+  "event_dates": null,
+  "premium": false,
+  "grades": "university",
+  "verified_at": "2026-10-31"
+ },
+ {
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "government research grant",
+  "id": "ernst-mach-grant-worldwide-2027",
+  "org": "OeAD (Austria's Agency for Education and Internationalisation) for the Austrian Federal Ministry of Women, Science and Research",
+  "country": {
+   "en": "Austria",
+   "ka": "ავსტრია",
+   "ar": "النمسا"
+  },
+  "city": "Vienna",
+  "iso": "AT",
+  "flag": "🇦🇹",
+  "region": "europe",
+  "lat": 48.208,
+  "lon": 16.373,
+  "name": {
+   "en": "Ernst Mach Grant Worldwide — research stays in Austria 2027-28",
+   "ka": "Ernst Mach Grant Worldwide — კვლევითი ვიზიტი ავსტრიაში 2027-28",
+   "ar": "منحة إرنست ماخ العالمية — إقامات بحثية في النمسا 2027-28"
+  },
+  "cost": "funded",
+  "level": [
+   "phd"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 75,
+  "fields": [
+   "any"
+  ],
+  "tutor_tags": [
+   "essay"
+  ],
+  "duration": {
+   "en": "1–9 months",
+   "ka": "1–9 თვე",
+   "ar": "من شهر إلى 9 أشهر"
+  },
+  "opens": "2026-09-01",
+  "deadline": "2026-12-01",
+  "deadline_note": "OeAD programme catalogue: closing date for applications is 1 December each year (via grants.at).",
+  "summary": {
+   "en": "Austrian government grant for doctoral candidates, young researchers and lecturers from any country to carry out a 1–9 month research project at an Austrian university. Apply on grants.at by 1 December 2026.",
+   "ka": "ავსტრიის მთავრობის გრანტი ნებისმიერი ქვეყნის დოქტორანტებისთვის, ახალგაზრდა მკვლევრებისა და ლექტორებისთვის ავსტრიის უნივერსიტეტში 1–9 თვიანი კვლევითი პროექტისთვის. განაცხადი grants.at-ზე 2026 წლის 1 დეკემბრამდე.",
+   "ar": "منحة حكومية نمساوية لمرشحي الدكتوراه والباحثين الشباب والمحاضرين من أي دولة لتنفيذ مشروع بحثي لمدة 1–9 أشهر في جامعة نمساوية. التقديم عبر grants.at قبل 1 ديسمبر 2026."
+  },
+  "about": {
+   "en": "The Ernst Mach Grant Worldwide, administered by OeAD on behalf of Austria's Federal Ministry of Women, Science and Research, supports young researchers and university lecturers of all disciplines who are studying or researching outside Austria and want to carry out a research project in Austria. The target group is postgraduates (typically doctoral candidates) and postdocs from all countries.\n\nGrants last one to nine months and are hosted by an Austrian university or research institution, which you must arrange yourself (an invitation/supervision confirmation is part of the application). The grant includes a monthly payment and OeAD support with insurance and housing; check grants.at for current rates. The annual closing date is 1 December for stays in the following academic year."
+  },
+  "highlights": {
+   "en": [
+    "Open to all nationalities",
+    "1–9 month research stays, any discipline",
+    "Austrian host supervisor of your choice"
+   ]
+  },
+  "eligibility": {
+   "en": "Doctoral candidates/postgraduates and postdocs of any nationality (incl. Georgia and Qatar) studying or researching outside Austria, with a confirmed Austrian host."
+  },
+  "how_to_apply": {
+   "en": [
+    "Agree a project and obtain a host confirmation from an Austrian university or institute",
+    "Prepare research plan, CV, degree certificates and recommendation letter(s)",
+    "Apply online via grants.at (OeAD) by 1 December 2026",
+    "Results in spring; stay during the 2027-28 academic year"
+   ]
+  },
+  "costs": {
+   "en": "Monthly grant from OeAD plus support with insurance and accommodation (rates on grants.at)."
+  },
+  "keywords": [
+   "austria",
+   "vienna",
+   "oead",
+   "ernst mach",
+   "phd",
+   "research grant",
+   "government scholarship"
+  ],
+  "url": "https://oead.at/en/the-oead/our-programmes-from-a-to-z",
+  "apply_url": "https://grants.at/en",
+  "sources": [
+   "https://oead.at/en/the-oead/our-programmes-from-a-to-z",
+   "https://oead.at/en/study-research-teaching/overview-grants-and-scholarships",
+   "https://grants.at/en"
+  ],
+  "score": 7,
+  "score_reason": "Open worldwide, deadline in a month",
+  "event_dates": null,
+  "premium": false,
+  "grades": "university",
+  "verified_at": "2026-10-31"
+ },
+ {
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "government scholarship",
+  "id": "ernst-mach-grant-fh-study-2027",
+  "org": "OeAD for the Austrian Federal Ministry of Women, Science and Research",
+  "country": {
+   "en": "Austria",
+   "ka": "ავსტრია",
+   "ar": "النمسا"
+  },
+  "city": "Vienna",
+  "iso": "AT",
+  "flag": "🇦🇹",
+  "region": "europe",
+  "lat": 48.208,
+  "lon": 16.373,
+  "name": {
+   "en": "Ernst Mach Grant for Study at an Austrian University of Applied Sciences 2027-28",
+   "ka": "Ernst Mach Grant ავსტრიის გამოყენებითი მეცნიერებების უნივერსიტეტში სწავლისთვის 2027-28",
+   "ar": "منحة إرنست ماخ للدراسة في جامعة نمساوية للعلوم التطبيقية 2027-28"
+  },
+  "cost": "funded",
+  "level": [
+   "masters"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 70,
+  "fields": [
+   "engineering",
+   "business",
+   "computer-science",
+   "arts-design",
+   "medicine-health"
+  ],
+  "duration": {
+   "en": "4–10 months (semester or year)",
+   "ka": "4–10 თვე (სემესტრი ან წელი)",
+   "ar": "4–10 أشهر (فصل أو عام)"
+  },
+  "opens": "2026-11-01",
+  "deadline": "2027-02-01",
+  "deadline_note": "OeAD programme catalogue: closing date 1 February each year.",
+  "summary": {
+   "en": "Austrian government grant for students from non-European countries to spend 4–10 months studying at an Austrian Fachhochschule (university of applied sciences). Apply on grants.at by 1 February 2027.",
+   "ka": "ავსტრიის მთავრობის გრანტი არაევროპული ქვეყნების სტუდენტებისთვის, ავსტრიის გამოყენებითი მეცნიერებების უნივერსიტეტში (Fachhochschule) 4–10 თვით სწავლისთვის. განაცხადი grants.at-ზე 2027 წლის 1 თებერვლამდე.",
+   "ar": "منحة حكومية نمساوية لطلاب من دول غير أوروبية لقضاء 4–10 أشهر في الدراسة بجامعة نمساوية للعلوم التطبيقية (Fachhochschule). التقديم عبر grants.at قبل 1 فبراير 2027."
+  },
+  "about": {
+   "en": "This Ernst Mach Grant lets undergraduate and graduate students from non-European countries study for four to ten months at an Austrian university of applied sciences (Fachhochschule), such as FH Technikum Wien, FH Joanneum or FH Campus Wien. It is a funded study period rather than a full degree, useful for master's students who want a semester of applied, industry-linked study in Austria.\n\nOeAD pays a monthly grant and helps with insurance and housing. You need a nomination or acceptance from the Austrian FH, which usually works with partner universities; apply on grants.at by 1 February."
+  },
+  "highlights": {
+   "en": [
+    "Funded semester or year in Austria",
+    "Applied, industry-linked programmes",
+    "For students from outside Europe"
+   ]
+  },
+  "eligibility": {
+   "en": "Undergraduate or graduate students from non-European countries (e.g. Qatar and other Middle Eastern, Asian, African and American countries; check with OeAD whether Georgia counts as European) with acceptance by an Austrian FH."
+  },
+  "how_to_apply": {
+   "en": [
+    "Contact the international office of an Austrian Fachhochschule (often via a partner university)",
+    "Obtain acceptance for a 4–10 month study period",
+    "Apply on grants.at by 1 February 2027"
+   ]
+  },
+  "costs": {
+   "en": "Monthly OeAD grant plus insurance/housing support (rates on grants.at). Tuition usually waived for exchange-type stays."
+  },
+  "keywords": [
+   "austria",
+   "fachhochschule",
+   "oead",
+   "ernst mach",
+   "masters",
+   "semester abroad",
+   "grant"
+  ],
+  "url": "https://oead.at/en/the-oead/our-programmes-from-a-to-z",
+  "apply_url": "https://grants.at/en",
+  "sources": [
+   "https://oead.at/en/the-oead/our-programmes-from-a-to-z",
+   "https://oead.at/en/study-research-teaching/overview-grants-and-scholarships",
+   "https://grants.at/en"
+  ],
+  "score": 5,
+  "score_reason": "Short study stay, needs FH acceptance",
+  "event_dates": null,
+  "premium": false,
+  "grades": "university",
+  "verified_at": "2026-10-31"
+ },
+ {
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "government scholarship",
+  "id": "austria-scholarship-foundation-international-relations-masters-2027",
+  "org": "Scholarship Foundation of the Republic of Austria (via OeAD)",
+  "country": {
+   "en": "Austria",
+   "ka": "ავსტრია",
+   "ar": "النمسا"
+  },
+  "city": "Vienna",
+  "iso": "AT",
+  "flag": "🇦🇹",
+  "region": "europe",
+  "lat": 48.208,
+  "lon": 16.373,
+  "name": {
+   "en": "Republic of Austria Scholarships for Master's Studies in International Relations 2027-28",
+   "ka": "ავსტრიის რესპუბლიკის სტიპენდიები საერთაშორისო ურთიერთობების მაგისტრატურისთვის 2027-28",
+   "ar": "منح جمهورية النمسا لدراسة الماجستير في العلاقات الدولية 2027-28"
+  },
+  "cost": "funded",
+  "level": [
+   "masters"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 80,
+  "fields": [
+   "international-relations"
+  ],
+  "duration": {
+   "en": "9 months",
+   "ka": "9 თვე",
+   "ar": "9 أشهر"
+  },
+  "opens": "2027-01-15",
+  "deadline": "2027-04-01",
+  "deadline_note": "OeAD programme catalogue: closing date 1 April each year.",
+  "summary": {
+   "en": "Nine-month scholarships for a master's in International Relations in Austria, reserved for descendants of forced labourers under the Nazi regime and nationals of countries that suffered particularly under it. Apply by 1 April 2027.",
+   "ka": "ცხრათვიანი სტიპენდიები ავსტრიაში საერთაშორისო ურთიერთობების მაგისტრატურისთვის, ნაციონალ-სოციალისტური რეჟიმის იძულებით მომუშავეთა შთამომავლებისა და ამ რეჟიმით განსაკუთრებით დაზარალებული ქვეყნების მოქალაქეებისთვის. ვადა 2027 წლის 1 აპრილი.",
+   "ar": "منح لمدة تسعة أشهر لدراسة ماجستير العلاقات الدولية في النمسا، مخصصة لأحفاد العمال القسريين في عهد النظام النازي ومواطني الدول التي عانت منه بشكل خاص. آخر موعد 1 أبريل 2027."
+  },
+  "about": {
+   "en": "The Scholarship Foundation of the Republic of Austria funds master's study in the field of International Relations in Austria (for example at the Diplomatic Academy of Vienna or Austrian universities). The scholarships are intended for descendants of forced labourers under the National Socialist regime and for nationals of countries that suffered particularly from that regime, which includes many Central and Eastern European and former Soviet states.\n\nAwards cover nine months and are administered by OeAD. The annual closing date is 1 April."
+  },
+  "highlights": {
+   "en": [
+    "Funded IR master's year in Vienna",
+    "Targets Central/Eastern Europe and post-Soviet countries",
+    "Administered by OeAD"
+   ]
+  },
+  "eligibility": {
+   "en": "Graduates who are descendants of NS-era forced labourers or nationals of countries that suffered particularly from the NS regime (see the current call on grants.at for the list of eligible countries, including whether Georgia is covered). Admission to an IR master's in Austria required."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check eligibility in the current call on grants.at",
+    "Apply for an International Relations master's in Austria",
+    "Submit the scholarship application via grants.at by 1 April 2027"
+   ]
+  },
+  "costs": {
+   "en": "Monthly scholarship for 9 months (rates in the call); tuition arrangements per programme."
+  },
+  "keywords": [
+   "austria",
+   "vienna",
+   "international relations",
+   "diplomatic academy",
+   "masters",
+   "oead"
+  ],
+  "url": "https://oead.at/en/the-oead/our-programmes-from-a-to-z",
+  "apply_url": "https://grants.at/en",
+  "sources": [
+   "https://oead.at/en/the-oead/our-programmes-from-a-to-z",
+   "https://oead.at/en/study-research-teaching/overview-grants-and-scholarships",
+   "https://grants.at/en"
+  ],
+  "score": 6,
+  "score_reason": "Niche eligibility but good for IR students from the region",
+  "event_dates": null,
+  "premium": false,
+  "grades": "university",
+  "verified_at": "2026-10-31"
+ },
+ {
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university scholarship",
+  "id": "liu-international-scholarship-2027",
+  "org": "Linköping University (LiU)",
+  "country": {
+   "en": "Sweden",
+   "ka": "შვედეთი",
+   "ar": "السويد"
+  },
+  "city": "Linköping",
+  "iso": "SE",
+  "flag": "🇸🇪",
+  "region": "europe",
+  "lat": 58.398,
+  "lon": 15.576,
+  "name": {
+   "en": "LiU International Scholarship — Master's 2027 (50% tuition)",
+   "ka": "LiU-ს საერთაშორისო სტიპენდია — მაგისტრატურა 2027 (სწავლის 50%)",
+   "ar": "منحة جامعة لينشوبينغ الدولية — الماجستير 2027 (50% من الرسوم)"
+  },
+  "cost": "scholarship",
+  "level": [
+   "masters"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 50,
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "social-sciences",
+   "medicine-health"
+  ],
+  "duration": {
+   "en": "Full master's (2 years)",
+   "ka": "სრული მაგისტრატურა (2 წელი)",
+   "ar": "الماجستير كاملًا (سنتان)"
+  },
+  "opens": "2026-10-16",
+  "deadline": "2027-01-15",
+  "deadline_note": "To be eligible you must apply for a LiU master's in Sweden's first admission round (deadline 15 January 2027) as first priority; the short scholarship window opens in early April 2027 after selection results.",
+  "summary": {
+   "en": "Linköping University halves tuition for outstanding fee-paying international master's students. Apply for a LiU master's as your first choice by 15 January 2027, then submit the scholarship form in the short April 2027 window.",
+   "ka": "ლინჩოპინგის უნივერსიტეტი წარჩინებულ საერთაშორისო მაგისტრანტებს სწავლის საფასურს ნახევრით უმცირებს. LiU-ს მაგისტრატურაზე პირველი პრიორიტეტით 2027 წლის 15 იანვრამდე შეიტანეთ განაცხადი, შემდეგ კი აპრილის მოკლე ფანჯარაში — სტიპენდიაზე.",
+   "ar": "تخفض جامعة لينشوبينغ الرسوم إلى النصف لطلاب الماجستير الدوليين المتفوقين. قدّم لماجستير في LiU كخيار أول قبل 15 يناير 2027، ثم قدّم طلب المنحة في نافذة أبريل 2027 القصيرة."
+  },
+  "about": {
+   "en": "The LiU International Scholarship supports international master's students with significant academic potential who must pay tuition fees at Linköping University, known for engineering, computer science, medicine and interdisciplinary programmes. Holders normally have their tuition reduced by 50%.\n\nTo be eligible you must apply in the first admission round on universityadmissions.se (deadline 15 January 2027), submit all documents on time, rank a LiU programme first and be admitted in the first selection results (end of March). LiU also requires a GPA of at least 3.5/4.0 or equivalent. The scholarship application window opens in early April 2027 and is short; no extra documents are needed."
+  },
+  "highlights": {
+   "en": [
+    "50% tuition reduction for the whole master's",
+    "No extra documents needed",
+    "Can be combined with planning for SI scholarships"
+   ]
+  },
+  "eligibility": {
+   "en": "Fee-paying international students (non-EU/EEA, incl. Georgia and Qatar) admitted to a LiU master's as first priority in the first round, with GPA ≥ 3.5/4.0 or equivalent."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply on universityadmissions.se by 15 January 2027 with a LiU master's as first choice",
+    "Pay the application fee and submit documents on time",
+    "After admission (end of March), apply for the scholarship in the early-April window"
+   ]
+  },
+  "costs": {
+   "en": "Typically 50% of tuition fees."
+  },
+  "keywords": [
+   "sweden",
+   "linkoping",
+   "liu",
+   "masters",
+   "tuition reduction",
+   "engineering"
+  ],
+  "url": "https://liu.se/en/article/scholarships",
+  "apply_url": "https://liu.se/en/article/scholarships",
+  "sources": [
+   "https://liu.se/en/article/scholarships"
+  ],
+  "score": 6,
+  "score_reason": "Half tuition; requires first-choice application by 15 Jan",
+  "event_dates": null,
+  "premium": false,
+  "grades": "university",
+  "verified_at": "2026-10-31"
+ },
+ {
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university scholarship",
+  "id": "snu-graduate-scholarship-excellent-foreign-students-2027",
+  "country": {
+   "en": "South Korea",
+   "ka": "სამხრეთ კორეა",
+   "ar": "كوريا الجنوبية"
+  },
+  "city": "Seoul",
+  "iso": "KR",
+  "flag": "🇰🇷",
+  "region": "asia",
+  "lat": 37.459,
+  "lon": 126.952,
+  "org": "Seoul National University (SNU)",
+  "name": {
+   "en": "SNU Graduate Scholarship for Excellent Foreign Students (GSFS) — Fall 2027",
+   "ka": "სეულის ეროვნული უნივერსიტეტის სტიპენდია წარჩინებული უცხოელი მაგისტრანტებისთვის (GSFS) — 2027 შემოდგომა",
+   "ar": "منحة جامعة سول الوطنية للطلاب الأجانب المتميزين في الدراسات العليا (GSFS) — خريف 2027"
+  },
+  "cost": "fully-funded",
+  "level": [
+   "masters",
+   "phd"
+  ],
+  "coverage": "full",
+  "coverage_pct": 90,
+  "fields": [
+   "any"
+  ],
+  "duration": {
+   "en": "Up to 4 semesters",
+   "ka": "4 სემესტრამდე",
+   "ar": "حتى 4 فصول دراسية"
+  },
+  "opens": "2027-03-01",
+  "deadline": "2027-04-15",
+  "deadline_note": "Applied for together with the SNU graduate admission application (tick 'Application for Scholarship') each semester; Fall 2027 international graduate admission is expected in spring 2027 (date estimated). Eligible countries and colleges change each semester.",
+  "summary": {
+   "en": "Korea's top university waives full tuition for up to four semesters and pays at least KRW 500,000 a month to excellent international graduate students from eligible countries. You apply by ticking the scholarship box in your SNU graduate application.",
+   "ka": "კორეის წამყვანი უნივერსიტეტი 4 სემესტრამდე სრულად ათავისუფლებს სწავლის საფასურისგან და თვეში მინიმუმ KRW 500,000-ს უხდის შესაბამისი ქვეყნების წარჩინებულ საერთაშორისო მაგისტრანტებსა და დოქტორანტებს. განაცხადი SNU-ს მიღების ფორმაში სტიპენდიის ველის მონიშვნით.",
+   "ar": "تعفي أفضل جامعة في كوريا من الرسوم كاملة لمدة تصل إلى 4 فصول وتدفع 500,000 وون شهريًا على الأقل لطلاب الدراسات العليا الدوليين المتميزين من الدول المؤهلة. يتم التقديم بتحديد خانة المنحة في طلب الالتحاق."
+  },
+  "about": {
+   "en": "Seoul National University's Graduate Scholarship for Excellent Foreign Students (GSFS) supports non-Korean applicants who studied in or graduated from eligible countries and are admitted to SNU graduate programmes. It provides full tuition exemption for up to four semesters and living expenses of at least KRW 500,000 per month (varies by major).\n\nThere is no separate form: tick 'Application for Scholarship' in the online SNU graduate admission application, and colleges select recipients from the admission documents. The list of eligible countries and participating colleges changes every semester and is published in the Office of Global Affairs guide."
+  },
+  "highlights": {
+   "en": [
+    "Full tuition for up to 4 semesters",
+    "Monthly living support from KRW 500,000",
+    "Applied for within your admission form"
+   ]
+  },
+  "eligibility": {
+   "en": "Non-Korean applicants enrolled in or graduated from universities in the semester's eligible countries, admitted to a participating SNU college (check the current list for Georgia and Qatar)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check the semester's GSFS country and college list",
+    "Apply online for SNU graduate admission and tick 'Application for Scholarship'",
+    "Submit scholarship evidence documents to the SNU Office of Global Affairs",
+    "Colleges select recipients from admitted students"
+   ]
+  },
+  "costs": {
+   "en": "Full tuition (max 4 semesters) + living expenses from KRW 500,000/month."
+  },
+  "keywords": [
+   "korea",
+   "seoul",
+   "snu",
+   "masters",
+   "phd",
+   "tuition waiver",
+   "stipend"
+  ],
+  "url": "https://en.snu.ac.kr/admission/graduate/scholarships/before_application",
+  "apply_url": "https://en.snu.ac.kr/admission/graduate/scholarships/before_application",
+  "sources": [
+   "https://en.snu.ac.kr/admission/graduate/scholarships/before_application"
+  ],
+  "score": 7,
+  "score_reason": "Top university, full tuition; country list varies",
+  "event_dates": null,
+  "premium": false,
+  "grades": "university",
+  "verified_at": "2026-10-31"
+ },
+ {
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university scholarship",
+  "id": "snu-president-fellowship-developing-country-faculty-2027",
+  "country": {
+   "en": "South Korea",
+   "ka": "სამხრეთ კორეა",
+   "ar": "كوريا الجنوبية"
+  },
+  "city": "Seoul",
+  "iso": "KR",
+  "flag": "🇰🇷",
+  "region": "asia",
+  "lat": 37.459,
+  "lon": 126.952,
+  "org": "Seoul National University (SNU)",
+  "name": {
+   "en": "SNU President Fellowship (SPF) for Faculty from Developing Countries — PhD 2027",
+   "ka": "SNU-ის პრეზიდენტის სტიპენდია (SPF) განვითარებადი ქვეყნების ლექტორებისთვის — დოქტორანტურა 2027",
+   "ar": "زمالة رئيس جامعة سول الوطنية (SPF) لأعضاء هيئة التدريس من الدول النامية — دكتوراه 2027"
+  },
+  "cost": "fully-funded",
+  "level": [
+   "phd"
+  ],
+  "coverage": "full",
+  "coverage_pct": 100,
+  "fields": [
+   "any"
+  ],
+  "duration": {
+   "en": "3–4 years (tuition up to 6 semesters)",
+   "ka": "3–4 წელი (სწავლა 6 სემესტრამდე)",
+   "ar": "3–4 سنوات (الرسوم حتى 6 فصول)"
+  },
+  "opens": "2027-03-01",
+  "deadline": "2027-04-15",
+  "deadline_note": "Applied for together with SNU graduate admission each semester (about 8 awards per semester); Fall 2027 admission round expected in spring 2027 (date estimated).",
+  "summary": {
+   "en": "A full PhD scholarship at Seoul National University for university lecturers from developing countries who do not yet hold a PhD: tuition, KRW 1.5–2 million a month for 3–4 years, airfare and Korean classes.",
+   "ka": "სრული სადოქტორო სტიპენდია სეულის ეროვნულ უნივერსიტეტში განვითარებადი ქვეყნების ლექტორებისთვის, რომლებსაც ჯერ არ აქვთ PhD: სწავლა, თვეში KRW 1.5–2 მილიონი 3–4 წლის განმავლობაში, ავიაბილეთი და კორეული ენის კურსი.",
+   "ar": "منحة دكتوراه كاملة في جامعة سول الوطنية لمحاضري الجامعات في الدول النامية ممن لا يحملون الدكتوراه بعد: الرسوم و1.5–2 مليون وون شهريًا لمدة 3–4 سنوات وتذكرة طيران ودروس كورية."
+  },
+  "about": {
+   "en": "The SNU President Fellowship (SPF) brings faculty members of major universities in developing countries to Seoul National University for a PhD. About eight recipients are chosen each semester, with priority for candidates from Asia, Africa and South America.\n\nIt covers full tuition for up to six semesters, living expenses of KRW 1,500,000–2,000,000 per month for three to four years, a round-trip economy airfare and evening Korean classes. Apply by ticking the scholarship box in the SNU graduate admission application and submitting evidence documents to the Office of Global Affairs."
+  },
+  "highlights": {
+   "en": [
+    "Living allowance KRW 1.5–2 million/month",
+    "Tuition up to 6 semesters + airfare",
+    "Aimed at future professors from developing countries"
+   ]
+  },
+  "eligibility": {
+   "en": "Faculty members of major universities in developing countries without a PhD, newly admitted to an SNU PhD programme (Georgia qualifies as a developing country on most lists; check with SNU)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply for an SNU PhD programme in the Fall 2027 round",
+    "Tick 'Application for Scholarship' and select SPF",
+    "Submit proof of your faculty appointment to SNU Office of Global Affairs",
+    "Selection announced with admission"
+   ]
+  },
+  "costs": {
+   "en": "Full tuition (6 semesters), KRW 1.5–2M monthly living allowance, round-trip airfare, Korean language classes."
+  },
+  "keywords": [
+   "korea",
+   "seoul",
+   "snu",
+   "phd",
+   "faculty",
+   "developing countries",
+   "fully funded"
+  ],
+  "url": "https://en.snu.ac.kr/admission/graduate/scholarships/before_application",
+  "apply_url": "https://en.snu.ac.kr/admission/graduate/scholarships/before_application",
+  "sources": [
+   "https://en.snu.ac.kr/admission/graduate/scholarships/before_application"
+  ],
+  "score": 6,
+  "score_reason": "Generous but only for university faculty",
+  "event_dates": null,
+  "premium": false,
+  "grades": "university",
+  "verified_at": "2026-10-31"
+ },
+ {
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university scholarship",
+  "id": "auc-international-graduate-fellowship-fall-2027",
+  "org": "The American University in Cairo (AUC)",
+  "country": {
+   "en": "Egypt",
+   "ka": "ეგვიპტე",
+   "ar": "مصر"
+  },
+  "city": "New Cairo",
+  "iso": "EG",
+  "flag": "🇪🇬",
+  "region": "middle-east",
+  "lat": 30.019,
+  "lon": 31.5,
+  "name": {
+   "en": "AUC International Graduate Fellowships — Fall 2027",
+   "ka": "კაიროს ამერიკული უნივერსიტეტის საერთაშორისო სამაგისტრო სტიპენდიები — 2027 შემოდგომა",
+   "ar": "زمالات الدراسات العليا الدولية في الجامعة الأمريكية بالقاهرة — خريف 2027"
+  },
+  "cost": "scholarship",
+  "level": [
+   "masters",
+   "phd"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 70,
+  "fields": [
+   "social-sciences",
+   "humanities",
+   "international-relations",
+   "business",
+   "economics",
+   "law",
+   "education"
+  ],
+  "duration": {
+   "en": "Length of the graduate programme",
+   "ka": "სამაგისტრო პროგრამის ხანგრძლივობა",
+   "ar": "مدة برنامج الدراسات العليا"
+  },
+  "opens": "2026-12-22",
+  "deadline": "2027-01-17",
+  "deadline_note": "Official AUC fellowship deadlines for Fall 2027: cycle 1 opens 22 Dec 2026, closes 17 Jan 2027; cycle 2 opens 6 Apr, closes 6 May 2027. Admission application must be submitted at least two weeks before the fellowship deadline.",
+  "summary": {
+   "en": "AUC offers fellowships covering tuition (plus a housing allowance for full-time international students) to international students admitted to its graduate programmes in Cairo. Fall 2027 fellowship cycle 1 runs 22 December 2026–17 January 2027.",
+   "ka": "კაიროს ამერიკული უნივერსიტეტი სტიპენდიებს სთავაზობს საერთაშორისო სტუდენტებს, რომლებიც მის სამაგისტრო პროგრამებზე ჩაირიცხნენ: სწავლის საფასური და სრული განაკვეთის უცხოელებისთვის საცხოვრებლის დახმარება. 2027 შემოდგომის პირველი ციკლი 2026 წლის 22 დეკემბრიდან 2027 წლის 17 იანვრამდე.",
+   "ar": "تقدم الجامعة الأمريكية بالقاهرة زمالات تغطي الرسوم (مع بدل سكن للطلاب الدوليين بدوام كامل) للطلاب الدوليين المقبولين في برامج الدراسات العليا. الدورة الأولى لخريف 2027 من 22 ديسمبر 2026 إلى 17 يناير 2027."
+  },
+  "about": {
+   "en": "The American University in Cairo, Egypt's leading English-language university, runs institutional fellowships for graduate students. The International Graduate Fellowship is open to international students fully admitted to any field of graduate study; other fellowships target African students, refugees, and all nationalities in selected HUSS, business, public affairs (GAPP) and education programmes. International fellowship holders who study full time may also receive a housing allowance.\n\nFor Fall 2027 there are two cycles: 22 December 2026–17 January 2027 and 6 April–6 May 2027. Submit your graduate admission application at least two weeks before the fellowship deadline; you do not need an admission decision first. MEng, Master in Computing and diploma students are not eligible."
+  },
+  "highlights": {
+   "en": [
+    "Open to all nationalities",
+    "Housing allowance for full-time international fellows",
+    "Strong in Middle East studies, policy and IR"
+   ]
+  },
+  "eligibility": {
+   "en": "International students (all nationalities incl. Georgia and Qatar) fully admitted to an AUC master's or PhD (excluding MEng, Master in Computing and diplomas)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Submit your AUC graduate admission application at least two weeks before the fellowship deadline",
+    "Complete the online fellowship application in cycle 1 (by 17 Jan 2027) or cycle 2 (by 6 May 2027)",
+    "Await the fellowship decision with or after admission"
+   ]
+  },
+  "costs": {
+   "en": "Tuition coverage (full or partial per fellowship) plus possible housing allowance for full-time international students."
+  },
+  "keywords": [
+   "egypt",
+   "cairo",
+   "auc",
+   "masters",
+   "fellowship",
+   "middle east studies",
+   "international relations"
+  ],
+  "url": "https://www.aucegypt.edu/admissions/fellowships/listings",
+  "apply_url": "https://www.aucegypt.edu/admissions/fellowships/deadlines",
+  "sources": [
+   "https://www.aucegypt.edu/admissions/fellowships/deadlines",
+   "https://www.aucegypt.edu/admissions/fellowships/listings"
+  ],
+  "score": 7,
+  "score_reason": "Clear deadlines, open to all nationalities",
+  "event_dates": null,
+  "premium": false,
+  "grades": "university",
+  "verified_at": "2026-10-31"
+ },
+ {
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "government scholarship",
+  "id": "turkiye-burslari-success-scholarship-2026",
+  "org": "Türkiye Scholarships (YTB — Presidency for Turks Abroad and Related Communities)",
+  "country": {
+   "en": "Türkiye",
+   "ka": "თურქეთი",
+   "ar": "تركيا"
+  },
+  "city": "Ankara",
+  "iso": "TR",
+  "flag": "🇹🇷",
+  "region": "europe",
+  "lat": 39.933,
+  "lon": 32.86,
+  "name": {
+   "en": "Türkiye Scholarships Success Scholarship 2026 (for international students already studying in Türkiye)",
+   "ka": "Türkiye Scholarships — წარმატების სტიპენდია 2026 (თურქეთში უკვე მოსწავლე უცხოელი სტუდენტებისთვის)",
+   "ar": "منحة النجاح من منح تركيا 2026 (للطلاب الدوليين الذين يدرسون في تركيا)"
+  },
+  "cost": "scholarship",
+  "level": [
+   "bachelor",
+   "masters",
+   "phd"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 60,
+  "fields": [
+   "any"
+  ],
+  "duration": {
+   "en": "Remaining study period of the current degree",
+   "ka": "მიმდინარე პროგრამის დარჩენილი ვადა",
+   "ar": "المدة المتبقية من البرنامج الحالي"
+  },
+  "opens": "2026-10-01",
+  "deadline": "2026-11-30",
+  "deadline_note": "Official calendar lists the Success Scholarship application period as October–November each year; exact closing day not stated (end of November assumed).",
+  "summary": {
+   "en": "A Türkiye Scholarships award for high-achieving international students who are already enrolled at Turkish universities at their own expense, including master's and PhD students. Applications are open October–November 2026.",
+   "ka": "Türkiye Scholarships-ის ჯილდო წარჩინებული უცხოელი სტუდენტებისთვის, რომლებიც უკვე საკუთარი ხარჯით სწავლობენ თურქეთის უნივერსიტეტებში, მათ შორის მაგისტრანტებისა და დოქტორანტებისთვის. განაცხადი ღიაა 2026 წლის ოქტომბერ–ნოემბერში.",
+   "ar": "منحة من منح تركيا للطلاب الدوليين المتفوقين المسجلين بالفعل في الجامعات التركية على نفقتهم الخاصة، بمن فيهم طلاب الماجستير والدكتوراه. التقديم مفتوح في أكتوبر–نوفمبر 2026."
+  },
+  "about": {
+   "en": "Besides its main degree scholarships, Türkiye Scholarships runs a Success Scholarship for international students who are already studying in Türkiye without a government scholarship and who have strong academic results. It is a way to obtain Türkiye Scholarships support part-way through a bachelor's, master's or PhD.\n\nApplications are taken each October–November through the Türkiye Scholarships Application System (TBBS). Successful students receive Türkiye Scholarships benefits (such as the monthly stipend and health insurance) for the remaining period of their programme, as set out in the annual call."
+  },
+  "highlights": {
+   "en": [
+    "For students already enrolled in Türkiye",
+    "Open now (October–November 2026)",
+    "Adds Türkiye Scholarships stipend and benefits"
+   ]
+  },
+  "eligibility": {
+   "en": "International students (any nationality incl. Georgia and Qatar) currently enrolled at a Turkish university at their own expense with high academic achievement; not already holding a Turkish government scholarship."
+  },
+  "how_to_apply": {
+   "en": [
+    "Log in to TBBS (tbbs.turkiyeburslari.gov.tr)",
+    "Select the Success Scholarship call during October–November",
+    "Upload transcript, student certificate and passport",
+    "Await evaluation and results"
+   ]
+  },
+  "costs": {
+   "en": "Türkiye Scholarships benefits for the remaining study period (stipend: master's TRY 9,500, PhD TRY 13,000 at current rates; insurance). Details in the annual call."
+  },
+  "keywords": [
+   "turkey",
+   "türkiye",
+   "success scholarship",
+   "masters",
+   "phd",
+   "current students",
+   "stipend"
+  ],
+  "url": "https://www.turkiyeburslari.gov.tr/calendar",
+  "apply_url": "https://tbbs.turkiyeburslari.gov.tr/",
+  "sources": [
+   "https://www.turkiyeburslari.gov.tr/calendar",
+   "https://www.turkiyeburslari.gov.tr/scholarshipsprograms"
+  ],
+  "score": 6,
+  "score_reason": "Open now but only for those already studying in Türkiye",
+  "event_dates": null,
+  "premium": false,
+  "grades": "university",
+  "verified_at": "2026-10-31"
+ },
+ {
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university scholarship",
+  "id": "cuhk-postgraduate-studentship-2027",
+  "org": "The Chinese University of Hong Kong (CUHK)",
+  "country": {
+   "en": "Hong Kong",
+   "ka": "ჰონგკონგი",
+   "ar": "هونغ كونغ"
+  },
+  "city": "Hong Kong",
+  "iso": "HK",
+  "flag": "🇭🇰",
+  "region": "asia",
+  "lat": 22.419,
+  "lon": 114.207,
+  "name": {
+   "en": "CUHK Postgraduate Studentships for MPhil & PhD 2027-28",
+   "ka": "CUHK-ის სამაგისტრო და სადოქტორო კვლევითი სტიპენდიები (MPhil და PhD) 2027-28",
+   "ar": "منح الدراسات العليا البحثية في الجامعة الصينية بهونغ كونغ (ماجستير بحثي ودكتوراه) 2027-28"
+  },
+  "cost": "funded",
+  "level": [
+   "masters",
+   "phd"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 80,
+  "fields": [
+   "any"
+  ],
+  "duration": {
+   "en": "Normative study period (MPhil 2 years, PhD 3–4 years)",
+   "ka": "ნორმატიული ვადა (MPhil 2 წელი, PhD 3–4 წელი)",
+   "ar": "المدة النظامية (ماجستير بحثي سنتان، دكتوراه 3–4 سنوات)"
+  },
+  "opens": "2026-09-01",
+  "deadline": "2026-12-01",
+  "deadline_note": "Studentship results come with admission offers; programme deadlines vary (many main-round deadlines on 1 December 2026 for 2027-28 entry).",
+  "summary": {
+   "en": "Qualified full-time MPhil and PhD students at CUHK can receive an annual studentship of HK$229,200 (about US$29,400) for the normative study period. It is decided with your admission, so apply to your programme by its deadline.",
+   "ka": "CUHK-ის კვალიფიციურ სრული განაკვეთის MPhil და PhD სტუდენტებს შეუძლიათ მიიღონ წლიური სტიპენდია HK$229,200 (დაახ. US$29,400) ნორმატიული ვადით. გადაწყვეტილება მიღებასთან ერთად მიიღება.",
+   "ar": "يمكن لطلاب الماجستير البحثي والدكتوراه بدوام كامل المؤهلين في الجامعة الصينية بهونغ كونغ الحصول على منحة سنوية قدرها 229,200 دولار هونغ كونغي (نحو 29,400 دولار أمريكي) طوال المدة النظامية. يُبتّ فيها مع القبول."
+  },
+  "about": {
+   "en": "CUHK offers Postgraduate Studentships to qualified full-time research postgraduate students (MPhil and PhD). The annual studentship for 2026-27 is HK$229,200 (about US$29,400), payable throughout the normative period of study, and results are announced together with admission offers.\n\nStrong candidates may additionally receive the CUHK Vice-Chancellor's PhD Scholarship, and nationals of Belt and Road countries can be nominated for the HKSAR government's tuition scholarship. Apply through CUHK's online application system by your programme's deadline."
+  },
+  "highlights": {
+   "en": [
+    "HK$229,200 per year",
+    "Covers MPhil and PhD",
+    "Decided with admission"
+   ]
+  },
+  "eligibility": {
+   "en": "Full-time MPhil/PhD applicants of any nationality (incl. Georgia and Qatar) admitted to CUHK research programmes."
+  },
+  "how_to_apply": {
+   "en": [
+    "Choose a CUHK MPhil/PhD programme and contact supervisors",
+    "Apply online by the programme deadline",
+    "Studentship offered with admission if qualified"
+   ]
+  },
+  "costs": {
+   "en": "HK$229,200 annual studentship (2026-27 rate). Tuition payable unless covered by other awards."
+  },
+  "keywords": [
+   "hong kong",
+   "cuhk",
+   "mphil",
+   "phd",
+   "studentship",
+   "research"
+  ],
+  "url": "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships",
+  "apply_url": "https://www.gs.cuhk.edu.hk/admissions/",
+  "sources": [
+   "https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships"
+  ],
+  "score": 7,
+  "score_reason": "Generous standard funding for research degrees",
+  "event_dates": null,
+  "premium": false,
+  "grades": "university",
+  "verified_at": "2026-10-31"
+ },
+ {
+  "section": "scholarship",
+  "family": "scholarship",
+  "type": "university scholarship",
+  "id": "lancaster-postgraduate-international-early-acceptance-scholarship-2027",
+  "org": "Lancaster University",
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "Lancaster",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 54.01,
+  "lon": -2.786,
+  "name": {
+   "en": "Lancaster University Postgraduate International Early Acceptance Scholarship 2027 (£2,000)",
+   "ka": "ლანკასტერის უნივერსიტეტის ადრეული თანხმობის სამაგისტრო სტიპენდია 2027 (£2,000)",
+   "ar": "منحة القبول المبكر للدراسات العليا الدولية بجامعة لانكستر 2027 (2,000 جنيه)"
+  },
+  "cost": "scholarship",
+  "level": [
+   "masters"
+  ],
+  "coverage": "partial",
+  "coverage_pct": 7,
+  "fields": [
+   "any"
+  ],
+  "duration": {
+   "en": "One-off, first year",
+   "ka": "ერთჯერადი, პირველი წელი",
+   "ar": "مرة واحدة، السنة الأولى"
+  },
+  "opens": "2026-10-01",
+  "deadline": "2027-04-07",
+  "deadline_note": "Official LUMS page: accept your place before 23:59 GMT on 7 April 2027.",
+  "summary": {
+   "en": "International master's students who accept their place at Lancaster before 7 April 2027 automatically receive £2,000. It can sit alongside Lancaster's merit or regional scholarships where the terms allow.",
+   "ka": "საერთაშორისო მაგისტრანტები, რომლებიც ლანკასტერში ადგილს 2027 წლის 7 აპრილამდე დაეთანხმებიან, ავტომატურად იღებენ £2,000-ს.",
+   "ar": "يحصل طلاب الماجستير الدوليون الذين يقبلون مقعدهم في لانكستر قبل 7 أبريل 2027 تلقائيًا على 2,000 جنيه."
+  },
+  "about": {
+   "en": "Lancaster University rewards international postgraduate taught students who commit early: if you accept your offer for 2027 entry before 23:59 GMT on 7 April 2027, you receive a £2,000 Early Acceptance Scholarship. No separate application is required.\n\nIt is a small award but easy to obtain, and useful when combined with Lancaster's Master's Excellence (15%) or International Regional (£10,000) scholarships, subject to their terms."
+  },
+  "highlights": {
+   "en": [
+    "£2,000 automatic",
+    "Just accept your offer by 7 April 2027",
+    "Any nationality"
+   ]
+  },
+  "eligibility": {
+   "en": "International fee-paying students (any nationality) with an offer for a 2027 taught master's at Lancaster who accept before 7 April 2027."
+  },
+  "how_to_apply": {
+   "en": [
+    "Apply for a taught master's at Lancaster",
+    "Accept your offer before 23:59 GMT on 7 April 2027",
+    "The £2,000 is applied automatically"
+   ]
+  },
+  "costs": {
+   "en": "£2,000 one-off scholarship."
+  },
+  "keywords": [
+   "uk",
+   "lancaster",
+   "masters",
+   "early acceptance",
+   "automatic scholarship"
+  ],
+  "url": "https://www.lancaster.ac.uk/study/fees-and-funding/scholarships-and-bursaries/postgraduate-international-early-acceptance-scholarship/",
+  "apply_url": "https://www.lancaster.ac.uk/study/fees-and-funding/scholarships-and-bursaries/postgraduate-international-early-acceptance-scholarship/",
+  "sources": [
+   "https://www.lancaster.ac.uk/lums/postgraduate/scholarships-and-funding/"
+  ],
+  "score": 4,
+  "score_reason": "Small but automatic",
   "event_dates": null,
   "premium": false,
   "grades": "university",

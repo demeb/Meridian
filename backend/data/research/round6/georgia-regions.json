@@ -355,5 +355,621 @@
    "any"
   ],
   "verified_at": "2026-10-31"
+ },
+ {
+  "id": "batumi-athletes-tournament-travel-support-2026",
+  "section": "project",
+  "family": "youth",
+  "type": "municipal grant for athletes' tournament travel",
+  "org": "Batumi City Hall (Sport Division, Service of Education, Culture, Sport and Youth Affairs)",
+  "name": {
+   "en": "Batumi City Hall: Travel Support for Athletes Competing in Tournaments (up to 4,000 GEL)",
+   "ka": "ბათუმის მერია: ბათუმელი სპორტსმენების ტურნირებში მონაწილეობის ფინანსური მხარდაჭერა (4000 ლარამდე)",
+   "ar": "بلدية باتومي: دعم سفر الرياضيين للمشاركة في البطولات (حتى 4000 لاري)"
+  },
+  "country": {
+   "en": "Georgia",
+   "ka": "საქართველო",
+   "ar": "جورجيا"
+  },
+  "city": "Batumi",
+  "iso": "GE",
+  "flag": "🇬🇪",
+  "region": "europe",
+  "lat": 41.643,
+  "lon": 41.64,
+  "cost": "funded",
+  "duration": {
+   "en": "Rolling monthly calls (one-off grant per tournament)",
+   "ka": "ყოველთვიური მიღება (ერთჯერადი დახმარება ტურნირზე)",
+   "ar": "استقبال شهري متجدد (منحة لمرة واحدة لكل بطولة)"
+  },
+  "grades": "any",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling: applications accepted from the first to last working day of each month except November; December applications go to the next year's budget. Checked 31 Oct 2026.",
+  "event_dates": null,
+  "summary": {
+   "en": "Batumi-registered athletes, including school-age competitors applying with a parent, can get up to 4,000 GEL from the City Hall to travel to national or international tournaments. The grant covers travel, visa, insurance, hotel, entry fees and sports kit.",
+   "ka": "ბათუმში რეგისტრირებულ სპორტსმენებს, მათ შორის არასრულწლოვნებს მშობლის მეშვეობით, შეუძლიათ მერიისგან 4000 ლარამდე მიიღონ ეროვნულ ან საერთაშორისო ტურნირებში მონაწილეობისთვის: მგზავრობა, ვიზა, დაზღვევა, სასტუმრო, საფასური და ეკიპირება.",
+   "ar": "يمكن للرياضيين المسجلين في باتومي، بمن فيهم القاصرون عبر أولياء أمورهم، الحصول على ما يصل إلى 4000 لاري من البلدية للسفر إلى بطولات وطنية أو دولية، تشمل السفر والتأشيرة والتأمين والفندق ورسوم المشاركة والمعدات."
+  },
+  "about": {
+   "en": "Under the sub-programme 'Support for the Individual Development of Batumi Athletes', Batumi City Hall co-funds athletes and coaches registered in Batumi who are going to sports tournaments, including international ones. The aim is to help them gain competition experience and raise their level. Each winner receives a one-off advance of up to 4,000 GEL for travel, visa, insurance, hotel, tournament fees and sports equipment.\n\nApplications are accepted every month (except November), and a commission decides within ten working days after the month closes. You need an invitation or proof of entry, a recommendation from the national federation or the Adjara federation of your sport, and proof that part of the cost is covered by you or a sponsor. Minors apply through a parent. Within 30 days after the tournament you submit a short report.\n\nA useful route for young Batumi athletes selected for European or world youth championships whose federations cannot cover all costs."
+  },
+  "highlights": {
+   "en": [
+    "Up to 4,000 GEL per tournament",
+    "Open to minors through a parent; no upper age limit",
+    "Monthly intake with decisions in about 10 working days"
+   ]
+  },
+  "eligibility": {
+   "en": "Citizens of Georgia registered in Batumi municipality who are athletes or coaches with an invitation to a sports tournament and a recommendation from the Georgian national federation or the Adjara federation of their sport. Applicants under 18 apply with a parent's documents. Documents in Georgian."
+  },
+  "how_to_apply": {
+   "en": [
+    "Download the regulation and application form from the programme page on batumi.gov.ge",
+    "Prepare: application, CV, passport/ID copy (plus parent's ID and birth certificate for minors), proof of Batumi registration, federation recommendation, invitation, and proof of co-funding",
+    "Submit at Batumi City Hall, 25 Luka Asatiani Street, during the monthly window",
+    "After approval sign the contract; within 30 days after the tournament submit the programme report"
+   ]
+  },
+  "costs": {
+   "en": "Free to apply. One-off advance of up to 4,000 GEL for travel, visa, insurance, hotel, entry fees and sports kit; co-funding required."
+  },
+  "keywords": [
+   "batumi",
+   "adjara",
+   "sport",
+   "athlete",
+   "tournament",
+   "travel grant",
+   "championship",
+   "youth",
+   "funding"
+  ],
+  "url": "https://batumi.gov.ge/programs/batumeli-sportsmenebismtsvrtnelebis-finansuri-mkhardachera-2026",
+  "apply_url": "https://batumi.gov.ge/programs/batumeli-sportsmenebismtsvrtnelebis-finansuri-mkhardachera-2026",
+  "sources": [
+   "https://batumi.gov.ge/services/2",
+   "https://batumi.gov.ge/programs/batumeli-sportsmenebismtsvrtnelebis-finansuri-mkhardachera-2026",
+   "https://batumi.gov.ge/storage/17579/დებულება.pdf"
+  ],
+  "score": 6,
+  "score_reason": "Real travel money for Batumi athletes, rolling",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "batumi-artists-international-projects-support-2026",
+  "section": "project",
+  "family": "youth",
+  "type": "municipal grant for artists going to international events",
+  "org": "Batumi City Hall (Culture, sub-programme 'Support for Artists')",
+  "name": {
+   "en": "Batumi City Hall: Support for Artists at International Competitions and Festivals (up to 2,000 GEL)",
+   "ka": "ბათუმის მერია: საერთაშორისო კულტურულ პროექტებში მონაწილე ხელოვანთა დაფინანსება (2000 ლარამდე)",
+   "ar": "بلدية باتومي: دعم الفنانين المشاركين في المسابقات والمهرجانات الدولية (حتى 2000 لاري)"
+  },
+  "country": {
+   "en": "Georgia",
+   "ka": "საქართველო",
+   "ar": "جورجيا"
+  },
+  "city": "Batumi",
+  "iso": "GE",
+  "flag": "🇬🇪",
+  "region": "europe",
+  "lat": 41.643,
+  "lon": 41.64,
+  "cost": "funded",
+  "duration": {
+   "en": "Rolling monthly calls (one-off grant per event)",
+   "ka": "ყოველთვიური მიღება (ერთჯერადი დახმარება)",
+   "ar": "استقبال شهري متجدد (منحة لمرة واحدة لكل فعالية)"
+  },
+  "grades": "any",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling: applications accepted every month of the budget year; November/December applications also taken under the next year's budget. Checked 31 Oct 2026.",
+  "event_dates": null,
+  "summary": {
+   "en": "Musicians, actors, visual and film artists who live or work in Batumi, including young performers applying with a parent, can get up to 2,000 GEL to take part in international competitions, festivals or exhibitions. The grant covers travel, visa, insurance and registration fees.",
+   "ka": "ბათუმში მცხოვრებ ან მოღვაწე მუსიკოსებს, მსახიობებს, სახვითი და კინოხელოვანებს, მათ შორის არასრულწლოვნებს, შეუძლიათ 2000 ლარამდე მიიღონ საერთაშორისო კონკურსებში, ფესტივალებსა და გამოფენებში მონაწილეობისთვის.",
+   "ar": "يمكن للموسيقيين والممثلين والفنانين التشكيليين والسينمائيين المقيمين أو العاملين في باتومي، بمن فيهم القاصرون، الحصول على ما يصل إلى 2000 لاري للمشاركة في مسابقات ومهرجانات ومعارض دولية."
+  },
+  "about": {
+   "en": "Batumi City Hall's 'Support for Artists' sub-programme funds artists who have been invited to international cultural projects: competitions, festivals and exhibitions abroad or in Georgia. Priority goes to music, audiovisual, fine arts and theatre. Each winner gets a one-off advance of up to 2,000 GEL for travel, visa, insurance and registration costs.\n\nApplications are accepted every month and a working group decides within about ten working days. You need an official invitation or proof of participation, a recommendation letter, a CV and, if available, recordings or images of your work. Applicants under 18 apply with a parent's documents, so the scheme suits music-school pupils and young performers selected for international contests.\n\nIt does not pay fees for the competition itself unless they are registration costs, and expenses before the contract are not refunded, so apply as soon as you receive your invitation."
+  },
+  "highlights": {
+   "en": [
+    "Up to 2,000 GEL per international event",
+    "Priority for music, film, fine arts and theatre",
+    "Minors can apply through a parent"
+   ]
+  },
+  "eligibility": {
+   "en": "Citizens of Georgia who work as artists in Batumi or are registered in Batumi municipality at the time of application, with an official invitation to an international cultural project. Under-18s apply with a parent's ID and their birth certificate. Documents in Georgian."
+  },
+  "how_to_apply": {
+   "en": [
+    "Download the regulation and the 2026 application form from the programme page on batumi.gov.ge",
+    "Attach: recommendation letter, CV, passport/ID copy, proof of registration, invitation, bank details and (optional) a CD/portfolio of your work",
+    "Submit at Batumi City Hall, 25 Luka Asatiani Street, in any monthly window",
+    "If approved sign the contract, travel, then submit the report form"
+   ]
+  },
+  "costs": {
+   "en": "Free to apply. Up to 2,000 GEL for travel, visa, insurance and registration fees."
+  },
+  "keywords": [
+   "batumi",
+   "adjara",
+   "music",
+   "art",
+   "festival",
+   "competition",
+   "travel grant",
+   "young musicians",
+   "theatre",
+   "film"
+  ],
+  "url": "https://batumi.gov.ge/programs/2026-tslis-khelovanta-khelshetsyoba",
+  "apply_url": "https://batumi.gov.ge/programs/2026-tslis-khelovanta-khelshetsyoba",
+  "sources": [
+   "https://batumi.gov.ge/services/4",
+   "https://batumi.gov.ge/programs/2026-tslis-khelovanta-khelshetsyoba",
+   "https://batumi.gov.ge/storage/17552/დებულება--ხელოვანთა-ხელშეწყობა.pdf"
+  ],
+  "score": 6,
+  "score_reason": "Helps young Batumi artists reach international contests; rolling",
+  "premium": false,
+  "fields": [
+   "arts-design"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "georgian-national-museum-volunteer-programme",
+  "section": "project",
+  "family": "volunteering",
+  "type": "museum volunteering",
+  "org": "Georgian National Museum",
+  "name": {
+   "en": "Georgian National Museum Volunteer Programme",
+   "ka": "საქართველოს ეროვნული მუზეუმის მოხალისეობრივი პროგრამა",
+   "ar": "برنامج التطوع في المتحف الوطني الجورجي"
+  },
+  "country": {
+   "en": "Georgia",
+   "ka": "საქართველო",
+   "ar": "جورجيا"
+  },
+  "city": "Tbilisi",
+  "iso": "GE",
+  "flag": "🇬🇪",
+  "region": "europe",
+  "lat": 41.716,
+  "lon": 44.783,
+  "cost": "free",
+  "duration": {
+   "en": "Flexible; rolling applications",
+   "ka": "მოქნილი; განაცხადები მიიღება მუდმივად",
+   "ar": "مرن؛ التقديم مفتوح باستمرار"
+  },
+  "grades": "secondary graduates and university students",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Standing programme with no published deadline; applications go to the museum's administrative service. Checked 31 Oct 2026.",
+  "event_dates": null,
+  "summary": {
+   "en": "Volunteer in a department of the Georgian National Museum or one of its museums to gain hands-on museum, research and visitor-work experience. Open to motivated people of different ages with secondary or higher education.",
+   "ka": "იმოხალისე საქართველოს ეროვნული მუზეუმის განყოფილებაში ან მის რომელიმე მუზეუმში და მიიღე პრაქტიკული გამოცდილება. პროგრამა ღიაა საშუალო ან უმაღლესი განათლების მქონე მოტივირებული ადამიანებისთვის.",
+   "ar": "تطوّع في أحد أقسام المتحف الوطني الجورجي أو متاحفه لاكتساب خبرة عملية في العمل المتحفي والبحثي واستقبال الزوار. البرنامج مفتوح للمتحمسين من مختلف الأعمار الحاصلين على تعليم ثانوي أو عالٍ."
+  },
+  "about": {
+   "en": "The Georgian National Museum unites Georgia's main state museums (including the Simon Janashia Museum in Tbilisi and regional units such as the Svaneti Museum in Mestia and the Vani Archaeological Museum). Its volunteer programme takes people who want to raise their professional level, build museum-related skills and deepen their general education by working alongside staff in a chosen department.\n\nThe museum accepts volunteers of different ages who have completed secondary or higher education and are interested in museum work. It looks for motivation, willingness to learn, responsibility and punctuality; computer skills and a foreign language help for some projects. You state the department and role you want in your application.\n\nA strong CV item for students of history, archaeology, art history, conservation, tourism or education, and a way to see a national museum from the inside."
+  },
+  "highlights": {
+   "en": [
+    "Choose the museum department you want to work in",
+    "Open year-round, no deadline",
+    "Good fit for history, archaeology, art and heritage students"
+   ]
+  },
+  "eligibility": {
+   "en": "People of any age who have completed secondary education (school leavers, university students, graduates) and are interested in museum work. A recommendation from a school, university or employer is expected but may be waived. Georgian is the working language; a foreign language is an advantage."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the volunteer programme page on museum.ge",
+    "Prepare an application naming the department and position you want, a recommendation, CV, copy of your diploma or a certificate from your school/university, ID copy and two photos",
+    "Submit to the museum's administrative service (contact +995 32 299 80 22)",
+    "Wait to be contacted about placement and schedule"
+   ]
+  },
+  "costs": {
+   "en": "Free; unpaid volunteering."
+  },
+  "keywords": [
+   "museum",
+   "volunteering",
+   "heritage",
+   "history",
+   "archaeology",
+   "art",
+   "tbilisi",
+   "internship",
+   "culture"
+  ],
+  "url": "https://museum.ge/index.php?m=317",
+  "apply_url": "https://museum.ge/index.php?m=317",
+  "sources": [
+   "https://museum.ge/",
+   "https://museum.ge/index.php?m=317"
+  ],
+  "score": 5,
+  "score_reason": "Rolling, accessible volunteering at Georgia's national museum",
+  "premium": false,
+  "fields": [
+   "humanities",
+   "arts-design"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "zugdidi-youth-projects-cofunding",
+  "section": "project",
+  "family": "youth",
+  "type": "municipal youth project grant",
+  "org": "Zugdidi Municipality City Hall (Sports and Youth Affairs Division)",
+  "name": {
+   "en": "Zugdidi City Hall: Youth Project Funding and Co-Funding (up to 5,000 GEL)",
+   "ka": "ზუგდიდის მერია: ახალგაზრდული პროექტების დაფინანსება და თანადაფინანსება (5000 ლარამდე)",
+   "ar": "بلدية زوغديدي: تمويل مشاريع الشباب والتمويل المشترك (حتى 5000 لاري)"
+  },
+  "country": {
+   "en": "Georgia",
+   "ka": "საქართველო",
+   "ar": "جورجيا"
+  },
+  "city": "Zugdidi",
+  "iso": "GE",
+  "flag": "🇬🇪",
+  "region": "europe",
+  "lat": 42.509,
+  "lon": 41.871,
+  "cost": "funded",
+  "duration": {
+   "en": "Rolling; commission meets monthly",
+   "ka": "მუდმივი მიღება; კომისია ყოველთვიურად იკრიბება",
+   "ar": "تقديم متجدد؛ تجتمع اللجنة شهرياً"
+  },
+  "grades": "14-29",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling: the commission meets as needed, usually in the first week of each month; one grant per organisation per year. Checked 31 Oct 2026.",
+  "event_dates": null,
+  "summary": {
+   "en": "Youth organisations can get up to 5,000 GEL from Zugdidi City Hall for projects with at least about 25 young people aged 14-29 registered in Zugdidi municipality, including internally displaced youth. Projects up to 2,000 GEL are fully funded.",
+   "ka": "ახალგაზრდულ ორგანიზაციებს შეუძლიათ ზუგდიდის მერიისგან 5000 ლარამდე მიიღონ პროექტებისთვის, რომლებშიც ზუგდიდში რეგისტრირებული 14-29 წლის ახალგაზრდები (მათ შორის დევნილები) მონაწილეობენ. 2000 ლარამდე პროექტები სრულად ფინანსდება.",
+   "ar": "يمكن لمنظمات الشباب الحصول على ما يصل إلى 5000 لاري من بلدية زوغديدي لمشاريع تشرك نحو 25 شاباً على الأقل (14-29 عاماً) مسجلين في زوغديدي، بمن فيهم النازحون داخلياً."
+  },
+  "about": {
+   "en": "Zugdidi municipality (Samegrelo) funds projects that organisations run with and for local young people aged 14-29, both residents and internally displaced persons. Themes include healthy lifestyles, gender equality, youth entrepreneurship, personal development through non-formal education, inclusive education and other projects that meet young people's needs and Georgia's youth policy goals.\n\nProjects costing up to 2,000 GEL can be funded in full; between 2,000 and 5,000 GEL the City Hall co-funds up to 90%. A commission usually meets in the first week of each month and the applicant presents the project (online attendance allowed). Each organisation can use the programme once a year, and a report with photos, a participant list and proof of spending is due within a month after the project.\n\nUseful for student clubs, youth NGOs and school-based initiative groups in Zugdidi that need a first grant for a camp, training, exchange or campaign."
+  },
+  "highlights": {
+   "en": [
+    "Up to 5,000 GEL; projects up to 2,000 GEL fully funded",
+    "Monthly commission, rolling applications",
+    "Projects can also take local youth to events outside Zugdidi or abroad"
+   ]
+  },
+  "eligibility": {
+   "en": "Organisations working in the youth field (NGOs and similar legal entities) whose project targets young people aged 14-29 registered in Zugdidi municipality (local or IDP), ideally at least about 25 participants. Documents in Georgian."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the rules on the programme page on zugdidi.gov.ge and download the application annex",
+    "Prepare: application to the Mayor, project form with budget and plan, public registry extract, representative's ID, bank details, and parental consent if minors travel outside Zugdidi",
+    "Submit to Zugdidi City Hall (hotline 591 54 40 44, info@zugdidi.gov.ge)",
+    "Present the project at the commission meeting (in person or online)",
+    "Run the project and report within one month"
+   ]
+  },
+  "costs": {
+   "en": "Free to apply. Up to 5,000 GEL per project (full funding up to 2,000 GEL; up to 90% co-funding above that)."
+  },
+  "keywords": [
+   "zugdidi",
+   "samegrelo",
+   "youth grant",
+   "project",
+   "ngo",
+   "idp",
+   "non-formal education",
+   "funding",
+   "municipality"
+  ],
+  "url": "https://zugdidi.gov.ge/content/993/axalgazrduli-proeqtebis-dafinanseba-da-Tanadafinanseba",
+  "apply_url": "https://zugdidi.gov.ge/content/993/axalgazrduli-proeqtebis-dafinanseba-da-Tanadafinanseba",
+  "sources": [
+   "https://zugdidi.gov.ge/",
+   "https://zugdidi.gov.ge/content/993/axalgazrduli-proeqtebis-dafinanseba-da-Tanadafinanseba"
+  ],
+  "score": 4,
+  "score_reason": "Rolling local grant, but applicants must be organisations",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "eiec-soil-essay-contest-human-footprint-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "school essay contest",
+  "org": "Environmental Information and Education Centre (EIEC), Ministry of Environmental Protection and Agriculture of Georgia",
+  "name": {
+   "en": "Essay Contest 'Human Footprint on Soil' 2026 (World Soil Day)",
+   "ka": "ესეების კონკურსი „ადამიანის კვალი ნიადაგზე“ 2026 (ნიადაგის მსოფლიო დღე)",
+   "ar": "مسابقة المقالات «أثر الإنسان على التربة» 2026 (اليوم العالمي للتربة)"
+  },
+  "country": {
+   "en": "Georgia",
+   "ka": "საქართველო",
+   "ar": "جورجيا"
+  },
+  "city": "Tbilisi",
+  "iso": "GE",
+  "flag": "🇬🇪",
+  "region": "europe",
+  "lat": 41.716,
+  "lon": 44.783,
+  "cost": "free",
+  "duration": {
+   "en": "Submissions 20 October-20 November 2026; awards 5 December",
+   "ka": "მიღება 20 ოქტომბერი - 20 ნოემბერი 2026; დაჯილდოება 5 დეკემბერს",
+   "ar": "التقديم من 20 أكتوبر إلى 20 نوفمبر 2026؛ التكريم في 5 ديسمبر"
+  },
+  "grades": "7-12",
+  "opens": null,
+  "deadline": "2026-11-20",
+  "deadline_note": "Contest page: submissions 20 October-20 November 2026; award ceremony 5 December 2026.",
+  "event_dates": "2026-12-05 to 2026-12-05",
+  "summary": {
+   "en": "A national essay contest for school pupils in grades 7-12 across Georgia on soil protection, tied to World Soil Day 2026. Write 300-600 words in Georgian and email it by 20 November.",
+   "ka": "ეროვნული ესეების კონკურსი საქართველოს სკოლების VII-XII კლასის მოსწავლეებისთვის ნიადაგის დაცვაზე, ნიადაგის მსოფლიო დღესთან დაკავშირებით. დაწერე 300-600 სიტყვა და გამოგზავნე 20 ნოემბრამდე.",
+   "ar": "مسابقة مقالات وطنية لتلاميذ الصفوف 7-12 في مدارس جورجيا حول حماية التربة بمناسبة اليوم العالمي للتربة 2026. اكتب 300-600 كلمة بالجورجية وأرسلها قبل 20 نوفمبر."
+  },
+  "about": {
+   "en": "The Environmental Information and Education Centre (EIEC), the environmental education agency of Georgia's Ministry of Environmental Protection and Agriculture, runs this essay contest for World Soil Day (5 December). The 2026 campaign theme is soil compaction: 'Stop soil compaction, increase soil productivity'. Pupils are asked what footprint people leave on soil and what soil we should leave to future generations.\n\nIt is open to pupils of general schools anywhere in Georgia in two categories: grades 7-9 and grades 10-12. Essays of 300-600 words in Georgian (Word or PDF, Sylfaen 12, 1.5 spacing) must describe the problem and its causes, give examples, state your own opinion and propose solutions, with sources cited. A jury scores out of 100, rewarding depth of understanding (25), argument (20) and independent thinking (20) over the amount of information.\n\nWinners in 1st-3rd place in each category receive certificates named after academician Tengiz Urushadze at a ceremony on 5 December 2026. A quick, free entry for pupils interested in environment, agriculture or biology."
+  },
+  "highlights": {
+   "en": [
+    "Two categories: grades 7-9 and 10-12",
+    "Short essay (300-600 words), entry by email",
+    "Award ceremony on World Soil Day, 5 December"
+   ]
+  },
+  "eligibility": {
+   "en": "Pupils in grades 7-12 of general education schools in Georgia. Essays must be in Georgian and the pupil's own work."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the contest conditions on eiec.gov.ge",
+    "Write a 300-600 word essay in Georgian (Word or PDF, Sylfaen 12, 1.5 spacing) with sources",
+    "Email it to info@eiec.gov.ge by 20 November 2026 with your name, surname, school, contact details and a short description of the work"
+   ]
+  },
+  "costs": {
+   "en": "Free."
+  },
+  "keywords": [
+   "essay",
+   "environment",
+   "soil",
+   "ecology",
+   "school",
+   "contest",
+   "agriculture",
+   "climate",
+   "free"
+  ],
+  "url": "https://eiec.gov.ge/ka/competitions/current/eseebis-konkursi-adamianis-kvali-niadagze",
+  "apply_url": "mailto:info@eiec.gov.ge",
+  "sources": [
+   "https://eiec.gov.ge/ka/competitions/current",
+   "https://eiec.gov.ge/ka/competitions/current/eseebis-konkursi-adamianis-kvali-niadagze"
+  ],
+  "score": 6,
+  "score_reason": "Open now, national, low effort; deadline 20 Nov",
+  "premium": false,
+  "fields": [
+   "environment",
+   "natural-sciences"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "essay"
+  ]
+ },
+ {
+  "id": "adjara-vocational-students-exchange-grant",
+  "section": "project",
+  "family": "training",
+  "type": "grant for vocational exchange abroad",
+  "org": "Ministry of Education and Sport of the Autonomous Republic of Adjara with colleges 'Blacksea' (Batumi) and 'Akhali Talgha' (Kobuleti)",
+  "name": {
+   "en": "Adjara Grant for Vocational Students' Exchanges Abroad (up to 5,000 GEL)",
+   "ka": "აჭარა: პროფესიული განათლების ინტერნაციონალიზაციის საგრანტო კონკურსი პროფესიული სტუდენტებისთვის (5000 ლარამდე)",
+   "ar": "أجاريا: منحة لطلاب التعليم المهني للتبادل في الخارج (حتى 5000 لاري)"
+  },
+  "country": {
+   "en": "Georgia",
+   "ka": "საქართველო",
+   "ar": "جورجيا"
+  },
+  "city": "Batumi",
+  "iso": "GE",
+  "flag": "🇬🇪",
+  "region": "europe",
+  "lat": 41.643,
+  "lon": 41.64,
+  "cost": "funded",
+  "duration": {
+   "en": "Exchange of at least 1 month abroad",
+   "ka": "არანაკლებ 1 თვიანი გაცვლა საზღვარგარეთ",
+   "ar": "تبادل لمدة شهر على الأقل في الخارج"
+  },
+  "grades": "vocational students",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Programme launched in 2026 (budget 50,000 GEL); students apply through the partner colleges within the colleges' own competition windows. Ask the college for the current round. Checked 31 Oct 2026.",
+  "event_dates": null,
+  "summary": {
+   "en": "Vocational students registered in Adjara can win up to 5,000 GEL to spend at least a month on an exchange at a vocational school in the EU, UK, USA, Canada, Australia, Japan, Switzerland or Norway. Applications go through the Blacksea and Akhali Talgha colleges.",
+   "ka": "აჭარაში რეგისტრირებულ პროფესიულ სტუდენტებს შეუძლიათ 5000 ლარამდე მიიღონ ევროკავშირის, ბრიტანეთის, აშშ-ის, კანადის, ავსტრალიის, იაპონიის, შვეიცარიის ან ნორვეგიის პროფესიულ სასწავლებელში არანაკლებ ერთთვიანი გაცვლისთვის.",
+   "ar": "يمكن لطلاب التعليم المهني المسجلين في أجاريا الحصول على ما يصل إلى 5000 لاري لقضاء شهر على الأقل في تبادل بمؤسسة مهنية في الاتحاد الأوروبي أو بريطانيا أو أمريكا أو كندا أو أستراليا أو اليابان أو سويسرا أو النرويج."
+  },
+  "about": {
+   "en": "Adjara's Ministry of Education and Sport started this programme in 2026 to help vocational students add international experience to their training at home. It funds exchange programmes of at least one month at vocational institutions in EU member states, the UK, USA, Canada, Australia, Japan, Switzerland or Norway; for dual (work-based) programmes, placements can be with employers proposed by the partner colleges' foreign partners.\n\nThe grant (up to 5,000 GEL) can cover registration on the exchange programme, housing and utilities, international travel, health insurance, visa costs, food and local transport. Students apply to one of the two partner colleges, the public colleges 'Blacksea' in Batumi and 'Akhali Talgha' in Kobuleti, which select candidates in their own competitions and nominate them to the ministry.\n\nA concrete way for students in hospitality, tourism, IT, construction or other trades in Adjara to train abroad."
+  },
+  "highlights": {
+   "en": [
+    "Up to 5,000 GEL per student",
+    "Exchanges of 1 month or more in Europe, North America, Japan or Australia",
+    "Apply through Blacksea (Batumi) or Akhali Talgha (Kobuleti) college"
+   ]
+  },
+  "eligibility": {
+   "en": "Citizens of Georgia registered in Adjara for at least one year before the call, who are vocational students and will take part in an exchange vocational programme of at least one month in an eligible country."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the conditions and regulation on the ministry's page",
+    "Contact your college: Blacksea (Batumi, info@blacksea.edu.ge) or Akhali Talgha (Kobuleti, info@kpc.ge)",
+    "Apply in the college's competition and, if selected, get nominated to the ministry",
+    "Sign the grant agreement and keep receipts for reimbursable costs"
+   ]
+  },
+  "costs": {
+   "en": "Grant of up to 5,000 GEL for documented exchange costs."
+  },
+  "keywords": [
+   "vocational",
+   "exchange",
+   "abroad",
+   "grant",
+   "adjara",
+   "batumi",
+   "kobuleti",
+   "college",
+   "internship"
+  ],
+  "url": "https://education.ajara.gov.ge/%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%A4%E1%83%94%E1%83%A1%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98-%E1%83%92%E1%83%90%E1%83%9C%E1%83%90%E1%83%97%E1%83%9A%E1%83%94%E1%83%91%E1%83%98%E1%83%A1-%E1%83%98%E1%83%9C%E1%83%A2%E1%83%94%E1%83%A0%E1%83%9C%E1%83%90%E1%83%AA%E1%83%98%E1%83%9D%E1%83%9C%E1%83%90%E1%83%9A%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%98%E1%83%A1-%E1%83%AE%E1%83%94%E1%83%9A%E1%83%A8%E1%83%94%E1%83%AC%E1%83%A7%E1%83%9D%E1%83%91%E1%83%90-%E1%83%A1%E1%83%90%E1%83%92%E1%83%A0%E1%83%90%E1%83%9C%E1%83%A2%E1%83%9D-%E1%83%99%E1%83%9D%E1%83%9C%E1%83%99%E1%83%A3%E1%83%A0%E1%83%A1%E1%83%98%E1%83%A1-%E1%83%9E%E1%83%98%E1%83%A0%E1%83%9D%E1%83%91%E1%83%94%E1%83%91%E1%83%98-%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%A4%E1%83%94%E1%83%A1%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98-%E1%83%A1%E1%83%A2%E1%83%A3%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%94%E1%83%91%E1%83%98%E1%83%A1%E1%83%97%E1%83%95%E1%83%98%E1%83%A1",
+  "apply_url": "https://education.ajara.gov.ge/%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%A4%E1%83%94%E1%83%A1%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98-%E1%83%92%E1%83%90%E1%83%9C%E1%83%90%E1%83%97%E1%83%9A%E1%83%94%E1%83%91%E1%83%98%E1%83%A1-%E1%83%98%E1%83%9C%E1%83%A2%E1%83%94%E1%83%A0%E1%83%9C%E1%83%90%E1%83%AA%E1%83%98%E1%83%9D%E1%83%9C%E1%83%90%E1%83%9A%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%98%E1%83%A1-%E1%83%AE%E1%83%94%E1%83%9A%E1%83%A8%E1%83%94%E1%83%AC%E1%83%A7%E1%83%9D%E1%83%91%E1%83%90-%E1%83%A1%E1%83%90%E1%83%92%E1%83%A0%E1%83%90%E1%83%9C%E1%83%A2%E1%83%9D-%E1%83%99%E1%83%9D%E1%83%9C%E1%83%99%E1%83%A3%E1%83%A0%E1%83%A1%E1%83%98%E1%83%A1-%E1%83%9E%E1%83%98%E1%83%A0%E1%83%9D%E1%83%91%E1%83%94%E1%83%91%E1%83%98-%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%A4%E1%83%94%E1%83%A1%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98-%E1%83%A1%E1%83%A2%E1%83%A3%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%94%E1%83%91%E1%83%98%E1%83%A1%E1%83%97%E1%83%95%E1%83%98%E1%83%A1",
+  "sources": [
+   "https://education.ajara.gov.ge/%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%A4%E1%83%94%E1%83%A1%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98-%E1%83%92%E1%83%90%E1%83%9C%E1%83%90%E1%83%97%E1%83%9A%E1%83%94%E1%83%91%E1%83%98%E1%83%A1-%E1%83%98%E1%83%9C%E1%83%A2%E1%83%94%E1%83%A0%E1%83%9C%E1%83%90%E1%83%AA%E1%83%98%E1%83%9D%E1%83%9C%E1%83%90%E1%83%9A%E1%83%98%E1%83%96%E1%83%90%E1%83%AA%E1%83%98%E1%83%98%E1%83%A1-%E1%83%AE%E1%83%94%E1%83%9A%E1%83%A8%E1%83%94%E1%83%AC%E1%83%A7%E1%83%9D%E1%83%91%E1%83%90-%E1%83%A1%E1%83%90%E1%83%92%E1%83%A0%E1%83%90%E1%83%9C%E1%83%A2%E1%83%9D-%E1%83%99%E1%83%9D%E1%83%9C%E1%83%99%E1%83%A3%E1%83%A0%E1%83%A1%E1%83%98%E1%83%A1-%E1%83%9E%E1%83%98%E1%83%A0%E1%83%9D%E1%83%91%E1%83%94%E1%83%91%E1%83%98-%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%A4%E1%83%94%E1%83%A1%E1%83%98%E1%83%A3%E1%83%9A%E1%83%98-%E1%83%A1%E1%83%A2%E1%83%A3%E1%83%93%E1%83%94%E1%83%9C%E1%83%A2%E1%83%94%E1%83%91%E1%83%98%E1%83%A1%E1%83%97%E1%83%95%E1%83%98%E1%83%A1",
+   "https://api.ajara.gov.ge/storage/files/doc/danarti-n2-profesiuli-ganatlebis-internatsionalizatsiis-khelshetsyoba-debuleba-1.docx"
+  ],
+  "score": 5,
+  "score_reason": "Good funding for vocational students; application windows set by colleges",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "adjara-children-folk-ensembles-olympiad-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "regional folk song and dance contest",
+  "org": "Ministry of Culture of the Autonomous Republic of Adjara",
+  "name": {
+   "en": "Adjara Olympiad of Children's Folk Song and Dance Ensembles (2027)",
+   "ka": "აჭარის სიმღერისა და ცეკვის ბავშვთა ფოლკლორული ანსამბლების ოლიმპიადა (2027)",
+   "ar": "أولمبياد فرق الأطفال للغناء والرقص الشعبي في أجاريا (2027)"
+  },
+  "country": {
+   "en": "Georgia",
+   "ka": "საქართველო",
+   "ar": "جورجيا"
+  },
+  "city": "Batumi",
+  "iso": "GE",
+  "flag": "🇬🇪",
+  "region": "europe",
+  "lat": 41.643,
+  "lon": 41.64,
+  "cost": "free",
+  "duration": {
+   "en": "Municipal rounds in May, then a final gala",
+   "ka": "მუნიციპალური ტურები მაისში, შემდეგ დასკვნითი გალა",
+   "ar": "جولات بلدية في مايو ثم حفل ختامي"
+  },
+  "grades": "school-age (ensemble members)",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Annual; the 2026 edition was announced on 8 April 2026 with selection rounds on 18-23 May in each Adjara municipality. 2027 dates not yet published. Checked 31 Oct 2026.",
+  "event_dates": null,
+  "summary": {
+   "en": "An annual competition for children's choirs and folk dance ensembles across Adjara, with more than 80 ensembles and 2,000 young performers each year. Winners receive awards including stage costumes.",
+   "ka": "ყოველწლიური კონკურსი აჭარის ბავშვთა საგუნდო და ქორეოგრაფიული ფოლკლორული ანსამბლებისთვის, რომელშიც ყოველწლიურად 80-ზე მეტი ანსამბლი და 2000-ზე მეტი ახალგაზრდა შემსრულებელი მონაწილეობს.",
+   "ar": "مسابقة سنوية لجوقات الأطفال وفرق الرقص الشعبي في أجاريا، يشارك فيها كل عام أكثر من 80 فرقة و2000 مؤدٍّ صغير، وتُمنح الفرق الفائزة جوائز منها أزياء المسرح."
+  },
+  "about": {
+   "en": "Every year Adjara's Ministry of Culture holds the Olympiad of Children's Folk Song and Dance Ensembles to showcase traditional Georgian folk song and dance among young people, discover talented performers and let ensembles share new creative work. More than 80 choreographic and choral ensembles with over 2,000 performers take part.\n\nThe olympiad runs in stages: selection rounds in every Adjara municipality (in 2026 these took place on 18-23 May, starting with Khulo and Shuakhevi), followed by a final gala concert and awards ceremony. Winning ensembles (Grand Prix and first places) receive prizes such as stage costumes and accessories.\n\nPupils take part as members of a school, music-school or community folk ensemble; joining a local ensemble in Batumi, Kobuleti, Khelvachauri, Keda, Shuakhevi or Khulo is the way in."
+  },
+  "highlights": {
+   "en": [
+    "80+ ensembles and 2,000+ young performers each year",
+    "Rounds in every Adjara municipality",
+    "Prizes include stage costumes for winning ensembles"
+   ]
+  },
+  "eligibility": {
+   "en": "Children's folk choirs and dance ensembles from the Autonomous Republic of Adjara; individual pupils participate through their ensemble."
+  },
+  "how_to_apply": {
+   "en": [
+    "Join a school, music-school or community folk ensemble in Adjara",
+    "Ask the ensemble leader to register when the ministry announces the 2027 olympiad (spring)",
+    "Perform in the municipal round; top ensembles go on to the final gala"
+   ]
+  },
+  "costs": {
+   "en": "Free to take part."
+  },
+  "keywords": [
+   "folk",
+   "dance",
+   "choir",
+   "music",
+   "georgian culture",
+   "adjara",
+   "batumi",
+   "children",
+   "ensemble"
+  ],
+  "url": "https://culture.ajara.gov.ge/news-2/%E1%83%90%E1%83%AD%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1-%E1%83%A0%E1%83%94%E1%83%92%E1%83%98%E1%83%9D%E1%83%9C%E1%83%A8%E1%83%98-%E1%83%A1%E1%83%98%E1%83%9B%E1%83%A6%E1%83%94%E1%83%A0%E1%83%98%E1%83%A1%E1%83%90-%E1%83%93%E1%83%90-%E1%83%AA%E1%83%94%E1%83%99%E1%83%95%E1%83%98%E1%83%A1-%E1%83%91%E1%83%90%E1%83%95%E1%83%A8%E1%83%95%E1%83%97%E1%83%90-%E1%83%A4%E1%83%9D%E1%83%9A%E1%83%99%E1%83%9A%E1%83%9D%E1%83%A0%E1%83%A3%E1%83%9A%E1%83%98-%E1%83%90%E1%83%9C%E1%83%A1%E1%83%90%E1%83%9B%E1%83%91%E1%83%9A%E1%83%94%E1%83%91%E1%83%98%E1%83%A1-%E1%83%9D%E1%83%9A%E1%83%98%E1%83%9B%E1%83%9E%E1%83%98%E1%83%90%E1%83%93%E1%83%90-%E1%83%98%E1%83%AC%E1%83%A7%E1%83%94%E1%83%91%E1%83%90",
+  "apply_url": "https://culture.ajara.gov.ge/news-2/%E1%83%90%E1%83%AD%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1-%E1%83%A0%E1%83%94%E1%83%92%E1%83%98%E1%83%9D%E1%83%9C%E1%83%A8%E1%83%98-%E1%83%A1%E1%83%98%E1%83%9B%E1%83%A6%E1%83%94%E1%83%A0%E1%83%98%E1%83%A1%E1%83%90-%E1%83%93%E1%83%90-%E1%83%AA%E1%83%94%E1%83%99%E1%83%95%E1%83%98%E1%83%A1-%E1%83%91%E1%83%90%E1%83%95%E1%83%A8%E1%83%95%E1%83%97%E1%83%90-%E1%83%A4%E1%83%9D%E1%83%9A%E1%83%99%E1%83%9A%E1%83%9D%E1%83%A0%E1%83%A3%E1%83%9A%E1%83%98-%E1%83%90%E1%83%9C%E1%83%A1%E1%83%90%E1%83%9B%E1%83%91%E1%83%9A%E1%83%94%E1%83%91%E1%83%98%E1%83%A1-%E1%83%9D%E1%83%9A%E1%83%98%E1%83%9B%E1%83%9E%E1%83%98%E1%83%90%E1%83%93%E1%83%90-%E1%83%98%E1%83%AC%E1%83%A7%E1%83%94%E1%83%91%E1%83%90",
+  "sources": [
+   "https://culture.ajara.gov.ge/",
+   "https://culture.ajara.gov.ge/news-2/%E1%83%90%E1%83%AD%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1-%E1%83%A0%E1%83%94%E1%83%92%E1%83%98%E1%83%9D%E1%83%9C%E1%83%A8%E1%83%98-%E1%83%A1%E1%83%98%E1%83%9B%E1%83%A6%E1%83%94%E1%83%A0%E1%83%98%E1%83%A1%E1%83%90-%E1%83%93%E1%83%90-%E1%83%AA%E1%83%94%E1%83%99%E1%83%95%E1%83%98%E1%83%A1-%E1%83%91%E1%83%90%E1%83%95%E1%83%A8%E1%83%95%E1%83%97%E1%83%90-%E1%83%A4%E1%83%9D%E1%83%9A%E1%83%99%E1%83%9A%E1%83%9D%E1%83%A0%E1%83%A3%E1%83%9A%E1%83%98-%E1%83%90%E1%83%9C%E1%83%A1%E1%83%90%E1%83%9B%E1%83%91%E1%83%9A%E1%83%94%E1%83%91%E1%83%98%E1%83%A1-%E1%83%9D%E1%83%9A%E1%83%98%E1%83%9B%E1%83%9E%E1%83%98%E1%83%90%E1%83%93%E1%83%90-%E1%83%98%E1%83%AC%E1%83%A7%E1%83%94%E1%83%91%E1%83%90"
+  ],
+  "score": 4,
+  "score_reason": "Large free regional arts contest; via ensembles only; 2027 dates pending",
+  "premium": false,
+  "fields": [
+   "arts-design"
+  ],
+  "verified_at": "2026-10-31"
  }
 ]

@@ -430,20 +430,38 @@ PROGRAM_CARD = ("id", "section", "family", "type", "org", "name", "country", "ci
                 "score", "premium", "level", "fields", "coverage", "coverage_pct")
 
 
+_LIST_CACHE = {}
+
+
 @app.get("/api/programs")
 def api_programs():
+    """The whole list, built and gzipped once per catalogue version and access level
+    (with ~2,400 programmes, compressing on every request would cost ~0.2 s)."""
     user = current_user()
-    items = []
-    for program in catalog.programs():
-        locked = gate_program(program, bool(user))["locked"]
-        items.append(dict({k: program[k] for k in PROGRAM_CARD
-                           if k in program and not (locked and k in LOCKED_FIELDS)}, locked=locked))
-    return jsonify({
-        "ok": True,
-        "programs": items,
-        "access": {"authed": bool(user), "plan": user["plan"] if user else None,
-                   "locked": sum(1 for i in items if i["locked"])},
-    })
+    catalogue = catalog.programs()
+    key = (bool(user), id(catalogue), len(catalogue))
+    hit = _LIST_CACHE.get(key)
+    if not hit:
+        items = []
+        for program in catalogue:
+            locked = gate_program(program, bool(user))["locked"]
+            items.append(dict({k: program[k] for k in PROGRAM_CARD
+                               if k in program and not (locked and k in LOCKED_FIELDS)}, locked=locked))
+        body = json.dumps({
+            "ok": True,
+            "programs": items,
+            "access": {"authed": bool(user), "locked": sum(1 for i in items if i["locked"])},
+        }, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+        for stale in [k for k in _LIST_CACHE if k[1:] != key[1:]]:   # a newer catalogue replaces old copies
+            _LIST_CACHE.pop(stale, None)
+        hit = _LIST_CACHE[key] = (body, gzip.compress(body, compresslevel=6))
+    zipped = "gzip" in request.headers.get("Accept-Encoding", "")
+    response = make_response(hit[1] if zipped else hit[0])
+    response.mimetype = "application/json"
+    if zipped:
+        response.headers["Content-Encoding"] = "gzip"
+    response.vary.add("Accept-Encoding")
+    return response
 
 
 @app.get("/api/programs/<program_id>")

@@ -1,5 +1,195 @@
 [
  {
+  "id": "fwwmun-cairo-2027",
+  "section": "project",
+  "family": "mun",
+  "type": "international MUN conference (regional edition)",
+  "org": "Future We Want Model United Nations (FWWMUN)",
+  "name": {
+   "en": "Future We Want Model United Nations (FWWMUN) Cairo 2027",
+   "ka": "FWWMUN Cairo 2027: გაეროს მოდელის კონფერენცია (კაირო)",
+   "ar": "FWWMUN Cairo 2027: مؤتمر نموذج الأمم المتحدة (القاهرة)"
+  },
+  "country": {
+   "en": "Egypt",
+   "ka": "ეგვიპტე",
+   "ar": "مصر"
+  },
+  "city": "Cairo",
+  "iso": "EG",
+  "flag": "🇪🇬",
+  "region": "africa",
+  "lat": 30.044,
+  "lon": 31.236,
+  "cost": "paid",
+  "duration": {
+   "en": "4 days (21–24 January 2027)",
+   "ka": "4 დღე (2027 წლის 21–24 იანვარი)",
+   "ar": "4 أيام (21–24 يناير 2027)"
+  },
+  "grades": "high school and university (14+)",
+  "opens": "2026-06-01",
+  "deadline": "2026-12-14",
+  "deadline_note": "Early registration open since 1 June 2026; regular registration opens 28 July 2026 (already open), late registration 10 November 2026; all conference fees due 2026-12-14 (FWWMUN key-dates table). First come, first served.",
+  "event_dates": "2027-01-21 to 2027-01-24",
+  "summary": {
+   "en": "A regional edition of the Future We Want Model UN programme in Cairo, 21–24 January 2027, open to high-school and university students as individuals or school delegations. Held in Cairo, Egypt; regular registration is already open.",
+   "ka": "FWWMUN Cairo 2027 — გაეროს მოდელირების (Model UN) კონფერენცია სკოლის მოსწავლეებისა და უნივერსიტეტის სტუდენტებისთვის. თარიღი: 2027 წლის 21–24 იანვარი; ადგილი: კაირო, ეგვიპტე. მონაწილეობა ფასიანია. რეგისტრაცია ორგანიზატორის ოფიციალურ საიტზე ხდება.",
+   "ar": "FWWMUN Cairo 2027 مؤتمر لنموذج الأمم المتحدة لطلاب المدارس والجامعات، يُعقد في القاهرة (مصر) بتاريخ 21–24 يناير 2027. المشاركة برسوم. يتم التسجيل عبر الموقع الرسمي للمنظمين."
+  },
+  "about": {
+   "en": "Future We Want Model United Nations (FWWMUN) runs international Model UN conferences in cities on five continents. FWWMUN Cairo takes place on 21–24 January 2027 in a partner 4- or 5-star hotel (venue to be confirmed). It opens with workshops on youth involvement, the Sustainable Development Goals and leadership, followed by committee sessions run under the FWWMUN rules of procedure.\n\nHigh-school and university students can register as individuals or as a delegation (at least five delegates; high-school delegations need a faculty advisor). Country assignments are released in rounds, and position papers are due a few weeks before the conference. Held in Cairo, Egypt; regular registration is already open.\n\nIt suits students who want an international, multi-day MUN experience abroad with participants from many countries; registration is first come, first served and visa invitation letters are issued after payment."
+  },
+  "highlights": {
+   "en": [
+    "International delegates from many countries; individual or delegation registration",
+    "Opening workshops on SDGs, youth involvement and leadership",
+    "Scholarship applications available in spring"
+   ]
+  },
+  "eligibility": {
+   "en": "High-school and university students worldwide. Individuals may register alone; schools, universities and MUN clubs register as delegations of at least five, with one faculty advisor per five delegates for minors. English is the working language."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the FWWMUN Cairo page and read the registration & costs section",
+    "Register as an individual or as a delegation (early, regular or late window)",
+    "Pay the conference fee by the fees-due date and book the partner hotel if needed",
+    "Request a visa invitation letter if required",
+    "Receive your country/NGO assignment and submit your position paper on time"
+   ]
+  },
+  "costs": {
+   "en": "Individual registration fee per participant plus a one-time delegation fee for groups (amounts shown in the registration system); hotel, flights and visas are extra. Host-country schools may be exempt from the delegation fee. Partial scholarships can be requested."
+  },
+  "keywords": [
+   "abroad",
+   "cairo",
+   "debate",
+   "diplomacy",
+   "egypt",
+   "future we want",
+   "fwwmun",
+   "international",
+   "model united nations",
+   "mun"
+  ],
+  "url": "https://www.fwwmun-nyc.org/mun-mexico-city",
+  "apply_url": "https://www.fwwmun-nyc.org/mun-mexico-city",
+  "sources": [
+   "https://www.fwwmun-nyc.org/mun-mexico-city",
+   "https://www.fwwmun-nyc.org/"
+  ],
+  "score": 5,
+  "score_reason": "Large commercial international MUN brand; open registration and a long lead time, but costly with travel.",
+  "premium": false,
+  "fields": [
+   "international-relations",
+   "law",
+   "social-sciences"
+  ],
+  "tutor_tags": [
+   "mun",
+   "debate"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "fwwmun-osaka-2027",
+  "section": "project",
+  "family": "mun",
+  "type": "international MUN conference (regional edition)",
+  "org": "Future We Want Model United Nations (FWWMUN)",
+  "name": {
+   "en": "Future We Want Model United Nations (FWWMUN) Osaka 2027",
+   "ka": "FWWMUN Osaka 2027: გაეროს მოდელის კონფერენცია (ოსაკა)",
+   "ar": "FWWMUN Osaka 2027: مؤتمر نموذج الأمم المتحدة (أوساكا)"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია",
+   "ar": "اليابان"
+  },
+  "city": "Osaka",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 34.694,
+  "lon": 135.502,
+  "cost": "paid",
+  "duration": {
+   "en": "4 days (18–21 February 2027)",
+   "ka": "4 დღე (2027 წლის 18–21 თებერვალი)",
+   "ar": "4 أيام (18–21 فبراير 2027)"
+  },
+  "grades": "high school and university (14+)",
+  "opens": "2026-06-01",
+  "deadline": "2027-01-10",
+  "deadline_note": "Early registration open since 1 June 2026; regular registration opens 25 September 2026 (already open), late registration 7 December 2026; all conference fees due 2027-01-10 (FWWMUN key-dates table). First come, first served.",
+  "event_dates": "2027-02-18 to 2027-02-21",
+  "summary": {
+   "en": "A regional edition of the Future We Want Model UN programme in Osaka, 18–21 February 2027, open to high-school and university students as individuals or school delegations. Winter edition in Osaka, Japan, at the DoubleTree by Hilton Osaka Castle.",
+   "ka": "FWWMUN Osaka 2027 — გაეროს მოდელირების (Model UN) კონფერენცია სკოლის მოსწავლეებისა და უნივერსიტეტის სტუდენტებისთვის. თარიღი: 2027 წლის 18–21 თებერვალი; ადგილი: ოსაკა, იაპონია. მონაწილეობა ფასიანია. რეგისტრაცია ორგანიზატორის ოფიციალურ საიტზე ხდება.",
+   "ar": "FWWMUN Osaka 2027 مؤتمر لنموذج الأمم المتحدة لطلاب المدارس والجامعات، يُعقد في أوساكا (اليابان) بتاريخ 18–21 فبراير 2027. المشاركة برسوم. يتم التسجيل عبر الموقع الرسمي للمنظمين."
+  },
+  "about": {
+   "en": "Future We Want Model United Nations (FWWMUN) runs international Model UN conferences in cities on five continents. FWWMUN Osaka takes place on 18–21 February 2027 in a partner 4- or 5-star hotel (venue to be confirmed). It opens with workshops on youth involvement, the Sustainable Development Goals and leadership, followed by committee sessions run under the FWWMUN rules of procedure.\n\nHigh-school and university students can register as individuals or as a delegation (at least five delegates; high-school delegations need a faculty advisor). Country assignments are released in rounds, and position papers are due a few weeks before the conference. Winter edition in Osaka, Japan, at the DoubleTree by Hilton Osaka Castle.\n\nIt suits students who want an international, multi-day MUN experience abroad with participants from many countries; registration is first come, first served and visa invitation letters are issued after payment."
+  },
+  "highlights": {
+   "en": [
+    "International delegates from many countries; individual or delegation registration",
+    "Opening workshops on SDGs, youth involvement and leadership",
+    "Scholarship applications available in spring"
+   ]
+  },
+  "eligibility": {
+   "en": "High-school and university students worldwide. Individuals may register alone; schools, universities and MUN clubs register as delegations of at least five, with one faculty advisor per five delegates for minors. English is the working language."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the FWWMUN Osaka page and read the registration & costs section",
+    "Register as an individual or as a delegation (early, regular or late window)",
+    "Pay the conference fee by the fees-due date and book the partner hotel if needed",
+    "Request a visa invitation letter if required",
+    "Receive your country/NGO assignment and submit your position paper on time"
+   ]
+  },
+  "costs": {
+   "en": "Individual registration fee per participant plus a one-time delegation fee for groups (amounts shown in the registration system); hotel, flights and visas are extra. Host-country schools may be exempt from the delegation fee. Partial scholarships can be requested."
+  },
+  "keywords": [
+   "abroad",
+   "debate",
+   "diplomacy",
+   "future we want",
+   "fwwmun",
+   "international",
+   "japan",
+   "model united nations",
+   "mun",
+   "osaka"
+  ],
+  "url": "https://www.fwwmun-nyc.org/copy-of-fwwmun-osaka-summer",
+  "apply_url": "https://www.fwwmun-nyc.org/copy-of-fwwmun-osaka-summer",
+  "sources": [
+   "https://www.fwwmun-nyc.org/copy-of-fwwmun-osaka-summer",
+   "https://www.fwwmun-nyc.org/"
+  ],
+  "score": 5,
+  "score_reason": "Large commercial international MUN brand; open registration and a long lead time, but costly with travel.",
+  "premium": false,
+  "fields": [
+   "international-relations",
+   "law",
+   "social-sciences"
+  ],
+  "tutor_tags": [
+   "mun",
+   "debate"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
   "id": "fwwmun-nairobi-2027",
   "section": "project",
   "family": "mun",
@@ -3129,6 +3319,98 @@
   ],
   "score": 4,
   "score_reason": "Established THIMUN conference but invitation-only.",
+  "premium": false,
+  "fields": [
+   "international-relations",
+   "law",
+   "social-sciences"
+  ],
+  "tutor_tags": [
+   "mun",
+   "debate"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "sasmun-xiv-2026",
+  "section": "project",
+  "family": "mun",
+  "type": "school MUN conference",
+  "org": "Schutz American School, Alexandria",
+  "name": {
+   "en": "Schutz American School Model United Nations (SASMUN XIV) 2026",
+   "ka": "SASMUN XIV 2026: გაეროს მოდელის კონფერენცია (ალექსანდრია)",
+   "ar": "SASMUN XIV 2026: مؤتمر نموذج الأمم المتحدة (الإسكندرية)"
+  },
+  "country": {
+   "en": "Egypt",
+   "ka": "ეგვიპტე",
+   "ar": "مصر"
+  },
+  "city": "Alexandria",
+  "iso": "EG",
+  "flag": "🇪🇬",
+  "region": "africa",
+  "lat": 31.2,
+  "lon": 29.919,
+  "cost": "paid",
+  "duration": {
+   "en": "3 days (19–21 November 2026)",
+   "ka": "3 დღე (2026 წლის 19–21 ნოემბერი)",
+   "ar": "3 أيام (19–21 نوفمبر 2026)"
+  },
+  "grades": "secondary school",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Register page live on schutzmun.com with school-delegation, individual and chair forms (31 Oct 2026); closing date not published.",
+  "event_dates": "2026-11-19 to 2026-11-21",
+  "summary": {
+   "en": "The 14th Model UN conference of Schutz American School in Alexandria, Egypt, on 19–21 November 2026, open to school delegations and independent delegates.",
+   "ka": "SASMUN XIV 2026 — გაეროს მოდელირების (Model UN) კონფერენცია საშუალო სკოლის მოსწავლეებისთვის. თარიღი: 2026 წლის 19–21 ნოემბერი; ადგილი: ალექსანდრია, ეგვიპტე. მონაწილეობა ფასიანია. რეგისტრაცია ორგანიზატორის ოფიციალურ საიტზე ხდება.",
+   "ar": "SASMUN XIV 2026 مؤتمر لنموذج الأمم المتحدة لطلاب المرحلة الثانوية، يُعقد في الإسكندرية (مصر) بتاريخ 19–21 نوفمبر 2026. المشاركة برسوم. يتم التسجيل عبر الموقع الرسمي للمنظمين."
+  },
+  "about": {
+   "en": "SASMUN is the long-running Model United Nations conference of Schutz American School in Alexandria. SASMUN XIV takes place on 19–21 November 2026 on the school campus, with committees including the Security Council, ECOSOC and DISEC as well as crisis-style bodies for experienced delegates.\n\nSchools can register a delegation (group rates, faculty advisor included) and students can register as independent delegates; chair applications are free of charge and include preparatory meetings.\n\nA well-established Alexandria conference that welcomes both first-timers and experienced delegates from Egypt and the region."
+  },
+  "highlights": {
+   "en": [
+    "14th edition at Schutz American School",
+    "School-delegation group rates or individual registration",
+    "Free chair applications"
+   ]
+  },
+  "eligibility": {
+   "en": "Secondary-school students (school delegations or independent delegates). English is the working language."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read Conference Information and Committees on schutzmun.com",
+    "Open Register and choose School Delegation or Individual Delegate form",
+    "Pay the delegate fee as instructed",
+    "Attend 19–21 November 2026 in Alexandria"
+   ]
+  },
+  "costs": {
+   "en": "Delegate fees shown in the registration forms; group rates for school delegations; travel and accommodation extra."
+  },
+  "keywords": [
+   "alexandria",
+   "debate",
+   "diplomacy",
+   "egypt",
+   "model united nations",
+   "mun",
+   "school mun"
+  ],
+  "url": "https://www.schutzmun.com/",
+  "apply_url": "https://www.schutzmun.com/blank",
+  "sources": [
+   "https://www.schutzmun.com/",
+   "https://www.schutzmun.com/conference-information",
+   "https://www.schutzmun.com/blank"
+  ],
+  "score": 5,
+  "score_reason": "Established Egyptian school MUN with open registration, soon.",
   "premium": false,
   "fields": [
    "international-relations",

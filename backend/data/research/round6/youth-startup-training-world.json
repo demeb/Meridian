@@ -2569,8 +2569,8 @@
   "iso": "US",
   "flag": "🇺🇸",
   "region": "global",
-  "lat": 0,
-  "lon": 0,
+  "lat": 40.713,
+  "lon": -74.006,
   "cost": "funded",
   "duration": {
    "en": "12 weeks, fully remote",
@@ -2653,8 +2653,8 @@
   "iso": "US",
   "flag": "🇺🇸",
   "region": "global",
-  "lat": 0,
-  "lon": 0,
+  "lat": 37.775,
+  "lon": -122.419,
   "cost": "funded",
   "duration": {
    "en": "One term (about 12 weeks)",
@@ -2737,8 +2737,8 @@
   "iso": "US",
   "flag": "🇺🇸",
   "region": "global",
-  "lat": 0,
-  "lon": 0,
+  "lat": 37.422,
+  "lon": -122.084,
   "cost": "free",
   "duration": {
    "en": "One-year ambassador term",
@@ -2821,8 +2821,8 @@
   "iso": "US",
   "flag": "🇺🇸",
   "region": "global",
-  "lat": 0,
-  "lon": 0,
+  "lat": 47.606,
+  "lon": -122.332,
   "cost": "free",
   "duration": {
    "en": "About 12 weeks, full-time cohort",
@@ -2905,8 +2905,8 @@
   "iso": "GB",
   "flag": "🇬🇧",
   "region": "global",
-  "lat": 0,
-  "lon": 0,
+  "lat": 51.507,
+  "lon": -0.128,
   "cost": "free",
   "duration": {
    "en": "CFGdegree 16 weeks; Kickstarter self-paced",
@@ -3072,8 +3072,8 @@
   "iso": "US",
   "flag": "🇺🇸",
   "region": "global",
-  "lat": 0,
-  "lon": 0,
+  "lat": 42.374,
+  "lon": -71.118,
   "cost": "paid",
   "duration": {
    "en": "3 days online (18-20 December 2026)",
@@ -5283,8 +5283,8 @@
   "iso": "US",
   "flag": "🇺🇸",
   "region": "global",
-  "lat": 0,
-  "lon": 0,
+  "lat": 40.713,
+  "lon": -74.006,
   "cost": "free",
   "duration": {
    "en": "Self-paced",
@@ -5366,8 +5366,8 @@
   "iso": "US",
   "flag": "🇺🇸",
   "region": "global",
-  "lat": 0,
-  "lon": 0,
+  "lat": 37.79,
+  "lon": -122.397,
   "cost": "free",
   "duration": {
    "en": "Self-paced",
@@ -5451,8 +5451,8 @@
   "iso": "US",
   "flag": "🇺🇸",
   "region": "global",
-  "lat": 0,
-  "lon": 0,
+  "lat": 37.775,
+  "lon": -122.419,
   "cost": "free",
   "duration": {
    "en": "Self-paced",
@@ -5534,8 +5534,8 @@
   "iso": "CH",
   "flag": "🇨🇭",
   "region": "global",
-  "lat": 0,
-  "lon": 0,
+  "lat": 46.204,
+  "lon": 6.143,
   "cost": "free",
   "duration": {
    "en": "Self-paced",
@@ -5598,6 +5598,346 @@
    "computer-science",
    "international-relations",
    "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "google-for-startups-accelerator",
+  "section": "project",
+  "family": "startup",
+  "type": "accelerator (rolling)",
+  "org": "Google for Startups",
+  "name": {
+   "en": "Google for Startups Accelerator (Americas, EMEA, Asia-Pacific)",
+   "ka": "Google for Startups Accelerator (ამერიკა, EMEA, აზია-წყნარი ოკეანე)",
+   "ar": "مسرّع Google for Startups (الأمريكيتان، أوروبا والشرق الأوسط وأفريقيا، آسيا والمحيط الهادئ)"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "ამერიკის შეერთებული შტატები",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Mountain View",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 37.386,
+  "lon": -122.084,
+  "cost": "free",
+  "duration": {
+   "en": "About 3-6 months",
+   "ka": "დაახლოებით 3-6 თვე",
+   "ar": "نحو 3-6 أشهر"
+  },
+  "grades": "any",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling applications; cohorts start several times a year",
+  "event_dates": null,
+  "summary": {
+   "en": "Google's equity-free accelerator for growth-stage startups, with regional cohorts in the Americas, Europe/Middle East/Africa and Asia-Pacific, offering Google mentors, AI and cloud support.",
+   "ka": "Google-ის აქსელერატორი წილის გარეშე ზრდის ეტაპის სტარტაპებისთვის, რეგიონული ნაკადებით ამერიკაში, EMEA-სა და აზია-წყნარ ოკეანეში; Google-ის მენტორები, AI და ღრუბლოვანი მხარდაჭერა.",
+   "ar": "مسرّع Google دون حصص للشركات الناشئة في مرحلة النمو، بدفعات إقليمية في الأمريكيتين وأوروبا والشرق الأوسط وأفريقيا وآسيا والمحيط الهادئ، مع موجّهين من Google ودعم في الذكاء الاصطناعي والسحابة."
+  },
+  "about": {
+   "en": "Google for Startups Accelerator is Google's equity-free programme for top growth-stage startups, run in regional and thematic cohorts across the Americas, Europe-Middle East-Africa and Asia-Pacific (for example AI-first, climate or region-specific classes).\n\nParticipants get mentoring from Google engineers and experts, product and technical support for building with Google's AI and Cloud, leadership training and networking; startups may also apply for Cloud credits and Cloud TPU access. Founders must take part in the required programme sessions.\n\nEach regional accelerator opens its own application window on the Google for Startups site; check your region's page for the current call."
+  },
+  "highlights": {
+   "en": [
+    "Equity-free support from Google",
+    "Mentors from Google engineering and product teams",
+    "Regional cohorts worldwide; Cloud credits available"
+   ]
+  },
+  "eligibility": {
+   "en": "Growth-stage tech startups (typically with product-market fit and some funding) in the region of the chosen accelerator; founders must commit to required sessions."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the Accelerator page and choose your region.",
+    "Check the current cohort theme and eligibility.",
+    "Submit the application during the open window.",
+    "Interview with Google if shortlisted."
+   ]
+  },
+  "costs": {
+   "en": "Free and equity-free."
+  },
+  "keywords": [
+   "google",
+   "accelerator",
+   "equity-free",
+   "ai",
+   "cloud",
+   "startup"
+  ],
+  "url": "https://startup.google.com/programs/accelerator/",
+  "apply_url": "https://startup.google.com/programs/accelerator/",
+  "sources": [
+   "https://startup.google.com/programs/accelerator/"
+  ],
+  "score": 6,
+  "score_reason": "Equity-free Google programme with regional calls",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "business"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "alchemist-accelerator-enterprise",
+  "section": "project",
+  "family": "startup",
+  "type": "accelerator (rolling)",
+  "org": "Alchemist Accelerator",
+  "name": {
+   "en": "Alchemist Accelerator for Enterprise Startups",
+   "ka": "Alchemist Accelerator – B2B სტარტაპების აქსელერატორი",
+   "ar": "مسرّع Alchemist للشركات الناشئة في قطاع الأعمال"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "ამერიკის შეერთებული შტატები",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "San Francisco",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 37.775,
+  "lon": -122.419,
+  "cost": "funded",
+  "duration": {
+   "en": "About 3-6 months",
+   "ka": "დაახლოებით 3-6 თვე",
+   "ar": "نحو 3-6 أشهر"
+  },
+  "grades": "any",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling applications; cohorts start several times a year",
+  "event_dates": null,
+  "summary": {
+   "en": "A Silicon Valley accelerator focused only on enterprise (B2B) startups; a select group of founders joins each year in cohorts, including a deep-tech cohort launched with the University of Chicago.",
+   "ka": "სილიკონის ველის აქსელერატორი, რომელიც მხოლოდ B2B სტარტაპებზეა ორიენტირებული; ყოველწლიურად შერჩეული დამფუძნებლები ნაკადებად ერთვებიან.",
+   "ar": "مسرّع في وادي السيليكون يركز حصراً على الشركات الناشئة الموجهة للأعمال (B2B)، وينضم إليه كل عام عدد مختار من المؤسسين ضمن دفعات."
+  },
+  "about": {
+   "en": "Alchemist Accelerator is a venture-backed accelerator in the San Francisco Bay Area dedicated to startups that sell to enterprises. It runs cohort-based programmes with intensive coaching on enterprise sales and fundraising, a large mentor network and a Demo Day attended by investors.\n\nAlongside its core programme it runs specialised cohorts with partners (for example a deep-tech cohort with a quantum focus launched with the University of Chicago). Founders from outside the US have participated, with much of the programme available remotely.\n\nApplications are rolling via the 'Tell us what you are building' form on the website; Alchemist typically invests a small amount in exchange for equity."
+  },
+  "highlights": {
+   "en": [
+    "Specialised in enterprise/B2B startups",
+    "Strong sales and fundraising coaching",
+    "Investor Demo Day"
+   ]
+  },
+  "eligibility": {
+   "en": "Early-stage enterprise (B2B) startups from any country with a technical founding team."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the programme page.",
+    "Submit the online application describing what you are building.",
+    "Interview with the Alchemist team.",
+    "Join the next cohort if accepted."
+   ]
+  },
+  "costs": {
+   "en": "No fee; Alchemist invests in exchange for equity."
+  },
+  "keywords": [
+   "accelerator",
+   "b2b",
+   "enterprise",
+   "silicon valley",
+   "startup",
+   "deep tech"
+  ],
+  "url": "https://www.alchemistaccelerator.com/",
+  "apply_url": "https://www.alchemistaccelerator.com/",
+  "sources": [
+   "https://www.alchemistaccelerator.com/"
+  ],
+  "score": 5,
+  "score_reason": "Respected B2B accelerator; rolling",
+  "premium": false,
+  "fields": [
+   "business",
+   "computer-science",
+   "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "founders-factory-venture-studio",
+  "section": "project",
+  "family": "startup",
+  "type": "accelerator (rolling)",
+  "org": "Founders Factory",
+  "name": {
+   "en": "Founders Factory: Venture Studio and Accelerator",
+   "ka": "Founders Factory: ვენჩურული სტუდია და აქსელერატორი",
+   "ar": "Founders Factory: استوديو ومسرّع للشركات الناشئة"
+  },
+  "country": {
+   "en": "United Kingdom",
+   "ka": "გაერთიანებული სამეფო",
+   "ar": "المملكة المتحدة"
+  },
+  "city": "London",
+  "iso": "GB",
+  "flag": "🇬🇧",
+  "region": "europe",
+  "lat": 51.507,
+  "lon": -0.128,
+  "cost": "funded",
+  "duration": {
+   "en": "About 3-6 months",
+   "ka": "დაახლოებით 3-6 თვე",
+   "ar": "نحو 3-6 أشهر"
+  },
+  "grades": "any",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling applications; cohorts start several times a year",
+  "event_dates": null,
+  "summary": {
+   "en": "A London-based venture studio and accelerator that builds and funds startups with entrepreneurs and leading corporates in fintech, health, deep tech and industrials.",
+   "ka": "ლონდონში მოქმედი ვენჩურული სტუდია და აქსელერატორი, რომელიც მეწარმეებთან და წამყვან კორპორაციებთან ერთად ქმნის და აფინანსებს სტარტაპებს.",
+   "ar": "استوديو ومسرّع في لندن يبني الشركات الناشئة ويمولها مع رواد الأعمال وكبرى الشركات في التقنية المالية والصحة والتقنيات العميقة والصناعة."
+  },
+  "about": {
+   "en": "Founders Factory builds and funds startups together with entrepreneurs and corporate partners. It runs both a venture studio (co-founding new companies from scratch with founders) and accelerator programmes for early-stage startups, with focus areas including fintech, health, deep tech and industrials.\n\nFounders get investment, a hands-on team of operators (product, engineering, growth, design, investment) and access to corporate partners for pilots and distribution.\n\nApplications are made through the 'Apply' page at any time; programmes vary by focus area and partner."
+  },
+  "highlights": {
+   "en": [
+    "Investment plus hands-on operator support",
+    "Access to corporate partners for pilots",
+    "Studio route for founders without a company yet"
+   ]
+  },
+  "eligibility": {
+   "en": "Early-stage startups and aspiring founders, particularly in fintech, health, deep tech and industrials."
+  },
+  "how_to_apply": {
+   "en": [
+    "Visit the Founders Factory 'Apply' page.",
+    "Choose the programme or focus area that fits.",
+    "Submit your application.",
+    "Meet the team if shortlisted."
+   ]
+  },
+  "costs": {
+   "en": "No fee; investment in exchange for equity."
+  },
+  "keywords": [
+   "venture studio",
+   "accelerator",
+   "london",
+   "uk",
+   "fintech",
+   "health",
+   "startup"
+  ],
+  "url": "https://foundersfactory.com/",
+  "apply_url": "https://foundersfactory.com/",
+  "sources": [
+   "https://foundersfactory.com/"
+  ],
+  "score": 5,
+  "score_reason": "Established UK studio; rolling",
+  "premium": false,
+  "fields": [
+   "business",
+   "computer-science",
+   "medicine-health"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "unitar-un-young-leaders-online-training-jan-2027",
+  "section": "project",
+  "family": "training",
+  "type": "online training programme (UN)",
+  "org": "United Nations Institute for Training and Research (UNITAR)",
+  "name": {
+   "en": "UN Young Leaders Online Training Programme – January 2027 (UNITAR)",
+   "ka": "გაეროს ახალგაზრდა ლიდერების ონლაინ სასწავლო პროგრამა – 2027 წლის იანვარი (UNITAR)",
+   "ar": "برنامج الأمم المتحدة التدريبي للقادة الشباب عبر الإنترنت – يناير 2027 (UNITAR)"
+  },
+  "country": {
+   "en": "Online",
+   "ka": "ონლაინ",
+   "ar": "عبر الإنترنت"
+  },
+  "city": "Online",
+  "iso": "CH",
+  "flag": "🇨🇭",
+  "region": "global",
+  "lat": 46.204,
+  "lon": 6.143,
+  "cost": "paid",
+  "duration": {
+   "en": "4 weeks online (4-29 January 2027)",
+   "ka": "4 კვირა ონლაინ (2027 წლის 4-29 იანვარი)",
+   "ar": "4 أسابيع عبر الإنترنت (4-29 يناير 2027)"
+  },
+  "grades": "18-35",
+  "opens": "2026-09-01",
+  "deadline": "2026-12-24",
+  "deadline_note": "Deadline stated on the UNITAR event page; further editions planned for April, June and August 2027",
+  "event_dates": "2027-01-04 to 2027-01-29",
+  "summary": {
+   "en": "A four-week online UNITAR course introducing young people to the UN system, multilateral diplomacy, leadership and youth engagement, with live sessions and a UNITAR certificate. Register by 24 December 2026.",
+   "ka": "UNITAR-ის ოთხკვირიანი ონლაინ კურსი, რომელიც ახალგაზრდებს აცნობს გაეროს სისტემას, მრავალმხრივ დიპლომატიას, ლიდერობასა და ახალგაზრდულ ჩართულობას; UNITAR-ის სერტიფიკატით. რეგისტრაცია 2026 წლის 24 დეკემბრამდე.",
+   "ar": "دورة من UNITAR عبر الإنترنت لمدة أربعة أسابيع تعرّف الشباب بمنظومة الأمم المتحدة والدبلوماسية متعددة الأطراف والقيادة ومشاركة الشباب، مع شهادة من UNITAR. التسجيل حتى 24 ديسمبر 2026."
+  },
+  "about": {
+   "en": "The United Nations Young Leaders Online Training Programme is run by UNITAR's Multilateral Diplomacy division. The January 2027 edition is web-based and runs from 4 to 29 January 2027 (28 days), combining recorded and live sessions with UN and diplomacy practitioners.\n\nIt covers how the UN system works, multilateral diplomacy and negotiation, the Sustainable Development Goals, leadership, gender equality and youth engagement. It suits students and young professionals interested in international organisations; participants who complete the course receive a UNITAR certificate, and UNITAR offers an optional follow-up field visit to Geneva.\n\nThe course fee is US$750. Registration closes on 24 December 2026; further editions are planned for April, June and August 2027."
+  },
+  "highlights": {
+   "en": [
+    "Official UNITAR course with certificate",
+    "UN system, diplomacy, SDGs and leadership",
+    "Optional follow-up visit to Geneva"
+   ]
+  },
+  "eligibility": {
+   "en": "Young people and students interested in the UN and international affairs (typically 18-35), from any country; English required."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the UNITAR event page for the January 2027 edition.",
+    "Click 'Register' and create a UNITAR account.",
+    "Complete the registration form and pay the fee.",
+    "Register by 24 December 2026."
+   ]
+  },
+  "costs": {
+   "en": "Course fee US$750. Optional Geneva field visit is extra."
+  },
+  "keywords": [
+   "un",
+   "unitar",
+   "diplomacy",
+   "leadership",
+   "online course",
+   "certificate",
+   "international relations"
+  ],
+  "url": "https://event.unitar.org/full-catalog/united-nations-young-leaders-online-training-programme-january-2027",
+  "apply_url": "https://event.unitar.org/full-catalog/united-nations-young-leaders-online-training-programme-january-2027",
+  "sources": [
+   "https://event.unitar.org/full-catalog/united-nations-young-leaders-online-training-programme-january-2027"
+  ],
+  "score": 5,
+  "score_reason": "Official UN training but paid",
+  "premium": false,
+  "fields": [
+   "international-relations",
+   "social-sciences"
   ],
   "verified_at": "2026-10-31"
  }

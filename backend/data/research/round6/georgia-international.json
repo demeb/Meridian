@@ -888,93 +888,6 @@
   "verified_at": "2026-10-31"
  },
  {
-  "id": "american-corner-tbilisi-georgia",
-  "section": "project",
-  "family": "youth",
-  "type": "free English clubs and events (American Corner)",
-  "org": "U.S. Embassy in Georgia (American Spaces network)",
-  "name": {
-   "en": "American Corner Tbilisi: free English, science clubs and talks",
-   "ka": "ამერიკული კუთხე — თბილისი: უფასო ინგლისურის და მეცნიერების კლუბები, შეხვედრები",
-   "ar": "الركن الأمريكي في تبليسي: نوادٍ مجانية للإنجليزية والعلوم ولقاءات"
-  },
-  "country": {
-   "en": "Georgia",
-   "ka": "საქართველო",
-   "ar": "جورجيا"
-  },
-  "city": "Tbilisi",
-  "iso": "GE",
-  "flag": "🇬🇪",
-  "region": "europe",
-  "lat": 41.697,
-  "lon": 44.799,
-  "cost": "free",
-  "duration": {
-   "en": "Ongoing, year-round",
-   "ka": "მუდმივი, მთელი წლის განმავლობაში",
-   "ar": "مستمر طوال العام"
-  },
-  "grades": "any",
-  "opens": null,
-  "deadline": null,
-  "deadline_note": "Rolling: clubs and events are announced on the Corner's own page; no application round",
-  "event_dates": null,
-  "summary": {
-   "en": "A free U.S. Embassy-supported learning space in Tbilisi that runs English conversation and science clubs, talks with American diplomats and speakers, and gives access to English-learning resources. Good for school and university students who want to practise English and meet other motivated young people.",
-   "ka": "აშშ-ის საელჩოს მხარდაჭერით მოქმედი უფასო სივრცე თბილისში, სადაც იმართება ინგლისური სასაუბრო და სამეცნიერო კლუბები, შეხვედრები ამერიკელ დიპლომატებთან და სპიკერებთან და ხელმისაწვდომია ინგლისურის სასწავლო რესურსები. კარგი შესაძლებლობაა მოსწავლეებისა და სტუდენტებისთვის.",
-   "ar": "مساحة تعليمية مجانية بدعم من السفارة الأمريكية في تبليسي تنظّم نوادي محادثة بالإنجليزية ونوادي علوم ولقاءات مع دبلوماسيين ومتحدثين أمريكيين، وتوفّر مصادر لتعلّم الإنجليزية. مناسبة لطلاب المدارس والجامعات."
-  },
-  "about": {
-   "en": "American Corner Tbilisi is part of the U.S. Embassy in Georgia's network of 20 American Spaces, run in partnership with local libraries (National Palace of Youth and Children, 6 Rustaveli Avenue). Corners host English conversation clubs, science and theme clubs, talks by American diplomats and guest speakers on topics such as entrepreneurship and women's empowerment, and offer English-learning materials and computers to learn about the United States.\n\nActivities are free and open to the public; most participants are school and university students. It is also a practical place to hear about U.S. exchange programmes (such as FLEX), EducationUSA advising and other embassy opportunities, and to network with peers for your own projects.\n\nThere is no application round: follow the Corner's page for the weekly schedule and sign-up links for individual events."
-  },
-  "highlights": {
-   "en": [
-    "Free English conversation and science clubs",
-    "Meet American diplomats and visiting speakers",
-    "Hear first about U.S. exchanges and embassy programmes"
-   ]
-  },
-  "eligibility": {
-   "en": "Open to everyone; activities are mostly aimed at school and university students. Some clubs are grouped by English level or age."
-  },
-  "how_to_apply": {
-   "en": [
-    "Visit the Corner at National Palace of Youth and Children, 6 Rustaveli Avenue or follow its official page",
-    "Check the weekly schedule of clubs and events",
-    "Register for the activity you want (some events ask for sign-up in advance)"
-   ]
-  },
-  "costs": {
-   "en": "Free."
-  },
-  "keywords": [
-   "english",
-   "american corner",
-   "us embassy",
-   "club",
-   "free",
-   "georgia",
-   "tbilisi",
-   "debate",
-   "science",
-   "exchange"
-  ],
-  "url": "https://www.facebook.com/AmericanCornerTbilisi",
-  "apply_url": "https://www.facebook.com/AmericanCornerTbilisi",
-  "sources": [
-   "https://ge.usembassy.gov/education/american-spaces/",
-   "https://www.facebook.com/AmericanCornerTbilisi"
-  ],
-  "score": 4,
-  "score_reason": "Free, local and always available; informal programme rather than a selective opportunity",
-  "premium": false,
-  "fields": [
-   "languages"
-  ],
-  "verified_at": "2026-10-31"
- },
- {
   "id": "american-corner-rustavi-georgia",
   "section": "project",
   "family": "youth",
@@ -1671,6 +1584,531 @@
   "premium": false,
   "fields": [
    "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "fulbright-visiting-scholar-georgia-2027-28",
+  "section": "project",
+  "family": "exchange",
+  "type": "non-degree research / lecturing exchange",
+  "org": "U.S. Embassy in Georgia (Fulbright Program, U.S. Department of State; administered with IIE)",
+  "name": {
+   "en": "Fulbright Visiting Scholar Program for Georgian Scholars 2027–2028",
+   "ka": "ფულბრაიტის მოწვეული მკვლევრის პროგრამა საქართველოს მეცნიერებისთვის 2027–2028",
+   "ar": "برنامج فولبرايت للباحثين الزائرين من جورجيا 2027–2028"
+  },
+  "country": {
+   "en": "United States",
+   "ka": "აშშ",
+   "ar": "الولايات المتحدة"
+  },
+  "city": "Washington, DC",
+  "iso": "US",
+  "flag": "🇺🇸",
+  "region": "americas",
+  "lat": 38.907,
+  "lon": -77.037,
+  "cost": "fully-funded",
+  "duration": {
+   "en": "3 to 6 months in the U.S.",
+   "ka": "3-დან 6 თვემდე აშშ-ში",
+   "ar": "من 3 إلى 6 أشهر في الولايات المتحدة"
+  },
+  "grades": "postdoc",
+  "opens": "2026-10-01",
+  "deadline": "2026-11-22",
+  "deadline_note": "Official: online application due 22 Nov 2026, 17:00 Georgian time; interviews early Dec 2026, final selection spring 2027",
+  "event_dates": null,
+  "summary": {
+   "en": "The U.S. Embassy's annual Fulbright competition sending Georgian researchers and university lecturers to the United States for 3–6 months of post-doctoral research, lecturing or both. Applications close on 22 November 2026.",
+   "ka": "აშშ-ის საელჩოს ყოველწლიური ფულბრაიტის კონკურსი, რომელიც საქართველოს მკვლევრებსა და უნივერსიტეტის ლექტორებს 3–6 თვით აგზავნის აშშ-ში პოსტდოქტორანტული კვლევისთვის, ლექციებისთვის ან ორივესთვის. განაცხადების მიღება 2026 წლის 22 ნოემბერს სრულდება.",
+   "ar": "مسابقة فولبرايت السنوية التي تنظّمها السفارة الأمريكية لإيفاد باحثين ومحاضرين جامعيين من جورجيا إلى الولايات المتحدة لمدة 3–6 أشهر للبحث ما بعد الدكتوراه أو التدريس أو كليهما. يُغلق التقديم في 22 نوفمبر 2026."
+  },
+  "about": {
+   "en": "The Fulbright Visiting Scholar Program is a non-degree, post-doctoral award for junior and senior researchers, university lecturers and experts affiliated with academic or research institutions in Georgia. Grantees spend 3 to 6 months at a U.S. institution doing research, lecturing, or a combination, and are expected to share what they learn after returning home.\n\nEligible fields range widely: agriculture, American studies, biology, business, chemistry, economics, education, engineering, environmental sciences, film, history, information sciences, journalism, law, library science, mathematics, medical sciences, physics, political science, psychology, public administration, public health, social work, sociology, TEFL, theatre and urban planning. Proposals that align with U.S. government priorities (security, economic prosperity, international cooperation) are favoured.\n\nApplicants must be Georgian citizens with a PhD (or a master's from a European or U.S. university), at least five years of teaching or research at a Georgian institution, and strong English; no TOEFL is required. Shortlisted candidates are interviewed in early December 2026 and final decisions come in spring 2027."
+  },
+  "highlights": {
+   "en": [
+    "Flagship U.S. government academic exchange",
+    "3–6 months of research or teaching at a U.S. institution",
+    "No TOEFL required; Georgian citizens only"
+   ]
+  },
+  "eligibility": {
+   "en": "Georgian citizens; PhD in the field, or a master's degree from a European or U.S. university; at least 5 years' teaching/research at a Georgian higher-education or research institution; currently affiliated with one; proficient English; J-1 eligible (two-year home-residency rule). Not for U.S. citizens/green-card holders."
+  },
+  "how_to_apply": {
+   "en": [
+    "Prepare a project statement, CV, letter of support from your Georgian institution and bibliography or syllabi",
+    "Arrange three reference letters (and ideally an invitation from a U.S. host)",
+    "Apply online at apply.iie.org/fvsp2027 by 22 Nov 2026, 17:00 Georgian time",
+    "Attend the interview if shortlisted (early December 2026)"
+   ]
+  },
+  "costs": {
+   "en": "Fully funded Fulbright grant (travel, monthly stipend, health benefit); allowances for declared dependents may be available."
+  },
+  "keywords": [
+   "fulbright",
+   "usa",
+   "research",
+   "visiting scholar",
+   "lecturer",
+   "postdoc",
+   "georgia",
+   "us embassy",
+   "exchange"
+  ],
+  "url": "https://ge.usembassy.gov/fulbright-visiting-scholar/",
+  "apply_url": "https://apply.iie.org/fvsp2027",
+  "sources": [
+   "https://ge.usembassy.gov/fulbright-visiting-scholar/"
+  ],
+  "score": 6,
+  "score_reason": "Prestigious, fully funded and open now, but only for experienced academics",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "nawa-polish-language-summer-courses-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "Polish language and culture summer course",
+  "org": "NAWA (Polish National Agency for Academic Exchange)",
+  "name": {
+   "en": "NAWA Summer Courses in Polish Language and Culture 2027",
+   "ka": "NAWA-ს პოლონური ენისა და კულტურის საზაფხულო კურსები 2027",
+   "ar": "دورات NAWA الصيفية في اللغة والثقافة البولندية 2027"
+  },
+  "country": {
+   "en": "Poland",
+   "ka": "პოლონეთი",
+   "ar": "بولندا"
+  },
+  "city": "Warsaw",
+  "iso": "PL",
+  "flag": "🇵🇱",
+  "region": "europe",
+  "lat": 52.23,
+  "lon": 21.012,
+  "cost": "free",
+  "duration": {
+   "en": "1–4 weeks on site (online courses 1–12 weeks)",
+   "ka": "1–4 კვირა ადგილზე (ონლაინ კურსები 1–12 კვირა)",
+   "ar": "من أسبوع إلى 4 أسابيع حضوريًا (الدورات عبر الإنترنت من 1 إلى 12 أسبوعًا)"
+  },
+  "grades": "university",
+  "opens": "2027-02-01",
+  "deadline": null,
+  "deadline_note": "NAWA: 2027 dates and host universities published early December 2026; recruitment opens in most cases at the beginning of February 2027, with deadlines set per course",
+  "event_dates": null,
+  "summary": {
+   "en": "Free Polish language and culture courses at accredited Polish universities, with tuition, accommodation and meals covered for on-site courses. International students and academics, including from Georgia, apply each year from around February.",
+   "ka": "უფასო პოლონური ენისა და კულტურის კურსები აკრედიტებულ პოლონურ უნივერსიტეტებში; ადგილზე კურსებისთვის სწავლა, საცხოვრებელი და კვება დაფარულია. უცხოელ სტუდენტებსა და აკადემიურ პერსონალს, მათ შორის საქართველოდან, განაცხადის შეტანა ყოველწლიურად დაახლოებით თებერვლიდან შეუძლიათ.",
+   "ar": "دورات مجانية في اللغة والثقافة البولندية في جامعات بولندية معتمدة، تُغطّى فيها الرسوم والسكن والوجبات للدورات الحضورية. يتقدّم الطلاب والأكاديميون الدوليون، ومنهم من جورجيا، كل عام بدءًا من فبراير تقريبًا."
+  },
+  "about": {
+   "en": "NAWA, Poland's National Agency for Academic Exchange, funds summer and year-round courses in Polish language and culture at universities with leading centres for teaching Polish as a foreign language. On-site courses last 1–4 weeks and online courses 1–12 weeks; most combine Polish lessons with lectures and workshops on Polish history, culture and everyday life, trips to major sights, integration events and meetings with Polish students, scholars and public figures.\n\nCourses are free of charge: for on-site courses, accommodation and meals are also covered. Participants pay only their travel to and from Poland and compulsory medical insurance (unless their country has an agreement with Poland). Each person may attend only one on-site course per year (plus online options).\n\nFor 2027, NAWA will publish dates, course types and host universities at the beginning of December 2026; applications open, in most cases, at the beginning of February 2027 through each university. Summer courses are aimed mainly at international students and academics; check each course for level and eligibility."
+  },
+  "highlights": {
+   "en": [
+    "Tuition, accommodation and meals covered for on-site courses",
+    "Mix of language classes, culture workshops and trips",
+    "Choice of universities across Poland"
+   ]
+  },
+  "eligibility": {
+   "en": "Mainly international students and academic staff (see NAWA eligibility list for summer courses); Georgian applicants can apply. One on-site course per person per year."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check the NAWA Summer Courses page in early December 2026 for the 2027 list of courses and universities",
+    "Choose a course and level",
+    "Apply through the host university's recruitment form when it opens (usually early February 2027)",
+    "Arrange travel and medical insurance once accepted"
+   ]
+  },
+  "costs": {
+   "en": "Free course; accommodation and meals covered for on-site courses. Participants pay travel and insurance."
+  },
+  "keywords": [
+   "poland",
+   "polish language",
+   "summer course",
+   "summer school",
+   "nawa",
+   "free",
+   "culture",
+   "language"
+  ],
+  "url": "https://nawa.gov.pl/en/the-polish-language/nawa-summer-courses",
+  "apply_url": "https://nawa.gov.pl/en/the-polish-language/nawa-summer-courses",
+  "sources": [
+   "https://nawa.gov.pl/en/the-polish-language/nawa-summer-courses",
+   "https://nawa.gov.pl/en/students/foreign-students"
+  ],
+  "score": 6,
+  "score_reason": "Free summer language course with board and lodging; opens Feb 2027",
+  "premium": false,
+  "fields": [
+   "languages",
+   "humanities"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "european-parliament-mep-office-traineeships-rolling",
+  "section": "project",
+  "family": "training",
+  "type": "paid traineeship (MEP office)",
+  "org": "European Parliament (Members' offices)",
+  "name": {
+   "en": "Traineeships with Members of the European Parliament (year-round)",
+   "ka": "სტაჟირება ევროპარლამენტის წევრებთან (მთელი წლის განმავლობაში)",
+   "ar": "التدريب لدى أعضاء البرلمان الأوروبي (على مدار العام)"
+  },
+  "country": {
+   "en": "Belgium",
+   "ka": "ბელგია",
+   "ar": "بلجيكا"
+  },
+  "city": "Brussels",
+  "iso": "BE",
+  "flag": "🇧🇪",
+  "region": "europe",
+  "lat": 50.85,
+  "lon": 4.352,
+  "cost": "funded",
+  "duration": {
+   "en": "Set by each MEP (typically a few months)",
+   "ka": "განსაზღვრავს ევროპარლამენტის წევრი (როგორც წესი, რამდენიმე თვე)",
+   "ar": "يحددها كل نائب (عادة بضعة أشهر)"
+  },
+  "grades": "18+",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling: MEPs choose their own trainees; apply directly to individual MEP offices",
+  "event_dates": null,
+  "summary": {
+   "en": "Paid traineeships in the offices of individual Members of the European Parliament in Brussels or Strasbourg. Nationals of EU candidate countries such as Georgia are eligible, and MEPs recruit directly throughout the year.",
+   "ka": "ანაზღაურებადი სტაჟირება ევროპარლამენტის ცალკეული წევრების ოფისებში ბრიუსელსა ან სტრასბურგში. მონაწილეობა შეუძლიათ ევროკავშირის კანდიდატი ქვეყნების, მათ შორის საქართველოს, მოქალაქეებს; დეპუტატები სტაჟიორებს მთელი წლის განმავლობაში პირდაპირ არჩევენ.",
+   "ar": "تدريب مدفوع في مكاتب أعضاء البرلمان الأوروبي في بروكسل أو ستراسبورغ. يحق لمواطني الدول المرشحة لعضوية الاتحاد الأوروبي مثل جورجيا التقديم، ويختار النواب متدربيهم مباشرة طوال العام."
+  },
+  "about": {
+   "en": "Besides the Schuman traineeships in Parliament's Secretariat, individual Members of the European Parliament (MEPs) may offer paid traineeships in their own offices in Brussels (or Strasbourg), based on an agreement with the Parliament. Trainees support the MEP's legislative and political work and see day-to-day parliamentary life up close.\n\nMEPs choose their trainees freely, but candidates must be 18+ (derogations possible), nationals of an EU Member State or an accession/candidate country (Georgia qualifies; MEPs may also take third-country nationals who meet visa rules), have completed secondary school plus higher, technical or vocational study (or hold a university diploma), know one official EU language well, and not have done a previous traineeship with an MEP or worked as an MEP assistant.\n\nThere is no central call: identify MEPs whose committees and political priorities match your interests and approach their offices directly."
+  },
+  "highlights": {
+   "en": [
+    "Paid, hands-on experience with an elected MEP",
+    "Open to nationals of EU candidate countries, including Georgia",
+    "No fixed window: apply directly any time of year"
+   ]
+  },
+  "eligibility": {
+   "en": "18+; EU or accession/candidate-country nationality (Georgia qualifies); secondary school plus higher/technical/vocational study or a university diploma; thorough knowledge of one official EU language; no prior MEP traineeship or work as an MEP assistant; no other employment contract during the traineeship."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the MEP traineeship rules on the European Parliament traineeships page",
+    "Shortlist MEPs whose work matches your field",
+    "Email the MEP's office a CV and tailored motivation letter",
+    "If accepted, the MEP's office completes the traineeship agreement with Parliament"
+   ]
+  },
+  "costs": {
+   "en": "Paid traineeship (allowance set under the European Parliament rules for MEP trainees)."
+  },
+  "keywords": [
+   "traineeship",
+   "internship",
+   "european parliament",
+   "mep",
+   "brussels",
+   "eu",
+   "georgia",
+   "candidate country",
+   "politics"
+  ],
+  "url": "https://www.europarl.europa.eu/at-your-service/en/work-with-us/traineeships",
+  "apply_url": "https://www.europarl.europa.eu/at-your-service/en/work-with-us/traineeships",
+  "sources": [
+   "https://www.europarl.europa.eu/at-your-service/en/work-with-us/traineeships"
+  ],
+  "score": 5,
+  "score_reason": "Open year-round to Georgian nationals but requires finding an MEP host yourself",
+  "premium": false,
+  "fields": [
+   "international-relations",
+   "law",
+   "social-sciences"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "college-of-europe-eu-diplomatic-programme-enlargement-2027",
+  "section": "project",
+  "family": "training",
+  "type": "residential diplomatic training programme",
+  "org": "College of Europe (funded by the European Commission, DG ENEST)",
+  "name": {
+   "en": "EU Diplomatic Programme for the Enlargement Region (EUDP) 2027",
+   "ka": "ევროკავშირის დიპლომატიური პროგრამა გაფართოების რეგიონისთვის (EUDP) 2027",
+   "ar": "البرنامج الدبلوماسي للاتحاد الأوروبي لمنطقة التوسيع (EUDP) 2027"
+  },
+  "country": {
+   "en": "Belgium",
+   "ka": "ბელგია",
+   "ar": "بلجيكا"
+  },
+  "city": "Bruges",
+  "iso": "BE",
+  "flag": "🇧🇪",
+  "region": "europe",
+  "lat": 51.209,
+  "lon": 3.225,
+  "cost": "fully-funded",
+  "duration": {
+   "en": "5 months (1 Feb – 2 Jul 2027)",
+   "ka": "5 თვე (1 თებერვალი – 2 ივლისი, 2027)",
+   "ar": "5 أشهر (1 فبراير – 2 يوليو 2027)"
+  },
+  "grades": "professionals",
+  "opens": "2026-10-19",
+  "deadline": "2026-11-15",
+  "deadline_note": "EU NEIGHBOURS east listing of the College of Europe call: deadline 15 November 2026",
+  "event_dates": "2027-02-01 to 2027-07-02",
+  "summary": {
+   "en": "A five-month residential EU-affairs programme by the College of Europe for diplomats and officials working on foreign policy and EU accession in Georgia, Moldova, Ukraine, the Western Balkans and Türkiye. It is funded by the European Commission and includes joint activities with the EU Diplomatic Academy.",
+   "ka": "ევროპის კოლეჯის ხუთთვიანი რეზიდენტული პროგრამა ევროკავშირის საკითხებზე იმ დიპლომატებისა და საჯარო მოხელეებისთვის, რომლებიც საგარეო პოლიტიკასა და ევროკავშირში გაწევრიანებაზე მუშაობენ საქართველოში, მოლდოვაში, უკრაინაში, დასავლეთ ბალკანეთსა და თურქეთში. დაფინანსებულია ევროკომისიის მიერ.",
+   "ar": "برنامج إقامي لمدة خمسة أشهر في شؤون الاتحاد الأوروبي تنظّمه كلية أوروبا للدبلوماسيين والمسؤولين العاملين في السياسة الخارجية وملف الانضمام في جورجيا ومولدوفا وأوكرانيا والبلقان الغربية وتركيا. تموّله المفوضية الأوروبية."
+  },
+  "about": {
+   "en": "The European Union Diplomatic Programme for the Enlargement Region (EUDP) is a five-month residential programme run by the College of Europe and funded by the European Commission's Directorate-General for Enlargement and Eastern Neighbourhood (DG ENEST). Its fifth edition is expected to run from 1 February to 2 July 2027.\n\nThe aim is to build regional cooperation and an \"esprit de corps\" between diplomats and officials from the enlargement region and their EU peers, while deepening their knowledge of EU affairs. The curriculum includes joint activities with the European Union Diplomatic Academy (funded by the EEAS).\n\nThe call targets diplomats and officials working on foreign policy and EU accession from Georgia (subject to the evolution of the political situation), Moldova, Ukraine, the Western Balkans and Türkiye. Candidates need completed university studies, professional experience in or knowledge of EU affairs and accession, and fluent English; French is an asset."
+  },
+  "highlights": {
+   "en": [
+    "Five months at the College of Europe with EU-funded places",
+    "Joint sessions with the EU Diplomatic Academy",
+    "Network with diplomats from across the enlargement region"
+   ]
+  },
+  "eligibility": {
+   "en": "Diplomats and/or officials working on foreign policy and EU accession from Georgia (subject to political developments), Moldova, Ukraine, the Western Balkans or Türkiye; completed university degree; experience in or knowledge of EU affairs/accession; fluent written and spoken English (French an asset)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the College of Europe EUDP call (linked from the EU NEIGHBOURS east page)",
+    "Check with your ministry/institution about nomination or support",
+    "Submit the application by 15 November 2026"
+   ]
+  },
+  "costs": {
+   "en": "Funded by the European Commission (DG ENEST); see the call for details of what is covered."
+  },
+  "keywords": [
+   "college of europe",
+   "diplomacy",
+   "eu accession",
+   "training",
+   "bruges",
+   "eu",
+   "georgia",
+   "civil servants",
+   "foreign policy"
+  ],
+  "url": "https://euneighbourseast.eu/opportunities/eu-diplomatic-programme-for-the-enlargement-region-invites-candidates-from-georgia-moldova-and-ukraine/",
+  "apply_url": "https://euneighbourseast.eu/opportunities/eu-diplomatic-programme-for-the-enlargement-region-invites-candidates-from-georgia-moldova-and-ukraine/",
+  "sources": [
+   "https://euneighbourseast.eu/opportunities/eu-diplomatic-programme-for-the-enlargement-region-invites-candidates-from-georgia-moldova-and-ukraine/"
+  ],
+  "score": 4,
+  "score_reason": "Prestigious and funded, but only for working diplomats/officials; Georgia participation conditional",
+  "premium": false,
+  "fields": [
+   "international-relations",
+   "law"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "swedish-institute-si-academy-eastern-europe-2026",
+  "section": "project",
+  "family": "training",
+  "type": "professional training programmes",
+  "org": "Swedish Institute (SI)",
+  "name": {
+   "en": "SI Academy: Eastern Europe 2026 (training programmes incl. Georgia)",
+   "ka": "SI Academy: აღმოსავლეთ ევროპა 2026 (სასწავლო პროგრამები, მათ შორის საქართველოსთვის)",
+   "ar": "أكاديمية المعهد السويدي: أوروبا الشرقية 2026 (برامج تدريبية تشمل جورجيا)"
+  },
+  "country": {
+   "en": "Sweden",
+   "ka": "შვედეთი",
+   "ar": "السويد"
+  },
+  "city": "Stockholm",
+  "iso": "SE",
+  "flag": "🇸🇪",
+  "region": "europe",
+  "lat": 59.329,
+  "lon": 18.069,
+  "cost": "funded",
+  "duration": {
+   "en": "Varies by programme (workshops, peer learning and study visits)",
+   "ka": "განსხვავდება პროგრამის მიხედვით (ვორქშოპები, ურთიერთსწავლება, სასწავლო ვიზიტები)",
+   "ar": "تختلف حسب البرنامج (ورش عمل وتعلّم بين الأقران وزيارات دراسية)"
+  },
+  "grades": "professionals",
+  "opens": "2026-10-01",
+  "deadline": null,
+  "deadline_note": "SI: calls open between October and December 2026 and run until January 2027; each programme sets its own deadline",
+  "event_dates": null,
+  "summary": {
+   "en": "The Swedish Institute's 2026 training programmes for professionals from Armenia, Azerbaijan, Belarus, Georgia, Moldova and Ukraine, on democratic governance, digital transformation, EU accession, culture and entrepreneurship. In Georgia, participation is currently limited to civil-society representatives.",
+   "ka": "შვედეთის ინსტიტუტის 2026 წლის სასწავლო პროგრამები სომხეთის, აზერბაიჯანის, ბელარუსის, საქართველოს, მოლდოვისა და უკრაინის პროფესიონალებისთვის — დემოკრატიული მმართველობის, ციფრული ტრანსფორმაციის, ევროკავშირში ინტეგრაციის, კულტურისა და მეწარმეობის თემებზე. საქართველოდან ამჟამად მხოლოდ სამოქალაქო საზოგადოების წარმომადგენლებს შეუძლიათ მონაწილეობა.",
+   "ar": "برامج المعهد السويدي التدريبية لعام 2026 للمهنيين من أرمينيا وأذربيجان وبيلاروس وجورجيا ومولدوفا وأوكرانيا، حول الحوكمة الديمقراطية والتحول الرقمي والانضمام للاتحاد الأوروبي والثقافة وريادة الأعمال. في جورجيا تقتصر المشاركة حاليًا على ممثلي المجتمع المدني."
+  },
+  "about": {
+   "en": "SI Academy: Eastern Europe brings together six thematic training programmes delivered by Swedish universities and organisations with local partners: Transparency Practices in Open and Digital Collaborative Policy-Making (Halmstad University), STRIDE on digital democracy (Linköping and Tartu universities), Democratic European Accession Negotiations (Stockholm Institute of Transition Economics), cultural policy, participatory governance (PARTGOV, Malmö University) and democratic leadership through popular education (ABF Hälsingland). It replaces the former Swedish Institute Academy for Young Professionals (SAYP).\n\nApplicants must be citizens or residents of Armenia, Azerbaijan, Belarus, Georgia, Moldova or Ukraine, have good English, a degree of at least three years, and current employment relevant to the programme. In Belarus and Georgia, participation is currently limited to representatives of civil society organisations, and not every programme is open to every country.\n\nApplications go directly to each programme organiser; calls open between October and December and close by January 2027. You may apply to a maximum of two programmes. Participants join the Sweden Alumni Network."
+  },
+  "highlights": {
+   "en": [
+    "Six Swedish-led programmes on governance, digital democracy and EU accession",
+    "Georgia eligible (civil-society representatives)",
+    "Membership of the Sweden Alumni Network"
+   ]
+  },
+  "eligibility": {
+   "en": "Citizens or residents of Armenia, Azerbaijan, Belarus, Georgia, Moldova or Ukraine; good English; higher education of at least three years; currently employed in a relevant sector. Georgia and Belarus: civil-society representatives only. Programme-specific rules apply."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the SI Academy page and pick up to two programmes",
+    "Open each programme organiser's page to check country eligibility and deadline",
+    "Apply directly to the organiser before its deadline (by January 2027)"
+   ]
+  },
+  "costs": {
+   "en": "Programme costs are funded by the Swedish Institute (details per programme)."
+  },
+  "keywords": [
+   "sweden",
+   "swedish institute",
+   "training",
+   "leadership",
+   "civil society",
+   "governance",
+   "eu accession",
+   "georgia",
+   "eastern partnership"
+  ],
+  "url": "https://si.se/en/apply/si-leadership-programmes/si-academy-eastern-europe-2026/",
+  "apply_url": "https://si.se/en/apply/si-leadership-programmes/si-academy-eastern-europe-2026/",
+  "sources": [
+   "https://si.se/en/apply/si-leadership-programmes/si-academy-eastern-europe-2026/",
+   "https://si.se/en/apply/leadership-programmes/"
+  ],
+  "score": 5,
+  "score_reason": "Funded Swedish training open to Georgian civil-society professionals; deadlines vary to Jan 2027",
+  "premium": false,
+  "fields": [
+   "social-sciences",
+   "international-relations",
+   "arts-design"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "bundestag-international-parliamentary-scholarship-ips-2028",
+  "section": "project",
+  "family": "exchange",
+  "type": "parliamentary internship scholarship",
+  "org": "German Bundestag (with Freie Universität, Humboldt-Universität and Technische Universität Berlin)",
+  "name": {
+   "en": "International Parliamentary Scholarship (IPS) of the German Bundestag 2028",
+   "ka": "გერმანიის ბუნდესტაგის საერთაშორისო საპარლამენტო სტიპენდია (IPS) 2028",
+   "ar": "المنحة البرلمانية الدولية (IPS) للبوندستاغ الألماني 2028"
+  },
+  "country": {
+   "en": "Germany",
+   "ka": "გერმანია",
+   "ar": "ألمانيا"
+  },
+  "city": "Berlin",
+  "iso": "DE",
+  "flag": "🇩🇪",
+  "region": "europe",
+  "lat": 52.52,
+  "lon": 13.405,
+  "cost": "fully-funded",
+  "duration": {
+   "en": "5 months (1 March – 31 July 2028)",
+   "ka": "5 თვე (1 მარტი – 31 ივლისი, 2028)",
+   "ar": "5 أشهر (1 مارس – 31 يوليو 2028)"
+  },
+  "grades": "graduate",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Deadlines vary by country of origin; see the Bundestag IPS country list (in German). Programme runs 1 March – 31 July every year.",
+  "event_dates": "2028-03-01 to 2028-07-31",
+  "summary": {
+   "en": "Up to 120 young graduates from about 50 countries, including Georgia, spend five months in Berlin, with seminars and a three-month placement in a Bundestag member's office. The scholarship pays €700 a month plus free housing, insurance and travel.",
+   "ka": "დაახლოებით 50 ქვეყნიდან, მათ შორის საქართველოდან, 120-მდე ახალგაზრდა კურსდამთავრებული ხუთ თვეს ატარებს ბერლინში: სემინარები და სამთვიანი სტაჟირება ბუნდესტაგის წევრის ოფისში. სტიპენდია: თვეში 700 ევრო, უფასო საცხოვრებელი, დაზღვევა და მგზავრობა.",
+   "ar": "ما يصل إلى 120 خريجًا شابًا من نحو 50 دولة، منها جورجيا، يقضون خمسة أشهر في برلين تتضمن ندوات وتدريبًا لمدة ثلاثة أشهر في مكتب عضو في البوندستاغ. تدفع المنحة 700 يورو شهريًا مع سكن مجاني وتأمين وتكاليف السفر."
+  },
+  "about": {
+   "en": "The International Parliamentary Scholarship (IPS) is awarded by the German Bundestag together with Berlin's Freie Universität, Humboldt-Universität and Technische Universität. Each year up to 120 young graduates from about 50 participating countries, including Georgia, Armenia, Azerbaijan, Moldova and Ukraine, come to Berlin from 1 March to 31 July.\n\nFellows attend events and seminars and complete a three-month work placement with a Member of the Bundestag, getting first-hand experience of German parliamentary democracy. The programme aims to strengthen democratic values, tolerance and understanding of cultural diversity, and to build ties between participating countries and Germany.\n\nThe scholarship is worth €700 per month and includes free accommodation, health, accident and liability insurance, and reimbursed travel to and from Berlin. Candidates need a university degree, a strong interest in politics and good German. Application deadlines differ by country, so check the Georgia entry on the Bundestag IPS page well in advance."
+  },
+  "highlights": {
+   "en": [
+    "Three-month placement in a Bundestag member's office",
+    "€700/month, free housing, insurance and travel",
+    "Georgia is a participating country"
+   ]
+  },
+  "eligibility": {
+   "en": "Nationals of a participating country (incl. Georgia); completed university degree; strong interest in politics; good German (see programme rules for age and language requirements)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check the Georgia deadline and forms on the Bundestag IPS page",
+    "Prepare the application in German with CV, degree and references",
+    "Submit by the country deadline; shortlisted candidates are interviewed"
+   ]
+  },
+  "costs": {
+   "en": "€700/month, free accommodation, insurance and travel reimbursement."
+  },
+  "keywords": [
+   "bundestag",
+   "germany",
+   "parliament",
+   "internship",
+   "ips",
+   "berlin",
+   "politics",
+   "georgia",
+   "scholarship",
+   "non-degree"
+  ],
+  "url": "https://www.bundestag.de/ips",
+  "apply_url": "https://www.bundestag.de/ips",
+  "sources": [
+   "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=&origin=71&subjectGrps=&daad=&intention=&q=&page=1&lang=en&sd=1&detail=10000212",
+   "https://www.bundestag.de/ips"
+  ],
+  "score": 6,
+  "score_reason": "Excellent funded parliamentary placement open to Georgians; country deadline must be checked",
+  "premium": false,
+  "fields": [
+   "international-relations",
+   "law",
+   "social-sciences",
+   "languages"
   ],
   "verified_at": "2026-10-31"
  }

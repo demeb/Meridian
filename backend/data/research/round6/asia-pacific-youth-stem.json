@@ -1,0 +1,4106 @@
+[
+ {
+  "id": "startmate-accelerator-summer-2027",
+  "section": "project",
+  "family": "startup",
+  "type": "startup accelerator",
+  "org": "Startmate",
+  "name": {
+   "en": "Startmate Summer '27 Accelerator",
+   "ka": "Startmate-ის აქსელერატორი — ზაფხული '27",
+   "ar": "مسرّعة Startmate — دورة صيف 2027"
+  },
+  "country": {
+   "en": "Australia",
+   "ka": "ავსტრალია",
+   "ar": "أستراليا"
+  },
+  "city": "Melbourne",
+  "iso": "AU",
+  "flag": "🇦🇺",
+  "region": "oceania",
+  "lat": -37.814,
+  "lon": 144.963,
+  "cost": "funded",
+  "duration": {
+   "en": "14 weeks (1 Feb – 7 May 2027)",
+   "ka": "14 კვირა (2027 წლის 1 თებერვალი – 7 მაისი)",
+   "ar": "14 أسبوعًا (1 فبراير – 7 مايو 2027)"
+  },
+  "grades": "18+",
+  "opens": null,
+  "deadline": "2026-11-01",
+  "deadline_note": "Official page: applications close 11:59pm AEDT, Sunday 1 November 2026; Startmate runs a Winter cohort too, so a missed deadline means waiting ~6 months.",
+  "event_dates": "2027-02-01 to 2027-05-07",
+  "summary": {
+   "en": "Australia and New Zealand's best-known startup accelerator invests A$120k in each team, with no programme fees. The Summer '27 cohort is remote-first with three in-person weeks in Melbourne.",
+   "ka": "ავსტრალიისა და ახალი ზელანდიის ყველაზე ცნობილი აქსელერატორი თითო გუნდში 120 ათას ავსტრალიურ დოლარს აბანდებს, საფასურის გარეშე. ზაფხული '27-ის ნაკადი ძირითადად დისტანციურია, მელბურნში სამი კვირით.",
+   "ar": "أشهر مسرّعة للشركات الناشئة في أستراليا ونيوزيلندا تستثمر 120 ألف دولار أسترالي في كل فريق دون أي رسوم. دورة صيف 2027 عن بُعد في معظمها مع ثلاثة أسابيع حضورية في ملبورن."
+  },
+  "about": {
+   "en": "Startmate is a founder-led accelerator for the Australia and New Zealand ecosystem. The Summer '27 programme runs for 14 weeks from 1 February to 7 May 2027. It is remote-first on Australian time, with in-person weeks for Week 0 in Melbourne, a mid-programme week and Demo Day week.\n\nIt is open to any stage, from idea to early revenue, in any industry; solo founders are welcome. Founders can join from anywhere in Australia or New Zealand, or from overseas if they have a strong connection to ANZ, which makes it relevant for international students and graduates of Australian or NZ universities who are building a company.\n\nEach accepted startup receives A$120k at acceptance (A$120k for 8% at a A$1.5m post-money valuation if you have not raised before), plus mentoring from Startmate's network of founders and operators."
+  },
+  "highlights": {
+   "en": [
+    "A$120k investment at acceptance, no programme fees",
+    "Remote-first: only three in-person weeks",
+    "Idea-stage teams accepted; 67% had no revenue when they applied"
+   ]
+  },
+  "eligibility": {
+   "en": "Founders of any age based in Australia or New Zealand, or overseas founders with a strong connection to ANZ. At least one founder must be (or become) full-time. Any industry, any stage."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the accelerator page and FAQs on startmate.com/accelerator.",
+    "Create an account on Startmate Universe and complete the online application before 11:59pm AEDT on 1 November 2026.",
+    "Shortlisted teams are interviewed; offers go out in mid-December 2026.",
+    "Attend Week 0 in Melbourne on 1 February 2027."
+   ]
+  },
+  "costs": {
+   "en": "No programme fee. Startmate invests A$120k (SAFE or priced round). Travel to the in-person weeks is at your own cost."
+  },
+  "keywords": [
+   "startup",
+   "accelerator",
+   "australia",
+   "new zealand",
+   "founders",
+   "investment",
+   "entrepreneurship"
+  ],
+  "url": "https://www.startmate.com/accelerator",
+  "apply_url": "https://www.startmate.com/accelerator",
+  "sources": [
+   "https://www.startmate.com/",
+   "https://www.startmate.com/accelerator"
+  ],
+  "score": 6,
+  "score_reason": "Strong, funded accelerator but the deadline is 1 Nov 2026 and it needs an ANZ link.",
+  "premium": false,
+  "fields": [
+   "business",
+   "computer-science",
+   "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "startmate-student-founder-bootcamp-2027",
+  "section": "project",
+  "family": "startup",
+  "type": "student entrepreneurship bootcamp",
+  "org": "Startmate",
+  "name": {
+   "en": "Startmate Student Founder Bootcamp 2027 (Sydney & Melbourne)",
+   "ka": "Startmate-ის სტუდენტ-დამფუძნებელთა ბუთქემპი 2027 (სიდნეი და მელბურნი)",
+   "ar": "معسكر Startmate للطلاب المؤسسين 2027 (سيدني وملبورن)"
+  },
+  "country": {
+   "en": "Australia",
+   "ka": "ავსტრალია",
+   "ar": "أستراليا"
+  },
+  "city": "Sydney",
+  "iso": "AU",
+  "flag": "🇦🇺",
+  "region": "oceania",
+  "lat": -33.869,
+  "lon": 151.209,
+  "cost": "paid",
+  "duration": {
+   "en": "2 days, overnight (March 2027)",
+   "ka": "2 დღე, ღამისთევით (2027 წლის მარტი)",
+   "ar": "يومان مع مبيت (مارس 2027)"
+  },
+  "grades": "university",
+  "opens": "2026-11-01",
+  "deadline": null,
+  "deadline_note": "Applications (expressions of interest) open in November 2026; closing date not yet published on the official page.",
+  "event_dates": "2027-03-01 to 2027-03-31",
+  "summary": {
+   "en": "A two-day overnight bootcamp in Sydney or Melbourne that teaches university students how to start a startup. No experience needed; A$200 covers food and accommodation.",
+   "ka": "ორდღიანი ბუთქემპი სიდნეიში ან მელბურნში, სადაც უნივერსიტეტის სტუდენტები სტარტაპის წამოწყებას სწავლობენ. გამოცდილება საჭირო არ არის; 200 ავსტრალიური დოლარი კვებასა და საცხოვრებელს ფარავს.",
+   "ar": "معسكر لمدة يومين مع مبيت في سيدني أو ملبورن يعلّم طلاب الجامعات كيفية تأسيس شركة ناشئة. لا تُشترط خبرة سابقة؛ ورسوم 200 دولار أسترالي تشمل الطعام والإقامة."
+  },
+  "about": {
+   "en": "The Student Founder Bootcamp is Startmate's entry-level programme for university students who are curious about building a startup. Two editions run in March 2027, one in Sydney and one in Melbourne, each over two days with an overnight stay.\n\nIt is open to all university students across Australia and New Zealand, including international students enrolled there, and no prior experience is required. Participants work on ideas with experienced founders and meet other ambitious students; it is a common first step towards Startmate's fellowships and accelerator."
+  },
+  "highlights": {
+   "en": [
+    "Two days in person with experienced startup founders",
+    "Open to any degree, no experience required",
+    "Low fee (A$200) covers accommodation and food"
+   ]
+  },
+  "eligibility": {
+   "en": "Students currently enrolled at a university in Australia or New Zealand (domestic or international). No age limit or prior startup experience required."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the Student Founder Bootcamp page on startmate.com.",
+    "Submit the 'Express Interest' form; full applications open in November 2026.",
+    "Wait for the outcome, sent shortly after applications close.",
+    "Pay the A$200 fee and travel to Sydney or Melbourne in March 2027."
+   ]
+  },
+  "costs": {
+   "en": "A$200 including GST, covering accommodation and food. Travel to Sydney/Melbourne is at your own cost."
+  },
+  "keywords": [
+   "startup",
+   "bootcamp",
+   "university",
+   "entrepreneurship",
+   "australia",
+   "sydney",
+   "melbourne"
+  ],
+  "url": "https://www.startmate.com/student-founder-bootcamp",
+  "apply_url": "https://startmate.fillout.com/t/sJX7ig3U6Gus",
+  "sources": [
+   "https://www.startmate.com/student-founder-bootcamp"
+  ],
+  "score": 5,
+  "score_reason": "Cheap, beginner-friendly, but only for students already at ANZ universities.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "iterative-winter-2027-batch",
+  "section": "project",
+  "family": "startup",
+  "type": "startup accelerator",
+  "org": "Iterative",
+  "name": {
+   "en": "Iterative Accelerator — Winter 2027 Batch (Southeast Asia)",
+   "ka": "Iterative-ის აქსელერატორი — 2027 ზამთრის ნაკადი (სამხრეთ-აღმოსავლეთ აზია)",
+   "ar": "مسرّعة Iterative — دفعة شتاء 2027 (جنوب شرق آسيا)"
+  },
+  "country": {
+   "en": "Singapore",
+   "ka": "სინგაპური",
+   "ar": "سنغافورة"
+  },
+  "city": "Singapore",
+  "iso": "SG",
+  "flag": "🇸🇬",
+  "region": "asia",
+  "lat": 1.352,
+  "lon": 103.82,
+  "cost": "funded",
+  "duration": {
+   "en": "About 3 months (Feb – May 2027)",
+   "ka": "დაახლოებით 3 თვე (2027 თებერვალი – მაისი)",
+   "ar": "نحو 3 أشهر (فبراير – مايو 2027)"
+  },
+  "grades": "18+",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Official apply page lists the Winter 2027 batch (Feb–May 2027) but no fixed deadline; it offers an email reminder one month before the deadline.",
+  "event_dates": "2027-02-01 to 2027-05-31",
+  "summary": {
+   "en": "Singapore-based Iterative invests US$150k–500k in Southeast Asian startups twice a year, paid upfront with no programme fees. The Winter 2027 batch starts with a 4-day in-person orientation and continues remotely.",
+   "ka": "სინგაპურული Iterative წელიწადში ორჯერ სამხრეთ-აღმოსავლეთ აზიის სტარტაპებში 150–500 ათას აშშ დოლარს აბანდებს, წინასწარ და საფასურის გარეშე. 2027 ზამთრის ნაკადი 4-დღიანი ორიენტაციით იწყება და დისტანციურად გრძელდება.",
+   "ar": "تستثمر Iterative ومقرها سنغافورة ما بين 150 و500 ألف دولار أمريكي في الشركات الناشئة في جنوب شرق آسيا مرتين سنويًا، تُدفع مقدمًا دون رسوم. تبدأ دفعة شتاء 2027 بتوجيه حضوري لأربعة أيام ثم تستمر عن بُعد."
+  },
+  "about": {
+   "en": "Iterative is a Singapore-based accelerator and seed fund focused on founders building in Southeast Asia. Twice a year it runs a batch; the Winter 2027 batch runs from February to May 2027, beginning with a four-day in-person orientation, after which founders stay in their home market and work remotely with the partners.\n\nIt invests in all industries and stages, including startups that are only an idea, assessing market, evidence and founders. Student and recent-graduate founders building for Southeast Asian markets are eligible.\n\nEach company receives US$150,000–500,000 for roughly 10–15%, paid in full on admission with no milestones, clawbacks or programme fees."
+  },
+  "highlights": {
+   "en": [
+    "US$150k–500k invested upfront, no fees",
+    "Idea-stage startups can apply",
+    "Remote after a 4-day in-person orientation"
+   ]
+  },
+  "eligibility": {
+   "en": "Founders (any nationality) building startups for Southeast Asian markets. Only founders may attend interviews and batch events. No minimum traction required."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the batch details on iterative.vc/apply.",
+    "Sign up for the deadline reminder and prepare a short written application about your market, evidence and team.",
+    "Submit the online application for the Winter 2027 batch.",
+    "Shortlisted founders are interviewed by the partners."
+   ]
+  },
+  "costs": {
+   "en": "No programme fee. Investment of US$150k–500k for about 10–15% equity. Travel to the orientation at your own cost."
+  },
+  "keywords": [
+   "startup",
+   "accelerator",
+   "singapore",
+   "southeast asia",
+   "seed funding",
+   "founders",
+   "entrepreneurship"
+  ],
+  "url": "https://www.iterative.vc/",
+  "apply_url": "https://www.iterative.vc/apply",
+  "sources": [
+   "https://www.iterative.vc/",
+   "https://www.iterative.vc/apply"
+  ],
+  "score": 5,
+  "score_reason": "Large cheques and idea-stage friendly, but deadline not yet published and SEA focus.",
+  "premium": false,
+  "fields": [
+   "business",
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "australian-mathematics-competition-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "mathematics competition",
+  "org": "Australian Mathematics Trust (AMT)",
+  "name": {
+   "en": "Australian Mathematics Competition (AMC) 2027",
+   "ka": "ავსტრალიის მათემატიკური კონკურსი (AMC) 2027",
+   "ar": "مسابقة الرياضيات الأسترالية (AMC) 2027"
+  },
+  "country": {
+   "en": "Australia",
+   "ka": "ავსტრალია",
+   "ar": "أستراليا"
+  },
+  "city": "Canberra",
+  "iso": "AU",
+  "flag": "🇦🇺",
+  "region": "oceania",
+  "lat": -35.282,
+  "lon": 149.129,
+  "cost": "paid",
+  "duration": {
+   "en": "One 60–75 minute paper (3–5 August 2027)",
+   "ka": "ერთი წერითი ტური, 60–75 წუთი (2027 წლის 3–5 აგვისტო)",
+   "ar": "اختبار واحد مدته 60–75 دقيقة (3–5 أغسطس 2027)"
+  },
+  "grades": "1-12",
+  "opens": null,
+  "deadline": "2027-06-25",
+  "deadline_note": "Official AMC page: printed-paper entries from outside Australia/NZ close Friday 25 June 2027; online entries close 30 July 2027.",
+  "event_dates": "2027-08-03 to 2027-08-05",
+  "summary": {
+   "en": "One of the world's largest school maths competitions, sat in schools in Australia and internationally. Schools register students in divisions from Year 1 to Year 12 for about AUD 9.30 each.",
+   "ka": "მსოფლიოს ერთ-ერთი უდიდესი სასკოლო მათემატიკური კონკურსი, რომელსაც ავსტრალიასა და სხვა ქვეყნების სკოლებში წერენ. სკოლა მოსწავლეებს 1–12 კლასების დივიზიონებში არეგისტრირებს, თითოზე დაახლოებით 9.30 ავსტრალიური დოლარი.",
+   "ar": "إحدى أكبر مسابقات الرياضيات المدرسية في العالم، تُجرى في المدارس داخل أستراليا وخارجها. تسجّل المدارس طلابها في فئات من الصف الأول إلى الثاني عشر بنحو 9.30 دولار أسترالي للطالب."
+  },
+  "about": {
+   "en": "The Australian Mathematics Competition (AMC), run by the Australian Mathematics Trust since 1978, is a problem-solving contest taken by hundreds of thousands of students. The 2027 competition is sat at school between Tuesday 3 and Thursday 5 August 2027, on paper or online.\n\nDivisions: Middle Primary (Years 3–4), Upper Primary (5–6), Junior (7–8), Intermediate (9–10) and Senior (11–12), plus a new Early Primary division for Years 1–2 from 2027. International schools can enter, with an earlier deadline for printed papers sent abroad.\n\nEvery student gets a result and certificate; top scorers receive prizes and medals, and a strong AMC score is a useful early signal for national olympiad pathways."
+  },
+  "highlights": {
+   "en": [
+    "Taken by students in dozens of countries",
+    "Paper or online, sat at your own school",
+    "Certificates for all, medals for top scorers"
+   ]
+  },
+  "eligibility": {
+   "en": "School students in Years 1–12. Entry is through a registered school (in Australia, New Zealand or internationally); students cannot usually enter alone."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask your school maths coordinator to register on the AMT admin portal (competitions.amt.edu.au/admin).",
+    "International printed entries must be registered by 25 June 2027; online entries by 30 July 2027.",
+    "Sit the paper at school between 3 and 5 August 2027.",
+    "Results and certificates are released by AMT after marking."
+   ]
+  },
+  "costs": {
+   "en": "AUD 9.30 per student (bundle discounts available); paid by the school."
+  },
+  "keywords": [
+   "math",
+   "mathematics",
+   "olympiad",
+   "competition",
+   "australia",
+   "school",
+   "amc"
+  ],
+  "url": "https://www.amt.edu.au/amc",
+  "apply_url": "https://competitions.amt.edu.au/admin",
+  "sources": [
+   "http://amt.edu.au/amc"
+  ],
+  "score": 6,
+  "score_reason": "Cheap, school-based and widely available, but needs school registration.",
+  "premium": false,
+  "fields": [
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "olympiad"
+  ]
+ },
+ {
+  "id": "cira-kyoto-research-internship-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "research internship",
+  "org": "Center for iPS Cell Research and Application (CiRA), Kyoto University",
+  "name": {
+   "en": "CiRA Research Internship Program 2027 (Kyoto University)",
+   "ka": "CiRA-ს კვლევითი სტაჟირება 2027 (კიოტოს უნივერსიტეტი)",
+   "ar": "برنامج التدريب البحثي في CiRA لعام 2027 (جامعة كيوتو)"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია",
+   "ar": "اليابان"
+  },
+  "city": "Kyoto",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 35.026,
+  "lon": 135.781,
+  "cost": "funded",
+  "duration": {
+   "en": "1–6 weeks (June – October 2027)",
+   "ka": "1–6 კვირა (2027 ივნისი – ოქტომბერი)",
+   "ar": "من أسبوع إلى 6 أسابيع (يونيو – أكتوبر 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": "2027-02-05",
+  "deadline_note": "Estimated: overseas deadline was 6 Feb 2026 (5pm JST) and is set around early February every year; confirm on the official page.",
+  "event_dates": "2027-06-01 to 2027-10-31",
+  "summary": {
+   "en": "Work for up to six weeks in a stem-cell lab at Kyoto University's CiRA, founded by Nobel laureate Shinya Yamanaka. Travel and accommodation are partly covered.",
+   "ka": "იმუშავეთ ექვს კვირამდე ღეროვანი უჯრედების ლაბორატორიაში კიოტოს უნივერსიტეტის CiRA-ში, რომელიც ნობელის ლაურეატმა შინია იამანაკამ დააარსა. მგზავრობა და საცხოვრებელი ნაწილობრივ იფარება.",
+   "ar": "اعمل حتى ستة أسابيع في مختبر للخلايا الجذعية في مركز CiRA بجامعة كيوتو الذي أسسه الحائز على نوبل شينيا ياماناكا، مع تغطية جزئية للسفر والسكن."
+  },
+  "about": {
+   "en": "CiRA is Kyoto University's centre for induced pluripotent stem (iPS) cell research. Its Research Internship Program lets students spend 1–6 consecutive weeks in a host lab between June and October, joining lab work, doing basic experiments and presenting their results at the end.\n\nIt is aimed mainly at third- and fourth-year undergraduates and graduate students who may later join CiRA as graduate students or postdocs. Each lab takes at most one overseas student, so places are few and competitive.\n\nCiRA covers a round trip to Kyoto (partly) and accommodation up to JPY 5,500 per day. Overseas students pay a short-term student fee (JPY 29,700/month in 2026) unless their university has an exchange agreement with Kyoto University."
+  },
+  "highlights": {
+   "en": [
+    "Lab placement at a world-leading stem-cell institute",
+    "Partial travel and accommodation support",
+    "Pathway to graduate study at Kyoto University"
+   ]
+  },
+  "eligibility": {
+   "en": "Undergraduates (mainly 3rd–4th year) and graduate students at overseas universities, planning to start graduate school within one or two years. Any nationality. English is the working language in most labs."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the internship page and the list of host PIs; email a host PI before applying (recommended).",
+    "Fill in the application form and written pledge, and get consent from your home supervisor.",
+    "Submit by the overseas deadline (early February).",
+    "Results are announced around the end of March.",
+    "Arrange personal accident and liability insurance before arrival."
+   ]
+  },
+  "costs": {
+   "en": "Round trip and accommodation (up to JPY 5,500/day) partly covered. Short-term student fee of JPY 29,700/month for overseas students (waived for Kyoto University partner institutions). No stipend."
+  },
+  "keywords": [
+   "research",
+   "internship",
+   "stem cells",
+   "ips",
+   "biology",
+   "medicine",
+   "kyoto",
+   "japan",
+   "summer"
+  ],
+  "url": "https://www.cira.kyoto-u.ac.jp/e/education/internship.html",
+  "apply_url": "https://www.cira.kyoto-u.ac.jp/e/education/internship.html",
+  "sources": [
+   "https://www.cira.kyoto-u.ac.jp/e/education/internship.html",
+   "https://www.cira.kyoto-u.ac.jp/e/pressrelease/seminar/251223-100000.html",
+   "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/non-degree-programs/short-term-international-students"
+  ],
+  "score": 7,
+  "score_reason": "Prestigious and partly funded; small number of overseas places.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "medicine-health"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "utokyo-utsip-kashiwa-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "summer research internship",
+  "org": "The University of Tokyo — Graduate School of Frontier Sciences",
+  "name": {
+   "en": "UTokyo Summer Internship Program (UTSIP) Kashiwa 2027",
+   "ka": "ტოკიოს უნივერსიტეტის საზაფხულო სტაჟირება UTSIP Kashiwa 2027",
+   "ar": "برنامج التدريب الصيفي لجامعة طوكيو UTSIP Kashiwa 2027"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია",
+   "ar": "اليابان"
+  },
+  "city": "Kashiwa",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 35.9,
+  "lon": 139.937,
+  "cost": "scholarship",
+  "duration": {
+   "en": "About 6–8 weeks (summer 2027)",
+   "ka": "დაახლოებით 6–8 კვირა (2027 ზაფხული)",
+   "ar": "نحو 6–8 أسابيع (صيف 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": "2027-01-12",
+  "deadline_note": "Estimated: the 2026 deadline was 13 January 2026, 17:00 Tokyo time; the 2027 call is expected on the same pattern.",
+  "event_dates": null,
+  "summary": {
+   "en": "A summer research internship on the University of Tokyo's Kashiwa campus for undergraduates enrolled at overseas universities. Interns join a Frontier Sciences lab for the summer.",
+   "ka": "საზაფხულო კვლევითი სტაჟირება ტოკიოს უნივერსიტეტის კაშივას კამპუსზე უცხოურ უნივერსიტეტებში ჩარიცხული ბაკალავრებისთვის. სტაჟიორები ზაფხულს Frontier Sciences-ის ლაბორატორიაში ატარებენ.",
+   "ar": "تدريب بحثي صيفي في حرم كاشيوا التابع لجامعة طوكيو لطلاب البكالوريوس المسجلين في جامعات خارج اليابان، حيث ينضم المتدربون إلى مختبر في كلية العلوم الحدودية."
+  },
+  "about": {
+   "en": "UTSIP Kashiwa is the Graduate School of Frontier Sciences' summer internship for undergraduate students enrolled at overseas universities. Interns spend the summer in a lab on the Kashiwa campus near Tokyo, in fields such as materials, environmental studies, biosciences, computational biology, ocean technology and complexity science.\n\nIt is a way to experience graduate-level research at Japan's top university and to meet potential supervisors for a master's or PhD. The 2026 call closed on 13 January 2026; the 2027 call is expected to open in late 2026 with a similar January deadline.\n\nSupport in past cycles has included a scholarship/allowance and help with housing; check the 2027 call for exact amounts."
+  },
+  "highlights": {
+   "en": [
+    "Research at the University of Tokyo",
+    "Specifically for undergraduates at overseas universities",
+    "Strong route into UTokyo graduate admissions"
+   ]
+  },
+  "eligibility": {
+   "en": "Undergraduate students currently enrolled at a university outside Japan, in science or engineering fields relevant to Frontier Sciences labs. Any nationality."
+  },
+  "how_to_apply": {
+   "en": [
+    "Watch the Frontier Sciences news page for the UTSIP Kashiwa 2027 announcement (late 2026).",
+    "Pick host labs from the list in the call.",
+    "Prepare transcripts, a statement of purpose and recommendation as requested.",
+    "Submit before the January deadline (17:00 Tokyo time)."
+   ]
+  },
+  "costs": {
+   "en": "Check the 2027 call: past cycles offered support towards living costs; travel is usually at your own cost."
+  },
+  "keywords": [
+   "research",
+   "internship",
+   "summer",
+   "tokyo",
+   "japan",
+   "utokyo",
+   "engineering",
+   "science",
+   "stem"
+  ],
+  "url": "https://www.k.u-tokyo.ac.jp/en/information/category/news/0028643.html",
+  "apply_url": "https://www.k.u-tokyo.ac.jp/en/information/category/news/0028643.html",
+  "sources": [
+   "https://www.k.u-tokyo.ac.jp/en/information/category/news/0028643.html"
+  ],
+  "score": 6,
+  "score_reason": "Top university, open to all nationalities; 2027 details not yet published.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "environment"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "riken-international-program-associate-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "PhD research fellowship",
+  "org": "RIKEN",
+  "name": {
+   "en": "RIKEN International Program Associate (IPA) — 2027 calls",
+   "ka": "RIKEN-ის საერთაშორისო პროგრამის ასოცირებული მკვლევარი (IPA) — 2027",
+   "ar": "برنامج الباحث المشارك الدولي في RIKEN (IPA) — دعوات 2027"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია",
+   "ar": "اليابان"
+  },
+  "city": "Wako",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 35.781,
+  "lon": 139.611,
+  "cost": "fully-funded",
+  "duration": {
+   "en": "1–3 years",
+   "ka": "1–3 წელი",
+   "ar": "من سنة إلى 3 سنوات"
+  },
+  "grades": "phd",
+  "opens": "2027-04-01",
+  "deadline": null,
+  "deadline_note": "Official page: calls for overseas applicants open every April and September; exact 2027 deadlines are set in each call.",
+  "event_dates": null,
+  "summary": {
+   "en": "RIKEN, Japan's largest research institute, hosts non-Japanese PhD students in its labs for one to three years. Airfare, a daily allowance of JPY 5,200 and housing are covered.",
+   "ka": "RIKEN, იაპონიის უდიდესი კვლევითი ინსტიტუტი, არაიაპონელ დოქტორანტებს ერთიდან სამ წლამდე მასპინძლობს. იფარება ავიაბილეთი, დღიური 5,200 იენი და საცხოვრებელი.",
+   "ar": "يستضيف معهد RIKEN، أكبر مؤسسة بحثية في اليابان، طلاب الدكتوراه غير اليابانيين في مختبراته لمدة سنة إلى ثلاث سنوات، مع تغطية تذكرة الطيران وبدل يومي 5,200 ين والسكن."
+  },
+  "about": {
+   "en": "The International Program Associate (IPA) programme lets non-Japanese doctoral students carry out their PhD research at RIKEN (Wako, Kobe, Yokohama, Harima and other campuses) under a RIKEN supervisor, through RIKEN's joint graduate school partnerships with universities in Japan and abroad.\n\nPlacements usually last one to three years and start in October or April. Applicants first find a RIKEN researcher willing to host them; the researcher contacts RIKEN's personnel office, and the student then applies in the April or September call.\n\nRIKEN covers one round-trip airfare, a living allowance of JPY 5,200 per day, free on-campus housing (or up to JPY 70,000/month rent) and accident insurance."
+  },
+  "highlights": {
+   "en": [
+    "Fully funded PhD research at a world-class institute",
+    "Housing plus JPY 5,200/day allowance",
+    "Calls twice a year (April and September)"
+   ]
+  },
+  "eligibility": {
+   "en": "Non-Japanese PhD students enrolled at a Japanese or overseas university that has (or is signing) a joint graduate school agreement with RIKEN. A RIKEN host researcher must agree to supervise you."
+  },
+  "how_to_apply": {
+   "en": [
+    "Browse RIKEN labs and contact a researcher whose work matches yours.",
+    "If they agree to host you, they notify RIKEN's Research Personnel Affairs Section.",
+    "Apply in the April or September call with the documents requested.",
+    "Pass RIKEN screening and internal approval; start in October or April."
+   ]
+  },
+  "costs": {
+   "en": "Covered: one round-trip airfare, JPY 5,200/day living allowance, free housing or rent up to JPY 70,000/month, accident insurance. No fees."
+  },
+  "keywords": [
+   "phd",
+   "research",
+   "japan",
+   "riken",
+   "fellowship",
+   "science",
+   "funded",
+   "stem"
+  ],
+  "url": "https://www.riken.jp/en/careers/programs/ipa/index.html",
+  "apply_url": "https://www.riken.jp/en/careers/programs/ipa/index.html",
+  "sources": [
+   "https://www.riken.jp/en/careers/programs/ipa/index.html",
+   "https://www.riken.jp/en/careers/programs/index.html"
+  ],
+  "score": 7,
+  "score_reason": "Fully funded, but only for PhD students at partner universities with a host secured.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "computer-science",
+   "medicine-health"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "university-of-seoul-international-research-internship-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "summer research internship",
+  "org": "University of Seoul (UOS)",
+  "name": {
+   "en": "University of Seoul International Research Internship — Summer 2027",
+   "ka": "სეულის უნივერსიტეტის საერთაშორისო კვლევითი სტაჟირება — ზაფხული 2027",
+   "ar": "برنامج التدريب البحثي الدولي في جامعة سيول — صيف 2027"
+  },
+  "country": {
+   "en": "South Korea",
+   "ka": "სამხრეთ კორეა",
+   "ar": "كوريا الجنوبية"
+  },
+  "city": "Seoul",
+  "iso": "KR",
+  "flag": "🇰🇷",
+  "region": "asia",
+  "lat": 37.584,
+  "lon": 127.059,
+  "cost": "paid",
+  "duration": {
+   "en": "7.5 weeks (July – August 2027)",
+   "ka": "7.5 კვირა (2027 ივლისი – აგვისტო)",
+   "ar": "7.5 أسابيع (يوليو – أغسطس 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": "2027-03-26",
+  "deadline_note": "Estimated from the 2026 cycle (preliminary application by email by 27 March 2026, summer session 1 July – 21 August); confirm the 2027 call.",
+  "event_dates": "2027-07-01 to 2027-08-21",
+  "summary": {
+   "en": "A credit-bearing summer research internship in University of Seoul labs, with on-campus housing and field trips included. Aimed at students from UOS partner universities, with a non-partner fee also listed.",
+   "ka": "კრედიტიანი საზაფხულო კვლევითი სტაჟირება სეულის უნივერსიტეტის ლაბორატორიებში, კამპუსის საცხოვრებლითა და ექსკურსიებით. განკუთვნილია პარტნიორი უნივერსიტეტების სტუდენტებისთვის, თუმცა არაპარტნიორთა საფასურიც მითითებულია.",
+   "ar": "تدريب بحثي صيفي معتمد بساعات دراسية في مختبرات جامعة سيول، يشمل السكن الجامعي والرحلات الثقافية. موجّه لطلاب الجامعات الشريكة مع رسوم محددة لغير الشركاء أيضًا."
+  },
+  "about": {
+   "en": "The UOS International Research Internship places international students in University of Seoul labs for at least 160 hours of research during the 7.5-week summer session (SISS I), earning 3 credits. Labs in engineering, science, urban studies and other fields post their own projects and requirements (some ask for TOEFL 100 or TOPIK 5, a CV and an interview).\n\nThe 2026 timeline was: preliminary email application by 27 March, online interviews in early April, results by mid-April, then official summer-session application and payment. The 2027 cycle is expected to follow the same pattern.\n\nThe fee includes on-campus housing and cultural field trips, which makes it a practical, structured way to try research in Korea."
+  },
+  "highlights": {
+   "en": [
+    "3 credits for 160+ hours of lab research",
+    "Housing and cultural trips included in the fee",
+    "Seoul location with semester-long option too"
+   ]
+  },
+  "eligibility": {
+   "en": "Students from UOS global partner universities (the page also lists a non-partner fee). Each lab sets its own requirements on major and English/Korean level; some positions are for graduate students only."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check the OIA International Research Internship page for the 2027 lab list.",
+    "Email your preliminary application to uosinternship@uos.ac.kr by the late-March deadline.",
+    "Attend an online interview in early April.",
+    "If selected, complete the official summer session application and pay via Flywire."
+   ]
+  },
+  "costs": {
+   "en": "2026 fee: KRW 2,400,000 (partner students) or KRW 2,600,000 (non-partners), including on-campus housing and field trips. No stipend."
+  },
+  "keywords": [
+   "research",
+   "internship",
+   "summer",
+   "korea",
+   "seoul",
+   "engineering",
+   "credits",
+   "stem"
+  ],
+  "url": "https://oia.uos.ac.kr/oia/web/contents/OIA_Studyat_03",
+  "apply_url": "https://oia.uos.ac.kr/oia/web/contents/OIA_Studyat_03",
+  "sources": [
+   "https://oia.uos.ac.kr/oia/web/contents/OIA_Studyat_03"
+  ],
+  "score": 5,
+  "score_reason": "Structured and affordable, but aimed at partner universities and paid.",
+  "premium": false,
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "keio-bio2q-research-internship-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "research internship",
+  "org": "Keio University — Human Biology-Microbiome-Quantum Research Center (Bio2Q)",
+  "name": {
+   "en": "Keio University Bio2Q Research Internship Program 2027",
+   "ka": "კეიოს უნივერსიტეტის Bio2Q კვლევითი სტაჟირება 2027",
+   "ar": "برنامج التدريب البحثي Bio2Q في جامعة كيو 2027"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია",
+   "ar": "اليابان"
+  },
+  "city": "Tokyo",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 35.651,
+  "lon": 139.715,
+  "cost": "funded",
+  "duration": {
+   "en": "8–12 weeks (10 May – 10 August 2027)",
+   "ka": "8–12 კვირა (2027 წლის 10 მაისი – 10 აგვისტო)",
+   "ar": "8–12 أسبوعًا (10 مايو – 10 أغسطس 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": "2026-12-01",
+  "deadline_note": "Official page: deadline 1 December 2026, 23:59 JST; final results around February 2027.",
+  "event_dates": "2027-05-10 to 2027-08-10",
+  "summary": {
+   "en": "A funded 8–12 week research internship at Keio University's Bio2Q centre in Tokyo, covering human biology, microbiome and quantum computation. Housing and travel are supported and no Japanese is needed.",
+   "ka": "დაფინანსებული 8–12-კვირიანი კვლევითი სტაჟირება კეიოს უნივერსიტეტის Bio2Q ცენტრში ტოკიოში: ადამიანის ბიოლოგია, მიკრობიომი და კვანტური გამოთვლები. საცხოვრებელი და მგზავრობა ფინანსდება, იაპონური არ არის საჭირო.",
+   "ar": "تدريب بحثي ممول لمدة 8–12 أسبوعًا في مركز Bio2Q بجامعة كيو في طوكيو، يشمل بيولوجيا الإنسان والميكروبيوم والحوسبة الكمية، مع دعم للسكن والسفر ودون الحاجة إلى اللغة اليابانية."
+  },
+  "about": {
+   "en": "Bio2Q is a World Premier International Research Center (WPI) at Keio University that combines human biology, microbiome science and quantum computation. Its 2027 Research Internship Program hosts students in Bio2Q labs for 8–12 weeks between 10 May and 10 August 2027, with exact dates agreed with the host lab.\n\nIt targets students who are considering a master's or PhD at Keio: bachelor's and master's students for the Graduate School of Medicine, and master's students for Science and Technology or Pharmaceutical Sciences. Recent graduates may also apply, and English is the working language.\n\nBio2Q provides designated accommodation and travel expenses (subject to conditions). Selection is by document review and an online interview, with results around February 2027."
+  },
+  "highlights": {
+   "en": [
+    "Housing and travel covered",
+    "English-only, no prior lab contact needed",
+    "Cutting-edge mix of microbiome, medicine and quantum computing"
+   ]
+  },
+  "eligibility": {
+   "en": "Bachelor's and master's students (or recent graduates) worldwide aiming at Keio's Graduate School of Medicine; master's students aiming at a PhD in Science and Technology or Pharmaceutical Sciences. No Japanese or language certificate required if you communicate in English."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the 2027 guidelines PDF on the Bio2Q news page.",
+    "Choose up to three labs in the Keio Web Entry System and write one Statement of Purpose.",
+    "Submit documents online (or by email) by 1 December 2026, 23:59 JST.",
+    "Attend an online interview if shortlisted; final results around February 2027."
+   ]
+  },
+  "costs": {
+   "en": "Designated accommodation and travel expenses are provided (travel subject to conditions). No stipend or living allowance."
+  },
+  "keywords": [
+   "research",
+   "internship",
+   "keio",
+   "tokyo",
+   "japan",
+   "microbiome",
+   "medicine",
+   "quantum",
+   "biology",
+   "funded"
+  ],
+  "url": "https://bio2q.keio.ac.jp/news/research-internship-program-2027/",
+  "apply_url": "https://bio2q.keio.ac.jp/news/research-internship-program-2027/",
+  "sources": [
+   "https://bio2q.keio.ac.jp/news/research-internship-program-2027/"
+  ],
+  "score": 8,
+  "score_reason": "Open worldwide, funded housing and travel, deadline 1 Dec 2026.",
+  "premium": false,
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "kyoto-ku-star-india-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "research internship",
+  "org": "Kyoto University",
+  "name": {
+   "en": "Kyoto University KU-STAR Program for India 2027",
+   "ka": "კიოტოს უნივერსიტეტის KU-STAR პროგრამა ინდოეთისთვის 2027",
+   "ar": "برنامج KU-STAR لجامعة كيوتو للهند 2027"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია",
+   "ar": "اليابان"
+  },
+  "city": "Kyoto",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 35.026,
+  "lon": 135.781,
+  "cost": "funded",
+  "duration": {
+   "en": "About 7–8 weeks (May – July 2027)",
+   "ka": "დაახლოებით 7–8 კვირა (2027 მაისი – ივლისი)",
+   "ar": "نحو 7–8 أسابيع (مايو – يوليو 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": "2027-01-26",
+  "deadline_note": "Estimated: the 2026 deadline was 27 January 2026 (5pm JST) for a May–July internship; check the KU-STAR page for the 2027 call.",
+  "event_dates": "2027-05-18 to 2027-07-10",
+  "summary": {
+   "en": "A summer research internship in Kyoto University labs for students enrolled at universities in India who want to do a PhD in Kyoto. Accommodation is provided by the university.",
+   "ka": "საზაფხულო კვლევითი სტაჟირება კიოტოს უნივერსიტეტის ლაბორატორიებში ინდოეთის უნივერსიტეტების სტუდენტებისთვის, ვისაც კიოტოში დოქტორანტურა სურს. საცხოვრებელს უნივერსიტეტი უზრუნველყოფს.",
+   "ar": "تدريب بحثي صيفي في مختبرات جامعة كيوتو للطلاب المسجلين في جامعات الهند والراغبين في الدكتوراه في كيوتو، مع سكن توفره الجامعة."
+  },
+  "about": {
+   "en": "KU-STAR (Kyoto University Short-Term Academic Research) for India brings undergraduate and master's students from Indian universities to Kyoto for a lab-based internship of about eight weeks in summer (19 May – 10 July in 2026). Interns join a host laboratory from the published list and work on a research project.\n\nIt is designed as a recruitment pipeline for Kyoto University doctoral programmes, so applicants should have a genuine interest in a PhD there. International students enrolled at Indian universities are eligible as well as Indian nationals.\n\nKyoto University provides accommodation for the whole period; in 2026 there was no daily stipend, so travel and living costs were the participant's own."
+  },
+  "highlights": {
+   "en": [
+    "Lab internship at one of Asia's top research universities",
+    "Free accommodation in Kyoto",
+    "Direct pathway to Kyoto University PhD programmes"
+   ]
+  },
+  "eligibility": {
+   "en": "Undergraduates (having completed at least 4 semesters) or master's students currently enrolled at a college or university in India, not graduating before the programme and continuing studies for at least one more semester afterwards. Good academic record and strong interest in a Kyoto University doctorate."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the Application Guide and Host Laboratory List on the KU-STAR India page.",
+    "Create an account in the online application system when it opens.",
+    "Request a recommendation letter through the system using your Application ID.",
+    "Upload all documents and submit before the January deadline. Do not contact labs directly."
+   ]
+  },
+  "costs": {
+   "en": "Accommodation provided by Kyoto University. In 2026 no stipend; airfare and living costs paid by the participant."
+  },
+  "keywords": [
+   "research",
+   "internship",
+   "kyoto",
+   "japan",
+   "india",
+   "phd pathway",
+   "summer",
+   "stem"
+  ],
+  "url": "https://www.kugd.k.kyoto-u.ac.jp/en/ku-star-program/",
+  "apply_url": "https://www.kugd.k.kyoto-u.ac.jp/en/ku-star-program/",
+  "sources": [
+   "https://www.kugd.k.kyoto-u.ac.jp/en/ku-star-program/",
+   "https://www.kugd.k.kyoto-u.ac.jp/en/ku-star-program-aus",
+   "https://www.kyoto-u.ac.jp/en/education-campus/education-and-admissions/non-degree-programs/short-term-international-students"
+  ],
+  "score": 6,
+  "score_reason": "Free housing at a top university, but limited to students at Indian universities.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "medicine-health"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "hku-chemistry-summer-research-programme-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "summer research programme",
+  "org": "The University of Hong Kong — Department of Chemistry (HKU Summer Institute)",
+  "name": {
+   "en": "HKU Chemistry Summer Research Programme (CHEM4990) 2027",
+   "ka": "HKU-ს ქიმიის საზაფხულო კვლევითი პროგრამა (CHEM4990) 2027",
+   "ar": "برنامج البحث الصيفي في الكيمياء بجامعة هونغ كونغ (CHEM4990) 2027"
+  },
+  "country": {
+   "en": "Hong Kong",
+   "ka": "ჰონკონგი",
+   "ar": "هونغ كونغ"
+  },
+  "city": "Hong Kong",
+  "iso": "HK",
+  "flag": "🇭🇰",
+  "region": "asia",
+  "lat": 22.283,
+  "lon": 114.137,
+  "cost": "paid",
+  "duration": {
+   "en": "4 weeks (late June / early July 2027)",
+   "ka": "4 კვირა (2027 ივნისის ბოლო / ივლისის დასაწყისი)",
+   "ar": "4 أسابيع (أواخر يونيو / أوائل يوليو 2027)"
+  },
+  "grades": "university",
+  "opens": "2026-11-20",
+  "deadline": "2027-04-10",
+  "deadline_note": "HKU Summer Institute page: non-local deadline 10 April 2027 (early bird 31 Jan 2027); applications open on a rolling basis from late November 2026.",
+  "event_dates": "2027-06-21 to 2027-07-31",
+  "summary": {
+   "en": "A four-week, face-to-face research placement in a chemistry research group at the University of Hong Kong for undergraduates from other universities. Applications open late November 2026.",
+   "ka": "ოთხკვირიანი პირისპირ კვლევითი სტაჟირება ჰონკონგის უნივერსიტეტის ქიმიის კვლევით ჯგუფში სხვა უნივერსიტეტების ბაკალავრებისთვის. განაცხადები 2026 წლის ნოემბრის ბოლოს იხსნება.",
+   "ar": "تدريب بحثي حضوري لأربعة أسابيع في مجموعة بحثية للكيمياء بجامعة هونغ كونغ لطلاب البكالوريوس من جامعات أخرى. يبدأ التقديم أواخر نوفمبر 2026."
+  },
+  "about": {
+   "en": "Run through the HKU Summer Institute, CHEM4990 places undergraduates from outside HKU in a Department of Chemistry research group for four weeks, preferably starting in late June or early July 2027 (exact dates agreed with the supervisor). It is non-credit-bearing and fully in person.\n\nApplicants need at least one year of chemistry with a lab component, and must upload a CV and transcript; shortlisted candidates are interviewed. It is a good fit for chemistry students who want lab experience in Asia before applying for graduate school.\n\nApplications open on a rolling basis from late November 2026: early-bird deadline 31 January 2027, non-local deadline 10 April 2027."
+  },
+  "highlights": {
+   "en": [
+    "Hands-on lab research at a top-ranked Asian university",
+    "Open to local and non-local undergraduates",
+    "Rolling admission from late November 2026"
+   ]
+  },
+  "eligibility": {
+   "en": "Undergraduates from any university (non-HKU) who have completed at least one year of chemistry with laboratory work. English medium of instruction declaration, or IELTS 6.5 / TOEFL iBT 93."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the programme page on the HKU Summer Institute website.",
+    "Create an application and upload your CV and academic transcript.",
+    "Pay the application fee (HKD 400).",
+    "Attend an interview if shortlisted; apply early since admission is rolling."
+   ]
+  },
+  "costs": {
+   "en": "Programme fee to be announced (in HKD; no discounts apply). Application fee HKD 400. Student visa fee HKD 1,100 if required. Travel and accommodation extra."
+  },
+  "keywords": [
+   "chemistry",
+   "research",
+   "summer",
+   "hong kong",
+   "hku",
+   "lab",
+   "stem"
+  ],
+  "url": "https://www.summerinstitute.hku.hk/programmes/detail/hkusi-chem4990-2027",
+  "apply_url": "https://www.summerinstitute.hku.hk/programmes/detail/hkusi-chem4990-2027",
+  "sources": [
+   "https://www.summerinstitute.hku.hk/programmes/detail/hkusi-chem4990-2027",
+   "https://www.summerinstitute.hku.hk/programmes/undergraduate-postgraduate-programmes"
+  ],
+  "score": 6,
+  "score_reason": "Real lab placement open internationally, but fee not yet announced.",
+  "premium": false,
+  "fields": [
+   "natural-sciences"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "china-international-college-students-innovation-competition-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "startup and innovation competition",
+  "org": "Ministry of Education of China / PILC (international track)",
+  "name": {
+   "en": "China International College Students' Innovation Competition 2027 — International Track",
+   "ka": "ჩინეთის სტუდენტური ინოვაციების საერთაშორისო კონკურსი 2027 — საერთაშორისო ტრეკი",
+   "ar": "المسابقة الدولية لابتكار طلاب الجامعات في الصين 2027 — المسار الدولي"
+  },
+  "country": {
+   "en": "China",
+   "ka": "ჩინეთი",
+   "ar": "الصين"
+  },
+  "city": "Nanjing",
+  "iso": "CN",
+  "flag": "🇨🇳",
+  "region": "asia",
+  "lat": 32.06,
+  "lon": 118.797,
+  "cost": "free",
+  "duration": {
+   "en": "Online rounds (Aug – Oct) + grand final (November 2027)",
+   "ka": "ონლაინ ტურები (აგვისტო – ოქტომბერი) + ფინალი (2027 ნოემბერი)",
+   "ar": "جولات عبر الإنترنت (أغسطس – أكتوبر) ونهائي (نوفمبر 2027)"
+  },
+  "grades": "university",
+  "opens": "2027-08-20",
+  "deadline": "2027-09-15",
+  "deadline_note": "Estimated from the 2026 notice (registration 20 Aug – 15 Sep 2026, final in Nanjing in November); the 2027 notice is expected in August 2027.",
+  "event_dates": null,
+  "summary": {
+   "en": "The world's largest student startup competition (formerly 'Internet+') has a separate ranking for teams from non-Chinese universities, with 600 gold, silver and bronze awards. Teams submit a business plan online; finalists pitch in China.",
+   "ka": "მსოფლიოს უდიდეს სტუდენტურ სტარტაპ-კონკურსს (ყოფილი 'Internet+') არაჩინური უნივერსიტეტების გუნდებისთვის ცალკე რეიტინგი აქვს და 600 ოქროს, ვერცხლისა და ბრინჯაოს ჯილდოს გასცემს. გუნდები ბიზნეს-გეგმას ონლაინ წარადგენენ, ფინალისტები კი ჩინეთში.",
+   "ar": "لأكبر مسابقة طلابية للشركات الناشئة في العالم (المعروفة سابقًا باسم Internet+) تصنيف مستقل لفرق الجامعات غير الصينية مع 600 جائزة ذهبية وفضية وبرونزية. تقدّم الفرق خطة عمل عبر الإنترنت ويعرض المتأهلون مشاريعهم في الصين."
+  },
+  "about": {
+   "en": "The China International College Students' Innovation Competition (CICSIC) is organised by China's Ministry of Education and partners. Its Higher Education Main Track ranks international entries separately from Chinese ones, by level (undergraduate or postgraduate) and stage (idea or registered startup).\n\nIn 2026 international registration ran 20 August – 15 September, followed by eligibility review, online evaluation from late September to October, and an on-site grand final in Nanjing in November (online presentation possible). International projects competed for 60 gold, 120 silver and 420 bronze awards. The 2027 edition is expected to follow the same calendar.\n\nIt is free to enter and a strong line on a CV for student entrepreneurs, with networking with Chinese investors and universities."
+  },
+  "highlights": {
+   "en": [
+    "600 awards reserved for international teams",
+    "Idea-stage projects welcome",
+    "Free entry; finals in China with online option"
+   ]
+  },
+  "eligibility": {
+   "en": "Teams of 2–15 students currently enrolled at (or graduated after 2021 from) a single non-Chinese higher-education institution; team leader under 35. Idea-stage (no company) or startup-stage (registered company, leader is legal representative). Materials in English or Chinese."
+  },
+  "how_to_apply": {
+   "en": [
+    "Watch cy.ncss.cn/en for the 2027 invitation notice (expected August 2027).",
+    "Register the team on the PILC platform (pilcchina.org) during the registration window.",
+    "Upload a business plan PDF (optional one-minute video) and proof of student status.",
+    "Pass eligibility review and online evaluation; finalists are invited to the grand final."
+   ]
+  },
+  "costs": {
+   "en": "Free to enter. Finalists' travel arrangements are announced in the notice; online presentation is possible."
+  },
+  "keywords": [
+   "startup",
+   "innovation",
+   "competition",
+   "china",
+   "business plan",
+   "entrepreneurship",
+   "internet plus"
+  ],
+  "url": "http://cy.ncss.cn/en/",
+  "apply_url": "https://www.pilcchina.org/",
+  "sources": [
+   "http://cy.ncss.cn/en/",
+   "http://cy.ncss.cn/en/notifications/2c93f4c6a05c38d901a0bcafdc6500a1"
+  ],
+  "score": 6,
+  "score_reason": "Big, free, prestigious; 2027 dates estimated from 2026.",
+  "premium": false,
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "academia-sinica-taiwan-international-internship-program-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "research internship",
+  "org": "Academia Sinica",
+  "name": {
+   "en": "Academia Sinica Taiwan International Internship Program (TIIP) 2027",
+   "ka": "Academia Sinica-ს ტაივანის საერთაშორისო სტაჟირების პროგრამა (TIIP) 2027",
+   "ar": "برنامج التدريب الدولي في تايوان لأكاديميا سينيكا (TIIP) 2027"
+  },
+  "country": {
+   "en": "Taiwan",
+   "ka": "ტაივანი",
+   "ar": "تايوان"
+  },
+  "city": "Taipei",
+  "iso": "TW",
+  "flag": "🇹🇼",
+  "region": "asia",
+  "lat": 25.042,
+  "lon": 121.614,
+  "cost": "funded",
+  "duration": {
+   "en": "About 2 months (summer 2027)",
+   "ka": "დაახლოებით 2 თვე (2027 ზაფხული)",
+   "ar": "نحو شهرين (صيف 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "The 2027 host-mentor list is published on the official site; the exact deadline is shown in the site's timeline graphic, so confirm it there.",
+  "event_dates": null,
+  "summary": {
+   "en": "Taiwan's national academy hosts international students for a summer research internship with Academia Sinica mentors in Taipei. The 2027 list of host mentors is already online.",
+   "ka": "ტაივანის ეროვნული აკადემია უცხოელ სტუდენტებს საზაფხულო კვლევით სტაჟირებას სთავაზობს Academia Sinica-ს მენტორებთან ტაიპეიში. 2027 წლის მენტორების სია უკვე გამოქვეყნებულია.",
+   "ar": "تستضيف الأكاديمية الوطنية في تايوان طلابًا دوليين في تدريب بحثي صيفي مع مرشدين من أكاديميا سينيكا في تايبيه، وقائمة المرشدين لعام 2027 منشورة بالفعل."
+  },
+  "about": {
+   "en": "The Taiwan International Internship Program (TIIP) is run by Academia Sinica, Taiwan's leading research institution, linked to its Taiwan International Graduate Program (TIGP). Interns spend the summer in an Academia Sinica lab in Taipei working with a host mentor across life sciences, physical sciences, computing and more.\n\nIt is designed to introduce strong international students to research in Taiwan and to recruit them into TIGP PhD programmes. The 2027 host mentors are already listed on the site, and the application portal is linked from the Apply page.\n\nThe programme offers financial support (detailed on its 'Financial and Other Supports' page)."
+  },
+  "highlights": {
+   "en": [
+    "Summer research in Taiwan's top research institute",
+    "2027 host mentors already listed",
+    "Financial support provided; pathway to TIGP PhD"
+   ]
+  },
+  "eligibility": {
+   "en": "Third-year and final-year undergraduates, master's students, and holders of a BS or master's degree. Not eligible: PhD students, previous TIIP participants, and current Academia Sinica staff."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the eligibility and timeline pages on tiip.dia.sinica.edu.tw.",
+    "Browse the 2027 host mentor list and choose mentors.",
+    "Apply through the online portal linked from the Apply page.",
+    "Contact tiip@as.edu.tw with questions."
+   ]
+  },
+  "costs": {
+   "en": "Financial support is provided; see the official Financial and Other Supports page for amounts."
+  },
+  "keywords": [
+   "research",
+   "internship",
+   "taiwan",
+   "taipei",
+   "academia sinica",
+   "summer",
+   "stem",
+   "tigp"
+  ],
+  "url": "https://tiip.dia.sinica.edu.tw/pages/4048",
+  "apply_url": "https://tiip.dia.sinica.edu.tw/pages/4048",
+  "sources": [
+   "https://tiip.dia.sinica.edu.tw/pages/4048",
+   "https://tiip.dia.sinica.edu.tw/pages/4045",
+   "https://tiip.dia.sinica.edu.tw/pages/4044"
+  ],
+  "score": 6,
+  "score_reason": "Funded and open internationally; exact 2027 deadline needs checking.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "computer-science",
+   "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "habitat-global-village-yogyakarta-indonesia-2027-09",
+  "section": "project",
+  "family": "volunteering",
+  "type": "volunteer building trip",
+  "org": "Habitat for Humanity International",
+  "name": {
+   "en": "Habitat for Humanity Global Village: home building in Yogyakarta, Indonesia (4–11 September 2027)",
+   "ka": "Habitat for Humanity Global Village: სახლის აშენება იოგიაკარტაში, ინდონეზია (2027 წლის 4–11 სექტემბერი)",
+   "ar": "Habitat for Humanity Global Village: بناء منزل في يوجياكارتا، إندونيسيا (4–11 سبتمبر 2027)"
+  },
+  "country": {
+   "en": "Indonesia",
+   "ka": "ინდონეზია",
+   "ar": "إندونيسيا"
+  },
+  "city": "Yogyakarta",
+  "iso": "ID",
+  "flag": "🇮🇩",
+  "region": "asia",
+  "lat": -7.797,
+  "lon": 110.37,
+  "cost": "paid",
+  "duration": {
+   "en": "1 week",
+   "ka": "1 კვირა",
+   "ar": "أسبوع واحد"
+  },
+  "grades": "15+",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "No fixed deadline on the official trip page: places are filled through the team leader until the team is full; register early.",
+  "event_dates": "2027-09-04 to 2027-09-11",
+  "summary": {
+   "en": "Join a one-week Habitat for Humanity team building a home with a local family in Yogyakarta, Indonesia. Volunteers aged 15–17 can join with a parent or authorised adult.",
+   "ka": "შეუერთდით Habitat for Humanity-ის ერთკვირიან გუნდს, რომელიც იოგიაკარტაში ადგილობრივ ოჯახთან ერთად სახლს აშენებს. 15–17 წლის მოხალისეებს მშობელთან ან უფლებამოსილ ზრდასრულთან ერთად შეუძლიათ მონაწილეობა.",
+   "ar": "انضم إلى فريق Habitat for Humanity لمدة أسبوع لبناء منزل مع عائلة محلية في يوجياكارتا. يمكن للمتطوعين بين 15 و17 عامًا المشاركة برفقة أحد الوالدين أو شخص بالغ مفوّض."
+  },
+  "about": {
+   "en": "Global Village is Habitat for Humanity's short-term volunteer travel programme. On this trip (4–11 September 2027) a team of international volunteers works alongside a local family, a building contractor and community volunteers. The team helps build a one-bedroom, one-bathroom home of about 28 m², mixing cement, wiring rebar, laying foundations, erecting walls and laying bricks.\n\nThe week typically runs: arrival, orientation and welcome dinner, four to five build days (with one cultural/social learning exchange activity), a farewell and home dedication, then departure. No construction experience is needed; work can be strenuous, so volunteers should be in good health.\n\nThe programme donation (US$2,095) covers shared hotel rooms, meals and in-country costs and supports the family's home; flights are extra. It is a meaningful volunteering experience for students and families and a good topic for university application essays."
+  },
+  "highlights": {
+   "en": [
+    "Build a real home alongside a local family",
+    "Youth 15–17 welcome with a parent or authorised adult",
+    "Accommodation, meals and in-country logistics included"
+   ]
+  },
+  "eligibility": {
+   "en": "Adults 18+ of any nationality; youth aged 15–17 if accompanied by a parent, legal guardian or authorised adult. Good physical health required; no building experience needed."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the Global Village FAQs on habitat.org.",
+    "Contact the team leader (Staci Graham) through the trip page to confirm the build suits you.",
+    "Register with the link the team leader sends.",
+    "Pay the non-refundable deposit or start fundraising, then book flights."
+   ]
+  },
+  "costs": {
+   "en": "Programme donation US$2,095 covering double-room hotel accommodation, meals (breakfast, build-site lunches, dinners) and in-country costs. International flights, insurance and visa are extra."
+  },
+  "keywords": [
+   "volunteering",
+   "habitat for humanity",
+   "building",
+   "service",
+   "travel",
+   "community",
+   "id"
+  ],
+  "url": "https://www.habitat.org/gv/open/yogyakarta-indonesia/75871",
+  "apply_url": "https://www.habitat.org/gv/open/yogyakarta-indonesia/75871",
+  "sources": [
+   "https://www.habitat.org/gv/open/yogyakarta-indonesia/75871",
+   "https://www.habitat.org/volunteer/travel-and-build/global-village/build-schedule"
+  ],
+  "score": 5,
+  "score_reason": "Real service trip open to teens with an adult; costly but well-organised.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "habitat-global-village-siem-reap-cambodia-2027-11",
+  "section": "project",
+  "family": "volunteering",
+  "type": "volunteer building trip",
+  "org": "Habitat for Humanity International",
+  "name": {
+   "en": "Habitat for Humanity Global Village: home building in Siem Reap, Cambodia (7–13 November 2027)",
+   "ka": "Habitat for Humanity Global Village: სახლის აშენება სიემ-რეაპში, კამბოჯა (2027 წლის 7–13 ნოემბერი)",
+   "ar": "Habitat for Humanity Global Village: بناء منزل في سيام ريب، كمبوديا (7–13 نوفمبر 2027)"
+  },
+  "country": {
+   "en": "Cambodia",
+   "ka": "კამბოჯა",
+   "ar": "كمبوديا"
+  },
+  "city": "Siem Reap",
+  "iso": "KH",
+  "flag": "🇰🇭",
+  "region": "asia",
+  "lat": 13.367,
+  "lon": 103.844,
+  "cost": "paid",
+  "duration": {
+   "en": "1 week",
+   "ka": "1 კვირა",
+   "ar": "أسبوع واحد"
+  },
+  "grades": "15+",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "No fixed deadline on the official trip page: places are filled through the team leader until the team is full; register early.",
+  "event_dates": "2027-11-07 to 2027-11-13",
+  "summary": {
+   "en": "Join a one-week Habitat for Humanity team building a home with a local family in Siem Reap, Cambodia. Volunteers aged 15–17 can join with a parent or authorised adult.",
+   "ka": "შეუერთდით Habitat for Humanity-ის ერთკვირიან გუნდს, რომელიც სიემ-რეაპში ადგილობრივ ოჯახთან ერთად სახლს აშენებს. 15–17 წლის მოხალისეებს მშობელთან ან უფლებამოსილ ზრდასრულთან ერთად შეუძლიათ მონაწილეობა.",
+   "ar": "انضم إلى فريق Habitat for Humanity لمدة أسبوع لبناء منزل مع عائلة محلية في سيام ريب. يمكن للمتطوعين بين 15 و17 عامًا المشاركة برفقة أحد الوالدين أو شخص بالغ مفوّض."
+  },
+  "about": {
+   "en": "Global Village is Habitat for Humanity's short-term volunteer travel programme. On this trip (7–13 November 2027) a team of international volunteers works alongside a local family, a building contractor and community volunteers. Volunteers help with mixing concrete and mortar, erecting walls and digging and pouring foundations; the drive to the site can take up to two hours a day, and the week ends with a home dedication.\n\nThe week typically runs: arrival, orientation and welcome dinner, four to five build days (with one cultural/social learning exchange activity), a farewell and home dedication, then departure. No construction experience is needed; work can be strenuous, so volunteers should be in good health.\n\nThe programme donation (US$1,860) covers shared hotel rooms, meals and in-country costs and supports the family's home; flights are extra. It is a meaningful volunteering experience for students and families and a good topic for university application essays."
+  },
+  "highlights": {
+   "en": [
+    "Build a real home alongside a local family",
+    "Youth 15–17 welcome with a parent or authorised adult",
+    "Accommodation, meals and in-country logistics included"
+   ]
+  },
+  "eligibility": {
+   "en": "Adults 18+ of any nationality; youth aged 15–17 if accompanied by a parent, legal guardian or authorised adult. Good physical health required; no building experience needed."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the Global Village FAQs on habitat.org.",
+    "Contact the team leader (Kate Ristroph) through the trip page to confirm the build suits you.",
+    "Register with the link the team leader sends.",
+    "Pay the non-refundable deposit or start fundraising, then book flights."
+   ]
+  },
+  "costs": {
+   "en": "Programme donation US$1,860 covering double-room hotel accommodation, meals (breakfast, build-site lunches, dinners) and in-country costs. International flights, insurance and visa are extra."
+  },
+  "keywords": [
+   "volunteering",
+   "habitat for humanity",
+   "building",
+   "service",
+   "travel",
+   "community",
+   "kh"
+  ],
+  "url": "https://www.habitat.org/gv/open/siem-reap-cambodia/74786",
+  "apply_url": "https://www.habitat.org/gv/open/siem-reap-cambodia/74786",
+  "sources": [
+   "https://www.habitat.org/gv/open/siem-reap-cambodia/74786",
+   "https://www.habitat.org/volunteer/travel-and-build/global-village/build-schedule"
+  ],
+  "score": 5,
+  "score_reason": "Real service trip open to teens with an adult; costly but well-organised.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "korea-youth-summit-2027",
+  "section": "project",
+  "family": "youth",
+  "type": "youth summit",
+  "org": "Youth Break the Boundaries (YBB) Foundation",
+  "name": {
+   "en": "Korea Youth Summit 2027 (Seoul)",
+   "ka": "კორეის ახალგაზრდული სამიტი 2027 (სეული)",
+   "ar": "قمة الشباب الكورية 2027 (سيول)"
+  },
+  "country": {
+   "en": "South Korea",
+   "ka": "სამხრეთ კორეა",
+   "ar": "كوريا الجنوبية"
+  },
+  "city": "Seoul",
+  "iso": "KR",
+  "flag": "🇰🇷",
+  "region": "asia",
+  "lat": 37.567,
+  "lon": 126.978,
+  "cost": "scholarship",
+  "duration": {
+   "en": "About 4 days (spring 2027)",
+   "ka": "დაახლოებით 4 დღე (2027 გაზაფხული)",
+   "ar": "نحو 4 أيام (ربيع 2027)"
+  },
+  "grades": "15+",
+  "opens": "2026-09-05",
+  "deadline": "2026-11-20",
+  "deadline_note": "Official site: fully funded registration 5 Sep – 20 Nov 2026; self-funded registration open until 5 Mar 2027.",
+  "event_dates": null,
+  "summary": {
+   "en": "An international youth summit in Seoul on the theme 'Living Culture, Lasting Legacy', with panels, workshops and cultural visits. Fully funded places (deadline 20 November 2026) cover the programme fee.",
+   "ka": "საერთაშორისო ახალგაზრდული სამიტი სეულში თემაზე 'ცოცხალი კულტურა, მარადიული მემკვიდრეობა': პანელები, ვორქშოპები და კულტურული ვიზიტები. სრულად დაფინანსებული ადგილები (ვადა 20 ნოემბერი, 2026) პროგრამის საფასურს ფარავს.",
+   "ar": "قمة شبابية دولية في سيول بعنوان 'ثقافة حية وإرث دائم' تضم جلسات نقاش وورش عمل وزيارات ثقافية. المقاعد الممولة بالكامل (آخر موعد 20 نوفمبر 2026) تغطي رسوم البرنامج."
+  },
+  "about": {
+   "en": "The Korea Youth Summit is an annual international youth conference organised in Seoul by the Indonesian-based Youth Break the Boundaries (YBB) Foundation. The 2027 edition is themed 'Living Culture, Lasting Legacy' and looks at how tradition and modernity coexist and what role young people play in protecting cultural heritage.\n\nThe programme combines panel discussions, workshops, group projects, mentoring and cultural visits in Seoul. It is designed for high school students, university students and young professionals from any country.\n\nThere are two routes: self-funded (guaranteed participation without competitive selection, registration open until 5 March 2027) and fully funded (programme fee covered, competitive selection with essays and interview, deadline 20 November 2026). Flights and visas are paid by the participant."
+  },
+  "highlights": {
+   "en": [
+    "Fully funded places cover the programme fee",
+    "Open to high school and university students worldwide",
+    "Panels, workshops and cultural visits in Seoul"
+   ]
+  },
+  "eligibility": {
+   "en": "Young people of any nationality: high school students, university students and young professionals (see the official guidebook for exact age limits). Programme in English."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the guidebook and FAQ on koreayouthsummit.com.",
+    "Choose fully funded (essays + interview, by 20 Nov 2026) or self-funded (by 5 Mar 2027).",
+    "Create an account and complete the online application; pay the registration fee (USD 10 fully funded / USD 15 self-funded).",
+    "Self-funded delegates pay the programme fee in scheduled batches; fully funded candidates complete the interview."
+   ]
+  },
+  "costs": {
+   "en": "Registration fee USD 10 (fully funded) or USD 15 (self-funded). Self-funded delegates also pay a programme fee in instalments (see the Fees & Payment page). Fully funded: programme fee covered. Flights and visa are your own."
+  },
+  "keywords": [
+   "youth summit",
+   "korea",
+   "seoul",
+   "leadership",
+   "conference",
+   "culture",
+   "fully funded",
+   "high school"
+  ],
+  "url": "https://www.koreayouthsummit.com/",
+  "apply_url": "https://www.koreayouthsummit.com/apply",
+  "sources": [
+   "https://www.koreayouthsummit.com/",
+   "https://www.koreayouthsummit.com/apply"
+  ],
+  "score": 5,
+  "score_reason": "Easy to join and open to school students; fully funded seats are limited and travel is not covered.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "japan-youth-summit-2027",
+  "section": "project",
+  "family": "youth",
+  "type": "youth summit",
+  "org": "Youth Break the Boundaries (YBB) Foundation",
+  "name": {
+   "en": "Japan Youth Summit 2027 (5th edition)",
+   "ka": "იაპონიის ახალგაზრდული სამიტი 2027 (მე-5 გამოცემა)",
+   "ar": "قمة الشباب اليابانية 2027 (النسخة الخامسة)"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია",
+   "ar": "اليابان"
+  },
+  "city": "Osaka",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 34.694,
+  "lon": 135.502,
+  "cost": "scholarship",
+  "duration": {
+   "en": "About 4 days (spring 2027)",
+   "ka": "დაახლოებით 4 დღე (2027 გაზაფხული)",
+   "ar": "نحو 4 أيام (ربيع 2027)"
+  },
+  "grades": "15+",
+  "opens": "2026-10-05",
+  "deadline": "2026-12-20",
+  "deadline_note": "Official site: fully funded registration 5 Oct – 20 Dec 2026; self-funded registration open until 10 Apr 2027.",
+  "event_dates": null,
+  "summary": {
+   "en": "An international youth summit in Japan on sustainability and the preservation of cultural heritage, linked to SDGs 4, 9, 11, 12 and 13. Fully funded places close on 20 December 2026.",
+   "ka": "საერთაშორისო ახალგაზრდული სამიტი იაპონიაში მდგრადობასა და კულტურული მემკვიდრეობის დაცვაზე, SDG 4, 9, 11, 12 და 13 მიზნებთან კავშირში. სრულად დაფინანსებული ადგილების ვადა 20 დეკემბერია, 2026.",
+   "ar": "قمة شبابية دولية في اليابان حول الاستدامة والحفاظ على التراث الثقافي، مرتبطة بأهداف التنمية المستدامة 4 و9 و11 و12 و13. يُغلق التقديم على المقاعد الممولة بالكامل في 20 ديسمبر 2026."
+  },
+  "about": {
+   "en": "The Japan Youth Summit is an annual international youth conference held in Japan (organiser address in Osaka) by the Youth Break the Boundaries (YBB) Foundation. The fifth edition, in 2027, asks young delegates to design innovative solutions that harmonise sustainability with the preservation of cultural heritage, aligned with SDGs 4, 9, 11, 12 and 13.\n\nDelegates attend panels, workshops, group projects and cultural visits, and present their ideas. It is open to high school students, university students and young professionals worldwide.\n\nSelf-funded delegates are accepted without competitive selection (registration until 10 April 2027); fully funded delegates (programme fee covered) are chosen by essays, interview and evaluation (deadline 20 December 2026). Flights and visas are not covered."
+  },
+  "highlights": {
+   "en": [
+    "Fully funded places cover the programme fee",
+    "Open to school and university students worldwide",
+    "Sustainability and cultural-heritage focus in Japan"
+   ]
+  },
+  "eligibility": {
+   "en": "Young people of any nationality: high school students, university students and young professionals (see the guidebook for exact age limits). Programme in English."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the English guideline PDF on japanyouthsummit.com.",
+    "Pick fully funded (essays + interview, by 20 Dec 2026) or self-funded (by 10 Apr 2027).",
+    "Register online and pay the registration fee (USD 10 fully funded / USD 15 self-funded).",
+    "Self-funded delegates pay the programme fee in batches; check visa requirements for Japan."
+   ]
+  },
+  "costs": {
+   "en": "Registration fee USD 10 (fully funded) or USD 15 (self-funded); self-funded delegates also pay a programme fee in instalments (see /fees). Fully funded: programme fee covered. Travel and visa extra."
+  },
+  "keywords": [
+   "youth summit",
+   "japan",
+   "osaka",
+   "leadership",
+   "sdgs",
+   "sustainability",
+   "fully funded",
+   "high school"
+  ],
+  "url": "https://www.japanyouthsummit.com/",
+  "apply_url": "https://www.japanyouthsummit.com/apply",
+  "sources": [
+   "https://www.japanyouthsummit.com/",
+   "https://www.japanyouthsummit.com/apply"
+  ],
+  "score": 5,
+  "score_reason": "Accessible summit open to school students; limited funding, travel not covered.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "hku-from-curiosity-to-research-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "research skills summer course",
+  "org": "The University of Hong Kong — Graduate School (HKU Summer Institute)",
+  "name": {
+   "en": "HKU From Curiosity to Research: Practical Skills for Research Projects 2027",
+   "ka": "HKU — ცნობისმოყვარეობიდან კვლევამდე: კვლევითი პროექტების პრაქტიკული უნარები 2027",
+   "ar": "جامعة هونغ كونغ — من الفضول إلى البحث: مهارات عملية لمشاريع البحث 2027"
+  },
+  "country": {
+   "en": "Hong Kong",
+   "ka": "ჰონკონგი",
+   "ar": "هونغ كونغ"
+  },
+  "city": "Hong Kong",
+  "iso": "HK",
+  "flag": "🇭🇰",
+  "region": "asia",
+  "lat": 22.283,
+  "lon": 114.137,
+  "cost": "paid",
+  "duration": {
+   "en": "2 weeks (20–30 July 2027)",
+   "ka": "2 კვირა (2027 წლის 20–30 ივლისი)",
+   "ar": "أسبوعان (20–30 يوليو 2027)"
+  },
+  "grades": "university",
+  "opens": "2026-11-20",
+  "deadline": "2027-04-10",
+  "deadline_note": "HKUSI general dates: early bird 31 Jan 2027, non-local deadline 10 Apr 2027; rolling admission from late Nov 2026.",
+  "event_dates": "2027-07-20 to 2027-07-30",
+  "summary": {
+   "en": "A two-week course at HKU's Graduate School that teaches bachelor's and master's students how to plan, run and write up a research project. It ends with a session on research postgraduate study at HKU.",
+   "ka": "ორკვირიანი კურსი HKU-ს სამაგისტრო სკოლაში, სადაც ბაკალავრები და მაგისტრანტები კვლევის დაგეგმვას, ჩატარებასა და აღწერას სწავლობენ. სრულდება სესიით HKU-ში კვლევით მაგისტრატურასა და დოქტორანტურაზე.",
+   "ar": "دورة لمدة أسبوعين في كلية الدراسات العليا بجامعة هونغ كونغ تعلّم طلاب البكالوريوس والماجستير كيفية تخطيط مشروع بحثي وتنفيذه وكتابته، وتختتم بجلسة عن الدراسات العليا البحثية في الجامعة."
+  },
+  "about": {
+   "en": "From Curiosity to Research (SU2706H) is a face-to-face HKU Summer Institute course run by the HKU Graduate School from 20 to 30 July 2027. Sessions cover planning a research strategy from identifying needs to producing output, qualitative and quantitative methods, critical reading of statistical analysis and professional research writing, plus a 'Master Series' session, a capstone and a session on research postgraduate studies at HKU.\n\nIt is open to current bachelor's and master's students from recognised universities anywhere, and suits students thinking about an MPhil or PhD. Applicants write a 200–300 word statement and may be interviewed.\n\nIt is non-credit bearing (certificate of attendance); optional HKU residential hall accommodation is available."
+  },
+  "highlights": {
+   "en": [
+    "Practical research-methods training at a top-ranked university",
+    "Insight into HKU research postgraduate admissions",
+    "Optional HKU residential hall stay"
+   ]
+  },
+  "eligibility": {
+   "en": "Current bachelor's or master's students meeting HKU (or another recognised university's) admission standards. 200–300 word personal statement in English; possible interview. Students taught in English submit a declaration form; others need e.g. IELTS Academic 6.5 or TOEFL iBT 93. Non-Hong Kong residents need a Hong Kong student visa (allow 10–12 weeks)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the programme page on summerinstitute.hku.hk (applications open on a rolling basis from late November 2026).",
+    "Create an HKUSI application, upload transcript, personal statement and English proof.",
+    "Pay the non-refundable application fee (HKD 400; HKD 250 for each extra programme).",
+    "Apply by 31 January 2027 for the early-bird discount, or by 10 April 2027 (non-local).",
+    "Once admitted, pay the programme fee and apply for a Hong Kong student visa."
+   ]
+  },
+  "costs": {
+   "en": "Programme fee in HKD to be announced (10% early-bird discount by 31 Jan 2027). Application fee HKD 400. Accommodation, visa (HKD 1,100) and travel extra."
+  },
+  "keywords": [
+   "research",
+   "summer",
+   "hong kong",
+   "hku",
+   "research methods",
+   "graduate school",
+   "phd"
+  ],
+  "url": "https://www.summerinstitute.hku.hk/programmes/detail/su2706h",
+  "apply_url": "https://www.summerinstitute.hku.hk/programmes/detail/su2706h",
+  "sources": [
+   "https://www.summerinstitute.hku.hk/programmes/detail/su2706h",
+   "https://www.summerinstitute.hku.hk/programmes/undergraduate-postgraduate-programmes"
+  ],
+  "score": 5,
+  "score_reason": "Useful prep for research degrees; fee still to be announced.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "hku-exploring-hong-kong-coral-ecosystems-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "field science summer course",
+  "org": "The University of Hong Kong — School of Biological Sciences (HKU Summer Institute)",
+  "name": {
+   "en": "HKU Exploring Hong Kong Coral Ecosystems: Biodiversity and Restoration in Practice 2027",
+   "ka": "HKU — ჰონკონგის მარჯნის ეკოსისტემები: ბიომრავალფეროვნება და აღდგენა პრაქტიკაში 2027",
+   "ar": "جامعة هونغ كونغ — استكشاف النظم البيئية المرجانية: التنوع البيولوجي والاستعادة عمليًا 2027"
+  },
+  "country": {
+   "en": "Hong Kong",
+   "ka": "ჰონკონგი",
+   "ar": "هونغ كونغ"
+  },
+  "city": "Hong Kong",
+  "iso": "HK",
+  "flag": "🇭🇰",
+  "region": "asia",
+  "lat": 22.283,
+  "lon": 114.137,
+  "cost": "paid",
+  "duration": {
+   "en": "12 days (14–25 June 2027)",
+   "ka": "12 დღე (2027 წლის 14–25 ივნისი)",
+   "ar": "12 يومًا (14–25 يونيو 2027)"
+  },
+  "grades": "university",
+  "opens": "2026-11-20",
+  "deadline": "2027-04-10",
+  "deadline_note": "HKUSI general dates: early bird 31 Jan 2027, non-local deadline 10 Apr 2027; programme page marked Coming Soon.",
+  "event_dates": "2027-06-14 to 2027-06-25",
+  "summary": {
+   "en": "A faculty-led summer course on Hong Kong's coral reefs, their biodiversity and restoration, for undergraduates from any university. Runs 14–25 June 2027.",
+   "ka": "ფაკულტეტის მიერ წარმართული საზაფხულო კურსი ჰონკონგის მარჯნის რიფებზე, მათ ბიომრავალფეროვნებასა და აღდგენაზე, ნებისმიერი უნივერსიტეტის ბაკალავრებისთვის. 2027 წლის 14–25 ივნისი.",
+   "ar": "دورة صيفية يقودها أعضاء هيئة التدريس حول الشعاب المرجانية في هونغ كونغ وتنوعها البيولوجي واستعادتها، لطلاب البكالوريوس من أي جامعة، من 14 إلى 25 يونيو 2027."
+  },
+  "about": {
+   "en": "This HKU Summer Institute programme, led by HKU's School of Biological Sciences, introduces Hong Kong's surprisingly rich coral communities and the science of reef restoration. It runs face to face from 14 to 25 June 2027 and is open to both local and non-local undergraduates.\n\nIt suits students of biology, environmental science and marine science who want field-based experience in Asia. It is non-credit bearing with a certificate of attendance; optional residential hall accommodation is available.\n\nThe programme page is marked 'Coming Soon', so the detailed syllabus and fee will be published when applications open in late November 2026."
+  },
+  "highlights": {
+   "en": [
+    "Marine biology and reef restoration in Hong Kong",
+    "Faculty-led by HKU biological scientists",
+    "Open to undergraduates from any university"
+   ]
+  },
+  "eligibility": {
+   "en": "Undergraduate students (local and non-local) from any recognised university. Students taught in English submit a declaration form; others need e.g. IELTS Academic 6.5 or TOEFL iBT 93. Non-Hong Kong residents need a Hong Kong student visa (allow 10–12 weeks)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the programme page on summerinstitute.hku.hk (applications open on a rolling basis from late November 2026).",
+    "Create an HKUSI application, upload transcript, personal statement and English proof.",
+    "Pay the non-refundable application fee (HKD 400; HKD 250 for each extra programme).",
+    "Apply by 31 January 2027 for the early-bird discount, or by 10 April 2027 (non-local).",
+    "Once admitted, pay the programme fee and apply for a Hong Kong student visa."
+   ]
+  },
+  "costs": {
+   "en": "Programme fee in HKD to be announced. Application fee HKD 400. Accommodation, visa (HKD 1,100) and travel extra."
+  },
+  "keywords": [
+   "marine biology",
+   "coral",
+   "environment",
+   "summer",
+   "hong kong",
+   "hku",
+   "ecology",
+   "field course"
+  ],
+  "url": "https://www.summerinstitute.hku.hk/programmes/detail/sci-cebrp-ug",
+  "apply_url": "https://www.summerinstitute.hku.hk/programmes/detail/sci-cebrp-ug",
+  "sources": [
+   "https://www.summerinstitute.hku.hk/programmes/detail/sci-cebrp-ug",
+   "https://www.summerinstitute.hku.hk/programmes/undergraduate-postgraduate-programmes"
+  ],
+  "score": 5,
+  "score_reason": "Distinctive field topic; details and fee pending.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "environment"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "hku-electrosynthesis-workshop-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "hands-on lab workshop",
+  "org": "The University of Hong Kong — Department of Chemistry (HKU Summer Institute)",
+  "name": {
+   "en": "HKU Advanced Hands-On Electrosynthesis Workshop 2027",
+   "ka": "HKU-ს პრაქტიკული ელექტროსინთეზის სემინარი 2027",
+   "ar": "ورشة جامعة هونغ كونغ العملية المتقدمة في التخليق الكهربائي 2027"
+  },
+  "country": {
+   "en": "Hong Kong",
+   "ka": "ჰონკონგი",
+   "ar": "هونغ كونغ"
+  },
+  "city": "Hong Kong",
+  "iso": "HK",
+  "flag": "🇭🇰",
+  "region": "asia",
+  "lat": 22.283,
+  "lon": 114.137,
+  "cost": "paid",
+  "duration": {
+   "en": "5 days (12–16 July 2027)",
+   "ka": "5 დღე (2027 წლის 12–16 ივლისი)",
+   "ar": "5 أيام (12–16 يوليو 2027)"
+  },
+  "grades": "university",
+  "opens": "2026-11-20",
+  "deadline": "2027-04-10",
+  "deadline_note": "HKUSI general dates: early bird 31 Jan 2027, non-local deadline 10 Apr 2027; programme page marked Coming Soon.",
+  "event_dates": "2027-07-12 to 2027-07-16",
+  "summary": {
+   "en": "A five-day, hands-on lab workshop at HKU on electrosynthesis, using electricity to build chemical bonds for greener manufacturing. Open to undergraduates and postgraduates worldwide.",
+   "ka": "ხუთდღიანი პრაქტიკული ლაბორატორიული სემინარი HKU-ში ელექტროსინთეზზე — ელექტროენერგიით ქიმიური ბმების შექმნა უფრო მწვანე წარმოებისთვის. ღიაა ბაკალავრებისა და მაგისტრანტებისთვის მთელი მსოფლიოდან.",
+   "ar": "ورشة مختبرية عملية لخمسة أيام في جامعة هونغ كونغ حول التخليق الكهربائي، أي استخدام الكهرباء لبناء الروابط الكيميائية من أجل تصنيع أكثر استدامة، ومفتوحة لطلاب البكالوريوس والدراسات العليا من جميع أنحاء العالم."
+  },
+  "about": {
+   "en": "'Building Bonds with Electrons for Sustainable Manufacturing' is a faculty-led HKU Summer Institute workshop from 12 to 16 July 2027. Electrosynthesis replaces toxic reagents with electric current and is one of the fastest-growing areas of green chemistry; the workshop is hands-on in HKU chemistry labs.\n\nIt is open to undergraduate and postgraduate students from local and non-local universities, and is best for chemistry and chemical engineering students. It is non-credit bearing with a certificate of attendance.\n\nThe page is marked 'Coming Soon': fee and detailed schedule will be announced when applications open in late November 2026."
+  },
+  "highlights": {
+   "en": [
+    "Hands-on green-chemistry lab work",
+    "Short (5 days) and open to UG and PG students",
+    "Taught by HKU chemistry faculty"
+   ]
+  },
+  "eligibility": {
+   "en": "Undergraduate and postgraduate students from any recognised university (chemistry background recommended). Students taught in English submit a declaration form; others need e.g. IELTS Academic 6.5 or TOEFL iBT 93. Non-Hong Kong residents need a Hong Kong student visa (allow 10–12 weeks)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the programme page on summerinstitute.hku.hk (applications open on a rolling basis from late November 2026).",
+    "Create an HKUSI application, upload transcript, personal statement and English proof.",
+    "Pay the non-refundable application fee (HKD 400; HKD 250 for each extra programme).",
+    "Apply by 31 January 2027 for the early-bird discount, or by 10 April 2027 (non-local).",
+    "Once admitted, pay the programme fee and apply for a Hong Kong student visa."
+   ]
+  },
+  "costs": {
+   "en": "Programme fee in HKD to be announced (HKUSI discounts do not apply). Application fee HKD 400. Accommodation, visa and travel extra."
+  },
+  "keywords": [
+   "chemistry",
+   "electrochemistry",
+   "green chemistry",
+   "lab",
+   "summer",
+   "hong kong",
+   "hku",
+   "workshop"
+  ],
+  "url": "https://www.summerinstitute.hku.hk/programmes/detail/advanced-hands-on-electrosynthesis-workshop-building-bonds-with-electrons-for-sustainable-manufacturing",
+  "apply_url": "https://www.summerinstitute.hku.hk/programmes/detail/advanced-hands-on-electrosynthesis-workshop-building-bonds-with-electrons-for-sustainable-manufacturing",
+  "sources": [
+   "https://www.summerinstitute.hku.hk/programmes/detail/advanced-hands-on-electrosynthesis-workshop-building-bonds-with-electrons-for-sustainable-manufacturing"
+  ],
+  "score": 4,
+  "score_reason": "Niche but hands-on; short and fee unknown.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "tohoku-stem-summer-program-tssp-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "STEM summer programme",
+  "org": "Tohoku University",
+  "name": {
+   "en": "Tohoku University STEM Summer Program (TSSP) 2027",
+   "ka": "ტოჰოკუს უნივერსიტეტის STEM საზაფხულო პროგრამა (TSSP) 2027",
+   "ar": "برنامج جامعة توهوكو الصيفي للعلوم والتكنولوجيا (TSSP) 2027"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია",
+   "ar": "اليابان"
+  },
+  "city": "Sendai",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 38.268,
+  "lon": 140.872,
+  "cost": "paid",
+  "duration": {
+   "en": "4 weeks (late June – mid-July 2027)",
+   "ka": "4 კვირა (2027 ივნისის ბოლო – ივლისის შუა რიცხვები)",
+   "ar": "4 أسابيع (أواخر يونيو – منتصف يوليو 2027)"
+  },
+  "grades": "university",
+  "opens": "2026-12-01",
+  "deadline": "2027-03-02",
+  "deadline_note": "Estimated from the 2026 cycle (registration from December 2025, deadline 3 March 2026 12:00 JST); requires nomination by a partner university.",
+  "event_dates": "2027-06-20 to 2027-07-17",
+  "summary": {
+   "en": "A four-week summer programme in Sendai for first- and second-year science and engineering students, covering frontier technology, disaster science and Japanese culture. Participants must be nominated by a partner university.",
+   "ka": "ოთხკვირიანი საზაფხულო პროგრამა სენდაიში საბუნებისმეტყველო და საინჟინრო მიმართულების პირველი და მეორე კურსის სტუდენტებისთვის: მოწინავე ტექნოლოგიები, კატასტროფების მეცნიერება და იაპონური კულტურა. საჭიროა პარტნიორი უნივერსიტეტის ნომინაცია.",
+   "ar": "برنامج صيفي لمدة أربعة أسابيع في سينداي لطلاب السنتين الأولى والثانية في العلوم والهندسة، يغطي التكنولوجيا المتقدمة وعلوم الكوارث والثقافة اليابانية، ويتطلب ترشيحًا من جامعة شريكة."
+  },
+  "about": {
+   "en": "TSSP is Tohoku University's four-week summer programme for freshman and sophomore science and engineering students. It combines lectures on frontier science and technology, disaster science based on the 2011 Great East Japan Earthquake, hands-on group experiments, and Japanese language and culture. In 2026 it ran from 21 June to 18 July.\n\nApplicants must be full-time undergraduates at a listed partner institution in Australia, Canada, China, Singapore, the UK or the USA, nominated by their home university. Completers receive the equivalent of 8 ECTS credits (transfer decided by the home university).\n\nA JASSO scholarship of JPY 80,000 is available to outstanding students who meet JASSO requirements."
+  },
+  "highlights": {
+   "en": [
+    "8 ECTS-equivalent credits",
+    "Disaster science and frontier tech in Sendai",
+    "JPY 80,000 JASSO scholarship for eligible students"
+   ]
+  },
+  "eligibility": {
+   "en": "Full-time first- or second-year science/engineering undergraduates at Tohoku partner institutions in Australia, Canada, China, Singapore, the UK or the USA, nominated by their home institution."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask your university's international office whether it is a TSSP partner and how it nominates students.",
+    "Complete the online registration once it opens (December).",
+    "Submit documents before the early-March deadline.",
+    "Apply for the JASSO scholarship if eligible."
+   ]
+  },
+  "costs": {
+   "en": "2026: programme fee JPY 200,000 plus accommodation JPY 189,000 (with breakfast) = JPY 389,000. Travel, other meals and insurance extra. JASSO scholarship JPY 80,000 for eligible students."
+  },
+  "keywords": [
+   "summer",
+   "japan",
+   "sendai",
+   "tohoku",
+   "stem",
+   "engineering",
+   "disaster science",
+   "credits"
+  ],
+  "url": "https://www.insc.tohoku.ac.jp/english/short/tssp/",
+  "apply_url": "https://www.insc.tohoku.ac.jp/english/short/tssp/",
+  "sources": [
+   "https://www.insc.tohoku.ac.jp/english/short/tssp/",
+   "https://www.insc.tohoku.ac.jp/english/"
+  ],
+  "score": 4,
+  "score_reason": "Good programme but restricted to nominated students from six countries.",
+  "premium": false,
+  "fields": [
+   "engineering",
+   "natural-sciences"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "global-young-scientists-summit-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "science summit",
+  "org": "National Research Foundation (NRF) Singapore",
+  "name": {
+   "en": "Global Young Scientists Summit (GYSS) 2027",
+   "ka": "ახალგაზრდა მეცნიერთა გლობალური სამიტი (GYSS) 2027",
+   "ar": "القمة العالمية للعلماء الشباب (GYSS) 2027"
+  },
+  "country": {
+   "en": "Singapore",
+   "ka": "სინგაპური",
+   "ar": "سنغافورة"
+  },
+  "city": "Singapore",
+  "iso": "SG",
+  "flag": "🇸🇬",
+  "region": "asia",
+  "lat": 1.352,
+  "lon": 103.82,
+  "cost": "funded",
+  "duration": {
+   "en": "5 days (4–8 January 2027)",
+   "ka": "5 დღე (2027 წლის 4–8 იანვარი)",
+   "ar": "5 أيام (4–8 يناير 2027)"
+  },
+  "grades": "phd",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Participation is by nomination through GYSS partner institutions; nomination deadlines are set by each nominating university.",
+  "event_dates": "2027-01-04 to 2027-01-08",
+  "summary": {
+   "en": "Singapore's annual summit where PhD students and young researchers from around the world meet Nobel laureates and other eminent scientists. The 2027 edition runs 4–8 January.",
+   "ka": "სინგაპურის ყოველწლიური სამიტი, სადაც მსოფლიოს დოქტორანტები და ახალგაზრდა მკვლევრები ნობელის ლაურეატებსა და სხვა გამოჩენილ მეცნიერებს ხვდებიან. 2027 წლის გამოცემა 4–8 იანვარს გაიმართება.",
+   "ar": "قمة سنوية في سنغافورة يلتقي فيها طلاب الدكتوراه والباحثون الشباب من أنحاء العالم بحائزين على جائزة نوبل وعلماء بارزين. تُعقد نسخة 2027 من 4 إلى 8 يناير."
+  },
+  "about": {
+   "en": "The Global Young Scientists Summit (GYSS), organised by Singapore's National Research Foundation, brings together young scientists and leading minds from around the world under the theme 'Transcending Borders'. The 2027 summit takes place from 4 to 8 January 2027 in Singapore.\n\nThe format includes plenary lectures, panel huddles, quickfire pitches, fireside chats and site visits to Singapore research institutes, with close interaction with Nobel laureates, Fields Medallists, Turing Award winners and other eminent scientists.\n\nParticipants (mainly PhD students and early postdocs in science, technology, engineering, mathematics and medicine) attend through nomination by GYSS partner universities and research institutions worldwide."
+  },
+  "highlights": {
+   "en": [
+    "Small-group sessions with Nobel laureates and top scientists",
+    "Site visits to Singapore research labs",
+    "Prestigious line on an academic CV"
+   ]
+  },
+  "eligibility": {
+   "en": "PhD students and early-career researchers in STEM and medicine, nominated by a GYSS partner institution. Individuals cannot usually apply directly."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask your graduate school or research office whether it nominates participants for GYSS.",
+    "Follow your institution's internal nomination process and deadline.",
+    "If nominated, complete the GYSS registration sent by the organisers."
+   ]
+  },
+  "costs": {
+   "en": "Participation costs are typically supported for nominated participants (check with your nominating institution about travel and accommodation)."
+  },
+  "keywords": [
+   "science summit",
+   "singapore",
+   "nobel laureates",
+   "phd",
+   "research",
+   "young scientists",
+   "stem"
+  ],
+  "url": "https://gyss.nrf.gov.sg/",
+  "apply_url": "https://gyss.nrf.gov.sg/",
+  "sources": [
+   "https://gyss.nrf.gov.sg/"
+  ],
+  "score": 5,
+  "score_reason": "Prestigious and imminent, but nomination-only.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "mathematics",
+   "medicine-health",
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "i2aspo-2026",
+  "section": "project",
+  "family": "competition",
+  "type": "science and invention fair",
+  "org": "Indonesian Young Scientist Association (IYSA)",
+  "name": {
+   "en": "Indonesia International Applied Science Project Olympiad (I2ASPO)",
+   "ka": "ინდონეზიის საერთაშორისო გამოყენებითი მეცნიერების პროექტების ოლიმპიადა (I2ASPO) 2026",
+   "ar": "الأولمبياد الدولي الإندونيسي لمشاريع العلوم التطبيقية (I2ASPO) 2026"
+  },
+  "country": {
+   "en": "Indonesia",
+   "ka": "ინდონეზია",
+   "ar": "إندونيسيا"
+  },
+  "city": "Depok",
+  "iso": "ID",
+  "flag": "🇮🇩",
+  "region": "asia",
+  "lat": -6.402,
+  "lon": 106.794,
+  "cost": "paid",
+  "duration": {
+   "en": "Offline 14–17 Nov 2026; online 20–24 Dec 2026",
+   "ka": "ოფლაინ 2026 წლის 14–17 ნოემბერი; ონლაინ 20–24 დეკემბერი",
+   "ar": "حضوري 14–17 نوفمبر 2026؛ عبر الإنترنت 20–24 ديسمبر 2026"
+  },
+  "grades": "any",
+  "opens": null,
+  "deadline": "2026-11-09",
+  "deadline_note": "Registration end date stated on the official IYSA event page.",
+  "event_dates": "2026-11-14 to 2026-12-24",
+  "summary": {
+   "en": "An international applied-science project olympiad for school and university students, held in person in Indonesia (14–17 November 2026) or online (20–24 December 2026). Register by 9 November 2026.",
+   "ka": "საერთაშორისო გამოყენებითი მეცნიერების პროექტების ოლიმპიადა სკოლისა და უნივერსიტეტის სტუდენტებისთვის: ინდონეზიაში პირისპირ (2026 წლის 14–17 ნოემბერი) ან ონლაინ (20–24 დეკემბერი). რეგისტრაცია 9 ნოემბრამდე.",
+   "ar": "أولمبياد دولي لمشاريع العلوم التطبيقية لطلاب المدارس والجامعات، حضوريًا في إندونيسيا (14–17 نوفمبر 2026) أو عبر الإنترنت (20–24 ديسمبر 2026). التسجيل حتى 9 نوفمبر 2026."
+  },
+  "about": {
+   "en": "Indonesia International Applied Science Project Olympiad (I2ASPO) is an international science, invention and innovation fair run by the Indonesian Young Scientist Association (IYSA), which organises project competitions for students from elementary school to university in Indonesia and with partners in many countries. I2ASPO challenges students to create work that can be applied directly to benefit society and to find solutions to problems in their own environment.\n\nParticipants (individually or in small teams) submit a research or invention project in one of the categories (waste treatment, IoT, functional food, energy, research on children with special needs, entrepreneurship, physics and engineering, applied social, environmental and life sciences) and present it to a panel of judges, either in person in Indonesia or online. Medals (gold, silver, bronze) and special awards are given, and all participants receive certificates.\n\nIt is an accessible way for school and university students to present their first research project internationally. The guidebook on the official website gives the venue, fees and rules."
+  },
+  "highlights": {
+   "en": [
+    "Hybrid: compete online or in person in Indonesia",
+    "Open to elementary, secondary and university students",
+    "Medals, special awards and certificates"
+   ]
+  },
+  "eligibility": {
+   "en": "Students from elementary school to university, from any country, individually or in teams with a supervisor (see guidebook for team size and age categories)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the I2ASPO guidebook on the official website.",
+    "Register online through the official registration link before the deadline.",
+    "Pay the registration fee for online or offline participation as set out in the guidebook.",
+    "Submit your project materials (abstract, poster/video) and present to the judges on the event dates."
+   ]
+  },
+  "costs": {
+   "en": "Registration fee varies by online or offline participation and nationality; see the official guidebook. Travel and accommodation for offline participants are self-funded."
+  },
+  "keywords": [
+   "science fair",
+   "invention",
+   "innovation",
+   "competition",
+   "indonesia",
+   "research project",
+   "school",
+   "university",
+   "hybrid"
+  ],
+  "url": "https://www.i2aspo.or.id/",
+  "apply_url": "https://www.i2aspo.or.id/",
+  "sources": [
+   "https://www.i2aspo.or.id/",
+   "https://www.iysa.or.id/Event/60",
+   "https://www.iysa.or.id/AllEventPage"
+  ],
+  "score": 4,
+  "score_reason": "Easy entry and hybrid format, but a fee-based fair with modest prestige.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "environment",
+   "social-sciences",
+   "business"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "gyiif-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "science and invention fair",
+  "org": "Indonesian Young Scientist Association (IYSA)",
+  "name": {
+   "en": "Global Youth Invention and Innovation Fair (GYIIF)",
+   "ka": "ახალგაზრდული გამოგონებებისა და ინოვაციების გლობალური ფესტივალი (GYIIF) 2027",
+   "ar": "المعرض العالمي للشباب للاختراع والابتكار (GYIIF) 2027"
+  },
+  "country": {
+   "en": "Indonesia",
+   "ka": "ინდონეზია",
+   "ar": "إندونيسيا"
+  },
+  "city": "Bogor",
+  "iso": "ID",
+  "flag": "🇮🇩",
+  "region": "asia",
+  "lat": -6.595,
+  "lon": 106.817,
+  "cost": "paid",
+  "duration": {
+   "en": "3 days (21–23 January 2027, hybrid)",
+   "ka": "3 დღე (2027 წლის 21–23 იანვარი, ჰიბრიდული)",
+   "ar": "3 أيام (21–23 يناير 2027، هجين)"
+  },
+  "grades": "any",
+  "opens": null,
+  "deadline": "2026-12-06",
+  "deadline_note": "Registration end date stated on the official IYSA event page.",
+  "event_dates": "2027-01-21 to 2027-01-23",
+  "summary": {
+   "en": "An international invention and innovation fair for students from primary school to university, held 21–23 January 2027 in hybrid format. Register by 6 December 2026.",
+   "ka": "საერთაშორისო გამოგონებებისა და ინოვაციების ფესტივალი დაწყებითი სკოლიდან უნივერსიტეტამდე სტუდენტებისთვის, 2027 წლის 21–23 იანვარს, ჰიბრიდულ ფორმატში. რეგისტრაცია 6 დეკემბრამდე, 2026.",
+   "ar": "معرض دولي للاختراع والابتكار للطلاب من المرحلة الابتدائية حتى الجامعة، يُقام من 21 إلى 23 يناير 2027 بصيغة هجينة. التسجيل حتى 6 ديسمبر 2026."
+  },
+  "about": {
+   "en": "Global Youth Invention and Innovation Fair (GYIIF) is an international science, invention and innovation fair run by the Indonesian Young Scientist Association (IYSA), which organises project competitions for students from elementary school to university in Indonesia and with partners in many countries. GYIIF is held in collaboration with the Department of Food Science and Technology of IPB University (Institut Pertanian Bogor).\n\nParticipants (individually or in small teams) submit a research or invention project in one of the categories (social science, environmental science, innovation science, life sciences, engineering and technology, physics) and present it to a panel of judges, either in person in Indonesia or online. Medals (gold, silver, bronze) and special awards are given, and all participants receive certificates.\n\nIt is an accessible way for school and university students to present their first research project internationally. The guidebook on the official website gives the venue, fees and rules."
+  },
+  "highlights": {
+   "en": [
+    "Hybrid: compete online or in person in Indonesia",
+    "Open to elementary, secondary and university students",
+    "Medals, special awards and certificates"
+   ]
+  },
+  "eligibility": {
+   "en": "Students from elementary school to university, from any country, individually or in teams with a supervisor (see guidebook for team size and age categories)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the GYIIF guidebook on the official website.",
+    "Register online through the official registration link before the deadline.",
+    "Pay the registration fee for online or offline participation as set out in the guidebook.",
+    "Submit your project materials (abstract, poster/video) and present to the judges on the event dates."
+   ]
+  },
+  "costs": {
+   "en": "Registration fee varies by online or offline participation and nationality; see the official guidebook. Travel and accommodation for offline participants are self-funded."
+  },
+  "keywords": [
+   "science fair",
+   "invention",
+   "innovation",
+   "competition",
+   "indonesia",
+   "research project",
+   "school",
+   "university",
+   "hybrid"
+  ],
+  "url": "https://www.gyiif.or.id/",
+  "apply_url": "https://www.gyiif.or.id/",
+  "sources": [
+   "https://www.gyiif.or.id/",
+   "https://www.iysa.or.id/Event/62",
+   "https://www.iysa.or.id/AllEventPage"
+  ],
+  "score": 4,
+  "score_reason": "Easy entry and hybrid format, but a fee-based fair with modest prestige.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "environment",
+   "social-sciences",
+   "business"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "aiseef-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "science and invention fair",
+  "org": "Indonesian Young Scientist Association (IYSA)",
+  "name": {
+   "en": "ASEAN Innovative Science Environmental and Entrepreneur Fair (AISEEF)",
+   "ka": "ასეანის ინოვაციური მეცნიერების, გარემოსა და მეწარმეობის ფესტივალი (AISEEF) 2027",
+   "ar": "معرض آسيان للعلوم المبتكرة والبيئة وريادة الأعمال (AISEEF) 2027"
+  },
+  "country": {
+   "en": "Indonesia",
+   "ka": "ინდონეზია",
+   "ar": "إندونيسيا"
+  },
+  "city": "Depok",
+  "iso": "ID",
+  "flag": "🇮🇩",
+  "region": "asia",
+  "lat": -6.402,
+  "lon": 106.794,
+  "cost": "paid",
+  "duration": {
+   "en": "Offline 1–4 Feb 2027; online 10–12 Feb 2027",
+   "ka": "ოფლაინ 2027 წლის 1–4 თებერვალი; ონლაინ 10–12 თებერვალი",
+   "ar": "حضوري 1–4 فبراير 2027؛ عبر الإنترنت 10–12 فبراير 2027"
+  },
+  "grades": "any",
+  "opens": null,
+  "deadline": "2027-01-01",
+  "deadline_note": "Registration end date stated on the official IYSA event page.",
+  "event_dates": "2027-02-01 to 2027-02-12",
+  "summary": {
+   "en": "An international fair where students from elementary school to university present science, environmental and entrepreneurship projects, in person in Indonesia (1–4 February 2027) or online (10–12 February). Register by 1 January 2027.",
+   "ka": "საერთაშორისო ფესტივალი, სადაც სტუდენტები დაწყებითი სკოლიდან უნივერსიტეტამდე წარადგენენ სამეცნიერო, გარემოსდაცვით და სამეწარმეო პროექტებს — ინდონეზიაში (2027 წლის 1–4 თებერვალი) ან ონლაინ (10–12 თებერვალი). რეგისტრაცია 1 იანვრამდე.",
+   "ar": "معرض دولي يقدّم فيه الطلاب من الابتدائي حتى الجامعة مشاريع علمية وبيئية وريادية، حضوريًا في إندونيسيا (1–4 فبراير 2027) أو عبر الإنترنت (10–12 فبراير). التسجيل حتى 1 يناير 2027."
+  },
+  "about": {
+   "en": "ASEAN Innovative Science Environmental and Entrepreneur Fair (AISEEF) is an international science, invention and innovation fair run by the Indonesian Young Scientist Association (IYSA), which organises project competitions for students from elementary school to university in Indonesia and with partners in many countries. AISEEF has run since 2020 and focuses on innovation, environmental awareness and entrepreneurial thinking as tools for real change.\n\nParticipants (individually or in small teams) submit a research or invention project in one of the categories (entrepreneur, social sciences, environment sciences, innovation sciences, industrial application, informatics, robotics and AI, life sciences, physics, energy and engineering) and present it to a panel of judges, either in person in Indonesia or online. Medals (gold, silver, bronze) and special awards are given, and all participants receive certificates.\n\nIt is an accessible way for school and university students to present their first research project internationally. The guidebook on the official website gives the venue, fees and rules."
+  },
+  "highlights": {
+   "en": [
+    "Hybrid: compete online or in person in Indonesia",
+    "Open to elementary, secondary and university students",
+    "Medals, special awards and certificates"
+   ]
+  },
+  "eligibility": {
+   "en": "Students from elementary school to university, from any country, individually or in teams with a supervisor (see guidebook for team size and age categories)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the AISEEF guidebook on the official website.",
+    "Register online through the official registration link before the deadline.",
+    "Pay the registration fee for online or offline participation as set out in the guidebook.",
+    "Submit your project materials (abstract, poster/video) and present to the judges on the event dates."
+   ]
+  },
+  "costs": {
+   "en": "Registration fee varies by online or offline participation and nationality; see the official guidebook. Travel and accommodation for offline participants are self-funded."
+  },
+  "keywords": [
+   "science fair",
+   "invention",
+   "innovation",
+   "competition",
+   "indonesia",
+   "research project",
+   "school",
+   "university",
+   "hybrid"
+  ],
+  "url": "https://www.aisef.or.id/",
+  "apply_url": "https://www.aisef.or.id/",
+  "sources": [
+   "https://www.aisef.or.id/",
+   "https://www.iysa.or.id/Event/65",
+   "https://www.iysa.or.id/AllEventPage"
+  ],
+  "score": 4,
+  "score_reason": "Easy entry and hybrid format, but a fee-based fair with modest prestige.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "environment",
+   "social-sciences",
+   "business"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "nus-hack-and-roll-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "hackathon",
+  "org": "NUS Hackers (National University of Singapore)",
+  "name": {
+   "en": "Hack&Roll 2027 (NUS Hackers)",
+   "ka": "Hack&Roll 2027 (NUS Hackers)",
+   "ar": "هاكاثون Hack&Roll 2027 (NUS Hackers)"
+  },
+  "country": {
+   "en": "Singapore",
+   "ka": "სინგაპური",
+   "ar": "سنغافورة"
+  },
+  "city": "Singapore",
+  "iso": "SG",
+  "flag": "🇸🇬",
+  "region": "asia",
+  "lat": 1.297,
+  "lon": 103.776,
+  "cost": "free",
+  "duration": {
+   "en": "24-hour hackathon (January 2027)",
+   "ka": "24-საათიანი ჰაკათონი (2027 იანვარი)",
+   "ar": "هاكاثون لمدة 24 ساعة (يناير 2027)"
+  },
+  "grades": "any",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Official site says Hack&Roll 'will return in January 2027'; exact dates and registration window not yet announced.",
+  "event_dates": null,
+  "summary": {
+   "en": "Singapore's largest student-run 24-hour hackathon at the National University of Singapore. Free, with food provided, and open to students from primary school to graduate level.",
+   "ka": "სინგაპურის უდიდესი სტუდენტური 24-საათიანი ჰაკათონი სინგაპურის ეროვნულ უნივერსიტეტში. უფასოა, კვებით, და ღიაა დაწყებითი სკოლიდან მაგისტრატურამდე სტუდენტებისთვის.",
+   "ar": "أكبر هاكاثون طلابي لمدة 24 ساعة في سنغافورة، يُقام في جامعة سنغافورة الوطنية. مجاني مع وجبات، ومفتوح للطلاب من الابتدائي حتى الدراسات العليا."
+  },
+  "about": {
+   "en": "Hack&Roll is an annual 24-hour hackathon organised by NUS Hackers, the student hacker club of the National University of Singapore. Teams of 1–4 build any project they like over a weekend, with workshops, food, swag and prizes for the best hacks; it returns in January 2027.\n\nIt is open to students from primary school to graduate level, including pre-university students; graduate students and graduates may take part but are not eligible for prizes. International participants are welcome, but the organisers do not help with visas, travel or accommodation, so it is most practical for students in or visiting Singapore.\n\nRegistrations are reviewed and not everyone is accepted, so register early when the form opens."
+  },
+  "highlights": {
+   "en": [
+    "Free, with food and swag",
+    "Beginner-friendly: any project, teams of 1–4",
+    "Prizes for the top teams"
+   ]
+  },
+  "eligibility": {
+   "en": "Students from primary school to graduate studies (graduate students/graduates not prize-eligible). International participants welcome but must arrange their own travel and stay."
+  },
+  "how_to_apply": {
+   "en": [
+    "Watch hacknroll.nushackers.org for the 2027 registration form.",
+    "Register individually or as a team (teams of 1–4 are formed after acceptance).",
+    "Wait for the acceptance email.",
+    "Attend the 24-hour hackathon at NUS and demo your project for judging."
+   ]
+  },
+  "costs": {
+   "en": "Free. Food provided. Travel and accommodation are your own."
+  },
+  "keywords": [
+   "hackathon",
+   "coding",
+   "singapore",
+   "nus",
+   "programming",
+   "computer science",
+   "free",
+   "high school"
+  ],
+  "url": "https://hacknroll.nushackers.org/",
+  "apply_url": "https://hacknroll.nushackers.org/",
+  "sources": [
+   "https://hacknroll.nushackers.org/"
+  ],
+  "score": 5,
+  "score_reason": "Free, beginner-friendly hackathon; only practical if you can be in Singapore.",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "engineering"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "icas-assessments-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "academic competition",
+  "org": "ICAS Assessments (Janison)",
+  "name": {
+   "en": "ICAS Assessments 2027",
+   "ka": "ICAS შეფასებები 2027",
+   "ar": "اختبارات ICAS 2027"
+  },
+  "country": {
+   "en": "Australia",
+   "ka": "ავსტრალია",
+   "ar": "أستراليا"
+  },
+  "city": "Sydney",
+  "iso": "AU",
+  "flag": "🇦🇺",
+  "region": "oceania",
+  "lat": -33.869,
+  "lon": 151.209,
+  "cost": "paid",
+  "duration": {
+   "en": "One online paper per subject (August 2027)",
+   "ka": "თითო საგანზე ერთი ონლაინ ტესტი (2027 აგვისტო)",
+   "ar": "اختبار إلكتروني واحد لكل مادة (أغسطس 2027)"
+  },
+  "grades": "2-12",
+  "opens": null,
+  "deadline": "2027-07-23",
+  "deadline_note": "Estimated from 2026 (entries closed 24 July with extensions into August, sittings 3–28 August); 2027 dates not yet published.",
+  "event_dates": "2027-08-02 to 2027-08-27",
+  "summary": {
+   "en": "Australian academic competitions in English, Maths, Science, Writing, Digital Technologies and Spelling for Years 2–12, sat online at school in Australia, New Zealand, Asia and beyond. Fees start around AUD 22 per student.",
+   "ka": "ავსტრალიური აკადემიური კონკურსები ინგლისურში, მათემატიკაში, საბუნებისმეტყველო მეცნიერებებში, წერაში, ციფრულ ტექნოლოგიებსა და მართლწერაში 2–12 კლასებისთვის. იწერება ონლაინ სკოლაში ავსტრალიაში, ახალ ზელანდიაში, აზიასა და სხვაგან.",
+   "ar": "مسابقات أكاديمية أسترالية في الإنجليزية والرياضيات والعلوم والكتابة والتقنيات الرقمية والتهجئة للصفوف 2–12، تُجرى إلكترونيًا في المدارس في أستراليا ونيوزيلندا وآسيا وغيرها، برسوم تبدأ من نحو 22 دولارًا أستراليًا."
+  },
+  "about": {
+   "en": "ICAS (originally the International Competitions and Assessments for Schools, developed at UNSW) are annual academic competitions sat online at school. Subjects are Mathematics, English, Science, Writing, Digital Technologies and the Spelling Bee, for students from Year 2 to Year 12.\n\nIn 2026 the sitting windows ran through August (Digital Technologies and Writing 3–7 Aug, English 10–14 Aug, Science 17–21 Aug, Mathematics 24–28 Aug), with entries closing in late July. The 2027 calendar is expected to follow the same pattern.\n\nEvery student receives a detailed individual report; top performers receive High Distinction certificates and medals. Schools in Australia, New Zealand, Asia and other regions take part, and parents can enter through the school's parent payment system."
+  },
+  "highlights": {
+   "en": [
+    "Six subjects for Years 2–12",
+    "Detailed skills report for every student",
+    "Medals for top scorers internationally"
+   ]
+  },
+  "eligibility": {
+   "en": "School students in Years 2–12 at participating schools (Australia, New Zealand, Asia and elsewhere; India via a separate ICAS India site). Entry is through the school."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask your school whether it runs ICAS, or ask it to register.",
+    "Enter through the school or the Parent Payment System before the July closing date.",
+    "Sit each subject online at school in its August window.",
+    "Receive results and certificates later in the year."
+   ]
+  },
+  "costs": {
+   "en": "2026: from AUD 21.95 per student per subject; 2027 fees to be published."
+  },
+  "keywords": [
+   "icas",
+   "competition",
+   "math",
+   "english",
+   "science",
+   "school",
+   "australia",
+   "olympiad"
+  ],
+  "url": "https://www.icasassessments.com/",
+  "apply_url": "https://www.icasassessments.com/",
+  "sources": [
+   "https://www.icasassessments.com/",
+   "https://www.icasassessments.com/event-calendar"
+  ],
+  "score": 4,
+  "score_reason": "Widely available school competition; 2027 dates estimated.",
+  "premium": false,
+  "fields": [
+   "mathematics",
+   "natural-sciences",
+   "languages",
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "olympiad"
+  ]
+ },
+ {
+  "id": "world-masters-games-2027-kansai-volunteers",
+  "section": "project",
+  "family": "volunteering",
+  "type": "sports event volunteering",
+  "org": "World Masters Games 2027 Kansai Organising Committee",
+  "name": {
+   "en": "World Masters Games 2027 Kansai — Volunteers",
+   "ka": "მსოფლიო მასტერს თამაშები 2027 კანსაი — მოხალისეები",
+   "ar": "دورة الألعاب العالمية للماسترز 2027 كانساي — المتطوعون"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია",
+   "ar": "اليابان"
+  },
+  "city": "Osaka",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 34.694,
+  "lon": 135.502,
+  "cost": "free",
+  "duration": {
+   "en": "Several days during the Games (from 14 May 2027)",
+   "ka": "რამდენიმე დღე თამაშების დროს (2027 წლის 14 მაისიდან)",
+   "ar": "عدة أيام خلال الدورة (ابتداءً من 14 مايو 2027)"
+  },
+  "grades": "18+",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Recruitment runs through each host prefecture/city committee; deadlines are set by each committee (some locations still preparing).",
+  "event_dates": null,
+  "summary": {
+   "en": "Volunteer at the World Masters Games 2027, a huge multi-sport event across the Kansai region of Japan opening on 14 May 2027. Volunteers need everyday conversational Japanese.",
+   "ka": "იყავით მოხალისე მსოფლიო მასტერს თამაშებზე 2027 — დიდ მრავალსპორტულ ღონისძიებაზე იაპონიის კანსაის რეგიონში, რომელიც 2027 წლის 14 მაისს იხსნება. საჭიროა ყოველდღიური სასაუბრო იაპონური.",
+   "ar": "تطوّع في دورة الألعاب العالمية للماسترز 2027، وهي حدث رياضي متعدد الرياضات في منطقة كانساي باليابان يفتتح في 14 مايو 2027. يُشترط مستوى محادثة يومية باللغة اليابانية."
+  },
+  "about": {
+   "en": "The World Masters Games are the world's largest multi-sport event for adult athletes (roughly 30 and over). The 2027 edition is hosted across the Kansai region of Japan (Osaka, Kyoto, Hyogo, Shiga, Nara, Wakayama and more), opening on 14 May 2027.\n\nVolunteers support venues, athlete services and visitors in a chosen prefecture or city. You pick a location and activity from the volunteer page and apply through that local committee; each committee sets its own details and deadlines.\n\nVolunteers must be 18 or older on 1 April 2027, speak everyday conversational Japanese, attend common and role-specific training, work 5–8 hours a day and arrange their own lodging and transport. It suits international students already living in Japan; a uniform is provided and can be kept afterwards."
+  },
+  "highlights": {
+   "en": [
+    "Be part of a major international sports event in Japan",
+    "Uniform provided (yours to keep)",
+    "Choose your city and role across Kansai"
+   ]
+  },
+  "eligibility": {
+   "en": "Aged 18+ as of 1 April 2027; everyday conversational Japanese; able to attend training and work 5–8 hours a day. Nationality not restricted, but lodging and transport are self-arranged, so best for residents of Japan."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the volunteer page on wmg2027.jp.",
+    "Choose a prefecture or city and activity from the banners.",
+    "Apply through that local committee's application page before its deadline.",
+    "Attend the common and role-specific training sessions."
+   ]
+  },
+  "costs": {
+   "en": "Free to volunteer. Uniform provided. Lodging and transport are at your own cost."
+  },
+  "keywords": [
+   "volunteering",
+   "sports",
+   "japan",
+   "osaka",
+   "kansai",
+   "event",
+   "world masters games"
+  ],
+  "url": "https://www.wmg2027.jp/en/entry/volunteer/",
+  "apply_url": "https://www.wmg2027.jp/en/entry/volunteer/",
+  "sources": [
+   "https://www.wmg2027.jp/en/entry/volunteer/",
+   "https://www.wmg2027.jp/en/"
+  ],
+  "score": 3,
+  "score_reason": "Real volunteering role but requires Japanese and self-funded stay.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "mahidol-muic-summer-program-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "international summer school",
+  "org": "Mahidol University International College (MUIC)",
+  "name": {
+   "en": "MUIC Summer Program 2027 (Mahidol University, Thailand)",
+   "ka": "MUIC-ის საზაფხულო პროგრამა 2027 (მაჰიდოლის უნივერსიტეტი, ტაილანდი)",
+   "ar": "برنامج MUIC الصيفي 2027 (جامعة ماهيدول، تايلاند)"
+  },
+  "country": {
+   "en": "Thailand",
+   "ka": "ტაილანდი",
+   "ar": "تايلاند"
+  },
+  "city": "Nakhon Pathom",
+  "iso": "TH",
+  "flag": "🇹🇭",
+  "region": "asia",
+  "lat": 13.794,
+  "lon": 100.323,
+  "cost": "paid",
+  "duration": {
+   "en": "4 weeks (1–30 July 2027)",
+   "ka": "4 კვირა (2027 წლის 1–30 ივლისი)",
+   "ar": "4 أسابيع (1–30 يوليو 2027)"
+  },
+  "grades": "university",
+  "opens": "2026-11-01",
+  "deadline": "2027-05-30",
+  "deadline_note": "Official page: applications 1 Nov 2026 – 30/31 May 2027 (page gives both dates; use 30 May to be safe).",
+  "event_dates": "2027-07-01 to 2027-07-30",
+  "summary": {
+   "en": "A four-week summer school at Thailand's leading international college with credit-bearing courses in sustainability, tropical medicine, psychology, business, design and Thai culture. Open to undergraduates from any university.",
+   "ka": "ოთხკვირიანი საზაფხულო სკოლა ტაილანდის წამყვან საერთაშორისო კოლეჯში კრედიტიანი კურსებით მდგრადობაში, ტროპიკულ მედიცინაში, ფსიქოლოგიაში, ბიზნესში, დიზაინსა და ტაილანდურ კულტურაში. ღიაა ნებისმიერი უნივერსიტეტის ბაკალავრებისთვის.",
+   "ar": "مدرسة صيفية لأربعة أسابيع في الكلية الدولية الرائدة في تايلاند، تقدّم مقررات معتمدة في الاستدامة والطب الاستوائي وعلم النفس والأعمال والتصميم والثقافة التايلاندية، ومفتوحة لطلاب البكالوريوس من أي جامعة."
+  },
+  "about": {
+   "en": "The MUIC Summer Program runs on Mahidol University's Salaya campus near Bangkok from 1 to 30 July 2027. Option 1, 'Sustainable in Actions', is an all-day Practical Sustainability and Biodiversity course with overnight field visits. Option 2 offers 4-credit courses: The Psychology of Emotional Well-being, Perspectives on Thailand, Introduction to Thai Language and Culture, Diversity and Expatriate Management, International Design Language and Culture, Introduction to Tropical Medicine, and Social and Health Issues in Thailand.\n\nIt is open to undergraduates who have completed at least one semester (or recent graduates) from any university worldwide. Extras include Muay Thai, Thai cooking and dance, a day trip to Ayutthaya, airport transfers, and help with visa letters and housing.\n\nCourses earn a digital transcript, so credits can often be transferred to your home university."
+  },
+  "highlights": {
+   "en": [
+    "Credit-bearing courses including tropical medicine and global health",
+    "Open to undergraduates from any university",
+    "Cultural programme: Muay Thai, Thai cooking, Ayutthaya trip"
+   ]
+  },
+  "eligibility": {
+   "en": "Undergraduates who have completed at least one semester, or recent graduates, from any country. IELTS 5.5 or equivalent for non-native English speakers (or a recommendation letter from an English professor)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Fill in the online application form on the MUIC Summer Program page (from 1 November 2026).",
+    "Upload passport page, transcript, English proof (or recommendation) and photo.",
+    "Pay the invoice within 15 days and email proof to icshortterm@mahidol.ac.th.",
+    "Receive the acceptance and visa letters from MUIC."
+   ]
+  },
+  "costs": {
+   "en": "Option 1: THB 82,500 (about USD 2,500) including shared accommodation. Option 2: THB 33,500 for one course or THB 62,000 for two (accommodation not included). Fees include tuition, visits, transcript, airport transfers and welcome/farewell meals; flights and insurance extra."
+  },
+  "keywords": [
+   "summer school",
+   "thailand",
+   "bangkok",
+   "mahidol",
+   "tropical medicine",
+   "sustainability",
+   "credits",
+   "culture"
+  ],
+  "url": "https://muic.mahidol.ac.th/en/study-at-muic/short-courses-training/muic-summer-program",
+  "apply_url": "https://muic.mahidol.ac.th/en/study-at-muic/short-courses-training/muic-summer-program",
+  "sources": [
+   "https://muic.mahidol.ac.th/en/study-at-muic/short-courses-training/muic-summer-program",
+   "https://studyabroad.ntu.edu.tw/en/summer-course/partner-universities-courses"
+  ],
+  "score": 7,
+  "score_reason": "Open to all, affordable, credit-bearing and well documented.",
+  "premium": false,
+  "fields": [
+   "medicine-health",
+   "environment",
+   "business",
+   "social-sciences",
+   "arts-design"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "chiang-mai-university-seed-spring-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "short study abroad programme",
+  "org": "Language Institute, Chiang Mai University (LICMU) — Global Sustainability School",
+  "name": {
+   "en": "Chiang Mai University SEED Program — Spring 2027 (Sustainable English Experiential Discovery)",
+   "ka": "ჩიანგ მაის უნივერსიტეტის SEED პროგრამა — გაზაფხული 2027",
+   "ar": "برنامج SEED في جامعة تشيانغ ماي — ربيع 2027"
+  },
+  "country": {
+   "en": "Thailand",
+   "ka": "ტაილანდი",
+   "ar": "تايلاند"
+  },
+  "city": "Chiang Mai",
+  "iso": "TH",
+  "flag": "🇹🇭",
+  "region": "asia",
+  "lat": 18.788,
+  "lon": 98.985,
+  "cost": "paid",
+  "duration": {
+   "en": "2 weeks (7–20 February 2027)",
+   "ka": "2 კვირა (2027 წლის 7–20 თებერვალი)",
+   "ar": "أسبوعان (7–20 فبراير 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "No closing date shown on the official page; apply via the Apply Now form as early as possible.",
+  "event_dates": "2027-02-07 to 2027-02-20",
+  "summary": {
+   "en": "A two-week programme in Chiang Mai combining English and public speaking with sustainability topics such as water security and climate resilience, plus Lanna culture. THB 37,500 includes accommodation.",
+   "ka": "ორკვირიანი პროგრამა ჩიანგ მაიში, სადაც ინგლისური და საჯარო გამოსვლა ერწყმის მდგრადობის თემებს — წყლის უსაფრთხოებასა და კლიმატურ მდგრადობას — და ლანას კულტურას. 37,500 ბატი საცხოვრებელსაც მოიცავს.",
+   "ar": "برنامج لمدة أسبوعين في تشيانغ ماي يجمع بين الإنجليزية والخطابة وموضوعات الاستدامة مثل أمن المياه والصمود المناخي، إضافة إلى ثقافة لانا. الرسوم 37,500 بات تشمل الإقامة."
+  },
+  "about": {
+   "en": "SEED (Sustainable English Experiential Discovery) is run by the Language Institute of Chiang Mai University as part of its Global Sustainability School. The spring 2027 edition runs from 7 to 20 February 2027 in Chiang Mai, northern Thailand.\n\nParticipants study English and public speaking while learning about SDG 6 (water security), climate change, flooding and community resilience. The programme includes Lanna culture, Thai cooking, a visit to Doi Suthep, a Khantoke dinner and a CMU student buddy.\n\nIt is open to international undergraduate and postgraduate students (and faculty-led groups); no sustainability background is needed."
+  },
+  "highlights": {
+   "en": [
+    "Sustainability and English skills in northern Thailand",
+    "CMU student buddy and cultural activities",
+    "13 nights accommodation included"
+   ]
+  },
+  "eligibility": {
+   "en": "International undergraduate and postgraduate students (individuals or groups). No sustainability background required."
+  },
+  "how_to_apply": {
+   "en": [
+    "Read the programme details on the Global Sustainability School page.",
+    "Submit the online Apply Now form.",
+    "Wait for confirmation and payment instructions from LICMU.",
+    "Arrange flights, insurance and visa for Thailand."
+   ]
+  },
+  "costs": {
+   "en": "THB 37,500 including programme fees, 13 nights accommodation, logistics and some meals. Flights and insurance extra."
+  },
+  "keywords": [
+   "thailand",
+   "chiang mai",
+   "sustainability",
+   "english",
+   "short course",
+   "sdgs",
+   "culture",
+   "winter"
+  ],
+  "url": "https://www.li.cmu.ac.th/sustainability-school/",
+  "apply_url": "https://form.jotform.com/262282628704460",
+  "sources": [
+   "https://www.li.cmu.ac.th/sustainability-school/"
+  ],
+  "score": 5,
+  "score_reason": "Affordable and open, but short and language-focused.",
+  "premium": false,
+  "fields": [
+   "environment",
+   "languages"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "chiang-mai-university-wow-program-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "leadership study abroad programme",
+  "org": "Language Institute, Chiang Mai University (LICMU) — Global Sustainability School",
+  "name": {
+   "en": "Chiang Mai University WOW Program — Women Leading Our Connected World 2027",
+   "ka": "ჩიანგ მაის უნივერსიტეტის WOW პროგრამა — ქალები, რომლებიც ჩვენს დაკავშირებულ სამყაროს უძღვებიან 2027",
+   "ar": "برنامج WOW في جامعة تشيانغ ماي — نساء يقدن عالمنا المترابط 2027"
+  },
+  "country": {
+   "en": "Thailand",
+   "ka": "ტაილანდი",
+   "ar": "تايلاند"
+  },
+  "city": "Chiang Mai",
+  "iso": "TH",
+  "flag": "🇹🇭",
+  "region": "asia",
+  "lat": 18.788,
+  "lon": 98.985,
+  "cost": "paid",
+  "duration": {
+   "en": "17 days (28 August – 13 September 2027)",
+   "ka": "17 დღე (2027 წლის 28 აგვისტო – 13 სექტემბერი)",
+   "ar": "17 يومًا (28 أغسطس – 13 سبتمبر 2027)"
+  },
+  "grades": "university",
+  "opens": "2027-03-01",
+  "deadline": null,
+  "deadline_note": "Official page: applications open 1 March 2027; no closing date published yet.",
+  "event_dates": "2027-08-28 to 2027-09-13",
+  "summary": {
+   "en": "A study-abroad programme in Chiang Mai on women's leadership, empowerment and intercultural communication. THB 45,000 includes 16 nights' accommodation.",
+   "ka": "სასწავლო პროგრამა ჩიანგ მაიში ქალთა ლიდერობაზე, გაძლიერებასა და კულტურათშორის კომუნიკაციაზე. 45,000 ბატი 16 ღამის საცხოვრებელს მოიცავს.",
+   "ar": "برنامج دراسي في تشيانغ ماي حول قيادة المرأة وتمكينها والتواصل بين الثقافات. الرسوم 45,000 بات تشمل 16 ليلة إقامة."
+  },
+  "about": {
+   "en": "Women Leading Our Connected World (WOW) is a Chiang Mai University Language Institute programme focused on women's empowerment, leadership and intercultural communication, run from 28 August to 13 September 2027 in Chiang Mai.\n\nIt is part of CMU's Global Sustainability School, which welcomes international undergraduate and postgraduate students and study-abroad groups; no background in the topic is needed.\n\nApplications open on 1 March 2027."
+  },
+  "highlights": {
+   "en": [
+    "Women's leadership and empowerment focus",
+    "Intercultural communication in northern Thailand",
+    "Accommodation and logistics included"
+   ]
+  },
+  "eligibility": {
+   "en": "International undergraduate and postgraduate students. Check the programme page for any specific criteria when applications open."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check the Global Sustainability School page from 1 March 2027.",
+    "Submit the online application form.",
+    "Pay the programme fee once accepted.",
+    "Book flights and arrange your Thai visa if needed."
+   ]
+  },
+  "costs": {
+   "en": "THB 45,000 including programme fees, 16 nights accommodation, logistics and some meals. Flights extra."
+  },
+  "keywords": [
+   "thailand",
+   "chiang mai",
+   "women",
+   "leadership",
+   "gender",
+   "intercultural",
+   "summer"
+  ],
+  "url": "https://www.li.cmu.ac.th/sustainability-school/",
+  "apply_url": "https://www.li.cmu.ac.th/sustainability-school/",
+  "sources": [
+   "https://www.li.cmu.ac.th/sustainability-school/"
+  ],
+  "score": 4,
+  "score_reason": "Distinctive topic, affordable; few details published yet.",
+  "premium": false,
+  "fields": [
+   "social-sciences",
+   "education"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "iasas-student-leader-global-summit-manila-2027",
+  "section": "project",
+  "family": "youth",
+  "type": "student leadership summit",
+  "org": "International Association of Student Affairs and Services (IASAS) with PACSA",
+  "name": {
+   "en": "IASAS Student Leader Global Summit 2027 (Manila)",
+   "ka": "IASAS-ის სტუდენტ-ლიდერთა გლობალური სამიტი 2027 (მანილა)",
+   "ar": "القمة العالمية لقادة الطلاب IASAS 2027 (مانيلا)"
+  },
+  "country": {
+   "en": "Philippines",
+   "ka": "ფილიპინები",
+   "ar": "الفلبين"
+  },
+  "city": "Manila",
+  "iso": "PH",
+  "flag": "🇵🇭",
+  "region": "asia",
+  "lat": 14.599,
+  "lon": 120.984,
+  "cost": "paid",
+  "duration": {
+   "en": "4 days (26–29 May 2027)",
+   "ka": "4 დღე (2027 წლის 26–29 მაისი)",
+   "ar": "4 أيام (26–29 مايو 2027)"
+  },
+  "grades": "university",
+  "opens": "2027-01-01",
+  "deadline": null,
+  "deadline_note": "Official page: applications reviewed from January 2027; no closing date or fee confirmed yet.",
+  "event_dates": "2027-05-26 to 2027-05-29",
+  "summary": {
+   "en": "A four-day global summit in Manila where university student leaders from around the world build leadership skills and exchange ideas. Applications are reviewed from January 2027.",
+   "ka": "ოთხდღიანი გლობალური სამიტი მანილაში, სადაც მსოფლიოს უნივერსიტეტების სტუდენტი ლიდერები ლიდერობის უნარებს ავითარებენ და იდეებს ცვლიან. განაცხადები 2027 წლის იანვრიდან განიხილება.",
+   "ar": "قمة عالمية لأربعة أيام في مانيلا يطوّر فيها قادة الطلاب الجامعيين من حول العالم مهاراتهم القيادية ويتبادلون الأفكار. تبدأ مراجعة الطلبات في يناير 2027."
+  },
+  "about": {
+   "en": "The Student Leader Global Summit (SLGS) is the annual student-leadership event of IASAS, the international association of university student-affairs professionals. The 2027 summit is hosted in Manila, Philippines, by the Philippine Association of Campus Student Advisers (PACSA) from 26 to 29 May 2027 (the 2026 edition was in Hong Kong).\n\nIt brings together student leaders (student union, club and residence leaders and other active students) to connect across cultures, exchange ideas and develop leadership. Staff from your university's student-affairs office can accompany you.\n\nIn 2026 the fee (about EUR 290–320) covered three nights' accommodation, meals and materials; the 2027 fee is still to be confirmed."
+  },
+  "highlights": {
+   "en": [
+    "Meet student leaders from universities worldwide",
+    "Hosted by the Philippine student-affairs association",
+    "Accommodation and meals included in the package (2026 model)"
+   ]
+  },
+  "eligibility": {
+   "en": "University students active in student leadership; applicants usually apply with the support of their university student-affairs office."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the SLGS Manila 2027 page on iasas.global and click 'Students apply now'.",
+    "Submit your application (reviews begin January 2027).",
+    "Confirm your place within a couple of weeks of acceptance.",
+    "Pay the registration fee a month before the event and book flights."
+   ]
+  },
+  "costs": {
+   "en": "Registration fee not yet confirmed (2026: EUR 290 members / EUR 320 non-members, including 3 nights, meals and materials). Flights extra."
+  },
+  "keywords": [
+   "leadership",
+   "student leaders",
+   "summit",
+   "philippines",
+   "manila",
+   "student government",
+   "conference"
+  ],
+  "url": "https://www.iasas.global/slgs-manila-2027",
+  "apply_url": "https://www.iasas.global/slgs-manila-2027",
+  "sources": [
+   "https://www.iasas.global/slgs-manila-2027",
+   "https://www.iasas.global/slgshongkongchina2026"
+  ],
+  "score": 5,
+  "score_reason": "Genuine international student-leader summit; fee and deadline still pending.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "sjtu-sdg-july-camp-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "SDG summer camp",
+  "org": "Shanghai Jiao Tong University (SJTU)",
+  "name": {
+   "en": "SJTU SDG July Camp 2027 (Shanghai Jiao Tong University)",
+   "ka": "SJTU-ს SDG ივლისის ბანაკი 2027 (შანხაის ძიაოტუნის უნივერსიტეტი)",
+   "ar": "مخيم يوليو لأهداف التنمية المستدامة في جامعة شنغهاي جياو تونغ 2027"
+  },
+  "country": {
+   "en": "China",
+   "ka": "ჩინეთი",
+   "ar": "الصين"
+  },
+  "city": "Shanghai",
+  "iso": "CN",
+  "flag": "🇨🇳",
+  "region": "asia",
+  "lat": 31.025,
+  "lon": 121.434,
+  "cost": "paid",
+  "duration": {
+   "en": "About 2–3 weeks (July 2027)",
+   "ka": "დაახლოებით 2–3 კვირა (2027 ივლისი)",
+   "ar": "نحو 2–3 أسابيع (يوليو 2027)"
+  },
+  "grades": "university",
+  "opens": "2027-01-15",
+  "deadline": "2027-05-31",
+  "deadline_note": "Estimated from the 2026 cycle (applications 15 Jan – 31 May 2026, opening ceremony 14 July); the camp runs every year.",
+  "event_dates": null,
+  "summary": {
+   "en": "An annual camp at Shanghai Jiao Tong University where international students study the UN Sustainable Development Goals through project-based courses, lectures and cultural activities. Supported by UNDP.",
+   "ka": "ყოველწლიური ბანაკი შანხაის ძიაოტუნის უნივერსიტეტში, სადაც უცხოელი სტუდენტები გაეროს მდგრადი განვითარების მიზნებს პროექტებზე დაფუძნებული კურსებით, ლექციებითა და კულტურული აქტივობებით სწავლობენ. UNDP-ის მხარდაჭერით.",
+   "ar": "مخيم سنوي في جامعة شنغهاي جياو تونغ يدرس فيه الطلاب الدوليون أهداف الأمم المتحدة للتنمية المستدامة عبر مقررات قائمة على المشاريع ومحاضرات وأنشطة ثقافية، بدعم من برنامج الأمم المتحدة الإنمائي."
+  },
+  "about": {
+   "en": "The SDG July Camp brings students from around the world to Shanghai Jiao Tong University to tackle sustainability challenges through the UN Sustainable Development Goals, with support from UNDP. Students choose one of several SDG-themed courses taught through group projects, discussions and public lectures by global experts.\n\nThe camp also includes an opening ceremony and icebreakers, weekly cross-cultural activities and a closing ceremony where each course presents its report. Completers receive a certificate and an SJTU transcript.\n\nIn 2026 applications ran from 15 January to 31 May, with admission decisions in early June and the opening ceremony on 14 July; the 2027 camp is expected on the same calendar."
+  },
+  "highlights": {
+   "en": [
+    "SDG-focused, project-based courses with SJTU transcript",
+    "Supported by UNDP",
+    "Cultural activities in Shanghai"
+   ]
+  },
+  "eligibility": {
+   "en": "University students from around the world interested in the SDGs (see the call for any GPA or language requirements)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check the SDG July Camp page for the 2027 course list (from January 2027).",
+    "Apply online at apply.sjtu.edu.cn before the end of May.",
+    "Wait for the admission decision (early June).",
+    "Apply for a Chinese visa with the admission documents."
+   ]
+  },
+  "costs": {
+   "en": "Fees are listed in the yearly call (not shown on the overview page). Travel and visa extra."
+  },
+  "keywords": [
+   "summer",
+   "china",
+   "shanghai",
+   "sjtu",
+   "sdgs",
+   "sustainability",
+   "undp",
+   "project-based"
+  ],
+  "url": "https://global.sjtu.edu.cn/en/studyatSJTU/SDG",
+  "apply_url": "https://global.sjtu.edu.cn/en/studyatSJTU/SDG",
+  "sources": [
+   "https://global.sjtu.edu.cn/en/studyatSJTU/SDG"
+  ],
+  "score": 5,
+  "score_reason": "Top Chinese university, SDG focus; 2027 call not yet out.",
+  "premium": false,
+  "fields": [
+   "environment",
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "doshisha-summer-session-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "Japanese language summer programme",
+  "org": "Doshisha University — Center for Japanese Language and Culture",
+  "name": {
+   "en": "Doshisha University Summer Session in Japanese Language and Cultural Studies 2027 (Kyoto)",
+   "ka": "დოშიშას უნივერსიტეტის საზაფხულო სესია იაპონურ ენასა და კულტურაში 2027 (კიოტო)",
+   "ar": "الدورة الصيفية لجامعة دوشيشا في اللغة والثقافة اليابانية 2027 (كيوتو)"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია",
+   "ar": "اليابان"
+  },
+  "city": "Kyoto",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 35.03,
+  "lon": 135.76,
+  "cost": "paid",
+  "duration": {
+   "en": "About 1 month (July – August 2027)",
+   "ka": "დაახლოებით 1 თვე (2027 ივლისი – აგვისტო)",
+   "ar": "نحو شهر (يوليو – أغسطس 2027)"
+  },
+  "grades": "university",
+  "opens": "2027-01-12",
+  "deadline": "2027-03-12",
+  "deadline_note": "Estimated from 2026 (applications 13 Jan – 13 Mar 2026 for 6 Jul – 5 Aug); confirm the 2027 dates on the official page.",
+  "event_dates": null,
+  "summary": {
+   "en": "A one-month intensive Japanese language and culture programme at Doshisha University in Kyoto for intermediate learners (JLPT N4–N2). The 2026 fee was JPY 250,000.",
+   "ka": "ერთთვიანი ინტენსიური იაპონური ენისა და კულტურის პროგრამა დოშიშას უნივერსიტეტში, კიოტოში, საშუალო დონის შემსწავლელებისთვის (JLPT N4–N2). 2026 წლის საფასური 250,000 იენი იყო.",
+   "ar": "برنامج مكثف لمدة شهر في اللغة والثقافة اليابانية بجامعة دوشيشا في كيوتو للمتعلمين من المستوى المتوسط (JLPT N4–N2). كانت رسوم 2026 تبلغ 250,000 ين."
+  },
+  "about": {
+   "en": "Doshisha University's Center for Japanese Language and Culture runs a summer session in Kyoto each year (6 July – 5 August in 2026), combining intensive Japanese classes with cultural studies in one of Japan's most historic cities.\n\nIt is designed for students with JLPT N4 to N2 level (or equivalent); complete beginners and N1-level learners are not eligible. Applicants must be enrolled in, or graduates of, a university and able to obtain a visa. Places are limited to about 20.\n\nThe 2027 session is expected to open for applications in mid-January 2027 with a mid-March deadline."
+  },
+  "highlights": {
+   "en": [
+    "Intensive Japanese in Kyoto",
+    "Small group (about 20 students)",
+    "Open to university students and graduates worldwide"
+   ]
+  },
+  "eligibility": {
+   "en": "Undergraduate or graduate students, or university graduates, with JLPT N4–N2 or equivalent Japanese; must be able to get a visa if required."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check the Summer Session page for the 2027 call (expected January).",
+    "Apply online with passport copy, motivation letter and letter of consent.",
+    "Receive results in late March.",
+    "Pay the programme fee in early April to complete registration."
+   ]
+  },
+  "costs": {
+   "en": "2026 fee: JPY 250,000. Accommodation, travel and living costs extra."
+  },
+  "keywords": [
+   "japanese",
+   "language",
+   "kyoto",
+   "japan",
+   "summer",
+   "culture",
+   "doshisha"
+  ],
+  "url": "https://cjlc.doshisha.ac.jp/cjlc/en/short-term_program/summer_session.html",
+  "apply_url": "https://cjlc.doshisha.ac.jp/cjlc/en/short-term_program/summer_session.html",
+  "sources": [
+   "https://cjlc.doshisha.ac.jp/cjlc/en/short-term_program/summer_session.html"
+  ],
+  "score": 4,
+  "score_reason": "Solid Kyoto language course; needs prior Japanese.",
+  "premium": false,
+  "fields": [
+   "languages",
+   "humanities"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "kyung-hee-global-collaborative-summer-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "international summer school",
+  "org": "Kyung Hee University — Global Collaborative (GC) Program",
+  "name": {
+   "en": "Kyung Hee University Global Collaborative Summer Program 2027 (Seoul)",
+   "ka": "კიონგ ჰის უნივერსიტეტის Global Collaborative საზაფხულო პროგრამა 2027 (სეული)",
+   "ar": "برنامج Global Collaborative الصيفي في جامعة كيونغ هي 2027 (سيول)"
+  },
+  "country": {
+   "en": "South Korea",
+   "ka": "სამხრეთ კორეა",
+   "ar": "كوريا الجنوبية"
+  },
+  "city": "Seoul",
+  "iso": "KR",
+  "flag": "🇰🇷",
+  "region": "asia",
+  "lat": 37.596,
+  "lon": 127.052,
+  "cost": "paid",
+  "duration": {
+   "en": "About 3–4 weeks (June – July 2027)",
+   "ka": "დაახლოებით 3–4 კვირა (2027 ივნისი – ივლისი)",
+   "ar": "نحو 3–4 أسابيع (يونيو – يوليو 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Annual programme; the 2027 calendar and deadlines are not yet published (2026 payment deadline was 15 June 2026).",
+  "event_dates": null,
+  "summary": {
+   "en": "Kyung Hee University's credit-bearing summer programme in Seoul on 'Humanity, Civilization and Global Governance', with courses taught by international faculty and optional Korean culture activities.",
+   "ka": "კიონგ ჰის უნივერსიტეტის კრედიტიანი საზაფხულო პროგრამა სეულში თემაზე 'კაცობრიობა, ცივილიზაცია და გლობალური მმართველობა', საერთაშორისო პროფესორების კურსებით და კორეული კულტურის აქტივობებით.",
+   "ar": "برنامج صيفي معتمد بساعات دراسية في جامعة كيونغ هي في سيول بعنوان 'الإنسانية والحضارة والحوكمة العالمية'، بمقررات يدرّسها أساتذة دوليون وأنشطة اختيارية في الثقافة الكورية."
+  },
+  "about": {
+   "en": "The Global Collaborative (GC) Summer Program at Kyung Hee University, Seoul, offers English-taught, credit-bearing courses under the theme 'Humanity, Civilization and Global Governance', many taught by visiting professors from leading universities abroad.\n\nStudents from KHU partner universities and non-partner universities worldwide can join; students enrolled outside Korea pay overseas rates. Optional dormitory rooms and a Korean culture experience package are available.\n\nThe 2027 dates and application window will be published on the GC site (the 2026 cycle closed in June)."
+  },
+  "highlights": {
+   "en": [
+    "Courses by international visiting professors",
+    "Up to 6 transferable credits",
+    "Optional dorm and Korean culture package"
+   ]
+  },
+  "eligibility": {
+   "en": "University students from partner and non-partner universities worldwide (see the GC site for detailed requirements)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check summer.khu.ac.kr for the 2027 academic calendar.",
+    "Apply online and pay the KRW 100,000 application fee.",
+    "Pay tuition (and optional dorm/culture fees) by the payment deadline.",
+    "Email the payment receipt to summer@khu.ac.kr."
+   ]
+  },
+  "costs": {
+   "en": "2026 overseas rates: application KRW 100,000; tuition KRW 1,600,000 (3 credits) or KRW 2,300,000 (up to 6 credits); dorm KRW 600,000; culture activities KRW 450,000."
+  },
+  "keywords": [
+   "summer school",
+   "korea",
+   "seoul",
+   "kyung hee",
+   "global governance",
+   "credits"
+  ],
+  "url": "https://summer.khu.ac.kr/gep/user/main/view.do",
+  "apply_url": "https://summer.khu.ac.kr/gep/user/main/view.do",
+  "sources": [
+   "https://summer.khu.ac.kr/gep/user/main/view.do"
+  ],
+  "score": 4,
+  "score_reason": "Established summer school open to non-partners; 2027 info pending.",
+  "premium": false,
+  "fields": [
+   "international-relations",
+   "social-sciences",
+   "humanities"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "okayama-university-jv-campus-online-course-3-2026",
+  "section": "project",
+  "family": "training",
+  "type": "free online course",
+  "org": "Okayama University",
+  "name": {
+   "en": "Okayama University Free Online Course: Driving the Setouchi Art Movement Toward a Circular Society",
+   "ka": "ოკაიამას უნივერსიტეტის უფასო ონლაინ კურსი: სეტოუჩის ხელოვნების მოძრაობა წრიული საზოგადოებისკენ",
+   "ar": "دورة جامعة أوكاياما المجانية عبر الإنترنت: حركة فن سيتوتشي نحو مجتمع دائري"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია",
+   "ar": "اليابان"
+  },
+  "city": "Online",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 34.665,
+  "lon": 133.918,
+  "cost": "free",
+  "duration": {
+   "en": "About 2 months, on demand (4 Dec 2026 – 2 Feb 2027)",
+   "ka": "დაახლოებით 2 თვე, ჩანაწერებით (2026 წლის 4 დეკემბერი – 2027 წლის 2 თებერვალი)",
+   "ar": "نحو شهرين حسب الطلب (4 ديسمبر 2026 – 2 فبراير 2027)"
+  },
+  "grades": "university",
+  "opens": "2026-10-21",
+  "deadline": "2026-11-12",
+  "deadline_note": "Official page: applications 21 Oct – 12 Nov 2026, 5pm JST.",
+  "event_dates": "2026-12-04 to 2027-02-02",
+  "summary": {
+   "en": "A free, on-demand online course from Okayama University on how art festivals in the Setouchi islands help build a circular society. For students at Okayama partner universities; a transcript is issued.",
+   "ka": "ოკაიამას უნივერსიტეტის უფასო ონლაინ კურსი იმაზე, თუ როგორ უწყობს ხელს სეტოუჩის კუნძულების ხელოვნების ფესტივალები წრიული საზოგადოების შექმნას. პარტნიორი უნივერსიტეტების სტუდენტებისთვის; გაიცემა ტრანსკრიპტი.",
+   "ar": "دورة مجانية عبر الإنترنت من جامعة أوكاياما حول دور مهرجانات الفن في جزر سيتوتشي في بناء مجتمع دائري، لطلاب الجامعات الشريكة مع منح كشف درجات."
+  },
+  "about": {
+   "en": "Okayama University's JV-Campus Course 3, 'Driving the Setouchi Art Movement Toward a Circular Society', is a fully online, on-demand course of 14 video lectures (about 35 minutes each) running from 4 December 2026 to 2 February 2027. It explores how contemporary art in the Seto Inland Sea islands revitalises communities and supports sustainability.\n\nIt is free for students enrolled in a regular programme at an Okayama University partner institution. All completers receive a transcript, and the course can count as one credit if you later enrol in an Okayama undergraduate programme.\n\nApply via the online form by 12 November 2026, 5pm JST; missing deadlines for viewing or assignments results in an F grade."
+  },
+  "highlights": {
+   "en": [
+    "Free online course from a Japanese national university",
+    "Transcript issued; credit can count towards Okayama degrees",
+    "Art, community revitalisation and sustainability"
+   ]
+  },
+  "eligibility": {
+   "en": "Students enrolled in a regular programme at an Okayama University partner institution, remaining enrolled until the course ends. Priority to those who completed the earlier courses."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check that your university is an Okayama University partner.",
+    "Submit the Microsoft Forms application linked on the JV-Campus page by 12 November 2026, 5pm JST.",
+    "Receive the approval notice within a week after the deadline.",
+    "Watch all lectures and submit assignments on time."
+   ]
+  },
+  "costs": {
+   "en": "Free for students at partner institutions."
+  },
+  "keywords": [
+   "online course",
+   "free",
+   "japan",
+   "art",
+   "sustainability",
+   "circular economy",
+   "okayama"
+  ],
+  "url": "https://intl.okayama-u.ac.jp/en/others/jvcampus/",
+  "apply_url": "https://forms.cloud.microsoft/r/uthkHguZS1",
+  "sources": [
+   "https://intl.okayama-u.ac.jp/en/others/jvcampus/"
+  ],
+  "score": 4,
+  "score_reason": "Free and online, but partner-university students only and deadline soon.",
+  "premium": false,
+  "fields": [
+   "arts-design",
+   "environment"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "abs-business-open-2027",
+  "section": "project",
+  "family": "startup",
+  "type": "pitch competition",
+  "org": "Aoba-BBT / Attackers Business School (ABS)",
+  "name": {
+   "en": "ABS Business Open 2027 — Global Pitch Contest (Tokyo)",
+   "ka": "ABS Business Open 2027 — გლობალური პიჩ-კონკურსი (ტოკიო)",
+   "ar": "ABS Business Open 2027 — مسابقة العروض الريادية العالمية (طوكيو)"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია",
+   "ar": "اليابان"
+  },
+  "city": "Tokyo",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 35.686,
+  "lon": 139.733,
+  "cost": "free",
+  "duration": {
+   "en": "Online rounds (Feb 2027) + final in Tokyo (13 March 2027)",
+   "ka": "ონლაინ ტურები (2027 თებერვალი) + ფინალი ტოკიოში (2027 წლის 13 მარტი)",
+   "ar": "جولات عبر الإنترنت (فبراير 2027) ونهائي في طوكيو (13 مارس 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": "2027-01-31",
+  "deadline_note": "Official page: entry deadline 31 January 2027.",
+  "event_dates": "2027-03-13 to 2027-03-13",
+  "summary": {
+   "en": "A free global startup pitch contest with a university division open to students of any nationality. Finalists pitch in Tokyo on 13 March 2027 with partial travel support.",
+   "ka": "უფასო გლობალური სტარტაპ-პიჩის კონკურსი საუნივერსიტეტო დივიზიონით, რომელიც ნებისმიერი ქვეყნის სტუდენტებისთვის ღიაა. ფინალისტები 2027 წლის 13 მარტს ტოკიოში წარდგებიან, მგზავრობის ნაწილობრივი დაფინანსებით.",
+   "ar": "مسابقة عالمية مجانية لعروض الشركات الناشئة تضم فئة جامعية مفتوحة لطلاب من أي جنسية. يقدّم المتأهلون عروضهم في طوكيو يوم 13 مارس 2027 مع دعم جزئي للسفر."
+  },
+  "about": {
+   "en": "ABS Business Open 2027 is a global pitch contest run by Aoba-BBT's Attackers Business School to mark its 30th anniversary. It has three divisions: High School (under 18, Japan residents only), University (students 18+, including graduate students) and General (professionals and entrepreneurs).\n\nOpen Entry is available to anyone not at a partner university (BBT University, Bond University, CTBC Business School, University of the Philippines), with no nationality or residency limits for the university and general divisions. Applicants submit a 9-slide business summary in English; shortlisted entrants send a 5-minute pitch video, and finalists pitch at the Global Final in Tokyo on 13 March 2027.\n\nThe University division Grand Prize is USD 1,000 plus a startup support programme (the General division offers USD 20,000 investment). Entry is free and finalists get partial travel and accommodation support."
+  },
+  "highlights": {
+   "en": [
+    "Free entry, open to students of any nationality",
+    "Final in Tokyo with partial travel support",
+    "University Grand Prize USD 1,000 + startup support"
+   ]
+  },
+  "eligibility": {
+   "en": "University division: students aged 18+ (undergraduate or graduate), individuals or teams, any nationality. Students of partner universities apply via their school."
+  },
+  "how_to_apply": {
+   "en": [
+    "Complete the online entry form in English by 31 January 2027.",
+    "Upload a business summary PDF (1 cover + 8 content slides, with speaker notes).",
+    "If you pass the February document screening, submit a ~5-minute pitch video.",
+    "Finalists pitch at the Global Final in Tokyo on 13 March 2027."
+   ]
+  },
+  "costs": {
+   "en": "Free. Finalists receive partial travel and accommodation support (capped)."
+  },
+  "keywords": [
+   "pitch competition",
+   "startup",
+   "business plan",
+   "japan",
+   "tokyo",
+   "entrepreneurship",
+   "free"
+  ],
+  "url": "https://anniversary-aoba-bbt.com/abs-open/",
+  "apply_url": "https://forms.gle/BYJX6kmK8aXkiGzx5",
+  "sources": [
+   "https://anniversary-aoba-bbt.com/abs-open/"
+  ],
+  "score": 6,
+  "score_reason": "Free, open internationally, with a Tokyo final and travel support.",
+  "premium": false,
+  "fields": [
+   "business"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "uli-hines-student-competition-asia-pacific-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "urban design and development competition",
+  "org": "Urban Land Institute (ULI) Asia Pacific",
+  "name": {
+   "en": "ULI Hines Student Competition Asia Pacific 2027",
+   "ka": "ULI Hines-ის სტუდენტური კონკურსი აზია-წყნარი ოკეანე 2027",
+   "ar": "مسابقة ULI Hines الطلابية لآسيا والمحيط الهادئ 2027"
+  },
+  "country": {
+   "en": "Hong Kong",
+   "ka": "ჰონკონგი",
+   "ar": "هونغ كونغ"
+  },
+  "city": "Hong Kong",
+  "iso": "HK",
+  "flag": "🇭🇰",
+  "region": "asia",
+  "lat": 22.281,
+  "lon": 114.158,
+  "cost": "free",
+  "duration": {
+   "en": "3-week design sprint (9–30 March 2027)",
+   "ka": "3-კვირიანი საპროექტო მარათონი (2027 წლის 9–30 მარტი)",
+   "ar": "سباق تصميم لمدة 3 أسابيع (9–30 مارس 2027)"
+  },
+  "grades": "university",
+  "opens": "2026-10-30",
+  "deadline": "2027-03-03",
+  "deadline_note": "Official page: team registration 30 Oct 2026 – 3 Mar 2027, 11:59pm HKT.",
+  "event_dates": "2027-03-09 to 2027-04-16",
+  "summary": {
+   "en": "Multidisciplinary student teams act as master developers and redesign a real site in a major Asian city as a mixed-use, transit-oriented neighbourhood. The winners get a fully paid trip to the ULI Asia Pacific Summit.",
+   "ka": "მრავალდისციპლინური სტუდენტური გუნდები დეველოპერის როლს ასრულებენ და აზიის დიდ ქალაქში რეალურ ტერიტორიას შერეული დანიშნულების, ტრანსპორტზე ორიენტირებულ უბნად აპროექტებენ. გამარჯვებულები ULI-ის აზია-წყნარი ოკეანის სამიტზე სრულად დაფინანსებულ მოგზაურობას იღებენ.",
+   "ar": "تتولى فرق طلابية متعددة التخصصات دور المطوّر الرئيسي وتعيد تصميم موقع حقيقي في مدينة آسيوية كبرى ليصبح حيًا متعدد الاستخدامات موجّهًا للنقل العام. يحصل الفائزون على رحلة مدفوعة بالكامل إلى قمة ULI لآسيا والمحيط الهادئ."
+  },
+  "about": {
+   "en": "The ULI Hines Student Competition Asia Pacific, in its fifth year in 2027, asks multidisciplinary teams of graduate and final-year undergraduate students to develop a creative, sustainable and commercially viable proposal for a real site in a major Asia Pacific city, reimagining it as a vibrant mixed-use, transit-oriented neighbourhood.\n\nTeams register by 3 March 2027; the brief and site are released on 9 March and teams have until 30 March to submit. Finalists are announced on 31 March and present virtually on 16 April 2027. Since 2023 it has drawn 580+ students from 36 universities in Australia, China, India, Hong Kong, Japan, Pakistan, the Philippines, Singapore, South Korea, Thailand and Vietnam.\n\nAll finalists receive a one-year ULI student membership and networking with industry leaders; the winning team gets a fully paid trip (flights, hotel, delegate pass) to the ULI Asia Pacific Summit 2027 (26–28 May) and mentorship from Hines leaders."
+  },
+  "highlights": {
+   "en": [
+    "Real site, real industry judges",
+    "Winners flown to the ULI Asia Pacific Summit 2027",
+    "Great for architecture, planning, real estate and finance students"
+   ]
+  },
+  "eligibility": {
+   "en": "Graduate and final-year undergraduate students at universities in the Asia Pacific region, in multidisciplinary teams (e.g. architecture, planning, real estate, finance, engineering). Check the official terms for team size and eligible universities."
+  },
+  "how_to_apply": {
+   "en": [
+    "Form a multidisciplinary team with a faculty adviser.",
+    "Team leader creates a ULI account and registers the team by 3 March 2027, 11:59pm HKT.",
+    "Receive the brief on 9 March and submit your proposal by 30 March 2027.",
+    "Finalists present online on 16 April 2027."
+   ]
+  },
+  "costs": {
+   "en": "Free to enter. Winning team trip fully paid (flights, accommodation, summit pass)."
+  },
+  "keywords": [
+   "urban planning",
+   "architecture",
+   "real estate",
+   "competition",
+   "design",
+   "hong kong",
+   "asia pacific",
+   "sustainability"
+  ],
+  "url": "https://asia.uli.org/programs/awards-and-competition/uli-hines-student-competition-asia-pacific/",
+  "apply_url": "https://asia.uli.org/programs/awards-and-competition/uli-hines-student-competition-asia-pacific/",
+  "sources": [
+   "https://asia.uli.org/programs/awards-and-competition/uli-hines-student-competition-asia-pacific/"
+  ],
+  "score": 6,
+  "score_reason": "Prestigious, free, open now; limited to APAC university teams.",
+  "premium": false,
+  "fields": [
+   "arts-design",
+   "engineering",
+   "business",
+   "environment"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "waseda-summer-session-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "international summer school",
+  "org": "Waseda University — Global Immersion Programs",
+  "name": {
+   "en": "Waseda University Summer Session 2027 (Tokyo)",
+   "ka": "ვასედას უნივერსიტეტის საზაფხულო სესია 2027 (ტოკიო)",
+   "ar": "الدورة الصيفية لجامعة واسيدا 2027 (طوكيو)"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია",
+   "ar": "اليابان"
+  },
+  "city": "Tokyo",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 35.709,
+  "lon": 139.719,
+  "cost": "paid",
+  "duration": {
+   "en": "About 5 weeks (mid-June – late July 2027)",
+   "ka": "დაახლოებით 5 კვირა (2027 ივნისის შუა რიცხვები – ივლისის ბოლო)",
+   "ar": "نحو 5 أسابيع (منتصف يونيو – أواخر يوليو 2027)"
+  },
+  "grades": "university",
+  "opens": "2027-02-01",
+  "deadline": "2027-02-26",
+  "deadline_note": "Estimated from 2026 (applications opened in February, deadline 27 Feb 2026, programme 15 Jun – 22 Jul); confirm the 2027 dates on the official page.",
+  "event_dates": null,
+  "summary": {
+   "en": "Waseda University's English-taught summer session in Tokyo, combining academic courses on Japan and Asia with cultural activities. Open to university students worldwide with a GPA of 2.5/4.0 or higher.",
+   "ka": "ვასედას უნივერსიტეტის ინგლისურენოვანი საზაფხულო სესია ტოკიოში: აკადემიური კურსები იაპონიასა და აზიაზე და კულტურული აქტივობები. ღიაა მსოფლიოს სტუდენტებისთვის, GPA 2.5/4.0-ით ან მეტით.",
+   "ar": "دورة صيفية باللغة الإنجليزية في جامعة واسيدا بطوكيو تجمع مقررات أكاديمية عن اليابان وآسيا وأنشطة ثقافية، ومفتوحة لطلاب الجامعات حول العالم بمعدل 2.5/4.0 أو أعلى."
+  },
+  "about": {
+   "en": "The Waseda Summer Session is run by Waseda University's Global Immersion Programs in central Tokyo. In 2026 it ran from 15 June to 22 July, with English-taught courses on Japanese society, culture, business and Asia, alongside cultural activities, field trips and Waseda student interns.\n\nIt is open to university students from around the world with a cumulative GPA of at least 2.5/4.0; students from non-English-medium universities are recommended to have TOEFL iBT 79 or IELTS 6.0.\n\nThe 2027 session is expected to open for applications in February 2027 with a deadline at the end of that month; fees and accommodation options are published on the programme pages."
+  },
+  "highlights": {
+   "en": [
+    "Study at one of Japan's top private universities",
+    "English-taught courses on Japan and Asia",
+    "Cultural activities with Waseda student interns"
+   ]
+  },
+  "eligibility": {
+   "en": "University students worldwide with cumulative GPA 2.5/4.0+; recommended TOEFL iBT 79 / IELTS 6.0 for non-English-medium students."
+  },
+  "how_to_apply": {
+   "en": [
+    "Check the Summer Session pages (dates, courses, tuition, accommodation) for 2027.",
+    "Apply online when applications open (February).",
+    "Submit transcript and English proof as requested.",
+    "Pay tuition and arrange accommodation after admission."
+   ]
+  },
+  "costs": {
+   "en": "Tuition and accommodation fees are listed on the official Tuition and Fees page; travel and living costs extra."
+  },
+  "keywords": [
+   "summer school",
+   "japan",
+   "tokyo",
+   "waseda",
+   "english taught",
+   "culture",
+   "asia"
+  ],
+  "url": "https://www.waseda.jp/inst/gip/summer-session",
+  "apply_url": "https://www.waseda.jp/inst/gip/summer-session",
+  "sources": [
+   "https://www.waseda.jp/inst/gip/summer-session",
+   "https://studyabroad.ntu.edu.tw/en/summer-course/partner-universities-courses"
+  ],
+  "score": 5,
+  "score_reason": "Top-name summer school open to all; 2027 dates estimated.",
+  "premium": false,
+  "fields": [
+   "humanities",
+   "social-sciences",
+   "business"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "kansai-university-ijlc-summer-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "Japanese language summer course",
+  "org": "Kansai University — Intensive Japanese Language and Culture (IJLC)",
+  "name": {
+   "en": "Kansai University Intensive Japanese Language and Culture (IJLC) Summer Course 2027",
+   "ka": "კანსაის უნივერსიტეტის ინტენსიური იაპონური ენისა და კულტურის საზაფხულო კურსი (IJLC) 2027",
+   "ar": "دورة جامعة كانساي الصيفية المكثفة في اللغة والثقافة اليابانية (IJLC) 2027"
+  },
+  "country": {
+   "en": "Japan",
+   "ka": "იაპონია",
+   "ar": "اليابان"
+  },
+  "city": "Osaka",
+  "iso": "JP",
+  "flag": "🇯🇵",
+  "region": "asia",
+  "lat": 34.771,
+  "lon": 135.508,
+  "cost": "paid",
+  "duration": {
+   "en": "About 3 weeks (June or July 2027)",
+   "ka": "დაახლოებით 3 კვირა (2027 ივნისი ან ივლისი)",
+   "ar": "نحو 3 أسابيع (يونيو أو يوليو 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": "2027-03-24",
+  "deadline_note": "Estimated: applications close about 2.5 months before each session (2026: Summer 1 deadline 25 Mar, Summer 2 deadline 9 Apr) or earlier if full.",
+  "event_dates": null,
+  "summary": {
+   "en": "Three-week intensive Japanese courses in June or July at Kansai University near Osaka, from beginner (N5) to advanced (N2+), for foreign university students and recent graduates.",
+   "ka": "სამკვირიანი ინტენსიური იაპონური ენის კურსები ივნისში ან ივლისში კანსაის უნივერსიტეტში, ოსაკასთან, დამწყებიდან (N5) მოწინავემდე (N2+), უცხოელი სტუდენტებისა და ახალი კურსდამთავრებულებისთვის.",
+   "ar": "دورات مكثفة في اللغة اليابانية لمدة ثلاثة أسابيع في يونيو أو يوليو بجامعة كانساي قرب أوساكا، من المبتدئ (N5) إلى المتقدم (N2+)، لطلاب الجامعات الأجانب والخريجين الجدد."
+  },
+  "about": {
+   "en": "Kansai University's IJLC programme runs two three-week summer courses near Osaka: Summer 1 in June and Summer 2 in July (in 2026: 2–25 June and 30 June – 23 July). Classes are taught in Japanese at three levels: Primary (about JLPT N5; you must already read and type hiragana and katakana), Intermediate (N4–N3) and Intermediate-Advanced (N2+), with cultural activities.\n\nIt is open to foreign nationals currently enrolled at a college or university, or who graduated within one year before the course starts; capacity is about 45 per session.\n\nApplications close about two and a half months before each session, or earlier when full, so apply as soon as the 2027 course guide is published."
+  },
+  "highlights": {
+   "en": [
+    "Three levels from beginner to advanced",
+    "Two sessions to choose from (June or July)",
+    "Open to any foreign university student or recent graduate"
+   ]
+  },
+  "eligibility": {
+   "en": "Foreign nationals enrolled at a college/university or graduated within one year of the course start. Beginners must know hiragana and katakana."
+  },
+  "how_to_apply": {
+   "en": [
+    "Download the IJLC Course Guide for 2027 fees and dates.",
+    "Choose Summer 1 (June) or Summer 2 (July) and your level.",
+    "Apply online before the deadline (about 2.5 months ahead) or before seats fill.",
+    "Pay fees and arrange accommodation and visa."
+   ]
+  },
+  "costs": {
+   "en": "Fees depend on length of stay and accommodation type (see the official Course Guide)."
+  },
+  "keywords": [
+   "japanese",
+   "language",
+   "osaka",
+   "japan",
+   "summer",
+   "kansai",
+   "culture"
+  ],
+  "url": "https://www.kansai-u.ac.jp/ku-jpn/English/other/ijlc.html",
+  "apply_url": "https://www.kansai-u.ac.jp/ku-jpn/English/other/ijlc.html",
+  "sources": [
+   "https://www.kansai-u.ac.jp/ku-jpn/English/other/ijlc.html",
+   "https://studyabroad.ntu.edu.tw/en/summer-course/partner-universities-courses"
+  ],
+  "score": 4,
+  "score_reason": "Open Japanese course with beginner option; standard paid programme.",
+  "premium": false,
+  "fields": [
+   "languages"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "raisina-dialogue-2027-student-registration",
+  "section": "project",
+  "family": "youth",
+  "type": "international affairs conference",
+  "org": "Observer Research Foundation (ORF) with the Ministry of External Affairs, India",
+  "name": {
+   "en": "Raisina Dialogue 2027 — Student Registration (New Delhi)",
+   "ka": "რაისინას დიალოგი 2027 — სტუდენტური რეგისტრაცია (ნიუ-დელი)",
+   "ar": "حوار رايسينا 2027 — تسجيل الطلاب (نيودلهي)"
+  },
+  "country": {
+   "en": "India",
+   "ka": "ინდოეთი",
+   "ar": "الهند"
+  },
+  "city": "New Delhi",
+  "iso": "IN",
+  "flag": "🇮🇳",
+  "region": "asia",
+  "lat": 28.614,
+  "lon": 77.209,
+  "cost": "paid",
+  "duration": {
+   "en": "3 days (18–20 March 2027)",
+   "ka": "3 დღე (2027 წლის 18–20 მარტი)",
+   "ar": "3 أيام (18–20 مارس 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Registrations are open on the official ORF platform with a dedicated student category; no closing date published (places limited).",
+  "event_dates": "2027-03-18 to 2027-03-20",
+  "summary": {
+   "en": "India's flagship conference on geopolitics and geoeconomics brings heads of government, ministers and experts to New Delhi. Students can register in a dedicated category to attend the 2027 edition.",
+   "ka": "ინდოეთის მთავარი კონფერენცია გეოპოლიტიკასა და გეოეკონომიკაზე ნიუ-დელიში მთავრობის მეთაურებს, მინისტრებსა და ექსპერტებს აერთიანებს. 2027 წლის გამოცემაზე სტუდენტებს ცალკე კატეგორიით რეგისტრაცია შეუძლიათ.",
+   "ar": "المؤتمر الهندي الرئيسي في الجغرافيا السياسية والاقتصادية يجمع رؤساء حكومات ووزراء وخبراء في نيودلهي، ويمكن للطلاب التسجيل لحضور نسخة 2027 ضمن فئة مخصصة لهم."
+  },
+  "about": {
+   "en": "The Raisina Dialogue is India's premier conference on geopolitics and geoeconomics, held annually in New Delhi since 2016 by the Observer Research Foundation in partnership with India's Ministry of External Affairs. The 2027 edition runs from 18 to 20 March 2027.\n\nOver three days, heads of state and government, ministers, policymakers, business leaders, academics and journalists debate foreign policy, technology, climate and security in plenaries and panels. It is one of the best places in Asia for students of international relations, economics and public policy to hear world leaders in person and network.\n\nRegistration is open now, with separate categories for Indian residents, international registrants, students and media; students should register in the student category."
+  },
+  "highlights": {
+   "en": [
+    "Hear world leaders and ministers in person",
+    "One of Asia's biggest foreign-policy conferences",
+    "Dedicated student registration category"
+   ]
+  },
+  "eligibility": {
+   "en": "University students of any nationality interested in international affairs (register under the Students category; student ID likely required). International attendees need an Indian visa."
+  },
+  "how_to_apply": {
+   "en": [
+    "Open the Raisina Dialogue page on orfonline.org and choose the Students registration category.",
+    "Create an account on the ORF event platform and complete the form.",
+    "Wait for confirmation of your registration.",
+    "Arrange travel and an Indian visa (if needed) for 18–20 March 2027."
+   ]
+  },
+  "costs": {
+   "en": "Registration terms (and any fee) are shown on the ORF registration platform. Travel, visa and accommodation are at your own cost."
+  },
+  "keywords": [
+   "conference",
+   "international relations",
+   "geopolitics",
+   "india",
+   "new delhi",
+   "foreign policy",
+   "students"
+  ],
+  "url": "https://www.orfonline.org/forums/raisina-dialogue",
+  "apply_url": "https://raisina-dialogue-2027.raisinadialogue.org/register/students",
+  "sources": [
+   "https://www.orfonline.org/forums/raisina-dialogue",
+   "https://raisina-dialogue-2027.raisinadialogue.org/register/students"
+  ],
+  "score": 6,
+  "score_reason": "Major conference with a student route; attendance only, self-funded.",
+  "premium": false,
+  "fields": [
+   "international-relations",
+   "economics",
+   "social-sciences"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "amt-computational-algorithmic-thinking-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "computational thinking competition",
+  "org": "Australian Mathematics Trust (AMT)",
+  "name": {
+   "en": "Computational and Algorithmic Thinking (CAT) Competition 2027",
+   "ka": "გამოთვლითი და ალგორითმული აზროვნების კონკურსი (CAT) 2027",
+   "ar": "مسابقة التفكير الحاسوبي والخوارزمي (CAT) 2027"
+  },
+  "country": {
+   "en": "Australia",
+   "ka": "ავსტრალია",
+   "ar": "أستراليا"
+  },
+  "city": "Canberra",
+  "iso": "AU",
+  "flag": "🇦🇺",
+  "region": "oceania",
+  "lat": -35.282,
+  "lon": 149.129,
+  "cost": "paid",
+  "duration": {
+   "en": "One 60-minute paper (18–20 May 2027)",
+   "ka": "ერთი 60-წუთიანი ტესტი (2027 წლის 18–20 მაისი)",
+   "ar": "اختبار واحد مدته 60 دقيقة (18–20 مايو 2027)"
+  },
+  "grades": "5-12",
+  "opens": null,
+  "deadline": "2027-04-23",
+  "deadline_note": "Official page: international printed-paper entries close 23 April 2027; online entries close 14 May 2027.",
+  "event_dates": "2027-05-18 to 2027-05-20",
+  "summary": {
+   "en": "A one-hour problem-solving competition on algorithms and logic for students in Years 5–12, no programming needed. Sat at school in Australia and internationally for AUD 9.30.",
+   "ka": "ერთსაათიანი კონკურსი ალგორითმებსა და ლოგიკაზე 5–12 კლასების მოსწავლეებისთვის, პროგრამირების ცოდნის გარეშე. იწერება სკოლაში ავსტრალიასა და სხვა ქვეყნებში, 9.30 ავსტრალიურ დოლარად.",
+   "ar": "مسابقة لمدة ساعة في حل المسائل الخوارزمية والمنطقية لطلاب الصفوف 5–12 دون الحاجة إلى البرمجة، تُجرى في المدارس داخل أستراليا وخارجها برسوم 9.30 دولار أسترالي."
+  },
+  "about": {
+   "en": "The Computational and Algorithmic Thinking (CAT) competition, run by the Australian Mathematics Trust, tests logical and algorithmic problem solving without requiring any programming. The 2027 competition is held at school from 18 to 20 May 2027 (60 minutes, paper or online).\n\nDivisions: Upper Primary (Years 5–6), Junior (7–8), Intermediate (9–10) and Senior (11–12). International schools can enter, with an earlier deadline for printed papers. Strong CAT results are a good stepping stone to informatics olympiads.\n\nEvery participant gets a certificate; top performers receive awards."
+  },
+  "highlights": {
+   "en": [
+    "No programming required",
+    "Paper or online, at your school",
+    "Good preparation for informatics olympiads"
+   ]
+  },
+  "eligibility": {
+   "en": "School students in Years 5–12, entered by their school (Australia, New Zealand or international)."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask your school to register through the AMT admin portal.",
+    "International printed entries by 23 April 2027; online entries by 14 May 2027.",
+    "Sit the paper at school between 18 and 20 May 2027.",
+    "Receive certificates and results from AMT."
+   ]
+  },
+  "costs": {
+   "en": "AUD 9.30 per student (bundle discounts available)."
+  },
+  "keywords": [
+   "computational thinking",
+   "algorithms",
+   "informatics",
+   "competition",
+   "australia",
+   "school",
+   "logic"
+  ],
+  "url": "https://www.amt.edu.au/cat",
+  "apply_url": "https://competitions.amt.edu.au/admin",
+  "sources": [
+   "https://www.amt.edu.au/cat",
+   "https://www.amt.edu.au/"
+  ],
+  "score": 5,
+  "score_reason": "Cheap, accessible school competition; needs school registration.",
+  "premium": false,
+  "fields": [
+   "computer-science",
+   "mathematics"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "olympiad"
+  ]
+ },
+ {
+  "id": "big-science-competition-2027",
+  "section": "project",
+  "family": "competition",
+  "type": "science competition",
+  "org": "Australian Science Innovations (ASI)",
+  "name": {
+   "en": "Big Science Competition 2027",
+   "ka": "Big Science კონკურსი 2027",
+   "ar": "مسابقة Big Science للعلوم 2027"
+  },
+  "country": {
+   "en": "Australia",
+   "ka": "ავსტრალია",
+   "ar": "أستراليا"
+  },
+  "city": "Canberra",
+  "iso": "AU",
+  "flag": "🇦🇺",
+  "region": "oceania",
+  "lat": -35.278,
+  "lon": 149.119,
+  "cost": "paid",
+  "duration": {
+   "en": "One online test (May 2027)",
+   "ka": "ერთი ონლაინ ტესტი (2027 მაისი)",
+   "ar": "اختبار إلكتروني واحد (مايو 2027)"
+  },
+  "grades": "7-10",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Annual; the 2026 competition ran 4–15 May 2026. 2027 dates and registration deadline not yet published.",
+  "event_dates": null,
+  "summary": {
+   "en": "An online science competition for students in Years 7–10, open globally and run by the organisation behind the Australian Science Olympiads. Students from Singapore, Hong Kong, Malaysia and New Zealand take part.",
+   "ka": "ონლაინ სამეცნიერო კონკურსი 7–10 კლასების მოსწავლეებისთვის, ღიაა მთელი მსოფლიოსთვის და მას ავსტრალიის სამეცნიერო ოლიმპიადების ორგანიზატორი ატარებს. მონაწილეობენ სინგაპურის, ჰონკონგის, მალაიზიისა და ახალი ზელანდიის მოსწავლეები.",
+   "ar": "مسابقة علوم إلكترونية لطلاب الصفوف 7–10، مفتوحة عالميًا وتنظمها الجهة المسؤولة عن أولمبيادات العلوم الأسترالية، ويشارك فيها طلاب من سنغافورة وهونغ كونغ وماليزيا ونيوزيلندا."
+  },
+  "about": {
+   "en": "The Big Science Competition is run each May by Australian Science Innovations (ASI), the not-for-profit that runs the Australian Science Olympiads. It is a 50-minute online test of scientific thinking, reading of data and problem solving rather than memorised facts, for students in Years 7 to 10.\n\nIt is open to students globally; recent participants have come from Singapore, Hong Kong, Malaysia and New Zealand as well as Australia. In 2026 it ran from 4 to 15 May; the 2027 window is expected in May again.\n\nAll students receive results and certificates, and high scorers can be invited towards the Australian Science Olympiad pathway (for eligible Australian students)."
+  },
+  "highlights": {
+   "en": [
+    "Open to students worldwide",
+    "Tests scientific reasoning, not memorisation",
+    "Certificates for all participants"
+   ]
+  },
+  "eligibility": {
+   "en": "Students in Years 7–10 (grades 7–10), entered through their school or a teacher; open globally."
+  },
+  "how_to_apply": {
+   "en": [
+    "Ask your science teacher to register the school with ASI for 2027.",
+    "Subscribe to ASI programme updates for the 2027 dates.",
+    "Sit the online test at school in the May window.",
+    "Receive results and certificates."
+   ]
+  },
+  "costs": {
+   "en": "Per-student entry fee set by ASI (see the 2027 registration information)."
+  },
+  "keywords": [
+   "science",
+   "competition",
+   "olympiad",
+   "australia",
+   "school",
+   "middle school",
+   "stem"
+  ],
+  "url": "https://www.asi.edu.au/",
+  "apply_url": "https://www.asi.edu.au/",
+  "sources": [
+   "https://www.asi.edu.au/"
+  ],
+  "score": 4,
+  "score_reason": "Global and accessible, but 2027 dates still to be published.",
+  "premium": false,
+  "fields": [
+   "natural-sciences"
+  ],
+  "verified_at": "2026-10-31",
+  "tutor_tags": [
+   "olympiad"
+  ]
+ },
+ {
+  "id": "astar-research-attachment-programme-arap-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "PhD research attachment",
+  "org": "A*STAR Graduate Academy (Agency for Science, Technology and Research, Singapore)",
+  "name": {
+   "en": "A*STAR Research Attachment Programme (ARAP) — December 2026 & June 2027 rounds",
+   "ka": "A*STAR-ის კვლევითი მივლინების პროგრამა (ARAP) — 2026 დეკემბრისა და 2027 ივნისის ტურები",
+   "ar": "برنامج الإلحاق البحثي في A*STAR (ARAP) — جولتا ديسمبر 2026 ويونيو 2027"
+  },
+  "country": {
+   "en": "Singapore",
+   "ka": "სინგაპური",
+   "ar": "سنغافورة"
+  },
+  "city": "Singapore",
+  "iso": "SG",
+  "flag": "🇸🇬",
+  "region": "asia",
+  "lat": 1.299,
+  "lon": 103.787,
+  "cost": "fully-funded",
+  "duration": {
+   "en": "1–2 years",
+   "ka": "1–2 წელი",
+   "ar": "من سنة إلى سنتين"
+  },
+  "grades": "phd",
+  "opens": null,
+  "deadline": "2026-12-01",
+  "deadline_note": "Official page: nominations due 1 June and 1 December each year; next round 1 December 2026, then 1 June 2027.",
+  "event_dates": null,
+  "summary": {
+   "en": "PhD students from overseas universities spend one to two years doing research at Singapore's A*STAR institutes under joint supervision. Stipend, housing, airfare, insurance and conference allowances are covered.",
+   "ka": "უცხოური უნივერსიტეტების დოქტორანტები ერთიდან ორ წლამდე ატარებენ კვლევას სინგაპურის A*STAR-ის ინსტიტუტებში ერთობლივი ხელმძღვანელობით. იფარება სტიპენდია, საცხოვრებელი, ავიაბილეთი, დაზღვევა და კონფერენციის ხარჯები.",
+   "ar": "يقضي طلاب الدكتوراه من جامعات خارج سنغافورة سنة إلى سنتين في البحث بمعاهد A*STAR بإشراف مشترك، مع تغطية الراتب الشهري والسكن وتذكرة الطيران والتأمين وبدل المؤتمرات."
+  },
+  "about": {
+   "en": "The A*STAR Research Attachment Programme (ARAP) connects overseas universities with A*STAR, Singapore's lead public research agency. PhD (and postgraduate) students based at overseas universities spend 1–2 years in an A*STAR research institute working on a joint project under co-supervision by their home supervisor and an A*STAR researcher, in biomedical sciences, physical sciences, engineering, infocomm and related fields.\n\nStudents are nominated jointly by their home university and A*STAR supervisors. A*STAR researchers submit nominations by 1 June or 1 December each year, and attachments can start six months after the award. Applicants need at least a Second-Class Upper honours bachelor's degree (or equivalent), strong references and a good research record.\n\nAwardees receive a monthly stipend and housing allowance, a one-time IT allowance, airfare grant and settling-in allowance, visa costs, medical insurance and a conference allowance."
+  },
+  "highlights": {
+   "en": [
+    "Fully funded 1–2 year research stay in Singapore",
+    "Access to world-class A*STAR facilities",
+    "Two nomination rounds a year (1 June, 1 December)"
+   ]
+  },
+  "eligibility": {
+   "en": "Overseas-based PhD/postgraduate students with at least a Second-Class Upper bachelor's degree (or equivalent), strong referees and a research track record, nominated jointly by their home university supervisor and an A*STAR supervisor. Students at ARAP partner universities contact their university's ARAP office."
+  },
+  "how_to_apply": {
+   "en": [
+    "Identify an A*STAR researcher whose work fits your PhD and discuss a joint project (with your home supervisor).",
+    "Check whether your university is on the ARAP partner list and contact its ARAP office.",
+    "The A*STAR supervisor submits the nomination by 1 December 2026 (or 1 June 2027).",
+    "If awarded, start the attachment about six months later."
+   ]
+  },
+  "costs": {
+   "en": "Fully funded: monthly stipend, monthly housing allowance, IT allowance, airfare grant, settling-in allowance, visa cost, medical insurance and conference allowance."
+  },
+  "keywords": [
+   "phd",
+   "research",
+   "singapore",
+   "a*star",
+   "astar",
+   "attachment",
+   "funded",
+   "stem",
+   "biomedical",
+   "engineering"
+  ],
+  "url": "https://www.a-star.edu.sg/scholarships/home/international-awards/astar-research-attachment-programme-arap",
+  "apply_url": "https://www.a-star.edu.sg/scholarships/home/international-awards/astar-research-attachment-programme-arap",
+  "sources": [
+   "https://www.a-star.edu.sg/scholarships/home/international-awards/astar-research-attachment-programme-arap",
+   "https://www.a-star.edu.sg/scholarships/home/international-awards"
+  ],
+  "score": 7,
+  "score_reason": "Fully funded and prestigious; requires supervisor nomination.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "computer-science",
+   "medicine-health"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "cuhk-summer-undergraduate-research-programme-2027",
+  "section": "project",
+  "family": "stem",
+  "type": "summer research programme",
+  "org": "The Chinese University of Hong Kong (CUHK)",
+  "name": {
+   "en": "CUHK Summer Undergraduate Research Programme (SURP) 2027",
+   "ka": "CUHK-ის საზაფხულო საბაკალავრო კვლევითი პროგრამა (SURP) 2027",
+   "ar": "برنامج البحث الصيفي للطلاب الجامعيين في الجامعة الصينية بهونغ كونغ (SURP) 2027"
+  },
+  "country": {
+   "en": "Hong Kong",
+   "ka": "ჰონკონგი",
+   "ar": "هونغ كونغ"
+  },
+  "city": "Hong Kong",
+  "iso": "HK",
+  "flag": "🇭🇰",
+  "region": "asia",
+  "lat": 22.42,
+  "lon": 114.207,
+  "cost": "paid",
+  "duration": {
+   "en": "8 weeks (late June – mid-August 2027)",
+   "ka": "8 კვირა (2027 ივნისის ბოლო – აგვისტოს შუა რიცხვები)",
+   "ar": "8 أسابيع (أواخر يونيو – منتصف أغسطس 2027)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": "2027-02-12",
+  "deadline_note": "Estimated from 2026 (online application deadline 13 Feb 2026 for 21 Jun – 15 Aug); confirm the 2027 timeline on the official page.",
+  "event_dates": "2027-06-20 to 2027-08-14",
+  "summary": {
+   "en": "An eight-week, 3-credit research attachment at CUHK for senior undergraduates from overseas universities, with 160+ projects across all faculties and guaranteed campus housing. Up to 10 tuition waivers are offered.",
+   "ka": "რვაკვირიანი, 3-კრედიტიანი კვლევითი სტაჟირება CUHK-ში უცხოური უნივერსიტეტების უფროსკურსელი ბაკალავრებისთვის: 160-ზე მეტი პროექტი ყველა ფაკულტეტზე და გარანტირებული საცხოვრებელი კამპუსზე. გაიცემა 10-მდე სწავლის საფასურის გათავისუფლება.",
+   "ar": "إلحاق بحثي لمدة ثمانية أسابيع بثلاث ساعات معتمدة في الجامعة الصينية بهونغ كونغ لطلاب السنوات المتقدمة من جامعات خارجية، مع أكثر من 160 مشروعًا في جميع الكليات وسكن جامعي مضمون، وحتى 10 إعفاءات من الرسوم."
+  },
+  "about": {
+   "en": "SURP lets senior undergraduates from overseas (non-Chinese) universities spend eight weeks doing research under a CUHK faculty member, choosing from 160+ topics across science, engineering, medicine, business, social sciences and humanities. In 2026 it ran from 21 June to 15 August with about 180 students.\n\nParticipants register in a 3-credit course ('Independent Research on International Studies') and receive a transcript; they devote at least 20 hours a week to the project and join orientation, cultural activities and excursions. On-campus housing (shared rooms) is guaranteed.\n\nYou can apply as an exchange student (if nominated by a CUHK partner) or as a fee-paying student. In 2026 the online deadline was 13 February; up to 10 tuition waivers go to strong applicants, with priority for financial need."
+  },
+  "highlights": {
+   "en": [
+    "160+ research topics in every faculty",
+    "3 credits and a CUHK transcript",
+    "Up to 10 tuition waivers; guaranteed campus housing"
+   ]
+  },
+  "eligibility": {
+   "en": "Full-time senior undergraduates in good academic standing at an overseas, non-Chinese university. English proof required if your university does not teach in English. Admission is decided by CUHK host supervisors."
+  },
+  "how_to_apply": {
+   "en": [
+    "Browse the SURP research project list and choose topics.",
+    "Prepare a recent academic recommendation letter, transcript, passport copy and (if needed) English proof.",
+    "Submit the online application by the February deadline (exchange students also need home-university endorsement).",
+    "Once admitted, pay fees and apply for a Hong Kong student visa (6–8 weeks)."
+   ]
+  },
+  "costs": {
+   "en": "2026 fee-paying students: tuition HK$8,150 (~US$1,050; up to 10 waivers), administration fee HK$4,000, optional on-campus housing HK$8,800, visa HK$100–730, refundable deposits. Exchange students: tuition waived. Travel and meals extra."
+  },
+  "keywords": [
+   "research",
+   "summer",
+   "hong kong",
+   "cuhk",
+   "undergraduate research",
+   "credits",
+   "stem",
+   "internship"
+  ],
+  "url": "https://www.summer.cuhk.edu.hk/surp/",
+  "apply_url": "https://www.summer.cuhk.edu.hk/surp_app/",
+  "sources": [
+   "https://www.summer.cuhk.edu.hk/surp/",
+   "https://www.summer.cuhk.edu.hk/surp_fees/",
+   "https://www.summer.cuhk.edu.hk/surp_app/"
+  ],
+  "score": 7,
+  "score_reason": "Large, structured research programme open to any overseas university; moderate fees.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "medicine-health",
+   "social-sciences",
+   "business"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "cuhk-summer-institute-secondary-2027",
+  "section": "project",
+  "family": "summer",
+  "type": "pre-university summer programme",
+  "org": "The Chinese University of Hong Kong (CUHK)",
+  "name": {
+   "en": "CUHK Summer Institute 2027 for Secondary School Students",
+   "ka": "CUHK-ის საზაფხულო ინსტიტუტი 2027 საშუალო სკოლის მოსწავლეებისთვის",
+   "ar": "المعهد الصيفي للجامعة الصينية بهونغ كونغ 2027 لطلاب المدارس الثانوية"
+  },
+  "country": {
+   "en": "Hong Kong",
+   "ka": "ჰონკონგი",
+   "ar": "هونغ كونغ"
+  },
+  "city": "Hong Kong",
+  "iso": "HK",
+  "flag": "🇭🇰",
+  "region": "asia",
+  "lat": 22.42,
+  "lon": 114.207,
+  "cost": "paid",
+  "duration": {
+   "en": "2 weeks (July 2027)",
+   "ka": "2 კვირა (2027 ივლისი)",
+   "ar": "أسبوعان (يوليو 2027)"
+  },
+  "grades": "11",
+  "opens": "2027-03-01",
+  "deadline": "2027-04-09",
+  "deadline_note": "Estimated from 2026 (non-local early-bird/merit deadline 27 Mar, general deadline 10 Apr 2026; applications open early March).",
+  "event_dates": null,
+  "summary": {
+   "en": "A two-week residential programme where secondary students (about Grade 11 / IB DP1, 16+) take one or two university courses taught by CUHK scholars and can earn credit towards future CUHK study. Merit awards halve the fee.",
+   "ka": "ორკვირიანი პროგრამა საცხოვრებლით, სადაც საშუალო სკოლის მოსწავლეები (დაახლოებით მე-11 კლასი / IB DP1, 16+) CUHK-ის მეცნიერების ერთ ან ორ საუნივერსიტეტო კურსს გადიან და შეუძლიათ კრედიტის მიღება მომავალი სწავლისთვის. დამსახურების ჯილდო საფასურს ანახევრებს.",
+   "ar": "برنامج سكني لمدة أسبوعين يدرس فيه طلاب الثانوية (نحو الصف الحادي عشر / السنة الأولى من IB، بعمر 16+) مقررًا أو مقررين جامعيين على يد أساتذة الجامعة، مع إمكانية احتساب ساعات معتمدة للدراسة المستقبلية فيها. تخفض منح الجدارة الرسوم إلى النصف."
+  },
+  "about": {
+   "en": "The CUHK Summer Institute (SI) is a two-week summer programme for secondary school students who will apply to university the following year. Students take one or two short academic courses from 20+ options taught by 40+ CUHK scholars, join orientation and enrichment activities, and experience campus life with 350+ local and international participants.\n\nIt is open to Grade 11 (American system), Year 12 (A-level), IB DP year 1, Gaokao Senior 2, Taiwanese Senior 2 and equivalent international curricula, aged 16+ at the start. Credits can count towards future undergraduate study at CUHK (terms apply).\n\nNon-local students live on campus. Merit awards (for students recognised by gifted-education bodies or recommended by their school) halve the programme fee."
+  },
+  "highlights": {
+   "en": [
+    "University courses taught by CUHK scholars",
+    "Credits towards future CUHK study",
+    "Merit awards cut the fee by half"
+   ]
+  },
+  "eligibility": {
+   "en": "Secondary students applying to university in 2028 (e.g. Grade 11, A-level Year 12, IB DP1, or equivalent), aged 16+ when the programme starts. Any nationality."
+  },
+  "how_to_apply": {
+   "en": [
+    "Choose one or two courses from the SI course list.",
+    "Create an account in the online application system (opens early March) and upload your last two school reports.",
+    "Apply for a merit award (school recommendation) by the early-bird deadline if eligible.",
+    "Pay the HK$150 application fee within two days; accept the offer and pay fees within four days of results."
+   ]
+  },
+  "costs": {
+   "en": "2026 non-local: two courses HK$9,200 (early bird HK$8,740; merit award HK$4,600), accommodation HK$3,300, activities HK$1,600, visa HK$100–730, application fee HK$150. Flights extra."
+  },
+  "keywords": [
+   "summer school",
+   "high school",
+   "hong kong",
+   "cuhk",
+   "pre-university",
+   "university courses",
+   "ib"
+  ],
+  "url": "https://www.summer.cuhk.edu.hk/si/",
+  "apply_url": "https://www.summer.cuhk.edu.hk/si-online-application/",
+  "sources": [
+   "https://www.summer.cuhk.edu.hk/si/",
+   "https://www.summer.cuhk.edu.hk/eligibility/",
+   "https://www.summer.cuhk.edu.hk/fees/",
+   "https://www.summer.cuhk.edu.hk/si-online-application/"
+  ],
+  "score": 6,
+  "score_reason": "Strong pre-university programme for international high-schoolers with merit discounts.",
+  "premium": false,
+  "fields": [
+   "any"
+  ],
+  "verified_at": "2026-10-31"
+ },
+ {
+  "id": "unist-visiting-research-student-program",
+  "section": "project",
+  "family": "stem",
+  "type": "visiting research programme",
+  "org": "Ulsan National Institute of Science and Technology (UNIST)",
+  "name": {
+   "en": "UNIST Visiting Research Student (VRS) Program",
+   "ka": "UNIST-ის მოწვეული მკვლევარი სტუდენტის პროგრამა (VRS)",
+   "ar": "برنامج الطالب الباحث الزائر في UNIST"
+  },
+  "country": {
+   "en": "South Korea",
+   "ka": "სამხრეთ კორეა",
+   "ar": "كوريا الجنوبية"
+  },
+  "city": "Ulsan",
+  "iso": "KR",
+  "flag": "🇰🇷",
+  "region": "asia",
+  "lat": 35.573,
+  "lon": 129.19,
+  "cost": "paid",
+  "duration": {
+   "en": "Flexible (agreed with the host lab)",
+   "ka": "მოქნილი (ლაბორატორიასთან შეთანხმებით)",
+   "ar": "مرنة (بالاتفاق مع المختبر المضيف)"
+  },
+  "grades": "university",
+  "opens": null,
+  "deadline": null,
+  "deadline_note": "Rolling: apply at least 45 days before your desired research start date (official UNIST page).",
+  "event_dates": null,
+  "summary": {
+   "en": "Students from outside Korea can join a research lab at UNIST, one of Korea's top science and technology institutes, once a professor agrees to host them. Applications are rolling, 45 days before the start date.",
+   "ka": "კორეის გარეთ მყოფ სტუდენტებს შეუძლიათ UNIST-ის — კორეის ერთ-ერთი წამყვანი სამეცნიერო-ტექნოლოგიური ინსტიტუტის — ლაბორატორიაში მუშაობა, თუ პროფესორი მასპინძლობაზე თანახმაა. განაცხადი მიიღება მუდმივად, დაწყებამდე 45 დღით ადრე.",
+   "ar": "يمكن للطلاب من خارج كوريا الانضمام إلى مختبر بحثي في UNIST، أحد أبرز معاهد العلوم والتكنولوجيا في كوريا، بعد موافقة أستاذ على استضافتهم. التقديم مفتوح طوال العام قبل 45 يومًا من تاريخ البدء."
+  },
+  "about": {
+   "en": "The Visiting Research Student (VRS) Program at UNIST in Ulsan is for students from outside South Korea who want to carry out research in one of UNIST's laboratories (energy, materials, chemistry, biomedical engineering, AI, semiconductors and more).\n\nThere is no fixed intake: you contact the laboratory you want to join, obtain permission from the professor in charge, and then apply at least 45 days before your desired start date. Accepted students obtain a D-2-5 research-student visa using UNIST's documents and proof of funds (bank statement or research stipend).\n\nIt suits undergraduate, master's and PhD students who already have a potential host professor, for example for a thesis project or summer research."
+  },
+  "highlights": {
+   "en": [
+    "Year-round, flexible research stays",
+    "Work in labs at a top Korean science university",
+    "Good way to meet a future graduate supervisor"
+   ]
+  },
+  "eligibility": {
+   "en": "Students based outside South Korea who have secured permission from a UNIST professor to host them. Proof of funding (bank balance or stipend) is required for the visa."
+  },
+  "how_to_apply": {
+   "en": [
+    "Find a UNIST lab that fits your interests and email the professor.",
+    "Once the professor agrees, apply to the International Affairs Team at least 45 days before your start date.",
+    "Receive UNIST documents and apply for a D-2-5 visa at your nearest Korean mission.",
+    "Arrange health insurance and housing (on-campus guest house or off-campus)."
+   ]
+  },
+  "costs": {
+   "en": "Costs depend on the host lab (some labs offer stipends); visa fees, travel, insurance and living costs are usually your own unless the lab funds them."
+  },
+  "keywords": [
+   "research",
+   "korea",
+   "ulsan",
+   "unist",
+   "visiting student",
+   "lab",
+   "stem",
+   "rolling"
+  ],
+  "url": "https://cia.unist.ac.kr/global/inbound/applying.do",
+  "apply_url": "https://cia.unist.ac.kr/global/inbound/applying.do",
+  "sources": [
+   "https://cia.unist.ac.kr/global/inbound/applying.do",
+   "https://cia.unist.ac.kr/global/inbound/eligibility.do"
+  ],
+  "score": 5,
+  "score_reason": "Flexible year-round access to Korean labs; you must find a host yourself.",
+  "premium": false,
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "computer-science"
+  ],
+  "verified_at": "2026-10-31"
+ }
+]
