@@ -3,12 +3,13 @@
 Legend: [ ] open · [x] done and verified · [!] blocked (reason)
 
 ## Data (research agents → round6, merged with tools/merge_round5.py)
-- [ ] 2000 projects / 500 scholarships, 30% of new projects in Georgia
+- [x] 2000 projects / 500 scholarships — 2,067 / 588
+- [!] 30% of new projects in Georgia — 167 Georgian records (146 new of 1,947 new = 7.5%): most Georgian calls are on Facebook (login wall) or sites that block automated reading, and autumn calls had closed
 - [x] More exchanges + FLEX (FLEX also shown under Exchange) — exchange 85 + FLEX 32 (was 5 + 2)
-- [ ] Facebook pages as sources (Georgian MUNs/clubs) + the Facebook post the user linked — FB post: its 4 visible items already in Meridian; 4 more images need a login
+- [!] Facebook pages as sources — logged-out Facebook shows no posts; the linked post's 4 visible items were already in Meridian, 4 more images need a login
 - [x] Universities: more full profiles + other tests (GMAT, LSAT, UCAT…) — 338 full profiles (was 222)
 - [x] Prep: Georgian national exams (NAEC past papers), official materials per section, all university tests — 36 exams, 323 links
-- [ ] Georgian/Arabic for new records + the 47 English-only university profiles
+- [x] Georgian/Arabic for new records + the 47 English-only university profiles — all 2,655 programmes and 338 profiles
   - programme batches in round6/translate/in-01…in-27 (Georgia → Gulf → scholarships → rest): 01–06 running; queue 07–27
   - do NOT re-run extract_untranslated.py while translators run (it rewrites in-NN); new research after the 31 Oct merge → separate prefix
 

@@ -521,3 +521,31 @@ and it proposes the programmes worth your time and the order to apply in.
 <div align="center">
 Based in Doha, Qatar. © 2026 Meridian.
 </div>
+
+## Round 6 (31 Oct 2026)
+
+**Data:** 2,067 projects and 588 scholarships (from 543 / 165), all in English,
+Georgian and Arabic; 338 full university profiles plus every other QS 2027
+university; 1,046 university logos in `frontend/img/unis/`; 36 exams on the
+Prep page, including every published Georgian national-exam paper.
+
+**Pipeline:** research agents write `backend/data/research/round6/*.json` →
+`python3 -X utf8 tools/merge_round5.py` (adds new records; `BLOCKED` keeps
+confirmed-closed programmes out, `DUPLICATES` drops known duplicates) →
+`python3 -X utf8 tools/extract_untranslated.py 45 --new` (batches for the
+translators in `round6/translate/`) → `tools/apply_translations.py`.
+Logos: `.venv/bin/python tools/fetch_logos.py`.
+
+**Storage format:** big lists (`programs.json`, the archive) are written one
+record per line and `backend/catalog.py` loads them line by line. Loading the
+33 MB file in one go peaked at ~230 MB and restarted the 512 MB Render server.
+
+**Site:** Home / Programmes / Universities / Mentorship (Teachers + Prep) /
+Counselling / Pricing / About; language dropdown; prices in USD (Compass
+$7.99, Navigator $14.99); date of birth required at sign-up; independent
+counsellors for everyone, partner-school counsellors and posts only for that
+school's students.
+
+**Render environment (set in the dashboard, never in git):**
+`MERIDIAN_SMTP_USER` + `MERIDIAN_SMTP_PASSWORD` (Gmail address + Google app
+password) so codes reach Gmail; `ANTHROPIC_API_KEY` to switch on Meridian AI.

@@ -51,7 +51,10 @@ REQUIRED = ("id", "name", "iso", "url")
 BLOCKED = re.compile(r"john[- ]locke", re.I)
 # the same programme found by two research agents under different ids: keep the first
 DUPLICATES = {"earth-prize-2027", "lithuania-state-scholarship-masters-2027",
-              "vilnius-university-masters-tuition-waiver-2027", "york-international-masters-scholarship-2027"}
+              "vilnius-university-masters-tuition-waiver-2027", "york-international-masters-scholarship-2027",
+              # umbrella records repeating the per-university Amgen entries; ICTP closes 1 Nov 2026
+              "amgen-scholars-europe-2027", "amgen-scholars-asia-2027",
+              "ictp-spring-college-physics-complex-systems-2027"}
 
 
 def load(path, default=None):
