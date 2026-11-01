@@ -16,6 +16,7 @@ import json
 import os
 import re
 import unicodedata
+from datetime import date
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "backend", "data")
@@ -238,9 +239,23 @@ def main():
             "tier": tier(row.get("rank_qs")), "website": row.get("website") or "", "profile": "basic",
         })
 
+    # round 7 backfill: diplomas, English-taught bachelors and fields for older profiles
+    for path in sorted(glob.glob(os.path.join(RESEARCH, "round7", "backfill-*.json"))):
+        try:
+            extra = json.load(open(path, encoding="utf-8"))
+        except (OSError, ValueError):
+            continue
+        for uid, fields in (extra.items() if isinstance(extra, dict) else []):
+            if uid in full and isinstance(fields, dict):
+                for key in ("qualifications", "qualifications_note", "english_bachelors", "fields"):
+                    if fields.get(key) not in (None, "", [], {}) and not full[uid].get(key):
+                        full[uid][key] = fields[key]
     out = sorted(full.values(), key=lambda u: (u.get("rank_qs") or 99999, u["name"].get("en", "")))
     for u in out:
         enrich(u)
+        # a deadline that has passed is not shown as one (the note keeps the date)
+        if isinstance(u.get("deadline"), str) and u["deadline"][:10] < date.today().isoformat():
+            u["deadline"] = None
         # round 7 agents wrote percentages (45); the site stores fractions (0.45)
         for key in ("acceptance_rate", "intl_pct"):
             if isinstance(u.get(key), (int, float)) and u[key] > 1:

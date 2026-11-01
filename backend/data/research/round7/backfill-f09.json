@@ -1,0 +1,528 @@
+{
+ "university-of-massachusetts-amherst": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "engineering",
+   "medicine-health",
+   "business",
+   "natural-sciences"
+  ]
+ },
+ "university-of-gottingen": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "natural-sciences",
+   "mathematics",
+   "environment",
+   "humanities",
+   "law"
+  ]
+ },
+ "vanderbilt-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "economics",
+   "medicine-health",
+   "engineering",
+   "arts-design",
+   "social-sciences"
+  ]
+ },
+ "university-of-virginia": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "business",
+   "law",
+   "humanities",
+   "engineering",
+   "medicine-health"
+  ]
+ },
+ "university-of-cologne": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "economics",
+   "business",
+   "law",
+   "medicine-health",
+   "social-sciences"
+  ]
+ },
+ "dartmouth-college": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "economics",
+   "international-relations",
+   "computer-science",
+   "engineering",
+   "environment",
+   "humanities"
+  ]
+ },
+ "taylors-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "business",
+   "arts-design",
+   "computer-science",
+   "engineering",
+   "medicine-health",
+   "social-sciences"
+  ]
+ },
+ "charles-university": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Each faculty sets its own rules; foreign school certificates must be officially recognised (nostrification) and some programmes require an entrance exam, which can be taken online or abroad. English-taught bachelor's programmes exist but are limited.",
+   "ka": "თითოეული ფაკულტეტი თავად ადგენს წესებს; უცხოური სკოლის სერტიფიკატი ოფიციალურად უნდა იყოს აღიარებული (ნოსტრიფიკაცია), ზოგ პროგრამაზე კი საჭიროა მისაღები გამოცდა, რომლის ჩაბარებაც შესაძლებელია ონლაინ ან საზღვარგარეთ. ინგლისურენოვანი ბაკალავრიატი არსებობს, თუმცა შეზღუდული რაოდენობით.",
+   "ar": "تضع كل كلية شروطها الخاصة؛ يجب الاعتراف رسميًا بالشهادة المدرسية الأجنبية (معادلة)، وتشترط بعض البرامج امتحان قبول يمكن أداؤه عبر الإنترنت أو في الخارج. تتوفر برامج بكالوريوس بالإنجليزية لكنها محدودة."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "mathematics",
+   "law",
+   "humanities"
+  ]
+ },
+ "university-of-sussex": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Economics BSc: A levels ABB–BBB, IB 32 points; US applicants ideally need three good AP scores plus SAT 1300 or ACT 26, while a US diploma with only SAT/ACT is directed to a foundation year. Requirements for Georgian or Qatari diplomas are listed per country on course pages.",
+   "ka": "Economics BSc: A-level ABB–BBB, IB 32 ქულა; აშშ-ის განმცხადებლებს იდეალურად სჭირდებათ სამი კარგი AP შედეგი და SAT 1300 ან ACT 26, ხოლო მხოლოდ SAT/ACT-ის მქონე დიპლომის შემთხვევაში შეიძლება ფაუნდეიშენ წელი შეეთავაზოთ. ეროვნული დიპლომების მოთხოვნები ქვეყნების მიხედვით კურსის გვერდებზეა.",
+   "ar": "بكالوريوس الاقتصاد: A-level بتقدير ABB–BBB وIB بـ 32 نقطة؛ يُفضَّل لطلاب أمريكا ثلاث درجات AP جيدة مع SAT 1300 أو ACT 26، أما من لديه شهادة ثانوية أمريكية مع SAT/ACT فقط فيُوجَّه غالبًا إلى سنة تأسيسية. تُذكر متطلبات الشهادات الوطنية لكل بلد في صفحات المقررات."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "social-sciences",
+   "international-relations",
+   "economics",
+   "arts-design",
+   "natural-sciences"
+  ]
+ },
+ "university-of-antwerp": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "economics",
+   "social-sciences",
+   "medicine-health",
+   "natural-sciences",
+   "law",
+   "engineering"
+  ]
+ },
+ "university-of-pittsburgh": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "medicine-health",
+   "humanities",
+   "engineering"
+  ]
+ },
+ "radboud-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "natural-sciences",
+   "social-sciences",
+   "medicine-health",
+   "law",
+   "humanities",
+   "computer-science"
+  ]
+ },
+ "afg-college-university-of-aberdeen": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "business",
+   "law",
+   "international-relations",
+   "computer-science",
+   "medicine-health"
+  ]
+ },
+ "georgetown-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "international-relations",
+   "business",
+   "law",
+   "medicine-health",
+   "humanities"
+  ]
+ },
+ "barzan-university-college-swinburne": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "business",
+   "engineering"
+  ]
+ },
+ "university-of-waikato": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "A levels: 6 points from three subjects; IB Diploma: at least 24 points; US high school diploma: GPA 2.5 in Grade 12. Other national diplomas are not listed (contact the International Office); NCUK or Waikato foundation programmes are alternative pathways.",
+   "ka": "A-level: სამი საგნიდან მინიმუმ 6 ქულა; IB დიპლომი: მინიმუმ 24 ქულა; აშშ-ის საშუალო სკოლის დიპლომი: მე-12 კლასის GPA 2.5. სხვა ეროვნული დიპლომები გვერდზე არ არის მითითებული (დაუკავშირდით საერთაშორისო ოფისს); ალტერნატივაა NCUK ან Waikato-ს ფაუნდეიშენ პროგრამა.",
+   "ar": "A-level: 6 نقاط من ثلاث مواد؛ دبلوم IB: 24 نقطة على الأقل؛ الثانوية الأمريكية: معدل 2.5 في الصف الثاني عشر. لم تُذكر الشهادات الوطنية الأخرى (يُرجى مراسلة مكتب الطلبة الدوليين)، ويمكن الالتحاق عبر برنامج NCUK أو برنامج التأسيس في الجامعة."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "business",
+   "natural-sciences",
+   "environment",
+   "education"
+  ]
+ },
+ "vrije-universiteit-brussel-vub": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "social-sciences",
+   "economics",
+   "business",
+   "engineering",
+   "medicine-health",
+   "law"
+  ]
+ },
+ "xian-jiaotong-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "business"
+  ]
+ },
+ "dalhousie-university": {
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Georgian, Qatari, Emirati, Saudi, Kuwaiti, Egyptian and Turkish secondary certificates are listed as equivalent entry qualifications; A levels need two A-level courses plus five GCSE/O-level subjects, and accredited US high school diplomas are accepted. Admission still depends on subjects and grades.",
+   "ka": "საქართველოს, ყატარის, საემიროების, საუდის არაბეთის, კუვეიტის, ეგვიპტისა და თურქეთის საშუალო სკოლის ატესტატები ჩამოთვლილია ეკვივალენტურ საშვებ კვალიფიკაციად; A-level-ისთვის საჭიროა ორი A-level საგანი და ხუთი GCSE/O-level საგანი, აკრედიტებული აშშ-ის დიპლომიც მიიღება. მიღება მაინც დამოკიდებულია საგნებსა და ნიშნებზე.",
+   "ar": "تُدرج شهادات الثانوية العامة في جورجيا وقطر والإمارات والسعودية والكويت ومصر وتركيا ضمن المؤهلات المعادلة؛ وتتطلب شهادة A-level مادتين من مستوى A إضافة إلى خمس مواد GCSE/O-level، كما تُقبل شهادة الثانوية الأمريكية المعتمدة. ويبقى القبول مرهونًا بالمواد والدرجات."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "natural-sciences",
+   "medicine-health",
+   "engineering",
+   "law",
+   "arts-design"
+  ]
+ },
+ "ulsan-national-institute-of-science-and-technology-unist": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "computer-science"
+  ]
+ },
+ "sichuan-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences",
+   "humanities",
+   "mathematics"
+  ]
+ },
+ "university-of-notre-dame": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Accepts the IB Diploma, A levels (at least three subjects) and the French Baccalauréat, whose predicted results can replace SAT/ACT; SAT/ACT is optional for 2026–27 entry but required from the 2027–28 cycle. US and other national diplomas are not discussed on the page.",
+   "ka": "მიიღება IB დიპლომი, A-level (მინიმუმ სამი საგანი) და ფრანგული ბაკალავრეატი, რომელთა სავარაუდო შედეგებმაც შეიძლება SAT/ACT ჩაანაცვლოს; 2026–27 წლის მიღებისთვის SAT/ACT არჩევითია, ხოლო 2027–28 ციკლიდან სავალდებულო იქნება. აშშ-ისა და სხვა ეროვნული დიპლომები გვერდზე არ არის განხილული.",
+   "ar": "تُقبل شهادة IB وA-level (ثلاث مواد على الأقل) والبكالوريا الفرنسية، ويمكن أن تحل نتائجها المتوقعة محل SAT/ACT؛ والاختبار اختياري لقبول 2026–27 ويصبح مطلوبًا بدءًا من دورة 2027–28. لا تتناول الصفحة الشهادات الوطنية الأخرى أو الأمريكية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "business",
+   "economics",
+   "international-relations",
+   "engineering",
+   "medicine-health",
+   "humanities"
+  ]
+ },
+ "xiamen-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "economics",
+   "business",
+   "natural-sciences",
+   "humanities",
+   "languages"
+  ]
+ },
+ "middle-east-technical-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "arts-design",
+   "economics"
+  ]
+ },
+ "sultan-qaboos-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "environment",
+   "natural-sciences",
+   "business",
+   "education"
+  ]
+ },
+ "huazhong-university-of-science-and-technology": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "computer-science"
+  ]
+ },
+ "linkoping-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "computer-science",
+   "education"
+  ]
+ },
+ "kyung-hee-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "business",
+   "medicine-health",
+   "international-relations",
+   "arts-design",
+   "natural-sciences"
+  ]
+ },
+ "shandong-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "mathematics",
+   "natural-sciences",
+   "medicine-health",
+   "humanities",
+   "engineering"
+  ]
+ },
+ "simon-fraser-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "natural-sciences",
+   "business",
+   "social-sciences",
+   "law",
+   "medicine-health"
+  ]
+ }
+}

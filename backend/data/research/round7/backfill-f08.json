@@ -1,0 +1,609 @@
+{
+ "hong-kong-baptist-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "US-pattern applicants need SAT 1190 or above (new SAT) or AP grade 3 in two subjects; A levels and the IB Diploma are accepted, with English proof (TOEFL iBT 79, IELTS 6.0 or SAT EBRW 590).",
+   "ka": "ამერიკული სისტემის აპლიკანტებს სჭირდებათ SAT 1190 ან მეტი (ახალი SAT) ან AP 3 ორ საგანში; A-level და IB მიიღება, ინგლისურის დადასტურებით (TOEFL iBT 79, IELTS 6.0 ან SAT EBRW 590).",
+   "ar": "يحتاج المتقدمون بنظام الثانوية الأمريكية إلى SAT بمجموع 1190 فأكثر (SAT الجديد) أو درجة 3 في AP في مادتين؛ وتُقبل شهادات A-level وIB مع إثبات الإنجليزية (TOEFL iBT 79 أو IELTS 6.0 أو SAT EBRW 590)."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "social-sciences",
+   "arts-design",
+   "medicine-health",
+   "business",
+   "computer-science"
+  ]
+ },
+ "united-arab-emirates-university": {
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "International applicants need a Grade 12 average of 90% (health, engineering, computing/AI, science, agriculture/veterinary) or 85% (business, humanities, education, law), plus 90% in Grade 12 English or IELTS 5.5 / TOEFL iBT 70; applicants must be 35 or younger.",
+   "ka": "უცხოელ აპლიკანტებს სჭირდებათ მე-12 კლასის საშუალო 90% (ჯანდაცვა, ინჟინერია, კომპიუტინგი/AI, მეცნიერება, სოფლის მეურნეობა/ვეტერინარია) ან 85% (ბიზნესი, ჰუმანიტარული, განათლება, სამართალი) და მე-12 კლასის ინგლისურში 90% ან IELTS 5.5 / TOEFL iBT 70; აპლიკანტი არ უნდა იყოს 35 წელზე უფროსი.",
+   "ar": "يحتاج المتقدمون الدوليون إلى معدل 90% في الصف الثاني عشر (الصحة والهندسة والحوسبة/الذكاء الاصطناعي والعلوم والزراعة/الطب البيطري) أو 85% (الأعمال والإنسانيات والتربية والقانون)، مع 90% في اللغة الإنجليزية للصف الثاني عشر أو IELTS 5.5 / TOEFL iBT 70؛ ويجب ألا يتجاوز عمر المتقدم 35 عاماً."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "computer-science",
+   "business",
+   "law"
+  ]
+ },
+ "friedrich-alexander-universitat-erlangen-nurnberg": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "German-taught degrees need German at C1 (DSH-2, TestDaF or equivalent). The IB Diploma gives direct access; national diplomas and US high school diplomas that do not give direct access in Germany need a Studienkolleg and its assessment test first.",
+   "ka": "გერმანულენოვან პროგრამებზე საჭიროა გერმანული C1 დონეზე (DSH-2, TestDaF ან ექვივალენტი). IB დიპლომი პირდაპირ წვდომას იძლევა; ეროვნული და ამერიკული საშუალო სკოლის დიპლომები, რომლებიც გერმანიაში პირდაპირ წვდომას არ იძლევა, მოითხოვს Studienkolleg-ს და მის შემფასებელ გამოცდას.",
+   "ar": "تتطلب البرامج المدرَّسة بالألمانية مستوى C1 (DSH-2 أو TestDaF أو ما يعادلهما). يمنح دبلوم IB قبولاً مباشراً، أما الشهادات الوطنية والدبلوم الأمريكي الذي لا يمنح وصولاً مباشراً في ألمانيا فيتطلبان Studienkolleg واختبار التقييم الخاص به."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "natural-sciences",
+   "economics",
+   "computer-science"
+  ]
+ },
+ "university-college-cork": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A-level grades and IB points are published per programme and updated each year; US diploma applicants usually need AP/SAT results.",
+   "ka": "A-level ნიშნები და IB ქულები ქვეყნდება თითოეული პროგრამისთვის და ყოველწლიურად განახლდება; ამერიკული დიპლომის მქონეთ, როგორც წესი, AP/SAT შედეგები სჭირდებათ.",
+   "ar": "تُنشر درجات A-level ونقاط IB لكل برنامج وتُحدَّث سنوياً؛ ويحتاج حاملو الدبلوم الأمريكي عادةً إلى نتائج AP/SAT."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "medicine-health",
+   "law",
+   "business",
+   "natural-sciences",
+   "computer-science"
+  ]
+ },
+ "indian-institute-of-science-iisc-bangalore": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Whatever the school diploma, admission to the B.S. (Research) and B.Tech (Mathematics and Computing) is by national entrance-exam rank (JEE Main/Advanced, IISER Aptitude Test or NEET, as specified each year); teaching is in English.",
+   "ka": "სკოლის დიპლომის მიუხედავად, B.S. (Research) და B.Tech (Mathematics and Computing) პროგრამებზე მიღება ხდება ეროვნული შესავალი გამოცდის რანგით (JEE Main/Advanced, IISER Aptitude Test ან NEET, ყოველწლიური განცხადების მიხედვით); სწავლება ინგლისურია.",
+   "ar": "أياً كانت شهادة الثانوية، يتم القبول في B.S. (Research) وB.Tech (Mathematics and Computing) حسب ترتيب امتحان القبول الوطني (JEE Main/Advanced أو IISER Aptitude Test أو NEET حسب ما يُعلن كل عام)؛ والتدريس بالإنجليزية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "natural-sciences",
+   "mathematics",
+   "engineering"
+  ]
+ },
+ "indian-institute-of-technology-kanpur-iitk": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Whatever the school diploma, entry is through JEE (Advanced): foreign nationals may register for it directly without JEE (Main) and compete for supernumerary foreign-national seats; teaching is in English.",
+   "ka": "სკოლის დიპლომის მიუხედავად, მიღება JEE (Advanced)-ით ხდება: უცხო ქვეყნის მოქალაქეებს შეუძლიათ უშუალოდ დარეგისტრირდნენ JEE (Main)-ის გარეშე და ეჯიბრებიან საგანგებო (supernumerary) სავარძლებს; სწავლება ინგლისურია.",
+   "ar": "أياً كانت شهادة الثانوية، يتم القبول عبر JEE (Advanced): يمكن للأجانب التسجيل فيه مباشرة دون JEE (Main) والمنافسة على مقاعد إضافية مخصصة للأجانب؛ والتدريس بالإنجليزية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "engineering",
+   "mathematics",
+   "natural-sciences",
+   "economics"
+  ]
+ },
+ "american-university-of-beirut": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "SAT or ACT is required for most applicants; A levels, the IB Diploma and US diplomas are accepted, and English proficiency (TOEFL/IELTS) is checked under AUB's English requirements.",
+   "ka": "უმეტეს აპლიკანტს მოეთხოვება SAT ან ACT; მიიღება A-level, IB და ამერიკული დიპლომები, ხოლო ინგლისურის ცოდნა მოწმდება AUB-ის ინგლისურის მოთხოვნებით (TOEFL/IELTS).",
+   "ar": "يُشترط SAT أو ACT لمعظم المتقدمين؛ وتُقبل شهادات A-level وIB والدبلوم الأمريكي، ويُتحقق من إتقان الإنجليزية (TOEFL/IELTS) وفق متطلبات AUB."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business",
+   "social-sciences",
+   "arts-design",
+   "environment"
+  ]
+ },
+ "university-of-twente": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A diploma equivalent to Dutch VWO with the programme's required subjects (usually maths) is needed: A levels and the IB Diploma generally qualify, while national diplomas and US high school diplomas often need extra AP results, a foundation year or university study first.",
+   "ka": "საჭიროა ჰოლანდიური VWO-ს ექვივალენტური დიპლომი პროგრამის სავალდებულო საგნებით (ჩვეულებრივ მათემატიკა): A-level და IB, როგორც წესი, აკმაყოფილებს მოთხოვნას, ხოლო ეროვნული და ამერიკული დიპლომები ხშირად მოითხოვს დამატებით AP შედეგებს, საფუძვლის (foundation) წელს ან წინასწარ უნივერსიტეტულ სწავლას.",
+   "ar": "يلزم دبلوم معادل لـ VWO الهولندي مع المواد التي يشترطها البرنامج (عادةً الرياضيات): تفي شهادات A-level وIB بالمتطلبات عموماً، أما الشهادات الوطنية والدبلوم الأمريكي فتحتاج غالباً إلى نتائج AP إضافية أو سنة تأسيسية أو دراسة جامعية سابقة."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "arts-design",
+   "medicine-health",
+   "social-sciences"
+  ]
+ },
+ "university-of-gothenburg": {
+  "qualifications": null,
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "environment",
+   "medicine-health",
+   "social-sciences",
+   "business",
+   "arts-design"
+  ]
+ },
+ "university-of-florida": {
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "No preferred curriculum: A levels, IB, national school diplomas and US diplomas are all assessed in context, and SAT or ACT is required.",
+   "ka": "სასურველი სასწავლო გეგმა არ არსებობს: A-level, IB, ეროვნული და ამერიკული დიპლომები კონტექსტში ფასდება, თუმცა სავალდებულოა SAT ან ACT.",
+   "ar": "لا يوجد منهج مفضَّل: تُقيَّم شهادات A-level وIB والشهادات الوطنية والدبلوم الأمريكي في سياقها، مع اشتراط SAT أو ACT."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "business",
+   "environment",
+   "medicine-health",
+   "social-sciences",
+   "computer-science"
+  ]
+ },
+ "university-of-ottawa": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "A levels, the IB Diploma and US high school diplomas are accepted with the programme's prerequisite subjects, SAT/ACT is not required, and other national diplomas are assessed case by case.",
+   "ka": "A-level, IB და ამერიკული საშუალო სკოლის დიპლომები მიიღება პროგრამის წინაპირობა საგნებით, SAT/ACT სავალდებულო არ არის, ხოლო სხვა ეროვნული დიპლომები ინდივიდუალურად ფასდება.",
+   "ar": "تُقبل شهادات A-level وIB والدبلوم الأمريكي مع المواد التمهيدية للبرنامج، ولا يُشترط SAT/ACT، وتُقيَّم الشهادات الوطنية الأخرى كل حالة على حدة."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "law",
+   "medicine-health",
+   "engineering",
+   "computer-science",
+   "social-sciences",
+   "languages"
+  ]
+ },
+ "university-of-strathclyde": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A levels: ABB–BBB for Economics; IB 32–30 with no subject below 5; US diploma applicants usually need AP/SAT results; national diplomas generally need a foundation year.",
+   "ka": "A-level: ABB–BBB for Economics; IB 32–30 with no subject below 5; ამერიკული დიპლომის მქონეთ, როგორც წესი, AP/SAT შედეგები სჭირდებათ; ეროვნული დიპლომები ძირითადად მოითხოვს საფუძვლის (foundation) წელს.",
+   "ar": "A-level: ABB–BBB for Economics؛ IB 32–30 with no subject below 5؛ يحتاج حاملو الدبلوم الأمريكي عادةً إلى نتائج AP/SAT؛ وتتطلب الشهادات الوطنية في الغالب سنة تأسيسية (Foundation)."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "business",
+   "economics",
+   "medicine-health",
+   "law",
+   "computer-science"
+  ]
+ },
+ "eberhard-karls-universitat-tubingen": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "German-taught degrees need German at C1 (DSH-2, TestDaF or equivalent). The IB Diploma gives direct access; national diplomas and US high school diplomas that do not give direct access in Germany need a Studienkolleg and its assessment test first.",
+   "ka": "გერმანულენოვან პროგრამებზე საჭიროა გერმანული C1 დონეზე (DSH-2, TestDaF ან ექვივალენტი). IB დიპლომი პირდაპირ წვდომას იძლევა; ეროვნული და ამერიკული საშუალო სკოლის დიპლომები, რომლებიც გერმანიაში პირდაპირ წვდომას არ იძლევა, მოითხოვს Studienkolleg-ს და მის შემფასებელ გამოცდას.",
+   "ar": "تتطلب البرامج المدرَّسة بالألمانية مستوى C1 (DSH-2 أو TestDaF أو ما يعادلهما). يمنح دبلوم IB قبولاً مباشراً، أما الشهادات الوطنية والدبلوم الأمريكي الذي لا يمنح وصولاً مباشراً في ألمانيا فيتطلبان Studienkolleg واختبار التقييم الخاص به."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "computer-science",
+   "natural-sciences",
+   "humanities",
+   "medicine-health"
+  ]
+ },
+ "university-of-lausanne": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Foreign certificates must meet the Swiss recognition criteria: the IB Diploma is accepted under specific rules, while A levels, national diplomas and US high school diplomas may need extra steps such as an entrance exam or prior university study. Teaching is in French, so French proficiency is required.",
+   "ka": "უცხოური საატესტატო დოკუმენტები უნდა აკმაყოფილებდეს შვეიცარიის აღიარების კრიტერიუმებს: IB დიპლომი განსაკუთრებული წესებით მიიღება, ხოლო A-level, ეროვნული და ამერიკული დიპლომები შესაძლოა დამატებით ნაბიჯებს მოითხოვდეს, მაგალითად, შესავალ გამოცდას ან წინასწარ უნივერსიტეტულ სწავლას. სწავლება ფრანგულია, ამიტომ საჭიროა ფრანგულის ცოდნა.",
+   "ar": "يجب أن تستوفي الشهادات الأجنبية معايير الاعتراف السويسرية: يُقبل دبلوم IB وفق قواعد خاصة، بينما قد تتطلب شهادات A-level والشهادات الوطنية والدبلوم الأمريكي خطوات إضافية مثل امتحان القبول أو دراسة جامعية سابقة. التدريس بالفرنسية، لذا يُشترط إتقان اللغة الفرنسية."
+  },
+  "english_bachelors": "none",
+  "fields": [
+   "business",
+   "medicine-health",
+   "environment",
+   "social-sciences",
+   "law"
+  ]
+ },
+ "tianjin-university": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Senior-high results from A levels, IB, national or US diplomas are all considered, but every international applicant must also take the CSCA exam; Chinese-taught degrees need HSK (usually level 4+) and English-taught ones TOEFL/IELTS.",
+   "ka": "A-level, IB, ეროვნული ან ამერიკული დიპლომით მიღებული საშუალო სკოლის შედეგები განიხილება, თუმცა ყველა უცხოელმა აპლიკანტმა უნდა ჩააბაროს CSCA; ჩინურენოვან პროგრამებზე საჭიროა HSK (ჩვეულებრივ 4+ დონე), ინგლისურენოვანზე კი TOEFL/IELTS.",
+   "ar": "تُؤخذ نتائج الثانوية من A-level وIB والشهادات الوطنية أو الأمريكية في الاعتبار، لكن على جميع المتقدمين الدوليين اجتياز اختبار CSCA؛ وتتطلب البرامج بالصينية HSK (عادةً المستوى 4 فأكثر) والبرامج بالإنجليزية TOEFL/IELTS."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "arts-design"
+  ]
+ },
+ "beijing-normal-university": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Senior-high results from A levels, IB, national or US diplomas are all considered, but every international applicant must also take the CSCA exam; Chinese-taught degrees need HSK (usually level 4+) and English-taught ones TOEFL/IELTS.",
+   "ka": "A-level, IB, ეროვნული ან ამერიკული დიპლომით მიღებული საშუალო სკოლის შედეგები განიხილება, თუმცა ყველა უცხოელმა აპლიკანტმა უნდა ჩააბაროს CSCA; ჩინურენოვან პროგრამებზე საჭიროა HSK (ჩვეულებრივ 4+ დონე), ინგლისურენოვანზე კი TOEFL/IELTS.",
+   "ar": "تُؤخذ نتائج الثانوية من A-level وIB والشهادات الوطنية أو الأمريكية في الاعتبار، لكن على جميع المتقدمين الدوليين اجتياز اختبار CSCA؛ وتتطلب البرامج بالصينية HSK (عادةً المستوى 4 فأكثر) والبرامج بالإنجليزية TOEFL/IELTS."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "education",
+   "social-sciences",
+   "humanities",
+   "environment",
+   "languages"
+  ]
+ },
+ "victoria-university-of-wellington": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A levels and the IB Diploma are accepted against course requirements; US diploma applicants may need SAT/AP results, and national diplomas often need a foundation or pathway year.",
+   "ka": "A-level და IB მიიღება კურსის მოთხოვნების მიხედვით; ამერიკული დიპლომის მქონეთ შეიძლება დასჭირდეთ SAT/AP შედეგები, ეროვნული დიპლომები კი ხშირად მოითხოვს საფუძვლის (foundation) ან სამოსამზადებლო წელს.",
+   "ar": "تُقبل شهادات A-level وIB وفق متطلبات المقرر؛ وقد يحتاج حاملو الدبلوم الأمريكي إلى نتائج SAT/AP، وتتطلب الشهادات الوطنية غالباً سنة تأسيسية أو تحضيرية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "law",
+   "social-sciences",
+   "arts-design",
+   "natural-sciences",
+   "computer-science"
+  ]
+ },
+ "beijing-institute-of-technology": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Senior-high results from A levels, IB, national or US diplomas are all considered, but every international applicant must also take the CSCA exam; Chinese-taught degrees need HSK (usually level 4+) and English-taught ones TOEFL/IELTS.",
+   "ka": "A-level, IB, ეროვნული ან ამერიკული დიპლომით მიღებული საშუალო სკოლის შედეგები განიხილება, თუმცა ყველა უცხოელმა აპლიკანტმა უნდა ჩააბაროს CSCA; ჩინურენოვან პროგრამებზე საჭიროა HSK (ჩვეულებრივ 4+ დონე), ინგლისურენოვანზე კი TOEFL/IELTS.",
+   "ar": "تُؤخذ نتائج الثانوية من A-level وIB والشهادات الوطنية أو الأمريكية في الاعتبار، لكن على جميع المتقدمين الدوليين اجتياز اختبار CSCA؛ وتتطلب البرامج بالصينية HSK (عادةً المستوى 4 فأكثر) والبرامج بالإنجليزية TOEFL/IELTS."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "computer-science"
+  ]
+ },
+ "albert-ludwigs-universitaet-freiburg": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "German-taught degrees need German at C1 (DSH-2, TestDaF or equivalent). The IB Diploma gives direct access; national diplomas and US high school diplomas that do not give direct access in Germany need a Studienkolleg and its assessment test first.",
+   "ka": "გერმანულენოვან პროგრამებზე საჭიროა გერმანული C1 დონეზე (DSH-2, TestDaF ან ექვივალენტი). IB დიპლომი პირდაპირ წვდომას იძლევა; ეროვნული და ამერიკული საშუალო სკოლის დიპლომები, რომლებიც გერმანიაში პირდაპირ წვდომას არ იძლევა, მოითხოვს Studienkolleg-ს და მის შემფასებელ გამოცდას.",
+   "ar": "تتطلب البرامج المدرَّسة بالألمانية مستوى C1 (DSH-2 أو TestDaF أو ما يعادلهما). يمنح دبلوم IB قبولاً مباشراً، أما الشهادات الوطنية والدبلوم الأمريكي الذي لا يمنح وصولاً مباشراً في ألمانيا فيتطلبان Studienkolleg واختبار التقييم الخاص به."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "medicine-health",
+   "humanities",
+   "environment",
+   "engineering",
+   "natural-sciences"
+  ]
+ },
+ "university-of-surrey": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A levels: AAB for Economics (ABB with A-level Maths/Economics); IB 34 (33 with HL Maths/Economics); US diploma applicants usually need AP/SAT results; national diplomas generally need a foundation year.",
+   "ka": "A-level: AAB for Economics (ABB with A-level Maths/Economics); IB 34 (33 with HL Maths/Economics); ამერიკული დიპლომის მქონეთ, როგორც წესი, AP/SAT შედეგები სჭირდებათ; ეროვნული დიპლომები ძირითადად მოითხოვს საფუძვლის (foundation) წელს.",
+   "ar": "A-level: AAB for Economics (ABB with A-level Maths/Economics)؛ IB 34 (33 with HL Maths/Economics)؛ يحتاج حاملو الدبلوم الأمريكي عادةً إلى نتائج AP/SAT؛ وتتطلب الشهادات الوطنية في الغالب سنة تأسيسية (Foundation)."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "business",
+   "engineering",
+   "economics",
+   "medicine-health",
+   "arts-design"
+  ]
+ },
+ "university-of-calgary": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "A levels, the IB Diploma and US high school diplomas are accepted with the programme's prerequisite subjects, SAT/ACT is not required, and other national diplomas are assessed case by case.",
+   "ka": "A-level, IB და ამერიკული საშუალო სკოლის დიპლომები მიიღება პროგრამის წინაპირობა საგნებით, SAT/ACT სავალდებულო არ არის, ხოლო სხვა ეროვნული დიპლომები ინდივიდუალურად ფასდება.",
+   "ar": "تُقبل شهادات A-level وIB والدبلوم الأمريكي مع المواد التمهيدية للبرنامج، ولا يُشترط SAT/ACT، وتُقيَّم الشهادات الوطنية الأخرى كل حالة على حدة."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "business",
+   "environment",
+   "medicine-health",
+   "computer-science"
+  ]
+ },
+ "technical-university-of-darmstadt": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "German-taught degrees need German at C1 (DSH-2, TestDaF or equivalent). The IB Diploma gives direct access; national diplomas and US high school diplomas that do not give direct access in Germany need a Studienkolleg and its assessment test first.",
+   "ka": "გერმანულენოვან პროგრამებზე საჭიროა გერმანული C1 დონეზე (DSH-2, TestDaF ან ექვივალენტი). IB დიპლომი პირდაპირ წვდომას იძლევა; ეროვნული და ამერიკული საშუალო სკოლის დიპლომები, რომლებიც გერმანიაში პირდაპირ წვდომას არ იძლევა, მოითხოვს Studienkolleg-ს და მის შემფასებელ გამოცდას.",
+   "ar": "تتطلب البرامج المدرَّسة بالألمانية مستوى C1 (DSH-2 أو TestDaF أو ما يعادلهما). يمنح دبلوم IB قبولاً مباشراً، أما الشهادات الوطنية والدبلوم الأمريكي الذي لا يمنح وصولاً مباشراً في ألمانيا فيتطلبان Studienkolleg واختبار التقييم الخاص به."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "arts-design",
+   "natural-sciences"
+  ]
+ },
+ "university-of-rochester": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "No preferred curriculum: A levels, IB, national school diplomas and US diplomas are all assessed in context, and SAT/ACT is optional.",
+   "ka": "სასურველი სასწავლო გეგმა არ არსებობს: A-level, IB, ეროვნული და ამერიკული დიპლომები კონტექსტში ფასდება; SAT/ACT არჩევითია.",
+   "ar": "لا يوجد منهج مفضَّل: تُقيَّم شهادات A-level وIB والشهادات الوطنية والدبلوم الأمريكي في سياقها؛ واختبار SAT/ACT اختياري."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "natural-sciences",
+   "arts-design",
+   "engineering",
+   "economics",
+   "social-sciences",
+   "medicine-health"
+  ]
+ },
+ "uc-irvine": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "No preferred curriculum: A levels, IB, national school diplomas and US diplomas are all assessed in context, and SAT/ACT scores are not considered.",
+   "ka": "სასურველი სასწავლო გეგმა არ არსებობს: A-level, IB, ეროვნული და ამერიკული დიპლომები კონტექსტში ფასდება; SAT/ACT ქულები არ განიხილება.",
+   "ar": "لا يوجد منهج مفضَّل: تُقيَّم شهادات A-level وIB والشهادات الوطنية والدبلوم الأمريكي في سياقها؛ ولا تُؤخذ درجات SAT/ACT في الاعتبار."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "natural-sciences",
+   "business",
+   "medicine-health",
+   "social-sciences",
+   "engineering"
+  ]
+ },
+ "university-of-maryland-college-park": {
+  "qualifications": null,
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "engineering",
+   "business",
+   "social-sciences",
+   "law"
+  ]
+ },
+ "maastricht-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A diploma equivalent to Dutch VWO with the programme's required subjects (usually maths) is needed: A levels and the IB Diploma generally qualify, while national diplomas and US high school diplomas often need extra AP results, a foundation year or university study first.",
+   "ka": "საჭიროა ჰოლანდიური VWO-ს ექვივალენტური დიპლომი პროგრამის სავალდებულო საგნებით (ჩვეულებრივ მათემატიკა): A-level და IB, როგორც წესი, აკმაყოფილებს მოთხოვნას, ხოლო ეროვნული და ამერიკული დიპლომები ხშირად მოითხოვს დამატებით AP შედეგებს, საფუძვლის (foundation) წელს ან წინასწარ უნივერსიტეტულ სწავლას.",
+   "ar": "يلزم دبلوم معادل لـ VWO الهولندي مع المواد التي يشترطها البرنامج (عادةً الرياضيات): تفي شهادات A-level وIB بالمتطلبات عموماً، أما الشهادات الوطنية والدبلوم الأمريكي فتحتاج غالباً إلى نتائج AP إضافية أو سنة تأسيسية أو دراسة جامعية سابقة."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "business",
+   "law",
+   "medicine-health",
+   "social-sciences"
+  ]
+ },
+ "university-of-minnesota-system": {
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "No preferred curriculum: A levels, IB, national school diplomas and US diplomas are all assessed in context, and SAT/ACT is optional.",
+   "ka": "სასურველი სასწავლო გეგმა არ არსებობს: A-level, IB, ეროვნული და ამერიკული დიპლომები კონტექსტში ფასდება; SAT/ACT არჩევითია.",
+   "ar": "لا يوجد منهج مفضَّل: تُقيَّم شهادات A-level وIB والشهادات الوطنية والدبلوم الأمريكي في سياقها؛ واختبار SAT/ACT اختياري."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "social-sciences",
+   "business",
+   "medicine-health",
+   "environment"
+  ]
+ },
+ "university-of-canterbury-te-whare-wananga-o-waitaha": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A levels and the IB Diploma are accepted against course requirements; US diploma applicants may need SAT/AP results, and national diplomas often need a foundation or pathway year.",
+   "ka": "A-level და IB მიიღება კურსის მოთხოვნების მიხედვით; ამერიკული დიპლომის მქონეთ შეიძლება დასჭირდეთ SAT/AP შედეგები, ეროვნული დიპლომები კი ხშირად მოითხოვს საფუძვლის (foundation) ან სამოსამზადებლო წელს.",
+   "ar": "تُقبل شهادات A-level وIB وفق متطلبات المقرر؛ وقد يحتاج حاملو الدبلوم الأمريكي إلى نتائج SAT/AP، وتتطلب الشهادات الوطنية غالباً سنة تأسيسية أو تحضيرية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "environment",
+   "computer-science"
+  ]
+ },
+ "american-university-of-sharjah": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Maths placement uses EmSAT, SAT/ACT or AUS placement tests for some programmes; A levels, the IB Diploma and US diplomas are accepted, and national diplomas are assessed with placement results.",
+   "ka": "ზოგ პროგრამაზე მათემატიკის დონის განსაზღვრა ხდება EmSAT-ით, SAT/ACT-ით ან AUS-ის განმსაზღვრელი ტესტებით; მიიღება A-level, IB და ამერიკული დიპლომები, ხოლო ეროვნული დიპლომები ფასდება განმსაზღვრელი ტესტის შედეგებთან ერთად.",
+   "ar": "يُحدَّد مستوى الرياضيات في بعض البرامج عبر EmSAT أو SAT/ACT أو اختبارات تحديد المستوى في AUS؛ وتُقبل شهادات A-level وIB والدبلوم الأمريكي، وتُقيَّم الشهادات الوطنية مع نتائج تحديد المستوى."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "arts-design",
+   "business",
+   "social-sciences",
+   "computer-science"
+  ]
+ },
+ "sun-yat-sen-university": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Senior-high results from A levels, IB, national or US diplomas are all considered, but every international applicant must also take the CSCA exam; Chinese-taught degrees need HSK (usually level 4+) and English-taught ones TOEFL/IELTS.",
+   "ka": "A-level, IB, ეროვნული ან ამერიკული დიპლომით მიღებული საშუალო სკოლის შედეგები განიხილება, თუმცა ყველა უცხოელმა აპლიკანტმა უნდა ჩააბაროს CSCA; ჩინურენოვან პროგრამებზე საჭიროა HSK (ჩვეულებრივ 4+ დონე), ინგლისურენოვანზე კი TOEFL/IELTS.",
+   "ar": "تُؤخذ نتائج الثانوية من A-level وIB والشهادات الوطنية أو الأمريكية في الاعتبار، لكن على جميع المتقدمين الدوليين اجتياز اختبار CSCA؛ وتتطلب البرامج بالصينية HSK (عادةً المستوى 4 فأكثر) والبرامج بالإنجليزية TOEFL/IELTS."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "medicine-health",
+   "business",
+   "natural-sciences",
+   "social-sciences"
+  ]
+ }
+}

@@ -1,0 +1,1919 @@
+[
+ {
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": null,
+   "note": null
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "missouri-university-of-science-and-technology",
+  "name": {
+   "en": "Missouri University of Science and Technology",
+   "ka": "მისურის მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი",
+   "ar": "جامعة ميسوري للعلوم والتكنولوجيا"
+  },
+  "iso": "US",
+  "city": "Rolla",
+  "lat": 37.955,
+  "lon": -91.775,
+  "type": "public",
+  "website": "https://www.mst.edu",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Natural sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "العلوم الطبيعية"
+   ]
+  },
+  "summary": {
+   "en": "Public technological university in Rolla, Missouri. Its official site could not be read in this review, so fees and deadlines are not listed.",
+   "ka": "საჯარო ტექნოლოგიური უნივერსიტეტი როლაში, მისურიში. ოფიციალური საიტი ამ მიმოხილვისას ვერ გაიხსნა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "جامعة تقنية حكومية في رولا بولاية ميزوري. تعذّر فتح موقعها الرسمي في هذه المراجعة، لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "Missouri S&T is a public university in the small city of Rolla, Missouri, focused on engineering and science. International first-year applicants normally apply as US-style freshmen. The university's site returned a certificate error, so tuition, deadlines and test rules could not be confirmed. Check the international admissions pages on mst.edu before applying.",
+   "ka": "მისური S&T საჯარო უნივერსიტეტია მცირე ქალაქ როლაში, მისურიში, რომელიც ინჟინერიასა და მეცნიერებას ეფუძნება. საერთაშორისო აპლიკანტები ჩვეულებრივ აშშ-ის სტილის პირველკურსელებად აბარებენ. საიტზე სერტიფიკატის შეცდომა დაფიქსირდა, ამიტომ საფასური, ვადები და ტესტების წესები ვერ დადასტურდა. აპლიკაციამდე იხილეთ mst.edu-ს საერთაშორისო მისაღები გვერდები.",
+   "ar": "جامعة ميزوري S&T جامعة حكومية في مدينة رولا الصغيرة بولاية ميزوري وتركّز على الهندسة والعلوم. يتقدم الطلاب الدوليون عادةً كطلاب سنة أولى بالنظام الأمريكي. أظهر موقع الجامعة خطأ في الشهادة الأمنية، فلم يمكن التحقق من الرسوم والمواعيد وقواعد الاختبارات. راجع صفحات القبول الدولي في mst.edu قبل التقديم."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "usa",
+   "missouri",
+   "rolla",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.mst.edu"
+  ],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "მისაღები გამოცდები და ენის მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ უნივერსიტეტის ოფიციალური გვერდი.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "gpa_note": {
+   "en": "Academic requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "აკადემიური მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ ოფიციალური გვერდი.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "qualifications_note": {
+   "en": "How foreign school diplomas are treated was not published on the pages reviewed.",
+   "ka": "უცხოური საშუალო განათლების დოკუმენტების განხილვის წესი გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر آلية التعامل مع شهادات الثانوية الأجنبية في الصفحات التي روجعت."
+  }
+ },
+ {
+  "platform": "Direct application portal (admissions.jgu.edu.in)",
+  "application_url": "https://admissions.jgu.edu.in",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "Admissions are shown as open for 2026-2027. No international bachelor deadline is published on the pages reviewed.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": null,
+   "note": null
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "o-p-jindal-global-university-jgu",
+  "name": {
+   "en": "O.P. Jindal Global University (JGU)",
+   "ka": "ო. პ. ჯინდალის გლობალური უნივერსიტეტი (JGU)",
+   "ar": "جامعة أو. بي. جيندال العالمية (JGU)"
+  },
+  "iso": "IN",
+  "city": "Sonepat",
+  "lat": 28.948,
+  "lon": 77.093,
+  "type": "private",
+  "website": "https://www.jgu.edu.in",
+  "fields": [
+   "law",
+   "business",
+   "international-relations",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Law",
+    "Business",
+    "International affairs",
+    "Liberal arts"
+   ],
+   "ka": [
+    "სამართალი",
+    "ბიზნესი",
+    "საერთაშორისო საქმეები",
+    "თავისუფალი ხელოვნება"
+   ],
+   "ar": [
+    "القانون",
+    "الأعمال",
+    "الشؤون الدولية",
+    "الفنون الحرة"
+   ]
+  },
+  "summary": {
+   "en": "Private university near Delhi with a separate International Office. Fees and international deadlines are not published on the pages reviewed.",
+   "ka": "კერძო უნივერსიტეტი დელის მახლობლად, საერთაშორისო ოფისით. საფასური და საერთაშორისო ვადები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "جامعة خاصة قرب دلهي لديها مكتب دولي مستقل. لم تُنشر الرسوم ومواعيد التقديم الدولية في الصفحات التي روجعت."
+  },
+  "about": {
+   "en": "O.P. Jindal Global University is a private university in Sonipat, Haryana, near Delhi. Applicants apply through the central admissions portal, and law programmes use a separate law admissions portal. The International Office also points to the national Study in India portal for international registrations. Fees, deadlines and entry tests for international bachelor students are not listed on the pages reviewed, so contact admissions@jgu.edu.in.",
+   "ka": "ო. პ. ჯინდალის გლობალური უნივერსიტეტი კერძო უნივერსიტეტია სონიპატში, ჰარიანა, დელის მახლობლად. აპლიკანტები საერთო საადმისიო პორტალით აბარებენ, სამართლის პროგრამებს კი ცალკე პორტალი აქვს. საერთაშორისო ოფისი ეროვნულ Study in India პორტალსაც მიუთითებს. საფასური, ვადები და გამოცდები გადამოწმებულ გვერდებზე არ არის მითითებული, ამიტომ დაუკავშირდით admissions@jgu.edu.in-ს.",
+   "ar": "جامعة أو. بي. جيندال العالمية جامعة خاصة في سونيبات بولاية هاريانا قرب دلهي. يتم التقديم عبر بوابة القبول المركزية، ولبرامج القانون بوابة منفصلة. ويحيل المكتب الدولي أيضًا إلى بوابة Study in India الوطنية لتسجيل الدوليين. لم تُدرج الرسوم والمواعيد والاختبارات للطلاب الدوليين في الصفحات التي روجعت، فتواصل مع admissions@jgu.edu.in."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   }
+  ],
+  "keywords": [
+   "india",
+   "delhi",
+   "sonipat",
+   "law",
+   "private"
+  ],
+  "sources": [
+   "https://www.jgu.edu.in/admissions/",
+   "https://www.jgu.edu.in/internationaloffice/"
+  ],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "მისაღები გამოცდები და ენის მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ უნივერსიტეტის ოფიციალური გვერდი.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "gpa_note": {
+   "en": "Academic requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "აკადემიური მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ ოფიციალური გვერდი.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "qualifications_note": {
+   "en": "How foreign school diplomas are treated was not published on the pages reviewed.",
+   "ka": "უცხოური საშუალო განათლების დოკუმენტების განხილვის წესი გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر آلية التعامل مع شهادات الثانوية الأجنبية في الصفحات التي روجعت."
+  }
+ },
+ {
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": null,
+   "note": null
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "riga-technical-university",
+  "name": {
+   "en": "Riga Technical University",
+   "ka": "რიგის ტექნიკური უნივერსიტეტი",
+   "ar": "جامعة ريغا التقنية"
+  },
+  "iso": "LV",
+  "city": "Riga",
+  "lat": 56.949,
+  "lon": 24.115,
+  "type": "public",
+  "website": "https://rtu.lv",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Architecture"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "არქიტექტურა"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "العمارة"
+   ]
+  },
+  "summary": {
+   "en": "Public technical university in Riga, Latvia. Its admissions pages blocked automated access, so fees and deadlines are not listed.",
+   "ka": "საჯარო ტექნიკური უნივერსიტეტი რიგაში, ლატვიაში. მისაღები გვერდები ავტომატური წვდომისთვის დაბლოკილი იყო, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "جامعة تقنية حكومية في ريغا بلاتفيا. حجبت صفحات القبول الوصول الآلي، لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "Riga Technical University is a public university in Riga, Latvia, focused on engineering and technology. The university website refused automated access (HTTP 403), so no admission facts for international bachelor applicants could be confirmed. Check the admission section on rtu.lv for fees, deadlines and English-taught programmes.",
+   "ka": "რიგის ტექნიკური უნივერსიტეტი საჯარო უნივერსიტეტია რიგაში, ლატვიაში, რომელიც ინჟინერიასა და ტექნოლოგიებზეა ორიენტირებული. უნივერსიტეტის საიტმა ავტომატური წვდომა უარყო (HTTP 403), ამიტომ საერთაშორისო ბაკალავრების მისაღები ფაქტები ვერ დადასტურდა. საფასურის, ვადებისა და ინგლისურენოვანი პროგრამებისთვის იხილეთ rtu.lv-ის მისაღები განყოფილება.",
+   "ar": "جامعة ريغا التقنية جامعة حكومية في ريغا بلاتفيا وتركّز على الهندسة والتكنولوجيا. رفض موقع الجامعة الوصول الآلي (HTTP 403)، فلم يمكن التحقق من معلومات القبول لطلاب البكالوريوس الدوليين. راجع قسم القبول في rtu.lv لمعرفة الرسوم والمواعيد والبرامج بالإنجليزية."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "latvia",
+   "riga",
+   "engineering"
+  ],
+  "sources": [
+   "https://rtu.lv"
+  ],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "მისაღები გამოცდები და ენის მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ უნივერსიტეტის ოფიციალური გვერდი.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "gpa_note": {
+   "en": "Academic requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "აკადემიური მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ ოფიციალური გვერდი.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "qualifications_note": {
+   "en": "How foreign school diplomas are treated was not published on the pages reviewed.",
+   "ka": "უცხოური საშუალო განათლების დოკუმენტების განხილვის წესი გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر آلية التعامل مع شهادات الثانوية الأجنبية في الصفحات التي روجعت."
+  }
+ },
+ {
+  "platform": "Direct application to the university (documents submitted to Sofia University)",
+  "application_url": "https://uni-sofia.bg/index.php/eng/admission/international_students/application_procedure",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "No bachelor application deadline is published on the international admission pages reviewed.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Non-EU students pay international fees; the 2026/2027 amounts are in a fee-schedule PDF that could not be read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Bulgarian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "English exam (European Union and European Integration)",
+   "B2 English (Accounting, International Trade)"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "sofia-university-st-kliment-ohridski",
+  "name": {
+   "en": "Sofia University \"St. Kliment Ohridski\"",
+   "ka": "სოფიის უნივერსიტეტი „წმ. კლიმენტ ოხრიდელი“",
+   "ar": "جامعة صوفيا \"القديس كليمنت أوهريدسكي\""
+  },
+  "iso": "BG",
+  "city": "Sofia",
+  "lat": 42.693,
+  "lon": 23.335,
+  "type": "public",
+  "website": "https://uni-sofia.bg",
+  "qualifications_note": {
+   "en": "Non-EU applicants are ranked on their school grades if the grade for the chosen major is at least 62% of the maximum in the home country's system.",
+   "ka": "არა-ევროკავშირელი აპლიკანტები ირჩევიან სკოლის ნიშნებით, თუ არჩეული მიმართულების ნიშანი მშობლიური ქვეყნის სისტემის მაქსიმუმის მინიმუმ 62%-ია.",
+   "ar": "يُرتَّب المتقدمون من خارج الاتحاد الأوروبي بحسب درجاتهم المدرسية إذا كانت درجة التخصص المختار 62% على الأقل من الحد الأعلى في نظام بلدهم."
+  },
+  "fields": [
+   "humanities",
+   "social-sciences",
+   "business",
+   "natural-sciences",
+   "languages"
+  ],
+  "strengths": {
+   "en": [
+    "Philosophy",
+    "European integration",
+    "Economics and business",
+    "Physics",
+    "Geography and climate"
+   ],
+   "ka": [
+    "ფილოსოფია",
+    "ევროპული ინტეგრაცია",
+    "ეკონომიკა და ბიზნესი",
+    "ფიზიკა",
+    "გეოგრაფია და კლიმატი"
+   ],
+   "ar": [
+    "الفلسفة",
+    "التكامل الأوروبي",
+    "الاقتصاد والأعمال",
+    "الفيزياء",
+    "الجغرافيا والمناخ"
+   ]
+  },
+  "summary": {
+   "en": "Bulgaria's oldest university, in Sofia, with seven bachelor programmes taught in English. Non-EU students pay international fees; the amounts could not be read.",
+   "ka": "ბულგარეთის უძველესი უნივერსიტეტი სოფიაში, ინგლისურად ისწავლება შვიდი საბაკალავრო პროგრამა. არა-ევროკავშირელები საერთაშორისო საფასურს იხდიან; ოდენობა ვერ წაიკითხა.",
+   "ar": "أقدم جامعة في بلغاريا، في صوفيا، وتقدم سبعة برامج بكالوريوس بالإنجليزية. يدفع الطلاب من خارج الاتحاد الأوروبي رسومًا دولية لم يمكن قراءة مبالغها."
+  },
+  "about": {
+   "en": "Sofia University is a public university in the Bulgarian capital. Non-EU bachelor applicants apply directly to the university by submitting their documents; there is no entrance exam except for Medicine and Pharmacy, and applicants are ranked on school grades. Seven bachelor programmes are taught in English, including Accounting, International Trade, Philosophy and Climate Change and Management. Some need English at B2. Fees for 2026/2027 are in a PDF schedule.",
+   "ka": "სოფიის უნივერსიტეტი საჯარო უნივერსიტეტია ბულგარეთის დედაქალაქში. არა-ევროკავშირელი ბაკალავრიატის აპლიკანტები უშუალოდ უნივერსიტეტში აბარებენ დოკუმენტებს; მისაღები გამოცდა მხოლოდ მედიცინასა და ფარმაციაზეა, დანარჩენი ირჩევა სკოლის ნიშნებით. ინგლისურად ისწავლება შვიდი საბაკალავრო პროგრამა, მათ შორის აღრიცხვა, საერთაშორისო ვაჭრობა, ფილოსოფია და კლიმატის ცვლილება. ზოგს B2 ინგლისური სჭირდება. 2026/2027 საფასური PDF ცხრილშია.",
+   "ar": "جامعة صوفيا جامعة حكومية في العاصمة البلغارية. يتقدم طلاب البكالوريوس من خارج الاتحاد الأوروبي مباشرة إلى الجامعة بتقديم مستنداتهم، ولا يوجد امتحان قبول إلا في الطب والصيدلة، ويُرتَّب المتقدمون بحسب الدرجات المدرسية. تُدرَّس سبعة برامج بكالوريوس بالإنجليزية منها المحاسبة والتجارة الدولية والفلسفة وتغير المناخ وإدارته. بعضها يتطلب مستوى B2 في الإنجليزية. رسوم 2026/2027 في ملف PDF."
+  },
+  "tests": {
+   "en": "No entrance exam for most programmes (Medicine and Pharmacy differ). B2 English is required for Accounting and International Trade; European Union and European Integration has an English exam.",
+   "ka": "მისაღები გამოცდა უმეტეს პროგრამაზე არ არის (მედიცინა და ფარმაცია განსხვავდება). აღრიცხვასა და საერთაშორისო ვაჭრობაზე საჭიროა B2 ინგლისური; ევროკავშირისა და ევროპული ინტეგრაციის პროგრამას ინგლისურის გამოცდა აქვს.",
+   "ar": "لا يوجد امتحان قبول لمعظم البرامج (الطب والصيدلة مختلفان). مطلوب مستوى B2 في الإنجليزية للمحاسبة والتجارة الدولية، ولبرنامج الاتحاد الأوروبي والتكامل الأوروبي امتحان إنجليزي."
+  },
+  "gpa_note": {
+   "en": "Applicants are ranked if their grade for the chosen major is at least 62% of the maximum; Accounting also asks for good high school maths grades.",
+   "ka": "აპლიკანტები განიხილებიან, თუ არჩეული მიმართულების ნიშანი მაქსიმუმის მინიმუმ 62%-ია; აღრიცხვა კარგ მათემატიკის ნიშანსაც ითხოვს.",
+   "ar": "يُنظر في الطلبات إذا كانت درجة التخصص 62% على الأقل من الحد الأعلى؛ ويتطلب برنامج المحاسبة درجات جيدة في الرياضيات."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of the school diploma",
+     "ka": "საშუალო განათლების დოკუმენტის აღიარება",
+     "ar": "معادلة شهادة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "bulgaria",
+   "sofia",
+   "english programmes",
+   "eu"
+  ],
+  "sources": [
+   "https://uni-sofia.bg/index.php/eng/admission/international_students/application_procedure",
+   "https://uni-sofia.bg/index.php/eng/admission/international_students/bachelor_s_degree_programs_in_english",
+   "https://uni-sofia.bg/index.php/eng/admission/international_students/tuition_fees_in_sofia_university_for_the_academic_2026_2027_year"
+  ],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  }
+ },
+ {
+  "platform": "Common App",
+  "application_url": "https://admissions.temple.edu/apply/international-students/first-year-international-students",
+  "intakes": [
+   "Fall",
+   "Spring"
+  ],
+  "deadline": "2027-02-01",
+  "deadline_note": "Fall: Early Action Nov 1, Regular Decision Feb 1; Spring start: Nov 1. The page does not state the year.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "USD",
+   "per": "year",
+   "note": "Tuition is not listed on the international first-year page; contact International Admissions."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 79,
+  "duolingo_min": 110,
+  "other_tests": [
+   "Audition/interview/portfolio for some arts programmes"
+  ],
+  "scholarships": [
+   {
+    "name": "Temple merit scholarships for international students",
+    "url": "https://admissions.temple.edu/apply/international-students/first-year-international-students",
+    "coverage": "partial"
+   }
+  ],
+  "verified_at": "2026-11-01",
+  "id": "temple-university",
+  "name": {
+   "en": "Temple University",
+   "ka": "ტემპლის უნივერსიტეტი",
+   "ar": "جامعة تمبل"
+  },
+  "iso": "US",
+  "city": "Philadelphia",
+  "lat": 39.981,
+  "lon": -75.155,
+  "type": "public",
+  "website": "https://www.temple.edu",
+  "fields": [
+   "business",
+   "medicine-health",
+   "arts-design",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Health professions",
+    "Media and communication",
+    "Arts",
+    "Law"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ჯანდაცვის პროფესიები",
+    "მედია და კომუნიკაცია",
+    "ხელოვნება",
+    "სამართალი"
+   ],
+   "ar": [
+    "الأعمال",
+    "المهن الصحية",
+    "الإعلام والاتصال",
+    "الفنون",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "Public research university in Philadelphia. Applies through the Common App, is test-optional and offers a Bridge programme for slightly lower English scores.",
+   "ka": "საჯარო კვლევითი უნივერსიტეტი ფილადელფიაში. აპლიკაცია Common App-ით ხდება, ტესტები არჩევითია და ინგლისურის ოდნავ დაბალი ქულისთვის Bridge პროგრამა არსებობს.",
+   "ar": "جامعة بحثية حكومية في فيلادلفيا. يتم التقديم عبر Common App، والاختبارات اختيارية، ويتوفر برنامج Bridge لمن درجة إنجليزيتهم أقل قليلًا."
+  },
+  "about": {
+   "en": "Temple University is a public research university in Philadelphia. International first-year applicants use the Common App ($55 fee) and send official transcripts with translations. SAT and ACT are optional. English tests are needed unless the applicant studied three or more years in English. Applicants slightly under the English minimum can enter through the Bridge Program. Tuition is not given on the international page.",
+   "ka": "ტემპლის უნივერსიტეტი საჯარო კვლევითი უნივერსიტეტია ფილადელფიაში. საერთაშორისო პირველკურსელები Common App-ით აბარებენ (გადასახადი $55) და აგზავნიან ოფიციალურ ატესტატს თარგმანით. SAT და ACT არჩევითია. ინგლისურის ტესტი საჭიროა, თუ აპლიკანტს სამი ან მეტი წელი ინგლისურად არ უსწავლია. ინგლისურის მინიმუმზე ოდნავ დაბალი ქულის შემთხვევაში Bridge პროგრამით დაშვებაა შესაძლებელი. საფასური საერთაშორისო გვერდზე მითითებული არ არის.",
+   "ar": "جامعة تمبل جامعة بحثية حكومية في فيلادلفيا. يتقدم طلاب السنة الأولى الدوليون عبر Common App (رسوم 55 دولارًا) ويرسلون كشوف درجات رسمية مترجمة. اختبارا SAT وACT اختياريان. يلزم اختبار إنجليزي إلا لمن درس ثلاث سنوات أو أكثر بالإنجليزية. ومن كانت درجته أقل قليلًا من الحد الأدنى يمكنه الالتحاق عبر برنامج Bridge. لا تذكر صفحة الدوليين مبلغ الرسوم الدراسية."
+  },
+  "aid_intl": {
+   "en": "Temple offers merit scholarships to international students; test-optional applicants are equally eligible.",
+   "ka": "ტემპლი საერთაშორისო სტუდენტებს სთავაზობს დამსახურებაზე დაფუძნებულ სტიპენდიებს; ტესტის გარეშე აპლიკანტებიც თანაბრად არიან უფლებამოსილნი.",
+   "ar": "تقدم تمبل منح استحقاق للطلاب الدوليين، ومقدمو الطلبات دون اختبارات مؤهلون بالتساوي."
+  },
+  "tests": {
+   "en": "SAT/ACT optional. English: TOEFL iBT 79, IELTS 6.0 or Duolingo 110, unless exempt; slightly lower scores can enter via the Bridge Program.",
+   "ka": "SAT/ACT არჩევითია. ინგლისური: TOEFL iBT 79, IELTS 6.0 ან Duolingo 110, თუ გათავისუფლებული არ ხართ; ოდნავ დაბალი ქულით Bridge პროგრამით დაშვება შესაძლებელია.",
+   "ar": "SAT/ACT اختياريان. الإنجليزية: TOEFL iBT 79 أو IELTS 6.0 أو Duolingo 110 ما لم يُعفَ المتقدم؛ ويمكن لمن درجته أقل قليلًا الالتحاق عبر برنامج Bridge."
+  },
+  "gpa_note": {
+   "en": "Four-year school curricula need grades 9 to 11 plus 12th-grade progress; no minimum grade is published.",
+   "ka": "ოთხწლიანი სასწავლო გეგმისთვის საჭიროა მე-9–მე-11 კლასების ნიშნები და მე-12 კლასის მიმდინარე შედეგები; მინიმალური ნიშანი გამოქვეყნებული არ არის.",
+   "ar": "للمناهج ذات الأربع سنوات تُطلب درجات الصفوف 9 إلى 11 وتقدم الصف 12؛ ولم يُنشر حد أدنى للدرجات."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "portfolio",
+    "label": {
+     "en": "Portfolio or audition (some programmes)",
+     "ka": "პორტფოლიო ან მოსმენა (ზოგიერთი პროგრამა)",
+     "ar": "ملف أعمال أو اختبار أداء (بعض البرامج)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   }
+  ],
+  "keywords": [
+   "usa",
+   "philadelphia",
+   "test-optional",
+   "common app"
+  ],
+  "sources": [
+   "https://admissions.temple.edu/apply/international-students",
+   "https://admissions.temple.edu/apply/international-students/first-year-international-students"
+  ],
+  "qualifications_note": {
+   "en": "How foreign school diplomas are treated was not published on the pages reviewed.",
+   "ka": "უცხოური საშუალო განათლების დოკუმენტების განხილვის წესი გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر آلية التعامل مع شهادات الثانوية الأجنبية في الصفحات التي روجعت."
+  }
+ },
+ {
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": null,
+   "note": null
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Vietnamese"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "vietnam-national-university-hanoi",
+  "name": {
+   "en": "Vietnam National University, Hanoi",
+   "ka": "ვიეტნამის ეროვნული უნივერსიტეტი, ჰანოი",
+   "ar": "جامعة فيتنام الوطنية في هانوي"
+  },
+  "iso": "VN",
+  "city": "Hanoi",
+  "lat": 21.037,
+  "lon": 105.783,
+  "type": "public",
+  "website": "https://vnu.edu.vn",
+  "fields": [
+   "natural-sciences",
+   "social-sciences",
+   "humanities",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Natural sciences",
+    "Social sciences and humanities",
+    "Business and management"
+   ],
+   "ka": [
+    "საბუნებისმეტყველო მეცნიერებები",
+    "სოციალური და ჰუმანიტარული მეცნიერებები",
+    "ბიზნესი და მენეჯმენტი"
+   ],
+   "ar": [
+    "العلوم الطبيعية",
+    "العلوم الاجتماعية والإنسانية",
+    "الأعمال والإدارة"
+   ]
+  },
+  "summary": {
+   "en": "Large public university system in Hanoi with member universities in sciences, social sciences and business. The English pages reviewed give no international bachelor fees or deadlines.",
+   "ka": "დიდი საჯარო უნივერსიტეტთა სისტემა ჰანოიში, მეცნიერების, სოციალური მეცნიერებებისა და ბიზნესის წევრი უნივერსიტეტებით. გადამოწმებულ გვერდებზე საერთაშორისო ბაკალავრების საფასური და ვადები არ არის.",
+   "ar": "منظومة جامعية حكومية كبيرة في هانوي تضم جامعات أعضاء في العلوم والعلوم الاجتماعية والأعمال. لا تتضمن الصفحات التي روجعت رسوم البكالوريوس الدولية ولا مواعيدها."
+  },
+  "about": {
+   "en": "Vietnam National University, Hanoi is a public university system made of several member universities. Its main site is in Vietnamese and shows 2026 undergraduate seats per member university, for example 2,510 in natural sciences and 2,650 in social sciences and humanities. No international bachelor fees, deadlines or English test rules were found. Applicants should contact the member university of their chosen programme.",
+   "ka": "ვიეტნამის ეროვნული უნივერსიტეტი, ჰანოი საჯარო უნივერსიტეტთა სისტემაა, რომელიც რამდენიმე წევრი უნივერსიტეტისგან შედგება. მთავარი საიტი ვიეტნამურია და 2026 წლის ბაკალავრიატის ადგილებს აჩვენებს თითო წევრ უნივერსიტეტზე, მაგალითად 2 510 საბუნებისმეტყველო მეცნიერებებში და 2 650 სოციალურ და ჰუმანიტარულ მეცნიერებებში. საერთაშორისო ბაკალავრების საფასური, ვადები და ინგლისურის ტესტის წესები ვერ მოიძებნა. აპლიკანტებმა არჩეული პროგრამის წევრ უნივერსიტეტს უნდა დაუკავშირდნენ.",
+   "ar": "جامعة فيتنام الوطنية في هانوي منظومة جامعية حكومية تضم عدة جامعات أعضاء. موقعها الرئيسي بالفيتنامية ويعرض مقاعد البكالوريوس لعام 2026 لكل جامعة عضو، مثل 2,510 في العلوم الطبيعية و2,650 في العلوم الاجتماعية والإنسانية. لم يُعثر على رسوم أو مواعيد أو قواعد اختبارات الإنجليزية للطلاب الدوليين. على المتقدم التواصل مع الجامعة العضو التي تقدم البرنامج المطلوب."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "vietnam",
+   "hanoi",
+   "public"
+  ],
+  "sources": [
+   "https://vnu.edu.vn"
+  ],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "მისაღები გამოცდები და ენის მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ უნივერსიტეტის ოფიციალური გვერდი.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "gpa_note": {
+   "en": "Academic requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "აკადემიური მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ ოფიციალური გვერდი.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "qualifications_note": {
+   "en": "How foreign school diplomas are treated was not published on the pages reviewed.",
+   "ka": "უცხოური საშუალო განათლების დოკუმენტების განხილვის წესი გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر آلية التعامل مع شهادات الثانوية الأجنبية في الصفحات التي روجعت."
+  }
+ },
+ {
+  "platform": "DreamApply (online)",
+  "application_url": "https://www.vdu.lt/en/studies/degree-studies/",
+  "intakes": [
+   "August"
+  ],
+  "deadline": "2027-05-01",
+  "deadline_note": "Autumn 2027 intake: non-EU/EFTA applicants by 1 May 2027; EU/EFTA and visa-free country citizens by 1 July 2027. Studies start 23 Aug 2027.",
+  "tuition_intl": {
+   "amount": 3400,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Range 3,400 to 9,600 EUR by programme (business and social sciences 3,400; sciences and IT 4,400; sports 6,000; music and performing arts 9,600). Fees await Senate approval."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Lithuanian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 5.5,
+  "toefl_min": 87,
+  "duolingo_min": 100,
+  "other_tests": [
+   "OMPT maths test (some applicants)"
+  ],
+  "scholarships": [
+   {
+    "name": "Artes Liberales scholarship (3,000 EUR, one-time)",
+    "url": "https://www.vdu.lt/en/studies/scholarships/",
+    "coverage": "partial"
+   },
+   {
+    "name": "VMU Study Scholarship Fund",
+    "url": "https://www.vdu.lt/en/studies/scholarships/",
+    "coverage": "partial"
+   }
+  ],
+  "verified_at": "2026-11-01",
+  "id": "vytautas-magnus-university",
+  "name": {
+   "en": "Vytautas Magnus University",
+   "ka": "ვიტაუტას დიდის უნივერსიტეტი",
+   "ar": "جامعة فيتاوتاس ماغنوس"
+  },
+  "iso": "LT",
+  "city": "Kaunas",
+  "lat": 54.898,
+  "lon": 23.904,
+  "type": "public",
+  "website": "https://www.vdu.lt",
+  "qualifications_note": {
+   "en": "Foreign secondary diplomas are assessed for recognition within 20 working days; a minimum 60% CGPA is required. A maths test (OMPT) is needed for some countries or if school ended 5+ years ago.",
+   "ka": "უცხოური საშუალო განათლების დიპლომები აღიარებისთვის 20 სამუშაო დღეში ფასდება; საჭიროა მინიმუმ 60% CGPA. მათემატიკის ტესტი (OMPT) საჭიროა ზოგი ქვეყნისთვის ან თუ სკოლა 5+ წლის წინ დასრულდა.",
+   "ar": "تُقيَّم شهادات الثانوية الأجنبية للاعتراف بها خلال 20 يوم عمل، ويُشترط معدل تراكمي لا يقل عن 60%. يُطلب اختبار رياضيات (OMPT) لبعض الدول أو إذا انتهت الدراسة الثانوية قبل 5 سنوات أو أكثر."
+  },
+  "fields": [
+   "social-sciences",
+   "business",
+   "natural-sciences",
+   "humanities",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Political studies",
+    "Business and economics",
+    "Biology and biotechnology",
+    "Languages and cultures",
+    "Environmental science"
+   ],
+   "ka": [
+    "პოლიტიკური მეცნიერებები",
+    "ბიზნესი და ეკონომიკა",
+    "ბიოლოგია და ბიოტექნოლოგია",
+    "ენები და კულტურები",
+    "გარემოს მეცნიერება"
+   ],
+   "ar": [
+    "الدراسات السياسية",
+    "الأعمال والاقتصاد",
+    "الأحياء والتقنية الحيوية",
+    "اللغات والثقافات",
+    "علوم البيئة"
+   ]
+  },
+  "summary": {
+   "en": "Public liberal-arts university in Kaunas with English-taught bachelor programmes. Non-EU tuition is 3,400 to 9,600 EUR a year.",
+   "ka": "საჯარო თავისუფალი ხელოვნების უნივერსიტეტი კაუნასში, ინგლისურენოვანი საბაკალავრო პროგრამებით. არა-ევროკავშირელებისთვის სწავლის საფასური წელიწადში 3 400–9 600 ევროა.",
+   "ar": "جامعة حكومية للفنون الحرة في كاونا لديها برامج بكالوريوس بالإنجليزية. تبلغ الرسوم لغير الأوروبيين 3,400 إلى 9,600 يورو سنويًا."
+  },
+  "about": {
+   "en": "Vytautas Magnus University is a public university in Kaunas, Lithuania. International bachelor applicants apply online through DreamApply for the autumn intake; the application fee is 150 EUR and covers two programme choices. Non-EU applicants must apply by 1 May. Programmes in English include business, economics, politics, biology and IT. Annual tuition for non-EU students ranges from 3,400 to 9,600 EUR depending on programme.",
+   "ka": "ვიტაუტას დიდის უნივერსიტეტი საჯარო უნივერსიტეტია კაუნასში, ლიტვაში. საერთაშორისო ბაკალავრიატის აპლიკანტები შემოდგომის მიღებაზე DreamApply-ით აბარებენ; სააპლიკაციო გადასახადი 150 ევროა და ორ პროგრამას მოიცავს. არა-ევროკავშირელებმა 1 მაისამდე უნდა შეიტანონ განაცხადი. ინგლისურ პროგრამებს შორისაა ბიზნესი, ეკონომიკა, პოლიტიკა, ბიოლოგია და IT. არა-ევროკავშირელებისთვის წლიური საფასური პროგრამის მიხედვით 3 400-დან 9 600 ევრომდეა.",
+   "ar": "جامعة فيتاوتاس ماغنوس جامعة حكومية في كاونا بليتوانيا. يتقدم طلاب البكالوريوس الدوليون إلكترونيًا عبر DreamApply للقبول الخريفي، ورسوم التقديم 150 يورو وتشمل خيارين من البرامج. على المتقدمين من خارج الاتحاد الأوروبي التقديم قبل 1 مايو. تشمل البرامج بالإنجليزية الأعمال والاقتصاد والسياسة والأحياء وتقنية المعلومات. تتراوح الرسوم السنوية لغير الأوروبيين بين 3,400 و9,600 يورو بحسب البرنامج."
+  },
+  "aid_intl": {
+   "en": "A one-time 3,000 EUR Artes Liberales scholarship exists for motivated applicants (apply 1 June to 15 August); other awards are tied to Lithuanian state-funded places.",
+   "ka": "ერთჯერადი 3 000 ევროს Artes Liberales სტიპენდია არსებობს მოტივირებული აპლიკანტებისთვის (განაცხადი 1 ივნისიდან 15 აგვისტომდე); სხვა სტიპენდიები ლიტვის სახელმწიფო დაფინანსებულ ადგილებს უკავშირდება.",
+   "ar": "توجد منحة Artes Liberales لمرة واحدة بقيمة 3,000 يورو للمتقدمين أصحاب الدافعية (التقديم من 1 يونيو إلى 15 أغسطس)؛ أما المنح الأخرى فمرتبطة بالمقاعد الممولة حكوميًا في ليتوانيا."
+  },
+  "tests": {
+   "en": "English at B2: TOEFL iBT 87+, IELTS 5.5 to 6.5, PTE 59, Duolingo 100 to 125 or Cambridge FCE 161+. A maths test (OMPT) applies to some applicants.",
+   "ka": "ინგლისური B2: TOEFL iBT 87+, IELTS 5.5–6.5, PTE 59, Duolingo 100–125 ან Cambridge FCE 161+. ზოგ აპლიკანტს მათემატიკის ტესტი (OMPT) სჭირდება.",
+   "ar": "الإنجليزية بمستوى B2: TOEFL iBT 87 فأكثر أو IELTS من 5.5 إلى 6.5 أو PTE 59 أو Duolingo من 100 إلى 125 أو Cambridge FCE 161 فأكثر. ويُطلب اختبار رياضيات (OMPT) من بعض المتقدمين."
+  },
+  "gpa_note": {
+   "en": "A minimum 60% CGPA on the secondary diploma is required.",
+   "ka": "საშუალო განათლების დიპლომზე მინიმუმ 60% CGPA არის საჭირო.",
+   "ar": "يُشترط معدل تراكمي لا يقل عن 60% في شهادة الثانوية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Motivation letter",
+     "ka": "მოტივაციის წერილი",
+     "ar": "خطاب الدافع"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV",
+     "ka": "CV (რეზიუმე)",
+     "ar": "السيرة الذاتية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "keywords": [
+   "lithuania",
+   "kaunas",
+   "english programmes",
+   "eu",
+   "liberal arts"
+  ],
+  "sources": [
+   "https://www.vdu.lt/en/studies/degree-studies/",
+   "https://www.vdu.lt/en/studies/degree-studies/tuition-fees/",
+   "https://www.vdu.lt/en/studies/scholarships/"
+  ]
+ },
+ {
+  "platform": "e-Rekrutacja (AGH online recruitment)",
+  "application_url": "https://www.international.agh.edu.pl/en/studies/education-offer-bachelor-studies",
+  "intakes": [
+   "October"
+  ],
+  "deadline": null,
+  "deadline_note": "English bachelor recruitment runs June to September 2026/2027; exact dates are on the AGH deadlines page, which could not be read. Studies start 1 October.",
+  "tuition_intl": {
+   "amount": 2500,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Seven English bachelor programmes, 2026/2027: 2,500 to 6,000 EUR a year (the page lists per-semester fees from 1,250 to 3,000 EUR; yearly = two semesters)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Polish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "agh-university-of-krakow",
+  "name": {
+   "en": "AGH University of Krakow",
+   "ka": "კრაკოვის AGH უნივერსიტეტი",
+   "ar": "جامعة AGH في كراكوف"
+  },
+  "iso": "PL",
+  "city": "Krakow",
+  "lat": 50.065,
+  "lon": 19.923,
+  "type": "public",
+  "website": "https://www.agh.edu.pl",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "mathematics"
+  ],
+  "strengths": {
+   "en": [
+    "Mechanical engineering",
+    "Computer science",
+    "Mechatronics",
+    "Space engineering",
+    "Geology"
+   ],
+   "ka": [
+    "მექანიკური ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "მექატრონიკა",
+    "კოსმოსური ინჟინერია",
+    "გეოლოგია"
+   ],
+   "ar": [
+    "الهندسة الميكانيكية",
+    "علوم الحاسوب",
+    "الميكاترونيكس",
+    "هندسة الفضاء",
+    "الجيولوجيا"
+   ]
+  },
+  "summary": {
+   "en": "Leading Polish technical university in Krakow with seven English-taught bachelor programmes. Fees run about 2,500 to 6,000 EUR a year.",
+   "ka": "კრაკოვის წამყვანი ტექნიკური უნივერსიტეტი შვიდი ინგლისურენოვანი საბაკალავრო პროგრამით. საფასური წელიწადში დაახლოებით 2 500–6 000 ევროა.",
+   "ar": "جامعة تقنية بولندية رائدة في كراكوف لديها سبعة برامج بكالوريوس بالإنجليزية. تتراوح الرسوم بين 2,500 و6,000 يورو سنويًا تقريبًا."
+  },
+  "about": {
+   "en": "AGH University of Krakow is a public technical university. Its English bachelor offer for 2026/2027 has seven programmes: Computer Science, Computer Physics, Embedded Systems, Mechanical Engineering, Mechatronics, Space Engineering and Geology of Natural Resources. All start on 1 October, with recruitment from June to September through the e-Rekrutacja system. Fees are charged per semester, from 1,250 to 3,000 EUR. Entry rules were not readable.",
+   "ka": "კრაკოვის AGH ტექნიკური საჯარო უნივერსიტეტია. 2026/2027 წლისთვის ინგლისურ საბაკალავრო შეთავაზებაში შვიდი პროგრამაა: კომპიუტერული მეცნიერება, კომპიუტერული ფიზიკა, ჩაშენებული სისტემები, მექანიკური ინჟინერია, მექატრონიკა, კოსმოსური ინჟინერია და ბუნებრივი რესურსების გეოლოგია. ყველა 1 ოქტომბერს იწყება, რეკრუტმენტი ივნისიდან სექტემბრამდე მიმდინარეობს e-Rekrutacja სისტემით. საფასური სემესტრზეა: 1 250–3 000 ევრო. მისაღები წესები ვერ წაიკითხა.",
+   "ar": "جامعة AGH في كراكوف جامعة تقنية حكومية. يضم عرضها الإنجليزي للبكالوريوس لعام 2026/2027 سبعة برامج: علوم الحاسوب، الفيزياء الحاسوبية، النظم المدمجة، الهندسة الميكانيكية، الميكاترونيكس، هندسة الفضاء، وجيولوجيا الموارد الطبيعية. تبدأ جميعها في 1 أكتوبر ويجري التسجيل من يونيو إلى سبتمبر عبر نظام e-Rekrutacja. تُدفع الرسوم كل فصل دراسي وتتراوح بين 1,250 و3,000 يورو. لم يمكن قراءة شروط القبول."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of the school diploma",
+     "ka": "საშუალო განათლების დოკუმენტის აღიარება",
+     "ar": "معادلة شهادة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "poland",
+   "krakow",
+   "engineering",
+   "english programmes"
+  ],
+  "sources": [
+   "https://www.international.agh.edu.pl/en/studies/education-offer-bachelor-studies",
+   "https://www.agh.edu.pl/en"
+  ],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "მისაღები გამოცდები და ენის მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ უნივერსიტეტის ოფიციალური გვერდი.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "gpa_note": {
+   "en": "Academic requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "აკადემიური მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ ოფიციალური გვერდი.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "qualifications_note": {
+   "en": "How foreign school diplomas are treated was not published on the pages reviewed.",
+   "ka": "უცხოური საშუალო განათლების დოკუმენტების განხილვის წესი გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر آلية التعامل مع شهادات الثانوية الأجنبية في الصفحات التي روجعت."
+  }
+ },
+ {
+  "platform": "Direct online application",
+  "application_url": "https://www.asu.edu.jo/%d8%b7%d9%84%d8%a8-%d8%a7%d9%84%d8%a7%d9%84%d8%aa%d8%ad%d8%a7%d9%82/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": null,
+   "currency": "JOD",
+   "per": "semester",
+   "note": "Per-credit prices are not published for international students. Fixed fees: 460 JOD (649 USD) per Fall or Spring semester; one-time application fee 150 JOD (90 JOD credited to the first semester)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "applied-science-private-university-jordan",
+  "name": {
+   "en": "Applied Science Private University - Jordan",
+   "ka": "იორდანიის გამოყენებითი მეცნიერებების კერძო უნივერსიტეტი",
+   "ar": "جامعة العلوم التطبيقية الخاصة - الأردن"
+  },
+  "iso": "JO",
+  "city": "Amman",
+  "lat": 32.06,
+  "lon": 35.89,
+  "type": "private",
+  "website": "https://www.asu.edu.jo",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Pharmacy and health",
+    "Engineering",
+    "Business",
+    "IT",
+    "Dentistry"
+   ],
+   "ka": [
+    "ფარმაცია და ჯანდაცვა",
+    "ინჟინერია",
+    "ბიზნესი",
+    "IT",
+    "სტომატოლოგია"
+   ],
+   "ar": [
+    "الصيدلة والصحة",
+    "الهندسة",
+    "الأعمال",
+    "تقنية المعلومات",
+    "طب الأسنان"
+   ]
+  },
+  "summary": {
+   "en": "Private university in Amman, Jordan, founded in 1989. Fixed fees are 460 JOD per semester plus per-credit tuition that is not published for international students.",
+   "ka": "კერძო უნივერსიტეტი ამანში, იორდანიაში, დაარსებულია 1989 წელს. ფიქსირებული გადასახადი სემესტრზე 460 იორდანიული დინარია, კრედიტის ფასი კი საერთაშორისო სტუდენტებისთვის გამოქვეყნებული არ არის.",
+   "ar": "جامعة خاصة في عمّان بالأردن تأسست عام 1989. الرسوم الثابتة 460 دينارًا أردنيًا للفصل إضافة إلى سعر الساعة الذي لم يُنشر للطلاب الدوليين."
+  },
+  "about": {
+   "en": "Applied Science Private University is a private university in Amman, one of Jordan's earlier private universities (approved in 1989). Its site is in Arabic. New bachelor students pay a one-time application fee of 150 JOD, of which 90 JOD is credited to the first semester, and fixed fees of 460 JOD per Fall or Spring semester. Dentistry has its own fee schedule. The pages reviewed give no international deadlines, entry rules or tests.",
+   "ka": "გამოყენებითი მეცნიერებების კერძო უნივერსიტეტი ამანში, იორდანიის ერთ-ერთი პირველი კერძო უნივერსიტეტია (დამტკიცებულია 1989 წელს). საიტი არაბულია. ახალი ბაკალავრები იხდიან ერთჯერად სააპლიკაციო გადასახადს 150 იორდანიულ დინარს, საიდანაც 90 პირველ სემესტრში ჩაითვლება, და ფიქსირებულ გადასახადს 460 დინარს შემოდგომის ან გაზაფხულის სემესტრზე. სტომატოლოგიას საკუთარი ტარიფები აქვს. გადამოწმებულ გვერდებზე საერთაშორისო ვადები, მისაღები წესები და ტესტები არ არის.",
+   "ar": "جامعة العلوم التطبيقية الخاصة جامعة خاصة في عمّان وهي من أوائل الجامعات الخاصة في الأردن (أُقرّ إنشاؤها عام 1989). موقعها بالعربية. يدفع طلاب البكالوريوس الجدد رسم تقديم لمرة واحدة قدره 150 دينارًا يُحتسب منه 90 دينارًا من رسوم الفصل الأول، ورسومًا ثابتة قدرها 460 دينارًا لكل فصل خريف أو ربيع. لطب الأسنان جدول رسوم خاص. لا تتضمن الصفحات التي روجعت مواعيد دولية أو شروط قبول أو اختبارات."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   }
+  ],
+  "keywords": [
+   "jordan",
+   "amman",
+   "private",
+   "pharmacy"
+  ],
+  "sources": [
+   "https://www.asu.edu.jo",
+   "https://www.asu.edu.jo/%d8%a7%d9%84%d8%b1%d8%b3%d9%88%d9%85-%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d8%a9/"
+  ],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "მისაღები გამოცდები და ენის მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ უნივერსიტეტის ოფიციალური გვერდი.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "gpa_note": {
+   "en": "Academic requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "აკადემიური მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ ოფიციალური გვერდი.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "qualifications_note": {
+   "en": "How foreign school diplomas are treated was not published on the pages reviewed.",
+   "ka": "უცხოური საშუალო განათლების დოკუმენტების განხილვის წესი გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر آلية التعامل مع شهادات الثانوية الأجنبية في الصفحات التي روجعت."
+  }
+ },
+ {
+  "platform": "Direct (USEK online application portal)",
+  "application_url": "https://www.usek.edu.lb/en/admission/for-undergraduate-studies",
+  "intakes": [
+   "Fall"
+  ],
+  "deadline": "2026-12-01",
+  "deadline_note": "Fall 2026-2027: online application opens 16 Sept 2026 and closes 1 Dec 2026. Entrance exams on 20 Oct, 11 Nov (engineering), 25 Nov and 14 Dec 2026. Next-year dates not yet published.",
+  "tuition_intl": {
+   "amount": 220,
+   "currency": "USD",
+   "per": "credit",
+   "note": "Per-credit prices by faculty: 220 to 445 USD (Business 375, Law 240, Nursing 300, Medicine 440, Engineering 250 to 445). Plus 200 USD registration and 400 USD operational fee per semester. No separate international rate listed."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 80,
+  "duolingo_min": 120,
+  "other_tests": [
+   "USEK entrance exams (Maths, Engineering)",
+   "DELF/TCF B2 (French remedial exemption)",
+   "SAT 550 English (English exemption)"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "holy-spirit-university-of-kaslik",
+  "name": {
+   "en": "Holy Spirit University of Kaslik",
+   "ka": "კასლიკის წმინდა სულის უნივერსიტეტი",
+   "ar": "جامعة الروح القدس - الكسليك"
+  },
+  "iso": "LB",
+  "city": "Jounieh",
+  "lat": 33.981,
+  "lon": 35.618,
+  "type": "private",
+  "website": "https://www.usek.edu.lb",
+  "fields": [
+   "business",
+   "engineering",
+   "law",
+   "medicine-health",
+   "humanities",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Law",
+    "Medicine and nursing",
+    "Architecture"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "სამართალი",
+    "მედიცინა და მედდობა",
+    "არქიტექტურა"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "القانون",
+    "الطب والتمريض",
+    "العمارة"
+   ]
+  },
+  "summary": {
+   "en": "Private university in Jounieh, Lebanon, run on credits priced from 220 to 445 USD. Entry uses USEK entrance exams or SAT scores.",
+   "ka": "კერძო უნივერსიტეტი ჟუნიეში, ლიბანში, კრედიტული სისტემით; ფასი 220–445 აშშ დოლარია კრედიტზე. მიღება ხდება USEK-ის მისაღები გამოცდებით ან SAT ქულებით.",
+   "ar": "جامعة خاصة في جونية بلبنان تعتمد نظام الساعات المعتمدة بأسعار من 220 إلى 445 دولارًا للساعة. يتم القبول باختبارات USEK أو بنتائج SAT."
+  },
+  "about": {
+   "en": "The Holy Spirit University of Kaslik (USEK) is a private university in Jounieh, north of Beirut. Applicants apply online and sit USEK entrance exams, or use SAT scores to be exempt from them. English proof (SAT 550 English, TOEFL 80, IELTS 6 or Duolingo 120) exempts from the English test. Tuition is per credit in US dollars, from 220 to 445 USD, plus semester registration and operational fees. The pages reviewed show no separate international rate.",
+   "ka": "კასლიკის წმინდა სულის უნივერსიტეტი (USEK) კერძო უნივერსიტეტია ჟუნიეში, ბეირუთის ჩრდილოეთით. აპლიკანტები ონლაინ აბარებენ და USEK-ის მისაღებ გამოცდებს აბარებენ, ან SAT ქულებით თავისუფლდებიან მათგან. ინგლისურის დამადასტურებელი ქულა (SAT 550, TOEFL 80, IELTS 6 ან Duolingo 120) ინგლისურის ტესტისგან ათავისუფლებს. სწავლის საფასური კრედიტზეა აშშ დოლარში, 220–445 დოლარი, ასევე სემესტრული რეგისტრაციისა და საოპერაციო გადასახადები. გადამოწმებულ გვერდებზე ცალკე საერთაშორისო ტარიფი არ არის.",
+   "ar": "جامعة الروح القدس - الكسليك (USEK) جامعة خاصة في جونية شمال بيروت. يتقدم الطلاب إلكترونيًا ويخضعون لامتحانات القبول في الجامعة أو يُعفَون منها بنتائج SAT. يُعفى من اختبار الإنجليزية من يقدم SAT 550 أو TOEFL 80 أو IELTS 6 أو Duolingo 120. الرسوم بالساعة المعتمدة بالدولار الأمريكي من 220 إلى 445 دولارًا، إضافة إلى رسوم التسجيل والرسوم التشغيلية كل فصل. لا يظهر في الصفحات التي روجعت سعر منفصل للدوليين."
+  },
+  "tests": {
+   "en": "USEK entrance exams (exempt with SAT: Business 1100, Engineering 1250, Sciences 1100). English: SAT 550, TOEFL 80, IELTS 6 or Duolingo 120 exempts from the English test. French B2 or grade 10/20 exempts from the French remedial course.",
+   "ka": "USEK-ის მისაღები გამოცდები (SAT-ით გათავისუფლება: ბიზნესი 1100, ინჟინერია 1250, მეცნიერებები 1100). ინგლისური: SAT 550, TOEFL 80, IELTS 6 ან Duolingo 120 ათავისუფლებს ინგლისურის ტესტისგან. ფრანგულის B2 ან 10/20 ნიშანი ათავისუფლებს ფრანგულის გამასწორებელი კურსისგან.",
+   "ar": "امتحانات القبول في USEK (الإعفاء بنتائج SAT: الأعمال 1100، الهندسة 1250، العلوم 1100). الإنجليزية: SAT 550 أو TOEFL 80 أو IELTS 6 أو Duolingo 120 تعفي من اختبار الإنجليزية. شهادة B2 في الفرنسية أو معدل 10/20 يعفي من مقرر الفرنسية التقوية."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "SAT or ACT scores",
+     "ka": "SAT ან ACT-ის შედეგები",
+     "ar": "نتائج SAT أو ACT"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of the school diploma",
+     "ka": "საშუალო განათლების დოკუმენტის აღიარება",
+     "ar": "معادلة شهادة الثانوية"
+    }
+   }
+  ],
+  "keywords": [
+   "lebanon",
+   "jounieh",
+   "beirut",
+   "private",
+   "french",
+   "english"
+  ],
+  "sources": [
+   "https://www.usek.edu.lb/en/admission/online-admission-requirements",
+   "https://www.usek.edu.lb/en/university-fees/undergraduate-studies-1"
+  ],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "gpa_note": {
+   "en": "Academic requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "აკადემიური მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ ოფიციალური გვერდი.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "qualifications_note": {
+   "en": "How foreign school diplomas are treated was not published on the pages reviewed.",
+   "ka": "უცხოური საშუალო განათლების დოკუმენტების განხილვის წესი გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر آلية التعامل مع شهادات الثانوية الأجنبية في الصفحات التي روجعت."
+  }
+ },
+ {
+  "platform": "Samordna opptak / international admissions (NMBU)",
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 80000,
+   "currency": "NOK",
+   "per": "year",
+   "note": "2027/2028 rate for non-EU/EEA bachelor students (60 ECTS a year); paid in full before each year (20 May for internationally admitted students)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Norwegian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "norwegian-university-of-life-sciences",
+  "name": {
+   "en": "Norwegian University of Life Sciences",
+   "ka": "ნორვეგიის სიცოცხლის მეცნიერებების უნივერსიტეტი",
+   "ar": "الجامعة النرويجية لعلوم الحياة"
+  },
+  "iso": "NO",
+  "city": "Ås",
+  "lat": 59.666,
+  "lon": 10.776,
+  "type": "public",
+  "website": "https://www.nmbu.no",
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "economics",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Environment and development",
+    "Biology",
+    "Economics and administration",
+    "Animal husbandry"
+   ],
+   "ka": [
+    "გარემო და განვითარება",
+    "ბიოლოგია",
+    "ეკონომიკა და ადმინისტრირება",
+    "მეცხოველეობა"
+   ],
+   "ar": [
+    "البيئة والتنمية",
+    "الأحياء",
+    "الاقتصاد والإدارة",
+    "تربية الحيوان"
+   ]
+  },
+  "summary": {
+   "en": "Public life-sciences university in Ås near Oslo. Non-EU bachelor tuition is 80,000 NOK a year; only one bachelor programme is taught in English.",
+   "ka": "საჯარო უნივერსიტეტი სიცოცხლის მეცნიერებებში, ოსლოს მახლობლად, ოსში. არა-ევროკავშირელებისთვის ბაკალავრიატის საფასური წელიწადში 80 000 ნორვეგიული კრონაა; ინგლისურად მხოლოდ ერთი საბაკალავრო პროგრამა ისწავლება.",
+   "ar": "جامعة حكومية لعلوم الحياة في أوس قرب أوسلو. رسوم البكالوريوس لغير الأوروبيين 80,000 كرونة نرويجية سنويًا، وبرنامج بكالوريوس واحد فقط يُدرَّس بالإنجليزية."
+  },
+  "about": {
+   "en": "NMBU is a public university in Ås, south of Oslo. From 2027/28 non-EU/EEA bachelor students pay 80,000 NOK a year. The BSc in International Environment and Development Studies is taught in English; other bachelor programmes are in Norwegian. NMBU offers no scholarships for bachelor or master students, and students need about 10,000 NOK a month for living costs. The bachelor deadline and entry rules were not readable.",
+   "ka": "NMBU საჯარო უნივერსიტეტია ოსში, ოსლოს სამხრეთით. 2027/28 წლიდან არა-ევროკავშირელი ბაკალავრები წელიწადში 80 000 ნორვეგიულ კრონას იხდიან. ინგლისურად ისწავლება BSc „საერთაშორისო გარემო და განვითარების კვლევები“; დანარჩენი საბაკალავრო პროგრამები ნორვეგიულია. NMBU ბაკალავრებისა და მაგისტრანტებისთვის სტიპენდიებს არ სთავაზობს, საარსებო ხარჯებისთვის კი თვეში დაახლოებით 10 000 კრონაა საჭირო. ბაკალავრიატის ვადა და მისაღები წესები ვერ წაიკითხა.",
+   "ar": "NMBU جامعة حكومية في أوس جنوب أوسلو. ابتداءً من 2027/28 يدفع طلاب البكالوريوس من خارج الاتحاد الأوروبي والمنطقة الاقتصادية الأوروبية 80,000 كرونة سنويًا. يُدرَّس بكالوريوس العلوم في الدراسات البيئية والتنموية الدولية بالإنجليزية، وبقية برامج البكالوريوس بالنرويجية. لا تقدم الجامعة منحًا لطلاب البكالوريوس أو الماجستير، ويحتاج الطالب نحو 10,000 كرونة شهريًا للمعيشة. لم يمكن قراءة موعد التقديم وشروط القبول."
+  },
+  "aid_intl": {
+   "en": "NMBU does not offer scholarships for bachelor or master students.",
+   "ka": "NMBU ბაკალავრებისა და მაგისტრანტებისთვის სტიპენდიებს არ სთავაზობს.",
+   "ar": "لا تقدم NMBU منحًا لطلاب البكالوريوس أو الماجستير."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of language proficiency",
+     "ka": "ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة لغة الدراسة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "keywords": [
+   "norway",
+   "as",
+   "oslo",
+   "life sciences",
+   "environment"
+  ],
+  "sources": [
+   "https://www.nmbu.no/en/studies/admission/tuition-fees",
+   "https://www.nmbu.no/en/studies/admission"
+  ],
+  "tests": {
+   "en": "Entrance tests and language requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "მისაღები გამოცდები და ენის მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ უნივერსიტეტის ოფიციალური გვერდი.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "gpa_note": {
+   "en": "Academic requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "აკადემიური მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ ოფიციალური გვერდი.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "qualifications_note": {
+   "en": "How foreign school diplomas are treated was not published on the pages reviewed.",
+   "ka": "უცხოური საშუალო განათლების დოკუმენტების განხილვის წესი გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر آلية التعامل مع شهادات الثانوية الأجنبية في الصفحات التي روجعت."
+  }
+ },
+ {
+  "platform": null,
+  "application_url": "https://www.depts.ttu.edu/admissions/international/apply/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": null,
+   "note": null
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "texas-tech-university",
+  "name": {
+   "en": "Texas Tech University",
+   "ka": "ტეხასის ტექნოლოგიური უნივერსიტეტი",
+   "ar": "جامعة تكساس التقنية"
+  },
+  "iso": "US",
+  "city": "Lubbock",
+  "lat": 33.585,
+  "lon": -101.875,
+  "type": "public",
+  "website": "https://www.ttu.edu",
+  "fields": [
+   "engineering",
+   "business",
+   "natural-sciences",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business",
+    "Agricultural sciences",
+    "Natural sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი",
+    "აგრარული მეცნიერებები",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال",
+    "العلوم الزراعية",
+    "العلوم الطبيعية"
+   ]
+  },
+  "summary": {
+   "en": "Public research university in Lubbock, Texas. Its international admissions page could not be read in this review, so fees and deadlines are not listed.",
+   "ka": "საჯარო კვლევითი უნივერსიტეტი ლაბოკში, ტეხასში. საერთაშორისო მისაღები გვერდი ამ მიმოხილვისას ვერ წაიკითხა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "جامعة بحثية حكومية في لابوك بولاية تكساس. تعذّرت قراءة صفحة القبول الدولي في هذه المراجعة، لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "Texas Tech University is a public research university in Lubbock, Texas. The university's homepage links to a dedicated international undergraduate application page, but that page was blocked by a rate limit during this review. Tuition, deadlines, English test minimums and SAT policy are therefore not confirmed. Check the international admissions page before applying.",
+   "ka": "ტეხასის ტექნოლოგიური უნივერსიტეტი საჯარო კვლევითი უნივერსიტეტია ლაბოკში, ტეხასში. მთავარი გვერდი საერთაშორისო ბაკალავრების განაცხადის გვერდზე მიუთითებს, მაგრამ ეს გვერდი მიმოხილვისას ლიმიტის გამო ვერ გაიხსნა. ამიტომ საფასური, ვადები, ინგლისურის მინიმუმები და SAT-ის პოლიტიკა დადასტურებული არ არის. აპლიკაციამდე იხილეთ საერთაშორისო მისაღები გვერდი.",
+   "ar": "جامعة تكساس التقنية جامعة بحثية حكومية في لابوك بولاية تكساس. تحيل صفحتها الرئيسية إلى صفحة تقديم مخصصة للطلاب الدوليين، لكن تعذّر فتحها أثناء المراجعة بسبب حد الطلبات. لذلك لم يتم التحقق من الرسوم والمواعيد وحدود الإنجليزية وسياسة SAT. راجع صفحة القبول الدولي قبل التقديم."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Financial documents",
+     "ka": "ფინანსური დოკუმენტები",
+     "ar": "مستندات مالية"
+    }
+   }
+  ],
+  "keywords": [
+   "usa",
+   "texas",
+   "lubbock",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.ttu.edu"
+  ],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "მისაღები გამოცდები და ენის მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ უნივერსიტეტის ოფიციალური გვერდი.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "gpa_note": {
+   "en": "Academic requirements were not published on the pages reviewed. Check the official admissions page.",
+   "ka": "აკადემიური მოთხოვნები გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული. იხილეთ ოფიციალური გვერდი.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي روجعت. راجع صفحة القبول الرسمية."
+  },
+  "qualifications_note": {
+   "en": "How foreign school diplomas are treated was not published on the pages reviewed.",
+   "ka": "უცხოური საშუალო განათლების დოკუმენტების განხილვის წესი გადამოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر آلية التعامل مع شهادات الثانوية الأجنبية في الصفحات التي روجعت."
+  }
+ }
+]

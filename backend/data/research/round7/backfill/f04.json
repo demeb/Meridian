@@ -1,0 +1,610 @@
+[
+{
+"id": "university-of-copenhagen",
+"name": "University of Copenhagen",
+"iso": "DK",
+"website": "https://studies.ku.dk/bachelor/",
+"application_url": null,
+"tests": "No SAT/ACT. Nearly all bachelor's programmes are taught in Danish and require 'Studieprøven' (Danish test) plus English at Danish B level (approx. IELTS 6.5) and subject-specific requirements.",
+"gpa_note": "",
+"languages": [
+"Danish",
+"English"
+],
+"strengths": [
+"Life sciences & pharmacy",
+"Mathematics & Physics",
+"Economics",
+"Political Science",
+"Medicine",
+"Computer Science"
+]
+},
+{
+"id": "penn-state-university",
+"name": "Pennsylvania State University (Penn State)",
+"iso": "US",
+"website": "https://www.psu.edu/admission/undergraduate",
+"application_url": "https://www.psu.edu/admission/undergraduate/how-to-apply/international-students",
+"tests": "Test-optional: SAT/ACT not required (can be used to prove English). English proof for non-native speakers: Duolingo 120, TOEFL iBT 80 (before 21 Jan 2026) or 4.5 (new scale), IELTS Academic 6.5; SAT EBRW 570 or ACT English 24 also accepted.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering",
+"Business (Smeal)",
+"Meteorology & atmospheric science",
+"Information sciences & technology",
+"Agricultural sciences",
+"Communications"
+]
+},
+{
+"id": "university-of-washington",
+"name": "University of Washington (Seattle)",
+"iso": "US",
+"website": "https://admit.washington.edu",
+"application_url": "https://admit.washington.edu/apply/first-year/",
+"tests": "SAT/ACT no longer required for most applicants (required only for homeschooled students or schools without standard grades). International applicants must submit TOEFL iBT 76 (before 21 Jan 2026) or 4.0 (new scale), IELTS 6.0, or Duolingo 110 unless exempt.",
+"gpa_note": "Middle 50% admitted high-school GPA (autumn 2025): 3.75-3.98 on a 4.0 scale (95-100 on a 100 scale).",
+"languages": [
+"English"
+],
+"strengths": [
+"Computer science (Allen School)",
+"Engineering",
+"Medicine & health sciences",
+"Business (Foster)",
+"Oceanography & environmental science",
+"Information science"
+]
+},
+{
+"id": "boston-university",
+"name": "Boston University",
+"iso": "US",
+"website": "https://www.bu.edu/admissions",
+"application_url": null,
+"tests": "Test-optional. English test required for non-native speakers; admitted students typically have TOEFL 100+ (old scale), IELTS 7.0+ or Duolingo 125+ (verify).",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Communication & journalism",
+"Business (Questrom)",
+"Biomedical engineering",
+"International relations (Pardee)",
+"Health sciences"
+]
+},
+{
+"id": "the-university-of-osaka",
+"name": "The University of Osaka",
+"iso": "JP",
+"website": "https://www.osaka-u.ac.jp",
+"application_url": "https://iudp.hus.osaka-u.ac.jp/admissions/",
+"tests": "English-taught Human Sciences programme: applicants submit a copy of a standardized academic test result (e.g. SAT, ACT, AP, IB or A-level) plus proof of English; screening is document-based, with interviews for some. Japanese-taught degrees require the EJU (Examination for Japanese University Admission) and Japanese proficiency.",
+"gpa_note": "Comprehensive document screening; strong grades and standardized results are expected.",
+"languages": [
+"Japanese",
+"English"
+],
+"strengths": [
+"Engineering",
+"Medicine",
+"Chemistry and biology",
+"Human sciences",
+"Economics"
+]
+},
+{
+"id": "university-of-alberta",
+"name": "University of Alberta",
+"iso": "CA",
+"website": "https://www.ualberta.ca/en/admissions/international-undergraduate-admission.html",
+"application_url": "https://www.ualberta.ca/en/admissions/international-undergraduate-admission.html",
+"tests": "SAT/ACT not required. English: IELTS Academic 6.5 (no band below 6.0), TOEFL iBT 90 (no section below 21) or 4.5 on the new scale (no band below 4.5), Duolingo 120 (no subscore below 100). Some programmes (e.g. Education, Nursing) also require spoken-English scores.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering",
+"Computing science & AI",
+"Medicine & health sciences",
+"Business",
+"Agricultural, life & environmental sciences",
+"Energy & petroleum engineering"
+]
+},
+{
+"id": "institute-of-science-tokyo",
+"name": "Institute of Science Tokyo",
+"iso": "JP",
+"website": "https://www.isct.ac.jp",
+"application_url": "https://admissions.isct.ac.jp/en/013/undergraduate",
+"tests": "GSEP (English-taught) uses a two-stage document screening followed by later selection; strong maths and science and English proficiency are required. Japanese-taught programmes for privately financed international students require the EJU and Japanese ability. Exact score thresholds are not published.",
+"gpa_note": "Very strong mathematics and science preparation is expected.",
+"languages": [
+"Japanese",
+"English"
+],
+"strengths": [
+"Engineering",
+"Materials science",
+"Chemistry",
+"Computer science",
+"Medicine and dentistry"
+]
+},
+{
+"id": "university-of-nottingham",
+"name": "University of Nottingham",
+"iso": "GB",
+"website": "https://www.nottingham.ac.uk",
+"application_url": "https://www.nottingham.ac.uk/studywithus/international-applicants/index.aspx",
+"tests": "No SAT/ACT for A-level/IB applicants. English: IELTS requirements are listed per course, commonly 6.5 with no element below 6.0 (e.g. Computer Science); PTE and TOEFL iBT also accepted.",
+"gpa_note": "Course-specific; e.g. Computer Science BSc: AAA (AAB incl. A in computer science) or IB 34 points.",
+"languages": [
+"English"
+],
+"strengths": [
+"Computer Science",
+"Engineering",
+"Pharmacy",
+"Medicine",
+"Economics",
+"Law",
+"Sport sciences"
+]
+},
+{
+"id": "freie-universitat-berlin",
+"name": "Freie Universität Berlin",
+"iso": "DE",
+"website": "https://www.fu-berlin.de/en",
+"application_url": "https://www.fu-berlin.de/en/studium/bewerbung/bachelor/ausl-hzb/index.html",
+"tests": "No SAT/ACT. Bachelor’s programmes are taught in German: enrolment requires C1-level German (DSH-2, TestDaF 4×4, telc C1 Hochschule, DSD II or Goethe C2). Applicants whose school diploma does not give direct access must first complete a Studienkolleg (B2 German to apply).",
+"gpa_note": "School-leaving certificate recognised as equivalent to the German Abitur (otherwise Studienkolleg first); restricted programmes select by grade average.",
+"languages": [
+"German"
+],
+"strengths": [
+"Political Science",
+"History",
+"Law",
+"Economics & Business",
+"Biology & Chemistry",
+"Mathematics & Computer Science"
+]
+},
+{
+"id": "university-of-zurich",
+"name": "University of Zurich",
+"iso": "CH",
+"website": "https://www.uzh.ch/en.html",
+"application_url": "https://www.uzh.ch/en/studies/application/bachelor.html",
+"tests": "No SAT/ACT. Bachelor’s programmes are mainly taught in German: C1 German proof required (TestDaF, DSH, Goethe C1/C2, etc.). Foreign school certificates must meet Swiss subject requirements (first language, foreign language, maths, sciences, humanities); otherwise an entrance exam may be required.",
+"gpa_note": "Foreign upper-secondary certificate equivalent to the Swiss Matura with the required subject spread; country-specific grade minimums may apply.",
+"languages": [
+"German"
+],
+"strengths": [
+"Economics & Business",
+"Law",
+"Medicine",
+"Psychology",
+"Political Science",
+"Biology & Life Sciences"
+]
+},
+{
+"id": "purdue-university",
+"name": "Purdue University",
+"iso": "US",
+"website": "https://admissions.purdue.edu",
+"application_url": null,
+"tests": "SAT or ACT required. English: TOEFL iBT 80 (old scale, with subscores), IELTS 6.5 or Duolingo 115 unless exempt (verify current minimums).",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Aerospace engineering",
+"Engineering (all fields)",
+"Computer science",
+"Agriculture",
+"Aviation technology"
+]
+},
+{
+"id": "university-college-dublin",
+"name": "University College Dublin",
+"iso": "IE",
+"website": "https://www.ucd.ie",
+"application_url": "https://www.ucd.ie/global/study-at-ucd/faqs/",
+"tests": "SAT/ACT not required but considered for US-curriculum applicants (unweighted GPA 3.2 plus AP/SAT/ACT also considered). English: IELTS Academic 6.5 (6.0 in each band), TOEFL iBT 90 (writing 21, others 19) or 4.5 on the new scale, Duolingo 120 (110 in each sub-score), Cambridge C1/C2 accepted.",
+"gpa_note": "Country-specific requirements; US curriculum: cumulative unweighted GPA 3.2/4.0, with ACT/SAT/AP considered.",
+"languages": [
+"English"
+],
+"strengths": [
+"Business & Commerce",
+"Computer Science",
+"Engineering",
+"Medicine",
+"Veterinary Medicine",
+"Economics",
+"Law"
+]
+},
+{
+"id": "tohoku-university",
+"name": "Tohoku University",
+"iso": "JP",
+"website": "https://www.tohoku.ac.jp/en/",
+"application_url": "https://www.tohoku.ac.jp/en/admissions/admission_undergraduate.html",
+"tests": "English-taught courses (Gateway College): comprehensive document-based selection. Japanese-taught programmes: EJU subjects set by each faculty, TOEFL iBT 79+, and the faculty's own exam or interview in Japanese.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Materials Science",
+"Engineering",
+"Physics",
+"Chemistry",
+"Medicine",
+"Agriculture"
+]
+},
+{
+"id": "queen-mary-university-of-london",
+"name": "Queen Mary University of London",
+"iso": "GB",
+"website": "https://www.qmul.ac.uk",
+"application_url": "https://www.qmul.ac.uk/undergraduate/apply/entry/",
+"tests": "No SAT/ACT for A-level/IB applicants. English requirements are set per course on Queen Mary’s English language entry requirements page; pre-sessional English is available.",
+"gpa_note": "Course-specific; e.g. Economics BSc: AAA incl. Maths, or IB 36 with 6,6,6 at HL.",
+"languages": [
+"English"
+],
+"strengths": [
+"Medicine & Dentistry (Barts)",
+"Law",
+"Economics",
+"Computer Science",
+"Engineering",
+"English & Drama"
+]
+},
+{
+"id": "rwth-aachen-university",
+"name": "RWTH Aachen University",
+"iso": "DE",
+"website": "https://www.rwth-aachen.de/go/id/a/?lidx=1",
+"application_url": "https://www.rwth-aachen.de/cms/root/studium/Vor-dem-Studium/~bdpsux/Internationale-Studieninteressierte/lidx/1/",
+"tests": "No SAT/ACT. Bachelor’s programmes are taught in German: proof of German (DSH-2, TestDaF 4×4 or equivalent C1) required. Foreign school certificates must give direct university access in Germany; otherwise a Studienkolleg is needed first.",
+"gpa_note": "School-leaving certificate recognised as equivalent to the German Abitur; NC programmes select by grade.",
+"languages": [
+"German"
+],
+"strengths": [
+"Mechanical Engineering",
+"Electrical Engineering",
+"Computer Science",
+"Civil Engineering",
+"Physics",
+"Architecture"
+]
+},
+{
+"id": "technical-university-of-denmark",
+"name": "Technical University of Denmark (DTU)",
+"iso": "DK",
+"website": "https://www.dtu.dk/english",
+"application_url": "https://www.dtu.dk/english/education/undergraduate/general-engineering/admission-and-deadlines",
+"tests": "No SAT/ACT. Subject requirements (Danish levels): Mathematics A, Physics B, Chemistry B, English B. English test: IELTS Academic 6.5, TOEFL iBT 88 (or 4.5 on the post-Jan-2026 scale), Cambridge C1/C2 180; IB and European Bac holders are exempt.",
+"gpa_note": "Upper-secondary exam equivalent to Danish requirements with Mathematics A, Physics B, Chemistry B, English B; quota 2 assesses grades and personal statement.",
+"languages": [
+"English",
+"Danish"
+],
+"strengths": [
+"General Engineering",
+"Mechanical Engineering",
+"Electrical Engineering",
+"Biotechnology",
+"Data Science & AI"
+]
+},
+{
+"id": "pohang-university-of-science-and-technology-postech",
+"name": "Pohang University of Science and Technology (POSTECH)",
+"iso": "KR",
+"website": "https://postech.ac.kr",
+"application_url": "https://adm-iu.postech.ac.kr/user/admission/guide/international.do",
+"tests": "No SAT/ACT requirement stated; selection by document review and, if necessary, interview. Strong maths and science records and English proficiency are expected; exact minimums are in POSTECH's admission guideline.",
+"gpa_note": "Very strong mathematics and science preparation is expected.",
+"languages": [
+"English",
+"Korean"
+],
+"strengths": [
+"Materials science",
+"Chemical engineering",
+"Physics",
+"Life sciences",
+"Computer science"
+]
+},
+{
+"id": "king-saud-university",
+"name": "King Saud University",
+"iso": "SA",
+"website": "https://ksu.edu.sa/",
+"application_url": null,
+"tests": "No SAT/ACT needed; admission is based on school-leaving results. English: needed for English-taught colleges; non-Arabic speakers often start with an Arabic language year.",
+"gpa_note": "",
+"languages": [
+"Arabic",
+"English"
+],
+"strengths": [
+"Medicine",
+"Engineering",
+"Pharmacy",
+"Dentistry",
+"Computer science",
+"Islamic studies",
+"Arabic language & literature",
+"Agriculture"
+]
+},
+{
+"id": "sungkyunkwan-university-skku",
+"name": "Sungkyunkwan University (SKKU)",
+"iso": "KR",
+"website": "https://www.skku.edu",
+"application_url": "https://admission-global.skku.edu/eng/index.html",
+"tests": "No SAT/ACT requirement (international results may be submitted as supporting evidence). Korean-taught programmes require TOPIK (usually level 3–4 or higher); English-taught tracks require TOEFL/IELTS or equivalent. Exact minimums are set in each semester's admission guideline.",
+"gpa_note": "Holistic document review; strong school records expected.",
+"languages": [
+"Korean",
+"English"
+],
+"strengths": [
+"Semiconductors and electronics",
+"Business",
+"Engineering",
+"Pharmacy",
+"Confucian studies"
+]
+},
+{
+"id": "universidade-de-sao-paulo",
+"name": "University of São Paulo (USP)",
+"iso": "BR",
+"website": "https://www5.usp.br/",
+"application_url": "https://www5.usp.br/english/education/undergraduate/",
+"tests": "International applicants can sit the Fuvest vestibular (entrance exam, in Portuguese) or enter through Sisu using ENEM scores; PEC-G for partner countries; transfers only into unfilled places. Most teaching is in Portuguese.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Medicine",
+"Engineering (Poli-USP)",
+"Law",
+"Economics and Business (FEA)",
+"Architecture and Urbanism",
+"Computer Science"
+]
+},
+{
+"id": "qatar-university",
+"name": "Qatar University",
+"iso": "QA",
+"website": "https://www.qu.edu.qa/",
+"application_url": null,
+"tests": "No SAT/ACT needed; admission is based on school-leaving results. English: IELTS/TOEFL or QU placement for English-taught programmes. Some colleges require additional placement or standardised tests.",
+"gpa_note": "",
+"languages": [
+"Arabic",
+"English"
+],
+"strengths": [
+"Engineering",
+"Medicine",
+"Pharmacy",
+"Business",
+"Law",
+"Islamic studies",
+"Education",
+"Health sciences"
+]
+},
+{
+"id": "karlsruhe-institute-of-technology",
+"name": "Karlsruhe Institute of Technology (KIT)",
+"iso": "DE",
+"website": "https://www.kit.edu/english/",
+"application_url": "https://www.sle.kit.edu/english/vorstudium/bachelor-mechanical-engineering-international.php",
+"tests": "Mechanical Engineering (International): one aptitude test required, SAT 1200+, ACT 24+ or TestAS core 75%+; English B2: TOEFL iBT 90 or IELTS 6.5 (no section below 5.5), or A-level English B / IB English 5. German-taught programmes need C1 German (DSH-2/TestDaF). APS certificate required for some countries.",
+"gpa_note": "School certificate equivalent to German university entrance; for Mechanical Engineering (International) a minimum SAT 1200 / ACT 24 / TestAS 75% and good maths and physics.",
+"languages": [
+"German",
+"English"
+],
+"strengths": [
+"Mechanical Engineering",
+"Electrical Engineering & IT",
+"Informatics",
+"Physics",
+"Chemical & Process Engineering",
+"Industrial Engineering & Management"
+]
+},
+{
+"id": "sapienza-university-of-rome",
+"name": "Sapienza University of Rome",
+"iso": "IT",
+"website": "https://www.uniroma1.it/en",
+"application_url": "https://www.uniroma1.it/en/en/admissions",
+"tests": "No SAT/ACT. High-school diploma after at least 12 years of schooling; English proficiency for English-taught programmes; non-EU visa applicants to Italian-taught programmes need certified Italian B2.",
+"gpa_note": "High-school diploma after at least 12 years of schooling; programme-specific requirements in the admission requirements document.",
+"languages": [
+"Italian",
+"English"
+],
+"strengths": [
+"Classics & Archaeology",
+"Physics",
+"Engineering",
+"Medicine",
+"Computer Science & AI",
+"Architecture"
+]
+},
+{
+"id": "university-of-southampton",
+"name": "University of Southampton",
+"iso": "GB",
+"website": "https://www.southampton.ac.uk",
+"application_url": "https://www.southampton.ac.uk/study/undergraduate/apply",
+"tests": "No SAT/ACT required for A-level/IB applicants. English: typically IELTS Academic 6.5 with at least 6.0 in each component (e.g. Computer Science); other tests listed on the English language pages.",
+"gpa_note": "Course-specific; e.g. Computer Science BSc: AAB incl. A in Maths, or IB 34 (17 at HL) with 6 in HL Maths.",
+"languages": [
+"English"
+],
+"strengths": [
+"Computer Science & Electronics",
+"Engineering (Aeronautics, Ship Science)",
+"Oceanography & Earth Sciences",
+"Economics",
+"Law",
+"Medicine"
+]
+},
+{
+"id": "university-of-waterloo",
+"name": "University of Waterloo",
+"iso": "CA",
+"website": "https://uwaterloo.ca/future-students",
+"application_url": "https://uwaterloo.ca/future-students/international-students",
+"tests": "SAT/ACT not required. English: TOEFL iBT 90 (25 writing, 25 speaking) for tests before 21 Jan 2026, or 4.5 overall (5 writing, 5 speaking) after; IELTS Academic 6.5 (6.5 writing and speaking, 6.0 reading and listening); Duolingo 120 with Literacy and Production 125.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Computer science",
+"Software & other engineering",
+"Mathematics (incl. actuarial science)",
+"Accounting & financial management",
+"Systems design engineering",
+"Co-op (work-integrated) programmes"
+]
+},
+{
+"id": "utrecht-university",
+"name": "Utrecht University",
+"iso": "NL",
+"website": "https://www.uu.nl/en",
+"application_url": "https://www.uu.nl/en/bachelors/general-information/how-to-apply/application-procedure",
+"tests": "No SAT/ACT for most programmes. English (EMI-ready level): IELTS Academic 6.0 (speaking 5.5, listening 6.0, reading 6.0, writing 5.5), TOEFL iBT 83 (pre-2026) or 4.5 (new scale), Cambridge C1 169. Some programmes require higher EMI levels.",
+"gpa_note": "Diploma equivalent to Dutch VWO with programme-specific subjects (e.g. maths); selective programmes rank on grades, motivation and activities.",
+"languages": [
+"English"
+],
+"strengths": [
+"Liberal Arts & Sciences (University College Utrecht)",
+"Philosophy, Politics & Economics",
+"Global Sustainability Science",
+"Artificial Intelligence",
+"Psychology",
+"Veterinary Medicine"
+]
+},
+{
+"id": "lomonosov-moscow-state-university",
+"name": "Lomonosov Moscow State University",
+"iso": "RU",
+"website": "https://www.msu.ru",
+"application_url": "https://www.msu.ru",
+"tests": "No SAT/ACT. Teaching is in Russian: foreign applicants take MSU's entrance examinations (or apply via the government quota) and need Russian proficiency; a preparatory faculty offers a Russian-language foundation year.",
+"gpa_note": "Strong secondary or pre-university results are expected; competitive programmes require top grades.",
+"languages": [
+"Russian"
+],
+"strengths": [
+"Mathematics and mechanics",
+"Physics",
+"Chemistry",
+"Computational mathematics",
+"Economics"
+]
+},
+{
+"id": "university-of-st-andrews",
+"name": "University of St Andrews",
+"iso": "GB",
+"website": "https://www.st-andrews.ac.uk",
+"application_url": "https://www.st-andrews.ac.uk/study/undergraduate/apply/",
+"tests": "No SAT/ACT needed for A-level/IB applicants (US applicants may use SAT/ACT/AP). English test required if English is not your first language (scores listed on the English language requirements pages).",
+"gpa_note": "High offers, e.g. Economics MA: AAA (minimum ABB) at A-level, or IB 38 with 6,6,6 HL (minimum 36).",
+"languages": [
+"English"
+],
+"strengths": [
+"International Relations",
+"Economics",
+"Physics & Astronomy",
+"Medicine",
+"Classics & History",
+"Joint degree with William & Mary"
+]
+},
+{
+"id": "indian-institute-of-technology-delhi-iitd",
+"name": "Indian Institute of Technology Delhi (IITD)",
+"iso": "IN",
+"website": "https://home.iitd.ac.in",
+"application_url": "https://jeeadv.ac.in",
+"tests": "No SAT/ACT. B.Tech/B.S. admission at every IIT is through JEE (Advanced) and JoSAA seat allocation. Foreign nationals (and OCI/PIO cardholders from 4 March 2021 who opt for it) do NOT need JEE (Main) and may register for JEE (Advanced) directly; they compete for supernumerary foreign-national seats. Teaching is in English; no IELTS/TOEFL is required.",
+"gpa_note": "Admission is by JEE (Advanced) rank; foreign-national seats are allotted on merit among foreign candidates.",
+"languages": [
+"English"
+],
+"strengths": [
+"Computer science",
+"Electrical engineering",
+"Mechanical engineering",
+"Mathematics and computing",
+"Chemical engineering"
+]
+},
+{
+"id": "leiden-university",
+"name": "Leiden University",
+"iso": "NL",
+"website": "https://www.universiteitleiden.nl/en/education/bachelors",
+"application_url": null,
+"tests": "No SAT/ACT for most systems. English-taught bachelor's: IELTS 6.5 (6.0 each) or TOEFL iBT 90 typical; some higher (e.g. 7.0 for LUC). Selective programmes add essays, online tests or interviews.",
+"gpa_note": "",
+"languages": [
+"English",
+"Dutch"
+],
+"strengths": [
+"International Studies",
+"Law & international law",
+"Psychology",
+"Archaeology",
+"Liberal Arts & Sciences (LUC)",
+"Security Studies"
+]
+}
+]

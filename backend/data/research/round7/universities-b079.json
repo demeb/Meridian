@@ -1,0 +1,1907 @@
+[
+ {
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The university website reset the connection (ECONNRESET), so no deadline is verified.",
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "languages": [
+   "Greek"
+  ],
+  "english_bachelors": null,
+  "aid_intl": {
+   "en": "Not verified: the official site could not be reached.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური საიტი მიუწვდომელი იყო.",
+   "ar": "لم يُتحقق: تعذر الوصول إلى الموقع الرسمي."
+  },
+  "tests": {
+   "en": "Not verified: the official site could not be reached.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური საიტი მიუწვდომელი იყო.",
+   "ar": "لم يُتحقق: تعذر الوصول إلى الموقع الرسمي."
+  },
+  "gpa_note": {
+   "en": "Not verified: the official site could not be reached.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური საიტი მიუწვდომელი იყო.",
+   "ar": "لم يُتحقق: تعذر الوصول إلى الموقع الرسمي."
+  },
+  "qualifications_note": {
+   "en": "Not verified: the official site could not be reached.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური საიტი მიუწვდომელი იყო.",
+   "ar": "لم يُتحقق: تعذر الوصول إلى الموقع الرسمي."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "id": "democritus-university-of-thrace-duth",
+  "name": {
+   "en": "Democritus University of Thrace (DUTH)",
+   "ka": "თრაკიის დემოკრიტეს უნივერსიტეტი (DUTH)",
+   "ar": "جامعة ديموقريطس في تراقيا (DUTH)"
+  },
+  "iso": "GR",
+  "city": "Komotini",
+  "lat": 41.125,
+  "lon": 25.417,
+  "type": "public",
+  "website": "https://www.duth.gr",
+  "platform": "Not verified",
+  "application_url": "https://www.duth.gr",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Not verified: the official site could not be reached."
+  },
+  "fields": [
+   "engineering",
+   "law",
+   "education",
+   "social-sciences",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Law",
+    "Education",
+    "Medicine",
+    "Economics"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "სამართალი",
+    "განათლება",
+    "მედიცინა",
+    "ეკონომიკა"
+   ],
+   "ar": [
+    "الهندسة",
+    "القانون",
+    "التعليم",
+    "الطب",
+    "الاقتصاد"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Komotini and other cities of Thrace, Greece. Its website was unreachable, so admission and fee data are not verified.",
+   "ka": "სახელმწიფო უნივერსიტეტი კომოტინსა და თრაკიის სხვა ქალაქებში, საბერძნეთი. საიტი მიუწვდომელი იყო, ამიტომ მიღებისა და საფასურების მონაცემები გადამოწმებული არ არის.",
+   "ar": "جامعة حكومية في كوموتيني ومدن أخرى من تراقيا باليونان. تعذر الوصول إلى موقعها، لذا لم يُتحقق من بيانات القبول والرسوم."
+  },
+  "about": {
+   "en": "Democritus University of Thrace (DUTH) is a public university in Greece with its seat in Komotini. The official website reset the connection during research, so there is no verified information on non-EU bachelor admission, tuition, language of teaching or deadlines. Contact the university before planning an application.",
+   "ka": "თრაკიის დემოკრიტეს უნივერსიტეტი (DUTH) საბერძნეთის სახელმწიფო უნივერსიტეტია, რომლის ცენტრი კომოტინშია. კვლევისას ოფიციალურმა საიტმა კავშირი გაწყვიტა, ამიტომ არა-ევროკავშირის მოქალაქეთა ბაკალავრიატში მიღების, საფასურის, სწავლების ენისა და ვადების შესახებ გადამოწმებული ინფორმაცია არ არის. განაცხადამდე დაუკავშირდით უნივერსიტეტს.",
+   "ar": "جامعة ديموقريطس في تراقيا (DUTH) جامعة حكومية في اليونان مقرها كوموتيني. أعاد الموقع الرسمي ضبط الاتصال أثناء البحث، فلا توجد معلومات موثقة عن قبول غير الأوروبيين في البكالوريوس والرسوم ولغة التدريس والمواعيد. يُرجى التواصل مع الجامعة قبل التقديم."
+  },
+  "keywords": [
+   "greece",
+   "komotini",
+   "thrace",
+   "public"
+  ],
+  "sources": [
+   "https://www.duth.gr"
+  ]
+ },
+ {
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Application dates are on deyos.deu.edu.tr and were not readable on the pages checked.",
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "DEYOS (Dokuz Eylul international student exam)"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "languages": [
+   "Turkish"
+  ],
+  "english_bachelors": null,
+  "id": "dokuz-eylul-universitesi",
+  "name": {
+   "en": "Dokuz Eylul Universitesi",
+   "ka": "დოკუზ ეილულის უნივერსიტეტი",
+   "ar": "جامعة دوكوز أيلول"
+  },
+  "iso": "TR",
+  "city": "Izmir",
+  "lat": 38.371,
+  "lon": 27.203,
+  "type": "public",
+  "website": "https://www.deu.edu.tr",
+  "platform": "Direct application (ogrbasvuru.deu.edu.tr) using DEYOS exam or accepted exam/diploma scores",
+  "application_url": "https://global.deu.edu.tr/general-information/",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "TRY",
+   "per": "year",
+   "note": "Not found on the pages checked."
+  },
+  "qualifications_note": {
+   "en": "Placement uses the DEYOS exam or an exam score or diploma grade accepted by the University Senate. High school exams such as Abitur, IB, GCE and Tawjihi are listed with no validity limit; SAT results are valid for 2 years.",
+   "ka": "განაწილება ხდება DEYOS გამოცდით ან უნივერსიტეტის სენატის მიერ აღიარებული გამოცდის ქულით/დიპლომის ნიშნით. საშუალო სკოლის გამოცდები, როგორიცაა Abitur, IB, GCE და Tawjihi, ვადით შეზღუდული არ არის; SAT-ის შედეგი 2 წელი მოქმედებს.",
+   "ar": "يتم التوزيع بحسب امتحان DEYOS أو درجة امتحان أو شهادة يقبلها مجلس الجامعة. امتحانات الثانوية مثل Abitur وIB وGCE وTawjihi بلا مدة صلاحية، ونتائج SAT صالحة لمدة سنتين."
+  },
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "education",
+   "natural-sciences",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Education",
+    "Fine arts",
+    "Business"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "განათლება",
+    "სახვითი ხელოვნება",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "التعليم",
+    "الفنون الجميلة",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Izmir, Turkey. International applicants are placed through its own DEYOS exam or accepted SAT, IB, GCE and similar scores.",
+   "ka": "სახელმწიფო უნივერსიტეტი იზმირში, თურქეთი. უცხოელი აპლიკანტები ნაწილდებიან საკუთარი DEYOS გამოცდით ან აღიარებული SAT, IB, GCE და მსგავსი ქულებით.",
+   "ar": "جامعة حكومية في إزمير بتركيا. يُقبل المتقدمون الدوليون عبر امتحان DEYOS الخاص بالجامعة أو درجات SAT وIB وGCE المقبولة."
+  },
+  "about": {
+   "en": "Dokuz Eylul University is a public university in Izmir on Turkey's Aegean coast. International bachelor applicants are placed using the DEYOS exam, or using an exam score or diploma grade accepted by the University Senate, such as SAT, IB, GCE, Abitur or Tawjihi. Applicants using accepted scores pay no exam fee. Application dates, tuition and English-taught programmes were not readable on the pages checked.",
+   "ka": "დოკუზ ეილულის უნივერსიტეტი სახელმწიფო უნივერსიტეტია იზმირში, თურქეთის ეგეოსის სანაპიროზე. ბაკალავრიატის უცხოელი აპლიკანტები ნაწილდებიან DEYOS გამოცდით ან სენატის მიერ აღიარებული გამოცდის ქულით/დიპლომის ნიშნით, მაგალითად SAT, IB, GCE, Abitur ან Tawjihi. აღიარებული ქულების გამოყენებისას გამოცდის საფასური არ იხდება. განაცხადის ვადები, სწავლის საფასური და ინგლისურენოვანი პროგრამები შემოწმებულ გვერდებზე წასაკითხი არ იყო.",
+   "ar": "جامعة دوكوز أيلول جامعة حكومية في إزمير على ساحل بحر إيجه التركي. يُقبل المتقدمون الدوليون للبكالوريوس عبر امتحان DEYOS أو درجة امتحان أو شهادة يقبلها مجلس الجامعة مثل SAT وIB وGCE وAbitur وTawjihi. لا يدفع من يستخدم الدرجات المقبولة رسوم امتحان. لم تكن المواعيد والرسوم والبرامج بالإنجليزية مقروءة في الصفحات."
+  },
+  "aid_intl": {
+   "en": "The scholarships page names no scheme for international students; it mentions aid for successful and needy students from the Credit and Hostels Institution and private donors.",
+   "ka": "სტიპენდიების გვერდზე უცხოელებისთვის კონკრეტული პროგრამა დასახელებული არ არის; მოხსენიებულია დახმარება წარმატებული და გაჭირვებული სტუდენტებისთვის საკრედიტო და საერთო საცხოვრებლების ინსტიტუტისა და კერძო პირების მხრიდან.",
+   "ar": "لا تذكر صفحة المنح برنامجًا للطلاب الدوليين؛ وتشير إلى دعم للطلاب المتفوقين المحتاجين من مؤسسة القروض والسكن الطلابي ومن أفراد وجهات خاصة."
+  },
+  "tests": {
+   "en": "Applicants use the DEYOS exam (with an exam fee) or Senate-accepted scores such as SAT (valid 2 years), IB, GCE, Abitur or Tawjihi.",
+   "ka": "აპლიკანტები იყენებენ DEYOS გამოცდას (გამოცდის საფასურით) ან სენატის მიერ აღიარებულ ქულებს, მაგალითად SAT (2 წელი მოქმედებს), IB, GCE, Abitur ან Tawjihi.",
+   "ar": "يستخدم المتقدمون امتحان DEYOS (برسوم امتحان) أو درجات يقبلها المجلس مثل SAT (صالحة سنتين) وIB وGCE وAbitur وTawjihi."
+  },
+  "gpa_note": {
+   "en": "Not found on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე ვერ მოიძებნა.",
+   "ar": "غير متوفر في الصفحات التي جرى فحصها."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "turkey",
+   "izmir",
+   "deyos",
+   "public"
+  ],
+  "sources": [
+   "https://www.deu.edu.tr/en/",
+   "https://global.deu.edu.tr/",
+   "https://global.deu.edu.tr/general-information/",
+   "https://global.deu.edu.tr/scholarships/"
+  ]
+ },
+ {
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Documents are due by 30 April if you need a Russian visa and by 10 July if you do not (year not stated on the page); the Preparatory Department deadline is 30 September.",
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Entrance exams: Russian, mathematics and one subject (physics, chemistry, informatics, social studies or geography)"
+  ],
+  "scholarships": [
+   {
+    "name": "Russian Government quota (Rossotrudnichestvo) free places",
+    "url": "https://priem.spmi.ru/priem-inostrannykh-grazhdan",
+    "coverage": "full"
+   }
+  ],
+  "verified_at": "2026-11-01",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "languages": [
+   "Russian"
+  ],
+  "english_bachelors": null,
+  "id": "empress-catherine-ii-saint-petersburg-mining-university",
+  "name": {
+   "en": "Empress Catherine II Saint Petersburg Mining University",
+   "ka": "იმპერატრიცა ეკატერინე II-ის სანქტ-პეტერბურგის სამთო უნივერსიტეტი",
+   "ar": "جامعة الإمبراطورة كاثرين الثانية للتعدين في سانت بطرسبرغ"
+  },
+  "iso": "RU",
+  "city": "St. Petersburg",
+  "lat": 59.928,
+  "lon": 30.266,
+  "type": "public",
+  "website": "https://www.spmi.ru",
+  "platform": "Direct application via the International Students Office (ovp@spmi.ru); Russian Government quota via education-in-russia.com",
+  "application_url": "https://en.spmi.ru/education/guide",
+  "tuition_intl": {
+   "amount": 800000,
+   "currency": "RUB",
+   "per": "year",
+   "note": "2025/26 figure from the application guide for basic programmes; the page layout is ambiguous, so confirm with the university. Dormitory about 5,500 RUB a month."
+  },
+  "qualifications_note": {
+   "en": "Applicants submit the original and a certified copy of the education certificate, legalized transcripts and Russian translations certified by a Russian embassy or notary.",
+   "ka": "აპლიკანტები წარადგენენ განათლების დოკუმენტის ორიგინალსა და დამოწმებულ ასლს, ლეგალიზებულ ატესტატის ამონაწერს და რუსულ თარგმანს, დამოწმებულს რუსეთის საელჩოს ან ნოტარიუსის მიერ.",
+   "ar": "يقدم المتقدمون أصل شهادة الدراسة ونسخة مصدقة وكشف درجات موثقًا وترجمات روسية مصدقة من سفارة روسيا أو كاتب عدل."
+  },
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "environment",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Mining engineering",
+    "Petroleum engineering",
+    "Geology",
+    "Environmental engineering",
+    "Metallurgy"
+   ],
+   "ka": [
+    "სამთო ინჟინერია",
+    "ნავთობის ინჟინერია",
+    "გეოლოგია",
+    "გარემოსდაცვითი ინჟინერია",
+    "მეტალურგია"
+   ],
+   "ar": [
+    "هندسة التعدين",
+    "هندسة البترول",
+    "الجيولوجيا",
+    "الهندسة البيئية",
+    "علم المعادن"
+   ]
+  },
+  "summary": {
+   "en": "Public technical university in St. Petersburg focused on mining, oil and geology. Tuition is listed at 800,000 RUB a year; Russian Government quota places are free.",
+   "ka": "სახელმწიფო ტექნიკური უნივერსიტეტი სანქტ-პეტერბურგში, სამთო, ნავთობისა და გეოლოგიის მიმართულებით. სწავლის საფასური მითითებულია 800 000 რუბლი წელიწადში; რუსეთის მთავრობის კვოტით ადგილები უფასოა.",
+   "ar": "جامعة تقنية حكومية في سانت بطرسبرغ متخصصة في التعدين والنفط والجيولوجيا. الرسوم المعلنة 800,000 روبل سنويًا، وأماكن حصة الحكومة الروسية مجانية."
+  },
+  "about": {
+   "en": "The Mining University is a public technical university in St. Petersburg. Foreign bachelor applicants either win a free Russian Government quota place through education-in-russia.com, which needs no entrance exams, or pay for contract places and sit three exams: Russian, mathematics and one subject. Documents are due by 30 April for those needing a visa or 10 July otherwise. Tuition is listed at 800,000 RUB a year, and a preparatory department exists.",
+   "ka": "სამთო უნივერსიტეტი სახელმწიფო ტექნიკური უნივერსიტეტია სანქტ-პეტერბურგში. ბაკალავრიატის უცხოელი აპლიკანტები ან იღებენ რუსეთის მთავრობის უფასო კვოტას education-in-russia.com-ის მეშვეობით, რაც მისაღებ გამოცდებს არ საჭიროებს, ან იხდიან საკონტრაქტო ადგილებში და აბარებენ სამ გამოცდას: რუსულს, მათემატიკასა და ერთ საგანს. საბუთები ვიზის მსურველებისთვის 30 აპრილამდეა, დანარჩენებისთვის კი 10 ივლისამდე. სწავლის საფასური მითითებულია 800 000 რუბლი წელიწადში; არსებობს მოსამზადებელი განყოფილება.",
+   "ar": "جامعة التعدين جامعة تقنية حكومية في سانت بطرسبرغ. يحصل المتقدمون الأجانب للبكالوريوس إما على مقعد مجاني ضمن حصة الحكومة الروسية عبر education-in-russia.com دون امتحانات قبول، أو يدفعون الرسوم في المقاعد التعاقدية ويؤدون ثلاثة امتحانات: الروسية والرياضيات ومادة واحدة. المستندات مطلوبة حتى 30 أبريل لمن يحتاج تأشيرة وحتى 10 يوليو لغيرهم. الرسوم المعلنة 800,000 روبل سنويًا ويوجد قسم تحضيري."
+  },
+  "aid_intl": {
+   "en": "Russian Government quota places (Rossotrudnichestvo) are tuition-free; budget students with good marks receive an extra 10,000 RUB a month.",
+   "ka": "რუსეთის მთავრობის კვოტის ადგილები (Rossotrudnichestvo) სწავლის საფასურის გარეშეა; კარგი შეფასების მქონე ბიუჯეტის სტუდენტები დამატებით თვეში 10 000 რუბლს იღებენ.",
+   "ar": "أماكن حصة الحكومة الروسية (Rossotrudnichestvo) مجانية الرسوم؛ ويحصل طلاب الميزانية المتفوقون على 10,000 روبل إضافية شهريًا."
+  },
+  "tests": {
+   "en": "Contract applicants sit Russian, mathematics and one subject exam in St. Petersburg; quota applicants are admitted without entrance exams. The page states no language-test minimum.",
+   "ka": "საკონტრაქტო აპლიკანტები სანქტ-პეტერბურგში აბარებენ რუსულს, მათემატიკასა და ერთ საგანს; კვოტის აპლიკანტები მისაღები გამოცდების გარეშე მიიღებიან. ენის ტესტის მინიმუმი მითითებული არ არის.",
+   "ar": "يؤدي المتقدمون على المقاعد التعاقدية امتحانات الروسية والرياضيات ومادة واحدة في سانت بطرسبرغ؛ ويُقبل متقدمو الحصة دون امتحانات. لا يُذكر حد أدنى لاختبار اللغة."
+  },
+  "gpa_note": {
+   "en": "Not found on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე ვერ მოიძებნა.",
+   "ar": "غير متوفر في الصفحات التي جرى فحصها."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   }
+  ],
+  "keywords": [
+   "russia",
+   "st petersburg",
+   "mining",
+   "engineering",
+   "quota"
+  ],
+  "sources": [
+   "https://www.spmi.ru",
+   "https://en.spmi.ru/education/guide",
+   "https://priem.spmi.ru/priem-inostrannykh-grazhdan"
+  ]
+ },
+ {
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-09-04",
+  "deadline_note": "2026-27 round: applications ran 26 Aug to 4 Sep 2026. The 2027-28 dates are not yet published.",
+  "acceptance_rate": null,
+  "students": 42862,
+  "intl_pct": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TR-YÖS",
+   "GCE A-Level"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": null,
+   "us-diploma": null
+  },
+  "languages": [
+   "Turkish"
+  ],
+  "english_bachelors": null,
+  "id": "erciyes-university",
+  "name": {
+   "en": "Erciyes University",
+   "ka": "ერჯიესის უნივერსიტეტი",
+   "ar": "جامعة أرجيس"
+  },
+  "iso": "TR",
+  "city": "Kayseri",
+  "lat": 38.708,
+  "lon": 35.526,
+  "type": "public",
+  "website": "https://www.erciyes.edu.tr",
+  "platform": "Direct online application (obp.erciyes.edu.tr) with TR-YÖS, GCE AL or school diploma scores",
+  "application_url": "https://obp.erciyes.edu.tr/yabanci-uyruklu-ogrenci-basvuru-duyurulari/1/1/0",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "TRY",
+   "per": "year",
+   "note": "Tuition is in a separate fee list that could not be read. 25% is paid at pre-registration and 75% at final registration."
+  },
+  "qualifications_note": {
+   "en": "Foreign diploma and exam scores (GCE AL, school-leaving exam, TR-YÖS) are converted to a 500-point scale. Minimum: 200 TR-YÖS or 70/100 diploma score for law and engineering, 50/100 for other programmes; medicine, dentistry and pharmacy need TR-YÖS 400, 350 and 300.",
+   "ka": "უცხოური დიპლომისა და გამოცდების ქულები (GCE AL, სკოლის დამამთავრებელი გამოცდა, TR-YÖS) გადაიყვანება 500-ქულიან სკალაზე. მინიმუმი: სამართალსა და ინჟინერიაში 200 TR-YÖS ან დიპლომის 70/100, სხვა პროგრამებზე 50/100; მედიცინა, სტომატოლოგია და ფარმაცია მოითხოვს TR-YÖS 400, 350 და 300.",
+   "ar": "تُحوَّل درجات الشهادة الأجنبية والامتحانات (GCE AL وامتحان إتمام الثانوية وTR-YÖS) إلى مقياس 500 نقطة. الحد الأدنى: 200 في TR-YÖS أو 70/100 في الشهادة للقانون والهندسة، و50/100 لباقي البرامج؛ ويتطلب الطب وطب الأسنان والصيدلة 400 و350 و300 في TR-YÖS."
+  },
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "law",
+   "education",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Dentistry",
+    "Pharmacy",
+    "Engineering",
+    "Law"
+   ],
+   "ka": [
+    "მედიცინა",
+    "სტომატოლოგია",
+    "ფარმაცია",
+    "ინჟინერია",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب",
+    "طب الأسنان",
+    "الصيدلة",
+    "الهندسة",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Kayseri, Turkey, with about 42,900 students. Foreign applicants apply online with TR-YÖS, GCE AL or school diploma scores; the 2026-27 window was 26 Aug to 4 Sep.",
+   "ka": "სახელმწიფო უნივერსიტეტი ყაისერიში, თურქეთი, დაახლოებით 42 900 სტუდენტით. უცხოელი აპლიკანტები განაცხადს ონლაინ აგზავნიან TR-YÖS-ის, GCE AL-ის ან სკოლის დიპლომის ქულებით; 2026-27 წელს ვადა იყო 26 აგვისტო - 4 სექტემბერი.",
+   "ar": "جامعة حكومية في قيصري بتركيا يدرس بها نحو 42,900 طالب. يتقدم الأجانب إلكترونيًا بدرجات TR-YÖS أو GCE AL أو الشهادة الثانوية؛ وكانت فترة التقديم 2026-27 من 26 أغسطس إلى 4 سبتمبر."
+  },
+  "about": {
+   "en": "Erciyes University is a public university in Kayseri with about 42,862 students. Foreign applicants who did not attend a Turkish high school apply online in a short window in late summer, pay a 3,000 TL evaluation fee and upload their diploma, transcript, exam result, passport page and photo. Placement uses TR-YÖS, GCE AL or diploma scores converted to a 500-point scale. Tuition is paid 25% at pre-registration and 75% at final registration.",
+   "ka": "ერჯიესის უნივერსიტეტი სახელმწიფო უნივერსიტეტია ყაისერიში, დაახლოებით 42 862 სტუდენტით. უცხოელი აპლიკანტები, რომლებიც თურქულ საშუალო სკოლაში არ სწავლობდნენ, განაცხადს ზაფხულის ბოლოს მოკლე პერიოდში ონლაინ აგზავნიან, იხდიან 3000 TL შეფასების საფასურს და ტვირთავენ დიპლომს, ატესტატის ამონაწერს, გამოცდის შედეგს, პასპორტის გვერდსა და ფოტოს. განაწილებისას გამოიყენება TR-YÖS, GCE AL ან დიპლომის ქულები, გადაყვანილი 500-ქულიან სკალაზე. სწავლის საფასურის 25% წინასწარი რეგისტრაციისას იხდება, 75% - საბოლოო რეგისტრაციისას.",
+   "ar": "جامعة أرجيس جامعة حكومية في قيصري يدرس بها نحو 42,862 طالبًا. يتقدم الأجانب الذين لم يدرسوا في مدرسة ثانوية تركية إلكترونيًا خلال فترة قصيرة في نهاية الصيف ويدفعون رسم تقييم قدره 3000 ليرة ويرفعون الشهادة وكشف الدرجات ونتيجة الامتحان وصفحة الجواز وصورة. يعتمد التوزيع على TR-YÖS أو GCE AL أو درجات الشهادة محولة إلى 500 نقطة. تُدفع 25% من الرسوم عند التسجيل المبدئي و75% عند التسجيل النهائي."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის სპეციალური დახმარება მითითებული არ არის.",
+   "ar": "لا تُنشر منح مخصصة للطلاب الدوليين في البكالوريوس في الصفحات التي جرى فحصها."
+  },
+  "tests": {
+   "en": "Applicants submit TR-YÖS, GCE AL or high school graduation exam/diploma scores. The notice does not mention SAT. There is a non-refundable 3,000 TL evaluation fee.",
+   "ka": "აპლიკანტები წარადგენენ TR-YÖS-ის, GCE AL-ის ან საშუალო სკოლის დამამთავრებელი გამოცდის/დიპლომის ქულებს. განცხადებაში SAT მოხსენიებული არ არის. შეფასების საფასური 3000 TL-ია და არ ბრუნდება.",
+   "ar": "يقدم المتقدمون درجات TR-YÖS أو GCE AL أو امتحان/شهادة إتمام الثانوية. لا يذكر الإعلان SAT. رسم التقييم 3000 ليرة غير مسترد."
+  },
+  "gpa_note": {
+   "en": "Minimum scores are 200 TR-YÖS or 70/100 (law, engineering) and 50/100 (other programmes) on the diploma or exam; medicine, dentistry and pharmacy need TR-YÖS 400, 350 and 300.",
+   "ka": "მინიმალური ქულებია: 200 TR-YÖS ან დიპლომის/გამოცდის 70/100 (სამართალი, ინჟინერია) და 50/100 (სხვა პროგრამები); მედიცინა, სტომატოლოგია და ფარმაცია მოითხოვს TR-YÖS 400, 350 და 300.",
+   "ar": "الحد الأدنى 200 في TR-YÖS أو 70/100 (القانون والهندسة) و50/100 (باقي البرامج) في الشهادة أو الامتحان؛ ويتطلب الطب وطب الأسنان والصيدلة 400 و350 و300 في TR-YÖS."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "keywords": [
+   "turkey",
+   "kayseri",
+   "tr-yos",
+   "public"
+  ],
+  "sources": [
+   "https://www.erciyes.edu.tr",
+   "https://ogrisl.erciyes.edu.tr/tr/duyuru-detay/2026-2027-egitim-ogretim-yili-on-lisans-ve-lisans-programlarina-yurtdisindan-ogrenci-kabulu-ek-1-basvuru-duyurusu"
+  ]
+ },
+ {
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-05-04",
+  "deadline_note": "2026/27 round for the English-taught Veterinary Medicine programme: 4 May for non-EU applicants, 1 June for EU/EEA, Switzerland, Georgia, Ukraine, UK and Türkiye. 2027/28 dates are not yet published.",
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "ielts_min": 5.5,
+  "toefl_min": 61,
+  "duolingo_min": null,
+  "other_tests": [
+   "Graded motivation letter"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "languages": [
+   "Estonian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "id": "estonian-university-of-life-sciences",
+  "name": {
+   "en": "Estonian University of Life Sciences",
+   "ka": "ესტონეთის სიცოცხლის შემსწავლელ მეცნიერებათა უნივერსიტეტი",
+   "ar": "الجامعة الإستونية لعلوم الحياة"
+  },
+  "iso": "EE",
+  "city": "Tartu",
+  "lat": 58.372,
+  "lon": 26.691,
+  "type": "public",
+  "website": "https://www.emu.ee",
+  "platform": "DreamApply online application",
+  "application_url": "https://www.emu.ee/en/admissions",
+  "tuition_intl": {
+   "amount": 9800,
+   "currency": "EUR",
+   "per": "year",
+   "note": "English-taught Veterinary Medicine (6-year integrated Bachelor's and Master's). No application fee."
+  },
+  "qualifications_note": {
+   "en": "Applicants upload scans of education documents with official English translations. The pages checked do not say how Georgian or Qatari school diplomas are treated.",
+   "ka": "აპლიკანტები ტვირთავენ განათლების დოკუმენტების სკანებს ოფიციალური ინგლისური თარგმანით. შემოწმებულ გვერდებზე არ წერია, როგორ განიხილება საქართველოს ან კატარის საშუალო განათლების დოკუმენტები.",
+   "ar": "يرفع المتقدمون نسخًا ممسوحة من وثائق الدراسة مع ترجمة إنجليزية رسمية. لا تبين الصفحات كيفية التعامل مع الشهادات الثانوية الجورجية أو القطرية."
+  },
+  "fields": [
+   "environment",
+   "medicine-health",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Veterinary medicine",
+    "Landscape architecture",
+    "Environmental governance",
+    "Climate change adaptation"
+   ],
+   "ka": [
+    "ვეტერინარია",
+    "ლანდშაფტის არქიტექტურა",
+    "გარემოს მმართველობა",
+    "კლიმატის ცვლილებასთან ადაპტაცია"
+   ],
+   "ar": [
+    "الطب البيطري",
+    "هندسة المناظر الطبيعية",
+    "الحوكمة البيئية",
+    "التكيف مع تغير المناخ"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Tartu, Estonia. Its only English-taught bachelor-level programme is the 6-year Veterinary Medicine degree at 9,800 EUR a year.",
+   "ka": "სახელმწიფო უნივერსიტეტი ტარტუში, ესტონეთი. ინგლისურ ენაზე ბაკალავრის დონის ერთადერთი პროგრამაა 6-წლიანი ვეტერინარია 9800 ევრო წელიწადში.",
+   "ar": "جامعة حكومية في تارتو بإستونيا. البرنامج الوحيد بالإنجليزية على مستوى البكالوريوس هو الطب البيطري لمدة 6 سنوات برسوم 9,800 يورو سنويًا."
+  },
+  "about": {
+   "en": "The Estonian University of Life Sciences is a public university in Tartu. Of its English-taught curricula, only Veterinary Medicine is bachelor-level: a six-year integrated Bachelor's and Master's degree costing 9,800 EUR a year. Applicants apply on DreamApply, upload documents and a motivation letter, which is graded. The 2026/27 deadline was 4 May for non-EU applicants and 1 June for applicants from Georgia, the EU and several other countries. English at B2 level is required.",
+   "ka": "ესტონეთის სიცოცხლის შემსწავლელ მეცნიერებათა უნივერსიტეტი სახელმწიფო უნივერსიტეტია ტარტუში. ინგლისურენოვან პროგრამებს შორის ბაკალავრის დონისაა მხოლოდ ვეტერინარია: ექვსწლიანი ინტეგრირებული ბაკალავრისა და მაგისტრის ხარისხი, 9800 ევრო წელიწადში. აპლიკანტები განაცხადს DreamApply-ზე აგზავნიან, ტვირთავენ საბუთებსა და მოტივაციის წერილს, რომელიც ფასდება. 2026/27 წელს ვადა იყო 4 მაისი არა-ევროკავშირელებისთვის და 1 ივნისი საქართველოს, ევროკავშირისა და რამდენიმე სხვა ქვეყნის აპლიკანტებისთვის. საჭიროა ინგლისური B2 დონეზე.",
+   "ar": "الجامعة الإستونية لعلوم الحياة جامعة حكومية في تارتو. من برامجها بالإنجليزية الطب البيطري فقط على مستوى البكالوريوس: درجة متكاملة من بكالوريوس وماجستير لمدة ست سنوات برسوم 9,800 يورو سنويًا. يتقدم الطلاب عبر DreamApply ويرفعون المستندات ورسالة دافع تُقيَّم بدرجات. كان موعد 2026/27 هو 4 مايو لغير الأوروبيين و1 يونيو لمتقدمي جورجيا والاتحاد الأوروبي ودول أخرى. يُشترط مستوى B2 في الإنجليزية."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის სპეციალური დახმარება მითითებული არ არის.",
+   "ar": "لا تُنشر منح مخصصة للطلاب الدوليين في البكالوريوس في الصفحات التي جرى فحصها."
+  },
+  "tests": {
+   "en": "Selection is by a graded motivation letter. English at B2: TOEFL iBT 61, IELTS Academic 5.5, Cambridge 160 or PTE Academic 51; scores are valid 2 years.",
+   "ka": "შერჩევა ხდება შეფასებადი მოტივაციის წერილით. ინგლისური B2: TOEFL iBT 61, IELTS Academic 5.5, Cambridge 160 ან PTE Academic 51; ქულა 2 წელი მოქმედებს.",
+   "ar": "يتم الاختيار برسالة دافع تُقيَّم بدرجات. الإنجليزية B2: TOEFL iBT 61 أو IELTS Academic 5.5 أو Cambridge 160 أو PTE Academic 51؛ والنتائج صالحة سنتين."
+  },
+  "gpa_note": {
+   "en": "No minimum grade is stated; selection is based on the motivation letter.",
+   "ka": "მინიმალური ნიშანი მითითებული არ არის; შერჩევა მოტივაციის წერილზეა დაფუძნებული.",
+   "ar": "لا يُذكر حد أدنى للدرجات؛ يعتمد الاختيار على رسالة الدافع."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Personal statement",
+     "ka": "პირადი განცხადება",
+     "ar": "بيان شخصي"
+    }
+   }
+  ],
+  "keywords": [
+   "estonia",
+   "tartu",
+   "veterinary",
+   "life sciences",
+   "public"
+  ],
+  "sources": [
+   "https://www.emu.ee/en/",
+   "https://www.emu.ee/en/admissions",
+   "https://www.emu.ee/en/curricula-in-english",
+   "https://www.emu.ee/en/english-language-requirements"
+  ]
+ },
+ {
+  "intakes": [
+   "August",
+   "January",
+   "May"
+  ],
+  "deadline": null,
+  "deadline_note": "General freshman dates (year not stated, subject to change): Early Action 15 Oct, Rolling Decision 12 Mar, Spring 15 Sep. International-specific dates are on a page that could not be read.",
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "sat": {
+   "low": 1090,
+   "high": 1270,
+   "required": "required"
+  },
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "id": "florida-atlantic-university-boca-raton",
+  "name": {
+   "en": "Florida Atlantic University - Boca Raton",
+   "ka": "ფლორიდის ატლანტიკური უნივერსიტეტი - ბოკა-რატონი",
+   "ar": "جامعة فلوريدا أتلانتيك - بوكا راتون"
+  },
+  "iso": "US",
+  "city": "Boca Raton",
+  "lat": 26.371,
+  "lon": -80.101,
+  "type": "public",
+  "website": "https://www.fau.edu",
+  "platform": "Common App",
+  "application_url": "https://www.fau.edu/admissions/international/",
+  "tuition_intl": {
+   "amount": 17324,
+   "currency": "USD",
+   "per": "year",
+   "note": "Tuition and fees for 24 credits (Fall/Spring) in FAU's estimated cost table. The page does not split international from other tuition. Total estimated cost of attendance is $46,246."
+  },
+  "qualifications_note": {
+   "en": "Academic credentials are submitted through FAU's credentials page; the page checked does not list accepted foreign diplomas.",
+   "ka": "აკადემიური დოკუმენტები იგზავნება FAU-ს დოკუმენტების გვერდის მეშვეობით; შემოწმებულ გვერდზე აღიარებული უცხოური დიპლომები ჩამოთვლილი არ არის.",
+   "ar": "تُرسل الوثائق الأكاديمية عبر صفحة الوثائق في FAU؛ ولا تسرد الصفحة الشهادات الأجنبية المقبولة."
+  },
+  "fields": [
+   "business",
+   "engineering",
+   "medicine-health",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Nursing",
+    "Ocean engineering",
+    "Computer science"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "მედდობა",
+    "ოკეანის ინჟინერია",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "التمريض",
+    "هندسة المحيطات",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Boca Raton, Florida. First-year applicants apply through the Common App with a $30 fee and must submit SAT, ACT or CLT scores.",
+   "ka": "სახელმწიფო უნივერსიტეტი ბოკა-რატონში, ფლორიდა. პირველკურსელები განაცხადს Common App-ით აგზავნიან $30 საფასურით და უნდა წარადგინონ SAT, ACT ან CLT ქულები.",
+   "ar": "جامعة حكومية في بوكا راتون بولاية فلوريدا. يتقدم طلاب السنة الأولى عبر Common App برسوم 30 دولارًا ويجب أن يقدموا درجات SAT أو ACT أو CLT."
+  },
+  "about": {
+   "en": "Florida Atlantic University is a public university in Boca Raton, Florida. International first-year applicants apply through the Common App, pay a non-refundable $30 fee and send credentials plus SAT, ACT or CLT scores, as Florida rules require. Admitted students had middle 50% SAT scores of 1090-1270. Applicants whose first language is not English need an English test. Estimated annual cost of attendance is about $46,246, of which tuition and fees are $17,324.",
+   "ka": "ფლორიდის ატლანტიკური უნივერსიტეტი სახელმწიფო უნივერსიტეტია ბოკა-რატონში, ფლორიდა. უცხოელი პირველკურსელები განაცხადს Common App-ით აგზავნიან, იხდიან $30 არაანაზღაურებად საფასურს და ფლორიდის წესების მიხედვით წარადგენენ დოკუმენტებს და SAT, ACT ან CLT ქულებს. მიღებულთა SAT-ის შუა 50% იყო 1090-1270. აპლიკანტებს, რომელთა პირველი ენა ინგლისური არ არის, ინგლისურის ტესტი სჭირდებათ. წლიური სავარაუდო ხარჯი დაახლოებით $46 246-ია, აქედან სწავლა და გადასახადები $17 324.",
+   "ar": "جامعة فلوريدا أتلانتيك جامعة حكومية في بوكا راتون بولاية فلوريدا. يتقدم طلاب السنة الأولى الدوليون عبر Common App ويدفعون رسمًا غير مسترد قدره 30 دولارًا ويرسلون الوثائق ودرجات SAT أو ACT أو CLT وفق قواعد فلوريدا. كان النطاق الأوسط 50% لدرجات SAT للمقبولين 1090-1270. من لغته الأولى ليست الإنجليزية يحتاج اختبار لغة. التكلفة السنوية التقديرية نحو 46,246 دولارًا منها 17,324 دولارًا رسوم دراسية."
+  },
+  "aid_intl": {
+   "en": "Early Action applicants get automatic scholarship consideration; no dedicated international aid is described on the page checked.",
+   "ka": "Early Action-ის აპლიკანტები ავტომატურად განიხილებიან სტიპენდიისთვის; შემოწმებულ გვერდზე უცხოელებისთვის სპეციალური დახმარება აღწერილი არ არის.",
+   "ar": "يُنظر تلقائيًا في المنح لمتقدمي Early Action؛ ولا تصف الصفحة منحًا دولية مخصصة."
+  },
+  "tests": {
+   "en": "SAT, ACT or CLT is required (SAT code 5229). Applicants whose first language is not English submit an English test; minimum scores were not listed on the page checked.",
+   "ka": "SAT, ACT ან CLT სავალდებულოა (SAT კოდი 5229). აპლიკანტები, რომელთა პირველი ენა ინგლისური არ არის, წარადგენენ ინგლისურის ტესტს; მინიმალური ქულები შემოწმებულ გვერდზე მითითებული არ იყო.",
+   "ar": "SAT أو ACT أو CLT مطلوب (رمز SAT هو 5229). من لغته الأولى ليست الإنجليزية يقدم اختبار لغة؛ ولم تُذكر الدرجات الدنيا في الصفحة."
+  },
+  "gpa_note": {
+   "en": "No minimum GPA is stated; the middle 50% GPA of admitted students (Summer/Fall 2026) was 3.66-4.29.",
+   "ka": "მინიმალური GPA მითითებული არ არის; მიღებულთა შუა 50% GPA (2026 ზაფხული/შემოდგომა) იყო 3.66-4.29.",
+   "ar": "لا يُذكر حد أدنى للمعدل؛ وكان النطاق الأوسط 50% لمعدل المقبولين (صيف/خريف 2026) بين 3.66 و4.29."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "SAT or ACT scores (optional)",
+     "ka": "SAT ან ACT-ის შედეგები (არასავალდებულო)",
+     "ar": "نتائج SAT أو ACT (اختيارية)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "usa",
+   "florida",
+   "boca raton",
+   "public",
+   "common app"
+  ],
+  "sources": [
+   "https://www.fau.edu/admissions/international/",
+   "https://www.fau.edu/admissions/freshmen/",
+   "https://www.fau.edu/admissions/deadlines/"
+  ]
+ },
+ {
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The international admissions pages could not be read (certificate error), so no deadline is verified.",
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "languages": [
+   "Chinese"
+  ],
+  "english_bachelors": null,
+  "id": "fu-jen-catholic-university",
+  "name": {
+   "en": "Fu Jen Catholic University",
+   "ka": "ფუ ჯენის კათოლიკური უნივერსიტეტი",
+   "ar": "جامعة فو جين الكاثوليكية"
+  },
+  "iso": "TW",
+  "city": "New Taipei City",
+  "lat": 25.036,
+  "lon": 121.432,
+  "type": "private",
+  "website": "https://www.fju.edu.tw",
+  "platform": "Direct application via International Student Admissions (idsa.oie.fju.edu.tw)",
+  "application_url": "http://idsa.oie.fju.edu.tw/index_EN.jsp",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "TWD",
+   "per": "year",
+   "note": "A tuition page exists (tuition.ga.fju.edu.tw) but amounts were not read."
+  },
+  "fields": [
+   "humanities",
+   "business",
+   "medicine-health",
+   "arts-design",
+   "languages"
+  ],
+  "strengths": {
+   "en": [
+    "Humanities",
+    "Business",
+    "Medicine and nursing",
+    "Fashion and design",
+    "Foreign languages"
+   ],
+   "ka": [
+    "ჰუმანიტარული მეცნიერებები",
+    "ბიზნესი",
+    "მედიცინა და მედდობა",
+    "მოდა და დიზაინი",
+    "უცხო ენები"
+   ],
+   "ar": [
+    "العلوم الإنسانية",
+    "الأعمال",
+    "الطب والتمريض",
+    "الأزياء والتصميم",
+    "اللغات الأجنبية"
+   ]
+  },
+  "summary": {
+   "en": "Private Catholic university in New Taipei City, Taiwan. International admission pages could not be read, so fees and deadlines are not verified.",
+   "ka": "კერძო კათოლიკური უნივერსიტეტი ახალ ტაიბეიში, ტაივანი. უცხოელთა მიღების გვერდები ვერ წაიკითხა, ამიტომ საფასურები და ვადები გადამოწმებული არ არის.",
+   "ar": "جامعة كاثوليكية خاصة في مدينة تايبيه الجديدة بتايوان. تعذر قراءة صفحات القبول الدولي، لذا لم يُتحقق من الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "Fu Jen Catholic University is a private university in New Taipei City, Taiwan. Its English site points international applicants to the International Student Admissions site (idsa.oie.fju.edu.tw) and the International Student Center, and lists scholarship pages for Fu Jen and government scholarships. Those pages returned certificate or DNS errors, so deadlines, tuition and requirements are not verified.",
+   "ka": "ფუ ჯენის კათოლიკური უნივერსიტეტი კერძო უნივერსიტეტია ახალ ტაიბეიში, ტაივანი. ინგლისური საიტი უცხოელ აპლიკანტებს უთითებს International Student Admissions საიტზე (idsa.oie.fju.edu.tw) და საერთაშორისო სტუდენტთა ცენტრზე და ჩამოთვლის უნივერსიტეტისა და სახელმწიფო სტიპენდიების გვერდებს. ამ გვერდებმა სერტიფიკატის ან DNS შეცდომა დააბრუნა, ამიტომ ვადები, საფასური და მოთხოვნები გადამოწმებული არ არის.",
+   "ar": "جامعة فو جين الكاثوليكية جامعة خاصة في مدينة تايبيه الجديدة بتايوان. يحيل موقعها الإنجليزي المتقدمين الدوليين إلى موقع القبول للطلاب الدوليين (idsa.oie.fju.edu.tw) ومركز الطلاب الدوليين، ويعرض صفحات المنح الجامعية والحكومية. أعادت هذه الصفحات خطأ شهادة أو DNS، لذا لم يُتحقق من المواعيد والرسوم والمتطلبات."
+  },
+  "aid_intl": {
+   "en": "Scholarship pages exist for Fu Jen students and for government scholarships; their content was not read.",
+   "ka": "სტიპენდიების გვერდები არსებობს Fu Jen-ის სტუდენტებისა და სახელმწიფო სტიპენდიებისთვის; შინაარსი არ წაკითხულა.",
+   "ar": "توجد صفحات للمنح لطلاب فو جين وللمنح الحكومية؛ ولم يُقرأ محتواها."
+  },
+  "tests": {
+   "en": "Not verified: the official site could not be reached.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური საიტი მიუწვდომელი იყო.",
+   "ar": "لم يُتحقق: تعذر الوصول إلى الموقع الرسمي."
+  },
+  "gpa_note": {
+   "en": "Not verified: the official site could not be reached.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური საიტი მიუწვდომელი იყო.",
+   "ar": "لم يُتحقق: تعذر الوصول إلى الموقع الرسمي."
+  },
+  "qualifications_note": {
+   "en": "Not verified: the official site could not be reached.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური საიტი მიუწვდომელი იყო.",
+   "ar": "لم يُتحقق: تعذر الوصول إلى الموقع الرسمي."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language proficiency proof",
+     "ka": "ენის ცოდნის დამადასტურებელი საბუთი",
+     "ar": "إثبات إتقان اللغة"
+    }
+   }
+  ],
+  "keywords": [
+   "taiwan",
+   "new taipei",
+   "private",
+   "catholic"
+  ],
+  "sources": [
+   "https://www.fju.edu.tw/",
+   "https://www.fju.edu.tw/indexEN.jsp"
+  ]
+ },
+ {
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No admission pages for international bachelor applicants could be read.",
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "languages": [
+   "Chinese"
+  ],
+  "english_bachelors": null,
+  "id": "fujian-normal-university",
+  "name": {
+   "en": "Fujian Normal University",
+   "ka": "ფუძიენის პედაგოგიური უნივერსიტეტი",
+   "ar": "جامعة فوجيان العادية"
+  },
+  "iso": "CN",
+  "city": "Fuzhou",
+  "lat": 26.028,
+  "lon": 119.198,
+  "type": "public",
+  "website": "https://www.fjnu.edu.cn",
+  "platform": "Not verified (International Cooperation and Exchange Office)",
+  "application_url": "http://www.fjnu.edu.cn/english",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "CNY",
+   "per": "year",
+   "note": "Not found on the pages checked."
+  },
+  "fields": [
+   "education",
+   "humanities",
+   "natural-sciences",
+   "social-sciences",
+   "languages"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Chinese language and literature",
+    "Chemistry",
+    "Optoelectronics",
+    "Geography"
+   ],
+   "ka": [
+    "განათლება",
+    "ჩინური ენა და ლიტერატურა",
+    "ქიმია",
+    "ოპტოელექტრონიკა",
+    "გეოგრაფია"
+   ],
+   "ar": [
+    "التربية",
+    "اللغة والأدب الصيني",
+    "الكيمياء",
+    "الإلكترونيات الضوئية",
+    "الجغرافيا"
+   ]
+  },
+  "summary": {
+   "en": "Public normal (teacher-training) university in Fuzhou, Fujian, China. The pages checked gave no admission or fee details for international bachelor applicants.",
+   "ka": "სახელმწიფო პედაგოგიური უნივერსიტეტი ფუძოუში, ფუძიენი, ჩინეთი. შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის აპლიკანტებისთვის მიღებისა და საფასურის დეტალები არ იყო.",
+   "ar": "جامعة حكومية لإعداد المعلمين في فوتشو بمقاطعة فوجيان الصينية. لم تتضمن الصفحات تفاصيل القبول والرسوم للمتقدمين الدوليين للبكالوريوس."
+  },
+  "about": {
+   "en": "Fujian Normal University is a public university with its Qishan campus in Minhou, Fuzhou. Its English site has Overseas Students and Contact pages and a College of International Education site, and the International Cooperation and Exchange Office handles overseas students. The pages that could be read gave no deadlines, tuition, language requirements or English-taught bachelor programmes, so contact the office before applying.",
+   "ka": "ფუძიენის პედაგოგიური უნივერსიტეტი სახელმწიფო უნივერსიტეტია, რომლის ციშანის კამპუსი მინხოუშია, ფუძოუ. ინგლისურ საიტზე არის უცხოელი სტუდენტებისა და კონტაქტის გვერდები და საერთაშორისო განათლების კოლეჯის საიტი, უცხოელ სტუდენტებს კი საერთაშორისო თანამშრომლობისა და გაცვლის ოფისი ემსახურება. წაკითხულ გვერდებზე ვადები, სწავლის საფასური, ენობრივი მოთხოვნები და ინგლისურენოვანი ბაკალავრის პროგრამები არ იყო, ამიტომ განაცხადამდე დაუკავშირდით ოფისს.",
+   "ar": "جامعة فوجيان العادية جامعة حكومية يقع حرم تشيشان التابع لها في مينهو بفوتشو. يضم موقعها الإنجليزي صفحتي الطلاب الأجانب والاتصال وموقع كلية التعليم الدولي، ويتولى مكتب التعاون والتبادل الدولي شؤون الطلاب الأجانب. لم تتضمن الصفحات المقروءة مواعيد أو رسومًا أو متطلبات لغة أو برامج بكالوريوس بالإنجليزية، لذا يُرجى التواصل مع المكتب قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის სპეციალური დახმარება მითითებული არ არის.",
+   "ar": "لا تُنشر منح مخصصة للطلاب الدوليين في البكالوريوس في الصفحات التي جرى فحصها."
+  },
+  "tests": {
+   "en": "Not found on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე ვერ მოიძებნა.",
+   "ar": "غير متوفر في الصفحات التي جرى فحصها."
+  },
+  "gpa_note": {
+   "en": "Not found on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე ვერ მოიძებნა.",
+   "ar": "غير متوفر في الصفحات التي جرى فحصها."
+  },
+  "qualifications_note": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე გამოქვეყნებული არ არის.",
+   "ar": "غير منشور في الصفحات التي جرى فحصها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language proficiency proof",
+     "ka": "ენის ცოდნის დამადასტურებელი საბუთი",
+     "ar": "إثبات إتقان اللغة"
+    }
+   }
+  ],
+  "keywords": [
+   "china",
+   "fuzhou",
+   "fujian",
+   "normal university",
+   "public"
+  ],
+  "sources": [
+   "https://www.fjnu.edu.cn",
+   "http://www.fjnu.edu.cn/english",
+   "http://oice.fjnu.edu.cn/main.htm"
+  ]
+ },
+ {
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No deadline is published; students must finish admission and report at least one week before the programme starts.",
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "id": "galgotias-university",
+  "name": {
+   "en": "Galgotias University",
+   "ka": "გალგოტიასის უნივერსიტეტი",
+   "ar": "جامعة غالغوتياس"
+  },
+  "iso": "IN",
+  "city": "Greater Noida",
+  "lat": 28.368,
+  "lon": 77.541,
+  "type": "private",
+  "website": "https://www.galgotiasuniversity.edu.in",
+  "platform": "Direct: application form emailed to the International Office, or online international application form",
+  "application_url": "https://www.galgotiasuniversity.edu.in/p/international-student-programs",
+  "tuition_intl": {
+   "amount": 4000,
+   "currency": "USD",
+   "per": "year",
+   "note": "B.Tech Computer Science for non-SAARC countries: 2,000 USD per semester (2026 fee page). Plus 300 USD one-time admission fee and 100 USD exam fee per semester. SAARC fees are listed separately."
+  },
+  "qualifications_note": {
+   "en": "Applicants need 12 years of schooling with at least 50% average (Physics, Chemistry and Mathematics for B.Tech). All foreign students must submit an Association of Indian Universities (AIU) equivalence certificate.",
+   "ka": "საჭიროა 12-წლიანი სწავლა მინიმუმ 50%-იანი საშუალოთი (B.Tech-ისთვის ფიზიკა, ქიმია და მათემატიკა). ყველა უცხოელმა სტუდენტმა უნდა წარადგინოს Association of Indian Universities-ის (AIU) ეკვივალენტობის სერტიფიკატი.",
+   "ar": "يلزم 12 عامًا دراسيًا بمعدل 50% على الأقل (الفيزياء والكيمياء والرياضيات لبرنامج B.Tech). على كل طالب أجنبي تقديم شهادة معادلة من Association of Indian Universities (AIU)."
+  },
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Business",
+    "Pharmacy",
+    "Allied health"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "ბიზნესი",
+    "ფარმაცია",
+    "მომიჯნავე ჯანდაცვის დარგები"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "الأعمال",
+    "الصيدلة",
+    "العلوم الصحية المساندة"
+   ]
+  },
+  "summary": {
+   "en": "Private university in Greater Noida, India, that admits international students directly. B.Tech tuition for non-SAARC students is about 4,000 USD a year.",
+   "ka": "კერძო უნივერსიტეტი გრეიტერ ნოიდაში, ინდოეთი, რომელიც უცხოელ სტუდენტებს პირდაპირ იღებს. B.Tech-ის სწავლის საფასური არა-SAARC სტუდენტებისთვის დაახლოებით 4000 აშშ დოლარია წელიწადში.",
+   "ar": "جامعة خاصة في غريتر نويدا بالهند تقبل الطلاب الدوليين مباشرة. رسوم B.Tech لغير دول SAARC نحو 4,000 دولار سنويًا."
+  },
+  "about": {
+   "en": "Galgotias University is a private university in Greater Noida, near Delhi. International applicants email the application form to the International Office or apply in person, with 10th and 12th mark sheets, passport and an AIU equivalence certificate. After the offer letter they pay a one-time 300 USD admission fee and receive a visa letter. B.Tech tuition for non-SAARC countries is 2,000 USD per semester. A Preparatory English Foundation Program is offered.",
+   "ka": "გალგოტიასის უნივერსიტეტი კერძო უნივერსიტეტია გრეიტერ ნოიდაში, დელის მახლობლად. უცხოელი აპლიკანტები განაცხადის ფორმას საერთაშორისო ოფისს ელფოსტით უგზავნიან ან პირადად ხდებიან, 10 და 12 კლასის ნიშნების ამონაწერით, პასპორტითა და AIU-ს ეკვივალენტობის სერტიფიკატით. შეთავაზების წერილის შემდეგ იხდიან ერთჯერად 300 აშშ დოლარის მისაღებ საფასურს და იღებენ სავიზო წერილს. B.Tech-ის საფასური არა-SAARC ქვეყნებისთვის 2000 აშშ დოლარია სემესტრში. არსებობს ინგლისურის მოსამზადებელი პროგრამა.",
+   "ar": "جامعة غالغوتياس جامعة خاصة في غريتر نويدا قرب دلهي. يرسل المتقدمون الدوليون نموذج التقديم بالبريد الإلكتروني إلى المكتب الدولي أو يتقدمون شخصيًا مع كشفي درجات الصفين العاشر والثاني عشر وجواز السفر وشهادة معادلة AIU. بعد خطاب العرض يدفعون رسم قبول لمرة واحدة قدره 300 دولار ويتسلمون خطاب التأشيرة. رسوم B.Tech لغير دول SAARC هي 2,000 دولار للفصل. يوجد برنامج تحضيري للغة الإنجليزية."
+  },
+  "aid_intl": {
+   "en": "A scholarships page exists on the university site; its content was not read.",
+   "ka": "უნივერსიტეტის საიტზე არსებობს სტიპენდიების გვერდი; შინაარსი არ წაკითხულა.",
+   "ar": "توجد صفحة للمنح على موقع الجامعة؛ ولم يُقرأ محتواها."
+  },
+  "tests": {
+   "en": "No entrance exam or English test minimum is stated on the pages checked; a Preparatory English Foundation Program is offered.",
+   "ka": "შემოწმებულ გვერდებზე მისაღები გამოცდა ან ინგლისურის მინიმალური ქულა მითითებული არ არის; არსებობს ინგლისურის მოსამზადებელი პროგრამა.",
+   "ar": "لا يُذكر امتحان قبول ولا حد أدنى للإنجليزية في الصفحات؛ ويوجد برنامج تحضيري للغة الإنجليزية."
+  },
+  "gpa_note": {
+   "en": "Minimum 50% average over 12 years of schooling; B.Tech needs Physics, Chemistry and Mathematics, and health courses need Physics, Chemistry and Biology.",
+   "ka": "მინიმუმი 50% საშუალო 12-წლიან სწავლაზე; B.Tech-ისთვის საჭიროა ფიზიკა, ქიმია და მათემატიკა, ჯანდაცვის კურსებისთვის - ფიზიკა, ქიმია და ბიოლოგია.",
+   "ar": "الحد الأدنى معدل 50% خلال 12 عامًا دراسيًا؛ يتطلب B.Tech الفيزياء والكيمياء والرياضيات، وتتطلب البرامج الصحية الفيزياء والكيمياء والأحياء."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma equivalency certificate",
+     "ka": "დიპლომის ეკვივალენტობის დამადასტურებელი სერტიფიკატი",
+     "ar": "شهادة معادلة الشهادة الثانوية"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "keywords": [
+   "india",
+   "greater noida",
+   "delhi",
+   "private",
+   "btech"
+  ],
+  "sources": [
+   "https://www.galgotiasuniversity.edu.in/",
+   "https://www.galgotiasuniversity.edu.in/p/eligibility",
+   "https://www.galgotiasuniversity.edu.in/p/admission-process",
+   "https://www.galgotiasuniversity.edu.in/p/fee-structure-for-non-saarc-countries-2026"
+  ]
+ },
+ {
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The university website blocked automated access (HTTP 403), so no deadline is verified.",
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "languages": [],
+  "english_bachelors": null,
+  "aid_intl": {
+   "en": "Not verified: the official site blocked automated access (HTTP 403).",
+   "ka": "გადამოწმებული არ არის: ოფიციალურმა საიტმა ავტომატური წვდომა დაბლოკა (HTTP 403).",
+   "ar": "لم يُتحقق: حجب الموقع الرسمي الوصول الآلي (HTTP 403)."
+  },
+  "tests": {
+   "en": "Not verified: the official site blocked automated access (HTTP 403).",
+   "ka": "გადამოწმებული არ არის: ოფიციალურმა საიტმა ავტომატური წვდომა დაბლოკა (HTTP 403).",
+   "ar": "لم يُتحقق: حجب الموقع الرسمي الوصول الآلي (HTTP 403)."
+  },
+  "gpa_note": {
+   "en": "Not verified: the official site blocked automated access (HTTP 403).",
+   "ka": "გადამოწმებული არ არის: ოფიციალურმა საიტმა ავტომატური წვდომა დაბლოკა (HTTP 403).",
+   "ar": "لم يُتحقق: حجب الموقع الرسمي الوصول الآلي (HTTP 403)."
+  },
+  "qualifications_note": {
+   "en": "Not verified: the official site blocked automated access (HTTP 403).",
+   "ka": "გადამოწმებული არ არის: ოფიციალურმა საიტმა ავტომატური წვდომა დაბლოკა (HTTP 403).",
+   "ar": "لم يُتحقق: حجب الموقع الرسمي الوصول الآلي (HTTP 403)."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "id": "german-university-of-technology-in-oman-gutech",
+  "name": {
+   "en": "German University of Technology in Oman (GUtech)",
+   "ka": "ომანის გერმანული ტექნოლოგიური უნივერსიტეტი (GUtech)",
+   "ar": "الجامعة الألمانية للتكنولوجيا في عُمان (GUtech)"
+  },
+  "iso": "OM",
+  "city": "Muscat",
+  "lat": 23.652,
+  "lon": 57.998,
+  "type": "private",
+  "website": "https://www.gutech.edu.om",
+  "platform": "Not verified",
+  "application_url": "https://www.gutech.edu.om",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "OMR",
+   "per": "year",
+   "note": "Not verified: the official site could not be read."
+  },
+  "fields": [
+   "engineering",
+   "business",
+   "environment",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business",
+    "Architecture",
+    "Applied geosciences",
+    "Computer science"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი",
+    "არქიტექტურა",
+    "გამოყენებითი გეომეცნიერებები",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال",
+    "العمارة",
+    "العلوم الجيولوجية التطبيقية",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "Private university in the Muscat area, Oman, run with German partners. Its website blocked access, so admission and fee data are not verified.",
+   "ka": "კერძო უნივერსიტეტი მასკატის რეგიონში, ომანი, გერმანელ პარტნიორებთან ერთად. საიტმა წვდომა დაბლოკა, ამიტომ მიღებისა და საფასურების მონაცემები გადამოწმებული არ არის.",
+   "ar": "جامعة خاصة في منطقة مسقط بسلطنة عُمان بالشراكة مع جهات ألمانية. حجب موقعها الوصول، لذا لم يُتحقق من بيانات القبول والرسوم."
+  },
+  "about": {
+   "en": "GUtech is a private university in the Muscat area of Oman. Its official website returned an access error (HTTP 403) during research, so there is no verified information on international bachelor admission, tuition, language of teaching, deadlines or entry requirements. Check gutech.edu.om or contact the admissions office directly.",
+   "ka": "GUtech კერძო უნივერსიტეტია ომანში, მასკატის რეგიონში. კვლევისას ოფიციალური საიტი წვდომის შეცდომას აბრუნებდა (HTTP 403), ამიტომ უცხოელთა ბაკალავრიატში მიღების, საფასურის, სწავლების ენის, ვადებისა და მოთხოვნების შესახებ გადამოწმებული ინფორმაცია არ არის. გადაამოწმეთ gutech.edu.om-ზე ან დაუკავშირდით მისაღებ ოფისს.",
+   "ar": "GUtech جامعة خاصة في منطقة مسقط بسلطنة عُمان. أعاد موقعها الرسمي خطأ وصول (HTTP 403) أثناء البحث، فلا توجد معلومات موثقة عن القبول الدولي في البكالوريوس والرسوم ولغة التدريس والمواعيد والشروط. يُرجى مراجعة gutech.edu.om أو التواصل مع مكتب القبول."
+  },
+  "keywords": [
+   "oman",
+   "muscat",
+   "private",
+   "gutech",
+   "german"
+  ],
+  "sources": [
+   "https://www.gutech.edu.om"
+  ]
+ },
+ {
+  "intakes": [
+   "April"
+  ],
+  "deadline": null,
+  "deadline_note": "No application dates for international bachelor applicants could be read.",
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "languages": [
+   "Japanese"
+  ],
+  "english_bachelors": null,
+  "id": "gifu-university",
+  "name": {
+   "en": "Gifu University",
+   "ka": "გიფუს უნივერსიტეტი",
+   "ar": "جامعة غيفو"
+  },
+  "iso": "JP",
+  "city": "Gifu City",
+  "lat": 35.465,
+  "lon": 136.738,
+  "type": "public",
+  "website": "https://www.gifu-u.ac.jp",
+  "platform": "Direct application (details not readable on the pages checked)",
+  "application_url": "https://www.gifu-u.ac.jp/en/admissions/students/",
+  "tuition_intl": {
+   "amount": 535800,
+   "currency": "JPY",
+   "per": "year",
+   "note": "Tuition shown for AY2021 and subject to change. Admission fee 282,000 JPY and application fee 17,000 JPY are extra."
+  },
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "natural-sciences",
+   "education",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Medicine",
+    "Applied biological sciences",
+    "Education",
+    "Veterinary science"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მედიცინა",
+    "გამოყენებითი ბიოლოგიური მეცნიერებები",
+    "განათლება",
+    "ვეტერინარია"
+   ],
+   "ar": [
+    "الهندسة",
+    "الطب",
+    "العلوم الحيوية التطبيقية",
+    "التربية",
+    "الطب البيطري"
+   ]
+  },
+  "summary": {
+   "en": "Public national university in Gifu, Japan. Tuition is 535,800 JPY a year plus a 282,000 JPY admission fee (figures from AY2021).",
+   "ka": "სახელმწიფო ეროვნული უნივერსიტეტი გიფუში, იაპონია. სწავლის საფასური 535 800 იენია წელიწადში, პლუს 282 000 იენის მისაღები საფასური (მონაცემები AY2021-დან).",
+   "ar": "جامعة وطنية حكومية في غيفو باليابان. الرسوم الدراسية 535,800 ين سنويًا إضافة إلى رسم قبول 282,000 ين (أرقام العام الأكاديمي 2021)."
+  },
+  "about": {
+   "en": "Gifu University is a national university in Gifu City, Japan. Its English site lists admissions, tuition and a page on types of students, but the application steps for international bachelor applicants could not be read. The published fees are 535,800 JPY a year in tuition, a 282,000 JPY admission fee and a 17,000 JPY application fee, shown for AY2021 and subject to change. Check the current figures with the university.",
+   "ka": "გიფუს უნივერსიტეტი ეროვნული უნივერსიტეტია გიფუს ქალაქში, იაპონია. ინგლისურ საიტზე არის მიღების, სწავლის საფასურისა და სტუდენტთა ტიპების გვერდები, მაგრამ ბაკალავრიატის უცხოელი აპლიკანტებისთვის განაცხადის ეტაპები ვერ წაიკითხა. გამოქვეყნებული საფასურებია: სწავლა 535 800 იენი წელიწადში, მისაღები საფასური 282 000 იენი და განაცხადის საფასური 17 000 იენი; მონაცემები AY2021-ისაა და შეიძლება შეიცვალოს. აქტუალური თანხები დააზუსტეთ უნივერსიტეტთან.",
+   "ar": "جامعة غيفو جامعة وطنية في مدينة غيفو باليابان. يضم موقعها الإنجليزي صفحات للقبول والرسوم وأنواع الطلاب، لكن خطوات التقديم للمتقدمين الدوليين للبكالوريوس لم تكن مقروءة. الرسوم المنشورة 535,800 ين سنويًا للدراسة و282,000 ين رسم قبول و17,000 ين رسم تقديم، وهي للعام الأكاديمي 2021 وقابلة للتغيير. يُرجى التأكد من الأرقام الحالية مع الجامعة."
+  },
+  "aid_intl": {
+   "en": "An inbound scholarship page exists on the university's global site; its content was not read.",
+   "ka": "უნივერსიტეტის გლობალურ საიტზე არსებობს შემომავალი სტუდენტების სტიპენდიების გვერდი; შინაარსი არ წაკითხულა.",
+   "ar": "توجد صفحة للمنح للطلاب الوافدين على موقع الجامعة العالمي؛ ولم يُقرأ محتواها."
+  },
+  "tests": {
+   "en": "Not found on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე ვერ მოიძებნა.",
+   "ar": "غير متوفر في الصفحات التي جرى فحصها."
+  },
+  "gpa_note": {
+   "en": "Not found on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე ვერ მოიძებნა.",
+   "ar": "غير متوفر في الصفحات التي جرى فحصها."
+  },
+  "qualifications_note": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე გამოქვეყნებული არ არის.",
+   "ar": "غير منشور في الصفحات التي جرى فحصها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "keywords": [
+   "japan",
+   "gifu",
+   "national university",
+   "public"
+  ],
+  "sources": [
+   "https://www.gifu-u.ac.jp/en/",
+   "https://www.gifu-u.ac.jp/en/admissions/tuition_fees/admission_and_tuition_fees.html"
+  ]
+ },
+ {
+  "intakes": [
+   "April"
+  ],
+  "deadline": null,
+  "deadline_note": "For the 2027 round, online registration opens 12 Jan 2027 at 9:00. The closing date is in the 2027 guidelines PDF, which was not read.",
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "languages": [
+   "Japanese"
+  ],
+  "english_bachelors": null,
+  "id": "gunma-university",
+  "name": {
+   "en": "Gunma University",
+   "ka": "გუნმას უნივერსიტეტი",
+   "ar": "جامعة غونما"
+  },
+  "iso": "JP",
+  "city": "Maebashi",
+  "lat": 36.391,
+  "lon": 139.061,
+  "type": "public",
+  "website": "https://www.gunma-u.ac.jp",
+  "platform": "Direct application for privately-funded international students (online registration, then materials by post)",
+  "application_url": "https://www.gunma-u.ac.jp/admission/g2107/g30174",
+  "tuition_intl": {
+   "amount": 535800,
+   "currency": "JPY",
+   "per": "year",
+   "note": "Plus admission fee 282,000 JPY (one-time) and entrance examination fee 17,000 JPY."
+  },
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "computer-science",
+   "education",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Health sciences",
+    "Science and technology",
+    "Informatics",
+    "Education"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ჯანდაცვის მეცნიერებები",
+    "მეცნიერება და ტექნოლოგია",
+    "ინფორმატიკა",
+    "განათლება"
+   ],
+   "ar": [
+    "الطب",
+    "العلوم الصحية",
+    "العلوم والتكنولوجيا",
+    "المعلوماتية",
+    "التربية"
+   ]
+  },
+  "summary": {
+   "en": "National university in Maebashi, Japan, with five undergraduate units. Tuition is 535,800 JPY a year; privately-funded international students register online from 12 Jan 2027.",
+   "ka": "ეროვნული უნივერსიტეტი მაებაშიში, იაპონია, ხუთი საბაკალავრო ერთეულით. სწავლის საფასური 535 800 იენია წელიწადში; საკუთარი სახსრებით მოსწავლე უცხოელები ონლაინ რეგისტრაციას 2027 წლის 12 იანვრიდან იწყებენ.",
+   "ar": "جامعة وطنية في ماييباشي باليابان تضم خمس وحدات جامعية. الرسوم 535,800 ين سنويًا؛ ويسجل الطلاب الدوليون على نفقتهم الخاصة إلكترونيًا اعتبارًا من 12 يناير 2027."
+  },
+  "about": {
+   "en": "Gunma University is a national university in Maebashi, Japan. It has a Cooperative Faculty of Education, Faculty of Informatics, Faculty of Medicine (Medicine and Health Sciences) and a School of Science and Technology. Privately-funded international students apply through a separate admission process: online registration opens on 12 January 2027, and materials are posted to the admissions office. Fees are 535,800 JPY tuition a year, 282,000 JPY admission fee and 17,000 JPY examination fee. Teaching is mainly in Japanese.",
+   "ka": "გუნმას უნივერსიტეტი ეროვნული უნივერსიტეტია მაებაშიში, იაპონია. მას აქვს პედაგოგიური ფაკულტეტი, ინფორმატიკის ფაკულტეტი, მედიცინის ფაკულტეტი (მედიცინა და ჯანდაცვის მეცნიერებები) და მეცნიერებისა და ტექნოლოგიის სკოლა. საკუთარი სახსრებით მოსწავლე უცხოელები განაცხადს ცალკე პროცედურით აგზავნიან: ონლაინ რეგისტრაცია იწყება 2027 წლის 12 იანვარს, მასალები კი საფოსტო გზით იგზავნება მისაღებ ოფისში. საფასურებია: სწავლა 535 800 იენი წელიწადში, მისაღები საფასური 282 000 იენი და გამოცდის საფასური 17 000 იენი. სწავლება ძირითადად იაპონურადაა.",
+   "ar": "جامعة غونما جامعة وطنية في ماييباشي باليابان. تضم كلية التربية التعاونية وكلية المعلوماتية وكلية الطب (الطب والعلوم الصحية) وكلية العلوم والتكنولوجيا. يتقدم الطلاب الدوليون على نفقتهم الخاصة عبر مسار قبول منفصل: يبدأ التسجيل الإلكتروني في 12 يناير 2027 وتُرسل المستندات بالبريد إلى مكتب القبول. الرسوم 535,800 ين دراسة سنويًا و282,000 ين رسم قبول و17,000 ين رسم امتحان. التدريس باليابانية في الغالب."
+  },
+  "aid_intl": {
+   "en": "Scholarships for international students are announced through the university's Kyomu system; contact the International Office for details.",
+   "ka": "საერთაშორისო სტუდენტების სტიპენდიები ცხადდება უნივერსიტეტის Kyomu სისტემით; დეტალებისთვის დაუკავშირდით საერთაშორისო ოფისს.",
+   "ar": "تُعلن منح الطلاب الدوليين عبر نظام Kyomu في الجامعة؛ يُرجى التواصل مع المكتب الدولي لمعرفة التفاصيل."
+  },
+  "tests": {
+   "en": "Exam and language requirements are in the 2027 guidelines PDF, which was not read.",
+   "ka": "გამოცდისა და ენის მოთხოვნები 2027 წლის სახელმძღვანელო PDF-შია, რომელიც არ წაკითხულა.",
+   "ar": "متطلبات الامتحان واللغة في ملف إرشادات 2027 بصيغة PDF ولم يُقرأ."
+  },
+  "gpa_note": {
+   "en": "Not found on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე ვერ მოიძებნა.",
+   "ar": "غير متوفر في الصفحات التي جرى فحصها."
+  },
+  "qualifications_note": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე გამოქვეყნებული არ არის.",
+   "ar": "غير منشور في الصفحات التي جرى فحصها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "keywords": [
+   "japan",
+   "maebashi",
+   "gunma",
+   "national university",
+   "public"
+  ],
+  "sources": [
+   "https://www.gunma-u.ac.jp/english/",
+   "https://www.gunma-u.ac.jp/english/admissions/g189515",
+   "https://www.gunma-u.ac.jp/admission/g2107/g30174",
+   "https://www.gunma-u.ac.jp/english/university-life/g195987"
+  ]
+ }
+]

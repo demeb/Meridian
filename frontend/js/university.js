@@ -68,7 +68,7 @@
           '<div class="cluster" style="margin-bottom:.7rem">' +
             (uni.rank_qs ? '<span class="badge badge-accent">' + M.icon('award', 13) + ' QS World Rankings #' + M.esc(uni.rank_label || uni.rank_qs) + '</span>' : '') +
             (isBasic(uni) ? '<span class="badge">' + M.t('uni.basic') + '</span>' : '') +
-            ((uni.languages || []).length ? '<span class="badge">' + M.esc(uni.languages.join(' · ')) + '</span>' : '') +
+            ((uni.languages || []).length ? '<span class="badge">' + M.esc(uni.languages.map(M.langName).join(' · ')) + '</span>' : '') +
           '</div>' +
           '<h1>' + M.esc(name(uni)) + '</h1>' +
           '<p class="op-org">' + (uni.flag || '') + ' ' + M.esc((uni.city ? uni.city + ', ' : '') + country(uni)) + '</p>' +
@@ -130,7 +130,7 @@
   function schoolBlock() {
     var q = uni.qualifications || {};
     var rows = DIPLOMA_ROWS.filter(function (row) { return q[row[0]]; });
-    var langs = (uni.languages || []).join(' · ');
+    var langs = (uni.languages || []).map(M.langName).join(' · ');
     var english = uni.english_bachelors ? M.t('uni.eng.' + uni.english_bachelors) : '';
     var note = uni.qualifications_note ? M.pick(uni.qualifications_note) : '';
     if (!rows.length && !note && !langs) return '';

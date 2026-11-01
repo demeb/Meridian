@@ -1,0 +1,1752 @@
+[
+ {
+  "id": "near-east-university",
+  "name": {
+   "en": "Near East University",
+   "ka": "ახლო აღმოსავლეთის უნივერსიტეტი",
+   "ar": "جامعة الشرق الأدنى"
+  },
+  "iso": "CY",
+  "city": "Lefkosa",
+  "lat": 35.227,
+  "lon": 33.322,
+  "type": "private",
+  "website": "https://www.neu.edu.tr",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Not verified: the official pages for international bachelor applicants could not be read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Not verified."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published in the pages that could be read.",
+   "ka": "წაკითხვად გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي أمكن الاطلاع عليها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Dentistry",
+    "Engineering",
+    "Business",
+    "Architecture"
+   ],
+   "ka": [
+    "მედიცინა",
+    "სტომატოლოგია",
+    "ინჟინერია",
+    "ბიზნესი",
+    "არქიტექტურა"
+   ],
+   "ar": [
+    "الطب",
+    "طب الأسنان",
+    "الهندسة",
+    "إدارة الأعمال",
+    "العمارة"
+   ]
+  },
+  "summary": {
+   "en": "Near East University is a private university in Nicosia, northern Cyprus. Its official site blocked automated access, so admission and fee details are not listed.",
+   "ka": "ახლო აღმოსავლეთის უნივერსიტეტი ნიკოსიის (ჩრდილოეთ კვიპროსი) კერძო უნივერსიტეტია. ოფიციალურმა საიტმა ავტომატური წვდომა დაბლოკა, ამიტომ მიღებისა და საფასურის დეტალები მითითებული არ არის.",
+   "ar": "جامعة الشرق الأدنى جامعة خاصة في نيقوسيا بشمال قبرص. حجب موقعها الرسمي الوصول الآلي، لذلك لا ترد تفاصيل القبول والرسوم."
+  },
+  "about": {
+   "en": "Near East University is a private university in Nicosia. The official site returned an access error (HTTP 403) to automated requests, so admission rules, deadlines and tuition for international bachelor applicants are not listed here. Check the university admission pages directly before applying.",
+   "ka": "ახლო აღმოსავლეთის უნივერსიტეტი ნიკოსიის კერძო უნივერსიტეტია. ოფიციალურმა საიტმა ავტომატურ მოთხოვნებზე წვდომის შეცდომა (HTTP 403) დააბრუნა, ამიტომ მიღების წესები, ვადები და სწავლის საფასური აქ მითითებული არ არის. აპლიკაციამდე გადაამოწმეთ უნივერსიტეტის მიღების გვერდები.",
+   "ar": "جامعة الشرق الأدنى جامعة خاصة في نيقوسيا. أعاد موقعها الرسمي خطأ وصول (HTTP 403) للطلبات الآلية، لذلك لا ترد هنا قواعد القبول والمواعيد والرسوم لمتقدمي البكالوريوس الدوليين. راجع صفحات القبول في الجامعة مباشرة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students could be verified.",
+   "ka": "საერთაშორისო ბაკალავრებისთვის განკუთვნილი დახმარება დადასტურებული არ არის.",
+   "ar": "لم يمكن التحقق من وجود دعم مخصص لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not verified.",
+   "ka": "არ არის გადამოწმებული.",
+   "ar": "لم يتم التحقق."
+  },
+  "gpa_note": {
+   "en": "Not verified.",
+   "ka": "არ არის გადამოწმებული.",
+   "ar": "لم يتم التحقق."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "cyprus",
+   "nicosia",
+   "private",
+   "medicine"
+  ],
+  "sources": [
+   "https://www.neu.edu.tr"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "savitribai-phule-pune-university",
+  "name": {
+   "en": "Savitribai Phule Pune University",
+   "ka": "სავიტრიბაი ფულე პუნეს უნივერსიტეტი",
+   "ar": "جامعة سافيتريباي فولي بيون"
+  },
+  "iso": "IN",
+  "city": "Pune",
+  "lat": 18.552,
+  "lon": 73.825,
+  "type": "public",
+  "website": "https://www.unipune.ac.in",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Not verified: the official pages for international bachelor applicants could not be read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "INR",
+   "per": "year",
+   "note": "Not verified."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published in the pages that could be read.",
+   "ka": "წაკითხვად გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي أمكن الاطلاع عليها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "humanities",
+   "social-sciences",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Sciences",
+    "Engineering (affiliated colleges)",
+    "Humanities",
+    "Social sciences",
+    "Computer science"
+   ],
+   "ka": [
+    "მეცნიერებები",
+    "ინჟინერია (აფილირებულ კოლეჯებში)",
+    "ჰუმანიტარული მეცნიერებები",
+    "სოციალური მეცნიერებები",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "العلوم",
+    "الهندسة (في الكليات التابعة)",
+    "العلوم الإنسانية",
+    "العلوم الاجتماعية",
+    "علوم الحاسب"
+   ]
+  },
+  "summary": {
+   "en": "Savitribai Phule Pune University is a public university in Pune, India, with many affiliated colleges. Its homepage links an International Centre, but no international bachelor admission rules could be read.",
+   "ka": "სავიტრიბაი ფულე პუნეს უნივერსიტეტი ინდოეთის ქალაქ პუნეს სახელმწიფო უნივერსიტეტია, მრავალი აფილირებული კოლეჯით. მთავარი გვერდი საერთაშორისო ცენტრს უკავშირდება, მაგრამ საერთაშორისო ბაკალავრის მიღების წესები წაკითხვადი არ იყო.",
+   "ar": "جامعة سافيتريباي فولي بيون جامعة حكومية في بيون بالهند، ولها كليات تابعة كثيرة. ترتبط صفحتها الرئيسية بالمركز الدولي، لكن لم تكن قواعد قبول البكالوريوس الدولي مقروءة."
+  },
+  "about": {
+   "en": "Savitribai Phule Pune University is a public university in Pune with many affiliated colleges. Its homepage links an International Centre, admissions pages and a 2026-27 campus admission page. The pages for foreign students were not read, so requirements, deadlines and fees are not listed here. Contact the International Centre before applying.",
+   "ka": "სავიტრიბაი ფულე პუნეს უნივერსიტეტი პუნეს სახელმწიფო უნივერსიტეტია მრავალი აფილირებული კოლეჯით. მთავარი გვერდი უკავშირდება საერთაშორისო ცენტრს, მიღების გვერდებს და 2026-27 წლის კამპუსის მიღების გვერდს. უცხოელი სტუდენტების გვერდები არ წაკითხულა, ამიტომ მოთხოვნები, ვადები და საფასური აქ მითითებული არ არის. აპლიკაციამდე დაუკავშირდით საერთაშორისო ცენტრს.",
+   "ar": "جامعة سافيتريباي فولي بيون جامعة حكومية في بيون ولها كليات تابعة كثيرة. تربط صفحتها الرئيسية بالمركز الدولي وصفحات القبول وصفحة القبول في الحرم الجامعي للعام 2026-27. لم تُقرأ صفحات الطلاب الأجانب، لذلك لا ترد هنا المتطلبات والمواعيد والرسوم. تواصل مع المركز الدولي قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students could be verified.",
+   "ka": "საერთაშორისო ბაკალავრებისთვის განკუთვნილი დახმარება დადასტურებული არ არის.",
+   "ar": "لم يمكن التحقق من وجود دعم مخصص لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not verified.",
+   "ka": "არ არის გადამოწმებული.",
+   "ar": "لم يتم التحقق."
+  },
+  "gpa_note": {
+   "en": "Not verified.",
+   "ka": "არ არის გადამოწმებული.",
+   "ar": "لم يتم التحقق."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "pune",
+   "public",
+   "affiliated colleges"
+  ],
+  "sources": [
+   "https://www.unipune.ac.in"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "shiraz-university",
+  "name": {
+   "en": "Shiraz University",
+   "ka": "შირაზის უნივერსიტეტი",
+   "ar": "جامعة شيراز"
+  },
+  "iso": "IR",
+  "city": "Shiraz",
+  "lat": 29.639,
+  "lon": 52.522,
+  "type": "public",
+  "website": "https://shirazu.ac.ir",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Not verified: the official pages for international bachelor applicants could not be read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "IRR",
+   "per": "year",
+   "note": "Not verified."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published in the pages that could be read.",
+   "ka": "წაკითხვად გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي أمكن الاطلاع عليها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "humanities",
+   "social-sciences",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Sciences",
+    "Agriculture",
+    "Humanities",
+    "Social sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მეცნიერებები",
+    "სოფლის მეურნეობა",
+    "ჰუმანიტარული მეცნიერებები",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم",
+    "الزراعة",
+    "العلوم الإنسانية",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Shiraz University is a public university in Shiraz, Iran. Its official site did not load, so no admission or fee details are listed.",
+   "ka": "შირაზის უნივერსიტეტი ირანის ქალაქ შირაზის სახელმწიფო უნივერსიტეტია. ოფიციალური საიტი არ გაიხსნა, ამიტომ მიღებისა და საფასურის დეტალები მითითებული არ არის.",
+   "ar": "جامعة شيراز جامعة حكومية في شيراز بإيران. لم يفتح موقعها الرسمي، لذلك لا ترد تفاصيل القبول والرسوم."
+  },
+  "about": {
+   "en": "Shiraz University is a public university in Shiraz. Its official website refused the connection during research, so admission rules, deadlines and tuition for international bachelor applicants are not listed here. Check the university international office pages directly before applying.",
+   "ka": "შირაზის უნივერსიტეტი შირაზის სახელმწიფო უნივერსიტეტია. კვლევისას ოფიციალურმა საიტმა კავშირი უარყო, ამიტომ მიღების წესები, ვადები და სწავლის საფასური აქ მითითებული არ არის. აპლიკაციამდე გადაამოწმეთ უნივერსიტეტის საერთაშორისო ოფისის გვერდები.",
+   "ar": "جامعة شيراز جامعة حكومية في شيراز. رفض موقعها الرسمي الاتصال أثناء البحث، لذلك لا ترد هنا قواعد القبول والمواعيد والرسوم لمتقدمي البكالوريوس الدوليين. راجع صفحات المكتب الدولي في الجامعة مباشرة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students could be verified.",
+   "ka": "საერთაშორისო ბაკალავრებისთვის განკუთვნილი დახმარება დადასტურებული არ არის.",
+   "ar": "لم يمكن التحقق من وجود دعم مخصص لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not verified.",
+   "ka": "არ არის გადამოწმებული.",
+   "ar": "لم يتم التحقق."
+  },
+  "gpa_note": {
+   "en": "Not verified.",
+   "ka": "არ არის გადამოწმებული.",
+   "ar": "لم يتم التحقق."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "iran",
+   "shiraz",
+   "public"
+  ],
+  "sources": [
+   "https://shirazu.ac.ir"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "taras-shevchenko-national-university-of-kyiv",
+  "name": {
+   "en": "Taras Shevchenko National University of Kyiv",
+   "ka": "კიევის ტარას შევჩენკოს სახელობის ეროვნული უნივერსიტეტი",
+   "ar": "جامعة كييف الوطنية تاراس شيفتشنكو"
+  },
+  "iso": "UA",
+  "city": "Kyiv",
+  "lat": 50.442,
+  "lon": 30.513,
+  "type": "public",
+  "website": "https://knu.ua",
+  "platform": "Direct (registration, invitation, then documents)",
+  "application_url": "https://knu.ua/en/inter-stud/stages/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-09-15",
+  "deadline_note": "For 2026 entry, registration and invitations for foreign bachelor applicants closed 15 Sep 2026 and documents were accepted until 21 Oct 2026; 2027 dates are not yet published.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "UAH",
+   "per": "year",
+   "note": "Not published on the pages read; admission is at the expense of natural or legal persons (paid)."
+  },
+  "acceptance_rate": null,
+  "students": 26000,
+  "intl_pct": null,
+  "languages": [
+   "Ukrainian",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published in the pages that could be read.",
+   "ka": "წაკითხვად გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي أمكن الاطلاع عليها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "University entrance exams (1 Jul - 23 Oct 2026)"
+  ],
+  "fields": [
+   "natural-sciences",
+   "humanities",
+   "law",
+   "international-relations",
+   "computer-science",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Natural sciences",
+    "Law",
+    "International relations",
+    "Computer science",
+    "Humanities",
+    "Journalism"
+   ],
+   "ka": [
+    "საბუნებისმეტყველო მეცნიერებები",
+    "სამართალი",
+    "საერთაშორისო ურთიერთობები",
+    "კომპიუტერული მეცნიერება",
+    "ჰუმანიტარული მეცნიერებები",
+    "ჟურნალისტიკა"
+   ],
+   "ar": [
+    "العلوم الطبيعية",
+    "القانون",
+    "العلاقات الدولية",
+    "علوم الحاسب",
+    "العلوم الإنسانية",
+    "الصحافة"
+   ]
+  },
+  "summary": {
+   "en": "Taras Shevchenko National University of Kyiv is a public university with about 26,000 students. International bachelor applicants register and get an invitation first; tuition amounts were not published on the pages read.",
+   "ka": "კიევის ტარას შევჩენკოს სახელობის ეროვნული უნივერსიტეტი სახელმწიფო უნივერსიტეტია დაახლოებით 26 000 სტუდენტით. საერთაშორისო ბაკალავრის განმცხადებლები ჯერ რეგისტრირდებიან და იღებენ მოწვევას; სწავლის საფასური წაკითხულ გვერდებზე გამოქვეყნებული არ არის.",
+   "ar": "جامعة كييف الوطنية تاراس شيفتشنكو جامعة حكومية فيها نحو 26 ألف طالب. يسجل متقدمو البكالوريوس الدوليون أولا ويحصلون على دعوة؛ ولم تُنشر مبالغ الرسوم في الصفحات المقروءة."
+  },
+  "about": {
+   "en": "Taras Shevchenko National University of Kyiv reports about 26,000 students. Foreign citizens first register and get an invitation, then submit documents and sit the entrance exams held from July to October. Admission to faculties is at the expense of natural or legal persons. A Preparatory Department offers Ukrainian or English pre-university training all year. The pages read did not list fees or the language of each bachelor programme.",
+   "ka": "კიევის ტარას შევჩენკოს სახელობის ეროვნული უნივერსიტეტი დაახლოებით 26 000 სტუდენტს ასახელებს. უცხო ქვეყნის მოქალაქეები ჯერ რეგისტრირდებიან და იღებენ მოწვევას, შემდეგ წარადგენენ საბუთებს და ჩააბარებენ მისაღებ გამოცდებს, რომლებიც ივლისიდან ოქტომბრამდე ტარდება. ფაკულტეტებზე მიღება ფიზიკური ან იურიდიული პირების ხარჯზეა. მოსამზადებელი დეპარტამენტი მთელი წლის განმავლობაში გთავაზობთ უნივერსიტეტამდელ მომზადებას უკრაინულ ან ინგლისურ ენაზე. წაკითხულ გვერდებზე საფასური და თითოეული ბაკალავრის პროგრამის სწავლების ენა მითითებული არ არის.",
+   "ar": "تذكر جامعة كييف الوطنية تاراس شيفتشنكو نحو 26 ألف طالب. يسجل المواطنون الأجانب أولا ويحصلون على دعوة، ثم يقدمون الوثائق ويجتازون امتحانات القبول التي تجرى من يوليو إلى أكتوبر. القبول في الكليات على نفقة أشخاص طبيعيين أو اعتباريين. يقدم القسم التحضيري تدريبا قبل الجامعي بالأوكرانية أو الإنجليزية طوال العام. لم تعرض الصفحات المقروءة الرسوم ولا لغة كل برنامج بكالوريوس."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students could be verified.",
+   "ka": "საერთაშორისო ბაკალავრებისთვის განკუთვნილი დახმარება დადასტურებული არ არის.",
+   "ar": "لم يمكن التحقق من وجود دعم مخصص لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Entrance exams are held for foreign applicants; the pages read give no subjects or language scores.",
+   "ka": "უცხოელი განმცხადებლებისთვის მისაღები გამოცდები ტარდება; წაკითხულ გვერდებზე საგნები ან ენის ქულები მითითებული არ არის.",
+   "ar": "تُجرى امتحانات قبول للمتقدمين الأجانب؛ ولا تذكر الصفحات المقروءة المواد أو درجات اللغة."
+  },
+  "gpa_note": {
+   "en": "Not verified.",
+   "ka": "არ არის გადამოწმებული.",
+   "ar": "لم يتم التحقق."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "სკოლის დამამთავრებელი ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "ukraine",
+   "kyiv",
+   "public",
+   "law",
+   "sciences"
+  ],
+  "sources": [
+   "https://knu.ua/en/",
+   "https://knu.ua/en/inter-stud/stages/",
+   "https://knu.ua/en/inter-stud/instructions-for-documents/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "technological-university-dublin",
+  "name": {
+   "en": "Technological University Dublin",
+   "ka": "დუბლინის ტექნოლოგიური უნივერსიტეტი",
+   "ar": "الجامعة التكنولوجية في دبلن"
+  },
+  "iso": "IE",
+  "city": "Dublin",
+  "lat": 53.355,
+  "lon": -6.279,
+  "type": "public",
+  "website": "https://www.tudublin.ie",
+  "platform": "Direct (International Admissions Office, CRM Recruit)",
+  "application_url": "https://www.tudublin.ie/study/international/how-to-apply/undergraduate-courses/",
+  "intakes": [
+   "September",
+   "January"
+  ],
+  "deadline": "2026-06-26",
+  "deadline_note": "International closing date for September 2026 entry was 26 June 2026; the 2027 date is not yet published and some courses close earlier when full.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Non-EU: EUR 11,650 (level 6) and EUR 12,500 (level 7); level 8 is not stated on the fees page. 50% or at least EUR 6,000 is due to secure a place."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "IB Diploma needed with 24 points for most courses; A-level minimum is grade E (best four subjects count). Georgian, Qatari and US qualifications are on regional pages not read here.",
+   "ka": "საჭიროა IB დიპლომი, უმეტეს კურსზე 24 ქულით; A-level-ის მინიმუმი E ქულაა (ითვლება საუკეთესო ოთხი საგანი). ქართული, კატარული და აშშ-ის კვალიფიკაციები რეგიონულ გვერდებზეა, რომლებიც აქ არ წაკითხულა.",
+   "ar": "يلزم دبلوم IB بـ 24 نقطة لمعظم الدورات؛ والحد الأدنى في A-level هو الدرجة E (تُحتسب أفضل أربع مواد). المؤهلات الجورجية والقطرية والأمريكية في صفحات إقليمية لم تُقرأ هنا."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business",
+   "arts-design",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computing",
+    "Business",
+    "Design and arts",
+    "Built environment",
+    "Hospitality and tourism"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტინგი",
+    "ბიზნესი",
+    "დიზაინი და ხელოვნება",
+    "აგებული გარემო",
+    "სტუმართმოყვარეობა და ტურიზმი"
+   ],
+   "ar": [
+    "الهندسة",
+    "الحوسبة",
+    "إدارة الأعمال",
+    "التصميم والفنون",
+    "البيئة المبنية",
+    "الضيافة والسياحة"
+   ]
+  },
+  "summary": {
+   "en": "TU Dublin is a public technological university in Dublin. Non-EU tuition is EUR 11,650 (level 6) to EUR 12,500 (level 7) a year; level 8 is in the undergraduate brochure.",
+   "ka": "დუბლინის ტექნოლოგიური უნივერსიტეტი დუბლინის სახელმწიფო ტექნოლოგიური უნივერსიტეტია. არა-ევროკავშირელებისთვის სწავლის საფასური წელიწადში 11 650 ევროა (მე-6 დონე) და 12 500 ევრო (მე-7 დონე); მე-8 დონე საბაკალავრო ბროშურაშია.",
+   "ar": "الجامعة التكنولوجية في دبلن جامعة تكنولوجية حكومية في دبلن. رسوم الطلاب من خارج الاتحاد الأوروبي 11650 يورو (المستوى 6) إلى 12500 يورو (المستوى 7) سنويا؛ والمستوى 8 في كتيب البكالوريوس."
+  },
+  "about": {
+   "en": "TU Dublin is a public university in Dublin. Non-EU applicants living outside the EU apply directly through the International Admissions Office on CRM Recruit and pay a EUR 50 fee. They send a passport, grading scale, completion date, proof of English, CV and statement of purpose. The closing date for September 2026 was 26 June 2026, and some courses close early. A deposit of 50% of tuition (at least EUR 6,000) secures a place. Visa processing can take 12 weeks.",
+   "ka": "დუბლინის ტექნოლოგიური უნივერსიტეტი დუბლინის სახელმწიფო უნივერსიტეტია. ევროკავშირს გარეთ მცხოვრები არა-ევროკავშირელი განმცხადებლები უშუალოდ მიმართავენ საერთაშორისო მიღების ოფისს CRM Recruit-ის მეშვეობით და იხდიან 50 ევროს. ისინი აგზავნიან პასპორტს, შეფასების სკალას, დასრულების თარიღს, ინგლისურის დამადასტურებელ საბუთს, CV-სა და მიზნის გადმოცემის წერილს. 2026 წლის სექტემბრის ნაკადისთვის ბოლო ვადა 2026 წლის 26 ივნისი იყო, ზოგი კურსი ადრეც იხურება. ადგილის დასაჭერად საჭიროა სწავლის საფასურის 50% (მინიმუმ 6 000 ევრო). ვიზის დამუშავებას 12 კვირამდე შეიძლება დასჭირდეს.",
+   "ar": "الجامعة التكنولوجية في دبلن جامعة حكومية في دبلن. يتقدم المتقدمون من خارج الاتحاد الأوروبي المقيمون خارجه مباشرة عبر مكتب القبول الدولي على نظام CRM Recruit ويدفعون 50 يورو. يرسلون جواز السفر وسلم الدرجات وتاريخ إتمام الدراسة وإثبات الإنجليزية وسيرة ذاتية وبيان الغرض. كان الموعد النهائي لسبتمبر 2026 هو 26 يونيو 2026، وقد تُغلق بعض الدورات مبكرا. يضمن دفع 50% من الرسوم (6000 يورو على الأقل) المقعد. قد تستغرق معالجة التأشيرة 12 أسبوعا."
+  },
+  "aid_intl": {
+   "en": "A scholarships page exists; no dedicated award for non-EU bachelor students was confirmed.",
+   "ka": "სტიპენდიების გვერდი არსებობს; არა-ევროკავშირელი ბაკალავრებისთვის განკუთვნილი სტიპენდია დადასტურებული არ არის.",
+   "ar": "توجد صفحة للمنح؛ لم يتأكد وجود منحة مخصصة لطلاب البكالوريوس من خارج الاتحاد الأوروبي."
+  },
+  "tests": {
+   "en": "Proof of English is required for all applicants; the exact IELTS or TOEFL scores are on the English language requirements page.",
+   "ka": "ინგლისურის დამადასტურებელი საბუთი ყველა განმცხადებელს სჭირდება; IELTS-ის ან TOEFL-ის ზუსტი ქულები ინგლისური ენის მოთხოვნების გვერდზეა.",
+   "ar": "إثبات اللغة الإنجليزية مطلوب من جميع المتقدمين؛ درجات IELTS أو TOEFL الدقيقة في صفحة متطلبات اللغة الإنجليزية."
+  },
+  "gpa_note": {
+   "en": "Entry is by IB points or A-level grades; competitive courses ask for more than the minimum and some need maths.",
+   "ka": "მიღება IB ქულებით ან A-level ნიშნებით ხდება; კონკურენტულ კურსებზე მინიმუმზე მეტია საჭირო, ზოგს მათემატიკა სჭირდება.",
+   "ar": "يتم القبول بنقاط IB أو درجات A-level؛ تطلب الدورات التنافسية أكثر من الحد الأدنى وبعضها يتطلب الرياضيات."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "სკოლის დამამთავრებელი ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV",
+     "ka": "ავტობიოგრაფია (CV)",
+     "ar": "السيرة الذاتية"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Motivation letter",
+     "ka": "სამოტივაციო წერილი",
+     "ar": "خطاب الدافع"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds",
+     "ka": "ფინანსური შესაძლებლობის დამადასტურებელი საბუთი",
+     "ar": "إثبات القدرة المالية"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "TU Dublin scholarships",
+    "url": "https://www.tudublin.ie/study/scholarships/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "ireland",
+   "dublin",
+   "technological university",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.tudublin.ie/study/international/",
+   "https://www.tudublin.ie/study/international/how-to-apply/undergraduate-courses/",
+   "https://www.tudublin.ie/study/international/fees--registration/fees---funding/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universidade-catolica-portuguesa",
+  "name": {
+   "en": "Universidade Católica Portuguesa",
+   "ka": "პორტუგალიის კათოლიკური უნივერსიტეტი",
+   "ar": "الجامعة الكاثوليكية البرتغالية"
+  },
+  "iso": "PT",
+  "city": "Lisbon",
+  "lat": 38.744,
+  "lon": -9.161,
+  "type": "private",
+  "website": "https://www.ucp.pt",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Not verified: the official pages for international bachelor applicants could not be read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Not verified."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published in the pages that could be read.",
+   "ka": "წაკითხვად გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي أمكن الاطلاع عليها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "law",
+   "humanities",
+   "social-sciences",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Law",
+    "Humanities",
+    "Health sciences",
+    "Biotechnology"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "სამართალი",
+    "ჰუმანიტარული მეცნიერებები",
+    "ჯანდაცვის მეცნიერებები",
+    "ბიოტექნოლოგია"
+   ],
+   "ar": [
+    "إدارة الأعمال",
+    "القانون",
+    "العلوم الإنسانية",
+    "علوم الصحة",
+    "التقنية الحيوية"
+   ]
+  },
+  "summary": {
+   "en": "Universidade Católica Portuguesa is a private university with its main campus in Lisbon. Its English homepage links international candidate pages, a 2026/27 fee table and calendar, but their contents could not be read.",
+   "ka": "პორტუგალიის კათოლიკური უნივერსიტეტი კერძო უნივერსიტეტია, მთავარი კამპუსით ლისაბონში. ინგლისურენოვანი მთავარი გვერდი საერთაშორისო კანდიდატების გვერდებს, 2026/27 წლის საფასურის ცხრილსა და კალენდარს უკავშირდება, მაგრამ მათი შინაარსი წაკითხვადი არ იყო.",
+   "ar": "الجامعة الكاثوليكية البرتغالية جامعة خاصة وحرمها الرئيسي في لشبونة. تربط صفحتها الإنجليزية بصفحات المرشحين الدوليين وجدول رسوم وتقويم 2026/27، لكن تعذرت قراءة محتواها."
+  },
+  "about": {
+   "en": "Universidade Católica Portuguesa is a private university with its main campus in Lisbon. Its homepage lists a candidates page for international students, a 2026/27 international student calendar and a fee table. Those pages returned errors, so deadlines, tuition and recognition of Georgian or Qatari school certificates are not listed here. Check the international candidates pages directly.",
+   "ka": "პორტუგალიის კათოლიკური უნივერსიტეტი კერძო უნივერსიტეტია, მთავარი კამპუსით ლისაბონში. მთავარ გვერდზე არის საერთაშორისო სტუდენტების კანდიდატების გვერდი, 2026/27 წლის საერთაშორისო სტუდენტის კალენდარი და საფასურის ცხრილი. ეს გვერდები შეცდომას აბრუნებდა, ამიტომ ვადები, სწავლის საფასური და ქართული ან კატარული ატესტატის აღიარება აქ მითითებული არ არის. გადაამოწმეთ საერთაშორისო კანდიდატების გვერდები უშუალოდ.",
+   "ar": "الجامعة الكاثوليكية البرتغالية جامعة خاصة وحرمها الرئيسي في لشبونة. تعرض صفحتها الرئيسية صفحة للمرشحين الدوليين وتقويم 2026/27 للطلاب الدوليين وجدول رسوم. أعادت هذه الصفحات أخطاء، لذلك لا ترد هنا المواعيد والرسوم والاعتراف بالشهادات المدرسية الجورجية أو القطرية. راجع صفحات المرشحين الدوليين مباشرة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students could be verified.",
+   "ka": "საერთაშორისო ბაკალავრებისთვის განკუთვნილი დახმარება დადასტურებული არ არის.",
+   "ar": "لم يمكن التحقق من وجود دعم مخصص لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not verified.",
+   "ka": "არ არის გადამოწმებული.",
+   "ar": "لم يتم التحقق."
+  },
+  "gpa_note": {
+   "en": "Not verified.",
+   "ka": "არ არის გადამოწმებული.",
+   "ar": "لم يتم التحقق."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "portugal",
+   "lisbon",
+   "private",
+   "business",
+   "law"
+  ],
+  "sources": [
+   "https://www.ucp.pt/en"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-engineering-technology-uet-lahore",
+  "name": {
+   "en": "University of Engineering & Technology (UET) Lahore",
+   "ka": "ლაჰორის საინჟინრო და ტექნოლოგიური უნივერსიტეტი (UET)",
+   "ar": "جامعة الهندسة والتكنولوجيا لاهور (UET)"
+  },
+  "iso": "PK",
+  "city": "Lahore",
+  "lat": 31.578,
+  "lon": 74.356,
+  "type": "public",
+  "website": "https://www.uet.edu.pk",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Not verified: the official pages for international bachelor applicants could not be read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "PKR",
+   "per": "year",
+   "note": "Not verified."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published in the pages that could be read.",
+   "ka": "წაკითხვად გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي أمكن الاطلاع عليها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Technology",
+    "Architecture",
+    "Computer science"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ტექნოლოგიები",
+    "არქიტექტურა",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الهندسة",
+    "التكنولوجيا",
+    "العمارة",
+    "علوم الحاسب"
+   ]
+  },
+  "summary": {
+   "en": "UET Lahore is a public engineering university in Lahore, Pakistan. Its official site returned a server error, so no admission or fee details are listed.",
+   "ka": "ლაჰორის საინჟინრო და ტექნოლოგიური უნივერსიტეტი პაკისტანის ქალაქ ლაჰორის სახელმწიფო საინჟინრო უნივერსიტეტია. ოფიციალურმა საიტმა სერვერის შეცდომა დააბრუნა, ამიტომ მიღებისა და საფასურის დეტალები მითითებული არ არის.",
+   "ar": "جامعة الهندسة والتكنولوجيا لاهور جامعة هندسية حكومية في لاهور بباكستان. أعاد موقعها الرسمي خطأ خادم، لذلك لا ترد تفاصيل القبول والرسوم."
+  },
+  "about": {
+   "en": "UET Lahore is a public engineering university in Lahore. The official website returned a server error (HTTP 522) during research, so admission rules, deadlines and tuition for international bachelor applicants are not listed here. Check the university admission pages directly before applying.",
+   "ka": "ლაჰორის საინჟინრო და ტექნოლოგიური უნივერსიტეტი ლაჰორის სახელმწიფო საინჟინრო უნივერსიტეტია. კვლევისას ოფიციალურმა საიტმა სერვერის შეცდომა (HTTP 522) დააბრუნა, ამიტომ მიღების წესები, ვადები და სწავლის საფასური აქ მითითებული არ არის. აპლიკაციამდე გადაამოწმეთ უნივერსიტეტის მიღების გვერდები.",
+   "ar": "جامعة الهندسة والتكنولوجيا لاهور جامعة هندسية حكومية في لاهور. أعاد موقعها الرسمي خطأ خادم (HTTP 522) أثناء البحث، لذلك لا ترد هنا قواعد القبول والمواعيد والرسوم لمتقدمي البكالوريوس الدوليين. راجع صفحات القبول في الجامعة مباشرة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students could be verified.",
+   "ka": "საერთაშორისო ბაკალავრებისთვის განკუთვნილი დახმარება დადასტურებული არ არის.",
+   "ar": "لم يمكن التحقق من وجود دعم مخصص لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not verified.",
+   "ka": "არ არის გადამოწმებული.",
+   "ar": "لم يتم التحقق."
+  },
+  "gpa_note": {
+   "en": "Not verified.",
+   "ka": "არ არის გადამოწმებული.",
+   "ar": "لم يتم التحقق."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "pakistan",
+   "lahore",
+   "engineering",
+   "public"
+  ],
+  "sources": [
+   "https://www.uet.edu.pk"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-greenwich",
+  "name": {
+   "en": "University of Greenwich",
+   "ka": "გრინვიჩის უნივერსიტეტი",
+   "ar": "جامعة غرينيتش"
+  },
+  "iso": "GB",
+  "city": "London",
+  "lat": 51.482,
+  "lon": -0.009,
+  "type": "public",
+  "website": "https://www.gre.ac.uk",
+  "platform": "UCAS or official partner agents",
+  "application_url": "https://www.gre.ac.uk/study/apply/international",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Deadlines are not stated on the international application page; check UCAS for the 2027 cycle.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "GBP",
+   "per": "year",
+   "note": "International fees were not readable on the pages reached."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published in the pages that could be read.",
+   "ka": "წაკითხვად გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي أمكن الاطلاع عليها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science",
+   "education",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Computing",
+    "Education",
+    "Nursing and health"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "კომპიუტინგი",
+    "განათლება",
+    "მედდობა და ჯანდაცვა"
+   ],
+   "ar": [
+    "إدارة الأعمال",
+    "الهندسة",
+    "الحوسبة",
+    "التربية",
+    "التمريض والصحة"
+   ]
+  },
+  "summary": {
+   "en": "The University of Greenwich is a public university in London. International bachelor applicants apply through UCAS or official agents, and a foundation route is available through its International College.",
+   "ka": "გრინვიჩის უნივერსიტეტი ლონდონის სახელმწიფო უნივერსიტეტია. საერთაშორისო ბაკალავრის განმცხადებლები UCAS-ით ან ოფიციალური აგენტებით მიმართავენ, ხოლო საფუძვლიანი მომზადების გზა საერთაშორისო კოლეჯის მეშვეობითაა შესაძლებელი.",
+   "ar": "جامعة غرينيتش جامعة حكومية في لندن. يتقدم المتقدمون الدوليون للبكالوريوس عبر UCAS أو الوكلاء الرسميين، ويتوفر مسار تأسيسي عبر كليتها الدولية."
+  },
+  "about": {
+   "en": "The University of Greenwich is a public university in London. International undergraduates apply through UCAS or one of the official partner agents; nursing and social work must use UCAS. Applicants who miss direct entry can take a foundation course at the University of Greenwich International College, and those slightly below the English level can take pre-sessional English. After an offer, the CAS team issues the visa documents. Fees were not readable.",
+   "ka": "გრინვიჩის უნივერსიტეტი ლონდონის სახელმწიფო უნივერსიტეტია. საერთაშორისო ბაკალავრები UCAS-ით ან ოფიციალური პარტნიორი აგენტებით მიმართავენ; მედდობისა და სოციალური მუშაობისთვის მხოლოდ UCAS გამოიყენება. ვისაც პირდაპირი მიღების პირობები არ აქვს, შეუძლია გრინვიჩის უნივერსიტეტის საერთაშორისო კოლეჯში საფუძვლიანი კურსი გაიაროს, ხოლო ინგლისურის საჭირო დონეზე ოდნავ დაბალს — წინასასემესტრო ინგლისური. შეთავაზების შემდეგ CAS გუნდი ვიზის საბუთებს გასცემს. საფასური წაკითხვადი არ იყო.",
+   "ar": "جامعة غرينيتش جامعة حكومية في لندن. يتقدم طلاب البكالوريوس الدوليون عبر UCAS أو أحد الوكلاء الشركاء الرسميين؛ ويجب التقديم عبر UCAS للتمريض والعمل الاجتماعي. يمكن لمن لا يستوفي شروط القبول المباشر أخذ دورة تأسيسية في الكلية الدولية بالجامعة، ولمن لغته الإنجليزية أقل قليلا من المطلوب أخذ دورة إنجليزية تمهيدية. بعد العرض يصدر فريق CAS وثائق التأشيرة. لم تكن الرسوم مقروءة."
+  },
+  "aid_intl": {
+   "en": "The International Scholarship Award and the EU Bursary are open to all offer holders.",
+   "ka": "საერთაშორისო სტიპენდიის ჯილდო (International Scholarship Award) და ევროკავშირის სტიპენდია (EU Bursary) ყველა შეთავაზების მფლობელისთვის ხელმისაწვდომია.",
+   "ar": "منحة الجامعة الدولية (International Scholarship Award) ومنحة الاتحاد الأوروبي (EU Bursary) متاحتان لجميع من حصلوا على عرض."
+  },
+  "tests": {
+   "en": "English proof is required; scores were not readable. Pre-sessional English is offered to applicants slightly below the level.",
+   "ka": "საჭიროა ინგლისურის დამადასტურებელი საბუთი; ქულები წაკითხვადი არ იყო. დონეზე ოდნავ დაბალ განმცხადებლებს წინასასემესტრო ინგლისური ეთავაზებათ.",
+   "ar": "إثبات اللغة الإنجليزية مطلوب؛ ولم تكن الدرجات مقروءة. تُعرض دورة إنجليزية تمهيدية لمن هم أقل قليلا من المستوى."
+  },
+  "gpa_note": {
+   "en": "Not verified.",
+   "ka": "არ არის გადამოწმებული.",
+   "ar": "لم يتم التحقق."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "სკოლის დამამთავრებელი ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds",
+     "ka": "ფინანსური შესაძლებლობის დამადასტურებელი საბუთი",
+     "ar": "إثبات القدرة المالية"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "International Scholarship Award",
+    "url": "https://www.gre.ac.uk/finance/funding-your-studies/scholarships-and-bursaries",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "uk",
+   "london",
+   "ucas",
+   "foundation"
+  ],
+  "sources": [
+   "https://www.gre.ac.uk/study/apply/international",
+   "https://www.gre.ac.uk"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-pecs",
+  "name": {
+   "en": "University of Pecs",
+   "ka": "პეჩის უნივერსიტეტი",
+   "ar": "جامعة بيتش"
+  },
+  "iso": "HU",
+  "city": "Pécs",
+  "lat": 46.077,
+  "lon": 18.213,
+  "type": "public",
+  "website": "https://pte.hu",
+  "platform": "Direct online application (apply.pte.hu)",
+  "application_url": "https://international.pte.hu/admission/how-apply",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No bachelor deadline is stated on the pages read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Tuition and the application fee amount are on programme pages not read; tuition is paid after conditional acceptance."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Applicants must have completed upper secondary (high school) education; the diploma requirements per country are in a PDF not readable here.",
+   "ka": "განმცხადებელს დასრულებული უნდა ჰქონდეს საშუალო განათლება; დიპლომის ქვეყნების მიხედვით მოთხოვნები PDF-შია, რომელიც აქ წაკითხვადი არ იყო.",
+   "ar": "يجب أن يكون المتقدم قد أنهى التعليم الثانوي؛ ومتطلبات الشهادات حسب الدولة في ملف PDF لم يكن مقروءا هنا."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Entrance exam or online interview"
+  ],
+  "fields": [
+   "medicine-health",
+   "business",
+   "engineering",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Health sciences",
+    "Business and economics",
+    "Engineering",
+    "Law"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ჯანდაცვის მეცნიერებები",
+    "ბიზნესი და ეკონომიკა",
+    "ინჟინერია",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب",
+    "علوم الصحة",
+    "الأعمال والاقتصاد",
+    "الهندسة",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "The University of Pécs is a public university in southern Hungary with ten faculties and a Medical School. International bachelor applicants apply online, then take an entrance exam or interview; fees were not readable.",
+   "ka": "პეჩის უნივერსიტეტი სამხრეთ უნგრეთის სახელმწიფო უნივერსიტეტია ათი ფაკულტეტითა და სამედიცინო სკოლით. საერთაშორისო ბაკალავრის განმცხადებლები ონლაინ მიმართავენ, შემდეგ აბარებენ მისაღებ გამოცდას ან გასაუბრებას; საფასური წაკითხვადი არ იყო.",
+   "ar": "جامعة بيتش جامعة حكومية في جنوب المجر فيها عشر كليات ومدرسة طب. يتقدم المتقدمون الدوليون للبكالوريوس إلكترونيا ثم يخضعون لامتحان قبول أو مقابلة؛ ولم تكن الرسوم مقروءة."
+  },
+  "about": {
+   "en": "The University of Pécs is a public university with ten faculties and a Medical School, and belongs to the EDUC alliance. Bachelor applicants choose a programme, register on the application site, upload documents and pay the application fee. The university then invites them to an entrance exam or online interview, sends a conditional acceptance letter, and issues the admission letter after tuition is paid. Language minimums are in a separate PDF.",
+   "ka": "პეჩის უნივერსიტეტი სახელმწიფო უნივერსიტეტია ათი ფაკულტეტითა და სამედიცინო სკოლით და EDUC ალიანსის წევრია. ბაკალავრის განმცხადებლები ირჩევენ პროგრამას, რეგისტრირდებიან აპლიკაციის საიტზე, ტვირთავენ საბუთებს და იხდიან სააპლიკაციო გადასახადს. შემდეგ უნივერსიტეტი მათ იწვევს მისაღებ გამოცდაზე ან ონლაინ გასაუბრებაზე, უგზავნის პირობით მიღების წერილს, ხოლო სწავლის საფასურის გადახდის შემდეგ გასცემს მიღების წერილს. ენის მინიმუმები ცალკე PDF-შია.",
+   "ar": "جامعة بيتش جامعة حكومية فيها عشر كليات ومدرسة طب، وهي عضو في تحالف EDUC. يختار متقدمو البكالوريوس برنامجا ويسجلون في موقع التقديم ويرفعون الوثائق ويدفعون رسم التقديم. ثم تدعوهم الجامعة إلى امتحان قبول أو مقابلة عبر الإنترنت وترسل خطاب قبول مشروطا، وتصدر خطاب القبول بعد دفع الرسوم. الحد الأدنى للغة في ملف PDF منفصل."
+  },
+  "aid_intl": {
+   "en": "A scholarships section exists on the international site; its details were not readable.",
+   "ka": "საერთაშორისო საიტზე სტიპენდიების განყოფილება არსებობს; დეტალები წაკითხვადი არ იყო.",
+   "ar": "يوجد قسم للمنح في الموقع الدولي؛ ولم تكن تفاصيله مقروءة."
+  },
+  "tests": {
+   "en": "Entrance exam or online interview after you apply; minimum language scores are in the Language Proficiency Requirements PDF.",
+   "ka": "განაცხადის შემდეგ მისაღები გამოცდა ან ონლაინ გასაუბრებაა; ენის მინიმალური ქულები Language Proficiency Requirements PDF-შია.",
+   "ar": "امتحان قبول أو مقابلة عبر الإنترنت بعد التقديم؛ والحد الأدنى للغة في ملف Language Proficiency Requirements."
+  },
+  "gpa_note": {
+   "en": "Each programme sets extra academic conditions; engineering may expect stronger maths.",
+   "ka": "თითოეული პროგრამა დამატებით აკადემიურ პირობებს აწესებს; საინჟინრო პროგრამებს შეიძლება უფრო ძლიერი მათემატიკა სჭირდებოდეს.",
+   "ar": "يضع كل برنامج شروطا أكاديمية إضافية؛ وقد تتوقع برامج الهندسة مستوى أقوى في الرياضيات."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "სკოლის დამამთავრებელი ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Interview",
+     "ka": "გასაუბრება",
+     "ar": "مقابلة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "hungary",
+   "pecs",
+   "medicine",
+   "public"
+  ],
+  "sources": [
+   "https://pte.hu/en",
+   "https://international.pte.hu/",
+   "https://international.pte.hu/admission/how-apply",
+   "https://international.pte.hu/admission/entry-requirements"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "vilnius-tech-vilnius-gediminas-technical-university",
+  "name": {
+   "en": "VILNIUS TECH (Vilnius Gediminas Technical University)",
+   "ka": "ვილნიუსის ტექნიკური უნივერსიტეტი (VILNIUS TECH)",
+   "ar": "جامعة فيلنيوس غيديمناس التقنية (VILNIUS TECH)"
+  },
+  "iso": "LT",
+  "city": "Vilnius",
+  "lat": 54.722,
+  "lon": 25.337,
+  "type": "public",
+  "website": "https://www.vgtu.lt",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Not verified: the official pages for international bachelor applicants could not be read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Not verified."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published in the pages that could be read.",
+   "ka": "წაკითხვად გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي أمكن الاطلاع عليها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business",
+   "environment",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Civil engineering",
+    "Architecture",
+    "Computer science",
+    "Business"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "სამოქალაქო ინჟინერია",
+    "არქიტექტურა",
+    "კომპიუტერული მეცნიერება",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "الهندسة",
+    "الهندسة المدنية",
+    "العمارة",
+    "علوم الحاسب",
+    "إدارة الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "VILNIUS TECH is a public technical university in Vilnius, Lithuania. Its official site refused the connection during research, so no admission or fee details are listed.",
+   "ka": "VILNIUS TECH ლიტვის ქალაქ ვილნიუსის სახელმწიფო ტექნიკური უნივერსიტეტია. კვლევისას ოფიციალურმა საიტმა კავშირი უარყო, ამიტომ მიღებისა და საფასურის დეტალები მითითებული არ არის.",
+   "ar": "VILNIUS TECH جامعة تقنية حكومية في فيلنيوس بليتوانيا. رفض موقعها الرسمي الاتصال أثناء البحث، لذلك لا ترد تفاصيل القبول والرسوم."
+  },
+  "about": {
+   "en": "VILNIUS TECH is a public technical university in Vilnius. The official site refused the connection (ECONNREFUSED) on every attempt, so admission rules, deadlines and tuition for international bachelor applicants are not listed here. Check the university admission pages directly before applying.",
+   "ka": "VILNIUS TECH ვილნიუსის სახელმწიფო ტექნიკური უნივერსიტეტია. ოფიციალურმა საიტმა ყველა მცდელობისას კავშირი უარყო, ამიტომ მიღების წესები, ვადები და სწავლის საფასური აქ მითითებული არ არის. აპლიკაციამდე გადაამოწმეთ უნივერსიტეტის მიღების გვერდები.",
+   "ar": "VILNIUS TECH جامعة تقنية حكومية في فيلنيوس. رفض الموقع الرسمي الاتصال في كل محاولة، لذلك لا ترد هنا قواعد القبول والمواعيد والرسوم لمتقدمي البكالوريوس الدوليين. راجع صفحات القبول في الجامعة مباشرة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students could be verified.",
+   "ka": "საერთაშორისო ბაკალავრებისთვის განკუთვნილი დახმარება დადასტურებული არ არის.",
+   "ar": "لم يمكن التحقق من وجود دعم مخصص لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not verified.",
+   "ka": "არ არის გადამოწმებული.",
+   "ar": "لم يتم التحقق."
+  },
+  "gpa_note": {
+   "en": "Not verified.",
+   "ka": "არ არის გადამოწმებული.",
+   "ar": "لم يتم التحقق."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "lithuania",
+   "vilnius",
+   "technical",
+   "public"
+  ],
+  "sources": [
+   "https://www.vgtu.lt"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "yeungnam-university",
+  "name": {
+   "en": "Yeungnam University",
+   "ka": "იონგნამის უნივერსიტეტი",
+   "ar": "جامعة يونغنام"
+  },
+  "iso": "KR",
+  "city": "Gyeongsan",
+  "lat": 35.833,
+  "lon": 128.754,
+  "type": "private",
+  "website": "https://www.yu.ac.kr",
+  "platform": "Direct (ISA online portal)",
+  "application_url": "https://www.yu.ac.kr/english/admissions/overview.do",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "The only schedule published is from 2021 (apply 16 Jun-7 Jul, admission in September); current dates must be confirmed with the university.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "KRW",
+   "per": "semester",
+   "note": "Tuition amounts were not on the pages read. International students get a waiver: 50% for all in the first semester, 70% with TOPIK 4, 100% with TOPIK 5 or 6."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Korean"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "High school graduation is required for freshmen; the page does not list accepted foreign certificates.",
+   "ka": "პირველკურსელებს სჭირდებათ საშუალო სკოლის დამთავრება; გვერდზე უცხოური ატესტატების სია მითითებული არ არის.",
+   "ar": "يشترط لطلاب السنة الأولى إتمام الدراسة الثانوية؛ ولا تذكر الصفحة قائمة الشهادات الأجنبية المقبولة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TOPIK level 2 or YU TOPIK"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "business",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Natural sciences",
+    "Business",
+    "Humanities",
+    "Social sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ბიზნესი",
+    "ჰუმანიტარული მეცნიერებები",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم الطبيعية",
+    "إدارة الأعمال",
+    "العلوم الإنسانية",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Yeungnam University is a private university in Gyeongsan, South Korea. International freshmen need TOPIK level 2 or higher, and the application fee is USD 48 (2021 page).",
+   "ka": "იონგნამის უნივერსიტეტი სამხრეთ კორეის ქალაქ გიონგსანის კერძო უნივერსიტეტია. საერთაშორისო პირველკურსელებს სჭირდებათ TOPIK-ის მე-2 ან უფრო მაღალი დონე, სააპლიკაციო გადასახადია 48 აშშ დოლარი (2021 წლის გვერდი).",
+   "ar": "جامعة يونغنام جامعة خاصة في غيونغسان بكوريا الجنوبية. يحتاج طلاب السنة الأولى الدوليون إلى TOPIK المستوى 2 أو أعلى، ورسم التقديم 48 دولارا (صفحة 2021)."
+  },
+  "about": {
+   "en": "Yeungnam University is a private university in Gyeongsan, near Daegu. International freshmen apply through the online ISA portal, pay a USD 48 application fee and show high school graduation plus TOPIK level 2 or higher (or a YU TOPIK certificate or Korean-language centre level 3). The latest published schedule is from 2021, so dates must be confirmed. Teaching is mainly in Korean. Tuition waivers of 50 to 100% depend on TOPIK level.",
+   "ka": "იონგნამის უნივერსიტეტი დაეგუს მახლობლად, გიონგსანში მდებარე კერძო უნივერსიტეტია. საერთაშორისო პირველკურსელები განაცხადს ონლაინ ISA პორტალზე აგზავნიან, იხდიან 48 დოლარს და წარადგენენ საშუალო სკოლის დამთავრების დამადასტურებელ საბუთს და TOPIK-ის მე-2 ან უფრო მაღალ დონეს (ან YU TOPIK სერტიფიკატს ან კორეული ენის ცენტრის მე-3 დონეს). გამოქვეყნებული ბოლო გრაფიკი 2021 წლისაა, ამიტომ თარიღები უნდა დაზუსტდეს. სწავლება ძირითადად კორეულია. სწავლის საფასურის 50–100%-იანი ფასდაკლება TOPIK-ის დონეზეა დამოკიდებული.",
+   "ar": "جامعة يونغنام جامعة خاصة في غيونغسان قرب دايغو. يقدم طلاب السنة الأولى الدوليون عبر بوابة ISA الإلكترونية ويدفعون 48 دولارا ويثبتون إتمام الثانوية مع TOPIK المستوى 2 أو أعلى (أو شهادة YU TOPIK أو المستوى 3 في مركز اللغة الكورية). آخر جدول منشور يعود إلى 2021 لذا يجب تأكيد المواعيد. التدريس في الغالب بالكورية. تتراوح إعفاءات الرسوم بين 50% و100% حسب مستوى TOPIK."
+  },
+  "aid_intl": {
+   "en": "International undergraduates get tuition waivers: 50% for all in the first semester, 70% with TOPIK 4 and 100% with TOPIK 5 or 6, then by GPA.",
+   "ka": "საერთაშორისო ბაკალავრებს სწავლის საფასურის ფასდაკლება აქვთ: პირველ სემესტრში 50% ყველასთვის, 70% TOPIK 4-ით და 100% TOPIK 5-ით ან 6-ით, შემდეგ კი GPA-ის მიხედვით.",
+   "ar": "يحصل طلاب البكالوريوس الدوليون على إعفاءات من الرسوم: 50% للجميع في الفصل الأول، و70% مع TOPIK 4، و100% مع TOPIK 5 أو 6، ثم حسب المعدل."
+  },
+  "tests": {
+   "en": "TOPIK level 2 or higher, or a YU TOPIK certificate, or completion of Korean level 3 at a university language centre with an interview. IELTS is not mentioned.",
+   "ka": "TOPIK-ის მე-2 ან უფრო მაღალი დონე, ან YU TOPIK სერტიფიკატი, ან უნივერსიტეტის ენის ცენტრში კორეულის მე-3 დონის დასრულება გასაუბრებით. IELTS მოხსენიებული არ არის.",
+   "ar": "TOPIK المستوى 2 أو أعلى، أو شهادة YU TOPIK، أو إتمام المستوى 3 من الكورية في مركز لغة جامعي مع مقابلة. لا يُذكر IELTS."
+  },
+  "gpa_note": {
+   "en": "High school graduation is required; no minimum grade is published.",
+   "ka": "საჭიროა საშუალო სკოლის დამთავრება; მინიმალური ქულა გამოქვეყნებული არ არის.",
+   "ar": "يلزم إتمام الثانوية؛ ولا يُنشر حد أدنى للدرجات."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "სკოლის დამამთავრებელი ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language proficiency proof",
+     "ka": "ენის ცოდნის დამადასტურებელი საბუთი",
+     "ar": "إثبات إتقان اللغة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Yeungnam undergraduate tuition waivers",
+    "url": "https://www.yu.ac.kr/english/admissions/financial-aid-undergraduate.do",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "south korea",
+   "gyeongsan",
+   "daegu",
+   "topik",
+   "tuition waiver"
+  ],
+  "sources": [
+   "https://www.yu.ac.kr/english/index.do",
+   "https://www.yu.ac.kr/english/admissions/overview.do",
+   "https://www.yu.ac.kr/english/admissions/financial-aid-undergraduate.do"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "aberystwyth-university",
+  "name": {
+   "en": "Aberystwyth University",
+   "ka": "აბერისტვითის უნივერსიტეტი",
+   "ar": "جامعة أبيريستويث"
+  },
+  "iso": "GB",
+  "city": "Aberystwyth",
+  "lat": 52.416,
+  "lon": -4.065,
+  "type": "public",
+  "website": "https://www.aber.ac.uk",
+  "platform": "Direct, UCAS, Common App or Clearing",
+  "application_url": "https://www.aber.ac.uk/en/international/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No deadline is stated on the international landing page.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "GBP",
+   "per": "year",
+   "note": "International fees are on a fees page that could not be read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": 10,
+  "languages": [
+   "English",
+   "Welsh"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published in the pages that could be read.",
+   "ka": "წაკითხვად გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي أمكن الاطلاع عليها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "humanities",
+   "social-sciences",
+   "international-relations"
+  ],
+  "strengths": {
+   "en": [
+    "International politics",
+    "Environmental and earth sciences",
+    "Agriculture and life sciences",
+    "Computer science",
+    "Welsh and humanities"
+   ],
+   "ka": [
+    "საერთაშორისო პოლიტიკა",
+    "გარემოსა და დედამიწის მეცნიერებები",
+    "სოფლის მეურნეობა და ბიომეცნიერებები",
+    "კომპიუტერული მეცნიერება",
+    "უელსური და ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "السياسة الدولية",
+    "علوم البيئة والأرض",
+    "الزراعة وعلوم الحياة",
+    "علوم الحاسب",
+    "الويلزية والعلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "Aberystwyth University is a public university on the coast of Wales. International students can apply directly, through UCAS, through Common App or in Clearing, and fee-paying international students are offered free accommodation.",
+   "ka": "აბერისტვითის უნივერსიტეტი უელსის სანაპიროზე მდებარე სახელმწიფო უნივერსიტეტია. საერთაშორისო სტუდენტებს შეუძლიათ განაცხადი უშუალოდ, UCAS-ით, Common App-ით ან Clearing-ით გააგზავნონ, ხოლო სწავლის საფასურის გადამხდელ საერთაშორისო სტუდენტებს უფასო საცხოვრებელი ეთავაზებათ.",
+   "ar": "جامعة أبيريستويث جامعة حكومية على ساحل ويلز. يمكن للطلاب الدوليين التقديم مباشرة أو عبر UCAS أو Common App أو في نظام التسوية (Clearing)، ويُعرض على الطلاب الدوليين الدافعين للرسوم سكن مجاني."
+  },
+  "about": {
+   "en": "Aberystwyth University is a public university in Aberystwyth, mid-Wales. About 10% of students come from outside the UK. International bachelor applicants can apply directly, through UCAS, through Common App or through Clearing, and country-specific entry requirements and English requirements are on separate pages. International fee-paying students are eligible for zero-cost accommodation under the International Accommodation Award, and the Global Wales Scholarship is listed.",
+   "ka": "აბერისტვითის უნივერსიტეტი შუა უელსის ქალაქ აბერისტვითში მდებარე სახელმწიფო უნივერსიტეტია. სტუდენტების დაახლოებით 10% გაერთიანებული სამეფოს გარედანაა. საერთაშორისო ბაკალავრის განმცხადებლებს შეუძლიათ უშუალოდ, UCAS-ით, Common App-ით ან Clearing-ით მიმართონ; ქვეყნის მიხედვით მიღების მოთხოვნები და ინგლისურის მოთხოვნები ცალკე გვერდებზეა. სწავლის საფასურის გადამხდელ საერთაშორისო სტუდენტებს International Accommodation Award-ით უფასო საცხოვრებელი ეთმობათ და მითითებულია Global Wales Scholarship.",
+   "ar": "جامعة أبيريستويث جامعة حكومية في أبيريستويث بوسط ويلز. نحو 10% من الطلاب من خارج المملكة المتحدة. يمكن لمتقدمي البكالوريوس الدوليين التقديم مباشرة أو عبر UCAS أو Common App أو عبر Clearing، ومتطلبات القبول حسب البلد ومتطلبات الإنجليزية في صفحات منفصلة. يحق للطلاب الدوليين الدافعين للرسوم الحصول على سكن مجاني ضمن International Accommodation Award، وتُذكر منحة Global Wales Scholarship."
+  },
+  "aid_intl": {
+   "en": "International fee-paying students get zero-cost accommodation (International Accommodation Award); the Global Wales Scholarship is also listed.",
+   "ka": "სწავლის საფასურის გადამხდელ საერთაშორისო სტუდენტებს უფასო საცხოვრებელი აქვთ (International Accommodation Award); მითითებულია Global Wales Scholarship-ც.",
+   "ar": "يحصل الطلاب الدوليون الدافعون للرسوم على سكن مجاني (International Accommodation Award)؛ وتُذكر أيضا منحة Global Wales Scholarship."
+  },
+  "tests": {
+   "en": "A full English language requirements breakdown exists on a separate page that could not be read.",
+   "ka": "ინგლისური ენის მოთხოვნების სრული ჩამონათვალი ცალკე გვერდზეა, რომელიც წაკითხვადი არ იყო.",
+   "ar": "يوجد تفصيل كامل لمتطلبات اللغة الإنجليزية في صفحة منفصلة لم يمكن قراءتها."
+  },
+  "gpa_note": {
+   "en": "Not verified.",
+   "ka": "არ არის გადამოწმებული.",
+   "ar": "لم يتم التحقق."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "სკოლის დამამთავრებელი ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proof",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Motivation letter",
+     "ka": "სამოტივაციო წერილი",
+     "ar": "خطاب الدافع"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "International Accommodation Award",
+    "url": "https://www.aber.ac.uk/en/international/",
+    "coverage": "partial"
+   },
+   {
+    "name": "Global Wales Scholarship",
+    "url": "https://www.aber.ac.uk/en/international/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "uk",
+   "wales",
+   "aberystwyth",
+   "free accommodation",
+   "ucas"
+  ],
+  "sources": [
+   "https://www.aber.ac.uk/en/international/"
+  ],
+  "verified_at": "2026-11-01"
+ }
+]

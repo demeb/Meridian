@@ -1,0 +1,600 @@
+[
+{
+"id": "mit",
+"name": "Massachusetts Institute of Technology (MIT)",
+"iso": "US",
+"website": "https://mitadmissions.org",
+"application_url": null,
+"tests": "SAT or ACT required. English test (TOEFL, IELTS, Cambridge or Duolingo) strongly recommended for non-native speakers; MIT's guidance is roughly TOEFL 90 minimum / 100 recommended and IELTS 7 minimum / 7.5 recommended.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering",
+"Computer science & AI",
+"Physics & mathematics",
+"Economics",
+"Entrepreneurship"
+]
+},
+{
+"id": "imperial-college-london",
+"name": "Imperial College London",
+"iso": "GB",
+"website": "https://www.imperial.ac.uk/study/apply/undergraduate/",
+"application_url": null,
+"tests": "No SAT/ACT. Engineering and physical sciences use the ESAT, some maths/computing courses the TMUA, and medicine the UCAT. English: Imperial 'standard' level IELTS 6.5 (6.0 each) or 'higher' level IELTS 7.0 (6.5 each), depending on course.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering",
+"Computing",
+"Medicine",
+"Physics",
+"Chemistry",
+"Business"
+]
+},
+{
+"id": "stanford-university",
+"name": "Stanford University",
+"iso": "US",
+"website": "https://admission.stanford.edu",
+"application_url": null,
+"tests": "SAT or ACT required. No English test is required, but non-native speakers may submit TOEFL, IELTS or Duolingo results.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Computer science",
+"Engineering",
+"Entrepreneurship & Silicon Valley links",
+"Economics",
+"Human biology"
+]
+},
+{
+"id": "oxford",
+"name": "University of Oxford",
+"iso": "GB",
+"website": "https://www.ox.ac.uk/admissions/undergraduate",
+"application_url": null,
+"tests": "No SAT/ACT requirement, but most courses require a subject admissions test (e.g. MAT, TSA, LNAT, ESAT, UCAT) taken in October. English: IELTS 7.5 (7.0 in each part) or TOEFL iBT 110, unless exempt.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Philosophy, Politics & Economics",
+"Medicine",
+"Law",
+"Mathematics",
+"History",
+"Computer Science"
+]
+},
+{
+"id": "harvard-university",
+"name": "Harvard University",
+"iso": "US",
+"website": "https://college.harvard.edu/admissions",
+"application_url": null,
+"tests": "SAT or ACT required (in exceptional cases AP, IB, A-Level or national exam results can substitute). No English test is required; non-native speakers may submit TOEFL/IELTS/Duolingo voluntarily.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Economics",
+"Government & public policy",
+"Life sciences & pre-medicine",
+"Computer science",
+"History & humanities"
+]
+},
+{
+"id": "cambridge",
+"name": "University of Cambridge",
+"iso": "GB",
+"website": "https://www.undergraduate.study.cam.ac.uk",
+"application_url": null,
+"tests": "No SAT/ACT requirement; many courses use admissions tests (ESAT, TMUA, LNAT, UCAT) or college-set written assessments. English: IELTS 7.5 (usually 7.0 in each part) or TOEFL iBT 110.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Natural Sciences",
+"Mathematics",
+"Engineering",
+"Computer Science",
+"Economics",
+"Medicine"
+]
+},
+{
+"id": "caltech",
+"name": "California Institute of Technology (Caltech)",
+"iso": "US",
+"website": "https://www.admissions.caltech.edu",
+"application_url": null,
+"tests": "SAT or ACT required. TOEFL, IELTS or Duolingo required unless English is your native language or your school's language of instruction, taken before the deadline.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Physics & astronomy",
+"Engineering & applied science",
+"Chemistry",
+"Computer science",
+"Planetary science (NASA JPL)"
+]
+},
+{
+"id": "eth-zurich",
+"name": "ETH Zurich (Swiss Federal Institute of Technology)",
+"iso": "CH",
+"website": "https://ethz.ch/en/studies/registration-application/bachelor.html",
+"application_url": null,
+"tests": "No SAT/ACT. Bachelor's programmes are taught in German: proof of German at C1 level (e.g. Goethe C1, TestDaF) by the deadline. Depending on your country's certificate, you may need ETH's reduced or comprehensive entrance examination.",
+"gpa_note": "",
+"languages": [
+"German"
+],
+"strengths": [
+"Computer Science",
+"Mechanical & Electrical Engineering",
+"Physics",
+"Architecture",
+"Mathematics",
+"Chemistry"
+]
+},
+{
+"id": "ucl",
+"name": "UCL (University College London)",
+"iso": "GB",
+"website": "https://www.ucl.ac.uk/prospective-students/undergraduate",
+"application_url": null,
+"tests": "No SAT/ACT; some programmes require tests (TMUA for Economics, LNAT for Law, UCAT for Medicine). English: five levels from IELTS 6.5 (6.0 each) up to IELTS 8.0, depending on programme; TOEFL accepted.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Architecture (Bartlett)",
+"Medicine & life sciences",
+"Economics",
+"Law",
+"Psychology",
+"Engineering"
+]
+},
+{
+"id": "national-university-of-singapore",
+"name": "National University of Singapore (NUS)",
+"iso": "SG",
+"website": "https://www.nus.edu.sg/oam",
+"application_url": null,
+"tests": "SAT/ACT required for some curricula (e.g., US high school diploma); otherwise optional. English: IELTS 6.5 / TOEFL ~92 if English was not your medium of instruction.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Computer science",
+"Engineering",
+"Business",
+"Law",
+"Medicine",
+"Data science",
+"Economics"
+]
+},
+{
+"id": "university-of-hong-kong",
+"name": "The University of Hong Kong (HKU)",
+"iso": "HK",
+"website": "https://www.hku.hk/",
+"application_url": "https://admissions.hku.hk/apply/international-qualifications",
+"tests": "SAT/ACT and AP are accepted as part of US-curriculum qualifications; IB, A-level and many national diplomas accepted. Applicants whose school language is not English must meet HKU's English language requirement (IELTS/TOEFL and others; see the official page).",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Medicine",
+"Law",
+"Business and Economics",
+"Engineering",
+"Dentistry",
+"Architecture",
+"Education"
+]
+},
+{
+"id": "nanyang-technological-university",
+"name": "Nanyang Technological University (NTU Singapore)",
+"iso": "SG",
+"website": "https://www.ntu.edu.sg/admissions/undergraduate",
+"application_url": null,
+"tests": "SAT/ACT needed for some curricula; SAT 1250 (R&W 600) or ACT 30 can also satisfy the English requirement. English: IELTS 6.5 (Writing & Speaking 6.5) / TOEFL 90 / PTE 55 / C1 Advanced 170.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering",
+"Materials science",
+"Artificial intelligence",
+"Computer science",
+"Communication & media",
+"Business",
+"Environmental science"
+]
+},
+{
+"id": "peking-university",
+"name": "Peking University",
+"iso": "CN",
+"website": "https://www.isd.pku.edu.cn/",
+"application_url": null,
+"tests": "No SAT/ACT; entry is by application review plus the university's written test and/or interview (some applicants exempted with strong international scores). English: needed only for English-taught programmes. Chinese-taught degrees require HSK 5–6 (level varies by major).",
+"gpa_note": "",
+"languages": [
+"Chinese",
+"English"
+],
+"strengths": [
+"Humanities",
+"Economics",
+"International affairs",
+"Mathematics",
+"Physics",
+"Medicine",
+"Chinese language & culture"
+]
+},
+{
+"id": "tsinghua-university",
+"name": "Tsinghua University",
+"iso": "CN",
+"website": "https://www.tsinghua.edu.cn/en/",
+"application_url": null,
+"tests": "No SAT/ACT; entry is by application review plus the university's written test and/or interview (some applicants exempted with strong international scores). English: needed only for English-taught programmes. Chinese-taught degrees require HSK 5–6 (level varies by major).",
+"gpa_note": "",
+"languages": [
+"Chinese",
+"English"
+],
+"strengths": [
+"Engineering",
+"Computer science",
+"Artificial intelligence",
+"Architecture",
+"Economics",
+"Physics",
+"Public policy"
+]
+},
+{
+"id": "university-of-pennsylvania",
+"name": "University of Pennsylvania",
+"iso": "US",
+"website": "https://admissions.upenn.edu",
+"application_url": null,
+"tests": "SAT or ACT required (hardship waiver available). TOEFL, IELTS Academic or Duolingo required unless English is your native language or you have 3+ years of English-medium study; competitive TOEFL ≈ 5+ on the new 1–6 scale.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Business (Wharton)",
+"Nursing",
+"Engineering",
+"Economics",
+"Pre-law & pre-med"
+]
+},
+{
+"id": "cornell-university",
+"name": "Cornell University",
+"iso": "US",
+"website": "https://admissions.cornell.edu",
+"application_url": null,
+"tests": "SAT or ACT required for fall 2026 entry and later. English: TOEFL iBT 5.0 minimum (5.5 recommended) on the new scale, IELTS Academic 7.5, Duolingo 130 or Cambridge C1/C2 191.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering",
+"Hotel administration",
+"Agriculture & life sciences",
+"Computer science",
+"Architecture"
+]
+},
+{
+"id": "yale-university",
+"name": "Yale University",
+"iso": "US",
+"website": "https://admissions.yale.edu",
+"application_url": null,
+"tests": "SAT or ACT required for the 2026-27 cycle. Non-native English speakers should submit TOEFL, IELTS or Duolingo; successful applicants typically score TOEFL 100+ (old scale), IELTS 7+ or Duolingo 120+.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"History & political science",
+"Economics",
+"English & humanities",
+"Life sciences",
+"Global affairs (Jackson School)"
+]
+},
+{
+"id": "chinese-university-of-hong-kong",
+"name": "The Chinese University of Hong Kong (CUHK)",
+"iso": "HK",
+"website": "https://www.cuhk.edu.hk/",
+"application_url": "https://admission.cuhk.edu.hk/application/overseas-other-qualifications-non-local-international-team/",
+"tests": "Minimum SAT 1190 / ACT 24 for US-pattern applicants (plus AP tests). English: IELTS Academic 6.0 overall or TOEFL iBT 80 (tests before 21 Jan 2026; 4.5/6 on the new TOEFL scale), or SAT EBRW 590 / ACT ELA 23. IELTS Online, One Skill Retake and TOEFL Home Edition are not accepted.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Medicine",
+"Business Administration",
+"Engineering",
+"Translation",
+"Journalism and Communication",
+"Quantitative Finance"
+]
+},
+{
+"id": "unsw-sydney",
+"name": "UNSW Sydney (University of New South Wales)",
+"iso": "AU",
+"website": "https://www.unsw.edu.au/",
+"application_url": "https://www.unsw.edu.au/study/how-to-apply/international",
+"tests": "English: IELTS Academic 6.5 overall (min 6.0 in each band) or TOEFL iBT 90 (min 23 writing, 22 reading, listening, speaking); PTE Academic and C1 Advanced also accepted; some degrees require more. IELTS Online not accepted; the new TOEFL format is under review.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering",
+"Computer Science",
+"Business (UNSW Business School)",
+"Law",
+"Medicine",
+"Built Environment"
+]
+},
+{
+"id": "johns-hopkins-university",
+"name": "Johns Hopkins University",
+"iso": "US",
+"website": "https://apply.jhu.edu",
+"application_url": null,
+"tests": "SAT or ACT required (reinstated from fall 2025 applicants). Non-native speakers submit TOEFL, IELTS or Duolingo; JHU has historically recommended about TOEFL 100 / IELTS 7 / Duolingo 125.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Biomedical engineering",
+"Public health",
+"Neuroscience",
+"International studies",
+"Pre-medicine"
+]
+},
+{
+"id": "uc-berkeley",
+"name": "University of California, Berkeley",
+"iso": "US",
+"website": "https://admissions.berkeley.edu",
+"application_url": null,
+"tests": "Test-blind: SAT/ACT are not considered. English: IELTS 6.5, Duolingo 115 or TOEFL iBT (80 on the old scale; UC lists 4.5 on the new 2026 scale) unless exempt.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Computer science & EECS",
+"Engineering",
+"Economics & business (Haas)",
+"Chemistry & physics",
+"Public policy & social sciences"
+]
+},
+{
+"id": "epfl",
+"name": "EPFL (École Polytechnique Fédérale de Lausanne)",
+"iso": "CH",
+"website": "https://www.epfl.ch/education/admission/",
+"application_url": null,
+"tests": "No SAT/ACT. First-year bachelor teaching is mainly in French (some English later): applicants without francophone schooling need a French certificate (B2 recommended). Some non-EU certificates require EPFL's entrance exam.",
+"gpa_note": "",
+"languages": [
+"French",
+"English"
+],
+"strengths": [
+"Computer & Communication Sciences",
+"Engineering",
+"Physics",
+"Life Sciences Engineering",
+"Architecture",
+"Mathematics"
+]
+},
+{
+"id": "the-university-of-melbourne",
+"name": "The University of Melbourne",
+"iso": "AU",
+"website": "https://www.unimelb.edu.au",
+"application_url": "https://study.unimelb.edu.au/how-to-apply/undergraduate-study/international-applications/applications",
+"tests": "No SAT/ACT requirement as such: you are assessed on your secondary qualification (IB, A-levels, a US diploma with SAT/ACT/AP, etc.) against each course's entry score. English: the University's undergraduate English standard, with IELTS Academic the usual test; some courses set higher bands. Official score tables could not be verified automatically.",
+"gpa_note": "Entry is by course-specific scores for your qualification (e.g. high IB totals or strong A-level grades); competitive courses like Biomedicine and Commerce need top results.",
+"languages": [
+"English"
+],
+"strengths": [
+"Arts and humanities",
+"Commerce",
+"Biomedicine",
+"Science",
+"Design",
+"Music"
+]
+},
+{
+"id": "university-of-chicago",
+"name": "University of Chicago",
+"iso": "US",
+"website": "https://collegeadmissions.uchicago.edu",
+"application_url": null,
+"tests": "Test-optional with a 'no harm' policy (scores only used if they help). English proficiency must be clear from the application; any recognised exam (TOEFL, IELTS, Duolingo, etc.) may be submitted, no fixed minimum.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Economics (Chicago School)",
+"Mathematics & physics",
+"Political science & public policy",
+"Core curriculum & philosophy",
+"Statistics & data science"
+]
+},
+{
+"id": "technical-university-of-munich",
+"name": "Technical University of Munich (TUM)",
+"iso": "DE",
+"website": "https://www.tum.de/en/studies/application",
+"application_url": null,
+"tests": "No SAT/ACT in general, but some programmes run an aptitude assessment (grades, essay, possibly interview). Most bachelor's are in German (DSH-2/TestDaF 4); English-taught bachelor's (e.g. Management & Technology, Information Engineering at TUM Campus Heilbronn) need IELTS 6.5 / TOEFL iBT 88.",
+"gpa_note": "",
+"languages": [
+"German",
+"English"
+],
+"strengths": [
+"Mechanical & Aerospace Engineering",
+"Informatics",
+"Electrical Engineering",
+"Management & Technology",
+"Physics",
+"Life sciences"
+]
+},
+{
+"id": "fudan-university",
+"name": "Fudan University",
+"iso": "CN",
+"website": "https://www.fudan.edu.cn/en/",
+"application_url": null,
+"tests": "No SAT/ACT; entry is by application review plus the university's written test and/or interview (some applicants exempted with strong international scores). English: needed only for English-taught programmes. Chinese-taught degrees require HSK 5–6 (level varies by major).",
+"gpa_note": "",
+"languages": [
+"Chinese",
+"English"
+],
+"strengths": [
+"Economics",
+"Journalism",
+"Medicine",
+"International affairs",
+"Mathematics",
+"Physics",
+"Chinese language & culture"
+]
+},
+{
+"id": "princeton-university",
+"name": "Princeton University",
+"iso": "US",
+"website": "https://admission.princeton.edu",
+"application_url": null,
+"tests": "Test-optional for fall 2026 and fall 2027 entry; SAT/ACT will be required from fall 2028 entry. English test (TOEFL, IELTS, Duolingo or PTE) required unless English is your native language or you studied 3+ years in English; no published minimum.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Mathematics & physics",
+"Public & international affairs (SPIA)",
+"Economics",
+"Engineering",
+"Humanities with senior thesis"
+]
+},
+{
+"id": "university-of-sydney",
+"name": "The University of Sydney",
+"iso": "AU",
+"website": "https://www.sydney.edu.au/",
+"application_url": "https://www.sydney.edu.au/study/applying/how-to-apply/international-students.html",
+"tests": "Standard English requirement: IELTS Academic 6.5 overall with no band below 6.0 (some courses higher); TOEFL iBT (Australia version, Home Edition not accepted), PTE and LanguageCert accepted via the concordance table. Tests must be under two years old at course start.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Medicine and Health",
+"Law",
+"Business",
+"Engineering",
+"Architecture",
+"Veterinary Science"
+]
+},
+{
+"id": "australian-national-university-anu",
+"name": "Australian National University (ANU)",
+"iso": "AU",
+"website": "https://www.anu.edu.au",
+"application_url": "https://study.anu.edu.au/apply/international-applications",
+"tests": "No SAT/ACT requirement in general; you need an accepted secondary qualification meeting the indicative entry score for your program. English (ANU policy): IELTS Academic 6.5 overall, TOEFL iBT 80 (TOEFL iBT Australia only for tests from 21 Jan 2026), PTE Academic 64, Cambridge C1/C2 176. At-home/online test versions are not accepted. Some programs set higher requirements.",
+"gpa_note": "Assessed against ANU's indicative entry score for your qualification (high IB/A-level results for competitive programs); some programs add selection criteria.",
+"languages": [
+"English"
+],
+"strengths": [
+"Politics and international relations",
+"Asia-Pacific studies",
+"Physics and astronomy",
+"Computer science",
+"Economics"
+]
+},
+{
+"id": "mcgill-university",
+"name": "McGill University",
+"iso": "CA",
+"website": "https://www.mcgill.ca/undergraduate-admissions",
+"application_url": null,
+"tests": "SAT/ACT optional or programme-dependent for US-curriculum applicants; IB, A-Level and national diplomas accepted. English: IELTS Academic 6.5 (6.0 each), TOEFL iBT 90 (old scale) or Duolingo 120 unless exempt.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Medicine & life sciences",
+"Engineering",
+"Law",
+"Economics & management",
+"Music (Schulich)"
+]
+}
+]

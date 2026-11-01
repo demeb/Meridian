@@ -1,0 +1,1830 @@
+[
+ {
+  "id": "okayama-university",
+  "name": {
+   "en": "Okayama University",
+   "ka": "ოკაიამას უნივერსიტეტი",
+   "ar": "جامعة أوكاياما"
+  },
+  "iso": "JP",
+  "city": "Okayama City",
+  "lat": 34.69,
+  "lon": 133.919,
+  "type": "public",
+  "website": "https://www.okayama-u.ac.jp",
+  "platform": null,
+  "application_url": "https://www.okayama-u.ac.jp/eng/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Official admission pages could not be read; nothing verified.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "JPY",
+   "per": "year",
+   "note": "Not verified."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Japanese"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry requirements for foreign school diplomas could not be read on the official site.",
+   "ka": "უცხოური სასკოლო დიპლომების მიღების მოთხოვნები ოფიციალურ საიტზე წაკითხვადი არ იყო.",
+   "ar": "لم تكن شروط قبول الشهادات المدرسية الأجنبية قابلة للقراءة على الموقع الرسمي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Science",
+    "Agriculture"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "სოფლის მეურნეობა"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "العلوم",
+    "الزراعة"
+   ]
+  },
+  "summary": {
+   "en": "Okayama University is a national university in Okayama, Japan. Its website blocked automated access, so no admission data could be verified.",
+   "ka": "ოკაიამას უნივერსიტეტი იაპონიის ქალაქ ოკაიამას ეროვნული უნივერსიტეტია. საიტმა ავტომატური წვდომა დაბლოკა, ამიტომ მიღების მონაცემები გადამოწმებული არ არის.",
+   "ar": "جامعة أوكاياما جامعة وطنية في أوكاياما باليابان. حجب موقعها الوصول الآلي، لذا لم يتم التحقق من بيانات القبول."
+  },
+  "about": {
+   "en": "Okayama University is a national university in Okayama City, Japan. Its official website returned an access error during research, so deadlines, tuition, language of teaching and entry requirements for international bachelor applicants were not verified. Applicants should check the university's international admissions pages or contact its admissions office.",
+   "ka": "ოკაიამას უნივერსიტეტი იაპონიის ქალაქ ოკაიამას ეროვნული უნივერსიტეტია. კვლევისას ოფიციალურმა საიტმა წვდომის შეცდომა დააბრუნა, ამიტომ ვადები, საფასური, სწავლების ენა და საერთაშორისო ბაკალავრიატის მოთხოვნები გადამოწმებული არ არის. აპლიკანტებმა უნდა გადაამოწმონ საერთაშორისო მიღების გვერდები ან დაუკავშირდნენ მისაღებ ოფისს.",
+   "ar": "جامعة أوكاياما جامعة وطنية في مدينة أوكاياما باليابان. أعاد موقعها الرسمي خطأ وصول أثناء البحث، لذا لم يتم التحقق من المواعيد والرسوم ولغة التدريس ومتطلبات المتقدمين الدوليين. على المتقدمين مراجعة صفحات القبول الدولي أو التواصل مع مكتب القبول."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منح مخصصة للطلاب الدوليين في مرحلة البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "Not verified: the official pages could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური გვერდები წაკითხვადი არ იყო.",
+   "ar": "لم يتم التحقق: تعذّرت قراءة الصفحات الرسمية."
+  },
+  "gpa_note": {
+   "en": "Not verified: the official pages could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური გვერდები წაკითხვადი არ იყო.",
+   "ar": "لم يتم التحقق: تعذّرت قراءة الصفحات الرسمية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma / certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცხრილი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "japan",
+   "okayama",
+   "national university"
+  ],
+  "sources": [
+   "https://www.okayama-u.ac.jp"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "panjab-university-chandigarh",
+  "name": {
+   "en": "Panjab University, Chandigarh",
+   "ka": "პანჯაბის უნივერსიტეტი, ჩანდიგარი",
+   "ar": "جامعة بنجاب، شانديغار"
+  },
+  "iso": "IN",
+  "city": "Chandigarh",
+  "lat": 30.76,
+  "lon": 76.767,
+  "type": "public",
+  "website": "https://www.puchd.ac.in",
+  "platform": "Direct (Dean International Students office)",
+  "application_url": "https://dis.puchd.ac.in/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Dates are in the 'Admission Guidelines for International/NRI Students (Session 2026-27)' document, which could not be read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "USD",
+   "per": "year",
+   "note": "Fees are in the Fee Structure 2026 document; not readable. A Foreign Students Welfare Fee also applies."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Students joining for the first time need an eligibility (equivalence) certificate from the Deputy Registrar (General).",
+   "ka": "პირველად ჩარიცხულ სტუდენტებს სჭირდებათ უფლებამოსილების (ექვივალენტობის) სერტიფიკატი გენერალური რეგისტრატორის მოადგილისგან.",
+   "ar": "يحتاج الطلاب الملتحقون لأول مرة إلى شهادة أهلية (معادلة) من نائب المسجل العام."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "humanities",
+   "law",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Sciences",
+    "Engineering",
+    "Law",
+    "Humanities",
+    "Social sciences"
+   ],
+   "ka": [
+    "მეცნიერებები",
+    "ინჟინერია",
+    "სამართალი",
+    "ჰუმანიტარული მეცნიერებები",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم",
+    "الهندسة",
+    "القانون",
+    "العلوم الإنسانية",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Panjab University is a public university in Chandigarh, India. International admission goes through the Dean International Students office; fees and dates are in documents that could not be read.",
+   "ka": "პანჯაბის უნივერსიტეტი ინდოეთის ჩანდიგარის საჯარო უნივერსიტეტია. საერთაშორისო მიღება საერთაშორისო სტუდენტთა დეკანის ოფისით მიმდინარეობს; საფასური და ვადები წაუკითხავ დოკუმენტებშია.",
+   "ar": "جامعة بنجاب جامعة حكومية في شانديغار بالهند. يتم القبول الدولي عبر مكتب عميد الطلاب الدوليين؛ الرسوم والمواعيد في وثائق لم تكن قابلة للقراءة."
+  },
+  "about": {
+   "en": "Panjab University is a public university in Chandigarh, India. International students are handled by the Dean International Students office. Seats are open to NRI candidates and to foreign nationals sponsored by the Government of India. Admitted students receive a provisional admission letter for the visa, and final admission needs a passport and student visa. First-time students need an eligibility certificate and pay a Foreign Students Welfare Fee. Deadlines and fees are in separate guideline documents.",
+   "ka": "პანჯაბის უნივერსიტეტი ინდოეთის ჩანდიგარის საჯარო უნივერსიტეტია. უცხოელ სტუდენტებს საერთაშორისო სტუდენტთა დეკანის ოფისი ემსახურება. ადგილები ღიაა NRI კანდიდატებისთვის და ინდოეთის მთავრობის მიერ სპონსორირებული უცხო ქვეყნის მოქალაქეებისთვის. ჩარიცხულებს ვიზისთვის დროებითი მიღების წერილი ეძლევათ, საბოლოო ჩარიცხვას კი პასპორტი და სტუდენტური ვიზა სჭირდება. პირველად ჩარიცხულებს სჭირდებათ უფლებამოსილების სერტიფიკატი და იხდიან უცხოელ სტუდენტთა კეთილდღეობის გადასახადს. ვადები და საფასურები ცალკე სახელმძღვანელო დოკუმენტებშია.",
+   "ar": "جامعة بنجاب جامعة حكومية في شانديغار بالهند. يتولى مكتب عميد الطلاب الدوليين شؤون الطلاب الدوليين. المقاعد مفتوحة للمرشحين من الهنود غير المقيمين (NRI) ولرعايا الدول الأجنبية المرشحين من حكومة الهند. يحصل المقبولون على خطاب قبول مؤقت للتأشيرة، ويتطلب القبول النهائي جواز سفر وتأشيرة طالب. يحتاج الطلاب الجدد إلى شهادة أهلية ويدفعون رسم رعاية الطلاب الأجانب. المواعيد والرسوم في وثائق إرشادية منفصلة."
+  },
+  "aid_intl": {
+   "en": "The international students office works with the Indian Council for Cultural Relations (ICCR) on its programmes, but no scholarship details are published on the page.",
+   "ka": "საერთაშორისო სტუდენტთა ოფისი ინდოეთის კულტურულ ურთიერთობათა საბჭოს (ICCR) პროგრამებზე მუშაობს, მაგრამ გვერდზე სტიპენდიის დეტალები გამოქვეყნებული არ არის.",
+   "ar": "يتعاون مكتب الطلاب الدوليين مع المجلس الهندي للعلاقات الثقافية (ICCR) في برامجه، لكن لا توجد تفاصيل منح منشورة في الصفحة."
+  },
+  "tests": {
+   "en": "Not verified: the official pages could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური გვერდები წაკითხვადი არ იყო.",
+   "ar": "لم يتم التحقق: تعذّرت قراءة الصفحات الرسمية."
+  },
+  "gpa_note": {
+   "en": "Not verified: the official pages could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური გვერდები წაკითხვადი არ იყო.",
+   "ar": "لم يتم التحقق: تعذّرت قراءة الصفحات الرسمية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma / certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცხრილი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Eligibility / equivalence certificate",
+     "ka": "უფლებამოსილების / ექვივალენტობის სერტიფიკატი",
+     "ar": "شهادة الأهلية / المعادلة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "chandigarh",
+   "public university",
+   "international students"
+  ],
+  "sources": [
+   "https://puchd.ac.in",
+   "https://dis.puchd.ac.in/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "pavol-jozef-safarik-university-in-kosice",
+  "name": {
+   "en": "Pavol Jozef Šafárik University in Košice",
+   "ka": "პავოლ იოზეფ შაფარიკის უნივერსიტეტი კოშიცეში",
+   "ar": "جامعة بافول يوزف شافاريك في كوشيتسه"
+  },
+  "iso": "SK",
+  "city": "Košice",
+  "lat": 48.728,
+  "lon": 21.246,
+  "type": "public",
+  "website": "https://upjs.sk",
+  "platform": "Direct (e-application portal, e-prihlaska.upjs.sk)",
+  "application_url": "https://www.upjs.sk/en/information/prospective-students/admissions/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Each faculty sets its own deadline; none could be read on the central admissions page.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Fees for English programmes are in the Register of Study Programmes (studijne-programy.upjs.sk/en); not readable."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Slovak",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry requirements for foreign school diplomas could not be read on the official site.",
+   "ka": "უცხოური სასკოლო დიპლომების მიღების მოთხოვნები ოფიციალურ საიტზე წაკითხვადი არ იყო.",
+   "ar": "لم تكن شروط قبول الشهادات المدرسية الأجنبية قابلة للقراءة على الموقع الرسمي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Written entrance exam (Faculty of Medicine and some Faculty of Arts programmes)",
+   "SCIO (Faculty of Science, alternative)"
+  ],
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "law",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Science",
+    "Law",
+    "Public administration",
+    "Arts"
+   ],
+   "ka": [
+    "მედიცინა",
+    "მეცნიერებები",
+    "სამართალი",
+    "საჯარო მმართველობა",
+    "ხელოვნება"
+   ],
+   "ar": [
+    "الطب",
+    "العلوم",
+    "القانون",
+    "الإدارة العامة",
+    "الآداب"
+   ]
+  },
+  "summary": {
+   "en": "UPJŠ is a public university in Košice, Slovakia, with faculties of medicine, science, law, public administration and arts. It lists over 50 English-taught programmes; fees are in its programme register.",
+   "ka": "UPJŠ სლოვაკეთის ქალაქ კოშიცეს საჯარო უნივერსიტეტია მედიცინის, მეცნიერების, სამართლის, საჯარო მმართველობისა და ხელოვნების ფაკულტეტებით. 50-ზე მეტი ინგლისურენოვანი პროგრამაა; საფასური პროგრამების რეესტრშია.",
+   "ar": "UPJŠ جامعة حكومية في كوشيتسه بسلوفاكيا بكليات الطب والعلوم والقانون والإدارة العامة والآداب. تعرض أكثر من 50 برنامجاً بالإنجليزية؛ الرسوم في سجل البرامج."
+  },
+  "about": {
+   "en": "Pavol Jozef Šafárik University is a public university in Košice, Slovakia, with five faculties. Applications are submitted electronically through the e-application portal, and each faculty runs its own admission procedure. The Faculty of Medicine and some Faculty of Arts programmes use a written entrance exam; several Science, Law and Public Administration programmes admit on secondary school results. The university lists over 50 English-taught programmes. Deadlines and fees are in the programme register.",
+   "ka": "პავოლ იოზეფ შაფარიკის უნივერსიტეტი სლოვაკეთის ქალაქ კოშიცეს საჯარო უნივერსიტეტია ხუთი ფაკულტეტით. განაცხადი ელექტრონულად e-application პორტალით იგზავნება და თითოეული ფაკულტეტი საკუთარ მისაღებ პროცედურას აწარმოებს. მედიცინის ფაკულტეტზე და ხელოვნების ზოგ პროგრამაზე წერილობითი მისაღები გამოცდაა; მეცნიერების, სამართლისა და საჯარო მმართველობის რამდენიმე პროგრამაზე მიღება სასკოლო შედეგებით ხდება. უნივერსიტეტი 50-ზე მეტ ინგლისურენოვან პროგრამას ასახელებს. ვადები და საფასურები პროგრამების რეესტრშია.",
+   "ar": "جامعة بافول يوزف شافاريك جامعة حكومية في كوشيتسه بسلوفاكيا ولها خمس كليات. تُقدَّم الطلبات إلكترونياً عبر بوابة التقديم، وتدير كل كلية إجراءات القبول الخاصة بها. تعتمد كلية الطب وبعض برامج الآداب امتحاناً كتابياً، وتقبل عدة برامج في العلوم والقانون والإدارة العامة بناءً على نتائج الثانوية. تعرض الجامعة أكثر من 50 برنامجاً بالإنجليزية. المواعيد والرسوم في سجل البرامج."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منح مخصصة للطلاب الدوليين في مرحلة البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "The Faculty of Medicine and some Arts programmes use a written entrance exam; the Faculty of Science also accepts SCIO test results.",
+   "ka": "მედიცინის ფაკულტეტსა და ხელოვნების ზოგ პროგრამას წერილობითი მისაღები გამოცდა აქვს; მეცნიერების ფაკულტეტი SCIO-ს შედეგებსაც იღებს.",
+   "ar": "تعتمد كلية الطب وبعض برامج الآداب امتحاناً كتابياً؛ وتقبل كلية العلوم نتائج SCIO أيضاً."
+  },
+  "gpa_note": {
+   "en": "Several programmes admit on secondary school results; no minimum grade was readable.",
+   "ka": "რამდენიმე პროგრამაზე მიღება სასკოლო შედეგებით ხდება; მინიმალური ნიშანი წაკითხვადი არ იყო.",
+   "ar": "تقبل عدة برامج بناءً على نتائج الثانوية؛ لم يظهر حد أدنى للدرجات."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma / certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცხრილი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition / legalisation of school diploma",
+     "ka": "დიპლომის აღიარება / ლეგალიზაცია",
+     "ar": "معادلة الشهادة أو توثيقها"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "slovakia",
+   "kosice",
+   "medicine",
+   "english programmes"
+  ],
+  "sources": [
+   "https://www.upjs.sk/en/",
+   "https://www.upjs.sk/en/information/prospective-students/admissions/",
+   "https://www.upjs.sk/en/university/information-for-prospective-students/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "pontificia-universidad-catolica-del-ecuador-puce",
+  "name": {
+   "en": "Pontificia Universidad Católica del Ecuador (PUCE)",
+   "ka": "ეკვადორის პაპისეული კათოლიკური უნივერსიტეტი (PUCE)",
+   "ar": "الجامعة الكاثوليكية البابوية في الإكوادور (PUCE)"
+  },
+  "iso": "EC",
+  "city": "Quito",
+  "lat": -0.212,
+  "lon": -78.49,
+  "type": "private",
+  "website": "https://www.puce.edu.ec",
+  "platform": "Direct (PUCE online application portal)",
+  "application_url": "https://www.puce.edu.ec/admisiones/grado/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No deadline is stated on the admissions page; an enrolment calendar for 2026-02 is a PDF for current students.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "USD",
+   "per": "semester",
+   "note": "Fees are on the 'Aranceles 2026' page; amounts could not be read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry requirements for foreign school diplomas could not be read on the official site.",
+   "ka": "უცხოური სასკოლო დიპლომების მიღების მოთხოვნები ოფიციალურ საიტზე წაკითხვადი არ იყო.",
+   "ar": "لم تكن شروط قبول الشهادات المدرسية الأجنبية قابلة للقراءة على الموقع الرسمي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "PUCE entrance exam (Examen de ingreso)"
+  ],
+  "fields": [
+   "humanities",
+   "law",
+   "social-sciences",
+   "engineering",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Law",
+    "Humanities",
+    "Social sciences",
+    "Engineering",
+    "Health sciences"
+   ],
+   "ka": [
+    "სამართალი",
+    "ჰუმანიტარული მეცნიერებები",
+    "სოციალური მეცნიერებები",
+    "ინჟინერია",
+    "ჯანმრთელობის მეცნიერებები"
+   ],
+   "ar": [
+    "القانون",
+    "العلوم الإنسانية",
+    "العلوم الاجتماعية",
+    "الهندسة",
+    "العلوم الصحية"
+   ]
+  },
+  "summary": {
+   "en": "PUCE is a Catholic private university in Quito, Ecuador. Applicants apply online and take an entrance exam; fees are on a separate tariff page.",
+   "ka": "PUCE ეკვადორის ქალაქ კიტოს კათოლიკური კერძო უნივერსიტეტია. აპლიკანტები ონლაინ აგზავნიან განაცხადს და აბარებენ მისაღებ გამოცდას; საფასური ცალკე ტარიფების გვერდზეა.",
+   "ar": "PUCE جامعة كاثوليكية خاصة في كيتو بالإكوادور. يتقدم المرشحون إلكترونياً ويؤدون امتحان قبول؛ الرسوم في صفحة تعريفات منفصلة."
+  },
+  "about": {
+   "en": "PUCE is a Catholic private university in Quito, Ecuador. Applicants use the online application button on the admissions page and show their aptitude in an entrance exam. Other routes include agreements with allied schools, transfers and entry with a prior degree. The university also lists a new International Engineering degree (Ingeniería Integral). Teaching is in Spanish. Deadlines, fees and rules for foreign applicants are not stated on the pages read.",
+   "ka": "PUCE ეკვადორის ქალაქ კიტოს კათოლიკური კერძო უნივერსიტეტია. აპლიკანტები მისაღები გვერდის ონლაინ ღილაკით აგზავნიან განაცხადს და მისაღებ გამოცდაზე ამტკიცებენ უნარებს. სხვა გზებია შეთანხმებული სკოლები, გადმოყვანა და წინა ხარისხით ჩარიცხვა. უნივერსიტეტი ასევე ასახელებს ახალ საერთაშორისო ინჟინერიის პროგრამას (Ingeniería Integral). სწავლება ესპანურია. ვადები, საფასური და უცხოელი აპლიკანტების წესები წაკითხულ გვერდებზე მითითებული არ არის.",
+   "ar": "PUCE جامعة كاثوليكية خاصة في كيتو بالإكوادور. يستخدم المتقدمون زر التقديم الإلكتروني في صفحة القبول ويُظهرون قدراتهم في امتحان القبول. من المسارات الأخرى اتفاقيات المدارس الحليفة والتحويل والقبول بدرجة سابقة. تعلن الجامعة أيضاً عن درجة جديدة في الهندسة الدولية (Ingeniería Integral). التدريس بالإسبانية. المواعيد والرسوم وقواعد المتقدمين الأجانب غير مذكورة في الصفحات المقروءة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منح مخصصة للطلاب الدوليين في مرحلة البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "An entrance exam (Examen de ingreso) is listed; its format and schedule are not given.",
+   "ka": "მითითებულია მისაღები გამოცდა (Examen de ingreso); ფორმატი და განრიგი მოცემული არ არის.",
+   "ar": "يُذكر امتحان قبول (Examen de ingreso)؛ لا يُعطى شكله أو جدوله."
+  },
+  "gpa_note": {
+   "en": "Not verified: the official pages could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური გვერდები წაკითხვადი არ იყო.",
+   "ar": "لم يتم التحقق: تعذّرت قراءة الصفحات الرسمية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma / certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცხრილი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "ecuador",
+   "quito",
+   "catholic",
+   "spanish"
+  ],
+  "sources": [
+   "https://www.puce.edu.ec",
+   "https://www.puce.edu.ec/admisiones/grado/",
+   "https://www.puce.edu.ec/aranceles/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "pontificia-universidade-catolica-de-sao-paulo",
+  "name": {
+   "en": "Pontifícia Universidade Católica de São Paulo",
+   "ka": "სან-პაულუს პაპისეული კათოლიკური უნივერსიტეტი",
+   "ar": "الجامعة الكاثوليكية البابوية في ساو باولو"
+  },
+  "iso": "BR",
+  "city": "São Paulo",
+  "lat": -23.534,
+  "lon": -46.669,
+  "type": "private",
+  "website": "https://www.pucsp.br",
+  "platform": "Direct (PUC-SP Vestibular, nucvest.com.br)",
+  "application_url": "https://www.pucsp.br/arii/estude-na-puc-sp-study-puc-sp",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Foreign-applicant deadline not published on the pages read; the 2027 Vestibular first call is listed for 10 Nov 2026.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "BRL",
+   "per": "year",
+   "note": "Not verified."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry requirements for foreign school diplomas could not be read on the official site.",
+   "ka": "უცხოური სასკოლო დიპლომების მიღების მოთხოვნები ოფიციალურ საიტზე წაკითხვადი არ იყო.",
+   "ar": "لم تكن شروط قبول الشهادات المدرسية الأجنبية قابلة للقراءة على الموقع الرسمي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "social-sciences",
+   "humanities",
+   "law",
+   "economics"
+  ],
+  "strengths": {
+   "en": [
+    "Social sciences",
+    "Humanities",
+    "Law",
+    "Economics",
+    "Psychology"
+   ],
+   "ka": [
+    "სოციალური მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "სამართალი",
+    "ეკონომიკა",
+    "ფსიქოლოგია"
+   ],
+   "ar": [
+    "العلوم الاجتماعية",
+    "العلوم الإنسانية",
+    "القانون",
+    "الاقتصاد",
+    "علم النفس"
+   ]
+  },
+  "summary": {
+   "en": "PUC-SP is a private Catholic university in São Paulo, Brazil. Admission is through its Vestibular; requirements for foreign applicants were not published on the pages read.",
+   "ka": "PUC-SP ბრაზილიის ქალაქ სან-პაულუს კერძო კათოლიკური უნივერსიტეტია. მიღება Vestibular-ის მეშვეობით ხდება; უცხოელი აპლიკანტების მოთხოვნები წაკითხულ გვერდებზე გამოქვეყნებული არ იყო.",
+   "ar": "PUC-SP جامعة كاثوليكية خاصة في ساو باولو بالبرازيل. يتم القبول عبر امتحان Vestibular؛ لم تُنشر متطلبات المتقدمين الأجانب في الصفحات المقروءة."
+  },
+  "about": {
+   "en": "PUC-SP is a private Catholic university in São Paulo. Undergraduate admission runs through the Vestibular (nucvest.com.br); a 2027 cycle banner lists a first call on 10 November 2026. The international relations office offers a Portuguese for Foreigners course. Deadlines, fees, language rules and requirements for foreign degree-seeking applicants were not published on the pages read, so contact the international office.",
+   "ka": "PUC-SP სან-პაულუს კერძო კათოლიკური უნივერსიტეტია. საბაკალავრო მიღება Vestibular-ით (nucvest.com.br) მიმდინარეობს; 2027 ციკლის ბანერში პირველი ჩაწვევა 2026 წლის 10 ნოემბერს არის მითითებული. საერთაშორისო ურთიერთობების ოფისი უცხოელებისთვის პორტუგალიურის კურსს გვთავაზობს. უცხოელი აპლიკანტების ვადები, საფასური, ენის წესები და მოთხოვნები წაკითხულ გვერდებზე გამოქვეყნებული არ იყო, ამიტომ დაუკავშირდით საერთაშორისო ოფისს.",
+   "ar": "PUC-SP جامعة كاثوليكية خاصة في ساو باولو. يتم القبول في البكالوريوس عبر Vestibular (nucvest.com.br)؛ ويذكر إعلان دورة 2027 نداءً أول في 10 نوفمبر 2026. يقدم مكتب العلاقات الدولية دورة البرتغالية للأجانب. المواعيد والرسوم وقواعد اللغة ومتطلبات المتقدمين الأجانب لم تُنشر في الصفحات المقروءة، فتواصل مع المكتب الدولي."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منح مخصصة للطلاب الدوليين في مرحلة البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "Not verified: the official pages could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური გვერდები წაკითხვადი არ იყო.",
+   "ar": "لم يتم التحقق: تعذّرت قراءة الصفحات الرسمية."
+  },
+  "gpa_note": {
+   "en": "Not verified: the official pages could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური გვერდები წაკითხვადი არ იყო.",
+   "ar": "لم يتم التحقق: تعذّرت قراءة الصفحات الرسمية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma / certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცხრილი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "sao paulo",
+   "catholic",
+   "portuguese"
+  ],
+  "sources": [
+   "https://www.pucsp.br/en",
+   "https://www.pucsp.br/arii/estude-na-puc-sp-study-puc-sp"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "poznan-university-of-life-sciences",
+  "name": {
+   "en": "Poznan University of Life Sciences",
+   "ka": "პოზნანის სიცოცხლის შემსწავლელ მეცნიერებათა უნივერსიტეტი",
+   "ar": "جامعة بوزنان لعلوم الحياة"
+  },
+  "iso": "PL",
+  "city": "Poznań",
+  "lat": 52.428,
+  "lon": 16.914,
+  "type": "public",
+  "website": "https://puls.edu.pl",
+  "platform": null,
+  "application_url": "https://puls.edu.pl",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Official admission pages could not be read; nothing verified.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Not verified."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Polish",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry requirements for foreign school diplomas could not be read on the official site.",
+   "ka": "უცხოური სასკოლო დიპლომების მიღების მოთხოვნები ოფიციალურ საიტზე წაკითხვადი არ იყო.",
+   "ar": "لم تكن شروط قبول الشهادات المدرسية الأجنبية قابلة للقراءة على الموقع الرسمي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Agriculture",
+    "Environmental science",
+    "Food science",
+    "Veterinary-related sciences",
+    "Forestry"
+   ],
+   "ka": [
+    "სოფლის მეურნეობა",
+    "გარემოს მეცნიერება",
+    "საკვების მეცნიერება",
+    "ვეტერინარიასთან დაკავშირებული მეცნიერებები",
+    "სატყეო მეურნეობა"
+   ],
+   "ar": [
+    "الزراعة",
+    "علوم البيئة",
+    "علوم الأغذية",
+    "العلوم المرتبطة بالطب البيطري",
+    "الغابات"
+   ]
+  },
+  "summary": {
+   "en": "Poznan University of Life Sciences is a public university in Poznań, Poland, focused on agriculture, environment and food. Its site returned a certificate error, so admission data is not verified.",
+   "ka": "პოზნანის სიცოცხლის შემსწავლელ მეცნიერებათა უნივერსიტეტი პოლონეთის ქალაქ პოზნანის საჯარო უნივერსიტეტია, რომელიც სოფლის მეურნეობაზე, გარემოსა და საკვებზეა ორიენტირებული. საიტმა სერტიფიკატის შეცდომა დააბრუნა, ამიტომ მიღების მონაცემები გადამოწმებული არ არის.",
+   "ar": "جامعة بوزنان لعلوم الحياة جامعة حكومية في بوزنان ببولندا تركز على الزراعة والبيئة والغذاء. أعاد موقعها خطأ شهادة، لذا لم يتم التحقق من بيانات القبول."
+  },
+  "about": {
+   "en": "Poznan University of Life Sciences is a public university in Poznań, Poland. Its official website returned a certificate error during research, so deadlines, tuition, English-taught bachelor programmes and entry requirements were not verified. Poland generally asks for recognition of foreign school diplomas, but this should be confirmed with the university before applying.",
+   "ka": "პოზნანის სიცოცხლის შემსწავლელ მეცნიერებათა უნივერსიტეტი პოლონეთის ქალაქ პოზნანის საჯარო უნივერსიტეტია. კვლევისას ოფიციალურმა საიტმა სერტიფიკატის შეცდომა დააბრუნა, ამიტომ ვადები, საფასური, ინგლისურენოვანი საბაკალავრო პროგრამები და მოთხოვნები გადამოწმებული არ არის. პოლონეთში უცხოური სასკოლო დიპლომების აღიარება ხშირად საჭიროა, მაგრამ ეს აპლიკაციამდე უნივერსიტეტთან უნდა დაზუსტდეს.",
+   "ar": "جامعة بوزنان لعلوم الحياة جامعة حكومية في بوزنان ببولندا. أعاد موقعها الرسمي خطأ شهادة أثناء البحث، لذا لم يتم التحقق من المواعيد والرسوم وبرامج البكالوريوس بالإنجليزية والمتطلبات. تطلب بولندا عادة الاعتراف بالشهادات المدرسية الأجنبية، ويجب تأكيد ذلك مع الجامعة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منح مخصصة للطلاب الدوليين في مرحلة البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "Not verified: the official pages could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური გვერდები წაკითხვადი არ იყო.",
+   "ar": "لم يتم التحقق: تعذّرت قراءة الصفحات الرسمية."
+  },
+  "gpa_note": {
+   "en": "Not verified: the official pages could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური გვერდები წაკითხვადი არ იყო.",
+   "ar": "لم يتم التحقق: تعذّرت قراءة الصفحات الرسمية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma / certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცხრილი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition / legalisation of school diploma",
+     "ka": "დიპლომის აღიარება / ლეგალიზაცია",
+     "ar": "معادلة الشهادة أو توثيقها"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "poland",
+   "poznan",
+   "agriculture",
+   "life sciences"
+  ],
+  "sources": [
+   "https://puls.edu.pl"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "poznan-university-of-technology",
+  "name": {
+   "en": "Poznan University of Technology",
+   "ka": "პოზნანის ტექნოლოგიური უნივერსიტეტი",
+   "ar": "جامعة بوزنان للتكنولوجيا"
+  },
+  "iso": "PL",
+  "city": "Poznan",
+  "lat": 52.402,
+  "lon": 16.952,
+  "type": "public",
+  "website": "https://www.put.poznan.pl",
+  "platform": "Direct (PUT online recruitment platform)",
+  "application_url": "https://www.put.poznan.pl/en/admission-for-international",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "A Deadlines page exists for international candidates, but the dates could not be read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "A Fees page exists (and a page on tuition-free studies); amounts could not be read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Polish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry requirements for foreign school diplomas could not be read on the official site.",
+   "ka": "უცხოური სასკოლო დიპლომების მიღების მოთხოვნები ოფიციალურ საიტზე წაკითხვადი არ იყო.",
+   "ar": "لم تكن شروط قبول الشهادات المدرسية الأجنبية قابلة للقراءة على الموقع الرسمي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Architecture",
+    "Artificial Intelligence",
+    "Automatic Control and Robotics",
+    "Mechanical Engineering",
+    "Biomedical Engineering",
+    "Quantum Technologies"
+   ],
+   "ka": [
+    "არქიტექტურა",
+    "ხელოვნური ინტელექტი",
+    "ავტომატური მართვა და რობოტიკა",
+    "მექანიკური ინჟინერია",
+    "ბიოსამედიცინო ინჟინერია",
+    "კვანტური ტექნოლოგიები"
+   ],
+   "ar": [
+    "العمارة",
+    "الذكاء الاصطناعي",
+    "التحكم الآلي والروبوتات",
+    "الهندسة الميكانيكية",
+    "الهندسة الطبية الحيوية",
+    "التقنيات الكمومية"
+   ]
+  },
+  "summary": {
+   "en": "Poznan University of Technology is a public technical university in Poland with a dedicated admission page for international bachelor and master applicants. It lists 10 first-cycle B.Sc. programmes; fees and dates are on subpages.",
+   "ka": "პოზნანის ტექნოლოგიური უნივერსიტეტი პოლონეთის საჯარო ტექნიკური უნივერსიტეტია, რომელსაც უცხოელი ბაკალავრიატისა და მაგისტრატურის აპლიკანტებისთვის ცალკე მიღების გვერდი აქვს. ჩამოთვლილია 10 პირველი ციკლის B.Sc. პროგრამა; საფასური და ვადები ქვეგვერდებზეა.",
+   "ar": "جامعة بوزنان للتكنولوجيا جامعة تقنية حكومية في بولندا ولها صفحة قبول خاصة بالمتقدمين الدوليين للبكالوريوس والماجستير. تعرض 10 برامج بكالوريوس (الدورة الأولى)؛ الرسوم والمواعيد في صفحات فرعية."
+  },
+  "about": {
+   "en": "Poznan University of Technology is a public technical university in Poznań, Poland. International applicants use a dedicated admission section with required documents, a step-by-step procedure, deadlines, fees and an online recruitment platform. Ten first-cycle B.Sc. programmes are listed, among them Architecture, Artificial Intelligence, Mechanical Engineering and Quantum Technologies. Admission limits apply to foreign candidates. Contact study@put.poznan.pl for current dates and fees.",
+   "ka": "პოზნანის ტექნოლოგიური უნივერსიტეტი პოლონეთის ქალაქ პოზნანის საჯარო ტექნიკური უნივერსიტეტია. უცხოელი აპლიკანტებისთვის არსებობს ცალკე მიღების განყოფილება საჭირო დოკუმენტებით, ეტაპობრივი პროცედურით, ვადებით, საფასურითა და ონლაინ პლატფორმით. ჩამოთვლილია 10 პირველი ციკლის B.Sc. პროგრამა, მათ შორის არქიტექტურა, ხელოვნური ინტელექტი, მექანიკური ინჟინერია და კვანტური ტექნოლოგიები. უცხოელ კანდიდატებზე მიღების ლიმიტები მოქმედებს. მიმდინარე ვადებისა და საფასურისთვის მიწერეთ study@put.poznan.pl.",
+   "ar": "جامعة بوزنان للتكنولوجيا جامعة تقنية حكومية في بوزنان ببولندا. للمتقدمين الدوليين قسم قبول خاص يضم الوثائق المطلوبة والإجراءات خطوة بخطوة والمواعيد والرسوم ومنصة تقديم إلكترونية. تُعرض عشرة برامج بكالوريوس منها العمارة والذكاء الاصطناعي والهندسة الميكانيكية والتقنيات الكمومية. تُطبَّق حدود قبول على المرشحين الأجانب. للمواعيد والرسوم الحالية راسل study@put.poznan.pl."
+  },
+  "aid_intl": {
+   "en": "A page on tuition-free studies exists for international candidates; its terms could not be read.",
+   "ka": "უცხოელი კანდიდატებისთვის არსებობს უფასო სწავლის გვერდი; პირობები წაკითხვადი არ იყო.",
+   "ar": "توجد صفحة عن الدراسة المجانية للمرشحين الدوليين؛ لم تكن شروطها قابلة للقراءة."
+  },
+  "tests": {
+   "en": "Not verified: the official pages could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური გვერდები წაკითხვადი არ იყო.",
+   "ar": "لم يتم التحقق: تعذّرت قراءة الصفحات الرسمية."
+  },
+  "gpa_note": {
+   "en": "Not verified: the official pages could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური გვერდები წაკითხვადი არ იყო.",
+   "ar": "لم يتم التحقق: تعذّرت قراءة الصفحات الرسمية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma / certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცხრილი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition / legalisation of school diploma",
+     "ka": "დიპლომის აღიარება / ლეგალიზაცია",
+     "ar": "معادلة الشهادة أو توثيقها"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "poland",
+   "poznan",
+   "engineering",
+   "robotics",
+   "architecture"
+  ],
+  "sources": [
+   "https://www.put.poznan.pl/en",
+   "https://www.put.poznan.pl/en/admission-for-international",
+   "https://www.put.poznan.pl/en/first-cycle-bsc-programmes"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "riga-stradins-university",
+  "name": {
+   "en": "Riga Stradins University",
+   "ka": "რიგის სტრადინშის უნივერსიტეტი",
+   "ar": "جامعة ريغا ستراديش"
+  },
+  "iso": "LV",
+  "city": "Riga",
+  "lat": 56.955,
+  "lon": 24.097,
+  "type": "public",
+  "website": "https://www.rsu.lv",
+  "platform": "Direct (RSU admissions portal)",
+  "application_url": "https://www.rsu.lv/en/study-here/admissions",
+  "intakes": [
+   "September",
+   "February"
+  ],
+  "deadline": null,
+  "deadline_note": "Applications for the February 2027 intake are open; exact dates are on RSU's 'When to apply' page, which could not be read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "The Tuition Fees page could not be read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Latvian"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry requirements for foreign school diplomas could not be read on the official site.",
+   "ka": "უცხოური სასკოლო დიპლომების მიღების მოთხოვნები ოფიციალურ საიტზე წაკითხვადი არ იყო.",
+   "ar": "لم تكن شروط قبول الشهادات المدرسية الأجنبية قابلة للقراءة على الموقع الرسمي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Dentistry",
+    "International Business and Start-up Entrepreneurship"
+   ],
+   "ka": [
+    "მედიცინა",
+    "სტომატოლოგია",
+    "საერთაშორისო ბიზნესი და სტარტაპ მეწარმეობა"
+   ],
+   "ar": [
+    "الطب",
+    "طب الأسنان",
+    "الأعمال الدولية وريادة الأعمال الناشئة"
+   ]
+  },
+  "summary": {
+   "en": "RSU is a university in Riga with English-taught Medicine (6 years), Dentistry (5 years) and a 3-year bachelor in International Business and Start-up Entrepreneurship. Intakes are in February and September; the English requirement is B2 (IELTS 6.0).",
+   "ka": "RSU რიგის უნივერსიტეტია, სადაც ინგლისურად ისწავლება მედიცინა (6 წელი), სტომატოლოგია (5 წელი) და 3-წლიანი ბაკალავრიატი საერთაშორისო ბიზნესსა და სტარტაპ მეწარმეობაში. მიღება თებერვალსა და სექტემბერშია; ინგლისურის მოთხოვნა B2-ია (IELTS 6.0).",
+   "ar": "RSU جامعة في ريغا تدرّس بالإنجليزية الطب (6 سنوات) وطب الأسنان (5 سنوات) وبكالوريوساً مدته 3 سنوات في الأعمال الدولية وريادة الأعمال الناشئة. القبول في فبراير وسبتمبر؛ ومتطلب الإنجليزية B2 (IELTS 6.0)."
+  },
+  "about": {
+   "en": "Riga Stradins University admits international students each February and September. Applicants complete an online application, upload documents following the Application Guide and later receive an offer in their account. English-taught programmes are Medicine (6 years), Dentistry (5 years) and International Business and Start-up Entrepreneurship (3 years, bachelor). The planned 2026/27 intake is 380 plus 240 for Medicine and 32 plus 32 for Dentistry. English proof must be B2 level, issued within five years. Tuition is on a separate page.",
+   "ka": "რიგის სტრადინშის უნივერსიტეტი უცხოელებს ყოველ თებერვალსა და სექტემბერში იღებს. აპლიკანტები ონლაინ განაცხადს ავსებენ, დოკუმენტებს აგზავნიან განაცხადის გზამკვლევის მიხედვით და შემდეგ ანგარიშში იღებენ შეთავაზებას. ინგლისურად ისწავლება მედიცინა (6 წელი), სტომატოლოგია (5 წელი) და საერთაშორისო ბიზნესი და სტარტაპ მეწარმეობა (3 წელი, ბაკალავრი). 2026/27 წლის დაგეგმილი მიღებაა: მედიცინა 380 და 240, სტომატოლოგია 32 და 32. ინგლისურის დამადასტურებელი B2 დონის უნდა იყოს და ხუთი წლის ვადაში გაცემული. საფასური ცალკე გვერდზეა.",
+   "ar": "تقبل جامعة ريغا ستراديش الطلاب الدوليين كل فبراير وسبتمبر. يكمل المتقدمون الطلب إلكترونياً ويرفعون الوثائق وفق دليل التقديم ثم يتلقون العرض في حسابهم. البرامج بالإنجليزية هي الطب (6 سنوات) وطب الأسنان (5 سنوات) والأعمال الدولية وريادة الأعمال الناشئة (3 سنوات، بكالوريوس). القبول المخطط لـ 2026/27 هو 380 و240 للطب و32 و32 لطب الأسنان. يجب أن يكون إثبات الإنجليزية بمستوى B2 وصادراً خلال خمس سنوات. الرسوم في صفحة منفصلة."
+  },
+  "aid_intl": {
+   "en": "RSU has a tuition fee discounts page; its terms could not be read.",
+   "ka": "RSU-ს აქვს სწავლის საფასურის ფასდაკლებების გვერდი; პირობები წაკითხვადი არ იყო.",
+   "ar": "لدى RSU صفحة لخصومات الرسوم الدراسية؛ لم تكن شروطها قابلة للقراءة."
+  },
+  "tests": {
+   "en": "English at B2 level is required: IELTS 6.0 or an accepted TOEFL score, issued within the last 5 years. No entrance exam was listed on the pages read.",
+   "ka": "საჭიროა ინგლისური B2 დონეზე: IELTS 6.0 ან მისაღები TOEFL ქულა, გაცემული ბოლო 5 წლის განმავლობაში. წაკითხულ გვერდებზე მისაღები გამოცდა მითითებული არ იყო.",
+   "ar": "يُطلب مستوى B2 في الإنجليزية: IELTS 6.0 أو درجة TOEFL مقبولة صادرة خلال آخر 5 سنوات. لم يُذكر امتحان قبول في الصفحات المقروءة."
+  },
+  "gpa_note": {
+   "en": "Not verified: the official pages could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური გვერდები წაკითხვადი არ იყო.",
+   "ar": "لم يتم التحقق: تعذّرت قراءة الصفحات الرسمية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma / certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცხრილი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "RSU tuition fee discounts",
+    "url": "https://www.rsu.lv/en/tuition-fee-discounts",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "latvia",
+   "riga",
+   "medicine",
+   "dentistry",
+   "english programmes"
+  ],
+  "sources": [
+   "https://www.rsu.lv/en",
+   "https://www.rsu.lv/en/study-here/admissions",
+   "https://www.rsu.lv/en/study-here/admissions/requirements-english-proficiency"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "ritsumeikan-asia-pacific-university",
+  "name": {
+   "en": "Ritsumeikan Asia Pacific University",
+   "ka": "რიცუმეიკანის აზია-წყნარი ოკეანის უნივერსიტეტი",
+   "ar": "جامعة ريتسوميكان آسيا والمحيط الهادئ"
+  },
+  "iso": "JP",
+  "city": "Beppu City",
+  "lat": 33.281,
+  "lon": 131.499,
+  "type": "private",
+  "website": "https://www.apu.ac.jp",
+  "platform": "Direct (APU International Undergraduate Application)",
+  "application_url": "https://admissions.apu.ac.jp/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "A '2027 entry' deadline tool exists on the admissions site, but no dates could be read.",
+  "tuition_intl": {
+   "amount": 1455000,
+   "currency": "JPY",
+   "per": "year",
+   "note": "2027 admissions, before reductions: 1,455,000 JPY in year 1 and 1,655,000 JPY per year in years 2-4."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Japanese"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry requirements for foreign school diplomas could not be read on the official site.",
+   "ka": "უცხოური სასკოლო დიპლომების მიღების მოთხოვნები ოფიციალურ საიტზე წაკითხვადი არ იყო.",
+   "ar": "لم تكن شروط قبول الشهادات المدرسية الأجنبية قابلة للقراءة على الموقع الرسمي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "international-relations",
+   "social-sciences",
+   "environment",
+   "languages"
+  ],
+  "strengths": {
+   "en": [
+    "Asia Pacific Studies",
+    "International Management",
+    "Sustainability and Tourism"
+   ],
+   "ka": [
+    "აზია-წყნარი ოკეანის კვლევები",
+    "საერთაშორისო მენეჯმენტი",
+    "მდგრადობა და ტურიზმი"
+   ],
+   "ar": [
+    "دراسات آسيا والمحيط الهادئ",
+    "الإدارة الدولية",
+    "الاستدامة والسياحة"
+   ]
+  },
+  "summary": {
+   "en": "APU is a private university in Beppu, Japan, where undergraduates can study on an English or Japanese basis. Tuition for 2027 entry is 1,455,000 JPY in year 1, and up to 100% can be reduced by scholarship.",
+   "ka": "APU იაპონიის ქალაქ ბეპუს კერძო უნივერსიტეტია, სადაც ბაკალავრებს შეუძლიათ ინგლისურად ან იაპონურად სწავლა. 2027 წლის ჩარიცხვისას სწავლა პირველ წელს 1 455 000 იენია, სტიპენდიით კი 100%-მდე შეიძლება შემცირდეს.",
+   "ar": "APU جامعة خاصة في بيبو باليابان يمكن لطلاب البكالوريوس فيها الدراسة بالإنجليزية أو اليابانية. رسوم دخول 2027 هي 1,455,000 ين في السنة الأولى، ويمكن تخفيضها حتى 100% بمنحة."
+  },
+  "about": {
+   "en": "Ritsumeikan Asia Pacific University is a private university in Beppu, Japan, with colleges in Asia Pacific Studies, International Management and Sustainability Tourism. Undergraduates can study on an English or Japanese basis while learning the other language. International applicants use a dedicated online application for 2027 entry. Tuition is 1,455,000 JPY in year 1 and 1,655,000 JPY a year after that, before scholarship reductions.",
+   "ka": "რიცუმეიკანის აზია-წყნარი ოკეანის უნივერსიტეტი იაპონიის ქალაქ ბეპუს კერძო უნივერსიტეტია აზია-წყნარი ოკეანის კვლევების, საერთაშორისო მენეჯმენტისა და მდგრადი ტურიზმის კოლეჯებით. ბაკალავრებს შეუძლიათ ინგლისურ ან იაპონურ ბაზაზე სწავლა და მეორე ენის შესწავლა. უცხოელი აპლიკანტები 2027 წლის ჩარიცხვისთვის ცალკე ონლაინ განაცხადს იყენებენ. სწავლა პირველ წელს 1 455 000 იენია, შემდეგ წელიწადში 1 655 000 იენი, სტიპენდიით შემცირებამდე.",
+   "ar": "جامعة ريتسوميكان آسيا والمحيط الهادئ جامعة خاصة في بيبو باليابان فيها كليات لدراسات آسيا والمحيط الهادئ والإدارة الدولية والسياحة المستدامة. يمكن لطلاب البكالوريوس الدراسة بالإنجليزية أو اليابانية مع تعلم اللغة الأخرى. يستخدم المتقدمون الدوليون طلباً إلكترونياً خاصاً لدخول 2027. الرسوم 1,455,000 ين في السنة الأولى و1,655,000 ين سنوياً بعدها قبل تخفيضات المنح."
+  },
+  "aid_intl": {
+   "en": "The APU Tuition Reduction Scholarship for International Students cuts tuition by 30%, 50%, 65%, 80% or 100%.",
+   "ka": "APU-ს საერთაშორისო სტუდენტთა სწავლის საფასურის შემცირების სტიპენდია საფასურს 30%-ით, 50%-ით, 65%-ით, 80%-ით ან 100%-ით ამცირებს.",
+   "ar": "تخفض منحة APU لتخفيض الرسوم للطلاب الدوليين الرسوم بنسبة 30% أو 50% أو 65% أو 80% أو 100%."
+  },
+  "tests": {
+   "en": "No English test score or entrance exam could be read; course availability and language requirements vary.",
+   "ka": "ინგლისურის ტესტის ქულა ან მისაღები გამოცდა წაკითხვადი არ იყო; კურსების ხელმისაწვდომობა და ენის მოთხოვნები განსხვავდება.",
+   "ar": "لم تظهر درجة اختبار إنجليزية أو امتحان قبول؛ تختلف المقررات ومتطلبات اللغة."
+  },
+  "gpa_note": {
+   "en": "Not verified: the official pages could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური გვერდები წაკითხვადი არ იყო.",
+   "ar": "لم يتم التحقق: تعذّرت قراءة الصفحات الرسمية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma / certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცხრილი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "APU Tuition Reduction Scholarship for International Students",
+    "url": "https://sub-buildman.ssl-lolipop.jp/apu/en/costs/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "japan",
+   "beppu",
+   "english basis",
+   "scholarship"
+  ],
+  "sources": [
+   "https://www.apu.ac.jp/home/admissions/",
+   "https://sub-buildman.ssl-lolipop.jp/apu/en/",
+   "https://sub-buildman.ssl-lolipop.jp/apu/en/costs/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "robert-gordon-university",
+  "name": {
+   "en": "Robert Gordon University",
+   "ka": "რობერტ გორდონის უნივერსიტეტი",
+   "ar": "جامعة روبرت غوردون"
+  },
+  "iso": "GB",
+  "city": "Aberdeen",
+  "lat": 57.119,
+  "lon": -2.143,
+  "type": "public",
+  "website": "https://www.rgu.ac.uk",
+  "platform": "Direct (RGU Applicant Portal)",
+  "application_url": "https://www.rgu.ac.uk/international",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No deadline is given on the international pages read; check the course page.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "GBP",
+   "per": "year",
+   "note": "Overseas fees are listed on each course page."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry requirements for foreign school diplomas could not be read on the official site.",
+   "ka": "უცხოური სასკოლო დიპლომების მიღების მოთხოვნები ოფიციალურ საიტზე წაკითხვადი არ იყო.",
+   "ar": "لم تكن شروط قبول الشهادات المدرسية الأجنبية قابلة للقراءة على الموقع الرسمي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "business",
+   "medicine-health",
+   "arts-design",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business",
+    "Health professions",
+    "Art and design",
+    "Computing"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი",
+    "ჯანდაცვის პროფესიები",
+    "ხელოვნება და დიზაინი",
+    "გამოთვლითი მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال",
+    "المهن الصحية",
+    "الفن والتصميم",
+    "الحوسبة"
+   ]
+  },
+  "summary": {
+   "en": "RGU is a public university in Aberdeen, Scotland, taught in English. Overseas fees are shown on each course page, and self-funding direct-entry international students can get a fee discount.",
+   "ka": "RGU შოტლანდიის ქალაქ აბერდინის საჯარო უნივერსიტეტია, სწავლება ინგლისურია. უცხოელების საფასური თითოეულ კურსის გვერდზეა მითითებული, ხოლო თვითდაფინანსებულ პირდაპირი ჩარიცხვის სტუდენტებს საფასურის ფასდაკლება შეიძლება მიეცეთ.",
+   "ar": "RGU جامعة حكومية في أبردين باسكتلندا، التدريس بالإنجليزية. رسوم الدارسين من الخارج مذكورة في صفحة كل مقرر، ويمكن للطلاب الدوليين الممولين ذاتياً بالقبول المباشر الحصول على خصم."
+  },
+  "about": {
+   "en": "Robert Gordon University is a public university in Aberdeen, Scotland. English is the language of instruction. Overseas tuition fees are listed on each course page, and applicants pay a deposit through the Applicant Portal. RGU is a licensed Student Sponsor and issues the CAS for the student visa. It accepts a wide range of English tests; the scores are on an Accepted English Qualifications page and may differ by course.",
+   "ka": "რობერტ გორდონის უნივერსიტეტი შოტლანდიის ქალაქ აბერდინის საჯარო უნივერსიტეტია. სწავლების ენა ინგლისურია. უცხოელების საფასური თითოეულ კურსის გვერდზეა მითითებული, ხოლო დეპოზიტი განმცხადებლის პორტალით იხდება. RGU ლიცენზირებული სტუდენტური სპონსორია და სტუდენტური ვიზისთვის CAS-ს გასცემს. ინგლისურის ტესტების ფართო სპექტრი მიიღება; ქულები მისაღები ინგლისური კვალიფიკაციების გვერდზეა და კურსის მიხედვით შეიძლება განსხვავდებოდეს.",
+   "ar": "جامعة روبرت غوردون جامعة حكومية في أبردين باسكتلندا. لغة التدريس الإنجليزية. رسوم الدارسين من الخارج مذكورة في صفحة كل مقرر، ويُدفع الإيداع عبر بوابة المتقدمين. RGU راعٍ طلابي مرخّص وتصدر CAS لتأشيرة الطالب. تقبل مجموعة واسعة من اختبارات الإنجليزية؛ والدرجات في صفحة المؤهلات الإنجليزية المقبولة وقد تختلف حسب المقرر."
+  },
+  "aid_intl": {
+   "en": "Self-funding direct-entry international students can get a fee discount, and further scholarships are on the Funding and Scholarships page.",
+   "ka": "თვითდაფინანსებულ პირდაპირი ჩარიცხვის უცხოელ სტუდენტებს საფასურის ფასდაკლება შეიძლება მიეცეთ; დამატებითი სტიპენდიები დაფინანსებისა და სტიპენდიების გვერდზეა.",
+   "ar": "يمكن للطلاب الدوليين الممولين ذاتياً بالقبول المباشر الحصول على خصم على الرسوم، وتوجد منح إضافية في صفحة التمويل والمنح."
+  },
+  "tests": {
+   "en": "English proof is needed unless your first language is from a recognised English-speaking country; scores are on the Accepted English Qualifications page.",
+   "ka": "ინგლისურის დამადასტურებელი საჭიროა, თუ თქვენი პირველი ენა აღიარებული ინგლისურენოვანი ქვეყნიდან არ არის; ქულები მისაღები ინგლისური კვალიფიკაციების გვერდზეა.",
+   "ar": "يلزم إثبات الإنجليزية ما لم تكن لغتك الأولى من بلد ناطق بالإنجليزية معترف به؛ والدرجات في صفحة المؤهلات الإنجليزية المقبولة."
+  },
+  "gpa_note": {
+   "en": "Entry requirements are set per course; check the course page.",
+   "ka": "მიღების მოთხოვნები კურსების მიხედვით განისაზღვრება; გადაამოწმეთ კურსის გვერდი.",
+   "ar": "تُحدَّد شروط القبول لكل مقرر؛ راجع صفحة المقرر."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცხრილი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma / certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "RGU international fee discount and scholarships",
+    "url": "https://www.rgu.ac.uk/study/international-students/international-fees-costs-funding",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "uk",
+   "scotland",
+   "aberdeen",
+   "english",
+   "cas"
+  ],
+  "sources": [
+   "https://www.rgu.ac.uk",
+   "https://www.rgu.ac.uk/international",
+   "https://www.rgu.ac.uk/study/international-students/international-fees-costs-funding",
+   "https://www.rgu.ac.uk/study/international-students/english-language-requirements"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "roskilde-university",
+  "name": {
+   "en": "Roskilde University",
+   "ka": "როსკილდეს უნივერსიტეტი",
+   "ar": "جامعة روسكيلد"
+  },
+  "iso": "DK",
+  "city": "Roskilde",
+  "lat": 55.652,
+  "lon": 12.131,
+  "type": "public",
+  "website": "https://ruc.dk",
+  "platform": "Direct (optagelse.dk)",
+  "application_url": "https://ruc.dk/trin-2-hvornaar-og-hvordan-soeger-jeg-ind-0",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-03-15",
+  "deadline_note": "Annual bachelor round: the system opens 1 Feb and applications close 15 March at 12:00; this date is mandatory for applicants with foreign upper-secondary qualifications (year of the round not stated on the page).",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "DKK",
+   "per": "year",
+   "note": "Tuition fees for non-EU applicants were not found on the pages read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Danish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "English B level is required and RUC does not accept a language test in its place. Foreign qualifications can be pre-assessed.",
+   "ka": "საჭიროა ინგლისური B დონე და RUC მის ნაცვლად ენის ტესტს არ იღებს. უცხოური კვალიფიკაციები წინასწარ შეიძლება შეფასდეს.",
+   "ar": "يُشترط مستوى Engelsk B ولا تقبل RUC اختبار لغة بديلاً عنه. يمكن إجراء تقييم مسبق للمؤهلات الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Danish A (Danish-taught programmes)"
+  ],
+  "fields": [
+   "social-sciences",
+   "humanities",
+   "natural-sciences",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Social sciences",
+    "Humanities",
+    "Natural sciences",
+    "Global Humanities",
+    "Communication"
+   ],
+   "ka": [
+    "სოციალური მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "გლობალური ჰუმანიტარია",
+    "კომუნიკაცია"
+   ],
+   "ar": [
+    "العلوم الاجتماعية",
+    "العلوم الإنسانية",
+    "العلوم الطبيعية",
+    "العلوم الإنسانية العالمية",
+    "الاتصال"
+   ]
+  },
+  "summary": {
+   "en": "Roskilde University is a public university in Denmark. Three bachelors are listed as international or global programmes (Global Humanities, Natural Sciences, Social Sciences); foreign-qualification applicants must apply by 15 March via optagelse.dk.",
+   "ka": "როსკილდეს უნივერსიტეტი დანიის საჯარო უნივერსიტეტია. სამი ბაკალავრიატი საერთაშორისო ან გლობალურ პროგრამად არის ჩამოთვლილი (გლობალური ჰუმანიტარია, საბუნებისმეტყველო და სოციალური მეცნიერებები); უცხოური კვალიფიკაციის მქონე აპლიკანტები 15 მარტამდე optagelse.dk-ზე უნდა მიმართონ.",
+   "ar": "جامعة روسكيلد جامعة حكومية في الدنمارك. تُدرج ثلاث درجات بكالوريوس كبرامج دولية أو عالمية (العلوم الإنسانية العالمية والعلوم الطبيعية والعلوم الاجتماعية)؛ على أصحاب المؤهلات الأجنبية التقدم قبل 15 مارس عبر optagelse.dk."
+  },
+  "about": {
+   "en": "Roskilde University is a public university in Roskilde, Denmark. Applicants with foreign upper-secondary qualifications must apply through optagelse.dk by 15 March at noon; the system opens on 1 February. Applicants living outside Denmark without MitID sign a signature page per programme and upload it. Most programmes need Danish A and English B, but Global Humanities, International Bachelor in Natural Sciences and International Bachelor in Social Sciences are listed separately. A pre-assessment of foreign qualifications is available.",
+   "ka": "როსკილდეს უნივერსიტეტი დანიის ქალაქ როსკილდეს საჯარო უნივერსიტეტია. უცხოური საშუალო განათლების მქონე აპლიკანტებმა optagelse.dk-ზე 15 მარტს შუადღემდე უნდა მიმართონ; სისტემა 1 თებერვალს იხსნება. დანიის გარეთ მცხოვრები და MitID-ის არმქონე აპლიკანტები თითო პროგრამაზე ხელმოწერის გვერდს ავსებენ და ტვირთავენ. პროგრამების უმეტესობას Danish A და English B სჭირდება, მაგრამ Global Humanities, International Bachelor in Natural Sciences და International Bachelor in Social Sciences ცალკეა ჩამოთვლილი. ხელმისაწვდომია უცხოური კვალიფიკაციების წინასწარი შეფასება.",
+   "ar": "جامعة روسكيلد جامعة حكومية في روسكيلد بالدنمارك. على أصحاب المؤهلات الثانوية الأجنبية التقدم عبر optagelse.dk قبل 15 مارس ظهراً؛ ويفتح النظام في 1 فبراير. يوقّع المقيمون خارج الدنمارك بلا MitID صفحة توقيع لكل برنامج ويرفعونها. تحتاج معظم البرامج إلى Danish A وEnglish B، لكن Global Humanities وInternational Bachelor in Natural Sciences وInternational Bachelor in Social Sciences مدرجة بشكل منفصل. يتوفر تقييم مسبق للمؤهلات الأجنبية."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منح مخصصة للطلاب الدوليين في مرحلة البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "English B level is required for all listed bachelors, and a language test cannot replace it. Danish-taught programmes need Danish A.",
+   "ka": "ჩამოთვლილ ყველა ბაკალავრიატს ინგლისური B დონე სჭირდება და ენის ტესტი მას ვერ ჩაანაცვლებს. დანიურენოვან პროგრამებს Danish A სჭირდება.",
+   "ar": "يُشترط مستوى English B لجميع برامج البكالوريوس المدرجة ولا يغني عنه اختبار لغة. تحتاج البرامج بالدانماركية إلى Danish A."
+  },
+  "gpa_note": {
+   "en": "Each required subject needs at least 2 on the Danish 7-point scale; some social science programmes have a 6.0 grade requirement.",
+   "ka": "თითოეულ საჭირო საგანში დანიის 7-ბალიან სკალაზე მინიმუმ 2 არის საჭირო; ზოგ სოციალურ მეცნიერებათა პროგრამას 6.0 ნიშნის მოთხოვნა აქვს.",
+   "ar": "يلزم الحصول على 2 على الأقل في كل مادة مطلوبة وفق المقياس الدنماركي ذي 7 درجات؛ وبعض برامج العلوم الاجتماعية تشترط معدل 6.0."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma / certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცხრილი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Pre-assessment of foreign qualifications / signature page",
+     "ka": "უცხოური კვალიფიკაციის წინასწარი შეფასება / ხელმოწერის გვერდი",
+     "ar": "التقييم المسبق للمؤهلات الأجنبية / صفحة التوقيع"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "denmark",
+   "roskilde",
+   "social sciences",
+   "humanities"
+  ],
+  "sources": [
+   "https://ruc.dk",
+   "https://ruc.dk/trin-2-hvornaar-og-hvordan-soeger-jeg-ind-0",
+   "https://ruc.dk/adgangskrav-til-bacheloruddannelser"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "srm-institute-of-science-and-technology",
+  "name": {
+   "en": "SRM Institute of Science and Technology",
+   "ka": "SRM მეცნიერებისა და ტექნოლოგიების ინსტიტუტი",
+   "ar": "معهد SRM للعلوم والتكنولوجيا"
+  },
+  "iso": "IN",
+  "city": "Chennai",
+  "lat": 12.823,
+  "lon": 80.045,
+  "type": "private",
+  "website": "https://www.srmuniv.ac.in",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Admissions page was down for maintenance and the main site blocked access; nothing verified.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "USD",
+   "per": "year",
+   "note": "Not verified."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry requirements for foreign school diplomas could not be read on the official site.",
+   "ka": "უცხოური სასკოლო დიპლომების მიღების მოთხოვნები ოფიციალურ საიტზე წაკითხვადი არ იყო.",
+   "ar": "لم تكن شروط قبول الشهادات المدرسية الأجنبية قابلة للقراءة على الموقع الرسمي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "medicine-health",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Medicine and health sciences",
+    "Management"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "მედიცინა და ჯანმრთელობის მეცნიერებები",
+    "მენეჯმენტი"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "الطب والعلوم الصحية",
+    "الإدارة"
+   ]
+  },
+  "summary": {
+   "en": "SRM Institute of Science and Technology is a private university near Chennai, India. Its official pages were blocked or down for maintenance, so no admission data was verified.",
+   "ka": "SRM მეცნიერებისა და ტექნოლოგიების ინსტიტუტი ინდოეთში, ჩენაის მახლობლად მდებარე კერძო უნივერსიტეტია. ოფიციალური გვერდები დაბლოკილი იყო ან ტექნიკური სამუშაოების გამო მიუწვდომელი, ამიტომ მიღების მონაცემები გადამოწმებული არ არის.",
+   "ar": "معهد SRM للعلوم والتكنولوجيا جامعة خاصة قرب تشيناي بالهند. كانت صفحاته الرسمية محجوبة أو متوقفة للصيانة، لذا لم يتم التحقق من بيانات القبول."
+  },
+  "about": {
+   "en": "SRM Institute of Science and Technology is a private university with its main campus at Kattankulathur near Chennai, India. Its official website blocked automated access and the admissions page was down for maintenance, so deadlines, fees and requirements for international bachelor applicants were not verified. Applicants should contact the university's international admissions office.",
+   "ka": "SRM მეცნიერებისა და ტექნოლოგიების ინსტიტუტი კერძო უნივერსიტეტია, მთავარი კამპუსით კატანკულათურში, ჩენაის მახლობლად. ოფიციალურმა საიტმა ავტომატური წვდომა დაბლოკა, ხოლო მიღების გვერდი ტექნიკური სამუშაოების გამო მიუწვდომელი იყო, ამიტომ ვადები, საფასური და მოთხოვნები გადამოწმებული არ არის. აპლიკანტებმა უნივერსიტეტის საერთაშორისო მისაღებ ოფისს უნდა დაუკავშირდნენ.",
+   "ar": "معهد SRM للعلوم والتكنولوجيا جامعة خاصة حرمها الرئيسي في كاتانكولاتور قرب تشيناي بالهند. حجب موقعها الرسمي الوصول الآلي وكانت صفحة القبول متوقفة للصيانة، لذا لم يتم التحقق من المواعيد والرسوم ومتطلبات المتقدمين الدوليين. على المتقدمين التواصل مع مكتب القبول الدولي."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منح مخصصة للطلاب الدوليين في مرحلة البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "Not verified: the official pages could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური გვერდები წაკითხვადი არ იყო.",
+   "ar": "لم يتم التحقق: تعذّرت قراءة الصفحات الرسمية."
+  },
+  "gpa_note": {
+   "en": "Not verified: the official pages could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური გვერდები წაკითხვადი არ იყო.",
+   "ar": "لم يتم التحقق: تعذّرت قراءة الصفحات الرسمية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma / certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცხრილი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "chennai",
+   "engineering",
+   "private university"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-01"
+ }
+]

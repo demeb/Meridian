@@ -1,0 +1,1928 @@
+[
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "universidad-de-san-carlos-de-guatemala",
+  "name": {
+   "en": "Universidad de San Carlos de Guatemala",
+   "ka": "გვატემალის სან-კარლოსის უნივერსიტეტი",
+   "ar": "جامعة سان كارلوس في غواتيمالا"
+  },
+  "iso": "GT",
+  "city": "Guatemala City",
+  "lat": 14.587,
+  "lon": -90.552,
+  "type": "public",
+  "website": "https://www.usac.edu.gt",
+  "platform": null,
+  "application_url": null,
+  "deadline_note": "The official site could not be reached (connection refused), so no deadline could be checked.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": null,
+   "note": "Not published on a page that could be read."
+  },
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "law",
+   "social-sciences",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Law",
+    "Social sciences"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "სამართალი",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "القانون",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "The national public university of Guatemala, based in Guatemala City. Teaching is in Spanish and its admission rules for foreign applicants were not available online.",
+   "ka": "გვატემალის ეროვნული საჯარო უნივერსიტეტი, მდებარეობს გვატემალა სიტიში. სწავლება ესპანურ ენაზეა; უცხოელი აბიტურიენტების მიღების წესები ონლაინ ვერ მოიძებნა.",
+   "ar": "الجامعة الحكومية الوطنية في غواتيمالا ومقرها مدينة غواتيمالا. التدريس بالإسبانية، ولم تتوفر عبر الإنترنت شروط القبول للمتقدمين الأجانب."
+  },
+  "about": {
+   "en": "Universidad de San Carlos de Guatemala is the public national university of Guatemala, in the capital. Its official website did not respond when checked, so admission steps, fees and deadlines for international bachelor applicants could not be confirmed. Programmes are taught in Spanish. Applicants should contact the university directly before applying.",
+   "ka": "გვატემალის სან-კარლოსის უნივერსიტეტი გვატემალის ეროვნული საჯარო უნივერსიტეტია და დედაქალაქში მდებარეობს. შემოწმებისას მისი ოფიციალური ვებგვერდი არ პასუხობდა, ამიტომ საერთაშორისო ბაკალავრიატის აბიტურიენტებისთვის მიღების ეტაპები, საფასური და ვადები ვერ დადასტურდა. პროგრამები ესპანურ ენაზეა. განაცხადამდე უნივერსიტეტთან პირდაპირ დაკავშირება გმართებთ.",
+   "ar": "جامعة سان كارلوس في غواتيمالا هي الجامعة الحكومية الوطنية وتقع في العاصمة. لم يستجب موقعها الرسمي عند الفحص، لذلك لم يمكن تأكيد خطوات القبول والرسوم والمواعيد للمتقدمين الدوليين إلى البكالوريوس. التدريس بالإسبانية. ينبغي التواصل مع الجامعة مباشرة قبل التقديم."
+  },
+  "tests": {
+   "en": "No entrance test or language requirement could be confirmed. Teaching is in Spanish.",
+   "ka": "მისაღები გამოცდა ან ენის მოთხოვნა ვერ დადასტურდა. სწავლება ესპანურ ენაზეა.",
+   "ar": "لم يمكن تأكيد أي اختبار قبول أو شرط لغوي. التدريس بالإسبانية."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are not available from the official site.",
+   "ka": "აკადემიური მოთხოვნები ოფიციალურ ვებგვერდზე ხელმისაწვდომი არ არის.",
+   "ar": "الشروط الأكاديمية غير متاحة على الموقع الرسمي."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of the school diploma",
+     "ka": "საშუალო განათლების დოკუმენტის აღიარება",
+     "ar": "معادلة شهادة الثانوية"
+    }
+   }
+  ],
+  "keywords": [
+   "guatemala",
+   "san carlos",
+   "public university",
+   "spanish"
+  ],
+  "sources": []
+ },
+ {
+  "acceptance_rate": null,
+  "students": 8995,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "PAES"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [
+   "March"
+  ],
+  "deadline": null,
+  "id": "universidad-de-tarapaca",
+  "name": {
+   "en": "Universidad de Tarapaca",
+   "ka": "ტარაპაკას უნივერსიტეტი",
+   "ar": "جامعة تاراباكا"
+  },
+  "iso": "CL",
+  "city": "Arica",
+  "lat": -18.489,
+  "lon": -70.298,
+  "type": "public",
+  "website": "https://www.uta.cl",
+  "platform": "Direct (admision.uta.cl); Chilean applicants use PAES",
+  "application_url": "https://admision.uta.cl",
+  "deadline_note": "No bachelor deadline for foreign applicants is published; the admission page covers the Chilean PAES process only.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "CLP",
+   "per": "year",
+   "note": "A 2026 fee schedule (aranceles) is linked as a PDF, but no amounts or foreign-student rates were readable."
+  },
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "fields": [
+   "education",
+   "law",
+   "medicine-health",
+   "engineering",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Law",
+    "Psychology",
+    "Commercial engineering",
+    "Teacher training"
+   ],
+   "ka": [
+    "მედიცინა",
+    "სამართალი",
+    "ფსიქოლოგია",
+    "კომერციული ინჟინერია",
+    "მასწავლებლის მომზადება"
+   ],
+   "ar": [
+    "الطب",
+    "القانون",
+    "علم النفس",
+    "الهندسة التجارية",
+    "إعداد المعلمين"
+   ]
+  },
+  "summary": {
+   "en": "A public state university in northern Chile with campuses in Arica and Iquique. Teaching is in Spanish and fees for foreign students are not published.",
+   "ka": "ჩრდილოეთ ჩილეს საჯარო სახელმწიფო უნივერსიტეტი, რომელსაც კამპუსები აქვს არიკასა და იკიკეში. სწავლება ესპანურადაა; უცხოელი სტუდენტების საფასური გამოქვეყნებული არ არის.",
+   "ar": "جامعة حكومية في شمال تشيلي ولها فرعان في أريكا وإيكيكي. التدريس بالإسبانية ولا تُنشر رسوم الطلاب الأجانب."
+  },
+  "about": {
+   "en": "Universidad de Tarapacá is a public university with its main campus in Arica and a second campus in Iquique. In 2018 it reported 8,995 students, 7,524 of them in Arica. Admission for Chilean applicants runs through the national PAES test. The admission page gives no steps for foreign applicants, so they must write to the admissions office. Teaching is in Spanish.",
+   "ka": "ტარაპაკას უნივერსიტეტი საჯარო უნივერსიტეტია; მთავარი კამპუსი არიკაშია, მეორე — იკიკეში. 2018 წელს მას 8 995 სტუდენტი ჰყავდა, აქედან 7 524 — არიკაში. ჩილელი აბიტურიენტები ეროვნული PAES ტესტით ირიცხებიან. მისაღებ გვერდზე უცხოელებისთვის ინსტრუქცია არ არის, ამიტომ მათ მისაღებ სამსახურს უნდა მისწერონ. სწავლება ესპანურადაა.",
+   "ar": "جامعة تاراباكا جامعة حكومية مقرها الرئيسي في أريكا وفرعها الثاني في إيكيكي. أعلنت عام 2018 وجود 8995 طالباً، منهم 7524 في أريكا. يتم القبول للمتقدمين التشيليين عبر اختبار PAES الوطني. لا تعرض صفحة القبول خطوات للمتقدمين الأجانب، لذا عليهم مراسلة مكتب القبول. التدريس بالإسبانية."
+  },
+  "tests": {
+   "en": "Chilean applicants sit the PAES. No rule for foreign applicants is published.",
+   "ka": "ჩილელი აბიტურიენტები აბარებენ PAES-ს. უცხოელებისთვის წესი გამოქვეყნებული არ არის.",
+   "ar": "يؤدي المتقدمون التشيليون اختبار PAES. لا توجد قاعدة منشورة للمتقدمين الأجانب."
+  },
+  "gpa_note": {
+   "en": "Cut-off scores are set per programme; no requirement for foreign diplomas is published.",
+   "ka": "ქულების ზღვარი თითოეული პროგრამისთვის ცალკეა; უცხოური დიპლომებისთვის მოთხოვნა გამოქვეყნებული არ არის.",
+   "ar": "تحدَّد الحدود الدنيا للدرجات لكل برنامج، ولا توجد متطلبات منشورة للشهادات الأجنبية."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language proficiency proof",
+     "ka": "ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان لغة التدريس"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of the school diploma",
+     "ka": "საშუალო განათლების დოკუმენტის აღიარება",
+     "ar": "معادلة شهادة الثانوية"
+    }
+   }
+  ],
+  "keywords": [
+   "chile",
+   "arica",
+   "iquique",
+   "public university",
+   "spanish"
+  ],
+  "sources": [
+   "https://www.uta.cl",
+   "https://admision.uta.cl",
+   "https://www.uta.cl/index.php/2018/12/27/informacion-relevante-para-la-toma-de-decisiones-de-los-potenciales/"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "PAES"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [
+   "March"
+  ],
+  "deadline": null,
+  "id": "universidad-de-valparaiso-uv",
+  "name": {
+   "en": "Universidad de Valparaíso (UV)",
+   "ka": "ვალპარაისოს უნივერსიტეტი (UV)",
+   "ar": "جامعة فالباراييسو (UV)"
+  },
+  "iso": "CL",
+  "city": "Valparaíso",
+  "lat": -33.045,
+  "lon": -71.617,
+  "type": "public",
+  "website": "https://uv.cl",
+  "platform": "Direct (admision.uv.cl); Chilean applicants use PAES",
+  "application_url": "https://admision.uv.cl",
+  "deadline_note": "No deadline for foreign bachelor applicants is published; foreign-student questions go to the admissions office.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "CLP",
+   "per": "year",
+   "note": "The 2026 fee list is by income decile (PDF) and is aimed at Chilean students."
+  },
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "education",
+   "humanities",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Veterinary medicine (new for 2027)",
+    "Physics and astronomy",
+    "Biology and chemistry"
+   ],
+   "ka": [
+    "ვეტერინარული მედიცინა (ახალი 2027-ისთვის)",
+    "ფიზიკა და ასტრონომია",
+    "ბიოლოგია და ქიმია"
+   ],
+   "ar": [
+    "الطب البيطري (جديد لعام 2027)",
+    "الفيزياء والفلك",
+    "الأحياء والكيمياء"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Valparaíso, Chile, with campuses also in Santiago and San Felipe. It lists 49 programmes for 2027 admission, taught in Spanish; fees are by income decile.",
+   "ka": "საჯარო უნივერსიტეტი ჩილეს ქალაქ ვალპარაისოში, კამპუსებით სანტიაგოსა და სან-ფელიპეშიც. 2027 წლის მისაღებად 49 პროგრამას ასახელებს, სწავლება ესპანურადაა; საფასური შემოსავლის დეცილზეა დამოკიდებული.",
+   "ar": "جامعة حكومية في فالباراييسو بتشيلي ولها فروع في سانتياغو وسان فيليبي. تعرض 49 برنامجاً للقبول في 2027، والتدريس بالإسبانية، والرسوم حسب شريحة الدخل."
+  },
+  "about": {
+   "en": "Universidad de Valparaíso is a public university with campuses in Valparaíso, Santiago and San Felipe. The 2027 admission page lists 49 programmes, including Veterinary Medicine as new. Chilean applicants enter with the PAES test. The page does not describe steps or fees for foreign applicants; it gives a WhatsApp number and an office in Valparaíso for questions. Teaching is in Spanish.",
+   "ka": "ვალპარაისოს უნივერსიტეტი საჯარო უნივერსიტეტია, რომლის კამპუსები ვალპარაისოში, სანტიაგოსა და სან-ფელიპეშია. 2027 წლის მისაღები გვერდი 49 პროგრამას ასახელებს, მათ შორის ახალს — ვეტერინარულ მედიცინას. ჩილელი აბიტურიენტები PAES ტესტით ირიცხებიან. გვერდზე უცხოელებისთვის ეტაპები და საფასური აღწერილი არ არის; კითხვებისთვის მითითებულია WhatsApp ნომერი და ოფისი ვალპარაისოში. სწავლება ესპანურადაა.",
+   "ar": "جامعة فالباراييسو جامعة حكومية لها فروع في فالباراييسو وسانتياغو وسان فيليبي. تعرض صفحة القبول لعام 2027 تسعة وأربعين برنامجاً منها الطب البيطري كبرنامج جديد. يلتحق المتقدمون التشيليون عبر اختبار PAES. لا تصف الصفحة خطوات أو رسوماً للمتقدمين الأجانب، وتذكر رقم واتساب ومكتباً في فالباراييسو للاستفسار. التدريس بالإسبانية."
+  },
+  "tests": {
+   "en": "Chilean applicants sit the PAES. No test rule for foreign applicants is published.",
+   "ka": "ჩილელი აბიტურიენტები აბარებენ PAES-ს. უცხოელებისთვის ტესტის წესი გამოქვეყნებული არ არის.",
+   "ar": "يؤدي المتقدمون التشيليون اختبار PAES. لا توجد قاعدة منشورة للمتقدمين الأجانب."
+  },
+  "gpa_note": {
+   "en": "Cut-off scores are set per programme; no rule for foreign diplomas is published.",
+   "ka": "ქულების ზღვარი თითოეული პროგრამისთვის ცალკეა; უცხოური დიპლომებისთვის წესი გამოქვეყნებული არ არის.",
+   "ar": "تحدَّد الحدود الدنيا للدرجات لكل برنامج، ولا توجد قاعدة منشورة للشهادات الأجنبية."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language proficiency proof",
+     "ka": "ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان لغة التدريس"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of the school diploma",
+     "ka": "საშუალო განათლების დოკუმენტის აღიარება",
+     "ar": "معادلة شهادة الثانوية"
+    }
+   }
+  ],
+  "keywords": [
+   "chile",
+   "valparaiso",
+   "public university",
+   "spanish"
+  ],
+  "sources": [
+   "https://uv.cl",
+   "https://admision.uv.cl"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "ENEM",
+   "UFSM Vestibular"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "universidade-federal-de-santa-maria",
+  "name": {
+   "en": "Universidade Federal de Santa Maria",
+   "ka": "სანტა-მარიას ფედერალური უნივერსიტეტი",
+   "ar": "الجامعة الفيدرالية في سانتا ماريا"
+  },
+  "iso": "BR",
+  "city": "Santa Maria",
+  "lat": -29.72,
+  "lon": -53.717,
+  "type": "public",
+  "website": "https://www.ufsm.br",
+  "platform": "Sisu (ENEM) and UFSM Vestibular; PEC-G for partner countries",
+  "application_url": "https://www.ufsm.br/global/regularadmission",
+  "deadline_note": "Registration for the Vestibular and the Serial Selection (PSS) 2027 is open; the date was not shown on the pages read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "BRL",
+   "per": "year",
+   "note": "No tuition figure is stated on the pages read."
+  },
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "natural-sciences",
+   "education",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Health sciences",
+    "Education and languages",
+    "Natural sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ჯანდაცვის მეცნიერებები",
+    "განათლება და ენები",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الصحة",
+    "التربية واللغات",
+    "العلوم الطبيعية"
+   ]
+  },
+  "summary": {
+   "en": "A federal public university in Santa Maria, southern Brazil, with four campuses. Entry is through ENEM/Sisu or the university's own exam; teaching is in Portuguese.",
+   "ka": "ფედერალური საჯარო უნივერსიტეტი სანტა-მარიაში, სამხრეთ ბრაზილიაში, ოთხი კამპუსით. ჩარიცხვა ხდება ENEM/Sisu-ით ან უნივერსიტეტის საკუთარი გამოცდით; სწავლება პორტუგალიურადაა.",
+   "ar": "جامعة فيدرالية حكومية في سانتا ماريا جنوب البرازيل ولها أربعة فروع. القبول عبر ENEM/Sisu أو امتحان الجامعة نفسها، والتدريس بالبرتغالية."
+  },
+  "about": {
+   "en": "UFSM is a federal university in Santa Maria, Rio Grande do Sul, with campuses in Santa Maria, Frederico Westphalen, Palmeira das Missões and Cachoeira do Sul. Regular entry is by Sisu (ENEM scores) or the UFSM Vestibular. Foreign students can also come through PEC-G, bilateral agreements, or the refugee admission route. Enrolment needs a school-studies equivalence statement. Teaching is in Portuguese.",
+   "ka": "UFSM არის ფედერალური უნივერსიტეტი სანტა-მარიაში (რიო-გრანდე-დუ-სული), კამპუსებით სანტა-მარიაში, ფრედერიკუ-ვესტფალენში, პალმეირა-დას-მისოეშსა და კაშოეირა-დუ-სულში. ჩვეულებრივი ჩარიცხვა ხდება Sisu-ით (ENEM-ის ქულებით) ან UFSM-ის Vestibular-ით. უცხოელებს ასევე შეუძლიათ PEC-G-ით, ორმხრივი შეთანხმებებით ან ლტოლვილთა მისაღები გზით მოსვლა. ჩარიცხვისას საჭიროა სასკოლო განათლების ეკვივალენტურობის ცნობა. სწავლება პორტუგალიურადაა.",
+   "ar": "UFSM جامعة فيدرالية في سانتا ماريا بولاية ريو غراندي دو سول، ولها فروع في سانتا ماريا وفريدريكو ويستفالن وبالميرا داس ميسويس وكاشويرا دو سول. القبول العادي عبر Sisu (درجات ENEM) أو امتحان UFSM. ويمكن للأجانب الالتحاق أيضاً عبر PEC-G أو الاتفاقيات الثنائية أو مسار اللاجئين. يتطلب التسجيل شهادة معادلة للدراسة المدرسية. التدريس بالبرتغالية."
+  },
+  "tests": {
+   "en": "Sisu uses ENEM scores; the UFSM Vestibular is the university's own exam. Portuguese is the teaching language.",
+   "ka": "Sisu იყენებს ENEM-ის ქულებს; UFSM Vestibular უნივერსიტეტის საკუთარი გამოცდაა. სწავლების ენა პორტუგალიურია.",
+   "ar": "يعتمد Sisu على درجات ENEM؛ وامتحان UFSM هو امتحان الجامعة الخاص. لغة التدريس هي البرتغالية."
+  },
+  "gpa_note": {
+   "en": "Places are ranked by exam score; a school certificate and transcript are needed at enrolment.",
+   "ka": "ადგილები ნაწილდება გამოცდის ქულის მიხედვით; ჩარიცხვისას საჭიროა სასკოლო ატესტატი და ნიშნების ცნობა.",
+   "ar": "تُوزَّع المقاعد حسب درجة الامتحان، ويلزم عند التسجيل شهادة مدرسية وكشف درجات."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of the school diploma",
+     "ka": "საშუალო განათლების დოკუმენტის აღიარება",
+     "ar": "معادلة شهادة الثانوية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   }
+  ],
+  "keywords": [
+   "brazil",
+   "santa maria",
+   "federal university",
+   "portuguese",
+   "pec-g"
+  ],
+  "sources": [
+   "https://www.ufsm.br",
+   "https://www.ufsm.br/global/student",
+   "https://www.ufsm.br/global/regularadmission"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": 20000,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "universidade-federal-de-vicosa-ufv",
+  "name": {
+   "en": "Universidade Federal de Viçosa (UFV)",
+   "ka": "ვისოზას ფედერალური უნივერსიტეტი (UFV)",
+   "ar": "الجامعة الفيدرالية في فيسوزا (UFV)"
+  },
+  "iso": "BR",
+  "city": "Viçosa",
+  "lat": -20.763,
+  "lon": -42.868,
+  "type": "public",
+  "website": "https://www.ufv.br",
+  "platform": "Brazilian national entry routes; PEC-G for foreign degree students; direct email to DRI for mobility",
+  "application_url": "https://www.ufv.br/international-students/",
+  "deadline_note": "No degree-entry deadline is published for foreigners. Exchange students send documents by 30 November (first semester) or 31 May (second semester).",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "BRL",
+   "per": "year",
+   "note": "No tuition figure is stated; the page says mobility students pay no fees."
+  },
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "engineering",
+   "medicine-health",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Agriculture",
+    "Forestry",
+    "Engineering",
+    "Biological sciences"
+   ],
+   "ka": [
+    "სოფლის მეურნეობა",
+    "სატყეო მეურნეობა",
+    "ინჟინერია",
+    "ბიოლოგიური მეცნიერებები"
+   ],
+   "ar": [
+    "الزراعة",
+    "الحراجة",
+    "الهندسة",
+    "العلوم الحيوية"
+   ]
+  },
+  "summary": {
+   "en": "A federal public university founded in 1926 in Viçosa, Minas Gerais, known for agriculture and forestry. It has about 20,000 students on three campuses; teaching is in Portuguese.",
+   "ka": "ფედერალური საჯარო უნივერსიტეტი, დაარსებული 1926 წელს ვისოზაში (მინას-ჟერაისი), ცნობილი სოფლის მეურნეობითა და სატყეო მეცნიერებით. დაახლოებით 20 000 სტუდენტი ჰყავს სამ კამპუსზე; სწავლება პორტუგალიურადაა.",
+   "ar": "جامعة فيدرالية حكومية تأسست عام 1926 في فيسوزا بولاية ميناس جيرايس، وتشتهر بالزراعة والحراجة. فيها نحو 20 ألف طالب في ثلاثة فروع، والتدريس بالبرتغالية."
+  },
+  "about": {
+   "en": "UFV has campuses in Viçosa (about 60 courses), Florestal (10) and Rio Paranaíba (10), and about 20,000 students. It says it ranks among the world's top 100 in Agriculture and Forestry in the QS subject ranking. Foreign students can study for a degree through PEC-G; the international office (DRI) handles exchange students, who pay no fees. Portuguese proof is needed for some courses. Teaching is in Portuguese.",
+   "ka": "UFV-ს კამპუსები აქვს ვისოზაში (დაახლოებით 60 კურსი), ფლორესტალსა (10) და რიო-პარანაიბაში (10) და დაახლოებით 20 000 სტუდენტი ჰყავს. თავად აცხადებს, რომ QS-ის დარგობრივ რეიტინგში სოფლის მეურნეობასა და სატყეო მეცნიერებაში მსოფლიოს საუკეთესო 100-ში შედის. უცხოელებს ხარისხის მიღება PEC-G-ით შეუძლიათ; საერთაშორისო ოფისი (DRI) ცვლილების სტუდენტებს ემსახურება, რომლებიც საფასურს არ იხდიან. ზოგ კურსზე პორტუგალიურის დამადასტურებელი საჭიროა. სწავლება პორტუგალიურადაა.",
+   "ar": "لجامعة UFV فروع في فيسوزا (نحو 60 مساقاً) وفلوريستال (10) وريو بارانائيبا (10)، ونحو 20 ألف طالب. تقول إنها ضمن أفضل 100 جامعة عالمياً في الزراعة والحراجة وفق تصنيف QS للمواد. يمكن للأجانب نيل الدرجة عبر PEC-G، ويتولى المكتب الدولي (DRI) طلاب التبادل الذين لا يدفعون رسوماً. يلزم إثبات البرتغالية لبعض المساقات. التدريس بالبرتغالية."
+  },
+  "tests": {
+   "en": "No entrance test for foreign applicants is published; Portuguese proof is needed for some courses.",
+   "ka": "უცხოელი აბიტურიენტებისთვის მისაღები გამოცდა გამოქვეყნებული არ არის; ზოგ კურსზე პორტუგალიურის დამადასტურებელი საჭიროა.",
+   "ar": "لا يُنشر اختبار قبول للمتقدمين الأجانب؛ ويلزم إثبات البرتغالية لبعض المساقات."
+  },
+  "gpa_note": {
+   "en": "No grade threshold for foreign degree applicants is published.",
+   "ka": "უცხოელი ხარისხის აბიტურიენტებისთვის ქულის ზღვარი გამოქვეყნებული არ არის.",
+   "ar": "لا يوجد حد أدنى منشور للدرجات للمتقدمين الأجانب للحصول على الدرجة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV",
+     "ka": "ბიოგრაფია (CV)",
+     "ar": "السيرة الذاتية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language proficiency proof",
+     "ka": "ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان لغة التدريس"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate or other supplementary documents",
+     "ka": "სამედიცინო ცნობა ან დამატებითი დოკუმენტები",
+     "ar": "شهادة طبية أو مستندات إضافية"
+    }
+   }
+  ],
+  "keywords": [
+   "brazil",
+   "vicosa",
+   "federal university",
+   "agriculture",
+   "portuguese"
+  ],
+  "sources": [
+   "https://www.ufv.br",
+   "https://www.ufv.br/international-students/",
+   "https://dri.ufv.br/informacoes-para-estudantes-estrangeiros/"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": 30000,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "ENEM"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "universidade-federal-do-ceara-ufc",
+  "name": {
+   "en": "Universidade Federal do Ceará (UFC)",
+   "ka": "სეარას ფედერალური უნივერსიტეტი (UFC)",
+   "ar": "الجامعة الفيدرالية في سيارا (UFC)"
+  },
+  "iso": "BR",
+  "city": "Fortaleza",
+  "lat": -3.743,
+  "lon": -38.537,
+  "type": "public",
+  "website": "https://www.ufc.br",
+  "platform": "Sisu (ENEM); foreign students by agreement (Latin America and Africa)",
+  "application_url": "https://www.ufc.br/estude-na-ufc",
+  "deadline_note": "No deadline for foreign bachelor applicants is published; the entry page only mentions admission by agreement.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "BRL",
+   "per": "year",
+   "note": "No tuition figure is stated on the pages read."
+  },
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "natural-sciences",
+   "law",
+   "economics"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Medicine and health",
+    "Natural sciences",
+    "Law"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მედიცინა და ჯანდაცვა",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "სამართალი"
+   ],
+   "ar": [
+    "الهندسة",
+    "الطب والصحة",
+    "العلوم الطبيعية",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "A federal public university in Fortaleza, northeast Brazil, with about 30,000 students. Entry is mostly through ENEM/Sisu; foreign students come by agreement and teaching is in Portuguese.",
+   "ka": "ფედერალური საჯარო უნივერსიტეტი ფორტალეზაში, ჩრდილოაღმოსავლეთ ბრაზილიაში, დაახლოებით 30 000 სტუდენტით. ჩარიცხვა ძირითადად ENEM/Sisu-ით ხდება; უცხოელები შეთანხმებით მოდიან, სწავლება კი პორტუგალიურადაა.",
+   "ar": "جامعة فيدرالية حكومية في فورتاليزا شمال شرق البرازيل وفيها نحو 30 ألف طالب. القبول غالباً عبر ENEM/Sisu، ويأتي الأجانب بموجب اتفاقيات، والتدريس بالبرتغالية."
+  },
+  "about": {
+   "en": "UFC is a federal university in Fortaleza, Ceará, that reports about 30,000 students. Most places are filled through ENEM and Sisu. Its entry page says it receives foreign students from Latin America and Africa through a cultural exchange agreement programme, but gives no criteria or dates. Tuition for foreigners is not stated. Teaching is in Portuguese.",
+   "ka": "UFC არის ფედერალური უნივერსიტეტი ფორტალეზაში (სეარა), რომელსაც დაახლოებით 30 000 სტუდენტი ჰყავს. ადგილების უმეტესობა ENEM-ითა და Sisu-ით ივსება. მისი გვერდის თანახმად, უცხოელ სტუდენტებს ლათინური ამერიკიდან და აფრიკიდან კულტურული გაცვლის შეთანხმების პროგრამით იღებს, მაგრამ კრიტერიუმები და ვადები მითითებული არ არის. უცხოელებისთვის სწავლის საფასური მოცემული არ არის. სწავლება პორტუგალიურადაა.",
+   "ar": "UFC جامعة فيدرالية في فورتاليزا بولاية سيارا، وتذكر أن فيها نحو 30 ألف طالب. تُملأ معظم المقاعد عبر ENEM وSisu. تقول صفحة القبول إنها تستقبل طلاباً أجانب من أمريكا اللاتينية وأفريقيا عبر برنامج تبادل ثقافي بموجب اتفاقيات، دون ذكر معايير أو مواعيد. لا تُذكر رسوم للأجانب. التدريس بالبرتغالية."
+  },
+  "tests": {
+   "en": "Sisu uses ENEM scores. No test rule for foreign applicants is published.",
+   "ka": "Sisu იყენებს ENEM-ის ქულებს. უცხოელებისთვის ტესტის წესი გამოქვეყნებული არ არის.",
+   "ar": "يعتمد Sisu على درجات ENEM. لا توجد قاعدة اختبار منشورة للمتقدمين الأجانب."
+  },
+  "gpa_note": {
+   "en": "Places are ranked by ENEM score; no rule for foreign diplomas is published.",
+   "ka": "ადგილები ნაწილდება ENEM-ის ქულის მიხედვით; უცხოური დიპლომებისთვის წესი გამოქვეყნებული არ არის.",
+   "ar": "تُوزَّع المقاعد حسب درجة ENEM، ولا توجد قاعدة منشورة للشهادات الأجنبية."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of the school diploma",
+     "ka": "საშუალო განათლების დოკუმენტის აღიარება",
+     "ar": "معادلة شهادة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language proficiency proof",
+     "ka": "ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان لغة التدريس"
+    }
+   }
+  ],
+  "keywords": [
+   "brazil",
+   "fortaleza",
+   "federal university",
+   "portuguese"
+  ],
+  "sources": [
+   "https://www.ufc.br",
+   "https://prograd.ufc.br/pt/ingresso-na-ufc/"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Mackenzie Vestibular"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "universidade-presbiteriana-mackenzie",
+  "name": {
+   "en": "Universidade Presbiteriana Mackenzie",
+   "ka": "მაკენზის პრესვიტერიანული უნივერსიტეტი",
+   "ar": "جامعة ماكنزي المشيخية"
+  },
+  "iso": "BR",
+  "city": "São Paulo",
+  "lat": -23.548,
+  "lon": -46.652,
+  "type": "private",
+  "website": "https://www.mackenzie.br",
+  "platform": "Direct (Mackenzie Vestibular); International Affairs Office (COI) for foreign candidates",
+  "application_url": "https://www.mackenzie.br/en/international/incoming/how-to-apply",
+  "deadline_note": "Open calls are listed on the COI pages; no fixed bachelor deadline could be read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "BRL",
+   "per": "month",
+   "note": "No tuition figures were readable on the pages fetched; see the institutional brochure from COI."
+  },
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "law",
+   "engineering",
+   "business",
+   "arts-design",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Law",
+    "Engineering",
+    "Architecture",
+    "Business"
+   ],
+   "ka": [
+    "სამართალი",
+    "ინჟინერია",
+    "არქიტექტურა",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "القانون",
+    "الهندسة",
+    "العمارة",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "A private Presbyterian university in São Paulo with campuses in Higienópolis, Alphaville and Campinas, plus a digital option. It has a dedicated office for international candidates; teaching is mainly in Portuguese.",
+   "ka": "კერძო პრესვიტერიანული უნივერსიტეტი სან-პაულუში, კამპუსებით ჰიგიენოპოლისში, ალფავილსა და კამპინასში, ასევე ციფრული ფორმატით. საერთაშორისო კანდიდატებისთვის ცალკე ოფისი აქვს; სწავლება ძირითადად პორტუგალიურადაა.",
+   "ar": "جامعة خاصة مشيخية في ساو باولو ولها فروع في هيجينوبوليس وألفافيل وكامبيناس إضافة إلى خيار رقمي. لديها مكتب خاص للمتقدمين الدوليين، والتدريس غالباً بالبرتغالية."
+  },
+  "about": {
+   "en": "Mackenzie is a private university run by the Instituto Presbiteriano Mackenzie, with campuses in São Paulo (Higienópolis), Alphaville and Campinas and a digital option. Admission is by its own Vestibular. The International Affairs Office (COI) has pages for international undergraduate candidates, how to apply and visas, and mentions some classes taught in a foreign language. Fees were not readable online.",
+   "ka": "მაკენზი კერძო უნივერსიტეტია, რომელსაც მართავს Instituto Presbiteriano Mackenzie; კამპუსები აქვს სან-პაულუში (ჰიგიენოპოლისი), ალფავილსა და კამპინასში, ასევე ციფრული ფორმატი. ჩარიცხვა საკუთარი Vestibular-ით ხდება. საერთაშორისო ურთიერთობათა ოფისს (COI) აქვს გვერდები საერთაშორისო ბაკალავრიატის კანდიდატებისთვის, განაცხადისა და ვიზის შესახებ; ზოგიერთი გაკვეთილი უცხო ენაზე ტარდება. საფასური ონლაინ ვერ ამოვიკითხეთ.",
+   "ar": "ماكنزي جامعة خاصة يديرها معهد ماكنزي المشيخي، ولها فروع في ساو باولو (هيجينوبوليس) وألفافيل وكامبيناس وخيار رقمي. يتم القبول عبر امتحان القبول الخاص بها. لدى مكتب الشؤون الدولية (COI) صفحات للمتقدمين الدوليين إلى البكالوريوس وطريقة التقديم والتأشيرة، ويذكر أن بعض المساقات تُدرَّس بلغة أجنبية. لم تتوفر الرسوم عبر الإنترنت."
+  },
+  "tests": {
+   "en": "Entry is through the Mackenzie Vestibular. Language proof is not specified on the pages read.",
+   "ka": "ჩარიცხვა ხდება Mackenzie Vestibular-ით. წაკითხულ გვერდებზე ენის დამადასტურებელი დოკუმენტი მითითებული არ არის.",
+   "ar": "يتم القبول عبر امتحان Mackenzie. لم يُحدَّد إثبات اللغة في الصفحات التي قُرئت."
+  },
+  "gpa_note": {
+   "en": "No grade threshold for international applicants could be read.",
+   "ka": "საერთაშორისო აბიტურიენტებისთვის ქულის ზღვარი ვერ ამოვიკითხეთ.",
+   "ar": "لم يمكن الاطلاع على حد أدنى للدرجات للمتقدمين الدوليين."
+  },
+  "requirements": [
+   {
+    "key": "application_form",
+    "label": {
+     "en": "Online application form",
+     "ka": "ონლაინ განაცხადის ფორმა",
+     "ar": "استمارة التقديم الإلكترونية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of the school diploma",
+     "ka": "საშუალო განათლების დოკუმენტის აღიარება",
+     "ar": "معادلة شهادة الثانوية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   }
+  ],
+  "keywords": [
+   "brazil",
+   "sao paulo",
+   "private",
+   "mackenzie",
+   "portuguese"
+  ],
+  "sources": [
+   "https://www.mackenzie.br",
+   "https://www.mackenzie.br/en/international/incoming/undergraduate",
+   "https://www.mackenzie.br/en/international/incoming/how-to-apply"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": 36000,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 5.0,
+  "toefl_min": 400,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [
+   {
+    "name": "Unand Scholarship and KNB Scholarship (International Office)",
+    "url": "https://io.unand.ac.id/index.php/admission/undergraduate-program",
+    "coverage": "partial"
+   }
+  ],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "Scholarships by grades and English score: GPA 3.00 with TOEFL 400 or IELTS 5.0 gives a tuition waiver; 3.25 with 450/5.5 a partial scholarship; 3.50 with 500/6.0 a full one.",
+   "ka": "სტიპენდიები ქულებისა და ინგლისურის შედეგის მიხედვით: GPA 3.00 და TOEFL 400 ან IELTS 5.0 — სწავლის საფასურის გაუქმება; 3.25 და 450/5.5 — ნაწილობრივი სტიპენდია; 3.50 და 500/6.0 — სრული.",
+   "ar": "منح حسب المعدل ودرجة الإنجليزية: معدل 3.00 مع TOEFL 400 أو IELTS 5.0 إعفاء من الرسوم؛ 3.25 مع 450/5.5 منحة جزئية؛ 3.50 مع 500/6.0 منحة كاملة."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [
+   "August"
+  ],
+  "deadline": null,
+  "id": "universitas-andalas",
+  "name": {
+   "en": "Universitas Andalas",
+   "ka": "ანდალასის უნივერსიტეტი",
+   "ar": "جامعة أندالاس"
+  },
+  "iso": "ID",
+  "city": "Padang",
+  "lat": -0.914,
+  "lon": 100.46,
+  "type": "public",
+  "website": "https://www.unand.ac.id",
+  "platform": "Direct (International Office online registration)",
+  "application_url": "https://io.unand.ac.id/index.php/admission/undergraduate-program",
+  "deadline_note": "The international undergraduate page states no deadline.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "IDR",
+   "per": "semester",
+   "note": "The page links to UKT (single tuition) information but gives no amounts."
+  },
+  "languages": [
+   "Indonesian"
+  ],
+  "english_bachelors": "none",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "environment",
+   "natural-sciences",
+   "economics"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Agriculture",
+    "Engineering",
+    "Economics"
+   ],
+   "ka": [
+    "მედიცინა",
+    "სოფლის მეურნეობა",
+    "ინჟინერია",
+    "ეკონომიკა"
+   ],
+   "ar": [
+    "الطب",
+    "الزراعة",
+    "الهندسة",
+    "الاقتصاد"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Padang, West Sumatra, with over 36,000 students and 154 study programmes. International students apply online; teaching is in Indonesian.",
+   "ka": "საჯარო უნივერსიტეტი პადანგში (დასავლეთი სუმატრა), 36 000-ზე მეტი სტუდენტითა და 154 სასწავლო პროგრამით. საერთაშორისო სტუდენტები განაცხადს ონლაინ აგზავნიან; სწავლება ინდონეზიურადაა.",
+   "ar": "جامعة حكومية في بادانغ بغرب سومطرة، فيها أكثر من 36 ألف طالب و154 برنامجاً دراسياً. يقدّم الطلاب الدوليون طلبهم إلكترونياً والتدريس بالإندونيسية."
+  },
+  "about": {
+   "en": "Universitas Andalas lists more than 36,000 active students and 154 undergraduate and postgraduate programmes. International bachelor applicants register online with the International Office, upload certificate, transcript, CV, passport, a medical certificate and an English test, then wait for an acceptance letter and arrange a student visa. Tuition is the Indonesian UKT; no international amounts are published. Teaching is in Indonesian.",
+   "ka": "ანდალასის უნივერსიტეტი 36 000-ზე მეტ აქტიურ სტუდენტსა და 154 საბაკალავრო და სამაგისტრო/სადოქტორო პროგრამას ასახელებს. საერთაშორისო ბაკალავრიატის აბიტურიენტები საერთაშორისო ოფისთან ონლაინ რეგისტრირდებიან, ტვირთავენ ატესტატს, ნიშნების ცნობას, CV-ს, პასპორტს, სამედიცინო ცნობასა და ინგლისურის ტესტს, შემდეგ ელოდებიან მიღების წერილს და სტუდენტურ ვიზას აფორმებენ. სწავლის საფასური ინდონეზიური UKT-ია; საერთაშორისო თანხები გამოქვეყნებული არ არის. სწავლება ინდონეზიურადაა.",
+   "ar": "تذكر جامعة أندالاس أكثر من 36 ألف طالب نشط و154 برنامجاً جامعياً وعليا. يسجّل المتقدمون الدوليون إلى البكالوريوس إلكترونياً لدى المكتب الدولي ويرفعون الشهادة وكشف الدرجات والسيرة الذاتية وجواز السفر وشهادة طبية واختبار الإنجليزية، ثم ينتظرون خطاب القبول ويرتبون تأشيرة الدراسة. الرسوم هي UKT الإندونيسية ولا تُنشر مبالغ للدوليين. التدريس بالإندونيسية."
+  },
+  "tests": {
+   "en": "An English proficiency certificate is required (TOEFL 400 or IELTS 5.0 is the lowest level listed). No entrance exam is listed.",
+   "ka": "საჭიროა ინგლისურის ცოდნის სერტიფიკატი (ყველაზე დაბალი მითითებული დონე: TOEFL 400 ან IELTS 5.0). მისაღები გამოცდა მითითებული არ არის.",
+   "ar": "يلزم شهادة إتقان اللغة الإنجليزية (أدنى مستوى مذكور TOEFL 400 أو IELTS 5.0). لا يُذكر امتحان قبول."
+  },
+  "gpa_note": {
+   "en": "A minimum GPA of 3.00 out of 4.00 is the lowest level listed, for the tuition scholarship.",
+   "ka": "ყველაზე დაბალი მითითებული GPA 4.00-დან 3.00-ია (სწავლის საფასურის სტიპენდიისთვის).",
+   "ar": "أدنى معدل مذكور هو 3.00 من 4.00، لمنحة الرسوم."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency proof",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV",
+     "ka": "ბიოგრაფია (CV)",
+     "ar": "السيرة الذاتية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate or other supplementary documents",
+     "ka": "სამედიცინო ცნობა ან დამატებითი დოკუმენტები",
+     "ar": "شهادة طبية أو مستندات إضافية"
+    }
+   },
+   {
+    "key": "application_form",
+    "label": {
+     "en": "Online application form",
+     "ka": "ონლაინ განაცხადის ფორმა",
+     "ar": "استمارة التقديم الإلكترونية"
+    }
+   }
+  ],
+  "keywords": [
+   "indonesia",
+   "padang",
+   "sumatra",
+   "public university",
+   "indonesian"
+  ],
+  "sources": [
+   "https://www.unand.ac.id",
+   "https://io.unand.ac.id/index.php/admission/undergraduate-program"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [
+   {
+    "name": "UNP full and partial scholarships for international students",
+    "url": "https://io.unp.ac.id/index.php/admission/",
+    "coverage": "partial"
+   }
+  ],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "The International Office runs full and partial scholarship rounds for international students; the 2026 round closed on 31 May.",
+   "ka": "საერთაშორისო ოფისი საერთაშორისო სტუდენტებისთვის სრული და ნაწილობრივი სტიპენდიის რაუნდებს ატარებს; 2026 წლის რაუნდი 31 მაისს დაიხურა.",
+   "ar": "ينظّم المكتب الدولي جولات منح كاملة وجزئية للطلاب الدوليين؛ أُغلقت جولة 2026 في 31 مايو."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [
+   "August"
+  ],
+  "deadline": null,
+  "id": "universitas-negeri-padang",
+  "name": {
+   "en": "Universitas Negeri Padang",
+   "ka": "პადანგის სახელმწიფო უნივერსიტეტი",
+   "ar": "جامعة بادانغ الحكومية"
+  },
+  "iso": "ID",
+  "city": "Padang",
+  "lat": -0.906,
+  "lon": 100.349,
+  "type": "public",
+  "website": "https://www.unp.ac.id",
+  "platform": "Direct (UNP International Office)",
+  "application_url": "https://io.unp.ac.id/index.php/admission/",
+  "deadline_note": "For 2026 the scholarship round closed on 31 May and regular admission was marked closed; the 2027 dates are not yet published.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "IDR",
+   "per": "semester",
+   "note": "Regular students pay all study and living costs; a UKT page exists but no international amounts were readable."
+  },
+  "languages": [
+   "Indonesian"
+  ],
+  "english_bachelors": "none",
+  "fields": [
+   "education",
+   "languages",
+   "social-sciences",
+   "natural-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Languages and arts",
+    "Science and mathematics",
+    "Engineering"
+   ],
+   "ka": [
+    "განათლება",
+    "ენები და ხელოვნება",
+    "მეცნიერება და მათემატიკა",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "التربية",
+    "اللغات والفنون",
+    "العلوم والرياضيات",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Padang, West Sumatra, with 10 faculties plus a graduate school and a vocational school. International students can apply as regular students or through full or partial scholarship rounds; teaching is in Indonesian.",
+   "ka": "საჯარო უნივერსიტეტი პადანგში (დასავლეთი სუმატრა): 10 ფაკულტეტი, ასევე სამაგისტრო და პროფესიული სკოლა. საერთაშორისო სტუდენტებს შეუძლიათ განაცხადი ჩვეულებრივი სტუდენტის სახით ან სრული/ნაწილობრივი სტიპენდიის რაუნდებით; სწავლება ინდონეზიურადაა.",
+   "ar": "جامعة حكومية في بادانغ بغرب سومطرة، فيها 10 كليات إضافة إلى مدرسة للدراسات العليا ومدرسة مهنية. يمكن للطلاب الدوليين التقديم كطلاب عاديين أو عبر جولات المنح الكاملة أو الجزئية، والتدريس بالإندونيسية."
+  },
+  "about": {
+   "en": "Universitas Negeri Padang has 10 faculties, a graduate school and a vocational school, and offers diploma, bachelor, master and doctoral degrees. Its International Office runs three admission types: regular, full scholarship and partial scholarship. Regular students pay all study and living costs. In 2026 the scholarship round closed on 31 May. Teaching is in Indonesian.",
+   "ka": "პადანგის სახელმწიფო უნივერსიტეტს აქვს 10 ფაკულტეტი, სამაგისტრო სკოლა და პროფესიული სკოლა; გასცემს დიპლომს, ბაკალავრის, მაგისტრისა და დოქტორის ხარისხს. საერთაშორისო ოფისს სამი სახის მიღება აქვს: ჩვეულებრივი, სრული სტიპენდიით და ნაწილობრივი სტიპენდიით. ჩვეულებრივი სტუდენტები სწავლისა და ცხოვრების ყველა ხარჯს თავად ფარავენ. 2026 წელს სტიპენდიის რაუნდი 31 მაისს დაიხურა. სწავლება ინდონეზიურადაა.",
+   "ar": "لدى جامعة بادانغ الحكومية 10 كليات ومدرسة للدراسات العليا ومدرسة مهنية، وتمنح الدبلوم والبكالوريوس والماجستير والدكتوراه. ينظّم مكتبها الدولي ثلاثة أنواع من القبول: عادي ومنحة كاملة ومنحة جزئية. يتحمل الطلاب العاديون كل تكاليف الدراسة والمعيشة. أُغلقت جولة المنح لعام 2026 في 31 مايو. التدريس بالإندونيسية."
+  },
+  "tests": {
+   "en": "Entry requirements and language tests for international bachelor applicants are not listed on the admission page.",
+   "ka": "საერთაშორისო ბაკალავრიატის აბიტურიენტებისთვის მისაღები მოთხოვნები და ენის ტესტები მისაღებ გვერდზე მითითებული არ არის.",
+   "ar": "لا تذكر صفحة القبول متطلبات الدخول أو اختبارات اللغة للمتقدمين الدوليين إلى البكالوريوس."
+  },
+  "gpa_note": {
+   "en": "No grade threshold is published on the pages read.",
+   "ka": "წაკითხულ გვერდებზე ქულის ზღვარი გამოქვეყნებული არ არის.",
+   "ar": "لا يوجد حد أدنى للدرجات منشور في الصفحات التي قُرئت."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency proof",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "application_form",
+    "label": {
+     "en": "Online application form",
+     "ka": "ონლაინ განაცხადის ფორმა",
+     "ar": "استمارة التقديم الإلكترونية"
+    }
+   }
+  ],
+  "keywords": [
+   "indonesia",
+   "padang",
+   "sumatra",
+   "public university",
+   "teacher training"
+  ],
+  "sources": [
+   "https://www.unp.ac.id",
+   "https://io.unp.ac.id/index.php/admission/"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": 55000,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [
+   {
+    "name": "UNY scholarships",
+    "url": "https://uny.ac.id/id/beasiswa",
+    "coverage": "partial"
+   }
+  ],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [
+   "August"
+  ],
+  "deadline": null,
+  "id": "universitas-negeri-yogyakarta",
+  "name": {
+   "en": "Universitas Negeri Yogyakarta",
+   "ka": "იოგიაკარტას სახელმწიფო უნივერსიტეტი",
+   "ar": "جامعة يوغياكارتا الحكومية"
+  },
+  "iso": "ID",
+  "city": "Yogyakarta",
+  "lat": -7.775,
+  "lon": 110.387,
+  "type": "public",
+  "website": "https://www.uny.ac.id",
+  "platform": "Direct (pmb.uny.ac.id international students programme)",
+  "application_url": "https://pmb.uny.ac.id/program/international-students",
+  "deadline_note": "No international bachelor deadline could be read; the international page did not load.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "IDR",
+   "per": "semester",
+   "note": "Indonesian UKT for 2025/26 ranges from 500,000 to about 7,250,000 per semester for most programmes (medicine up to 30,000,000). No international rate is published."
+  },
+  "languages": [
+   "Indonesian"
+  ],
+  "english_bachelors": "none",
+  "fields": [
+   "education",
+   "languages",
+   "humanities",
+   "arts-design",
+   "social-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Languages",
+    "Arts",
+    "Engineering"
+   ],
+   "ka": [
+    "განათლება",
+    "ენები",
+    "ხელოვნება",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "التربية",
+    "اللغات",
+    "الفنون",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Yogyakarta with 9 faculties and 62 study programmes, and about 55,000 students on its own count. Tuition is the income-based UKT; teaching is in Indonesian.",
+   "ka": "საჯარო უნივერსიტეტი იოგიაკარტაში, 9 ფაკულტეტითა და 62 სასწავლო პროგრამით; საკუთარი მონაცემებით დაახლოებით 55 000 სტუდენტი ჰყავს. სწავლის საფასური შემოსავალზე დამოკიდებული UKT-ია; სწავლება ინდონეზიურადაა.",
+   "ar": "جامعة حكومية في يوغياكارتا فيها 9 كليات و62 برنامجاً دراسياً ونحو 55 ألف طالب حسب إحصائها. الرسوم هي UKT المرتبطة بالدخل والتدريس بالإندونيسية."
+  },
+  "about": {
+   "en": "Universitas Negeri Yogyakarta lists 9 faculties and graduate school, 62 study programmes and 55,000 students across diploma, bachelor, master, doctoral and professional levels. It has an International Office and an international students page on its admission portal. Bachelor tuition (UKT) is set by income group, from 500,000 IDR per semester at level I up to about 7,250,000 at level VIII for most programmes. Teaching is in Indonesian.",
+   "ka": "იოგიაკარტას სახელმწიფო უნივერსიტეტი ასახელებს 9 ფაკულტეტს (სამაგისტრო სკოლის ჩათვლით), 62 სასწავლო პროგრამასა და 55 000 სტუდენტს დიპლომის, ბაკალავრის, მაგისტრის, დოქტორისა და პროფესიულ დონეებზე. აქვს საერთაშორისო ოფისი და საერთაშორისო სტუდენტების გვერდი მისაღებ პორტალზე. ბაკალავრიატის საფასური (UKT) შემოსავლის ჯგუფის მიხედვით განისაზღვრება: პროგრამების უმეტესობისთვის I დონეზე 500 000 IDR სემესტრში, VIII დონეზე — დაახლოებით 7 250 000. სწავლება ინდონეზიურადაა.",
+   "ar": "تذكر جامعة يوغياكارتا الحكومية 9 كليات ومدرسة للدراسات العليا و62 برنامجاً و55 ألف طالب في مستويات الدبلوم والبكالوريوس والماجستير والدكتوراه والمهني. لديها مكتب دولي وصفحة للطلاب الدوليين في بوابة القبول. تُحدَّد رسوم البكالوريوس (UKT) حسب فئة الدخل، من 500 ألف روبية للفصل في المستوى الأول إلى نحو 7.25 مليون في المستوى الثامن لمعظم البرامج. التدريس بالإندونيسية."
+  },
+  "tests": {
+   "en": "Language and test requirements for international bachelor applicants could not be read.",
+   "ka": "საერთაშორისო ბაკალავრიატის აბიტურიენტებისთვის ენისა და ტესტების მოთხოვნები ვერ ამოვიკითხეთ.",
+   "ar": "لم يمكن الاطلاع على متطلبات اللغة والاختبارات للمتقدمين الدوليين إلى البكالوريوس."
+  },
+  "gpa_note": {
+   "en": "No grade threshold for international applicants is published on the pages read.",
+   "ka": "წაკითხულ გვერდებზე საერთაშორისო აბიტურიენტებისთვის ქულის ზღვარი გამოქვეყნებული არ არის.",
+   "ar": "لا يوجد حد أدنى منشور للدرجات للمتقدمين الدوليين في الصفحات التي قُرئت."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency proof",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "application_form",
+    "label": {
+     "en": "Online application form",
+     "ka": "ონლაინ განაცხადის ფორმა",
+     "ar": "استمارة التقديم الإلكترونية"
+    }
+   }
+  ],
+  "keywords": [
+   "indonesia",
+   "yogyakarta",
+   "java",
+   "public university",
+   "teacher training"
+  ],
+  "sources": [
+   "https://www.uny.ac.id",
+   "https://uny.ac.id/id/ukt-s1-uny"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "universitas-pendidikan-indonesia",
+  "name": {
+   "en": "Universitas Pendidikan Indonesia",
+   "ka": "ინდონეზიის პედაგოგიური უნივერსიტეტი",
+   "ar": "جامعة التربية الإندونيسية"
+  },
+  "iso": "ID",
+  "city": "Bandung",
+  "lat": -6.86,
+  "lon": 107.59,
+  "type": "public",
+  "website": "https://www.upi.edu",
+  "platform": null,
+  "application_url": null,
+  "deadline_note": "The official site returned an access error (403), so nothing could be checked.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": null,
+   "note": "Not published on a page that could be read."
+  },
+  "languages": [
+   "Indonesian"
+  ],
+  "english_bachelors": "none",
+  "fields": [
+   "education",
+   "languages",
+   "social-sciences",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Languages",
+    "Social sciences"
+   ],
+   "ka": [
+    "განათლება",
+    "ენები",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "التربية",
+    "اللغات",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Bandung, Indonesia, focused on education and teacher training. Its website blocked automated access, so admission details for foreign applicants could not be checked.",
+   "ka": "საჯარო უნივერსიტეტი ბანდუნგში, ინდონეზია, რომელიც განათლებასა და მასწავლებლის მომზადებაზეა ორიენტირებული. ვებგვერდმა ავტომატური წვდომა დაბლოკა, ამიტომ უცხოელი აბიტურიენტების მიღების დეტალები ვერ შემოწმდა.",
+   "ar": "جامعة حكومية في باندونغ بإندونيسيا تركز على التربية وإعداد المعلمين. منع موقعها الوصول الآلي، لذلك لم يمكن التحقق من تفاصيل القبول للمتقدمين الأجانب."
+  },
+  "about": {
+   "en": "Universitas Pendidikan Indonesia is a public university in Bandung, West Java, with a focus on education. The official website returned a 403 error, so size, fees, deadlines and the application route for international bachelor applicants could not be confirmed. Teaching is in Indonesian. Applicants should contact the university directly.",
+   "ka": "ინდონეზიის პედაგოგიური უნივერსიტეტი საჯარო უნივერსიტეტია ბანდუნგში (დასავლეთი ჯავა) და განათლებაზეა ორიენტირებული. ოფიციალურმა ვებგვერდმა 403 შეცდომა დააბრუნა, ამიტომ ზომა, საფასური, ვადები და საერთაშორისო ბაკალავრიატის განაცხადის გზა ვერ დადასტურდა. სწავლება ინდონეზიურადაა. აბიტურიენტებმა უნივერსიტეტს უშუალოდ უნდა მიმართონ.",
+   "ar": "جامعة التربية الإندونيسية جامعة حكومية في باندونغ بجاوة الغربية وتركز على التربية. أعاد موقعها الرسمي خطأ 403، لذلك لم يمكن تأكيد الحجم والرسوم والمواعيد ومسار التقديم للمتقدمين الدوليين إلى البكالوريوس. التدريس بالإندونيسية. ينبغي التواصل مع الجامعة مباشرة."
+  },
+  "tests": {
+   "en": "No test or language requirement could be confirmed.",
+   "ka": "ტესტი ან ენის მოთხოვნა ვერ დადასტურდა.",
+   "ar": "لم يمكن تأكيد أي اختبار أو شرط لغوي."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are not available from the official site.",
+   "ka": "აკადემიური მოთხოვნები ოფიციალურ ვებგვერდზე ხელმისაწვდომი არ არის.",
+   "ar": "الشروط الأكاديمية غير متاحة على الموقع الرسمي."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "indonesia",
+   "bandung",
+   "education",
+   "teacher training"
+  ],
+  "sources": []
+ },
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "universitas-trisakti-usakti",
+  "name": {
+   "en": "Universitas Trisakti (USAKTI)",
+   "ka": "ტრისაქტის უნივერსიტეტი (USAKTI)",
+   "ar": "جامعة تريساكتي (USAKTI)"
+  },
+  "iso": "ID",
+  "city": "Jakarta",
+  "lat": -6.169,
+  "lon": 106.791,
+  "type": "private",
+  "website": "https://www.trisakti.ac.id",
+  "platform": null,
+  "application_url": null,
+  "deadline_note": "The official site did not resolve and its bare domain returned 403, so nothing could be checked.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": null,
+   "note": "Not published on a page that could be read."
+  },
+  "languages": [
+   "Indonesian"
+  ],
+  "english_bachelors": "none",
+  "fields": [
+   "engineering",
+   "business",
+   "law",
+   "medicine-health",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business and economics",
+    "Law",
+    "Medicine"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი და ეკონომიკა",
+    "სამართალი",
+    "მედიცინა"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال والاقتصاد",
+    "القانون",
+    "الطب"
+   ]
+  },
+  "summary": {
+   "en": "A private university in West Jakarta, Indonesia. Its website could not be read, so admission details for foreign applicants could not be checked.",
+   "ka": "კერძო უნივერსიტეტი დასავლეთ ჯაკარტაში, ინდონეზია. ვებგვერდი ვერ წავიკითხეთ, ამიტომ უცხოელი აბიტურიენტების მიღების დეტალები ვერ შემოწმდა.",
+   "ar": "جامعة خاصة في غرب جاكرتا بإندونيسيا. تعذّرت قراءة موقعها، لذلك لم يمكن التحقق من تفاصيل القبول للمتقدمين الأجانب."
+  },
+  "about": {
+   "en": "Universitas Trisakti is a private university in West Jakarta. Its official website did not resolve and the bare domain returned a 403 error, so size, fees, deadlines and the application route for international bachelor applicants could not be confirmed. Teaching is in Indonesian. Applicants should contact the university directly.",
+   "ka": "ტრისაქტის უნივერსიტეტი კერძო უნივერსიტეტია დასავლეთ ჯაკარტაში. ოფიციალური ვებგვერდი არ იხსნებოდა, ხოლო მთავარმა დომენმა 403 შეცდომა დააბრუნა, ამიტომ ზომა, საფასური, ვადები და საერთაშორისო ბაკალავრიატის განაცხადის გზა ვერ დადასტურდა. სწავლება ინდონეზიურადაა. აბიტურიენტებმა უნივერსიტეტს უშუალოდ უნდა მიმართონ.",
+   "ar": "جامعة تريساكتي جامعة خاصة في غرب جاكرتا. لم يعمل موقعها الرسمي وأعاد النطاق المجرد خطأ 403، لذلك لم يمكن تأكيد الحجم والرسوم والمواعيد ومسار التقديم للمتقدمين الدوليين إلى البكالوريوس. التدريس بالإندونيسية. ينبغي التواصل مع الجامعة مباشرة."
+  },
+  "tests": {
+   "en": "No test or language requirement could be confirmed.",
+   "ka": "ტესტი ან ენის მოთხოვნა ვერ დადასტურდა.",
+   "ar": "لم يمكن تأكيد أي اختبار أو شرط لغوي."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are not available from the official site.",
+   "ka": "აკადემიური მოთხოვნები ოფიციალურ ვებგვერდზე ხელმისაწვდომი არ არის.",
+   "ar": "الشروط الأكاديمية غير متاحة على الموقع الرسمي."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "indonesia",
+   "jakarta",
+   "private university",
+   "trisakti"
+  ],
+  "sources": []
+ }
+]

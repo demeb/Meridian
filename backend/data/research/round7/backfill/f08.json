@@ -1,0 +1,598 @@
+[
+{
+"id": "hong-kong-baptist-university",
+"name": "Hong Kong Baptist University (HKBU)",
+"iso": "HK",
+"website": "https://www.hkbu.edu.hk/",
+"application_url": "https://admissions.hkbu.edu.hk/admissions/international-qualifications.html",
+"tests": "SAT minimum 1190 (new SAT) for US-pattern applicants; AP grade 3 in two subjects. English: TOEFL iBT 79 or IELTS Academic 6.0 (from 2027 entry the test must be taken on or after 1 Sept 2025), or SAT EBRW 590.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Communication and Film",
+"Visual Arts",
+"Chinese Medicine",
+"Business",
+"Music",
+"Computer Science"
+]
+},
+{
+"id": "united-arab-emirates-university",
+"name": "United Arab Emirates University (UAEU)",
+"iso": "AE",
+"website": "https://www.uaeu.ac.ae/en/",
+"application_url": "https://www.uaeu.ac.ae/en/admission/international-students-and-children-of-uaeu-employees.shtml",
+"tests": "International applicants: Grade 12 average of 90% (health sciences, engineering, computing/AI, science, agriculture/veterinary) or 85% (business, humanities, education, law); English 90% in MOE Grade 12 English, or IELTS Academic 5.5, TOEFL iBT 70 or TOEFL ITP 525. Applicants must be 35 or younger. The MD programme is limited to nationals and funded students.",
+"gpa_note": "International applicants need a 90% (STEM and health) or 85% (other colleges) high-school average.",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering",
+"Medicine and Health Sciences",
+"Computing and AI",
+"Business and Economics",
+"Agriculture and Veterinary Medicine",
+"Law"
+]
+},
+{
+"id": "friedrich-alexander-universitat-erlangen-nurnberg",
+"name": "Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)",
+"iso": "DE",
+"website": "https://www.fau.eu",
+"application_url": "https://www.fau.eu/studying/international-students/application-and-enrollment-for-international-applicants/prospective-international-students-applying-for-undergraduate-programs/",
+"tests": "No SAT/ACT. Most bachelor's programmes are taught in German and require proof of German proficiency (e.g. DSH-2/TestDaF level). Applicants whose school certificate does not give direct university access need the Studienkolleg and its assessment test (Feststellungsprüfung). Medicine and some programmes are restricted.",
+"gpa_note": "Foreign grades are converted with the Bavarian formula; restricted programmes select by grade.",
+"languages": [
+"German",
+"English"
+],
+"strengths": [
+"Engineering",
+"Medicine",
+"Materials science",
+"Business and economics",
+"Artificial intelligence"
+]
+},
+{
+"id": "university-college-cork",
+"name": "University College Cork",
+"iso": "IE",
+"website": "https://www.ucc.ie/en/",
+"application_url": "https://www.ucc.ie/en/international/studyatucc/undergraduateprogrammes/",
+"tests": "SAT/ACT not specified; A-level and IB minimums are published per programme. English: IELTS, TOEFL, Pearson PTE, Cambridge or Duolingo accepted, from a single sitting and valid within two years of course start (minimums listed on UCC’s English comparison page).",
+"gpa_note": "Programme-specific A-level grades and IB points (UCC publishes minimums and competitiveness bands each year).",
+"languages": [
+"English"
+],
+"strengths": [
+"Medicine & Health",
+"Pharmacy",
+"Law",
+"Business & Commerce",
+"Food Science",
+"Computer Science"
+]
+},
+{
+"id": "indian-institute-of-science-iisc-bangalore",
+"name": "Indian Institute of Science (IISc) Bangalore",
+"iso": "IN",
+"website": "https://iisc.ac.in",
+"application_url": "https://iisc.ac.in",
+"tests": "No SAT/ACT. Admission to the B.S. (Research) and B.Tech (Mathematics and Computing) uses national entrance exam ranks (JEE Main/Advanced, IISER Aptitude Test or NEET as specified each year). Teaching is in English.",
+"gpa_note": "Selection by national entrance exam rank; extremely competitive.",
+"languages": [
+"English"
+],
+"strengths": [
+"Physics",
+"Chemistry",
+"Biology",
+"Materials",
+"Mathematics"
+]
+},
+{
+"id": "indian-institute-of-technology-kanpur-iitk",
+"name": "Indian Institute of Technology Kanpur (IITK)",
+"iso": "IN",
+"website": "https://www.iitk.ac.in",
+"application_url": "https://jeeadv.ac.in",
+"tests": "No SAT/ACT. B.Tech/B.S. admission at every IIT is through JEE (Advanced) and JoSAA seat allocation. Foreign nationals (and OCI/PIO cardholders from 4 March 2021 who opt for it) do NOT need JEE (Main) and may register for JEE (Advanced) directly; they compete for supernumerary foreign-national seats. Teaching is in English; no IELTS/TOEFL is required.",
+"gpa_note": "Admission is by JEE (Advanced) rank; foreign-national seats are allotted on merit among foreign candidates.",
+"languages": [
+"English"
+],
+"strengths": [
+"Computer science",
+"Aerospace engineering",
+"Electrical engineering",
+"Economics",
+"Physics"
+]
+},
+{
+"id": "american-university-of-beirut",
+"name": "American University of Beirut (AUB)",
+"iso": "LB",
+"website": "https://www.aub.edu.lb/",
+"application_url": null,
+"tests": "SAT or ACT required for most applicants. English: TOEFL / IELTS or AUB English requirements (see Admissions English Requirements page).",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Medicine",
+"Engineering",
+"Business",
+"Public health",
+"Architecture",
+"Politics",
+"Agriculture"
+]
+},
+{
+"id": "university-of-twente",
+"name": "University of Twente",
+"iso": "NL",
+"website": "https://www.utwente.nl",
+"application_url": "https://www.utwente.nl/en/education/bachelor/application-admission/application/",
+"tests": "No SAT/ACT. English: IELTS Academic 6.0 overall with at least 5.5 per section (IELTS Online, One Skill Retake and Indicator not accepted), or TOEFL iBT 90 with at least 21 per section (MyBest not accepted). Programme-specific maths/physics requirements apply; some programmes have selection or mandatory matching activities.",
+"gpa_note": "Diploma comparable to Dutch VWO with required maths (and physics for engineering).",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering and technology",
+"Computer science",
+"Industrial design",
+"Technical medicine",
+"Behavioural sciences"
+]
+},
+{
+"id": "university-of-gothenburg",
+"name": "University of Gothenburg",
+"iso": "SE",
+"website": "https://www.gu.se",
+"application_url": "https://www.universityadmissions.se/en/",
+"tests": "No SAT/ACT. Swedish-taught programmes require Swedish 3; English-taught programmes require English 6 (typically IELTS Academic 6.5 with no section below 5.5, or TOEFL iBT 90 with writing 20). Programme-specific maths/science prerequisites apply.",
+"gpa_note": "Selection mainly by upper-secondary grades (merit rating) when programmes are oversubscribed.",
+"languages": [
+"Swedish",
+"English"
+],
+"strengths": [
+"Marine sciences",
+"Medicine and health",
+"Social sciences",
+"Business (School of Business, Economics and Law)",
+"Arts"
+]
+},
+{
+"id": "university-of-florida",
+"name": "University of Florida",
+"iso": "US",
+"website": "https://admissions.ufl.edu",
+"application_url": "https://admissions.ufl.edu/apply/freshman/international",
+"tests": "SAT, ACT or CLT required for all first-year applicants (Florida Board of Governors rule 6.002), superscored. International applicants must show English proficiency (see UF international page).",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering",
+"Business (Warrington)",
+"Agricultural & life sciences",
+"Health professions & nursing",
+"Journalism & communications",
+"Computer science"
+]
+},
+{
+"id": "university-of-ottawa",
+"name": "University of Ottawa",
+"iso": "CA",
+"website": "https://www.uottawa.ca/study/undergraduate-studies",
+"application_url": "https://www.uottawa.ca/study/undergraduate-studies/international-applicants",
+"tests": "SAT/ACT not required. Proof of English or French proficiency depending on the language of the programme (see uOttawa admission requirements).",
+"gpa_note": "",
+"languages": [
+"English",
+"French"
+],
+"strengths": [
+"Law (common & civil law)",
+"Medicine & health sciences",
+"Engineering & computer science",
+"Public administration & political science",
+"Translation",
+"Business (Telfer)"
+]
+},
+{
+"id": "university-of-strathclyde",
+"name": "University of Strathclyde",
+"iso": "GB",
+"website": "https://www.strath.ac.uk",
+"application_url": "https://www.strath.ac.uk/studywithus/internationalstudents/entryrequirements/",
+"tests": "No SAT/ACT for A-level/IB applicants. English requirements are set by country on Strathclyde’s international entry requirements pages.",
+"gpa_note": "Course-specific; e.g. Economics: ABB–BBB, or IB 32–30 with no subject below 5.",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering",
+"Business (Strathclyde Business School)",
+"Economics",
+"Pharmacy",
+"Law",
+"Computer & Information Sciences"
+]
+},
+{
+"id": "eberhard-karls-universitat-tubingen",
+"name": "University of Tübingen",
+"iso": "DE",
+"website": "https://uni-tuebingen.de",
+"application_url": "https://uni-tuebingen.de",
+"tests": "No SAT/ACT. Bachelor's programmes are taught mostly in German and require proof of German at C1 level (e.g. DSH-2, TestDaF 4x4, Goethe C2/telc C1 Hochschule). Applicants whose school certificate does not give direct university access in Germany must attend a Studienkolleg and pass the Feststellungsprüfung. Restricted programmes (e.g. medicine) select by grade and tests.",
+"gpa_note": "Open-admission programmes accept all qualified applicants; restricted (NC) programmes rank by converted school grade.",
+"languages": [
+"German",
+"English"
+],
+"strengths": [
+"Machine learning and AI",
+"Neuroscience",
+"Theology and philosophy",
+"Medicine",
+"Archaeology"
+]
+},
+{
+"id": "university-of-lausanne",
+"name": "University of Lausanne",
+"iso": "CH",
+"website": "https://www.unil.ch",
+"application_url": "https://www.unil.ch/unil/fr/home/menuinst/etudier/immatriculations-et-inscriptions.html",
+"tests": "No SAT/ACT. Bachelor's programmes are taught in French; non-francophone applicants must prove French proficiency or pass UNIL's French exam. Foreign diplomas must meet Swiss recognition criteria. Medicine requires the Swiss aptitude test.",
+"gpa_note": "Strong secondary or pre-university results are expected; competitive programmes require top grades.",
+"languages": [
+"French",
+"English"
+],
+"strengths": [
+"Business (HEC Lausanne)",
+"Medicine and biology",
+"Geosciences and environment",
+"Forensic science",
+"Social and political sciences"
+]
+},
+{
+"id": "tianjin-university",
+"name": "Tianjin University",
+"iso": "CN",
+"website": "https://www.tju.edu.cn",
+"application_url": "https://www.tju.edu.cn",
+"tests": "From the 2026/27 intake every international undergraduate applicant to Chinese universities must submit a CSCA (China Scholastic Competency Assessment) report (national requirement run by the China Scholarship Council; tests held several times a year). Chinese-taught programmes require an HSK certificate (typically HSK 4–5 with 180+ depending on the major); English-taught programmes require TOEFL/",
+"gpa_note": "Selection on senior-high record, language level, CSCA results and (where used) interview or written test.",
+"languages": [
+"Chinese",
+"English"
+],
+"strengths": [
+"Chemical engineering",
+"Architecture",
+"Precision instruments",
+"Civil and hydraulic engineering",
+"Materials"
+]
+},
+{
+"id": "beijing-normal-university",
+"name": "Beijing Normal University",
+"iso": "CN",
+"website": "https://www.bnu.edu.cn",
+"application_url": "https://www.bnu.edu.cn",
+"tests": "From the 2026/27 intake every international undergraduate applicant to Chinese universities must submit a CSCA (China Scholastic Competency Assessment) report (national requirement run by the China Scholarship Council; tests held several times a year). Chinese-taught programmes require an HSK certificate (typically HSK 4–5 with 180+ depending on the major); English-taught programmes require TOEFL/",
+"gpa_note": "Selection on senior-high record, language level, CSCA results and (where used) interview or written test.",
+"languages": [
+"Chinese",
+"English"
+],
+"strengths": [
+"Education",
+"Psychology",
+"Chinese language and literature",
+"Geography and environment",
+"History"
+]
+},
+{
+"id": "victoria-university-of-wellington",
+"name": "Victoria University of Wellington",
+"iso": "NZ",
+"website": "https://www.wgtn.ac.nz",
+"application_url": "https://www.wgtn.ac.nz/study/apply-enrol",
+"tests": "No SAT/ACT requirement in general. English: IELTS Academic 6.0 with no band below 5.5 (IELTS Online and One Skill Retake accepted); TOEFL iBT 80 (Home Edition accepted); Duolingo 105 with no band below 95; PTE also accepted.",
+"gpa_note": "Entry by secondary qualification equivalent to NZ University Entrance; limited-entry programmes (e.g. architecture) are selective.",
+"languages": [
+"English"
+],
+"strengths": [
+"Law",
+"Public policy and politics",
+"Creative arts and design",
+"Earth sciences",
+"Computer science"
+]
+},
+{
+"id": "beijing-institute-of-technology",
+"name": "Beijing Institute of Technology",
+"iso": "CN",
+"website": "https://www.bit.edu.cn",
+"application_url": "https://www.bit.edu.cn",
+"tests": "From the 2026/27 intake every international undergraduate applicant to Chinese universities must submit a CSCA (China Scholastic Competency Assessment) report (national requirement run by the China Scholarship Council; tests held several times a year). Chinese-taught programmes require an HSK certificate (typically HSK 4–5 with 180+ depending on the major); English-taught programmes require TOEFL/",
+"gpa_note": "Selection on senior-high record, language level, CSCA results and (where used) interview or written test.",
+"languages": [
+"Chinese",
+"English"
+],
+"strengths": [
+"Mechanical and vehicle engineering",
+"Aerospace",
+"Optics and photonics",
+"Information science",
+"Materials"
+]
+},
+{
+"id": "albert-ludwigs-universitaet-freiburg",
+"name": "University of Freiburg",
+"iso": "DE",
+"website": "https://uni-freiburg.de",
+"application_url": "https://uni-freiburg.de/en/studies/applying/international-applicants/",
+"tests": "No SAT/ACT. A high level of German is required for most undergraduate programmes (accepted certificates listed by the university). Applicants without direct university access attend a Studienkolleg. Medicine/dentistry/pharmacy are highly competitive.",
+"gpa_note": "Restricted programmes select by converted school grade; medicine requires near-top grades.",
+"languages": [
+"German",
+"English"
+],
+"strengths": [
+"Medicine",
+"Philosophy and humanities",
+"Environmental sciences and forestry",
+"Microsystems engineering",
+"Biology"
+]
+},
+{
+"id": "university-of-surrey",
+"name": "University of Surrey",
+"iso": "GB",
+"website": "https://www.surrey.ac.uk",
+"application_url": "https://www.surrey.ac.uk/undergraduate/economics",
+"tests": "No SAT/ACT for A-level/IB applicants. English: e.g. Economics IELTS Academic 6.5 with 6.0 in writing and 5.5 in other elements.",
+"gpa_note": "Course-specific; e.g. Economics: AAB (ABB with A-level Maths/Economics), or IB 34 (33 with HL Maths/Economics).",
+"languages": [
+"English"
+],
+"strengths": [
+"Hospitality & Tourism Management",
+"Engineering",
+"Economics",
+"Veterinary Medicine",
+"Nursing & Health",
+"Music & Media"
+]
+},
+{
+"id": "university-of-calgary",
+"name": "University of Calgary",
+"iso": "CA",
+"website": "https://www.ucalgary.ca/future-students/undergraduate",
+"application_url": "https://www.ucalgary.ca/future-students/undergraduate/information/international-students",
+"tests": "SAT/ACT not required. English proficiency required for applicants whose first language is not English (see UCalgary admission requirements).",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering (Schulich)",
+"Business (Haskayne)",
+"Energy & geoscience",
+"Medicine-related health sciences",
+"Computer science",
+"Kinesiology"
+]
+},
+{
+"id": "technical-university-of-darmstadt",
+"name": "Technical University of Darmstadt",
+"iso": "DE",
+"website": "https://www.tu-darmstadt.de",
+"application_url": "https://www.tu-darmstadt.de",
+"tests": "No SAT/ACT. Bachelor's programmes are taught mostly in German and require proof of German at C1 level (e.g. DSH-2, TestDaF 4x4, Goethe C2/telc C1 Hochschule). Applicants whose school certificate does not give direct university access in Germany must attend a Studienkolleg and pass the Feststellungsprüfung. Restricted programmes (e.g. medicine) select by grade and tests.",
+"gpa_note": "Open-admission programmes accept all qualified applicants; restricted (NC) programmes rank by converted school grade.",
+"languages": [
+"German",
+"English"
+],
+"strengths": [
+"Electrical engineering",
+"Computer science and cybersecurity",
+"Mechanical engineering",
+"Architecture",
+"Materials science"
+]
+},
+{
+"id": "university-of-rochester",
+"name": "University of Rochester",
+"iso": "US",
+"website": "https://admissions.rochester.edu",
+"application_url": "https://admissions.rochester.edu/applying/international-students/",
+"tests": "Test-optional (no disadvantage for not submitting, also for scholarships). Admitted fall 2026: SAT EBRW 700-760, SAT Math 730-790, ACT 31-35; 34% admitted without tests. English exam results (or a waiver request) required for non-native speakers.",
+"gpa_note": "Admitted students fall 2026: SAT EBRW 700-760, Math 730-790, ACT 31-35; enrolled average recalculated GPA 3.77.",
+"languages": [
+"English"
+],
+"strengths": [
+"Optics & photonics",
+"Music (Eastman School)",
+"Biomedical engineering",
+"Economics",
+"Brain & cognitive sciences",
+"Nursing"
+]
+},
+{
+"id": "uc-irvine",
+"name": "University of California, Irvine (UC Irvine)",
+"iso": "US",
+"website": "https://admissions.uci.edu",
+"application_url": "https://admissions.uci.edu/apply/international-students.php",
+"tests": "Test-blind: SAT/ACT scores are not considered for admission. English (if required): IELTS 6.5, Duolingo 115, or TOEFL iBT 80 (tests before Jan 2026) / 4.5 on the new 1-6 scale (from Jan 2026). Some majors or campuses may expect more.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Computer science & informatics",
+"Biological sciences",
+"Business",
+"Nursing & public health",
+"Criminology",
+"Engineering"
+]
+},
+{
+"id": "university-of-maryland-college-park",
+"name": "University of Maryland, College Park",
+"iso": "US",
+"website": "https://admissions.umd.edu",
+"application_url": "https://admissions.umd.edu/apply/international-applicants",
+"tests": "Test-optional through the fall 2027 cycle. English: TOEFL iBT 95 (0-120 scale) or 5 (new 1-6 scale), IELTS 7, Duolingo 120; lower scores may be referred to the Maryland English Institute.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Computer science",
+"Engineering (Clark School)",
+"Business (Smith)",
+"Criminology & criminal justice",
+"Public policy & government",
+"Journalism"
+]
+},
+{
+"id": "maastricht-university",
+"name": "Maastricht University",
+"iso": "NL",
+"website": "https://www.maastrichtuniversity.nl",
+"application_url": "https://www.maastrichtuniversity.nl/study/admission-enrolment/applying-maastricht-university",
+"tests": "No SAT/ACT. English-taught programmes require English proficiency (IELTS/TOEFL/Cambridge as specified per programme); some programmes need maths at a set level. Selective and fixus programmes add a selection procedure.",
+"gpa_note": "Diploma equivalent to Dutch VWO with required subjects; selective programmes assess grades and motivation.",
+"languages": [
+"English",
+"Dutch"
+],
+"strengths": [
+"Problem-Based Learning",
+"Business and economics",
+"European law and studies",
+"Health and life sciences",
+"Psychology"
+]
+},
+{
+"id": "university-of-minnesota-system",
+"name": "University of Minnesota Twin Cities",
+"iso": "US",
+"website": "https://www.umn.edu",
+"application_url": "https://admissions.tc.umn.edu/admissions/welcome-international-students",
+"tests": "Test optional: freshman applicants through fall 2027 are not required to submit ACT or SAT scores. Non-native English speakers must provide English proficiency evidence (TOEFL/IELTS/Duolingo or equivalent).",
+"gpa_note": "Strong secondary or pre-university results are expected; competitive programmes require top grades.",
+"languages": [
+"English"
+],
+"strengths": [
+"Chemical engineering",
+"Psychology",
+"Business (Carlson)",
+"Public health",
+"Agriculture and applied economics"
+]
+},
+{
+"id": "university-of-canterbury-te-whare-wananga-o-waitaha",
+"name": "University of Canterbury | Te Whare Wānanga o Waitaha",
+"iso": "NZ",
+"website": "https://www.canterbury.ac.nz",
+"application_url": "https://www.canterbury.ac.nz/study",
+"tests": "No SAT/ACT requirement in general; entry by secondary qualification. English proficiency (IELTS/TOEFL/other) required for non-native speakers at the level set for each degree.",
+"gpa_note": "Entry equivalent to NZ University Entrance; engineering requires strong maths and physics.",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering",
+"Geology and natural hazards",
+"Forestry",
+"Antarctic studies",
+"Computer science"
+]
+},
+{
+"id": "american-university-of-sharjah",
+"name": "American University of Sharjah (AUS)",
+"iso": "AE",
+"website": "https://www.aus.edu/",
+"application_url": null,
+"tests": "Maths placement via EmSAT, SAT/ACT or AUS placement for some programmes. English: IELTS / TOEFL / EmSAT English (programme minimums apply).",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering",
+"Architecture",
+"Business",
+"Design",
+"Communication & media",
+"Computer science"
+]
+},
+{
+"id": "sun-yat-sen-university",
+"name": "Sun Yat-sen University",
+"iso": "CN",
+"website": "https://www.sysu.edu.cn",
+"application_url": "https://www.sysu.edu.cn",
+"tests": "From the 2026/27 intake every international undergraduate applicant to Chinese universities must submit a CSCA (China Scholastic Competency Assessment) report (national requirement run by the China Scholarship Council; tests held several times a year). Chinese-taught programmes require an HSK certificate (typically HSK 4–5 with 180+ depending on the major); English-taught programmes require TOEFL/",
+"gpa_note": "Selection on senior-high record, language level, CSCA results and (where used) interview or written test.",
+"languages": [
+"Chinese",
+"English"
+],
+"strengths": [
+"Medicine",
+"Business",
+"Marine sciences",
+"Chemistry",
+"Anthropology and sociology"
+]
+}
+]

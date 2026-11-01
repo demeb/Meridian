@@ -1,0 +1,1822 @@
+[
+ {
+  "id": "oregon-state-university",
+  "name": {
+   "en": "Oregon State University",
+   "ka": "ორეგონის სახელმწიფო უნივერსიტეტი",
+   "ar": "جامعة ولاية أوريغون"
+  },
+  "iso": "US",
+  "city": "Corvallis",
+  "lat": 44.564,
+  "lon": -123.279,
+  "type": "public",
+  "website": "https://oregonstate.edu",
+  "platform": "Direct (OSU Office of International Admissions application)",
+  "application_url": "https://admissions.oregonstate.edu/international/apply",
+  "intakes": [
+   "September",
+   "January",
+   "March",
+   "June"
+  ],
+  "deadline": "2027-02-01",
+  "deadline_note": "Fall first-year Priority deadline is 1 February (Early Action 2 November); the page does not give separate international dates or the year, so the 2027 date follows the same calendar.",
+  "tuition_intl": {
+   "amount": 41110,
+   "currency": "USD",
+   "per": "year",
+   "note": "Tuition and fees for first-year international students, 3 terms, 2025-26. Housing and meals about 15,840 USD and insurance 2,880 USD extra."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "A high school diploma, IB Diploma (26+) or IGCSE (5 subjects, 3.0 average) is accepted; the minimum GPA is 3.0. OSU does not accept WES or other external credential evaluations.",
+   "ka": "მისაღებია საშუალო სკოლის დიპლომი, IB დიპლომი (26+) ან IGCSE (5 საგანი, საშუალო 3.0); მინიმალური GPA 3.0-ია. OSU არ ღებულობს WES-ის ან სხვა გარე შეფასებებს.",
+   "ar": "تُقبل شهادة الثانوية أو دبلوم IB (26 فأكثر) أو IGCSE (5 مواد بمتوسط 3.0)؛ الحد الأدنى للمعدل 3.0. لا تقبل OSU تقييمات WES أو أي تقييم خارجي آخر."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 70,
+  "duolingo_min": 100,
+  "other_tests": [
+   "PTE Academic 48"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "business",
+   "environment",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Natural sciences",
+    "Business",
+    "Environmental sciences",
+    "Computer science"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ბიზნესი",
+    "გარემოს მეცნიერებები",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم الطبيعية",
+    "الأعمال",
+    "علوم البيئة",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "Oregon State University is a public research university in Corvallis, USA. International first-year students pay about 41,110 USD per year in tuition and fees, and regional scholarships of 2,000 to 16,000 USD a year are awarded automatically.",
+   "ka": "ორეგონის სახელმწიფო უნივერსიტეტი აშშ-ში, კორვალისში მდებარე სახელმწიფო კვლევითი უნივერსიტეტია. საერთაშორისო პირველკურსელები წელიწადში დაახლოებით 41 110 USD იხდიან სწავლის საფასურსა და გადასახადებში, რეგიონული სტიპენდიები კი წელიწადში 2 000-დან 16 000 USD-მდე ავტომატურად გაიცემა.",
+   "ar": "جامعة ولاية أوريغون جامعة بحثية حكومية في كورفاليس بالولايات المتحدة. يدفع الطلاب الدوليون الجدد نحو 41,110 دولارًا سنويًا رسومًا دراسية، وتُمنح منح إقليمية من 2,000 إلى 16,000 دولار سنويًا تلقائيًا."
+  },
+  "about": {
+   "en": "Oregon State University is a public research university in Corvallis, Oregon. It is test-optional; international first-year applicants need a 3.0 GPA and an English score unless they are exempt. Deadlines are Early Action on 2 November and Priority on 1 February. Tuition and fees are about 41,110 USD for the 2025-26 academic year, plus housing, meals and insurance. Documents in other languages need a certified English translation.",
+   "ka": "ორეგონის სახელმწიფო უნივერსიტეტი ორეგონის შტატის ქალაქ კორვალისში მდებარე სახელმწიფო კვლევითი უნივერსიტეტია. ის ტესტ-ოფშენალია; საერთაშორისო პირველკურსელებს სჭირდებათ 3.0 GPA და ინგლისურის ქულა, თუ გათავისუფლებული არ არიან. ვადებია Early Action 2 ნოემბერს და Priority 1 თებერვალს. სწავლის საფასური და გადასახადები 2025-26 სასწავლო წელს დაახლოებით 41 110 USD-ია, საცხოვრებლის, კვებისა და დაზღვევის გარდა. სხვა ენაზე დოკუმენტებს ესაჭიროება დამოწმებული ინგლისური თარგმანი.",
+   "ar": "جامعة ولاية أوريغون جامعة بحثية حكومية في كورفاليس بولاية أوريغون. القبول فيها اختياري الاختبارات؛ يحتاج المتقدمون الدوليون للسنة الأولى إلى معدل 3.0 ودرجة إنجليزية ما لم يُعفوا. المواعيد: Early Action في 2 نوفمبر وPriority في 1 فبراير. الرسوم الدراسية نحو 41,110 دولارًا للعام 2025-26 إضافة إلى السكن والطعام والتأمين. تحتاج المستندات بلغات أخرى إلى ترجمة إنجليزية معتمدة."
+  },
+  "aid_intl": {
+   "en": "Regional awards of 2,000 to 16,000 USD per year are given automatically by country of residence; a Provost's Scholarship gives 6,000 USD per year for a 3.5+ GPA.",
+   "ka": "რეგიონული სტიპენდიები წელიწადში 2 000-დან 16 000 USD-მდე ავტომატურად გაიცემა საცხოვრებელი ქვეყნის მიხედვით; Provost's Scholarship 3.5+ GPA-ზე წელიწადში 6 000 USD-ს იძლევა.",
+   "ar": "تُمنح تلقائيًا جوائز إقليمية من 2,000 إلى 16,000 دولار سنويًا بحسب بلد الإقامة؛ وتعطي منحة Provost 6,000 دولار سنويًا لمعدل 3.5 فأكثر."
+  },
+  "tests": {
+   "en": "SAT and ACT are optional. English: TOEFL iBT 70, IELTS 6.0, Duolingo 100 or PTE 48, with scores under two years old; exemptions apply for some English-medium schooling.",
+   "ka": "SAT და ACT არასავალდებულოა. ინგლისური: TOEFL iBT 70, IELTS 6.0, Duolingo 100 ან PTE 48, ორ წელზე ახალი ქულებით; ინგლისურენოვანი განათლების ზოგიერთ შემთხვევაში გათავისუფლება შესაძლებელია.",
+   "ar": "SAT وACT اختياريان. الإنجليزية: TOEFL iBT 70 أو IELTS 6.0 أو Duolingo 100 أو PTE 48 بدرجات أحدث من سنتين؛ وتوجد إعفاءات لبعض حالات التعليم بالإنجليزية."
+  },
+  "gpa_note": {
+   "en": "Minimum GPA 3.0, or IB 26; 3 years of math (pre-calculus for engineering), 4 of language arts, 3 of science and 3 of social studies, with C- or better.",
+   "ka": "მინიმალური GPA 3.0 ან IB 26; 3 წელი მათემატიკა (ინჟინერიისთვის წინა-კალკულუსი), 4 წელი ენა და ლიტერატურა, 3 მეცნიერება და 3 სოციალური მეცნიერებები, C- ან უკეთესი ნიშნით.",
+   "ar": "الحد الأدنى للمعدل 3.0 أو IB 26؛ 3 سنوات رياضيات (ما قبل التفاضل للهندسة) و4 لغة و3 علوم و3 دراسات اجتماعية بتقدير C- أو أفضل."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية العامة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Supplementary documents",
+     "ka": "დამატებითი დოკუმენტები",
+     "ar": "مستندات إضافية"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "OSU undergraduate scholarships for international students (Regional Awards, Provost's Scholarship)",
+    "url": "https://admissions.oregonstate.edu/international/prices-scholarships/scholarships-international-students/undergraduate-scholarships",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "usa",
+   "oregon",
+   "corvallis",
+   "public",
+   "test optional",
+   "scholarships"
+  ],
+  "sources": [
+   "https://admissions.oregonstate.edu/international",
+   "https://admissions.oregonstate.edu/international/programs/undergraduate-degree-programs/first-year-freshman",
+   "https://admissions.oregonstate.edu/international/prices-scholarships/program-prices",
+   "https://admissions.oregonstate.edu/international/prices-scholarships/scholarships-international-students/undergraduate-scholarships",
+   "https://admissions.oregonstate.edu/admission-requirements-1"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "soochow-university",
+  "name": {
+   "en": "Soochow University",
+   "ka": "სუჩოუს უნივერსიტეტი",
+   "ar": "جامعة سوتشو"
+  },
+  "iso": "CN",
+  "city": "Suzhou",
+  "lat": 31.307,
+  "lon": 120.637,
+  "type": "public",
+  "website": "https://www.suda.edu.cn",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The international admissions pages did not load, so no data could be read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": "year",
+   "note": "Not read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school-leaving certificates are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ განიხილება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "Soochow University is a public university in Suzhou, China. The international admissions pages did not load, so no data could be read. No admission data for international bachelor students is listed here.",
+   "ka": "სუჩოუს უნივერსიტეტი — უნივერსიტეტი (ჩინეთი, Suzhou). საერთაშორისო მისაღები გვერდები არ გაიხსნა, ამიტომ მონაცემები ვერ წაიკითხა. საერთაშორისო ბაკალავრებისთვის მიღების მონაცემები აქ არ არის მითითებული.",
+   "ar": "جامعة سوتشو — جامعة في Suzhou، الصين. لم تُفتح صفحات القبول الدولي، لذا تعذرت قراءة البيانات. لا تُذكر هنا بيانات القبول لطلاب البكالوريوس الدوليين."
+  },
+  "about": {
+   "en": "Soochow University is a public university in Suzhou, China. The international admissions pages did not load, so no data could be read. Its international bachelor admission rules, fees and deadlines are therefore not listed on this page. Check www.suda.edu.cn or contact the university.",
+   "ka": "სუჩოუს უნივერსიტეტი — უნივერსიტეტი (ჩინეთი, Suzhou). საერთაშორისო მისაღები გვერდები არ გაიხსნა, ამიტომ მონაცემები ვერ წაიკითხა. ამიტომ საერთაშორისო ბაკალავრიატის მიღების წესები, საფასური და ვადები აქ არ არის მითითებული. გადაამოწმეთ www.suda.edu.cn ან დაუკავშირდით უნივერსიტეტს.",
+   "ar": "جامعة سوتشو — جامعة في Suzhou، الصين. لم تُفتح صفحات القبول الدولي، لذا تعذرت قراءة البيانات. لذلك لا تُذكر هنا قواعد القبول الدولي للبكالوريوس والرسوم والمواعيد. راجع www.suda.edu.cn أو تواصل مع الجامعة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Not available: the official site could not be read.",
+   "ka": "მიუწვდომელია: ოფიციალური საიტი ვერ წაიკითხა.",
+   "ar": "غير متاح: تعذرت قراءة الموقع الرسمي."
+  },
+  "gpa_note": {
+   "en": "No grade or subject prerequisites for international bachelor applicants are published on the pages read.",
+   "ka": "წაკითხულ გვერდებზე საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის ნიშნების ან საგნობრივი წინაპირობები მითითებული არ არის.",
+   "ar": "لا تُنشر في الصفحات التي قُرئت شروط درجات أو مواد للمتقدمين الدوليين للبكالوريوس."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية العامة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "china",
+   "suzhou",
+   "public"
+  ],
+  "sources": [
+   "https://www.suda.edu.cn"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universidad-panamericana-up",
+  "name": {
+   "en": "Universidad Panamericana (UP)",
+   "ka": "პანამერიკის უნივერსიტეტი (UP)",
+   "ar": "جامعة بان أمريكانا (UP)"
+  },
+  "iso": "MX",
+  "city": "Mexico City",
+  "lat": 19.376,
+  "lon": -99.186,
+  "type": "private",
+  "website": "https://www.up.edu.mx",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The website refused the connection, so no data could be read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": "year",
+   "note": "Not read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school-leaving certificates are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ განიხილება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "Universidad Panamericana (UP) is a private university in Mexico City, Mexico. The website refused the connection, so no data could be read. No admission data for international bachelor students is listed here.",
+   "ka": "პანამერიკის უნივერსიტეტი (UP) — უნივერსიტეტი (მექსიკა, Mexico City). საიტმა კავშირი უარყო, ამიტომ მონაცემები ვერ წაიკითხა. საერთაშორისო ბაკალავრებისთვის მიღების მონაცემები აქ არ არის მითითებული.",
+   "ar": "جامعة بان أمريكانا (UP) — جامعة في Mexico City، المكسيك. رفض الموقع الاتصال، لذا تعذرت قراءة البيانات. لا تُذكر هنا بيانات القبول لطلاب البكالوريوس الدوليين."
+  },
+  "about": {
+   "en": "Universidad Panamericana (UP) is a private university in Mexico City, Mexico. The website refused the connection, so no data could be read. Its international bachelor admission rules, fees and deadlines are therefore not listed on this page. Check www.up.edu.mx or contact the university.",
+   "ka": "პანამერიკის უნივერსიტეტი (UP) — უნივერსიტეტი (მექსიკა, Mexico City). საიტმა კავშირი უარყო, ამიტომ მონაცემები ვერ წაიკითხა. ამიტომ საერთაშორისო ბაკალავრიატის მიღების წესები, საფასური და ვადები აქ არ არის მითითებული. გადაამოწმეთ www.up.edu.mx ან დაუკავშირდით უნივერსიტეტს.",
+   "ar": "جامعة بان أمريكانا (UP) — جامعة في Mexico City، المكسيك. رفض الموقع الاتصال، لذا تعذرت قراءة البيانات. لذلك لا تُذكر هنا قواعد القبول الدولي للبكالوريوس والرسوم والمواعيد. راجع www.up.edu.mx أو تواصل مع الجامعة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Not available: the official site could not be read.",
+   "ka": "მიუწვდომელია: ოფიციალური საიტი ვერ წაიკითხა.",
+   "ar": "غير متاح: تعذرت قراءة الموقع الرسمي."
+  },
+  "gpa_note": {
+   "en": "No grade or subject prerequisites for international bachelor applicants are published on the pages read.",
+   "ka": "წაკითხულ გვერდებზე საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის ნიშნების ან საგნობრივი წინაპირობები მითითებული არ არის.",
+   "ar": "لا تُنشر في الصفحات التي قُرئت شروط درجات أو مواد للمتقدمين الدوليين للبكالوريوس."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية العامة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "mexico",
+   "mexico city",
+   "private"
+  ],
+  "sources": [
+   "https://www.up.edu.mx"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-nicosia",
+  "name": {
+   "en": "University of Nicosia",
+   "ka": "ნიკოსიის უნივერსიტეტი",
+   "ar": "جامعة نيقوسيا"
+  },
+  "iso": "CY",
+  "city": "Nicosia",
+  "lat": 35.142,
+  "lon": 33.312,
+  "type": "private",
+  "website": "https://www.unic.ac.cy",
+  "platform": "Direct (UNIC application form)",
+  "application_url": "https://www.unic.ac.cy/nicosia/study-at-unic/application-procedure/",
+  "intakes": [
+   "September",
+   "February",
+   "June"
+  ],
+  "deadline": null,
+  "deadline_note": "Indicative deadlines: late June for the fall session, late October for spring and late February for summer; exact dates are not published.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Fees by programme are in a 2026-27 International/Non-EU PDF linked from the tuition page, which could not be read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Greek"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "A recognised high school leaving certificate is the minimum; below 7.5/10 or 15/20 means extra support. A-levels CCD, IB 30 and a US diploma at 3.0 GPA meet standard entry. A Georgian or Gulf certificate is not listed.",
+   "ka": "მინიმუმია აღიარებული საშუალო განათლების ატესტატი; 7.5/10-ზე ან 15/20-ზე დაბალი ნიშნის შემთხვევაში დამატებითი მხარდაჭერა მოქმედებს. სტანდარტულ მიღებას აკმაყოფილებს A-level CCD, IB 30 და აშშ-ის დიპლომი 3.0 GPA-ით. ქართული ან ყურის ქვეყნების ატესტატი სიაში არ არის.",
+   "ar": "الحد الأدنى شهادة ثانوية معترف بها؛ ومن هم دون 7.5/10 أو 15/20 يحصلون على دعم إضافي. يحقق A-level بتقدير CCD وIB 30 والدبلوم الأمريكي بمعدل 3.0 القبول القياسي. الشهادة الجورجية أو الخليجية غير مدرجة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 72,
+  "duolingo_min": null,
+  "other_tests": [
+   "English Placement Test (IELTS 4.5+)",
+   "ARISTON psychometric tests"
+  ],
+  "fields": [
+   "medicine-health",
+   "business",
+   "law",
+   "computer-science",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Pharmacy",
+    "Law",
+    "Business administration",
+    "Computer science",
+    "Psychology"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ფარმაცია",
+    "სამართალი",
+    "ბიზნესის ადმინისტრირება",
+    "კომპიუტერული მეცნიერება",
+    "ფსიქოლოგია"
+   ],
+   "ar": [
+    "الطب",
+    "الصيدلة",
+    "القانون",
+    "إدارة الأعمال",
+    "علوم الحاسوب",
+    "علم النفس"
+   ]
+  },
+  "summary": {
+   "en": "The University of Nicosia is a private university in Cyprus with over 100 on-campus and online programmes in 8 schools. English-taught programmes need IELTS 6.0 or TOEFL 72; merit scholarships are open to all nationalities.",
+   "ka": "ნიკოსიის უნივერსიტეტი კვიპროსის კერძო უნივერსიტეტია, რომელსაც 8 სკოლაში 100-ზე მეტი კამპუსური და ონლაინ პროგრამა აქვს. ინგლისურენოვან პროგრამებზე საჭიროა IELTS 6.0 ან TOEFL 72; დამსახურების სტიპენდიები ყველა ეროვნებისთვისაა ღია.",
+   "ar": "جامعة نيقوسيا جامعة خاصة في قبرص تضم أكثر من 100 برنامج حضوري وإلكتروني في 8 كليات. تتطلب البرامج بالإنجليزية IELTS 6.0 أو TOEFL 72؛ والمنح القائمة على التفوق مفتوحة لجميع الجنسيات."
+  },
+  "about": {
+   "en": "The University of Nicosia (UNIC) is a private university in Nicosia, Cyprus, with campuses in Nicosia and Athens and over 100 programmes in 8 schools. Entry needs a recognised high school leaving certificate, with the grade tables published for many national systems. English-taught programmes need IELTS 6.0 or TOEFL 72. Applicants send a form, passport copy and school certificate; sessions start in September, February and June.",
+   "ka": "ნიკოსიის უნივერსიტეტი (UNIC) კვიპროსის ქალაქ ნიკოსიაში მდებარე კერძო უნივერსიტეტია, რომელსაც კამპუსები ნიკოსიასა და ათენში აქვს და 8 სკოლაში 100-ზე მეტ პროგრამას სთავაზობს. მისაღებად საჭიროა აღიარებული საშუალო განათლების ატესტატი, ხოლო ნიშნების ცხრილები გამოქვეყნებულია ბევრი ეროვნული სისტემისთვის. ინგლისურენოვან პროგრამებზე საჭიროა IELTS 6.0 ან TOEFL 72. აპლიკანტები აგზავნიან ფორმას, პასპორტის ასლსა და სკოლის ატესტატს; სესიები იწყება სექტემბერში, თებერვალსა და ივნისში.",
+   "ar": "جامعة نيقوسيا (UNIC) جامعة خاصة في نيقوسيا بقبرص ولها حرمان في نيقوسيا وأثينا وأكثر من 100 برنامج في 8 كليات. يشترط القبول شهادة ثانوية معترفًا بها، وتنشر الجامعة جداول الدرجات لكثير من الأنظمة الوطنية. تتطلب البرامج بالإنجليزية IELTS 6.0 أو TOEFL 72. يرسل المتقدمون الاستمارة ونسخة الجواز وشهادة الثانوية؛ وتبدأ الفصول في سبتمبر وفبراير ويونيو."
+  },
+  "aid_intl": {
+   "en": "First-year merit awards are based on high school grades, athletic awards reach 40% of tuition and financial-aid reductions exist; these are not restricted by nationality, but medical school and distance programmes are excluded.",
+   "ka": "პირველი წლის დამსახურების სტიპენდიები საშუალო სკოლის ნიშნებზეა დამოკიდებული, სპორტული სტიპენდია სწავლის საფასურის 40%-მდეა და არსებობს ფინანსური დახმარების შეღავათები; ისინი ეროვნებით შეზღუდული არ არის, თუმცა სამედიცინო სკოლა და დისტანციური პროგრამები გამორიცხულია.",
+   "ar": "تستند منح التفوق للسنة الأولى إلى درجات الثانوية، وتصل المنح الرياضية إلى 40% من الرسوم وتوجد تخفيضات مالية؛ وهي غير مقيدة بالجنسية، لكن كلية الطب وبرامج التعليم عن بعد مستثناة."
+  },
+  "tests": {
+   "en": "English-taught programmes need IELTS 6.0 or TOEFL iBT 72; applicants with IELTS 4.5+ can take an English Placement Test. UNIC also uses ARISTON psychometric tests.",
+   "ka": "ინგლისურენოვან პროგრამებზე საჭიროა IELTS 6.0 ან TOEFL iBT 72; IELTS 4.5+ მქონეებს შეუძლიათ ინგლისურის განმსაზღვრელი ტესტის ჩაბარება. UNIC იყენებს ასევე ARISTON ფსიქომეტრულ ტესტებს.",
+   "ar": "تتطلب البرامج بالإنجليزية IELTS 6.0 أو TOEFL iBT 72؛ ويمكن لمن لديه IELTS 4.5 فأكثر اجتياز اختبار تحديد مستوى الإنجليزية. تستخدم UNIC أيضًا اختبارات ARISTON النفسية."
+  },
+  "gpa_note": {
+   "en": "Standard entry is 15/20 or 7.5/10 (about 3.0 GPA in the US system); lower grades are admitted with extra guidance, and some programmes set higher requirements.",
+   "ka": "სტანდარტული მიღება 15/20 ან 7.5/10-ია (აშშ-ის სისტემაში დაახლოებით 3.0 GPA); დაბალი ნიშნებით მიღება დამატებითი მხარდაჭერით ხდება, ზოგ პროგრამას უფრო მაღალი მოთხოვნები აქვს.",
+   "ar": "القبول القياسي 15/20 أو 7.5/10 (نحو 3.0 في النظام الأمريكي)؛ وتُقبل الدرجات الأدنى مع إرشاد إضافي، وتضع بعض البرامج شروطًا أعلى."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "portfolio",
+    "label": {
+     "en": "Portfolio (selected programmes)",
+     "ka": "პორტფოლიო (ზოგიერთ პროგრამაზე)",
+     "ar": "ملف الأعمال (لبعض البرامج)"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "UNIC institutional scholarships (merit, athletic, financial aid)",
+    "url": "https://www.unic.ac.cy/nicosia/scholarships-financial-aid/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "cyprus",
+   "nicosia",
+   "private",
+   "medicine",
+   "english taught"
+  ],
+  "sources": [
+   "https://www.unic.ac.cy",
+   "https://www.unic.ac.cy/nicosia/study-at-unic/admission-requirements/",
+   "https://www.unic.ac.cy/nicosia/study-at-unic/application-procedure/",
+   "https://www.unic.ac.cy/nicosia/scholarships-financial-aid/",
+   "https://www.unic.ac.cy/nicosia/tuition-and-fees/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-oregon",
+  "name": {
+   "en": "University of Oregon",
+   "ka": "ორეგონის უნივერსიტეტი",
+   "ar": "جامعة أوريغون"
+  },
+  "iso": "US",
+  "city": "Eugene",
+  "lat": 44.045,
+  "lon": -123.072,
+  "type": "public",
+  "website": "https://www.uoregon.edu",
+  "platform": "Common App or UO application (direct)",
+  "application_url": "https://www.uoregon.edu/admissions/undergraduate/find-your-path/international-students",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-01-15",
+  "deadline_note": "Fall entry: Early Action 1 November (documents 15 November), Regular 15 January (documents 15 February); applications are accepted until 15 July but scholarship deadlines may pass. The page does not name the year.",
+  "tuition_intl": {
+   "amount": 47466,
+   "currency": "USD",
+   "per": "year",
+   "note": "Estimated nonresident tuition and fees for 2026-27; estimated total cost of attendance 71,256 USD, plus a one-time 570 USD matriculation fee."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Applicants need a B (3.00) average. The page describes IB, A-level and IGCSE routes; transcripts from schools outside the US are accepted, with literal English translations that do not convert grades.",
+   "ka": "აპლიკანტებს სჭირდებათ საშუალო ნიშანი B (3.00). გვერდი აღწერს IB, A-level და IGCSE გზებს; აშშ-ს გარეთ სკოლების ტრანსკრიპტები მისაღებია, ნიშნების გადაუყვანელი ზუსტი ინგლისური თარგმანით.",
+   "ar": "يحتاج المتقدمون إلى معدل B (3.00). تصف الصفحة مسارات IB وA-level وIGCSE؛ وتُقبل كشوف المدارس خارج الولايات المتحدة مع ترجمة إنجليزية حرفية لا تحوّل الدرجات."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "arts-design",
+   "humanities",
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Journalism and communication",
+    "Environmental studies",
+    "Arts and design",
+    "Natural sciences"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ჟურნალისტიკა და კომუნიკაცია",
+    "გარემოს კვლევები",
+    "ხელოვნება და დიზაინი",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "الأعمال",
+    "الصحافة والاتصال",
+    "الدراسات البيئية",
+    "الفنون والتصميم",
+    "العلوم الطبيعية"
+   ]
+  },
+  "summary": {
+   "en": "The University of Oregon is a public research university in Eugene, USA, with students from over 90 countries. SAT and ACT are optional; nonresident tuition and fees are about 47,466 USD for 2026-27.",
+   "ka": "ორეგონის უნივერსიტეტი აშშ-ში, იუჯინში მდებარე სახელმწიფო კვლევითი უნივერსიტეტია 90-ზე მეტი ქვეყნის სტუდენტებით. SAT და ACT არასავალდებულოა; შტატგარეშე სწავლის საფასური და გადასახადები 2026-27-ში დაახლოებით 47 466 USD-ია.",
+   "ar": "جامعة أوريغون جامعة بحثية حكومية في يوجين بالولايات المتحدة، ويدرس فيها طلاب من أكثر من 90 دولة. SAT وACT اختياريان؛ والرسوم الدراسية لغير سكان الولاية نحو 47,466 دولارًا لعام 2026-27."
+  },
+  "about": {
+   "en": "The University of Oregon is a public research university in Eugene. International first-year applicants apply by 1 November (Early Action) or 15 January (Regular), with a 75 USD fee that is not waived. SAT and ACT are not required. A 3.00 average is the minimum, and English is shown by TOEFL, IELTS or Duolingo. F-1 applicants send bank proof of one year of costs. Nonresident tuition and fees are about 47,466 USD in 2026-27.",
+   "ka": "ორეგონის უნივერსიტეტი იუჯინში მდებარე სახელმწიფო კვლევითი უნივერსიტეტია. საერთაშორისო პირველკურსელები აპლიკაციას აგზავნიან 1 ნოემბრამდე (Early Action) ან 15 იანვრამდე (Regular), 75 USD საფასურით, რომელიც არ უქმდება. SAT და ACT სავალდებულო არ არის. მინიმალური საშუალო 3.00-ია, ინგლისური კი TOEFL-ით, IELTS-ითა ან Duolingo-თი მტკიცდება. F-1 აპლიკანტები წარადგენენ ბანკის ცნობას ერთი წლის ხარჯების შესახებ. შტატგარეშე სწავლის საფასური და გადასახადები 2026-27-ში დაახლოებით 47 466 USD-ია.",
+   "ar": "جامعة أوريغون جامعة بحثية حكومية في يوجين. يتقدم الطلاب الدوليون الجدد قبل 1 نوفمبر (Early Action) أو 15 يناير (Regular) مع رسم 75 دولارًا لا يُعفى منه. SAT وACT غير مطلوبين. الحد الأدنى للمعدل 3.00، وتُثبت الإنجليزية عبر TOEFL أو IELTS أو Duolingo. يقدم متقدمو F-1 إثباتًا بنكيًا لتكاليف سنة. الرسوم الدراسية لغير سكان الولاية نحو 47,466 دولارًا في 2026-27."
+  },
+  "aid_intl": {
+   "en": "The UO gives over 2.5 million USD a year to international students; first-year applicants by 15 January are considered automatically for General University Scholarships, and full IB Diploma holders for IB Diploma Scholarships.",
+   "ka": "UO საერთაშორისო სტუდენტებს წელიწადში 2,5 მილიონ USD-ზე მეტს გასცემს; 15 იანვრამდე აპლიკანტები ავტომატურად განიხილებიან ზოგადი უნივერსიტეტის სტიპენდიებისთვის, სრული IB დიპლომის მფლობელები კი IB დიპლომის სტიპენდიებისთვის.",
+   "ar": "تمنح UO أكثر من 2.5 مليون دولار سنويًا للطلاب الدوليين؛ ويُنظر تلقائيًا في طلبات السنة الأولى المقدمة قبل 15 يناير لمنح الجامعة العامة، ولحملة دبلوم IB الكامل لمنح IB."
+  },
+  "tests": {
+   "en": "SAT and ACT are not required. English: TOEFL, IELTS or Duolingo (institutional TOEFL code 4846); the page gives no minimum scores, and results must be under two years old.",
+   "ka": "SAT და ACT სავალდებულო არ არის. ინგლისური: TOEFL, IELTS ან Duolingo (TOEFL-ის კოდი 4846); გვერდზე მინიმალური ქულები მითითებული არ არის, შედეგები ორ წელზე ახალი უნდა იყოს.",
+   "ar": "SAT وACT غير مطلوبين. الإنجليزية: TOEFL أو IELTS أو Duolingo (رمز TOEFL للمؤسسة 4846)؛ لا تذكر الصفحة حدودًا دنيا، ويجب أن تكون النتائج أحدث من سنتين."
+  },
+  "gpa_note": {
+   "en": "Minimum average of B (3.00); IB applicants typically average 4s and 5s; IGCSE needs English, Math and three other academic subjects averaging B.",
+   "ka": "მინიმალური საშუალო B (3.00); IB აპლიკანტების საშუალო ჩვეულებრივ 4-5-ია; IGCSE-ზე საჭიროა ინგლისური, მათემატიკა და სამი სხვა აკადემიური საგანი საშუალოდ B-ზე.",
+   "ar": "الحد الأدنى للمعدل B (3.00)؛ ومتوسط متقدمي IB عادة 4 و5؛ وتحتاج IGCSE إلى الإنجليزية والرياضيات وثلاث مواد أكاديمية أخرى بمتوسط B."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds",
+     "ka": "ფინანსური შესაძლებლობის დამადასტურებელი დოკუმენტები",
+     "ar": "إثبات القدرة المالية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Recommendation letters",
+     "ka": "სარეკომენდაციო წერილები",
+     "ar": "خطابات التوصية"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "UO international scholarships (General University Scholarships, IB Diploma Scholarships)",
+    "url": "https://www.uoregon.edu/admissions/undergraduate/find-your-path/international-students",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "usa",
+   "oregon",
+   "eugene",
+   "public",
+   "test optional",
+   "scholarships"
+  ],
+  "sources": [
+   "https://www.uoregon.edu/admissions/undergraduate/find-your-path/international-students",
+   "https://financialaid.uoregon.edu/cost_of_attendance"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-south-carolina",
+  "name": {
+   "en": "University of South Carolina",
+   "ka": "სამხრეთ კაროლინას უნივერსიტეტი",
+   "ar": "جامعة ساوث كارولينا"
+  },
+  "iso": "US",
+  "city": "Columbia",
+  "lat": 33.994,
+  "lon": -81.027,
+  "type": "public",
+  "website": "https://sc.edu",
+  "platform": "Common App or USC application (direct)",
+  "application_url": "https://www.sc.edu/about/offices_and_divisions/undergraduate_admissions/apply/for_international_students/index.php",
+  "intakes": [
+   "August",
+   "January",
+   "May"
+  ],
+  "deadline": "2026-12-01",
+  "deadline_note": "Fall entry: Early Action 15 October (credentials 1 November), Honors College 15 November, Regular Decision 1 December (credentials 15 January); the page does not name the year, so the date for fall 2027 entry follows the same calendar.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "USD",
+   "per": "year",
+   "note": "Tuition is not on the international admissions page; it links to a separate tuition and scholarships section."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "International applicants send official secondary transcripts from all schools with certified English translations. The page does not list which national certificates are accepted.",
+   "ka": "საერთაშორისო აპლიკანტები აგზავნიან ყველა სკოლის ოფიციალურ საშუალო განათლების ტრანსკრიპტებს დამოწმებული ინგლისური თარგმანით. გვერდზე არ წერია, რომელი ეროვნული სერტიფიკატებია მისაღები.",
+   "ar": "يرسل المتقدمون الدوليون كشوف درجات رسمية من جميع المدارس مع ترجمة إنجليزية معتمدة. لا تذكر الصفحة الشهادات الوطنية المقبولة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": 6.5,
+  "toefl_min": 77,
+  "duolingo_min": 115,
+  "other_tests": [
+   "PTE Academic 53",
+   "SAT EBRW 560 / ACT English 22 (English exemption)"
+  ],
+  "fields": [
+   "business",
+   "engineering",
+   "international-relations",
+   "medicine-health",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "International business",
+    "Engineering",
+    "Public health",
+    "Hospitality and tourism",
+    "Nursing"
+   ],
+   "ka": [
+    "საერთაშორისო ბიზნესი",
+    "ინჟინერია",
+    "საზოგადოებრივი ჯანდაცვა",
+    "სტუმარმასპინძლობა და ტურიზმი",
+    "ექთნობა"
+   ],
+   "ar": [
+    "الأعمال الدولية",
+    "الهندسة",
+    "الصحة العامة",
+    "الضيافة والسياحة",
+    "التمريض"
+   ]
+  },
+  "summary": {
+   "en": "The University of South Carolina is a public university in Columbia, USA. It is test-optional for 2027 entry, charges a 100 USD application fee and needs TOEFL 77 or IELTS 6.5 for English.",
+   "ka": "სამხრეთ კაროლინას უნივერსიტეტი აშშ-ში, კოლუმბიაში მდებარე სახელმწიფო უნივერსიტეტია. 2027 წლის მისაღებად ის ტესტ-ოფშენალია, სააპლიკაციო გადასახადია 100 USD, ინგლისურისთვის კი საჭიროა TOEFL 77 ან IELTS 6.5.",
+   "ar": "جامعة ساوث كارولينا جامعة حكومية في كولومبيا بالولايات المتحدة. القبول فيها اختياري الاختبارات لدخول 2027، ورسم التقديم 100 دولار، وتتطلب TOEFL 77 أو IELTS 6.5 للإنجليزية."
+  },
+  "about": {
+   "en": "The University of South Carolina is a public university in Columbia, South Carolina. International first-year students choose Early Action (15 October), Honors College (15 November) or Regular Decision (1 December) and pay a 100 USD fee. SAT and ACT are optional for 2027 entry. English minimums are TOEFL iBT 77, IELTS 6.5, PTE 53 or Duolingo 115. Applicants below the minimum may enter through English Programs for Internationals. Tuition is not shown on the page read.",
+   "ka": "სამხრეთ კაროლინას უნივერსიტეტი სამხრეთ კაროლინას შტატის ქალაქ კოლუმბიაში მდებარე სახელმწიფო უნივერსიტეტია. საერთაშორისო პირველკურსელები ირჩევენ Early Action-ს (15 ოქტომბერი), Honors College-ს (15 ნოემბერი) ან Regular Decision-ს (1 დეკემბერი) და იხდიან 100 USD-ს. SAT და ACT 2027 წლის მისაღებად არასავალდებულოა. ინგლისურის მინიმუმებია TOEFL iBT 77, IELTS 6.5, PTE 53 ან Duolingo 115. მინიმუმზე დაბალი შედეგის მქონეები შეიძლება ჩაირიცხონ English Programs for Internationals-ის გავლით. სწავლის საფასური წაკითხულ გვერდზე მითითებული არ არის.",
+   "ar": "جامعة ساوث كارولينا جامعة حكومية في كولومبيا بولاية ساوث كارولينا. يختار الطلاب الدوليون الجدد Early Action (15 أكتوبر) أو Honors College (15 نوفمبر) أو Regular Decision (1 ديسمبر) ويدفعون 100 دولار. SAT وACT اختياريان لدخول 2027. الحدود الدنيا للإنجليزية TOEFL iBT 77 أو IELTS 6.5 أو PTE 53 أو Duolingo 115. ويمكن لمن هم دون الحد الالتحاق عبر English Programs for Internationals. لا تظهر الرسوم الدراسية في الصفحة التي قُرئت."
+  },
+  "aid_intl": {
+   "en": "The page mentions the International Accelerator Program and links to nonresident scholarship information, without amounts.",
+   "ka": "გვერდი ახსენებს International Accelerator Program-ს და არარეზიდენტი სტუდენტების სტიპენდიების ინფორმაციას, თანხების გარეშე.",
+   "ar": "تذكر الصفحة برنامج International Accelerator وتربط بمعلومات منح غير المقيمين دون مبالغ."
+  },
+  "tests": {
+   "en": "SAT and ACT are optional for 2027 entry (SAT code 5818, ACT code 3880). English: TOEFL iBT 77, IELTS 6.5, PTE 53, Duolingo 115, SAT EBRW 560 or ACT English 22.",
+   "ka": "SAT და ACT 2027 წლის მისაღებად არასავალდებულოა (SAT კოდი 5818, ACT კოდი 3880). ინგლისური: TOEFL iBT 77, IELTS 6.5, PTE 53, Duolingo 115, SAT EBRW 560 ან ACT English 22.",
+   "ar": "SAT وACT اختياريان لدخول 2027 (رمز SAT هو 5818 ورمز ACT هو 3880). الإنجليزية: TOEFL iBT 77 أو IELTS 6.5 أو PTE 53 أو Duolingo 115 أو SAT EBRW 560 أو ACT English 22."
+  },
+  "gpa_note": {
+   "en": "No minimum GPA is stated; review is based mainly on academic performance, including senior-year courses and grades.",
+   "ka": "მინიმალური GPA მითითებული არ არის; განხილვა ძირითადად აკადემიურ მოსწრებას ეფუძნება, მათ შორის ბოლო კლასის საგნებსა და ნიშნებს.",
+   "ar": "لا يُذكر حد أدنى للمعدل؛ يعتمد التقييم أساسًا على الأداء الأكاديمي بما فيه مواد ودرجات السنة الأخيرة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "essay",
+    "label": {
+     "en": "Application essay",
+     "ka": "ესე",
+     "ar": "مقال التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "south carolina",
+   "columbia",
+   "public",
+   "test optional"
+  ],
+  "sources": [
+   "https://www.sc.edu/about/offices_and_divisions/undergraduate_admissions/apply/for_international_students/index.php",
+   "http://sc.edu/about/offices_and_divisions/undergraduate_admissions/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universite-cote-d-azur",
+  "name": {
+   "en": "Université Côte d'Azur",
+   "ka": "კოტ-დ'აზურის უნივერსიტეტი",
+   "ar": "جامعة كوت دازور"
+  },
+  "iso": "FR",
+  "city": "Nice",
+  "lat": 43.716,
+  "lon": 7.265,
+  "type": "public",
+  "website": "https://univ-cotedazur.fr",
+  "platform": "Demande d'admission préalable (DAP) / Études en France (Campus France)",
+  "application_url": "https://univ-cotedazur.eu/apply-and-register",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-12-15",
+  "deadline_note": "DAP campaigns (green and white) run from 1 October to 15 December of the year before September entry; Études en France has its own calendar.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Bachelor fees for non-EU students are not stated on the pages read; the Registrar page lists a tuition fees section without amounts."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Holders of a French or European baccalaureate from an accredited school skip the DAP route. The pages read do not say how other national certificates are treated.",
+   "ka": "აკრედიტებული სკოლის ფრანგული ან ევროპული ბაკალავრიატის (baccalauréat) მფლობელები DAP გზას არ გადიან. წაკითხულ გვერდებზე არ წერია, როგორ განიხილება სხვა ეროვნული სერტიფიკატები.",
+   "ar": "حملة البكالوريا الفرنسية أو الأوروبية من مدرسة معتمدة لا يمرون بمسار DAP. لا تذكر الصفحات التي قُرئت كيفية التعامل مع الشهادات الوطنية الأخرى."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "natural-sciences",
+   "computer-science",
+   "business",
+   "law",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Sciences",
+    "Computer science",
+    "Law",
+    "Economics and management",
+    "Health"
+   ],
+   "ka": [
+    "მეცნიერებები",
+    "კომპიუტერული მეცნიერება",
+    "სამართალი",
+    "ეკონომიკა და მენეჯმენტი",
+    "ჯანდაცვა"
+   ],
+   "ar": [
+    "العلوم",
+    "علوم الحاسوب",
+    "القانون",
+    "الاقتصاد والإدارة",
+    "الصحة"
+   ]
+  },
+  "summary": {
+   "en": "Université Côte d'Azur is a public university in Nice, France. Non-EU bachelor applicants apply through a prior-admission file (DAP) or Études en France, with a 15 December deadline for September entry.",
+   "ka": "კოტ-დ'აზურის უნივერსიტეტი საფრანგეთში, ნიცაში მდებარე სახელმწიფო უნივერსიტეტია. არა-ევროკავშირელი ბაკალავრიატის აპლიკანტები განცხადებას წინასწარი მიღების დოსიეთი (DAP) ან Études en France-ით აგზავნიან, სექტემბრის მისაღებად ვადა 15 დეკემბერია.",
+   "ar": "جامعة كوت دازور جامعة حكومية في نيس بفرنسا. يتقدم طلاب البكالوريوس من خارج الاتحاد الأوروبي عبر ملف القبول المسبق (DAP) أو Études en France، والموعد النهائي 15 ديسمبر للدخول في سبتمبر."
+  },
+  "about": {
+   "en": "Université Côte d'Azur is a public university with its administrative centre in Nice, France. For the first year of a licence (bachelor), non-EU applicants use the DAP file or the Études en France procedure of Campus France, depending on where they live. DAP files are accepted from 1 October to 15 December for entry the following September. Holders of the French or a European baccalaureate do not need the DAP. Fees and language requirements are not stated on the pages read.",
+   "ka": "კოტ-დ'აზურის უნივერსიტეტი საფრანგეთის ქალაქ ნიცაში მდებარე სახელმწიფო უნივერსიტეტია. ლიცენციის (ბაკალავრიატის) პირველ წელზე არა-ევროკავშირელი აპლიკანტები საცხოვრებელი ადგილის მიხედვით იყენებენ DAP დოსიეს ან Campus France-ის Études en France პროცედურას. DAP დოსიეები მიიღება 1 ოქტომბრიდან 15 დეკემბრამდე მომდევნო სექტემბრის მისაღებად. ფრანგული ან ევროპული ბაკალავრიატის მფლობელებს DAP არ სჭირდებათ. საფასური და ენის მოთხოვნები წაკითხულ გვერდებზე მითითებული არ არის.",
+   "ar": "جامعة كوت دازور جامعة حكومية يقع مركزها الإداري في نيس بفرنسا. للسنة الأولى من الليسانس (البكالوريوس) يستخدم المتقدمون من خارج الاتحاد الأوروبي ملف DAP أو إجراء Études en France التابع لـ Campus France بحسب مكان الإقامة. تُقبل ملفات DAP من 1 أكتوبر إلى 15 ديسمبر للدخول في سبتمبر التالي. لا يحتاج حملة البكالوريا الفرنسية أو الأوروبية إلى DAP. لا تذكر الصفحات التي قُرئت الرسوم أو متطلبات اللغة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "The pages read give no language test or entrance exam for bachelor entry; check the programme page for the French level.",
+   "ka": "წაკითხულ გვერდებზე ბაკალავრიატისთვის ენის ტესტი ან მისაღები გამოცდა მითითებული არ არის; ფრანგულის დონე გადაამოწმეთ პროგრამის გვერდზე.",
+   "ar": "لا تذكر الصفحات التي قُرئت اختبار لغة أو امتحان قبول للبكالوريوس؛ راجع صفحة البرنامج لمعرفة مستوى الفرنسية."
+  },
+  "gpa_note": {
+   "en": "No grade or subject prerequisites for international bachelor applicants are published on the pages read.",
+   "ka": "წაკითხულ გვერდებზე საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის ნიშნების ან საგნობრივი წინაპირობები მითითებული არ არის.",
+   "ar": "لا تُنشر في الصفحات التي قُرئت شروط درجات أو مواد للمتقدمين الدوليين للبكالوريوس."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of language of instruction",
+     "ka": "სწავლების ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة لغة التدريس"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of school qualification",
+     "ka": "სკოლის დიპლომის აღიარება",
+     "ar": "معادلة شهادة الثانوية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "nice",
+   "public",
+   "dap",
+   "campus france"
+  ],
+  "sources": [
+   "https://univ-cotedazur.eu/",
+   "https://univ-cotedazur.eu/apply-and-register",
+   "https://univ-cotedazur.eu/registrar"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "jadavpur-university",
+  "name": {
+   "en": "Jadavpur University",
+   "ka": "ჯადავპურის უნივერსიტეტი",
+   "ar": "جامعة جادافبور"
+  },
+  "iso": "IN",
+  "city": "Kolkata",
+  "lat": 22.499,
+  "lon": 88.371,
+  "type": "public",
+  "website": "https://jadavpuruniversity.in",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The website failed a security certificate check, so no data could be read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": "year",
+   "note": "Not read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school-leaving certificates are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ განიხილება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "Jadavpur University is a public university in Kolkata, India. The website failed a security certificate check, so no data could be read. No admission data for international bachelor students is listed here.",
+   "ka": "ჯადავპურის უნივერსიტეტი — უნივერსიტეტი (ინდოეთი, Kolkata). საიტმა უსაფრთხოების სერტიფიკატის შემოწმება ვერ გაიარა, ამიტომ მონაცემები ვერ წაიკითხა. საერთაშორისო ბაკალავრებისთვის მიღების მონაცემები აქ არ არის მითითებული.",
+   "ar": "جامعة جادافبور — جامعة في Kolkata، الهند. فشل الموقع في فحص شهادة الأمان، لذا تعذرت قراءة البيانات. لا تُذكر هنا بيانات القبول لطلاب البكالوريوس الدوليين."
+  },
+  "about": {
+   "en": "Jadavpur University is a public university in Kolkata, India. The website failed a security certificate check, so no data could be read. Its international bachelor admission rules, fees and deadlines are therefore not listed on this page. Check jadavpuruniversity.in or contact the university.",
+   "ka": "ჯადავპურის უნივერსიტეტი — უნივერსიტეტი (ინდოეთი, Kolkata). საიტმა უსაფრთხოების სერტიფიკატის შემოწმება ვერ გაიარა, ამიტომ მონაცემები ვერ წაიკითხა. ამიტომ საერთაშორისო ბაკალავრიატის მიღების წესები, საფასური და ვადები აქ არ არის მითითებული. გადაამოწმეთ jadavpuruniversity.in ან დაუკავშირდით უნივერსიტეტს.",
+   "ar": "جامعة جادافبور — جامعة في Kolkata، الهند. فشل الموقع في فحص شهادة الأمان، لذا تعذرت قراءة البيانات. لذلك لا تُذكر هنا قواعد القبول الدولي للبكالوريوس والرسوم والمواعيد. راجع jadavpuruniversity.in أو تواصل مع الجامعة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Not available: the official site could not be read.",
+   "ka": "მიუწვდომელია: ოფიციალური საიტი ვერ წაიკითხა.",
+   "ar": "غير متاح: تعذرت قراءة الموقع الرسمي."
+  },
+  "gpa_note": {
+   "en": "No grade or subject prerequisites for international bachelor applicants are published on the pages read.",
+   "ka": "წაკითხულ გვერდებზე საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის ნიშნების ან საგნობრივი წინაპირობები მითითებული არ არის.",
+   "ar": "لا تُنشر في الصفحات التي قُرئت شروط درجات أو مواد للمتقدمين الدوليين للبكالوريوس."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية العامة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "kolkata",
+   "public"
+  ],
+  "sources": [
+   "https://jadavpuruniversity.in"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "kasetsart-university",
+  "name": {
+   "en": "Kasetsart University",
+   "ka": "კასეტსარტის უნივერსიტეტი",
+   "ar": "جامعة كاسيتسارت"
+  },
+  "iso": "TH",
+  "city": "Bangkok",
+  "lat": 13.847,
+  "lon": 100.571,
+  "type": "public",
+  "website": "https://www.ku.ac.th",
+  "platform": "Direct (application emailed to the International Studies Center)",
+  "application_url": "https://www.ku.ac.th/en/undergraduate-degree-program",
+  "intakes": [
+   "August",
+   "January"
+  ],
+  "deadline": null,
+  "deadline_note": "Applications are due about 3 months before the semester starts (semester 1 runs August to December, semester 2 January to May); exact dates are announced later.",
+  "tuition_intl": {
+   "amount": 60000,
+   "currency": "THB",
+   "per": "semester",
+   "note": "60,000 to 90,000 THB per semester depending on the programme, plus a 10,000 THB international student fee per semester; subject to change."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Thai",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Applicants need completed high school or an equivalent qualification with an official transcript and certificates. Faculties may set higher requirements.",
+   "ka": "აპლიკანტებს სჭირდებათ დასრულებული საშუალო სკოლა ან ექვივალენტური კვალიფიკაცია ოფიციალური ტრანსკრიპტითა და სერტიფიკატებით. ფაკულტეტებს შეიძლება უფრო მაღალი მოთხოვნები ჰქონდეთ.",
+   "ar": "يحتاج المتقدمون إلى إتمام الثانوية أو مؤهل معادل مع كشف درجات رسمي وشهادات. قد تضع الكليات شروطًا أعلى."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 5.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "SAT (for math-science, engineering and agro-industry programmes)"
+  ],
+  "fields": [
+   "environment",
+   "engineering",
+   "natural-sciences",
+   "business",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Agriculture and agro-industry",
+    "Engineering",
+    "Natural sciences",
+    "Architecture",
+    "Business"
+   ],
+   "ka": [
+    "სოფლის მეურნეობა და აგროინდუსტრია",
+    "ინჟინერია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "არქიტექტურა",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "الزراعة والصناعات الزراعية",
+    "الهندسة",
+    "العلوم الطبيعية",
+    "العمارة",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "Kasetsart University is a public university in Bangkok, Thailand, with 37 faculties and 459 programmes. English-taught bachelor programmes are limited to its international track and cost about 60,000 to 90,000 THB per semester.",
+   "ka": "კასეტსარტის უნივერსიტეტი ტაილანდში, ბანკოკში მდებარე სახელმწიფო უნივერსიტეტია 37 ფაკულტეტითა და 459 პროგრამით. ინგლისურენოვანი ბაკალავრის პროგრამები მხოლოდ საერთაშორისო მიმართულებაშია და სემესტრში დაახლოებით 60 000-დან 90 000 THB-მდე ღირს.",
+   "ar": "جامعة كاسيتسارت جامعة حكومية في بانكوك بتايلاند، وتضم 37 كلية و459 برنامجًا. تقتصر برامج البكالوريوس بالإنجليزية على المسار الدولي وتكلف نحو 60,000 إلى 90,000 باخت للفصل."
+  },
+  "about": {
+   "en": "Kasetsart University is a public university in Bangkok with 37 faculties and 459 programmes (2022 data). Most programmes are taught in Thai; the international track is taught in English. Applicants email documents to the International Studies Center about three months before the semester: a form, passport, English score (IELTS 5.0 or TOEFL equivalent), transcript, motivation letter and three recommendation letters. SAT is required for math-science, engineering and agro-industry programmes. Tuition is 60,000 to 90,000 THB per semester.",
+   "ka": "კასეტსარტის უნივერსიტეტი ბანკოკში მდებარე სახელმწიფო უნივერსიტეტია 37 ფაკულტეტითა და 459 პროგრამით (2022 წლის მონაცემები). პროგრამების უმეტესობა ტაილანდურად ისწავლება; საერთაშორისო მიმართულება ინგლისურადაა. აპლიკანტები დოკუმენტებს საერთაშორისო სასწავლო ცენტრს სემესტრამდე დაახლოებით სამი თვით ადრე ელფოსტით უგზავნიან: ფორმა, პასპორტი, ინგლისურის ქულა (IELTS 5.0 ან TOEFL-ის ექვივალენტი), ტრანსკრიპტი, მოტივაციური წერილი და სამი სარეკომენდაციო წერილი. SAT საჭიროა მათემატიკა-მეცნიერების, ინჟინერიისა და აგროინდუსტრიის პროგრამებზე. სწავლის საფასური სემესტრში 60 000-დან 90 000 THB-მდეა.",
+   "ar": "جامعة كاسيتسارت جامعة حكومية في بانكوك تضم 37 كلية و459 برنامجًا (بيانات 2022). تُدرَّس معظم البرامج بالتايلاندية، ويُدرَّس المسار الدولي بالإنجليزية. يرسل المتقدمون المستندات بالبريد إلى مركز الدراسات الدولية قبل بدء الفصل بنحو ثلاثة أشهر: استمارة وجواز سفر ودرجة إنجليزية (IELTS 5.0 أو ما يعادل TOEFL) وكشف درجات وخطاب دافع وثلاثة خطابات توصية. يُشترط SAT لبرامج الرياضيات والعلوم والهندسة والصناعات الزراعية. الرسوم من 60,000 إلى 90,000 باخت للفصل."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "English proof is IELTS 5.0 overall or an equivalent TOEFL score from the last two years. SAT scores are required for math-science, engineering and agro-industry programmes.",
+   "ka": "ინგლისურის დასამტკიცებლად საჭიროა IELTS 5.0 საერთო ქულა ან TOEFL-ის ექვივალენტი ბოლო ორი წლიდან. SAT-ის შედეგები სავალდებულოა მათემატიკა-მეცნიერების, ინჟინერიისა და აგროინდუსტრიის პროგრამებზე.",
+   "ar": "إثبات الإنجليزية هو IELTS 5.0 إجمالي أو ما يعادله في TOEFL خلال آخر سنتين. نتائج SAT مطلوبة لبرامج الرياضيات والعلوم والهندسة والصناعات الزراعية."
+  },
+  "gpa_note": {
+   "en": "No minimum grade is stated; the faculty decides, and applicants must show proof of funds and a good conduct record.",
+   "ka": "მინიმალური ნიშანი მითითებული არ არის; გადაწყვეტილებას ფაკულტეტი იღებს, აპლიკანტებმა კი ფინანსური შესაძლებლობა და კარგი ყოფაქცევა უნდა დაადასტურონ.",
+   "ar": "لا يُذكر حد أدنى للدرجات؛ تقرر الكلية، ويجب على المتقدمين إثبات القدرة المالية وحسن السيرة."
+  },
+  "requirements": [
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية العامة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Personal statement",
+     "ka": "პირადი განცხადება",
+     "ar": "بيان شخصي"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Recommendation letters",
+     "ka": "სარეკომენდაციო წერილები",
+     "ar": "خطابات التوصية"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "SAT or ACT scores",
+     "ka": "SAT ან ACT-ის შედეგები",
+     "ar": "نتائج SAT أو ACT"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds",
+     "ka": "ფინანსური შესაძლებლობის დამადასტურებელი დოკუმენტები",
+     "ar": "إثبات القدرة المالية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "thailand",
+   "bangkok",
+   "public",
+   "agriculture",
+   "international programmes"
+  ],
+  "sources": [
+   "https://www.ku.ac.th",
+   "https://www.ku.ac.th/en/undergraduate-degree-program",
+   "https://www.ku.ac.th/en/newcomer-home",
+   "https://www.ku.ac.th/en/international-course"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "lanzhou-university",
+  "name": {
+   "en": "Lanzhou University",
+   "ka": "ლანჯოუს უნივერსიტეტი",
+   "ar": "جامعة لانتشو"
+  },
+  "iso": "CN",
+  "city": "Lanzhou",
+  "lat": 36.046,
+  "lon": 103.86,
+  "type": "public",
+  "website": "https://www.lzu.edu.cn",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The website returned HTTP 412 to every request, so no data could be read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": "year",
+   "note": "Not read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school-leaving certificates are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ განიხილება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "Lanzhou University is a public university in Lanzhou, China. The website returned HTTP 412 to every request, so no data could be read. No admission data for international bachelor students is listed here.",
+   "ka": "ლანჯოუს უნივერსიტეტი — უნივერსიტეტი (ჩინეთი, Lanzhou). საიტმა ყველა მოთხოვნაზე HTTP 412 დააბრუნა, ამიტომ მონაცემები ვერ წაიკითხა. საერთაშორისო ბაკალავრებისთვის მიღების მონაცემები აქ არ არის მითითებული.",
+   "ar": "جامعة لانتشو — جامعة في Lanzhou، الصين. أعاد الموقع الخطأ HTTP 412 لكل طلب، لذا تعذرت قراءة البيانات. لا تُذكر هنا بيانات القبول لطلاب البكالوريوس الدوليين."
+  },
+  "about": {
+   "en": "Lanzhou University is a public university in Lanzhou, China. The website returned HTTP 412 to every request, so no data could be read. Its international bachelor admission rules, fees and deadlines are therefore not listed on this page. Check www.lzu.edu.cn or contact the university.",
+   "ka": "ლანჯოუს უნივერსიტეტი — უნივერსიტეტი (ჩინეთი, Lanzhou). საიტმა ყველა მოთხოვნაზე HTTP 412 დააბრუნა, ამიტომ მონაცემები ვერ წაიკითხა. ამიტომ საერთაშორისო ბაკალავრიატის მიღების წესები, საფასური და ვადები აქ არ არის მითითებული. გადაამოწმეთ www.lzu.edu.cn ან დაუკავშირდით უნივერსიტეტს.",
+   "ar": "جامعة لانتشو — جامعة في Lanzhou، الصين. أعاد الموقع الخطأ HTTP 412 لكل طلب، لذا تعذرت قراءة البيانات. لذلك لا تُذكر هنا قواعد القبول الدولي للبكالوريوس والرسوم والمواعيد. راجع www.lzu.edu.cn أو تواصل مع الجامعة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Not available: the official site could not be read.",
+   "ka": "მიუწვდომელია: ოფიციალური საიტი ვერ წაიკითხა.",
+   "ar": "غير متاح: تعذرت قراءة الموقع الرسمي."
+  },
+  "gpa_note": {
+   "en": "No grade or subject prerequisites for international bachelor applicants are published on the pages read.",
+   "ka": "წაკითხულ გვერდებზე საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის ნიშნების ან საგნობრივი წინაპირობები მითითებული არ არის.",
+   "ar": "لا تُنشر في الصفحات التي قُرئت شروط درجات أو مواد للمتقدمين الدوليين للبكالوريوس."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية العامة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "china",
+   "lanzhou",
+   "public"
+  ],
+  "sources": [
+   "https://www.lzu.edu.cn"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "maynooth-university",
+  "name": {
+   "en": "Maynooth University",
+   "ka": "მეინუთის უნივერსიტეტი",
+   "ar": "جامعة ماينوث"
+  },
+  "iso": "IE",
+  "city": "Maynooth",
+  "lat": 53.384,
+  "lon": -6.6,
+  "type": "public",
+  "website": "https://www.maynoothuniversity.ie",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The website returned HTTP 403 to every request, so no data could be read.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": "year",
+   "note": "Not read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school-leaving certificates are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ განიხილება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "Maynooth University is a public university in Maynooth, Ireland. The website returned HTTP 403 to every request, so no data could be read. No admission data for international bachelor students is listed here.",
+   "ka": "მეინუთის უნივერსიტეტი — უნივერსიტეტი (ირლანდია, Maynooth). საიტმა ყველა მოთხოვნაზე HTTP 403 დააბრუნა, ამიტომ მონაცემები ვერ წაიკითხა. საერთაშორისო ბაკალავრებისთვის მიღების მონაცემები აქ არ არის მითითებული.",
+   "ar": "جامعة ماينوث — جامعة في Maynooth، أيرلندا. أعاد الموقع الخطأ HTTP 403 لكل طلب، لذا تعذرت قراءة البيانات. لا تُذكر هنا بيانات القبول لطلاب البكالوريوس الدوليين."
+  },
+  "about": {
+   "en": "Maynooth University is a public university in Maynooth, Ireland. The website returned HTTP 403 to every request, so no data could be read. Its international bachelor admission rules, fees and deadlines are therefore not listed on this page. Check www.maynoothuniversity.ie or contact the university.",
+   "ka": "მეინუთის უნივერსიტეტი — უნივერსიტეტი (ირლანდია, Maynooth). საიტმა ყველა მოთხოვნაზე HTTP 403 დააბრუნა, ამიტომ მონაცემები ვერ წაიკითხა. ამიტომ საერთაშორისო ბაკალავრიატის მიღების წესები, საფასური და ვადები აქ არ არის მითითებული. გადაამოწმეთ www.maynoothuniversity.ie ან დაუკავშირდით უნივერსიტეტს.",
+   "ar": "جامعة ماينوث — جامعة في Maynooth، أيرلندا. أعاد الموقع الخطأ HTTP 403 لكل طلب، لذا تعذرت قراءة البيانات. لذلك لا تُذكر هنا قواعد القبول الدولي للبكالوريوس والرسوم والمواعيد. راجع www.maynoothuniversity.ie أو تواصل مع الجامعة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منح أو مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Not available: the official site could not be read.",
+   "ka": "მიუწვდომელია: ოფიციალური საიტი ვერ წაიკითხა.",
+   "ar": "غير متاح: تعذرت قراءة الموقع الرسمي."
+  },
+  "gpa_note": {
+   "en": "No grade or subject prerequisites for international bachelor applicants are published on the pages read.",
+   "ka": "წაკითხულ გვერდებზე საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის ნიშნების ან საგნობრივი წინაპირობები მითითებული არ არის.",
+   "ar": "لا تُنشر في الصفحات التي قُرئت شروط درجات أو مواد للمتقدمين الدوليين للبكالوريوس."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية العامة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "ireland",
+   "maynooth",
+   "public"
+  ],
+  "sources": [
+   "https://www.maynoothuniversity.ie"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "memorial-university-of-newfoundland",
+  "name": {
+   "en": "Memorial University of Newfoundland",
+   "ka": "ნიუფაუნდლენდის მემორიალური უნივერსიტეტი",
+   "ar": "جامعة ميموريال في نيوفاوندلاند"
+  },
+  "iso": "CA",
+  "city": "St. John's",
+  "lat": 47.573,
+  "lon": -52.733,
+  "type": "public",
+  "website": "https://www.mun.ca",
+  "platform": "Direct (Memorial online application via the Office of the Registrar)",
+  "application_url": "https://www.mun.ca/undergrad/admissions/",
+  "intakes": [
+   "September",
+   "January",
+   "May"
+  ],
+  "deadline": "2027-03-01",
+  "deadline_note": "Fall priority deadline 1 March (documents by 20 August; applications close 9 September); winter priority 1 October; spring priority 1 February. International applicants are advised to apply at least 12 weeks before the term. The page does not name the year.",
+  "tuition_intl": {
+   "amount": 22500,
+   "currency": "CAD",
+   "per": "year",
+   "note": "St. John's campus 2026-27: 22,500 CAD tuition for 10 courses plus about 945 CAD required fees including health insurance (23,445 total); books and housing extra."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Memorial has separate curriculum pages for A-level, IB, American-patterned, and Qatar, Bahrain, Kuwait, Oman, Saudi Arabia and UAE qualifications; Georgia is not listed. The grade requirements are on those pages.",
+   "ka": "მემორიალს ცალკე სასწავლო გეგმის გვერდები აქვს A-level-ის, IB-ის, ამერიკული ტიპის, ასევე კატარის, ბაჰრეინის, ქუვეითის, ომანის, საუდის არაბეთისა და არაბთა გაერთიანებული საემიროების კვალიფიკაციებისთვის; საქართველო სიაში არ არის. ნიშნების მოთხოვნები ამ გვერდებზეა.",
+   "ar": "لدى Memorial صفحات منهج منفصلة لشهادات A-level وIB والنظام الأمريكي وقطر والبحرين والكويت وعُمان والسعودية والإمارات؛ وجورجيا غير مدرجة. شروط الدرجات في تلك الصفحات."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "environment",
+   "engineering",
+   "business",
+   "natural-sciences",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Ocean and environmental sciences",
+    "Engineering",
+    "Business",
+    "Education",
+    "Marine technology"
+   ],
+   "ka": [
+    "ოკეანისა და გარემოს მეცნიერებები",
+    "ინჟინერია",
+    "ბიზნესი",
+    "განათლება",
+    "საზღვაო ტექნოლოგიები"
+   ],
+   "ar": [
+    "علوم المحيطات والبيئة",
+    "الهندسة",
+    "الأعمال",
+    "التربية",
+    "التكنولوجيا البحرية"
+   ]
+  },
+  "summary": {
+   "en": "Memorial University is a public university in St. John's, Canada. International tuition on the St. John's campus is 22,500 CAD per year for 2026-27, plus about 945 CAD in required fees.",
+   "ka": "მემორიალური უნივერსიტეტი კანადაში, სენტ-ჯონსში მდებარე სახელმწიფო უნივერსიტეტია. სენტ-ჯონსის კამპუსზე საერთაშორისო სტუდენტების სწავლის საფასური 2026-27-ში წელიწადში 22 500 CAD-ია, სავალდებულო გადასახადები კი დაახლოებით 945 CAD.",
+   "ar": "جامعة ميموريال جامعة حكومية في سانت جونز بكندا. تبلغ الرسوم الدراسية للدوليين في حرم سانت جونز 22,500 دولار كندي سنويًا لعام 2026-27، إضافة إلى نحو 945 دولارًا رسومًا إلزامية."
+  },
+  "about": {
+   "en": "Memorial University of Newfoundland is a public university with its main campus in St. John's, Canada. International applicants apply online and should apply at least 12 weeks before the term. Fall priority is 1 March, with documents due 20 August. Tuition for international students on the St. John's campus is 22,500 CAD for ten courses in 2026-27, plus about 945 CAD in required fees including health insurance. The pages read give no English test minimums or application fee.",
+   "ka": "ნიუფაუნდლენდის მემორიალური უნივერსიტეტი კანადის ქალაქ სენტ-ჯონსში მდებარე სახელმწიფო უნივერსიტეტია. საერთაშორისო აპლიკანტები განცხადებას ონლაინ აგზავნიან და სემესტრამდე მინიმუმ 12 კვირით ადრე უნდა განაცხადონ. შემოდგომის პრიორიტეტული ვადაა 1 მარტი, დოკუმენტების ვადა კი 20 აგვისტო. საერთაშორისო სტუდენტების სწავლის საფასური სენტ-ჯონსის კამპუსზე 2026-27-ში ათ კურსზე 22 500 CAD-ია, ჯანმრთელობის დაზღვევის ჩათვლით სავალდებულო გადასახადები კი დაახლოებით 945 CAD. წაკითხულ გვერდებზე ინგლისურის მინიმალური ქულები და სააპლიკაციო გადასახადი მითითებული არ არის.",
+   "ar": "جامعة ميموريال في نيوفاوندلاند جامعة حكومية يقع حرمها الرئيسي في سانت جونز بكندا. يتقدم الطلاب الدوليون إلكترونيًا وينبغي أن يقدموا طلباتهم قبل بدء الفصل بـ12 أسبوعًا على الأقل. الموعد ذو الأولوية للخريف 1 مارس والمستندات حتى 20 أغسطس. الرسوم الدراسية للدوليين في حرم سانت جونز 22,500 دولار كندي لعشر مواد في 2026-27، إضافة إلى نحو 945 دولارًا رسومًا إلزامية تشمل التأمين الصحي. لا تذكر الصفحات التي قُرئت حدودًا دنيا للإنجليزية ولا رسم التقديم."
+  },
+  "aid_intl": {
+   "en": "A scholarships section exists on the Memorial site for undergraduates, but the pages read give no amounts for international students.",
+   "ka": "მემორიალის საიტზე ბაკალავრებისთვის სტიპენდიების განყოფილება არსებობს, მაგრამ წაკითხულ გვერდებზე საერთაშორისო სტუდენტებისთვის თანხები მითითებული არ არის.",
+   "ar": "يوجد قسم للمنح لطلاب البكالوريوس في موقع Memorial، لكن الصفحات التي قُرئت لا تذكر مبالغ للطلاب الدوليين."
+  },
+  "tests": {
+   "en": "The pages read do not state English test minimums; the international section links to an Intensive English Program for applicants who need it.",
+   "ka": "წაკითხულ გვერდებზე ინგლისურის ტესტის მინიმუმები მითითებული არ არის; საერთაშორისო განყოფილება ინგლისურის ინტენსიურ პროგრამას უკავშირდება მათთვის, ვისაც ეს სჭირდება.",
+   "ar": "لا تذكر الصفحات التي قُرئت حدودًا دنيا لاختبارات الإنجليزية؛ ويربط القسم الدولي ببرنامج اللغة الإنجليزية المكثف لمن يحتاجه."
+  },
+  "gpa_note": {
+   "en": "No grade or subject prerequisites for international bachelor applicants are published on the pages read.",
+   "ka": "წაკითხულ გვერდებზე საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის ნიშნების ან საგნობრივი წინაპირობები მითითებული არ არის.",
+   "ar": "لا تُنشر في الصفحات التي قُرئت شروط درجات أو مواد للمتقدمين الدوليين للبكالوريوس."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية العامة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إجادة اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Memorial University undergraduate scholarships",
+    "url": "https://www.mun.ca/scholarships/",
+    "coverage": null
+   }
+  ],
+  "keywords": [
+   "canada",
+   "newfoundland",
+   "st. john's",
+   "public",
+   "ocean"
+  ],
+  "sources": [
+   "https://www.mun.ca",
+   "https://www.mun.ca/undergrad/admissions/",
+   "https://www.mun.ca/undergrad/admissions/admission-deadlines/",
+   "https://www.mun.ca/undergrad/money-matters/",
+   "https://www.mun.ca/international/"
+  ],
+  "verified_at": "2026-11-01"
+ }
+]

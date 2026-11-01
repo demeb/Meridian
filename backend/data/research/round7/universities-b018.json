@@ -1,167 +1,2043 @@
 [
-{
-"id": "university-of-turku",
-"name": {"en": "University of Turku", "ka": "ტურკუს უნივერსიტეტი", "ar": "جامعة توركو"},
-"iso": "FI", "city": "Turku", "lat": 60.454, "lon": 22.287,
-"type": "public",
-"website": "https://www.utu.fi",
-"platform": "Studyinfo.fi joint application (Finland national portal)",
-"application_url": "https://www.utu.fi/en/study-at-utu/apply-to-bachelors-programmes",
-"intakes": ["August"],
-"deadline": "2027-01-21",
-"deadline_note": "The 2027 bachelor's application round runs 7-21 January 2027 (studies start in August 2027); documents are due by 28 January 2027.",
-"tuition_intl": {"amount": 10000, "currency": "EUR", "per": "year", "note": "For non-EU/EEA students in the English-taught bachelor's programmes in ICT and in Sustainable and Social Entrepreneurship. Finnish-taught programmes have no tuition fee. Application fee EUR 100."},
-"acceptance_rate": null,
-"students": 23148,
-"intl_pct": 10.3,
-"languages": ["Finnish", "English"],
-"english_bachelors": "some",
-"qualifications": {"national": "with-extra", "a-level": null, "ib": "accepted", "us-diploma": "with-extra"},
-"qualifications_note": {"en": "Applicants with an IB diploma, European Baccalaureate or Finnish matriculation exam apply in admission group II. Everyone else with an upper secondary diploma (for example a Georgian or Qatari certificate) applies in admission group I and must submit an SAT score.", "ka": "IB-ის დიპლომის, ევროპული ბაკალავრიატის ან ფინეთის საატესტატო გამოცდის მქონე აპლიკანტები მიდიან II საადმისიო ჯგუფში. დანარჩენები, ვისაც საშუალო განათლების დოკუმენტი აქვს (მაგალითად, ქართული ან კატარული ატესტატი), მიდიან I ჯგუფში და უნდა წარადგინონ SAT-ის შედეგი.", "ar": "يتقدّم أصحاب دبلوم IB أو البكالوريا الأوروبية أو امتحان الثانوية الفنلندي ضمن مجموعة القبول الثانية. أما بقية المتقدمين الحاصلين على شهادة ثانوية (مثل الشهادة الجورجية أو القطرية) فيتقدمون ضمن المجموعة الأولى ويجب أن يقدموا نتيجة اختبار SAT."},
-"sat": {"low": null, "high": null, "required": "required"},
-"ielts_min": 6.0, "toefl_min": null, "duolingo_min": null,
-"other_tests": ["SAT"],
-"fields": ["natural-sciences", "medicine-health", "humanities", "social-sciences", "business"],
-"strengths": {"en": ["Biosciences", "Medicine and health", "Humanities", "Business", "Information technology"], "ka": ["ბიომეცნიერებები", "მედიცინა და ჯანდაცვა", "ჰუმანიტარული მეცნიერებები", "ბიზნესი", "საინფორმაციო ტექნოლოგიები"], "ar": ["العلوم الحيوية", "الطب والصحة", "العلوم الإنسانية", "إدارة الأعمال", "تكنولوجيا المعلومات"]},
-"summary": {"en": "A multidisciplinary public university in south-west Finland with about 23,000 students. International bachelor students pay EUR 10,000 a year, and applicants without a Finnish or IB-type diploma must submit an SAT score.", "ka": "მრავალდარგობრივი სახელმწიფო უნივერსიტეტი სამხრეთ-დასავლეთ ფინეთში, დაახლოებით 23 000 სტუდენტით. უცხოელი ბაკალავრიატის სტუდენტები წელიწადში 10 000 ევროს იხდიან, ხოლო ფინური ან IB ტიპის დიპლომის არმქონე აპლიკანტებმა SAT-ის შედეგი უნდა წარადგინონ.", "ar": "جامعة حكومية متعددة التخصصات في جنوب غرب فنلندا يدرس فيها نحو 23 ألف طالب. يدفع الطلاب الدوليون في البكالوريوس 10,000 يورو سنويًا، ويجب على المتقدمين الذين لا يحملون دبلومًا فنلنديًا أو من نوع IB تقديم نتيجة اختبار SAT."},
-"about": {"en": "The University of Turku has about 23,000 registered students, around 2,400 of them international. It sits in the city of Turku on the south-west coast of Finland. Bachelor admission is run through the national Studyinfo portal in one round each January, and studies start in August. Applicants with a non-Finnish school diploma are ranked by SAT score. Most bachelor programmes are taught in Finnish. Non-EU students can choose English-taught bachelor programmes in ICT and in Sustainable and Social Entrepreneurship, which cost EUR 10,000 a year.", "ka": "ტურკუს უნივერსიტეტში დაახლოებით 23 000 რეგისტრირებული სტუდენტია, მათგან დაახლოებით 2 400 უცხოელი. უნივერსიტეტი მდებარეობს ქალაქ ტურკუში, ფინეთის სამხრეთ-დასავლეთ სანაპიროზე. ბაკალავრიატზე მიღება ეროვნული Studyinfo პორტალით ხდება, ყოველწლიურად იანვარში ერთ ეტაპად, ხოლო სწავლა აგვისტოში იწყება. უცხოური სკოლის დიპლომის მქონე აპლიკანტები SAT-ის ქულით ირჩევიან. ბაკალავრიატის პროგრამების უმეტესობა ფინურ ენაზეა. არა-EU სტუდენტებს შეუძლიათ აირჩიონ ინგლისურენოვანი ბაკალავრიატი ICT-ში და მდგრად და სოციალურ მეწარმეობაში; საფასური 10 000 ევროა წელიწადში.", "ar": "يبلغ عدد الطلاب المسجلين في جامعة توركو نحو 23 ألف طالب، منهم نحو 2,400 طالب دولي. تقع الجامعة في مدينة توركو على الساحل الجنوبي الغربي لفنلندا. يتم القبول في البكالوريوس عبر بوابة Studyinfo الوطنية في جولة واحدة كل يناير، وتبدأ الدراسة في أغسطس. يُرتَّب المتقدمون الحاصلون على شهادة مدرسية غير فنلندية حسب نتيجة SAT. معظم برامج البكالوريوس تُدرَّس بالفنلندية. ويمكن للطلاب من خارج الاتحاد الأوروبي اختيار برنامجي البكالوريوس بالإنجليزية في تكنولوجيا المعلومات والاتصالات وفي ريادة الأعمال المستدامة والاجتماعية، بتكلفة 10,000 يورو سنويًا."},
-"aid_intl": {"en": "No scholarship covers the first year; a merit scholarship covers 50% of tuition in the 2nd and 3rd year if you earn 55 credits per year with an average grade of at least 3.0.", "ka": "პირველი წლის საფასურს არცერთი სტიპენდია არ ფარავს; შემდეგ წლებში დამსახურებაზე დაფუძნებული სტიპენდია ფარავს საფასურის 50%-ს მე-2 და მე-3 წელს, თუ წელიწადში 55 კრედიტს აგროვებთ და საშუალო ნიშანი მინიმუმ 3.0 გაქვთ.", "ar": "لا توجد منحة تغطي السنة الأولى؛ وتغطي منحة التفوق 50% من الرسوم في السنتين الثانية والثالثة إذا حصلت على 55 ساعة معتمدة في السنة بمعدل لا يقل عن 3.0."},
-"tests": {"en": "Applicants with a non-Finnish school diploma must submit an SAT score (not older than two years). Applicants who submit an SAT score need no separate English test; others need IELTS Academic 6.0 (each part 5.5), TOEFL iBT 4 on the new scale (each part 3.5), or PTE 54. Duolingo is not accepted.", "ka": "არა-ფინური სკოლის დიპლომის მქონე აპლიკანტებმა უნდა წარადგინონ SAT-ის შედეგი (ორ წელზე ძველი არა). SAT-ის წარმდგენს ინგლისურის ცალკე ტესტი არ სჭირდება; დანარჩენებს სჭირდებათ IELTS Academic 6.0 (თითო ნაწილში 5.5), TOEFL iBT 4 ახალ სკალაზე (თითო ნაწილში 3.5) ან PTE 54. Duolingo არ მიიღება.", "ar": "يجب على المتقدمين الحاصلين على شهادة مدرسية غير فنلندية تقديم نتيجة SAT (لا يتجاوز عمرها سنتين). من يقدّم نتيجة SAT لا يحتاج إلى اختبار إنجليزي منفصل؛ وغيرهم يحتاجون IELTS Academic بدرجة 6.0 (5.5 لكل جزء) أو TOEFL iBT بدرجة 4 على المقياس الجديد (3.5 لكل جزء) أو PTE بدرجة 54. لا يُقبل اختبار Duolingo."},
-"gpa_note": {"en": "Applicants in the SAT group are ranked by the total of the SAT Evidence-Based Reading and Writing and Math scores; programme-specific criteria are published in Studyinfo each September.", "ka": "SAT ჯგუფში აპლიკანტები ირჩევიან SAT-ის კითხვისა და წერის და მათემატიკის ქულათა ჯამით; პროგრამის კონკრეტული კრიტერიუმები ყოველ სექტემბერს ქვეყნდება Studyinfo-ში.", "ar": "يُرتَّب المتقدمون في مجموعة SAT حسب مجموع درجتي القراءة والكتابة المبنيتين على الأدلة والرياضيات؛ وتُنشر معايير كل برنامج في Studyinfo كل سبتمبر."},
-"requirements": [
- {"key": "diploma", "label": {"en": "Upper secondary school diploma (scan of original, with official translation)", "ka": "საშუალო განათლების დიპლომი/ატესტატი (ორიგინალის სკანი, ოფიციალური თარგმანით)", "ar": "شهادة الثانوية العامة (نسخة ممسوحة من الأصل مع ترجمة رسمية)"}},
- {"key": "sat_act", "label": {"en": "SAT score (admission group I)", "ka": "SAT-ის შედეგი (I საადმისიო ჯგუფი)", "ar": "نتيجة SAT (مجموعة القبول الأولى)"}},
- {"key": "english", "label": {"en": "English proficiency proof (unless SAT is submitted)", "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი (თუ SAT არ არის წარდგენილი)", "ar": "إثبات إتقان اللغة الإنجليزية (ما لم تُقدَّم نتيجة SAT)"}},
- {"key": "application_fee", "label": {"en": "Application fee EUR 100 (non-EU/EEA applicants)", "ka": "სააპლიკაციო გადასახადი 100 ევრო (არა-EU/EEA აპლიკანტებისთვის)", "ar": "رسوم التقديم 100 يورو (للمتقدمين من خارج الاتحاد الأوروبي/المنطقة الاقتصادية الأوروبية)"}},
- {"key": "passport", "label": {"en": "Copy of passport", "ka": "პასპორტის ასლი", "ar": "نسخة من جواز السفر"}}
-],
-"scholarships": [{"name": "UTU Merit Scholarship (2nd and 3rd year)", "url": "https://www.utu.fi/en/study-at-utu/scholarships-and-tuition-fees", "coverage": "partial"}],
-"keywords": ["finland", "turku", "sat", "studyinfo", "english bachelor", "ict", "entrepreneurship"],
-"sources": ["https://www.utu.fi/en/study-at-utu/apply-to-bachelors-programmes", "https://www.utu.fi/en/study-at-utu/scholarships-and-tuition-fees", "https://www.utu.fi/en/study-at-utu/language-requirements-for-bachelors-degree-programmes", "https://www.utu.fi/en/study-statistics"],
-"verified_at": "2026-11-01"
-},
-{
-"id": "national-and-kapodistrian-university-of-athens",
-"name": {"en": "National and Kapodistrian University of Athens", "ka": "ათენის ნაციონალური და კაპოდისტრიასის უნივერსიტეტი", "ar": "جامعة أثينا الوطنية وكابوديستريا"},
-"iso": "GR", "city": "Athens", "lat": 37.968, "lon": 23.783,
-"type": "public",
-"website": "https://www.uoa.gr",
-"platform": "Direct, programme-specific online application (Medical Degree in English; BA in Ancient Greece)",
-"application_url": "https://medicen.uoa.gr/admission-requirements/",
-"intakes": ["September"],
-"deadline": "2027-03-31",
-"deadline_note": "Medical Degree in English (2027 intake): applications open 16 November 2026 and close 31 March 2027. The BA in Ancient Greece page does not state a deadline.",
-"tuition_intl": {"amount": 6000, "currency": "EUR", "per": "year", "note": "English-taught BA in Archaeology, History and Literature of Ancient Greece: EUR 6,000 a year. Medical Degree in English: EUR 17,000 a year for 2027-28 (EUR 5,000 deposit). Greek-taught programmes: fees not found."},
-"acceptance_rate": null,
-"students": 100000,
-"intl_pct": 4,
-"languages": ["Greek", "English"],
-"english_bachelors": "some",
-"qualifications": {"national": null, "a-level": "accepted", "ib": "accepted", "us-diploma": "with-extra"},
-"qualifications_note": {"en": "For the Medical Degree in English: IB 36 points with three Higher Level subjects, A-levels AAA in sciences, or three or more science APs at grade 4 plus a high SAT. Applicants must have studied the last two years of high school outside Greece. National diplomas are not listed on the page.", "ka": "ინგლისურენოვანი მედიცინის პროგრამისთვის: IB 36 ქულა სამი მაღალი დონის საგნით, A-level AAA საბუნებისმეტყველო საგნებში, ან სამი ან მეტი საბუნებისმეტყველო AP 4 ქულით პლუს მაღალი SAT. აპლიკანტმა სკოლის ბოლო ორი წელი საბერძნეთს გარეთ უნდა იყოს დამთავრებული. ეროვნული დიპლომები გვერდზე არ არის მითითებული.", "ar": "لبرنامج الطب بالإنجليزية: دبلوم IB بمجموع 36 نقطة مع ثلاث مواد بمستوى عالٍ، أو A-level بتقدير AAA في العلوم، أو ثلاث مواد AP علمية أو أكثر بدرجة 4 مع نتيجة SAT مرتفعة. يجب أن يكون المتقدم قد درس السنتين الأخيرتين من الثانوية خارج اليونان. الشهادات الوطنية غير مذكورة في الصفحة."},
-"sat": {"low": null, "high": null, "required": "optional"},
-"ielts_min": 6.5, "toefl_min": 80, "duolingo_min": null,
-"other_tests": ["UCAT or MCAT (accepted, medicine)"],
-"fields": ["medicine-health", "humanities", "law", "natural-sciences", "education", "social-sciences"],
-"strengths": {"en": ["Medicine", "Archaeology and ancient history", "Law", "Pharmacy", "Philology"], "ka": ["მედიცინა", "არქეოლოგია და ანტიკური ისტორია", "სამართალი", "ფარმაცია", "ფილოლოგია"], "ar": ["الطب", "علم الآثار والتاريخ القديم", "القانون", "الصيدلة", "فقه اللغة"]},
-"summary": {"en": "Greece's oldest and largest university, with about 100,000 students. International students without Greek can take the English-taught Medical Degree (EUR 17,000 a year) or the BA in Ancient Greece (EUR 6,000 a year).", "ka": "საბერძნეთის უძველესი და უდიდესი უნივერსიტეტი, დაახლოებით 100 000 სტუდენტით. ბერძნული ენის არმცოდნე უცხოელებს შეუძლიათ აირჩიონ ინგლისურენოვანი მედიცინა (17 000 ევრო წელიწადში) ან BA ძველ საბერძნეთში (6 000 ევრო წელიწადში).", "ar": "أقدم جامعات اليونان وأكبرها، ويدرس فيها نحو 100 ألف طالب. يمكن للطلاب الدوليين غير الناطقين باليونانية الالتحاق ببرنامج الطب بالإنجليزية (17,000 يورو سنويًا) أو بكالوريوس اليونان القديمة (6,000 يورو سنويًا)."},
-"about": {"en": "The University of Athens has about 100,000 undergraduate, postgraduate and PhD students, around 4,000 of them foreign. Most bachelor programmes are taught in Greek, and non-EU applicants need Greek language proof. For English-taught study there are two bachelor programmes: the 6-year Medical Degree in English and the 4-year BA in the Archaeology, History and Literature of Ancient Greece. Both apply directly to the programme. The university is in Athens, with its main campus in Zografou.", "ka": "ათენის უნივერსიტეტში დაახლოებით 100 000 საბაკალავრო, სამაგისტრო და სადოქტორო სტუდენტია, მათგან დაახლოებით 4 000 უცხოელი. ბაკალავრიატის პროგრამების უმეტესობა ბერძნულ ენაზეა და არა-EU აპლიკანტებს ბერძნული ენის ცოდნის დამადასტურებელი დოკუმენტი სჭირდებათ. ინგლისურენოვანი სწავლისთვის არსებობს ორი ბაკალავრის პროგრამა: 6-წლიანი მედიცინა ინგლისურად და 4-წლიანი BA ძველი საბერძნეთის არქეოლოგიაში, ისტორიასა და ლიტერატურაში. ორივეზე განაცხადი უშუალოდ პროგრამაზე იგზავნება. უნივერსიტეტი ათენშია, მთავარი კამპუსი ზოგრაფუშია.", "ar": "يضم أثينا نحو 100 ألف طالب في البكالوريوس والدراسات العليا والدكتوراه، منهم نحو 4,000 أجنبي. تُدرَّس معظم برامج البكالوريوس باليونانية، ويحتاج المتقدمون من خارج الاتحاد الأوروبي إلى إثبات إتقان اللغة اليونانية. وللدراسة بالإنجليزية يوجد برنامجا بكالوريوس: الطب بالإنجليزية (6 سنوات) وبكالوريوس الآثار والتاريخ والأدب في اليونان القديمة (4 سنوات). يُقدَّم الطلب مباشرة إلى البرنامج. تقع الجامعة في أثينا ومقرها الرئيسي في زوغرافو."},
-"aid_intl": {"en": "The Medical Degree in English offers no entry scholarships, but students may get merit or need-based scholarships during the programme.", "ka": "ინგლისურენოვან მედიცინას შესვლის სტიპენდიები არ აქვს, მაგრამ სწავლის განმავლობაში სტუდენტებს შეიძლება მიეცეთ დამსახურებაზე ან საჭიროებაზე დაფუძნებული სტიპენდია.", "ar": "لا يقدّم برنامج الطب بالإنجليزية منحًا عند القبول، لكن قد تُمنح للطلاب منح قائمة على التفوق أو الحاجة أثناء الدراسة."},
-"tests": {"en": "Medical Degree: IELTS 7.5 (6.5 in each part) or TOEFL 80/120, plus an online interview; UCAT or MCAT scores are accepted. BA in Ancient Greece: IELTS 6.5 (5.5 in each part) or equivalent TOEFL. Greek-taught programmes need Greek B2.", "ka": "მედიცინა: IELTS 7.5 (თითო ნაწილში 6.5) ან TOEFL 80/120 და ონლაინ გასაუბრება; UCAT ან MCAT-ის შედეგები მიიღება. BA ძველ საბერძნეთში: IELTS 6.5 (თითო ნაწილში 5.5) ან ექვივალენტური TOEFL. ბერძნულენოვანი პროგრამებისთვის საჭიროა ბერძნული B2.", "ar": "الطب: IELTS بدرجة 7.5 (6.5 في كل جزء) أو TOEFL بدرجة 80/120 مع مقابلة عبر الإنترنت؛ وتُقبل نتائج UCAT أو MCAT. بكالوريوس اليونان القديمة: IELTS بدرجة 6.5 (5.5 في كل جزء) أو TOEFL مكافئ. أما البرامج باللغة اليونانية فتحتاج إلى مستوى B2 في اليونانية."},
-"gpa_note": {"en": "BA in Ancient Greece asks for an indicative average of 70% on the secondary certificate; the Medical Degree asks for top grades in sciences (for example IB 36 or A-levels AAA).", "ka": "BA ძველ საბერძნეთში საშუალო სკოლის ატესტატში საორიენტაციო საშუალო 70%-ს ითხოვს; მედიცინა მაღალ ქულებს საბუნებისმეტყველო საგნებში (მაგალითად, IB 36 ან A-level AAA).", "ar": "يطلب برنامج اليونان القديمة معدلًا إرشاديًا قدره 70% في الشهادة الثانوية؛ ويطلب برنامج الطب درجات عالية في العلوم (مثل IB 36 أو A-level AAA)."},
-"requirements": [
- {"key": "diploma", "label": {"en": "High school diploma (original language and English translation)", "ka": "საშუალო სკოლის დიპლომი/ატესტატი (ორიგინალი და ინგლისური თარგმანი)", "ar": "شهادة الثانوية العامة (باللغة الأصلية وترجمة إنجليزية)"}},
- {"key": "transcript", "label": {"en": "Transcripts for the final two years of high school", "ka": "სკოლის ბოლო ორი წლის ნიშნების უწყისი", "ar": "كشوف درجات آخر سنتين من الثانوية"}},
- {"key": "english", "label": {"en": "English proficiency proof (IELTS or TOEFL)", "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი (IELTS ან TOEFL)", "ar": "إثبات إتقان اللغة الإنجليزية (IELTS أو TOEFL)"}},
- {"key": "recommendations", "label": {"en": "Reference letters (Medical Degree)", "ka": "სარეკომენდაციო წერილები (მედიცინა)", "ar": "رسائل توصية (برنامج الطب)"}},
- {"key": "interview", "label": {"en": "Online interview (Medical Degree, shortlisted applicants)", "ka": "ონლაინ გასაუბრება (მედიცინა, შერჩეული აპლიკანტები)", "ar": "مقابلة عبر الإنترنت (برنامج الطب، للمتقدمين المختارين)"}},
- {"key": "passport", "label": {"en": "Passport or national ID", "ka": "პასპორტი ან პირადობის მოწმობა", "ar": "جواز السفر أو الهوية الوطنية"}}
-],
-"scholarships": [],
-"keywords": ["greece", "athens", "medicine in english", "ancient greece", "archaeology", "oldest university"],
-"sources": ["https://en.uoa.gr/", "https://medicen.uoa.gr/admission-requirements/", "https://medicen.uoa.gr/faqs/", "https://medicen.uoa.gr/index.php/admissions/tuition-fees", "https://baag.uoa.gr/"],
-"verified_at": "2026-11-01"
-},
-{
-"id": "ruhr-universitat-bochum",
-"name": {"en": "Ruhr-Universität Bochum", "ka": "რურის ბოჰუმის უნივერსიტეტი", "ar": "جامعة الرور في بوخوم"},
-"iso": "DE", "city": "Bochum", "lat": 51.445, "lon": 7.262,
-"type": "public",
-"website": "https://www.ruhr-uni-bochum.de",
-"platform": "Direct (RUB application portal)",
-"application_url": "https://studium.ruhr-uni-bochum.de/en/application-non-eu-citizens",
-"intakes": ["October", "April"],
-"deadline": "2027-07-15",
-"deadline_note": "Restricted first-semester subjects for winter semester: early May to 15 July. For summer semester 2027 the deadline is 15 January 2027. The winter 2027/28 dates are not yet published on the semester-deadlines page, so the 15 July date is the standing rule.",
-"tuition_intl": {"amount": 0, "currency": "EUR", "per": "year", "note": "No tuition fees. A semester contribution of EUR 380 per semester (winter 2026/27) covers student services and the regional transport ticket."},
-"acceptance_rate": null,
-"students": null,
-"intl_pct": null,
-"languages": ["German", "English"],
-"english_bachelors": "some",
-"qualifications": {"national": null, "a-level": null, "ib": null, "us-diploma": null},
-"qualifications_note": {"en": "Non-EU applicants upload the school report with a certified translation. Some applicants must pass the Feststellungsprüfung (assessment test). The page does not say how Georgian, Qatari, A-level, IB or US diplomas are treated.", "ka": "არა-EU აპლიკანტები ტვირთავენ სკოლის ატესტატს დამოწმებული თარგმანით. ზოგ აპლიკანტს Feststellungsprüfung-ის (შემოწმების გამოცდა) ჩაბარება უწევს. გვერდზე არ წერია, როგორ განიხილება ქართული, კატარული, A-level, IB ან აშშ-ის დიპლომები.", "ar": "يرفع المتقدمون من خارج الاتحاد الأوروبي كشف الشهادة المدرسية مع ترجمة معتمدة. يجب على بعضهم اجتياز امتحان التقييم (Feststellungsprüfung). لا توضح الصفحة كيفية التعامل مع الشهادات الجورجية أو القطرية أو A-level أو IB أو الأمريكية."},
-"sat": {"low": null, "high": null, "required": "not-considered"},
-"ielts_min": null, "toefl_min": null, "duolingo_min": null,
-"other_tests": ["TestDaF", "DSH", "Feststellungsprüfung"],
-"fields": ["engineering", "natural-sciences", "medicine-health", "humanities", "social-sciences", "law"],
-"strengths": {"en": ["Engineering", "IT security", "Natural sciences", "Medicine", "Humanities"], "ka": ["ინჟინერია", "IT უსაფრთხოება", "საბუნებისმეტყველო მეცნიერებები", "მედიცინა", "ჰუმანიტარული მეცნიერებები"], "ar": ["الهندسة", "أمن المعلومات", "العلوم الطبيعية", "الطب", "العلوم الإنسانية"]},
-"summary": {"en": "A large public research university in the Ruhr region of Germany. It charges no tuition, only a semester contribution of about EUR 380, but almost all bachelor programmes are taught in German.", "ka": "დიდი სახელმწიფო სამეცნიერო უნივერსიტეტი გერმანიის რურის რეგიონში. სწავლის საფასური არ არის, მხოლოდ სემესტრული შენატანი დაახლოებით 380 ევრო, თუმცა თითქმის ყველა ბაკალავრის პროგრამა გერმანულ ენაზეა.", "ar": "جامعة بحثية حكومية كبيرة في منطقة الرور بألمانيا. لا تفرض رسومًا دراسية، بل مساهمة فصلية نحو 380 يورو فقط، لكن جميع برامج البكالوريوس تقريبًا تُدرَّس بالألمانية."},
-"about": {"en": "Ruhr-Universität Bochum is a public campus university in Bochum, in western Germany. Non-EU applicants register in the RUB online portal and upload their documents before the deadline. All bachelor and state-exam programmes are taught in German, so applicants need TestDaF (16 points), DSH 2 or 3, DSD II or an equivalent C1 certificate. The only exception is the bilingual German-English IT-Engineering bachelor, which also needs English B2 by enrolment. There are no tuition fees.", "ka": "რურის ბოხუმის უნივერსიტეტი სახელმწიფო საკამპუსო უნივერსიტეტია დასავლეთ გერმანიის ქალაქ ბოხუმში. არა-EU აპლიკანტები რეგისტრირდებიან RUB-ის ონლაინ პორტალზე და ვადამდე ტვირთავენ დოკუმენტებს. ყველა ბაკალავრისა და სახელმწიფო გამოცდის პროგრამა გერმანულ ენაზეა, ამიტომ საჭიროა TestDaF (16 ქულა), DSH 2 ან 3, DSD II ან ექვივალენტური C1 სერტიფიკატი. ერთადერთი გამონაკლისია ორენოვანი (გერმანული-ინგლისური) IT-Engineering-ის ბაკალავრიატი, რომელსაც ჩარიცხვისთვის ინგლისური B2-იც სჭირდება. სწავლის საფასური არ არის.", "ar": "جامعة الرور في بوخوم جامعة حكومية ذات حرم جامعي في مدينة بوخوم غرب ألمانيا. يسجّل المتقدمون من خارج الاتحاد الأوروبي في بوابة الجامعة الإلكترونية ويرفعون مستنداتهم قبل الموعد النهائي. تُدرَّس جميع برامج البكالوريوس والامتحان الحكومي بالألمانية، لذا يحتاج المتقدم إلى TestDaF (16 نقطة) أو DSH مستوى 2 أو 3 أو DSD II أو شهادة C1 معادلة. والاستثناء الوحيد هو بكالوريوس هندسة تكنولوجيا المعلومات ثنائي اللغة (ألماني-إنجليزي) الذي يتطلب أيضًا مستوى B2 في الإنجليزية عند التسجيل. لا توجد رسوم دراسية."},
-"aid_intl": {"en": "A scholarship page for international students exists, but no dedicated aid for international bachelor students is confirmed here.", "ka": "საერთაშორისო სტუდენტებისთვის სტიპენდიების გვერდი არსებობს, თუმცა ბაკალავრიატის უცხოელი სტუდენტებისთვის განკუთვნილი დახმარება აქ დადასტურებული არ არის.", "ar": "توجد صفحة منح للطلاب الدوليين، لكن لم يتأكد وجود دعم مخصص لطلاب البكالوريوس الدوليين."},
-"tests": {"en": "German proof is needed: TestDaF (at least 16 points), DSH 2 or 3, DSD II, Goethe C2, ÖSD C1 or telc Deutsch C1 Hochschule. The bilingual IT-Engineering bachelor also needs English B2 (IELTS or TOEFL) by enrolment.", "ka": "საჭიროა გერმანულის დამადასტურებელი დოკუმენტი: TestDaF (მინიმუმ 16 ქულა), DSH 2 ან 3, DSD II, Goethe C2, ÖSD C1 ან telc Deutsch C1 Hochschule. ორენოვან IT-Engineering ბაკალავრიატს ჩარიცხვისთვის ასევე ინგლისური B2 (IELTS ან TOEFL) სჭირდება.", "ar": "يلزم إثبات اللغة الألمانية: TestDaF (16 نقطة على الأقل) أو DSH مستوى 2 أو 3 أو DSD II أو Goethe C2 أو ÖSD C1 أو telc Deutsch C1 Hochschule. ويتطلب بكالوريوس هندسة تكنولوجيا المعلومات ثنائي اللغة أيضًا شهادة إنجليزية B2 (IELTS أو TOEFL) عند التسجيل."},
-"gpa_note": {"en": "Restricted subjects are admitted by grade and lottery procedures; the grade needed varies by subject and year.", "ka": "შეზღუდული სპეციალობები ივსება ნიშნებისა და ლატარიის პროცედურებით; საჭირო ქულა სპეციალობისა და წლის მიხედვით იცვლება.", "ar": "تُقبل التخصصات المقيّدة وفق الدرجات وإجراءات القرعة؛ وتختلف الدرجة المطلوبة حسب التخصص والسنة."},
-"requirements": [
- {"key": "passport", "label": {"en": "Copy of passport", "ka": "პასპორტის ასლი", "ar": "نسخة من جواز السفر"}},
- {"key": "transcript", "label": {"en": "School report (scan of original plus certified German or English translation)", "ka": "სკოლის ატესტატი/უწყისი (ორიგინალის სკანი და დამოწმებული გერმანული ან ინგლისური თარგმანი)", "ar": "الشهادة المدرسية (نسخة ممسوحة من الأصل مع ترجمة ألمانية أو إنجليزية معتمدة)"}},
- {"key": "language", "label": {"en": "German language certificate (TestDaF, DSH or equivalent)", "ka": "გერმანული ენის სერტიფიკატი (TestDaF, DSH ან ექვივალენტი)", "ar": "شهادة اللغة الألمانية (TestDaF أو DSH أو ما يعادلها)"}},
- {"key": "equivalency", "label": {"en": "Feststellungsprüfung result, where required", "ka": "Feststellungsprüfung-ის შედეგი, საჭიროების შემთხვევაში", "ar": "نتيجة امتحان Feststellungsprüfung عند الاقتضاء"}},
- {"key": "english", "label": {"en": "English B2 certificate (IT-Engineering bachelor only)", "ka": "ინგლისური B2 სერტიფიკატი (მხოლოდ IT-Engineering ბაკალავრიატისთვის)", "ar": "شهادة الإنجليزية B2 (لبكالوريوس هندسة تكنولوجيا المعلومات فقط)"}}
-],
-"scholarships": [{"name": "RUB scholarships for international students", "url": "https://international.ruhr-uni-bochum.de/en/scholarship-international-students", "coverage": "partial"}],
-"keywords": ["germany", "bochum", "no tuition", "ruhr", "engineering", "german-taught"],
-"sources": ["https://studium.ruhr-uni-bochum.de/en/application-non-eu-citizens", "https://studium.ruhr-uni-bochum.de/en/application-international-prospective-students", "https://studium.ruhr-uni-bochum.de/en/semester-deadlines", "https://studium.ruhr-uni-bochum.de/en/costs-studying-rub", "https://studium.ruhr-uni-bochum.de/en/re-registration-and-social-contribution"],
-"verified_at": "2026-11-01"
-},
-{
-"id": "university-of-the-philippines",
-"name": {"en": "University of the Philippines", "ka": "ფილიპინების უნივერსიტეტი", "ar": "جامعة الفلبين"},
-"iso": "PH", "city": "Quezon City", "lat": 14.655, "lon": 121.071,
-"type": "public",
-"website": "https://up.edu.ph",
-"platform": "Direct (Office of the University Registrar of the chosen campus)",
-"application_url": "https://upd.edu.ph/admissions/foreign-admission/",
-"intakes": ["First semester"],
-"deadline": "2027-04-15",
-"deadline_note": "Foreign applicants must apply at least four months before the semester, no later than 15 April for first-semester admission; there is no second-semester admission for foreigners.",
-"tuition_intl": {"amount": null, "currency": "PHP", "per": "year", "note": "Foreign-student tuition and fee amounts are not stated on the pages checked; ask the campus registrar."},
-"acceptance_rate": null,
-"students": null,
-"intl_pct": null,
-"languages": ["English", "Filipino"],
-"english_bachelors": "some",
-"qualifications": {"national": "with-extra", "a-level": "accepted", "ib": "accepted", "us-diploma": "with-extra"},
-"qualifications_note": {"en": "Automatic admission for foreign applicants with SAT 1270 (620 Math, 650 Reading and Writing), GCE (2 O-level and 3 A-level passes) or an IB Diploma. Others may sit the UPCAT.", "ka": "უცხოელი აპლიკანტებისთვის ავტომატური მიღება მოქმედებს SAT 1270 (620 მათემატიკა, 650 კითხვა და წერა), GCE (2 O-level და 3 A-level ჩაბარებული) ან IB დიპლომის შემთხვევაში. დანარჩენებს შეუძლიათ UPCAT-ის ჩაბარება.", "ar": "يُقبل المتقدمون الأجانب تلقائيًا بنتيجة SAT قدرها 1270 (620 رياضيات و650 قراءة وكتابة) أو شهادة GCE (النجاح في مادتين O-level وثلاث مواد A-level) أو دبلوم IB. ويمكن لغيرهم أداء امتحان UPCAT."},
-"sat": {"low": 1270, "high": null, "required": "optional"},
-"ielts_min": 5.5, "toefl_min": null, "duolingo_min": null,
-"other_tests": ["UPCAT"],
-"fields": ["social-sciences", "humanities", "engineering", "natural-sciences", "medicine-health", "arts-design"],
-"strengths": {"en": ["Social sciences", "Humanities", "Engineering", "Natural sciences", "Health sciences"], "ka": ["სოციალური მეცნიერებები", "ჰუმანიტარული მეცნიერებები", "ინჟინერია", "საბუნებისმეტყველო მეცნიერებები", "ჯანმრთელობის მეცნიერებები"], "ar": ["العلوم الاجتماعية", "العلوم الإنسانية", "الهندسة", "العلوم الطبيعية", "العلوم الصحية"]},
-"summary": {"en": "The national university of the Philippines, with campuses across the country; the main campus is UP Diliman in Quezon City. Foreign applicants can enter with a high SAT, A-levels or the IB Diploma, or sit the UPCAT.", "ka": "ფილიპინების ეროვნული უნივერსიტეტი, რომლის კამპუსები მთელ ქვეყანაშია; მთავარი კამპუსია UP Diliman ქეზონ-სიტიში. უცხოელებს შეუძლიათ ჩაირიცხონ მაღალი SAT-ით, A-level-ით ან IB დიპლომით, ან ჩააბარონ UPCAT.", "ar": "الجامعة الوطنية للفلبين ولها حرم في أنحاء البلاد؛ وحرمها الرئيسي هو UP Diliman في كيزون سيتي. يمكن للمتقدمين الأجانب الالتحاق بنتيجة SAT مرتفعة أو A-level أو دبلوم IB، أو أداء امتحان UPCAT."},
-"about": {"en": "The University of the Philippines is a public system of campuses, including Diliman, Los Baños, Manila, Visayas, Mindanao, Baguio, Cebu and the Open University. Foreign applicants send the application to the registrar of the campus they choose, at least four months before the first semester. Admission is automatic with a qualifying SAT, GCE or IB result; otherwise applicants take the UPCAT. Teaching is in English and Filipino. Applicants whose school language was not English need IELTS 5.5 or a TOEFL equivalent.", "ka": "ფილიპინების უნივერსიტეტი სახელმწიფო სისტემაა, რომელიც აერთიანებს კამპუსებს: Diliman, Los Baños, Manila, Visayas, Mindanao, Baguio, Cebu და Open University. უცხოელი აპლიკანტები განაცხადს აგზავნიან არჩეული კამპუსის რეგისტრატურაში, პირველ სემესტრამდე მინიმუმ ოთხი თვით ადრე. მიღება ავტომატურია შესაბამისი SAT, GCE ან IB შედეგით; სხვა შემთხვევაში საჭიროა UPCAT. სწავლება ინგლისურ და ფილიპინო ენებზეა. აპლიკანტებს, რომელთა სკოლის სასწავლო ენა ინგლისური არ იყო, სჭირდებათ IELTS 5.5 ან TOEFL-ის ექვივალენტი.", "ar": "جامعة الفلبين نظام جامعي حكومي يضم عدة أحرام جامعية منها ديليمان ولوس بانيوس ومانيلا وفيسايا وميندناو وباغيو وسيبو والجامعة المفتوحة. يرسل المتقدمون الأجانب طلبهم إلى مسجّل الحرم الذي يختارونه قبل الفصل الأول بأربعة أشهر على الأقل. القبول تلقائي بنتيجة SAT أو GCE أو IB مؤهِّلة؛ وإلا يؤدي المتقدم امتحان UPCAT. التدريس بالإنجليزية والفلبينية. ومن لم تكن لغة دراسته المدرسية الإنجليزية يحتاج إلى IELTS بدرجة 5.5 أو ما يعادله في TOEFL."},
-"aid_intl": {"en": "No dedicated aid for international bachelor students is published on the pages checked.", "ka": "შემოწმებულ გვერდებზე ბაკალავრიატის უცხოელი სტუდენტებისთვის განკუთვნილი დახმარება არ არის გამოქვეყნებული.", "ar": "لا يوجد دعم مخصص لطلاب البكالوريوس الدوليين منشور في الصفحات التي جرى فحصها."},
-"tests": {"en": "SAT 1270 or GCE or IB Diploma gives automatic admission; otherwise sit the UPCAT (held in August; foreign non-resident fee USD 50). Applicants not taught in English need IELTS 5.5 or TOEFL 500 (paper) or 173 (computer).", "ka": "SAT 1270, GCE ან IB დიპლომი ავტომატურ მიღებას იძლევა; სხვა შემთხვევაში უნდა ჩააბაროთ UPCAT (ტარდება აგვისტოში; უცხოელი არარეზიდენტის გადასახადი 50 აშშ დოლარი). ვინც ინგლისურად არ სწავლობდა, სჭირდება IELTS 5.5 ან TOEFL 500 (ქაღალდის) ან 173 (კომპიუტერული).", "ar": "يمنح SAT بنتيجة 1270 أو GCE أو دبلوم IB قبولًا تلقائيًا؛ وإلا يؤدي المتقدم امتحان UPCAT (يُعقد في أغسطس؛ رسوم الأجنبي غير المقيم 50 دولارًا أمريكيًا). ومن لم يدرس بالإنجليزية يحتاج إلى IELTS 5.5 أو TOEFL 500 (ورقي) أو 173 (حاسوبي)."},
-"gpa_note": {"en": "Applicants must have completed high school; UPCAT applicants are ranked by test score and weighted high school grades.", "ka": "აპლიკანტებს უნდა ჰქონდეთ დასრულებული საშუალო სკოლა; UPCAT-ის აპლიკანტები ირჩევიან ტესტის ქულით და სკოლის შეწონილი ნიშნებით.", "ar": "يجب أن يكون المتقدم قد أنهى المرحلة الثانوية؛ ويُرتَّب متقدمو UPCAT حسب نتيجة الاختبار والدرجات المدرسية المرجحة."},
-"requirements": [
- {"key": "application_fee", "label": {"en": "Application form (UP Form 3.1) and non-refundable fee", "ka": "სააპლიკაციო ფორმა (UP Form 3.1) და არაანაზღაურებადი გადასახადი", "ar": "نموذج الطلب (UP Form 3.1) والرسوم غير القابلة للاسترداد"}},
- {"key": "transcript", "label": {"en": "Official transcripts from each school attended (authenticated)", "ka": "თითოეული სკოლის ოფიციალური ნიშნების უწყისი (დამოწმებული)", "ar": "كشوف درجات رسمية من كل مدرسة درست فيها (موثّقة)"}},
- {"key": "sat_act", "label": {"en": "SAT, GCE or IB results (for automatic admission)", "ka": "SAT, GCE ან IB შედეგები (ავტომატური მიღებისთვის)", "ar": "نتائج SAT أو GCE أو IB (للقبول التلقائي)"}},
- {"key": "entrance_exam", "label": {"en": "UPCAT (if not eligible for automatic admission)", "ka": "UPCAT (თუ ავტომატური მიღების უფლება არ გაქვთ)", "ar": "امتحان UPCAT (إذا لم تكن مؤهلًا للقبول التلقائي)"}},
- {"key": "english", "label": {"en": "IELTS or TOEFL result (if school language was not English)", "ka": "IELTS ან TOEFL შედეგი (თუ სკოლის ენა ინგლისური არ იყო)", "ar": "نتيجة IELTS أو TOEFL (إذا لم تكن لغة المدرسة الإنجليزية)"}}
-],
-"scholarships": [],
-"keywords": ["philippines", "quezon city", "diliman", "upcat", "sat", "national university"],
-"sources": ["https://upd.edu.ph/admissions/foreign-admission/", "https://up.edu.ph/admissions/"],
-"verified_at": "2026-11-01"
-}
+ {
+  "id": "university-of-turku",
+  "name": {
+   "en": "University of Turku",
+   "ka": "ტურკუს უნივერსიტეტი",
+   "ar": "جامعة توركو"
+  },
+  "iso": "FI",
+  "city": "Turku",
+  "lat": 60.454,
+  "lon": 22.287,
+  "type": "public",
+  "website": "https://www.utu.fi",
+  "platform": "Studyinfo.fi joint application (Finland national portal)",
+  "application_url": "https://www.utu.fi/en/study-at-utu/apply-to-bachelors-programmes",
+  "intakes": [
+   "August"
+  ],
+  "deadline": "2027-01-21",
+  "deadline_note": "The 2027 bachelor's application round runs 7-21 January 2027 (studies start in August 2027); documents are due by 28 January 2027.",
+  "tuition_intl": {
+   "amount": 10000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "For non-EU/EEA students in the English-taught bachelor's programmes in ICT and in Sustainable and Social Entrepreneurship. Finnish-taught programmes have no tuition fee. Application fee EUR 100."
+  },
+  "acceptance_rate": null,
+  "students": 23148,
+  "intl_pct": 10.3,
+  "languages": [
+   "Finnish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Applicants with an IB diploma, European Baccalaureate or Finnish matriculation exam apply in admission group II. Everyone else with an upper secondary diploma (for example a Georgian or Qatari certificate) applies in admission group I and must submit an SAT score.",
+   "ka": "IB-ის დიპლომის, ევროპული ბაკალავრიატის ან ფინეთის საატესტატო გამოცდის მქონე აპლიკანტები მიდიან II საადმისიო ჯგუფში. დანარჩენები, ვისაც საშუალო განათლების დოკუმენტი აქვს (მაგალითად, ქართული ან კატარული ატესტატი), მიდიან I ჯგუფში და უნდა წარადგინონ SAT-ის შედეგი.",
+   "ar": "يتقدّم أصحاب دبلوم IB أو البكالوريا الأوروبية أو امتحان الثانوية الفنلندي ضمن مجموعة القبول الثانية. أما بقية المتقدمين الحاصلين على شهادة ثانوية (مثل الشهادة الجورجية أو القطرية) فيتقدمون ضمن المجموعة الأولى ويجب أن يقدموا نتيجة اختبار SAT."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "required"
+  },
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "SAT"
+  ],
+  "fields": [
+   "natural-sciences",
+   "medicine-health",
+   "humanities",
+   "social-sciences",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Biosciences",
+    "Medicine and health",
+    "Humanities",
+    "Business",
+    "Information technology"
+   ],
+   "ka": [
+    "ბიომეცნიერებები",
+    "მედიცინა და ჯანდაცვა",
+    "ჰუმანიტარული მეცნიერებები",
+    "ბიზნესი",
+    "საინფორმაციო ტექნოლოგიები"
+   ],
+   "ar": [
+    "العلوم الحيوية",
+    "الطب والصحة",
+    "العلوم الإنسانية",
+    "إدارة الأعمال",
+    "تكنولوجيا المعلومات"
+   ]
+  },
+  "summary": {
+   "en": "A multidisciplinary public university in south-west Finland with about 23,000 students. International bachelor students pay EUR 10,000 a year, and applicants without a Finnish or IB-type diploma must submit an SAT score.",
+   "ka": "მრავალდარგობრივი სახელმწიფო უნივერსიტეტი სამხრეთ-დასავლეთ ფინეთში, დაახლოებით 23 000 სტუდენტით. უცხოელი ბაკალავრიატის სტუდენტები წელიწადში 10 000 ევროს იხდიან, ხოლო ფინური ან IB ტიპის დიპლომის არმქონე აპლიკანტებმა SAT-ის შედეგი უნდა წარადგინონ.",
+   "ar": "جامعة حكومية متعددة التخصصات في جنوب غرب فنلندا يدرس فيها نحو 23 ألف طالب. يدفع الطلاب الدوليون في البكالوريوس 10,000 يورو سنويًا، ويجب على المتقدمين الذين لا يحملون دبلومًا فنلنديًا أو من نوع IB تقديم نتيجة اختبار SAT."
+  },
+  "about": {
+   "en": "The University of Turku has about 23,000 registered students, around 2,400 of them international. It sits in the city of Turku on the south-west coast of Finland. Bachelor admission is run through the national Studyinfo portal in one round each January, and studies start in August. Applicants with a non-Finnish school diploma are ranked by SAT score. Most bachelor programmes are taught in Finnish. Non-EU students can choose English-taught bachelor programmes in ICT and in Sustainable and Social Entrepreneurship, which cost EUR 10,000 a year.",
+   "ka": "ტურკუს უნივერსიტეტში დაახლოებით 23 000 რეგისტრირებული სტუდენტია, მათგან დაახლოებით 2 400 უცხოელი. უნივერსიტეტი მდებარეობს ქალაქ ტურკუში, ფინეთის სამხრეთ-დასავლეთ სანაპიროზე. ბაკალავრიატზე მიღება ეროვნული Studyinfo პორტალით ხდება, ყოველწლიურად იანვარში ერთ ეტაპად, ხოლო სწავლა აგვისტოში იწყება. უცხოური სკოლის დიპლომის მქონე აპლიკანტები SAT-ის ქულით ირჩევიან. ბაკალავრიატის პროგრამების უმეტესობა ფინურ ენაზეა. არა-EU სტუდენტებს შეუძლიათ აირჩიონ ინგლისურენოვანი ბაკალავრიატი ICT-ში და მდგრად და სოციალურ მეწარმეობაში; საფასური 10 000 ევროა წელიწადში.",
+   "ar": "يبلغ عدد الطلاب المسجلين في جامعة توركو نحو 23 ألف طالب، منهم نحو 2,400 طالب دولي. تقع الجامعة في مدينة توركو على الساحل الجنوبي الغربي لفنلندا. يتم القبول في البكالوريوس عبر بوابة Studyinfo الوطنية في جولة واحدة كل يناير، وتبدأ الدراسة في أغسطس. يُرتَّب المتقدمون الحاصلون على شهادة مدرسية غير فنلندية حسب نتيجة SAT. معظم برامج البكالوريوس تُدرَّس بالفنلندية. ويمكن للطلاب من خارج الاتحاد الأوروبي اختيار برنامجي البكالوريوس بالإنجليزية في تكنولوجيا المعلومات والاتصالات وفي ريادة الأعمال المستدامة والاجتماعية، بتكلفة 10,000 يورو سنويًا."
+  },
+  "aid_intl": {
+   "en": "No scholarship covers the first year; a merit scholarship covers 50% of tuition in the 2nd and 3rd year if you earn 55 credits per year with an average grade of at least 3.0.",
+   "ka": "პირველი წლის საფასურს არცერთი სტიპენდია არ ფარავს; შემდეგ წლებში დამსახურებაზე დაფუძნებული სტიპენდია ფარავს საფასურის 50%-ს მე-2 და მე-3 წელს, თუ წელიწადში 55 კრედიტს აგროვებთ და საშუალო ნიშანი მინიმუმ 3.0 გაქვთ.",
+   "ar": "لا توجد منحة تغطي السنة الأولى؛ وتغطي منحة التفوق 50% من الرسوم في السنتين الثانية والثالثة إذا حصلت على 55 ساعة معتمدة في السنة بمعدل لا يقل عن 3.0."
+  },
+  "tests": {
+   "en": "Applicants with a non-Finnish school diploma must submit an SAT score (not older than two years). Applicants who submit an SAT score need no separate English test; others need IELTS Academic 6.0 (each part 5.5), TOEFL iBT 4 on the new scale (each part 3.5), or PTE 54. Duolingo is not accepted.",
+   "ka": "არა-ფინური სკოლის დიპლომის მქონე აპლიკანტებმა უნდა წარადგინონ SAT-ის შედეგი (ორ წელზე ძველი არა). SAT-ის წარმდგენს ინგლისურის ცალკე ტესტი არ სჭირდება; დანარჩენებს სჭირდებათ IELTS Academic 6.0 (თითო ნაწილში 5.5), TOEFL iBT 4 ახალ სკალაზე (თითო ნაწილში 3.5) ან PTE 54. Duolingo არ მიიღება.",
+   "ar": "يجب على المتقدمين الحاصلين على شهادة مدرسية غير فنلندية تقديم نتيجة SAT (لا يتجاوز عمرها سنتين). من يقدّم نتيجة SAT لا يحتاج إلى اختبار إنجليزي منفصل؛ وغيرهم يحتاجون IELTS Academic بدرجة 6.0 (5.5 لكل جزء) أو TOEFL iBT بدرجة 4 على المقياس الجديد (3.5 لكل جزء) أو PTE بدرجة 54. لا يُقبل اختبار Duolingo."
+  },
+  "gpa_note": {
+   "en": "Applicants in the SAT group are ranked by the total of the SAT Evidence-Based Reading and Writing and Math scores; programme-specific criteria are published in Studyinfo each September.",
+   "ka": "SAT ჯგუფში აპლიკანტები ირჩევიან SAT-ის კითხვისა და წერის და მათემატიკის ქულათა ჯამით; პროგრამის კონკრეტული კრიტერიუმები ყოველ სექტემბერს ქვეყნდება Studyinfo-ში.",
+   "ar": "يُرتَّب المتقدمون في مجموعة SAT حسب مجموع درجتي القراءة والكتابة المبنيتين على الأدلة والرياضيات؛ وتُنشر معايير كل برنامج في Studyinfo كل سبتمبر."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Upper secondary school diploma (scan of original, with official translation)",
+     "ka": "საშუალო განათლების დიპლომი/ატესტატი (ორიგინალის სკანი, ოფიციალური თარგმანით)",
+     "ar": "شهادة الثانوية العامة (نسخة ممسوحة من الأصل مع ترجمة رسمية)"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "SAT score (admission group I)",
+     "ka": "SAT-ის შედეგი (I საადმისიო ჯგუფი)",
+     "ar": "نتيجة SAT (مجموعة القبول الأولى)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency proof (unless SAT is submitted)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი (თუ SAT არ არის წარდგენილი)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (ما لم تُقدَّم نتيجة SAT)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee EUR 100 (non-EU/EEA applicants)",
+     "ka": "სააპლიკაციო გადასახადი 100 ევრო (არა-EU/EEA აპლიკანტებისთვის)",
+     "ar": "رسوم التقديم 100 يورو (للمتقدمين من خارج الاتحاد الأوروبي/المنطقة الاقتصادية الأوروبية)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Copy of passport",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "UTU Merit Scholarship (2nd and 3rd year)",
+    "url": "https://www.utu.fi/en/study-at-utu/scholarships-and-tuition-fees",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "finland",
+   "turku",
+   "sat",
+   "studyinfo",
+   "english bachelor",
+   "ict",
+   "entrepreneurship"
+  ],
+  "sources": [
+   "https://www.utu.fi/en/study-at-utu/apply-to-bachelors-programmes",
+   "https://www.utu.fi/en/study-at-utu/scholarships-and-tuition-fees",
+   "https://www.utu.fi/en/study-at-utu/language-requirements-for-bachelors-degree-programmes",
+   "https://www.utu.fi/en/study-statistics"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "national-and-kapodistrian-university-of-athens",
+  "name": {
+   "en": "National and Kapodistrian University of Athens",
+   "ka": "ათენის ნაციონალური და კაპოდისტრიასის უნივერსიტეტი",
+   "ar": "جامعة أثينا الوطنية وكابوديستريا"
+  },
+  "iso": "GR",
+  "city": "Athens",
+  "lat": 37.968,
+  "lon": 23.783,
+  "type": "public",
+  "website": "https://www.uoa.gr",
+  "platform": "Direct, programme-specific online application (Medical Degree in English; BA in Ancient Greece)",
+  "application_url": "https://medicen.uoa.gr/admission-requirements/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-03-31",
+  "deadline_note": "Medical Degree in English (2027 intake): applications open 16 November 2026 and close 31 March 2027. The BA in Ancient Greece page does not state a deadline.",
+  "tuition_intl": {
+   "amount": 6000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "English-taught BA in Archaeology, History and Literature of Ancient Greece: EUR 6,000 a year. Medical Degree in English: EUR 17,000 a year for 2027-28 (EUR 5,000 deposit). Greek-taught programmes: fees not found."
+  },
+  "acceptance_rate": null,
+  "students": 100000,
+  "intl_pct": 4,
+  "languages": [
+   "Greek",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "For the Medical Degree in English: IB 36 points with three Higher Level subjects, A-levels AAA in sciences, or three or more science APs at grade 4 plus a high SAT. Applicants must have studied the last two years of high school outside Greece. National diplomas are not listed on the page.",
+   "ka": "ინგლისურენოვანი მედიცინის პროგრამისთვის: IB 36 ქულა სამი მაღალი დონის საგნით, A-level AAA საბუნებისმეტყველო საგნებში, ან სამი ან მეტი საბუნებისმეტყველო AP 4 ქულით პლუს მაღალი SAT. აპლიკანტმა სკოლის ბოლო ორი წელი საბერძნეთს გარეთ უნდა იყოს დამთავრებული. ეროვნული დიპლომები გვერდზე არ არის მითითებული.",
+   "ar": "لبرنامج الطب بالإنجليزية: دبلوم IB بمجموع 36 نقطة مع ثلاث مواد بمستوى عالٍ، أو A-level بتقدير AAA في العلوم، أو ثلاث مواد AP علمية أو أكثر بدرجة 4 مع نتيجة SAT مرتفعة. يجب أن يكون المتقدم قد درس السنتين الأخيرتين من الثانوية خارج اليونان. الشهادات الوطنية غير مذكورة في الصفحة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": 6.5,
+  "toefl_min": 80,
+  "duolingo_min": null,
+  "other_tests": [
+   "UCAT or MCAT (accepted, medicine)"
+  ],
+  "fields": [
+   "medicine-health",
+   "humanities",
+   "law",
+   "natural-sciences",
+   "education",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Archaeology and ancient history",
+    "Law",
+    "Pharmacy",
+    "Philology"
+   ],
+   "ka": [
+    "მედიცინა",
+    "არქეოლოგია და ანტიკური ისტორია",
+    "სამართალი",
+    "ფარმაცია",
+    "ფილოლოგია"
+   ],
+   "ar": [
+    "الطب",
+    "علم الآثار والتاريخ القديم",
+    "القانون",
+    "الصيدلة",
+    "فقه اللغة"
+   ]
+  },
+  "summary": {
+   "en": "Greece's oldest and largest university, with about 100,000 students. International students without Greek can take the English-taught Medical Degree (EUR 17,000 a year) or the BA in Ancient Greece (EUR 6,000 a year).",
+   "ka": "საბერძნეთის უძველესი და უდიდესი უნივერსიტეტი, დაახლოებით 100 000 სტუდენტით. ბერძნული ენის არმცოდნე უცხოელებს შეუძლიათ აირჩიონ ინგლისურენოვანი მედიცინა (17 000 ევრო წელიწადში) ან BA ძველ საბერძნეთში (6 000 ევრო წელიწადში).",
+   "ar": "أقدم جامعات اليونان وأكبرها، ويدرس فيها نحو 100 ألف طالب. يمكن للطلاب الدوليين غير الناطقين باليونانية الالتحاق ببرنامج الطب بالإنجليزية (17,000 يورو سنويًا) أو بكالوريوس اليونان القديمة (6,000 يورو سنويًا)."
+  },
+  "about": {
+   "en": "The University of Athens has about 100,000 undergraduate, postgraduate and PhD students, around 4,000 of them foreign. Most bachelor programmes are taught in Greek, and non-EU applicants need Greek language proof. For English-taught study there are two bachelor programmes: the 6-year Medical Degree in English and the 4-year BA in the Archaeology, History and Literature of Ancient Greece. Both apply directly to the programme. The university is in Athens, with its main campus in Zografou.",
+   "ka": "ათენის უნივერსიტეტში დაახლოებით 100 000 საბაკალავრო, სამაგისტრო და სადოქტორო სტუდენტია, მათგან დაახლოებით 4 000 უცხოელი. ბაკალავრიატის პროგრამების უმეტესობა ბერძნულ ენაზეა და არა-EU აპლიკანტებს ბერძნული ენის ცოდნის დამადასტურებელი დოკუმენტი სჭირდებათ. ინგლისურენოვანი სწავლისთვის არსებობს ორი ბაკალავრის პროგრამა: 6-წლიანი მედიცინა ინგლისურად და 4-წლიანი BA ძველი საბერძნეთის არქეოლოგიაში, ისტორიასა და ლიტერატურაში. ორივეზე განაცხადი უშუალოდ პროგრამაზე იგზავნება. უნივერსიტეტი ათენშია, მთავარი კამპუსი ზოგრაფუშია.",
+   "ar": "يضم أثينا نحو 100 ألف طالب في البكالوريوس والدراسات العليا والدكتوراه، منهم نحو 4,000 أجنبي. تُدرَّس معظم برامج البكالوريوس باليونانية، ويحتاج المتقدمون من خارج الاتحاد الأوروبي إلى إثبات إتقان اللغة اليونانية. وللدراسة بالإنجليزية يوجد برنامجا بكالوريوس: الطب بالإنجليزية (6 سنوات) وبكالوريوس الآثار والتاريخ والأدب في اليونان القديمة (4 سنوات). يُقدَّم الطلب مباشرة إلى البرنامج. تقع الجامعة في أثينا ومقرها الرئيسي في زوغرافو."
+  },
+  "aid_intl": {
+   "en": "The Medical Degree in English offers no entry scholarships, but students may get merit or need-based scholarships during the programme.",
+   "ka": "ინგლისურენოვან მედიცინას შესვლის სტიპენდიები არ აქვს, მაგრამ სწავლის განმავლობაში სტუდენტებს შეიძლება მიეცეთ დამსახურებაზე ან საჭიროებაზე დაფუძნებული სტიპენდია.",
+   "ar": "لا يقدّم برنامج الطب بالإنجليزية منحًا عند القبول، لكن قد تُمنح للطلاب منح قائمة على التفوق أو الحاجة أثناء الدراسة."
+  },
+  "tests": {
+   "en": "Medical Degree: IELTS 7.5 (6.5 in each part) or TOEFL 80/120, plus an online interview; UCAT or MCAT scores are accepted. BA in Ancient Greece: IELTS 6.5 (5.5 in each part) or equivalent TOEFL. Greek-taught programmes need Greek B2.",
+   "ka": "მედიცინა: IELTS 7.5 (თითო ნაწილში 6.5) ან TOEFL 80/120 და ონლაინ გასაუბრება; UCAT ან MCAT-ის შედეგები მიიღება. BA ძველ საბერძნეთში: IELTS 6.5 (თითო ნაწილში 5.5) ან ექვივალენტური TOEFL. ბერძნულენოვანი პროგრამებისთვის საჭიროა ბერძნული B2.",
+   "ar": "الطب: IELTS بدرجة 7.5 (6.5 في كل جزء) أو TOEFL بدرجة 80/120 مع مقابلة عبر الإنترنت؛ وتُقبل نتائج UCAT أو MCAT. بكالوريوس اليونان القديمة: IELTS بدرجة 6.5 (5.5 في كل جزء) أو TOEFL مكافئ. أما البرامج باللغة اليونانية فتحتاج إلى مستوى B2 في اليونانية."
+  },
+  "gpa_note": {
+   "en": "BA in Ancient Greece asks for an indicative average of 70% on the secondary certificate; the Medical Degree asks for top grades in sciences (for example IB 36 or A-levels AAA).",
+   "ka": "BA ძველ საბერძნეთში საშუალო სკოლის ატესტატში საორიენტაციო საშუალო 70%-ს ითხოვს; მედიცინა მაღალ ქულებს საბუნებისმეტყველო საგნებში (მაგალითად, IB 36 ან A-level AAA).",
+   "ar": "يطلب برنامج اليونان القديمة معدلًا إرشاديًا قدره 70% في الشهادة الثانوية؛ ويطلب برنامج الطب درجات عالية في العلوم (مثل IB 36 أو A-level AAA)."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma (original language and English translation)",
+     "ka": "საშუალო სკოლის დიპლომი/ატესტატი (ორიგინალი და ინგლისური თარგმანი)",
+     "ar": "شهادة الثانوية العامة (باللغة الأصلية وترجمة إنجليزية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Transcripts for the final two years of high school",
+     "ka": "სკოლის ბოლო ორი წლის ნიშნების უწყისი",
+     "ar": "كشوف درجات آخر سنتين من الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency proof (IELTS or TOEFL)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი (IELTS ან TOEFL)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (IELTS أو TOEFL)"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Reference letters (Medical Degree)",
+     "ka": "სარეკომენდაციო წერილები (მედიცინა)",
+     "ar": "رسائل توصية (برنامج الطب)"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Online interview (Medical Degree, shortlisted applicants)",
+     "ka": "ონლაინ გასაუბრება (მედიცინა, შერჩეული აპლიკანტები)",
+     "ar": "مقابلة عبر الإنترنت (برنامج الطب، للمتقدمين المختارين)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or national ID",
+     "ka": "პასპორტი ან პირადობის მოწმობა",
+     "ar": "جواز السفر أو الهوية الوطنية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "greece",
+   "athens",
+   "medicine in english",
+   "ancient greece",
+   "archaeology",
+   "oldest university"
+  ],
+  "sources": [
+   "https://en.uoa.gr/",
+   "https://medicen.uoa.gr/admission-requirements/",
+   "https://medicen.uoa.gr/faqs/",
+   "https://medicen.uoa.gr/index.php/admissions/tuition-fees",
+   "https://baag.uoa.gr/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "ruhr-universitat-bochum",
+  "name": {
+   "en": "Ruhr-Universität Bochum",
+   "ka": "რურის ბოჰუმის უნივერსიტეტი",
+   "ar": "جامعة الرور في بوخوم"
+  },
+  "iso": "DE",
+  "city": "Bochum",
+  "lat": 51.445,
+  "lon": 7.262,
+  "type": "public",
+  "website": "https://www.ruhr-uni-bochum.de",
+  "platform": "Direct (RUB application portal)",
+  "application_url": "https://studium.ruhr-uni-bochum.de/en/application-non-eu-citizens",
+  "intakes": [
+   "October",
+   "April"
+  ],
+  "deadline": "2027-07-15",
+  "deadline_note": "Restricted first-semester subjects for winter semester: early May to 15 July. For summer semester 2027 the deadline is 15 January 2027. The winter 2027/28 dates are not yet published on the semester-deadlines page, so the 15 July date is the standing rule.",
+  "tuition_intl": {
+   "amount": 0,
+   "currency": "EUR",
+   "per": "year",
+   "note": "No tuition fees. A semester contribution of EUR 380 per semester (winter 2026/27) covers student services and the regional transport ticket."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "German",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Non-EU applicants upload the school report with a certified translation. Some applicants must pass the Feststellungsprüfung (assessment test). The page does not say how Georgian, Qatari, A-level, IB or US diplomas are treated.",
+   "ka": "არა-EU აპლიკანტები ტვირთავენ სკოლის ატესტატს დამოწმებული თარგმანით. ზოგ აპლიკანტს Feststellungsprüfung-ის (შემოწმების გამოცდა) ჩაბარება უწევს. გვერდზე არ წერია, როგორ განიხილება ქართული, კატარული, A-level, IB ან აშშ-ის დიპლომები.",
+   "ar": "يرفع المتقدمون من خارج الاتحاد الأوروبي كشف الشهادة المدرسية مع ترجمة معتمدة. يجب على بعضهم اجتياز امتحان التقييم (Feststellungsprüfung). لا توضح الصفحة كيفية التعامل مع الشهادات الجورجية أو القطرية أو A-level أو IB أو الأمريكية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TestDaF",
+   "DSH",
+   "Feststellungsprüfung"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "medicine-health",
+   "humanities",
+   "social-sciences",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "IT security",
+    "Natural sciences",
+    "Medicine",
+    "Humanities"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "IT უსაფრთხოება",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "მედიცინა",
+    "ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "أمن المعلومات",
+    "العلوم الطبيعية",
+    "الطب",
+    "العلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "A large public research university in the Ruhr region of Germany. It charges no tuition, only a semester contribution of about EUR 380, but almost all bachelor programmes are taught in German.",
+   "ka": "დიდი სახელმწიფო სამეცნიერო უნივერსიტეტი გერმანიის რურის რეგიონში. სწავლის საფასური არ არის, მხოლოდ სემესტრული შენატანი დაახლოებით 380 ევრო, თუმცა თითქმის ყველა ბაკალავრის პროგრამა გერმანულ ენაზეა.",
+   "ar": "جامعة بحثية حكومية كبيرة في منطقة الرور بألمانيا. لا تفرض رسومًا دراسية، بل مساهمة فصلية نحو 380 يورو فقط، لكن جميع برامج البكالوريوس تقريبًا تُدرَّس بالألمانية."
+  },
+  "about": {
+   "en": "Ruhr-Universität Bochum is a public campus university in Bochum, in western Germany. Non-EU applicants register in the RUB online portal and upload their documents before the deadline. All bachelor and state-exam programmes are taught in German, so applicants need TestDaF (16 points), DSH 2 or 3, DSD II or an equivalent C1 certificate. The only exception is the bilingual German-English IT-Engineering bachelor, which also needs English B2 by enrolment. There are no tuition fees.",
+   "ka": "რურის ბოხუმის უნივერსიტეტი სახელმწიფო საკამპუსო უნივერსიტეტია დასავლეთ გერმანიის ქალაქ ბოხუმში. არა-EU აპლიკანტები რეგისტრირდებიან RUB-ის ონლაინ პორტალზე და ვადამდე ტვირთავენ დოკუმენტებს. ყველა ბაკალავრისა და სახელმწიფო გამოცდის პროგრამა გერმანულ ენაზეა, ამიტომ საჭიროა TestDaF (16 ქულა), DSH 2 ან 3, DSD II ან ექვივალენტური C1 სერტიფიკატი. ერთადერთი გამონაკლისია ორენოვანი (გერმანული-ინგლისური) IT-Engineering-ის ბაკალავრიატი, რომელსაც ჩარიცხვისთვის ინგლისური B2-იც სჭირდება. სწავლის საფასური არ არის.",
+   "ar": "جامعة الرور في بوخوم جامعة حكومية ذات حرم جامعي في مدينة بوخوم غرب ألمانيا. يسجّل المتقدمون من خارج الاتحاد الأوروبي في بوابة الجامعة الإلكترونية ويرفعون مستنداتهم قبل الموعد النهائي. تُدرَّس جميع برامج البكالوريوس والامتحان الحكومي بالألمانية، لذا يحتاج المتقدم إلى TestDaF (16 نقطة) أو DSH مستوى 2 أو 3 أو DSD II أو شهادة C1 معادلة. والاستثناء الوحيد هو بكالوريوس هندسة تكنولوجيا المعلومات ثنائي اللغة (ألماني-إنجليزي) الذي يتطلب أيضًا مستوى B2 في الإنجليزية عند التسجيل. لا توجد رسوم دراسية."
+  },
+  "aid_intl": {
+   "en": "A scholarship page for international students exists, but no dedicated aid for international bachelor students is confirmed here.",
+   "ka": "საერთაშორისო სტუდენტებისთვის სტიპენდიების გვერდი არსებობს, თუმცა ბაკალავრიატის უცხოელი სტუდენტებისთვის განკუთვნილი დახმარება აქ დადასტურებული არ არის.",
+   "ar": "توجد صفحة منح للطلاب الدوليين، لكن لم يتأكد وجود دعم مخصص لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "German proof is needed: TestDaF (at least 16 points), DSH 2 or 3, DSD II, Goethe C2, ÖSD C1 or telc Deutsch C1 Hochschule. The bilingual IT-Engineering bachelor also needs English B2 (IELTS or TOEFL) by enrolment.",
+   "ka": "საჭიროა გერმანულის დამადასტურებელი დოკუმენტი: TestDaF (მინიმუმ 16 ქულა), DSH 2 ან 3, DSD II, Goethe C2, ÖSD C1 ან telc Deutsch C1 Hochschule. ორენოვან IT-Engineering ბაკალავრიატს ჩარიცხვისთვის ასევე ინგლისური B2 (IELTS ან TOEFL) სჭირდება.",
+   "ar": "يلزم إثبات اللغة الألمانية: TestDaF (16 نقطة على الأقل) أو DSH مستوى 2 أو 3 أو DSD II أو Goethe C2 أو ÖSD C1 أو telc Deutsch C1 Hochschule. ويتطلب بكالوريوس هندسة تكنولوجيا المعلومات ثنائي اللغة أيضًا شهادة إنجليزية B2 (IELTS أو TOEFL) عند التسجيل."
+  },
+  "gpa_note": {
+   "en": "Restricted subjects are admitted by grade and lottery procedures; the grade needed varies by subject and year.",
+   "ka": "შეზღუდული სპეციალობები ივსება ნიშნებისა და ლატარიის პროცედურებით; საჭირო ქულა სპეციალობისა და წლის მიხედვით იცვლება.",
+   "ar": "تُقبل التخصصات المقيّدة وفق الدرجات وإجراءات القرعة؛ وتختلف الدرجة المطلوبة حسب التخصص والسنة."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Copy of passport",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "School report (scan of original plus certified German or English translation)",
+     "ka": "სკოლის ატესტატი/უწყისი (ორიგინალის სკანი და დამოწმებული გერმანული ან ინგლისური თარგმანი)",
+     "ar": "الشهادة المدرسية (نسخة ممسوحة من الأصل مع ترجمة ألمانية أو إنجليزية معتمدة)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "German language certificate (TestDaF, DSH or equivalent)",
+     "ka": "გერმანული ენის სერტიფიკატი (TestDaF, DSH ან ექვივალენტი)",
+     "ar": "شهادة اللغة الألمانية (TestDaF أو DSH أو ما يعادلها)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Feststellungsprüfung result, where required",
+     "ka": "Feststellungsprüfung-ის შედეგი, საჭიროების შემთხვევაში",
+     "ar": "نتيجة امتحان Feststellungsprüfung عند الاقتضاء"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English B2 certificate (IT-Engineering bachelor only)",
+     "ka": "ინგლისური B2 სერტიფიკატი (მხოლოდ IT-Engineering ბაკალავრიატისთვის)",
+     "ar": "شهادة الإنجليزية B2 (لبكالوريوس هندسة تكنولوجيا المعلومات فقط)"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "RUB scholarships for international students",
+    "url": "https://international.ruhr-uni-bochum.de/en/scholarship-international-students",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "germany",
+   "bochum",
+   "no tuition",
+   "ruhr",
+   "engineering",
+   "german-taught"
+  ],
+  "sources": [
+   "https://studium.ruhr-uni-bochum.de/en/application-non-eu-citizens",
+   "https://studium.ruhr-uni-bochum.de/en/application-international-prospective-students",
+   "https://studium.ruhr-uni-bochum.de/en/semester-deadlines",
+   "https://studium.ruhr-uni-bochum.de/en/costs-studying-rub",
+   "https://studium.ruhr-uni-bochum.de/en/re-registration-and-social-contribution"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-the-philippines",
+  "name": {
+   "en": "University of the Philippines",
+   "ka": "ფილიპინების უნივერსიტეტი",
+   "ar": "جامعة الفلبين"
+  },
+  "iso": "PH",
+  "city": "Quezon City",
+  "lat": 14.655,
+  "lon": 121.071,
+  "type": "public",
+  "website": "https://up.edu.ph",
+  "platform": "Direct (Office of the University Registrar of the chosen campus)",
+  "application_url": "https://upd.edu.ph/admissions/foreign-admission/",
+  "intakes": [
+   "First semester"
+  ],
+  "deadline": "2027-04-15",
+  "deadline_note": "Foreign applicants must apply at least four months before the semester, no later than 15 April for first-semester admission; there is no second-semester admission for foreigners.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "PHP",
+   "per": "year",
+   "note": "Foreign-student tuition and fee amounts are not stated on the pages checked; ask the campus registrar."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Filipino"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Automatic admission for foreign applicants with SAT 1270 (620 Math, 650 Reading and Writing), GCE (2 O-level and 3 A-level passes) or an IB Diploma. Others may sit the UPCAT.",
+   "ka": "უცხოელი აპლიკანტებისთვის ავტომატური მიღება მოქმედებს SAT 1270 (620 მათემატიკა, 650 კითხვა და წერა), GCE (2 O-level და 3 A-level ჩაბარებული) ან IB დიპლომის შემთხვევაში. დანარჩენებს შეუძლიათ UPCAT-ის ჩაბარება.",
+   "ar": "يُقبل المتقدمون الأجانب تلقائيًا بنتيجة SAT قدرها 1270 (620 رياضيات و650 قراءة وكتابة) أو شهادة GCE (النجاح في مادتين O-level وثلاث مواد A-level) أو دبلوم IB. ويمكن لغيرهم أداء امتحان UPCAT."
+  },
+  "sat": {
+   "low": 1270,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": 5.5,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "UPCAT"
+  ],
+  "fields": [
+   "social-sciences",
+   "humanities",
+   "engineering",
+   "natural-sciences",
+   "medicine-health",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Social sciences",
+    "Humanities",
+    "Engineering",
+    "Natural sciences",
+    "Health sciences"
+   ],
+   "ka": [
+    "სოციალური მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "ინჟინერია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ჯანმრთელობის მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم الاجتماعية",
+    "العلوم الإنسانية",
+    "الهندسة",
+    "العلوم الطبيعية",
+    "العلوم الصحية"
+   ]
+  },
+  "summary": {
+   "en": "The national university of the Philippines, with campuses across the country; the main campus is UP Diliman in Quezon City. Foreign applicants can enter with a high SAT, A-levels or the IB Diploma, or sit the UPCAT.",
+   "ka": "ფილიპინების ეროვნული უნივერსიტეტი, რომლის კამპუსები მთელ ქვეყანაშია; მთავარი კამპუსია UP Diliman ქეზონ-სიტიში. უცხოელებს შეუძლიათ ჩაირიცხონ მაღალი SAT-ით, A-level-ით ან IB დიპლომით, ან ჩააბარონ UPCAT.",
+   "ar": "الجامعة الوطنية للفلبين ولها حرم في أنحاء البلاد؛ وحرمها الرئيسي هو UP Diliman في كيزون سيتي. يمكن للمتقدمين الأجانب الالتحاق بنتيجة SAT مرتفعة أو A-level أو دبلوم IB، أو أداء امتحان UPCAT."
+  },
+  "about": {
+   "en": "The University of the Philippines is a public system of campuses, including Diliman, Los Baños, Manila, Visayas, Mindanao, Baguio, Cebu and the Open University. Foreign applicants send the application to the registrar of the campus they choose, at least four months before the first semester. Admission is automatic with a qualifying SAT, GCE or IB result; otherwise applicants take the UPCAT. Teaching is in English and Filipino. Applicants whose school language was not English need IELTS 5.5 or a TOEFL equivalent.",
+   "ka": "ფილიპინების უნივერსიტეტი სახელმწიფო სისტემაა, რომელიც აერთიანებს კამპუსებს: Diliman, Los Baños, Manila, Visayas, Mindanao, Baguio, Cebu და Open University. უცხოელი აპლიკანტები განაცხადს აგზავნიან არჩეული კამპუსის რეგისტრატურაში, პირველ სემესტრამდე მინიმუმ ოთხი თვით ადრე. მიღება ავტომატურია შესაბამისი SAT, GCE ან IB შედეგით; სხვა შემთხვევაში საჭიროა UPCAT. სწავლება ინგლისურ და ფილიპინო ენებზეა. აპლიკანტებს, რომელთა სკოლის სასწავლო ენა ინგლისური არ იყო, სჭირდებათ IELTS 5.5 ან TOEFL-ის ექვივალენტი.",
+   "ar": "جامعة الفلبين نظام جامعي حكومي يضم عدة أحرام جامعية منها ديليمان ولوس بانيوس ومانيلا وفيسايا وميندناو وباغيو وسيبو والجامعة المفتوحة. يرسل المتقدمون الأجانب طلبهم إلى مسجّل الحرم الذي يختارونه قبل الفصل الأول بأربعة أشهر على الأقل. القبول تلقائي بنتيجة SAT أو GCE أو IB مؤهِّلة؛ وإلا يؤدي المتقدم امتحان UPCAT. التدريس بالإنجليزية والفلبينية. ومن لم تكن لغة دراسته المدرسية الإنجليزية يحتاج إلى IELTS بدرجة 5.5 أو ما يعادله في TOEFL."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე ბაკალავრიატის უცხოელი სტუდენტებისთვის განკუთვნილი დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا يوجد دعم مخصص لطلاب البكالوريوس الدوليين منشور في الصفحات التي جرى فحصها."
+  },
+  "tests": {
+   "en": "SAT 1270 or GCE or IB Diploma gives automatic admission; otherwise sit the UPCAT (held in August; foreign non-resident fee USD 50). Applicants not taught in English need IELTS 5.5 or TOEFL 500 (paper) or 173 (computer).",
+   "ka": "SAT 1270, GCE ან IB დიპლომი ავტომატურ მიღებას იძლევა; სხვა შემთხვევაში უნდა ჩააბაროთ UPCAT (ტარდება აგვისტოში; უცხოელი არარეზიდენტის გადასახადი 50 აშშ დოლარი). ვინც ინგლისურად არ სწავლობდა, სჭირდება IELTS 5.5 ან TOEFL 500 (ქაღალდის) ან 173 (კომპიუტერული).",
+   "ar": "يمنح SAT بنتيجة 1270 أو GCE أو دبلوم IB قبولًا تلقائيًا؛ وإلا يؤدي المتقدم امتحان UPCAT (يُعقد في أغسطس؛ رسوم الأجنبي غير المقيم 50 دولارًا أمريكيًا). ومن لم يدرس بالإنجليزية يحتاج إلى IELTS 5.5 أو TOEFL 500 (ورقي) أو 173 (حاسوبي)."
+  },
+  "gpa_note": {
+   "en": "Applicants must have completed high school; UPCAT applicants are ranked by test score and weighted high school grades.",
+   "ka": "აპლიკანტებს უნდა ჰქონდეთ დასრულებული საშუალო სკოლა; UPCAT-ის აპლიკანტები ირჩევიან ტესტის ქულით და სკოლის შეწონილი ნიშნებით.",
+   "ar": "يجب أن يكون المتقدم قد أنهى المرحلة الثانوية؛ ويُرتَّب متقدمو UPCAT حسب نتيجة الاختبار والدرجات المدرسية المرجحة."
+  },
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application form (UP Form 3.1) and non-refundable fee",
+     "ka": "სააპლიკაციო ფორმა (UP Form 3.1) და არაანაზღაურებადი გადასახადი",
+     "ar": "نموذج الطلب (UP Form 3.1) والرسوم غير القابلة للاسترداد"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Official transcripts from each school attended (authenticated)",
+     "ka": "თითოეული სკოლის ოფიციალური ნიშნების უწყისი (დამოწმებული)",
+     "ar": "كشوف درجات رسمية من كل مدرسة درست فيها (موثّقة)"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "SAT, GCE or IB results (for automatic admission)",
+     "ka": "SAT, GCE ან IB შედეგები (ავტომატური მიღებისთვის)",
+     "ar": "نتائج SAT أو GCE أو IB (للقبول التلقائي)"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "UPCAT (if not eligible for automatic admission)",
+     "ka": "UPCAT (თუ ავტომატური მიღების უფლება არ გაქვთ)",
+     "ar": "امتحان UPCAT (إذا لم تكن مؤهلًا للقبول التلقائي)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "IELTS or TOEFL result (if school language was not English)",
+     "ka": "IELTS ან TOEFL შედეგი (თუ სკოლის ენა ინგლისური არ იყო)",
+     "ar": "نتيجة IELTS أو TOEFL (إذا لم تكن لغة المدرسة الإنجليزية)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "philippines",
+   "quezon city",
+   "diliman",
+   "upcat",
+   "sat",
+   "national university"
+  ],
+  "sources": [
+   "https://upd.edu.ph/admissions/foreign-admission/",
+   "https://up.edu.ph/admissions/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "inti-international-university",
+  "name": {
+   "en": "INTI International University",
+   "ka": "INTI-ის საერთაშორისო უნივერსიტეტი",
+   "ar": "جامعة إنتي الدولية"
+  },
+  "iso": "MY",
+  "city": "Nilai",
+  "lat": 2.818,
+  "lon": 101.757,
+  "type": "private",
+  "website": "https://newinti.edu.my",
+  "platform": "Direct (INTI representative / International Office)",
+  "application_url": "https://newinti.edu.my/international-students/how-to-apply/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No fixed date is published. INTI asks international students to send the application 2-3 months before the intake date.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "MYR",
+   "per": "year",
+   "note": "Fees are listed on each programme page and were not found on the pages checked. Enrolment costs on arrival (processing, insurance, screening, immigration) total RM 2,847."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry requirements are set on each programme page and were not found on the pages checked. INTI asks for certified copies of academic qualifications with English translations.",
+   "ka": "მიღების მოთხოვნები თითოეული პროგრამის გვერდზეა მითითებული და შემოწმებულ გვერდებზე ვერ მოიძებნა. INTI მოითხოვს აკადემიური დოკუმენტების დამოწმებულ ასლებს ინგლისური თარგმანით.",
+   "ar": "تُحدَّد شروط القبول في صفحة كل برنامج ولم نجدها في الصفحات التي جرى فحصها. تطلب إنتي نسخًا معتمدة من المؤهلات الأكاديمية مع ترجمة إنجليزية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "computer-science",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Computing",
+    "Engineering"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "კომპიუტერული მეცნიერებები",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "إدارة الأعمال",
+    "الحوسبة",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "A private university in Nilai, Malaysia, with foundation, pre-university and degree programmes for international students. Entry rules and fees are set per programme, and a scholarship covers up to 45% of first-year tuition.",
+   "ka": "კერძო უნივერსიტეტი მალაიზიის ქალაქ ნილაიში, უცხოელი სტუდენტებისთვის საფუძვლოვანი, საუნივერსიტეტო მოსამზადებელი და ბაკალავრის პროგრამებით. მიღების წესები და საფასური თითოეულ პროგრამაზეა დამოკიდებული, ხოლო სტიპენდია პირველი წლის სწავლის საფასურის 45%-მდე ფარავს.",
+   "ar": "جامعة خاصة في نيلاي بماليزيا تقدم برامج تأسيسية وما قبل الجامعة وبكالوريوس للطلاب الدوليين. تُحدَّد شروط القبول والرسوم لكل برنامج، وتغطي منحة ما يصل إلى 45% من رسوم السنة الأولى."
+  },
+  "about": {
+   "en": "INTI International University is a private institution based in Nilai, Malaysia. International students apply through an INTI representative or the International Office, sending the form, certified qualifications and passport copies 2-3 months before the intake. After an offer, INTI processes the student visa through EMGS, which takes about 6-8 weeks. Students pay a prepaid first-semester fee once the visa approval letter is issued. Entry requirements and fees are shown on each programme page.",
+   "ka": "INTI-ის საერთაშორისო უნივერსიტეტი კერძო დაწესებულებაა, რომელიც მალაიზიის ქალაქ ნილაიშია. უცხოელი სტუდენტები განცხადებას აგზავნიან INTI-ის წარმომადგენელთან ან საერთაშორისო ოფისში: ფორმა, დამოწმებული დოკუმენტები და პასპორტის ასლები უნდა გაიგზავნოს მიღებამდე 2-3 თვით ადრე. შეთავაზების შემდეგ INTI სტუდენტურ ვიზას EMGS-ის მეშვეობით ამუშავებს, რაც დაახლოებით 6-8 კვირას გრძელდება. სავიზო დამადასტურებელი წერილის გაცემის შემდეგ სტუდენტი პირველი სემესტრის წინასწარ საფასურს იხდის. მიღების მოთხოვნები და საფასური თითოეული პროგრამის გვერდზეა.",
+   "ar": "جامعة إنتي الدولية مؤسسة خاصة مقرها نيلاي في ماليزيا. يتقدم الطلاب الدوليون عبر ممثل إنتي أو المكتب الدولي، بإرسال النموذج والمؤهلات المعتمدة ونسخ جواز السفر قبل موعد القبول بشهرين إلى ثلاثة أشهر. وبعد العرض تعالج إنتي تأشيرة الطالب عبر EMGS خلال نحو 6-8 أسابيع. ويدفع الطالب رسوم الفصل الأول مقدمًا بعد صدور خطاب الموافقة على التأشيرة. وتظهر شروط القبول والرسوم في صفحة كل برنامج."
+  },
+  "aid_intl": {
+   "en": "The INTI International Education Scholarship gives new international students up to 45% off tuition in year one; places are limited and awarded first-come, first-served.",
+   "ka": "INTI-ის საერთაშორისო საგანმანათლებლო სტიპენდია ახალ უცხოელ სტუდენტებს პირველ წელს სწავლის საფასურის 45%-მდე ფარავს; ადგილები შეზღუდულია და გაიცემა რიგითობის პრინციპით.",
+   "ar": "تمنح منحة إنتي للتعليم الدولي الطلاب الدوليين الجدد خصمًا يصل إلى 45% من الرسوم الدراسية في السنة الأولى؛ والأماكن محدودة وتُمنح بحسب أسبقية التقديم."
+  },
+  "tests": {
+   "en": "English proof such as IELTS or TOEFL is required where applicable; minimum scores are not stated on the pages checked.",
+   "ka": "საჭიროების შემთხვევაში მოითხოვება ინგლისურის დამადასტურებელი დოკუმენტი, მაგალითად IELTS ან TOEFL; მინიმალური ქულები შემოწმებულ გვერდებზე არ არის მითითებული.",
+   "ar": "يُطلب إثبات اللغة الإنجليزية مثل IELTS أو TOEFL عند الاقتضاء؛ ولم تُذكر الدرجات الدنيا في الصفحات التي جرى فحصها."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are set per programme; check the programme page or ask INTI.",
+   "ka": "აკადემიური მოთხოვნები თითოეული პროგრამისთვის ცალკეა დადგენილი; იხილეთ პროგრამის გვერდი ან დაუკავშირდით INTI-ს.",
+   "ar": "تُحدَّد المتطلبات الأكاديمية لكل برنامج؛ راجع صفحة البرنامج أو اتصل بإنتي."
+  },
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "International student application form and application fee",
+     "ka": "უცხოელი სტუდენტის სააპლიკაციო ფორმა და სააპლიკაციო გადასახადი",
+     "ar": "نموذج طلب الطالب الدولي ورسوم التقديم"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copies (valid at least 18 months)",
+     "ka": "პასპორტის ასლები (მოქმედი მინიმუმ 18 თვით)",
+     "ar": "نسخ من جواز السفر (صالح 18 شهرًا على الأقل)"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-sized photos (white background)",
+     "ka": "პასპორტის ზომის ფოტოები (თეთრ ფონზე)",
+     "ar": "صور شخصية بخلفية بيضاء"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Certified copies of academic qualifications with English translation",
+     "ka": "აკადემიური დოკუმენტების დამოწმებული ასლები ინგლისური თარგმანით",
+     "ar": "نسخ معتمدة من المؤهلات الأكاديمية مع ترجمة إنجليزية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency proof, if applicable",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი, საჭიროების შემთხვევაში",
+     "ar": "إثبات إتقان اللغة الإنجليزية عند الاقتضاء"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Pre-arrival medical examination report",
+     "ka": "ჩამოსვლამდე ჩატარებული სამედიცინო შემოწმების ანგარიში",
+     "ar": "تقرير الفحص الطبي قبل الوصول"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "INTI International Education Scholarship (up to 45% of year-one tuition)",
+    "url": "https://newinti.edu.my/international-students/international-scholarship/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "malaysia",
+   "nilai",
+   "private university",
+   "foundation",
+   "emgs visa",
+   "scholarship"
+  ],
+  "sources": [
+   "https://newinti.edu.my/international-students/",
+   "https://newinti.edu.my/international-students/how-to-apply/",
+   "https://newinti.edu.my/international-students/international-scholarship/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "the-education-university-of-hong-kong",
+  "name": {
+   "en": "The Education University of Hong Kong",
+   "ka": "ჰონკონგის განათლების უნივერსიტეტი",
+   "ar": "جامعة هونغ كونغ للتربية"
+  },
+  "iso": "HK",
+  "city": "Hong Kong",
+  "lat": 22.463,
+  "lon": 114.195,
+  "type": "public",
+  "website": "https://eduhk.hk",
+  "platform": "Direct (EdUHK online application system)",
+  "application_url": "https://www.eduhk.hk/gao/articles/ug_admissions",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-05-06",
+  "deadline_note": "This is the 2026/27 non-local deadline (6 May 2026, 23:59 Hong Kong time); the 2027/28 date is not yet published. Applications are reviewed on a rolling basis, so apply early.",
+  "tuition_intl": {
+   "amount": 180000,
+   "currency": "HKD",
+   "per": "year",
+   "note": "Non-local tuition for government-funded programmes in 2026/27, paid in two instalments. Estimated total with on-campus housing and living costs is HK$245,350."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Chinese"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A-level: grade D in three subjects (or two plus two AS). IB Diploma with a minimum English grade. US diploma: SAT 1190 in one sitting. National qualifications are listed on the Registry website. Applicants normally complete Grade 12.",
+   "ka": "A-level: D შეფასება სამ საგანში (ან ორ საგანში და ორ AS-ში). IB დიპლომი ინგლისურში მინიმალური შეფასებით. აშშ-ის დიპლომი: SAT 1190 ერთი ჩაბარებით. ეროვნული კვალიფიკაციები მითითებულია Registry-ის ვებგვერდზე. აპლიკანტები ჩვეულებრივ 12 კლასს ამთავრებენ.",
+   "ar": "A-level: تقدير D في ثلاث مواد (أو مادتين مع مادتي AS). دبلوم IB مع حد أدنى في اللغة الإنجليزية. الدبلوم الأمريكي: SAT بدرجة 1190 في جلسة واحدة. المؤهلات الوطنية مدرجة في موقع المسجّل. يُنهي المتقدمون عادةً الصف الثاني عشر."
+  },
+  "sat": {
+   "low": 1190,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "SAT (one admission route)"
+  ],
+  "fields": [
+   "education",
+   "languages",
+   "humanities",
+   "social-sciences",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Languages",
+    "Humanities",
+    "Social sciences",
+    "Creative arts"
+   ],
+   "ka": [
+    "განათლება",
+    "ენები",
+    "ჰუმანიტარული მეცნიერებები",
+    "სოციალური მეცნიერებები",
+    "შემოქმედებითი ხელოვნება"
+   ],
+   "ar": [
+    "التربية",
+    "اللغات",
+    "العلوم الإنسانية",
+    "العلوم الاجتماعية",
+    "الفنون الإبداعية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Hong Kong that focuses on teacher education and related fields. Non-local undergraduates pay HK$180,000 a year, and tuition scholarships are decided during admission.",
+   "ka": "ჰონკონგის სახელმწიფო უნივერსიტეტი, რომელიც მასწავლებლის განათლებასა და მასთან დაკავშირებულ სფეროებზეა ორიენტირებული. არარეზიდენტი ბაკალავრები წელიწადში 180 000 HK$-ს იხდიან, ხოლო სტიპენდიები მიღების პროცესში წყდება.",
+   "ar": "جامعة حكومية في هونغ كونغ تركز على إعداد المعلمين والمجالات المرتبطة به. يدفع طلاب البكالوريوس غير المحليين 180,000 دولار هونغ كونغ سنويًا، وتُحدَّد منح الرسوم أثناء عملية القبول."
+  },
+  "about": {
+   "en": "The Education University of Hong Kong is a public university focused on education and related disciplines. Non-local applicants apply online with transcripts, recommendations and a personal statement, can choose up to two programmes, and may be called to an interview. The application fee is HK$300. Qualifying routes include A-levels, the IB Diploma or the SAT. Tuition for non-local students was HK$180,000 for 2026/27, and renewable scholarships are assessed automatically at admission.",
+   "ka": "ჰონკონგის განათლების უნივერსიტეტი სახელმწიფო უნივერსიტეტია, რომელიც განათლებასა და მასთან დაკავშირებულ დისციპლინებზეა ორიენტირებული. არარეზიდენტი აპლიკანტები განცხადებას ონლაინ აგზავნიან ნიშნების უწყისით, სარეკომენდაციო წერილებითა და პირადი განცხადებით, შეუძლიათ აირჩიონ ორი პროგრამა და შესაძლოა გასაუბრებაზე დაიბარონ. სააპლიკაციო გადასახადია 300 HK$. კვალიფიკაციის გზებია A-level, IB დიპლომი ან SAT. არარეზიდენტი სტუდენტების საფასური 2026/27 წელს იყო 180 000 HK$, ხოლო განახლებადი სტიპენდიები მიღებისას ავტომატურად ფასდება.",
+   "ar": "جامعة هونغ كونغ للتربية جامعة حكومية تركز على التربية والتخصصات المرتبطة بها. يتقدم المتقدمون غير المحليين إلكترونيًا مع كشوف الدرجات وخطابات التوصية وبيان شخصي، ويمكنهم اختيار برنامجين، وقد تُطلب منهم مقابلة. رسوم التقديم 300 دولار هونغ كونغ. تشمل مسارات التأهل A-level أو دبلوم IB أو SAT. بلغت الرسوم للطلاب غير المحليين 180,000 دولار هونغ كونغ في 2026/27، وتُقيَّم المنح المتجددة تلقائيًا عند القبول."
+  },
+  "aid_intl": {
+   "en": "Renewable scholarships are decided at admission with no separate application: Full (HK$240,000), Tuition (HK$180,000) and Half Tuition (HK$90,000).",
+   "ka": "განახლებადი სტიპენდიები მიღებისას წყდება ცალკე განაცხადის გარეშე: სრული (240 000 HK$), სასწავლო საფასურის (180 000 HK$) და ნახევარი საფასურის (90 000 HK$).",
+   "ar": "تُحدَّد المنح المتجددة عند القبول دون طلب منفصل: المنحة الكاملة (240,000 دولار هونغ كونغ) ومنحة الرسوم (180,000) ومنحة نصف الرسوم (90,000)."
+  },
+  "tests": {
+   "en": "SAT applicants need 1190 or more in one sitting, plus an Evidence-Based Reading and Writing score of 590 or the general English requirement. IB applicants need a minimum English grade. Programme-specific tests may apply.",
+   "ka": "SAT-ით მომთხოვნებს ერთ ჩაბარებაზე სჭირდებათ 1190 ან მეტი და კითხვისა და წერის ქულა 590 ან ზოგადი ინგლისურის მოთხოვნის დაკმაყოფილება. IB აპლიკანტებს ინგლისურში მინიმალური შეფასება სჭირდებათ. შეიძლება მოქმედებდეს პროგრამის სპეციფიკური ტესტებიც.",
+   "ar": "يحتاج متقدمو SAT إلى 1190 أو أكثر في جلسة واحدة، مع درجة القراءة والكتابة المبنية على الأدلة 590 أو استيفاء شرط اللغة الإنجليزية العام. ويحتاج متقدمو IB إلى حد أدنى في اللغة الإنجليزية. وقد تنطبق اختبارات خاصة ببعض البرامج."
+  },
+  "gpa_note": {
+   "en": "Meeting the minimum requirements does not guarantee admission; places are limited and applicants are ranked competitively.",
+   "ka": "მინიმალური მოთხოვნების დაკმაყოფილება მიღებას არ გარანტირებს; ადგილები შეზღუდულია და აპლიკანტები კონკურენტულად ფასდებიან.",
+   "ar": "استيفاء الحد الأدنى لا يضمن القبول؛ فالأماكن محدودة ويُقيَّم المتقدمون تنافسيًا."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების უწყისი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Recommendations",
+     "ka": "რეკომენდაციები",
+     "ar": "خطابات التوصية"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Personal statement",
+     "ka": "პირადი განცხადება",
+     "ar": "بيان شخصي"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "SAT, IB or A-level results (qualifying route)",
+     "ka": "SAT, IB ან A-level შედეგები (კვალიფიკაციის გზა)",
+     "ar": "نتائج SAT أو IB أو A-level (مسار التأهل)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee HK$300",
+     "ka": "სააპლიკაციო გადასახადი 300 HK$",
+     "ar": "رسوم التقديم 300 دولار هونغ كونغ"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Interview, if invited",
+     "ka": "გასაუბრება, თუ მიგიწვევენ",
+     "ar": "مقابلة عند الدعوة"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "EdUHK non-local undergraduate scholarships (Full, Tuition, Half Tuition)",
+    "url": "https://www.eduhk.hk/gao/articles/ug_budget-and-scholarships",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "hong kong",
+   "education",
+   "teacher training",
+   "non-local",
+   "sat",
+   "scholarship"
+  ],
+  "sources": [
+   "https://www.eduhk.hk/gao/articles/ug_admissions",
+   "https://www.eduhk.hk/gao/articles/ug_budget-and-scholarships",
+   "https://www.eduhk.hk/gao/articles/faq_nonlocal-ug",
+   "https://www.eduhk.hk/acadprog/undergrad/index.html"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "dublin-city-university",
+  "name": {
+   "en": "Dublin City University",
+   "ka": "დუბლინის სიტის უნივერსიტეტი",
+   "ar": "جامعة دبلن سيتي"
+  },
+  "iso": "IE",
+  "city": "Dublin",
+  "lat": 53.386,
+  "lon": -6.258,
+  "type": "public",
+  "website": "https://www.dcu.ie",
+  "platform": "Direct (DCU student application portal) for non-EU applicants; CAO for EU qualifications",
+  "application_url": "https://www.dcu.ie/registry/international-undergraduate-admissions",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-07-01",
+  "deadline_note": "DCU states that the closing date for international undergraduate programmes is 1 July; individual programme pages may list their own dates.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Non-EU fees are published in the DCU fee schedules and were not readable on the pages checked. The International Foundation Programme is a separate two-semester course."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A-levels: 2 A-levels plus O-levels or AS-levels at grade C or above, including Maths and English. IB Diploma: usually 24 points, with 2 HL subjects at 5 and 4 SL at 4. For many countries, the national secondary certificate alone leads to the International Foundation Year first.",
+   "ka": "A-level: 2 A-level და O-level ან AS-level C ან უფრო მაღალი შეფასებით, მათემატიკისა და ინგლისურის ჩათვლით. IB დიპლომი: ჩვეულებრივ 24 ქულა, 2 HL საგანი 5-ზე და 4 SL საგანი 4-ზე. ბევრი ქვეყნისთვის მხოლოდ ეროვნული საშუალო განათლების დოკუმენტი ჯერ საერთაშორისო საფუძვლოვან წელს (Foundation Year) ითხოვს.",
+   "ar": "A-level: مادتان A-level مع مواد O-level أو AS بتقدير C أو أعلى، بما فيها الرياضيات والإنجليزية. دبلوم IB: عادةً 24 نقطة مع مادتين HL بدرجة 5 وأربع مواد SL بدرجة 4. وفي كثير من الدول تؤدي الشهادة الثانوية الوطنية وحدها إلى سنة التأسيس الدولية أولًا."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "computer-science",
+   "engineering",
+   "education",
+   "humanities",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Computing",
+    "Engineering",
+    "Education",
+    "Communication"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "კომპიუტერული მეცნიერებები",
+    "ინჟინერია",
+    "განათლება",
+    "კომუნიკაცია"
+   ],
+   "ar": [
+    "إدارة الأعمال",
+    "الحوسبة",
+    "الهندسة",
+    "التربية",
+    "الاتصال"
+   ]
+  },
+  "summary": {
+   "en": "A public university in north Dublin, Ireland, taught in English. Non-EU applicants apply directly through the DCU portal by 1 July; those with only a national school certificate may first need the International Foundation Year.",
+   "ka": "სახელმწიფო უნივერსიტეტი დუბლინის ჩრდილოეთ ნაწილში, ირლანდია; სწავლება ინგლისურად მიმდინარეობს. არა-EU აპლიკანტები DCU-ს პორტალზე განცხადებას უშუალოდ აგზავნიან 1 ივლისამდე; მხოლოდ ეროვნული სკოლის სერტიფიკატის მქონეებს ჯერ შესაძლოა საერთაშორისო საფუძვლოვანი წელი დასჭირდეთ.",
+   "ar": "جامعة حكومية في شمال دبلن بأيرلندا، والتدريس فيها بالإنجليزية. يتقدم المتقدمون من خارج الاتحاد الأوروبي مباشرة عبر بوابة الجامعة قبل 1 يوليو؛ ومن يحمل شهادة مدرسية وطنية فقط قد يحتاج أولًا إلى سنة التأسيس الدولية."
+  },
+  "about": {
+   "en": "Dublin City University is a public university in Dublin. Non-EU applicants and anyone who needs a visa apply directly through the DCU student application portal; EU qualifications go through the CAO. The closing date for international undergraduate programmes is 1 July. Entry depends on your qualification: A-levels and the IB Diploma are accepted directly, while many national school certificates lead to the International Foundation Year first. A pending English test can be covered by a holding document and a conditional offer.",
+   "ka": "დუბლინის სიტის უნივერსიტეტი დუბლინში მდებარე სახელმწიფო უნივერსიტეტია. არა-EU აპლიკანტები და ყველა, ვისაც ვიზა სჭირდება, განცხადებას უშუალოდ DCU-ს სტუდენტური განაცხადის პორტალზე აგზავნის; EU კვალიფიკაციებით განცხადება CAO-ს გავლით ხდება. საერთაშორისო საბაკალავრო პროგრამებზე განაცხადის ბოლო ვადაა 1 ივლისი. მიღება კვალიფიკაციაზეა დამოკიდებული: A-level და IB დიპლომი პირდაპირ მიიღება, ხოლო ბევრი ეროვნული სკოლის სერტიფიკატი ჯერ საერთაშორისო საფუძვლოვან წელზე აგზავნის. ინგლისურის ტესტის მოლოდინში შესაძლებელია დამადასტურებელი დოკუმენტის ატვირთვა და პირობითი შეთავაზების მიღება.",
+   "ar": "جامعة دبلن سيتي جامعة حكومية في دبلن. يتقدم المتقدمون من خارج الاتحاد الأوروبي ومن يحتاج إلى تأشيرة مباشرة عبر بوابة طلبات الطلاب في الجامعة، أما المؤهلات الأوروبية فتمر عبر CAO. الموعد النهائي لبرامج البكالوريوس الدولية هو 1 يوليو. يعتمد القبول على المؤهل: تُقبل A-level ودبلوم IB مباشرة، بينما تؤدي كثير من الشهادات المدرسية الوطنية إلى سنة التأسيس الدولية أولًا. ويمكن تغطية اختبار اللغة الإنجليزية المعلّق بوثيقة مؤقتة وعرض مشروط."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students was found on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე ბაკალავრიატის უცხოელი სტუდენტებისთვის განკუთვნილი დახმარება ვერ მოიძებნა.",
+   "ar": "لم يُعثر على دعم مخصص لطلاب البكالوريوس الدوليين في الصفحات التي جرى فحصها."
+  },
+  "tests": {
+   "en": "An approved English language test is required; DCU lists the eligible tests and scores on its ELR page. If your result is pending, upload a holding document for a conditional offer. A 5- or 10-week pre-sessional English course is available.",
+   "ka": "საჭიროა ინგლისური ენის დამტკიცებული ტესტი; ტესტებისა და ქულების სია DCU-ს ELR გვერდზეა. თუ შედეგი ჯერ არ გაქვთ, ატვირთეთ დამადასტურებელი დოკუმენტი პირობითი შეთავაზებისთვის. ხელმისაწვდომია 5 ან 10-კვირიანი ინგლისურის მოსამზადებელი კურსი.",
+   "ar": "يلزم اختبار لغة إنجليزية معتمد؛ وتنشر الجامعة الاختبارات والدرجات المقبولة في صفحة متطلبات اللغة الإنجليزية. وإذا كانت نتيجتك معلّقة فارفع وثيقة مؤقتة للحصول على عرض مشروط. تتوفر دورة إنجليزية تمهيدية مدتها 5 أو 10 أسابيع."
+  },
+  "gpa_note": {
+   "en": "You need a pass in Mathematics and English plus any programme-specific subjects; points requirements vary by programme.",
+   "ka": "საჭიროა მათემატიკასა და ინგლისურში ჩაბარებული გამოცდა და პროგრამის სპეციფიკური საგნები; ქულების მოთხოვნა პროგრამების მიხედვით იცვლება.",
+   "ar": "يلزم النجاح في الرياضيات والإنجليزية إضافة إلى المواد الخاصة بالبرنامج؛ وتختلف متطلبات النقاط حسب البرنامج."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts or exam results",
+     "ka": "საშუალო სკოლის ნიშნების უწყისი ან გამოცდის შედეგები",
+     "ar": "كشوف درجات الثانوية أو نتائج الامتحانات"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test result (or holding document)",
+     "ka": "ინგლისური ენის ტესტის შედეგი (ან დროებითი დამადასტურებელი დოკუმენტი)",
+     "ar": "نتيجة اختبار اللغة الإنجليزية (أو وثيقة مؤقتة)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or ID",
+     "ka": "პასპორტი ან პირადობის მოწმობა",
+     "ar": "جواز السفر أو الهوية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Programme-specific supporting documents",
+     "ka": "პროგრამის სპეციფიკური დამხმარე დოკუმენტები",
+     "ar": "مستندات داعمة خاصة بالبرنامج"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "ireland",
+   "dublin",
+   "english-taught",
+   "foundation year",
+   "1 july",
+   "non-eu"
+  ],
+  "sources": [
+   "https://www.dcu.ie/registry/international-undergraduate-admissions",
+   "https://www.dcu.ie/registry/how-apply-dcu",
+   "https://www.dcu.ie/fees/dcu-international-foundation-programme"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "graz-university-of-technology",
+  "name": {
+   "en": "Graz University of Technology",
+   "ka": "გრაცის ტექნიკური უნივერსიტეტი",
+   "ar": "جامعة غراتس للتكنولوجيا"
+  },
+  "iso": "AT",
+  "city": "Graz",
+  "lat": 47.07,
+  "lon": 15.449,
+  "type": "public",
+  "website": "https://www.tugraz.at",
+  "platform": "Direct (application sent by post to TU Graz Registrar's Office)",
+  "application_url": "https://www.tugraz.at/en/studying-and-teaching/studying-at-tu-graz/prospective-students/admission/bachelors-programme-with-an-international-university-entrance-qualification",
+  "intakes": [
+   "October",
+   "March"
+  ],
+  "deadline": "2027-08-15",
+  "deadline_note": "For international entrance qualifications the winter semester window is 1 May to 15 August; the summer semester window is 1 December to 15 January. Dates are from the current published cycle. Some programmes have separate admission procedures.",
+  "tuition_intl": {
+   "amount": 1453,
+   "currency": "EUR",
+   "per": "year",
+   "note": "EUR 726.72 per semester for non-EU students, plus EUR 26.20 per semester student union fee. Nationals of about 50 listed countries get a tuition waiver; check the list for your country."
+  },
+  "acceptance_rate": null,
+  "students": 13529,
+  "intl_pct": 28.7,
+  "languages": [
+   "German",
+   "English"
+  ],
+  "english_bachelors": "none",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A school-leaving certificate that gives access to university in the issuing country is needed; some countries have extra rules. UK: specific A-level and GCSE subjects and grades. USA: a high school diploma alone is not enough, you also need APs, SAT/ACT or two years of post-secondary study. Documents may need legal certification.",
+   "ka": "საჭიროა სკოლის დამამთავრებელი დოკუმენტი, რომელიც გამცემ ქვეყანაში უნივერსიტეტში შესვლის უფლებას იძლევა; ზოგ ქვეყანაზე დამატებითი წესებია. დიდი ბრიტანეთი: კონკრეტული A-level და GCSE საგნები და შეფასებები. აშშ: მხოლოდ საშუალო სკოლის დიპლომი საკმარისი არ არის, საჭიროა AP, SAT/ACT ან ორი წლის უმაღლესი განათლების შემდგომი სწავლა. დოკუმენტებს შესაძლოა იურიდიული დამოწმება დასჭირდეს.",
+   "ar": "يلزم شهادة إتمام المدرسة التي تتيح دخول الجامعة في بلد الإصدار؛ ولبعض الدول قواعد إضافية. المملكة المتحدة: مواد ودرجات محددة في A-level وGCSE. الولايات المتحدة: لا يكفي دبلوم الثانوية وحده، بل يلزم AP أو SAT/ACT أو سنتان من الدراسة بعد الثانوية. وقد تحتاج المستندات إلى توثيق قانوني."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "German A2 at application, C1 later",
+   "English B2 for some programmes",
+   "Admission procedures for Architecture, Molecular Biology, Acoustics/Music/Information Engineering"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "mathematics",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Architecture",
+    "Chemistry and biotechnology",
+    "Physics and mathematics"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერებები",
+    "არქიტექტურა",
+    "ქიმია და ბიოტექნოლოგია",
+    "ფიზიკა და მათემატიკა"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "العمارة",
+    "الكيمياء والتقنية الحيوية",
+    "الفيزياء والرياضيات"
+   ]
+  },
+  "summary": {
+   "en": "A technical university in Graz, Austria, with 13,529 students and seven faculties. Bachelor programmes are taught in German, so international applicants need German (A2 to apply, C1 later); tuition for non-EU students is about EUR 1,450 a year.",
+   "ka": "ტექნიკური უნივერსიტეტი გრაცში, ავსტრია, 13 529 სტუდენტითა და შვიდი ფაკულტეტით. ბაკალავრის პროგრამები გერმანულ ენაზეა, ამიტომ უცხოელ აპლიკანტებს გერმანული სჭირდებათ (განაცხადისას A2, მოგვიანებით C1); არა-EU სტუდენტების საფასური დაახლოებით 1 450 ევროა წელიწადში.",
+   "ar": "جامعة تقنية في غراتس بالنمسا، فيها 13,529 طالبًا وسبع كليات. تُدرَّس برامج البكالوريوس بالألمانية، لذا يحتاج المتقدمون الدوليون إلى الألمانية (A2 عند التقديم ثم C1 لاحقًا)؛ والرسوم للطلاب من خارج الاتحاد الأوروبي نحو 1,450 يورو سنويًا."
+  },
+  "about": {
+   "en": "TU Graz had 13,529 students at the end of 2025, about 29% of them international. Applicants with an international school certificate send a paper application to the Registrar's Office in Graz in the winter window (1 May to 15 August) or summer window (1 December to 15 January). Bachelor programmes are taught in German, with many courses in English. You need German A2 at application and C1 later. Computer science and some other programmes also need English B2.",
+   "ka": "გრაცის ტექნიკურ უნივერსიტეტში 2025 წლის ბოლოს 13 529 სტუდენტი იყო, მათგან დაახლოებით 29% უცხოელი. საერთაშორისო სკოლის სერტიფიკატის მქონე აპლიკანტები ქაღალდის განცხადებას გრაცის რეგისტრატურაში აგზავნიან ზამთრის (1 მაისიდან 15 აგვისტომდე) ან ზაფხულის (1 დეკემბრიდან 15 იანვრამდე) პერიოდში. ბაკალავრის პროგრამები გერმანულ ენაზეა, მრავალი კურსი კი ინგლისურადაც. განაცხადისას გერმანული A2 გჭირდებათ, მოგვიანებით C1. კომპიუტერულ მეცნიერებებსა და ზოგ სხვა პროგრამას ინგლისური B2-იც სჭირდება.",
+   "ar": "بلغ عدد طلاب جامعة غراتس للتكنولوجيا 13,529 في نهاية 2025، نحو 29% منهم دوليون. يرسل المتقدمون بشهادة مدرسية دولية طلبًا ورقيًا إلى مكتب المسجّل في غراتس في نافذة الشتاء (من 1 مايو إلى 15 أغسطس) أو نافذة الصيف (من 1 ديسمبر إلى 15 يناير). تُدرَّس برامج البكالوريوس بالألمانية مع مقررات كثيرة بالإنجليزية. يلزم مستوى A2 في الألمانية عند التقديم ثم C1 لاحقًا، وتتطلب علوم الحاسوب وبعض البرامج الأخرى إنجليزية B2 أيضًا."
+  },
+  "aid_intl": {
+   "en": "TU Graz works with companies on scholarships for bachelor's students each semester; no dedicated aid for international bachelor students is published.",
+   "ka": "გრაცის ტექნიკური უნივერსიტეტი კომპანიებთან ერთად ყოველ სემესტრს სთავაზობს სტიპენდიებს ბაკალავრებს; უცხოელი ბაკალავრებისთვის განკუთვნილი ცალკე დახმარება გამოქვეყნებული არ არის.",
+   "ar": "تتعاون الجامعة مع شركات لتقديم منح لطلاب البكالوريوس كل فصل؛ ولا يوجد دعم مخصص لطلاب البكالوريوس الدوليين منشور."
+  },
+  "tests": {
+   "en": "German proof is needed: A2 with the application, C1 later (extraordinary student status until then). Some programmes (for example Computer Science) need English B2 proof by enrolment. Architecture, Molecular Biology and a few others have an entrance procedure. Supplementary exams may be required.",
+   "ka": "საჭიროა გერმანულის დამადასტურებელი დოკუმენტი: A2 განაცხადთან ერთად, C1 მოგვიანებით (მანამდე გამონაკლისი სტუდენტის სტატუსით). ზოგ პროგრამას (მაგალითად, კომპიუტერულ მეცნიერებებს) ჩარიცხვისთვის ინგლისური B2 სჭირდება. არქიტექტურასა და მოლეკულურ ბიოლოგიას და კიდევ რამდენიმეს მისაღები პროცედურა აქვს. შეიძლება დამატებითი გამოცდებიც მოითხოვებოდეს.",
+   "ar": "يلزم إثبات اللغة الألمانية: A2 مع الطلب وC1 لاحقًا (بصفة طالب استثنائي حتى ذلك الحين). وبعض البرامج (مثل علوم الحاسوب) تتطلب إثبات الإنجليزية B2 عند التسجيل. وللعمارة والبيولوجيا الجزيئية وبعض البرامج إجراء قبول خاص. وقد تُطلب امتحانات تكميلية."
+  },
+  "gpa_note": {
+   "en": "Requirements vary by programme and by the country of your certificate; some countries set a minimum grade or an extra national entrance exam.",
+   "ka": "მოთხოვნები იცვლება პროგრამისა და სერტიფიკატის გამცემი ქვეყნის მიხედვით; ზოგ ქვეყანაში მინიმალური ნიშანი ან დამატებითი ეროვნული გამოცდაა დადგენილი.",
+   "ar": "تختلف المتطلبات حسب البرنامج وبلد الشهادة؛ وتضع بعض الدول حدًا أدنى للدرجات أو امتحان دخول وطنيًا إضافيًا."
+  },
+  "requirements": [
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Completed application for admission form",
+     "ka": "შევსებული მიღების განაცხადის ფორმა",
+     "ar": "نموذج طلب القبول المكتمل"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Original proof of university entrance qualification (certified if required)",
+     "ka": "უნივერსიტეტში შესვლის კვალიფიკაციის ორიგინალი დამადასტურებელი დოკუმენტი (საჭიროების შემთხვევაში დამოწმებული)",
+     "ar": "إثبات أصلي لمؤهل دخول الجامعة (موثّق عند الاقتضاء)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "German language proof (A2 at application)",
+     "ka": "გერმანული ენის დამადასტურებელი დოკუმენტი (განაცხადისას A2)",
+     "ar": "إثبات اللغة الألمانية (A2 عند التقديم)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English B2 proof for some programmes",
+     "ka": "ინგლისური B2-ის დამადასტურებელი დოკუმენტი ზოგი პროგრამისთვის",
+     "ar": "إثبات الإنجليزية B2 لبعض البرامج"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Copy of passport or ID card",
+     "ka": "პასპორტის ან პირადობის მოწმობის ასლი",
+     "ar": "نسخة من جواز السفر أو بطاقة الهوية"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV",
+     "ka": "CV",
+     "ar": "السيرة الذاتية"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "TU Graz scholarships for high potentials (with partner companies)",
+    "url": "https://www.tugraz.at/en/studying-and-teaching/studying-at-tu-graz/prospective-students/financial-matters/scholarships-for-students/scholarships-tu-graz-high-potentials",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "austria",
+   "graz",
+   "technical university",
+   "engineering",
+   "german-taught",
+   "low tuition"
+  ],
+  "sources": [
+   "https://www.tugraz.at/en/studying-and-teaching/studying-at-tu-graz/prospective-students/admission/bachelors-programme-with-an-international-university-entrance-qualification",
+   "https://www.tugraz.at/en/studying-and-teaching/studying-at-tu-graz/prospective-students/financial-matters/tuition-fees-and-the-austrian-student-union-fee",
+   "https://www.tugraz.at/en/studying-and-teaching/studying-internationally/international-students/faq-for-international-students",
+   "https://www.tugraz.at/en/tu-graz/university/tu-graz-at-a-glance/tu-graz-at-a-glance"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "singapore-management-university",
+  "name": {
+   "en": "Singapore Management University",
+   "ka": "სინგაპურის მენეჯმენტის უნივერსიტეტი",
+   "ar": "جامعة سنغافورة للإدارة"
+  },
+  "iso": "SG",
+  "city": "Singapore",
+  "lat": 1.296,
+  "lon": 103.85,
+  "type": "public",
+  "website": "https://www.smu.edu.sg",
+  "platform": null,
+  "application_url": "https://www.smu.edu.sg/admissions/international-applicants",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The SMU admissions pages could not be read by the research tool; the application window for 2027 entry is not confirmed here.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "SGD",
+   "per": "year",
+   "note": "Not confirmed. International tuition is listed on the SMU admissions pages."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "The SMU international applicants page lists accepted qualifications (IB, A-level, SAT, national) but the details could not be read. Check the page before applying.",
+   "ka": "SMU-ის საერთაშორისო აპლიკანტების გვერდზე მითითებულია მისაღები კვალიფიკაციები (IB, A-level, SAT, ეროვნული), მაგრამ დეტალები ვერ წაიკითხა. განაცხადამდე გადაამოწმეთ გვერდი.",
+   "ar": "تذكر صفحة المتقدمين الدوليين في SMU المؤهلات المقبولة (IB وA-level وSAT والوطنية) لكن لم يمكن قراءة التفاصيل. راجع الصفحة قبل التقديم."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "economics",
+   "law",
+   "social-sciences",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Accountancy",
+    "Economics",
+    "Law",
+    "Computing and information systems"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ბუღალტრული აღრიცხვა",
+    "ეკონომიკა",
+    "სამართალი",
+    "გამოთვლითი და საინფორმაციო სისტემები"
+   ],
+   "ar": [
+    "إدارة الأعمال",
+    "المحاسبة",
+    "الاقتصاد",
+    "القانون",
+    "الحوسبة ونظم المعلومات"
+   ]
+  },
+  "summary": {
+   "en": "A university in central Singapore known for business, economics, law and computing. Dates, fees and test rules for international applicants must be checked on the official SMU admissions page.",
+   "ka": "უნივერსიტეტი სინგაპურის ცენტრში, რომელიც ცნობილია ბიზნესით, ეკონომიკით, სამართლითა და გამოთვლითი მეცნიერებით. საერთაშორისო აპლიკანტების ვადები, საფასური და ტესტების წესები გადაამოწმეთ SMU-ს ოფიციალურ გვერდზე.",
+   "ar": "جامعة في وسط سنغافورة معروفة بالأعمال والاقتصاد والقانون والحوسبة. يجب التحقق من المواعيد والرسوم وشروط الاختبارات للمتقدمين الدوليين في صفحة القبول الرسمية لـ SMU."
+  },
+  "about": {
+   "en": "Singapore Management University is located in the centre of Singapore. Its admissions site has a dedicated page for international applicants that covers the application window for 2027 entry, accepted qualifications (IB, A-level, SAT and national), English requirements, the SAT policy, tuition and scholarships. The research tool could not read the details, so confirm each point on the official page before you apply.",
+   "ka": "სინგაპურის მენეჯმენტის უნივერსიტეტი სინგაპურის ცენტრში მდებარეობს. მისი საადმისიო საიტზე საერთაშორისო აპლიკანტებისთვის ცალკე გვერდია, სადაც 2027 წლის მიღების განაცხადის პერიოდი, მისაღები კვალიფიკაციები (IB, A-level, SAT და ეროვნული), ინგლისურის მოთხოვნები, SAT-ის პოლიტიკა, სწავლის საფასური და სტიპენდიებია მოცემული. დეტალები ავტომატურად ვერ წაიკითხა, ამიტომ განაცხადამდე თითოეული პუნქტი ოფიციალურ გვერდზე გადაამოწმეთ.",
+   "ar": "تقع جامعة سنغافورة للإدارة في وسط سنغافورة. يضم موقع القبول صفحة مخصصة للمتقدمين الدوليين تشمل موعد التقديم لدخول 2027 والمؤهلات المقبولة (IB وA-level وSAT والوطنية) ومتطلبات الإنجليزية وسياسة SAT والرسوم والمنح. لم تتمكن أداة البحث من قراءة التفاصيل، لذا تأكد من كل نقطة في الصفحة الرسمية قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "Scholarships are listed on the SMU international applicants page; details could not be read here.",
+   "ka": "სტიპენდიები SMU-ის საერთაშორისო აპლიკანტების გვერდზეა მითითებული; დეტალები აქ ვერ წაიკითხა.",
+   "ar": "المنح مذكورة في صفحة المتقدمين الدوليين في SMU؛ ولم يمكن قراءة التفاصيل هنا."
+  },
+  "tests": {
+   "en": "The page lists English requirements and an SAT policy; the scores could not be read here.",
+   "ka": "გვერდზე მითითებულია ინგლისურის მოთხოვნები და SAT-ის პოლიტიკა; ქულები აქ ვერ წაიკითხა.",
+   "ar": "تذكر الصفحة متطلبات الإنجليزية وسياسة SAT؛ ولم يمكن قراءة الدرجات هنا."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are not confirmed; see the official SMU admissions page.",
+   "ka": "აკადემიური მოთხოვნები დადასტურებული არ არის; იხილეთ SMU-ის ოფიციალური საადმისიო გვერდი.",
+   "ar": "المتطلبات الأكاديمية غير مؤكدة؛ راجع صفحة القبول الرسمية لـ SMU."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების უწყისი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency proof",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "singapore",
+   "business",
+   "economics",
+   "law",
+   "city campus"
+  ],
+  "sources": [
+   "https://www.smu.edu.sg/admissions/international-applicants"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-saskatchewan",
+  "name": {
+   "en": "University of Saskatchewan",
+   "ka": "სასკაჩევანის უნივერსიტეტი",
+   "ar": "جامعة ساسكاتشوان"
+  },
+  "iso": "CA",
+  "city": "Saskatoon",
+  "lat": 52.131,
+  "lon": -106.631,
+  "type": "public",
+  "website": "https://www.usask.ca",
+  "platform": "Direct (USask online application, apply.usask.ca)",
+  "application_url": "https://admissions.usask.ca/requirements/apply.php",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Deadlines depend on the programme, the start term and whether you are new to university; they are listed on each programme page. Scholarship consideration deadlines are 15 February and 1 May.",
+  "tuition_intl": {
+   "amount": 39007,
+   "currency": "CAD",
+   "per": "year",
+   "note": "Estimated first-year international tuition for 2026-27: CAD 39,007 (Arts) to CAD 59,383 (Engineering); Science 40,894, Business 48,932, Nursing 48,305. A CAD 1,000 deposit is due when you accept the offer."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "IB students upload predicted scores, then the official transcript; AP scores are sent by the College Board. Requirements for other countries' certificates were not found on the pages checked.",
+   "ka": "IB სტუდენტები ტვირთავენ სავარაუდო ქულებს, შემდეგ კი ოფიციალურ ტრანსკრიპტს; AP ქულებს College Board აგზავნის. სხვა ქვეყნების სერტიფიკატების მოთხოვნები შემოწმებულ გვერდებზე ვერ მოიძებნა.",
+   "ar": "يرفع طلاب IB الدرجات المتوقعة ثم الكشف الرسمي؛ وترسل College Board نتائج AP. لم تُوجد متطلبات شهادات الدول الأخرى في الصفحات التي جرى فحصها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.5,
+  "toefl_min": null,
+  "duolingo_min": 120,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "environment",
+   "medicine-health",
+   "business",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Agriculture and bioresources",
+    "Engineering",
+    "Health sciences and nursing",
+    "Business",
+    "Arts and science"
+   ],
+   "ka": [
+    "სოფლის მეურნეობა და ბიორესურსები",
+    "ინჟინერია",
+    "ჯანმრთელობის მეცნიერებები და მედდობა",
+    "ბიზნესი",
+    "ხელოვნება და მეცნიერება"
+   ],
+   "ar": [
+    "الزراعة والموارد الحيوية",
+    "الهندسة",
+    "العلوم الصحية والتمريض",
+    "إدارة الأعمال",
+    "الآداب والعلوم"
+   ]
+  },
+  "summary": {
+   "en": "A public research university in Saskatoon, Canada, with colleges from arts and science to engineering and nursing. International tuition is about CAD 39,000 to 59,000 a year, and several scholarships are awarded automatically on admission.",
+   "ka": "სახელმწიფო სამეცნიერო უნივერსიტეტი სასკატუნში, კანადა, ხელოვნებისა და მეცნიერებიდან ინჟინერიამდე და მედდობამდე კოლეჯებით. უცხოელებისთვის სწავლის საფასური წელიწადში დაახლოებით 39 000-დან 59 000 CAD-მდეა, ხოლო რამდენიმე სტიპენდია მიღებისას ავტომატურად გაიცემა.",
+   "ar": "جامعة بحثية حكومية في ساسكاتون بكندا، فيها كليات تمتد من الآداب والعلوم إلى الهندسة والتمريض. تبلغ الرسوم الدولية نحو 39,000 إلى 59,000 دولار كندي سنويًا، وتُمنح عدة منح تلقائيًا عند القبول."
+  },
+  "about": {
+   "en": "The University of Saskatchewan is a public university in Saskatoon. International applicants create an account at apply.usask.ca, pay a minimum CAD 120 non-refundable fee, and upload their transcript. Accepted students confirm the offer and pay a CAD 1,000 deposit, which is needed before the university endorses the provincial attestation letter for the study permit. Teaching is in English: IELTS 6.5 or Duolingo 120 is accepted. Scholarships are considered at admission.",
+   "ka": "სასკაჩევანის უნივერსიტეტი სახელმწიფო უნივერსიტეტია ქალაქ სასკატუნში. უცხოელი აპლიკანტები apply.usask.ca-ზე ქმნიან ანგარიშს, იხდიან მინიმუმ 120 CAD-ის არაანაზღაურებად გადასახადს და ტვირთავენ ნიშნების უწყისს. ჩარიცხული სტუდენტები ადასტურებენ შეთავაზებას და იხდიან 1 000 CAD-ის დეპოზიტს, რაც სასწავლო ნებართვისთვის საპროვინციო დამადასტურებელი წერილის დასამოწმებლად არის საჭირო. სწავლება ინგლისურადაა: მიიღება IELTS 6.5 ან Duolingo 120. სტიპენდიები მიღებისას განიხილება.",
+   "ar": "جامعة ساسكاتشوان جامعة حكومية في ساسكاتون. ينشئ المتقدمون الدوليون حسابًا في apply.usask.ca ويدفعون رسومًا لا تقل عن 120 دولارًا كنديًا غير قابلة للاسترداد ويرفعون كشف الدرجات. ويؤكد المقبولون العرض ويدفعون وديعة 1,000 دولار كندي، وهي لازمة قبل أن تصادق الجامعة على خطاب الإفادة الإقليمي لتصريح الدراسة. التدريس بالإنجليزية ويُقبل IELTS 6.5 أو Duolingo 120. وتُدرس المنح عند القبول."
+  },
+  "aid_intl": {
+   "en": "Several awards are considered automatically on admission, such as the International Excellence Award (CAD 10,000) and the IB Diploma Excellence Award (CAD 20,000); the admission application deadline for these is 15 February.",
+   "ka": "რამდენიმე ჯილდო მიღებისას ავტომატურად განიხილება, მაგალითად, International Excellence Award (10 000 CAD) და IB Diploma Excellence Award (20 000 CAD); მათთვის განაცხადის ბოლო ვადაა 15 თებერვალი.",
+   "ar": "تُدرس عدة جوائز تلقائيًا عند القبول، مثل جائزة التميز الدولية (10,000 دولار كندي) وجائزة تميز دبلوم IB (20,000 دولار كندي)؛ والموعد النهائي لطلب القبول لها هو 15 فبراير."
+  },
+  "tests": {
+   "en": "English proof: IELTS Academic 6.5 (6 in each part), TOEFL iBT 4.5 on the new scale (4 per part), Duolingo 120, or PTE Academic 63. Scores must come from one test date and be less than two years old.",
+   "ka": "ინგლისურის დამადასტურებელი დოკუმენტი: IELTS Academic 6.5 (თითო ნაწილში 6), TOEFL iBT 4.5 ახალ სკალაზე (თითო ნაწილში 4), Duolingo 120 ან PTE Academic 63. ქულები ერთი ტესტის თარიღიდან უნდა იყოს და ორ წელზე ძველი არ უნდა იყოს.",
+   "ar": "إثبات الإنجليزية: IELTS Academic بدرجة 6.5 (6 في كل جزء) أو TOEFL iBT بدرجة 4.5 على المقياس الجديد (4 لكل جزء) أو Duolingo 120 أو PTE Academic 63. يجب أن تكون الدرجات من تاريخ اختبار واحد وألا يتجاوز عمرها سنتين."
+  },
+  "gpa_note": {
+   "en": "Admission averages and required high school subjects depend on the college and programme; see the programme page.",
+   "ka": "მისაღები საშუალო ქულა და საჭირო საგნები კოლეჯსა და პროგრამაზეა დამოკიდებული; იხილეთ პროგრამის გვერდი.",
+   "ar": "تعتمد معدلات القبول والمواد المطلوبة على الكلية والبرنامج؛ راجع صفحة البرنامج."
+  },
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Online application and CAD 120 fee",
+     "ka": "ონლაინ განაცხადი და 120 CAD გადასახადი",
+     "ar": "الطلب الإلكتروني ورسوم 120 دولارًا كنديًا"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Current high school transcript, then final official transcript",
+     "ka": "მიმდინარე სკოლის ნიშნების უწყისი, შემდეგ საბოლოო ოფიციალური ტრანსკრიპტი",
+     "ar": "كشف درجات الثانوية الحالي ثم الكشف الرسمي النهائي"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency test result",
+     "ka": "ინგლისური ენის ტესტის შედეგი",
+     "ar": "نتيجة اختبار إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "CAD 1,000 tuition deposit on accepting the offer",
+     "ka": "1 000 CAD დეპოზიტი შეთავაზების მიღებისას",
+     "ar": "وديعة 1,000 دولار كندي عند قبول العرض"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "University of Saskatchewan International Excellence Award",
+    "url": "https://admissions.usask.ca/money/scholarships.php",
+    "coverage": "partial"
+   },
+   {
+    "name": "IB Diploma Program Excellence Awards",
+    "url": "https://admissions.usask.ca/money/scholarships.php",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "canada",
+   "saskatoon",
+   "saskatchewan",
+   "engineering",
+   "agriculture",
+   "study permit",
+   "scholarship"
+  ],
+  "sources": [
+   "https://admissions.usask.ca/requirements/apply.php",
+   "https://admissions.usask.ca/requirements/english-language-proficiency.php",
+   "https://admissions.usask.ca/money/tuition.php",
+   "https://admissions.usask.ca/money/scholarships.php"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-southern-queensland",
+  "name": {
+   "en": "University of Southern Queensland",
+   "ka": "სამხრეთ კვინზლენდის უნივერსიტეტი",
+   "ar": "جامعة جنوب كوينزلاند"
+  },
+  "iso": "AU",
+  "city": "Toowoomba",
+  "lat": -27.561,
+  "lon": 151.953,
+  "type": "public",
+  "website": "https://www.usq.edu.au",
+  "platform": "Direct online application or via a UniSQ education agent",
+  "application_url": "https://www.unisq.edu.au/international/apply",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No international intake dates were found on the pages checked; see the UniSQ key dates page.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "AUD",
+   "per": "year",
+   "note": "International fees depend on degree and study load and are listed per unit in the UniSQ fee schedule; no annual figure was found."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "UniSQ compares applications with Australian Year 12. A-levels: best three subjects are converted to an Australian rank. IB Diploma: 24 points equals a Selection ATAR Rank of 65. Other qualifications are assessed on application.",
+   "ka": "UniSQ განაცხადებს ავსტრალიის მე-12 კლასის სერტიფიკატს ადარებს. A-level: საუკეთესო სამი საგანი ავსტრალიურ რანგად გადაიყვანება. IB დიპლომი: 24 ქულა უტოლდება Selection ATAR Rank 65-ს. სხვა კვალიფიკაციები განაცხადისას ფასდება.",
+   "ar": "تقارن UniSQ الطلبات بشهادة الصف الثاني عشر الأسترالية. A-level: تُحوَّل أفضل ثلاث مواد إلى رتبة أسترالية. دبلوم IB: 24 نقطة تعادل رتبة ATAR 65. وتُقيَّم المؤهلات الأخرى عند التقديم."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 6.5,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "education",
+   "medicine-health",
+   "business",
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Nursing and allied health",
+    "Psychology",
+    "Business",
+    "Engineering"
+   ],
+   "ka": [
+    "განათლება",
+    "მედდობა და მომიჯნავე ჯანდაცვა",
+    "ფსიქოლოგია",
+    "ბიზნესი",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "التربية",
+    "التمريض والعلوم الصحية المساندة",
+    "علم النفس",
+    "إدارة الأعمال",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Queensland, Australia, now branded UniSQ, with campuses at Toowoomba, Springfield and Ipswich. International applicants apply directly or through an agent, and IELTS 6.5 is the standard English requirement.",
+   "ka": "სახელმწიფო უნივერსიტეტი ავსტრალიის კვინზლენდში, ახლა UniSQ-ის სახელით, კამპუსებით ტუუმბაში, სპრინგფილდსა და იფსვიჩში. უცხოელი აპლიკანტები განცხადებას უშუალოდ ან აგენტის მეშვეობით აგზავნიან; ინგლისურის სტანდარტული მოთხოვნაა IELTS 6.5.",
+   "ar": "جامعة حكومية في كوينزلاند بأستراليا، تعمل الآن باسم UniSQ، ولها حرم في توومبا وسبرينغفيلد وإيبسويتش. يتقدم الدوليون مباشرة أو عبر وكيل، والحد المعتاد للإنجليزية هو IELTS 6.5."
+  },
+  "about": {
+   "en": "The University of Southern Queensland, now called UniSQ, is a public university with campuses at Toowoomba, Springfield and Ipswich. International students apply online or through a UniSQ agent. UniSQ compares your school qualification with Australian Year 12; A-levels and the IB Diploma are converted to an Australian rank, and other qualifications are assessed case by case. Most degrees need Academic IELTS 6.5 with no band below 6.0. Fees are charged per unit.",
+   "ka": "სამხრეთ კვინზლენდის უნივერსიტეტი, რომელსაც ახლა UniSQ ჰქვია, სახელმწიფო უნივერსიტეტია ტუუმბაში, სპრინგფილდსა და იფსვიჩში მდებარე კამპუსებით. უცხოელი სტუდენტები განცხადებას ონლაინ ან UniSQ-ის აგენტის მეშვეობით აგზავნიან. UniSQ თქვენს სკოლის კვალიფიკაციას ავსტრალიის მე-12 კლასს ადარებს; A-level და IB დიპლომი ავსტრალიურ რანგად გადაიყვანება, სხვა კვალიფიკაციები კი ინდივიდუალურად ფასდება. ბევრ ხარისხს სჭირდება Academic IELTS 6.5, არც ერთი ქვეტესტი 6.0-ზე დაბლა. საფასური ერთეულების (კურსების) მიხედვით გადაიხდება.",
+   "ar": "جامعة جنوب كوينزلاند، المعروفة الآن باسم UniSQ، جامعة حكومية لها حرم في توومبا وسبرينغفيلد وإيبسويتش. يتقدم الطلاب الدوليون إلكترونيًا أو عبر وكيل لـ UniSQ. تقارن الجامعة مؤهلك المدرسي بالصف الثاني عشر الأسترالي؛ وتُحوَّل A-level ودبلوم IB إلى رتبة أسترالية، وتُقيَّم المؤهلات الأخرى حالة بحالة. تتطلب معظم الدرجات IELTS Academic بدرجة 6.5 دون أي مهارة تقل عن 6.0. وتُحتسب الرسوم لكل مقرر."
+  },
+  "aid_intl": {
+   "en": "International students may get UniSQ scholarships based on academic performance or area of study, and Australia Awards scholarships funded by the Australian Government.",
+   "ka": "უცხოელ სტუდენტებს შეიძლება მიეცეთ UniSQ-ის სტიპენდიები აკადემიური მოსწრების ან სფეროს მიხედვით და ავსტრალიის მთავრობის დაფინანსებით Australia Awards სტიპენდიები.",
+   "ar": "قد يحصل الطلاب الدوليون على منح UniSQ بحسب الأداء الأكاديمي أو مجال الدراسة، ومنح Australia Awards التي تموّلها الحكومة الأسترالية."
+  },
+  "tests": {
+   "en": "Academic IELTS 6.5 overall with no band below 6.0 is the standard; Education, Allied Health, Psychology and Nursing have different rules. A One Skill Retake can be accepted.",
+   "ka": "სტანდარტია Academic IELTS 6.5, არც ერთი ქვეტესტი 6.0-ზე დაბლა; განათლებას, მომიჯნავე ჯანდაცვას, ფსიქოლოგიასა და მედდობას განსხვავებული წესები აქვს. მიიღება One Skill Retake.",
+   "ar": "المعيار هو Academic IELTS بدرجة 6.5 دون أي مهارة تقل عن 6.0؛ وللتربية والعلوم الصحية المساندة وعلم النفس والتمريض قواعد مختلفة. ويمكن قبول إعادة مهارة واحدة."
+  },
+  "gpa_note": {
+   "en": "Some programmes need a higher rank or specific prerequisite subjects than the standard entry.",
+   "ka": "ზოგ პროგრამას სტანდარტულზე მაღალი რანგი ან კონკრეტული წინაპირობა საგნები სჭირდება.",
+   "ar": "تتطلب بعض البرامج رتبة أعلى أو مواد سابقة محددة بخلاف القبول المعتاد."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts and certificate",
+     "ka": "საშუალო სკოლის ნიშნების უწყისი და სერტიფიკატი",
+     "ar": "كشوف درجات وشهادة المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency evidence (Academic IELTS)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი (Academic IELTS)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (Academic IELTS)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport and student visa documents",
+     "ka": "პასპორტი და სტუდენტური ვიზის დოკუმენტები",
+     "ar": "جواز السفر ومستندات تأشيرة الطالب"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "UniSQ and Australia Awards scholarships",
+    "url": "https://www.unisq.edu.au/international/fees-scholarships",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "australia",
+   "queensland",
+   "toowoomba",
+   "unisq",
+   "ielts 6.5",
+   "education",
+   "nursing"
+  ],
+  "sources": [
+   "https://www.unisq.edu.au/study/international",
+   "https://www.unisq.edu.au/international/apply/entry-requirements",
+   "https://www.unisq.edu.au/study/apply/entry-requirements/english-language-requirements",
+   "https://www.unisq.edu.au/international/fees-scholarships"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-kent",
+  "name": {
+   "en": "University of Kent",
+   "ka": "კენტის უნივერსიტეტი",
+   "ar": "جامعة كنت"
+  },
+  "iso": "GB",
+  "city": "Canterbury",
+  "lat": 51.297,
+  "lon": 1.069,
+  "type": "public",
+  "website": "https://www.kent.ac.uk",
+  "platform": "UCAS or direct application to Kent",
+  "application_url": "https://www.kent.ac.uk/international/how-to-apply",
+  "intakes": [
+   "September",
+   "January"
+  ],
+  "deadline": "2026-01-14",
+  "deadline_note": "This is the 2026-entry date: 14 January 2026 for most courses; Kent accepts many applications until 30 June 2026. The 2027 dates were not yet published on the page.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "GBP",
+   "per": "year",
+   "note": "International fees are shown on each course page and were not on the pages checked. Home fees are GBP 9,790 for 2026/27."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry requirements by country are on Kent's country pages and were not readable here. Kent also offers an International Foundation Programme for applicants who need a pathway.",
+   "ka": "ქვეყნების მიხედვით მიღების მოთხოვნები Kent-ის ქვეყნების გვერდებზეა და აქ ვერ წაიკითხა. Kent-ს ასევე აქვს საერთაშორისო საფუძვლოვანი პროგრამა (IFP) იმ აპლიკანტებისთვის, ვისაც სამზადისი სჭირდება.",
+   "ar": "شروط القبول حسب الدولة موجودة في صفحات الدول لدى كنت ولم يمكن قراءتها هنا. وتقدم كنت أيضًا برنامجًا تأسيسيًا دوليًا للمتقدمين الذين يحتاجون إلى مسار تمهيدي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "social-sciences",
+   "humanities",
+   "business",
+   "computer-science",
+   "law",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Social sciences",
+    "Humanities",
+    "Business",
+    "Computing",
+    "Law",
+    "Natural sciences"
+   ],
+   "ka": [
+    "სოციალური მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "ბიზნესი",
+    "კომპიუტერული მეცნიერებები",
+    "სამართალი",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم الاجتماعية",
+    "العلوم الإنسانية",
+    "إدارة الأعمال",
+    "الحوسبة",
+    "القانون",
+    "العلوم الطبيعية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Canterbury, England, with students from over 100 nationalities. International applicants apply through UCAS or directly, and a scholarship of up to GBP 5,000 is available.",
+   "ka": "სახელმწიფო უნივერსიტეტი კენტერბერიში, ინგლისი, 100-ზე მეტი ეროვნების სტუდენტებით. უცხოელი აპლიკანტები განცხადებას UCAS-ით ან უშუალოდ აგზავნიან; ხელმისაწვდომია 5 000 ფუნტამდე სტიპენდია.",
+   "ar": "جامعة حكومية في كانتربري بإنجلترا يدرس فيها طلاب من أكثر من 100 جنسية. يتقدم الدوليون عبر UCAS أو مباشرة، وتتوفر منحة تصل إلى 5,000 جنيه إسترليني."
+  },
+  "about": {
+   "en": "The University of Kent is a public university in Canterbury, England. International students can apply through UCAS or directly to Kent, but not both; applying direct has no fee. The main UCAS deadline for 2026 entry was 14 January, and Kent accepts many applications until 30 June. September and January intakes exist. English proof is stated in your offer. Fees depend on the course and are listed on each course page.",
+   "ka": "კენტის უნივერსიტეტი სახელმწიფო უნივერსიტეტია კენტერბერიში, ინგლისი. უცხოელ სტუდენტებს შეუძლიათ განაცხადი გააგზავნონ UCAS-ით ან უშუალოდ Kent-ში, მაგრამ არა ორივე გზით; პირდაპირი განაცხადი უფასოა. 2026 წლის მიღებისთვის UCAS-ის მთავარი ბოლო ვადა 14 იანვარი იყო, ხოლო Kent მრავალ განაცხადს 30 ივნისამდე იღებს. არსებობს სექტემბრისა და იანვრის ნაკადი. ინგლისურის მოთხოვნა შეთავაზებაში მიეთითება. საფასური კურსზეა დამოკიდებული და თითოეული კურსის გვერდზეა მითითებული.",
+   "ar": "جامعة كنت جامعة حكومية في كانتربري بإنجلترا. يمكن للطلاب الدوليين التقدم عبر UCAS أو مباشرة إلى كنت، لكن ليس بالطريقتين معًا؛ والتقديم المباشر بلا رسوم. كان الموعد الرئيسي لـ UCAS لدخول 2026 هو 14 يناير، وتقبل كنت كثيرًا من الطلبات حتى 30 يونيو. توجد دفعتا سبتمبر ويناير. يُذكر شرط اللغة الإنجليزية في العرض. وتعتمد الرسوم على المقرر وتظهر في صفحة كل مقرر."
+  },
+  "aid_intl": {
+   "en": "The Kent International Scholarship gives up to GBP 5,000 off tuition; eligible applicants are notified after accepting an offer and do not need to apply.",
+   "ka": "Kent International Scholarship ფარავს სწავლის საფასურის 5 000 ფუნტამდე ნაწილს; შესაბამის აპლიკანტებს შეთავაზების მიღების შემდეგ ატყობინებენ და განაცხადი არ სჭირდებათ.",
+   "ar": "تمنح منحة كنت الدولية خصمًا يصل إلى 5,000 جنيه إسترليني من الرسوم؛ ويُخطَر المؤهلون بعد قبول العرض دون الحاجة إلى التقديم."
+  },
+  "tests": {
+   "en": "English proof is required if English is not your first language; the exact score is stated in your offer and must meet UK visa rules.",
+   "ka": "თუ ინგლისური თქვენი პირველი ენა არ არის, საჭიროა ინგლისურის დამადასტურებელი დოკუმენტი; ზუსტი ქულა შეთავაზებაში მიეთითება და უნდა აკმაყოფილებდეს გაერთიანებული სამეფოს ვიზის წესებს.",
+   "ar": "يلزم إثبات الإنجليزية إذا لم تكن لغتك الأولى؛ وتُذكر الدرجة المطلوبة في العرض ويجب أن تستوفي شروط التأشيرة البريطانية."
+  },
+  "gpa_note": {
+   "en": "Grade requirements are set per course and per country; check your country page and the course page.",
+   "ka": "ქულების მოთხოვნები კურსისა და ქვეყნის მიხედვით დგინდება; გადაამოწმეთ ქვეყნისა და კურსის გვერდები.",
+   "ar": "تُحدَّد متطلبات الدرجات لكل مقرر ولكل دولة؛ راجع صفحة بلدك وصفحة المقرر."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Exam results and transcripts",
+     "ka": "გამოცდების შედეგები და ნიშნების უწყისი",
+     "ar": "نتائج الامتحانات وكشوف الدرجات"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Personal statement (UCAS) or direct application answers",
+     "ka": "პირადი განცხადება (UCAS) ან პირდაპირი განაცხადის პასუხები",
+     "ar": "بيان شخصي (UCAS) أو إجابات الطلب المباشر"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language evidence",
+     "ka": "ინგლისური ენის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Identity documents for the admissions ID check",
+     "ka": "პირადობის დოკუმენტები საადმისიო ID შემოწმებისთვის",
+     "ar": "وثائق الهوية للتحقق من الهوية عند القبول"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Kent International Scholarship (Undergraduate), up to GBP 5,000",
+    "url": "https://www.kent.ac.uk/international/international-scholarships",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "uk",
+   "canterbury",
+   "kent",
+   "ucas",
+   "international foundation programme",
+   "scholarship"
+  ],
+  "sources": [
+   "https://www.kent.ac.uk/international/how-to-apply",
+   "https://www.kent.ac.uk/courses/undergraduate/apply",
+   "https://www.kent.ac.uk/international/international-scholarships",
+   "https://www.kent.ac.uk/international/international-applicant-faqs"
+  ],
+  "verified_at": "2026-11-01"
+ }
 ]

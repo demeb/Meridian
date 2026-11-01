@@ -248,7 +248,7 @@ def robots():
 def sitemap():
     """Every public page, programme and university, so search engines find them."""
     pages = ["", "programs", "programs?s=scholarships", "universities", "teachers", "counselling", "prep",
-             "pricing", "about", "about/research", "faq", "engage"]
+             "pricing", "about", "about/leadership", "about/research", "about/faq", "engage"]
     urls = ["%s/%s" % (SITE_URL, p) for p in pages]
     urls += ["%s/programs/%s" % (SITE_URL, p["id"]) for p in catalog.programs()]
     full, rest = catalog.directory()

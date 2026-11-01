@@ -1026,6 +1026,24 @@
     }).observe(document.body, { childList: true, subtree: true });
   }
 
+  // language names for universities' teaching languages (data is in English)
+  var LANG_NAMES = {
+    English: { ka: 'ინგლისური', ar: 'الإنجليزية' }, Spanish: { ka: 'ესპანური', ar: 'الإسبانية' },
+    Italian: { ka: 'იტალიური', ar: 'الإيطالية' }, Czech: { ka: 'ჩეხური', ar: 'التشيكية' },
+    German: { ka: 'გერმანული', ar: 'الألمانية' }, French: { ka: 'ფრანგული', ar: 'الفرنسية' },
+    Dutch: { ka: 'ნიდერლანდური', ar: 'الهولندية' }, Chinese: { ka: 'ჩინური', ar: 'الصينية' },
+    Japanese: { ka: 'იაპონური', ar: 'اليابانية' }, Korean: { ka: 'კორეული', ar: 'الكورية' },
+    Russian: { ka: 'რუსული', ar: 'الروسية' }, Turkish: { ka: 'თურქული', ar: 'التركية' },
+    Arabic: { ka: 'არაბული', ar: 'العربية' }, Portuguese: { ka: 'პორტუგალიური', ar: 'البرتغالية' },
+    Polish: { ka: 'პოლონური', ar: 'البولندية' }, Swedish: { ka: 'შვედური', ar: 'السويدية' },
+    Catalan: { ka: 'კატალანური', ar: 'الكتالونية' }, Georgian: { ka: 'ქართული', ar: 'الجورجية' }
+  };
+  function langName(name) {
+    var key = String(name || '').split(/[ (]/)[0];
+    var row = LANG_NAMES[key];
+    return row && state.lang !== 'en' && row[state.lang] ? row[state.lang] : name;
+  }
+
   /* Activity for the weekly report: what was opened, clicked, searched. */
   function track(kind, item, meta) {
     try {
@@ -1039,7 +1057,7 @@
   }
 
   window.M = {
-    t: t, pick: pick, esc: esc, icon: icon, api: api, toast: toast, track: track, searchSelect: searchSelect, collapsible: collapsible, FIELDS: FIELDS, fieldsOf: fieldsOf,
+    t: t, pick: pick, esc: esc, icon: icon, api: api, toast: toast, track: track, searchSelect: searchSelect, collapsible: collapsible, LANG_NAMES: LANG_NAMES, langName: langName, FIELDS: FIELDS, fieldsOf: fieldsOf,
     state: state, loadUser: loadUser, paintAuth: paintAuth,
     formatDate: formatDate, daysUntil: daysUntil, parseDate: parseDate, iso: iso,
     months: MONTHS, dow: DOW,

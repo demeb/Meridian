@@ -1,0 +1,602 @@
+{
+ "lmu-munich": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "IB and A-levels (with enough subjects) give direct access; national school diplomas without direct access need a Studienkolleg year plus the assessment exam, and US diplomas usually need APs or a Studienkolleg. German C1 (DSH-2 or TestDaF) is required for German-taught degrees.",
+   "ka": "IB და A-levels (საკმარისი საგნებით) პირდაპირ წვდომას იძლევა; ეროვნული სასკოლო დიპლომი პირდაპირი წვდომის გარეშე საჭიროებს Studienkolleg-ის წელს და შეფასების გამოცდას, ამერიკული დიპლომი კი ჩვეულებრივ AP-ს ან Studienkolleg-ს. გერმანულენოვანი პროგრამებისთვის საჭიროა გერმანული C1 (DSH-2 ან TestDaF).",
+   "ar": "تمنح شهادتا IB وA-level (بعدد كافٍ من المواد) قبولًا مباشرًا؛ أما الشهادات الوطنية التي لا تمنح قبولًا مباشرًا فتتطلب سنة Studienkolleg وامتحان تقييم، وغالبًا ما يحتاج الدبلوم الأمريكي إلى AP أو Studienkolleg. تُشترط اللغة الألمانية C1 (DSH-2 أو TestDaF) للبرامج الدراسية بالألمانية."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "law",
+   "economics",
+   "social-sciences",
+   "humanities"
+  ]
+ },
+ "lse": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A-levels and IB are accepted (typically A*AA-AAA; IB 37-38); offers are course-specific. National school diplomas usually need a foundation year; US diploma applicants need APs, SAT or ACT.",
+   "ka": "A-levels და IB მიიღება (typically A*AA-AAA; IB 37-38); პირობები თითოეული პროგრამისთვის განსხვავებულია. ეროვნულ სასკოლო დიპლომს ხშირად სჭირდება foundation წელი; ამერიკული დიპლომის შემთხვევაში საჭიროა AP, SAT ან ACT.",
+   "ar": "تُقبل شهادات A-level وIB (typically A*AA-AAA; IB 37-38)؛ والعروض تختلف حسب البرنامج. تتطلب الشهادات الثانوية الوطنية عادةً سنة تأسيسية، ويحتاج حاملو الدبلوم الأمريكي إلى AP أو SAT أو ACT."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "economics",
+   "international-relations",
+   "social-sciences",
+   "law",
+   "business"
+  ]
+ },
+ "king-fahd-university-of-petroleum-and-minerals": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "SAT 1350+ is required for the international track, followed by a KFUPM mathematics assessment; US diploma holders with SAT apply directly, other school diplomas (national, A-level, IB) also go through the SAT route.",
+   "ka": "საერთაშორისო ტრეკისთვის საჭიროა SAT 1350+ და შემდეგ KFUPM-ის მათემატიკის შეფასება; ამერიკული დიპლომის მფლობელები SAT-ით აპლიკაციას უშუალოდ აგზავნიან, სხვა სასკოლო დიპლომებიც (ეროვნული, A-level, IB) SAT-ის გზით გადის.",
+   "ar": "يُشترط SAT بدرجة 1350+ للمسار الدولي ثم تقييم رياضيات في KFUPM؛ يتقدم حاملو الدبلوم الأمريكي مع SAT مباشرةً، وتمر الشهادات الأخرى (الوطنية وA-level وIB) عبر مسار SAT أيضًا."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "environment",
+   "business"
+  ]
+ },
+ "kyoto-university": {
+  "qualifications": null,
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "environment",
+   "economics",
+   "law",
+   "medicine-health"
+  ]
+ },
+ "kaist": {
+  "qualifications": null,
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "arts-design"
+  ]
+ },
+ "brown-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Secondary diplomas from any national system, A-levels, IB and US diplomas are all reviewed on transcripts and grades. SAT or ACT is required.",
+   "ka": "ნებისმიერი ქვეყნის სასკოლო დიპლომი, A-levels, IB და ამერიკული დიპლომი განიხილება ატესტატისა და ნიშნების მიხედვით. SAT ან ACT სავალდებულოა.",
+   "ar": "تُراجع الشهادات الثانوية من أي نظام وطني وA-level وIB والدبلوم الأمريكي بحسب السجل الدراسي والدرجات. امتحان SAT أو ACT مطلوب."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "economics",
+   "mathematics",
+   "international-relations",
+   "medicine-health",
+   "humanities"
+  ]
+ },
+ "the-university-of-auckland": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Entry is by your secondary qualification with programme-specific rank scores: IB and A-levels are accepted, US diploma applicants submit SAT/ACT/AP, and other national diplomas are assessed individually and may need a foundation year.",
+   "ka": "მიღება ხდება საშუალო განათლების კვალიფიკაციით, პროგრამის სპეციფიკური რეიტინგული ქულებით: IB და A-levels მიიღება, ამერიკული დიპლომის შემთხვევაში წარედგინება SAT/ACT/AP, სხვა ეროვნული დიპლომები კი ინდივიდუალურად ფასდება და შესაძლოა foundation წელი დასჭირდეს.",
+   "ar": "يتم القبول بحسب المؤهل الثانوي ودرجات ترتيب خاصة بكل برنامج: تُقبل شهادتا IB وA-level، ويقدّم حاملو الدبلوم الأمريكي SAT/ACT/AP، وتُقيَّم الشهادات الوطنية الأخرى فرديًا وقد تتطلب سنة تأسيسية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "business",
+   "medicine-health",
+   "law",
+   "arts-design"
+  ]
+ },
+ "university-of-birmingham": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A-levels and IB are accepted with course-specific offers (e.g. Philosophy BA: AAB or IB 32); US diploma applicants need an unweighted GPA of 3.2+ plus APs, SAT or ACT; national school diplomas usually need a foundation year.",
+   "ka": "A-levels და IB მიიღება პროგრამის სპეციფიკური პირობებით (მაგ. Philosophy BA: AAB ან IB 32); ამერიკული დიპლომის შემთხვევაში საჭიროა GPA 3.2+ და AP, SAT ან ACT; ეროვნულ სასკოლო დიპლომს ხშირად სჭირდება foundation წელი.",
+   "ar": "تُقبل شهادتا A-level وIB بعروض خاصة بكل مقرر (مثل Philosophy BA: AAB أو IB 32)؛ ويحتاج حاملو الدبلوم الأمريكي إلى معدل غير مرجّح 3.2+ مع AP أو SAT أو ACT؛ وتتطلب الشهادات الوطنية عادةً سنة تأسيسية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "law",
+   "business",
+   "medicine-health",
+   "engineering",
+   "computer-science",
+   "humanities"
+  ]
+ },
+ "university-of-warwick": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A-levels and IB are accepted (typically A*AA-AAA for Economics; IB 36-38); offers are course-specific. National school diplomas usually need a foundation year; US diploma applicants need APs, SAT or ACT.",
+   "ka": "A-levels და IB მიიღება (typically A*AA-AAA for Economics; IB 36-38); პირობები თითოეული პროგრამისთვის განსხვავებულია. ეროვნულ სასკოლო დიპლომს ხშირად სჭირდება foundation წელი; ამერიკული დიპლომის შემთხვევაში საჭიროა AP, SAT ან ACT.",
+   "ar": "تُقبل شهادات A-level وIB (typically A*AA-AAA for Economics; IB 36-38)؛ والعروض تختلف حسب البرنامج. تتطلب الشهادات الثانوية الوطنية عادةً سنة تأسيسية، ويحتاج حاملو الدبلوم الأمريكي إلى AP أو SAT أو ACT."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "economics",
+   "mathematics",
+   "business",
+   "computer-science",
+   "social-sciences",
+   "engineering"
+  ]
+ },
+ "duke-university": {
+  "qualifications": null,
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "social-sciences",
+   "engineering",
+   "economics",
+   "medicine-health",
+   "computer-science"
+  ]
+ },
+ "lund-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Completed upper-secondary education (national diploma, A-levels, IB or US diploma) is assessed against Sweden's general entry requirements, plus English 6 and programme-specific maths or science.",
+   "ka": "დასრულებული საშუალო განათლება (ეროვნული დიპლომი, A-levels, IB ან ამერიკული დიპლომი) ფასდება შვედეთის ზოგადი მიღების მოთხოვნების მიხედვით, დამატებით საჭიროა English 6 და პროგრამის მათემატიკა/მეცნიერების პირობები.",
+   "ar": "تُقيَّم الشهادة الثانوية المكتملة (الوطنية أو A-level أو IB أو الدبلوم الأمريكي) وفق شروط القبول العامة في السويد، إضافةً إلى English 6 ومتطلبات الرياضيات أو العلوم الخاصة بالبرنامج."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "business",
+   "social-sciences",
+   "natural-sciences",
+   "engineering",
+   "environment"
+  ]
+ },
+ "ut-austin": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Secondary diplomas from any national system, A-levels, IB and US diplomas are all reviewed on transcripts and grades. SAT or ACT is required.",
+   "ka": "ნებისმიერი ქვეყნის სასკოლო დიპლომი, A-levels, IB და ამერიკული დიპლომი განიხილება ატესტატისა და ნიშნების მიხედვით. SAT ან ACT სავალდებულოა.",
+   "ar": "تُراجع الشهادات الثانوية من أي نظام وطني وA-level وIB والدبلوم الأمريكي بحسب السجل الدراسي والدرجات. امتحان SAT أو ACT مطلوب."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "business",
+   "engineering",
+   "natural-sciences",
+   "social-sciences"
+  ]
+ },
+ "sorbonne-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Any secondary diploma that gives university access in its home country (national diploma, A-levels, IB, US diploma) is accepted through the international application; B2 French (DELF/TCF/TEF) is needed for French-taught degrees.",
+   "ka": "ნებისმიერი სასკოლო დიპლომი, რომელიც მშობლიურ ქვეყანაში უნივერსიტეტში მისვლის უფლებას იძლევა (ეროვნული დიპლომი, A-levels, IB, ამერიკული დიპლომი), მიიღება საერთაშორისო განაცხადით; ფრანგულენოვანი პროგრამებისთვის საჭიროა ფრანგული B2 (DELF/TCF/TEF).",
+   "ar": "تُقبل أي شهادة ثانوية تتيح دخول الجامعة في بلدها (الشهادة الوطنية أو A-level أو IB أو الدبلوم الأمريكي) عبر التقديم الدولي؛ ويلزم مستوى B2 في الفرنسية (DELF/TCF/TEF) للبرامج بالفرنسية."
+  },
+  "english_bachelors": "none",
+  "fields": [
+   "mathematics",
+   "natural-sciences",
+   "medicine-health",
+   "humanities",
+   "environment"
+  ]
+ },
+ "uiuc": {
+  "qualifications": null,
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "engineering",
+   "business",
+   "natural-sciences",
+   "environment"
+  ]
+ },
+ "trinity-college-dublin": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A-levels and IB are accepted with course-specific points; US-system applicants submit SAT/ACT or AP; other national diplomas are assessed against country requirements.",
+   "ka": "A-levels და IB მიიღება პროგრამის სპეციფიკური ქულებით; ამერიკული სისტემის აპლიკანტები წარადგენენ SAT/ACT ან AP-ს; სხვა ეროვნული დიპლომები ფასდება ქვეყნის მოთხოვნებით.",
+   "ar": "تُقبل شهادتا A-level وIB بنقاط خاصة بكل برنامج؛ ويقدّم حاملو النظام الأمريكي SAT/ACT أو AP؛ وتُقيَّم الشهادات الوطنية الأخرى وفق متطلبات كل بلد."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "law",
+   "humanities",
+   "business",
+   "medicine-health",
+   "economics"
+  ]
+ },
+ "universite-paris-saclay": {
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Any secondary diploma giving university access in your country is considered through the DAP procedure; selection is on school record and French level (TCF/DELF B2, or TEF 400/699).",
+   "ka": "ნებისმიერი სასკოლო დიპლომი, რომელიც თქვენს ქვეყანაში უნივერსიტეტში მისვლას იძლევა, განიხილება DAP პროცედურით; შერჩევა ემყარება სასკოლო მოსწრებას და ფრანგულის დონეს (TCF/DELF B2 ან TEF 400/699).",
+   "ar": "تُنظر أي شهادة ثانوية تتيح دخول الجامعة في بلدك عبر إجراء DAP؛ ويعتمد الاختيار على السجل المدرسي ومستوى الفرنسية (TCF/DELF B2 أو TEF 400/699)."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "mathematics",
+   "natural-sciences",
+   "computer-science",
+   "law",
+   "economics",
+   "medicine-health"
+  ]
+ },
+ "the-university-of-western-australia": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "A-levels, IB and US diplomas are assessed against course entry ranks; national school diplomas are assessed individually and often need a foundation year.",
+   "ka": "A-levels, IB და ამერიკული დიპლომი ფასდება პროგრამის შესვლის ქულების მიხედვით; ეროვნული სასკოლო დიპლომი ინდივიდუალურად ფასდება და ხშირად საჭიროა foundation წელი.",
+   "ar": "تُقيَّم شهادات A-level وIB والدبلوم الأمريكي وفق درجات القبول للبرنامج؛ أما الشهادات الوطنية فتُقيَّم فرديًا وتتطلب غالبًا سنة تأسيسية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "engineering",
+   "medicine-health",
+   "business"
+  ]
+ },
+ "university-of-leeds": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A-levels and IB are accepted; offers are course-specific. National school diplomas usually need a foundation year; US diploma applicants need APs, SAT or ACT.",
+   "ka": "A-levels და IB მიიღება; პირობები თითოეული პროგრამისთვის განსხვავებულია. ეროვნულ სასკოლო დიპლომს ხშირად სჭირდება foundation წელი; ამერიკული დიპლომის შემთხვევაში საჭიროა AP, SAT ან ACT.",
+   "ar": "تُقبل شهادات A-level وIB؛ والعروض تختلف حسب البرنامج. تتطلب الشهادات الثانوية الوطنية عادةً سنة تأسيسية، ويحتاج حاملو الدبلوم الأمريكي إلى AP أو SAT أو ACT."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "business",
+   "law",
+   "engineering",
+   "computer-science",
+   "medicine-health",
+   "arts-design"
+  ]
+ },
+ "adelaide-university": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "A-levels, IB and US diplomas are assessed against course entry ranks; national school diplomas are assessed individually and often need a foundation year.",
+   "ka": "A-levels, IB და ამერიკული დიპლომი ფასდება პროგრამის შესვლის ქულების მიხედვით; ეროვნული სასკოლო დიპლომი ინდივიდუალურად ფასდება და ხშირად საჭიროა foundation წელი.",
+   "ar": "تُقيَّم شهادات A-level وIB والدبلوم الأمريكي وفق درجات القبول للبرنامج؛ أما الشهادات الوطنية فتُقيَّم فرديًا وتتطلب غالبًا سنة تأسيسية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "engineering",
+   "business",
+   "arts-design"
+  ]
+ },
+ "university-of-glasgow": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A-levels and IB are accepted; offers are course-specific. National school diplomas usually need a foundation year; US diploma applicants need APs, SAT or ACT.",
+   "ka": "A-levels და IB მიიღება; პირობები თითოეული პროგრამისთვის განსხვავებულია. ეროვნულ სასკოლო დიპლომს ხშირად სჭირდება foundation წელი; ამერიკული დიპლომის შემთხვევაში საჭიროა AP, SAT ან ACT.",
+   "ar": "تُقبل شهادات A-level وIB؛ والعروض تختلف حسب البرنامج. تتطلب الشهادات الثانوية الوطنية عادةً سنة تأسيسية، ويحتاج حاملو الدبلوم الأمريكي إلى AP أو SAT أو ACT."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "engineering",
+   "law",
+   "business"
+  ]
+ },
+ "uc-san-diego": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Secondary diplomas from any national system, A-levels, IB and US diplomas are all reviewed on transcripts and grades. SAT/ACT scores are not considered.",
+   "ka": "ნებისმიერი ქვეყნის სასკოლო დიპლომი, A-levels, IB და ამერიკული დიპლომი განიხილება ატესტატისა და ნიშნების მიხედვით. SAT/ACT ქულები არ განიხილება.",
+   "ar": "تُراجع الشهادات الثانوية من أي نظام وطني وA-level وIB والدبلوم الأمريكي بحسب السجل الدراسي والدرجات. لا تُؤخذ نتائج SAT/ACT في الاعتبار."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "natural-sciences",
+   "computer-science",
+   "social-sciences",
+   "economics",
+   "environment",
+   "engineering"
+  ]
+ },
+ "kth-royal-institute-of-technology": {
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Completed upper-secondary education with advanced mathematics (national diploma, A-levels, IB or US diploma) is assessed against Sweden's general entry requirements, plus English 6.",
+   "ka": "დასრულებული საშუალო განათლება მაღალი დონის მათემატიკით (ეროვნული დიპლომი, A-levels, IB ან ამერიკული დიპლომი) ფასდება შვედეთის ზოგადი მოთხოვნების მიხედვით, დამატებით საჭიროა English 6.",
+   "ar": "تُقيَّم الشهادة الثانوية المكتملة مع رياضيات متقدمة (الوطنية أو A-level أو IB أو الدبلوم الأمريكي) وفق شروط القبول العامة في السويد، إضافةً إلى English 6."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "arts-design",
+   "mathematics"
+  ]
+ },
+ "university-of-sheffield": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A-levels and IB are accepted (e.g. Computer Science AAA; IB 36); offers are course-specific. National school diplomas usually need a foundation year; US diploma applicants need APs, SAT or ACT.",
+   "ka": "A-levels და IB მიიღება (e.g. Computer Science AAA; IB 36); პირობები თითოეული პროგრამისთვის განსხვავებულია. ეროვნულ სასკოლო დიპლომს ხშირად სჭირდება foundation წელი; ამერიკული დიპლომის შემთხვევაში საჭიროა AP, SAT ან ACT.",
+   "ar": "تُقبل شهادات A-level وIB (e.g. Computer Science AAA; IB 36)؛ والعروض تختلف حسب البرنامج. تتطلب الشهادات الثانوية الوطنية عادةً سنة تأسيسية، ويحتاج حاملو الدبلوم الأمريكي إلى AP أو SAT أو ACT."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "arts-design",
+   "social-sciences",
+   "medicine-health",
+   "humanities"
+  ]
+ },
+ "universidad-de-buenos-aires": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "All foreign applicants start with the Ciclo Basico Comun (CBC) and need a legalised/apostilled school diploma plus Spanish C1 (SIELE Global C1 or UBA's certificate); national diplomas, A-levels, IB and US diplomas are all handled the same way.",
+   "ka": "ყველა უცხოელი აპლიკანტი იწყებს Ciclo Básico Común-ით (CBC) და სჭირდება ლეგალიზებული/აპოსტილირებული სასკოლო დიპლომი და ესპანური C1 (SIELE Global C1 ან UBA-ს სერტიფიკატი); ეროვნული დიპლომი, A-levels, IB და ამერიკული დიპლომი ერთნაირად განიხილება.",
+   "ar": "يبدأ جميع المتقدمين الأجانب بالسنة التمهيدية CBC ويحتاجون إلى شهادة ثانوية موثّقة/مصدّقة بالأبوستيل ومستوى C1 في الإسبانية (SIELE Global C1 أو شهادة UBA)؛ وتُعامل الشهادة الوطنية وA-level وIB والدبلوم الأمريكي بالطريقة نفسها."
+  },
+  "english_bachelors": "none",
+  "fields": [
+   "medicine-health",
+   "law",
+   "economics",
+   "engineering",
+   "natural-sciences",
+   "arts-design"
+  ]
+ },
+ "durham-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A-levels and IB are accepted (e.g. English Literature A*AA); offers are course-specific. National school diplomas usually need a foundation year; US diploma applicants need APs, SAT or ACT.",
+   "ka": "A-levels და IB მიიღება (e.g. English Literature A*AA); პირობები თითოეული პროგრამისთვის განსხვავებულია. ეროვნულ სასკოლო დიპლომს ხშირად სჭირდება foundation წელი; ამერიკული დიპლომის შემთხვევაში საჭიროა AP, SAT ან ACT.",
+   "ar": "تُقبل شهادات A-level وIB (e.g. English Literature A*AA)؛ والعروض تختلف حسب البرنامج. تتطلب الشهادات الثانوية الوطنية عادةً سنة تأسيسية، ويحتاج حاملو الدبلوم الأمريكي إلى AP أو SAT أو ACT."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "humanities",
+   "law",
+   "social-sciences",
+   "natural-sciences",
+   "economics"
+  ]
+ },
+ "heidelberg-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "IB and A-levels (with enough subjects) give direct access; national school diplomas without direct access need a Studienkolleg year plus the assessment exam, and US diplomas usually need APs or a Studienkolleg. German C1 (DSH-2 or TestDaF) is required for German-taught degrees.",
+   "ka": "IB და A-levels (საკმარისი საგნებით) პირდაპირ წვდომას იძლევა; ეროვნული სასკოლო დიპლომი პირდაპირი წვდომის გარეშე საჭიროებს Studienkolleg-ის წელს და შეფასების გამოცდას, ამერიკული დიპლომი კი ჩვეულებრივ AP-ს ან Studienkolleg-ს. გერმანულენოვანი პროგრამებისთვის საჭიროა გერმანული C1 (DSH-2 ან TestDaF).",
+   "ar": "تمنح شهادتا IB وA-level (بعدد كافٍ من المواد) قبولًا مباشرًا؛ أما الشهادات الوطنية التي لا تمنح قبولًا مباشرًا فتتطلب سنة Studienkolleg وامتحان تقييم، وغالبًا ما يحتاج الدبلوم الأمريكي إلى AP أو Studienkolleg. تُشترط اللغة الألمانية C1 (DSH-2 أو TestDaF) للبرامج الدراسية بالألمانية."
+  },
+  "english_bachelors": "none",
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "law",
+   "humanities",
+   "social-sciences"
+  ]
+ },
+ "politecnico-di-milano": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "A secondary diploma valid for university access plus an entrance test is required for every route: the TOL, TOLC-I, English TOLC (CISIA) or the SAT; English-taught programmes also need proof of English.",
+   "ka": "ყველა გზისთვის საჭიროა უნივერსიტეტში მისვლის უფლების მქონე სასკოლო დიპლომი და შესასვლელი ტესტი: TOL, TOLC-I, ინგლისური TOLC (CISIA) ან SAT; ინგლისურენოვან პროგრამებს ინგლისურის დადასტურებაც სჭირდება.",
+   "ar": "يلزم لكل المسارات دبلوم ثانوي يتيح دخول الجامعة مع اختبار قبول: TOL أو TOLC-I أو TOLC بالإنجليزية (CISIA) أو SAT؛ وتتطلب البرامج بالإنجليزية إثبات اللغة الإنجليزية أيضًا."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "arts-design",
+   "computer-science"
+  ]
+ },
+ "the-university-of-technology-sydney-uts": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "A-levels, IB and US diplomas are assessed against course entry ranks; national school diplomas are assessed individually and often need a foundation year.",
+   "ka": "A-levels, IB და ამერიკული დიპლომი ფასდება პროგრამის შესვლის ქულების მიხედვით; ეროვნული სასკოლო დიპლომი ინდივიდუალურად ფასდება და ხშირად საჭიროა foundation წელი.",
+   "ar": "تُقيَّم شهادات A-level وIB والدبلوم الأمريكي وفق درجات القبول للبرنامج؛ أما الشهادات الوطنية فتُقيَّم فرديًا وتتطلب غالبًا سنة تأسيسية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "arts-design",
+   "business",
+   "social-sciences"
+  ]
+ },
+ "uppsala-university": {
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Completed upper-secondary education (national diploma, A-levels, IB or US diploma) is assessed against Sweden's general entry requirements, plus English 6 and programme-specific maths or science.",
+   "ka": "დასრულებული საშუალო განათლება (ეროვნული დიპლომი, A-levels, IB ან ამერიკული დიპლომი) ფასდება შვედეთის ზოგადი მიღების მოთხოვნების მიხედვით, დამატებით საჭიროა English 6 და პროგრამის მათემატიკა/მეცნიერების პირობები.",
+   "ar": "تُقيَّم الشهادة الثانوية المكتملة (الوطنية أو A-level أو IB أو الدبلوم الأمريكي) وفق شروط القبول العامة في السويد، إضافةً إلى English 6 ومتطلبات الرياضيات أو العلوم الخاصة بالبرنامج."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "humanities",
+   "computer-science",
+   "environment",
+   "business",
+   "social-sciences"
+  ]
+ },
+ "nanjing-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": "with-extra",
+   "ib": "with-extra",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "SAT, ACT, AP, IB or A-level results may be submitted but are optional; from 2026/27 a CSCA report is required, plus HSK 5 (180+) for Chinese-taught programmes, a written exam and an interview.",
+   "ka": "SAT, ACT, AP, IB ან A-level შედეგები შეიძლება წარდგენილ იქნეს, თუმცა სავალდებულო არ არის; 2026/27-დან საჭიროა CSCA ანგარიში, ჩინურენოვან პროგრამებზე HSK 5 (180+), წერითი გამოცდა და გასაუბრება.",
+   "ar": "يمكن تقديم نتائج SAT أو ACT أو AP أو IB أو A-level لكنها غير إلزامية؛ ويلزم تقرير CSCA ابتداءً من 2026/27، إضافةً إلى HSK 5 (180+) للبرامج بالصينية، وامتحان تحريري ومقابلة."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "natural-sciences",
+   "humanities",
+   "computer-science",
+   "environment"
+  ]
+ }
+}

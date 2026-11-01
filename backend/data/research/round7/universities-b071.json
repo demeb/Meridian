@@ -1,0 +1,1531 @@
+[
+ {
+  "type": "public",
+  "platform": "Online application system on admissions.sze.hu",
+  "application_url": "https://admissions.sze.hu/application",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "Dates are on the 'Important dates and regulations' page of admissions.sze.hu, which we could not read.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Hungarian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Rules for foreign school diplomas were not published on the pages we could read.",
+   "ka": "უცხოური სასკოლო დიპლომების აღიარების წესები ხელმისაწვდომ გვერდებზე გამოქვეყნებული არ იყო.",
+   "ar": "لم تُنشر قواعد قبول الشهادات الثانوية الأجنبية في الصفحات المتاحة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not found on the official pages we could read. Check with the admissions office.",
+   "ka": "მისაღები გამოცდებისა და ენის მოთხოვნების შესახებ ინფორმაცია ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ. დაუკავშირდით მისაღებ კომისიას.",
+   "ar": "لم نجد معلومات عن اختبارات القبول ومتطلبات اللغة في الصفحات الرسمية المتاحة. يرجى مراجعة مكتب القبول."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international bachelor applicants were not found on the official pages we could read.",
+   "ka": "საერთაშორისო ბაკალავრის აპლიკანტებისთვის აკადემიური მოთხოვნები ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ.",
+   "ar": "لم نجد المتطلبات الأكاديمية لمتقدمي البكالوريوس الدوليين في الصفحات الرسمية المتاحة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "სკოლის დამამთავრებელი ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or identity document",
+     "ka": "პასპორტი ან პირადობის დოკუმენტი",
+     "ar": "جواز سفر أو وثيقة هوية"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "SODA scholarship",
+    "url": "https://admissions.sze.hu/soda-scholarship",
+    "coverage": "partial"
+   },
+   {
+    "name": "Stipendium Hungaricum",
+    "url": "https://admissions.sze.hu",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "hungary",
+   "gyor",
+   "vehicle engineering",
+   "stipendium hungaricum"
+  ],
+  "sources": [
+   "https://uni.sze.hu",
+   "https://admissions.sze.hu",
+   "https://admissions.sze.hu/application"
+  ],
+  "verified_at": "2026-11-01",
+  "id": "szechenyi-istvan-university-university-of-gyor",
+  "name": {
+   "en": "Széchenyi István University (University of Győr)",
+   "ka": "სეჩენი იშტვანის უნივერსიტეტი (გიორის უნივერსიტეტი)",
+   "ar": "جامعة سيتشيني إشتفان (جامعة جيور)"
+  },
+  "iso": "HU",
+  "city": "Győr",
+  "lat": 47.687,
+  "lon": 17.634,
+  "website": "https://uni.sze.hu",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business",
+   "law",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Vehicle engineering",
+    "Computer science",
+    "Business",
+    "Law"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "სატრანსპორტო საშუალებების ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "ბიზნესი",
+    "სამართალი"
+   ],
+   "ar": [
+    "الهندسة",
+    "هندسة المركبات",
+    "علوم الحاسوب",
+    "الأعمال",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Győr, Hungary, with a dedicated international admissions site. Fees and deadlines were not readable on the pages we reached.",
+   "ka": "სახელმწიფო უნივერსიტეტი გიორში, უნგრეთი, საერთაშორისო მისაღები ცალკე საიტით. ხელმისაწვდომ გვერდებზე საფასური და ვადები ვერ წავიკითხეთ.",
+   "ar": "جامعة حكومية في جيور بالمجر ولها موقع قبول دولي مستقل. لم نتمكن من قراءة الرسوم والمواعيد في الصفحات التي وصلنا إليها."
+  },
+  "about": {
+   "en": "Széchenyi István University is a public university in Győr, Hungary. International applicants use the dedicated admissions site admissions.sze.hu, which has an online application system, a step-by-step guide, an academic programmes page and information on the SODA scholarship and the Stipendium Hungaricum. Tuition, deadlines and entry rules were on sub-pages we could not read. Contact the International Directorate at international@sze.hu or +36 96 503 400.",
+   "ka": "სეჩენი იშტვანის უნივერსიტეტი სახელმწიფო უნივერსიტეტია გიორში, უნგრეთი. საერთაშორისო აპლიკანტები იყენებენ ცალკე მისაღებ საიტს admissions.sze.hu, სადაც არის ონლაინ განაცხადის სისტემა, ნაბიჯ-ნაბიჯ გზამკვლევი, პროგრამების გვერდი და ინფორმაცია SODA სტიპენდიისა და Stipendium Hungaricum-ის შესახებ. საფასური, ვადები და მოთხოვნები ქვეგვერდებზეა, რომლებიც ვერ წავიკითხეთ. კონტაქტი: international@sze.hu, +36 96 503 400.",
+   "ar": "جامعة سيتشيني إشتفان جامعة حكومية في جيور بالمجر. يستخدم المتقدمون الدوليون موقع القبول admissions.sze.hu وفيه نظام تقديم إلكتروني ودليل خطوة بخطوة وصفحة البرامج ومعلومات عن منحة SODA وStipendium Hungaricum. الرسوم والمواعيد وشروط القبول في صفحات فرعية لم نتمكن من قراءتها. للتواصل: international@sze.hu، ‎+36 96 503 400."
+  }
+ },
+ {
+  "type": "public",
+  "platform": "Direct (details not confirmed)",
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Uzbek",
+   "Russian"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Rules for foreign school diplomas were not published on the pages we could read.",
+   "ka": "უცხოური სასკოლო დიპლომების აღიარების წესები ხელმისაწვდომ გვერდებზე გამოქვეყნებული არ იყო.",
+   "ar": "لم تُنشر قواعد قبول الشهادات الثانوية الأجنبية في الصفحات المتاحة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not found on the official pages we could read. Check with the admissions office.",
+   "ka": "მისაღები გამოცდებისა და ენის მოთხოვნების შესახებ ინფორმაცია ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ. დაუკავშირდით მისაღებ კომისიას.",
+   "ar": "لم نجد معلومات عن اختبارات القبول ومتطلبات اللغة في الصفحات الرسمية المتاحة. يرجى مراجعة مكتب القبول."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international bachelor applicants were not found on the official pages we could read.",
+   "ka": "საერთაშორისო ბაკალავრის აპლიკანტებისთვის აკადემიური მოთხოვნები ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ.",
+   "ar": "لم نجد المتطلبات الأكاديمية لمتقدمي البكالوريوس الدوليين في الصفحات الرسمية المتاحة."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "uzbekistan",
+   "tashkent",
+   "technical",
+   "public"
+  ],
+  "sources": [
+   "https://tdtu.uz"
+  ],
+  "verified_at": "2026-11-01",
+  "id": "tashkent-state-technical-university",
+  "name": {
+   "en": "Tashkent State Technical University",
+   "ka": "ტაშკენტის სახელმწიფო ტექნიკური უნივერსიტეტი",
+   "ar": "جامعة طشقند التقنية الحكومية"
+  },
+  "iso": "UZ",
+  "city": "Tashkent",
+  "lat": 41.344,
+  "lon": 69.205,
+  "website": "https://tdtu.uz",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Energy",
+    "Mining and metallurgy",
+    "Computer technologies"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ენერგეტიკა",
+    "სამთო და მეტალურგია",
+    "კომპიუტერული ტექნოლოგიები"
+   ],
+   "ar": [
+    "الهندسة",
+    "الطاقة",
+    "التعدين والمعادن",
+    "تقنيات الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "Public technical university in Tashkent, Uzbekistan, named after Islam Karimov. No admission or fee data could be read on its site.",
+   "ka": "სახელმწიფო ტექნიკური უნივერსიტეტი ტაშკენტში, უზბეკეთი, ისლამ კარიმოვის სახელობის. საიტზე მისაღები და საფასურის მონაცემები ვერ წავიკითხეთ.",
+   "ar": "جامعة تقنية حكومية في طشقند بأوزبكستان تحمل اسم إسلام كريموف. لم نتمكن من قراءة بيانات القبول والرسوم في موقعها."
+  },
+  "about": {
+   "en": "Tashkent State Technical University (named after Islam Karimov) is a public technical university in Tashkent. Its homepage loaded with only the university name, so we could not read international admission rules, tuition, languages of teaching or student numbers. Check tdtu.uz or the Study in Uzbekistan platform.",
+   "ka": "ტაშკენტის სახელმწიფო ტექნიკური უნივერსიტეტი (ისლამ კარიმოვის სახელობის) ტაშკენტში მდებარე სახელმწიფო ტექნიკური უნივერსიტეტია. მთავარი გვერდი მხოლოდ სახელწოდებით ჩაიტვირთა, ამიტომ საერთაშორისო მისაღები წესები, საფასური, სწავლების ენები და სტუდენტთა რაოდენობა ვერ წავიკითხეთ. გადაამოწმეთ tdtu.uz ან Study in Uzbekistan პლატფორმა.",
+   "ar": "جامعة طشقند التقنية الحكومية (باسم إسلام كريموف) جامعة تقنية حكومية في طشقند. حُمّلت صفحتها الرئيسية باسم الجامعة فقط، فلم نتمكن من قراءة شروط القبول الدولي والرسوم ولغات التدريس وعدد الطلاب. يرجى مراجعة tdtu.uz أو منصة Study in Uzbekistan."
+  }
+ },
+ {
+  "type": "public",
+  "platform": "Online application (eprihlaska.tuke.sk)",
+  "application_url": "https://eprihlaska.tuke.sk",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Slovak",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Rules for foreign school diplomas were not published on the pages we could read.",
+   "ka": "უცხოური სასკოლო დიპლომების აღიარების წესები ხელმისაწვდომ გვერდებზე გამოქვეყნებული არ იყო.",
+   "ar": "لم تُنشر قواعد قبول الشهادات الثانوية الأجنبية في الصفحات المتاحة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not found on the official pages we could read. Check with the admissions office.",
+   "ka": "მისაღები გამოცდებისა და ენის მოთხოვნების შესახებ ინფორმაცია ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ. დაუკავშირდით მისაღებ კომისიას.",
+   "ar": "لم نجد معلومات عن اختبارات القبول ومتطلبات اللغة في الصفحات الرسمية المتاحة. يرجى مراجعة مكتب القبول."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international bachelor applicants were not found on the official pages we could read.",
+   "ka": "საერთაშორისო ბაკალავრის აპლიკანტებისთვის აკადემიური მოთხოვნები ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ.",
+   "ar": "لم نجد المتطلبات الأكاديمية لمتقدمي البكالوريوس الدوليين في الصفحات الرسمية المتاحة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "სკოლის დამამთავრებელი ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma recognition statement",
+     "ka": "დიპლომის აღიარების ცნობა",
+     "ar": "إفادة الاعتراف بالشهادة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "slovakia",
+   "kosice",
+   "technical",
+   "english programmes"
+  ],
+  "sources": [
+   "https://tuke.sk",
+   "https://tuke.sk/en/basic-information-about-studying-at-tuke"
+  ],
+  "verified_at": "2026-11-01",
+  "id": "technical-university-of-kosice",
+  "name": {
+   "en": "Technical University of Kosice",
+   "ka": "კოშიცეს ტექნიკური უნივერსიტეტი",
+   "ar": "الجامعة التقنية في كوشيتسه"
+  },
+  "iso": "SK",
+  "city": "Košice",
+  "lat": 48.73,
+  "lon": 21.246,
+  "website": "https://tuke.sk",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "economics",
+   "arts-design",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Economics",
+    "Mining and geotechnology",
+    "Civil engineering",
+    "Arts and architecture"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "ეკონომიკა",
+    "სამთო საქმე და გეოტექნოლოგიები",
+    "სამოქალაქო ინჟინერია",
+    "ხელოვნება და არქიტექტურა"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "الاقتصاد",
+    "التعدين والتقنيات الجيولوجية",
+    "الهندسة المدنية",
+    "الفنون والعمارة"
+   ]
+  },
+  "summary": {
+   "en": "Public technical university in Košice, Slovakia, with nine faculties and teaching in Slovak and English at all three levels. Fees and deadlines were not found.",
+   "ka": "სახელმწიფო ტექნიკური უნივერსიტეტი კოშიცეში, სლოვაკეთი, ცხრა ფაკულტეტით და სწავლებით სლოვაკურ და ინგლისურ ენებზე სამივე საფეხურზე. საფასური და ვადები ვერ მოვიძიეთ.",
+   "ar": "جامعة تقنية حكومية في كوشيتسه بسلوفاكيا، فيها تسع كليات وتدريس بالسلوفاكية والإنجليزية في المراحل الثلاث. لم نجد الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "The Technical University of Košice is a public university with nine faculties, eight in Košice and one in Prešov. It teaches in Slovak and English at bachelor, master and doctoral level for domestic and international students. Applications are made online at eprihlaska.tuke.sk. Tuition, deadlines and the recognition rules for foreign school diplomas were not on the pages we could read. Central Office: +421 55 602 1111.",
+   "ka": "კოშიცეს ტექნიკურ უნივერსიტეტს ცხრა ფაკულტეტი აქვს, რვა კოშიცეში და ერთი პრეშოვში. სწავლება სლოვაკურ და ინგლისურ ენებზე ხორციელდება ბაკალავრიატში, მაგისტრატურასა და დოქტორანტურაში როგორც ადგილობრივი, ისე საერთაშორისო სტუდენტებისთვის. განაცხადი იგზავნება ონლაინ eprihlaska.tuke.sk-ზე. საფასური, ვადები და უცხოური ატესტატების აღიარების წესები ვერ წავიკითხეთ.",
+   "ar": "للجامعة التقنية في كوشيتسه تسع كليات، ثمانٍ في كوشيتسه وواحدة في بريشوف. تدرّس بالسلوفاكية والإنجليزية في البكالوريوس والماجستير والدكتوراه للطلاب المحليين والدوليين. يتم التقديم إلكترونيًا عبر eprihlaska.tuke.sk. لم نجد الرسوم والمواعيد وقواعد الاعتراف بالشهادات الأجنبية في الصفحات المتاحة."
+  }
+ },
+ {
+  "type": "public",
+  "platform": "Online application portal; international applicants via uni-assist",
+  "application_url": "https://www.tu-chemnitz.de/study-in-chemnitz/bewerben.html.en",
+  "intakes": [
+   "Winter semester"
+  ],
+  "deadline": null,
+  "deadline_note": "Deadlines were not found on the pages read. The ServiceLine (+49 371 33333, June to October) answers questions on deadlines.",
+  "tuition_intl": {
+   "amount": 0,
+   "currency": "EUR",
+   "per": "year",
+   "note": "The university states there are no tuition fees in Saxony. A semester contribution applies; the amount was not read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "German",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Rules for foreign school diplomas were not published on the pages we could read.",
+   "ka": "უცხოური სასკოლო დიპლომების აღიარების წესები ხელმისაწვდომ გვერდებზე გამოქვეყნებული არ იყო.",
+   "ar": "لم تُنشر قواعد قبول الشهادات الثانوية الأجنبية في الصفحات المتاحة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students was found on the pages read; the university charges no tuition fees.",
+   "ka": "წაკითხულ გვერდებზე საერთაშორისო ბაკალავრის სტუდენტებისთვის სპეციალური დახმარება ვერ ვიპოვეთ; უნივერსიტეტი სწავლის საფასურს არ იღებს.",
+   "ar": "لم نجد منحة مخصصة لطلاب البكالوريوس الدوليين في الصفحات المقروءة؛ والجامعة لا تفرض رسومًا دراسية."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not found on the official pages we could read. Check with the admissions office.",
+   "ka": "მისაღები გამოცდებისა და ენის მოთხოვნების შესახებ ინფორმაცია ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ. დაუკავშირდით მისაღებ კომისიას.",
+   "ar": "لم نجد معلومات عن اختبارات القبول ومتطلبات اللغة في الصفحات الرسمية المتاحة. يرجى مراجعة مكتب القبول."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international bachelor applicants were not found on the official pages we could read.",
+   "ka": "საერთაშორისო ბაკალავრის აპლიკანტებისთვის აკადემიური მოთხოვნები ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ.",
+   "ar": "لم نجد المتطلبات الأكاديمية لمتقدمي البكالوريوس الدوليين في الصفحات الرسمية المتاحة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "სკოლის დამამთავრებელი ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language proficiency certificate",
+     "ka": "ენის ცოდნის სერტიფიკატი",
+     "ar": "شهادة إتقان اللغة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or identity document",
+     "ka": "პასპორტი ან პირადობის დოკუმენტი",
+     "ar": "جواز سفر أو وثيقة هوية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "germany",
+   "chemnitz",
+   "saxony",
+   "no tuition",
+   "uni-assist"
+  ],
+  "sources": [
+   "https://www.tu-chemnitz.de/index.html.en",
+   "https://www.tu-chemnitz.de/study-in-chemnitz/index.html.en",
+   "https://www.tu-chemnitz.de/study-in-chemnitz/bewerben.html.en"
+  ],
+  "verified_at": "2026-11-01",
+  "id": "technische-universitat-chemnitz",
+  "name": {
+   "en": "Technische Universität Chemnitz",
+   "ka": "ქემნიცის ტექნიკური უნივერსიტეტი",
+   "ar": "جامعة كيمنتس التقنية"
+  },
+  "iso": "DE",
+  "city": "Chemnitz",
+  "lat": 50.813,
+  "lon": 12.929,
+  "website": "https://www.tu-chemnitz.de",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "economics",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Mechanical engineering",
+    "Computer science",
+    "Electrical engineering",
+    "Physics",
+    "Economics"
+   ],
+   "ka": [
+    "მანქანათმშენებლობა",
+    "კომპიუტერული მეცნიერება",
+    "ელექტროინჟინერია",
+    "ფიზიკა",
+    "ეკონომიკა"
+   ],
+   "ar": [
+    "الهندسة الميكانيكية",
+    "علوم الحاسوب",
+    "الهندسة الكهربائية",
+    "الفيزياء",
+    "الاقتصاد"
+   ]
+  },
+  "summary": {
+   "en": "Public technical university in Chemnitz, Saxony. There are no tuition fees in Saxony, but a semester contribution applies. A new international bachelor in Digital Engineering starts in winter 2026/27.",
+   "ka": "სახელმწიფო ტექნიკური უნივერსიტეტი ქემნიცში, საქსონია. საქსონიაში სწავლის საფასური არ არის, თუმცა სემესტრული შენატანი იხდება. ახალი საერთაშორისო ბაკალავრიატი Digital Engineering იწყება 2026/27 ზამთრის სემესტრში.",
+   "ar": "جامعة تقنية حكومية في كيمنتس بولاية سكسونيا. لا توجد رسوم دراسية في سكسونيا لكن تُدفع مساهمة فصلية. يبدأ بكالوريوس دولي جديد في الهندسة الرقمية في الفصل الشتوي 2026/27."
+  },
+  "about": {
+   "en": "Technische Universität Chemnitz is a public technical university in Saxony, Germany. The university states that there are no tuition fees in Saxony; students pay a semester contribution. International applicants apply through the online portal and uni-assist. A new bachelor in Digital Engineering for international students starts in winter semester 2026/27. Language rules and certificate requirements were on pages we could not read.",
+   "ka": "ქემნიცის ტექნიკური უნივერსიტეტი სახელმწიფო ტექნიკური უნივერსიტეტია საქსონიაში, გერმანია. უნივერსიტეტის განცხადებით საქსონიაში სწავლის საფასური არ არის; სტუდენტები სემესტრულ შენატანს იხდიან. საერთაშორისო აპლიკანტები განაცხადს აგზავნიან ონლაინ პორტალითა და uni-assist-ით. საერთაშორისო სტუდენტებისთვის ახალი ბაკალავრიატი Digital Engineering იწყება 2026/27 ზამთრის სემესტრში. ენისა და ატესტატის მოთხოვნები ვერ წავიკითხეთ.",
+   "ar": "جامعة كيمنتس التقنية جامعة حكومية في سكسونيا بألمانيا. تذكر الجامعة أنه لا توجد رسوم دراسية في سكسونيا ويدفع الطلاب مساهمة فصلية. يقدّم المتقدمون الدوليون طلبهم عبر البوابة الإلكترونية وuni-assist. يبدأ بكالوريوس جديد في الهندسة الرقمية للطلاب الدوليين في الفصل الشتوي 2026/27. لم نتمكن من قراءة شروط اللغة والشهادات."
+  }
+ },
+ {
+  "type": "public",
+  "platform": "Study in Jordan online portal",
+  "application_url": "https://studyinjordan.jo",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "A notice dated 12 August 2026 says applications for the 2026 academic year from non-Jordanian students were still open. No 2027 date was found.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Rules for foreign school diplomas were not published on the pages we could read.",
+   "ka": "უცხოური სასკოლო დიპლომების აღიარების წესები ხელმისაწვდომ გვერდებზე გამოქვეყნებული არ იყო.",
+   "ar": "لم تُنشر قواعد قبول الشهادات الثانوية الأجنبية في الصفحات المتاحة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not found on the official pages we could read. Check with the admissions office.",
+   "ka": "მისაღები გამოცდებისა და ენის მოთხოვნების შესახებ ინფორმაცია ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ. დაუკავშირდით მისაღებ კომისიას.",
+   "ar": "لم نجد معلومات عن اختبارات القبول ومتطلبات اللغة في الصفحات الرسمية المتاحة. يرجى مراجعة مكتب القبول."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international bachelor applicants were not found on the official pages we could read.",
+   "ka": "საერთაშორისო ბაკალავრის აპლიკანტებისთვის აკადემიური მოთხოვნები ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ.",
+   "ar": "لم نجد المتطلبات الأكاديمية لمتقدمي البكالوريوس الدوليين في الصفحات الرسمية المتاحة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "სკოლის დამამთავრებელი ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or identity document",
+     "ka": "პასპორტი ან პირადობის დოკუმენტი",
+     "ar": "جواز سفر أو وثيقة هوية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "jordan",
+   "zarqa",
+   "public",
+   "international program"
+  ],
+  "sources": [
+   "https://www.hu.edu.jo"
+  ],
+  "verified_at": "2026-11-01",
+  "id": "the-hashemite-university",
+  "name": {
+   "en": "The Hashemite University",
+   "ka": "ჰაშემიტის უნივერსიტეტი",
+   "ar": "الجامعة الهاشمية"
+  },
+  "iso": "JO",
+  "city": "Zarqa",
+  "lat": 32.102,
+  "lon": 36.184,
+  "website": "https://www.hu.edu.jo",
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "education",
+   "medicine-health",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Sciences",
+    "Educational sciences",
+    "Medicine and allied health",
+    "Business"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მეცნიერებები",
+    "საგანმანათლებლო მეცნიერებები",
+    "მედიცინა და მომიჯნავე ჯანდაცვა",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم",
+    "العلوم التربوية",
+    "الطب والعلوم الصحية المساندة",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Zarqa, Jordan, with an International Program for non-Jordanian students. Applications go through the Study in Jordan portal; fee amounts were not shown on the page read.",
+   "ka": "სახელმწიფო უნივერსიტეტი ზარკაში, იორდანია, არაიორდანელი სტუდენტებისთვის საერთაშორისო პროგრამით. განაცხადი იგზავნება Study in Jordan პორტალით; საფასური წაკითხულ გვერდზე მითითებული არ იყო.",
+   "ar": "جامعة حكومية في الزرقاء بالأردن لديها برنامج دولي للطلبة غير الأردنيين. يتم التقديم عبر منصة Study in Jordan، ولم تظهر مبالغ الرسوم في الصفحة المقروءة."
+  },
+  "about": {
+   "en": "The Hashemite University is a public university in Zarqa, Jordan. It runs an International Program for non-Jordanian students, with an online application through studyinjordan.jo and a video guide on how to apply. Tuition is listed on a separate 'specializations and university fees' page that we could not read. The language of teaching was not stated on the pages read.",
+   "ka": "ჰაშემიტის უნივერსიტეტი სახელმწიფო უნივერსიტეტია ზარკაში, იორდანია. მას აქვს საერთაშორისო პროგრამა არაიორდანელი სტუდენტებისთვის, განაცხადით studyinjordan.jo-ზე და ვიდეოინსტრუქციით. საფასური ცალკე გვერდზეა („სპეციალობები და საუნივერსიტეტო საფასურები“), რომელიც ვერ წავიკითხეთ. სწავლების ენა წაკითხულ გვერდებზე მითითებული არ იყო.",
+   "ar": "الجامعة الهاشمية جامعة حكومية في الزرقاء بالأردن. لديها برنامج دولي للطلبة غير الأردنيين مع تقديم إلكتروني عبر studyinjordan.jo وفيديو شرح لآلية التقديم. الرسوم في صفحة منفصلة عنوانها «التخصصات والرسوم الجامعية» لم نتمكن من قراءتها. لم تُذكر لغة التدريس في الصفحات المقروءة."
+  }
+ },
+ {
+  "type": "public",
+  "platform": "Direct (international undergraduate page on ua.edu/admissions)",
+  "application_url": "https://ua.edu/admissions",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Rules for foreign school diplomas were not published on the pages we could read.",
+   "ka": "უცხოური სასკოლო დიპლომების აღიარების წესები ხელმისაწვდომ გვერდებზე გამოქვეყნებული არ იყო.",
+   "ar": "لم تُنشر قواعد قبول الشهادات الثانوية الأجنبية في الصفحات المتاحة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not found on the official pages we could read. Check with the admissions office.",
+   "ka": "მისაღები გამოცდებისა და ენის მოთხოვნების შესახებ ინფორმაცია ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ. დაუკავშირდით მისაღებ კომისიას.",
+   "ar": "لم نجد معلومات عن اختبارات القبول ومتطلبات اللغة في الصفحات الرسمية المتاحة. يرجى مراجعة مكتب القبول."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international bachelor applicants were not found on the official pages we could read.",
+   "ka": "საერთაშორისო ბაკალავრის აპლიკანტებისთვის აკადემიური მოთხოვნები ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ.",
+   "ar": "لم نجد المتطلبات الأكاديمية لمتقدمي البكالوريوس الدوليين في الصفحات الرسمية المتاحة."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "alabama",
+   "tuscaloosa",
+   "public",
+   "merit scholarship"
+  ],
+  "sources": [
+   "https://ua.edu/admissions"
+  ],
+  "verified_at": "2026-11-01",
+  "id": "the-university-of-alabama",
+  "name": {
+   "en": "The University of Alabama",
+   "ka": "ალაბამის უნივერსიტეტი",
+   "ar": "جامعة ألاباما"
+  },
+  "iso": "US",
+  "city": "Tuscaloosa",
+  "lat": 33.209,
+  "lon": -87.538,
+  "website": "https://www.ua.edu",
+  "fields": [
+   "business",
+   "engineering",
+   "law",
+   "education",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Communication",
+    "Education",
+    "Law"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "კომუნიკაცია",
+    "განათლება",
+    "სამართალი"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "الاتصال",
+    "التعليم",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "Public flagship university in Tuscaloosa, Alabama. The admissions site has separate international pages; their deadlines, test minimums and fees were not readable.",
+   "ka": "სახელმწიფო წამყვანი უნივერსიტეტი ტასკალუსაში, ალაბამა. მისაღებ საიტზე საერთაშორისო სტუდენტებისთვის ცალკე გვერდებია; მათი ვადები, ტესტების მინიმუმები და საფასური ვერ წავიკითხეთ.",
+   "ar": "جامعة حكومية رئيسية في توسكالوسا بولاية ألاباما. لموقع القبول صفحات دولية منفصلة لم نتمكن من قراءة مواعيدها وحدود الاختبارات والرسوم فيها."
+  },
+  "about": {
+   "en": "The University of Alabama is a public university in Tuscaloosa. Its admissions page has separate undergraduate and graduate pages for international students. It reports that students received nearly 330 million USD in merit and competitive scholarships, grants and federal aid in 2023-24. Deadlines, English test minimums, test policy and tuition for international students were not on the pages we could read.",
+   "ka": "ალაბამის უნივერსიტეტი სახელმწიფო უნივერსიტეტია ტასკალუსაში. მისაღებ გვერდზე საერთაშორისო სტუდენტებისთვის ცალკე საბაკალავრო და სამაგისტრო გვერდებია. უნივერსიტეტის მონაცემით, 2023-24 წელს სტუდენტებმა თითქმის 330 მილიონი აშშ დოლარი მიიღეს დამსახურებისა და კონკურსის სტიპენდიების, გრანტებისა და ფედერალური დახმარების სახით. საერთაშორისო სტუდენტებისთვის ვადები, ინგლისურის მინიმუმები და საფასური ვერ წავიკითხეთ.",
+   "ar": "جامعة ألاباما جامعة حكومية في توسكالوسا. لصفحة القبول فيها صفحات منفصلة للطلاب الدوليين في البكالوريوس والدراسات العليا. تذكر الجامعة أن الطلاب حصلوا على نحو 330 مليون دولار من منح التفوق والمنح التنافسية والمساعدات الفيدرالية في 2023-24. لم نتمكن من قراءة المواعيد وحدود اللغة الإنجليزية وسياسة الاختبارات والرسوم للطلاب الدوليين."
+  }
+ },
+ {
+  "type": "private",
+  "platform": "Direct (details not confirmed)",
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Rules for foreign school diplomas were not published on the pages we could read.",
+   "ka": "უცხოური სასკოლო დიპლომების აღიარების წესები ხელმისაწვდომ გვერდებზე გამოქვეყნებული არ იყო.",
+   "ar": "لم تُنشر قواعد قبول الشهادات الثانوية الأجنبية في الصفحات المتاحة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not found on the official pages we could read. Check with the admissions office.",
+   "ka": "მისაღები გამოცდებისა და ენის მოთხოვნების შესახებ ინფორმაცია ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ. დაუკავშირდით მისაღებ კომისიას.",
+   "ar": "لم نجد معلومات عن اختبارات القبول ومتطلبات اللغة في الصفحات الرسمية المتاحة. يرجى مراجعة مكتب القبول."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international bachelor applicants were not found on the official pages we could read.",
+   "ka": "საერთაშორისო ბაკალავრის აპლიკანტებისთვის აკადემიური მოთხოვნები ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ.",
+   "ar": "لم نجد المتطلبات الأكاديمية لمتقدمي البكالوريوس الدوليين في الصفحات الرسمية المتاحة."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "pakistan",
+   "lahore",
+   "private"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-01",
+  "id": "the-university-of-lahore",
+  "name": {
+   "en": "The University of Lahore",
+   "ka": "ლაჰორის უნივერსიტეტი",
+   "ar": "جامعة لاهور"
+  },
+  "iso": "PK",
+  "city": "Lahore",
+  "lat": 31.39,
+  "lon": 74.23,
+  "website": "https://www.uol.edu.pk",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine and health sciences",
+    "Pharmacy",
+    "Engineering",
+    "Business",
+    "Law"
+   ],
+   "ka": [
+    "მედიცინა და ჯანდაცვის მეცნიერებები",
+    "ფარმაცია",
+    "ინჟინერია",
+    "ბიზნესი",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب والعلوم الصحية",
+    "الصيدلة",
+    "الهندسة",
+    "الأعمال",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "Private university in Lahore, Pakistan. Its website returned an access error, so no admission or fee data is listed.",
+   "ka": "კერძო უნივერსიტეტი ლაჰორში, პაკისტანი. საიტმა წვდომის შეცდომა დააბრუნა, ამიტომ მისაღები და საფასურის მონაცემები არ არის მოცემული.",
+   "ar": "جامعة خاصة في لاهور بباكستان. أعاد موقعها خطأ في الوصول، لذلك لا ترد بيانات القبول والرسوم."
+  },
+  "about": {
+   "en": "The University of Lahore is a private university in Lahore, Pakistan. Its website blocked our tools (HTTP 403), so tuition, deadlines and entry rules for international bachelor applicants are not given. Check uol.edu.pk directly.",
+   "ka": "ლაჰორის უნივერსიტეტი კერძო უნივერსიტეტია ლაჰორში, პაკისტანი. საიტმა ჩვენი ინსტრუმენტები დაბლოკა (HTTP 403), ამიტომ საფასური, ვადები და შესვლის წესები მითითებული არ არის. გადაამოწმეთ uol.edu.pk-ზე.",
+   "ar": "جامعة لاهور جامعة خاصة في لاهور بباكستان. حجب موقعها أدواتنا (HTTP 403)، لذلك لا نذكر الرسوم والمواعيد وشروط القبول. يرجى مراجعة uol.edu.pk."
+  }
+ },
+ {
+  "type": "public",
+  "platform": "Direct (details not confirmed)",
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Rules for foreign school diplomas were not published on the pages we could read.",
+   "ka": "უცხოური სასკოლო დიპლომების აღიარების წესები ხელმისაწვდომ გვერდებზე გამოქვეყნებული არ იყო.",
+   "ar": "لم تُنشر قواعد قبول الشهادات الثانوية الأجنبية في الصفحات المتاحة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not found on the official pages we could read. Check with the admissions office.",
+   "ka": "მისაღები გამოცდებისა და ენის მოთხოვნების შესახებ ინფორმაცია ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ. დაუკავშირდით მისაღებ კომისიას.",
+   "ar": "لم نجد معلومات عن اختبارات القبول ومتطلبات اللغة في الصفحات الرسمية المتاحة. يرجى مراجعة مكتب القبول."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international bachelor applicants were not found on the official pages we could read.",
+   "ka": "საერთაშორისო ბაკალავრის აპლიკანტებისთვის აკადემიური მოთხოვნები ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ.",
+   "ar": "لم نجد المتطلبات الأكاديمية لمتقدمي البكالوريوس الدوليين في الصفحات الرسمية المتاحة."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "texas",
+   "arlington",
+   "public"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-01",
+  "id": "the-university-of-texas-at-arlington",
+  "name": {
+   "en": "The University of Texas at Arlington",
+   "ka": "ტეხასის უნივერსიტეტი არლინგტონში",
+   "ar": "جامعة تكساس في أرلينغتون"
+  },
+  "iso": "US",
+  "city": "Arlington",
+  "lat": 32.73,
+  "lon": -97.113,
+  "website": "https://www.uta.edu",
+  "fields": [
+   "engineering",
+   "business",
+   "medicine-health",
+   "computer-science",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Nursing and health",
+    "Business",
+    "Computer science"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მედდობა და ჯანდაცვა",
+    "ბიზნესი",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الهندسة",
+    "التمريض والصحة",
+    "الأعمال",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Arlington, Texas. Its site failed our certificate check, so no admission or fee data is listed.",
+   "ka": "სახელმწიფო უნივერსიტეტი არლინგტონში, ტეხასი. საიტმა სერტიფიკატის შემოწმება ვერ გაიარა, ამიტომ მისაღები და საფასურის მონაცემები არ არის მოცემული.",
+   "ar": "جامعة حكومية في أرلينغتون بولاية تكساس. فشل موقعها في فحص الشهادة لدينا، لذلك لا ترد بيانات القبول والرسوم."
+  },
+  "about": {
+   "en": "The University of Texas at Arlington is a public university in Arlington, Texas, between Dallas and Fort Worth. Its website could not be opened by our tools because of a certificate error, so tuition, deadlines and test rules for international bachelor applicants are not given. Check uta.edu directly.",
+   "ka": "ტეხასის უნივერსიტეტი არლინგტონში სახელმწიფო უნივერსიტეტია არლინგტონში, ტეხასი, დალასსა და ფორტ-ვორტს შორის. საიტი სერტიფიკატის შეცდომის გამო ვერ გავხსენით, ამიტომ საფასური, ვადები და ტესტების წესები მითითებული არ არის. გადაამოწმეთ uta.edu-ზე.",
+   "ar": "جامعة تكساس في أرلينغتون جامعة حكومية في أرلينغتون بولاية تكساس بين دالاس وفورت وورث. تعذّر فتح موقعها بسبب خطأ في الشهادة، لذلك لا نذكر الرسوم والمواعيد وقواعد الاختبارات. يرجى مراجعة uta.edu."
+  }
+ },
+ {
+  "type": "public",
+  "platform": "Direct (details not confirmed)",
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Rules for foreign school diplomas were not published on the pages we could read.",
+   "ka": "უცხოური სასკოლო დიპლომების აღიარების წესები ხელმისაწვდომ გვერდებზე გამოქვეყნებული არ იყო.",
+   "ar": "لم تُنشر قواعد قبول الشهادات الثانوية الأجنبية في الصفحات المتاحة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not found on the official pages we could read. Check with the admissions office.",
+   "ka": "მისაღები გამოცდებისა და ენის მოთხოვნების შესახებ ინფორმაცია ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ. დაუკავშირდით მისაღებ კომისიას.",
+   "ar": "لم نجد معلومات عن اختبارات القبول ومتطلبات اللغة في الصفحات الرسمية المتاحة. يرجى مراجعة مكتب القبول."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international bachelor applicants were not found on the official pages we could read.",
+   "ka": "საერთაშორისო ბაკალავრის აპლიკანტებისთვის აკადემიური მოთხოვნები ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ.",
+   "ar": "لم نجد المتطلبات الأكاديمية لمتقدمي البكالوريوس الدوليين في الصفحات الرسمية المتاحة."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "texas",
+   "san antonio",
+   "public"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-01",
+  "id": "the-university-of-texas-at-san-antonio",
+  "name": {
+   "en": "The University of Texas at San Antonio",
+   "ka": "ტეხასის უნივერსიტეტი სან-ანტონიოში",
+   "ar": "جامعة تكساس في سان أنطونيو"
+  },
+  "iso": "US",
+  "city": "San Antonio",
+  "lat": 29.583,
+  "lon": -98.619,
+  "website": "https://www.utsa.edu",
+  "fields": [
+   "engineering",
+   "business",
+   "computer-science",
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Cybersecurity and computer science",
+    "Engineering",
+    "Business",
+    "Sciences"
+   ],
+   "ka": [
+    "კიბერუსაფრთხოება და კომპიუტერული მეცნიერება",
+    "ინჟინერია",
+    "ბიზნესი",
+    "მეცნიერებები"
+   ],
+   "ar": [
+    "الأمن السيبراني وعلوم الحاسوب",
+    "الهندسة",
+    "الأعمال",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "Public university in San Antonio, Texas. Its site failed our certificate check, so no admission or fee data is listed.",
+   "ka": "სახელმწიფო უნივერსიტეტი სან-ანტონიოში, ტეხასი. საიტმა სერტიფიკატის შემოწმება ვერ გაიარა, ამიტომ მისაღები და საფასურის მონაცემები არ არის მოცემული.",
+   "ar": "جامعة حكومية في سان أنطونيو بولاية تكساس. فشل موقعها في فحص الشهادة لدينا، لذلك لا ترد بيانات القبول والرسوم."
+  },
+  "about": {
+   "en": "The University of Texas at San Antonio is a public university in San Antonio, Texas. Its website could not be opened by our tools because of a certificate error, so tuition, deadlines and test rules for international bachelor applicants are not given. Check utsa.edu directly.",
+   "ka": "ტეხასის უნივერსიტეტი სან-ანტონიოში სახელმწიფო უნივერსიტეტია სან-ანტონიოში, ტეხასი. საიტი სერტიფიკატის შეცდომის გამო ვერ გავხსენით, ამიტომ საფასური, ვადები და ტესტების წესები მითითებული არ არის. გადაამოწმეთ utsa.edu-ზე.",
+   "ar": "جامعة تكساس في سان أنطونيو جامعة حكومية في سان أنطونيو بولاية تكساس. تعذّر فتح موقعها بسبب خطأ في الشهادة، لذلك لا نذكر الرسوم والمواعيد وقواعد الاختبارات. يرجى مراجعة utsa.edu."
+  }
+ },
+ {
+  "type": "public",
+  "platform": "Direct (see Admission Overview on the English site)",
+  "application_url": "https://www.tmu.ac.jp/english/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Japanese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Rules for foreign school diplomas were not published on the pages we could read.",
+   "ka": "უცხოური სასკოლო დიპლომების აღიარების წესები ხელმისაწვდომ გვერდებზე გამოქვეყნებული არ იყო.",
+   "ar": "لم تُنشر قواعد قبول الشهادات الثانوية الأجنبية في الصفحات المتاحة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not found on the official pages we could read. Check with the admissions office.",
+   "ka": "მისაღები გამოცდებისა და ენის მოთხოვნების შესახებ ინფორმაცია ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ. დაუკავშირდით მისაღებ კომისიას.",
+   "ar": "لم نجد معلومات عن اختبارات القبول ومتطلبات اللغة في الصفحات الرسمية المتاحة. يرجى مراجعة مكتب القبول."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international bachelor applicants were not found on the official pages we could read.",
+   "ka": "საერთაშორისო ბაკალავრის აპლიკანტებისთვის აკადემიური მოთხოვნები ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ.",
+   "ar": "لم نجد المتطلبات الأكاديمية لمتقدمي البكالوريوس الدوليين في الصفحات الرسمية المتاحة."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "japan",
+   "tokyo",
+   "public",
+   "english programmes"
+  ],
+  "sources": [
+   "https://www.tmu.ac.jp/english/"
+  ],
+  "verified_at": "2026-11-01",
+  "id": "tokyo-metropolitan-university",
+  "name": {
+   "en": "Tokyo Metropolitan University",
+   "ka": "ტოკიოს მეტროპოლიტენის უნივერსიტეტი",
+   "ar": "جامعة طوكيو العاصمة"
+  },
+  "iso": "JP",
+  "city": "Tokyo",
+  "lat": 35.617,
+  "lon": 139.378,
+  "website": "https://www.tmu.ac.jp",
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "social-sciences",
+   "humanities",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Science and engineering",
+    "Urban environmental sciences",
+    "Humanities",
+    "Social sciences",
+    "System design"
+   ],
+   "ka": [
+    "მეცნიერება და ინჟინერია",
+    "ურბანული გარემოს მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "სოციალური მეცნიერებები",
+    "სისტემური დიზაინი"
+   ],
+   "ar": [
+    "العلوم والهندسة",
+    "علوم البيئة الحضرية",
+    "العلوم الإنسانية",
+    "العلوم الاجتماعية",
+    "تصميم النظم"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Tokyo with English-taught degree programmes listed on its English site. A new Faculty of Global Innovation and Development is in preparation. Fees and deadlines were not read.",
+   "ka": "სახელმწიფო უნივერსიტეტი ტოკიოში, ინგლისურენოვანი სადიპლომო პროგრამებით, რომლებიც ინგლისურ საიტზეა მითითებული. მზადდება ახალი გლობალური ინოვაციებისა და განვითარების ფაკულტეტი. საფასური და ვადები ვერ წავიკითხეთ.",
+   "ar": "جامعة حكومية في طوكيو لها برامج درجات بالإنجليزية مدرجة في موقعها الإنجليزي. يجري التحضير لكلية جديدة للابتكار العالمي والتنمية. لم نقرأ الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "Tokyo Metropolitan University is a public university in Tokyo. Its English site lists undergraduate degree programmes and a category of English-taught degree programmes, plus an Admission Overview page and a 2026 University Guidebook. A new Faculty of Global Innovation and Development (GLIDe) is being prepared. Tuition, deadlines and entry rules were on pages we could not read.",
+   "ka": "ტოკიოს მეტროპოლიტენის უნივერსიტეტი სახელმწიფო უნივერსიტეტია ტოკიოში. მისი ინგლისური საიტი ასახელებს საბაკალავრო პროგრამებს და ინგლისურენოვანი სადიპლომო პროგრამების კატეგორიას, ასევე Admission Overview გვერდსა და 2026 წლის გზამკვლევს. მზადდება ახალი ფაკულტეტი Global Innovation and Development (GLIDe). საფასური, ვადები და შესვლის წესები ვერ წავიკითხეთ.",
+   "ar": "جامعة طوكيو العاصمة جامعة حكومية في طوكيو. يعرض موقعها الإنجليزي برامج البكالوريوس وفئة برامج الدرجات بالإنجليزية، إضافة إلى صفحة نظرة عامة على القبول ودليل الجامعة لعام 2026. يجري تحضير كلية جديدة للابتكار العالمي والتنمية (GLIDe). الرسوم والمواعيد وشروط القبول في صفحات لم نتمكن من قراءتها."
+  }
+ },
+ {
+  "type": "private",
+  "platform": "Direct (details not confirmed)",
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Rules for foreign school diplomas were not published on the pages we could read.",
+   "ka": "უცხოური სასკოლო დიპლომების აღიარების წესები ხელმისაწვდომ გვერდებზე გამოქვეყნებული არ იყო.",
+   "ar": "لم تُنشر قواعد قبول الشهادات الثانوية الأجنبية في الصفحات المتاحة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": {
+   "en": "The homepage advertises scholarships of up to 100% of tuition and enrolment fees; it does not say whether international students qualify.",
+   "ka": "მთავარ გვერდზე რეკლამირებულია სტიპენდიები სწავლისა და რეგისტრაციის საფასურის 100%-მდე; არ წერია, ეხება თუ არა საერთაშორისო სტუდენტებს.",
+   "ar": "تعلن الصفحة الرئيسية منحًا تصل إلى 100% من الرسوم الدراسية ورسوم التسجيل؛ ولا تذكر إن كان الطلاب الدوليون مؤهلين."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not found on the official pages we could read. Check with the admissions office.",
+   "ka": "მისაღები გამოცდებისა და ენის მოთხოვნების შესახებ ინფორმაცია ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ. დაუკავშირდით მისაღებ კომისიას.",
+   "ar": "لم نجد معلومات عن اختبارات القبول ومتطلبات اللغة في الصفحات الرسمية المتاحة. يرجى مراجعة مكتب القبول."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international bachelor applicants were not found on the official pages we could read.",
+   "ka": "საერთაშორისო ბაკალავრის აპლიკანტებისთვის აკადემიური მოთხოვნები ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ.",
+   "ar": "لم نجد المتطلبات الأكاديمية لمتقدمي البكالوريوس الدوليين في الصفحات الرسمية المتاحة."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "chile",
+   "santiago",
+   "private",
+   "spanish",
+   "scholarship"
+  ],
+  "sources": [
+   "https://www.unab.cl"
+  ],
+  "verified_at": "2026-11-01",
+  "id": "universidad-andres-bello",
+  "name": {
+   "en": "Universidad Andrés Bello",
+   "ka": "ანდრეს ბელიოს უნივერსიტეტი",
+   "ar": "جامعة أندريس بيو"
+  },
+  "iso": "CL",
+  "city": "Santiago",
+  "lat": -33.45,
+  "lon": -70.667,
+  "website": "https://www.unab.cl",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business",
+   "law",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine and health",
+    "Engineering",
+    "Business",
+    "Law",
+    "Biomedical engineering"
+   ],
+   "ka": [
+    "მედიცინა და ჯანდაცვა",
+    "ინჟინერია",
+    "ბიზნესი",
+    "სამართალი",
+    "ბიომედიცინის ინჟინერია"
+   ],
+   "ar": [
+    "الطب والصحة",
+    "الهندسة",
+    "الأعمال",
+    "القانون",
+    "الهندسة الطبية الحيوية"
+   ]
+  },
+  "summary": {
+   "en": "Private university in Santiago, Chile, taught in Spanish. Admission for 2027 is open and scholarships of up to 100% of tuition are advertised; international rules were not read.",
+   "ka": "კერძო უნივერსიტეტი სანტიაგოში, ჩილე, სწავლება ესპანურ ენაზე. 2027 წლის მისაღები გახსნილია და რეკლამირებულია სტიპენდიები სწავლის საფასურის 100%-მდე; საერთაშორისო წესები ვერ წავიკითხეთ.",
+   "ar": "جامعة خاصة في سانتياغو بتشيلي، التدريس فيها بالإسبانية. التسجيل لعام 2027 مفتوح وتُعلن منح تصل إلى 100% من الرسوم؛ لم نقرأ شروط القبول الدولي."
+  },
+  "about": {
+   "en": "Universidad Andrés Bello (UNAB) is a private university in Santiago, Chile. Its homepage says admission for 2027 is open and advertises scholarships of up to 100% of tuition and enrolment fees, with a scholarship simulator. New programmes include Biomedical Civil Engineering, Global Management and Medicine at the Las Condes campus. The site has an English version, but international admission rules and fees were not read.",
+   "ka": "ანდრეს ბელიოს უნივერსიტეტი (UNAB) კერძო უნივერსიტეტია სანტიაგოში, ჩილე. მთავარი გვერდის მიხედვით 2027 წლის მისაღები გახსნილია და რეკლამირებულია სტიპენდიები სწავლისა და რეგისტრაციის საფასურის 100%-მდე, სტიპენდიის სიმულატორით. ახალ პროგრამებს შორისაა ბიომედიცინის სამოქალაქო ინჟინერია, Global Management და მედიცინა ლას კონდესის კამპუსზე. საიტს აქვს ინგლისური ვერსია, მაგრამ საერთაშორისო მისაღები წესები და საფასური ვერ წავიკითხეთ.",
+   "ar": "جامعة أندريس بيو (UNAB) جامعة خاصة في سانتياغو بتشيلي. تذكر صفحتها الرئيسية أن القبول لعام 2027 مفتوح وتعلن منحًا تصل إلى 100% من الرسوم الدراسية ورسوم التسجيل مع محاكي للمنح. من البرامج الجديدة الهندسة المدنية الطبية الحيوية والإدارة العالمية والطب في حرم لاس كوندس. للموقع نسخة إنجليزية، لكننا لم نقرأ شروط القبول الدولي والرسوم."
+  }
+ },
+ {
+  "type": "private",
+  "platform": "Online enrolment (uade.edu.ar/admisionweb)",
+  "application_url": "https://www.uade.edu.ar/informacion-para/ingresantes/",
+  "intakes": [
+   "March"
+  ],
+  "deadline": null,
+  "deadline_note": "Enrolment is open for the March 2027 start. A new Bachelor in Business Economics starts in the first semester of 2027.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Rules for foreign school diplomas were not published on the pages we could read.",
+   "ka": "უცხოური სასკოლო დიპლომების აღიარების წესები ხელმისაწვდომ გვერდებზე გამოქვეყნებული არ იყო.",
+   "ar": "لم تُنشر قواعد قبول الشهادات الثانوية الأجنبية في الصفحات المتاحة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements were not found on the official pages we could read. Check with the admissions office.",
+   "ka": "მისაღები გამოცდებისა და ენის მოთხოვნების შესახებ ინფორმაცია ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ. დაუკავშირდით მისაღებ კომისიას.",
+   "ar": "لم نجد معلومات عن اختبارات القبول ومتطلبات اللغة في الصفحات الرسمية المتاحة. يرجى مراجعة مكتب القبول."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international bachelor applicants were not found on the official pages we could read.",
+   "ka": "საერთაშორისო ბაკალავრის აპლიკანტებისთვის აკადემიური მოთხოვნები ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ მოვიძიეთ.",
+   "ar": "لم نجد المتطلبات الأكاديمية لمتقدمي البكالوريوس الدوليين في الصفحات الرسمية المتاحة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "სკოლის დამამთავრებელი ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma recognition statement",
+     "ka": "დიპლომის აღიარების ცნობა",
+     "ar": "إفادة الاعتراف بالشهادة"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language proficiency certificate",
+     "ka": "ენის ცოდნის სერტიფიკატი",
+     "ar": "شهادة إتقان اللغة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "argentina",
+   "buenos aires",
+   "private",
+   "spanish"
+  ],
+  "sources": [
+   "https://www.uade.edu.ar",
+   "https://www.uade.edu.ar/uade-internacional/"
+  ],
+  "verified_at": "2026-11-01",
+  "id": "universidad-argentina-de-la-empresa-uade",
+  "name": {
+   "en": "Universidad Argentina de la Empresa (UADE)",
+   "ka": "არგენტინის საწარმოო უნივერსიტეტი (UADE)",
+   "ar": "الجامعة الأرجنتينية للشركات (UADE)"
+  },
+  "iso": "AR",
+  "city": "Buenos Aires",
+  "lat": -34.613,
+  "lon": -58.381,
+  "website": "https://www.uade.edu.ar",
+  "fields": [
+   "business",
+   "economics",
+   "engineering",
+   "arts-design",
+   "law",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Economic sciences",
+    "Design",
+    "Architecture",
+    "Engineering",
+    "Law and communication",
+    "Health sciences"
+   ],
+   "ka": [
+    "ეკონომიკური მეცნიერებები",
+    "დიზაინი",
+    "არქიტექტურა",
+    "ინჟინერია",
+    "სამართალი და კომუნიკაცია",
+    "ჯანდაცვის მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم الاقتصادية",
+    "التصميم",
+    "العمارة",
+    "الهندسة",
+    "القانون والاتصال",
+    "العلوم الصحية"
+   ]
+  },
+  "summary": {
+   "en": "Private university in Buenos Aires with seven undergraduate faculties, taught in Spanish. Enrolment is open for March 2027; fees were not read.",
+   "ka": "კერძო უნივერსიტეტი ბუენოს-აირესში შვიდი საბაკალავრო ფაკულტეტით, სწავლება ესპანურად. რეგისტრაცია 2027 წლის მარტისთვის გახსნილია; საფასური ვერ წავიკითხეთ.",
+   "ar": "جامعة خاصة في بوينس آيرس فيها سبع كليات للبكالوريوس، التدريس بالإسبانية. التسجيل مفتوح لبدء مارس 2027؛ لم نقرأ الرسوم."
+  },
+  "about": {
+   "en": "UADE is a private university in Buenos Aires with campuses in Buenos Aires, Recoleta, Belgrano and Pinamar. Its seven undergraduate faculties are Architecture and Urban Planning; Economic Sciences; Entertainment, Hospitality and Media; Design; Legal and Communication Sciences; Health Sciences; and Engineering and Exact Sciences. Students enrol online and sit an entry system (Sistema de Ingreso). Fees and rules for foreign school diplomas were not on the pages read.",
+   "ka": "UADE კერძო უნივერსიტეტია ბუენოს-აირესში, კამპუსებით ბუენოს-აირესში, რეკოლეტაში, ბელგრანოსა და პინამარში. შვიდი საბაკალავრო ფაკულტეტია: არქიტექტურა და ურბანული დაგეგმარება; ეკონომიკური მეცნიერებები; გართობა, სტუმართმოყვარეობა და მედია; დიზაინი; იურიდიული და კომუნიკაციის მეცნიერებები; ჯანდაცვის მეცნიერებები; ინჟინერია და ზუსტი მეცნიერებები. რეგისტრაცია ონლაინ ხდება და არსებობს მისაღები სისტემა (Sistema de Ingreso). საფასური და უცხოური ატესტატების წესები ვერ წავიკითხეთ.",
+   "ar": "UADE جامعة خاصة في بوينس آيرس لها حرم في بوينس آيرس وريكوليتا وبلغرانو وبيناماري. كلياتها السبع للبكالوريوس: العمارة والتخطيط العمراني؛ العلوم الاقتصادية؛ الترفيه والضيافة والإعلام؛ التصميم؛ العلوم القانونية والاتصال؛ العلوم الصحية؛ الهندسة والعلوم الدقيقة. يتم التسجيل إلكترونيًا وهناك نظام قبول (Sistema de Ingreso). لم نجد الرسوم وقواعد الشهادات الأجنبية في الصفحات المقروءة."
+  }
+ }
+]

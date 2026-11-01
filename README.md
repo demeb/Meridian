@@ -549,3 +549,31 @@ school's students.
 **Render environment (set in the dashboard, never in git):**
 `MERIDIAN_SMTP_USER` + `MERIDIAN_SMTP_PASSWORD` (Gmail address + Google app
 password) so codes reach Gmail; `ANTHROPIC_API_KEY` to switch on Meridian AI.
+
+
+## Round 7 (1 Nov 2026, doc tab "Oct 31 Website")
+
+- **Universities:** 1,017 of 1,535 have full profiles (was 338), each in EN/KA/AR, with the
+  school diplomas accepted (national / A level / IB / US diploma), teaching languages,
+  English-taught bachelors and study fields. Research files: `backend/data/research/round7/`
+  (`universities-bNNN.json`, `backfill-fNN.json`); `tools/merge_universities.py` merges them,
+  keeps records with fewer than 4 official facts as basic pages (`round7/THIN.txt`) and hides
+  deadlines that have passed.
+- **Universities page:** "Best universities in your field" chips, School diploma and Language
+  of teaching filters; the university page shows accepted diplomas and teaching language.
+- **Programmes page speed:** the globe paints every country into the Earth texture (one draw
+  call instead of ~8,000; 43 ms → 0.5 ms a frame); only the hovered/chosen country is a 3D
+  shape. The NASA tile engine is gone (it made the globe black when zooming in). Scripts, CSS
+  and map data are gzipped once and cached (`static_gzip` in app.py); `?v=r7` files are
+  cached for a week on the live site. Arrow buttons beside the type chips.
+- **Filters everywhere:** every `select.select` becomes the site-styled dropdown
+  (`M.searchSelect`, search box only for long lists); checkboxes, radios and sliders are
+  restyled in `components.css`; filter panels share `--filter-bg`. Teachers: chips,
+  continents, no counselling subjects. Nav dropdowns are opaque.
+- **Home:** 4 short research findings; small "New on the platform" cards.
+- **Prep:** exam search, type and free-only filters, plus "who needs it", scores and 3 tips per exam.
+- **Counselling:** compact self-tests with pictures; 10 mini-courses (3 new).
+- **Pricing / About:** new package contents; About rebuilt (mission, live numbers, 4 promises, team).
+- **SEO:** real titles/descriptions, Open Graph, `/sitemap.xml` (every programme and
+  university), `/robots.txt`, Organization structured data.
+- **Meridian AI:** "Recommend from my CV" tool; goes live with `ANTHROPIC_API_KEY`.

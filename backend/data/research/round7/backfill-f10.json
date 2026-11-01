@@ -1,0 +1,563 @@
+{
+ "university-of-arizona": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "business",
+   "environment",
+   "medicine-health"
+  ]
+ },
+ "rutgers-universitynew-brunswick": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business",
+   "computer-science"
+  ]
+ },
+ "university-of-leicester": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "natural-sciences",
+   "medicine-health",
+   "law",
+   "humanities"
+  ]
+ },
+ "southern-university-of-science-and-technology-sustech": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "computer-science",
+   "mathematics"
+  ]
+ },
+ "nc-state-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "environment",
+   "arts-design",
+   "medicine-health"
+  ]
+ },
+ "swansea-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "BSc Economics: A levels ABB–BCC, or a four-year route with a Foundation Year at CCD–DDD. IB and country-specific diplomas are on a separate entry requirements page.",
+   "ka": "BSc Economics: A-level ABB–BCC ან ოთხწლიანი გზა ფაუნდეიშენ წლით (CCD–DDD). IB და ქვეყნების მიხედვით დიპლომები ცალკე გვერდზეა მითითებული.",
+   "ar": "بكالوريوس الاقتصاد: A-level بتقدير ABB–BCC، أو مسار من أربع سنوات بسنة تأسيسية بتقدير CCD–DDD. تُذكر متطلبات IB والشهادات الوطنية في صفحة منفصلة."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "computer-science",
+   "law",
+   "economics",
+   "natural-sciences"
+  ]
+ },
+ "york-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Requirements are given per curriculum: US high school diploma (B average in Grades 11–12; SAT/ACT not required for an accredited US curriculum), IB and GCE A levels. Georgian, Qatari and Gulf national diplomas are not named separately and fall under 'Other curriculum'.",
+   "ka": "მოთხოვნები კონკრეტულია სასწავლო გეგმის მიხედვით: აშშ-ის დიპლომისთვის B საშუალო ნიშანი მე-11–12 კლასებში (აკრედიტებული აშშ-ის პროგრამისთვის SAT/ACT საჭირო არ არის), ასევე IB და GCE A-level. საქართველოს, ყატარისა და ყურის ქვეყნების ეროვნული დიპლომები ცალკე არ არის დასახელებული და „სხვა სასწავლო გეგმის“ კატეგორიაში ექცევა.",
+   "ar": "تتحدد المتطلبات حسب المنهج: الثانوية الأمريكية بمعدل B في الصفين 11–12 (دون الحاجة إلى SAT/ACT للمنهج الأمريكي المعتمد)، إضافة إلى IB وGCE A-level. لا تُذكر الشهادات الوطنية في جورجيا وقطر والخليج بشكل منفصل وتندرج ضمن «مناهج أخرى»."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "business",
+   "law",
+   "engineering",
+   "social-sciences",
+   "arts-design",
+   "medicine-health"
+  ]
+ },
+ "heriot-watt-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Economics: A levels standard entry BBC (minimum BCC); IB 29 points. International diplomas such as Georgian or Qatari ones are not listed on the page.",
+   "ka": "Economics: A-level სტანდარტულად BBC (მინიმუმ BCC); IB 29 ქულა. საერთაშორისო დიპლომები, მათ შორის ქართული ან ყატარული, გვერდზე ჩამოთვლილი არ არის.",
+   "ar": "الاقتصاد: A-level بتقدير BBC عادةً (حد أدنى BCC)؛ وIB بـ 29 نقطة. لا تُدرج الصفحة الشهادات الدولية مثل الجورجية أو القطرية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "mathematics",
+   "natural-sciences",
+   "economics",
+   "business"
+  ]
+ },
+ "case-western-reserve-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "natural-sciences",
+   "computer-science",
+   "arts-design"
+  ]
+ },
+ "rutgers-university-new-brunswick": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "medicine-health",
+   "computer-science",
+   "business",
+   "engineering",
+   "humanities"
+  ]
+ },
+ "tufts-university": {
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Evaluates international applicants within the context of their national system and names GCE A levels, the IB, the French Baccalauréat and the Abitur as examples. English proficiency proof is required unless you had three or more years of English-medium schooling.",
+   "ka": "საერთაშორისო განმცხადებლებს აფასებს მათი ეროვნული სისტემის კონტექსტში; მაგალითად დასახელებულია GCE A-level, IB, ფრანგული ბაკალავრეატი და Abitur. ინგლისურის დამადასტურებელი ტესტი საჭიროა, თუ სამ ან მეტ წელს არ გისწავლიათ ინგლისურენოვან სკოლაში.",
+   "ar": "تُقيَّم طلبات الدوليين في سياق نظامهم الوطني، وتُذكر شهادات GCE A-level وIB والبكالوريا الفرنسية وAbitur كأمثلة. يُطلب إثبات الإنجليزية ما لم تكن قد درست ثلاث سنوات أو أكثر في مدرسة تدرّس بالإنجليزية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "international-relations",
+   "medicine-health",
+   "natural-sciences",
+   "economics",
+   "engineering",
+   "computer-science"
+  ]
+ },
+ "brunel-university-of-london": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Economics BSc: A levels ABB (contextual BBB); IB 31 points (contextual 30). Georgian and Qatari diplomas are not specified on the page, so applicants should contact admissions.",
+   "ka": "Economics BSc: A-level ABB (კონტექსტური შეთავაზება BBB); IB 31 ქულა (კონტექსტური 30). საქართველოსა და ყატარის დიპლომები გვერდზე დაკონკრეტებული არ არის, ამიტომ საჭიროა მიღების ოფისთან დაკავშირება.",
+   "ar": "بكالوريوس الاقتصاد: A-level بتقدير ABB (BBB للعرض السياقي)؛ وIB بـ 31 نقطة (30 للعرض السياقي). لا تحدد الصفحة متطلبات الشهادتين الجورجية والقطرية، لذا يُنصح بمراسلة القبول."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "arts-design",
+   "computer-science",
+   "economics",
+   "business",
+   "medicine-health"
+  ]
+ },
+ "sciences-po": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "international-relations",
+   "social-sciences",
+   "economics",
+   "law",
+   "humanities"
+  ]
+ },
+ "virginia-tech": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "arts-design",
+   "computer-science",
+   "natural-sciences",
+   "environment",
+   "business"
+  ]
+ },
+ "indiana-university-bloomington": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "business",
+   "arts-design",
+   "environment",
+   "computer-science",
+   "social-sciences",
+   "natural-sciences"
+  ]
+ },
+ "university-of-illinois-chicago": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "computer-science",
+   "business",
+   "arts-design"
+  ]
+ },
+ "university-of-victoria": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "engineering",
+   "natural-sciences",
+   "environment",
+   "business",
+   "law"
+  ]
+ },
+ "northeastern-university": {
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Accepts any graduation certificate or diploma that allows entry to a bachelor's programme in your country, with the High School Diploma, IB Diploma and A-Levels listed as examples. SAT/ACT is optional; English proficiency is required for most non-native speakers.",
+   "ka": "მიიღება ნებისმიერი საშუალო განათლების სერტიფიკატი ან დიპლომი, რომელიც თქვენს ქვეყანაში ბაკალავრიატზე ჩაბარების უფლებას იძლევა; მაგალითად დასახელებულია აშშ-ის დიპლომი, IB და A-level. SAT/ACT არჩევითია; ინგლისურის ცოდნის დადასტურება საჭიროა მშობლიურ ენად ინგლისურის არმქონეთათვის.",
+   "ar": "تُقبل أي شهادة ثانوية تتيح الالتحاق ببكالوريوس في بلدك، ومن الأمثلة الثانوية الأمريكية وIB وA-Level. اختبار SAT/ACT اختياري، ويُطلب إثبات الإنجليزية لمعظم غير الناطقين بها."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "business",
+   "engineering",
+   "medicine-health"
+  ]
+ },
+ "american-university-in-cairo": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "business",
+   "engineering",
+   "international-relations",
+   "social-sciences",
+   "economics",
+   "computer-science"
+  ]
+ },
+ "ajman-university": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "UAE certificates are accepted; certificates from schools outside the UAE need an Equivalency Certificate from the UAE ministry plus attestation by the home country and the UAE embassy. Medicine, Dentistry and Pharmacy also require interviews and high school marks (e.g., 90% in maths and sciences).",
+   "ka": "საემიროების სერტიფიკატები მიიღება; საემიროების გარეთ გაცემულ სერტიფიკატს სჭირდება საემიროების სამინისტროს ეკვივალენტობის სერტიფიკატი, ასევე მშობლიური ქვეყნისა და საემიროების საელჩოს დადასტურება. მედიცინას, სტომატოლოგიასა და ფარმაციაზე დამატებით საჭიროა გასაუბრება და მაღალი ნიშნები (მაგ. 90% მათემატიკასა და საბუნებისმეტყველოში).",
+   "ar": "تُقبل شهادات الإمارات؛ أما الشهادات الصادرة خارج الدولة فتحتاج إلى شهادة معادلة من الوزارة الإماراتية إضافة إلى تصديقها من بلدها وسفارة الإمارات. وتشترط الطب وطب الأسنان والصيدلة مقابلة شخصية ودرجات عالية (مثل 90% في الرياضيات والعلوم)."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "computer-science",
+   "law",
+   "social-sciences"
+  ]
+ },
+ "uc-riverside": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "business",
+   "engineering",
+   "natural-sciences",
+   "environment",
+   "social-sciences",
+   "computer-science"
+  ]
+ },
+ "university-at-buffalo": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "business",
+   "arts-design",
+   "computer-science"
+  ]
+ },
+ "oxford-brookes-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Economics BSc: A levels ABB (contextual BCC); IB 32 points (contextual 29). International qualifications are welcomed but grades for Georgia and the Gulf are not stated on the page; a foundation course gives a guaranteed pathway.",
+   "ka": "Economics BSc: A-level ABB (კონტექსტური BCC); IB 32 ქულა (კონტექსტური 29). საერთაშორისო კვალიფიკაციებიც მისასალმებელია, თუმცა საქართველოსა და ყურის ქვეყნების ნიშნები გვერდზე მითითებული არ არის; ფაუნდეიშენ კურსი გარანტირებულ გზას იძლევა.",
+   "ar": "بكالوريوس الاقتصاد: A-level بتقدير ABB (BCC سياقي)؛ وIB بـ 32 نقطة (29 سياقي). المؤهلات الدولية مرحَّب بها لكن درجات جورجيا ودول الخليج غير مذكورة، ويوفر مسار التأسيس طريقًا مضمونًا للالتحاق."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "arts-design",
+   "business",
+   "engineering",
+   "medicine-health",
+   "economics"
+  ]
+ },
+ "bilkent-university": {
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Accepts GCE/Cambridge A levels (three subjects, at least C), IB (28/45 with a related Higher Level subject) and SAT (1000/1600 plus subject tests); national diplomas are accepted under country-specific minimum scores.",
+   "ka": "მიიღება GCE/Cambridge A-level (სამი საგანი, მინიმუმ C), IB (28/45 და შესაბამისი HL საგანი) და SAT (1000/1600 + საგნობრივი ტესტები); ეროვნული დიპლომები მიიღება ქვეყნების მიხედვით დადგენილი მინიმალური ქულებით.",
+   "ar": "تُقبل A-level (ثلاث مواد بتقدير C على الأقل) وIB (28 من 45 مع مادة مستوى عالٍ ذات صلة) وSAT (1000 من 1600 مع اختبارات مواد)؛ وتُقبل الشهادات الوطنية وفق حدود دنيا للدرجات لكل بلد."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "economics",
+   "natural-sciences",
+   "arts-design"
+  ]
+ },
+ "uc-santa-cruz": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "arts-design",
+   "natural-sciences",
+   "environment",
+   "social-sciences"
+  ]
+ },
+ "stony-brook-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "mathematics",
+   "medicine-health",
+   "natural-sciences",
+   "engineering"
+  ]
+ },
+ "prince-sultan-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business",
+   "law",
+   "arts-design",
+   "humanities"
+  ]
+ },
+ "king-khalid-university": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "with-extra",
+   "ib": "with-extra",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Accepts secondary certificates equivalent to the Saudi one, including American, British (IGCSE/AS/A2) and IB systems, but all applicants also need the General Aptitude (GAT) and Achievement tests or approved alternatives, plus IELTS 5 for English-taught programmes.",
+   "ka": "მიიღება საუდის არაბეთის ატესტატის ექვივალენტური საშუალო განათლების დოკუმენტები, მათ შორის ამერიკული, ბრიტანული (IGCSE/AS/A2) და IB სისტემა, მაგრამ ყველა განმცხადებელს ესაჭიროება ზოგადი უნარების (GAT) და მიღწევის ტესტი ან დამტკიცებული ალტერნატივა, ხოლო ინგლისურენოვან პროგრამებზე IELTS 5.",
+   "ar": "تُقبل الشهادات الثانوية المعادلة للشهادة السعودية، ومنها النظام الأمريكي والبريطاني (IGCSE/AS/A2) وIB، لكن يحتاج جميع المتقدمين إلى اختبار القدرات العامة (GAT) واختبار التحصيل أو بدائل معتمدة، إضافة إلى IELTS 5 للبرامج المدرّسة بالإنجليزية."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "computer-science",
+   "business",
+   "languages"
+  ]
+ },
+ "al-ain-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "some",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "law",
+   "business",
+   "education"
+  ]
+ },
+ "zayed-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Accepts UAE Ministry and American curricula, the British curriculum (at least two A levels at C), the IB Diploma (24 points) and BTEC; other national diplomas are not addressed. English and maths are checked by Grade 12 marks or TOEFL iBT 72 / SAT Math 530.",
+   "ka": "მიიღება საემიროების განათლების სამინისტროს და ამერიკული სასწავლო გეგმა, ბრიტანული (მინიმუმ ორი A-level C ნიშნით), IB დიპლომი (24 ქულა) და BTEC; სხვა ეროვნული დიპლომები არ არის განხილული. ინგლისური და მათემატიკა მოწმდება მე-12 კლასის ნიშნით ან TOEFL iBT 72 / SAT Math 530-ით.",
+   "ar": "تُقبل مناهج وزارة التربية الإماراتية والمنهج الأمريكي والبريطاني (A-level بمادتين بتقدير C على الأقل) وشهادة IB (24 نقطة) وBTEC؛ ولا تتناول الصفحة الشهادات الوطنية الأخرى. يُقاس مستوى الإنجليزية والرياضيات بدرجات الصف 12 أو TOEFL iBT 72 / SAT Math 530."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "social-sciences",
+   "international-relations",
+   "business",
+   "computer-science",
+   "arts-design",
+   "medicine-health"
+  ]
+ }
+}

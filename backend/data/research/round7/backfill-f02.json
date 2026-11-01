@@ -1,0 +1,634 @@
+{
+ "monash-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry is judged on your secondary qualification against course-specific minimum scores; check Monash's country page for your diploma.",
+   "ka": "მიღება ხდება საშუალო განათლების დოკუმენტის შედეგებით, კონკრეტული პროგრამის მინიმალური ქულების მიხედვით; თქვენი დიპლომის მოთხოვნები იხილეთ Monash-ის ქვეყნების გვერდზე.",
+   "ar": "يعتمد القبول على نتائج شهادتك الثانوية مقارنةً بالحد الأدنى من الدرجات لكل برنامج؛ راجع صفحة بلدك على موقع Monash لمعرفة متطلبات شهادتك."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "education",
+   "business"
+  ]
+ },
+ "university-of-toronto": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "SAT/ACT are used for some US-curriculum applicants; requirements for other national curricula are listed per country on the admissions site.",
+   "ka": "SAT/ACT გამოიყენება აშშ-ის სასწავლო გეგმის ზოგიერთი აპლიკანტისთვის; სხვა ეროვნული პროგრამების მოთხოვნები ქვეყნების მიხედვით არის გამოქვეყნებული მისაღებ გვერდზე.",
+   "ar": "تُستخدم نتائج SAT/ACT لبعض المتقدمين من المنهج الأمريكي، أما متطلبات المناهج الوطنية الأخرى فهي منشورة لكل بلد على موقع القبول."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "engineering",
+   "business",
+   "medicine-health",
+   "social-sciences"
+  ]
+ },
+ "hkust": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "HKUST accepts IB, British-patterned (A levels), and American-patterned (SAT/ACT/AP) qualifications, plus many other national systems, along with proof of English.",
+   "ka": "HKUST იღებს IB-ს, A-level-ს და ამერიკულ კვალიფიკაციას (SAT/ACT/AP), ასევე მრავალ სხვა ეროვნულ სისტემას, ინგლისურის დამადასტურებელ ტესტთან ერთად.",
+   "ar": "تقبل HKUST شهادات IB وA-level والمنهج الأمريكي (SAT/ACT/AP) إضافةً إلى العديد من الأنظمة الوطنية الأخرى، مع إثبات إتقان اللغة الإنجليزية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business",
+   "mathematics",
+   "natural-sciences"
+  ]
+ },
+ "psl-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "PSL has no single international-entry rule; requirements depend on the programme (CPES, Dauphine, ENS), and French at about B2–C1 is needed for most.",
+   "ka": "PSL-ს არ აქვს ერთიანი საერთაშორისო მიღების წესი; მოთხოვნები დამოკიდებულია პროგრამაზე (CPES, Dauphine, ENS), და უმეტესობისთვის საჭიროა ფრანგული დაახლოებით B2–C1 დონეზე.",
+   "ar": "لا توجد قاعدة موحدة للقبول الدولي في PSL؛ تختلف المتطلبات حسب البرنامج (CPES وDauphine وENS)، ويلزم لمعظمها مستوى فرنسي B2–C1 تقريباً."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "mathematics",
+   "economics",
+   "natural-sciences",
+   "humanities",
+   "engineering",
+   "arts-design"
+  ]
+ },
+ "university-of-edinburgh": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Edinburgh publishes entry requirements for A levels and the IB, and US applicants can use SAT/AP; other national diplomas are listed by region, and an International Foundation Programme is available.",
+   "ka": "ედინბურგი აქვეყნებს მოთხოვნებს A-level-ისა და IB-სთვის, ამერიკელი აპლიკანტები კი SAT/AP-ს იყენებენ; სხვა ეროვნული დიპლომები ქვეყნების მიხედვით არის მითითებული, ხოლო არსებობს International Foundation Programme.",
+   "ar": "تنشر إدنبرة متطلبات القبول لشهادتي A-level وIB، ويمكن للمتقدمين الأمريكيين استخدام SAT/AP؛ أما الشهادات الوطنية الأخرى فمدرجة حسب المنطقة، كما يتوفر برنامج تأسيسي دولي (International Foundation Programme)."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "medicine-health",
+   "humanities",
+   "economics",
+   "social-sciences",
+   "environment"
+  ]
+ },
+ "shanghai-jiao-tong-university": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "All international applicants need the CSCA (with Mathematics); SAT/ACT, A level (Maths A) or IB (Maths HL 5) results support the application.",
+   "ka": "ყველა საერთაშორისო აპლიკანტს სჭირდება CSCA (მათემატიკით); განაცხადს ამყარებს SAT/ACT, A-level (Maths A) ან IB (Maths HL 5) შედეგები.",
+   "ar": "يحتاج جميع المتقدمين الدوليين إلى اختبار CSCA (مع الرياضيات)، وتدعم نتائج SAT/ACT أو A-level (Maths A) أو IB (Maths HL 5) الطلب."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "medicine-health"
+  ]
+ },
+ "kings-college-london": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Offers are made on A levels, IB or equivalent; check the country page for your national diploma, and note that some courses add UCAT or LNAT.",
+   "ka": "შეთავაზებები ეფუძნება A-level-ს, IB-ს ან ექვივალენტს; თქვენი ეროვნული დიპლომის მოთხოვნები გადაამოწმეთ ქვეყნის გვერდზე, ზოგ პროგრამას კი დამატებით UCAT ან LNAT სჭირდება.",
+   "ar": "تُمنح العروض على أساس A-level أو IB أو ما يعادلهما؛ راجع صفحة بلدك لمعرفة متطلبات شهادتك الوطنية، وتضيف بعض البرامج اختبار UCAT أو LNAT."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "international-relations",
+   "law",
+   "medicine-health",
+   "social-sciences",
+   "humanities"
+  ]
+ },
+ "seoul-national-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "No fixed test is required, but SAT, ACT, AP, IB, A-level and IGCSE results may be submitted as supporting evidence; the official guide (PDF) lists eligibility by school system.",
+   "ka": "კონკრეტული ტესტი სავალდებულო არ არის, მაგრამ SAT, ACT, AP, IB, A-level და IGCSE შედეგები შეიძლება დამატებით წარადგინოთ; სრული მოთხოვნები სასკოლო სისტემების მიხედვით PDF გზამკვლევშია.",
+   "ar": "لا يُشترط اختبار محدد، لكن يمكن تقديم نتائج SAT وACT وAP وIB وA-level وIGCSE كدليل داعم؛ ويحدد الدليل الرسمي (PDF) شروط الأهلية حسب نظام المدرسة."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "business",
+   "economics",
+   "medicine-health",
+   "social-sciences"
+  ]
+ },
+ "university-of-tokyo": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "The English-taught Design route accepts IB, A-level, SAT/ACT and other listed standardized qualifications plus an English test and online interview; the other route uses Japan's Common Test.",
+   "ka": "ინგლისურენოვანი Design მიმართულების მეორე გზა იღებს IB-ს, A-level-ს, SAT/ACT-ს და სხვა ჩამოთვლილ სტანდარტიზებულ კვალიფიკაციებს, ინგლისურის ტესტსა და ონლაინ ინტერვიუსთან ერთად; პირველი გზა იაპონიის Common Test-ს ეყრდნობა.",
+   "ar": "يقبل مسار Design المُدرَّس بالإنجليزية شهادات IB وA-level وSAT/ACT وغيرها من المؤهلات المعيارية المدرجة، مع اختبار إنجليزي ومقابلة عبر الإنترنت؛ أما المسار الآخر فيعتمد على الاختبار الياباني Common Test."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "arts-design",
+   "natural-sciences",
+   "economics",
+   "law",
+   "medicine-health"
+  ]
+ },
+ "university-of-queensland": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "UQ sets minimums per country and qualification on its admissions pages; check the entry requirements for your diploma, and UQ English pathways exist for lower English scores.",
+   "ka": "UQ ქვეყნისა და კვალიფიკაციის მიხედვით აწესებს მინიმუმებს მისაღებ გვერდზე; თქვენი დიპლომის მოთხოვნები იქ გადაამოწმეთ, ხოლო დაბალი ინგლისურისთვის არსებობს UQ-ის ინგლისური ენის პროგრამები.",
+   "ar": "تحدد UQ الحد الأدنى حسب البلد والمؤهل في صفحات القبول؛ راجع متطلبات شهادتك هناك، وتتوفر مسارات للغة الإنجليزية لمن لديهم مستوى أقل."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "business",
+   "medicine-health",
+   "environment",
+   "social-sciences"
+  ]
+ },
+ "university-of-manchester": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Manchester sets requirements by qualification and country on its international pages; check the entry for your diploma, and note UCAT for medicine and dentistry.",
+   "ka": "მანჩესტერი მოთხოვნებს კვალიფიკაციისა და ქვეყნის მიხედვით აქვეყნებს საერთაშორისო გვერდებზე; თქვენი დიპლომი იქ გადაამოწმეთ, მედიცინასა და სტომატოლოგიას კი დამატებით UCAT სჭირდება.",
+   "ar": "تحدد مانشستر المتطلبات حسب المؤهل والبلد في صفحاتها الدولية؛ راجع ما يخص شهادتك هناك، مع ملاحظة اختبار UCAT للطب وطب الأسنان."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "business",
+   "computer-science",
+   "medicine-health",
+   "social-sciences"
+  ]
+ },
+ "yonsei-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Applicants must hold or expect a high school diploma (GED and home-schooling do not count); IB English A and diplomas from US and other English-speaking schools count as English proof.",
+   "ka": "აპლიკანტს უნდა ჰქონდეს ან მიიღოს საშუალო სკოლის დიპლომი (GED და საშინაო განათლება არ ითვლება); IB English A და აშშ-ისა და სხვა ინგლისურენოვანი სკოლების დიპლომი ინგლისურის დასტურად ჩაითვლება.",
+   "ar": "يجب أن يحمل المتقدم شهادة ثانوية أو يتوقع الحصول عليها (لا تُقبل GED ولا التعليم المنزلي)؛ ويُعد IB English A وشهادات المدارس في الولايات المتحدة والدول الناطقة بالإنجليزية إثباتاً للغة الإنجليزية."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "social-sciences",
+   "business",
+   "economics",
+   "medicine-health",
+   "international-relations",
+   "humanities"
+  ]
+ },
+ "columbia-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Columbia reviews international applicants holistically on their school record; check the international admissions page for how your national diploma is read.",
+   "ka": "კოლუმბია საერთაშორისო აპლიკანტებს სასკოლო მიღწევების მიხედვით კომპლექსურად აფასებს; თქვენი ეროვნული დიპლომი როგორ განიხილება, საერთაშორისო მიღების გვერდზე გადაამოწმეთ.",
+   "ar": "تراجع كولومبيا طلبات الدوليين مراجعة شاملة بناءً على سجلك المدرسي؛ راجع صفحة القبول الدولي لمعرفة كيفية تقييم شهادتك الوطنية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "economics",
+   "international-relations",
+   "engineering",
+   "humanities",
+   "social-sciences"
+  ]
+ },
+ "institut-polytechnique-de-paris": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Applicants must be completing a recognised high school leaving certificate (the IB, French Baccalaureate and similar are listed) with advanced maths and at least one advanced science.",
+   "ka": "აპლიკანტი უნდა ამთავრებდეს აღიარებულ საშუალო სკოლის დამამთავრებელ სერტიფიკატს (ჩამოთვლილია IB, ფრანგული ბაკალავრეატი და მსგავსი) მოწინავე მათემატიკითა და მინიმუმ ერთი მოწინავე საბუნებისმეტყველო საგნით.",
+   "ar": "يجب أن يكون المتقدم بصدد إنهاء شهادة ثانوية معترف بها (مدرج IB والبكالوريا الفرنسية وما شابهها) مع رياضيات متقدمة ومادة علمية متقدمة واحدة على الأقل."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "mathematics",
+   "computer-science",
+   "engineering",
+   "economics",
+   "natural-sciences"
+  ]
+ },
+ "northwestern-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Northwestern reviews international applicants on school record and rigour of curriculum; check its international page for how your national diploma is evaluated.",
+   "ka": "Northwestern საერთაშორისო აპლიკანტებს სასკოლო მიღწევებისა და სასწავლო პროგრამის სირთულის მიხედვით აფასებს; თქვენი ეროვნული დიპლომის შეფასების წესი საერთაშორისო გვერდზეა.",
+   "ar": "تقيّم Northwestern المتقدمين الدوليين وفق سجلهم المدرسي وصعوبة المنهج؛ راجع صفحتها الدولية لمعرفة كيفية تقييم شهادتك الوطنية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "social-sciences",
+   "economics",
+   "engineering",
+   "arts-design",
+   "humanities"
+  ]
+ },
+ "university-of-british-columbia": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "UBC publishes admission requirements by country and curriculum on its international pages; check the entry for your diploma.",
+   "ka": "UBC მისაღებ მოთხოვნებს ქვეყნისა და სასწავლო გეგმის მიხედვით აქვეყნებს საერთაშორისო გვერდებზე; თქვენი დიპლომის მოთხოვნები იქ გადაამოწმეთ.",
+   "ar": "تنشر UBC متطلبات القبول حسب البلد والمنهج في صفحاتها الدولية؛ راجع ما يخص شهادتك هناك."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "environment",
+   "computer-science",
+   "engineering",
+   "business",
+   "natural-sciences"
+  ]
+ },
+ "zhejiang-university": {
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "SAT/ACT, IB, A-level or national exam results are submitted where applicable, and every applicant from 2026/27 must also submit a CSCA report.",
+   "ka": "საჭიროების შემთხვევაში წარედგინება SAT/ACT, IB, A-level ან ეროვნული გამოცდების შედეგები, ხოლო 2026/27-დან ყველა აპლიკანტმა უნდა წარადგინოს CSCA ანგარიშიც.",
+   "ar": "تُقدَّم نتائج SAT/ACT أو IB أو A-level أو الامتحانات الوطنية عند الاقتضاء، ومن 2026/27 يجب على جميع المتقدمين تقديم تقرير CSCA أيضاً."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "environment",
+   "medicine-health",
+   "business"
+  ]
+ },
+ "tu-delft": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A strong advanced-level maths and physics background is required; check the TU Delft admissions page for how your diploma is assessed, and some programmes add a selection procedure.",
+   "ka": "საჭიროა ძლიერი მოწინავე დონის მათემატიკა და ფიზიკა; თქვენი დიპლომის შეფასების წესი TU Delft-ის მისაღებ გვერდზე გადაამოწმეთ, ზოგ პროგრამას კი დამატებითი შერჩევა აქვს.",
+   "ar": "يلزم أساس قوي في الرياضيات والفيزياء بمستوى متقدم؛ راجع صفحة القبول في TU Delft لمعرفة كيفية تقييم شهادتك، وتضيف بعض البرامج إجراء انتقاء."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "environment"
+  ]
+ },
+ "ucla": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "UCLA reviews the high school record (SAT/ACT are not considered); international applicants should check the UC international page for their country's diploma.",
+   "ka": "UCLA ითვალისწინებს საშუალო სკოლის მიღწევებს (SAT/ACT არ განიხილება); საერთაშორისო აპლიკანტებმა თავიანთი ქვეყნის დიპლომის მოთხოვნები UC-ის საერთაშორისო გვერდზე უნდა გადაამოწმონ.",
+   "ar": "تراجع UCLA السجل المدرسي (ولا تنظر في SAT/ACT)؛ وعلى المتقدمين الدوليين مراجعة صفحة UC الدولية لمعرفة متطلبات شهادة بلدهم."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "arts-design",
+   "social-sciences",
+   "business",
+   "engineering",
+   "natural-sciences"
+  ]
+ },
+ "hong-kong-polytechnic-university": {
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "PolyU accepts IB, A-level, SAT/AP and national diplomas; applicants from non-English-medium schools also need an English test.",
+   "ka": "PolyU იღებს IB-ს, A-level-ს, SAT/AP-ს და ეროვნულ დიპლომებს; არაინგლისურენოვანი სკოლის კურსდამთავრებულებს ინგლისურის ტესტიც სჭირდებათ.",
+   "ar": "تقبل PolyU شهادات IB وA-level وSAT/AP والشهادات الوطنية؛ ويحتاج خريجو المدارس غير الناطقة بالإنجليزية إلى اختبار لغة إنجليزية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "arts-design",
+   "business",
+   "engineering",
+   "medicine-health"
+  ]
+ },
+ "university-of-michigan": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Michigan reviews the high school record (SAT/ACT optional); international applicants should check the admissions site for how their national diploma is evaluated.",
+   "ka": "მიჩიგანი სასკოლო მიღწევებს განიხილავს (SAT/ACT არასავალდებულოა); საერთაშორისო აპლიკანტებმა ეროვნული დიპლომის შეფასების წესი მისაღებ გვერდზე უნდა გადაამოწმონ.",
+   "ar": "تراجع ميشيغان السجل المدرسي (اختبارا SAT/ACT اختياريان)؛ وعلى المتقدمين الدوليين مراجعة موقع القبول لمعرفة كيفية تقييم شهادتهم الوطنية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "business",
+   "economics",
+   "social-sciences",
+   "medicine-health"
+  ]
+ },
+ "city-university-of-hong-kong-cityuhk": {
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Most international applicants are assessed on IB, A-level or national exam results, and SAT/ACT may be used for US-curriculum qualifications; non-native speakers also need an English test.",
+   "ka": "საერთაშორისო აპლიკანტების უმეტესობა ფასდება IB-ის, A-level-ის ან ეროვნული გამოცდების შედეგებით, ხოლო SAT/ACT შეიძლება გამოვიყენოთ ამერიკული პროგრამის კვალიფიკაციისთვის; არანატიურ ინგლისურენოვნებს ინგლისურის ტესტიც სჭირდებათ.",
+   "ar": "يُقيَّم معظم المتقدمين الدوليين وفق نتائج IB أو A-level أو الامتحانات الوطنية، ويمكن استخدام SAT/ACT لمؤهلات المنهج الأمريكي؛ كما يحتاج غير الناطقين بالإنجليزية إلى اختبار لغة."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business",
+   "arts-design",
+   "medicine-health"
+  ]
+ },
+ "korea-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Korea University reviews school records holistically, and international test results (SAT, ACT, etc.) may be submitted as supporting evidence; see each semester's guideline for eligibility.",
+   "ka": "Korea University სასკოლო მიღწევებს კომპლექსურად განიხილავს, საერთაშორისო ტესტების შედეგები (SAT, ACT და სხვ.) კი დამატებით შეიძლება წარადგინოთ; მოთხოვნები ყოველი სემესტრის გზამკვლევშია.",
+   "ar": "تراجع Korea University السجل المدرسي مراجعة شاملة، ويمكن تقديم نتائج الاختبارات الدولية (SAT وACT وغيرها) كدليل داعم؛ وتتوفر شروط الأهلية في دليل كل فصل دراسي."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "business",
+   "law",
+   "international-relations",
+   "engineering",
+   "medicine-health"
+  ]
+ },
+ "national-taiwan-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Requirements are set by department; the Academic Requirements page of the overseas admissions site lists the qualifications accepted.",
+   "ka": "მოთხოვნებს დეპარტამენტები განსაზღვრავენ; მიღებულ კვალიფიკაციებს უცხოელთა მიღების საიტის Academic Requirements გვერდი ჩამოთვლის.",
+   "ar": "تُحدَّد المتطلبات حسب القسم؛ وتسرد صفحة Academic Requirements في موقع قبول الطلاب الأجانب المؤهلات المقبولة."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "medicine-health",
+   "law",
+   "business",
+   "natural-sciences"
+  ]
+ },
+ "carnegie-mellon-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "CMU requires the SAT or ACT, and reviews the high school record of international applicants; check its international page for how your national diploma is read.",
+   "ka": "CMU-ს სჭირდება SAT ან ACT და საერთაშორისო აპლიკანტების სასკოლო მიღწევებს განიხილავს; თქვენი ეროვნული დიპლომის შეფასება საერთაშორისო გვერდზე გადაამოწმეთ.",
+   "ar": "تشترط CMU اختبار SAT أو ACT وتراجع السجل المدرسي للمتقدمين الدوليين؛ راجع صفحتها الدولية لمعرفة كيفية تقييم شهادتك الوطنية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "engineering",
+   "arts-design"
+  ]
+ },
+ "universiti-malaya-um": {
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Admission is by pre-university qualification such as A-levels, IB or a foundation programme; minimums vary by programme and are confirmed on the application portal.",
+   "ka": "მიღება ხდება უნივერსიტეტისწინა კვალიფიკაციით, როგორიცაა A-level, IB ან ფაუნდეიშენ პროგრამა; მინიმუმები პროგრამის მიხედვით განსხვავდება და განაცხადის პორტალზეა მითითებული.",
+   "ar": "يتم القبول بناءً على مؤهل ما قبل الجامعة مثل A-level أو IB أو برنامج تأسيسي؛ وتختلف الحدود الدنيا حسب البرنامج وتُوضَّح في بوابة التقديم."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "business",
+   "computer-science",
+   "law"
+  ]
+ },
+ "university-of-bristol": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Bristol sets grade requirements per course and qualification on its international pages; check the entry for your diploma, and note UCAT for medicine and dentistry.",
+   "ka": "ბრისტოლი ნიშნების მოთხოვნებს პროგრამისა და კვალიფიკაციის მიხედვით აქვეყნებს საერთაშორისო გვერდებზე; თქვენი დიპლომი იქ გადაამოწმეთ, მედიცინასა და სტომატოლოგიას კი UCAT სჭირდება.",
+   "ar": "تحدد بريستول الدرجات المطلوبة لكل برنامج ومؤهل في صفحاتها الدولية؛ راجع ما يخص شهادتك هناك، مع ملاحظة اختبار UCAT للطب وطب الأسنان."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "economics",
+   "law",
+   "natural-sciences",
+   "social-sciences"
+  ]
+ },
+ "new-york-university": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "NYU reviews the high school record (SAT/ACT optional); international applicants should check the admissions site for how their national diploma is evaluated.",
+   "ka": "NYU სასკოლო მიღწევებს განიხილავს (SAT/ACT არასავალდებულოა); საერთაშორისო აპლიკანტებმა ეროვნული დიპლომის შეფასების წესი მისაღებ გვერდზე უნდა გადაამოწმონ.",
+   "ar": "تراجع NYU السجل المدرسي (اختبارا SAT/ACT اختياريان)؛ وعلى المتقدمين الدوليين مراجعة موقع القبول لمعرفة كيفية تقييم شهادتهم الوطنية."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "arts-design",
+   "business",
+   "economics",
+   "medicine-health",
+   "computer-science"
+  ]
+ },
+ "ku-leuven": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "KU Leuven assesses foreign secondary diplomas against Flemish entry standards on its admissions pages; medicine and dentistry additionally require the Flemish entrance exam.",
+   "ka": "KU Leuven უცხოურ საშუალო დიპლომებს ფლამანდიის შესვლის სტანდარტებთან ადარებს მისაღებ გვერდებზე; მედიცინასა და სტომატოლოგიას დამატებით ფლამანდიის მისაღები გამოცდა სჭირდება.",
+   "ar": "تقيّم KU Leuven الشهادات الثانوية الأجنبية وفق معايير القبول الفلمنكية في صفحات القبول؛ ويشترط الطب وطب الأسنان إضافةً إلى ذلك امتحان القبول الفلمنكي."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "humanities",
+   "economics",
+   "medicine-health",
+   "law"
+  ]
+ },
+ "university-of-amsterdam": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Most diplomas are assessed directly without SAT/ACT, but US-system diplomas need SAT/ACT or AP; some programmes require a specific maths level.",
+   "ka": "უმეტესი დიპლომი SAT/ACT-ის გარეშე ფასდება, თუმცა ამერიკულ დიპლომს SAT/ACT ან AP სჭირდება; ზოგ პროგრამას მათემატიკის გარკვეული დონეც მოეთხოვება.",
+   "ar": "تُقيَّم معظم الشهادات مباشرة دون SAT/ACT، لكن شهادات النظام الأمريكي تحتاج إلى SAT/ACT أو AP؛ وتشترط بعض البرامج مستوى محدداً في الرياضيات."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "social-sciences",
+   "economics",
+   "law",
+   "computer-science",
+   "humanities"
+  ]
+ }
+}

@@ -1,0 +1,1728 @@
+[
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "students": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "addis-ababa-university",
+  "name": {
+   "en": "Addis Ababa University",
+   "ka": "ადის-აბებას უნივერსიტეტი",
+   "ar": "جامعة أديس أبابا"
+  },
+  "iso": "ET",
+  "city": "Addis Ababa",
+  "lat": 9.035,
+  "lon": 38.762,
+  "type": "public",
+  "website": "https://aau.edu.et",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The pages that loaded did not show admission rules, dates or fees for international bachelor applicants.",
+  "tuition_intl": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published on the pages checked. Contact the admissions office.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული. დაუკავშირდით მისაღებ ოფისს.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها. تواصل مع مكتب القبول."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "fields": [
+   "natural-sciences",
+   "medicine-health",
+   "humanities",
+   "social-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Health sciences",
+    "Natural sciences",
+    "Social sciences",
+    "Humanities"
+   ],
+   "ka": [
+    "ჯანდაცვის მეცნიერებები",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "სოციალური მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم الصحية",
+    "العلوم الطبيعية",
+    "العلوم الاجتماعية",
+    "العلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Addis Ababa, Ethiopia. Fees and bachelor entry rules for international applicants could not be confirmed from the official pages available.",
+   "ka": "Addis Ababa-ის საჯარო უნივერსიტეტი (ეთიოპია). უცხოელი აპლიკანტებისთვის საფასური და ბაკალავრის მისაღები წესები ხელმისაწვდომი ოფიციალური გვერდებიდან ვერ დადასტურდა.",
+   "ar": "جامعة حكومية في Addis Ababa (إثيوبيا). تعذر التأكد من الرسوم وشروط القبول في البكالوريوس للمتقدمين الدوليين من الصفحات الرسمية المتاحة."
+  },
+  "about": {
+   "en": "This university is in Addis Ababa, Ethiopia. The official pages that could be opened did not give clear rules, dates or fees for international bachelor applicants. Applicants should check the admissions pages of the university website or write to the admissions office before applying.",
+   "ka": "უნივერსიტეტი მდებარეობს ქალაქ Addis Ababa-ში (ეთიოპია). ხელმისაწვდომ ოფიციალურ გვერდებზე უცხოელი ბაკალავრის აპლიკანტებისთვის მკაფიო წესები, ვადები ან საფასური ვერ მოიძებნა. აპლიკანტებმა განაცხადამდე უნდა გადაამოწმონ უნივერსიტეტის მისაღები გვერდები ან მისწერონ მისაღებ ოფისს.",
+   "ar": "تقع الجامعة في Addis Ababa (إثيوبيا). لم تتضمن الصفحات الرسمية التي أمكن فتحها قواعد أو مواعيد أو رسومًا واضحة للمتقدمين الدوليين إلى البكالوريوس. على المتقدمين مراجعة صفحات القبول في موقع الجامعة أو مراسلة مكتب القبول قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الصفحات التي جرى الاطلاع عليها دعمًا مخصصًا لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "gpa_note": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებათა ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "ethiopia",
+   "addis ababa",
+   "public",
+   "africa"
+  ],
+  "sources": [
+   "https://aau.edu.et"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "students": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "AKU Accuplacer test (SAT I accepted instead)"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "aga-khan-university",
+  "name": {
+   "en": "Aga Khan University",
+   "ka": "აგა ხანის უნივერსიტეტი",
+   "ar": "جامعة الآغا خان"
+  },
+  "iso": "PK",
+  "city": "Karachi",
+  "lat": 24.892,
+  "lon": 67.074,
+  "type": "private",
+  "website": "https://www.aku.edu",
+  "platform": "Direct online application",
+  "application_url": "https://www.aku.edu/admissions/bs/Pages/home.aspx",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-01-12",
+  "deadline_note": "For the Bachelor of Studies (BS), Pakistan, the 2026-27 cycle deadline is 12 January 2027; applications before 10 December 2026 get an early-bird discount. Other programmes (MBBS, BScN, BEd) have separate dates.",
+  "tuition_intl": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Applicants from any education system may apply if they meet the eligibility rules. No specific subject requirements are listed for the BS.",
+   "ka": "ნებისმიერი განათლების სისტემიდან აპლიკანტს შეუძლია განაცხადის გაგზავნა, თუ ის მისაღებ პირობებს აკმაყოფილებს. BS-ისთვის კონკრეტული საგნობრივი მოთხოვნები მითითებული არ არის.",
+   "ar": "يمكن لمتقدمين من أي نظام تعليمي التقدم إذا استوفوا شروط الأهلية. لا توجد متطلبات مواد محددة لبرنامج BS."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "fields": [
+   "medicine-health",
+   "education",
+   "natural-sciences",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine (MBBS)",
+    "Nursing and midwifery",
+    "Education",
+    "Arts and sciences"
+   ],
+   "ka": [
+    "მედიცინა (MBBS)",
+    "მედდობა და ბებიაქალობა",
+    "განათლება",
+    "ხელოვნება და მეცნიერებები"
+   ],
+   "ar": [
+    "الطب (MBBS)",
+    "التمريض والقبالة",
+    "التربية",
+    "الآداب والعلوم"
+   ]
+  },
+  "summary": {
+   "en": "A private university in Karachi with undergraduate programmes in arts and sciences, medicine, nursing and education. Admission is merit-based and needs-blind, with financial assistance for accepted students.",
+   "ka": "კერძო უნივერსიტეტი ყარაჩიში, ბაკალავრიატის პროგრამებით ხელოვნებასა და მეცნიერებებში, მედიცინაში, მედდობასა და განათლებაში. მიღება დამსახურებაზეა დაფუძნებული, ფინანსური შესაძლებლობის გათვალისწინების გარეშე; ჩარიცხულებს ფინანსური დახმარება ეძლევათ.",
+   "ar": "جامعة خاصة في كراتشي تقدم برامج بكالوريوس في الآداب والعلوم والطب والتمريض والتربية. القبول قائم على الاستحقاق ولا يراعي القدرة المالية، مع مساعدات مالية للمقبولين."
+  },
+  "about": {
+   "en": "Aga Khan University is a private university in Karachi. Its Pakistan undergraduate programmes are the Bachelor of Studies in Arts and Sciences, MBBS, BScN, BEd and a dental hygiene associate degree. Admission is merit-based and needs-blind for candidates worldwide. Applicants take AKU's Accuplacer test, or submit an SAT I score instead, and apply online. Fee amounts for international students were not on the pages checked.",
+   "ka": "აგა ხანის უნივერსიტეტი კერძო უნივერსიტეტია ყარაჩიში. პაკისტანში მისი ბაკალავრიატის პროგრამებია: ხელოვნებისა და მეცნიერებების ბაკალავრი (BS), MBBS, BScN, BEd და სტომატოლოგიური ჰიგიენის ასოცირებული ხარისხი. მიღება დამსახურებაზეა დაფუძნებული და მსოფლიოს ყველა კანდიდატისთვის ფინანსური შესაძლებლობის გათვალისწინების გარეშეა. აპლიკანტები ჩააბარებენ AKU-ის Accuplacer ტესტს ან მის ნაცვლად წარადგენენ SAT I შედეგს და განაცხადს ონლაინ აგზავნიან. უცხოელებისთვის საფასური შემოწმებულ გვერდებზე მითითებული არ არის.",
+   "ar": "جامعة الآغا خان جامعة خاصة في كراتشي. برامج البكالوريوس فيها في باكستان هي بكالوريوس الدراسات في الآداب والعلوم وMBBS وBScN وBEd ودرجة مشاركة في صحة الأسنان. القبول قائم على الاستحقاق ولا يراعي القدرة المالية لجميع المرشحين حول العالم. يؤدي المتقدمون اختبار Accuplacer الخاص بالجامعة أو يقدمون نتيجة SAT I بدلًا منه، ويتقدمون إلكترونيًا. لم تُذكر الرسوم للطلاب الدوليين في الصفحات التي جرى الاطلاع عليها."
+  },
+  "aid_intl": {
+   "en": "Admission is needs-blind and accepted students who cannot pay can apply for financial assistance.",
+   "ka": "მიღება ფინანსური შესაძლებლობის გათვალისწინების გარეშეა და ჩარიცხულ სტუდენტებს, რომლებსაც გადახდა არ შეუძლიათ, ფინანსური დახმარების მოთხოვნა შეუძლიათ.",
+   "ar": "القبول لا يراعي القدرة المالية، ويمكن للمقبولين غير القادرين على الدفع التقدم بطلب مساعدة مالية."
+  },
+  "tests": {
+   "en": "The standard test is AKU's Accuplacer; an SAT I score is accepted in its place. Selection also looks at English fluency, past results and critical reasoning.",
+   "ka": "სტანდარტული ტესტია AKU-ის Accuplacer; მის ნაცვლად მიიღება SAT I შედეგი. შერჩევისას ასევე ფასდება ინგლისურის ცოდნა, აკადემიური მოსწრება და კრიტიკული აზროვნება.",
+   "ar": "الاختبار المعتمد هو Accuplacer الخاص بالجامعة، ويُقبل SAT I بدلًا منه. يراعي الاختيار أيضًا إتقان الإنجليزية والتحصيل السابق والتفكير النقدي."
+  },
+  "gpa_note": {
+   "en": "Minimum grades are not published on the page checked; there are no specific subject requirements for the BS.",
+   "ka": "მინიმალური ნიშნები შემოწმებულ გვერდზე არ არის გამოქვეყნებული; BS-ისთვის კონკრეტული საგნობრივი მოთხოვნები არ არის.",
+   "ar": "لا تُنشر الدرجات الدنيا في الصفحة التي جرى الاطلاع عليها؛ ولا توجد متطلبات مواد محددة لبرنامج BS."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებათა ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test",
+     "ka": "ინგლისური ენის ცოდნის ტესტი",
+     "ar": "اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "pakistan",
+   "karachi",
+   "medicine",
+   "nursing",
+   "needs-blind",
+   "private"
+  ],
+  "sources": [
+   "https://www.aku.edu/admissions/Pages/home.aspx",
+   "https://www.aku.edu/admissions/bs/Pages/home.aspx",
+   "https://www.aku.edu/admissions/fees-and-funding/Pages/home.aspx",
+   "https://www.aku.edu/admissions/Pages/ug.aspx"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "students": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "azerbaijan-university-of-architecture-and-construction-azuac",
+  "name": {
+   "en": "Azerbaijan University of Architecture and Construction (AzUAC)",
+   "ka": "აზერბაიჯანის არქიტექტურისა და მშენებლობის უნივერსიტეტი (AzUAC)",
+   "ar": "جامعة أذربيجان للعمارة والبناء (AzUAC)"
+  },
+  "iso": "AZ",
+  "city": "Baku",
+  "lat": 40.381,
+  "lon": 49.814,
+  "type": "public",
+  "website": "https://www.azmiu.edu.az",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The university website returned an access error (403), so no dates could be confirmed.",
+  "tuition_intl": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published on the pages checked. Contact the admissions office.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული. დაუკავშირდით მისაღებ ოფისს.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها. تواصل مع مكتب القبول."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "fields": [
+   "engineering",
+   "arts-design",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Architecture",
+    "Civil engineering",
+    "Construction"
+   ],
+   "ka": [
+    "არქიტექტურა",
+    "სამოქალაქო ინჟინერია",
+    "მშენებლობა"
+   ],
+   "ar": [
+    "العمارة",
+    "الهندسة المدنية",
+    "البناء"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Baku, Azerbaijan. Fees and bachelor entry rules for international applicants could not be confirmed from the official pages available.",
+   "ka": "Baku-ის საჯარო უნივერსიტეტი (აზერბაიჯანი). უცხოელი აპლიკანტებისთვის საფასური და ბაკალავრის მისაღები წესები ხელმისაწვდომი ოფიციალური გვერდებიდან ვერ დადასტურდა.",
+   "ar": "جامعة حكومية في Baku (أذربيجان). تعذر التأكد من الرسوم وشروط القبول في البكالوريوس للمتقدمين الدوليين من الصفحات الرسمية المتاحة."
+  },
+  "about": {
+   "en": "This university is in Baku, Azerbaijan. The official pages that could be opened did not give clear rules, dates or fees for international bachelor applicants. Applicants should check the admissions pages of the university website or write to the admissions office before applying.",
+   "ka": "უნივერსიტეტი მდებარეობს ქალაქ Baku-ში (აზერბაიჯანი). ხელმისაწვდომ ოფიციალურ გვერდებზე უცხოელი ბაკალავრის აპლიკანტებისთვის მკაფიო წესები, ვადები ან საფასური ვერ მოიძებნა. აპლიკანტებმა განაცხადამდე უნდა გადაამოწმონ უნივერსიტეტის მისაღები გვერდები ან მისწერონ მისაღებ ოფისს.",
+   "ar": "تقع الجامعة في Baku (أذربيجان). لم تتضمن الصفحات الرسمية التي أمكن فتحها قواعد أو مواعيد أو رسومًا واضحة للمتقدمين الدوليين إلى البكالوريوس. على المتقدمين مراجعة صفحات القبول في موقع الجامعة أو مراسلة مكتب القبول قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الصفحات التي جرى الاطلاع عليها دعمًا مخصصًا لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "gpa_note": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებათა ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "azerbaijan",
+   "baku",
+   "architecture",
+   "construction",
+   "public"
+  ],
+  "sources": [
+   "https://www.azmiu.edu.az"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "students": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "banaras-hindu-university",
+  "name": {
+   "en": "Banaras Hindu University",
+   "ka": "ბანარასის ინდუისტური უნივერსიტეტი",
+   "ar": "جامعة بنارس الهندوسية"
+  },
+  "iso": "IN",
+  "city": "Varanasi",
+  "lat": 25.266,
+  "lon": 82.99,
+  "type": "public",
+  "website": "https://www.bhu.ac.in",
+  "platform": "BHU foreign national admission portal (bhufsradm.samarth.edu.in)",
+  "application_url": "https://bhufsradm.samarth.edu.in/2026/",
+  "intakes": [
+   "July/August"
+  ],
+  "deadline": "2026-11-04",
+  "deadline_note": "The foreign student portal shows a registration deadline of 4 November 2026 for the 2026-27 international admission round; the 2027/28 date is not yet published.",
+  "tuition_intl": null,
+  "languages": [
+   "English",
+   "Hindi"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Eligibility is set per programme in the Eligibility Programme List on the admission portal. The page checked did not list accepted foreign qualifications.",
+   "ka": "უფლებამოსილება პროგრამების მიხედვით განისაზღვრება და სიაა მისაღებ პორტალზე. შემოწმებულ გვერდზე მიღებული უცხოური კვალიფიკაციები მითითებული არ არის.",
+   "ar": "تُحدَّد الأهلية لكل برنامج في قائمة أهلية البرامج على بوابة القبول. لم تُدرج الصفحة المراجَعة المؤهلات الأجنبية المقبولة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "fields": [
+   "humanities",
+   "natural-sciences",
+   "medicine-health",
+   "engineering",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Sciences",
+    "Humanities",
+    "Medicine",
+    "Engineering"
+   ],
+   "ka": [
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "მედიცინა",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "العلوم",
+    "العلوم الإنسانية",
+    "الطب",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in Varanasi, India. Foreign nationals apply through a separate international admission portal; the 2026-27 round closes on 4 November 2026.",
+   "ka": "დიდი საჯარო უნივერსიტეტი ვარანასიში, ინდოეთი. უცხო ქვეყნის მოქალაქეები განაცხადს ცალკე საერთაშორისო მისაღებ პორტალზე აგზავნიან; 2026-27 წლის რაუნდი 2026 წლის 4 ნოემბერს იხურება.",
+   "ar": "جامعة حكومية كبيرة في فاراناسي بالهند. يتقدم الأجانب عبر بوابة قبول دولية منفصلة؛ وتُغلق جولة 2026-27 في 4 نوفمبر 2026."
+  },
+  "about": {
+   "en": "Banaras Hindu University is a large public university in Varanasi. Foreign nationals apply on a separate portal (bhufsradm.samarth.edu.in), uploading a photo, signature and educational documents. The portal lists a registration deadline of 4 November 2026 for 2026-27. Programme eligibility is in the Eligibility Programme List. Fee amounts for foreign students were not on the pages checked, and the university warns about fraud in international admissions.",
+   "ka": "ბანარასის ინდუისტური უნივერსიტეტი დიდი საჯარო უნივერსიტეტია ვარანასიში. უცხო ქვეყნის მოქალაქეები განაცხადს ცალკე პორტალზე (bhufsradm.samarth.edu.in) აგზავნიან და ტვირთავენ ფოტოს, ხელმოწერასა და საგანმანათლებლო დოკუმენტებს. პორტალზე 2026-27 წლისთვის რეგისტრაციის ვადად 2026 წლის 4 ნოემბერია მითითებული. პროგრამების მოთხოვნები პროგრამების ჩამონათვალშია. უცხოელებისთვის საფასური შემოწმებულ გვერდებზე მითითებული არ არის; უნივერსიტეტი საერთაშორისო მიღებისას თაღლითობის შესახებ აფრთხილებს.",
+   "ar": "جامعة بنارس الهندوسية جامعة حكومية كبيرة في فاراناسي. يتقدم الأجانب عبر بوابة منفصلة (bhufsradm.samarth.edu.in) ويرفعون صورة وتوقيعًا ووثائق تعليمية. تُظهر البوابة موعد تسجيل في 4 نوفمبر 2026 لعام 2026-27. تفاصيل أهلية البرامج في قائمة أهلية البرامج. لم تُذكر الرسوم للطلاب الأجانب في الصفحات التي جرى الاطلاع عليها، وتحذر الجامعة من الاحتيال في القبول الدولي."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الصفحات التي جرى الاطلاع عليها دعمًا مخصصًا لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "The page checked did not say whether foreign applicants need CUET scores. See the information bulletin and the Eligibility Programme List.",
+   "ka": "შემოწმებულ გვერდზე არ წერია, სჭირდებათ თუ არა უცხოელ აპლიკანტებს CUET-ის შედეგები. იხილეთ საინფორმაციო ბიულეტენი და პროგრამების ჩამონათვალი.",
+   "ar": "لم تذكر الصفحة المراجَعة ما إذا كان المتقدمون الأجانب بحاجة إلى نتائج CUET. راجع النشرة المعلوماتية وقائمة أهلية البرامج."
+  },
+  "gpa_note": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებათა ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "india",
+   "varanasi",
+   "public",
+   "foreign nationals"
+  ],
+  "sources": [
+   "https://www.bhu.ac.in",
+   "https://bhufsradm.samarth.edu.in/2026/"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "students": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "charles-sturt-university",
+  "name": {
+   "en": "Charles Sturt University",
+   "ka": "ჩარლზ სტერტის უნივერსიტეტი",
+   "ar": "جامعة تشارلز ستورت"
+  },
+  "iso": "AU",
+  "city": "Bathurst",
+  "lat": -33.411,
+  "lon": 149.579,
+  "type": "public",
+  "website": "https://csu.edu.au",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The university website returned an access error (403), so no dates could be confirmed.",
+  "tuition_intl": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published on the pages checked. Contact the admissions office.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული. დაუკავშირდით მისაღებ ოფისს.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها. تواصل مع مكتب القبول."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "fields": [
+   "education",
+   "environment",
+   "social-sciences",
+   "medicine-health",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Agriculture",
+    "Health",
+    "Business"
+   ],
+   "ka": [
+    "განათლება",
+    "სოფლის მეურნეობა",
+    "ჯანდაცვა",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "التربية",
+    "الزراعة",
+    "الصحة",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Bathurst, Australia. Fees and bachelor entry rules for international applicants could not be confirmed from the official pages available.",
+   "ka": "Bathurst-ის საჯარო უნივერსიტეტი (ავსტრალია). უცხოელი აპლიკანტებისთვის საფასური და ბაკალავრის მისაღები წესები ხელმისაწვდომი ოფიციალური გვერდებიდან ვერ დადასტურდა.",
+   "ar": "جامعة حكومية في Bathurst (أستراليا). تعذر التأكد من الرسوم وشروط القبول في البكالوريوس للمتقدمين الدوليين من الصفحات الرسمية المتاحة."
+  },
+  "about": {
+   "en": "This university is in Bathurst, Australia. The official pages that could be opened did not give clear rules, dates or fees for international bachelor applicants. Applicants should check the admissions pages of the university website or write to the admissions office before applying.",
+   "ka": "უნივერსიტეტი მდებარეობს ქალაქ Bathurst-ში (ავსტრალია). ხელმისაწვდომ ოფიციალურ გვერდებზე უცხოელი ბაკალავრის აპლიკანტებისთვის მკაფიო წესები, ვადები ან საფასური ვერ მოიძებნა. აპლიკანტებმა განაცხადამდე უნდა გადაამოწმონ უნივერსიტეტის მისაღები გვერდები ან მისწერონ მისაღებ ოფისს.",
+   "ar": "تقع الجامعة في Bathurst (أستراليا). لم تتضمن الصفحات الرسمية التي أمكن فتحها قواعد أو مواعيد أو رسومًا واضحة للمتقدمين الدوليين إلى البكالوريوس. على المتقدمين مراجعة صفحات القبول في موقع الجامعة أو مراسلة مكتب القبول قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الصفحات التي جرى الاطلاع عليها دعمًا مخصصًا لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "gpa_note": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებათა ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "australia",
+   "bathurst",
+   "public",
+   "nsw"
+  ],
+  "sources": [
+   "https://csu.edu.au"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "students": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "chungbuk-national-university",
+  "name": {
+   "en": "Chungbuk National University",
+   "ka": "ჩუნგბუკის ეროვნული უნივერსიტეტი",
+   "ar": "جامعة تشونغبوك الوطنية"
+  },
+  "iso": "KR",
+  "city": "Cheongju",
+  "lat": 36.629,
+  "lon": 127.456,
+  "type": "public",
+  "website": "https://www.cbnu.ac.kr",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Only a redirect page loaded from the university site, so no dates could be confirmed.",
+  "tuition_intl": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published on the pages checked. Contact the admissions office.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული. დაუკავშირდით მისაღებ ოფისს.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها. تواصل مع مكتب القبول."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "medicine-health",
+   "business",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Natural sciences",
+    "Medicine",
+    "Business"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "მედიცინა",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم الطبيعية",
+    "الطب",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Cheongju, South Korea. Fees and bachelor entry rules for international applicants could not be confirmed from the official pages available.",
+   "ka": "Cheongju-ის საჯარო უნივერსიტეტი (სამხრეთ კორეა). უცხოელი აპლიკანტებისთვის საფასური და ბაკალავრის მისაღები წესები ხელმისაწვდომი ოფიციალური გვერდებიდან ვერ დადასტურდა.",
+   "ar": "جامعة حكومية في Cheongju (كوريا الجنوبية). تعذر التأكد من الرسوم وشروط القبول في البكالوريوس للمتقدمين الدوليين من الصفحات الرسمية المتاحة."
+  },
+  "about": {
+   "en": "This university is in Cheongju, South Korea. The official pages that could be opened did not give clear rules, dates or fees for international bachelor applicants. Applicants should check the admissions pages of the university website or write to the admissions office before applying.",
+   "ka": "უნივერსიტეტი მდებარეობს ქალაქ Cheongju-ში (სამხრეთ კორეა). ხელმისაწვდომ ოფიციალურ გვერდებზე უცხოელი ბაკალავრის აპლიკანტებისთვის მკაფიო წესები, ვადები ან საფასური ვერ მოიძებნა. აპლიკანტებმა განაცხადამდე უნდა გადაამოწმონ უნივერსიტეტის მისაღები გვერდები ან მისწერონ მისაღებ ოფისს.",
+   "ar": "تقع الجامعة في Cheongju (كوريا الجنوبية). لم تتضمن الصفحات الرسمية التي أمكن فتحها قواعد أو مواعيد أو رسومًا واضحة للمتقدمين الدوليين إلى البكالوريوس. على المتقدمين مراجعة صفحات القبول في موقع الجامعة أو مراسلة مكتب القبول قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الصفحات التي جرى الاطلاع عليها دعمًا مخصصًا لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "gpa_note": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებათა ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "korea",
+   "cheongju",
+   "public"
+  ],
+  "sources": [
+   "https://www.cbnu.ac.kr"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "students": null,
+  "ielts_min": 6.5,
+  "toefl_min": 85,
+  "duolingo_min": 120,
+  "other_tests": [],
+  "scholarships": [
+   {
+    "name": "Merit-based aid for all applicants / international need-based aid",
+    "url": "https://www.clarku.edu/financial-aid/apply/international-students/",
+    "coverage": "partial"
+   }
+  ],
+  "verified_at": "2026-11-01",
+  "id": "clark-university",
+  "name": {
+   "en": "Clark University",
+   "ka": "კლარკის უნივერსიტეტი",
+   "ar": "جامعة كلارك"
+  },
+  "iso": "US",
+  "city": "Worcester",
+  "lat": 42.251,
+  "lon": -71.823,
+  "type": "private",
+  "website": "https://www.clarku.edu",
+  "platform": "Common Application or Coalition Application (Scoir)",
+  "application_url": "https://www.clarku.edu/undergraduate-admissions/apply/international-students/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-01-15",
+  "deadline_note": "Regular Decision and Early Decision II close 15 January; Early Decision I and Early Action close 1 November. International applicants follow the same dates; the page does not name the entry year, so confirm for fall 2027.",
+  "tuition_intl": {
+   "amount": 62070,
+   "currency": "USD",
+   "per": "year",
+   "note": "2026-27 tuition; total with student activity and health fees is 63,210 USD. Housing, dining and insurance are extra."
+  },
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "At least the last three years of secondary transcripts are required, in English or with a certified English translation.",
+   "ka": "საჭიროა საშუალო განათლების მინიმუმ ბოლო სამი წლის ამონაწერი ინგლისურად ან დამოწმებული ინგლისური თარგმანით.",
+   "ar": "يلزم كشف درجات آخر ثلاث سنوات على الأقل من المرحلة الثانوية، بالإنجليزية أو مع ترجمة إنجليزية معتمدة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "fields": [
+   "social-sciences",
+   "environment",
+   "natural-sciences",
+   "business",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Psychology",
+    "Geography and environment",
+    "International development",
+    "Management"
+   ],
+   "ka": [
+    "ფსიქოლოგია",
+    "გეოგრაფია და გარემო",
+    "საერთაშორისო განვითარება",
+    "მენეჯმენტი"
+   ],
+   "ar": [
+    "علم النفس",
+    "الجغرافيا والبيئة",
+    "التنمية الدولية",
+    "الإدارة"
+   ]
+  },
+  "summary": {
+   "en": "A private university in Worcester, Massachusetts. International first-year applicants use the Common App, with no application fee and optional SAT/ACT; tuition for 2026-27 is 62,070 USD.",
+   "ka": "კერძო უნივერსიტეტი ვორჩესტერში, მასაჩუსეტსი. უცხოელი პირველკურსელები Common App-ით აპლიკაციას აგზავნიან, სააპლიკაციო საფასური არ არის, SAT/ACT არასავალდებულოა; 2026-27 წელს სწავლის საფასური 62 070 აშშ დოლარია.",
+   "ar": "جامعة خاصة في ورسستر بولاية ماساتشوستس. يتقدم الطلاب الدوليون للسنة الأولى عبر Common App دون رسوم تقديم، واختبارا SAT/ACT اختياريان؛ والرسوم الدراسية لعام 2026-27 هي 62,070 دولارًا."
+  },
+  "about": {
+   "en": "Clark University is a private university in Worcester, Massachusetts. International first-year applicants apply with the Common Application or the Coalition Application, with no application fee. They send transcripts for the last three years, two recommendations (counselor and teacher), and English test scores if English is not their first language. SAT and ACT are optional. Tuition for 2026-27 is 62,070 USD a year. An interview is optional but encouraged.",
+   "ka": "კლარკის უნივერსიტეტი კერძო უნივერსიტეტია ვორჩესტერში, მასაჩუსეტსი. უცხოელი პირველკურსელები Common Application-ით ან Coalition Application-ით აგზავნიან განაცხადს, სააპლიკაციო საფასურის გარეშე. ისინი წარადგენენ ბოლო სამი წლის ამონაწერს, ორ რეკომენდაციას (კონსულტანტისა და მასწავლებლისგან) და ინგლისურის ტესტის შედეგს, თუ ინგლისური მათი მშობლიური ენა არ არის. SAT და ACT არასავალდებულოა. 2026-27 წელს სწავლის საფასური წელიწადში 62 070 აშშ დოლარია. გასაუბრება არასავალდებულოა, მაგრამ რეკომენდებულია.",
+   "ar": "جامعة كلارك جامعة خاصة في ورسستر بولاية ماساتشوستس. يتقدم الطلاب الدوليون للسنة الأولى عبر Common Application أو Coalition Application دون رسوم تقديم. يرسلون كشوف درجات آخر ثلاث سنوات وتوصيتين (من المرشد والمعلم) ونتيجة اختبار الإنجليزية إن لم تكن لغتهم الأولى. اختبارا SAT وACT اختياريان. الرسوم الدراسية لعام 2026-27 هي 62,070 دولارًا سنويًا. المقابلة اختيارية لكنها مشجَّعة."
+  },
+  "aid_intl": {
+   "en": "All applicants are eligible for merit-based aid, and need-based aid is also offered through an international aid application.",
+   "ka": "ყველა აპლიკანტს შეუძლია დამსახურებაზე დაფუძნებული დახმარების მიღება; ასევე არსებობს საჭიროებაზე დაფუძნებული დახმარება საერთაშორისო სტუდენტების საფინანსო განაცხადით.",
+   "ar": "جميع المتقدمين مؤهلون للحصول على دعم قائم على الاستحقاق، كما يُقدَّم دعم قائم على الحاجة عبر طلب مساعدة مالية دولي."
+  },
+  "tests": {
+   "en": "SAT and ACT are optional for international students (SAT code 003279, ACT code 1808). If English is not your native language, send TOEFL, IELTS, Duolingo, PTE or PEXT scores. Clark has no official minimum; guide scores are TOEFL 85, IELTS 6.5 and Duolingo 120.",
+   "ka": "SAT და ACT უცხოელი სტუდენტებისთვის არასავალდებულოა (SAT კოდი 003279, ACT კოდი 1808). თუ ინგლისური მშობლიური ენა არ არის, გამოაგზავნეთ TOEFL, IELTS, Duolingo, PTE ან PEXT შედეგი. კლარკს ოფიციალური მინიმუმი არ აქვს; საორიენტაციო ქულებია TOEFL 85, IELTS 6.5 და Duolingo 120.",
+   "ar": "اختبارا SAT وACT اختياريان للطلاب الدوليين (رمز SAT هو 003279 ورمز ACT هو 1808). إن لم تكن الإنجليزية لغتك الأم فأرسل نتائج TOEFL أو IELTS أو Duolingo أو PTE أو PEXT. لا يوجد حد أدنى رسمي في كلارك؛ الدرجات الإرشادية TOEFL 85 وIELTS 6.5 وDuolingo 120."
+  },
+  "gpa_note": {
+   "en": "No minimum grade is published; transcripts for the last three years of secondary school are reviewed.",
+   "ka": "მინიმალური ნიშანი გამოქვეყნებული არ არის; ფასდება საშუალო სკოლის ბოლო სამი წლის ამონაწერი.",
+   "ar": "لا يُنشر حد أدنى للدرجات؛ تُراجَع كشوف درجات آخر ثلاث سنوات من الثانوية."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებათა ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Letters of recommendation",
+     "ka": "სარეკომენდაციო წერილები",
+     "ar": "خطابات التوصية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test",
+     "ka": "ინგლისური ენის ცოდნის ტესტი",
+     "ar": "اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds",
+     "ka": "ფინანსური შესაძლებლობის დამადასტურებელი დოკუმენტები",
+     "ar": "إثبات القدرة المالية"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Interview",
+     "ka": "გასაუბრება",
+     "ar": "مقابلة"
+    }
+   }
+  ],
+  "keywords": [
+   "usa",
+   "worcester",
+   "massachusetts",
+   "private",
+   "test-optional",
+   "common app"
+  ],
+  "sources": [
+   "https://www.clarku.edu/admissions-and-aid/international-students/",
+   "https://www.clarku.edu/undergraduate-admissions/apply/international-students/",
+   "https://www.clarku.edu/undergraduate-admissions/apply/",
+   "https://www.clarku.edu/admission/tuition-and-fees/"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "students": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "clemson-university",
+  "name": {
+   "en": "Clemson University",
+   "ka": "კლემსონის უნივერსიტეტი",
+   "ar": "جامعة كليمسون"
+  },
+  "iso": "US",
+  "city": "Clemson",
+  "lat": 34.683,
+  "lon": -82.837,
+  "type": "public",
+  "website": "https://www.clemson.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The international applicant page could not be opened, so no dates or fees could be confirmed.",
+  "tuition_intl": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published on the pages checked. Contact the admissions office.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული. დაუკავშირდით მისაღებ ოფისს.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها. تواصل مع مكتب القبول."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "fields": [
+   "engineering",
+   "business",
+   "natural-sciences",
+   "environment",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business",
+    "Agriculture",
+    "Sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი",
+    "სოფლის მეურნეობა",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال",
+    "الزراعة",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Clemson, United States. Fees and bachelor entry rules for international applicants could not be confirmed from the official pages available.",
+   "ka": "Clemson-ის საჯარო უნივერსიტეტი (აშშ). უცხოელი აპლიკანტებისთვის საფასური და ბაკალავრის მისაღები წესები ხელმისაწვდომი ოფიციალური გვერდებიდან ვერ დადასტურდა.",
+   "ar": "جامعة حكومية في Clemson (الولايات المتحدة). تعذر التأكد من الرسوم وشروط القبول في البكالوريوس للمتقدمين الدوليين من الصفحات الرسمية المتاحة."
+  },
+  "about": {
+   "en": "This university is in Clemson, United States. The official pages that could be opened did not give clear rules, dates or fees for international bachelor applicants. Applicants should check the admissions pages of the university website or write to the admissions office before applying.",
+   "ka": "უნივერსიტეტი მდებარეობს ქალაქ Clemson-ში (აშშ). ხელმისაწვდომ ოფიციალურ გვერდებზე უცხოელი ბაკალავრის აპლიკანტებისთვის მკაფიო წესები, ვადები ან საფასური ვერ მოიძებნა. აპლიკანტებმა განაცხადამდე უნდა გადაამოწმონ უნივერსიტეტის მისაღები გვერდები ან მისწერონ მისაღებ ოფისს.",
+   "ar": "تقع الجامعة في Clemson (الولايات المتحدة). لم تتضمن الصفحات الرسمية التي أمكن فتحها قواعد أو مواعيد أو رسومًا واضحة للمتقدمين الدوليين إلى البكالوريوس. على المتقدمين مراجعة صفحات القبول في موقع الجامعة أو مراسلة مكتب القبول قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الصفحات التي جرى الاطلاع عليها دعمًا مخصصًا لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "gpa_note": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებათა ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "usa",
+   "south carolina",
+   "clemson",
+   "public"
+  ],
+  "sources": [
+   "https://www.clemson.edu"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "students": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "FUE admissions test",
+   "Cambridge English Placement Test (CEPT)",
+   "Computer placement test"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "future-university-in-egypt",
+  "name": {
+   "en": "Future University in Egypt",
+   "ka": "მომავლის უნივერსიტეტი ეგვიპტეში",
+   "ar": "جامعة المستقبل في مصر"
+  },
+  "iso": "EG",
+  "city": "New Cairo",
+  "lat": 30.02,
+  "lon": 31.49,
+  "type": "private",
+  "website": "https://www.fue.edu.eg",
+  "platform": "Online application portal (admissions.fue.edu.eg)",
+  "application_url": "https://www.fue.edu.eg/admissions/undergraduate_applicants/admissions_steps",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The site says admissions are open for 2027/2028 but gives no closing date. Applicants with late international results may apply after the regular deadline.",
+  "tuition_intl": {
+   "amount": 7120,
+   "currency": "USD",
+   "per": "year",
+   "note": "2026/27 fee for non-Egyptian students: 7,120 USD (computing, economics, commerce) to 12,350 USD (oral and dental medicine); engineering 8,610 USD; pharmacy 9,950 USD."
+  },
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Accepted: Thanawiya Amma (Egypt and other Arab countries), American High School Diploma, French Baccalaureate, German Abitur, IGCSE/GCSE/A-level, IB, Canadian diploma, Nile and Nigerian certificates. No minimum scores are given for foreign certificates.",
+   "ka": "მიიღება: Thanawiya Amma (ეგვიპტე და სხვა არაბული ქვეყნები), ამერიკული საშუალო სკოლის დიპლომი, ფრანგული Baccalauréat, გერმანული Abitur, IGCSE/GCSE/A-level, IB, კანადური დიპლომი, Nile და ნიგერიული სერტიფიკატები. უცხოური სერტიფიკატებისთვის მინიმალური ქულები მითითებული არ არის.",
+   "ar": "المقبول: الثانوية العامة (مصر ودول عربية أخرى) والدبلوم الثانوي الأمريكي والبكالوريا الفرنسية والأبيتور الألماني وIGCSE/GCSE/A-level وIB والدبلوم الكندي وشهادتا النيل والنيجيرية. لا تُذكر درجات دنيا للشهادات الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science",
+   "medicine-health",
+   "economics"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Business",
+    "Pharmacy",
+    "Dental medicine"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "ბიზნესი",
+    "ფარმაცია",
+    "სტომატოლოგია"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "الأعمال",
+    "الصيدلة",
+    "طب الأسنان"
+   ]
+  },
+  "summary": {
+   "en": "A private university in New Cairo that accepts many foreign school certificates, including IGCSE, A-level, IB and the American diploma. Non-Egyptian students pay 7,120 to 12,350 USD a year in 2026/27.",
+   "ka": "კერძო უნივერსიტეტი ახალ კაიროში, რომელიც ბევრ უცხოურ სასკოლო სერტიფიკატს იღებს, მათ შორის IGCSE, A-level, IB და ამერიკული დიპლომი. არაეგვიპტელები 2026/27 წელს წელიწადში 7 120–12 350 აშშ დოლარს იხდიან.",
+   "ar": "جامعة خاصة في القاهرة الجديدة تقبل شهادات مدرسية أجنبية كثيرة منها IGCSE وA-level وIB والدبلوم الأمريكي. يدفع الطلاب غير المصريين بين 7,120 و12,350 دولارًا سنويًا في 2026/27."
+  },
+  "about": {
+   "en": "Future University in Egypt is a private university in New Cairo. Applicants apply online, pay an application fee, pass the admissions test and take English and computer placement tests; IELTS 6.5 (6 in each part) exempts from the English placement. Final acceptance needs the original documents and 50% of tuition. Non-Egyptian students pay in US dollars, from 7,120 to 12,350 USD a year depending on the faculty (2026/27).",
+   "ka": "მომავლის უნივერსიტეტი ეგვიპტეში კერძო უნივერსიტეტია ახალ კაიროში. აპლიკანტები განაცხადს ონლაინ აგზავნიან, იხდიან სააპლიკაციო საფასურს, აბარებენ მისაღებ გამოცდას და ინგლისურისა და კომპიუტერის დონის განმსაზღვრელ ტესტებს; IELTS 6.5 (თითოეულ ნაწილში 6) ინგლისურის ტესტისგან ათავისუფლებს. საბოლოო ჩარიცხვისთვის საჭიროა დედნები და სწავლის საფასურის 50%. არაეგვიპტელები სწავლის საფასურს აშშ დოლარში იხდიან: ფაკულტეტის მიხედვით წელიწადში 7 120–12 350 აშშ დოლარი (2026/27).",
+   "ar": "جامعة المستقبل في مصر جامعة خاصة في القاهرة الجديدة. يتقدم المتقدمون إلكترونيًا ويدفعون رسوم التقديم ويجتازون اختبار القبول واختباري تحديد المستوى في الإنجليزية والحاسوب؛ ويعفي IELTS 6.5 (6 في كل جزء) من اختبار الإنجليزية. يتطلب القبول النهائي الوثائق الأصلية ودفع 50% من الرسوم. يدفع غير المصريين بالدولار الأمريكي من 7,120 إلى 12,350 دولارًا سنويًا حسب الكلية (2026/27)."
+  },
+  "aid_intl": {
+   "en": "A scholarships page exists, but its terms for international students were not read.",
+   "ka": "სტიპენდიების გვერდი არსებობს, მაგრამ მისი პირობები უცხოელებისთვის არ წაკითხულა.",
+   "ar": "توجد صفحة منح، لكن شروطها للطلاب الدوليين لم تُراجَع."
+  },
+  "tests": {
+   "en": "Applicants pass an admissions test and then the Cambridge English Placement Test and a computer placement test. IELTS 6.5 with at least 6 in each section exempts from the English placement.",
+   "ka": "აპლიკანტები აბარებენ მისაღებ ტესტს, შემდეგ Cambridge English Placement Test-ს და კომპიუტერის დონის ტესტს. IELTS 6.5 (თითოეულ ნაწილში მინიმუმ 6) ინგლისურის დონის ტესტისგან ათავისუფლებს.",
+   "ar": "يجتاز المتقدمون اختبار القبول ثم اختبار Cambridge English Placement Test واختبار تحديد المستوى في الحاسوب. يعفي IELTS 6.5 مع 6 على الأقل في كل جزء من اختبار تحديد مستوى الإنجليزية."
+  },
+  "gpa_note": {
+   "en": "No minimum scores for foreign certificates are published on the page checked.",
+   "ka": "უცხოური სერტიფიკატებისთვის მინიმალური ქულები შემოწმებულ გვერდზე არ არის გამოქვეყნებული.",
+   "ar": "لا تُنشر درجات دنيا للشهادات الأجنبية في الصفحة التي جرى الاطلاع عليها."
+  },
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებათა ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test",
+     "ka": "ინგლისური ენის ცოდნის ტესტი",
+     "ar": "اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "egypt",
+   "new cairo",
+   "private",
+   "igcse",
+   "ib",
+   "usd tuition"
+  ],
+  "sources": [
+   "https://www.fue.edu.eg/admissions/undergraduate_applicants/admission_requirements",
+   "https://www.fue.edu.eg/admissions/undergraduate_applicants/tuition_fees",
+   "https://www.fue.edu.eg/admissions/undergraduate_applicants/admissions_steps",
+   "https://www.fue.edu.eg"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "students": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "gulf-university-for-science-and-technology",
+  "name": {
+   "en": "Gulf University for Science and Technology",
+   "ka": "ყურის მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი",
+   "ar": "الجامعة الخليجية للعلوم والتكنولوجيا"
+  },
+  "iso": "KW",
+  "city": "Kuwait City",
+  "lat": 29.28,
+  "lon": 48.08,
+  "type": "private",
+  "website": "https://www.gust.edu.kw",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The university website returned an access error (403), so no dates could be confirmed.",
+  "tuition_intl": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published on the pages checked. Contact the admissions office.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული. დაუკავშირდით მისაღებ ოფისს.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها. تواصل مع مكتب القبول."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "fields": [
+   "business",
+   "engineering",
+   "arts-design",
+   "social-sciences",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Arts and design",
+    "Social sciences"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "ხელოვნება და დიზაინი",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "الفنون والتصميم",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "A private university in Kuwait City, Kuwait. Fees and bachelor entry rules for international applicants could not be confirmed from the official pages available.",
+   "ka": "Kuwait City-ის კერძო უნივერსიტეტი (ქუვეითი). უცხოელი აპლიკანტებისთვის საფასური და ბაკალავრის მისაღები წესები ხელმისაწვდომი ოფიციალური გვერდებიდან ვერ დადასტურდა.",
+   "ar": "جامعة خاصة في Kuwait City (الكويت). تعذر التأكد من الرسوم وشروط القبول في البكالوريوس للمتقدمين الدوليين من الصفحات الرسمية المتاحة."
+  },
+  "about": {
+   "en": "This university is in Kuwait City, Kuwait. The official pages that could be opened did not give clear rules, dates or fees for international bachelor applicants. Applicants should check the admissions pages of the university website or write to the admissions office before applying.",
+   "ka": "უნივერსიტეტი მდებარეობს ქალაქ Kuwait City-ში (ქუვეითი). ხელმისაწვდომ ოფიციალურ გვერდებზე უცხოელი ბაკალავრის აპლიკანტებისთვის მკაფიო წესები, ვადები ან საფასური ვერ მოიძებნა. აპლიკანტებმა განაცხადამდე უნდა გადაამოწმონ უნივერსიტეტის მისაღები გვერდები ან მისწერონ მისაღებ ოფისს.",
+   "ar": "تقع الجامعة في Kuwait City (الكويت). لم تتضمن الصفحات الرسمية التي أمكن فتحها قواعد أو مواعيد أو رسومًا واضحة للمتقدمين الدوليين إلى البكالوريوس. على المتقدمين مراجعة صفحات القبول في موقع الجامعة أو مراسلة مكتب القبول قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الصفحات التي جرى الاطلاع عليها دعمًا مخصصًا لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "gpa_note": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებათა ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "kuwait",
+   "private",
+   "gulf"
+  ],
+  "sources": [
+   "https://www.gust.edu.kw"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "students": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "imu-university",
+  "name": {
+   "en": "IMU University",
+   "ka": "IMU უნივერსიტეტი",
+   "ar": "جامعة IMU"
+  },
+  "iso": "MY",
+  "city": "Kuala Lumpur",
+  "lat": 3.057,
+  "lon": 101.7,
+  "type": "private",
+  "website": "https://www.imu.edu.my",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The university website returned an access error (403), so no dates could be confirmed.",
+  "tuition_intl": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published on the pages checked. Contact the admissions office.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული. დაუკავშირდით მისაღებ ოფისს.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها. تواصل مع مكتب القبول."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "fields": [
+   "medicine-health",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Pharmacy",
+    "Dentistry",
+    "Nursing"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ფარმაცია",
+    "სტომატოლოგია",
+    "მედდობა"
+   ],
+   "ar": [
+    "الطب",
+    "الصيدلة",
+    "طب الأسنان",
+    "التمريض"
+   ]
+  },
+  "summary": {
+   "en": "A private university in Kuala Lumpur, Malaysia. Fees and bachelor entry rules for international applicants could not be confirmed from the official pages available.",
+   "ka": "Kuala Lumpur-ის კერძო უნივერსიტეტი (მალაიზია). უცხოელი აპლიკანტებისთვის საფასური და ბაკალავრის მისაღები წესები ხელმისაწვდომი ოფიციალური გვერდებიდან ვერ დადასტურდა.",
+   "ar": "جامعة خاصة في Kuala Lumpur (ماليزيا). تعذر التأكد من الرسوم وشروط القبول في البكالوريوس للمتقدمين الدوليين من الصفحات الرسمية المتاحة."
+  },
+  "about": {
+   "en": "This university is in Kuala Lumpur, Malaysia. The official pages that could be opened did not give clear rules, dates or fees for international bachelor applicants. Applicants should check the admissions pages of the university website or write to the admissions office before applying.",
+   "ka": "უნივერსიტეტი მდებარეობს ქალაქ Kuala Lumpur-ში (მალაიზია). ხელმისაწვდომ ოფიციალურ გვერდებზე უცხოელი ბაკალავრის აპლიკანტებისთვის მკაფიო წესები, ვადები ან საფასური ვერ მოიძებნა. აპლიკანტებმა განაცხადამდე უნდა გადაამოწმონ უნივერსიტეტის მისაღები გვერდები ან მისწერონ მისაღებ ოფისს.",
+   "ar": "تقع الجامعة في Kuala Lumpur (ماليزيا). لم تتضمن الصفحات الرسمية التي أمكن فتحها قواعد أو مواعيد أو رسومًا واضحة للمتقدمين الدوليين إلى البكالوريوس. على المتقدمين مراجعة صفحات القبول في موقع الجامعة أو مراسلة مكتب القبول قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الصفحات التي جرى الاطلاع عليها دعمًا مخصصًا لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "gpa_note": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებათა ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "malaysia",
+   "kuala lumpur",
+   "medicine",
+   "health",
+   "private"
+  ],
+  "sources": [
+   "https://www.imu.edu.my"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "students": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "jouf-university",
+  "name": {
+   "en": "Jouf University",
+   "ka": "ჯუფის უნივერსიტეტი",
+   "ar": "جامعة الجوف"
+  },
+  "iso": "SA",
+  "city": "Sakaka",
+  "lat": 29.969,
+  "lon": 40.2,
+  "type": "public",
+  "website": "https://www.ju.edu.sa",
+  "platform": null,
+  "application_url": "https://www.ju.edu.sa/en/international-students",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The university says it admits international students, but the pages checked gave no dates, steps or fees. It points to the International Students Guide and the Study in Saudi Arabia portal.",
+  "tuition_intl": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not published on the pages checked. Contact the admissions office.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული. დაუკავშირდით მისაღებ ოფისს.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها. تواصل مع مكتب القبول."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "humanities",
+   "engineering",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine and health",
+    "Sciences",
+    "Humanities",
+    "Engineering"
+   ],
+   "ka": [
+    "მედიცინა და ჯანდაცვა",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "الطب والصحة",
+    "العلوم",
+    "العلوم الإنسانية",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Sakaka, Saudi Arabia. Fees and bachelor entry rules for international applicants could not be confirmed from the official pages available.",
+   "ka": "Sakaka-ის საჯარო უნივერსიტეტი (საუდის არაბეთი). უცხოელი აპლიკანტებისთვის საფასური და ბაკალავრის მისაღები წესები ხელმისაწვდომი ოფიციალური გვერდებიდან ვერ დადასტურდა.",
+   "ar": "جامعة حكومية في Sakaka (المملكة العربية السعودية). تعذر التأكد من الرسوم وشروط القبول في البكالوريوس للمتقدمين الدوليين من الصفحات الرسمية المتاحة."
+  },
+  "about": {
+   "en": "This university is in Sakaka, Saudi Arabia. The official pages that could be opened did not give clear rules, dates or fees for international bachelor applicants. Applicants should check the admissions pages of the university website or write to the admissions office before applying.",
+   "ka": "უნივერსიტეტი მდებარეობს ქალაქ Sakaka-ში (საუდის არაბეთი). ხელმისაწვდომ ოფიციალურ გვერდებზე უცხოელი ბაკალავრის აპლიკანტებისთვის მკაფიო წესები, ვადები ან საფასური ვერ მოიძებნა. აპლიკანტებმა განაცხადამდე უნდა გადაამოწმონ უნივერსიტეტის მისაღები გვერდები ან მისწერონ მისაღებ ოფისს.",
+   "ar": "تقع الجامعة في Sakaka (المملكة العربية السعودية). لم تتضمن الصفحات الرسمية التي أمكن فتحها قواعد أو مواعيد أو رسومًا واضحة للمتقدمين الدوليين إلى البكالوريوس. على المتقدمين مراجعة صفحات القبول في موقع الجامعة أو مراسلة مكتب القبول قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الصفحات التي جرى الاطلاع عليها دعمًا مخصصًا لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "gpa_note": {
+   "en": "Not published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "غير منشور في الصفحات التي جرى الاطلاع عليها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის შეფასებათა ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "saudi arabia",
+   "sakaka",
+   "public",
+   "gulf"
+  ],
+  "sources": [
+   "https://www.ju.edu.sa/en/international-students",
+   "https://www.ju.edu.sa/en/deanship-admission-and-registration"
+  ]
+ }
+]

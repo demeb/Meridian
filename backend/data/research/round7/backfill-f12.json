@@ -1,0 +1,137 @@
+{
+ "oryx-universal-college-ljmu": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "computer-science",
+   "engineering",
+   "business"
+  ]
+ },
+ "san-diego-state-university-georgia": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "computer-science"
+  ]
+ },
+ "sorbonne-university-abu-dhabi": {
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Requires the Baccalaureate or a High School Diploma (or equivalent) with the last two years' transcripts; certificates from outside the UAE need attestation and equivalency documents. French-language programmes need a B2 French certificate.",
+   "ka": "საჭიროა ბაკალავრეატი ან საშუალო სკოლის დიპლომი (ან ექვივალენტი) ბოლო ორი წლის ნიშნებით; საემიროების გარეთ გაცემულ დოკუმენტებს სჭირდება დადასტურება და ეკვივალენტობის დოკუმენტი. ფრანგულენოვან პროგრამებზე საჭიროა ფრანგულის B2 სერტიფიკატი.",
+   "ar": "يُشترط البكالوريا أو دبلوم المدرسة الثانوية (أو ما يعادله) مع كشوف آخر سنتين؛ وتحتاج الشهادات من خارج الإمارات إلى تصديق ووثائق معادلة. وتتطلب البرامج بالفرنسية شهادة فرنسية بمستوى B2."
+  },
+  "english_bachelors": "some",
+  "fields": [
+   "law",
+   "economics",
+   "business",
+   "international-relations",
+   "humanities",
+   "natural-sciences"
+  ]
+ },
+ "texas-am-university-qatar": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Texas A&M University at Qatar has stopped admitting new students and the campus is set to close by August 2028.",
+   "ka": "ტეხასის A&M-ის ყატარის კამპუსი ახალ სტუდენტებს აღარ იღებს და 2028 წლის აგვისტოსთვის დაიხურება.",
+   "ar": "توقفت جامعة تكساس إيه آند إم في قطر عن قبول طلاب جدد ومن المقرر إغلاق الحرم الجامعي بحلول أغسطس 2028."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "natural-sciences"
+  ]
+ },
+ "university-of-calgary-qatar": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "The University of Calgary in Qatar concluded its operations in August 2025 and no longer admits students.",
+   "ka": "კალგარის უნივერსიტეტმა ყატარში საქმიანობა 2025 წლის აგვისტოში დაასრულა და ახალ სტუდენტებს აღარ იღებს.",
+   "ar": "أنهت جامعة كالغاري في قطر عملياتها في أغسტس 2025 ولم تعد تقبل طلابًا جدد."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "medicine-health",
+   "natural-sciences"
+  ]
+ },
+ "university-of-doha-for-science-and-technology": {
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Accepts the Qatari General Secondary certificate, American diploma/SABIS, British IGCSE/AS/A levels (minimum C), the IB and other systems reviewed individually; English can be shown by IELTS 5.0 / TOEFL iBT 49 and maths by SAT Math 480 or a placement test.",
+   "ka": "მიიღება ყატარის ზოგადი საშუალო განათლების სერტიფიკატი, ამერიკული დიპლომი/SABIS, ბრიტანული IGCSE/AS/A-level (მინიმუმ C), IB და სხვა სისტემები ინდივიდუალური განხილვით; ინგლისური დასტურდება IELTS 5.0 / TOEFL iBT 49-ით, მათემატიკა — SAT Math 480-ით ან განმსაზღვრელი ტესტით.",
+   "ar": "تُقبل شهادة الثانوية العامة القطرية والدبلوم الأمريكي/SABIS وIGCSE/AS/A-level البريطانية (C كحد أدنى) وIB، وتُراجع المناهج الأخرى فرديًا؛ ويُثبت مستوى الإنجليزية بـ IELTS 5.0 / TOEFL iBT 49 والرياضيات بـ SAT Math 480 أو اختبار تحديد مستوى."
+  },
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "medicine-health",
+   "business"
+  ]
+ },
+ "vcuarts-qatar": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "arts-design",
+   "humanities"
+  ]
+ },
+ "weill-cornell-medicine-qatar": {
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "english_bachelors": "all",
+  "fields": [
+   "medicine-health",
+   "natural-sciences"
+  ]
+ }
+}

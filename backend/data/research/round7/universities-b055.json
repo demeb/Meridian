@@ -1,0 +1,1963 @@
+[
+ {
+  "id": "williams-college",
+  "name": {
+   "en": "Williams College",
+   "ka": "უილიამსის კოლეჯი",
+   "ar": "كلية ويليامز"
+  },
+  "iso": "US",
+  "city": "Williamstown",
+  "lat": 42.713,
+  "lon": -73.205,
+  "type": "private",
+  "website": "https://www.williams.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No admissions information could be read from the official site, so no deadline is given.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not verified: no official admissions data could be read.",
+   "ka": "არ არის გადამოწმებული: ოფიციალური მიღების მონაცემები ვერ წაიკითხა.",
+   "ar": "لم يتم التحقق: تعذرت قراءة بيانات القبول الرسمية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "natural-sciences",
+   "social-sciences",
+   "economics",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Liberal arts",
+    "Economics",
+    "Sciences",
+    "Art history",
+    "English"
+   ],
+   "ka": [
+    "თავისუფალი ხელოვნება",
+    "ეკონომიკა",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ხელოვნების ისტორია",
+    "ინგლისური ენა და ლიტერატურა"
+   ],
+   "ar": [
+    "الفنون الحرة",
+    "الاقتصاد",
+    "العلوم الطبيعية",
+    "تاريخ الفن",
+    "اللغة الإنجليزية وآدابها"
+   ]
+  },
+  "summary": {
+   "en": "A private liberal arts college in Williamstown, Massachusetts. The admissions site blocked automated access, so deadlines, aid rules and tests could not be verified.",
+   "ka": "კერძო თავისუფალი ხელოვნების კოლეჯი უილიამსთაუნში, მასაჩუსეტსი. მიღების საიტმა ავტომატური წვდომა დაბლოკა, ამიტომ ვადები, დახმარების წესები და ტესტები ვერ გადამოწმდა.",
+   "ar": "كلية خاصة للفنون الحرة في ويليامزتاون بولاية ماساتشوستس. حجب موقع القبول الوصول الآلي، لذا تعذر التحقق من المواعيد وقواعد المساعدة والاختبارات."
+  },
+  "about": {
+   "en": "Williams College is a private liberal arts college in Williamstown, Massachusetts. Its admissions pages returned an access error, so application deadlines, standardized test policy, tuition and financial aid for international students are not confirmed here. Check admission.williams.edu directly.",
+   "ka": "უილიამსის კოლეჯი კერძო თავისუფალი ხელოვნების კოლეჯია უილიამსთაუნში, მასაჩუსეტსი. მიღების გვერდებმა წვდომის შეცდომა დააბრუნა, ამიტომ განაცხადის ვადები, სტანდარტიზებული ტესტების პოლიტიკა, სწავლის საფასური და საერთაშორისო სტუდენტების ფინანსური დახმარება აქ დადასტურებული არ არის. გადაამოწმეთ პირდაპირ admission.williams.edu-ზე.",
+   "ar": "كلية ويليامز كلية خاصة للفنون الحرة في ويليامزتاون بولاية ماساتشوستس. أعادت صفحات القبول خطأ في الوصول، لذا لم تُؤكَّد هنا مواعيد التقديم وسياسة الاختبارات الموحدة والرسوم والمساعدة المالية للطلاب الدوليين. راجع admission.williams.edu مباشرة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Not verified. Check the university's international admissions page.",
+   "ka": "არ არის გადამოწმებული. იხილეთ უნივერსიტეტის საერთაშორისო მიღების გვერდი.",
+   "ar": "لم يتم التحقق. راجع صفحة القبول الدولي في الجامعة."
+  },
+  "gpa_note": {
+   "en": "Not verified. Academic requirements were not published on the pages we could read.",
+   "ka": "არ არის გადამოწმებული. აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ იყო გამოქვეყნებული.",
+   "ar": "لم يتم التحقق. لم تُنشر الشروط الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "სასკოლო ატესტატის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Reference or recommendation letter",
+     "ka": "სარეკომენდაციო წერილი",
+     "ar": "خطاب توصية"
+    }
+   },
+   {
+    "key": "essay",
+    "label": {
+     "en": "Essay",
+     "ka": "ესე",
+     "ar": "مقال"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of financial support",
+     "ka": "ფინანსური უზრუნველყოფის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات القدرة المالية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "massachusetts",
+   "liberal arts",
+   "williamstown"
+  ],
+  "sources": [
+   "https://www.williams.edu"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "xidian-university",
+  "name": {
+   "en": "Xidian University",
+   "ka": "სიდიანის უნივერსიტეტი",
+   "ar": "جامعة شيديان"
+  },
+  "iso": "CN",
+  "city": "Xi'an",
+  "lat": 34.126,
+  "lon": 108.832,
+  "type": "public",
+  "website": "https://www.xidian.edu.cn",
+  "platform": "Direct (international online application)",
+  "application_url": "https://en.xidian.edu.cn/Admission/International_Applicants.htm",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No admissions information could be read from the official site, so no deadline is given.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not verified: no official admissions data could be read.",
+   "ka": "არ არის გადამოწმებული: ოფიციალური მიღების მონაცემები ვერ წაიკითხა.",
+   "ar": "لم يتم التحقق: تعذرت قراءة بيانات القبول الرسمية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "mathematics",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Electronic engineering",
+    "Information and communication",
+    "Computer science",
+    "Cybersecurity",
+    "Mechatronics"
+   ],
+   "ka": [
+    "ელექტრონული ინჟინერია",
+    "ინფორმაცია და კომუნიკაცია",
+    "კომპიუტერული მეცნიერება",
+    "კიბერუსაფრთხოება",
+    "მექატრონიკა"
+   ],
+   "ar": [
+    "الهندسة الإلكترونية",
+    "المعلومات والاتصالات",
+    "علوم الحاسوب",
+    "الأمن السيبراني",
+    "الميكاترونيكا"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Xi'an, China, known for electronics and information technology. The English admissions pages only link to a guide and an online application, so fees and deadlines were not verified.",
+   "ka": "სახელმწიფო უნივერსიტეტი სიანში, ჩინეთი, ელექტრონიკისა და საინფორმაციო ტექნოლოგიებით ცნობილი. ინგლისურ გვერდებზე მხოლოდ გზამკვლევისა და ონლაინ განაცხადის ბმულებია, ამიტომ საფასური და ვადები ვერ გადამოწმდა.",
+   "ar": "جامعة حكومية في شيآن بالصين، معروفة بالإلكترونيات وتقنية المعلومات. تحتوي صفحات القبول الإنجليزية على روابط لدليل وطلب إلكتروني فقط، لذا لم يتم التحقق من الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "Xidian University is a public university with campuses in Xi'an, China. The English site has an International Applicants section with an admission guide PDF, a major list and a 2026 online application, but the text of these pages did not show deadlines, tuition or language requirements. Contact the International Cooperation and Exchange Office (oice.xidian.edu.cn) for current conditions.",
+   "ka": "სიდიანის უნივერსიტეტი სახელმწიფო უნივერსიტეტია, კამპუსებით სიანში, ჩინეთი. ინგლისურ საიტზე არის საერთაშორისო აპლიკანტების განყოფილება, მიღების გზამკვლევით (PDF), სპეციალობების სიით და 2026 წლის ონლაინ განაცხადით, მაგრამ გვერდების ტექსტში ვადები, საფასური და ენობრივი მოთხოვნები არ ჩანდა. მიმდინარე პირობებისთვის დაუკავშირდით საერთაშორისო თანამშრომლობისა და გაცვლის ოფისს (oice.xidian.edu.cn).",
+   "ar": "جامعة شيديان جامعة حكومية بحرمين في شيآن بالصين. يضم الموقع الإنجليزي قسماً للمتقدمين الدوليين فيه دليل قبول PDF وقائمة تخصصات وطلب إلكتروني لعام 2026، لكن نصوص الصفحات لم تُظهر المواعيد أو الرسوم أو متطلبات اللغة. تواصل مع مكتب التعاون والتبادل الدولي (oice.xidian.edu.cn) للاطلاع على الشروط الحالية."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Not verified. Check the university's international admissions page.",
+   "ka": "არ არის გადამოწმებული. იხილეთ უნივერსიტეტის საერთაშორისო მიღების გვერდი.",
+   "ar": "لم يتم التحقق. راجع صفحة القبول الدولي في الجامعة."
+  },
+  "gpa_note": {
+   "en": "Not verified. Academic requirements were not published on the pages we could read.",
+   "ka": "არ არის გადამოწმებული. აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ იყო გამოქვეყნებული.",
+   "ar": "لم يتم التحقق. لم تُنشر الشروط الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "სასკოლო ატესტატის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of language of instruction",
+     "ka": "სწავლების ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان لغة التدريس"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Photo",
+     "ka": "ფოტო",
+     "ar": "صورة شخصية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "china",
+   "xi'an",
+   "electronics",
+   "information technology"
+  ],
+  "sources": [
+   "https://www.xidian.edu.cn",
+   "https://en.xidian.edu.cn",
+   "https://en.xidian.edu.cn/Admission/International_Applicants.htm"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "zurich-university-of-applied-sciences-zhaw",
+  "name": {
+   "en": "Zurich University of Applied Sciences (ZHAW)",
+   "ka": "ციურიხის გამოყენებითი მეცნიერებების უნივერსიტეტი (ZHAW)",
+   "ar": "جامعة زيورخ للعلوم التطبيقية (ZHAW)"
+  },
+  "iso": "CH",
+  "city": "Winterthur",
+  "lat": 47.499,
+  "lon": 8.729,
+  "type": "public",
+  "website": "https://www.zhaw.ch",
+  "platform": "Direct (ZHAW online application)",
+  "application_url": "https://www.zhaw.ch/en/study/before-your-studies/important-information",
+  "intakes": [
+   "September (autumn semester)"
+  ],
+  "deadline": "2027-04-30",
+  "deadline_note": "Autumn semester applications close on 30 April (the page gives no year; shown for 2027 entry); enrolment closes 1 August. No spring deadline is listed.",
+  "tuition_intl": {
+   "amount": 2440,
+   "currency": "CHF",
+   "per": "year",
+   "note": "CHF 720 plus CHF 500 extra per semester for non-Swiss residents, so CHF 1,220 per semester; CHF 100 registration fee for the admission process."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "German",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Foreign qualifications are assessed for equivalency after you apply. British applicants need three A Levels at B/B/C covering three of four subject areas, otherwise an entrance exam. A Levels cannot be replaced by language certificates.",
+   "ka": "უცხოური კვალიფიკაციის ეკვივალენტობა განაცხადის შემდეგ ფასდება. ბრიტანელი აპლიკანტებს სჭირდებათ სამი A Level B/B/C ქულებით, ოთხიდან სამ საგნობრივ სფეროში; წინააღმდეგ შემთხვევაში მისაღები გამოცდაა საჭირო. A Level-ის ენის სერტიფიკატით ჩანაცვლება შეუძლებელია.",
+   "ar": "تُقيَّم معادلة المؤهلات الأجنبية بعد التقديم. يحتاج المتقدمون البريطانيون إلى ثلاث مواد A Level بدرجات B/B/C تغطي ثلاثة من أربعة مجالات، وإلا امتحان قبول. ولا يمكن استبدال A Levels بشهادات لغة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "German C1 (German-taught programmes)",
+   "English B2 (English-taught programmes)",
+   "Aptitude assessment (health, social work, applied linguistics, psychology)"
+  ],
+  "fields": [
+   "engineering",
+   "business",
+   "computer-science",
+   "medicine-health",
+   "social-sciences",
+   "languages"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Life sciences and facility management",
+    "Business and law",
+    "Health professions",
+    "Applied linguistics",
+    "Social work"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "სიცოცხლის მეცნიერებები და ობიექტების მენეჯმენტი",
+    "ბიზნესი და სამართალი",
+    "ჯანდაცვის პროფესიები",
+    "გამოყენებითი ლინგვისტიკა",
+    "სოციალური მუშაობა"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحياة وإدارة المرافق",
+    "الأعمال والقانون",
+    "المهن الصحية",
+    "اللغويات التطبيقية",
+    "العمل الاجتماعي"
+   ]
+  },
+  "summary": {
+   "en": "A public university of applied sciences in Winterthur, Switzerland, with 34 bachelor programmes. Tuition is about CHF 1,220 per semester for non-Swiss residents; German C1 or English B2 is needed.",
+   "ka": "გამოყენებითი მეცნიერებების სახელმწიფო უნივერსიტეტი ვინტერთურში, შვეიცარია, 34 ბაკალავრიატის პროგრამით. უცხოელებისთვის საფასური დაახლოებით 1 220 შვეიცარული ფრანკია სემესტრში; საჭიროა გერმანული C1 ან ინგლისური B2.",
+   "ar": "جامعة حكومية للعلوم التطبيقية في فينترتور بسويسرا تضم 34 برنامج بكالوريوس. الرسوم نحو 1,220 فرنك سويسري للفصل لغير المقيمين في سويسرا؛ ويلزم إتقان الألمانية C1 أو الإنجليزية B2."
+  },
+  "about": {
+   "en": "ZHAW is a public university of applied sciences in Winterthur, near Zurich, with 34 bachelor programmes. Applicants with foreign school-leaving certificates are assessed for equivalency after applying and must show German C1 for German-taught programmes or English B2 for English-taught ones. Most programmes want a year of relevant practical experience before starting. Autumn applications close on 30 April. Tuition is CHF 720 per semester plus CHF 500 extra for non-Swiss residents, and the admission process costs CHF 100.",
+   "ka": "ZHAW გამოყენებითი მეცნიერებების სახელმწიფო უნივერსიტეტია ვინტერთურში, ციურიხთან ახლოს, 34 ბაკალავრიატის პროგრამით. უცხოური ატესტატის მქონე აპლიკანტების ეკვივალენტობა განაცხადის შემდეგ ფასდება და მათ უნდა წარადგინონ გერმანული C1 გერმანულენოვან პროგრამებზე ან ინგლისური B2 ინგლისურენოვან პროგრამებზე. უმეტეს პროგრამას სწავლამდე ერთი წლის შესაბამისი პრაქტიკული გამოცდილება სჭირდება. შემოდგომის განაცხადები 30 აპრილს იხურება. სწავლის საფასურია 720 CHF სემესტრში, უცხოელებისთვის დამატებით 500 CHF, ხოლო მიღების პროცესი 100 CHF ღირს.",
+   "ar": "ZHAW جامعة حكومية للعلوم التطبيقية في فينترتور قرب زيورخ وتضم 34 برنامج بكالوريوس. تُقيَّم معادلة الشهادات الثانوية الأجنبية بعد التقديم، ويجب إثبات الألمانية C1 للبرامج الألمانية أو الإنجليزية B2 للبرامج الإنجليزية. تطلب معظم البرامج سنة من الخبرة العملية ذات الصلة قبل البدء. يغلق التقديم للفصل الخريفي في 30 أبريل. الرسوم 720 فرنكاً للفصل مع 500 فرنك إضافية لغير المقيمين في سويسرا، وتكلفة إجراءات القبول 100 فرنك."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "German C1 for German-taught programmes or English B2 for English-taught ones; health, social work, applied linguistics and psychology also require an aptitude assessment.",
+   "ka": "გერმანულენოვან პროგრამებზე გერმანული C1 ან ინგლისურენოვანზე ინგლისური B2; ჯანდაცვა, სოციალური მუშაობა, გამოყენებითი ლინგვისტიკა და ფსიქოლოგია დამატებით უნარების შეფასებას მოითხოვს.",
+   "ar": "الألمانية C1 للبرامج الألمانية أو الإنجليزية B2 للبرامج الإنجليزية؛ وتتطلب الصحة والعمل الاجتماعي واللغويات التطبيقية وعلم النفس تقييم كفاءة إضافياً."
+  },
+  "gpa_note": {
+   "en": "A baccalaureate or equivalent foreign qualification is required, normally with one year of relevant practical experience before study.",
+   "ka": "საჭიროა ბაკალავრიატის ან ექვივალენტური უცხოური კვალიფიკაცია, ჩვეულებრივ სწავლამდე ერთი წლის შესაბამისი პრაქტიკული გამოცდილებით.",
+   "ar": "يلزم بكالوريا أو مؤهل أجنبي معادل، مع سنة من الخبرة العملية ذات الصلة قبل الدراسة عادة."
+  },
+  "requirements": [
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV",
+     "ka": "CV",
+     "ar": "سيرة ذاتية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "სასკოლო ატესტატის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of language of instruction",
+     "ka": "სწავლების ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان لغة التدريس"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign school certificate",
+     "ka": "უცხოური ატესტატის აღიარება",
+     "ar": "معادلة الشهادة الأجنبية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო საფასური",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "switzerland",
+   "winterthur",
+   "zurich",
+   "applied sciences",
+   "german"
+  ],
+  "sources": [
+   "https://www.zhaw.ch/en/study/",
+   "https://www.zhaw.ch/en/study/before-your-studies/important-information"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "al-quds-university",
+  "name": {
+   "en": "Al-Quds University",
+   "ka": "ალ-ყუდსის უნივერსიტეტი",
+   "ar": "جامعة القدس"
+  },
+  "iso": "PS",
+  "city": "East Jerusalem",
+  "lat": 31.764,
+  "lon": 35.262,
+  "type": "public",
+  "website": "https://www.alquds.edu",
+  "platform": "Direct (enrollment card and online application)",
+  "application_url": "https://www.alquds.edu/en/admissions-registration/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No fixed deadline is published; the page says early applications improve your chances and you may apply before school results are out.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "The page covers the Palestinian Tawjihi only; accepted international certificates are on a separate 'Accepted certificates' page that was not read.",
+   "ka": "გვერდი მხოლოდ პალესტინურ Tawjihi-ს მოიცავს; მისაღები საერთაშორისო სერტიფიკატები ცალკე გვერდზეა, რომელიც არ წაგვიკითხავს.",
+   "ar": "تغطي الصفحة التوجيهي الفلسطيني فقط؛ أما الشهادات الدولية المقبولة ففي صفحة منفصلة لم تُقرأ."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences",
+   "education",
+   "humanities",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine and health professions",
+    "Engineering",
+    "Science and technology",
+    "Education",
+    "Law"
+   ],
+   "ka": [
+    "მედიცინა და ჯანდაცვის პროფესიები",
+    "ინჟინერია",
+    "მეცნიერება და ტექნოლოგია",
+    "განათლება",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب والمهن الصحية",
+    "الهندسة",
+    "العلوم والتكنولوجيا",
+    "التربية",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "A Palestinian university with campuses in and around East Jerusalem. Applicants buy an enrollment card and apply online; international certificate rules and tuition were not readable.",
+   "ka": "პალესტინური უნივერსიტეტი, კამპუსებით აღმოსავლეთ იერუსალიმსა და მის შემოგარენში. აპლიკანტები ყიდულობენ ჩარიცხვის ბარათს და განაცხადს ონლაინ აგზავნიან; საერთაშორისო ატესტატების წესები და საფასური წაკითხვადი არ იყო.",
+   "ar": "جامعة فلسطينية لها حرم في القدس الشرقية ومحيطها. يشتري المتقدمون بطاقة التسجيل ويقدمون عبر الإنترنت؛ ولم تكن قواعد الشهادات الدولية والرسوم مقروءة."
+  },
+  "about": {
+   "en": "Al-Quds University is a Palestinian university with campuses in East Jerusalem and Abu Dis. Applicants buy a one-use enrollment card at listed banks or the Sheikh Jarrah campus, then enter the application number and PIN online. Palestinian Tawjihi students can apply before results are published. Rules for international certificates, language of instruction, tuition and the application fee are on pages we could not read; contact admission@alquds.edu or +970 2 2756200.",
+   "ka": "ალ-ყუდსის უნივერსიტეტი პალესტინური უნივერსიტეტია, კამპუსებით აღმოსავლეთ იერუსალიმსა და აბუ დისში. აპლიკანტები ყიდულობენ ერთჯერად ჩარიცხვის ბარათს მითითებულ ბანკებში ან შეიხ ჯარაჰის კამპუსზე, შემდეგ კი ონლაინ შეჰყავთ განაცხადის ნომერი და PIN. პალესტინური Tawjihi-ს სტუდენტებს შეუძლიათ განაცხადი შედეგების გამოქვეყნებამდე გააგზავნონ. საერთაშორისო სერტიფიკატების წესები, სწავლების ენა, საფასური და სააპლიკაციო გადასახადი გვერდებზეა, რომლებიც ვერ წავიკითხეთ; დაუკავშირდით admission@alquds.edu ან +970 2 2756200.",
+   "ar": "جامعة القدس جامعة فلسطينية لها حرم في القدس الشرقية وأبو ديس. يشتري المتقدمون بطاقة تسجيل لمرة واحدة من البنوك المحددة أو من حرم الشيخ جراح، ثم يدخلون رقم الطلب والرقم السري عبر الإنترنت. يمكن لطلبة التوجيهي الفلسطيني التقديم قبل صدور النتائج. قواعد الشهادات الدولية ولغة التدريس والرسوم ورسوم التقديم في صفحات لم نتمكن من قراءتها؛ تواصل عبر admission@alquds.edu أو +970 2 2756200."
+  },
+  "aid_intl": {
+   "en": "Merit scholarships by Tawjihi score exist (2021/22 tables show 10% to 50% and some full awards); none are specific to international students.",
+   "ka": "არსებობს დამსახურებაზე დაფუძნებული სტიპენდიები Tawjihi-ს ქულის მიხედვით (2021/22 ცხრილებში 10%-დან 50%-მდე და ზოგი სრული); არცერთი არ არის განკუთვნილი საერთაშორისო სტუდენტებისთვის.",
+   "ar": "توجد منح تفوق حسب معدل التوجيهي (تُظهر جداول 2021/22 من 10% إلى 50% وبعض المنح الكاملة)؛ وليست أي منها مخصصة للطلاب الدوليين."
+  },
+  "tests": {
+   "en": "Not verified for international applicants; check the admissions office.",
+   "ka": "საერთაშორისო აპლიკანტებისთვის არ არის გადამოწმებული; დაუკავშირდით მიღების ოფისს.",
+   "ar": "لم يتم التحقق للمتقدمين الدوليين؛ راجع مكتب القبول."
+  },
+  "gpa_note": {
+   "en": "Scholarship tables use a secondary exam average of 80% to 95%; admission minimums were not readable.",
+   "ka": "სტიპენდიების ცხრილები იყენებს საშუალო გამოცდის 80–95%-ს; მიღების მინიმუმები წაკითხვადი არ იყო.",
+   "ar": "تستخدم جداول المنح معدلاً في الثانوية من 80% إلى 95%؛ ولم تكن حدود القبول الدنيا مقروءة."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "სასკოლო ატესტატის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Photo",
+     "ka": "ფოტო",
+     "ar": "صورة شخصية"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Undergraduate merit scholarships (2021/22 tables)",
+    "url": "https://www.alquds.edu/en/aid-scholarships/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "palestine",
+   "jerusalem",
+   "abu dis",
+   "arabic"
+  ],
+  "sources": [
+   "https://www.alquds.edu",
+   "https://www.alquds.edu/en/admissions-registration/",
+   "https://www.alquds.edu/en/aid-scholarships/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "altai-state-university",
+  "name": {
+   "en": "Altai State University",
+   "ka": "ალტაის სახელმწიფო უნივერსიტეტი",
+   "ar": "جامعة ألتاي الحكومية"
+  },
+  "iso": "RU",
+  "city": "Barnaul",
+  "lat": 53.347,
+  "lon": 83.777,
+  "type": "public",
+  "website": "https://www.asu.ru",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No admissions information could be read from the official site, so no deadline is given.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not verified: no official admissions data could be read.",
+   "ka": "არ არის გადამოწმებული: ოფიციალური მიღების მონაცემები ვერ წაიკითხა.",
+   "ar": "لم يتم التحقق: تعذرت قراءة بيانات القبول الرسمية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "natural-sciences",
+   "humanities",
+   "social-sciences",
+   "law",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Natural sciences",
+    "Humanities",
+    "Law",
+    "Economics",
+    "Education"
+   ],
+   "ka": [
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "სამართალი",
+    "ეკონომიკა",
+    "განათლება"
+   ],
+   "ar": [
+    "العلوم الطبيعية",
+    "العلوم الإنسانية",
+    "القانون",
+    "الاقتصاد",
+    "التربية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Barnaul, Russia. Its website refused our connection, so no admission, fee or deadline data could be verified.",
+   "ka": "სახელმწიფო უნივერსიტეტი ბარნაულში, რუსეთი. საიტმა კავშირი უარყო, ამიტომ მიღების, საფასურისა და ვადების მონაცემები ვერ გადამოწმდა.",
+   "ar": "جامعة حكومية في بارنول بروسيا. رفض موقعها الاتصال، لذا تعذر التحقق من بيانات القبول والرسوم والمواعيد."
+  },
+  "about": {
+   "en": "Altai State University is a public university in Barnaul, in southern Siberia. We could not open its website, so we cannot confirm bachelor intakes, deadlines, tuition, the language of teaching or how foreign school certificates are recognised. Contact the university's international office before applying.",
+   "ka": "ალტაის სახელმწიფო უნივერსიტეტი სახელმწიფო უნივერსიტეტია ბარნაულში, სამხრეთ ციმბირში. საიტი ვერ გავხსენით, ამიტომ ვერ ვადასტურებთ ბაკალავრიატის მიღებებს, ვადებს, საფასურს, სწავლების ენას და უცხოური ატესტატების აღიარების წესს. განაცხადამდე დაუკავშირდით უნივერსიტეტის საერთაშორისო ოფისს.",
+   "ar": "جامعة ألتاي الحكومية جامعة حكومية في بارنول بجنوب سيبيريا. لم نتمكن من فتح موقعها، لذا لا يمكننا تأكيد دفعات القبول والمواعيد والرسوم ولغة التدريس وكيفية الاعتراف بالشهادات الثانوية الأجنبية. تواصل مع المكتب الدولي للجامعة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Not verified. Check the university's international admissions page.",
+   "ka": "არ არის გადამოწმებული. იხილეთ უნივერსიტეტის საერთაშორისო მიღების გვერდი.",
+   "ar": "لم يتم التحقق. راجع صفحة القبول الدولي في الجامعة."
+  },
+  "gpa_note": {
+   "en": "Not verified. Academic requirements were not published on the pages we could read.",
+   "ka": "არ არის გადამოწმებული. აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ იყო გამოქვეყნებული.",
+   "ar": "لم يتم التحقق. لم تُنشر الشروط الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "სასკოლო ატესტატის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign school certificate",
+     "ka": "უცხოური ატესტატის აღიარება",
+     "ar": "معادلة الشهادة الأجنبية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of language of instruction",
+     "ka": "სწავლების ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان لغة التدريس"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "russia",
+   "barnaul",
+   "siberia"
+  ],
+  "sources": [
+   "https://www.asu.ru"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "amity-university",
+  "name": {
+   "en": "Amity University",
+   "ka": "ამითის უნივერსიტეტი",
+   "ar": "جامعة أميتي"
+  },
+  "iso": "IN",
+  "city": "Noida",
+  "lat": 28.544,
+  "lon": 77.334,
+  "type": "private",
+  "website": "https://www.amity.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No admissions information could be read from the official site, so no deadline is given.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not verified: no official admissions data could be read.",
+   "ka": "არ არის გადამოწმებული: ოფიციალური მიღების მონაცემები ვერ წაიკითხა.",
+   "ar": "لم يتم التحقق: تعذرت قراءة بيانات القبول الرسمية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science",
+   "law",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Computer science",
+    "Law",
+    "Media and design"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "სამართალი",
+    "მედია და დიზაინი"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "علوم الحاسوب",
+    "القانون",
+    "الإعلام والتصميم"
+   ]
+  },
+  "summary": {
+   "en": "A private university with its main campus in Noida, India. The website failed a certificate check, so international admission, fee and deadline data could not be verified.",
+   "ka": "კერძო უნივერსიტეტი, მთავარი კამპუსით ნოიდაში, ინდოეთი. საიტმა სერტიფიკატის შემოწმება ვერ გაიარა, ამიტომ საერთაშორისო მიღების, საფასურისა და ვადების მონაცემები ვერ გადამოწმდა.",
+   "ar": "جامعة خاصة حرمها الرئيسي في نويدا بالهند. فشل موقعها في فحص الشهادة الأمنية، لذا تعذر التحقق من بيانات القبول الدولي والرسوم والمواعيد."
+  },
+  "about": {
+   "en": "Amity University is a private university whose main campus is in Noida, near Delhi. Our tools could not load its website because of a certificate error, so intakes, fees, scholarships and accepted school qualifications are not confirmed. Check the international admissions page before applying.",
+   "ka": "ამითის უნივერსიტეტი კერძო უნივერსიტეტია, მთავარი კამპუსით ნოიდაში, დელისთან ახლოს. სერტიფიკატის შეცდომის გამო ჩვენმა ხელსაწყოებმა საიტი ვერ ჩატვირთა, ამიტომ მიღებები, საფასური, სტიპენდიები და მისაღები სასკოლო კვალიფიკაციები დადასტურებული არ არის. განაცხადამდე გადაამოწმეთ საერთაშორისო მიღების გვერდი.",
+   "ar": "جامعة أميتي جامعة خاصة حرمها الرئيسي في نويدا قرب دلهي. لم تتمكن أدواتنا من تحميل موقعها بسبب خطأ في الشهادة الأمنية، لذا لم تُؤكَّد مواعيد القبول والرسوم والمنح والمؤهلات المدرسية المقبولة. راجع صفحة القبول الدولي قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Not verified. Check the university's international admissions page.",
+   "ka": "არ არის გადამოწმებული. იხილეთ უნივერსიტეტის საერთაშორისო მიღების გვერდი.",
+   "ar": "لم يتم التحقق. راجع صفحة القبول الدولي في الجامعة."
+  },
+  "gpa_note": {
+   "en": "Not verified. Academic requirements were not published on the pages we could read.",
+   "ka": "არ არის გადამოწმებული. აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ იყო გამოქვეყნებული.",
+   "ar": "لم يتم التحقق. لم تُنشر الشروط الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "სასკოლო ატესტატის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "noida",
+   "delhi",
+   "private"
+  ],
+  "sources": [
+   "https://www.amity.edu"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "belarusian-national-technical-university-bntu",
+  "name": {
+   "en": "Belarusian National Technical University (BNTU)",
+   "ka": "ბელარუსის ეროვნული ტექნიკური უნივერსიტეტი (BNTU)",
+   "ar": "الجامعة التقنية الوطنية البيلاروسية (BNTU)"
+  },
+  "iso": "BY",
+  "city": "Minsk",
+  "lat": 53.908,
+  "lon": 27.571,
+  "type": "public",
+  "website": "https://www.bntu.by",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No admissions information could be read from the official site, so no deadline is given.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 23867,
+  "intl_pct": null,
+  "languages": [
+   "Russian"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not verified: no official admissions data could be read.",
+   "ka": "არ არის გადამოწმებული: ოფიციალური მიღების მონაცემები ვერ წაიკითხა.",
+   "ar": "لم يتم التحقق: تعذرت قراءة بيانات القبول الرسمية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Energy",
+    "Construction and architecture",
+    "Mechanical engineering",
+    "IT"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ენერგეტიკა",
+    "მშენებლობა და არქიტექტურა",
+    "მანქანათმშენებლობა",
+    "IT"
+   ],
+   "ar": [
+    "الهندسة",
+    "الطاقة",
+    "الإنشاءات والعمارة",
+    "هندسة الميكانيك",
+    "تقنية المعلومات"
+   ]
+  },
+  "summary": {
+   "en": "A public technical university in Minsk, Belarus, founded in 1920 with about 23,900 students. Admission, fee and deadline data for foreigners were not readable on the pages we reached.",
+   "ka": "სახელმწიფო ტექნიკური უნივერსიტეტი მინსკში, ბელარუსი, დაარსებული 1920 წელს, დაახლოებით 23 900 სტუდენტით. უცხოელებისთვის მიღების, საფასურისა და ვადების მონაცემები ხელმისაწვდომ გვერდებზე წაკითხვადი არ იყო.",
+   "ar": "جامعة تقنية حكومية في مينسك ببيلاروسيا تأسست عام 1920 وتضم نحو 23,900 طالب. لم تكن بيانات القبول والرسوم والمواعيد للأجانب مقروءة في الصفحات التي وصلنا إليها."
+  },
+  "about": {
+   "en": "BNTU is a public technical university in Minsk, founded in 1920. Its homepage reports 23,867 students and 3,144 academic staff and links to applicant information, but the pages for foreign applicants (documents, tuition, deadlines, teaching language) could not be read. Contact bntu@bntu.by or +375 17 255 10 11.",
+   "ka": "BNTU სახელმწიფო ტექნიკური უნივერსიტეტია მინსკში, დაარსებული 1920 წელს. მთავარი გვერდი აცხადებს 23 867 სტუდენტსა და 3 144 აკადემიურ პერსონალს და აბიტურიენტებისთვის ინფორმაციას ბმულებით გვთავაზობს, მაგრამ უცხოელი აპლიკანტების გვერდები (დოკუმენტები, საფასური, ვადები, სწავლების ენა) ვერ წავიკითხეთ. დაუკავშირდით bntu@bntu.by ან +375 17 255 10 11.",
+   "ar": "BNTU جامعة تقنية حكومية في مينسك تأسست عام 1920. تذكر صفحتها الرئيسية 23,867 طالباً و3,144 من أعضاء هيئة التدريس وتربط بمعلومات المتقدمين، لكن تعذرت قراءة صفحات المتقدمين الأجانب (الوثائق والرسوم والمواعيد ولغة التدريس). تواصل عبر bntu@bntu.by أو +375 17 255 10 11."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Not verified. Check the university's international admissions page.",
+   "ka": "არ არის გადამოწმებული. იხილეთ უნივერსიტეტის საერთაშორისო მიღების გვერდი.",
+   "ar": "لم يتم التحقق. راجع صفحة القبول الدولي في الجامعة."
+  },
+  "gpa_note": {
+   "en": "Not verified. Academic requirements were not published on the pages we could read.",
+   "ka": "არ არის გადამოწმებული. აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ იყო გამოქვეყნებული.",
+   "ar": "لم يتم التحقق. لم تُنشر الشروط الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "სასკოლო ატესტატის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign school certificate",
+     "ka": "უცხოური ატესტატის აღიარება",
+     "ar": "معادلة الشهادة الأجنبية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of language of instruction",
+     "ka": "სწავლების ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان لغة التدريس"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "belarus",
+   "minsk",
+   "technical university"
+  ],
+  "sources": [
+   "https://www.bntu.by/en"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "bina-nusantara-university-binus",
+  "name": {
+   "en": "Bina Nusantara University (BINUS)",
+   "ka": "ბინა ნუსანტარას უნივერსიტეტი (BINUS)",
+   "ar": "جامعة بينا نوسانتارا (BINUS)"
+  },
+  "iso": "ID",
+  "city": "Jakarta",
+  "lat": -6.202,
+  "lon": 106.783,
+  "type": "private",
+  "website": "https://www.binus.ac.id",
+  "platform": "Direct (BINUS International admissions portal gabung.binus.ac.id)",
+  "application_url": "https://gabung.binus.ac.id/admission-procedure/?degree=s1&campus-location=binus-senayan",
+  "intakes": [
+   "February",
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Intakes for 2027/28 are February and September 2027; the calendar runs weekly (enrolment Fridays, entrance test Saturdays), so there is no single deadline.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Indonesian"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Foreign high school diplomas must be legalised by Indonesia's education ministry. Computer Science accepts only the science stream; other majors accept all streams.",
+   "ka": "უცხოური საშუალო სკოლის დიპლომები ინდონეზიის განათლების სამინისტროს უნდა დაუმოწმოს. კომპიუტერულ მეცნიერებაზე მხოლოდ საბუნებისმეტყველო მიმართულებაა მისაღები; სხვა სპეციალობებზე ყველა მიმართულება.",
+   "ar": "يجب تصديق الشهادات الثانوية الأجنبية من وزارة التعليم الإندونيسية. تقبل علوم الحاسوب مسار العلوم فقط، وتقبل التخصصات الأخرى جميع المسارات."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 6.5,
+  "toefl_min": 79,
+  "duolingo_min": null,
+  "other_tests": [
+   "BIEPT (min. 550)",
+   "BINUS Aptitude Test (Computer Science)",
+   "Drawing test (Graphic Design)"
+  ],
+  "fields": [
+   "computer-science",
+   "business",
+   "arts-design",
+   "economics"
+  ],
+  "strengths": {
+   "en": [
+    "Computer science",
+    "Business information systems",
+    "International business",
+    "Finance",
+    "Creative digital communication",
+    "Graphic design"
+   ],
+   "ka": [
+    "კომპიუტერული მეცნიერება",
+    "ბიზნეს საინფორმაციო სისტემები",
+    "საერთაშორისო ბიზნესი",
+    "ფინანსები",
+    "შემოქმედებითი ციფრული კომუნიკაცია",
+    "გრაფიკული დიზაინი"
+   ],
+   "ar": [
+    "علوم الحاسوب",
+    "نظم معلومات الأعمال",
+    "الأعمال الدولية",
+    "المالية",
+    "الاتصال الرقمي الإبداعي",
+    "التصميم الغرافيكي"
+   ]
+  },
+  "summary": {
+   "en": "A private university in Jakarta with eight international bachelor programmes and double-degree options. Entry needs IELTS 6.5 (or the in-house BIEPT 550); tuition amounts are in a PDF we could not read.",
+   "ka": "კერძო უნივერსიტეტი ჯაკარტაში, რვა საერთაშორისო ბაკალავრიატის პროგრამითა და ორმაგი ხარისხის შესაძლებლობით. მისაღებად საჭიროა IELTS 6.5 (ან შიდა BIEPT 550); სწავლის საფასური PDF-შია, რომელიც ვერ წავიკითხეთ.",
+   "ar": "جامعة خاصة في جاكرتا تقدم ثمانية برامج بكالوريوس دولية وخيارات الشهادة المزدوجة. يتطلب القبول IELTS 6.5 (أو اختبار BIEPT الداخلي 550)؛ ومبالغ الرسوم في ملف PDF لم نتمكن من قراءته."
+  },
+  "about": {
+   "en": "BINUS is a private university in Jakarta. Its international undergraduate track has eight programmes (including Computer Science, Finance, International Business and Digital Business) and 15 double-degree options. Intakes for 2027/28 are February and September 2027. Applicants need a legalised high school diploma and IELTS 6.5 (5.5 in writing), TOEFL iBT 79 or the BIEPT 550; Computer Science adds an aptitude test and interview. Tuition is published as an image and PDF, so the amount is not given here.",
+   "ka": "BINUS კერძო უნივერსიტეტია ჯაკარტაში. მისი საერთაშორისო ბაკალავრიატის მიმართულებას რვა პროგრამა (მათ შორის კომპიუტერული მეცნიერება, ფინანსები, საერთაშორისო ბიზნესი და ციფრული ბიზნესი) და 15 ორმაგი ხარისხის ვარიანტი აქვს. 2027/28 წლის მიღებებია 2027 წლის თებერვალი და სექტემბერი. აპლიკანტებს სჭირდებათ დამოწმებული საშუალო სკოლის დიპლომი და IELTS 6.5 (წერაში 5.5), TOEFL iBT 79 ან BIEPT 550; კომპიუტერულ მეცნიერებაზე დამატებით უნარების ტესტი და გასაუბრებაა. სწავლის საფასური გამოქვეყნებულია სურათად და PDF-ად, ამიტომ თანხა აქ არ არის მითითებული.",
+   "ar": "BINUS جامعة خاصة في جاكرتا. يضم مسار البكالوريوس الدولي ثمانية برامج (منها علوم الحاسوب والمالية والأعمال الدولية والأعمال الرقمية) و15 خياراً للشهادة المزدوجة. دفعتا القبول لعام 2027/28 هما فبراير وسبتمبر 2027. يحتاج المتقدم إلى شهادة ثانوية مصدقة وIELTS 6.5 (5.5 في الكتابة) أو TOEFL iBT 79 أو BIEPT 550؛ وتضيف علوم الحاسوب اختبار قدرات ومقابلة. الرسوم منشورة كصورة وملف PDF، لذا لا يُذكر المبلغ هنا."
+  },
+  "aid_intl": {
+   "en": "BINUS lists scholarships (including a 2027 merit scholarship file for international students); amounts were not readable.",
+   "ka": "BINUS აქვეყნებს სტიპენდიებს (მათ შორის 2027 წლის დამსახურებაზე დაფუძნებულ სტიპენდიას საერთაშორისო სტუდენტებისთვის); თანხები წაკითხვადი არ იყო.",
+   "ar": "تعلن BINUS عن منح (منها ملف منحة تفوق لعام 2027 للطلاب الدوليين)؛ ولم تكن المبالغ مقروءة."
+  },
+  "tests": {
+   "en": "IELTS 6.5 (5.5 writing), TOEFL iBT 79 or BIEPT 550 for all majors; Computer Science adds an aptitude test, drawing test and interview; Graphic Design adds a drawing test.",
+   "ka": "IELTS 6.5 (წერაში 5.5), TOEFL iBT 79 ან BIEPT 550 ყველა სპეციალობისთვის; კომპიუტერულ მეცნიერებაზე დამატებით უნარების ტესტი, ხატვის ტესტი და გასაუბრება; გრაფიკულ დიზაინზე ხატვის ტესტი.",
+   "ar": "IELTS 6.5 (5.5 في الكتابة) أو TOEFL iBT 79 أو BIEPT 550 لجميع التخصصات؛ وتضيف علوم الحاسوب اختبار قدرات واختبار رسم ومقابلة؛ ويضيف التصميم الغرافيكي اختبار رسم."
+  },
+  "gpa_note": {
+   "en": "Computer Science needs the science stream; other majors accept any high school stream.",
+   "ka": "კომპიუტერულ მეცნიერებას სჭირდება საბუნებისმეტყველო მიმართულება; სხვა სპეციალობებზე ნებისმიერი მიმართულებაა მისაღები.",
+   "ar": "تتطلب علوم الحاسوب مسار العلوم؛ وتقبل التخصصات الأخرى أي مسار ثانوي."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign school certificate",
+     "ka": "უცხოური ატესტატის აღიარება",
+     "ar": "معادلة الشهادة الأجنبية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "BINUS scholarships",
+    "url": "https://binus.ac.id/scholarship/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "indonesia",
+   "jakarta",
+   "binus",
+   "double degree",
+   "english"
+  ],
+  "sources": [
+   "https://binus.ac.id",
+   "https://international.binus.ac.id/",
+   "https://gabung.binus.ac.id/admission-requirement/?degree=s1&campus-location=binus-senayan",
+   "https://gabung.binus.ac.id/admission-calendar/?degree=s1&campus-location=binus-senayan",
+   "https://gabung.binus.ac.id/tuition-fee/?degree=s1&campus-location=binus-senayan"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "cy-cergy-paris-university",
+  "name": {
+   "en": "CY Cergy Paris University",
+   "ka": "სერჯი პარიზის უნივერსიტეტი (CY)",
+   "ar": "جامعة سيرجي باريس (CY)"
+  },
+  "iso": "FR",
+  "city": "Paris",
+  "lat": 49.036,
+  "lon": 2.074,
+  "type": "public",
+  "website": "https://www.cyu.fr",
+  "platform": "Parcoursup (L1) / e-Candidat (L2-L3); international office for non-EU first-time students",
+  "application_url": "https://www.cyu.fr/formation/candidater-s-inscrire/candidatures",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No admissions information could be read from the official site, so no deadline is given.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not verified: no official admissions data could be read.",
+   "ka": "არ არის გადამოწმებული: ოფიციალური მიღების მონაცემები ვერ წაიკითხა.",
+   "ar": "لم يتم التحقق: تعذرت قراءة بيانات القبول الرسمية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "social-sciences",
+   "law",
+   "economics",
+   "natural-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Humanities",
+    "Law",
+    "Economics and management",
+    "Sciences",
+    "Engineering",
+    "Social sciences"
+   ],
+   "ka": [
+    "ჰუმანიტარული მეცნიერებები",
+    "სამართალი",
+    "ეკონომიკა და მენეჯმენტი",
+    "მეცნიერებები",
+    "ინჟინერია",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم الإنسانية",
+    "القانون",
+    "الاقتصاد والإدارة",
+    "العلوم",
+    "الهندسة",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in the Paris region. First-year licence applicants use Parcoursup; non-EU students new to France are sent to the international mobility office. Fees and deadlines were not readable.",
+   "ka": "სახელმწიფო უნივერსიტეტი პარიზის რეგიონში. L1-ზე განმცხადებლები იყენებენ Parcoursup-ს; საფრანგეთში ახალი არა-ევროკავშირის სტუდენტები საერთაშორისო მობილობის ოფისში მიიმართებიან. საფასური და ვადები წაკითხვადი არ იყო.",
+   "ar": "جامعة حكومية في منطقة باريس. يستخدم المتقدمون للسنة الأولى من الليسانس منصة Parcoursup، ويُوجَّه الطلاب من خارج الاتحاد الأوروبي الجدد على فرنسا إلى مكتب التنقل الدولي. لم تكن الرسوم والمواعيد مقروءة."
+  },
+  "about": {
+   "en": "CY Cergy Paris University is a public university in the Paris region (Cergy and Pontoise). First-year licence (bachelor) applicants apply through Parcoursup; second- and third-year entrants use e-Candidat. Non-EU nationals never enrolled in French or European higher education are directed to the international training and mobility department. The pages read did not give licence deadlines, French-level requirements or non-EU tuition; contact +33 1 34 25 60 00.",
+   "ka": "CY Cergy Paris University სახელმწიფო უნივერსიტეტია პარიზის რეგიონში (სერჟი და პონტუაზი). ლისანსის (ბაკალავრიატის) პირველ კურსზე განმცხადებლები იყენებენ Parcoursup-ს; მეორე და მესამე კურსზე e-Candidat-ს. არა-ევროკავშირის მოქალაქეები, რომლებიც საფრანგეთის ან ევროპის უმაღლეს განათლებაში არასოდეს სწავლობდნენ, საერთაშორისო სასწავლო და მობილობის დეპარტამენტში მიიმართებიან. წაკითხულ გვერდებზე ლისანსის ვადები, ფრანგულის დონის მოთხოვნა და არა-ევროკავშირელებისთვის საფასური არ იყო; დარეკეთ +33 1 34 25 60 00.",
+   "ar": "جامعة سيرجي باريس جامعة حكومية في منطقة باريس (سيرجي وبونتواز). يتقدم الراغبون في السنة الأولى من الليسانس (البكالوريوس) عبر Parcoursup، ويستخدم الداخلون إلى السنتين الثانية والثالثة e-Candidat. يُوجَّه مواطنو الدول غير الأوروبية الذين لم يدرسوا من قبل في التعليم العالي الفرنسي أو الأوروبي إلى إدارة التكوين والتنقل الدولي. لم تذكر الصفحات المقروءة مواعيد الليسانس أو مستوى الفرنسية المطلوب أو رسوم غير الأوروبيين؛ اتصل بالرقم +33 1 34 25 60 00."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Not verified. Check the university's international admissions page.",
+   "ka": "არ არის გადამოწმებული. იხილეთ უნივერსიტეტის საერთაშორისო მიღების გვერდი.",
+   "ar": "لم يتم التحقق. راجع صفحة القبول الدولي في الجامعة."
+  },
+  "gpa_note": {
+   "en": "Not verified. Academic requirements were not published on the pages we could read.",
+   "ka": "არ არის გადამოწმებული. აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ იყო გამოქვეყნებული.",
+   "ar": "لم يتم التحقق. لم تُنشر الشروط الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "სასკოლო ატესტატის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of language of instruction",
+     "ka": "სწავლების ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان لغة التدريس"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign school certificate",
+     "ka": "უცხოური ატესტატის აღიარება",
+     "ar": "معادلة الشهادة الأجنبية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "paris",
+   "cergy",
+   "parcoursup"
+  ],
+  "sources": [
+   "https://www.cyu.fr/en",
+   "https://www.cyu.fr/formation/candidater-s-inscrire/candidatures",
+   "https://www.cyu.fr/en/international/accueil"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "dhofar-university",
+  "name": {
+   "en": "Dhofar University",
+   "ka": "Dhofar University",
+   "ar": "جامعة ظفار"
+  },
+  "iso": "OM",
+  "city": "Salalah",
+  "lat": 17.004,
+  "lon": 54.124,
+  "type": "private",
+  "website": "https://www.du.edu.om",
+  "platform": "Direct (online admission portal)",
+  "application_url": "https://www.du.edu.om/application-procedure/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No application deadline is published on the pages read; see the 2026-2027 academic calendar.",
+  "tuition_intl": {
+   "amount": 70,
+   "currency": "OMR",
+   "per": "credit hour",
+   "note": "70 OMR per credit hour for day programmes; no separate rate for international students is listed; a bachelor is usually 120 or more credit hours."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Arabic"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A general education certificate or equivalent is required; certificates issued outside Oman or by international schools must be certified by the Omani Ministry of Education.",
+   "ka": "საჭიროა ზოგადი განათლების სერტიფიკატი ან ექვივალენტი; ომანის გარეთ ან საერთაშორისო სკოლებში გაცემული სერტიფიკატები ომანის განათლების სამინისტრომ უნდა დაამოწმოს.",
+   "ar": "يلزم شهادة تعليم عام أو ما يعادلها؛ ويجب أن تصدق وزارة التربية والتعليم العمانية الشهادات الصادرة خارج عمان أو من مدارس دولية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Placement tests (English, Maths, IT)",
+   "ICDL (IT exemption)"
+  ],
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science",
+   "law",
+   "arts-design",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Information technology",
+    "Law",
+    "Mass communication"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "საინფორმაციო ტექნოლოგიები",
+    "სამართალი",
+    "მასობრივი კომუნიკაცია"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "تقنية المعلومات",
+    "القانون",
+    "الإعلام"
+   ]
+  },
+  "summary": {
+   "en": "A private university in Salalah, Oman. Tuition is 70 OMR per credit hour, and new students sit placement tests in English, Maths and IT.",
+   "ka": "კერძო უნივერსიტეტი სალალაში, ომანი. სწავლის საფასურია 70 ომანური რიალი კრედიტზე, ახალი სტუდენტები კი ინგლისურში, მათემატიკასა და IT-ში განმსაზღვრელ ტესტებს აბარებენ.",
+   "ar": "جامعة خاصة في صلالة بسلطنة عمان. الرسوم 70 ريالاً عمانياً للساعة المعتمدة، ويجري الطلاب الجدد اختبارات تحديد مستوى في الإنجليزية والرياضيات وتقنية المعلومات."
+  },
+  "about": {
+   "en": "Dhofar University is a private university in Salalah, Oman. Admission needs a general education certificate (foreign certificates attested by the Omani Ministry of Education) and placement tests in English, Maths and IT; weaker students first join the Centre for Preparatory Studies. Exemptions apply for IELTS writing 5.0 or SAT verbal 500 (English) and SAT maths 500 (Maths). Tuition is 70 OMR per credit hour; a bachelor usually has 120 or more credit hours. Deadlines and the application fee are not published on the pages read.",
+   "ka": "ზოფარის უნივერსიტეტი კერძო უნივერსიტეტია სალალაში, ომანი. მისაღებად საჭიროა ზოგადი განათლების სერტიფიკატი (უცხოური სერტიფიკატები ომანის განათლების სამინისტროს უნდა დაუმოწმდეს) და ინგლისურის, მათემატიკისა და IT-ის განმსაზღვრელი ტესტები; სუსტი სტუდენტები ჯერ მოსამზადებელ ცენტრში სწავლობენ. გათავისუფლება შესაძლებელია IELTS წერა 5.0 ან SAT ვერბალური 500 (ინგლისური) და SAT მათემატიკა 500 (მათემატიკა). საფასური 70 ომანური რიალია კრედიტზე; ბაკალავრიატს ჩვეულებრივ 120 ან მეტი კრედიტი აქვს. ვადები და სააპლიკაციო გადასახადი წაკითხულ გვერდებზე გამოქვეყნებული არ არის.",
+   "ar": "جامعة ظفار جامعة خاصة في صلالة بسلطنة عمان. يتطلب القبول شهادة تعليم عام (تُصدَّق الشهادات الأجنبية من وزارة التربية والتعليم العمانية) واختبارات تحديد مستوى في الإنجليزية والرياضيات وتقنية المعلومات؛ ويلتحق الطلاب الأضعف أولاً بمركز الدراسات التحضيرية. تتوفر إعفاءات بدرجة IELTS كتابة 5.0 أو SAT لفظي 500 (الإنجليزية) وSAT رياضيات 500 (الرياضيات). الرسوم 70 ريالاً عمانياً للساعة المعتمدة، وغالباً ما يضم البكالوريوس 120 ساعة أو أكثر. لم تُنشر المواعيد ورسوم التقديم في الصفحات المقروءة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Placement tests in English, Maths and IT; exemptions with IELTS writing 5.0 (7.0 exempts Freshman English), SAT verbal 500, SAT maths 500 or ICDL.",
+   "ka": "განმსაზღვრელი ტესტები ინგლისურში, მათემატიკასა და IT-ში; გათავისუფლება IELTS წერა 5.0-ით (7.0 ათავისუფლებს პირველი კურსის ინგლისურისგან), SAT ვერბალური 500, SAT მათემატიკა 500 ან ICDL-ით.",
+   "ar": "اختبارات تحديد مستوى في الإنجليزية والرياضيات وتقنية المعلومات؛ وتتوفر إعفاءات بـ IELTS كتابة 5.0 (و7.0 يعفي من إنجليزية السنة الأولى) أو SAT لفظي 500 أو SAT رياضيات 500 أو ICDL."
+  },
+  "gpa_note": {
+   "en": "Some colleges set extra requirements for specific programmes, listed in the university catalogue.",
+   "ka": "ზოგ კოლეჯს კონკრეტულ პროგრამებზე დამატებითი მოთხოვნები აქვს, რომლებიც უნივერსიტეტის კატალოგშია.",
+   "ar": "تضع بعض الكليات شروطاً إضافية لبرامج محددة مذكورة في دليل الجامعة."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Photo",
+     "ka": "ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign school certificate",
+     "ka": "უცხოური ატესტატის აღიარება",
+     "ar": "معادلة الشهادة الأجنبية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "oman",
+   "salalah",
+   "dhofar",
+   "private"
+  ],
+  "sources": [
+   "https://www.du.edu.om/admission-requirements/",
+   "https://www.du.edu.om/fees-and-expenses/",
+   "https://www.du.edu.om/application-procedure/",
+   "https://www.du.edu.om/international-students/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "effat-university",
+  "name": {
+   "en": "Effat University",
+   "ka": "ეფათის უნივერსიტეტი",
+   "ar": "جامعة عفت"
+  },
+  "iso": "SA",
+  "city": "Jeddah",
+  "lat": 21.553,
+  "lon": 39.159,
+  "type": "private",
+  "website": "https://www.effatuniversity.edu.sa",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No admissions information could be read from the official site, so no deadline is given.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Arabic"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not verified: no official admissions data could be read.",
+   "ka": "არ არის გადამოწმებული: ოფიციალური მიღების მონაცემები ვერ წაიკითხა.",
+   "ar": "لم يتم التحقق: تعذرت قراءة بيانات القبول الرسمية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "business",
+   "computer-science",
+   "arts-design",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business",
+    "Computer science",
+    "Architecture and design",
+    "Psychology"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი",
+    "კომპიუტერული მეცნიერება",
+    "არქიტექტურა და დიზაინი",
+    "ფსიქოლოგია"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال",
+    "علوم الحاسوب",
+    "العمارة والتصميم",
+    "علم النفس"
+   ]
+  },
+  "summary": {
+   "en": "A private university for women in Jeddah, Saudi Arabia. Its website refused our connection, so admission, fee and deadline data could not be verified.",
+   "ka": "კერძო უნივერსიტეტი ქალებისთვის ჯიდაში, საუდის არაბეთი. საიტმა კავშირი უარყო, ამიტომ მიღების, საფასურისა და ვადების მონაცემები ვერ გადამოწმდა.",
+   "ar": "جامعة خاصة للنساء في جدة بالمملكة العربية السعودية. رفض موقعها الاتصال، لذا تعذر التحقق من بيانات القبول والرسوم والمواعيد."
+  },
+  "about": {
+   "en": "Effat University is a private university for women in Jeddah, Saudi Arabia. We could not open its website, so intakes, deadlines, tuition, scholarships and accepted school qualifications are not confirmed. Contact the admissions office before applying.",
+   "ka": "ეფათის უნივერსიტეტი კერძო უნივერსიტეტია ქალებისთვის ჯიდაში, საუდის არაბეთი. საიტი ვერ გავხსენით, ამიტომ მიღებები, ვადები, საფასური, სტიპენდიები და მისაღები სასკოლო კვალიფიკაციები დადასტურებული არ არის. განაცხადამდე დაუკავშირდით მიღების ოფისს.",
+   "ar": "جامعة عفت جامعة خاصة للنساء في جدة بالمملكة العربية السعودية. لم نتمكن من فتح موقعها، لذا لم تُؤكَّد مواعيد القبول والرسوم والمنح والمؤهلات المدرسية المقبولة. تواصل مع مكتب القبول قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Not verified. Check the university's international admissions page.",
+   "ka": "არ არის გადამოწმებული. იხილეთ უნივერსიტეტის საერთაშორისო მიღების გვერდი.",
+   "ar": "لم يتم التحقق. راجع صفحة القبول الدولي في الجامعة."
+  },
+  "gpa_note": {
+   "en": "Not verified. Academic requirements were not published on the pages we could read.",
+   "ka": "არ არის გადამოწმებული. აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ იყო გამოქვეყნებული.",
+   "ar": "لم يتم التحقق. لم تُنشر الشروط الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "სასკოლო ატესტატის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of financial support",
+     "ka": "ფინანსური უზრუნველყოფის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات القدرة المالية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "saudi arabia",
+   "jeddah",
+   "women",
+   "private"
+  ],
+  "sources": [
+   "https://www.effatuniversity.edu.sa"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "escuela-superior-politecnica-del-litoral-espol",
+  "name": {
+   "en": "Escuela Superior Politécnica del Litoral (ESPOL)",
+   "ka": "ლიტორალის უმაღლესი პოლიტექნიკური სკოლა (ESPOL)",
+   "ar": "المدرسة العليا للبوليتكنيك في ليتورال (ESPOL)"
+  },
+  "iso": "EC",
+  "city": "Guayaquil",
+  "lat": -2.147,
+  "lon": -79.967,
+  "type": "public",
+  "website": "https://www.espol.edu.ec",
+  "platform": "National Registro Único + ESPOL entrance exam",
+  "application_url": "https://www.espol.edu.ec/es/admision/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No admissions information could be read from the official site, so no deadline is given.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not verified: no official admissions data could be read.",
+   "ka": "არ არის გადამოწმებული: ოფიციალური მიღების მონაცემები ვერ წაიკითხა.",
+   "ar": "لم يتم التحقق: تعذرت قراءة بيانات القبول الرسمية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "ESPOL entrance exam"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "business",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Marine and earth sciences",
+    "Business",
+    "Natural sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "საზღვაო და დედამიწის მეცნიერებები",
+    "ბიზნესი",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "علوم البحار والأرض",
+    "الأعمال",
+    "العلوم الطبيعية"
+   ]
+  },
+  "summary": {
+   "en": "A public polytechnic university in Guayaquil, Ecuador, teaching in Spanish. Domestic access runs through the national Registro Único and an entrance exam; rules for foreign applicants were not published.",
+   "ka": "სახელმწიფო პოლიტექნიკური უნივერსიტეტი გუაიაკილში, ეკვადორი, სწავლება ესპანურად. ადგილობრივი მიღება ეროვნული Registro Único-თი და მისაღები გამოცდით ხდება; უცხოელი აპლიკანტების წესები გამოქვეყნებული არ არის.",
+   "ar": "جامعة بوليتكنيك حكومية في غواياكيل بالإكوادور، التدريس فيها بالإسبانية. يتم القبول المحلي عبر السجل الموحد الوطني Registro Único وامتحان قبول؛ ولم تُنشر قواعد المتقدمين الأجانب."
+  },
+  "about": {
+   "en": "ESPOL is a public polytechnic university in Guayaquil, Ecuador. Its admission page says applicants must register in the national Registro Único and there is an entrance exam; the foundation (levelling) course for the 2026 intake starts on 5 October 2026. Nothing is published there about foreign applicants, tuition or language requirements, so contact Admisiones (+593 4 3708 000).",
+   "ka": "ESPOL სახელმწიფო პოლიტექნიკური უნივერსიტეტია გუაიაკილში, ეკვადორი. მიღების გვერდის თანახმად, აპლიკანტებმა ეროვნულ Registro Único-ში უნდა დარეგისტრირდნენ და არსებობს მისაღები გამოცდა; 2026 წლის მიღების მოსამზადებელი (გასათანაბრებელი) კურსი 2026 წლის 5 ოქტომბერს იწყება. უცხოელი აპლიკანტების, საფასურისა და ენობრივი მოთხოვნების შესახებ ინფორმაცია იქ გამოქვეყნებული არ არის, ამიტომ დაუკავშირდით Admisiones-ს (+593 4 3708 000).",
+   "ar": "ESPOL جامعة بوليتكنيك حكومية في غواياكيل بالإكوادور. تذكر صفحة القبول أن على المتقدمين التسجيل في السجل الموحد الوطني Registro Único وأن هناك امتحان قبول؛ ويبدأ المقرر التمهيدي لدفعة 2026 في 5 أكتوبر 2026. لا يُنشر هناك شيء عن المتقدمين الأجانب أو الرسوم أو متطلبات اللغة، لذا تواصل مع قسم القبول (+593 4 3708 000)."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منحة مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Not verified. Check the university's international admissions page.",
+   "ka": "არ არის გადამოწმებული. იხილეთ უნივერსიტეტის საერთაშორისო მიღების გვერდი.",
+   "ar": "لم يتم التحقق. راجع صفحة القبول الدولي في الجامعة."
+  },
+  "gpa_note": {
+   "en": "Not verified. Academic requirements were not published on the pages we could read.",
+   "ka": "არ არის გადამოწმებული. აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ იყო გამოქვეყნებული.",
+   "ar": "لم يتم التحقق. لم تُنشر الشروط الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დიპლომი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "სასკოლო ატესტატის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of language of instruction",
+     "ka": "სწავლების ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان لغة التدريس"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "ecuador",
+   "guayaquil",
+   "polytechnic",
+   "spanish"
+  ],
+  "sources": [
+   "https://www.espol.edu.ec",
+   "https://www.espol.edu.ec/es/admision/"
+  ],
+  "verified_at": "2026-11-01"
+ }
+]

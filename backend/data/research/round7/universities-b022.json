@@ -688,5 +688,1235 @@
    "https://study.cqu.edu.cn"
   ],
   "verified_at": "2026-11-01"
+ },
+ {
+  "id": "vilnius-university",
+  "name": {
+   "en": "Vilnius University",
+   "ka": "ვილნიუსის უნივერსიტეტი",
+   "ar": "جامعة فيلنيوس"
+  },
+  "iso": "LT",
+  "city": "Vilnius",
+  "lat": 54.683,
+  "lon": 25.287,
+  "type": "public",
+  "website": "https://www.vu.lt",
+  "platform": "Direct (apply.vu.lt)",
+  "application_url": "https://www.vu.lt/en/admissions/admissions-to-bachelor-studies",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-05-01",
+  "deadline_note": "1 May is the deadline for non-EU/EFTA applicants to English-taught bachelor programmes (one intake a year, studies start 1 September); EU/EFTA citizens have until 1 July. Dates are as shown on the programme pages; the main page loads the 2027 date by script.",
+  "tuition_intl": {
+   "amount": 3660,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Non-state-funded place, set per programme: 3,660 (Economics and Finance), 4,350 (Business and Finance), 4,500 (Bioinformatics), 6,000 (Nursing), 15,000 (Dentistry). Application fee 100 EUR."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Lithuanian"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Georgia: the General Education Diploma plus Unified National Exam results (or one year of post-secondary study); if exams were not passed, the university may set its own test. A-level: at least 2 subjects passed, minimum grade D. IB Diploma accepted. US diploma needs SAT, ACT or AP results, or one year of college. Qatar is not listed, so the general rule applies: proof of completed secondary education. No more than 5 years since the qualification.",
+   "ka": "საქართველო: სრული ზოგადი განათლების ატესტატი და ერთიანი ეროვნული გამოცდების შედეგები (ან ერთი წლის პოსტსაშუალო სწავლა); თუ გამოცდები არ არის ჩაბარებული, უნივერსიტეტმა შეიძლება საკუთარი ტესტი დანიშნოს. A-level: მინიმუმ 2 საგანი ჩაბარებული, მინიმალური შეფასება D. IB დიპლომი მიიღება. აშშ-ის დიპლომს სჭირდება SAT, ACT ან AP შედეგები, ან კოლეჯის ერთი წელი. კატარი ჩამონათვალში არ არის, ამიტომ მოქმედებს ზოგადი წესი: საშუალო განათლების დასრულების დამადასტურებელი დოკუმენტი. კვალიფიკაციის მიღებიდან 5 წელზე მეტი არ უნდა იყოს გასული.",
+   "ar": "جورجيا: شهادة التعليم العام الكامل مع نتائج الامتحانات الوطنية الموحدة (أو سنة دراسة بعد الثانوية)؛ وإن لم تُجتز الامتحانات فقد تجري الجامعة اختباراً خاصاً. A-level: اجتياز مادتين على الأقل بتقدير D كحد أدنى. شهادة IB مقبولة. الدبلوم الأمريكي يحتاج إلى نتائج SAT أو ACT أو AP أو سنة جامعية. قطر غير مدرجة في القائمة فتنطبق القاعدة العامة: إثبات إكمال التعليم الثانوي. ويجب ألا تتجاوز المدة منذ الحصول على المؤهل 5 سنوات."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": 105,
+  "other_tests": [
+   "Faculty entrance exam or assessment (some programmes)"
+  ],
+  "fields": [
+   "medicine-health",
+   "economics",
+   "business",
+   "natural-sciences",
+   "humanities",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine and dentistry",
+    "Economics and business",
+    "Bioinformatics and data analytics",
+    "Philology and languages",
+    "Chemistry"
+   ],
+   "ka": [
+    "მედიცინა და სტომატოლოგია",
+    "ეკონომიკა და ბიზნესი",
+    "ბიოინფორმატიკა და მონაცემთა ანალიტიკა",
+    "ფილოლოგია და ენები",
+    "ქიმია"
+   ],
+   "ar": [
+    "الطب وطب الأسنان",
+    "الاقتصاد والأعمال",
+    "المعلوماتية الحيوية وتحليل البيانات",
+    "فقه اللغة واللغات",
+    "الكيمياء"
+   ]
+  },
+  "summary": {
+   "en": "Vilnius University is Lithuania's oldest and largest university, with English-taught bachelor programmes for non-EU students. Fees start at 3,660 EUR a year and the non-EU deadline is 1 May.",
+   "ka": "ვილნიუსის უნივერსიტეტი ლიეტუვის უძველესი და უდიდესი უნივერსიტეტია, სადაც არა-ევროკავშირელებისთვის ინგლისურენოვანი საბაკალავრო პროგრამებია. სწავლის საფასური წელიწადში 3 660 ევროდან იწყება, ხოლო არა-ევროკავშირელებისთვის ვადაა 1 მაისი.",
+   "ar": "جامعة فيلنيوس أقدم جامعات ليتوانيا وأكبرها، وتقدم برامج بكالوريوس بالإنجليزية للطلاب من خارج الاتحاد الأوروبي. تبدأ الرسوم من 3,660 يورو سنوياً والموعد النهائي لغير الأوروبيين هو 1 مايو."
+  },
+  "about": {
+   "en": "Vilnius University is in the capital of Lithuania. Non-EU applicants apply once a year on apply.vu.lt, choosing up to three programmes, and pay a 100 EUR application fee through Flywire. The university checks the school documents for recognition within about 30 working days. Admitted students pay the first year's tuition within 15 days of the offer. English-taught bachelor fees run from 3,660 EUR (Economics and Finance) to 15,000 EUR (Dentistry), and studies start on 1 September.",
+   "ka": "ვილნიუსის უნივერსიტეტი ლიეტუვის დედაქალაქშია. არა-ევროკავშირელი აპლიკანტები წელიწადში ერთხელ აგზავნიან განაცხადს apply.vu.lt-ზე, ირჩევენ მაქსიმუმ სამ პროგრამას და Flywire-ის მეშვეობით იხდიან 100 ევროს სააპლიკაციო საფასურს. უნივერსიტეტი სასკოლო დოკუმენტების აღიარებას დაახლოებით 30 სამუშაო დღეში ამოწმებს. ჩარიცხულები პირველი წლის სწავლის საფასურს შეთავაზებიდან 15 დღეში იხდიან. ინგლისურენოვანი საბაკალავრო პროგრამების საფასური 3 660 ევროდან (ეკონომიკა და ფინანსები) 15 000 ევრომდეა (სტომატოლოგია), სწავლა კი 1 სექტემბერს იწყება.",
+   "ar": "تقع جامعة فيلنيوس في عاصمة ليتوانيا. يتقدم المتقدمون من خارج الاتحاد الأوروبي مرة واحدة في السنة عبر apply.vu.lt مع اختيار ثلاثة برامج كحد أقصى ودفع رسوم تقديم 100 يورو عبر Flywire. تفحص الجامعة الوثائق المدرسية للاعتراف بها خلال نحو 30 يوم عمل. يدفع المقبولون رسوم السنة الأولى خلال 15 يوماً من العرض. تتراوح رسوم برامج البكالوريوس بالإنجليزية بين 3,660 يورو (الاقتصاد والمالية) و15,000 يورو (طب الأسنان) وتبدأ الدراسة في 1 سبتمبر."
+  },
+  "aid_intl": {
+   "en": "State-funded places are mostly for Lithuanian and EU/EFTA citizens; for non-state-funded places, the top 5 percent of admitted students can get a 25 to 100 percent semester fee reduction based on grades.",
+   "ka": "სახელმწიფო დაფინანსებული ადგილები ძირითადად ლიეტუველებისა და ევროკავშირის/EFTA-ს მოქალაქეებისთვისაა; არადაფინანსებულ ადგილებზე ჩარიცხულთა საუკეთესო 5%-ს შეუძლია მიიღოს სემესტრის საფასურის 25-100%-იანი შემცირება აკადემიური შედეგების მიხედვით.",
+   "ar": "المقاعد الممولة من الدولة مخصصة غالباً للمواطنين الليتوانيين ومواطني الاتحاد الأوروبي وEFTA؛ أما في المقاعد غير الممولة فيمكن لأفضل 5 بالمئة من المقبولين الحصول على تخفيض 25 إلى 100 بالمئة من رسوم الفصل بحسب نتائجهم."
+  },
+  "tests": {
+   "en": "English proof is needed: IELTS Academic 6.0 or Duolingo 105 for most bachelor programmes (some programmes ask IELTS 6.5, Duolingo 120). Some faculties set their own entrance exam or assessment.",
+   "ka": "საჭიროა ინგლისურის დამადასტურებელი: უმეტეს საბაკალავრო პროგრამაზე IELTS Academic 6.0 ან Duolingo 105 (ზოგ პროგრამაზე IELTS 6.5, Duolingo 120). ზოგი ფაკულტეტი საკუთარ მისაღებ გამოცდას ან შეფასებას ადგენს.",
+   "ar": "يلزم إثبات اللغة الإنجليزية: IELTS Academic 6.0 أو Duolingo 105 لمعظم برامج البكالوريوس (وبعض البرامج تطلب IELTS 6.5 وDuolingo 120). وتجري بعض الكليات امتحان قبول أو تقييماً خاصاً بها."
+  },
+  "gpa_note": {
+   "en": "Selection uses school grades, the motivation letter, English results and programme-specific requirements; no cut-off score is published.",
+   "ka": "შერჩევა ეფუძნება სკოლის ნიშნებს, სამოტივაციო წერილს, ინგლისურის შედეგებს და პროგრამის სპეციფიკურ მოთხოვნებს; ზღვრული ქულა გამოქვეყნებული არ არის.",
+   "ar": "يعتمد الاختيار على درجات المدرسة ورسالة الدافع ونتائج اللغة الإنجليزية ومتطلبات كل برنامج؛ ولا تُنشر درجة قبول دنيا."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Official academic transcripts",
+     "ka": "ოფიციალური აკადემიური ნიშნების ცხრილი",
+     "ar": "كشوف الدرجات الأكاديمية الرسمية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate (graduates expected to finish: expected-graduation certificate)",
+     "ka": "საშუალო განათლების ატესტატი (მომავალი კურსდამთავრებლებისთვის — დამთავრების მოსალოდნელი თარიღის ცნობა)",
+     "ar": "شهادة إنهاء الدراسة الثانوية (أو شهادة تخرج متوقع للطلاب الذين لم يتخرجوا بعد)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or ID copy",
+     "ka": "პასპორტის ან პირადობის ასლი",
+     "ar": "صورة جواز السفر أو الهوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency certificate",
+     "ka": "ინგლისური ენის დამადასტურებელი სერტიფიკატი",
+     "ar": "شهادة إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Motivation letter (1,200-4,000 characters)",
+     "ka": "სამოტივაციო წერილი (1 200-4 000 სიმბოლო)",
+     "ar": "رسالة دافع (1,200-4,000 حرف)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee: 100 EUR (non-refundable)",
+     "ka": "სააპლიკაციო საფასური: 100 ევრო (არ ბრუნდება)",
+     "ar": "رسوم التقديم: 100 يورو (غير مستردة)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Academic recognition of school documents (done by the university)",
+     "ka": "სასკოლო დოკუმენტების აკადემიური აღიარება (ატარებს უნივერსიტეტი)",
+     "ar": "الاعتراف الأكاديمي بالوثائق المدرسية (تجريه الجامعة)"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Faculty entrance exam (some programmes only)",
+     "ka": "ფაკულტეტის მისაღები გამოცდა (მხოლოდ ზოგ პროგრამაზე)",
+     "ar": "امتحان قبول الكلية (لبعض البرامج فقط)"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Tuition fee waiver for the top 5% of admitted non-state-funded students",
+    "url": "https://www.vu.lt/en/studies/bachelor-studies/economics-and-finance",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "lithuania",
+   "vilnius",
+   "baltic",
+   "english-taught",
+   "low tuition",
+   "eu"
+  ],
+  "sources": [
+   "https://www.vu.lt/en/admissions/admissions-to-bachelor-studies",
+   "https://www.vu.lt/en/required-attachments",
+   "https://www.vu.lt/en/language-skills",
+   "https://www.vu.lt/en/studies/bachelor-studies/economics-and-finance",
+   "https://www.vu.lt/en/studies/bachelor-studies/business-finance"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "kazan-volga-region-federal-university",
+  "name": {
+   "en": "Kazan (Volga region) Federal University",
+   "ka": "ყაზანის (ვოლგისპირეთის) ფედერალური უნივერსიტეტი",
+   "ar": "جامعة قازان (إقليم الفولغا) الفيدرالية"
+  },
+  "iso": "RU",
+  "city": "Kazan",
+  "lat": 55.79,
+  "lon": 49.122,
+  "type": "public",
+  "website": "https://kpfu.ru",
+  "platform": "Direct (KFU admissions portal, admissions.kpfu.ru)",
+  "application_url": "https://eng.kpfu.ru/bachelor-specialist/step-1-applying/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "No 2027 deadline is published yet. The latest entrance-exam windows listed were 23-30 June and 16-23 July 2025; applicants from visa countries and visa-free countries have separate schedules.",
+  "tuition_intl": {
+   "amount": 379452,
+   "currency": "RUB",
+   "per": "year",
+   "note": "English-taught bachelor programmes: Software Engineering 379,452; International Business 396,000. Medicine and dentistry (specialist) 653,400. Fees for Russian-taught programmes are in a 2026 PDF that could not be read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Foreign school documents that fall under Russia's international agreements are valid as they are; others need academic recognition (by the national agency or by KFU itself). Documents need a notarized Russian translation and the legalization set for the issuing country. The pages checked do not list individual countries.",
+   "ka": "უცხოური სასკოლო დოკუმენტები, რომლებზეც რუსეთის საერთაშორისო ხელშეკრულებები ვრცელდება, ძალაშია უცვლელად; დანარჩენს სჭირდება აკადემიური აღიარება (ეროვნული სააგენტოს ან თავად KFU-ს მიერ). დოკუმენტებს სჭირდება რუსულად ნოტარიულად დამოწმებული თარგმანი და გამცემი ქვეყნისთვის დადგენილი ლეგალიზაცია. შემოწმებულ გვერდებზე ცალკეული ქვეყნები ჩამოთვლილი არ არის.",
+   "ar": "الوثائق المدرسية الأجنبية الخاضعة للاتفاقيات الدولية لروسيا صالحة كما هي؛ أما غيرها فتحتاج إلى اعتراف أكاديمي (من الوكالة الوطنية أو من الجامعة نفسها). تحتاج الوثائق إلى ترجمة روسية موثقة وإلى التصديق المحدد لبلد الإصدار. لا تذكر الصفحات التي جرى فحصها بلداناً بعينها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "KFU internal entrance exams"
+  ],
+  "fields": [
+   "natural-sciences",
+   "medicine-health",
+   "computer-science",
+   "engineering",
+   "humanities",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Petroleum engineering and geology",
+    "Software engineering",
+    "Chemistry and physics",
+    "Philology and languages"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ნავთობის ინჟინერია და გეოლოგია",
+    "პროგრამული ინჟინერია",
+    "ქიმია და ფიზიკა",
+    "ფილოლოგია და ენები"
+   ],
+   "ar": [
+    "الطب",
+    "هندسة النفط والجيولوجيا",
+    "هندسة البرمجيات",
+    "الكيمياء والفيزياء",
+    "فقه اللغة واللغات"
+   ]
+  },
+  "summary": {
+   "en": "Kazan Federal University is a large public university in Tatarstan, Russia. Most bachelor programmes are in Russian; a few, such as Software Engineering and International Business, are in English for about 380,000 to 396,000 RUB a year.",
+   "ka": "ყაზანის ფედერალური უნივერსიტეტი რუსეთის ტატარსტანში მდებარე დიდი სახელმწიფო უნივერსიტეტია. საბაკალავრო პროგრამების უმეტესობა რუსულია; რამდენიმე, მაგალითად პროგრამული ინჟინერია და საერთაშორისო ბიზნესი, ინგლისურადაა და წელიწადში დაახლოებით 380 000-396 000 რუბლი ღირს.",
+   "ar": "جامعة قازان الفيدرالية جامعة حكومية كبيرة في تتارستان بروسيا. معظم برامج البكالوريوس بالروسية، وبعضها مثل هندسة البرمجيات والأعمال الدولية بالإنجليزية بنحو 380,000 إلى 396,000 روبل سنوياً."
+  },
+  "about": {
+   "en": "KFU is in Kazan, the capital of Tatarstan, and has institutes in other cities. International applicants sit the university's own entrance exams, mostly online with camera supervision; medicine, dentistry and pharmacy exams are held in person in Kazan. Most programmes are taught in Russian, with a few in English. Applicants from visa countries are admitted to paid places on general terms for foreign citizens. The student visa invitation is ready about 45 days after the enrolment order.",
+   "ka": "KFU ყაზანშია, ტატარსტანის დედაქალაქში, და სხვა ქალაქებშიც აქვს ინსტიტუტები. საერთაშორისო აპლიკანტები აბარებენ უნივერსიტეტის საკუთარ მისაღებ გამოცდებს, უმეტესად ონლაინ, კამერით ზედამხედველობით; მედიცინის, სტომატოლოგიისა და ფარმაციის გამოცდები ყაზანში ტარდება პირადად. პროგრამების უმეტესობა რუსულია, რამდენიმე — ინგლისური. სავიზო ქვეყნების აპლიკანტები ფასიან ადგილებზე ირიცხებიან უცხო ქვეყნის მოქალაქეებისთვის დადგენილი ზოგადი პირობებით. სტუდენტური ვიზის მოსაწვევი ჩარიცხვის ბრძანებიდან დაახლოებით 45 დღეში მზად არის.",
+   "ar": "تقع الجامعة في قازان عاصمة تتارستان ولها معاهد في مدن أخرى. يؤدي المتقدمون الدوليون امتحانات القبول الخاصة بالجامعة، ومعظمها عبر الإنترنت بمراقبة الكاميرا؛ أما امتحانات الطب وطب الأسنان والصيدلة فتُجرى حضورياً في قازان. معظم البرامج بالروسية وقليل منها بالإنجليزية. يُقبل المتقدمون من البلدان التي تتطلب تأشيرة في مقاعد مدفوعة بالشروط العامة للأجانب. يكون خطاب الدعوة لتأشيرة الطالب جاهزاً بعد نحو 45 يوماً من أمر التسجيل."
+  },
+  "aid_intl": {
+   "en": "Foreign citizens can study free of charge on Russian government quota places (15,000 a year, under Resolution No. 891); the university says English-taught programmes are not covered by scholarships.",
+   "ka": "უცხო ქვეყნის მოქალაქეებს შეუძლიათ უფასოდ ისწავლონ რუსეთის მთავრობის კვოტის ადგილებზე (წელიწადში 15 000, დადგენილება №891); უნივერსიტეტის თქმით, ინგლისურენოვან პროგრამებზე სტიპენდია არ ვრცელდება.",
+   "ar": "يمكن للمواطنين الأجانب الدراسة مجاناً على مقاعد الحصة الحكومية الروسية (15,000 سنوياً بموجب القرار رقم 891)؛ وتذكر الجامعة أن البرامج بالإنجليزية لا تشملها المنح."
+  },
+  "tests": {
+   "en": "Applicants take KFU's own entrance exams (level of the Russian Unified State Exam) in subjects such as maths, Russian, English, physics and biology, once only. The pages checked do not name a language certificate.",
+   "ka": "აპლიკანტები აბარებენ KFU-ს საკუთარ მისაღებ გამოცდებს (რუსეთის ერთიანი სახელმწიფო გამოცდის დონის) მათემატიკაში, რუსულში, ინგლისურში, ფიზიკასა და ბიოლოგიაში და სხვა საგნებში, მხოლოდ ერთხელ. შემოწმებულ გვერდებზე ენის სერტიფიკატი დასახელებული არ არის.",
+   "ar": "يؤدي المتقدمون امتحانات القبول الخاصة بالجامعة (بمستوى الامتحان الحكومي الروسي الموحد) في مواد مثل الرياضيات والروسية والإنجليزية والفيزياء والأحياء، ولمرة واحدة فقط. ولا تسمّي الصفحات التي جرى فحصها شهادة لغة."
+  },
+  "gpa_note": {
+   "en": "No minimum school grade is published; paid-contract places need a minimum exam score, listed in a yearly PDF.",
+   "ka": "სკოლის მინიმალური ნიშანი გამოქვეყნებული არ არის; ფასიანი კონტრაქტის ადგილებზე საჭიროა გამოცდის მინიმალური ქულა, რომელიც ყოველწლიურ PDF-შია.",
+   "ar": "لا يُنشر حد أدنى لدرجات المدرسة؛ وتتطلب المقاعد المدفوعة حداً أدنى لدرجة الامتحان مدرجاً في ملف PDF سنوي."
+  },
+  "requirements": [
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "KFU internal entrance exams (online with proctoring; medicine in person)",
+     "ka": "KFU-ს შიდა მისაღები გამოცდები (ონლაინ ზედამხედველობით; მედიცინა — პირადად)",
+     "ar": "امتحانات القبول الداخلية للجامعة (عبر الإنترنت بمراقبة؛ الطب حضورياً)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School certificate with notarized Russian translation",
+     "ka": "სკოლის ატესტატი რუსულად ნოტარიულად დამოწმებული თარგმანით",
+     "ar": "الشهادة المدرسية مع ترجمة روسية موثقة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport with notarized translation (valid 18 months after the first semester starts)",
+     "ka": "პასპორტი ნოტარიულად დამოწმებული თარგმანით (მოქმედი პირველი სემესტრის დაწყებიდან 18 თვით)",
+     "ar": "جواز سفر مع ترجمة موثقة (صالح 18 شهراً بعد بدء الفصل الأول)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Academic recognition of the foreign school document (where required)",
+     "ka": "უცხოური სასკოლო დოკუმენტის აკადემიური აღიარება (საჭიროების შემთხვევაში)",
+     "ar": "الاعتراف الأكاديمي بالوثيقة المدرسية الأجنبية (عند الاقتضاء)"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Russian Government quota (Resolution No. 891)",
+    "url": "https://eng.kpfu.ru/scholarships/",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "russia",
+   "kazan",
+   "tatarstan",
+   "medicine",
+   "english-taught",
+   "quota"
+  ],
+  "sources": [
+   "https://eng.kpfu.ru/",
+   "https://eng.kpfu.ru/bachelor-specialist/step-1-applying/",
+   "https://eng.kpfu.ru/bachelor-specialist/step-2-entrance-exams/",
+   "https://eng.kpfu.ru/english-taught-programs/programs-and-tuition-fees/",
+   "https://eng.kpfu.ru/tuition-fees/",
+   "https://eng.kpfu.ru/scholarships/",
+   "https://eng.kpfu.ru/academic-recognition/",
+   "https://eng.kpfu.ru/faq-admission/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "anna-university",
+  "name": {
+   "en": "Anna University",
+   "ka": "ანას უნივერსიტეტი",
+   "ar": "جامعة آنا"
+  },
+  "iso": "IN",
+  "city": "Chennai",
+  "lat": 13.011,
+  "lon": 80.236,
+  "type": "public",
+  "website": "https://annauniv.edu",
+  "platform": "Direct (Centre for Admissions, cfa.annauniv.edu, Foreign Nationals category)",
+  "application_url": "https://cfa.annauniv.edu/cfa/fn.html",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "For 2026-27 the Foreign Nationals B.E./B.Tech. application opened on 16 March 2026; the page shows 22 May 2026 and 15 June 2026 without labels, so the closing date is unclear. No 2027-28 notice is published yet.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "USD",
+   "per": "year",
+   "note": "The fee tables are in PDF files that could not be read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Eligibility rules for the Foreign Nationals category could not be read. The category is labelled FN (LDC and SIDS), so check on the Centre for Admissions page whether your country is eligible before applying.",
+   "ka": "უცხო ქვეყნის მოქალაქეების კატეგორიის მოთხოვნების წაკითხვა ვერ მოხერხდა. კატეგორია სახელდებულია FN (LDC და SIDS), ამიტომ განაცხადამდე ადმისიების ცენტრის გვერდზე გადაამოწმეთ, ხომ არ არის თქვენი ქვეყანა უფლებამოსილი.",
+   "ar": "تعذر قراءة شروط فئة الأجانب. تحمل الفئة اسم FN (LDC وSIDS)، لذا تحقق في صفحة مركز القبول من أهلية بلدك قبل التقديم."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Information technology",
+    "Architecture and planning"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "საინფორმაციო ტექნოლოგიები",
+    "არქიტექტურა და დაგეგმარება"
+   ],
+   "ar": [
+    "الهندسة",
+    "تكنولوجيا المعلومات",
+    "العمارة والتخطيط"
+   ]
+  },
+  "summary": {
+   "en": "Anna University is a public technical university in Chennai, India. International bachelor applicants use a separate Foreign Nationals category run by the Centre for Admissions; fees and eligibility details could not be confirmed.",
+   "ka": "ანას უნივერსიტეტი ჩენაიში (ინდოეთი) მდებარე სახელმწიფო ტექნიკური უნივერსიტეტია. საერთაშორისო ბაკალავრიატის აპლიკანტები ადმისიების ცენტრის ცალკე \"უცხო ქვეყნის მოქალაქეების\" კატეგორიით სარგებლობენ; საფასურისა და მოთხოვნების დადასტურება ვერ მოხერხდა.",
+   "ar": "جامعة آنا جامعة تقنية حكومية في تشيناي بالهند. يتقدم المتقدمون الدوليون للبكالوريوس عبر فئة منفصلة للأجانب يديرها مركز القبول؛ ولم يمكن تأكيد الرسوم وشروط الأهلية."
+  },
+  "about": {
+   "en": "Anna University is in Guindy, Chennai, with engineering colleges including CEG, ACT, SAP and MIT. B.E., B.Tech. and B.Plan. admission for foreign nationals goes through the Centre for Admissions and its online application. For 2026-27 the application opened on 16 March 2026. Fees and eligibility are in PDF notices that could not be read, so contact the Centre before applying.",
+   "ka": "ანას უნივერსიტეტი ჩენაის გუინდიში მდებარეობს და მისი საინჟინრო კოლეჯებია CEG, ACT, SAP და MIT. უცხოელებისთვის B.E., B.Tech. და B.Plan. პროგრამებზე მიღება ადმისიების ცენტრისა და მისი ონლაინ განაცხადის მეშვეობით ხდება. 2026-27 წლისთვის განაცხადი 2026 წლის 16 მარტს გაიხსნა. საფასური და მოთხოვნები PDF შეტყობინებებშია, რომელთა წაკითხვა ვერ მოხერხდა, ამიტომ განაცხადამდე დაუკავშირდით ცენტრს.",
+   "ar": "تقع جامعة آنا في غويندي بتشيناي وتضم كليات هندسية منها CEG وACT وSAP وMIT. يتم القبول في B.E. وB.Tech. وB.Plan. للأجانب عبر مركز القبول وطلبه الإلكتروني. فُتح باب التقديم لعام 2026-27 في 16 مارس 2026. الرسوم والشروط في إشعارات PDF لم يمكن قراءتها، لذا تواصل مع المركز قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students could be confirmed from the pages read; the university lists ICCR and SII programme files.",
+   "ka": "წაკითხული გვერდებიდან საერთაშორისო ბაკალავრებისთვის სპეციალური დახმარების დადასტურება ვერ მოხერხდა; უნივერსიტეტი ასახელებს ICCR-ისა და SII-ს პროგრამების ფაილებს.",
+   "ar": "لم يمكن تأكيد دعم مخصص لطلاب البكالوريوس الدوليين من الصفحات المقروءة؛ وتعرض الجامعة ملفات برامج ICCR وSII."
+  },
+  "tests": {
+   "en": "Not confirmed from readable official pages.",
+   "ka": "ხელმისაწვდომი ოფიციალური გვერდებიდან დადასტურებული არ არის.",
+   "ar": "غير مؤكد من الصفحات الرسمية القابلة للقراءة."
+  },
+  "gpa_note": {
+   "en": "Not confirmed from readable official pages.",
+   "ka": "ხელმისაწვდომი ოფიციალური გვერდებიდან დადასტურებული არ არის.",
+   "ar": "غير مؤكد من الصفحات الرسمية القابلة للقراءة."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "chennai",
+   "engineering",
+   "foreign nationals",
+   "public university"
+  ],
+  "sources": [
+   "https://cfa.annauniv.edu/cfa/",
+   "https://cfa.annauniv.edu/cfa/fn.html"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "leibniz-university-hannover",
+  "name": {
+   "en": "Leibniz University Hannover",
+   "ka": "ჰანოვერის ლაიბნიცის უნივერსიტეტი",
+   "ar": "جامعة لايبنيز هانوفر"
+  },
+  "iso": "DE",
+  "city": "Hanover",
+  "lat": 52.381,
+  "lon": 9.717,
+  "type": "public",
+  "website": "https://www.uni-hannover.de",
+  "platform": "Direct (LUH online application) with uni-assist preliminary review (VPD) for non-EU school certificates",
+  "application_url": "https://www.uni-hannover.de/en/studium/vor-dem-studium/international-prospective-students",
+  "intakes": [
+   "October (winter semester)"
+  ],
+  "deadline": "2027-07-15",
+  "deadline_note": "Winter semester: 15 July for programmes with admission restrictions (applications from 1 June); open programmes can be enrolled until 30 September. Non-EU applicants need a uni-assist VPD, requested at least eight weeks before the LUH deadline. Dates are the standing yearly dates.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "The pages checked do not state a tuition fee or the semester contribution; the site was unreachable when this was checked."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "German"
+  ],
+  "english_bachelors": "none",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "The school certificate must be recognised in Germany as a university entrance qualification. Non-EU certificate holders need a preliminary review (VPD) from uni-assist, which shows whether direct entry is possible or a Studienkolleg assessment test is needed. The university does not list individual countries; check the Anabin database.",
+   "ka": "სასკოლო ატესტატი გერმანიაში უნდა იყოს აღიარებული უნივერსიტეტში ჩასარიცხი კვალიფიკაციის სახით. არა-ევროკავშირის ატესტატის მფლობელებს სჭირდებათ uni-assist-ის წინასწარი შემოწმება (VPD), რომელიც აჩვენებს, შესაძლებელია თუ არა პირდაპირი ჩარიცხვა ან საჭიროა Studienkolleg-ის გამოცდა. უნივერსიტეტი ცალკეულ ქვეყნებს არ ჩამოთვლის; გადაამოწმეთ Anabin-ის მონაცემთა ბაზაში.",
+   "ar": "يجب أن تكون الشهادة المدرسية معترفاً بها في ألمانيا كمؤهل لدخول الجامعة. يحتاج حاملو الشهادات من خارج الاتحاد الأوروبي إلى مراجعة أولية (VPD) من uni-assist تبين إن كان القبول المباشر ممكناً أو يلزم اختبار تقييم في Studienkolleg. لا تسرد الجامعة بلداناً بعينها؛ راجع قاعدة بيانات Anabin."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "German language certificate (B1 to apply, C1 to enrol)",
+   "Studienkolleg assessment test (if the VPD requires it)"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "mathematics",
+   "computer-science",
+   "law",
+   "economics"
+  ],
+  "strengths": {
+   "en": [
+    "Mechanical engineering",
+    "Electrical engineering",
+    "Physics and optics",
+    "Civil engineering and geodesy",
+    "Law and economics"
+   ],
+   "ka": [
+    "მექანიკური ინჟინერია",
+    "ელექტროინჟინერია",
+    "ფიზიკა და ოპტიკა",
+    "სამოქალაქო ინჟინერია და გეოდეზია",
+    "სამართალი და ეკონომიკა"
+   ],
+   "ar": [
+    "الهندسة الميكانيكية",
+    "الهندسة الكهربائية",
+    "الفيزياء والبصريات",
+    "الهندسة المدنية والجيوديسيا",
+    "القانون والاقتصاد"
+   ]
+  },
+  "summary": {
+   "en": "Leibniz University Hannover is a public technical university in northern Germany. Bachelor degrees are taught in German, so non-EU applicants need German (B1 to apply, C1 to enrol) and a uni-assist review of their school certificate.",
+   "ka": "ჰანოვერის ლაიბნიცის უნივერსიტეტი ჩრდილოეთ გერმანიის სახელმწიფო ტექნიკური უნივერსიტეტია. საბაკალავრო პროგრამები გერმანულადაა, ამიტომ არა-ევროკავშირელ აპლიკანტებს სჭირდებათ გერმანული (B1 განაცხადისთვის, C1 ჩარიცხვისთვის) და სასკოლო ატესტატის uni-assist-ისმიერი შემოწმება.",
+   "ar": "جامعة لايبنيز هانوفر جامعة تقنية حكومية في شمال ألمانيا. تُدرَّس درجات البكالوريوس بالألمانية، لذا يحتاج المتقدمون من خارج الاتحاد الأوروبي إلى الألمانية (B1 للتقديم وC1 للتسجيل) ومراجعة uni-assist لشهادتهم المدرسية."
+  },
+  "about": {
+   "en": "The university is in Hanover, the capital of Lower Saxony. Bachelor programmes are taught in German; the only English-related bachelor on the English programme list is the IT and IP Law LL.B., which needs German and English. Applicants with a non-EU school certificate first request a VPD from uni-assist, then apply to the university: 1 June to 15 July for restricted programmes, or enrol by 30 September for open ones. German B1 is needed to apply and C1 to enrol.",
+   "ka": "უნივერსიტეტი ჰანოვერშია, ქვემო საქსონიის დედაქალაქში. საბაკალავრო პროგრამები გერმანულადაა; ინგლისური პროგრამების სიაში ერთადერთი ბაკალავრიატი IT and IP Law (LL.B.) მოითხოვს გერმანულსაც და ინგლისურსაც. არა-ევროკავშირის ატესტატის მქონე აპლიკანტები ჯერ uni-assist-ისგან ითხოვენ VPD-ს, შემდეგ კი უნივერსიტეტში აგზავნიან განაცხადს: შეზღუდული პროგრამებისთვის 1 ივნისიდან 15 ივლისამდე, ღია პროგრამებზე კი 30 სექტემბრამდე ირიცხებიან. განაცხადისთვის საჭიროა გერმანული B1, ჩარიცხვისთვის — C1.",
+   "ar": "تقع الجامعة في هانوفر عاصمة ولاية ساكسونيا السفلى. برامج البكالوريوس بالألمانية؛ والبرنامج الوحيد في قائمة البرامج الإنجليزية على مستوى البكالوريوس هو IT and IP Law (LL.B.) الذي يتطلب الألمانية والإنجليزية. يطلب أصحاب الشهادات المدرسية من خارج الاتحاد الأوروبي أولاً VPD من uni-assist ثم يقدمون إلى الجامعة: من 1 يونيو إلى 15 يوليو للبرامج المقيّدة أو التسجيل حتى 30 سبتمبر للبرامج المفتوحة. يلزم مستوى B1 في الألمانية للتقديم وC1 للتسجيل."
+  },
+  "aid_intl": {
+   "en": "The university lists the Deutschlandstipendium and the Landesstipendium Niedersachsen, and a page on financial support for international students; no dedicated bachelor aid for international students could be confirmed.",
+   "ka": "უნივერსიტეტი ასახელებს Deutschlandstipendium-სა და Landesstipendium Niedersachsen-ს და აქვს გვერდი საერთაშორისო სტუდენტების ფინანსური მხარდაჭერის შესახებ; საერთაშორისო ბაკალავრებისთვის სპეციალური დახმარების დადასტურება ვერ მოხერხდა.",
+   "ar": "تذكر الجامعة منحتي Deutschlandstipendium وLandesstipendium Niedersachsen وصفحة عن الدعم المالي للطلاب الدوليين؛ ولم يمكن تأكيد دعم مخصص لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "German at B1 is needed to apply and C1 to enrol; accepted tests are on the university's language certificates page. Some programmes also have their own selection process.",
+   "ka": "განაცხადისთვის საჭიროა გერმანული B1, ჩარიცხვისთვის — C1; მისაღები ტესტები უნივერსიტეტის ენის სერტიფიკატების გვერდზეა. ზოგ პროგრამას საკუთარი შერჩევის პროცესიც აქვს.",
+   "ar": "يلزم مستوى B1 في الألمانية للتقديم وC1 للتسجيل؛ والاختبارات المقبولة مذكورة في صفحة شهادات اللغة بالجامعة. ولبعض البرامج عملية اختيار خاصة بها."
+  },
+  "gpa_note": {
+   "en": "Programmes with admission restrictions (NC) select by school grades; the cut-off differs by programme and year.",
+   "ka": "შეზღუდული მიღების პროგრამებზე (NC) შერჩევა სკოლის ნიშნებით ხდება; ზღვარი პროგრამისა და წლის მიხედვით იცვლება.",
+   "ar": "تختار البرامج ذات القبول المقيّد (NC) بحسب درجات المدرسة، وتختلف درجة القبول بحسب البرنامج والسنة."
+  },
+  "requirements": [
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "uni-assist preliminary review documentation (VPD)",
+     "ka": "uni-assist-ის წინასწარი შემოწმების დოკუმენტი (VPD)",
+     "ar": "وثيقة المراجعة الأولية من uni-assist (VPD)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate recognised for university entry",
+     "ka": "უნივერსიტეტში ჩასარიცხად აღიარებული სასკოლო ატესტატი",
+     "ar": "شهادة إنهاء الدراسة الثانوية المعترف بها لدخول الجامعة"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "German certificate: B1 at application, C1 at enrolment",
+     "ka": "გერმანულის სერტიფიკატი: B1 განაცხადისას, C1 ჩარიცხვისას",
+     "ar": "شهادة الألمانية: B1 عند التقديم وC1 عند التسجيل"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Deutschlandstipendium and Landesstipendium Niedersachsen (university-listed scholarships)",
+    "url": "https://www.uni-hannover.de/en/studium/finanzierung-foerderung",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "germany",
+   "hannover",
+   "engineering",
+   "german-taught",
+   "uni-assist",
+   "no tuition"
+  ],
+  "sources": [
+   "https://www.uni-hannover.de/en/studium/vor-dem-studium/international-prospective-students",
+   "https://www.uni-hannover.de/en/studium/vor-dem-studium/bewerbung-zulassung/voraussetzungen-zum-studium/bewerbungszeiten",
+   "https://www.uni-hannover.de/en/studium/vor-dem-studium/bewerbung-zulassung/voraussetzungen-zum-studium/voraussetzungen-fuer-internationale-bewerber",
+   "https://www.uni-hannover.de/en/studium/studienangebot/english-speaking-degree-programmes-at-luh",
+   "https://www.uni-hannover.de/en/studium/finanzierung-foerderung"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-bayreuth",
+  "name": {
+   "en": "University of Bayreuth",
+   "ka": "ბაირეუთის უნივერსიტეტი",
+   "ar": "جامعة بايروت"
+  },
+  "iso": "DE",
+  "city": "Bayreuth",
+  "lat": 49.929,
+  "lon": 11.585,
+  "type": "public",
+  "website": "https://www.uni-bayreuth.de",
+  "platform": "Direct (CAMPUSonline) with uni-assist preliminary review (VPD) for non-German certificates",
+  "application_url": "https://www.studierendenkanzlei.uni-bayreuth.de/en/prospective-students/international-applicants/degree-students/index.html",
+  "intakes": [
+   "October (winter semester)",
+   "April (summer semester)"
+  ],
+  "deadline": "2027-07-15",
+  "deadline_note": "Winter semester deadline is 15 July (summer semester 15 January); some programmes with restrictions have their own dates. Studienkolleg applicants should apply by 15 June. The VPD takes 6-8 weeks, so request it early. Standing yearly dates.",
+  "tuition_intl": {
+   "amount": 0,
+   "currency": "EUR",
+   "per": "year",
+   "note": "No tuition fees. Every student pays a semester fee of 172 EUR (87 student services, 85 semester ticket), valid for winter 2026/27 and summer 2027."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "German",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": "with-extra",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entrance rights depend on the school certificate and are checked in the Anabin database; the university gives no preliminary opinion and checks only after you apply. IB Diploma holders need a uni-assist VPD. Foreign applicants from outside the EU/EEA/Switzerland have separate deadlines, and a Studienkolleg Feststellungsprüfung is one route if the certificate is not enough.",
+   "ka": "ჩარიცხვის უფლება დამოკიდებულია სასკოლო ატესტატზე და მოწმდება Anabin-ის მონაცემთა ბაზაში; უნივერსიტეტი წინასწარ შეფასებას არ იძლევა და განაცხადის შემდეგ ამოწმებს. IB დიპლომის მფლობელებს სჭირდებათ uni-assist-ის VPD. ევროკავშირის/EEA-ს/შვეიცარიის გარეთ მიღებულ ატესტატს ცალკე ვადები აქვს, ხოლო თუ ატესტატი საკმარისი არ არის, ერთ-ერთი გზაა Studienkolleg-ის Feststellungsprüfung.",
+   "ar": "يتوقف حق الالتحاق على الشهادة المدرسية ويُتحقق منه في قاعدة بيانات Anabin؛ ولا تعطي الجامعة رأياً مسبقاً بل تفحص الشهادة بعد التقديم. يحتاج حاملو دبلوم IB إلى VPD من uni-assist. وللمتقدمين بشهادات من خارج الاتحاد الأوروبي/المنطقة الاقتصادية الأوروبية/سويسرا مواعيد منفصلة، وإحدى الطرق عند عدم كفاية الشهادة هي امتحان Feststellungsprüfung في Studienkolleg."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 6.5,
+  "toefl_min": 80,
+  "duolingo_min": null,
+  "other_tests": [
+   "German B2 or C1 (DSH-2, TestDaF 4x4) for German-taught programmes",
+   "Studienkolleg Feststellungsprüfung (if required)"
+  ],
+  "fields": [
+   "natural-sciences",
+   "economics",
+   "law",
+   "engineering",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Law and economics",
+    "Biology and chemistry",
+    "Polymer and materials science",
+    "African studies",
+    "Computer science and engineering"
+   ],
+   "ka": [
+    "სამართალი და ეკონომიკა",
+    "ბიოლოგია და ქიმია",
+    "პოლიმერებისა და მასალათმცოდნეობა",
+    "აფრიკისმცოდნეობა",
+    "კომპიუტერული მეცნიერება და ინჟინერია"
+   ],
+   "ar": [
+    "القانون والاقتصاد",
+    "الأحياء والكيمياء",
+    "علوم البوليمرات والمواد",
+    "الدراسات الأفريقية",
+    "علوم الحاسوب والهندسة"
+   ]
+  },
+  "summary": {
+   "en": "The University of Bayreuth is a public campus university in Bavaria with no tuition fees, only a 172 EUR semester fee. Most bachelors are in German (B2 or C1), so non-EU applicants also need a uni-assist VPD.",
+   "ka": "ბაირეუთის უნივერსიტეტი ბავარიის სახელმწიფო საკამპუსო უნივერსიტეტია სწავლის საფასურის გარეშე, მხოლოდ 172 ევროს სემესტრული მოსაკრებლით. უმეტესი ბაკალავრიატი გერმანულადაა (B2 ან C1), ამიტომ არა-ევროკავშირელებს uni-assist-ის VPD-ც სჭირდებათ.",
+   "ar": "جامعة بايروت جامعة حكومية بحرم موحد في بافاريا بلا رسوم دراسية، مع رسم فصلي قدره 172 يورو فقط. معظم برامج البكالوريوس بالألمانية (B2 أو C1)، لذا يحتاج المتقدمون من خارج الاتحاد الأوروبي أيضاً إلى VPD من uni-assist."
+  },
+  "about": {
+   "en": "Bayreuth has over 40 bachelor programmes and a compact campus in Upper Franconia. You apply online in CAMPUSonline with no paper copies; applicants with non-German certificates first get a VPD from uni-assist, which takes 6 to 8 weeks. The winter semester deadline is 15 July. Most programmes are taught in German and need B2 or C1; English-taught programmes usually need B2 English and A1 German. There are no tuition fees; the semester fee is 172 EUR.",
+   "ka": "ბაირეუთს 40-ზე მეტი საბაკალავრო პროგრამა და კომპაქტური კამპუსი აქვს ზემო ფრანკონიაში. განაცხადს CAMPUSonline-ში ონლაინ აგზავნით, ქაღალდის ასლების გარეშე; არაგერმანული ატესტატის მქონეები ჯერ uni-assist-ისგან იღებენ VPD-ს, რასაც 6-8 კვირა სჭირდება. ზამთრის სემესტრის ვადაა 15 ივლისი. პროგრამების უმეტესობა გერმანულადაა და საჭიროა B2 ან C1; ინგლისურენოვან პროგრამებზე ჩვეულებრივ საჭიროა ინგლისური B2 და გერმანული A1. სწავლის საფასური არ არის; სემესტრული მოსაკრებელი 172 ევროა.",
+   "ar": "في بايروت أكثر من 40 برنامج بكالوريوس وحرم جامعي متقارب في فرانكونيا العليا. يتم التقديم إلكترونياً عبر CAMPUSonline دون نسخ ورقية؛ ويحصل أصحاب الشهادات غير الألمانية أولاً على VPD من uni-assist خلال 6 إلى 8 أسابيع. الموعد النهائي للفصل الشتوي 15 يوليو. معظم البرامج بالألمانية وتتطلب B2 أو C1؛ وتتطلب البرامج بالإنجليزية عادة مستوى B2 في الإنجليزية وA1 في الألمانية. لا توجد رسوم دراسية والرسم الفصلي 172 يورو."
+  },
+  "aid_intl": {
+   "en": "The International Office has a scholarships page, but no dedicated aid for international bachelor students could be confirmed.",
+   "ka": "საერთაშორისო ოფისს აქვს სტიპენდიების გვერდი, მაგრამ საერთაშორისო ბაკალავრებისთვის სპეციალური დახმარების დადასტურება ვერ მოხერხდა.",
+   "ar": "للمكتب الدولي صفحة للمنح، لكن لم يمكن تأكيد دعم مخصص لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "German-taught programmes: B2 (DSH-1, TestDaF 14 points, Goethe B2, telc B2) or, for some, C1 (DSH-2, TestDaF 4x4). English-taught programmes: usually B2, e.g. IELTS 6.5 or TOEFL iBT 80 (guidance only); Duolingo is not accepted.",
+   "ka": "გერმანულენოვანი პროგრამები: B2 (DSH-1, TestDaF 14 ქულა, Goethe B2, telc B2) ან ზოგზე C1 (DSH-2, TestDaF 4x4). ინგლისურენოვანი პროგრამები: ჩვეულებრივ B2, მაგ. IELTS 6.5 ან TOEFL iBT 80 (მხოლოდ საორიენტაციო); Duolingo არ მიიღება.",
+   "ar": "البرامج بالألمانية: B2 (DSH-1 أو TestDaF بـ14 نقطة أو Goethe B2 أو telc B2) أو C1 لبعضها (DSH-2 أو TestDaF 4x4). البرامج بالإنجليزية: عادة B2 مثل IELTS 6.5 أو TOEFL iBT 80 (للاسترشاد فقط)؛ ولا يُقبل Duolingo."
+  },
+  "gpa_note": {
+   "en": "You need a general university entrance qualification (Abitur or an equivalent recognised certificate); programmes with restricted admission select by grades.",
+   "ka": "საჭიროა უნივერსიტეტში ჩარიცხვის ზოგადი კვალიფიკაცია (Abitur ან მისი აღიარებული ეკვივალენტი); შეზღუდული მიღების პროგრამებზე შერჩევა ნიშნებით ხდება.",
+   "ar": "يلزم مؤهل عام لدخول الجامعة (Abitur أو شهادة معادلة معترف بها)؛ وتختار البرامج ذات القبول المقيّد بحسب الدرجات."
+  },
+  "requirements": [
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "uni-assist VPD (for non-German school certificates)",
+     "ka": "uni-assist-ის VPD (არაგერმანული ატესტატებისთვის)",
+     "ar": "VPD من uni-assist (للشهادات المدرسية غير الألمانية)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate that gives university entry",
+     "ka": "უნივერსიტეტში ჩარიცხვის უფლების მომცემი სასკოლო ატესტატი",
+     "ar": "شهادة إنهاء الدراسة الثانوية المؤهلة لدخول الجامعة"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "German certificate (B2 or C1) or English certificate for English-taught programmes",
+     "ka": "გერმანულის სერტიფიკატი (B2 ან C1) ან ინგლისურის სერტიფიკატი ინგლისურენოვან პროგრამებზე",
+     "ar": "شهادة الألمانية (B2 أو C1) أو شهادة الإنجليزية للبرامج بالإنجليزية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "germany",
+   "bavaria",
+   "bayreuth",
+   "no tuition",
+   "uni-assist",
+   "campus university"
+  ],
+  "sources": [
+   "https://www.studierendenkanzlei.uni-bayreuth.de/en/prospective-students/international-applicants/degree-students/index.html",
+   "https://www.studierendenkanzlei.uni-bayreuth.de/en/prospective-students/international-applicants/degree-students/periods-and-deadlines/index.html",
+   "https://www.studierendenkanzlei.uni-bayreuth.de/en/prospective-students/international-applicants/degree-students/evidence-of-language-proficiency/index.html",
+   "https://www.studierendenkanzlei.uni-bayreuth.de/en/prospective-students/international-applicants/degree-students/higher-education-entrance-qualification/index.html",
+   "https://www.studierendenkanzlei.uni-bayreuth.de/en/prospective-students/international-applicants/degree-students/uni-assist/index.html",
+   "https://www.studierendenkanzlei.uni-bayreuth.de/en/students/semester-fees/index.html",
+   "https://www.studierendenkanzlei.uni-bayreuth.de/en/prospective-students/application-enrolment/index.html"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universite-de-montpellier",
+  "name": {
+   "en": "Université de Montpellier",
+   "ka": "მონპელიეს უნივერსიტეტი",
+   "ar": "جامعة مونبلييه"
+  },
+  "iso": "FR",
+  "city": "Montpellier",
+  "lat": 43.614,
+  "lon": 3.87,
+  "type": "public",
+  "website": "https://www.umontpellier.fr",
+  "platform": "Campus France Etudes en France procedure (countries on the Campus France list), then university admission; Parcoursup for other first-year applicants",
+  "application_url": "https://www.umontpellier.fr/en/international/etudier-a-letranger/venir-etudier-a-luniversite-de-montpellier/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "No international bachelor deadline is published on the pages checked. The Parcoursup window for 2026 ran from 19 January to 12 March 2026; applicants living abroad in Campus France countries start with the Etudes en France procedure.",
+  "tuition_intl": {
+   "amount": 2902,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Differentiated fee for non-EU Licence students, 2026-27. National fee (178 EUR for a bachelor) applies to EU/EEA nationals, scholarship holders, long-term French residents and some other groups. Rate for 2027-28 not yet published."
+  },
+  "acceptance_rate": null,
+  "students": 54210,
+  "intl_pct": null,
+  "languages": [
+   "French"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "The pages checked do not list accepted foreign school diplomas or a French level. They say to ask the admissions office of the chosen faculty, school or institute which French level is expected. Entry to the first year of a Licence is via Parcoursup or, for applicants abroad, the Etudes en France procedure.",
+   "ka": "შემოწმებულ გვერდებზე არ არის ჩამოთვლილი მისაღები უცხოური სასკოლო დიპლომები ან ფრანგულის დონე. იქ წერია, რომ არჩეული ფაკულტეტის, სკოლის ან ინსტიტუტის მიმღებ ოფისს ჰკითხოთ, ფრანგულის რომელი დონეა მოსალოდნელი. Licence-ის პირველ კურსზე მიღება ხდება Parcoursup-ით, ხოლო საზღვარგარეთ მყოფი აპლიკანტებისთვის — Etudes en France-ის პროცედურით.",
+   "ar": "لا تسرد الصفحات التي جرى فحصها الشهادات الثانوية الأجنبية المقبولة ولا مستوى اللغة الفرنسية. وتطلب الصفحات سؤال مكتب القبول في الكلية أو المدرسة أو المعهد المختار عن المستوى المتوقع. يتم الدخول إلى السنة الأولى من الليسانس عبر Parcoursup أو، للمتقدمين من الخارج، عبر إجراء Etudes en France."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "environment",
+   "law",
+   "economics"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine and health",
+    "Biology and agronomy",
+    "Chemistry",
+    "Law and economics",
+    "Environment"
+   ],
+   "ka": [
+    "მედიცინა და ჯანდაცვა",
+    "ბიოლოგია და აგრონომია",
+    "ქიმია",
+    "სამართალი და ეკონომიკა",
+    "გარემო"
+   ],
+   "ar": [
+    "الطب والصحة",
+    "الأحياء والعلوم الزراعية",
+    "الكيمياء",
+    "القانون والاقتصاد",
+    "البيئة"
+   ]
+  },
+  "summary": {
+   "en": "The University of Montpellier is a large public university in southern France, founded in 1220, with about 54,000 students. Non-EU Licence students pay a 2,902 EUR yearly fee in 2026-27, and teaching is mainly in French.",
+   "ka": "მონპელიეს უნივერსიტეტი სამხრეთ საფრანგეთის დიდი სახელმწიფო უნივერსიტეტია, დაარსებული 1220 წელს, დაახლოებით 54 000 სტუდენტით. არა-ევროკავშირელი Licence-ის სტუდენტები 2026-27 წელს წელიწადში 2 902 ევროს იხდიან, სწავლება კი ძირითადად ფრანგულადაა.",
+   "ar": "جامعة مونبلييه جامعة حكومية كبيرة في جنوب فرنسا تأسست عام 1220 وفيها نحو 54,000 طالب. يدفع طلاب الليسانس من خارج الاتحاد الأوروبي 2,902 يورو سنوياً في 2026-27 والتدريس بالفرنسية في الغالب."
+  },
+  "about": {
+   "en": "The University of Montpellier was founded in 1220 and has 17 faculties, schools and institutes. Degree-seeking students from countries on the Campus France list must apply through Campus France before the university; first-year Licence places are also filled through Parcoursup. Registration documents include a passport or ID, a civil liability insurance certificate and a CVEC certificate, and each faculty adds its own list. In 2026-27 non-EU students pay a differentiated fee of 2,902 EUR for a Licence.",
+   "ka": "მონპელიეს უნივერსიტეტი 1220 წელს დაარსდა და 17 ფაკულტეტს, სკოლასა და ინსტიტუტს აერთიანებს. Campus France-ის სიაში შემავალი ქვეყნების ხარისხის მაძიებელმა სტუდენტებმა უნივერსიტეტამდე Campus France-ით უნდა გაიარონ განაცხადი; Licence-ის პირველი კურსის ადგილები Parcoursup-ითაც ივსება. რეგისტრაციისთვის საჭიროა პასპორტი ან პირადობა, სამოქალაქო პასუხისმგებლობის დაზღვევის ცნობა და CVEC-ის ცნობა, თითოეული ფაკულტეტი კი საკუთარ სიას ამატებს. 2026-27 წელს არა-ევროკავშირელი სტუდენტები Licence-ზე 2 902 ევროს დიფერენცირებულ საფასურს იხდიან.",
+   "ar": "تأسست جامعة مونبلييه عام 1220 وتضم 17 كلية ومدرسة ومعهداً. على الطلاب الراغبين في نيل درجة والقادمين من بلدان قائمة Campus France التقديم عبر Campus France قبل الجامعة؛ كما تُشغل مقاعد السنة الأولى من الليسانس عبر Parcoursup. تشمل وثائق التسجيل جواز السفر أو الهوية وشهادة التأمين ضد المسؤولية المدنية وشهادة CVEC، وتضيف كل كلية قائمتها الخاصة. في 2026-27 يدفع الطلاب من خارج الاتحاد الأوروبي رسماً تفاضلياً قدره 2,902 يورو لليسانس."
+  },
+  "aid_intl": {
+   "en": "Scholarship holders are exempt from the differentiated fee and pay the national fee; other individual exemptions may be granted after enrolment, under conditions the university says it will publish.",
+   "ka": "სტიპენდიანტები გათავისუფლებული არიან დიფერენცირებული საფასურისგან და ეროვნულ საფასურს იხდიან; სხვა ინდივიდუალური გათავისუფლებები ჩარიცხვის შემდეგ შეიძლება მიენიჭოს უნივერსიტეტის მიერ გამოსაქვეყნებელი პირობებით.",
+   "ar": "يُعفى حاملو المنح من الرسم التفاضلي ويدفعون الرسم الوطني؛ وقد تُمنح إعفاءات فردية أخرى بعد التسجيل وفق شروط تقول الجامعة إنها ستنشرها."
+  },
+  "tests": {
+   "en": "No test or French level is published on the pages checked; ask the admissions office of your faculty, school or institute.",
+   "ka": "შემოწმებულ გვერდებზე ტესტი ან ფრანგულის დონე მითითებული არ არის; ჰკითხეთ თქვენი ფაკულტეტის, სკოლის ან ინსტიტუტის მიმღებ ოფისს.",
+   "ar": "لم يُنشر اختبار أو مستوى للفرنسية في الصفحات التي جرى فحصها؛ اسأل مكتب القبول في كليتك أو مدرستك أو معهدك."
+  },
+  "gpa_note": {
+   "en": "Each programme publishes its own selection criteria and capacity through Parcoursup; no general minimum grade is given.",
+   "ka": "თითოეული პროგრამა Parcoursup-ით აქვეყნებს საკუთარ შერჩევის კრიტერიუმებსა და ადგილების რაოდენობას; ზოგადი მინიმალური ნიშანი მითითებული არ არის.",
+   "ar": "ينشر كل برنامج معايير الاختيار والطاقة الاستيعابية الخاصة به عبر Parcoursup؛ ولا يُذكر حد أدنى عام للدرجات."
+  },
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Campus France Etudes en France procedure (countries on the Campus France list)",
+     "ka": "Campus France-ის Etudes en France პროცედურა (Campus France-ის სიაში შემავალი ქვეყნები)",
+     "ar": "إجراء Etudes en France عبر Campus France (البلدان المدرجة في قائمة Campus France)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport or ID",
+     "ka": "მოქმედი პასპორტი ან პირადობა",
+     "ar": "جواز سفر أو هوية ساري"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Civil liability insurance certificate and CVEC certificate (at registration)",
+     "ka": "სამოქალაქო პასუხისმგებლობის დაზღვევის ცნობა და CVEC-ის ცნობა (რეგისტრაციისას)",
+     "ar": "شهادة التأمين ضد المسؤولية المدنية وشهادة CVEC (عند التسجيل)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "French level set by the chosen faculty",
+     "ka": "არჩეული ფაკულტეტის მიერ დადგენილი ფრანგულის დონე",
+     "ar": "مستوى الفرنسية الذي تحدده الكلية المختارة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "montpellier",
+   "french-taught",
+   "campus france",
+   "parcoursup",
+   "medicine"
+  ],
+  "sources": [
+   "https://www.umontpellier.fr/en/",
+   "https://www.umontpellier.fr/en/formation/admission-et-inscription/",
+   "https://www.umontpellier.fr/en/international/etudier-a-letranger/venir-etudier-a-luniversite-de-montpellier/",
+   "https://www.umontpellier.fr/en/international/etudier-a-letranger/etudiants-internationaux-annee-universitaire-2026-2027/",
+   "https://www.umontpellier.fr/wp-content/uploads/2026/07/droits-differencies.pdf"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "imam-abdulrahman-bin-faisal-university-iau",
+  "name": {
+   "en": "Imam Abdulrahman Bin Faisal University (IAU)",
+   "ka": "იმამ აბდულრაჰმან ბინ ფაისალის უნივერსიტეტი (IAU)",
+   "ar": "جامعة الإمام عبدالرحمن بن فيصل (IAU)"
+  },
+  "iso": "SA",
+  "city": "Dammam",
+  "lat": 26.395,
+  "lon": 50.189,
+  "type": "public",
+  "website": "https://www.iau.edu.sa",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Not confirmed: the official site did not respond to automated requests (connection refused) when checked on 1 November 2026.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "SAR",
+   "per": "year",
+   "note": "Not confirmed from an official page."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Not confirmed. Admission rules for non-Saudi bachelor applicants could not be read from the official site; contact the university's admissions deanship.",
+   "ka": "დადასტურებული არ არის. არასაუდელი ბაკალავრიატის აპლიკანტების მიღების წესები ოფიციალური საიტიდან ვერ წავიკითხეთ; დაუკავშირდით უნივერსიტეტის მიღების დეკანატს.",
+   "ar": "غير مؤكد. تعذرت قراءة شروط القبول لطلاب البكالوريوس غير السعوديين من الموقع الرسمي؛ تواصل مع عمادة القبول والتسجيل في الجامعة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "Imam Abdulrahman Bin Faisal University is a public university in Dammam, Saudi Arabia. Its admission rules, deadlines and fees for international bachelor applicants could not be verified from the official site.",
+   "ka": "იმამ აბდულრაჰმან ბინ ფაისალის უნივერსიტეტი საუდის არაბეთის ქალაქ დამამში მდებარე სახელმწიფო უნივერსიტეტია. საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის მიღების წესები, ვადები და საფასური ოფიციალური საიტიდან ვერ გადამოწმდა.",
+   "ar": "جامعة الإمام عبدالرحمن بن فيصل جامعة حكومية في الدمام بالمملكة العربية السعودية. لم يمكن التحقق من شروط القبول والمواعيد والرسوم لطلاب البكالوريوس الدوليين من الموقع الرسمي."
+  },
+  "about": {
+   "en": "The university is in Dammam, in Saudi Arabia's Eastern Province. The official website could not be reached when this profile was prepared, so no admission details for international bachelor applicants are given here. Check the admissions pages on iau.edu.sa directly or ask the university.",
+   "ka": "უნივერსიტეტი საუდის არაბეთის აღმოსავლეთ პროვინციაში, დამამში მდებარეობს. პროფილის მომზადებისას ოფიციალური ვებსაიტი მიუწვდომელი იყო, ამიტომ საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის მიღების დეტალები აქ არ არის მოცემული. გადაამოწმეთ iau.edu.sa-ზე მიღების გვერდები ან დაუკავშირდით უნივერსიტეტს.",
+   "ar": "تقع الجامعة في الدمام بالمنطقة الشرقية من المملكة العربية السعودية. تعذر الوصول إلى الموقع الرسمي أثناء إعداد هذا الملف، لذا لا تُذكر هنا تفاصيل القبول لطلاب البكالوريوس الدوليين. راجع صفحات القبول على iau.edu.sa مباشرة أو اسأل الجامعة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრებისთვის სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا يُنشر دعم مخصص لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "Not confirmed from an official page.",
+   "ka": "ოფიციალური გვერდიდან დადასტურებული არ არის.",
+   "ar": "غير مؤكد من صفحة رسمية."
+  },
+  "gpa_note": {
+   "en": "Not confirmed from an official page.",
+   "ka": "ოფიციალური გვერდიდან დადასტურებული არ არის.",
+   "ar": "غير مؤكد من صفحة رسمية."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "saudi arabia",
+   "dammam",
+   "eastern province",
+   "public university"
+  ],
+  "sources": [
+   "https://www.iau.edu.sa"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universidad-nacional-de-la-plata-unlp",
+  "name": {
+   "en": "Universidad Nacional de La Plata (UNLP)",
+   "ka": "ლა-პლატას ეროვნული უნივერსიტეტი (UNLP)",
+   "ar": "جامعة لا بلاتا الوطنية (UNLP)"
+  },
+  "iso": "AR",
+  "city": "La Plata",
+  "lat": -34.906,
+  "lon": -57.936,
+  "type": "public",
+  "website": "https://unlp.edu.ar",
+  "platform": "Direct (online enrolment in SIU Guarani on the website of the chosen faculty)",
+  "application_url": "https://unlp.edu.ar/ensenanza/carreras_de_grado/ingreso/ingresantes_extranjeros-4018-9018/",
+  "intakes": [
+   "March"
+  ],
+  "deadline": "2026-12-11",
+  "deadline_note": "Enrolment for the 2027 academic year runs from 9 November to 11 December 2026. The foreign-applicants page still shows the 2026 dates (10 November to 12 December 2025), so expect the same window each year. Enrolment is conditional until paper documents are delivered to the faculty.",
+  "tuition_intl": {
+   "amount": 0,
+   "currency": "ARS",
+   "per": "year",
+   "note": "UNLP is a public university and states that study is free of charge, with no enrolment caps. Living costs and the student visa are separate."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "The page does not say which foreign school diplomas are accepted or how they must be legalised; ask the Secretaria de Asuntos Academicos or the faculty. Applicants need a national ID or passport copy, and a student visa to enter Argentina.",
+   "ka": "გვერდზე არ წერია, რომელი უცხოური სასკოლო დიპლომები მიიღება და როგორ უნდა დამოწმდეს; ჰკითხეთ აკადემიურ საქმეთა სამდივნოს (Secretaría de Asuntos Académicos) ან ფაკულტეტს. აპლიკანტს სჭირდება პირადობის ან პასპორტის ასლი და სტუდენტური ვიზა არგენტინაში შესასვლელად.",
+   "ar": "لا تذكر الصفحة الشهادات الثانوية الأجنبية المقبولة ولا كيفية تصديقها؛ اسأل أمانة الشؤون الأكاديمية (Secretaría de Asuntos Académicos) أو الكلية. يحتاج المتقدم إلى نسخة من الهوية أو جواز السفر وتأشيرة طالب لدخول الأرجنتين."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "CELU or CertEA Spanish certificate (if Spanish is not your first language)"
+  ],
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "engineering",
+   "humanities",
+   "social-sciences",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Natural sciences and astronomy",
+    "Engineering",
+    "Journalism and communication",
+    "Law"
+   ],
+   "ka": [
+    "მედიცინა",
+    "საბუნებისმეტყველო მეცნიერებები და ასტრონომია",
+    "ინჟინერია",
+    "ჟურნალისტიკა და კომუნიკაცია",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب",
+    "العلوم الطبيعية وعلم الفلك",
+    "الهندسة",
+    "الصحافة والاتصال",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "UNLP is a large public university in La Plata, Argentina, with 17 faculties and more than 165 degree programmes. Study is free and taught in Spanish; foreign applicants enrol online in November and December and need a student visa.",
+   "ka": "UNLP არგენტინის ქალაქ ლა-პლატაში მდებარე დიდი სახელმწიფო უნივერსიტეტია 17 ფაკულტეტითა და 165-ზე მეტი საგანმანათლებლო პროგრამით. სწავლა უფასოა და ესპანურ ენაზე მიმდინარეობს; უცხოელი აპლიკანტები ნოემბერ-დეკემბერში ონლაინ ირიცხებიან და სტუდენტური ვიზა სჭირდებათ.",
+   "ar": "UNLP جامعة حكومية كبيرة في مدينة لا بلاتا بالأرجنتين فيها 17 كلية وأكثر من 165 برنامجاً دراسياً. الدراسة مجانية وبالإسبانية؛ ويسجل المتقدمون الأجانب إلكترونياً في نوفمبر وديسمبر ويحتاجون إلى تأشيرة طالب."
+  },
+  "about": {
+   "en": "UNLP has 17 faculties and more than 165 undergraduate and pregrado programmes. Foreign applicants enrol online with the faculty of their choice, one programme per enrolment, and send a national ID or passport copy, their addresses and the SIU Guarani form to the academic affairs office so it can start the entry authorisation. Spanish proof (CELU or CertEA) is needed if Spanish is not your first language. A student visa is required, and paper documents must be delivered to the faculty.",
+   "ka": "UNLP-ს 17 ფაკულტეტი და 165-ზე მეტი საბაკალავრო და პრეგრადო პროგრამა აქვს. უცხოელი აპლიკანტები ონლაინ ირიცხებიან არჩეულ ფაკულტეტზე, ერთ ჩარიცხვაზე ერთი პროგრამით, და აკადემიურ საქმეთა სამსახურს უგზავნიან პირადობის ან პასპორტის ასლს, მისამართებს და SIU Guaraní-ის ფორმას, რათა დაიწყოს ქვეყანაში შესვლის ავტორიზაცია. თუ ესპანური დედაენა არ არის, საჭიროა ესპანურის დამადასტურებელი (CELU ან CertEA). საჭიროა სტუდენტური ვიზა, ხოლო ქაღალდის დოკუმენტები ფაკულტეტზე უნდა ჩაიბაროთ.",
+   "ar": "في UNLP 17 كلية وأكثر من 165 برنامجاً للبكالوريوس وما قبل التخرج. يسجل المتقدمون الأجانب إلكترونياً في الكلية المختارة، برنامج واحد لكل تسجيل، ويرسلون إلى مكتب الشؤون الأكاديمية نسخة من الهوية أو جواز السفر وعنوانيهم ونموذج SIU Guaraní ليبدأ طلب إذن الدخول. يلزم إثبات الإسبانية (CELU أو CertEA) إذا لم تكن لغتك الأولى. تأشيرة الطالب إلزامية ويجب تسليم الوثائق الورقية إلى الكلية."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published; tuition is already free.",
+   "ka": "საერთაშორისო ბაკალავრებისთვის სპეციალური დახმარება გამოქვეყნებული არ არის; სწავლა უკვე უფასოა.",
+   "ar": "لا يُنشر دعم مخصص لطلاب البكالوريوس الدوليين؛ فالدراسة مجانية أصلاً."
+  },
+  "tests": {
+   "en": "Spanish proof is required if Spanish is not your first language: the CELU certificate or the CertEA from the Faculty of Humanities. Each faculty sets the level and may have its own entry course.",
+   "ka": "თუ ესპანური დედაენა არ არის, საჭიროა ესპანურის დამადასტურებელი: CELU სერტიფიკატი ან ჰუმანიტარულ ფაკულტეტზე გაცემული CertEA. თითოეული ფაკულტეტი თავად ადგენს დონეს და შეიძლება საკუთარი საშესავალი კურსი ჰქონდეს.",
+   "ar": "يلزم إثبات الإسبانية إذا لم تكن لغتك الأولى: شهادة CELU أو شهادة CertEA من كلية العلوم الإنسانية. تحدد كل كلية المستوى وقد يكون لها مقرر تمهيدي خاص."
+  },
+  "gpa_note": {
+   "en": "No minimum grade or cap on places is published; UNLP states enrolment is not capped.",
+   "ka": "მინიმალური ნიშანი ან ადგილების ლიმიტი გამოქვეყნებული არ არის; UNLP აცხადებს, რომ ჩარიცხვა შეუზღუდავია.",
+   "ar": "لا يُنشر حد أدنى للدرجات أو سقف للمقاعد؛ وتذكر UNLP أن القبول غير مقيّد بحصص."
+  },
+  "requirements": [
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Online enrolment form from SIU Guarani (one programme per enrolment)",
+     "ka": "SIU Guaraní-ის ონლაინ ჩარიცხვის ფორმა (ერთ ჩარიცხვაზე ერთი პროგრამა)",
+     "ar": "استمارة التسجيل الإلكتروني من SIU Guaraní (برنامج واحد لكل تسجيل)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Copy of national ID or passport",
+     "ka": "პირადობის ან პასპორტის ასლი",
+     "ar": "نسخة من الهوية أو جواز السفر"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Spanish proof (CELU or CertEA) if Spanish is not your first language",
+     "ka": "ესპანურის დამადასტურებელი (CELU ან CertEA), თუ ესპანური დედაენა არ არის",
+     "ar": "إثبات الإسبانية (CELU أو CertEA) إن لم تكن لغتك الأولى"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Student visa and addresses (home country and La Plata)",
+     "ka": "სტუდენტური ვიზა და მისამართები (სამშობლოში და ლა-პლატაში)",
+     "ar": "تأشيرة الطالب والعناوين (في بلدك وفي لا بلاتا)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Paper documents delivered in person to the faculty",
+     "ka": "ქაღალდის დოკუმენტები, რომლებიც ფაკულტეტზე პირადად ბარდება",
+     "ar": "وثائق ورقية تُسلَّم شخصياً إلى الكلية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "argentina",
+   "la plata",
+   "spanish",
+   "free tuition",
+   "public university",
+   "latin america"
+  ],
+  "sources": [
+   "https://unlp.edu.ar/ingreso/",
+   "https://unlp.edu.ar/ensenanza/carreras_de_grado/ingreso/ingresantes_extranjeros-4018-9018/",
+   "https://unlp.edu.ar/institucional/la-inscripcion-a-la-universidad-para-el-ciclo-2027-se-abrira-el-9-de-noviembre-130400/"
+  ],
+  "verified_at": "2026-11-01"
  }
 ]

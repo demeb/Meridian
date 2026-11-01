@@ -343,6 +343,120 @@
   "verified_at": "2026-11-01"
  },
  {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "tuition_intl": null,
+  "deadline": null,
+  "intakes": [],
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "requirements": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "pontificia-universidad-catolica-del-peru-pucp",
+  "name": {
+   "en": "Pontificia Universidad Catolica del Peru (PUCP)",
+   "ka": "პერუს პაპისეული კათოლიკური უნივერსიტეტი (PUCP)",
+   "ar": "الجامعة البابوية الكاثوليكية في بيرو (PUCP)"
+  },
+  "iso": "PE",
+  "city": "Lima",
+  "lat": -12.069,
+  "lon": -77.079,
+  "type": "private",
+  "website": "https://www.pucp.edu.pe",
+  "platform": null,
+  "application_url": null,
+  "deadline_note": "No deadline could be read: the university website could not be opened (certificate error and refused connection).",
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications_note": {
+   "en": "Accepted school qualifications are not published on the pages checked.",
+   "ka": "მისაღები სასკოლო კვალიფიკაციები შემოწმებულ გვერდებზე გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر الشهادات المدرسية المقبولة في الصفحات التي روجعت."
+  },
+  "fields": [
+   "engineering",
+   "humanities",
+   "social-sciences",
+   "law",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Humanities",
+    "Social Sciences",
+    "Law",
+    "Arts"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ჰუმანიტარული მეცნიერებები",
+    "სოციალური მეცნიერებები",
+    "სამართალი",
+    "ხელოვნება"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم الإنسانية",
+    "العلوم الاجتماعية",
+    "القانون",
+    "الفنون"
+   ]
+  },
+  "summary": {
+   "en": "PUCP is a private university in Lima, Peru. Its official site could not be opened in this research round, so fees, deadlines and entry rules are not filled in.",
+   "ka": "PUCP პერუს დედაქალაქ ლიმაში მდებარე კერძო უნივერსიტეტია. მისი ოფიციალური საიტი ამ კვლევის რაუნდში ვერ გაიხსნა, ამიტომ საფასური, ვადები და მიღების წესები შევსებული არ არის.",
+   "ar": "PUCP جامعة خاصة في ليما عاصمة بيرو. تعذر فتح موقعها الرسمي في هذه الجولة من البحث، لذا لم تُملأ الرسوم والمواعيد وشروط القبول."
+  },
+  "about": {
+   "en": "PUCP is a private university in Lima, Peru. In this research round its official website could not be opened, so no admission, fee, language or deadline data could be verified. Check the admissions pages on pucp.edu.pe directly.",
+   "ka": "PUCP პერუს დედაქალაქ ლიმაში მდებარე კერძო უნივერსიტეტია. ამ კვლევის რაუნდში მისი ოფიციალური საიტი ვერ გაიხსნა, ამიტომ მიღების, საფასურის, ენისა და ვადების მონაცემები ვერ გადამოწმდა. გადაამოწმეთ მიღების გვერდები უშუალოდ pucp.edu.pe-ზე.",
+   "ar": "PUCP جامعة خاصة في ليما ببيرو. تعذر فتح موقعها الرسمي في هذه الجولة، لذا لم يمكن التحقق من بيانات القبول والرسوم واللغة والمواعيد. راجع صفحات القبول مباشرة على pucp.edu.pe."
+  },
+  "aid_intl": {
+   "en": "Not verified: the official site could not be opened.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური საიტი ვერ გაიხსნა.",
+   "ar": "لم يتم التحقق: تعذر فتح الموقع الرسمي."
+  },
+  "tests": {
+   "en": "Not verified: the official site could not be opened.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური საიტი ვერ გაიხსნა.",
+   "ar": "لم يتم التحقق: تعذر فتح الموقع الرسمي."
+  },
+  "gpa_note": {
+   "en": "Not verified: the official site could not be opened.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური საიტი ვერ გაიხსნა.",
+   "ar": "لم يتم التحقق: تعذر فتح الموقع الرسمي."
+  },
+  "keywords": [
+   "peru",
+   "lima",
+   "private",
+   "needs verification"
+  ],
+  "sources": [
+   "https://www.pucp.edu.pe"
+  ]
+ },
+ {
   "id": "sabanci-university",
   "name": {
    "en": "Sabanci University",
@@ -531,6 +645,276 @@
   "verified_at": "2026-11-01"
  },
  {
+  "id": "rudn-university",
+  "name": {
+   "en": "RUDN University",
+   "ka": "RUDN უნივერსიტეტი (ხალხთა მეგობრობის რუსეთის უნივერსიტეტი)",
+   "ar": "جامعة RUDN (جامعة صداقة الشعوب الروسية)"
+  },
+  "iso": "RU",
+  "city": "Moscow",
+  "lat": 55.651,
+  "lon": 37.505,
+  "type": "public",
+  "website": "https://www.rudn.ru",
+  "platform": "Direct (personal account at ab.rudn.ru; international applicants portal)",
+  "application_url": "https://international.rudn.ru/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The additional round for contract-based bachelor programmes for applicants with a foreign certificate closed on 2 October 2026; dates for the next year are not yet published.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "The pages checked do not list accepted school qualifications. Applicants with a foreign certificate can use the international admission route; the Preparatory Faculty gives a certificate for admission to any Russian university.",
+   "ka": "შემოწმებულ გვერდებზე მისაღები სასკოლო კვალიფიკაციების სია არ არის. უცხოური ატესტატის მქონე განმცხადებლებს შეუძლიათ საერთაშორისო მიღების გზით განაცხადი; მოსამზადებელი ფაკულტეტი გასცემს სერტიფიკატს, რომელიც რუსეთის ნებისმიერ უნივერსიტეტში ჩასაბარებლად გამოდგება.",
+   "ar": "لا تذكر الصفحات التي روجعت قائمة بالشهادات المدرسية المقبولة. يمكن لحاملي الشهادات الأجنبية التقديم عبر مسار القبول الدولي، وتمنح الكلية التحضيرية شهادة تتيح القبول في أي جامعة روسية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Interview and portfolio assessment for contract places (portfolio minimum 30 of 100 points)"
+  ],
+  "fields": [
+   "medicine-health",
+   "languages",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "General Medicine",
+    "Dentistry",
+    "Philology",
+    "Linguistics"
+   ],
+   "ka": [
+    "ზოგადი მედიცინა",
+    "სტომატოლოგია",
+    "ფილოლოგია",
+    "ლინგვისტიკა"
+   ],
+   "ar": [
+    "الطب العام",
+    "طب الأسنان",
+    "فقه اللغة",
+    "اللسانيات"
+   ]
+  },
+  "summary": {
+   "en": "RUDN is a public university in Moscow with a large international intake and a Russian-language Preparatory Faculty. Contract-based bachelor places are assessed by interview and portfolio; bachelor fees are published in a filterable table, not found as a single figure.",
+   "ka": "RUDN მოსკოვის სახელმწიფო უნივერსიტეტია, სადაც უცხოელ სტუდენტთა დიდი მიღებაა და რუსული ენის მოსამზადებელი ფაკულტეტი მოქმედებს. კონტრაქტით სწავლისთვის განმცხადებლებს ინტერვიუთი და პორტფოლიოთი აფასებენ; ბაკალავრიატის საფასური ფილტრიან ცხრილშია გამოქვეყნებული და ერთ ციფრად ვერ მოვიძიეთ.",
+   "ar": "جامعة RUDN جامعة حكومية في موسكو تستقبل عددا كبيرا من الطلاب الدوليين ولديها كلية تحضيرية لتعليم اللغة الروسية. تُقيَّم مقاعد البكالوريوس التعاقدية بمقابلة وملف إنجازات؛ والرسوم منشورة في جدول قابل للتصفية ولم نجدها كرقم واحد."
+  },
+  "about": {
+   "en": "RUDN is a public university in Moscow. Foreign applicants apply online through a personal account at ab.rudn.ru or by email or in person. Contract-based places need an interview in the programme's language (Russian or English) and a portfolio of at least 30 of 100 points; state-funded places have no entrance exams. Russian-language preparation costs 4,900 USD a year for philology, linguistics, dentistry and general medicine and 4,300 USD for other fields. The programme search has an English-language filter.",
+   "ka": "RUDN მოსკოვის სახელმწიფო უნივერსიტეტია. უცხოელი განმცხადებლები განაცხადს ონლაინ ავსებენ ab.rudn.ru-ს პირად კაბინეტში, ან აგზავნიან ელფოსტით ან პირადად წარადგენენ. კონტრაქტით ადგილებზე საჭიროა ინტერვიუ პროგრამის სასწავლო ენაზე (რუსულად ან ინგლისურად) და პორტფოლიო მინიმუმ 30 ქულით 100-დან; სახელმწიფო დაფინანსების ადგილებზე მისაღები გამოცდები არ არის. რუსული ენის მომზადება ფილოლოგიაში, ლინგვისტიკაში, სტომატოლოგიასა და ზოგად მედიცინაში წელიწადში 4 900 აშშ დოლარია, სხვა მიმართულებებზე — 4 300. პროგრამების ძიებას ინგლისური ენის ფილტრი აქვს.",
+   "ar": "جامعة RUDN جامعة حكومية في موسكو. يتقدم الطلاب الأجانب عبر الحساب الشخصي على ab.rudn.ru أو بالبريد الإلكتروني أو حضوريا. تتطلب المقاعد التعاقدية مقابلة بلغة البرنامج (الروسية أو الإنجليزية) وملف إنجازات لا يقل عن 30 من 100 نقطة؛ أما المقاعد الممولة من الدولة فلا اختبارات قبول فيها. تكلف الدراسة التحضيرية للغة الروسية 4,900 دولار سنويا لفقه اللغة واللسانيات وطب الأسنان والطب العام و4,300 دولار للتخصصات الأخرى. ويوجد في البحث عن البرامج مرشح للغة الإنجليزية."
+  },
+  "aid_intl": {
+   "en": "State-funded places are available through the Government of the Russian Federation quota and the RUDN Open Olympiad; contract students do not receive a stipend.",
+   "ka": "სახელმწიფო დაფინანსების ადგილები ხელმისაწვდომია რუსეთის ფედერაციის მთავრობის კვოტისა და RUDN-ის ღია ოლიმპიადის გზით; კონტრაქტით მოსწავლე სტუდენტები სტიპენდიას არ იღებენ.",
+   "ar": "تتوفر مقاعد ممولة من الدولة عبر حصة حكومة الاتحاد الروسي وأولمبياد RUDN المفتوح؛ ولا يتقاضى الطلاب التعاقديون راتبا شهريا."
+  },
+  "tests": {
+   "en": "State-funded places have no entrance exams. Contract places need an interview in Russian or English and a portfolio scoring at least 30 of 100.",
+   "ka": "სახელმწიფო დაფინანსების ადგილებზე მისაღები გამოცდები არ არის. კონტრაქტის ადგილებზე საჭიროა ინტერვიუ რუსულად ან ინგლისურად და პორტფოლიო მინიმუმ 30 ქულით 100-დან.",
+   "ar": "لا توجد اختبارات قبول للمقاعد الممولة من الدولة. المقاعد التعاقدية تتطلب مقابلة بالروسية أو الإنجليزية وملف إنجازات بدرجة 30 على الأقل من 100."
+  },
+  "gpa_note": {
+   "en": "The portfolio counts your GPA from previous education, achievements from the last two years, olympiad diplomas and recommendation letters.",
+   "ka": "პორტფოლიოში ითვლება წინა განათლების საშუალო ქულა, ბოლო ორი წლის მიღწევები, ოლიმპიადის დიპლომები და სარეკომენდაციო წერილები.",
+   "ar": "يحتسب ملف الإنجازات معدلك في التعليم السابق وإنجازات آخر سنتين وشهادات الأولمبياد وخطابات التوصية."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Previous education documents with grades (GPA counted in the portfolio)",
+     "ka": "წინა განათლების დოკუმენტები ნიშნებით (საშუალო ქულა პორტფოლიოში ითვლება)",
+     "ar": "وثائق التعليم السابق مع الدرجات (يُحتسب المعدل في ملف الإنجازات)"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Interview in Russian or English",
+     "ka": "ინტერვიუ რუსულად ან ინგლისურად",
+     "ar": "مقابلة بالروسية أو الإنجليزية"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Recommendation letters (count toward the portfolio)",
+     "ka": "სარეკომენდაციო წერილები (პორტფოლიოში ითვლება)",
+     "ar": "خطابات توصية (تُحتسب في ملف الإنجازات)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Portfolio: achievements of the last two years and olympiad diplomas",
+     "ka": "პორტფოლიო: ბოლო ორი წლის მიღწევები და ოლიმპიადის დიპლომები",
+     "ar": "ملف الإنجازات: إنجازات آخر سنتين وشهادات الأولمبياد"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Government of the Russian Federation quota (state-funded places)",
+    "url": "https://international.rudn.ru/",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "russia",
+   "moscow",
+   "rudn",
+   "preparatory faculty",
+   "russian government quota",
+   "portfolio"
+  ],
+  "sources": [
+   "https://international.rudn.ru/",
+   "https://www.rudn.ru/education/fee-paying-education",
+   "https://admission.rudn.ru/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "university-of-chinese-academy-of-sciences-ucas",
+  "name": {
+   "en": "University of Chinese Academy of Sciences (UCAS)",
+   "ka": "ჩინეთის მეცნიერებათა აკადემიის უნივერსიტეტი (UCAS)",
+   "ar": "جامعة الأكاديمية الصينية للعلوم (UCAS)"
+  },
+  "iso": "CN",
+  "city": "Beijing",
+  "lat": 40.41,
+  "lon": 116.677,
+  "type": "public",
+  "website": "https://www.ucas.ac.cn",
+  "platform": "Direct (UCAS international admissions site)",
+  "application_url": "https://admission.ucas.ac.cn/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No bachelor deadline for international applicants is published; the listed international deadline of 31 January 2026 is for graduate scholarships.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Chinese"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "No bachelor entry rules for international applicants are published. The official international admissions page says UCAS recruits master's and doctoral students worldwide.",
+   "ka": "უცხოელი განმცხადებლებისთვის ბაკალავრიატის მიღების წესები გამოქვეყნებული არ არის. საერთაშორისო მიღების ოფიციალური გვერდის მიხედვით, UCAS მსოფლიოდან მაგისტრატურასა და დოქტორანტურაში იღებს სტუდენტებს.",
+   "ar": "لا توجد قواعد منشورة لقبول الطلاب الدوليين في البكالوريوس. تذكر صفحة القبول الدولي الرسمية أن UCAS تستقبل طلاب الماجستير والدكتوراه من أنحاء العالم."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Science",
+    "Engineering",
+    "Agriculture",
+    "Medicine",
+    "Management"
+   ],
+   "ka": [
+    "მეცნიერება",
+    "ინჟინერია",
+    "სოფლის მეურნეობა",
+    "მედიცინა",
+    "მენეჯმენტი"
+   ],
+   "ar": [
+    "العلوم",
+    "الهندسة",
+    "الزراعة",
+    "الطب",
+    "الإدارة"
+   ]
+  },
+  "summary": {
+   "en": "UCAS is a public university in Beijing that is part of the Chinese Academy of Sciences. Its official international admissions pages cover master's, doctoral and visiting students; no international bachelor route was found.",
+   "ka": "UCAS პეკინის სახელმწიფო უნივერსიტეტია და ჩინეთის მეცნიერებათა აკადემიის ნაწილია. მისი საერთაშორისო მიღების ოფიციალური გვერდები მაგისტრატურას, დოქტორანტურასა და მოწვეულ სტუდენტებს ეხება; უცხოელებისთვის ბაკალავრიატის გზა ვერ მოიძებნა.",
+   "ar": "UCAS جامعة حكومية في بكين وتابعة للأكاديمية الصينية للعلوم. تتناول صفحات القبول الدولي الرسمية الماجستير والدكتوراه والطلاب الزائرين؛ ولم يُعثر على مسار للبكالوريوس للطلاب الدوليين."
+  },
+  "about": {
+   "en": "UCAS is a public university in Beijing run with the Chinese Academy of Sciences. Its international admissions page states that it recruits master's and doctoral students worldwide, and offers visiting-student programmes. The undergraduate admissions pages found cover the 2026 charter for Chinese applicants, and no tuition, language requirement or deadline for international bachelor students is published. International applicants should email iso@ucas.ac.cn before planning an application.",
+   "ka": "UCAS პეკინში მდებარე სახელმწიფო უნივერსიტეტია, რომელიც ჩინეთის მეცნიერებათა აკადემიასთან ერთად მუშაობს. საერთაშორისო მიღების გვერდის მიხედვით, ის მსოფლიოდან მაგისტრატურასა და დოქტორანტურაში იღებს სტუდენტებს და სთავაზობს მოწვეული სტუდენტების პროგრამებს. ნაპოვნი ბაკალავრიატის მიღების გვერდები 2026 წლის წესდებას ეხება ჩინელი განმცხადებლებისთვის; უცხოელი ბაკალავრიატის სტუდენტებისთვის საფასური, ენის მოთხოვნა და ვადა გამოქვეყნებული არ არის. განაცხადის დაგეგმვამდე მისწერეთ iso@ucas.ac.cn-ს.",
+   "ar": "UCAS جامعة حكومية في بكين تعمل مع الأكاديمية الصينية للعلوم. تذكر صفحة القبول الدولي أنها تستقبل طلاب الماجستير والدكتوراه من أنحاء العالم وتقدم برامج للطلاب الزائرين. صفحات القبول في البكالوريوس التي وُجدت تخص ميثاق 2026 للمتقدمين الصينيين، ولا تُنشر رسوم أو شرط لغة أو موعد لطلاب البكالوريوس الدوليين. يُنصح المتقدمون الدوليون بمراسلة iso@ucas.ac.cn قبل التخطيط للتقديم."
+  },
+  "aid_intl": {
+   "en": "The Chinese Government Scholarship, the Beijing Government Scholarship and the UCAS International Student Scholarship are listed for international students, but the pages checked name them for graduate study only.",
+   "ka": "უცხოელი სტუდენტებისთვის მითითებულია ჩინეთის მთავრობის სტიპენდია, პეკინის მთავრობის სტიპენდია და UCAS-ის სტიპენდია, თუმცა შემოწმებულ გვერდებზე ისინი მხოლოდ სამაგისტრო და სადოქტორო სწავლისთვისაა დასახელებული.",
+   "ar": "تُذكر منحة الحكومة الصينية ومنحة حكومة بكين ومنحة UCAS للطلاب الدوليين، لكن الصفحات التي روجعت تذكرها للدراسات العليا فقط."
+  },
+  "tests": {
+   "en": "No entrance tests or language scores for international bachelor entry are published.",
+   "ka": "უცხოელებისთვის ბაკალავრიატში მისაღები გამოცდები ან ენის ქულები გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر اختبارات قبول أو درجات لغة لقبول الطلاب الدوليين في البكالوريوس."
+  },
+  "gpa_note": {
+   "en": "No academic requirements for international bachelor applicants are published.",
+   "ka": "უცხოელი ბაკალავრიატის განმცხადებლებისთვის აკადემიური მოთხოვნები გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر متطلبات أكاديمية للمتقدمين الدوليين إلى البكالوريوس."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "china",
+   "beijing",
+   "chinese academy of sciences",
+   "graduate focus",
+   "no international bachelor found"
+  ],
+  "sources": [
+   "https://www.ucas.ac.cn/zsjy/gjxszs/index.htm",
+   "https://english.ucas.ac.cn/index.php/admission/international-students",
+   "https://english.ucas.ac.cn/index.php/admission/undergraduate/introduction"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
   "id": "university-of-oulu",
   "name": {
    "en": "University of Oulu",
@@ -700,6 +1084,235 @@
    "https://www.oulu.fi/en/apply/international-programmes"
   ],
   "verified_at": "2026-11-01"
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "tuition_intl": null,
+  "deadline": null,
+  "intakes": [],
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "requirements": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "city-st-georges-university-of-london",
+  "name": {
+   "en": "City St George’s, University of London",
+   "ka": "სიტი სენტ ჯორჯის უნივერსიტეტი, ლონდონის უნივერსიტეტი",
+   "ar": "سيتي سانت جورج، جامعة لندن"
+  },
+  "iso": "GB",
+  "city": "London",
+  "lat": 51.528,
+  "lon": -0.102,
+  "type": "public",
+  "website": "https://citystgeorges.ac.uk",
+  "platform": null,
+  "application_url": null,
+  "deadline_note": "No deadline could be read: the university website refused automated access.",
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications_note": {
+   "en": "Accepted school qualifications are not published on the pages checked.",
+   "ka": "მისაღები სასკოლო კვალიფიკაციები შემოწმებულ გვერდებზე გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر الشهادات المدرسية المقبولة في الصفحات التي روجعت."
+  },
+  "fields": [
+   "business",
+   "law",
+   "medicine-health",
+   "social-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Law",
+    "Health Sciences",
+    "Journalism",
+    "Engineering"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "სამართალი",
+    "ჯანმრთელობის მეცნიერებები",
+    "ჟურნალისტიკა",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "الأعمال",
+    "القانون",
+    "علوم الصحة",
+    "الصحافة",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "City St George's is a University of London institution in London. Its official site could not be read in this research round, so fees, deadlines and entry rules are not filled in.",
+   "ka": "სიტი სენტ ჯორჯი ლონდონის უნივერსიტეტის ინსტიტუტია ლონდონში. მისი ოფიციალური საიტი ამ კვლევის რაუნდში ვერ წაიკითხა, ამიტომ საფასური, ვადები და მიღების წესები შევსებული არ არის.",
+   "ar": "سيتي سانت جورج مؤسسة تابعة لجامعة لندن في لندن. لم يمكن قراءة موقعها الرسمي في هذه الجولة من البحث، لذا لم تُملأ الرسوم والمواعيد وشروط القبول."
+  },
+  "about": {
+   "en": "City St George's, University of London is in London. In this research round its official website refused automated access (HTTP 403), so no admission, fee, language or deadline data could be verified. Check the undergraduate and international pages on citystgeorges.ac.uk directly.",
+   "ka": "სიტი სენტ ჯორჯი, ლონდონის უნივერსიტეტი ლონდონშია. ამ კვლევის რაუნდში მისმა ოფიციალურმა საიტმა ავტომატური წვდომა უარყო (HTTP 403), ამიტომ მიღების, საფასურის, ენისა და ვადების მონაცემები ვერ გადამოწმდა. გადაამოწმეთ ბაკალავრიატისა და საერთაშორისო გვერდები უშუალოდ citystgeorges.ac.uk-ზე.",
+   "ar": "سيتي سانت جورج، جامعة لندن، تقع في لندن. في هذه الجولة رفض موقعها الرسمي الوصول الآلي (HTTP 403)، لذا لم يمكن التحقق من بيانات القبول والرسوم واللغة والمواعيد. راجع صفحات البكالوريوس والطلاب الدوليين مباشرة على citystgeorges.ac.uk."
+  },
+  "aid_intl": {
+   "en": "Not verified: the official site could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური საიტი ვერ წაიკითხა.",
+   "ar": "لم يتم التحقق: تعذرت قراءة الموقع الرسمي."
+  },
+  "tests": {
+   "en": "Not verified: the official site could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური საიტი ვერ წაიკითხა.",
+   "ar": "لم يتم التحقق: تعذرت قراءة الموقع الرسمي."
+  },
+  "gpa_note": {
+   "en": "Not verified: the official site could not be read.",
+   "ka": "გადამოწმებული არ არის: ოფიციალური საიტი ვერ წაიკითხა.",
+   "ar": "لم يتم التحقق: تعذرت قراءة الموقع الرسمي."
+  },
+  "keywords": [
+   "uk",
+   "london",
+   "university of london",
+   "needs verification"
+  ],
+  "sources": [
+   "https://citystgeorges.ac.uk"
+  ]
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "tuition_intl": null,
+  "deadline": null,
+  "intakes": [],
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "requirements": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "cairo-university",
+  "name": {
+   "en": "Cairo University",
+   "ka": "კაიროს უნივერსიტეტი",
+   "ar": "جامعة القاهرة"
+  },
+  "iso": "EG",
+  "city": "Giza",
+  "lat": 30.027,
+  "lon": 31.209,
+  "type": "public",
+  "website": "https://www.cu.edu.eg",
+  "platform": null,
+  "application_url": "https://cu.edu.eg/International_student_services",
+  "deadline_note": "No bachelor deadline for international applicants is published on the pages checked.",
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications_note": {
+   "en": "Accepted school qualifications are not published on the pages checked.",
+   "ka": "მისაღები სასკოლო კვალიფიკაციები შემოწმებულ გვერდებზე გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر الشهادات المدرسية المقبولة في الصفحات التي روجعت."
+  },
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "medicine-health",
+   "social-sciences",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Basic and Natural Sciences",
+    "Medicine",
+    "Social Sciences",
+    "Humanities"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ძირითადი და საბუნებისმეტყველო მეცნიერებები",
+    "მედიცინა",
+    "სოციალური მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم الأساسية والطبيعية",
+    "الطب",
+    "العلوم الاجتماعية",
+    "العلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "Cairo University is a public university in Giza with undergraduate sectors in engineering, natural sciences, social sciences, medicine and humanities. The pages checked do not publish fees, deadlines or entry rules for international bachelor students.",
+   "ka": "კაიროს უნივერსიტეტი გიზაში მდებარე სახელმწიფო უნივერსიტეტია, რომელსაც ბაკალავრიატის სექტორები აქვს ინჟინერიაში, საბუნებისმეტყველო და სოციალურ მეცნიერებებში, მედიცინასა და ჰუმანიტარულ მეცნიერებებში. შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის საფასური, ვადები და მიღების წესები გამოქვეყნებული არ არის.",
+   "ar": "جامعة القاهرة جامعة حكومية في الجيزة لها قطاعات جامعية في الهندسة والعلوم الطبيعية والعلوم الاجتماعية والطب والعلوم الإنسانية. لا تنشر الصفحات التي روجعت الرسوم أو المواعيد أو شروط القبول لطلاب البكالوريوس الدوليين."
+  },
+  "about": {
+   "en": "Cairo University is a public university in Giza, Egypt. Its undergraduate programmes are grouped in five sectors: engineering, basic and natural sciences, social sciences, medical and humanities. An Expatriates Care Bureau supports international students, and an International Branch exists at ibcu.cu.edu.eg. Admission rules, tuition and language of teaching for international bachelor students were not found on the pages that could be read, so contact the bureau before applying.",
+   "ka": "კაიროს უნივერსიტეტი ეგვიპტის ქალაქ გიზაში მდებარე სახელმწიფო უნივერსიტეტია. ბაკალავრიატის პროგრამები ხუთ სექტორადაა დაჯგუფებული: ინჟინერია, ძირითადი და საბუნებისმეტყველო მეცნიერებები, სოციალური მეცნიერებები, სამედიცინო და ჰუმანიტარული. უცხოელ სტუდენტებს უჭერს მხარს Expatriates Care Bureau, ხოლო საერთაშორისო ფილიალი ibcu.cu.edu.eg-ზეა. უცხოელი ბაკალავრიატის სტუდენტებისთვის მიღების წესები, საფასური და სწავლების ენა წაკითხულ გვერდებზე ვერ მოიძებნა, ამიტომ განაცხადამდე დაუკავშირდით ბიუროს.",
+   "ar": "جامعة القاهرة جامعة حكومية في الجيزة بمصر. تنقسم برامجها الجامعية إلى خمسة قطاعات: الهندسة والعلوم الأساسية والطبيعية والعلوم الاجتماعية والطبي والإنسانية. يدعم مكتب رعاية الوافدين الطلاب الدوليين، وللجامعة فرع دولي على ibcu.cu.edu.eg. لم تُعثر في الصفحات التي أمكن قراءتها على شروط القبول والرسوم ولغة التدريس لطلاب البكالوريوس الدوليين، لذا تواصل مع المكتب قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا يوجد دعم مخصص لطلاب البكالوريوس الدوليين منشور في الصفحات التي روجعت."
+  },
+  "tests": {
+   "en": "No entrance tests or language scores for international bachelor entry were found on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელებისთვის ბაკალავრიატში მისაღები გამოცდები ან ენის ქულები ვერ მოიძებნა.",
+   "ar": "لم تُعثر في الصفحات التي روجعت على اختبارات قبول أو درجات لغة لقبول الطلاب الدوليين في البكالوريوس."
+  },
+  "gpa_note": {
+   "en": "No academic requirements for international bachelor applicants were found on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის განმცხადებლებისთვის აკადემიური მოთხოვნები ვერ მოიძებნა.",
+   "ar": "لم تُعثر في الصفحات التي روجعت على متطلبات أكاديمية للمتقدمين الدوليين إلى البكالوريوس."
+  },
+  "keywords": [
+   "egypt",
+   "giza",
+   "cairo",
+   "public",
+   "expatriate students",
+   "international branch"
+  ],
+  "sources": [
+   "https://cu.edu.eg/International_student_services",
+   "https://cu.edu.eg/UnderGraduate_Programs"
+  ]
  },
  {
   "id": "universite-de-liege",
@@ -1014,5 +1627,137 @@
    "https://www.vt.edu/about/facts-about-virginia-tech.html"
   ],
   "verified_at": "2026-11-01"
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "ENEM",
+   "SiSU selection",
+   "THE (course-specific aptitude test, some courses)"
+  ],
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "tuition_intl": null,
+  "deadline": null,
+  "intakes": [],
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "requirements": [
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "ENEM exam result and SiSU application",
+     "ka": "ENEM-ის შედეგი და SiSU განაცხადი",
+     "ar": "نتيجة اختبار ENEM وطلب SiSU"
+    }
+   }
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "id": "universidade-federal-do-rio-de-janeiro",
+  "name": {
+   "en": "Universidade Federal do Rio de Janeiro",
+   "ka": "რიო-დე-ჟანეიროს ფედერალური უნივერსიტეტი",
+   "ar": "الجامعة الفيدرالية في ريو دي جانيرو"
+  },
+  "iso": "BR",
+  "city": "Rio de Janeiro",
+  "lat": -22.862,
+  "lon": -43.225,
+  "type": "public",
+  "website": "https://ufrj.br",
+  "platform": "National system: ENEM exam and SiSU",
+  "application_url": "https://acessograduacao.ufrj.br/",
+  "deadline_note": "Dates and rules for foreign applicants are not stated on the pages checked; the undergraduate access site publishes yearly notices (editais).",
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": null,
+  "qualifications_note": {
+   "en": "Undergraduate entry is through the national ENEM exam and the SiSU system; some courses also need a specific aptitude test. Rules for foreign school diplomas are not stated on the pages checked.",
+   "ka": "ბაკალავრიატში მიღება ხდება ეროვნული გამოცდა ENEM-ითა და SiSU სისტემით; ზოგ კურსს დამატებით სპეციალური უნარების ტესტიც სჭირდება. უცხოური სასკოლო დიპლომების წესები შემოწმებულ გვერდებზე მითითებული არ არის.",
+   "ar": "يتم القبول في البكالوريوس عبر الاختبار الوطني ENEM ونظام SiSU؛ وبعض المقررات تتطلب أيضا اختبار قدرات خاصا. لم تُذكر قواعد الشهادات المدرسية الأجنبية في الصفحات التي روجعت."
+  },
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "natural-sciences",
+   "humanities",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Medicine and Health",
+    "Sciences",
+    "Humanities",
+    "Music"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მედიცინა და ჯანდაცვა",
+    "მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "მუსიკა"
+   ],
+   "ar": [
+    "الهندسة",
+    "الطب والصحة",
+    "العلوم",
+    "العلوم الإنسانية",
+    "الموسيقى"
+   ]
+  },
+  "summary": {
+   "en": "UFRJ is a federal public university in Rio de Janeiro. Undergraduate entry is through the national ENEM exam and SiSU, and the pages checked give no tuition or international bachelor rules.",
+   "ka": "UFRJ რიო-დე-ჟანეიროს ფედერალური სახელმწიფო უნივერსიტეტია. ბაკალავრიატში მიღება ხდება ეროვნული გამოცდა ENEM-ითა და SiSU-თი; შემოწმებულ გვერდებზე სწავლის საფასური და უცხოელებისთვის ბაკალავრიატის წესები მითითებული არ არის.",
+   "ar": "UFRJ جامعة فيدرالية حكومية في ريو دي جانيرو. يتم القبول في البكالوريوس عبر الاختبار الوطني ENEM ونظام SiSU، ولا تذكر الصفحات التي روجعت الرسوم أو قواعد البكالوريوس للطلاب الدوليين."
+  },
+  "about": {
+   "en": "UFRJ is a federal public university in Rio de Janeiro, Brazil. Undergraduate admission uses the national ENEM exam and the SiSU system, and each course reserves 50% of places for affirmative action for candidates from public schools. Some courses also need a course-specific test. The university's international office points applicants to the access site, and no tuition or foreign-diploma rules were found on the pages checked.",
+   "ka": "UFRJ ბრაზილიაში, რიო-დე-ჟანეიროში მდებარე ფედერალური სახელმწიფო უნივერსიტეტია. ბაკალავრიატში მიღებისთვის გამოიყენება ეროვნული გამოცდა ENEM და SiSU სისტემა; თითოეულ კურსზე ადგილების 50% განკუთვნილია საჯარო სკოლების კანდიდატებისთვის (აფირმაციული ღონისძიება). ზოგ კურსს დამატებით ცალკე ტესტი სჭირდება. საერთაშორისო ოფისი განმცხადებლებს წვდომის საიტზე აგზავნის; სწავლის საფასური და უცხოური დიპლომების წესები შემოწმებულ გვერდებზე ვერ მოიძებნა.",
+   "ar": "UFRJ جامعة فيدرالية حكومية في ريو دي جانيرو بالبرازيل. يعتمد القبول في البكالوريوس على الاختبار الوطني ENEM ونظام SiSU، وتخصص كل دورة 50% من المقاعد للإجراءات الإيجابية لخريجي المدارس الحكومية. بعض المقررات تتطلب اختبارا خاصا. يحيل المكتب الدولي المتقدمين إلى موقع الالتحاق، ولم تُعثر في الصفحات التي روجعت على الرسوم أو قواعد الشهادات الأجنبية."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا يوجد دعم مخصص لطلاب البكالوريوس الدوليين منشور في الصفحات التي روجعت."
+  },
+  "tests": {
+   "en": "Admission uses ENEM and SiSU; some courses add a course-specific aptitude test (THE). No language score for international applicants is published on the pages checked.",
+   "ka": "მიღება ხდება ENEM-ისა და SiSU-ს მეშვეობით; ზოგ კურსს დამატებით სპეციალური უნარების ტესტი (THE) სჭირდება. უცხოელი განმცხადებლებისთვის ენის ქულა შემოწმებულ გვერდებზე გამოქვეყნებული არ არის.",
+   "ar": "يعتمد القبول على ENEM وSiSU، وبعض المقررات تضيف اختبار قدرات خاصا (THE). لا توجد درجة لغة منشورة للمتقدمين الدوليين في الصفحات التي روجعت."
+  },
+  "gpa_note": {
+   "en": "No academic requirements for international bachelor applicants were found on the pages checked.",
+   "ka": "შემოწმებულ გვერდებზე უცხოელი ბაკალავრიატის განმცხადებლებისთვის აკადემიური მოთხოვნები ვერ მოიძებნა.",
+   "ar": "لم تُعثر في الصفحات التي روجعت على متطلبات أكاديمية للمتقدمين الدوليين إلى البكالوريوس."
+  },
+  "keywords": [
+   "brazil",
+   "rio de janeiro",
+   "federal",
+   "public",
+   "enem",
+   "sisu",
+   "portuguese"
+  ],
+  "sources": [
+   "https://ufrj.br/ingresso/graduacao/",
+   "https://internacional.ufrj.br/estude-na-ufrj/",
+   "https://acessograduacao.ufrj.br/"
+  ]
  }
 ]

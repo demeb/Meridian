@@ -1,0 +1,2010 @@
+[
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "universiti-kuala-lumpur-unikl",
+  "name": {
+   "en": "Universiti Kuala Lumpur (UniKL)",
+   "ka": "კუალა-ლუმპურის უნივერსიტეტი (UniKL)",
+   "ar": "جامعة كوالالمبور (UniKL)"
+  },
+  "iso": "MY",
+  "city": "Kuala Lumpur",
+  "lat": 3.172,
+  "lon": 101.7,
+  "type": "public",
+  "website": "https://www.unikl.edu.my",
+  "platform": "Direct (UniKL online admission portal)",
+  "application_url": "https://www.unikl.edu.my/how-to-apply/",
+  "deadline_note": "No bachelor deadline or intake dates are shown on the admission page; entry requirements are in a PDF for each level (Bachelor PDF updated January 2026).",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "MYR",
+   "per": null,
+   "note": "Fees are on a separate Fees and Funding page; no amounts were readable."
+  },
+  "fields": [
+   "engineering",
+   "computer-science",
+   "arts-design",
+   "medicine-health",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering technology",
+    "Aviation and marine engineering",
+    "Information technology",
+    "Design",
+    "Medical science"
+   ],
+   "ka": [
+    "საინჟინრო ტექნოლოგიები",
+    "ავიაციისა და საზღვაო ინჟინერია",
+    "საინფორმაციო ტექნოლოგიები",
+    "დიზაინი",
+    "სამედიცინო მეცნიერება"
+   ],
+   "ar": [
+    "التقنيات الهندسية",
+    "هندسة الطيران والبحرية",
+    "تقنية المعلومات",
+    "التصميم",
+    "العلوم الطبية"
+   ]
+  },
+  "summary": {
+   "en": "A Malaysian public university in Kuala Lumpur made up of 12 institutes, from engineering and aviation to design, medicine and business. Fees and international entry rules are not shown on the main admission page.",
+   "ka": "მალაიზიის საჯარო უნივერსიტეტი კუალა-ლუმპურში, რომელიც 12 ინსტიტუტისგან შედგება — ინჟინერიიდან და ავიაციიდან დიზაინამდე, მედიცინასა და ბიზნესამდე. საფასური და საერთაშორისო მიღების წესები მთავარ მისაღებ გვერდზე არ არის.",
+   "ar": "جامعة ماليزية حكومية في كوالالمبور تضم 12 معهداً، من الهندسة والطيران إلى التصميم والطب والأعمال. لا تظهر الرسوم وشروط القبول الدولية في صفحة القبول الرئيسية."
+  },
+  "about": {
+   "en": "UniKL has 12 institutes, including British-Malaysian, Malaysia-France, Malaysia-Italy Design, Aviation, Marine Engineering and the Royal College of Medicine Perak. Applicants apply online, track their status in the portal and register after speaking to an admissions representative. Entry requirements for Foundation, Diploma and Bachelor levels are in separate PDFs. Fees, intakes and English requirements were not readable on the pages fetched.",
+   "ka": "UniKL-ს 12 ინსტიტუტი აქვს, მათ შორის ბრიტანულ-მალაიზიური, მალაიზია-საფრანგეთის, მალაიზია-იტალიის დიზაინის, ავიაციის, საზღვაო ინჟინერიისა და პერაკის სამედიცინო სამეფო კოლეჯი. აბიტურიენტები განაცხადს ონლაინ აგზავნიან, სტატუსს პორტალში ამოწმებენ და რეგისტრაციას გადიან მისაღები სამსახურის წარმომადგენელთან საუბრის შემდეგ. ფაუნდეიშენის, დიპლომისა და ბაკალავრის შესვლის მოთხოვნები ცალკე PDF-ებშია. საფასური, მიღების პერიოდები და ინგლისურის მოთხოვნები წაკითხულ გვერდებზე ვერ ამოვიკითხეთ.",
+   "ar": "لدى UniKL اثنا عشر معهداً منها البريطاني-الماليزي والماليزي-الفرنسي والماليزي-الإيطالي للتصميم والطيران والهندسة البحرية والكلية الملكية للطب في بيراك. يقدّم المتقدمون طلبهم إلكترونياً ويتابعون حالته في البوابة ثم يسجّلون بعد التواصل مع ممثل القبول. شروط الدخول لمستويات التأسيس والدبلوم والبكالوريوس في ملفات PDF منفصلة. لم تتوفر الرسوم وفترات القبول ومتطلبات الإنجليزية في الصفحات التي قُرئت."
+  },
+  "tests": {
+   "en": "No entrance test or language requirement could be confirmed from the pages read.",
+   "ka": "წაკითხულ გვერდებზე მისაღები გამოცდა ან ენის მოთხოვნა ვერ დადასტურდა.",
+   "ar": "لم يمكن تأكيد أي اختبار قبول أو شرط لغوي من الصفحات التي قُرئت."
+  },
+  "gpa_note": {
+   "en": "Bachelor entry requirements are in a PDF on the admission page (updated January 2026).",
+   "ka": "ბაკალავრის შესვლის მოთხოვნები მისაღები გვერდის PDF-შია (განახლებულია 2026 წლის იანვარში).",
+   "ar": "شروط القبول للبكالوريوس في ملف PDF بصفحة القبول (محدّث في يناير 2026)."
+  },
+  "requirements": [
+   {
+    "key": "application_form",
+    "label": {
+     "en": "Online application form",
+     "ka": "ონლაინ განაცხადის ფორმა",
+     "ar": "استمارة التقديم الإلكترونية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency proof",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "keywords": [
+   "malaysia",
+   "kuala lumpur",
+   "engineering technology",
+   "aviation",
+   "public university"
+  ],
+  "sources": [
+   "https://www.unikl.edu.my",
+   "https://www.unikl.edu.my/undergraduate-admission/"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The undergraduate page lists STPM, Matriculation, STAM, Diploma and A-Level/IB as accepted entry qualifications.",
+   "ka": "საბაკალავრო გვერდზე მისაღებ კვალიფიკაციებად მითითებულია STPM, მატრიკულაცია, STAM, დიპლომი და A-Level/IB.",
+   "ar": "تذكر صفحة البكالوريوس أن المؤهلات المقبولة هي STPM والمتريكولاشن وSTAM والدبلوم وA-Level/IB."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "universiti-malaysia-kelantan",
+  "name": {
+   "en": "Universiti Malaysia Kelantan",
+   "ka": "კელანტანის მალაიზიის უნივერსიტეტი",
+   "ar": "جامعة ماليزيا كلنتن"
+  },
+  "iso": "MY",
+  "city": "Bachok",
+  "lat": 5.979,
+  "lon": 102.404,
+  "type": "public",
+  "website": "https://www.umk.edu.my",
+  "platform": "Direct (capsule.umk.edu.my) and national UPU placement for Malaysians",
+  "application_url": "https://capsule.umk.edu.my/apply",
+  "deadline_note": "No international bachelor deadline is published on the pages read; the international portal (UMKi) could not be reached.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "MYR",
+   "per": null,
+   "note": "No fee table was readable; see the 2026 entry requirements handbook and UMKi."
+  },
+  "languages": [
+   "Malay",
+   "English"
+  ],
+  "fields": [
+   "business",
+   "environment",
+   "natural-sciences",
+   "engineering",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Entrepreneurship",
+    "Business and hospitality",
+    "Agro-technology and bioscience",
+    "Creative technology"
+   ],
+   "ka": [
+    "მეწარმეობა",
+    "ბიზნესი და სტუმართმოყვარეობა",
+    "აგროტექნოლოგია და ბიომეცნიერებები",
+    "კრეატიული ტექნოლოგია"
+   ],
+   "ar": [
+    "ريادة الأعمال",
+    "الأعمال والضيافة",
+    "التقنية الزراعية والعلوم الحيوية",
+    "التقنية الإبداعية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Kelantan, Malaysia, with campuses at Bachok, Kota Bharu and Jeli and a focus on entrepreneurship. It accepts A-Level and IB among its entry qualifications.",
+   "ka": "საჯარო უნივერსიტეტი კელანტანში, მალაიზია, კამპუსებით ბაჩოკში, კოტა-ბარუსა და ჯელიში; აქცენტი მეწარმეობაზეა. შესვლისთვის მისაღებ კვალიფიკაციებში A-Level და IB შედის.",
+   "ar": "جامعة حكومية في كلنتن بماليزيا ولها فروع في باتشوك وكوتا بارو وجيلي، وتركز على ريادة الأعمال. من مؤهلات القبول المقبولة A-Level وIB."
+  },
+  "about": {
+   "en": "Universiti Malaysia Kelantan describes itself as an entrepreneurship-focused public university with campuses at Bachok (main), Kota Bharu and Jeli. Applications are made online; the 2026 entry requirements handbook lists accepted qualifications, including A-Level and IB. International students are handled by its International Office (UMKi), whose page could not be reached. Fees and deadlines for international bachelor applicants were not readable.",
+   "ka": "კელანტანის მალაიზიის უნივერსიტეტი თავს მეწარმეობაზე ორიენტირებულ საჯარო უნივერსიტეტად წარმოაჩენს; კამპუსებია ბაჩოკში (მთავარი), კოტა-ბარუსა და ჯელიში. განაცხადი ონლაინ იგზავნება; 2026 წლის შესვლის მოთხოვნების სახელმძღვანელოში მისაღები კვალიფიკაციებია, მათ შორის A-Level და IB. საერთაშორისო სტუდენტებს საერთაშორისო ოფისი (UMKi) ემსახურება, რომლის გვერდიც ვერ გაიხსნა. საერთაშორისო ბაკალავრიატის საფასური და ვადები ვერ ამოვიკითხეთ.",
+   "ar": "تصف جامعة ماليزيا كلنتن نفسها بأنها جامعة حكومية تركز على ريادة الأعمال ولها فروع في باتشوك (الرئيسي) وكوتا بارو وجيلي. يُقدَّم الطلب إلكترونياً، ويذكر دليل شروط القبول لعام 2026 المؤهلات المقبولة ومنها A-Level وIB. يتولى المكتب الدولي (UMKi) شؤون الطلاب الدوليين، ولم تُفتح صفحته. لم تتوفر رسوم ومواعيد المتقدمين الدوليين إلى البكالوريوس."
+  },
+  "tests": {
+   "en": "No entrance test or language requirement could be confirmed from the pages read.",
+   "ka": "წაკითხულ გვერდებზე მისაღები გამოცდა ან ენის მოთხოვნა ვერ დადასტურდა.",
+   "ar": "لم يمكن تأكيد أي اختبار قبول أو شرط لغوي من الصفحات التي قُرئت."
+  },
+  "gpa_note": {
+   "en": "Programme-level requirements are in the 2026 entry requirements handbook (PDF).",
+   "ka": "პროგრამების დონეზე მოთხოვნები 2026 წლის შესვლის მოთხოვნების სახელმძღვანელოშია (PDF).",
+   "ar": "متطلبات كل برنامج في دليل شروط القبول لعام 2026 (PDF)."
+  },
+  "requirements": [
+   {
+    "key": "application_form",
+    "label": {
+     "en": "Online application form",
+     "ka": "ონლაინ განაცხადის ფორმა",
+     "ar": "استمارة التقديم الإلكترونية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency proof",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "keywords": [
+   "malaysia",
+   "kelantan",
+   "bachok",
+   "entrepreneurship",
+   "public university"
+  ],
+  "sources": [
+   "https://www.umk.edu.my",
+   "https://study.umk.edu.my/"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": 19057,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "DSH",
+   "German language certificate",
+   "Feststellungsprüfung (Studienkolleg)"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "Scholarships are limited, mostly one-semester grants covering about half of living costs, and need at least two semesters at Augsburg.",
+   "ka": "სტიპენდიები შეზღუდულია, ძირითადად ერთსემესტრიანი გრანტებია, რომლებიც საცხოვრებელი ხარჯების დაახლოებით ნახევარს ფარავს და აუგსბურგში მინიმუმ ორი სემესტრის სწავლას მოითხოვს.",
+   "ar": "المنح محدودة وغالباً لفصل دراسي واحد وتغطي نحو نصف تكاليف المعيشة، وتتطلب فصلين دراسيين على الأقل في أوغسبورغ."
+  },
+  "qualifications_note": {
+   "en": "A German or foreign entrance qualification (HZB) is required; foreign certificates need a uni-assist preliminary review (VPD, 6-8 weeks) and are checked against anabin. Applicants from India, China and Vietnam also need an APS certificate.",
+   "ka": "საჭიროა გერმანული ან უცხოური უმაღლესში შესვლის კვალიფიკაცია (HZB); უცხოური დოკუმენტები უნდა გაიაროს uni-assist-ის წინასწარი შემოწმება (VPD, 6–8 კვირა) და anabin-ით მოწმდება. ინდოეთის, ჩინეთისა და ვიეტნამის განმცხადებლებს APS სერტიფიკატიც სჭირდებათ.",
+   "ar": "يلزم مؤهل دخول جامعي ألماني أو أجنبي (HZB)؛ وتحتاج الشهادات الأجنبية إلى مراجعة أولية عبر uni-assist (VPD، من 6 إلى 8 أسابيع) وتُفحص عبر anabin. ويحتاج المتقدمون من الهند والصين وفيتنام إلى شهادة APS."
+  },
+  "intakes": [
+   "October",
+   "April"
+  ],
+  "deadline": "2027-01-15",
+  "id": "university-of-augsburg",
+  "name": {
+   "en": "University of Augsburg",
+   "ka": "აუგსბურგის უნივერსიტეტი",
+   "ar": "جامعة أوغسبورغ"
+  },
+  "iso": "DE",
+  "city": "Augsburg",
+  "lat": 48.333,
+  "lon": 10.898,
+  "type": "public",
+  "website": "https://www.uni-augsburg.de",
+  "platform": "uni-assist preliminary review (VPD) + VIBS online portal",
+  "application_url": "https://www.uni-augsburg.de/en/studium/bewerbung/bewerbung/internationale-bewerber/",
+  "deadline_note": "Published for summer semester 2027: 15 January 2027 for restricted (NC), aptitude-test and Studienkolleg/DSH applicants; 17 March 2027 for open-admission programmes with enough German. The winter 2027/28 dates are not yet published.",
+  "tuition_intl": {
+   "amount": 0,
+   "currency": "EUR",
+   "per": "year",
+   "note": "No tuition fees are charged. A semester contribution (student union and semester ticket) applies; budget EUR 1,000-1,300 per month for living; visa proof of funds is a EUR 12,000 blocked account."
+  },
+  "languages": [
+   "German",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "law",
+   "business",
+   "economics",
+   "humanities",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Law",
+    "Business and economics",
+    "Computer science",
+    "Humanities",
+    "Natural sciences"
+   ],
+   "ka": [
+    "სამართალი",
+    "ბიზნესი და ეკონომიკა",
+    "კომპიუტერული მეცნიერება",
+    "ჰუმანიტარული მეცნიერებები",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "القانون",
+    "الأعمال والاقتصاد",
+    "علوم الحاسوب",
+    "العلوم الإنسانية",
+    "العلوم الطبيعية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Augsburg, Bavaria, with 19,057 students and 93 degree programmes. No tuition fees are charged; most bachelor programmes are taught in German.",
+   "ka": "საჯარო უნივერსიტეტი აუგსბურგში (ბავარია), 19 057 სტუდენტითა და 93 სამაგისტრო-საბაკალავრო პროგრამით. სწავლის საფასური არ არის; ბაკალავრიატის უმეტესობა გერმანულადაა.",
+   "ar": "جامعة حكومية في أوغسبورغ ببافاريا فيها 19057 طالباً و93 برنامجاً. لا تُفرض رسوم دراسية، ومعظم برامج البكالوريوس بالألمانية."
+  },
+  "about": {
+   "en": "The University of Augsburg has 19,057 students and 93 degree programmes. International bachelor applicants with a foreign school certificate first get a preliminary review at uni-assist, then apply in the university's online portal. Most programmes need very good German; only a few are taught fully in English. The university charges no tuition fees, only a semester contribution. Living costs are about EUR 1,000 to 1,300 a month.",
+   "ka": "აუგსბურგის უნივერსიტეტს 19 057 სტუდენტი და 93 სასწავლო პროგრამა აქვს. უცხოური ატესტატის მქონე საერთაშორისო ბაკალავრიატის აბიტურიენტები ჯერ uni-assist-ში გადიან წინასწარ შემოწმებას, შემდეგ კი უნივერსიტეტის ონლაინ პორტალში აგზავნიან განაცხადს. პროგრამების უმეტესობას გერმანულის ძალიან კარგი ცოდნა სჭირდება; მხოლოდ რამდენიმეა სრულად ინგლისურ ენაზე. უნივერსიტეტი სწავლის საფასურს არ იღებს, მხოლოდ სემესტრულ შენატანს. საცხოვრებელი ხარჯი თვეში დაახლოებით 1 000–1 300 ევროა.",
+   "ar": "في جامعة أوغسبورغ 19057 طالباً و93 برنامجاً. يمرّ المتقدمون الدوليون إلى البكالوريوس بشهادة مدرسية أجنبية بمراجعة أولية في uni-assist ثم يقدّمون عبر بوابة الجامعة الإلكترونية. تتطلب معظم البرامج ألمانية جيدة جداً، وقلة منها تُدرَّس بالإنجليزية بالكامل. لا تفرض الجامعة رسوماً دراسية بل مساهمة فصلية فقط. تبلغ تكاليف المعيشة نحو 1000 إلى 1300 يورو شهرياً."
+  },
+  "tests": {
+   "en": "Most programmes need very good German (level shown on each programme page); the DSH exam can be taken in place of a certificate for open-admission programmes. Studienkolleg applicants need B2 German.",
+   "ka": "პროგრამების უმეტესობას გერმანულის ძალიან კარგი ცოდნა სჭირდება (დონე თითოეული პროგრამის გვერდზეა); თავისუფალი მიღების პროგრამებისთვის სერტიფიკატის ნაცვლად შეიძლება DSH გამოცდის ჩაბარება. Studienkolleg-ის განმცხადებლებს გერმანულის B2 სჭირდებათ.",
+   "ar": "تتطلب معظم البرامج ألمانية جيدة جداً (المستوى مذكور في صفحة كل برنامج)، ويمكن أداء امتحان DSH بدل الشهادة في البرامج ذات القبول الحر. يحتاج المتقدمون إلى Studienkolleg مستوى B2 في الألمانية."
+  },
+  "gpa_note": {
+   "en": "Restricted (NC) programmes admit by grade; the foreign certificate must count as a German university entrance qualification.",
+   "ka": "შეზღუდული მიღების (NC) პროგრამები ქულებით იღებენ; უცხოური ატესტატი გერმანული უმაღლესში შესვლის კვალიფიკაციის ტოლფასად უნდა ჩაითვალოს.",
+   "ar": "تقبل البرامج المقيّدة (NC) حسب الدرجات، ويجب أن تُعادل الشهادة الأجنبية مؤهل الدخول الجامعي الألماني."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of the school diploma",
+     "ka": "საშუალო განათლების დოკუმენტის აღიარება",
+     "ar": "معادلة شهادة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language proficiency proof",
+     "ka": "ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان لغة التدريس"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV",
+     "ka": "ბიოგრაფია (CV)",
+     "ar": "السيرة الذاتية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Preliminary review documentation (VPD) and certified copies",
+     "ka": "წინასწარი შემოწმების დოკუმენტი (VPD) და დამოწმებული ასლები",
+     "ar": "وثيقة المراجعة الأولية (VPD) ونسخ مصدّقة"
+    }
+   }
+  ],
+  "keywords": [
+   "germany",
+   "augsburg",
+   "bavaria",
+   "no tuition",
+   "uni-assist"
+  ],
+  "sources": [
+   "https://www.uni-augsburg.de/en/",
+   "https://www.uni-augsburg.de/en/studium/bewerbung/bewerbung/internationale-bewerber/",
+   "https://www.uni-augsburg.de/en/portal/internationals/abschluss/costs-financing-scholarships/",
+   "https://www.uni-augsburg.de/en/portal/internationals/abschluss/language-skills/"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [
+   {
+    "name": "Chinese Government Scholarship and UIBE Scholarship",
+    "url": "https://english.uibe.edu.cn/admissions/scholarships/index.htm",
+    "coverage": "partial"
+   }
+  ],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "The Chinese Government Scholarship and a UIBE Scholarship are listed for international students; coverage is not stated on the pages read.",
+   "ka": "საერთაშორისო სტუდენტებისთვის მითითებულია ჩინეთის მთავრობის სტიპენდია და UIBE-ს სტიპენდია; დაფარვა წაკითხულ გვერდებზე არ არის მოცემული.",
+   "ar": "تُذكر منحة الحكومة الصينية ومنحة UIBE للطلاب الدوليين؛ ولم تُذكر نسبة التغطية في الصفحات التي قُرئت."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "university-of-international-business-and-economics",
+  "name": {
+   "en": "University of International Business and Economics",
+   "ka": "საერთაშორისო ბიზნესისა და ეკონომიკის უნივერსიტეტი",
+   "ar": "جامعة الأعمال والاقتصاد الدولي"
+  },
+  "iso": "CN",
+  "city": "Beijing",
+  "lat": 39.98,
+  "lon": 116.428,
+  "type": "public",
+  "website": "https://www.uibe.edu.cn",
+  "platform": "Direct (School of International Education, sie.uibe.edu.cn)",
+  "application_url": "https://sie.uibe.edu.cn/",
+  "deadline_note": "No deadline could be read; the international admission pages show only menus.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "CNY",
+   "per": "year",
+   "note": "Not readable on the pages fetched."
+  },
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "fields": [
+   "business",
+   "economics",
+   "law",
+   "international-relations",
+   "languages"
+  ],
+  "strengths": {
+   "en": [
+    "International business",
+    "Economics",
+    "Law",
+    "Foreign languages"
+   ],
+   "ka": [
+    "საერთაშორისო ბიზნესი",
+    "ეკონომიკა",
+    "სამართალი",
+    "უცხო ენები"
+   ],
+   "ar": [
+    "الأعمال الدولية",
+    "الاقتصاد",
+    "القانون",
+    "اللغات الأجنبية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Beijing focused on international business, economics and law. Its International College handles foreign students; fees and deadlines were not readable.",
+   "ka": "საჯარო უნივერსიტეტი პეკინში, რომელიც საერთაშორისო ბიზნესზე, ეკონომიკასა და სამართალზეა ორიენტირებული. უცხოელ სტუდენტებს საერთაშორისო კოლეჯი ემსახურება; საფასური და ვადები ვერ ამოვიკითხეთ.",
+   "ar": "جامعة حكومية في بكين تركز على الأعمال الدولية والاقتصاد والقانون. تتولى الكلية الدولية شؤون الطلاب الأجانب، ولم تتوفر الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "UIBE is a public university on Huixin East Street, Chaoyang District, Beijing. Its School of International Education handles recruitment, admission, enrolment, visas and services for foreign students, and lists Bachelor's and International Undergraduate Programs, an application guide and an online form. The Chinese Government Scholarship and a UIBE Scholarship are listed. Tuition, deadlines and entry tests were not readable.",
+   "ka": "UIBE საჯარო უნივერსიტეტია პეკინში, ჩაოიანგის რაიონში, ჰუისინ-აღმოსავლეთის ქუჩაზე. მისი საერთაშორისო განათლების სკოლა უცხოელი სტუდენტების მიღებას, რეგისტრაციას, ვიზებსა და მომსახურებას უძღვება და აქვს საბაკალავრო და საერთაშორისო საბაკალავრო პროგრამები, განაცხადის გზამკვლევი და ონლაინ ფორმა. მითითებულია ჩინეთის მთავრობის სტიპენდია და UIBE-ს სტიპენდია. სწავლის საფასური, ვადები და მისაღები ტესტები ვერ ამოვიკითხეთ.",
+   "ar": "UIBE جامعة حكومية في شارع هويشين الشرقي بمنطقة تشاويانغ في بكين. تتولى كلية التعليم الدولي فيها الاستقطاب والقبول والتسجيل والتأشيرات وخدمات الطلاب الأجانب، وتعرض برامج البكالوريوس والبرامج الجامعية الدولية ودليل التقديم واستمارة إلكترونية. وتُذكر منحة الحكومة الصينية ومنحة UIBE. لم تتوفر الرسوم والمواعيد واختبارات القبول."
+  },
+  "tests": {
+   "en": "No entrance test or language requirement could be confirmed from the pages read.",
+   "ka": "წაკითხულ გვერდებზე მისაღები გამოცდა ან ენის მოთხოვნა ვერ დადასტურდა.",
+   "ar": "لم يمكن تأكيد أي اختبار قبول أو شرط لغوي من الصفحات التي قُرئت."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international applicants are not available on the pages read.",
+   "ka": "საერთაშორისო აბიტურიენტებისთვის აკადემიური მოთხოვნები წაკითხულ გვერდებზე ხელმისაწვდომი არ არის.",
+   "ar": "الشروط الأكاديمية للمتقدمين الدوليين غير متاحة في الصفحات التي قُرئت."
+  },
+  "requirements": [
+   {
+    "key": "application_form",
+    "label": {
+     "en": "Online application form",
+     "ka": "ონლაინ განაცხადის ფორმა",
+     "ar": "استمارة التقديم الإلكترونية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate or other supplementary documents",
+     "ka": "სამედიცინო ცნობა ან დამატებითი დოკუმენტები",
+     "ar": "شهادة طبية أو مستندات إضافية"
+    }
+   }
+  ],
+  "keywords": [
+   "china",
+   "beijing",
+   "business",
+   "economics",
+   "public university"
+  ],
+  "sources": [
+   "https://www.uibe.edu.cn",
+   "https://sie.uibe.edu.cn/",
+   "https://english.uibe.edu.cn/"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "DSH",
+   "Feststellungsprüfung (Studienkolleg)"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "A foreign certificate must be equivalent to the German Abitur. If it is not, a Feststellungsprüfung at a German Studienkolleg is needed; RPTU does not offer it. Applicants from China, Vietnam and India must add the APS certificate.",
+   "ka": "უცხოური ატესტატი გერმანული Abitur-ის ეკვივალენტური უნდა იყოს. თუ არ არის, საჭიროა Feststellungsprüfung გერმანულ Studienkolleg-ში; RPTU მას არ ატარებს. ჩინეთის, ვიეტნამისა და ინდოეთის განმცხადებლებმა APS სერტიფიკატიც უნდა დაურთონ.",
+   "ar": "يجب أن تكون الشهادة الأجنبية معادلة للأبيتور الألماني، وإلا لزم اجتياز Feststellungsprüfung في Studienkolleg ألماني (لا تقدمه RPTU). على المتقدمين من الصين وفيتنام والهند إرفاق شهادة APS."
+  },
+  "intakes": [
+   "October",
+   "April"
+  ],
+  "deadline": "2027-06-15",
+  "id": "university-of-kaiserslautern-landau-rptu",
+  "name": {
+   "en": "University of Kaiserslautern-Landau (RPTU)",
+   "ka": "კაიზერსლაუტერნ-ლანდაუს უნივერსიტეტი (RPTU)",
+   "ar": "جامعة كايزرسلاوترن-لانداو (RPTU)"
+  },
+  "iso": "DE",
+  "city": "Kaiserslautern",
+  "lat": 49.424,
+  "lon": 7.752,
+  "type": "public",
+  "website": "https://rptu.de",
+  "platform": "Kaiserslautern: studium.rptu.de; Landau: uni-assist",
+  "application_url": "https://rptu.de/international/bachelor/home",
+  "deadline_note": "Non-EU applicants: 15 June for the winter semester and 15 December for the summer semester (restricted and open programmes alike); EU applicants apply later. Landau open programmes have later dates for EU applicants only.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "No fee table was read; certificate evaluation costs EUR 60 in Kaiserslautern."
+  },
+  "languages": [
+   "German",
+   "English"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "mathematics",
+   "education",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Mathematics and natural sciences",
+    "Education and psychology",
+    "Environmental sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "მათემატიკა და საბუნებისმეტყველო მეცნიერებები",
+    "განათლება და ფსიქოლოგია",
+    "გარემოს მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "الرياضيات والعلوم الطبيعية",
+    "التربية وعلم النفس",
+    "علوم البيئة"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Rhineland-Palatinate with campuses in Kaiserslautern and Landau and over 160 degree programmes. Non-EU bachelor applicants must prove an entrance qualification equal to the Abitur and German.",
+   "ka": "საჯარო უნივერსიტეტი რაინლანდ-პფალცში, კამპუსებით კაიზერსლაუტერნსა და ლანდაუში და 160-ზე მეტი პროგრამით. ევროკავშირს გარეთ მყოფმა ბაკალავრიატის აბიტურიენტებმა Abitur-ის ტოლფასი კვალიფიკაცია და გერმანულის ცოდნა უნდა დაადასტურონ.",
+   "ar": "جامعة حكومية في راينلاند-بفالتس لها فرعان في كايزرسلاوترن ولانداو وأكثر من 160 برنامجاً. على المتقدمين من خارج الاتحاد الأوروبي إثبات مؤهل معادل للأبيتور وإتقان الألمانية."
+  },
+  "about": {
+   "en": "RPTU offers over 160 degree programmes to people from more than 120 countries, on two campuses. Non-EU bachelor applicants apply by 15 June for winter and 15 December for summer. Kaiserslautern applications go through its own portal and certificate evaluation costs EUR 60; Landau uses uni-assist. German proof is needed unless the programme says otherwise.",
+   "ka": "RPTU 120-ზე მეტი ქვეყნის წარმომადგენლებს სთავაზობს 160-ზე მეტ საგანმანათლებლო პროგრამას ორ კამპუსზე. ევროკავშირს გარეთ მყოფი ბაკალავრიატის აბიტურიენტები განაცხადს აგზავნიან ზამთრის სემესტრისთვის 15 ივნისამდე, ზაფხულისთვის — 15 დეკემბრამდე. კაიზერსლაუტერნის განაცხადები საკუთარ პორტალზე გადის და ატესტატის შეფასება 60 ევრო ღირს; ლანდაუ uni-assist-ს იყენებს. გერმანულის დამადასტურებელი დოკუმენტი საჭიროა, თუ პროგრამა სხვა რამეს არ ითვალისწინებს.",
+   "ar": "تقدّم RPTU أكثر من 160 برنامجاً لأشخاص من أكثر من 120 دولة في فرعين. يقدّم المتقدمون من خارج الاتحاد الأوروبي إلى البكالوريوس طلباتهم قبل 15 يونيو للفصل الشتوي و15 ديسمبر للفصل الصيفي. تمرّ طلبات كايزرسلاوترن عبر بوابتها الخاصة وتكلّف معادلة الشهادة 60 يورو، بينما تستخدم لانداو uni-assist. يلزم إثبات الألمانية ما لم ينصّ البرنامج على غير ذلك."
+  },
+  "tests": {
+   "en": "German proof is needed if the certificate is not German; a DSH preparation course is possible in Kaiserslautern. English requirements are set in each programme's regulations.",
+   "ka": "გერმანულის დამადასტურებელი საჭიროა, თუ ატესტატი გერმანული არ არის; კაიზერსლაუტერნში შესაძლებელია DSH-ის მოსამზადებელი კურსი. ინგლისურის მოთხოვნები თითოეული პროგრამის დებულებაშია.",
+   "ar": "يلزم إثبات الألمانية إذا لم تكن الشهادة ألمانية، ويمكن في كايزرسلاوترن حضور دورة تحضيرية لـ DSH. تُحدَّد متطلبات الإنجليزية في لوائح كل برنامج."
+  },
+  "gpa_note": {
+   "en": "The foreign certificate must equal the German Abitur; restricted programmes admit by grade.",
+   "ka": "უცხოური ატესტატი გერმანული Abitur-ის ტოლფასი უნდა იყოს; შეზღუდული პროგრამები ქულებით იღებენ.",
+   "ar": "يجب أن تعادل الشهادة الأجنبية الأبيتور الألماني؛ وتقبل البرامج المقيّدة حسب الدرجات."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of the school diploma",
+     "ka": "საშუალო განათლების დოკუმენტის აღიარება",
+     "ar": "معادلة شهادة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language proficiency proof",
+     "ka": "ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان لغة التدريس"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Certificate evaluation fee (EUR 60, Kaiserslautern)",
+     "ka": "ატესტატის შეფასების საფასური (60 ევრო, კაიზერსლაუტერნი)",
+     "ar": "رسوم تقييم الشهادة (60 يورو، كايزرسلاوترن)"
+    }
+   }
+  ],
+  "keywords": [
+   "germany",
+   "kaiserslautern",
+   "landau",
+   "engineering",
+   "uni-assist"
+  ],
+  "sources": [
+   "https://rptu.de",
+   "https://rptu.de/studium/vor-dem-studium/bewerbung",
+   "https://rptu.de/international/bachelor/home"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "university-of-kerbala",
+  "name": {
+   "en": "University of Kerbala",
+   "ka": "კერბალას უნივერსიტეტი",
+   "ar": "جامعة كربلاء"
+  },
+  "iso": "IQ",
+  "city": "Karbala",
+  "lat": 32.616,
+  "lon": 44.024,
+  "type": "public",
+  "website": "https://www.uokerbala.edu.iq",
+  "platform": null,
+  "application_url": null,
+  "deadline_note": "The official site returned an access error (406), so nothing could be checked.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": null,
+   "note": "Not published on a page that could be read."
+  },
+  "languages": [
+   "Arabic"
+  ],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "humanities",
+   "natural-sciences",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine and health",
+    "Engineering",
+    "Sciences"
+   ],
+   "ka": [
+    "მედიცინა და ჯანდაცვა",
+    "ინჟინერია",
+    "მეცნიერებები"
+   ],
+   "ar": [
+    "الطب والصحة",
+    "الهندسة",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Karbala, Iraq. Its website blocked automated access, so admission details for foreign applicants could not be checked.",
+   "ka": "საჯარო უნივერსიტეტი კერბელაში, ერაყი. ვებგვერდმა ავტომატური წვდომა დაბლოკა, ამიტომ უცხოელი აბიტურიენტების მიღების დეტალები ვერ შემოწმდა.",
+   "ar": "جامعة حكومية في كربلاء بالعراق. منع موقعها الوصول الآلي، لذلك لم يمكن التحقق من تفاصيل القبول للمتقدمين الأجانب."
+  },
+  "about": {
+   "en": "The University of Kerbala is a public university in Karbala, Iraq. Its official website returned a 406 error to every request, so size, fees, deadlines and the application route for international bachelor applicants could not be confirmed. Iraqi public universities take foreign students through the national Study in Iraq programme, but this was not confirmed for Kerbala. Applicants should contact the university.",
+   "ka": "კერბალას უნივერსიტეტი საჯარო უნივერსიტეტია ქალაქ კერბელაში, ერაყი. ოფიციალურმა ვებგვერდმა ყველა მოთხოვნას 406 შეცდომით უპასუხა, ამიტომ ზომა, საფასური, ვადები და საერთაშორისო ბაკალავრიატის განაცხადის გზა ვერ დადასტურდა. ერაყის საჯარო უნივერსიტეტები უცხოელებს ეროვნული „ისწავლე ერაყში“ პროგრამით იღებენ, მაგრამ კერბალასთან დაკავშირებით ეს არ დადასტურდა. აბიტურიენტებმა უნივერსიტეტს უნდა მიმართონ.",
+   "ar": "جامعة كربلاء جامعة حكومية في كربلاء بالعراق. أعاد موقعها الرسمي خطأ 406 لكل الطلبات، لذلك لم يمكن تأكيد الحجم والرسوم والمواعيد ومسار التقديم للمتقدمين الدوليين إلى البكالوريوس. تقبل الجامعات الحكومية العراقية الطلاب الأجانب عبر برنامج «ادرس في العراق» الوطني، لكن ذلك لم يُؤكَّد لجامعة كربلاء. ينبغي التواصل مع الجامعة."
+  },
+  "tests": {
+   "en": "No entrance test or language requirement could be confirmed from the pages read.",
+   "ka": "წაკითხულ გვერდებზე მისაღები გამოცდა ან ენის მოთხოვნა ვერ დადასტურდა.",
+   "ar": "لم يمكن تأكيد أي اختبار قبول أو شرط لغوي من الصفحات التي قُرئت."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international applicants are not available on the pages read.",
+   "ka": "საერთაშორისო აბიტურიენტებისთვის აკადემიური მოთხოვნები წაკითხულ გვერდებზე ხელმისაწვდომი არ არის.",
+   "ar": "الشروط الأكاديمية للمتقدمين الدوليين غير متاحة في الصفحات التي قُرئت."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of the school diploma",
+     "ka": "საშუალო განათლების დოკუმენტის აღიარება",
+     "ar": "معادلة شهادة الثانوية"
+    }
+   }
+  ],
+  "keywords": [
+   "iraq",
+   "karbala",
+   "kerbala",
+   "public university",
+   "arabic"
+  ],
+  "sources": []
+ },
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [
+   {
+    "name": "Study in Iraq (fully or partly funded places)",
+    "url": "https://uokufa.edu.iq/uokforeignscholarship",
+    "coverage": "full"
+   }
+  ],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "Study in Iraq offers fully funded places (tuition waiver and university housing) and partly funded places.",
+   "ka": "„ისწავლე ერაყში“ სთავაზობს სრულად დაფინანსებულ ადგილებს (სწავლის საფასურის გაუქმება და უნივერსიტეტის საცხოვრებელი) და ნაწილობრივ დაფინანსებულ ადგილებს.",
+   "ar": "يوفّر برنامج «ادرس في العراق» مقاعد بتمويل كامل (إعفاء من الرسوم وسكن جامعي) ومقاعد بتمويل جزئي."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "university-of-kufa",
+  "name": {
+   "en": "University of Kufa",
+   "ka": "კუფას უნივერსიტეტი",
+   "ar": "جامعة الكوفة"
+  },
+  "iso": "IQ",
+  "city": "Kufa",
+  "lat": 32.025,
+  "lon": 44.37,
+  "type": "public",
+  "website": "https://uokufa.edu.iq",
+  "platform": "Study in Iraq national portal (Ministry of Higher Education)",
+  "application_url": "https://studyiniraq.scrd-gate.gov.iq/Home",
+  "deadline_note": "No application deadline is published on the Study in Iraq page.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "IQD",
+   "per": "year",
+   "note": "Self-funded students pay under a published tuition schedule; no amounts were readable. Fully and partly funded places exist."
+  },
+  "languages": [
+   "Arabic"
+  ],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "law",
+   "natural-sciences",
+   "economics",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Pharmacy and dentistry",
+    "Law",
+    "Agriculture and veterinary medicine"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "ფარმაცია და სტომატოლოგია",
+    "სამართალი",
+    "სოფლის მეურნეობა და ვეტერინარია"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "الصيدلة وطب الأسنان",
+    "القانون",
+    "الزراعة والطب البيطري"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Najaf Governorate, Iraq, with about 21 colleges from medicine and engineering to law and languages. Foreign students apply through the national Study in Iraq programme; teaching is in Arabic.",
+   "ka": "საჯარო უნივერსიტეტი ნაჯაფის გუბერნიაში, ერაყი, დაახლოებით 21 კოლეჯით — მედიცინიდან და ინჟინერიიდან სამართლამდე და ენებამდე. უცხოელები განაცხადს ეროვნული „ისწავლე ერაყში“ პროგრამით აგზავნიან; სწავლება არაბულადაა.",
+   "ar": "جامعة حكومية في محافظة النجف بالعراق فيها نحو 21 كلية من الطب والهندسة إلى القانون واللغات. يتقدم الطلاب الأجانب عبر برنامج «ادرس في العراق» الوطني، والتدريس بالعربية."
+  },
+  "about": {
+   "en": "The University of Kufa lists about 21 colleges, including Medicine, Engineering, Pharmacy, Dentistry, Law, Agriculture and Veterinary Medicine. Foreign students apply through the Ministry of Higher Education's Study in Iraq programme as fully funded, partly funded or self-funded students. Both parents must be non-Iraqi and secondary school must have been finished outside Iraq (except for self-funded students). A medical report is needed. Teaching is in Arabic.",
+   "ka": "კუფას უნივერსიტეტი დაახლოებით 21 კოლეჯს ასახელებს, მათ შორის მედიცინის, ინჟინერიის, ფარმაციის, სტომატოლოგიის, სამართლის, სოფლის მეურნეობისა და ვეტერინარიის. უცხოელები განაცხადს უმაღლესი განათლების სამინისტროს „ისწავლე ერაყში“ პროგრამით აგზავნიან — სრული ან ნაწილობრივი დაფინანსებით, ან საკუთარი ხარჯით. ორივე მშობელი არაერაყელი უნდა იყოს, ხოლო საშუალო სკოლა ერაყის გარეთ უნდა იყოს დამთავრებული (საკუთარი ხარჯით მოსწავლეების გარდა). საჭიროა სამედიცინო დასკვნა. სწავლება არაბულადაა.",
+   "ar": "تذكر جامعة الكوفة نحو 21 كلية منها الطب والهندسة والصيدلة وطب الأسنان والقانون والزراعة والطب البيطري. يتقدم الطلاب الأجانب عبر برنامج «ادرس في العراق» التابع لوزارة التعليم العالي بتمويل كامل أو جزئي أو على نفقتهم. يجب أن يكون الوالدان غير عراقيين وأن تكون الثانوية قد أُنهيت خارج العراق (باستثناء الدارسين على نفقتهم). يلزم تقرير طبي. التدريس بالعربية."
+  },
+  "tests": {
+   "en": "No entrance test or language requirement is stated on the Study in Iraq page; teaching is in Arabic.",
+   "ka": "„ისწავლე ერაყში“ გვერდზე მისაღები გამოცდა ან ენის მოთხოვნა მითითებული არ არის; სწავლება არაბულადაა.",
+   "ar": "لا يذكر موقع «ادرس في العراق» اختبار قبول أو شرطاً لغوياً؛ التدريس بالعربية."
+  },
+  "gpa_note": {
+   "en": "Eligibility rules are set by the Study in Iraq programme; no grade threshold was readable.",
+   "ka": "უფლებამოსილების წესებს „ისწავლე ერაყში“ პროგრამა ადგენს; ქულის ზღვარი ვერ ამოვიკითხეთ.",
+   "ar": "تحدد شروط الأهلية برنامج «ادرس في العراق»؛ ولم يُقرأ حد أدنى للدرجات."
+  },
+  "requirements": [
+   {
+    "key": "application_form",
+    "label": {
+     "en": "Online application form",
+     "ka": "ონლაინ განაცხადის ფორმა",
+     "ar": "استمارة التقديم الإلكترونية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate or other supplementary documents",
+     "ka": "სამედიცინო ცნობა ან დამატებითი დოკუმენტები",
+     "ar": "شهادة طبية أو مستندات إضافية"
+    }
+   }
+  ],
+  "keywords": [
+   "iraq",
+   "najaf",
+   "kufa",
+   "study in iraq",
+   "arabic",
+   "public university"
+  ],
+  "sources": [
+   "https://uokufa.edu.iq",
+   "https://uokufa.edu.iq/uokforeignscholarship"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Online oral entrance exam",
+   "English B2 or English-medium previous study"
+  ],
+  "scholarships": [
+   {
+    "name": "Stipendium Hungaricum; Scholarship for Freshmen and for Senior Students (fee-paying)",
+    "url": "https://www.uni-miskolc.hu/en/admission/",
+    "coverage": "partial"
+   }
+  ],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "Stipendium Hungaricum is offered, and fee-paying international students can apply for a Scholarship for Freshmen or for Senior Students.",
+   "ka": "შემოთავაზებულია Stipendium Hungaricum, ხოლო ფასიან საერთაშორისო სტუდენტებს შეუძლიათ პირველკურსელთა ან უფროსკურსელთა სტიპენდიაზე განაცხადი.",
+   "ar": "تُتاح منحة Stipendium Hungaricum، ويمكن للطلاب الدوليين الدافعين للرسوم التقدم لمنحة المستجدين أو منحة طلاب السنوات العليا."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "id": "university-of-miskolc",
+  "name": {
+   "en": "University of Miskolc",
+   "ka": "მიშკოლცის უნივერსიტეტი",
+   "ar": "جامعة ميشكولتس"
+  },
+  "iso": "HU",
+  "city": "Miskolc",
+  "lat": 48.085,
+  "lon": 20.787,
+  "type": "public",
+  "website": "https://www.uni-miskolc.hu",
+  "platform": "Direct (DreamApply)",
+  "application_url": "https://www.uni-miskolc.hu/en/admission/application-procedure/",
+  "deadline_note": "The autumn 2026 intake opened 1 November 2025 and is closed; the 2027/28 dates are not yet published. Applicants from Bangladesh, Pakistan, Syria, Afghanistan and Yemen had an earlier cut-off (30 April 2026).",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "semester",
+   "note": "Tuition differs by programme and is stated in the conditional admission letter; first-semester accommodation is EUR 850."
+  },
+  "languages": [
+   "Hungarian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "economics",
+   "business",
+   "humanities",
+   "international-relations",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Mechanical engineering",
+    "Materials and chemical engineering",
+    "Computer science engineering",
+    "Business administration",
+    "International relations"
+   ],
+   "ka": [
+    "მექანიკური ინჟინერია",
+    "მასალათა და ქიმიური ინჟინერია",
+    "კომპიუტერული ინჟინერია",
+    "ბიზნესის ადმინისტრირება",
+    "საერთაშორისო ურთიერთობები"
+   ],
+   "ar": [
+    "الهندسة الميكانيكية",
+    "هندسة المواد والهندسة الكيميائية",
+    "هندسة علوم الحاسوب",
+    "إدارة الأعمال",
+    "العلاقات الدولية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Miskolc, Hungary, with 8 faculties and 48 bachelor programmes; English-language bachelors include engineering, business and international relations. About 4,300 first-year students started in 2026.",
+   "ka": "საჯარო უნივერსიტეტი მიშკოლცში, უნგრეთი, 8 ფაკულტეტითა და 48 საბაკალავრო პროგრამით; ინგლისურენოვან ბაკალავრიატში შედის ინჟინერია, ბიზნესი და საერთაშორისო ურთიერთობები. 2026 წელს პირველკურსელი დაახლოებით 4 300 სტუდენტი დაიწყო.",
+   "ar": "جامعة حكومية في ميشكولتس بالمجر فيها 8 كليات و48 برنامج بكالوريوس؛ ومن برامج البكالوريوس بالإنجليزية الهندسة والأعمال والعلاقات الدولية. بدأ نحو 4300 طالب سنتهم الأولى في 2026."
+  },
+  "about": {
+   "en": "The University of Miskolc has 8 faculties, 48 bachelor and 93 master programmes, and about 4,300 new students in 2026. International bachelor applicants apply online through DreamApply, pay a EUR 150 application fee and sit a free online oral exam in their subject and English. They need an English B2 certificate or proof of English-medium study, a motivation letter and certified transcripts. Tuition depends on the programme.",
+   "ka": "მიშკოლცის უნივერსიტეტს 8 ფაკულტეტი, 48 საბაკალავრო და 93 სამაგისტრო პროგრამა აქვს, 2026 წელს კი დაახლოებით 4 300 ახალი სტუდენტი ჰყავდა. საერთაშორისო ბაკალავრიატის აბიტურიენტები განაცხადს DreamApply-ით აგზავნიან, იხდიან 150-ევროიან სააპლიკაციო საფასურს და აბარებენ უფასო ონლაინ ზეპირ გამოცდას თავიანთ საგანსა და ინგლისურში. საჭიროა ინგლისურის B2 სერტიფიკატი ან ინგლისურ ენაზე სწავლის დამადასტურებელი დოკუმენტი, მოტივაციის წერილი და დამოწმებული ტრანსკრიპტები. სწავლის საფასური პროგრამაზეა დამოკიდებული.",
+   "ar": "في جامعة ميشكولتس 8 كليات و48 برنامج بكالوريوس و93 برنامج ماجستير ونحو 4300 طالب جديد في 2026. يقدّم المتقدمون الدوليون إلى البكالوريوس طلبهم عبر DreamApply ويدفعون رسم تقديم قدره 150 يورو ويجتازون امتحاناً شفهياً مجانياً عبر الإنترنت في تخصصهم والإنجليزية. يلزمهم شهادة إنجليزية B2 أو إثبات الدراسة السابقة بالإنجليزية وخطاب دافع وكشوف درجات مصدّقة. تختلف الرسوم حسب البرنامج."
+  },
+  "tests": {
+   "en": "English B2 certificate (or proof of English-medium study) and a free online oral entrance exam on professional knowledge and English.",
+   "ka": "ინგლისურის B2 სერტიფიკატი (ან ინგლისურ ენაზე სწავლის დამადასტურებელი) და უფასო ონლაინ ზეპირი მისაღები გამოცდა პროფესიულ ცოდნასა და ინგლისურში.",
+   "ar": "شهادة إنجليزية B2 (أو إثبات الدراسة بالإنجليزية) وامتحان قبول شفهي مجاني عبر الإنترنت في المعرفة المهنية والإنجليزية."
+  },
+  "gpa_note": {
+   "en": "Provisional degrees are not accepted; certified, translated transcripts are required.",
+   "ka": "დროებითი დიპლომები არ მიიღება; საჭიროა დამოწმებული და ნათარგმნი ტრანსკრიპტები.",
+   "ar": "لا تُقبل الشهادات المؤقتة؛ وتلزم كشوف درجات مصدّقة ومترجمة."
+  },
+  "requirements": [
+   {
+    "key": "application_form",
+    "label": {
+     "en": "Online application form",
+     "ka": "ონლაინ განაცხადის ფორმა",
+     "ar": "استمارة التقديم الإلكترونية"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "Europass CV",
+     "ka": "Europass CV",
+     "ar": "سيرة ذاتية بصيغة Europass"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Motivation letter (3,000-3,500 characters)",
+     "ka": "მოტივაციის წერილი (3 000–3 500 სიმბოლო)",
+     "ar": "خطاب دافع (3000-3500 حرف)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English B2 certificate or proof of English-medium study",
+     "ka": "ინგლისურის B2 სერტიფიკატი ან ინგლისურ ენაზე სწავლის დამადასტურებელი",
+     "ar": "شهادة إنجليزية B2 أو إثبات الدراسة بالإنجليزية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate (university template)",
+     "ka": "სამედიცინო ცნობა (უნივერსიტეტის შაბლონით)",
+     "ar": "شهادة طبية (بنموذج الجامعة)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or ID copy",
+     "ka": "პასპორტის ან პირადობის ასლი",
+     "ar": "نسخة من جواز السفر أو الهوية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Online oral entrance exam",
+     "ka": "ონლაინ ზეპირი მისაღები გამოცდა",
+     "ar": "امتحان قبول شفهي عبر الإنترنت"
+    }
+   }
+  ],
+  "keywords": [
+   "hungary",
+   "miskolc",
+   "engineering",
+   "english bachelors",
+   "stipendium hungaricum"
+  ],
+  "sources": [
+   "https://www.uni-miskolc.hu/en/",
+   "https://www.uni-miskolc.hu/en/admission/",
+   "https://www.uni-miskolc.hu/en/admission/application-procedure/",
+   "https://www.uni-miskolc.hu/en/admission/payment-options/"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "university-of-moratuwa",
+  "name": {
+   "en": "University of Moratuwa",
+   "ka": "მორატუვას უნივერსიტეტი",
+   "ar": "جامعة موراتوا"
+  },
+  "iso": "LK",
+  "city": "Moratuwa",
+  "lat": 6.795,
+  "lon": 79.901,
+  "type": "public",
+  "website": "https://www.mrt.ac.lk",
+  "platform": null,
+  "application_url": "https://uom.lk/education/degrees/undergraduate",
+  "deadline_note": "No international bachelor deadline is published on the pages read. The mrt.ac.lk address redirects to the university's current site, uom.lk.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": null,
+   "note": "Not published on a page that could be read."
+  },
+  "fields": [
+   "engineering",
+   "arts-design",
+   "computer-science",
+   "business",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Architecture and design",
+    "Information technology",
+    "Business"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "არქიტექტურა და დიზაინი",
+    "საინფორმაციო ტექნოლოგიები",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "الهندسة",
+    "العمارة والتصميم",
+    "تقنية المعلومات",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Moratuwa, Sri Lanka, with faculties of Architecture, Engineering, Business, Information Technology and Medicine. Admission rules for foreign bachelor applicants are not published on its main pages.",
+   "ka": "საჯარო უნივერსიტეტი მორატუვაში, შრი-ლანკა, არქიტექტურის, ინჟინერიის, ბიზნესის, ინფორმაციული ტექნოლოგიებისა და მედიცინის ფაკულტეტებით. უცხოელი ბაკალავრიატის აბიტურიენტებისთვის მიღების წესები მთავარ გვერდებზე გამოქვეყნებული არ არის.",
+   "ar": "جامعة حكومية في موراتوا بسريلانكا فيها كليات العمارة والهندسة والأعمال وتقنية المعلومات والطب. لا تُنشر شروط قبول الطلاب الأجانب في البكالوريوس على صفحاتها الرئيسية."
+  },
+  "about": {
+   "en": "The University of Moratuwa offers honours degrees in Architecture (including landscape architecture, design, planning and quantity surveying), Engineering with 11 specialisations, Business, Information Technology (including artificial intelligence) and Medicine. The undergraduate page does not describe admission for foreign applicants or fees, and the university points enquiries to its admissions email.",
+   "ka": "მორატუვას უნივერსიტეტი გთავაზობთ საპატიო ბაკალავრის ხარისხებს არქიტექტურაში (მათ შორის ლანდშაფტის არქიტექტურა, დიზაინი, დაგეგმარება და რაოდენობრივი გაზომვა), ინჟინერიაში 11 სპეციალიზაციით, ბიზნესში, ინფორმაციულ ტექნოლოგიებში (ხელოვნური ინტელექტის ჩათვლით) და მედიცინაში. საბაკალავრო გვერდზე უცხოელებისთვის მიღება და საფასური აღწერილი არ არის; უნივერსიტეტი შეკითხვებს მისაღები სამსახურის ელფოსტაზე აგზავნის.",
+   "ar": "تقدّم جامعة موراتوا درجات الشرف في العمارة (ومنها عمارة المناظر الطبيعية والتصميم والتخطيط وقياس الكميات) والهندسة بـ11 تخصصاً والأعمال وتقنية المعلومات (ومنها الذكاء الاصطناعي) والطب. لا تصف صفحة البكالوريوس القبول والرسوم للأجانب، وتحيل الجامعة الاستفسارات إلى بريد القبول."
+  },
+  "tests": {
+   "en": "No entrance test or language requirement could be confirmed from the pages read.",
+   "ka": "წაკითხულ გვერდებზე მისაღები გამოცდა ან ენის მოთხოვნა ვერ დადასტურდა.",
+   "ar": "لم يمكن تأكيد أي اختبار قبول أو شرط لغوي من الصفحات التي قُرئت."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international applicants are not available on the pages read.",
+   "ka": "საერთაშორისო აბიტურიენტებისთვის აკადემიური მოთხოვნები წაკითხულ გვერდებზე ხელმისაწვდომი არ არის.",
+   "ar": "الشروط الأكاديمية للمتقدمين الدوليين غير متاحة في الصفحات التي قُرئت."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of the school diploma",
+     "ka": "საშუალო განათლების დოკუმენტის აღიარება",
+     "ar": "معادلة شهادة الثانوية"
+    }
+   }
+  ],
+  "keywords": [
+   "sri lanka",
+   "moratuwa",
+   "engineering",
+   "architecture",
+   "public university"
+  ],
+  "sources": [
+   "https://uom.lk/",
+   "https://uom.lk/education/degrees/undergraduate"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "university-of-petra",
+  "name": {
+   "en": "University of Petra",
+   "ka": "პეტრას უნივერსიტეტი",
+   "ar": "جامعة البترا"
+  },
+  "iso": "JO",
+  "city": "Amman",
+  "lat": 31.896,
+  "lon": 35.988,
+  "type": "private",
+  "website": "https://www.uop.edu.jo",
+  "platform": "Direct (online application on uop.edu.jo)",
+  "application_url": "https://uop.edu.jo/Ar/prospectivestudents/pages/default.aspx",
+  "deadline_note": "The prospective students pages list admission requirements, programme fees and an academic calendar, but their content was not readable.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": null,
+   "note": "Not published on a page that could be read."
+  },
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "law",
+   "business",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Pharmacy",
+    "Law",
+    "Information technology"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ფარმაცია",
+    "სამართალი",
+    "საინფორმაციო ტექნოლოგიები"
+   ],
+   "ar": [
+    "الهندسة",
+    "الصيدلة",
+    "القانون",
+    "تقنية المعلومات"
+   ]
+  },
+  "summary": {
+   "en": "A private university in Amman, Jordan. Its pages show accreditations such as ABET (engineering), ACPE (pharmacy) and Hceres (law), but fees and entry rules were not readable.",
+   "ka": "კერძო უნივერსიტეტი ამანში, იორდანია. მის გვერდებზე ჩანს აკრედიტაციები, მაგალითად ABET (ინჟინერია), ACPE (ფარმაცია) და Hceres (სამართალი), მაგრამ საფასური და შესვლის წესები ვერ ამოვიკითხეთ.",
+   "ar": "جامعة خاصة في عمّان بالأردن. تعرض صفحاتها اعتمادات مثل ABET (الهندسة) وACPE (الصيدلة) وHceres (القانون)، لكن الرسوم وشروط القبول لم تكن مقروءة."
+  },
+  "about": {
+   "en": "The University of Petra is a private university on Airport Road in Amman. Its site has a prospective-students section with admission requirements, programmes and fees, an online application and new-student registration guidance, and an embassy portal for foreign students. These pages could not be read in detail, so fees, deadlines and rules for foreign diplomas are not confirmed here. Contact: info@uop.edu.jo.",
+   "ka": "პეტრას უნივერსიტეტი კერძო უნივერსიტეტია ამანში, აეროპორტის გზატკეცილზე. მის საიტზე არის აბიტურიენტების განყოფილება მიღების მოთხოვნებით, პროგრამებითა და საფასურით, ონლაინ განაცხადით და პირველკურსელთა რეგისტრაციის სახელმძღვანელოთი, ასევე საელჩოს პორტალი უცხოელი სტუდენტებისთვის. ეს გვერდები დეტალურად ვერ წავიკითხეთ, ამიტომ საფასური, ვადები და უცხოური დიპლომების წესები აქ დადასტურებული არ არის. კონტაქტი: info@uop.edu.jo.",
+   "ar": "جامعة البترا جامعة خاصة على طريق المطار في عمّان. لموقعها قسم للطلبة المحتملين يضم شروط القبول والتخصصات والرسوم والتقديم الإلكتروني وإرشادات تسجيل الطلبة المستجدين، إضافة إلى بوابة السفارات للطلاب الأجانب. لم يمكن قراءة هذه الصفحات بالتفصيل، لذلك لا تُؤكَّد هنا الرسوم والمواعيد وقواعد الشهادات الأجنبية. للتواصل: info@uop.edu.jo."
+  },
+  "tests": {
+   "en": "No entrance test or language requirement could be confirmed from the pages read.",
+   "ka": "წაკითხულ გვერდებზე მისაღები გამოცდა ან ენის მოთხოვნა ვერ დადასტურდა.",
+   "ar": "لم يمكن تأكيد أي اختبار قبول أو شرط لغوي من الصفحات التي قُرئت."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international applicants are not available on the pages read.",
+   "ka": "საერთაშორისო აბიტურიენტებისთვის აკადემიური მოთხოვნები წაკითხულ გვერდებზე ხელმისაწვდომი არ არის.",
+   "ar": "الشروط الأكاديمية للمتقدمين الدوليين غير متاحة في الصفحات التي قُرئت."
+  },
+  "requirements": [
+   {
+    "key": "application_form",
+    "label": {
+     "en": "Online application form",
+     "ka": "ონლაინ განაცხადის ფორმა",
+     "ar": "استمارة التقديم الإلكترونية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of the school diploma",
+     "ka": "საშუალო განათლების დოკუმენტის აღიარება",
+     "ar": "معادلة شهادة الثانوية"
+    }
+   }
+  ],
+  "keywords": [
+   "jordan",
+   "amman",
+   "private university",
+   "abet"
+  ],
+  "sources": [
+   "https://www.uop.edu.jo",
+   "https://uop.edu.jo/Ar/prospectivestudents/pages/default.aspx"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": 30000,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "University admission test (Units A, B, C)"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "university-of-rajshahi",
+  "name": {
+   "en": "University of Rajshahi",
+   "ka": "რაჯშაჰის უნივერსიტეტი",
+   "ar": "جامعة راجشاهي"
+  },
+  "iso": "BD",
+  "city": "Rajshahi",
+  "lat": 24.364,
+  "lon": 88.633,
+  "type": "public",
+  "website": "https://www.ru.ac.bd",
+  "platform": "Direct (admission.ru.ac.bd); unit-based admission tests",
+  "application_url": "https://admission.ru.ac.bd",
+  "deadline_note": "The 2025-26 undergraduate round ran from 20 November to 8 December 2025 with tests on 16, 17 and 24 January 2026; a separate International Students PDF could not be opened.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": null,
+   "note": "Not published on a page that could be read."
+  },
+  "fields": [
+   "natural-sciences",
+   "humanities",
+   "social-sciences",
+   "business",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Natural sciences",
+    "Arts and humanities",
+    "Social sciences",
+    "Business studies"
+   ],
+   "ka": [
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ხელოვნება და ჰუმანიტარული მეცნიერებები",
+    "სოციალური მეცნიერებები",
+    "ბიზნეს-კვლევები"
+   ],
+   "ar": [
+    "العلوم الطبيعية",
+    "الآداب والعلوم الإنسانية",
+    "العلوم الاجتماعية",
+    "دراسات الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "A public university founded in 1953 on a 753-acre campus near Rajshahi, with over 30,000 students and 1,200 faculty. Admission is by unit-based tests; a separate international-student notice exists.",
+   "ka": "საჯარო უნივერსიტეტი, დაარსებული 1953 წელს რაჯშაჰის მახლობლად 753-აკრიან კამპუსზე, 30 000-ზე მეტი სტუდენტითა და 1 200 პედაგოგით. მიღება ხდება ერთეულებად დაყოფილი ტესტებით; საერთაშორისო სტუდენტებისთვის ცალკე შეტყობინებაა.",
+   "ar": "جامعة حكومية تأسست عام 1953 على حرم مساحته 753 فداناً قرب راجشاهي، فيها أكثر من 30 ألف طالب و1200 عضو هيئة تدريس. القبول عبر اختبارات حسب الوحدات، وتوجد إشعارات منفصلة للطلاب الدوليين."
+  },
+  "about": {
+   "en": "The University of Rajshahi, founded on 6 July 1953, describes itself as the largest university in northern Bangladesh. It reports over 30,000 students and over 1,200 faculty on a 753-acre campus in Motihar, about 7 km east of Rajshahi. Bangladeshi undergraduates enter through unit-based admission tests (Units A, B and C). International students are directed to a PDF notice on the admission portal, which could not be opened, so fees and rules for foreign applicants are not confirmed.",
+   "ka": "რაჯშაჰის უნივერსიტეტი, დაარსებული 1953 წლის 6 ივლისს, თავს ჩრდილოეთ ბანგლადეშის უდიდეს უნივერსიტეტად აცხადებს. იგი 30 000-ზე მეტ სტუდენტსა და 1 200-ზე მეტ პედაგოგს ასახელებს 753-აკრიან კამპუსზე მოტიჰარში, რაჯშაჰიდან დაახლოებით 7 კმ-ზე აღმოსავლეთით. ბანგლადეშელი ბაკალავრები A, B და C ერთეულების მისაღები ტესტებით ირიცხებიან. საერთაშორისო სტუდენტებს მიღების პორტალზე PDF შეტყობინებაზე აგზავნის, რომელიც ვერ გაიხსნა, ამიტომ უცხოელებისთვის საფასური და წესები დადასტურებული არ არის.",
+   "ar": "تأسست جامعة راجشاهي في 6 يوليو 1953 وتصف نفسها بأنها أكبر جامعة في شمال بنغلاديش. تذكر أن فيها أكثر من 30 ألف طالب وأكثر من 1200 عضو هيئة تدريس في حرم مساحته 753 فداناً في موتيهار على بعد نحو 7 كم شرق راجشاهي. يلتحق طلاب البكالوريوس البنغلاديشيون عبر اختبارات القبول حسب الوحدات (A وB وC). يُحال الطلاب الدوليون إلى ملف PDF في بوابة القبول لم يمكن فتحه، لذلك لا تُؤكَّد الرسوم والقواعد للأجانب."
+  },
+  "tests": {
+   "en": "Bangladeshi applicants sit unit-based admission tests (Units A, B, C). Rules for foreign applicants were not readable.",
+   "ka": "ბანგლადეშელი აბიტურიენტები აბარებენ ერთეულებად დაყოფილ მისაღებ ტესტებს (A, B, C). უცხოელებისთვის წესები ვერ ამოვიკითხეთ.",
+   "ar": "يؤدي المتقدمون البنغلاديشيون اختبارات قبول حسب الوحدات (A وB وC). لم تُقرأ القواعد الخاصة بالأجانب."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international applicants are not available on the pages read.",
+   "ka": "საერთაშორისო აბიტურიენტებისთვის აკადემიური მოთხოვნები წაკითხულ გვერდებზე ხელმისაწვდომი არ არის.",
+   "ar": "الشروط الأكاديمية للمتقدمين الدوليين غير متاحة في الصفحات التي قُرئت."
+  },
+  "requirements": [
+   {
+    "key": "application_form",
+    "label": {
+     "en": "Online application form",
+     "ka": "ონლაინ განაცხადის ფორმა",
+     "ar": "استمارة التقديم الإلكترونية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   }
+  ],
+  "keywords": [
+   "bangladesh",
+   "rajshahi",
+   "public university",
+   "admission test"
+  ],
+  "sources": [
+   "https://www.ru.ac.bd",
+   "https://admission.ru.ac.bd"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-01",
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا تُنشر منح أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "qualifications_note": {
+   "en": "The university does not publish how foreign school diplomas are treated.",
+   "ka": "უნივერსიტეტი არ აქვეყნებს, როგორ ფასდება უცხოური საშუალო განათლების დოკუმენტები.",
+   "ar": "لا تنشر الجامعة كيفية التعامل مع شهادات الثانوية الأجنبية."
+  },
+  "intakes": [],
+  "deadline": null,
+  "id": "university-of-san-diego",
+  "name": {
+   "en": "University of San Diego",
+   "ka": "სან-დიეგოს უნივერსიტეტი",
+   "ar": "جامعة سان دييغو"
+  },
+  "iso": "US",
+  "city": "San Diego",
+  "lat": 32.771,
+  "lon": -117.188,
+  "type": "private",
+  "website": "https://www.sandiego.edu",
+  "platform": null,
+  "application_url": null,
+  "deadline_note": "The official site could not be opened (certificate rejected), so no deadline could be checked.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": null,
+   "note": "Not published on a page that could be read."
+  },
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "fields": [
+   "business",
+   "social-sciences",
+   "law",
+   "engineering",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Law",
+    "Nursing and health",
+    "Engineering"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "სამართალი",
+    "საექთნო საქმე და ჯანდაცვა",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "الأعمال",
+    "القانون",
+    "التمريض والصحة",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "A private university in San Diego, California. Its website could not be opened, so admission, fees and test rules for international applicants could not be checked.",
+   "ka": "კერძო უნივერსიტეტი სან-დიეგოში, კალიფორნია. ვებგვერდი ვერ გაიხსნა, ამიტომ საერთაშორისო აბიტურიენტების მიღება, საფასური და ტესტების წესები ვერ შემოწმდა.",
+   "ar": "جامعة خاصة في سان دييغو بكاليفورنيا. تعذّر فتح موقعها، لذلك لم يمكن التحقق من القبول والرسوم وقواعد الاختبارات للمتقدمين الدوليين."
+  },
+  "about": {
+   "en": "The University of San Diego is a private university in San Diego, California, taught in English. Its official website was unreachable because of a certificate error, so size, tuition, deadlines, SAT or ACT policy and the application platform for international first-year applicants could not be confirmed. Applicants should check the admissions pages directly.",
+   "ka": "სან-დიეგოს უნივერსიტეტი კერძო უნივერსიტეტია სან-დიეგოში (კალიფორნია), სწავლება ინგლისურადაა. ოფიციალური ვებგვერდი სერტიფიკატის შეცდომის გამო მიუწვდომელი იყო, ამიტომ ზომა, სწავლის საფასური, ვადები, SAT/ACT პოლიტიკა და განაცხადის პლატფორმა საერთაშორისო პირველკურსელებისთვის ვერ დადასტურდა. აბიტურიენტებმა მისაღები გვერდები უშუალოდ უნდა შეამოწმონ.",
+   "ar": "جامعة سان دييغو جامعة خاصة في سان دييغو بكاليفورنيا والتدريس بالإنجليزية. تعذّر الوصول إلى موقعها الرسمي بسبب خطأ في الشهادة، لذلك لم يمكن تأكيد الحجم والرسوم والمواعيد وسياسة SAT أو ACT ومنصة التقديم للمتقدمين الدوليين الجدد. ينبغي مراجعة صفحات القبول مباشرة."
+  },
+  "tests": {
+   "en": "No entrance test or language requirement could be confirmed from the pages read.",
+   "ka": "წაკითხულ გვერდებზე მისაღები გამოცდა ან ენის მოთხოვნა ვერ დადასტურდა.",
+   "ar": "لم يمكن تأكيد أي اختبار قبول أو شرط لغوي من الصفحات التي قُرئت."
+  },
+  "gpa_note": {
+   "en": "Academic requirements for international applicants are not available on the pages read.",
+   "ka": "საერთაშორისო აბიტურიენტებისთვის აკადემიური მოთხოვნები წაკითხულ გვერდებზე ხელმისაწვდომი არ არის.",
+   "ar": "الشروط الأكاديمية للمتقدمين الدوليين غير متاحة في الصفحات التي قُرئت."
+  },
+  "requirements": [
+   {
+    "key": "application_form",
+    "label": {
+     "en": "Online application form",
+     "ka": "ონლაინ განაცხადის ფორმა",
+     "ar": "استمارة التقديم الإلكترونية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency proof",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds",
+     "ka": "ფინანსური საშუალებების დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات القدرة المالية"
+    }
+   }
+  ],
+  "keywords": [
+   "usa",
+   "san diego",
+   "california",
+   "private university"
+  ],
+  "sources": []
+ }
+]

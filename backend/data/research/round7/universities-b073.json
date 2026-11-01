@@ -1,0 +1,1781 @@
+[
+ {
+  "id": "universidad-de-belgrano-ub",
+  "name": {
+   "en": "Universidad de Belgrano (UB)",
+   "ka": "ბელგრანოს უნივერსიტეტი (UB)",
+   "ar": "جامعة بلغرانو (UB)"
+  },
+  "iso": "AR",
+  "city": "Buenos Aires",
+  "website": "https://ub.edu.ar",
+  "lat": -34.561,
+  "lon": -58.453,
+  "type": "private",
+  "platform": "Direct (ingreso.ub.edu.ar online application)",
+  "application_url": "https://ub.edu.ar/ingreso/ingreso-ub-estudiantes-internacionales",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No bachelor deadline is published on the pages read; see the academic calendar page.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A foreign secondary certificate must be legalised or carry an Apostille, translated by a sworn translator and validated (equivalence) with the Argentine Ministry of Education.",
+   "ka": "უცხოური ატესტატი უნდა იყოს ლეგალიზებული ან აპოსტილირებული, თარგმნილი ფიცარი მთარგმნელის მიერ და ვალიდირებული (ექვივალენტობა) არგენტინის განათლების სამინისტროში.",
+   "ar": "يجب تصديق الشهادة الثانوية الأجنبية أو إرفاقها بأبوستيل وترجمتها عبر مترجم محلف ومعادلتها لدى وزارة التعليم الأرجنتينية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "law",
+   "social-sciences",
+   "engineering",
+   "arts-design",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Law",
+    "Engineering",
+    "Architecture",
+    "Communication"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "სამართალი",
+    "ინჟინერია",
+    "არქიტექტურა",
+    "კომუნიკაცია"
+   ],
+   "ar": [
+    "الأعمال",
+    "القانون",
+    "الهندسة",
+    "العمارة",
+    "الاتصال"
+   ]
+  },
+  "summary": {
+   "en": "A private university in Buenos Aires with 80+ international double-degree agreements. Foreign school certificates must be legalised and validated by the Argentine Ministry of Education.",
+   "ka": "კერძო უნივერსიტეტი ბუენოს-აირესში, 80-ზე მეტი საერთაშორისო ორმაგი დიპლომის შეთანხმებით. უცხოური ატესტატი უნდა დალეგალიზდეს და არგენტინის განათლების სამინისტროში დადასტურდეს.",
+   "ar": "جامعة خاصة في بوينس آيرس لديها أكثر من 80 اتفاقية شهادة مزدوجة دولية. يجب تصديق الشهادات الثانوية الأجنبية ومعادلتها لدى وزارة التعليم الأرجنتينية."
+  },
+  "about": {
+   "en": "Universidad de Belgrano is a private university in Buenos Aires. Applicants apply online at ingreso.ub.edu.ar with a photo, ID or passport and the secondary certificate. Foreign certificates need legalisation in the issuing country or an Apostille, a sworn Spanish translation and validation by the Argentine Ministry of Education; residents abroad can do this digitally. Teaching is in Spanish. Tuition is not published on the pages read.",
+   "ka": "ბელგრანოს უნივერსიტეტი კერძო უნივერსიტეტია ბუენოს-აირესში. განაცხადი იგზავნება ონლაინ ingreso.ub.edu.ar-ზე ფოტოთი, პირადობის დოკუმენტით ან პასპორტით და საშუალო განათლების ატესტატით. უცხოური ატესტატისთვის საჭიროა გამცემ ქვეყანაში ლეგალიზაცია ან აპოსტილი, ფიცარი მთარგმნელის ესპანური თარგმანი და არგენტინის განათლების სამინისტროს მიერ ვალიდაცია; საზღვარგარეთ მცხოვრებნი ამას ციფრულად აკეთებენ. სწავლება ესპანურია. საფასური წაკითხულ გვერდებზე არ არის.",
+   "ar": "جامعة خاصة في بوينس آيرس. يقدّم المتقدمون عبر ingreso.ub.edu.ar مع صورة وهوية أو جواز سفر والشهادة الثانوية. تتطلب الشهادات الأجنبية تصديقًا في بلد الإصدار أو أبوستيل وترجمة إسبانية محلفة ومعادلة لدى وزارة التعليم الأرجنتينية، ويمكن للمقيمين في الخارج إنجاز ذلك رقميًا. التدريس بالإسبانية. الرسوم غير منشورة في الصفحات المقروءة."
+  },
+  "aid_intl": {
+   "en": "A scholarships office and entrant scholarships exist, but none is described as specific to international bachelor students.",
+   "ka": "არსებობს სტიპენდიების დეპარტამენტი და პირველკურსელთა სტიპენდიები, მაგრამ არც ერთი არ არის განკუთვნილი საერთაშორისო ბაკალავრიატის სტუდენტებისთვის.",
+   "ar": "يوجد قسم للمنح ومنح للطلبة الجدد، لكن لا يُوصف أي منها بأنه خاص بالطلبة الدوليين."
+  },
+  "tests": {
+   "en": "No entrance exam or language test is listed on the pages read.",
+   "ka": "წაკითხულ გვერდებზე მისაღები გამოცდა ან ენის ტესტი მითითებული არ არის.",
+   "ar": "لا يُذكر امتحان قبول أو اختبار لغة في الصفحات المقروءة."
+  },
+  "gpa_note": {
+   "en": "The pages read give no minimum grade; a secondary certificate (or proof it is in progress) is required.",
+   "ka": "წაკითხულ გვერდებზე მინიმალური ქულა მითითებული არ არის; საჭიროა საშუალო განათლების ატესტატი (ან მისი მიღების პროცესის დადასტურება).",
+   "ar": "لا تذكر الصفحات المقروءة حدًا أدنى للدرجات؛ المطلوب شهادة ثانوية (أو إثبات أنها قيد الإصدار)."
+  },
+  "requirements": [
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-style photo",
+     "ka": "ფოტოსურათი",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign school diploma",
+     "ka": "უცხოური ატესტატის აღიარება",
+     "ar": "معادلة الشهادة الثانوية الأجنبية"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Becas UB",
+    "url": "https://ub.edu.ar/departamento-de-becas",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "argentina",
+   "buenos aires",
+   "business",
+   "law",
+   "spanish"
+  ],
+  "sources": [
+   "https://ub.edu.ar",
+   "https://ub.edu.ar/ingreso/ingreso-ub-requisitos",
+   "https://ub.edu.ar/ingreso/ingreso-ub-estudiantes-internacionales"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universidad-de-guadalajara-udg",
+  "name": {
+   "en": "Universidad de Guadalajara (UDG)",
+   "ka": "გვადალახარას უნივერსიტეტი (UDG)",
+   "ar": "جامعة غوادالاخارا (UDG)"
+  },
+  "iso": "MX",
+  "city": "Guadalajara",
+  "website": "https://www.udg.mx",
+  "lat": 20.674,
+  "lon": -103.35,
+  "type": "public",
+  "platform": "Direct (UdeG aspirantes portal + admission exam)",
+  "application_url": "https://www.udg.mx/aspirantes/estudios-realizados-en-el-extranjero",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Dates are in the official Calendario de Trámites; none was readable. Admitted foreigners must request immigration authorisation within 90 days of the result.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "School certificates from abroad need consular legalisation or an Apostille, revalidation in Mexico (SEP/DERSE), an official translation if not in Spanish and a grade-equivalency table.",
+   "ka": "უცხოური ატესტატი საჭიროებს საკონსულო ლეგალიზაციას ან აპოსტილს, მექსიკაში რევალიდაციას (SEP/DERSE), ოფიციალურ თარგმანს, თუ ესპანურ ენაზე არ არის, და ნიშნების ექვივალენტობის ცხრილს.",
+   "ar": "تتطلب الشهادات المدرسية الأجنبية تصديقًا قنصليًا أو أبوستيل وإعادة اعتماد في المكسيك (SEP/DERSE) وترجمة رسمية إن لم تكن بالإسبانية وجدول معادلة للدرجات."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "UdeG admission exam",
+   "English proficiency exam (some English-taught programmes)"
+  ],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "social-sciences",
+   "arts-design",
+   "natural-sciences",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine and health",
+    "Engineering",
+    "Social sciences",
+    "Arts and design",
+    "Sciences"
+   ],
+   "ka": [
+    "მედიცინა და ჯანდაცვა",
+    "ინჟინერია",
+    "სოციალური მეცნიერებები",
+    "ხელოვნება და დიზაინი",
+    "მეცნიერებები"
+   ],
+   "ar": [
+    "الطب والصحة",
+    "الهندسة",
+    "العلوم الاجتماعية",
+    "الفنون والتصميم",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in Guadalajara, Mexico, with an admission exam. Foreign school certificates need legalisation or Apostille and revalidation in Mexico.",
+   "ka": "გვადალახარის დიდი სახელმწიფო უნივერსიტეტი მექსიკაში, მისაღები გამოცდით. უცხოური ატესტატი საჭიროებს ლეგალიზაციას ან აპოსტილს და მექსიკაში რევალიდაციას.",
+   "ar": "جامعة حكومية كبيرة في غوادالاخارا بالمكسيك مع امتحان قبول. تتطلب الشهادات الأجنبية تصديقًا أو أبوستيل وإعادة اعتماد في المكسيك."
+  },
+  "about": {
+   "en": "The University of Guadalajara is a public university in Guadalajara, Mexico. Bachelor applicants sit the admission exam and then submit original documents within the deadline in the official procedures calendar. Studies completed abroad need an Apostille or consular legalisation, revalidation in Mexico, official translation and a grade-equivalency table; without it you compete with a minimum score of 60. Foreign applicants prove legal residence and language ability. Most teaching is in Spanish; some CUCSH programmes are in English.",
+   "ka": "გვადალახარას უნივერსიტეტი სახელმწიფო უნივერსიტეტია გვადალახარაში, მექსიკა. ბაკალავრიატის აპლიკანტები აბარებენ მისაღებ გამოცდას და შემდეგ წარადგენენ დედნებს ოფიციალურ კალენდარში მითითებულ ვადაში. საზღვარგარეთ დასრულებული სწავლა საჭიროებს აპოსტილს ან საკონსულო ლეგალიზაციას, მექსიკაში რევალიდაციას, ოფიციალურ თარგმანს და ნიშნების ექვივალენტობის ცხრილს; მის გარეშე კონკურსში მინიმუმ 60 ქულით მონაწილეობთ. უცხოელები ადასტურებენ კანონიერ ცხოვრებას და ენის ცოდნას. სწავლება ძირითადად ესპანურია; CUCSH-ის ზოგი პროგრამა ინგლისურია.",
+   "ar": "جامعة غوادالاخارا جامعة حكومية في غوادالاخارا بالمكسيك. يؤدي المتقدمون للبكالوريوس امتحان القبول ثم يسلّمون الوثائق الأصلية ضمن الموعد المحدد في تقويم الإجراءات الرسمي. تتطلب الدراسة المنجزة في الخارج أبوستيل أو تصديقًا قنصليًا وإعادة اعتماد في المكسيك وترجمة رسمية وجدول معادلة للدرجات؛ وبدونه تتنافس بحد أدنى 60 نقطة. يثبت الأجانب إقامتهم القانونية وإتقانهم اللغة. التدريس في الغالب بالإسبانية وبعض برامج CUCSH بالإنجليزية."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages read.",
+   "ka": "წაკითხულ გვერდებზე საერთაშორისო ბაკალავრიატის სტუდენტებისთვის სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منح مخصصة للطلبة الدوليين في البكالوريوس في الصفحات المقروءة."
+  },
+  "tests": {
+   "en": "All applicants sit the university admission exam. Some English-taught CUCSH programmes require an English proficiency exam.",
+   "ka": "ყველა აპლიკანტი აბარებს უნივერსიტეტის მისაღებ გამოცდას. CUCSH-ის ზოგი ინგლისურენოვანი პროგრამა ინგლისურის ცოდნის გამოცდას მოითხოვს.",
+   "ar": "يؤدي جميع المتقدمين امتحان القبول الجامعي. تشترط بعض برامج CUCSH المدرّسة بالإنجليزية امتحان كفاءة في الإنجليزية."
+  },
+  "gpa_note": {
+   "en": "Without a grade-equivalency table you compete with a minimum score of 60, since your average cannot be verified.",
+   "ka": "ნიშნების ექვივალენტობის ცხრილის გარეშე კონკურსში მინიმუმ 60 ქულით მონაწილეობთ, რადგან თქვენი საშუალო ვერ გადამოწმდება.",
+   "ar": "من دون جدول معادلة الدرجات تتنافس بحد أدنى 60 نقطة لأن معدلك لا يمكن التحقق منه."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign school diploma",
+     "ka": "უცხოური ატესტატის აღიარება",
+     "ar": "معادلة الشهادة الثانوية الأجنبية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Spanish language proficiency",
+     "ka": "ესპანური ენის ცოდნა",
+     "ar": "إتقان اللغة الإسبانية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "mexico",
+   "guadalajara",
+   "public",
+   "spanish",
+   "apostille"
+  ],
+  "sources": [
+   "https://www.udg.mx",
+   "https://www.udg.mx/aspirantes/estudios-realizados-en-el-extranjero",
+   "https://www.udg.mx/aspirantes/documentacion"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universidad-de-la-sabana",
+  "name": {
+   "en": "Universidad de La Sabana",
+   "ka": "ლა-საბანას უნივერსიტეტი",
+   "ar": "جامعة لا سابانا"
+  },
+  "iso": "CO",
+  "city": "Bogotá",
+  "website": "https://www.unisabana.edu.co",
+  "lat": 4.861,
+  "lon": -74.032,
+  "type": "private",
+  "platform": "Direct (unisabana.edu.co/inscripciones)",
+  "application_url": "https://www.unisabana.edu.co/inscripciones",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The 2027-1 intake is open for registration, but no closing date is published on the page read.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Foreign applicants must follow a separate requirements document linked on the application page.",
+   "ka": "უცხოელმა აპლიკანტებმა უნდა შეასრულონ განაცხადის გვერდზე მიბმული ცალკე მოთხოვნების დოკუმენტი.",
+   "ar": "على المتقدمين الأجانب اتباع وثيقة متطلبات منفصلة مرتبطة بصفحة التقديم."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "education",
+   "business",
+   "law",
+   "engineering",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Education",
+    "Communication",
+    "Business",
+    "Engineering"
+   ],
+   "ka": [
+    "მედიცინა",
+    "განათლება",
+    "კომუნიკაცია",
+    "ბიზნესი",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "الطب",
+    "التربية",
+    "الاتصال",
+    "الأعمال",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "A private university in Chía near Bogotá. Bachelor applicants fill in an online form, pay a COP 130,000 fee and attend an interview.",
+   "ka": "კერძო უნივერსიტეტი ჩიაში, ბოგოტას მახლობლად. ბაკალავრიატის აპლიკანტები ავსებენ ონლაინ ფორმას, იხდიან 130 000 კოლუმბიური პესოს საფასურს და გადიან გასაუბრებას.",
+   "ar": "جامعة خاصة في تشيا قرب بوغوتا. يملأ متقدمو البكالوريوس نموذجًا إلكترونيًا ويدفعون رسمًا قدره 130,000 بيزو ويحضرون مقابلة."
+  },
+  "about": {
+   "en": "Universidad de La Sabana is a private university whose campus is in Chía, next to Bogotá. Pregrado applicants fill in the online form, pay the application fee of COP 130,000 (discounts apply), attend an interview and wait for the result. The 2027-1 intake is open. Foreign applicants follow a separate requirements document. Teaching is in Spanish. Tuition for 2026 is set by Acuerdo 078; the amounts were not readable.",
+   "ka": "ლა-საბანას უნივერსიტეტი კერძო უნივერსიტეტია, რომლის კამპუსი ჩიაშია, ბოგოტას გვერდით. აპლიკანტები ავსებენ ონლაინ ფორმას, იხდიან 130 000 კოლუმბიური პესოს სააპლიკაციო საფასურს (ფასდაკლებები მოქმედებს), გადიან გასაუბრებას და ელოდებიან შედეგს. 2027-1 მიღება ღიაა. უცხოელები ცალკე მოთხოვნების დოკუმენტს მიჰყვებიან. სწავლება ესპანურია. 2026 წლის საფასური განსაზღვრულია Acuerdo 078-ით; თანხები ვერ წავიკითხეთ.",
+   "ar": "جامعة خاصة يقع حرمها في تشيا بجوار بوغوتا. يملأ المتقدمون للبكالوريوس النموذج الإلكتروني ويدفعون رسم التقديم 130,000 بيزو (مع تخفيضات) ويحضرون مقابلة وينتظرون النتيجة. باب القبول لدورة 2027-1 مفتوح. يتبع الأجانب وثيقة متطلبات منفصلة. التدريس بالإسبانية. رسوم 2026 محددة بالاتفاق 078 ولم تُقرأ المبالغ."
+  },
+  "aid_intl": {
+   "en": "Pregrado scholarships exist; none is described as specific to international students.",
+   "ka": "საბაკალავრო სტიპენდიები არსებობს; არც ერთი არ არის განკუთვნილი საერთაშორისო სტუდენტებისთვის.",
+   "ar": "توجد منح للبكالوريوس؛ ولا يُوصف أي منها بأنه مخصص للطلبة الدوليين."
+  },
+  "tests": {
+   "en": "The selection step is an interview; no entrance exam or language test is listed on the page read.",
+   "ka": "შერჩევის ეტაპი გასაუბრებაა; წაკითხულ გვერდზე მისაღები გამოცდა ან ენის ტესტი მითითებული არ არის.",
+   "ar": "خطوة الانتقاء مقابلة؛ ولا يُذكر امتحان قبول أو اختبار لغة في الصفحة المقروءة."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are not stated on the application page.",
+   "ka": "აკადემიური მოთხოვნები განაცხადის გვერდზე მითითებული არ არის.",
+   "ar": "لم تُذكر المتطلبات الأكاديمية في صفحة التقديم."
+  },
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Admission interview",
+     "ka": "გასაუბრება",
+     "ar": "مقابلة القبول"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Becas de pregrado",
+    "url": "https://www.unisabana.edu.co/becas/becas-de-pregrado",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "colombia",
+   "bogota",
+   "chia",
+   "spanish",
+   "medicine"
+  ],
+  "sources": [
+   "https://www.unisabana.edu.co",
+   "https://www.unisabana.edu.co/inscripciones",
+   "https://www.unisabana.edu.co/nosotros/derechos-pecuniarios"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universidad-de-puerto-rico",
+  "name": {
+   "en": "Universidad de Puerto Rico",
+   "ka": "პუერტო-რიკოს უნივერსიტეტი",
+   "ar": "جامعة بورتوريكو"
+  },
+  "iso": "PR",
+  "city": "San Juan",
+  "website": "https://www.upr.edu",
+  "lat": 18.403,
+  "lon": -66.05,
+  "type": "public",
+  "platform": "Direct (admisiones.upr.edu)",
+  "application_url": "https://www.upr.edu/estudiante-nuevo-ingreso/internacionales/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No application deadline is published on the international students page; check the campus or programme.",
+  "tuition_intl": {
+   "amount": 5024,
+   "currency": "USD",
+   "per": "year",
+   "note": "Full-time tuition for 32 credits at the main campus at USD 157 per credit (2022–2023 figure on the costs page); the page does not say whether international students pay a different rate."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "International applicants use the non-traditional route (minimum 2.00 GPA plus portfolio, essay, interview or recommendations). Diplomas must be officially recognised in the home country and get an equivalency from the Puerto Rico Department of Education.",
+   "ka": "საერთაშორისო აპლიკანტები იყენებენ არატრადიციულ გზას (მინიმუმ 2.00 GPA პლუს პორტფოლიო, ესე, გასაუბრება ან რეკომენდაციები). დიპლომი უნდა იყოს მშობლიურ ქვეყანაში ოფიციალურად აღიარებული და პუერტო-რიკოს განათლების დეპარტამენტისგან ექვივალენტობა მიიღოს.",
+   "ar": "يستخدم المتقدمون الدوليون المسار غير التقليدي (معدل 2.00 على الأقل مع ملف أعمال أو مقال أو مقابلة أو توصيات). يجب أن تكون الشهادة معترفًا بها رسميًا في بلد المتقدم وأن تحصل على معادلة من وزارة التعليم في بورتوريكو."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "natural-sciences",
+   "social-sciences",
+   "humanities",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Natural sciences",
+    "Health sciences",
+    "Humanities",
+    "Business"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ჯანდაცვის მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم الطبيعية",
+    "علوم الصحة",
+    "العلوم الإنسانية",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "Puerto Rico's public university system with 246 bachelor's degrees. International applicants use a non-traditional route with no entrance exam and no application fee.",
+   "ka": "პუერტო-რიკოს სახელმწიფო საუნივერსიტეტო სისტემა 246 საბაკალავრო პროგრამით. საერთაშორისო აპლიკანტები იყენებენ არატრადიციულ გზას მისაღები გამოცდისა და სააპლიკაციო საფასურის გარეშე.",
+   "ar": "منظومة جامعة بورتوريكو الحكومية وتضم 246 برنامج بكالوريوس. يستخدم المتقدمون الدوليون مسارًا غير تقليدي بلا امتحان قبول وبلا رسم تقديم."
+  },
+  "about": {
+   "en": "The University of Puerto Rico is the island's public system, based in San Juan, with 246 bachelor's degrees among 450+ programmes. International high-school graduates apply online at upr.edu/admisiones with no application fee, through the non-traditional route: minimum 2.00 GPA plus evidence such as portfolios, essays, interviews and recommendations. The entrance exam is not required. You must show funds for your studies and, if admitted, receive an I-20 for an F-1 visa. Teaching is mainly in Spanish.",
+   "ka": "პუერტო-რიკოს უნივერსიტეტი კუნძულის სახელმწიფო სისტემაა, სან-ხუანში დაფუძნებული, 450-ზე მეტი პროგრამიდან 246 საბაკალავროა. საერთაშორისო კურსდამთავრებულები განაცხადს აგზავნიან ონლაინ upr.edu/admisiones-ზე საფასურის გარეშე, არატრადიციული გზით: მინიმუმ 2.00 GPA პლუს პორტფოლიო, ესე, გასაუბრება ან რეკომენდაციები. მისაღები გამოცდა სავალდებულო არ არის. უნდა დაადასტუროთ სწავლის დაფინანსება და მიღების შემთხვევაში იღებთ I-20-ს F-1 ვიზისთვის. სწავლება ძირითადად ესპანურია.",
+   "ar": "جامعة بورتوريكو هي المنظومة الحكومية للجزيرة ومقرها سان خوان، وتضم 246 برنامج بكالوريوس من أكثر من 450 برنامجًا. يقدّم خريجو الثانوية الدوليون عبر upr.edu/admisiones بلا رسم تقديم من خلال المسار غير التقليدي: معدل 2.00 على الأقل مع أدلة مثل ملف الأعمال والمقال والمقابلة والتوصيات. لا يُشترط امتحان القبول. عليك إثبات توفر التمويل، وعند القبول تحصل على نموذج I-20 لتأشيرة F-1. التدريس بالإسبانية في الغالب."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published; the 80% tuition-coverage model on the homepage is not described as open to them.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის სპეციალური დახმარება გამოქვეყნებული არ არის; მთავარ გვერდზე აღწერილი 80%-იანი დაფარვის მოდელი მათთვის ღია არ არის მითითებული.",
+   "ar": "لا توجد منح مخصصة للطلبة الدوليين في البكالوريوس؛ ولا يُذكر أن نموذج تغطية الرسوم بنسبة 80% المذكور في الصفحة الرئيسية متاح لهم."
+  },
+  "tests": {
+   "en": "The entrance exam is not required on the international route; scores are needed only if you graduated more than a year ago. The page states no English or Spanish test.",
+   "ka": "საერთაშორისო გზაზე მისაღები გამოცდა სავალდებულო არ არის; ქულები საჭიროა მხოლოდ თუ სკოლა ერთ წელზე მეტი ხნის წინ დაამთავრეთ. ინგლისურის ან ესპანურის ტესტი მითითებული არ არის.",
+   "ar": "لا يُشترط امتحان القبول في المسار الدولي؛ تُطلب النتائج فقط إذا تخرجت قبل أكثر من سنة. لا تذكر الصفحة اختبار إنجليزية أو إسبانية."
+  },
+  "gpa_note": {
+   "en": "A minimum GPA of 2.00 is required on the non-traditional route, with supporting evidence.",
+   "ka": "არატრადიციულ გზაზე საჭიროა მინიმუმ 2.00 GPA დამატებით მასალასთან ერთად.",
+   "ar": "يُشترط معدل تراكمي 2.00 على الأقل في المسار غير التقليدي مع أدلة داعمة."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign school diploma",
+     "ka": "უცხოური ატესტატის აღიარება",
+     "ar": "معادلة الشهادة الثانوية الأجنبية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds",
+     "ka": "დაფინანსების დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات القدرة المالية"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Presentation letter",
+     "ka": "სამოტივაციო წერილი",
+     "ar": "رسالة تعريفية"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Admission interview",
+     "ka": "გასაუბრება",
+     "ar": "مقابلة القبول"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "puerto rico",
+   "san juan",
+   "public",
+   "f-1",
+   "no application fee"
+  ],
+  "sources": [
+   "https://www.upr.edu",
+   "https://www.upr.edu/estudiante-nuevo-ingreso/internacionales/",
+   "https://www.upr.edu/ac/costos-de-estudios/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universidad-de-san-andres-udesa",
+  "name": {
+   "en": "Universidad de San Andrés - UdeSA",
+   "ka": "სან-ანდრესის უნივერსიტეტი (UdeSA)",
+   "ar": "جامعة سان أندريس (UdeSA)"
+  },
+  "iso": "AR",
+  "city": "Buenos Aires",
+  "website": "https://www.udesa.edu.ar",
+  "lat": -34.456,
+  "lon": -58.545,
+  "type": "private",
+  "platform": null,
+  "application_url": "https://www.udesa.edu.ar/admision-de-grado",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No bachelor deadline is published on the pages read; an online UdeSA Experience session is on 25 November 2026 and a new Industrial Engineering degree starts in March 2027.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "No official statement on foreign school diplomas could be read.",
+   "ka": "უცხოური ატესტატების შესახებ ოფიციალური ინფორმაცია ვერ მოიძებნა.",
+   "ar": "لم يتسنَّ الاطلاع على بيان رسمي بشأن الشهادات الثانوية الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "economics",
+   "business",
+   "law",
+   "social-sciences",
+   "humanities",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Economics",
+    "Business",
+    "Law",
+    "Political science",
+    "Industrial engineering"
+   ],
+   "ka": [
+    "ეკონომიკა",
+    "ბიზნესი",
+    "სამართალი",
+    "პოლიტიკის მეცნიერება",
+    "ინდუსტრიული ინჟინერია"
+   ],
+   "ar": [
+    "الاقتصاد",
+    "الأعمال",
+    "القانون",
+    "العلوم السياسية",
+    "الهندسة الصناعية"
+   ]
+  },
+  "summary": {
+   "en": "A private university in Buenos Aires, Argentina. Admission and fee details for international bachelor applicants could not be confirmed from the official site.",
+   "ka": "კერძო უნივერსიტეტი ქალაქ ბუენოს-აირესი-ში, არგენტინა. საერთაშორისო აპლიკანტებისთვის მისაღები და საფასურის ინფორმაცია ოფიციალურ საიტზე ვერ დადასტურდა.",
+   "ar": "جامعة خاصة في بوينس آيرس، الأرجنتين. تعذّر التأكد من معلومات القبول والرسوم للطلبة الدوليين في مرحلة البكالوريوس من الموقع الرسمي."
+  },
+  "about": {
+   "en": "Universidad de San Andrés - UdeSA is a private university in Buenos Aires, Argentina. Its official website was not readable for admissions and fee pages when this profile was prepared. Applicants should check the university's admissions office for bachelor entry rules for foreign school diplomas, tuition, deadlines and the language of teaching before applying.",
+   "ka": "სან-ანდრესის უნივერსიტეტი (UdeSA) არის კერძო უნივერსიტეტი ქალაქ ბუენოს-აირესი-ში, არგენტინა. პროფილის მომზადებისას ოფიციალური საიტის მისაღები და საფასურის გვერდები არ იყო ხელმისაწვდომი. განმცხადებელმა ბაკალავრიატში ჩაბარების წესები უცხოური ატესტატისთვის, სწავლის საფასური, ვადები და სწავლების ენა უნივერსიტეტის მისაღებ ოფისში უნდა გადაამოწმოს.",
+   "ar": "جامعة سان أندريس (UdeSA) جامعة خاصة في بوينس آيرس، الأرجنتين. لم تكن صفحات القبول والرسوم في موقعها الرسمي متاحة للقراءة عند إعداد هذا الملف. على المتقدم مراجعة مكتب القبول في الجامعة بشأن شروط القبول في البكالوريوس للشهادات الأجنبية والرسوم والمواعيد ولغة الدراسة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منح مخصصة للطلبة الدوليين في البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements for international applicants are not published on the pages that could be read.",
+   "ka": "საერთაშორისო აპლიკანტებისთვის მისაღები გამოცდები და ენის მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة للمتقدمين الدوليين في الصفحات التي أمكن قراءتها."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are not published on the pages that could be read.",
+   "ka": "აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "argentina",
+   "buenos aires",
+   "private"
+  ],
+  "sources": [
+   "https://www.udesa.edu.ar",
+   "https://www.udesa.edu.ar/carreras-de-grado"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universidad-de-las-americas-puebla-udlap",
+  "name": {
+   "en": "Universidad de las Américas Puebla (UDLAP)",
+   "ka": "ამერიკის პუებლას უნივერსიტეტი (UDLAP)",
+   "ar": "جامعة الأمريكيتين بويبلا (UDLAP)"
+  },
+  "iso": "MX",
+  "city": "Cholula",
+  "website": "https://www.udlap.mx",
+  "lat": 19.054,
+  "lon": -98.283,
+  "type": "private",
+  "platform": null,
+  "application_url": "https://www.udlap.mx/eligeudlap/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Requirements and process dates are on the Elige UDLAP portal, which could not be read; admissions contact is informes.nuevoingreso@udlap.mx.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "No official statement on foreign school diplomas could be read.",
+   "ka": "უცხოური ატესტატების შესახებ ოფიციალური ინფორმაცია ვერ მოიძებნა.",
+   "ar": "لم يتسنَّ الاطلاع على بيان رسمي بشأن الشهادات الثانوية الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "engineering",
+   "social-sciences",
+   "arts-design",
+   "humanities",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Social sciences",
+    "Design",
+    "Humanities"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "სოციალური მეცნიერებები",
+    "დიზაინი",
+    "ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "العلوم الاجتماعية",
+    "التصميم",
+    "العلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "A private university in Cholula, Mexico. Admission and fee details for international bachelor applicants could not be confirmed from the official site.",
+   "ka": "კერძო უნივერსიტეტი ქალაქ ჩოლულა-ში, მექსიკა. საერთაშორისო აპლიკანტებისთვის მისაღები და საფასურის ინფორმაცია ოფიციალურ საიტზე ვერ დადასტურდა.",
+   "ar": "جامعة خاصة في تشولولا، المكسيك. تعذّر التأكد من معلومات القبول والرسوم للطلبة الدوليين في مرحلة البكالوريوس من الموقع الرسمي."
+  },
+  "about": {
+   "en": "Universidad de las Américas Puebla (UDLAP) is a private university in Cholula, Mexico. Its official website was not readable for admissions and fee pages when this profile was prepared. Applicants should check the university's admissions office for bachelor entry rules for foreign school diplomas, tuition, deadlines and the language of teaching before applying.",
+   "ka": "ამერიკის პუებლას უნივერსიტეტი (UDLAP) არის კერძო უნივერსიტეტი ქალაქ ჩოლულა-ში, მექსიკა. პროფილის მომზადებისას ოფიციალური საიტის მისაღები და საფასურის გვერდები არ იყო ხელმისაწვდომი. განმცხადებელმა ბაკალავრიატში ჩაბარების წესები უცხოური ატესტატისთვის, სწავლის საფასური, ვადები და სწავლების ენა უნივერსიტეტის მისაღებ ოფისში უნდა გადაამოწმოს.",
+   "ar": "جامعة الأمريكيتين بويبلا (UDLAP) جامعة خاصة في تشولولا، المكسيك. لم تكن صفحات القبول والرسوم في موقعها الرسمي متاحة للقراءة عند إعداد هذا الملف. على المتقدم مراجعة مكتب القبول في الجامعة بشأن شروط القبول في البكالوريوس للشهادات الأجنبية والرسوم والمواعيد ولغة الدراسة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منح مخصصة للطلبة الدوليين في البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements for international applicants are not published on the pages that could be read.",
+   "ka": "საერთაშორისო აპლიკანტებისთვის მისაღები გამოცდები და ენის მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة للمتقدمين الدوليين في الصفحات التي أمكن قراءتها."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are not published on the pages that could be read.",
+   "ka": "აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "mexico",
+   "cholula",
+   "private"
+  ],
+  "sources": [
+   "https://www.udlap.mx",
+   "https://www.udlap.mx/nuevoingreso/"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universidade-federal-de-sao-carlos-ufscar",
+  "name": {
+   "en": "Universidade Federal de São Carlos (UFSCar)",
+   "ka": "სან-კარლოსის ფედერალური უნივერსიტეტი (UFSCar)",
+   "ar": "جامعة ساو كارلوس الاتحادية (UFSCar)"
+  },
+  "iso": "BR",
+  "city": "São Carlos",
+  "website": "https://www.ufscar.br",
+  "lat": -21.984,
+  "lon": -47.881,
+  "type": "public",
+  "platform": null,
+  "application_url": "https://www.ufscar.br/processos-seletivos",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The 2027 international call (registration 16–27 November 2026, 70 extra places) is only for refugees, asylum applicants and humanitarian-visa holders; it does not cover other foreign students.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "No official statement on foreign school diplomas could be read.",
+   "ka": "უცხოური ატესტატების შესახებ ოფიციალური ინფორმაცია ვერ მოიძებნა.",
+   "ar": "لم يتسنَّ الاطلاع على بيان رسمي بشأن الشهادات الثانوية الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Enem (for the migrant call)"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "computer-science",
+   "medicine-health",
+   "education",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Natural sciences",
+    "Computer science",
+    "Education"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "კომპიუტერული მეცნიერება",
+    "განათლება"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم الطبيعية",
+    "علوم الحاسوب",
+    "التربية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in São Carlos, Brazil. Admission and fee details for international bachelor applicants could not be confirmed from the official site.",
+   "ka": "სახელმწიფო უნივერსიტეტი ქალაქ სან-კარლოსი-ში, ბრაზილია. საერთაშორისო აპლიკანტებისთვის მისაღები და საფასურის ინფორმაცია ოფიციალურ საიტზე ვერ დადასტურდა.",
+   "ar": "جامعة حكومية في ساو كارلوس، البرازيل. تعذّر التأكد من معلومات القبول والرسوم للطلبة الدوليين في مرحلة البكالوريوس من الموقع الرسمي."
+  },
+  "about": {
+   "en": "Universidade Federal de São Carlos (UFSCar) is a public university in São Carlos, Brazil. Its official website was not readable for admissions and fee pages when this profile was prepared. Applicants should check the university's admissions office for bachelor entry rules for foreign school diplomas, tuition, deadlines and the language of teaching before applying.",
+   "ka": "სან-კარლოსის ფედერალური უნივერსიტეტი (UFSCar) არის სახელმწიფო უნივერსიტეტი ქალაქ სან-კარლოსი-ში, ბრაზილია. პროფილის მომზადებისას ოფიციალური საიტის მისაღები და საფასურის გვერდები არ იყო ხელმისაწვდომი. განმცხადებელმა ბაკალავრიატში ჩაბარების წესები უცხოური ატესტატისთვის, სწავლის საფასური, ვადები და სწავლების ენა უნივერსიტეტის მისაღებ ოფისში უნდა გადაამოწმოს.",
+   "ar": "جامعة ساو كارلوس الاتحادية (UFSCar) جامعة حكومية في ساو كارلوس، البرازيل. لم تكن صفحات القبول والرسوم في موقعها الرسمي متاحة للقراءة عند إعداد هذا الملف. على المتقدم مراجعة مكتب القبول في الجامعة بشأن شروط القبول في البكالوريوس للشهادات الأجنبية والرسوم والمواعيد ولغة الدراسة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منح مخصصة للطلبة الدوليين في البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements for international applicants are not published on the pages that could be read.",
+   "ka": "საერთაშორისო აპლიკანტებისთვის მისაღები გამოცდები და ენის მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة للمتقدمين الدوليين في الصفحات التي أمكن قراءتها."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are not published on the pages that could be read.",
+   "ka": "აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "são carlos",
+   "public"
+  ],
+  "sources": [
+   "https://www.ufscar.br",
+   "https://www.ufscar.br/noticia?codigo=17231&id=ufscar-divulga-edital-para-ingresso-de-migrantes-internacionais-em-2027"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universidade-federal-do-parana-ufpr",
+  "name": {
+   "en": "Universidade Federal do Paraná - UFPR",
+   "ka": "პარანას ფედერალური უნივერსიტეტი (UFPR)",
+   "ar": "جامعة بارانا الاتحادية (UFPR)"
+  },
+  "iso": "BR",
+  "city": "Curitiba",
+  "website": "https://www.ufpr.br",
+  "lat": -25.427,
+  "lon": -49.266,
+  "type": "public",
+  "platform": null,
+  "application_url": "https://www.ufpr.br",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Bachelor deadlines for international applicants could not be read from the official site.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "No official statement on foreign school diplomas could be read.",
+   "ka": "უცხოური ატესტატების შესახებ ოფიციალური ინფორმაცია ვერ მოიძებნა.",
+   "ar": "لم يتسنَّ الاطلاع على بيان رسمي بشأن الشهادات الثانوية الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "medicine-health",
+   "law",
+   "social-sciences",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Health sciences",
+    "Law",
+    "Agricultural sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ჯანდაცვის მეცნიერებები",
+    "სამართალი",
+    "სასოფლო-სამეურნეო მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الصحة",
+    "القانون",
+    "العلوم الزراعية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Curitiba, Brazil. Admission and fee details for international bachelor applicants could not be confirmed from the official site.",
+   "ka": "სახელმწიფო უნივერსიტეტი ქალაქ კურიტიბა-ში, ბრაზილია. საერთაშორისო აპლიკანტებისთვის მისაღები და საფასურის ინფორმაცია ოფიციალურ საიტზე ვერ დადასტურდა.",
+   "ar": "جامعة حكومية في كوريتيبا، البرازيل. تعذّر التأكد من معلومات القبول والرسوم للطلبة الدوليين في مرحلة البكالوريوس من الموقع الرسمي."
+  },
+  "about": {
+   "en": "Universidade Federal do Paraná - UFPR is a public university in Curitiba, Brazil. Its official website was not readable for admissions and fee pages when this profile was prepared. Applicants should check the university's admissions office for bachelor entry rules for foreign school diplomas, tuition, deadlines and the language of teaching before applying.",
+   "ka": "პარანას ფედერალური უნივერსიტეტი (UFPR) არის სახელმწიფო უნივერსიტეტი ქალაქ კურიტიბა-ში, ბრაზილია. პროფილის მომზადებისას ოფიციალური საიტის მისაღები და საფასურის გვერდები არ იყო ხელმისაწვდომი. განმცხადებელმა ბაკალავრიატში ჩაბარების წესები უცხოური ატესტატისთვის, სწავლის საფასური, ვადები და სწავლების ენა უნივერსიტეტის მისაღებ ოფისში უნდა გადაამოწმოს.",
+   "ar": "جامعة بارانا الاتحادية (UFPR) جامعة حكومية في كوريتيبا، البرازيل. لم تكن صفحات القبول والرسوم في موقعها الرسمي متاحة للقراءة عند إعداد هذا الملف. على المتقدم مراجعة مكتب القبول في الجامعة بشأن شروط القبول في البكالوريوس للشهادات الأجنبية والرسوم والمواعيد ولغة الدراسة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منح مخصصة للطلبة الدوليين في البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements for international applicants are not published on the pages that could be read.",
+   "ka": "საერთაშორისო აპლიკანტებისთვის მისაღები გამოცდები და ენის მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة للمتقدمين الدوليين في الصفحات التي أمكن قراءتها."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are not published on the pages that could be read.",
+   "ka": "აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "curitiba",
+   "public"
+  ],
+  "sources": [
+   "https://www.ufpr.br"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universitas-sumatera-utara",
+  "name": {
+   "en": "Universitas Sumatera Utara",
+   "ka": "ჩრდილოეთ სუმატრას უნივერსიტეტი",
+   "ar": "جامعة شمال سومطرة"
+  },
+  "iso": "ID",
+  "city": "Medan",
+  "website": "https://www.usu.ac.id",
+  "lat": 3.56,
+  "lon": 98.657,
+  "type": "public",
+  "platform": null,
+  "application_url": "https://www.usu.ac.id/id/penerimaan",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Admissions are on the USU penerimaan page; no international bachelor deadline could be read. Tuition (UKT) for Indonesian students depends on family economic capacity; the international rate is not published.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 42687,
+  "intl_pct": null,
+  "languages": [
+   "Indonesian"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "No official statement on foreign school diplomas could be read.",
+   "ka": "უცხოური ატესტატების შესახებ ოფიციალური ინფორმაცია ვერ მოიძებნა.",
+   "ar": "لم يتسنَّ الاطلاع على بيان رسمي بشأن الشهادات الثانوية الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences",
+   "economics",
+   "social-sciences",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Economics",
+    "Law",
+    "Pharmacy"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "ეკონომიკა",
+    "სამართალი",
+    "ფარმაცია"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "الاقتصاد",
+    "القانون",
+    "الصيدلة"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Medan, Indonesia. Admission and fee details for international bachelor applicants could not be confirmed from the official site.",
+   "ka": "სახელმწიფო უნივერსიტეტი ქალაქ მედანი-ში, ინდონეზია. საერთაშორისო აპლიკანტებისთვის მისაღები და საფასურის ინფორმაცია ოფიციალურ საიტზე ვერ დადასტურდა.",
+   "ar": "جامعة حكومية في ميدان، إندونيسيا. تعذّر التأكد من معلومات القبول والرسوم للطلبة الدوليين في مرحلة البكالوريوس من الموقع الرسمي."
+  },
+  "about": {
+   "en": "Universitas Sumatera Utara is a public university in Medan, Indonesia. Its official website was not readable for admissions and fee pages when this profile was prepared. Applicants should check the university's admissions office for bachelor entry rules for foreign school diplomas, tuition, deadlines and the language of teaching before applying.",
+   "ka": "ჩრდილოეთ სუმატრას უნივერსიტეტი არის სახელმწიფო უნივერსიტეტი ქალაქ მედანი-ში, ინდონეზია. პროფილის მომზადებისას ოფიციალური საიტის მისაღები და საფასურის გვერდები არ იყო ხელმისაწვდომი. განმცხადებელმა ბაკალავრიატში ჩაბარების წესები უცხოური ატესტატისთვის, სწავლის საფასური, ვადები და სწავლების ენა უნივერსიტეტის მისაღებ ოფისში უნდა გადაამოწმოს.",
+   "ar": "جامعة شمال سومطرة جامعة حكومية في ميدان، إندونيسيا. لم تكن صفحات القبول والرسوم في موقعها الرسمي متاحة للقراءة عند إعداد هذا الملف. على المتقدم مراجعة مكتب القبول في الجامعة بشأن شروط القبول في البكالوريوس للشهادات الأجنبية والرسوم والمواعيد ولغة الدراسة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منح مخصصة للطلبة الدوليين في البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements for international applicants are not published on the pages that could be read.",
+   "ka": "საერთაშორისო აპლიკანტებისთვის მისაღები გამოცდები და ენის მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة للمتقدمين الدوليين في الصفحات التي أمكن قراءتها."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are not published on the pages that could be read.",
+   "ka": "აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "indonesia",
+   "medan",
+   "public"
+  ],
+  "sources": [
+   "https://www.usu.ac.id",
+   "https://www.usu.ac.id/id/pendidikan/biaya-pendidikan"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universiti-malaysia-perlis",
+  "name": {
+   "en": "Universiti Malaysia Perlis",
+   "ka": "მალაიზიის პერლისის უნივერსიტეტი",
+   "ar": "جامعة ماليزيا برليس"
+  },
+  "iso": "MY",
+  "city": "Kangar",
+  "website": "https://www.unimap.edu.my",
+  "lat": 6.467,
+  "lon": 100.3,
+  "type": "public",
+  "platform": null,
+  "application_url": "https://admission.unimap.edu.my/index.php/undergraduate/international-student",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "An international student admission page exists at admission.unimap.edu.my but could not be read; a Semester 2 2026/2027 intake application check is listed on the homepage.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "No official statement on foreign school diplomas could be read.",
+   "ka": "უცხოური ატესტატების შესახებ ოფიციალური ინფორმაცია ვერ მოიძებნა.",
+   "ar": "لم يتسنَّ الاطلاع على بيان رسمي بشأن الشهادات الثانوية الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "mathematics",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Applied sciences",
+    "Business"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "გამოყენებითი მეცნიერებები",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "العلوم التطبيقية",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Kangar, Malaysia. Admission and fee details for international bachelor applicants could not be confirmed from the official site.",
+   "ka": "სახელმწიფო უნივერსიტეტი ქალაქ კანგარი-ში, მალაიზია. საერთაშორისო აპლიკანტებისთვის მისაღები და საფასურის ინფორმაცია ოფიციალურ საიტზე ვერ დადასტურდა.",
+   "ar": "جامعة حكومية في كانغار، ماليزيا. تعذّر التأكد من معلومات القبول والرسوم للطلبة الدوليين في مرحلة البكالوريوس من الموقع الرسمي."
+  },
+  "about": {
+   "en": "Universiti Malaysia Perlis is a public university in Kangar, Malaysia. Its official website was not readable for admissions and fee pages when this profile was prepared. Applicants should check the university's admissions office for bachelor entry rules for foreign school diplomas, tuition, deadlines and the language of teaching before applying.",
+   "ka": "მალაიზიის პერლისის უნივერსიტეტი არის სახელმწიფო უნივერსიტეტი ქალაქ კანგარი-ში, მალაიზია. პროფილის მომზადებისას ოფიციალური საიტის მისაღები და საფასურის გვერდები არ იყო ხელმისაწვდომი. განმცხადებელმა ბაკალავრიატში ჩაბარების წესები უცხოური ატესტატისთვის, სწავლის საფასური, ვადები და სწავლების ენა უნივერსიტეტის მისაღებ ოფისში უნდა გადაამოწმოს.",
+   "ar": "جامعة ماليزيا برليس جامعة حكومية في كانغار، ماليزيا. لم تكن صفحات القبول والرسوم في موقعها الرسمي متاحة للقراءة عند إعداد هذا الملف. على المتقدم مراجعة مكتب القبول في الجامعة بشأن شروط القبول في البكالوريوس للشهادات الأجنبية والرسوم والمواعيد ولغة الدراسة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منح مخصصة للطلبة الدوليين في البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements for international applicants are not published on the pages that could be read.",
+   "ka": "საერთაშორისო აპლიკანტებისთვის მისაღები გამოცდები და ენის მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة للمتقدمين الدوليين في الصفحات التي أمكن قراءتها."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are not published on the pages that could be read.",
+   "ka": "აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "malaysia",
+   "kangar",
+   "public"
+  ],
+  "sources": [
+   "https://www.unimap.edu.my",
+   "https://admission.unimap.edu.my/index.php/undergraduate"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universiti-malaysia-sabah-ums",
+  "name": {
+   "en": "Universiti Malaysia Sabah (UMS)",
+   "ka": "მალაიზიის საბას უნივერსიტეტი (UMS)",
+   "ar": "جامعة ماليزيا صباح (UMS)"
+  },
+  "iso": "MY",
+  "city": "Kota Kinabalu",
+  "website": "https://www.ums.edu.my",
+  "lat": 6.032,
+  "lon": 116.119,
+  "type": "public",
+  "platform": null,
+  "application_url": "https://www.ums.edu.my/pppg",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "International applicants are handled by CIGE (ums_global@ums.edu.my); applications go through mohon.ums.edu.my. No dates or fees were published on the pages read.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "No official statement on foreign school diplomas could be read.",
+   "ka": "უცხოური ატესტატების შესახებ ოფიციალური ინფორმაცია ვერ მოიძებნა.",
+   "ar": "لم يتسنَّ الاطلاع على بيان رسمي بشأن الشهادات الثانوية الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "natural-sciences",
+   "environment",
+   "engineering",
+   "business",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Marine and environmental science",
+    "Engineering",
+    "Business",
+    "Computer science"
+   ],
+   "ka": [
+    "საზღვაო და გარემოსდაცვითი მეცნიერებები",
+    "ინჟინერია",
+    "ბიზნესი",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "العلوم البحرية والبيئية",
+    "الهندسة",
+    "الأعمال",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Kota Kinabalu, Malaysia. Admission and fee details for international bachelor applicants could not be confirmed from the official site.",
+   "ka": "სახელმწიფო უნივერსიტეტი ქალაქ კოტა-კინაბალუ-ში, მალაიზია. საერთაშორისო აპლიკანტებისთვის მისაღები და საფასურის ინფორმაცია ოფიციალურ საიტზე ვერ დადასტურდა.",
+   "ar": "جامعة حكومية في كوتا كينابالو، ماليزيا. تعذّر التأكد من معلومات القبول والرسوم للطلبة الدوليين في مرحلة البكالوريوس من الموقع الرسمي."
+  },
+  "about": {
+   "en": "Universiti Malaysia Sabah (UMS) is a public university in Kota Kinabalu, Malaysia. Its official website was not readable for admissions and fee pages when this profile was prepared. Applicants should check the university's admissions office for bachelor entry rules for foreign school diplomas, tuition, deadlines and the language of teaching before applying.",
+   "ka": "მალაიზიის საბას უნივერსიტეტი (UMS) არის სახელმწიფო უნივერსიტეტი ქალაქ კოტა-კინაბალუ-ში, მალაიზია. პროფილის მომზადებისას ოფიციალური საიტის მისაღები და საფასურის გვერდები არ იყო ხელმისაწვდომი. განმცხადებელმა ბაკალავრიატში ჩაბარების წესები უცხოური ატესტატისთვის, სწავლის საფასური, ვადები და სწავლების ენა უნივერსიტეტის მისაღებ ოფისში უნდა გადაამოწმოს.",
+   "ar": "جامعة ماليزيا صباح (UMS) جامعة حكومية في كوتا كينابالو، ماليزيا. لم تكن صفحات القبول والرسوم في موقعها الرسمي متاحة للقراءة عند إعداد هذا الملف. على المتقدم مراجعة مكتب القبول في الجامعة بشأن شروط القبول في البكالوريوس للشهادات الأجنبية والرسوم والمواعيد ولغة الدراسة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منح مخصصة للطلبة الدوليين في البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements for international applicants are not published on the pages that could be read.",
+   "ka": "საერთაშორისო აპლიკანტებისთვის მისაღები გამოცდები და ენის მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة للمتقدمين الدوليين في الصفحات التي أمكن قراءتها."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are not published on the pages that could be read.",
+   "ka": "აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "malaysia",
+   "kota kinabalu",
+   "public"
+  ],
+  "sources": [
+   "https://www.ums.edu.my",
+   "https://www.ums.edu.my/v6/index.php/academic/admission-ums",
+   "https://www.ums.edu.my/pppg"
+  ],
+  "verified_at": "2026-11-01"
+ },
+ {
+  "id": "universiti-malaysia-sarawak-unimas",
+  "name": {
+   "en": "Universiti Malaysia Sarawak (UNIMAS)",
+   "ka": "მალაიზიის სარავაკის უნივერსიტეტი (UNIMAS)",
+   "ar": "جامعة ماليزيا ساراواك (UNIMAS)"
+  },
+  "iso": "MY",
+  "city": "Kuching",
+  "website": "https://www.unimas.my",
+  "lat": 1.466,
+  "lon": 110.428,
+  "type": "public",
+  "platform": null,
+  "application_url": "https://www.unimas.my",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Bachelor deadlines for international applicants could not be read from the official site.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "No official statement on foreign school diplomas could be read.",
+   "ka": "უცხოური ატესტატების შესახებ ოფიციალური ინფორმაცია ვერ მოიძებნა.",
+   "ar": "لم يتسنَّ الاطلاع على بيان رسمي بشأن الشهادات الثانوية الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "natural-sciences",
+   "medicine-health",
+   "engineering",
+   "computer-science",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Medical and health sciences",
+    "Engineering",
+    "Computer science",
+    "Biodiversity"
+   ],
+   "ka": [
+    "სამედიცინო და ჯანდაცვის მეცნიერებები",
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "ბიოდივერსიტეტი"
+   ],
+   "ar": [
+    "العلوم الطبية والصحية",
+    "الهندسة",
+    "علوم الحاسوب",
+    "التنوع الحيوي"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Kuching, Malaysia. Admission and fee details for international bachelor applicants could not be confirmed from the official site.",
+   "ka": "სახელმწიფო უნივერსიტეტი ქალაქ კუჩინგი-ში, მალაიზია. საერთაშორისო აპლიკანტებისთვის მისაღები და საფასურის ინფორმაცია ოფიციალურ საიტზე ვერ დადასტურდა.",
+   "ar": "جامعة حكومية في كوتشينغ، ماليزيا. تعذّر التأكد من معلومات القبول والرسوم للطلبة الدوليين في مرحلة البكالوريوس من الموقع الرسمي."
+  },
+  "about": {
+   "en": "Universiti Malaysia Sarawak (UNIMAS) is a public university in Kuching, Malaysia. Its official website was not readable for admissions and fee pages when this profile was prepared. Applicants should check the university's admissions office for bachelor entry rules for foreign school diplomas, tuition, deadlines and the language of teaching before applying.",
+   "ka": "მალაიზიის სარავაკის უნივერსიტეტი (UNIMAS) არის სახელმწიფო უნივერსიტეტი ქალაქ კუჩინგი-ში, მალაიზია. პროფილის მომზადებისას ოფიციალური საიტის მისაღები და საფასურის გვერდები არ იყო ხელმისაწვდომი. განმცხადებელმა ბაკალავრიატში ჩაბარების წესები უცხოური ატესტატისთვის, სწავლის საფასური, ვადები და სწავლების ენა უნივერსიტეტის მისაღებ ოფისში უნდა გადაამოწმოს.",
+   "ar": "جامعة ماليزيا ساراواك (UNIMAS) جامعة حكومية في كوتشينغ، ماليزيا. لم تكن صفحات القبول والرسوم في موقعها الرسمي متاحة للقراءة عند إعداد هذا الملف. على المتقدم مراجعة مكتب القبول في الجامعة بشأن شروط القبول في البكالوريوس للشهادات الأجنبية والرسوم والمواعيد ولغة الدراسة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منح مخصصة للطلبة الدوليين في البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "Entrance tests and language requirements for international applicants are not published on the pages that could be read.",
+   "ka": "საერთაშორისო აპლიკანტებისთვის მისაღები გამოცდები და ენის მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر اختبارات القبول ومتطلبات اللغة للمتقدمين الدوليين في الصفحات التي أمكن قراءتها."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are not published on the pages that could be read.",
+   "ka": "აკადემიური მოთხოვნები წაკითხულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لم تُنشر المتطلبات الأكاديمية في الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "malaysia",
+   "kuching",
+   "public"
+  ],
+  "sources": [
+   "https://www.unimas.my"
+  ],
+  "verified_at": "2026-11-01"
+ }
+]

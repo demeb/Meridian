@@ -1,0 +1,597 @@
+[
+{
+"id": "monash-university",
+"name": "Monash University",
+"iso": "AU",
+"website": "https://www.monash.edu",
+"application_url": "https://www.monash.edu/study/how-to-apply/application-process/international-students",
+"tests": "No SAT/ACT requirement as such; entry is by your secondary qualification against course minimums. English Level A (most courses): IELTS Academic 6.5 with 6.0 in every band, or an equivalent approved test. Medicine (direct entry) also requires the UCAT ANZ (or ISAT for international applicants) and an interview.",
+"gpa_note": "Course-specific minimum scores for your qualification; Medicine, Pharmacy and Law are the most competitive.",
+"languages": [
+"English"
+],
+"strengths": [
+"Pharmacy and pharmacology",
+"Medicine and health sciences",
+"Engineering",
+"Education",
+"Business"
+]
+},
+{
+"id": "university-of-toronto",
+"name": "University of Toronto",
+"iso": "CA",
+"website": "https://future.utoronto.ca",
+"application_url": null,
+"tests": "SAT/ACT not required for most curricula (used for some US-curriculum applicants). English: IELTS Academic 6.5 (no band below 6.0), TOEFL iBT 100 (old scale, writing 22), Duolingo 120 – unless exempt.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Computer science & AI",
+"Engineering",
+"Commerce (Rotman)",
+"Life sciences & medicine",
+"Political science & economics"
+]
+},
+{
+"id": "hkust",
+"name": "The Hong Kong University of Science and Technology (HKUST)",
+"iso": "HK",
+"website": "https://hkust.edu.hk/",
+"application_url": "https://join.hkust.edu.hk/admissions/international-qualifications",
+"tests": "SAT, ACT and AP are accepted with US-curriculum diplomas. English proof required: IELTS Academic, TOEFL, Duolingo, PTE and others are accepted (minimums shown per test on the International Qualifications page). Application fee HK$600.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering",
+"Computer Science and AI",
+"Business and Management",
+"Quantitative Finance",
+"Data Science",
+"Science"
+]
+},
+{
+"id": "psl-university",
+"name": "PSL University (Université Paris Sciences & Lettres)",
+"iso": "FR",
+"website": "https://psl.eu/en/education",
+"application_url": null,
+"tests": "No SAT/ACT. Most undergraduate programmes (e.g. CPES, Dauphine licences) are taught in French and require about B2–C1 French; a few English-taught tracks need IELTS 6.5–7.0 or equivalent.",
+"gpa_note": "",
+"languages": [
+"French",
+"English"
+],
+"strengths": [
+"Mathematics & Physics (ENS)",
+"Economics & Management (Dauphine)",
+"Humanities",
+"Chemistry",
+"Engineering (Mines Paris)",
+"Arts"
+]
+},
+{
+"id": "university-of-edinburgh",
+"name": "University of Edinburgh",
+"iso": "GB",
+"website": "https://www.ed.ac.uk/studying/undergraduate",
+"application_url": null,
+"tests": "No SAT/ACT (US applicants can use SAT/AP); UCAT for medicine. English: typically IELTS 6.5 overall with 6.0 in each part (higher for some programmes), or TOEFL iBT 92 (20 in each).",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Informatics & AI",
+"Medicine",
+"Veterinary Medicine",
+"Linguistics",
+"Philosophy",
+"Economics"
+]
+},
+{
+"id": "shanghai-jiao-tong-university",
+"name": "Shanghai Jiao Tong University (SJTU)",
+"iso": "CN",
+"website": "https://en.sjtu.edu.cn/",
+"application_url": "https://en.sjtu.edu.cn/news-events/notice/3400",
+"tests": "CSCA (China Scholastic Competency Assessment) with Mathematics is required; SAT (code 6563) or ACT (6983), A-level (Maths A) or IB (Maths HL 5) support the application. 2026 admits' middle 50%: SAT 1390-1500, ACT 30-34. English: TOEFL iBT 90 (or 4.5 on the new scale), IELTS 6.0 or Duolingo 120; exemptions for SAT EBRW 650+ or ACT Reading and English 27+.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Mechanical Engineering",
+"Electrical and Computer Engineering",
+"Computer Science",
+"Materials Science",
+"Civil Engineering",
+"Medicine"
+]
+},
+{
+"id": "kings-college-london",
+"name": "King's College London",
+"iso": "GB",
+"website": "https://www.kcl.ac.uk/study/undergraduate",
+"application_url": null,
+"tests": "No SAT/ACT; UCAT for medicine/dentistry and LNAT for law. English: KCL uses bands — most courses need IELTS 7.0 (6.5 in each part) or IELTS 6.5 (6.0 each); TOEFL iBT 92–100.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"War Studies",
+"Law",
+"Medicine & Nursing",
+"International Relations",
+"Psychology",
+"Liberal Arts"
+]
+},
+{
+"id": "seoul-national-university",
+"name": "Seoul National University",
+"iso": "KR",
+"website": "https://www.snu.ac.kr",
+"application_url": "https://admission.snu.ac.kr/international/undergraduate/spring/guide",
+"tests": "No SAT/ACT requirement; standardized results (SAT, ACT, AP, IB, A-level, IGCSE) may be submitted as supporting evidence. Language: Korean (TOPIK level 3+) or English (TOEFL iBT 80, IELTS Academic 6.0 or TEPS 269); TOEFL Home Edition and IELTS Online accepted. Most courses are taught in Korean. Art, music and PE applicants have practical exams/interviews.",
+"gpa_note": "Holistic document review of school performance, study plan and recommendations; admitted students are typically top of their class.",
+"languages": [
+"Korean",
+"English"
+],
+"strengths": [
+"Engineering",
+"Natural sciences",
+"Business",
+"Economics",
+"Medicine",
+"Social sciences"
+]
+},
+{
+"id": "university-of-tokyo",
+"name": "The University of Tokyo (UTokyo)",
+"iso": "JP",
+"website": "https://www.u-tokyo.ac.jp/en/",
+"application_url": "https://design.adm.u-tokyo.ac.jp/admissions/",
+"tests": "Two routes, 100 places (50 each). Route A: Japan's Common Test for University Admissions (January 2027, about 80%+ expected) plus an English test, then in-person screening. Route B: an accepted standardized test or qualification (e.g. IB, A-level, SAT/ACT and others listed by UTokyo) plus a designated English proficiency test, then an online interview in English.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Design (interdisciplinary, new College of Design)",
+"Engineering",
+"Science",
+"Economics",
+"Law",
+"Medicine"
+]
+},
+{
+"id": "university-of-queensland",
+"name": "The University of Queensland (UQ)",
+"iso": "AU",
+"website": "https://www.uq.edu.au/",
+"application_url": "https://study.uq.edu.au/admissions",
+"tests": "Minimum English for most programmes: IELTS Academic 6.5 overall with 6.0 in every band (IELTS One Skill Retake accepted with the original test; IELTS Online not recognised); equivalent TOEFL/PTE scores per UQ's table; some programmes need more. Students below the level can take UQ English pathways.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Biotechnology and Life Sciences",
+"Engineering",
+"Business",
+"Medicine",
+"Environmental Science",
+"Psychology"
+]
+},
+{
+"id": "university-of-manchester",
+"name": "University of Manchester",
+"iso": "GB",
+"website": "https://www.manchester.ac.uk/study/undergraduate/",
+"application_url": null,
+"tests": "No SAT/ACT; UCAT for medicine/dentistry. English: usually IELTS 6.5 overall with no component below 6.0 (7.0 for some courses).",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Materials & Physics (graphene)",
+"Engineering",
+"Business (Alliance MBS)",
+"Computer Science",
+"Medicine",
+"Social sciences"
+]
+},
+{
+"id": "yonsei-university",
+"name": "Yonsei University",
+"iso": "KR",
+"website": "https://www.yonsei.ac.kr",
+"application_url": "https://uic.yonsei.ac.kr/admission.php?mid=m04_02_02",
+"tests": "No SAT/ACT requirement. UIC requires proof of English proficiency (TOEFL, IELTS, CEFR certificate, IB English A, AP English or English-medium schooling) with no minimum score. Selection is by document review plus an interview. Korean-taught Yonsei programmes require TOPIK instead.",
+"gpa_note": "Holistic document review (200 points) plus interview; strong academic records and English writing are expected.",
+"languages": [
+"English",
+"Korean"
+],
+"strengths": [
+"Liberal arts (UIC)",
+"Business",
+"Economics",
+"Medicine",
+"International studies"
+]
+},
+{
+"id": "columbia-university",
+"name": "Columbia University",
+"iso": "US",
+"website": "https://undergrad.admissions.columbia.edu",
+"application_url": null,
+"tests": "Test-optional for the 2026-27 cycle (fall 2027 entry); SAT/ACT required again from the 2027-28 cycle. English proficiency for non-native speakers: TOEFL 105, IELTS 7.5 or Duolingo 135 (older FAQ — verify).",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Core Curriculum (great books)",
+"Economics & finance",
+"Political science & international relations",
+"Engineering (SEAS)",
+"Journalism & arts in New York City"
+]
+},
+{
+"id": "institut-polytechnique-de-paris",
+"name": "Institut Polytechnique de Paris (École Polytechnique)",
+"iso": "FR",
+"website": "https://www.ip-paris.fr/en",
+"application_url": "https://programmes.polytechnique.edu/en/bachelor/admissions/admissions-criteria-and-procedure",
+"tests": "No SAT/ACT required (scores can be reported if taken). English: TOEFL iBT 90 or IELTS 6.5 (min 6 per skill) or Cambridge C1/C2 176; results under two years old. No French required to apply (B2 French needed to graduate). Shortlisted candidates have a ~50-minute online interview.",
+"gpa_note": "Very strong overall academic average with advanced mathematics and at least one advanced science course; holistic review.",
+"languages": [
+"English"
+],
+"strengths": [
+"Mathematics & Computer Science",
+"Mathematics & Economics",
+"Mathematics & Physics",
+"BS/MS track with Columbia University",
+"Global Dual Degree in Engineering"
+]
+},
+{
+"id": "northwestern-university",
+"name": "Northwestern University",
+"iso": "US",
+"website": "https://admissions.northwestern.edu",
+"application_url": "https://admissions.northwestern.edu/apply/identities/international.html",
+"tests": "Test-optional: SAT/ACT not required (scores may be submitted). English proficiency score required if English is not your first language or school language (TOEFL iBT, IELTS incl. Indicator, Duolingo); no minimum, but competitive applicants score in the high range.",
+"gpa_note": "Most admitted students rank in the top 10% of their class with the most rigorous curriculum available.",
+"languages": [
+"English"
+],
+"strengths": [
+"Journalism (Medill)",
+"Economics",
+"Engineering (McCormick)",
+"Theatre & performance studies",
+"Communication",
+"Learning & organizational change"
+]
+},
+{
+"id": "university-of-british-columbia",
+"name": "University of British Columbia (UBC)",
+"iso": "CA",
+"website": "https://you.ubc.ca",
+"application_url": null,
+"tests": "SAT/ACT not required. English: IELTS Academic 6.5 (6.0 each), TOEFL iBT 90 (old scale; min 22 reading/listening, 21 speaking/writing) or Duolingo 125, unless exempt.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Forestry & environmental science",
+"Computer science",
+"Engineering",
+"Commerce (Sauder)",
+"Earth & ocean sciences"
+]
+},
+{
+"id": "zhejiang-university",
+"name": "Zhejiang University",
+"iso": "CN",
+"website": "https://www.zju.edu.cn",
+"application_url": "http://iczu.zju.edu.cn/admissionsen/2024/1030/c68988a2981659/page.htm",
+"tests": "SAT/ACT/IB/A-level or national exam results are submitted if applicable (not mandatory). From 2026/27 all international undergraduate applicants must submit a valid CSCA (China Scholastic Competency Assessment) report. Chinese-taught programmes need an HSK certificate; English-taught programmes need TOEFL/IELTS or equivalent (no published minimum). Shortlisted applicants have a video interview.",
+"gpa_note": "Competitive selection on senior-high academic performance, language proficiency, CSCA results and interview.",
+"languages": [
+"Chinese",
+"English"
+],
+"strengths": [
+"Engineering",
+"Computer science",
+"Agriculture",
+"Medicine",
+"Management"
+]
+},
+{
+"id": "tu-delft",
+"name": "Delft University of Technology (TU Delft)",
+"iso": "NL",
+"website": "https://www.tudelft.nl/en/education/programmes/bachelors",
+"application_url": null,
+"tests": "No SAT/ACT, but strong maths and physics at advanced school level are required, and numerus clausus programmes run a selection procedure (online tests/assignments). English: IELTS 6.5 (6.0 each) or TOEFL iBT 90.",
+"gpa_note": "",
+"languages": [
+"English",
+"Dutch"
+],
+"strengths": [
+"Aerospace Engineering",
+"Computer Science & Engineering",
+"Architecture",
+"Nanobiology",
+"Civil & Mechanical Engineering",
+"Applied Earth Sciences"
+]
+},
+{
+"id": "ucla",
+"name": "University of California, Los Angeles (UCLA)",
+"iso": "US",
+"website": "https://admission.ucla.edu",
+"application_url": null,
+"tests": "Test-blind: SAT/ACT are not considered. English: IELTS 6.5, Duolingo 115 or TOEFL iBT (80 on the old scale; UC lists 4.5 on the new 2026 scale) unless exempt.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Film, theatre & television",
+"Psychology",
+"Business economics",
+"Engineering & computer science",
+"Life sciences"
+]
+},
+{
+"id": "hong-kong-polytechnic-university",
+"name": "The Hong Kong Polytechnic University (PolyU)",
+"iso": "HK",
+"website": "https://www.polyu.edu.hk/",
+"application_url": "https://www.polyu.edu.hk/study/ug/admissions/international-other-qualifications",
+"tests": "International qualifications (IB, A-level, SAT/AP, national diplomas) accepted; applicants from non-English-medium schools need an English test (see PolyU English requirements page).",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Hotel and Tourism Management",
+"Design",
+"Engineering",
+"Nursing and Health Sciences",
+"Fashion and Textiles",
+"Accounting and Finance"
+]
+},
+{
+"id": "university-of-michigan",
+"name": "University of Michigan – Ann Arbor",
+"iso": "US",
+"website": "https://admissions.umich.edu",
+"application_url": null,
+"tests": "Test-optional (SAT/ACT considered if submitted). English proficiency required for non-native speakers; typical minimums around TOEFL 100 (old scale), IELTS 7.0 or Duolingo 125 – check your school's page.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering",
+"Business (Ross)",
+"Economics",
+"Public policy (Ford)",
+"Medicine & nursing"
+]
+},
+{
+"id": "city-university-of-hong-kong-cityuhk",
+"name": "City University of Hong Kong (CityUHK)",
+"iso": "HK",
+"website": "https://www.cityu.edu.hk",
+"application_url": "https://www.cityu.edu.hk/admo/",
+"tests": "SAT/ACT may be used by applicants with US-curriculum qualifications; most international applicants are assessed on IB, A-level or national exam results. English proficiency (IELTS/TOEFL) is required for non-native speakers. Minimum scores could not be verified.",
+"gpa_note": "Competitive results in IB/A-level or equivalent are expected.",
+"languages": [
+"English"
+],
+"strengths": [
+"Engineering",
+"Data science and computing",
+"Business (College of Business)",
+"Creative media",
+"Veterinary medicine"
+]
+},
+{
+"id": "korea-university",
+"name": "Korea University",
+"iso": "KR",
+"website": "https://www.korea.ac.kr",
+"application_url": "https://oia.korea.ac.kr",
+"tests": "No SAT/ACT requirement (international results may be submitted as supporting evidence). Korean-taught programmes require TOPIK (usually level 3–4 or higher); English-taught tracks require TOEFL/IELTS or equivalent. Exact minimums are set in each semester's admission guideline.",
+"gpa_note": "Holistic document review of school records and study plan; interviews for some programmes.",
+"languages": [
+"Korean",
+"English"
+],
+"strengths": [
+"Business",
+"Law",
+"Political science and international studies",
+"Engineering",
+"Medicine"
+]
+},
+{
+"id": "national-taiwan-university",
+"name": "National Taiwan University (NTU)",
+"iso": "TW",
+"website": "https://www.ntu.edu.tw/english/",
+"application_url": "https://admissions.ntu.edu.tw/overseas-students/",
+"tests": "Requirements vary by department; most undergraduate programmes teach in Mandarin, so Chinese proficiency (TOCFL) is often required, while English-taught programmes require English proof. Check each department's requirements in the application guidelines.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Electrical Engineering and Computer Science",
+"Medicine",
+"Law",
+"Business",
+"Agriculture and Bio-resources",
+"Physics"
+]
+},
+{
+"id": "carnegie-mellon-university",
+"name": "Carnegie Mellon University",
+"iso": "US",
+"website": "https://www.cmu.edu/admission",
+"application_url": null,
+"tests": "SAT or ACT required. English for non-native speakers: TOEFL iBT 5+ on the new scale (section scores of 5+), IELTS Academic or Duolingo also accepted; historically CMU expected about IELTS 7.5 / TOEFL 102.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Computer science",
+"Robotics & AI",
+"Electrical & computer engineering",
+"Drama & design",
+"Information systems"
+]
+},
+{
+"id": "universiti-malaya-um",
+"name": "Universiti Malaya (UM)",
+"iso": "MY",
+"website": "https://www.um.edu.my",
+"application_url": "https://study.um.edu.my/how-to-apply",
+"tests": "No SAT/ACT requirement; admission is by your pre-university qualification (A-levels, IB, foundation, etc.). International applicants must show English proficiency (IELTS/TOEFL or equivalent; minimum varies by programme). Official minimum scores could not be confirmed.",
+"gpa_note": "Strong pre-university results are expected; medicine, dentistry, law and pharmacy are most competitive.",
+"languages": [
+"English",
+"Malay"
+],
+"strengths": [
+"Engineering",
+"Medicine",
+"Business and accountancy",
+"Computer science",
+"Law"
+]
+},
+{
+"id": "university-of-bristol",
+"name": "University of Bristol",
+"iso": "GB",
+"website": "https://www.bristol.ac.uk/study/undergraduate/",
+"application_url": null,
+"tests": "No SAT/ACT; UCAT for medicine/dentistry. English: Bristol profiles range from IELTS 6.5 (6.0 each) to 7.5 (7.0 each) depending on course.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Aerospace & engineering",
+"Economics",
+"Law",
+"Veterinary science",
+"Physics",
+"Politics"
+]
+},
+{
+"id": "new-york-university",
+"name": "New York University (NYU)",
+"iso": "US",
+"website": "https://www.nyu.edu/admissions/undergraduate-admissions.html",
+"application_url": null,
+"tests": "Test-optional (through at least the 2027-28 cycle). English test required if English is not your first language and you have not completed 3 years of English-only instruction; competitive scores are around TOEFL 100 (old scale), IELTS 7.5, Duolingo 125.",
+"gpa_note": "",
+"languages": [
+"English"
+],
+"strengths": [
+"Film & performing arts (Tisch)",
+"Business (Stern)",
+"Economics",
+"Global public health",
+"Data science"
+]
+},
+{
+"id": "ku-leuven",
+"name": "KU Leuven",
+"iso": "BE",
+"website": "https://www.kuleuven.be/english/admissions",
+"application_url": null,
+"tests": "No SAT/ACT. Most bachelor's are taught in Dutch; English-taught bachelor's (a small number, e.g. in philosophy, theology and business/economics) require IELTS 6.5–7.0 or TOEFL iBT 79–94. Medicine/dentistry require the Flemish entrance exam.",
+"gpa_note": "",
+"languages": [
+"Dutch",
+"English"
+],
+"strengths": [
+"Engineering",
+"Philosophy",
+"Economics & Business",
+"Biomedical sciences",
+"Law",
+"Theology"
+]
+},
+{
+"id": "university-of-amsterdam",
+"name": "University of Amsterdam (UvA)",
+"iso": "NL",
+"website": "https://www.uva.nl/en/education/bachelor-s/bachelor-s.html",
+"application_url": null,
+"tests": "No SAT/ACT for most systems (US-system diplomas need SAT/ACT or AP). English-taught programmes: IELTS 6.5 (6.0 each) or TOEFL iBT 92 typical; some require higher. Maths level may be required for economics/science.",
+"gpa_note": "",
+"languages": [
+"English",
+"Dutch"
+],
+"strengths": [
+"Communication Science",
+"Psychology",
+"Economics & Business",
+"Politics, Psychology, Law & Economics (PPLE)",
+"Liberal Arts (AUC)",
+"Artificial Intelligence"
+]
+}
+]

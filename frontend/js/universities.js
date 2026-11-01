@@ -71,17 +71,7 @@
     'us-diploma': { en: 'American high school diploma', ka: 'ამერიკული სკოლის დიპლომი', ar: 'دبلوم الثانوية الأمريكية' }
   };
   var DIPLOMA_KEYS = { national: ['national'], 'national-a-level': ['a-level', 'national'], 'a-level': ['a-level'], ib: ['ib'], 'us-diploma': ['us-diploma'] };
-  var LANG_NAMES = {
-    English: { ka: 'ინგლისური', ar: 'الإنجليزية' }, Spanish: { ka: 'ესპანური', ar: 'الإسبانية' },
-    Italian: { ka: 'იტალიური', ar: 'الإيطالية' }, Czech: { ka: 'ჩეხური', ar: 'التشيكية' },
-    German: { ka: 'გერმანული', ar: 'الألمانية' }, French: { ka: 'ფრანგული', ar: 'الفرنسية' },
-    Dutch: { ka: 'ნიდერლანდური', ar: 'الهولندية' }, Chinese: { ka: 'ჩინური', ar: 'الصينية' },
-    Japanese: { ka: 'იაპონური', ar: 'اليابانية' }, Korean: { ka: 'კორეული', ar: 'الكورية' },
-    Russian: { ka: 'რუსული', ar: 'الروسية' }, Turkish: { ka: 'თურქული', ar: 'التركية' },
-    Arabic: { ka: 'არაბული', ar: 'العربية' }, Portuguese: { ka: 'პორტუგალიური', ar: 'البرتغالية' },
-    Polish: { ka: 'პოლონური', ar: 'البولندية' }, Swedish: { ka: 'შვედური', ar: 'السويدية' },
-    Catalan: { ka: 'კატალანური', ar: 'الكتالونية' }, Georgian: { ka: 'ქართული', ar: 'الجورجية' }
-  };
+  var LANG_NAMES = M.LANG_NAMES;
 
   /* a diploma counts when the university accepts it (directly or with an extra step) */
   function diplomaOk(u) {
