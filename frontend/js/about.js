@@ -70,12 +70,19 @@
     M.observeReveal(host);
   }
 
+  /* founder photo in a round frame, initials if the photo is missing */
+  function face(person, size) {
+    if (!person.photo) return '<span class="avatar ' + size + '">' + person.initials + '</span>';
+    return '<span class="avatar avatar-photo ' + size + '"><img src="' + person.photo + '?v=r8" alt="' +
+      M.esc(M.pick(person.name)) + '" width="148" height="148" loading="lazy" decoding="async" /></span>';
+  }
+
   /* the two founders, small, on the overview (full bios on /about/leadership) */
   function paintPeople() {
     var host = document.getElementById('aboutPeople');
     if (!host) return;
     host.innerHTML = FOUNDERS.map(function (person) {
-      return '<div class="about-person"><span class="avatar avatar-lg">' + person.initials + '</span>' +
+      return '<div class="about-person">' + face(person, 'avatar-lg') +
         '<span><b>' + M.esc(M.pick(person.name)) + '</b><small>' + M.t('about.team.cofounder') + ' · ' + M.esc(person.school) + '</small>' +
         '<small class="dim">' + M.esc(M.pick(person.focus)) + '</small></span></div>';
     }).join('');
@@ -85,6 +92,7 @@
   var FOUNDERS = [
     {
       initials: 'DB',
+      photo: '/img/team/demetre.jpg',
       name: { en: 'Demetre Bzekalava', ka: 'დემეტრე ბზეკალავა', ar: 'ديميتري بزيكالافا' },
       school: 'Carnegie Mellon University',
       bio: {
@@ -96,6 +104,7 @@
     },
     {
       initials: 'PL',
+      photo: '/img/team/petre.jpg',
       name: { en: 'Petre Labartkava', ka: 'პეტრე ლაბარტყავა', ar: 'بيتري لابارتكافا' },
       school: 'Georgetown University',
       bio: {
@@ -112,7 +121,7 @@
     if (!host) return;
     host.innerHTML = FOUNDERS.map(function (person) {
       return '<article class="card card-pad-lg founder-card" data-reveal>' +
-        '<span class="avatar avatar-lg">' + person.initials + '</span>' +
+        face(person, 'avatar-xl avatar-ring') +
         '<div>' +
           '<h3>' + M.esc(M.pick(person.name)) + '</h3>' +
           '<p class="founder-role">' + M.t('leadership.founder') + '</p>' +
