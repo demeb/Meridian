@@ -171,8 +171,8 @@ def code_payload(payload, code, delivered, sensitive=False):
     payload["delivered"] = delivered
     if not delivered and Config.expose_dev_codes() and (Config.DEBUG or not sensitive):
         payload["dev_code"] = code
-    if not delivered and Config.smtp_configured():
-        payload["mail_error"] = True
+    if not delivered and "dev_code" not in payload:
+        payload["mail_error"] = True     # never leave someone waiting for a code that was not sent
     return payload
 
 
