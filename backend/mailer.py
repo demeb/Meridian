@@ -82,8 +82,14 @@ def _message(to_address, subject, text, title, intro, body_html, footer=None, re
         message["Reply-To"] = reply_to
     message.set_content(text)
 
+    # On the live site the logo loads from the website; an embedded copy shows
+    # up in Gmail as a nameless "noname" attachment
+    if site_url().startswith("https://"):
+        message.add_alternative(_shell(title, intro, body_html, footer,
+                                       site_url("/assets/brand/meridian-logo.png")), subtype="html")
+        return message
     logo_cid = make_msgid(domain="meridian.ge")
-    html = _shell(title, intro, body_html, footer, logo_cid[1:-1])
+    html = _shell(title, intro, body_html, footer, "cid:" + logo_cid[1:-1])
     message.add_alternative(html, subtype="html")
     if os.path.exists(LOGO_PATH):
         with open(LOGO_PATH, "rb") as fh:
@@ -91,7 +97,7 @@ def _message(to_address, subject, text, title, intro, body_html, footer=None, re
     return message
 
 
-def _shell(title, intro, body_html, footer, logo_cid):
+def _shell(title, intro, body_html, footer, logo_src):
     return """<!doctype html>
 <html><body style="margin:0;padding:0;background:#eef3fb;font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;">
   <table role="presentation" width="100%%" cellpadding="0" cellspacing="0" style="background:#eef3fb;padding:32px 14px;">
@@ -100,7 +106,7 @@ def _shell(title, intro, body_html, footer, logo_cid):
              style="max-width:540px;background:#ffffff;border-radius:18px;overflow:hidden;box-shadow:0 12px 40px -18px rgba(6,18,41,.35);">
         <tr><td style="height:4px;background:linear-gradient(90deg,#0071bc,#29a9e0);font-size:0;line-height:0;">&nbsp;</td></tr>
         <tr><td align="center" style="padding:30px 32px 6px;">
-          <img src="cid:%s" width="132" alt="Meridian" style="display:block;width:132px;height:auto;border:0;">
+          <img src="%s" width="132" alt="Meridian" style="display:block;width:132px;height:auto;border:0;">
         </td></tr>
         <tr><td style="padding:18px 36px 4px;">
           <h1 style="margin:0 0 10px;font-size:22px;line-height:1.3;color:#061229;font-weight:700;">%s</h1>
@@ -114,7 +120,7 @@ def _shell(title, intro, body_html, footer, logo_cid):
       </table>
     </td></tr>
   </table>
-</body></html>""" % (logo_cid, title, intro, body_html,
+</body></html>""" % (logo_src, title, intro, body_html,
                      footer or "You are receiving this because of activity on your Meridian account.")
 
 
