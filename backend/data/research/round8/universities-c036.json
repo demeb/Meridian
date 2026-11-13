@@ -1,0 +1,1051 @@
+[
+ {
+  "id": "universidade-federal-da-bahia",
+  "name": {
+   "en": "Universidade Federal da Bahia",
+   "ka": "ბაჰიის ფედერალური უნივერსიტეტი",
+   "ar": "جامعة ولاية باهيا الفيدرالية"
+  },
+  "iso": "BR",
+  "city": "Salvador",
+  "lat": -13.002,
+  "lon": -38.507,
+  "type": "public",
+  "website": "https://www.ufba.br",
+  "platform": "SISU / ENEM (national), PEC-G for foreign students",
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "humanities",
+   "social-sciences",
+   "medicine-health",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Humanities",
+    "Health sciences",
+    "Arts",
+    "Social sciences"
+   ],
+   "ka": [
+    "ჰუმანიტარული მეცნიერებები",
+    "ჯანდაცვის მეცნიერებები",
+    "ხელოვნება",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم الإنسانية",
+    "العلوم الصحية",
+    "الفنون",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Large federal public university in Salvador, Brazil. Undergraduate teaching is in Portuguese.",
+   "ka": "ბრაზილიის ქალაქ სალვადორში მდებარე დიდი ფედერალური საჯარო უნივერსიტეტი. ბაკალავრიატში სწავლება პორტუგალიურ ენაზეა.",
+   "ar": "جامعة اتحادية عامة كبيرة في سالفادور بالبرازيل. التدريس في المرحلة الجامعية الأولى بالبرتغالية."
+  },
+  "about": {
+   "en": "UFBA is a federal public university in Salvador, Bahia. Undergraduate entry runs through the national SISU system using ENEM results. Foreign students can enter through the PEC-G government programme, which is arranged by the home country and Brazil's education ministry. Classes are in Portuguese. The university's foreign-student pages cover exchange students only; no degree-seeking fee or deadline is published for international applicants.",
+   "ka": "უფბა (UFBA) არის ფედერალური საჯარო უნივერსიტეტი სალვადორში, ბაჰიაში. ბაკალავრიატში მიღება ხდება ეროვნული SISU სისტემით ENEM-ის შედეგების მიხედვით. უცხოელ სტუდენტებს შეუძლიათ ჩაირიცხონ PEC-G სამთავრობო პროგრამით. სწავლება პორტუგალიურ ენაზეა. უნივერსიტეტის გვერდები უცხოელებისთვის მხოლოდ გაცვლით სტუდენტებს ეხება.",
+   "ar": "جامعة اتحادية عامة في سالفادور بولاية باهيا. يتم القبول في المرحلة الجامعية الأولى عبر نظام SISU الوطني بنتائج ENEM. يمكن للطلاب الأجانب الالتحاق عبر برنامج PEC-G الحكومي. التدريس بالبرتغالية. صفحات الطلاب الأجانب تخص طلاب التبادل فقط."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "salvador",
+   "bahia",
+   "portuguese",
+   "federal university"
+  ],
+  "sources": [
+   "https://ufba.br/processos-seletivos",
+   "https://aai.ufba.br/pt-br/documentos-necessarios-estrangeiros"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universidade-federal-de-pernambuco-ufpe",
+  "name": {
+   "en": "Universidade Federal de Pernambuco (UFPE)",
+   "ka": "პერნამბუკუს ფედერალური უნივერსიტეტი (UFPE)",
+   "ar": "جامعة بيرنامبوكو الاتحادية (UFPE)"
+  },
+  "iso": "BR",
+  "city": "Recife",
+  "lat": -8.052,
+  "lon": -34.951,
+  "type": "public",
+  "website": "https://www.ufpe.br",
+  "platform": "SISU / ENEM (national)",
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "computer-science",
+   "medicine-health",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Health sciences",
+    "Social sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "ჯანდაცვის მეცნიერებები",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "العلوم الصحية",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Federal public university in Recife, Brazil. Undergraduate teaching is in Portuguese.",
+   "ka": "ფედერალური საჯარო უნივერსიტეტი რესიფეში, ბრაზილია. ბაკალავრიატში სწავლება პორტუგალიურია.",
+   "ar": "جامعة اتحادية عامة في ريسيفي بالبرازيل. التدريس بالبرتغالية."
+  },
+  "about": {
+   "en": "UFPE is a federal public university based in Recife, Pernambuco. Brazilian federal universities fill undergraduate places mainly through the national SISU system using ENEM scores. The university website could not be reached for this review, so no international fee, deadline or entry rule was verified. Teaching is in Portuguese.",
+   "ka": "UFPE არის ფედერალური საჯარო უნივერსიტეტი რესიფეში. ბრაზილიის ფედერალური უნივერსიტეტები ბაკალავრიატის ადგილებს ძირითადად SISU-ს მეშვეობით ავსებენ. უნივერსიტეტის საიტი მიუწვდომელი იყო, ამიტომ საერთაშორისო საფასური და ვადები არ დადასტურდა. სწავლება პორტუგალიურია.",
+   "ar": "جامعة اتحادية عامة في ريسيفي. تملأ الجامعات الاتحادية البرازيلية مقاعدها عبر نظام SISU بدرجات ENEM. لم يمكن الوصول إلى موقع الجامعة، لذلك لم يتم التحقق من الرسوم أو المواعيد. التدريس بالبرتغالية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "recife",
+   "pernambuco",
+   "portuguese"
+  ],
+  "sources": [
+   "https://www.ufpe.br"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universidade-federal-fluminense",
+  "name": {
+   "en": "Universidade Federal Fluminense",
+   "ka": "ფლუმინენსეს ფედერალური უნივერსიტეტი",
+   "ar": "جامعة فلومينينسي الاتحادية"
+  },
+  "iso": "BR",
+  "city": "Niterói",
+  "lat": -22.906,
+  "lon": -43.131,
+  "type": "public",
+  "website": "https://www.uff.br",
+  "platform": "SISU / ENEM; PEC-G for foreign students",
+  "application_url": "https://www.uff.br/prograd/formas-de-ingresso/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "social-sciences",
+   "engineering",
+   "medicine-health",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Social sciences",
+    "Engineering",
+    "Health sciences",
+    "Humanities"
+   ],
+   "ka": [
+    "სოციალური მეცნიერებები",
+    "ინჟინერია",
+    "ჯანდაცვის მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم الاجتماعية",
+    "الهندسة",
+    "العلوم الصحية",
+    "العلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "Federal public university in Niterói, across the bay from Rio de Janeiro. Foreign undergraduates enter through the PEC-G programme.",
+   "ka": "ფედერალური საჯარო უნივერსიტეტი ნიტეროიში, რიო-დე-ჟანეიროს მახლობლად. უცხოელი ბაკალავრები ჩაირიცხებიან PEC-G პროგრამით.",
+   "ar": "جامعة اتحادية عامة في نيتروي قرب ريو دي جانيرو. يلتحق الطلاب الأجانب عبر برنامج PEC-G."
+  },
+  "about": {
+   "en": "UFF is a federal public university in Niterói, Rio de Janeiro state. Its admission-modes page lists SiSU (needs ENEM results from the last three editions) and PEC-G for foreign students, who are selected in their home country and sent by Brazil's education ministry within UFF's yearly places. PEC-G students do not sit the university entrance exam. No fee amount is stated. Teaching is in Portuguese.",
+   "ka": "UFF არის ფედერალური საჯარო უნივერსიტეტი ნიტეროიში. მიღების გვერდზე მითითებულია SiSU (ENEM-ის ბოლო სამი წლის შედეგები) და PEC-G უცხოელებისთვის, რომლებიც საკუთარ ქვეყანაში შეირჩევიან. PEC-G სტუდენტები შესასვლელ გამოცდას არ აბარებენ. საფასური არ არის მითითებული. სწავლება პორტუგალიურია.",
+   "ar": "جامعة اتحادية عامة في نيتروي. صفحة طرق القبول تذكر SiSU (نتائج ENEM لآخر ثلاث دورات) وبرنامج PEC-G للأجانب الذين يتم اختيارهم في بلدهم ضمن مقاعد الجامعة السنوية. لا يخضع طلاب PEC-G لامتحان القبول. لم يُذكر مبلغ للرسوم. التدريس بالبرتغالية."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Home-country selection through PEC-G; no university entrance exam for PEC-G students. SiSU applicants use ENEM scores.",
+   "ka": "PEC-G-ით სტუდენტები შეირჩევიან საკუთარ ქვეყანაში; უნივერსიტეტის შესასვლელი გამოცდა არ არის საჭირო. SiSU-ს განმცხადებლები იყენებენ ENEM-ის ქულებს.",
+   "ar": "الاختيار في بلد الطالب عبر PEC-G دون امتحان قبول جامعي. متقدمو SiSU يستخدمون درجات ENEM."
+  },
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "niteroi",
+   "rio",
+   "PEC-G",
+   "portuguese"
+  ],
+  "sources": [
+   "https://www.uff.br/prograd/formas-de-ingresso/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universitas-muhammadiyah-yogyakarta-umy",
+  "name": {
+   "en": "Universitas Muhammadiyah Yogyakarta (UMY)",
+   "ka": "მუჰამადიას იოგიაკარტას უნივერსიტეტი (UMY)",
+   "ar": "جامعة محمدية يوجياكارتا (UMY)"
+  },
+  "iso": "ID",
+  "city": "Yogyakarta",
+  "lat": -7.81,
+  "lon": 110.32,
+  "type": "private",
+  "website": "https://www.umy.ac.id",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Indonesian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "business",
+   "medicine-health",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business",
+    "Health sciences",
+    "Social sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი",
+    "ჯანდაცვის მეცნიერებები",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال",
+    "العلوم الصحية",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Private Islamic university in Yogyakarta, Indonesia. The website blocks automated reading, so no admission data was verified.",
+   "ka": "კერძო ისლამური უნივერსიტეტი იოგიაკარტაში, ინდონეზია. საიტი ავტომატურ წაკითხვას ბლოკავს, ამიტომ მიღების მონაცემები ვერ დადასტურდა.",
+   "ar": "جامعة إسلامية خاصة في يوجياكارتا بإندونيسيا. موقعها يمنع القراءة الآلية لذلك لم يتم التحقق من بيانات القبول."
+  },
+  "about": {
+   "en": "UMY is a private university run by the Muhammadiyah organisation in Yogyakarta, Indonesia. Its website returned an access error and no English admission pages could be reached, so tuition, deadlines and entry rules for international bachelor applicants are not verified here. Check the university's international office directly.",
+   "ka": "UMY არის კერძო უნივერსიტეტი იოგიაკარტაში, რომელსაც მუჰამადიას ორგანიზაცია მართავს. საიტზე წვდომა შეუძლებელი იყო, ამიტომ საფასური და ვადები არ დადასტურდა. მიმართეთ უნივერსიტეტის საერთაშორისო ოფისს.",
+   "ar": "جامعة خاصة تديرها منظمة المحمدية في يوجياكارتا. تعذر الوصول إلى موقعها لذلك لم يتم التحقق من الرسوم والمواعيد. يرجى مراجعة مكتب الشؤون الدولية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "indonesia",
+   "yogyakarta",
+   "muhammadiyah",
+   "private"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universitat-siegen",
+  "name": {
+   "en": "Universität Siegen",
+   "ka": "ზიგენის უნივერსიტეტი",
+   "ar": "جامعة سيغن"
+  },
+  "iso": "DE",
+  "city": "Siegen",
+  "lat": 50.909,
+  "lon": 8.027,
+  "type": "public",
+  "website": "https://www.uni-siegen.de",
+  "platform": "Direct application by email (non-EU bachelor) / unisono portal",
+  "application_url": "https://www.uni-siegen.de/wie-bewerbe-ich-mich-internationale-studierende",
+  "intakes": [
+   "October (winter)",
+   "April (summer)"
+  ],
+  "deadline": "2027-08-31",
+  "deadline_note": "Non-EU bachelor applicants: end of August for winter semester, end of February for summer semester; 15 July for Psychologie, Europäische Wirtschaftskommunikation and Sozialwissenschaften in Europa. Date shown is for winter 2027/28.",
+  "tuition_intl": {
+   "amount": 394,
+   "currency": "EUR",
+   "per": "semester",
+   "note": "Semester contribution for winter 2026/27 is EUR 393.80 (incl. Deutschlandsemesterticket). No general tuition fee is listed; the DSH preparatory German course costs an extra EUR 500."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "German",
+   "English"
+  ],
+  "english_bachelors": "none",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Non-EU bachelor applicants send a school-leaving certificate, and TestAS results or a home-country university entrance exam where applicable. The foreign-qualification recognition rules were not readable.",
+   "ka": "არა-ევროკავშირელი ბაკალავრის კანდიდატები აგზავნიან სკოლის დამამთავრებელ ატესტატს და საჭიროების შემთხვევაში TestAS-ის შედეგებს ან სამშობლოს ქვეყნის უნივერსიტეტის შესასვლელ გამოცდას.",
+   "ar": "يرسل المتقدمون من خارج الاتحاد الأوروبي شهادة الثانوية، ونتائج TestAS أو امتحان القبول الجامعي في بلدهم عند الاقتضاء."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TestAS",
+   "DSH",
+   "TestDaF"
+  ],
+  "fields": [
+   "engineering",
+   "social-sciences",
+   "humanities",
+   "natural-sciences",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Social sciences",
+    "Humanities",
+    "Education",
+    "Natural sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "სოციალური მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "განათლება",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم الاجتماعية",
+    "العلوم الإنسانية",
+    "التربية",
+    "العلوم الطبيعية"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Siegen, North Rhine-Westphalia. Bachelor teaching is mainly in German, and non-EU applicants apply directly by email.",
+   "ka": "სახელმწიფო უნივერსიტეტი ზიგენში, ჩრდილოეთ რაინი-ვესტფალია. ბაკალავრიატში სწავლება ძირითადად გერმანულია, არა-ევროკავშირელები განაცხადს უშუალოდ იმეილით აგზავნიან.",
+   "ar": "جامعة عامة في سيغن بولاية شمال الراين-وستفاليا. التدريس في البكالوريوس بالألمانية غالباً، ويقدّم المتقدمون من خارج الاتحاد الأوروبي طلبهم مباشرة بالبريد الإلكتروني."
+  },
+  "about": {
+   "en": "The University of Siegen is a public university in North Rhine-Westphalia. Non-EU applicants to most bachelor programmes email the completed application form and a passport copy to the admissions office, with their school certificate and proof of German. Three restricted programmes close on 15 July. The semester contribution is about EUR 394; no general tuition fee is listed on the pages read.",
+   "ka": "ზიგენის უნივერსიტეტი სახელმწიფო უნივერსიტეტია. არა-ევროკავშირელი კანდიდატები განაცხადის ფორმას, პასპორტის ასლს, ატესტატს და გერმანული ენის დამადასტურებელ დოკუმენტს იმეილით აგზავნიან. სამ შეზღუდულ პროგრამაზე ვადა 15 ივლისია. სემესტრის შენატანი დაახლოებით 394 ევროა.",
+   "ar": "جامعة عامة في شمال الراين-وستفاليا. يرسل المتقدمون من خارج الاتحاد الأوروبي نموذج الطلب ونسخة الجواز وشهادة الثانوية وإثبات اللغة الألمانية بالبريد الإلكتروني. ثلاثة برامج مقيّدة تُغلق في 15 يوليو. رسوم الفصل حوالي 394 يورو."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages read.",
+   "ka": "ბაკალავრიატის უცხოელი სტუდენტებისთვის სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين في الصفحات المقروءة."
+  },
+  "tests": {
+   "en": "Proof of German (for example DSH or TestDaF) is required for bachelor programmes. TestAS or a home-country entrance exam may be needed, depending on the applicant's certificate.",
+   "ka": "ბაკალავრიატისთვის საჭიროა გერმანული ენის დამადასტურებელი დოკუმენტი (მაგ. DSH ან TestDaF). სერტიფიკატის მიხედვით შეიძლება საჭირო იყოს TestAS ან სამშობლოს შესასვლელი გამოცდა.",
+   "ar": "يلزم إثبات اللغة الألمانية (مثل DSH أو TestDaF) للبكالوريوس. قد يُطلب TestAS أو امتحان القبول في بلد الطالب بحسب الشهادة."
+  },
+  "gpa_note": {
+   "en": "A school-leaving certificate that gives access to German universities is required; some programmes are admission-restricted and select by grade.",
+   "ka": "საჭიროა გერმანულ უნივერსიტეტებში მისაღები სკოლის დამამთავრებელი ატესტატი; ზოგი პროგრამა შეზღუდულია და ატესტატის ქულით ირჩევს.",
+   "ar": "يلزم شهادة ثانوية تتيح الدخول إلى الجامعات الألمانية؛ بعض البرامج مقيّدة وتختار حسب الدرجات."
+  },
+  "requirements": [
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Completed application form",
+     "ka": "შევსებული განაცხადის ფორმა",
+     "ar": "نموذج الطلب المكتمل"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate",
+     "ka": "სკოლის დამამთავრებელი ატესტატი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of German (DSH or TestDaF)",
+     "ka": "გერმანული ენის დამადასტურებელი (DSH ან TestDaF)",
+     "ar": "إثبات اللغة الألمانية (DSH أو TestDaF)"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "TestAS or home-country entrance exam, if applicable",
+     "ka": "TestAS ან სამშობლოს შესასვლელი გამოცდა (საჭიროების შემთხვევაში)",
+     "ar": "TestAS أو امتحان القبول في بلد الطالب عند الاقتضاء"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "germany",
+   "siegen",
+   "DSH",
+   "TestDaF",
+   "low tuition"
+  ],
+  "sources": [
+   "https://www.uni-siegen.de/wie-bewerbe-ich-mich-internationale-studierende",
+   "https://www.uni-siegen.de/semesterbeitrag",
+   "https://www.uni-siegen.de/zsb/termine-und-fristen"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universite-de-sousse",
+  "name": {
+   "en": "Université de Sousse",
+   "ka": "სუსის უნივერსიტეტი",
+   "ar": "جامعة سوسة"
+  },
+  "iso": "TN",
+  "city": "Sousse",
+  "lat": 35.832,
+  "lon": 10.59,
+  "type": "public",
+  "website": "https://www.uc.rnu.tn",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "French"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Business",
+    "Sciences"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "ბიზნესი",
+    "მეცნიერებები"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "الأعمال",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Sousse, Tunisia. Its website could not be reached, so no admission data was verified.",
+   "ka": "სახელმწიფო უნივერსიტეტი სუსში, ტუნისი. საიტი მიუწვდომელი იყო, მონაცემები ვერ დადასტურდა.",
+   "ar": "جامعة عامة في سوسة بتونس. تعذر الوصول إلى موقعها لذلك لم يتم التحقق من بيانات القبول."
+  },
+  "about": {
+   "en": "The University of Sousse is a public university in eastern Tunisia. Teaching is mainly in French and Arabic. The listed website does not resolve, so fees, deadlines and entry rules for international bachelor applicants are not verified.",
+   "ka": "სუსის უნივერსიტეტი სახელმწიფო უნივერსიტეტია აღმოსავლეთ ტუნისში. სწავლება ძირითადად ფრანგულ და არაბულ ენებზეა. მითითებული საიტი არ იხსნება, ამიტომ პირობები არ დადასტურდა.",
+   "ar": "جامعة عامة في شرق تونس. التدريس بالفرنسية والعربية غالباً. الموقع المذكور لا يعمل لذلك لم يتم التحقق من الرسوم والمواعيد."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "tunisia",
+   "sousse",
+   "french",
+   "arabic"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universiti-teknikal-malaysia-melaka",
+  "name": {
+   "en": "Universiti Teknikal Malaysia Melaka (UTeM)",
+   "ka": "მალაიზიის მელაკას ტექნიკური უნივერსიტეტი (UTeM)",
+   "ar": "الجامعة التقنية الماليزية ملاكا (UTeM)"
+  },
+  "iso": "MY",
+  "city": "Alor Gajah",
+  "lat": 2.314,
+  "lon": 102.319,
+  "type": "public",
+  "website": "https://www.utem.edu.my",
+  "platform": "UTeM online international admission portal",
+  "application_url": "https://portal.utem.edu.my/admission/",
+  "intakes": [
+   "September (main)"
+  ],
+  "deadline": "2027-07-15",
+  "deadline_note": "Applications are accepted all year; those received by 15 July are considered for the current academic year intake, later ones for the next. Date shown is for the 2027/28 year.",
+  "tuition_intl": {
+   "amount": 19500,
+   "currency": "MYR",
+   "per": "year",
+   "note": "Engineering degree 2026 fee sheet: total RM 77,910 over 8 semesters (incl. 6% SST), about RM 19,500 a year. Excludes hostel, English programme, bond and visa. Other faculties have separate fee sheets."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Malay"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Needs 12 years of education and three principal passes at A-Level or IB; other systems are judged by the Malaysian Qualifications Agency equivalency table.",
+   "ka": "საჭიროა 12 წლიანი განათლება და A-Level-ის ან IB-ის სამი ძირითადი ჩაბარებული საგანი; სხვა სისტემები ფასდება მალაიზიის კვალიფიკაციების სააგენტოს ეკვივალენტობის ცხრილით.",
+   "ar": "يلزم 12 سنة دراسة وثلاث مواد أساسية في A-Level أو IB؛ وتُقيَّم الأنظمة الأخرى وفق جدول المعادلة لوكالة المؤهلات الماليزية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 5.0,
+  "toefl_min": 500,
+  "duolingo_min": null,
+  "other_tests": [
+   "MUET band 3 accepted",
+   "Academic English Programme if no IELTS/TOEFL"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Engineering technology",
+    "Computer science",
+    "Technology management"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "საინჟინრო ტექნოლოგიები",
+    "კომპიუტერული მეცნიერება",
+    "ტექნოლოგიების მართვა"
+   ],
+   "ar": [
+    "الهندسة",
+    "التقنية الهندسية",
+    "علوم الحاسوب",
+    "إدارة التكنولوجيا"
+   ]
+  },
+  "summary": {
+   "en": "Public technical university in Melaka, Malaysia. International engineering degrees cost about RM 19,500 a year.",
+   "ka": "სახელმწიფო ტექნიკური უნივერსიტეტი მელაკაში, მალაიზია. საერთაშორისო საინჟინრო ბაკალავრის საფასური წელიწადში დაახლოებით 19,500 რინგიტია.",
+   "ar": "جامعة تقنية عامة في ملاكا بماليزيا. تبلغ رسوم الهندسة للطلاب الدوليين نحو 19,500 رينغيت سنوياً."
+  },
+  "about": {
+   "en": "UTeM is a public technical university in Durian Tunggal, Melaka. International bachelor applicants apply online, choose two programmes and upload passport, certificates and any IELTS or TOEFL result. Results arrive by email within 14 working days. The 2026 engineering fee sheet totals RM 77,910 for eight semesters. Teaching is mainly in English.",
+   "ka": "UTeM არის სახელმწიფო ტექნიკური უნივერსიტეტი მელაკაში. საერთაშორისო განმცხადებლები ონლაინ ირჩევენ ორ პროგრამას და ტვირთავენ პასპორტს, სერტიფიკატებს და IELTS/TOEFL-ს. პასუხი იმეილით მოდის 14 სამუშაო დღეში. საინჟინრო პროგრამის 2026 წლის საფასური 8 სემესტრზე 77,910 რინგიტია.",
+   "ar": "جامعة تقنية عامة في ملاكا. يقدّم الطلاب الدوليون طلبهم إلكترونياً ويختارون برنامجين ويرفعون الجواز والشهادات ونتيجة IELTS أو TOEFL. تصل النتيجة بالبريد خلال 14 يوم عمل. إجمالي رسوم الهندسة 2026 هو 77,910 رينغيت لثمانية فصول."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages read.",
+   "ka": "საერთაშორისო ბაკალავრებისთვის სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين في الصفحات المقروءة."
+  },
+  "tests": {
+   "en": "English proof: IELTS 5.0, TOEFL 500 or MUET band 3. Applicants without IELTS or TOEFL must pass the Academic English Programme before registration.",
+   "ka": "ინგლისური: IELTS 5.0, TOEFL 500 ან MUET 3. IELTS/TOEFL-ის გარეშე საჭიროა აკადემიური ინგლისურის პროგრამის გავლა რეგისტრაციამდე.",
+   "ar": "اللغة الإنجليزية: IELTS 5.0 أو TOEFL 500 أو MUET band 3. من لا يملكها يجتاز برنامج اللغة الإنجليزية الأكاديمية قبل التسجيل."
+  },
+  "gpa_note": {
+   "en": "Engineering needs at least grade C (50%) in Mathematics and Physics plus one other subject at A-Level or IB; ICT and technology management need C in Mathematics and two other subjects.",
+   "ka": "ინჟინერიისთვის საჭიროა მინიმუმ C (50%) მათემატიკასა და ფიზიკაში და კიდევ ერთ საგანში A-Level-ზე ან IB-ზე; ICT-სთვის - C მათემატიკაში და ორ სხვა საგანში.",
+   "ar": "الهندسة تتطلب C (50%) على الأقل في الرياضيات والفيزياء ومادة أخرى في A-Level أو IB؛ وتقنية المعلومات تتطلب C في الرياضيات ومادتين أخريين."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport (all pages, one PDF)",
+     "ka": "პასპორტი (ყველა გვერდი, ერთი PDF)",
+     "ar": "جواز السفر (كل الصفحات في ملف واحد)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Academic certificates with English version",
+     "ka": "აკადემიური სერტიფიკატები ინგლისური ვერსიით",
+     "ar": "الشهادات الأكاديمية مع نسخة إنجليزية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "IELTS or TOEFL certificate (if available)",
+     "ka": "IELTS ან TOEFL სერტიფიკატი (არსებობის შემთხვევაში)",
+     "ar": "شهادة IELTS أو TOEFL (إن وجدت)"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Self-funded or sponsored declaration",
+     "ka": "თვითდაფინანსების ან სპონსორობის დეკლარაცია",
+     "ar": "إقرار التمويل الذاتي أو الكفالة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "malaysia",
+   "melaka",
+   "engineering",
+   "technical university"
+  ],
+  "sources": [
+   "https://www.utem.edu.my/en/undergraduate-int.html",
+   "https://www.utem.edu.my/en/downloads/admission/109-guideline-for-selection-and-offer-of-study-programmes-for-international-students-in-utem.html",
+   "https://www.utem.edu.my/en/downloads/fees/254-2ao-2026-yuran-antarabangsa-prasiswazah-degree-kejuruteraan-teknologi-kejuruteraan.html"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-ioannina",
+  "name": {
+   "en": "University of Ioannina",
+   "ka": "იოანინას უნივერსიტეტი",
+   "ar": "جامعة يوانينا"
+  },
+  "iso": "GR",
+  "city": "Ioannina",
+  "lat": 39.617,
+  "lon": 20.84,
+  "type": "public",
+  "website": "https://www.uoi.gr",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Greek"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "humanities",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Natural sciences",
+    "Humanities",
+    "Education"
+   ],
+   "ka": [
+    "მედიცინა",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "განათლება"
+   ],
+   "ar": [
+    "الطب",
+    "العلوم الطبيعية",
+    "العلوم الإنسانية",
+    "التربية"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Ioannina, north-west Greece. Bachelor teaching is in Greek. Its website blocked automated reading.",
+   "ka": "სახელმწიფო უნივერსიტეტი იოანინაში, ჩრდილო-დასავლეთ საბერძნეთი. ბაკალავრიატში სწავლება ბერძნულია. საიტი ავტომატურ წაკითხვას ბლოკავს.",
+   "ar": "جامعة عامة في يوانينا شمال غرب اليونان. التدريس في البكالوريوس بالإغريقية. موقعها يمنع القراءة الآلية."
+  },
+  "about": {
+   "en": "The University of Ioannina is a public university in Epirus, Greece. The national Study in Greece portal says applications for international students go through the @SiG platform and that a university acceptance letter is needed for the visa. The university's own site returned an access error, so fees and deadlines are not verified.",
+   "ka": "იოანინას უნივერსიტეტი სახელმწიფო უნივერსიტეტია ეპირუსში. Study in Greece პორტალის თანახმად, საერთაშორისო განაცხადები @SiG პლატფორმით იგზავნება და ვიზისთვის საჭიროა უნივერსიტეტის მიღების წერილი. უნივერსიტეტის საიტი მიუწვდომელია.",
+   "ar": "جامعة عامة في إبيروس باليونان. بحسب بوابة Study in Greece تُقدَّم طلبات الطلاب الدوليين عبر منصة @SiG ويلزم خطاب قبول للتأشيرة. موقع الجامعة لم يكن متاحاً."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "greece",
+   "ioannina",
+   "public"
+  ],
+  "sources": [
+   "https://studyingreece.edu.gr/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-khartoum",
+  "name": {
+   "en": "University of Khartoum",
+   "ka": "ხართუმის უნივერსიტეტი",
+   "ar": "جامعة الخرطوم"
+  },
+  "iso": "SD",
+  "city": "Khartoum",
+  "lat": 15.589,
+  "lon": 32.534,
+  "type": "public",
+  "website": "https://www.uofk.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Sciences",
+    "Law"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "მეცნიერებები",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "العلوم",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "Oldest and largest public university in Sudan. Undergraduate admission is set by Sudan's Board of Higher Education.",
+   "ka": "სუდანის უძველესი და უდიდესი სახელმწიფო უნივერსიტეტი. ბაკალავრიატში მიღებას სუდანის უმაღლესი განათლების საბჭო არეგულირებს.",
+   "ar": "أقدم وأكبر جامعة عامة في السودان. يخضع القبول الجامعي لمجلس التعليم العالي السوداني."
+  },
+  "about": {
+   "en": "The University of Khartoum is a public university in Khartoum, Sudan. Its admission page states that undergraduate admission policy is governed by the Board of Higher Education of Sudan, with minimum requirements depending on nationality and school-certificate board. No international fee, deadline or application link is published on the page read.",
+   "ka": "ხართუმის უნივერსიტეტი სახელმწიფო უნივერსიტეტია სუდანში. მისი გვერდის მიხედვით ბაკალავრიატში მიღებას არეგულირებს სუდანის უმაღლესი განათლების საბჭო; მოთხოვნები დამოკიდებულია ეროვნებასა და ატესტატის ტიპზე. საფასური და ვადები არ არის მითითებული.",
+   "ar": "جامعة عامة في الخرطوم. تذكر صفحة القبول أن سياسة القبول الجامعي يحكمها مجلس التعليم العالي السوداني، وأن الحد الأدنى يتوقف على الجنسية ونوع الشهادة. لا تُنشر رسوم أو مواعيد."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "sudan",
+   "khartoum",
+   "public"
+  ],
+  "sources": [
+   "https://www.uofk.edu/index.php/admission"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-new-england-australia",
+  "name": {
+   "en": "University of New England Australia",
+   "ka": "ახალი ინგლისის უნივერსიტეტი (ავსტრალია)",
+   "ar": "جامعة نيو إنغلاند أستراليا"
+  },
+  "iso": "AU",
+  "city": "Armidale",
+  "lat": -30.489,
+  "lon": 151.642,
+  "type": "public",
+  "website": "https://www.une.edu.au",
+  "platform": "Direct / agents",
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "environment",
+   "education",
+   "business",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Agriculture",
+    "Education",
+    "Business",
+    "Science"
+   ],
+   "ka": [
+    "სოფლის მეურნეობა",
+    "განათლება",
+    "ბიზნესი",
+    "მეცნიერება"
+   ],
+   "ar": [
+    "الزراعة",
+    "التربية",
+    "الأعمال",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Armidale, New South Wales, with campuses in Parramatta and Adelaide. The website blocked automated reading, so fees were not verified.",
+   "ka": "სახელმწიფო უნივერსიტეტი არმიდეილში, ახალი სამხრეთი უელსი. საიტი ავტომატურ წაკითხვას ბლოკავს, საფასური არ დადასტურდა.",
+   "ar": "جامعة عامة في أرميدايل بنيو ساوث ويلز مع مقرات في باراماتا وأديلايد. الموقع يمنع القراءة الآلية لذلك لم تُتحقق الرسوم."
+  },
+  "about": {
+   "en": "The University of New England is registered on the national CRICOS register for international students (provider 00003G), with 128 courses at Armidale and further sites in Parramatta and Adelaide. Bachelor degrees listed run about 159 weeks for a three-year degree. Fees, deadlines and entry rules could not be read because the university site returned an access error.",
+   "ka": "UNE რეგისტრირებულია CRICOS-ში (00003G), არმიდეილში 128 კურსით, ასევე პარამატასა და ადელაიდაში. ბაკალავრის ხანგრძლივობაა დაახლოებით 159 კვირა. საფასური და ვადები არ დადასტურდა.",
+   "ar": "الجامعة مسجلة في CRICOS للطلاب الدوليين (00003G) بـ128 مقرراً في أرميدايل ومواقع في باراماتا وأديلايد. مدة البكالوريوس نحو 159 أسبوعاً. لم يتم التحقق من الرسوم والمواعيد."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "australia",
+   "armidale",
+   "new south wales"
+  ],
+  "sources": [
+   "https://cricos.education.gov.au/Institution/InstitutionDetails.aspx?ProviderCode=00003G"
+  ],
+  "verified_at": "2026-11-14"
+ }
+]

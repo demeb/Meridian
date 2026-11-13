@@ -5,6 +5,25 @@
 (function () {
   'use strict';
 
+  /* programmes recruited country by country (FLEX Global): one row per country */
+  function roundsHtml(program) {
+    var rounds = program.rounds || [];
+    if (!rounds.length) return '';
+    var mine = M.state.user && M.state.user.country;
+    return '<section class="op-block"><h2 class="op-h2">' + M.t('op.rounds') + '</h2>' +
+      '<p class="muted" style="margin-bottom:.8rem">' + M.t('op.roundsLede') + '</p><div class="round-list">' +
+      rounds.map(function (r) {
+        var days = M.daysUntil(r.deadline);
+        var flag = r.iso ? String.fromCodePoint.apply(null, r.iso.split('').map(function (c) { return 0x1F1E6 + c.charCodeAt(0) - 65; })) : '';
+        return '<div class="round-row' + (mine === r.iso ? ' is-mine' : '') + '">' +
+          '<span class="flag">' + flag + '</span><b>' + M.esc(M.pick(r.country)) + '</b>' +
+          '<span class="dim">' + M.esc(r.round || '') + '</span>' +
+          '<span>' + (r.deadline ? M.formatDate(r.deadline) + (days !== null && days >= 0 ? ' · ' + days + ' ' + M.t('home.rail.days') : '') : M.t('op.roundTba')) + '</span>' +
+          (r.apply_url ? '<a class="link-btn" href="' + M.esc(r.apply_url) + '" target="_blank" rel="noopener noreferrer">' + M.t('op.roundApply') + M.icon('external', 13) + '</a>' : '<span></span>') +
+        '</div>';
+      }).join('') + '</div></section>';
+  }
+
   var program = null;
   var related = [];
   var application = null;
@@ -117,6 +136,7 @@
       '<section class="op-block"><h2 class="op-h2">' + M.t('op.about') + '</h2><div class="op-prose">' + paragraphs(about) + '</div></section>' +
       ((M.pick(program.highlights) || []).length ? '<section class="op-block"><h2 class="op-h2">' + M.t('programs.highlights') + '</h2>' + list(M.pick(program.highlights)) + '</section>' : '') +
       '<section class="op-block"><h2 class="op-h2">' + M.t('programs.eligibility') + '</h2><div class="op-prose"><p>' + M.esc(M.pick(program.eligibility)) + '</p></div></section>' +
+      roundsHtml(program) +
       (M.pick(program.costs) ? '<section class="op-block"><h2 class="op-h2">' + M.t('op.costs') + '</h2><div class="op-prose"><p>' + M.esc(M.pick(program.costs)) + '</p></div></section>' : '') +
       '<section class="op-block"><h2 class="op-h2">' + M.t('op.howTo') + '</h2>' + stepsHtml + '</section>' +
       sources();

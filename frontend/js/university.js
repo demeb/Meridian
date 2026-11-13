@@ -52,7 +52,8 @@
       ['uni.f.country', country(uni)], ['uni.region', uni.state]
     ] : [
       ['uni.tuition', tuition(uni)],
-      ['uni.deadline', uni.deadline ? M.formatDate(uni.deadline) : '—'],
+      ['uni.deadline', uni.deadline ? M.formatDate(uni.deadline)
+        : /rolling|places remain|until (all )?places|on a rolling/i.test(M.pick(uni.deadline_note) || uni.deadline_note || '') ? M.t('programs.rolling') : '—'],
       ['uni.apply', uni.platform],
       ['uni.admit', uni.acceptance_rate ? Math.round(uni.acceptance_rate * 100) + '%' : null],
       ['uni.type', uni.type ? M.t('uni.type.' + uni.type) : null],

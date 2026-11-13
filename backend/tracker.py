@@ -107,6 +107,23 @@ def _get(app_id, user_id):
     return row
 
 
+def university_choices(user_id):
+    """What a student is aiming for, for the counsellor they booked: universities
+    they are applying to (stage, checklist progress) and the ones they saved."""
+    conn = db.connect()
+    rows = conn.execute("SELECT * FROM applications WHERE user_id = ? AND kind = 'university' ORDER BY updated_at DESC",
+                        (user_id,)).fetchall()
+    conn.close()
+    applying = [_row(r, with_files=False) for r in rows]
+    out = [{"item": a["item"], "stage": a["stage"], "progress": a["progress"]} for a in applying if a["item"]]
+    seen = {a["item"]["id"] for a in out}
+    for item_id in db.list_saved(user_id):
+        uni = catalog.find_university(item_id)
+        if uni and item_id not in seen:
+            out.append({"item": _summary("university", uni), "stage": None, "progress": None})
+    return out
+
+
 @bp.get("/api/applications")
 def list_applications():
     user = _user()

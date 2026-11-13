@@ -287,6 +287,39 @@
     '</div>';
   }
 
+  /* counsellors: the universities each of their students is applying to or saved */
+  function studentsMarkup() {
+    var students = data.students || [];
+    if (!students.length) {
+      return '<section class="card card-pad-lg"><div class="empty-state">' + M.icon('cap', 42) +
+        '<p>' + M.t('tutor.students.empty') + '</p></div></section>';
+    }
+    return '<div class="stack" style="gap:var(--space-5)">' +
+      '<p class="muted" style="font-size:.9rem">' + M.t('tutor.students.lede') + '</p>' +
+      students.map(function (st) {
+        var stage = st.grade ? M.t('auth.grade.' + st.grade) : '';
+        var rows = st.universities.map(function (u) {
+          var item = u.item;
+          var days = M.daysUntil(item.deadline);
+          return '<a class="student-uni" href="' + M.esc(item.url) + '">' +
+            '<span class="flag">' + (item.flag || '') + '</span>' +
+            '<span class="su-main"><b>' + M.esc(M.pick(item.name)) + '</b><small>' +
+              (item.deadline ? M.t('uni.deadline') + ': ' + M.formatDate(item.deadline) + (days !== null && days >= 0 ? ' · ' + days + ' ' + M.t('home.rail.days') : '') : M.pick(item.country) || '') +
+            '</small></span>' +
+            (u.stage ? '<span class="badge badge-brand">' + M.t('app.stage.' + u.stage) + ' · ' + u.progress.done + '/' + u.progress.total + '</span>'
+                     : '<span class="badge">' + M.t('tutor.students.saved') + '</span>') +
+          '</a>';
+        }).join('');
+        return '<section class="card card-pad-lg">' +
+          '<div class="spread" style="margin-bottom:1rem"><h3>' + M.esc(st.name) +
+            (stage && stage.indexOf('auth.') !== 0 ? ' <span class="badge">' + M.esc(stage) + '</span>' : '') + '</h3>' +
+            '<span class="badge">' + st.universities.length + '</span></div>' +
+          (rows || '<p class="dim">' + M.t('tutor.students.none') + '</p>') +
+        '</section>';
+      }).join('') +
+    '</div>';
+  }
+
   function bindBookings() {
     document.querySelectorAll('[data-cancel]').forEach(function (button) {
       button.addEventListener('click', function () {
@@ -333,6 +366,7 @@
     });
     if (tab === 'schedule') { root.innerHTML = scheduleMarkup(); bindSchedule(); }
     if (tab === 'bookings') { root.innerHTML = bookingsMarkup(); bindBookings(); }
+    if (tab === 'students') { root.innerHTML = studentsMarkup(); }
     if (tab === 'profile') {
       root.innerHTML = '<form class="card card-pad-lg apply-form" id="profileForm" novalidate>' +
         '<div id="profileFields"></div>' +
@@ -340,6 +374,11 @@
       bindProfile();
     }
   }
+
+  function isCounsellor(tutor) {
+    return (tutor.subjects || []).some(function (s) { return (M.TAXONOMY ? M.TAXONOMY.counselling : COUNSELLING).indexOf(s) !== -1; });
+  }
+  var COUNSELLING = ['us-admissions', 'uk-admissions', 'eu-admissions', 'asia-admissions', 'essays', 'cv', 'interview', 'financial-aid'];
 
   function load() {
     return M.api('/api/tutor/me').then(function (res) {
@@ -352,6 +391,8 @@
         return;
       }
       data = res;
+      // the students tab is for counsellors only (the server sends students to them alone)
+      document.getElementById('studentsTab').hidden = !res.students || !isCounsellor(res.tutor);
       index();
       paintHead();
       paintTab();

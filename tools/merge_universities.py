@@ -99,6 +99,31 @@ def enrich(u):
             u[key] = None
 
 
+MONTHS = {m: i + 1 for i, m in enumerate(("jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"))}
+
+
+def next_round(note):
+    """The earliest date still ahead that a deadline note names, as YYYY-MM-DD."""
+    text = (note.get("en") if isinstance(note, dict) else note) or ""
+    found = []
+    for d, m, y in re.findall(r"\b(\d{1,2})\s+([A-Za-z]{3,9})\.?,?\s+(20\d\d)", text):
+        found.append((int(y), MONTHS.get(m[:3].lower()), int(d)))
+    for m, d, y in re.findall(r"\b([A-Za-z]{3,9})\.?\s+(\d{1,2}),?\s+(20\d\d)", text):
+        found.append((int(y), MONTHS.get(m[:3].lower()), int(d)))
+    for y, m, d in re.findall(r"\b(20\d\d)-(\d\d)-(\d\d)\b", text):
+        found.append((int(y), int(m), int(d)))
+    today = date.today()
+    ahead = []
+    for y, m, d in found:
+        try:
+            when = date(y, m, d)
+        except (TypeError, ValueError):
+            continue
+        if when >= today:
+            ahead.append(when)
+    return min(ahead).isoformat() if ahead else None
+
+
 def substance(u):
     """How many key admission facts a researched record actually has."""
     missing = re.compile(r"not (been )?(retrieved|available|found|published|readable|accessible)|could not|unable to|no (official )?data", re.I)
@@ -178,7 +203,8 @@ def main():
     files = sorted(glob.glob(os.path.join(RESEARCH, "incoming", "universities-*.json"))) + \
         sorted(p for p in glob.glob(os.path.join(RESEARCH, "round5", "universities-*.json")) if "qs-list" not in p) + \
         sorted(glob.glob(os.path.join(RESEARCH, "round6", "universities-*.json"))) + \
-        sorted(glob.glob(os.path.join(RESEARCH, "round7", "universities-*.json")))
+        sorted(glob.glob(os.path.join(RESEARCH, "round7", "universities-*.json"))) + \
+        sorted(glob.glob(os.path.join(RESEARCH, "round8", "universities-*.json")))
     thin = []
     for path in files:
         rows = load(path)
@@ -187,7 +213,7 @@ def main():
                 continue
             # round 7: a record with almost no admission facts stays a basic page
             # (listed in round7/THIN.txt for a retry) instead of an empty profile
-            if "round7" in path and substance(u) < 4:
+            if ("round7" in path or "round8" in path) and substance(u) < 4:
                 thin.append("%s | %s" % (u["id"], os.path.basename(path)))
                 continue
             if isinstance(u["name"], str):
@@ -214,10 +240,15 @@ def main():
             full[u["id"]] = u
         print("  %-60s %4d" % (os.path.relpath(path, ROOT), len(rows)))
 
-    with open(os.path.join(RESEARCH, "round7", "THIN.txt"), "w", encoding="utf-8") as fh:
+    # still basic after every round = thin in its latest attempt and never full
+    latest = {}
+    for line in thin:
+        latest[line.split(" | ")[0]] = line
+    thin = [line for uid, line in latest.items() if uid not in full]
+    with open(os.path.join(RESEARCH, "round8", "THIN.txt"), "w", encoding="utf-8") as fh:
         fh.write("\n".join(thin) + ("\n" if thin else ""))
     if thin:
-        print("  kept as basic pages (too little official data): %d — see research/round7/THIN.txt" % len(thin))
+        print("  kept as basic pages (too little official data): %d — see research/round8/THIN.txt" % len(thin))
     taken = {u.get("_qs") for u in full.values() if u.get("_qs")}
     taken_domains = {domain(u.get("website")) for u in full.values()}
     basic, seen = [], set(full)
@@ -253,9 +284,10 @@ def main():
     out = sorted(full.values(), key=lambda u: (u.get("rank_qs") or 99999, u["name"].get("en", "")))
     for u in out:
         enrich(u)
-        # a deadline that has passed is not shown as one (the note keeps the date)
+        # a deadline that has passed is not shown as one: the next round named in
+        # the note takes its place (IE University: 6 Nov passed -> 15 Jan 2027)
         if isinstance(u.get("deadline"), str) and u["deadline"][:10] < date.today().isoformat():
-            u["deadline"] = None
+            u["deadline"] = next_round(u.get("deadline_note"))
         # round 7 agents wrote percentages (45); the site stores fractions (0.45)
         for key in ("acceptance_rate", "intl_pct"):
             if isinstance(u.get(key), (int, float)) and u[key] > 1:

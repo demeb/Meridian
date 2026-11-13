@@ -1,0 +1,1128 @@
+[
+ {
+  "id": "ningbo-university",
+  "name": {
+   "en": "Ningbo University",
+   "ka": "ნინბოს უნივერსიტეტი",
+   "ar": "جامعة نينغبو"
+  },
+  "iso": "CN",
+  "city": "Ningbo",
+  "lat": 29.889,
+  "lon": 121.637,
+  "type": "public",
+  "website": "https://www.nbu.edu.cn",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 35200,
+  "intl_pct": null,
+  "languages": [
+   "Chinese"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "business"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Ningbo, China, founded in 1986. It has about 21,900 full-time undergraduates on two campuses.",
+   "ka": "საჯარო უნივერსიტეტი ნინბოში, ჩინეთში, დაარსებულია 1986 წელს. ორ კამპუსზე დაახლოებით 21 900 სრულდროიანი ბაკალავრიატის სტუდენტი სწავლობს.",
+   "ar": "جامعة حكومية في نينغبو بالصين تأسست عام 1986. يدرس فيها نحو 21,900 طالب بكالوريوس بدوام كامل في حرمين جامعيين."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "china",
+   "ningbo"
+  ],
+  "sources": [
+   "https://www.nbu.edu.cn"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "northern-arizona-university",
+  "name": {
+   "en": "Northern Arizona University",
+   "ka": "ჩრდილოეთ არიზონას უნივერსიტეტი",
+   "ar": "جامعة شمال أريزونا"
+  },
+  "iso": "US",
+  "city": "Flagstaff",
+  "lat": 35.189,
+  "lon": -111.653,
+  "type": "public",
+  "website": "https://nau.edu",
+  "platform": "Direct (NAU international application portal)",
+  "application_url": "https://nau.edu/how-to-apply/international/apply-steps/",
+  "intakes": [
+   "Fall",
+   "Spring"
+  ],
+  "deadline": null,
+  "deadline_note": "NAU's international pages do not state a deadline; contact admissions@nau.edu.",
+  "tuition_intl": {
+   "amount": 29881,
+   "currency": "USD",
+   "per": "year",
+   "note": "Out-of-state tuition and fees for 2024-25 (U.S. NCES College Navigator). Check nau.edu/fees for the current year."
+  },
+  "acceptance_rate": 90,
+  "students": 28467,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 70,
+  "duolingo_min": 95,
+  "other_tests": [
+   "PTE 56"
+  ],
+  "fields": [
+   "education",
+   "environment",
+   "business",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Forestry and environment",
+    "Business",
+    "Health professions"
+   ],
+   "ka": [
+    "განათლება",
+    "სატყეო მეურნეობა და გარემო",
+    "ბიზნესი",
+    "ჯანდაცვის პროფესიები"
+   ],
+   "ar": [
+    "التعليم",
+    "الغابات والبيئة",
+    "الأعمال",
+    "المهن الصحية"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Flagstaff, Arizona, with about 28,500 students. It admits about 90% of applicants; out-of-state tuition was $29,881 in 2024-25.",
+   "ka": "საჯარო უნივერსიტეტი ფლაგსტაფში, არიზონა, დაახლოებით 28 500 სტუდენტით. აბიტურიენტების დაახლოებით 90% მიიღება; 2024-25 წელს სახელმწიფოს გარეთ მყოფთა საფასური $29 881 იყო.",
+   "ar": "جامعة حكومية في فلاغستاف بولاية أريزونا يدرس فيها نحو 28,500 طالب. تقبل نحو 90% من المتقدمين، وبلغت الرسوم لغير المقيمين 29,881 دولارًا في 2024-25."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "International applicants get automatic scholarship consideration with a complete application.",
+   "ka": "საერთაშორისო აპლიკანტები სრული განაცხადით ავტომატურად განიხილებიან სტიპენდიისთვის.",
+   "ar": "يُنظر تلقائيًا في منحة للمتقدمين الدوليين عند اكتمال الطلب."
+  },
+  "tests": {
+   "en": "Proof of English: TOEFL iBT 70, IELTS 6.0, Duolingo 95, PTE 56, or SAT EBRW 350 / ACT English and Reading 21. Applicants from English-speaking countries need no extra proof.",
+   "ka": "ინგლისურის დამადასტურებელი: TOEFL iBT 70, IELTS 6.0, Duolingo 95, PTE 56 ან SAT EBRW 350 / ACT 21. ინგლისურენოვანი ქვეყნების მოქალაქეებს დამატებითი საბუთი არ სჭირდებათ.",
+   "ar": "إثبات اللغة الإنجليزية: TOEFL iBT 70 أو IELTS 6.0 أو Duolingo 95 أو PTE 56 أو SAT EBRW 350 / ACT 21. لا يلزم إثبات إضافي لمواطني الدول الناطقة بالإنجليزية."
+  },
+  "gpa_note": {
+   "en": "NAU's international page states no GPA minimum; official transcripts with certified English translations are required.",
+   "ka": "NAU-ს საერთაშორისო გვერდზე GPA-ს მინიმუმი არ არის მითითებული; საჭიროა ოფიციალური ტრანსკრიპტები სერტიფიცირებული ინგლისური თარგმანით.",
+   "ar": "لا تحدد صفحة NAU للطلاب الدوليين حدًا أدنى للمعدل؛ يلزم كشف درجات رسمي مع ترجمة إنجليزية معتمدة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი და ნიშნები",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of financial support",
+     "ka": "ფინანსური უზრუნველყოფის დამადასტურებელი საბუთი",
+     "ar": "إثبات القدرة المالية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "arizona",
+   "flagstaff",
+   "public"
+  ],
+  "sources": [
+   "https://nau.edu/admissions/international/",
+   "https://nau.edu/how-to-apply/international/apply-steps/",
+   "https://nces.ed.gov/collegenavigator/?id=105330"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "northern-borders-university",
+  "name": {
+   "en": "Northern Borders University",
+   "ka": "ჩრდილოეთ საზღვრების უნივერსიტეტი",
+   "ar": "جامعة الحدود الشمالية"
+  },
+  "iso": "SA",
+  "city": "Arar",
+  "lat": 30.98,
+  "lon": 41.02,
+  "type": "public",
+  "website": "https://nbu.edu.sa",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Arar, Saudi Arabia, with colleges of medicine, engineering, computing, pharmacy, nursing and business.",
+   "ka": "საჯარო უნივერსიტეტი არარში, საუდის არაბეთი, სამედიცინო, საინჟინრო, საკომპიუტერო, ფარმაცევტული, საექთნო და ბიზნეს ფაკულტეტებით.",
+   "ar": "جامعة حكومية في عرعر بالمملكة العربية السعودية تضم كليات الطب والهندسة والحاسب والصيدلة والتمريض وإدارة الأعمال."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "saudi arabia",
+   "arar"
+  ],
+  "sources": [
+   "https://nbu.edu.sa/en"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "northwest-university-china",
+  "name": {
+   "en": "Northwest University (China)",
+   "ka": "ჩრდილო-დასავლეთის უნივერსიტეტი (ჩინეთი)",
+   "ar": "جامعة الشمال الغربي (الصين)"
+  },
+  "iso": "CN",
+  "city": "Xi'an",
+  "lat": 34.249,
+  "lon": 108.916,
+  "type": "public",
+  "website": "https://www.nwu.edu.cn",
+  "platform": "Direct (NWU international student application system)",
+  "application_url": "https://nwu.17gz.org/member/login.do",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Xi'an, China. International bachelor applicants apply through the International Education College online system.",
+   "ka": "საჯარო უნივერსიტეტი სიანში, ჩინეთი. საერთაშორისო ბაკალავრიატის აპლიკანტები განაცხადს საერთაშორისო განათლების კოლეჯის ონლაინ სისტემით აგზავნიან.",
+   "ar": "جامعة حكومية في شيآن بالصين. يقدّم طلاب البكالوريوس الدوليون عبر نظام كلية التعليم الدولي الإلكتروني."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [
+   {
+    "name": "Silk Road Chinese Government Scholarship (Bachelor)",
+    "url": "https://sie.nwu.edu.cn/zsxx/bksxm.htm",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "china",
+   "xian"
+  ],
+  "sources": [
+   "https://sie.nwu.edu.cn/",
+   "https://sie.nwu.edu.cn/zsxx/bksxm.htm"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "obuda-university",
+  "name": {
+   "en": "Obuda University",
+   "ka": "ობუდას უნივერსიტეტი",
+   "ar": "جامعة أوبودا"
+  },
+  "iso": "HU",
+  "city": "Budapest",
+  "lat": 47.548,
+  "lon": 19.033,
+  "type": "public",
+  "website": "https://www.uni-obuda.hu",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Hungarian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public technical university in Budapest, Hungary, with engineering, computing and business programmes.",
+   "ka": "საჯარო ტექნიკური უნივერსიტეტი ბუდაპეშტში, უნგრეთი, საინჟინრო, საკომპიუტერო და ბიზნეს პროგრამებით.",
+   "ar": "جامعة تقنية حكومية في بودابست بالمجر تقدم برامج في الهندسة والحاسب والأعمال."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "hungary",
+   "budapest"
+  ],
+  "sources": [
+   "https://www.uni-obuda.hu/en/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "okayama-university",
+  "name": {
+   "en": "Okayama University",
+   "ka": "ოკაიამას უნივერსიტეტი",
+   "ar": "جامعة أوكاياما"
+  },
+  "iso": "JP",
+  "city": "Okayama City",
+  "lat": 34.69,
+  "lon": 133.92,
+  "type": "public",
+  "website": "https://www.okayama-u.ac.jp",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Japanese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "National university in Okayama, Japan, strong in medicine, engineering and sciences.",
+   "ka": "ეროვნული უნივერსიტეტი ოკაიამაში, იაპონია, ძლიერია მედიცინაში, ინჟინერიასა და საბუნებისმეტყველო მეცნიერებებში.",
+   "ar": "جامعة وطنية في أوكاياما باليابان قوية في الطب والهندسة والعلوم."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "japan",
+   "okayama"
+  ],
+  "sources": [
+   "https://www.okayama-u.ac.jp/eng/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "panjab-university-chandigarh",
+  "name": {
+   "en": "Panjab University, Chandigarh",
+   "ka": "პანჯაბის უნივერსიტეტი, ჩანდიგარჰი",
+   "ar": "جامعة بانجاب، شانديغار"
+  },
+  "iso": "IN",
+  "city": "Chandigarh",
+  "lat": 30.76,
+  "lon": 76.768,
+  "type": "public",
+  "website": "https://www.puchd.ac.in",
+  "platform": "Direct (Dean of International Students)",
+  "application_url": "https://dis.puchd.ac.in/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Admission guidelines for 2026-27 are published as PDFs on admissions.puchd.ac.in; the pages read give no deadline for foreign nationals.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "natural-sciences",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Chandigarh, India. Foreign nationals apply through the Dean of International Students and need an eligibility certificate.",
+   "ka": "საჯარო უნივერსიტეტი ჩანდიგარჰში, ინდოეთი. უცხოელები განაცხადს საერთაშორისო სტუდენტთა დეკანატის მეშვეობით აგზავნიან და სჭირდებათ შესაბამისობის სერტიფიკატი.",
+   "ar": "جامعة حكومية في شانديغار بالهند. يتقدم الأجانب عبر عميد الطلاب الدوليين ويحتاجون إلى شهادة أهلية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "chandigarh"
+  ],
+  "sources": [
+   "https://www.puchd.ac.in",
+   "https://dis.puchd.ac.in/",
+   "https://admissions.puchd.ac.in/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "pontificia-universidade-catolica-de-sao-paulo",
+  "name": {
+   "en": "Pontifícia Universidade Católica de São Paulo",
+   "ka": "სან-პაულუს პაპის კათოლიკური უნივერსიტეტი",
+   "ar": "الجامعة البابوية الكاثوليكية في ساو باولو"
+  },
+  "iso": "BR",
+  "city": "São Paulo",
+  "lat": -23.54,
+  "lon": -46.67,
+  "type": "private",
+  "website": "https://www.pucsp.br",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "social-sciences",
+   "humanities",
+   "law"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Private Catholic university in São Paulo, Brazil, taught in Portuguese. Entry is by vestibular.",
+   "ka": "კერძო კათოლიკური უნივერსიტეტი სან-პაულუში, ბრაზილია, სწავლება პორტუგალიურად. მიღება ვესტიბულარით.",
+   "ar": "جامعة كاثوليكية خاصة في ساو باولو بالبرازيل، التدريس بالبرتغالية، والقبول عبر امتحان vestibular."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "sao paulo"
+  ],
+  "sources": [
+   "https://www.pucsp.br/en",
+   "https://www.pucsp.br/arii/estude-na-puc-sp-study-puc-sp"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "poznan-university-of-life-sciences",
+  "name": {
+   "en": "Poznan University of Life Sciences",
+   "ka": "პოზნანის სიცოცხლის მეცნიერებათა უნივერსიტეტი",
+   "ar": "جامعة بوزنان لعلوم الحياة"
+  },
+  "iso": "PL",
+  "city": "Poznań",
+  "lat": 52.427,
+  "lon": 16.918,
+  "type": "public",
+  "website": "https://puls.edu.pl",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Polish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "engineering"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Poznań, Poland, focused on agriculture, food, veterinary and environmental sciences.",
+   "ka": "საჯარო უნივერსიტეტი პოზნანში, პოლონეთი, სოფლის მეურნეობის, სურსათის, ვეტერინარიისა და გარემოს მეცნიერებების მიმართულებით.",
+   "ar": "جامعة حكومية في بوزنان ببولندا متخصصة في الزراعة والغذاء والطب البيطري وعلوم البيئة."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "poland",
+   "poznan"
+  ],
+  "sources": [
+   "https://puls.edu.pl"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "poznan-university-of-technology",
+  "name": {
+   "en": "Poznan University of Technology",
+   "ka": "პოზნანის ტექნოლოგიური უნივერსიტეტი",
+   "ar": "جامعة بوزنان للتكنولوجيا"
+  },
+  "iso": "PL",
+  "city": "Poznan",
+  "lat": 52.403,
+  "lon": 16.95,
+  "type": "public",
+  "website": "https://www.put.poznan.pl",
+  "platform": "Direct (PUT recruitment system)",
+  "application_url": "https://rekrutacja.put.poznan.pl/en/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Polish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Artificial Intelligence",
+    "Mechanical Engineering",
+    "Architecture",
+    "Biomedical Engineering",
+    "Quantum Technologies"
+   ],
+   "ka": [
+    "ხელოვნური ინტელექტი",
+    "მექანიკური ინჟინერია",
+    "არქიტექტურა",
+    "ბიოსამედიცინო ინჟინერია",
+    "კვანტური ტექნოლოგიები"
+   ],
+   "ar": [
+    "الذكاء الاصطناعي",
+    "الهندسة الميكانيكية",
+    "العمارة",
+    "الهندسة الطبية الحيوية",
+    "التقنيات الكمومية"
+   ]
+  },
+  "summary": {
+   "en": "Public technical university in Poznań, Poland. It offers 10 English-taught B.Sc. programmes, including AI, architecture and quantum technologies.",
+   "ka": "საჯარო ტექნიკური უნივერსიტეტი პოზნანში, პოლონეთი. გთავაზობთ 10 ინგლისურენოვან B.Sc. პროგრამას, მათ შორის ხელოვნური ინტელექტი, არქიტექტურა და კვანტური ტექნოლოგიები.",
+   "ar": "جامعة تقنية حكومية في بوزنان ببولندا. تقدم 10 برامج بكالوريوس بالإنجليزية منها الذكاء الاصطناعي والعمارة والتقنيات الكمومية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "poland",
+   "poznan",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.put.poznan.pl/en",
+   "https://put.poznan.pl/en/admission-for-international",
+   "https://put.poznan.pl/en/first-cycle-bsc-programmes"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "riga-stradins-university",
+  "name": {
+   "en": "Riga Stradins University",
+   "ka": "რიგის სტრადინშის უნივერსიტეტი",
+   "ar": "جامعة ريغا ستراديني"
+  },
+  "iso": "LV",
+  "city": "Riga",
+  "lat": 56.953,
+  "lon": 24.136,
+  "type": "public",
+  "website": "https://www.rsu.lv",
+  "platform": "Direct (RSU admission portal)",
+  "application_url": "https://admission.rsu.lv/en/applications",
+  "intakes": [
+   "September",
+   "February"
+  ],
+  "deadline": null,
+  "deadline_note": "RSU publishes deadlines on its 'When to apply' page; applications for the February 2027 intake were open in November 2026.",
+  "tuition_intl": {
+   "amount": 3300,
+   "currency": "EUR",
+   "per": "year",
+   "note": "International Business and Start-up Entrepreneurship (3 years), 2026/27. Medicine is 13,500 EUR and Dentistry 15,500 EUR per year; Medicine and Dentistry also have a 1,800 EUR one-time registration fee."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Latvian"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "business",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Dentistry",
+    "International Business"
+   ],
+   "ka": [
+    "მედიცინა",
+    "სტომატოლოგია",
+    "საერთაშორისო ბიზნესი"
+   ],
+   "ar": [
+    "الطب",
+    "طب الأسنان",
+    "الأعمال الدولية"
+   ]
+  },
+  "summary": {
+   "en": "Public medical and social sciences university in Riga, Latvia. English-taught Medicine costs 13,500 EUR a year and International Business 3,300 EUR in 2026/27.",
+   "ka": "საჯარო სამედიცინო და სოციალურ მეცნიერებათა უნივერსიტეტი რიგაში, ლატვია. ინგლისურენოვანი მედიცინა 2026/27 წელს წელიწადში 13 500 ევრო ღირს, საერთაშორისო ბიზნესი - 3 300 ევრო.",
+   "ar": "جامعة حكومية للطب والعلوم الاجتماعية في ريغا بلاتفيا. تبلغ رسوم الطب بالإنجليزية 13,500 يورو سنويًا والأعمال الدولية 3,300 يورو في 2026/27."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "RSU lists tuition fee discounts on its website.",
+   "ka": "RSU თავის ვებსაიტზე აქვეყნებს სწავლის საფასურის ფასდაკლებებს.",
+   "ar": "تنشر RSU خصومات على الرسوم الدراسية في موقعها."
+  },
+  "tests": {
+   "en": "Language and entrance-test rules are on the RSU requirements pages; the pages read did not state scores.",
+   "ka": "ენისა და მისაღები გამოცდების წესები RSU-ს მოთხოვნების გვერდებზეა; წაკითხულ გვერდებზე ქულები მითითებული არ იყო.",
+   "ar": "قواعد اللغة واختبارات القبول في صفحات متطلبات RSU؛ لم تذكر الصفحات المقروءة درجات محددة."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Letter of recommendation",
+     "ka": "სარეკომენდაციო წერილი",
+     "ar": "خطاب توصية"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Letter of motivation",
+     "ka": "მოტივაციის წერილი",
+     "ar": "خطاب دافع"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი და ნიშნები",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Tuition fee discounts",
+    "url": "https://www.rsu.lv/en/tuition-fee-discounts",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "latvia",
+   "riga",
+   "medicine",
+   "dentistry"
+  ],
+  "sources": [
+   "https://www.rsu.lv/en/study-here/admissions",
+   "https://www.rsu.lv/en/node/4941",
+   "https://www.rsu.lv/en/undergraduate-programmes",
+   "https://www.rsu.lv/en/study-programme/international-business-and-start-up-entrepreneurship"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "saint-louis-university",
+  "name": {
+   "en": "Saint Louis University",
+   "ka": "სენტ-ლუისის უნივერსიტეტი",
+   "ar": "جامعة سانت لويس"
+  },
+  "iso": "US",
+  "city": "St. Louis",
+  "lat": 38.637,
+  "lon": -90.234,
+  "type": "private",
+  "website": "https://www.slu.edu",
+  "platform": "Direct (SLU application)",
+  "application_url": "https://www.slu.edu/apply.php",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 55760,
+   "currency": "USD",
+   "per": "year",
+   "note": "Tuition and fees for 2024-25 (U.S. NCES College Navigator); check slu.edu for the current year."
+  },
+  "acceptance_rate": 75,
+  "students": 17059,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": 1200,
+   "high": 1410,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "business",
+   "law",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Health sciences",
+    "Business",
+    "Law",
+    "Aviation",
+    "Engineering"
+   ],
+   "ka": [
+    "ჯანმრთელობის მეცნიერებები",
+    "ბიზნესი",
+    "სამართალი",
+    "ავიაცია",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "العلوم الصحية",
+    "الأعمال",
+    "القانون",
+    "الطيران",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "Private Jesuit university in St. Louis, Missouri, with about 17,000 students. It admits about 75% of applicants; tuition and fees were $55,760 in 2024-25.",
+   "ka": "კერძო იეზუიტური უნივერსიტეტი სენტ-ლუისში, მისური, დაახლოებით 17 000 სტუდენტით. მიიღება აპლიკანტების დაახლოებით 75%; 2024-25 წელს საფასური $55 760 იყო.",
+   "ar": "جامعة يسوعية خاصة في سانت لويس بولاية ميزوري يدرس فيها نحو 17,000 طالب. تقبل نحو 75% من المتقدمين وبلغت الرسوم 55,760 دولارًا في 2024-25."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "SLU says international admission counselors can explain scholarships; the page read lists none.",
+   "ka": "SLU აცხადებს, რომ საერთაშორისო მისაღები კონსულტანტები სტიპენდიებზე განმარტებას გაგიწევენ; წაკითხულ გვერდზე სტიპენდიები ჩამოთვლილი არ არის.",
+   "ar": "تقول SLU إن مستشاري القبول الدولي يشرحون المنح؛ لا تسرد الصفحة منحًا محددة."
+  },
+  "tests": {
+   "en": "English proof by TOEFL, IELTS, PTE, SAT, ACT or Duolingo, sent officially by the testing agency; waivers exist. The page read gives no minimum scores.",
+   "ka": "ინგლისურის დამადასტურებელი: TOEFL, IELTS, PTE, SAT, ACT ან Duolingo, ოფიციალურად გაგზავნილი ტესტირების სააგენტოდან; არსებობს გათავისუფლების წესები. წაკითხულ გვერდზე მინიმალური ქულები არ არის.",
+   "ar": "إثبات الإنجليزية عبر TOEFL أو IELTS أو PTE أو SAT أو ACT أو Duolingo ترسله جهة الاختبار رسميًا؛ توجد حالات إعفاء. لا تذكر الصفحة حدًا أدنى للدرجات."
+  },
+  "gpa_note": {
+   "en": "Send final transcripts and any school-leaving exam results in English translation; official copies must come directly from each school before enrolment.",
+   "ka": "გაგზავნეთ დასკვნითი ტრანსკრიპტები და სკოლის დამამთავრებელი გამოცდების შედეგები ინგლისურ თარგმანში; ოფიციალური ასლები უნდა მოვიდეს უშუალოდ სკოლიდან ჩარიცხვამდე.",
+   "ar": "أرسل كشوف الدرجات النهائية ونتائج امتحانات إنهاء المدرسة مترجمة إلى الإنجليزية؛ يجب أن تصل النسخ الرسمية من كل مدرسة مباشرة قبل التسجيل."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი და ნიშნები",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "essay",
+    "label": {
+     "en": "Application essay",
+     "ka": "ესე",
+     "ar": "مقال التقديم"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of financial support",
+     "ka": "ფინანსური უზრუნველყოფის დამადასტურებელი საბუთი",
+     "ar": "إثبات القدرة المالية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "missouri",
+   "st louis",
+   "jesuit"
+  ],
+  "sources": [
+   "https://www.slu.edu/admission/international/index.php",
+   "https://nces.ed.gov/collegenavigator/?id=179159"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "samarkand-state-university",
+  "name": {
+   "en": "Samarkand State University",
+   "ka": "სამარყანდის სახელმწიფო უნივერსიტეტი",
+   "ar": "جامعة سمرقند الحكومية"
+  },
+  "iso": "UZ",
+  "city": "Samarkand",
+  "lat": 39.654,
+  "lon": 66.959,
+  "type": "public",
+  "website": "https://www.samdu.uz",
+  "platform": "Direct (Center of International Education Programs portal)",
+  "application_url": "https://fiep.admission.samdu.uz",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 14700000,
+   "currency": "UZS",
+   "per": "year",
+   "note": "Bachelor, years 1-2, 2023/24, set as 14x minimum wage; years 3-4 are 23,100,000 UZS. Rises if the minimum wage rises."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Uzbek",
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "natural-sciences",
+   "humanities",
+   "languages"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Samarkand, Uzbekistan. Foreign bachelor students pay a contract fee of 14.7 million UZS a year in years 1-2 (2023/24 rates).",
+   "ka": "საჯარო უნივერსიტეტი სამარყანდში, უზბეკეთი. უცხოელი ბაკალავრიატის სტუდენტები 1-2 კურსზე წელიწადში 14,7 მლნ სუმს იხდიან (2023/24 ტარიფი).",
+   "ar": "جامعة حكومية في سمرقند بأوزبكستان. يدفع طلاب البكالوريوس الأجانب رسوم عقد قدرها 14.7 مليون سوم سنويًا في السنتين الأولى والثانية (أسعار 2023/24)."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "uzbekistan",
+   "samarkand"
+  ],
+  "sources": [
+   "https://www.samdu.uz/en/pages/talaba_xorijiy_kontrakt",
+   "https://www.samdu.uz/en/pages/foreign-students",
+   "https://fiep.admission.samdu.uz"
+  ],
+  "verified_at": "2026-11-14"
+ }
+]

@@ -1,0 +1,1111 @@
+[
+ {
+  "id": "university-of-mumbai",
+  "name": {
+   "en": "University of Mumbai",
+   "ka": "მუმბაის უნივერსიტეტი",
+   "ar": "جامعة مومباي"
+  },
+  "iso": "IN",
+  "city": "Mumbai",
+  "lat": 18.929,
+  "lon": 72.833,
+  "type": "public",
+  "website": "https://www.mu.ac.in",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "humanities",
+   "social-sciences",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Arts",
+    "Commerce",
+    "Science"
+   ],
+   "ka": [
+    "ხელოვნება",
+    "კომერცია",
+    "მეცნიერება"
+   ],
+   "ar": [
+    "الآداب",
+    "التجارة",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "A large public affiliating university in Mumbai, India. Official fee and deadline details for international bachelor applicants were not available.",
+   "ka": "მუმბაის დიდი სახელმწიფო უნივერსიტეტი ინდოეთში.",
+   "ar": "جامعة حكومية كبيرة في مومباي بالهند."
+  },
+  "about": {
+   "en": "The University of Mumbai is a public university in Mumbai, India, with many affiliated colleges. International applicants should check the university and the Study in India portal for current rules.",
+   "ka": "მუმბაის უნივერსიტეტი სახელმწიფო უნივერსიტეტია მუმბაიში, ინდოეთში, ბევრი აფილირებული კოლეჯით.",
+   "ar": "جامعة مومباي جامعة حكومية في مومباي بالهند وتضم كليات مرتبطة كثيرة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.mu.ac.in"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-nizwa",
+  "name": {
+   "en": "University of Nizwa",
+   "ka": "ნიზვას უნივერსიტეტი",
+   "ar": "جامعة نزوى"
+  },
+  "iso": "OM",
+  "city": "Nizwa",
+  "lat": 22.933,
+  "lon": 57.533,
+  "type": "private",
+  "website": "https://www.unizwa.edu.om",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "engineering",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Pharmacy"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "ფარმაცია"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "الصيدلة"
+   ]
+  },
+  "summary": {
+   "en": "A private university in Nizwa, Oman. Admissions pages could not be read, so fees and deadlines are not listed.",
+   "ka": "კერძო უნივერსიტეტი ნიზვაში, ომანში.",
+   "ar": "جامعة خاصة في نزوى بسلطنة عُمان."
+  },
+  "about": {
+   "en": "The University of Nizwa is a private university in Nizwa, Oman, teaching in Arabic and English. Check its admission office for international bachelor rules.",
+   "ka": "ნიზვას უნივერსიტეტი კერძო უნივერსიტეტია ომანში; სწავლება ხდება არაბულად და ინგლისურად.",
+   "ar": "جامعة نزوى جامعة خاصة في سلطنة عُمان تدرّس بالعربية والإنجليزية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.unizwa.edu.om"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "worcester-polytechnic-institute",
+  "name": {
+   "en": "Worcester Polytechnic Institute",
+   "ka": "ვორსესტერის პოლიტექნიკური ინსტიტუტი",
+   "ar": "معهد ووستر للفنون التطبيقية"
+  },
+  "iso": "US",
+  "city": "Worcester",
+  "lat": 42.274,
+  "lon": -71.808,
+  "type": "private",
+  "website": "https://www.wpi.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": "2027-01-05",
+  "deadline_note": "WPI lists three undergraduate rounds on its admissions page: Nov 1, Jan 5 and Feb 1. Year not stated on the page; check the page for the 2027 intake.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 7000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Robotics",
+    "Computer Science",
+    "Engineering"
+   ],
+   "ka": [
+    "რობოტიკა",
+    "კომპიუტერული მეცნიერება",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "الروبوتات",
+    "علوم الحاسوب",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "A private STEM university in Worcester, Massachusetts, known for project-based learning. Undergraduate rounds are due Nov 1, Jan 5 and Feb 1.",
+   "ka": "კერძო STEM უნივერსიტეტი ვორსესტერში, მასაჩუსეტსი. განაცხადის ვადებია 1 ნოემბერი, 5 იანვარი, 1 თებერვალი.",
+   "ar": "جامعة خاصة متخصصة في العلوم والتقنية في ووستر بماساتشوستس، مواعيد التقديم 1 نوفمبر و5 يناير و1 فبراير."
+  },
+  "about": {
+   "en": "WPI is a private STEM-focused university in Worcester, Massachusetts, with over 70 degree and certificate programmes and a project-based curriculum. First-year applicants apply in three rounds. First-year financial aid uses FAFSA and the CSS Profile.",
+   "ka": "WPI კერძო STEM უნივერსიტეტია ვორსესტერში, მასაჩუსეტსი, 70-ზე მეტი პროგრამით. განაცხადი სამ რაუნდად მიიღება.",
+   "ar": "WPI جامعة خاصة متخصصة في العلوم والتقنية في ووستر، تقدم أكثر من 70 برنامجاً وتعتمد التعلم القائم على المشاريع، ويتم التقديم على ثلاث دفعات."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.wpi.edu/admissions"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "yarmouk-university",
+  "name": {
+   "en": "Yarmouk University",
+   "ka": "იარმუქის უნივერსიტეტი",
+   "ar": "جامعة اليرموك"
+  },
+  "iso": "JO",
+  "city": "Irbid",
+  "lat": 32.54,
+  "lon": 35.977,
+  "type": "public",
+  "website": "https://www.yu.edu.jo",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "humanities",
+   "natural-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Sciences",
+    "Arts",
+    "Engineering"
+   ],
+   "ka": [
+    "მეცნიერებები",
+    "ხელოვნება",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "العلوم",
+    "الآداب",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Irbid, Jordan. Admission pages could not be read, so fees and deadlines are not listed.",
+   "ka": "სახელმწიფო უნივერსიტეტი ირბიდში, იორდანიაში.",
+   "ar": "جامعة حكومية في إربد بالأردن."
+  },
+  "about": {
+   "en": "Yarmouk University is a public university in Irbid, Jordan. Teaching is mainly in Arabic with some English programmes. Non-Jordanian applicants should contact the admission office.",
+   "ka": "იარმუქის უნივერსიტეტი სახელმწიფო უნივერსიტეტია იორდანიაში; სწავლება ძირითადად არაბულია.",
+   "ar": "جامعة اليرموك جامعة حكومية في إربد، والتدريس فيها بالعربية بشكل رئيسي مع بعض البرامج بالإنجليزية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.yu.edu.jo"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "addis-ababa-university",
+  "name": {
+   "en": "Addis Ababa University",
+   "ka": "ადის-აბების უნივერსიტეტი",
+   "ar": "جامعة أديس أبابا"
+  },
+  "iso": "ET",
+  "city": "Addis Ababa",
+  "lat": 9.04,
+  "lon": 38.763,
+  "type": "public",
+  "website": "https://aau.edu.et",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Sciences",
+    "Social Sciences"
+   ],
+   "ka": [
+    "მედიცინა",
+    "მეცნიერებები",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الطب",
+    "العلوم",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Ethiopia's oldest and largest public university. Fee and deadline details were not available from official pages.",
+   "ka": "ეთიოპიის უძველესი და უდიდესი სახელმწიფო უნივერსიტეტი.",
+   "ar": "أقدم وأكبر جامعة حكومية في إثيوبيا."
+  },
+  "about": {
+   "en": "Addis Ababa University is a public research university in the capital of Ethiopia. Teaching is in English. International applicants should contact the admissions office.",
+   "ka": "ადის-აბების უნივერსიტეტი სახელმწიფო საკვლევი უნივერსიტეტია ეთიოპიის დედაქალაქში; სწავლება ინგლისურია.",
+   "ar": "جامعة أديس أبابا جامعة بحثية حكومية في العاصمة الإثيوبية، والتدريس فيها بالإنجليزية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://aau.edu.et"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "azerbaijan-university-of-architecture-and-construction-azuac",
+  "name": {
+   "en": "Azerbaijan University of Architecture and Construction (AzUAC)",
+   "ka": "აზერბაიჯანის არქიტექტურისა და მშენებლობის უნივერსიტეტი",
+   "ar": "جامعة أذربيجان للهندسة المعمارية والإنشاءات"
+  },
+  "iso": "AZ",
+  "city": "Baku",
+  "lat": 40.384,
+  "lon": 49.835,
+  "type": "public",
+  "website": "https://www.azmiu.edu.az",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Azerbaijani",
+   "Russian"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Architecture",
+    "Civil Engineering",
+    "Construction"
+   ],
+   "ka": [
+    "არქიტექტურა",
+    "სამოქალაქო ინჟინერია",
+    "მშენებლობა"
+   ],
+   "ar": [
+    "العمارة",
+    "الهندسة المدنية",
+    "الإنشاءات"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Baku for architecture and construction. Its site blocked automated reading, so admissions details are not listed.",
+   "ka": "სახელმწიფო უნივერსიტეტი ბაქოში არქიტექტურისა და მშენებლობისთვის.",
+   "ar": "جامعة حكومية في باكو متخصصة في العمارة والإنشاءات."
+  },
+  "about": {
+   "en": "AzUAC is a public university in Baku focused on architecture, construction and related engineering. Teaching is mainly in Azerbaijani. Contact the international office for admission rules.",
+   "ka": "AzUAC სახელმწიფო უნივერსიტეტია ბაქოში, არქიტექტურასა და მშენებლობაზე ორიენტირებული.",
+   "ar": "جامعة حكومية في باكو تركز على العمارة والإنشاءات والهندسة، والتدريس بالأذربيجانية بشكل رئيسي."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.azmiu.edu.az"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "charles-sturt-university",
+  "name": {
+   "en": "Charles Sturt University",
+   "ka": "ჩარლზ სტერტის უნივერსიტეტი",
+   "ar": "جامعة تشارلز ستورت"
+  },
+  "iso": "AU",
+  "city": "Bathurst",
+  "lat": -33.435,
+  "lon": 149.553,
+  "type": "public",
+  "website": "https://csu.edu.au",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "education",
+   "medicine-health",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Agriculture",
+    "Health"
+   ],
+   "ka": [
+    "განათლება",
+    "სოფლის მეურნეობა",
+    "ჯანდაცვა"
+   ],
+   "ar": [
+    "التعليم",
+    "الزراعة",
+    "الصحة"
+   ]
+  },
+  "summary": {
+   "en": "A public university in regional New South Wales, Australia, strong in education, health and agriculture. Fees and dates were not available from readable official pages.",
+   "ka": "სახელმწიფო უნივერსიტეტი ახალ სამხრეთ უელსში, ავსტრალიაში.",
+   "ar": "جامعة حكومية في نيو ساوث ويلز بأستراليا."
+  },
+  "about": {
+   "en": "Charles Sturt University is a public Australian university with campuses in regional New South Wales, including Bathurst, and large online study. Teaching is in English. International applicants should use the CSU international pages and CRICOS for fees.",
+   "ka": "ჩარლზ სტერტის უნივერსიტეტი ავსტრალიური სახელმწიფო უნივერსიტეტია; სწავლება ინგლისურია.",
+   "ar": "جامعة تشارلز ستورت جامعة حكومية أسترالية بحرم في نيو ساوث ويلز ودراسة عبر الإنترنت، والتدريس بالإنجليزية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://csu.edu.au"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "chungbuk-national-university",
+  "name": {
+   "en": "Chungbuk National University",
+   "ka": "ჩუნგბუკის ეროვნული უნივერსიტეტი",
+   "ar": "جامعة تشونغبوك الوطنية"
+  },
+  "iso": "KR",
+  "city": "Cheongju",
+  "lat": 36.629,
+  "lon": 127.456,
+  "type": "public",
+  "website": "https://www.cbnu.ac.kr",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Korean",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Natural Sciences",
+    "Medicine"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "მედიცინა"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم الطبيعية",
+    "الطب"
+   ]
+  },
+  "summary": {
+   "en": "A national university in Cheongju, South Korea. Its admission pages could not be read, so fees and dates are not listed.",
+   "ka": "ეროვნული უნივერსიტეტი ჩონჯუში, სამხრეთ კორეაში.",
+   "ar": "جامعة وطنية في تشيونغجو بكوريا الجنوبية."
+  },
+  "about": {
+   "en": "Chungbuk National University is a public university in Cheongju, South Korea. Most bachelor teaching is in Korean. International applicants should check Study in Korea and the CBNU international office.",
+   "ka": "ჩუნგბუკის ეროვნული უნივერსიტეტი სახელმწიფო უნივერსიტეტია სამხრეთ კორეაში; სწავლება უმეტესად კორეულია.",
+   "ar": "جامعة تشونغبوك الوطنية جامعة حكومية في كوريا الجنوبية، ومعظم التدريس بالكورية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.cbnu.ac.kr"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "clemson-university",
+  "name": {
+   "en": "Clemson University",
+   "ka": "კლემსონის უნივერსიტეტი",
+   "ar": "جامعة كليمسون"
+  },
+  "iso": "US",
+  "city": "Clemson",
+  "lat": 34.683,
+  "lon": -82.837,
+  "type": "public",
+  "website": "https://www.clemson.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 27000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "business",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business",
+    "Agriculture"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი",
+    "სოფლის მეურნეობა"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال",
+    "الزراعة"
+   ]
+  },
+  "summary": {
+   "en": "A public research university in South Carolina, USA. The international undergraduate page could not be read, so deadlines and costs are not listed.",
+   "ka": "სახელმწიფო საკვლევი უნივერსიტეტი სამხრეთ კაროლინაში, აშშ.",
+   "ar": "جامعة بحثية حكومية في ساوث كارولاينا بالولايات المتحدة."
+  },
+  "about": {
+   "en": "Clemson is a public research university in Clemson, South Carolina. Teaching is in English. International first-year applicants apply through the admissions office; see its International Undergraduate page for deadlines and costs.",
+   "ka": "კლემსონი სახელმწიფო საკვლევი უნივერსიტეტია სამხრეთ კაროლინაში; სწავლება ინგლისურია.",
+   "ar": "كليمسون جامعة بحثية حكومية في ساوث كارولاينا، والتدريس بالإنجليزية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.clemson.edu/admissions"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "gulf-university-for-science-and-technology",
+  "name": {
+   "en": "Gulf University for Science and Technology",
+   "ka": "ყურის მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი",
+   "ar": "الجامعة الخليجية للعلوم والتكنولوجيا"
+  },
+  "iso": "KW",
+  "city": "Hawally",
+  "lat": 29.302,
+  "lon": 48.044,
+  "type": "private",
+  "website": "https://www.gust.edu.kw",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "engineering",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Design"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "დიზაინი"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "التصميم"
+   ]
+  },
+  "summary": {
+   "en": "A private English-taught university in Kuwait. The site blocked automated reading, so admissions details are not listed.",
+   "ka": "კერძო ინგლისურენოვანი უნივერსიტეტი ქუვეითში.",
+   "ar": "جامعة خاصة في الكويت بلغة التدريس الإنجليزية."
+  },
+  "about": {
+   "en": "GUST is a private university in Kuwait with English as the language of teaching. Applicants should check the GUST admissions office for current fees and entry rules.",
+   "ka": "GUST კერძო უნივერსიტეტია ქუვეითში; სწავლება ინგლისურად მიმდინარეობს.",
+   "ar": "الجامعة الخليجية للعلوم والتكنولوجيا جامعة خاصة في الكويت ولغة التدريس فيها الإنجليزية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.gust.edu.kw"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "imu-university",
+  "name": {
+   "en": "IMU University",
+   "ka": "IMU უნივერსიტეტი",
+   "ar": "جامعة IMU"
+  },
+  "iso": "MY",
+  "city": "Kuala Lumpur",
+  "lat": 3.056,
+  "lon": 101.7,
+  "type": "private",
+  "website": "https://www.imu.edu.my",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Pharmacy",
+    "Nursing"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ფარმაცია",
+    "საექთნო საქმე"
+   ],
+   "ar": [
+    "الطب",
+    "الصيدلة",
+    "التمريض"
+   ]
+  },
+  "summary": {
+   "en": "A private health-sciences university in Kuala Lumpur, Malaysia. The site blocked automated reading, so admissions details are not listed.",
+   "ka": "კერძო ჯანდაცვის მეცნიერებების უნივერსიტეტი კუალა-ლუმპურში.",
+   "ar": "جامعة خاصة للعلوم الصحية في كوالالمبور بماليزيا."
+  },
+  "about": {
+   "en": "IMU University is a private university in Kuala Lumpur, Malaysia, focused on medicine and health sciences, taught in English. Check IMU and EMGS for international entry rules.",
+   "ka": "IMU კერძო უნივერსიტეტია მალაიზიაში, მედიცინასა და ჯანდაცვაზე ორიენტირებული; სწავლება ინგლისურია.",
+   "ar": "جامعة IMU جامعة خاصة في كوالالمبور متخصصة في الطب والعلوم الصحية بالإنجليزية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.imu.edu.my"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "jouf-university",
+  "name": {
+   "en": "Jouf University",
+   "ka": "ჯოუფის უნივერსიტეტი",
+   "ar": "جامعة الجوف"
+  },
+  "iso": "SA",
+  "city": "Sakaka",
+  "lat": 29.79,
+  "lon": 40.097,
+  "type": "public",
+  "website": "https://www.ju.edu.sa",
+  "platform": "Study in Saudi Arabia portal",
+  "application_url": "https://studyinsaudi.moe.gov.sa/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "No application deadline is stated on the international students guide page; apply through the Study in Saudi Arabia portal.",
+  "tuition_intl": {
+   "amount": 0,
+   "currency": "SAR",
+   "per": "year",
+   "note": "External scholarship covers all educational and living expenses."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A high school certificate or equivalent with a minimum grade of 'Very Good', authenticated by the home country and the Saudi Embassy.",
+   "ka": "საშუალო სკოლის სერტიფიკატი ან ექვივალენტი მინიმუმ 'ძალიან კარგი' ნიშნით, დამოწმებული სამშობლოს ორგანოებისა და საუდის საელჩოს მიერ.",
+   "ar": "شهادة ثانوية أو ما يعادلها بتقدير جيد جداً على الأقل، موثقة من بلد الطالب وسفارة السعودية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Sciences"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "მეცნიერებები"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Sakaka, Saudi Arabia. International bachelor students can apply for a scholarship covering education and living costs.",
+   "ka": "სახელმწიფო უნივერსიტეტი საუდის არაბეთში. უცხოელ ბაკალავრიატის სტუდენტებს შეუძლიათ სტიპენდიაზე განაცხადი.",
+   "ar": "جامعة حكومية في سكاكا بالسعودية، ويمكن للطلاب الدوليين التقديم على منحة تغطي التعليم والمعيشة."
+  },
+  "about": {
+   "en": "Jouf University is a public university in Sakaka, Saudi Arabia. Applicants from outside Saudi Arabia apply for an external scholarship through the Study in Saudi Arabia portal. Admitted students receive housing, a monthly allowance, healthcare and annual travel tickets.",
+   "ka": "ჯოუფის უნივერსიტეტი სახელმწიფო უნივერსიტეტია საუდის არაბეთში. უცხოელები განაცხადს აგზავნიან Study in Saudi Arabia პორტალზე.",
+   "ar": "جامعة الجوف جامعة حكومية في سكاكا. يتقدم الطلاب من خارج السعودية للمنحة الخارجية عبر بوابة ادرس في السعودية، ويحصلون على سكن ومكافأة شهرية ورعاية صحية وتذاكر سفر سنوية."
+  },
+  "aid_intl": {
+   "en": "External scholarship: the university covers education and living costs, housing, a monthly allowance, healthcare and annual travel tickets.",
+   "ka": "გარე სტიპენდია: უნივერსიტეტი ფარავს სწავლისა და ცხოვრების ხარჯებს, საცხოვრებელს, ყოველთვიურ დახმარებას, ჯანდაცვასა და წლიურ ბილეთებს.",
+   "ar": "منحة خارجية: تغطي الجامعة التعليم والمعيشة والسكن ومكافأة شهرية والرعاية الصحية وتذاكر السفر السنوية."
+  },
+  "tests": null,
+  "gpa_note": {
+   "en": "Minimum grade of 'Very Good' on the high school certificate; applicants must be aged 17 to 25 for undergraduate programmes.",
+   "ka": "საშუალო სკოლის სერტიფიკატზე მინიმუმ 'ძალიან კარგი'; ბაკალავრიატისთვის ასაკი 17-დან 25 წლამდე.",
+   "ar": "تقدير جيد جداً على الأقل في الشهادة الثانوية، وعمر المتقدم بين 17 و25 سنة للمرحلة الجامعية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Authenticated high school certificate",
+     "ka": "დამოწმებული საშუალო სკოლის სერტიფიკატი",
+     "ar": "شهادة ثانوية موثقة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Certificate of good conduct",
+     "ka": "კარგი ყოფაქცევის ცნობა",
+     "ar": "شهادة حسن سلوك"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Recommendation or government approval if required",
+     "ka": "რეკომენდაცია ან სახელმწიფო თანხმობა საჭიროების შემთხვევაში",
+     "ar": "توصية أو موافقة حكومية عند الحاجة"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Medical fitness and embassy authentication",
+     "ka": "სამედიცინო ვარგისიანობა და საელჩოს დამოწმება",
+     "ar": "اللياقة الطبية وتوثيق السفارة"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Jouf University external scholarship",
+    "url": "https://ju.edu.sa/en/international-students-guide",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "saudi arabia",
+   "sakaka",
+   "scholarship"
+  ],
+  "sources": [
+   "https://ju.edu.sa/en/international-students-guide"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "macao-polytechnic-university",
+  "name": {
+   "en": "Macao Polytechnic University",
+   "ka": "მაკაოს პოლიტექნიკური უნივერსიტეტი",
+   "ar": "جامعة ماكاو للفنون التطبيقية"
+  },
+  "iso": "MO",
+  "city": "Macao",
+  "lat": 22.193,
+  "lon": 113.549,
+  "type": "public",
+  "website": "https://www.mpu.edu.mo",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Chinese",
+   "Portuguese"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "computer-science",
+   "languages"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Computing",
+    "Translation"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "კომპიუტინგი",
+    "თარგმანი"
+   ],
+   "ar": [
+    "الأعمال",
+    "الحوسبة",
+    "الترجمة"
+   ]
+  },
+  "summary": {
+   "en": "A public polytechnic university in Macao. Admission pages redirected and could not be read, so fees and dates are not listed.",
+   "ka": "სახელმწიფო პოლიტექნიკური უნივერსიტეტი მაკაოში.",
+   "ar": "جامعة حكومية للفنون التطبيقية في ماكاو."
+  },
+  "about": {
+   "en": "Macao Polytechnic University is a public university in Macao with applied programmes taught in Chinese, English and Portuguese. Non-local applicants should check the MPU admissions office.",
+   "ka": "მაკაოს პოლიტექნიკური უნივერსიტეტი სახელმწიფო უნივერსიტეტია მაკაოში.",
+   "ar": "جامعة ماكاو للفنون التطبيقية جامعة حكومية تقدم برامج تطبيقية بالصينية والإنجليزية والبرتغالية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.mpu.edu.mo"
+  ],
+  "verified_at": "2026-11-14"
+ }
+]

@@ -10,7 +10,7 @@
   var selectedId = null;
   var section = 'project';
 
-  var filters = { type: 'all', region: 'all', cost: 'all', host: 'all', q: '', country: null, field: 'all' };
+  var filters = { type: 'all', region: 'all', cost: 'all', host: 'all', q: '', country: null, field: 'all', state: null };
 
   /* Category chips per section */
   var TYPES = {
@@ -23,6 +23,8 @@
       uwc: { en: 'UWC programmes', ka: 'UWC პროგრამები', ar: 'برامج UWC' },
       summer: { en: 'Summer schools', ka: 'საზაფხულო სკოლები', ar: 'المدارس الصيفية' },
       competition: { en: 'Competitions', ka: 'კონკურსები', ar: 'المسابقات' },
+      olympiad: { en: 'Olympiads', ka: 'ოლიმპიადები', ar: 'الأولمبيادات' },
+      research: { en: 'Research opportunities', ka: 'კვლევითი შესაძლებლობები', ar: 'فرص البحث' },
       startup: { en: 'Entrepreneurship & startups', ka: 'მეწარმეობა და სტარტაპები', ar: 'ريادة الأعمال والشركات الناشئة' },
       youth: { en: 'Youth projects', ka: 'ახალგაზრდული პროექტები', ar: 'مشاريع الشباب' },
       volunteering: { en: 'Volunteering', ka: 'მოხალისეობა', ar: 'التطوع' },
@@ -36,9 +38,18 @@
       phd: { en: 'PhD', ka: 'დოქტორანტურა', ar: 'الدكتوراه' },
       erasmus: { en: 'Erasmus Mundus', ka: 'Erasmus Mundus', ar: 'إيراسموس موندوس' },
       'fully-funded': { en: 'Fully funded', ka: 'სრულად დაფინანსებული', ar: 'ممولة بالكامل' }
+    },
+    internship: {
+      all: { en: 'All internships', ka: 'ყველა სტაჟირება', ar: 'كل التدريبات' },
+      paid: { en: 'Paid', ka: 'ანაზღაურებადი', ar: 'مدفوعة' },
+      'high-school': { en: 'For high-school students', ka: 'სკოლის მოსწავლეებისთვის', ar: 'لطلاب المدارس' },
+      bachelor: { en: 'For university students', ka: 'სტუდენტებისთვის', ar: 'لطلاب الجامعات' },
+      graduate: { en: 'For graduates', ka: 'კურსდამთავრებულებისთვის', ar: 'للخريجين' },
+      research: { en: 'Research', ka: 'კვლევითი', ar: 'بحثية' },
+      remote: { en: 'Remote', ka: 'დისტანციური', ar: 'عن بُعد' }
     }
   };
-  var TYPE_ICONS = { all: 'globe', uwc: 'cap', erasmus: 'star', flex: 'send', exchange: 'send', summer: 'zap', mun: 'globe',
+  var TYPE_ICONS = { olympiad: 'award', research: 'search', paid: 'trending', 'high-school': 'book', graduate: 'cap', remote: 'globe', all: 'globe', uwc: 'cap', erasmus: 'star', flex: 'send', exchange: 'send', summer: 'zap', mun: 'globe',
     youth: 'users', startup: 'trending', competition: 'award', volunteering: 'heart', stem: 'zap', training: 'book',
     bachelor: 'cap', masters: 'book',
     phd: 'building', 'fully-funded': 'shield' };
@@ -56,6 +67,8 @@
     startup: { en: 'Startup', ka: 'სტარტაპი', ar: 'شركة ناشئة' },
     youth: { en: 'Youth', ka: 'ახალგაზრდული', ar: 'شباب' },
     uwc: { en: 'UWC', ka: 'UWC', ar: 'UWC' },
+    olympiad: { en: 'Olympiad', ka: 'ოლიმპიადა', ar: 'أولمبياد' },
+    internship: { en: 'Internship', ka: 'სტაჟირება', ar: 'تدريب' },
     scholarship: { en: 'Scholarship', ka: 'სტიპენდია', ar: 'منحة' },
     university: { en: 'Scholarship', ka: 'სტიპენდია', ar: 'منحة' }
   };
@@ -111,6 +124,15 @@
     'MZ PK TR CL ZM MM AF SS SO CF UA MG BW KE FR YE TH ES TM CM PG SE UZ MA IQ PY ZW JP DE CG FI VN MY NO CI PL ' +
     'OM IT PH EC BF NZ GA GN GB UG GH RO').split(' ');
 
+  /* internships say whether they pay; everything else uses the funding label */
+  function costLabel(program) {
+    if (program.section === 'internship') {
+      if (program.paid === true || (program.paid !== false && program.cost === 'funded')) return M.t('programs.paid');
+      if (program.paid === false) return M.t('programs.unpaid');
+    }
+    return label(COSTS, program.cost);
+  }
+
   function label(table, key) {
     var entry = table[key];
     return entry ? M.pick(entry) : key;
@@ -160,9 +182,38 @@
       (program.keywords || []).join(' '), program.family === 'mun' ? 'model united nations' : ''].join(' '));
   }
 
+  /* Olympiads are competitions with their own chip; research covers labs,
+     research internships and summer research programmes */
+  function isOlympiad(program) {
+    if (program._olymp === undefined) {
+      program._olymp = program.family === 'competition' &&
+        /olympiad|olimpiad|olympics of|ოლიმპიად|أولمبياد/i.test([program.name.en, program.type, (program.keywords || []).join(' ')].join(' '));
+    }
+    return program._olymp;
+  }
+  function isResearch(program) {
+    if (program._research === undefined) {
+      program._research = /\bresearch\b|\bsurf\b|laborator|\blab\b|scientist/i.test([program.name.en, program.type, (program.keywords || []).join(' ')].join(' '));
+    }
+    return program._research;
+  }
+
   // FLEX is an exchange programme too: it also shows under "Exchange"
   function familyIn(program, key) {
+    if (key === 'olympiad') return isOlympiad(program);
+    if (key === 'research') return isResearch(program);
+    if (key === 'competition') return program.family === 'competition' && !isOlympiad(program);
     return program.family === key || (key === 'exchange' && program.family === 'flex');
+  }
+
+  /* internship chips: pay, who can apply, remote */
+  function internshipIn(program, key) {
+    if (key === 'paid') return program.paid === true || program.cost === 'funded';
+    if (key === 'remote') return program.remote === true;
+    if (key === 'research') return isResearch(program);
+    var levels = program.level || [];
+    if (key === 'bachelor') return levels.indexOf('bachelor') !== -1 || levels.indexOf('master') !== -1;
+    return levels.indexOf(key) !== -1;
   }
 
   function inSection(program) {
@@ -173,8 +224,10 @@
     if (!inSection(program)) return false;
     if (filters.country && program.iso !== filters.country) return false;
     if (filters.host !== 'all' && program.iso !== filters.host) return false;
+    if (filters.state && (program.iso !== 'US' || stateOf(program) !== filters.state)) return false;
     if (filters.type !== 'all') {
       if (section === 'project' && !familyIn(program, filters.type)) return false;
+      if (section === 'internship' && !internshipIn(program, filters.type)) return false;
       if (section === 'scholarship') {
         if (filters.type === 'erasmus' && program.family !== 'erasmus') return false;
         if (filters.type === 'fully-funded' && program.cost !== 'fully-funded') return false;
@@ -186,6 +239,12 @@
     if (filters.field !== 'all' && fieldsFor(program).indexOf(filters.field) === -1) return false;
     if (filters.q && !queryMatches(program, filters.q)) return false;
     return true;
+  }
+
+  /* the US state a programme is in, from its coordinates and the globe's state borders */
+  function stateOf(program) {
+    if (program.__state === undefined && globe && globe.stateAt) program.__state = globe.stateAt(program.lat, program.lon);
+    return program.__state || null;
   }
 
   function visible() {
@@ -210,8 +269,9 @@
         count.textContent = all.filter(function (p) { return (p.section || 'project') === key; }).length;
       }
     });
-    document.getElementById('programsTitle').textContent = M.t(section === 'scholarship' ? 'programs.s.title' : 'programs.p.title');
-    document.getElementById('programsLede').textContent = M.t(section === 'scholarship' ? 'programs.s.lede' : 'programs.p.lede');
+    var key = section === 'scholarship' ? 's' : section === 'internship' ? 'i' : 'p';
+    document.getElementById('programsTitle').textContent = M.t('programs.' + key + '.title');
+    document.getElementById('programsLede').textContent = M.t('programs.' + key + '.lede');
   }
 
   function chipCount(key) {
@@ -219,6 +279,7 @@
       if (!inSection(p)) return false;
       if (key === 'all') return true;
       if (section === 'project') return familyIn(p, key);
+      if (section === 'internship') return internshipIn(p, key);
       if (key === 'erasmus') return p.family === 'erasmus';
       if (key === 'fully-funded') return p.cost === 'fully-funded';
       return levelOf(p).indexOf(key) !== -1;
@@ -371,7 +432,7 @@
     var byKind = {}, byCountry = {}, out = [];
     list.forEach(function (p) {
       if (out.length >= 10) return;
-      var kind = p.family === 'scholarship' ? p.org : p.family;
+      var kind = p.family === 'scholarship' || p.family === 'internship' ? p.org : p.family;
       if ((byKind[kind] || 0) >= 2 || (byCountry[p.iso] || 0) >= 2) return;
       byKind[kind] = (byKind[kind] || 0) + 1;
       byCountry[p.iso] = (byCountry[p.iso] || 0) + 1;
@@ -436,7 +497,7 @@
           '<span class="badge badge-brand">' + M.esc(familyLabel(program)) + '</span></span>' +
         '<b class="hl-name">' + M.esc(M.pick(program.name)) + '</b>' +
         '<span class="hl-org">' + M.esc(program.org) + ' · ' + M.esc(M.pick(program.country)) + '</span>' +
-        '<span class="hl-foot">' + when + '<span class="hl-cost">' + M.esc(label(COSTS, program.cost)) + '</span></span>' +
+        '<span class="hl-foot">' + when + '<span class="hl-cost">' + M.esc(costLabel(program)) + '</span></span>' +
       '</a>';
     }).join('');
   }
@@ -504,7 +565,7 @@
       ['programs.deadline', program.deadline ? M.formatDate(program.deadline) : M.t('programs.rolling')],
       ['programs.duration', M.pick(program.duration)],
       ['programs.level', program.grades],
-      ['programs.cost', label(COSTS, program.cost)],
+      ['programs.cost', costLabel(program)],
       ['programs.host', program.org]
     ].map(function (row) {
       return '<div class="detail-row"><dt>' + M.t(row[0]) + '</dt><dd>' + M.esc(row[1] || '—') + '</dd></div>';
@@ -544,6 +605,7 @@
     if (iso) {
       var any = all.filter(function (p) { return p.iso === iso; })[0];
       bits.push(flagOf(iso) + ' ' + (any ? M.pick(any.country) : iso));
+      if (filters.state) bits.push(filters.state);
     }
     if (filters.type !== 'all') bits.push(label(TYPES[section], filters.type));
     if (filters.region !== 'all') bits.push(label(REGIONS, filters.region));
@@ -635,7 +697,7 @@
   function syncUrl() {
     var url = new URL(window.location.href);
     [['type', filters.type, 'all'], ['host', filters.host, 'all'], ['region', filters.region, 'all'],
-     ['cost', filters.cost, 'all'], ['field', filters.field, 'all'], ['q', filters.q, ''], ['c', filters.country || '', '']].forEach(function (entry) {
+     ['cost', filters.cost, 'all'], ['field', filters.field, 'all'], ['q', filters.q, ''], ['c', filters.country || '', ''], ['st', filters.state || '', '']].forEach(function (entry) {
       if (entry[1] && entry[1] !== entry[2]) url.searchParams.set(entry[0], entry[1]); else url.searchParams.delete(entry[0]);
     });
     if (url.href !== window.location.href) window.history.replaceState({}, '', url);
@@ -667,14 +729,49 @@
     var local = props.name && props.name[M.state.lang] && M.state.lang !== 'en' ? props.name[M.state.lang] + ' · ' : '';
     document.getElementById('countryChipNote').textContent = local + status + (props.note ? ' · ' + props.note : '');
     chip.hidden = false;
+    filters.state = null;
+    paintStates(iso);
+    if (globe) { globe.selectState(null); globe.flyToCountry(iso); }
     var hasPrograms = all.some(function (p) { return p.iso === iso && inSection(p); });
     if (!hasPrograms) M.toast(name + ' — ' + M.t('programs.noneHere'), 'info', 2400);
     if (selectedId) deselect(); else refresh();
   }
 
+  /* USA: a state filter inside the country chip, with programme counts */
+  function paintStates(iso) {
+    var select = document.getElementById('stateSelect');
+    if (!select) return;
+    if (iso !== 'US' || !globe || !globe.states) { select.hidden = true; return; }
+    globe.states().then(function (names) {
+      if (filters.country !== 'US') return;
+      var counts = {};
+      all.forEach(function (p) {
+        if (p.iso !== 'US' || !inSection(p)) return;
+        var st = stateOf(p);
+        if (st) counts[st] = (counts[st] || 0) + 1;
+      });
+      select.innerHTML = '<option value="">' + M.esc(M.t('programs.state.all')) + '</option>' +
+        names.filter(function (n) { return counts[n]; }).sort().map(function (n) {
+          return '<option value="' + M.esc(n) + '"' + (filters.state === n ? ' selected' : '') + '>' + M.esc(n) + ' (' + counts[n] + ')</option>';
+        }).join('');
+      select.hidden = false;
+    });
+  }
+
+  function setState(name) {
+    filters.state = name || null;
+    if (globe) {
+      globe.selectState(filters.state);
+      if (!filters.state) globe.flyToCountry('US');
+    }
+    if (selectedId) deselect(); else refresh();
+  }
+
   function clearCountry() {
     filters.country = null;
-    if (globe) globe.selectCountry(null);
+    filters.state = null;
+    paintStates(null);
+    if (globe) { globe.selectCountry(null); globe.selectState(null); }
     document.getElementById('countryChip').hidden = true;
     refresh();
   }
@@ -695,6 +792,8 @@
     document.getElementById('zoomIn').addEventListener('click', function () { globe.zoomBy(0.75); });
     document.getElementById('zoomOut').addEventListener('click', function () { globe.zoomBy(1.3); });
     document.getElementById('countryClear').addEventListener('click', clearCountry);
+    var stateSelect = document.getElementById('stateSelect');
+    if (stateSelect) stateSelect.addEventListener('change', function () { setState(stateSelect.value); });
   }
 
   function switchSection(next) {
@@ -705,7 +804,7 @@
     selectedId = null;
     if (globe) globe.select(null);
     var url = new URL(window.location.href);
-    url.searchParams.set('s', next === 'scholarship' ? 'scholarships' : 'projects');
+    url.searchParams.set('s', next === 'scholarship' ? 'scholarships' : next === 'internship' ? 'internships' : 'projects');
     url.searchParams.delete('p');
     window.history.replaceState({}, '', url);
     paintSections(); paintChips(); paintHosts(); paintStrip();
@@ -727,7 +826,8 @@
 
   function init() {
     var params = new URLSearchParams(window.location.search);
-    section = /^scholar/.test(params.get('s') || '') || /scholarships/.test(window.location.pathname) ? 'scholarship' : 'project';
+    section = /^scholar/.test(params.get('s') || '') || /scholarships/.test(window.location.pathname) ? 'scholarship'
+      : /^intern/.test(params.get('s') || '') || /internships/.test(window.location.pathname) ? 'internship' : 'project';
     var type = params.get('type');
     if (type) filters.type = type;
     ['host', 'region', 'cost', 'field'].forEach(function (key) { if (params.get(key)) filters[key] = params.get(key); });
@@ -771,7 +871,7 @@
       });
     });
     document.getElementById('resetFilters').addEventListener('click', function () {
-      filters = { type: 'all', region: 'all', cost: 'all', host: 'all', q: '', country: null, field: 'all' };
+      filters = { type: 'all', region: 'all', cost: 'all', host: 'all', q: '', country: null, field: 'all', state: null };
       if (globe) globe.selectCountry(null);
       document.getElementById('countryChip').hidden = true;
       if (searchInput) searchInput.value = '';
@@ -791,6 +891,8 @@
       var c = params.get('c');
       var inC = c && all.filter(function (p) { return p.iso === c; })[0];
       if (inC) setCountry(c, M.pick(inC.country)); else refresh();
+      var st = params.get('st');
+      if (inC && c === 'US' && st && globe) globe.states().then(function () { setState(st); paintStates('US'); });
       var wanted = params.get('p');
       if (wanted) select(wanted, true);
     });

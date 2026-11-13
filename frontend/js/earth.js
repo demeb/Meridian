@@ -32,6 +32,17 @@
     return countriesPromise;
   }
 
+  var statesPromise = null;
+  function loadStates() {
+    if (!statesPromise) {
+      statesPromise = fetch('/assets/us-states.geojson?v=1')
+        .then(function (r) { return r.json(); })
+        .then(function (d) { return d.features || []; })
+        .catch(function () { return []; });
+    }
+    return statesPromise;
+  }
+
   function theme() {
     return document.documentElement.getAttribute('data-theme') === 'light' ? 'light' : 'dark';
   }
@@ -256,7 +267,7 @@
     var paper = document.createElement('canvas');
     paper.width = 4096;
     paper.height = 2048;
-    var baseImage = null, features = [], paintTimer = null;
+    var baseImage = null, features = [], states = [], paintTimer = null;
     loadImage(TEX.day).then(function (img) { baseImage = img; paintMap(); }).catch(function () {});
 
     function trace(ctx, f) {
@@ -289,6 +300,10 @@
         ctx.lineWidth = 1.6;
         ctx.stroke();
       });
+      // US state lines, thinner than country borders
+      ctx.strokeStyle = 'rgba(255, 255, 255, 0.3)';
+      ctx.lineWidth = 1.1;
+      states.forEach(function (f) { trace(ctx, f); ctx.stroke(); });
       if (material.map.image !== paper) {
         material.map.image = paper;
         material.map.anisotropy = globe.renderer().capabilities.getMaxAnisotropy();
@@ -310,9 +325,10 @@
       }
       return inside;
     }
-    function countryAt(lat, lng) {
-      for (var k = 0; k < features.length; k++) {
-        var f = features[k], b = f.__box;
+    function countryAt(lat, lng) { return featureAt(features, lat, lng); }
+    function featureAt(list, lat, lng) {
+      for (var k = 0; k < list.length; k++) {
+        var f = list[k], b = f.__box;
         if (!b || lng < b[0] || lng > b[2] || lat < b[1] || lat > b[3]) continue;
         var g = f.geometry;
         var polys = g.type === 'Polygon' ? [g.coordinates] : g.coordinates;
@@ -335,28 +351,54 @@
       return box;
     }
 
-    var state = { hover: null, selected: null, selectedCountry: null, counts: {}, points: [], pins: {} };
+    var state = { hover: null, selected: null, selectedCountry: null, selectedState: null, counts: {}, points: [], pins: {} };
     var lang = function () { return (window.M && M.state.lang) || 'en'; };
     var nameOf = function (f) { var n = f.properties.name || {}; return n[lang()] || n.en || ''; };
     var isSel = function (f) { return f.properties.iso && f.properties.iso === state.selectedCountry; };
 
+    // A light copy of a country for the raised 3D shape. Canada, Russia and the
+    // USA have 6,000-11,000 border points and 100+ islands: turning those into
+    // a 3D mesh on every hover froze the page. The texture keeps the full detail;
+    // the raised shape keeps the 10 biggest islands and at most ~260 points a ring.
+    function lite(f) {
+      if (f.__lite) return f.__lite;
+      var g = f.geometry || {};
+      var polys = g.type === 'Polygon' ? [g.coordinates] : g.type === 'MultiPolygon' ? g.coordinates : [];
+      var sized = polys.map(function (rings) {
+        var b = boxOf({ geometry: { type: 'Polygon', coordinates: rings } });
+        return { ring: rings[0], area: (b[2] - b[0]) * (b[3] - b[1]) };
+      }).sort(function (a, b) { return b.area - a.area; });
+      var biggest = sized.length ? sized[0].area : 0;
+      var kept = sized.filter(function (p, i) { return i < 10 && p.area >= biggest * 0.004; }).map(function (p) {
+        var ring = p.ring, step = Math.max(1, Math.ceil(ring.length / 260));
+        var out = ring.filter(function (pt, i) { return i % step === 0; });
+        if (out.length < 4) out = ring;
+        else if (out[out.length - 1] !== ring[ring.length - 1]) out.push(ring[ring.length - 1]);
+        return [out];
+      });
+      f.__lite = { type: 'Feature', properties: f.properties, src: f, geometry: { type: 'MultiPolygon', coordinates: kept } };
+      return f.__lite;
+    }
+    var hovered = function (d) { return d.src === state.hover; };
+
     // only the hovered and the chosen country are 3D shapes (rise and glow)
     function repaintPolygons() {
       var raised = [];
-      if (state.selectedCountry) {
-        features.forEach(function (f) { if (isSel(f)) raised.push(f); });
+      if (state.selectedCountry && !state.selectedState) {
+        features.forEach(function (f) { if (isSel(f)) raised.push(lite(f)); });
       }
-      if (state.hover && raised.indexOf(state.hover) === -1) raised.push(state.hover);
+      if (state.selectedState) raised.push(lite(state.selectedState));
+      if (state.hover && !raised.some(hovered)) raised.push(lite(state.hover));
       globe.polygonsData(raised);
     }
     globe
       .atmosphereColor('#8cc8ff')
-      .polygonCapCurvatureResolution(3)
+      .polygonCapCurvatureResolution(4)
       .polygonsTransitionDuration(220)
-      .polygonCapColor(function (f) { return f === state.hover ? 'rgba(140, 200, 255, 0.36)' : 'rgba(255, 215, 110, 0.34)'; })
-      .polygonSideColor(function (f) { return f === state.hover ? 'rgba(140, 200, 255, 0.28)' : 'rgba(255, 215, 110, 0.26)'; })
-      .polygonStrokeColor(function (f) { return f === state.hover ? 'rgba(255, 255, 255, 0.95)' : '#ffd76e'; })
-      .polygonAltitude(function (f) { return f === state.hover ? 0.014 : 0.01; })
+      .polygonCapColor(function (f) { return hovered(f) ? 'rgba(140, 200, 255, 0.36)' : f.src === state.selectedState ? 'rgba(255, 215, 110, 0.5)' : 'rgba(255, 215, 110, 0.34)'; })
+      .polygonSideColor(function (f) { return hovered(f) ? 'rgba(140, 200, 255, 0.28)' : 'rgba(255, 215, 110, 0.26)'; })
+      .polygonStrokeColor(function (f) { return hovered(f) ? 'rgba(255, 255, 255, 0.95)' : '#ffd76e'; })
+      .polygonAltitude(function (f) { return hovered(f) ? 0.014 : f.src === state.selectedState ? 0.018 : 0.01; })
       .polygonLabel(function (f) {
         var p = f.properties;
         var count = state.counts[p.iso] || 0;
@@ -405,6 +447,21 @@
       paintMap();
       repaintPolygons();
     });
+    loadStates().then(function (list) {
+      list.forEach(function (f) { f.__box = boxOf(f); });
+      states = list;
+      repaintSoon();
+    });
+
+    // fly so the whole country (its biggest landmass) fills the view
+    function flyToFeature(f) {
+      var main = lite(f).geometry.coordinates[0];
+      if (!main) return;
+      var b = boxOf({ geometry: { type: 'Polygon', coordinates: main } });
+      var span = Math.max(b[2] - b[0], (b[3] - b[1]) * 1.4);
+      var alt = Math.max(0.35, Math.min(2.2, span / 46));
+      globe.pointOfView({ lat: (b[1] + b[3]) / 2, lng: (b[0] + b[2]) / 2, altitude: alt }, reducedMotion() ? 0 : 1100);
+    }
 
     /* ---- HTML pins: a crisp dot with a soft halo, not 3D cylinders ---- */
     function pinClass(p) {
@@ -458,6 +515,22 @@
       state.selectedCountry = iso || null;
       controls.autoRotate = !iso && !state.selected && !reducedMotion();
       repaintPolygons();
+    };
+    api.flyToCountry = function (iso) {
+      var f = features.filter(function (x) { return x.properties.iso === iso; })[0];
+      if (f) flyToFeature(f);
+    };
+    api.states = function () {
+      return loadStates().then(function () { return states.map(function (f) { return f.properties.name; }); });
+    };
+    api.stateAt = function (lat, lng) {
+      var f = states.length ? featureAt(states, lat, lng) : null;
+      return f ? f.properties.name : null;
+    };
+    api.selectState = function (name) {
+      state.selectedState = states.filter(function (f) { return f.properties.name === name; })[0] || null;
+      repaintPolygons();
+      if (state.selectedState) flyToFeature(state.selectedState);
     };
     api.flyTo = function (lat, lng, alt) {
       globe.pointOfView({ lat: lat, lng: lng, altitude: alt || 1.55 }, reducedMotion() ? 0 : 1200);

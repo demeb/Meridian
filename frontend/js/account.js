@@ -26,14 +26,35 @@
       days + ' ' + M.t('home.rail.days') + '</span>';
   }
 
+  /* tracker cards fold to one line; the open ones are remembered per browser */
+  var OPEN_KEY = 'meridian.openApps';
+  var openApps = (function () {
+    try { return JSON.parse(localStorage.getItem(OPEN_KEY)) || {}; } catch (e) { return {}; }
+  })();
+
+  function isOpen(app) { return !!openApps[app.id]; }
+
+  function setOpen(id, open) {
+    if (open) openApps[id] = 1; else delete openApps[id];
+    try { localStorage.setItem(OPEN_KEY, JSON.stringify(openApps)); } catch (e) {}
+  }
+
+  function foldButton(app, summary) {
+    return '<button type="button" class="app-fold" data-fold aria-expanded="' + isOpen(app) + '">' +
+      '<span class="app-sum">' + summary + '</span>' + M.icon('chevronDown', 18) + '</button>';
+  }
+
   function programApp(app) {
     var item = app.item || {};
-    return '<article class="app-card" data-app="' + app.id + '">' +
+    var done = app.checklist.filter(function (c) { return c.done; }).length;
+    return '<article class="app-card' + (isOpen(app) ? ' is-open' : '') + '" data-app="' + app.id + '">' +
       '<div class="app-head">' +
         '<span class="app-flag">' + (item.flag || '') + '</span>' +
         '<a class="app-title" href="' + M.esc(item.url || '#') + '">' + M.esc(itemName(app)) + '</a>' +
         countdownBadge(item.deadline) +
+        foldButton(app, M.t('app.stage.' + app.stage) + ' · ' + done + '/' + app.checklist.length) +
       '</div>' +
+      '<div class="app-body">' +
       '<div class="stage-bar">' + PROGRAM_STAGES.map(function (s, i) {
         var on = PROGRAM_STAGES.indexOf(app.stage) >= i;
         return '<button type="button" class="stage-step' + (on ? ' is-on' : '') + (s === app.stage ? ' is-current' : '') +
@@ -44,6 +65,7 @@
           M.esc(M.pick(c.label)) + '</span></label>';
       }).join('') + '</div>' +
       '<button type="button" class="btn-link app-remove" data-remove>' + M.t('app.remove') + '</button>' +
+      '</div>' +
     '</article>';
   }
 
@@ -70,12 +92,14 @@
           '</span>') +
       '</div>';
     }).join('');
-    return '<article class="app-card app-uni" data-app="' + app.id + '">' +
+    return '<article class="app-card app-uni' + (isOpen(app) ? ' is-open' : '') + '" data-app="' + app.id + '">' +
       '<div class="app-head">' +
         '<span class="app-flag">' + (item.flag || '') + '</span>' +
         '<a class="app-title" href="' + M.esc(item.url || '#') + '">' + M.esc(itemName(app)) + '</a>' +
         '<span class="badge ' + (locked ? 'badge-brand' : '') + '">' + M.t('app.stage.' + app.stage) + '</span>' +
+        foldButton(app, p.done + '/' + p.total) +
       '</div>' +
+      '<div class="app-body">' +
       '<div class="app-meta"><span>' + M.t('uni.deadline') + ': ' + (item.deadline ? M.formatDate(item.deadline) : '—') + '</span>' +
         countdownBadge(item.deadline) + '<span>' + p.done + ' / ' + p.total + ' ' + M.t('uni.itemsDone') + '</span></div>' +
       '<div class="progress-line"><i style="width:' + pct + '%"></i></div>' +
@@ -86,6 +110,7 @@
           '<button type="button" class="btn btn-primary" data-submit' + (p.done < p.total ? ' disabled' : '') + '>' +
             M.icon('send', 16) + M.t('app.submit') + '</button>' +
         '</div>') +
+      '</div>' +
     '</article>';
   }
 
@@ -115,6 +140,13 @@
   function bindApplications(host) {
     host.querySelectorAll('[data-app]').forEach(function (card) {
       var id = +card.getAttribute('data-app');
+      var fold = card.querySelector('[data-fold]');
+      if (fold) fold.addEventListener('click', function () {
+        var open = !card.classList.contains('is-open');
+        card.classList.toggle('is-open', open);
+        fold.setAttribute('aria-expanded', String(open));
+        setOpen(id, open);
+      });
       card.querySelectorAll('[data-stage]').forEach(function (b) {
         b.addEventListener('click', function () {
           M.api('/api/applications/' + id, { method: 'PATCH', body: { stage: b.getAttribute('data-stage') } })
@@ -246,8 +278,12 @@
     return '<section class="card card-pad-lg">' +
       '<div class="spread" style="margin-bottom:1.2rem">' +
         '<h2 style="font-size:var(--step-1)">' + M.t('account.saved') + '</h2>' +
-        '<span class="badge">' + list.length + '</span>' +
-      '</div>' + body +
+        '<span class="cluster" style="gap:.6rem"><span class="badge">' + list.length + '</span>' +
+        (list.length ? '<a class="btn btn-primary btn-sm" href="/api/saved/programs.xlsx?lang=' + M.state.lang + '" download>' +
+          M.icon('download', 16) + '<span>' + M.t('account.excel') + '</span></a>' : '') + '</span>' +
+      '</div>' +
+      (list.length ? '<p class="muted" style="font-size:.86rem;margin:-.4rem 0 1rem">' + M.t('account.excelProgramsNote') + '</p>' : '') +
+      body +
     '</section>' + savedUniversitiesSection();
   }
 

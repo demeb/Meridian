@@ -40,7 +40,7 @@ FIELDS = {"any", "business", "economics", "engineering", "computer-science", "me
 DRY = "--dry-run" in sys.argv
 
 FAMILIES = {"mun", "erasmus", "exchange", "flex", "uwc", "summer", "competition", "startup", "youth",
-            "volunteering", "stem", "training", "scholarship"}
+            "volunteering", "stem", "training", "scholarship", "internship"}
 FAMILY_ALIASES = {"university": "scholarship", "hackathon": "competition", "olympiad": "competition",
                   "volunteer": "volunteering", "webinar": "training", "course": "training", "camp": "summer",
                   "entrepreneurship": "startup", "research": "stem"}
@@ -107,7 +107,8 @@ def normalise(r, source):
     if fam not in FAMILIES:
         return None, "unknown family %s" % fam
     r["family"] = fam
-    r["section"] = "scholarship" if (r.get("section") == "scholarship" or fam == "scholarship") else "project"
+    r["section"] = "scholarship" if (r.get("section") == "scholarship" or fam == "scholarship") else \
+        "internship" if fam == "internship" else "project"
     if r["section"] == "scholarship" and isinstance(r.get("level"), str):
         r["level"] = [r["level"]]
     for key in ("name", "country", "summary", "duration", "about", "eligibility", "costs"):
@@ -182,7 +183,8 @@ def main():
 
     sources = sorted(glob.glob(os.path.join(RESEARCH, "incoming", "*.json"))) + \
         sorted(glob.glob(os.path.join(RESEARCH, "round5", "*.json"))) + \
-        sorted(glob.glob(os.path.join(RESEARCH, "round6", "*.json")))
+        sorted(glob.glob(os.path.join(RESEARCH, "round6", "*.json"))) + \
+        sorted(p for p in glob.glob(os.path.join(RESEARCH, "round8", "*.json")) if "translate" not in p)
     skip_files = ("global-facts", "i18n", "universities", "verification", "prep", "courses", "quizzes", "EXISTING")
     added, rejected = [], {}
     by_file = {}
@@ -235,6 +237,8 @@ def main():
         src = os.path.join(RESEARCH, "round6", name + ".json")
         if not os.path.exists(src) or load(src) is None:
             src = os.path.join(RESEARCH, "round5", name + ".json")
+        if os.path.exists(os.path.join(DATA, name + ".json")):
+            continue                     # live file is newer (round 7 edits it in place)
         if os.path.exists(src) and load(src) is not None and not DRY:
             shutil.copyfile(src, os.path.join(DATA, name + ".json"))
             print("copied %s.json" % name)

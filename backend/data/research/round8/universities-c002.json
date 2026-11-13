@@ -1,0 +1,1219 @@
+[
+ {
+  "id": "university-of-pretoria",
+  "name": {
+   "en": "University of Pretoria",
+   "ka": "პრეტორიის უნივერსიტეტი",
+   "ar": "جامعة بريتوريا"
+  },
+  "iso": "ZA",
+  "city": "Pretoria",
+  "lat": -25.754,
+  "lon": 28.231,
+  "type": "public",
+  "website": "https://www.up.ac.za",
+  "platform": "Direct (UP online application)",
+  "application_url": "https://www.up.ac.za/students/admission-information",
+  "intakes": [
+   "January"
+  ],
+  "deadline": "2026-06-30",
+  "deadline_note": "For 2027 entry applications opened on 1 April 2026; Veterinary Science closes on 31 May 2026 and all other faculties on 30 June 2026.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 56000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": 680,
+   "high": null,
+   "required": "required"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business",
+   "law",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Veterinary Science",
+    "Engineering",
+    "Medicine",
+    "Law",
+    "Business"
+   ],
+   "ka": [
+    "ვეტერინარია",
+    "საინჟინრო საქმე",
+    "მედიცინა",
+    "სამართალი",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "الطب البيطري",
+    "الهندسة",
+    "الطب",
+    "القانون",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "Large public research university in Pretoria, South Africa, teaching in English. International applicants need a USAf exemption and an SAT score.",
+   "ka": "სამხრეთ აფრიკის პრეტორიაში მდებარე დიდი საჯარო სამეცნიერო უნივერსიტეტი, სწავლება ინგლისურად. საერთაშორისო აპლიკანტებს სჭირდებათ USAf-ის გათავისუფლება და SAT-ის შედეგი.",
+   "ar": "جامعة بحثية حكومية كبيرة في بريتوريا بجنوب أفريقيا، والتدريس بالإنجليزية. يحتاج المتقدمون الدوليون إلى إعفاء USAf ونتيجة SAT."
+  },
+  "about": {
+   "en": "The University of Pretoria is one of South Africa's largest contact universities, with ten faculties and several campuses in and around Pretoria. Teaching is mainly in English. For 2027 entry, applications opened on 1 April 2026 and most faculties close on 30 June. Applicants with foreign school qualifications need a USAf exemption certificate and must submit an SAT result. Many programmes are number-limited.",
+   "ka": "პრეტორიის უნივერსიტეტი სამხრეთ აფრიკის ერთ-ერთი უდიდესი უნივერსიტეტია, რომელსაც პრეტორიაში და მის შემოგარენში რამდენიმე კამპუსი აქვს. სწავლება ძირითადად ინგლისურადაა. 2027 წლის მისაღებად განაცხადები 2026 წლის 1 აპრილს გაიხსნა, უმეტეს ფაკულტეტზე კი 30 ივნისს იხურება. უცხოური საშუალო განათლების მქონე აპლიკანტებს სჭირდებათ USAf-ის გათავისუფლების სერტიფიკატი და SAT-ის შედეგი. ბევრ პროგრამაზე ადგილები შეზღუდულია.",
+   "ar": "جامعة بريتوريا من أكبر الجامعات الحضورية في جنوب أفريقيا، ولها عشر كليات وعدة حرم في بريتوريا ومحيطها. التدريس بالإنجليزية في الغالب. بالنسبة لدخول 2027 فُتح التقديم في 1 أبريل 2026 ويُغلق في معظم الكليات في 30 يونيو. يحتاج حاملو المؤهلات الأجنبية إلى شهادة إعفاء USAf ونتيجة SAT. كثير من البرامج محدودة المقاعد."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Applicants with qualifications from outside South Africa need a USAf exemption and an SAT result; the international prospectus lists a minimum of 680. Predicted results are not considered. Cambridge applicants must submit an official statement of results.",
+   "ka": "უცხოური კვალიფიკაციის მქონე აპლიკანტებს სჭირდებათ USAf-ის გათავისუფლება და SAT-ის შედეგი; უნივერსიტეტის გვერდზე მითითებულია მინიმუმ 680. პროგნოზირებული შედეგები არ განიხილება. Cambridge-ის აპლიკანტებმა უნდა წარადგინონ შედეგების ოფიციალური ცნობა.",
+   "ar": "يحتاج حاملو المؤهلات من خارج جنوب أفريقيا إلى إعفاء USAf ونتيجة SAT، ويذكر موقع الجامعة حداً أدنى 680. لا تُعتمد النتائج المتوقعة. على متقدمي Cambridge تقديم بيان نتائج رسمي."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee R300 (waived if household income is R150,000 or less)",
+     "ka": "განაცხადის საფასური R300 (ითხოვება გათავისუფლება, თუ ოჯახის შემოსავალი R150,000-ს არ აღემატება)",
+     "ar": "رسوم التقديم 300 راند (تُعفى إذا كان دخل الأسرة 150,000 راند أو أقل)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport and study permit",
+     "ka": "მოქმედი პასპორტი და სასწავლო ნებართვა",
+     "ar": "جواز سفر ساري وتصريح دراسة"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "SAT result",
+     "ka": "SAT-ის შედეგი",
+     "ar": "نتيجة SAT"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "USAf exemption certificate",
+     "ka": "USAf-ის გათავისუფლების სერტიფიკატი",
+     "ar": "شهادة إعفاء USAf"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "south africa",
+   "pretoria",
+   "usaf",
+   "sat"
+  ],
+  "sources": [
+   "https://www.up.ac.za/students/admission-information",
+   "https://www.up.ac.za/online-application/article/2746913/application-fee"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "technion-israel-institute-of-technology",
+  "name": {
+   "en": "Technion - Israel Institute of Technology",
+   "ka": "ტექნიონი – ისრაელის ტექნოლოგიური ინსტიტუტი",
+   "ar": "التخنيون – المعهد التكنولوجي الإسرائيلي"
+  },
+  "iso": "IL",
+  "city": "Haifa",
+  "lat": 32.777,
+  "lon": 35.023,
+  "type": "public",
+  "website": "https://technion.ac.il",
+  "platform": "Direct (Technion International)",
+  "application_url": "https://int.technion.ac.il/programs/bsc-in-engineering-1st-year-in-english/admission-and-costs/",
+  "intakes": [
+   "October"
+  ],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 15000,
+   "currency": "USD",
+   "per": "year",
+   "note": "BSc with first year in English; billed in four instalments, paid in NIS. Separate figures for new immigrants."
+  },
+  "acceptance_rate": null,
+  "students": 14000,
+  "intl_pct": null,
+  "languages": [
+   "Hebrew",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "required"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "SAT",
+   "ACT",
+   "Israeli Psychometric (English section 120+)"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "mathematics",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer Science",
+    "Physics",
+    "Mathematics",
+    "Biotechnology"
+   ],
+   "ka": [
+    "საინჟინრო საქმე",
+    "კომპიუტერული მეცნიერება",
+    "ფიზიკა",
+    "მათემატიკა",
+    "ბიოტექნოლოგია"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "الفيزياء",
+    "الرياضيات",
+    "التقنية الحيوية"
+   ]
+  },
+  "summary": {
+   "en": "Israel's leading technological university in Haifa. International students can start a BSc in engineering or science with the first year taught in English; later years are in Hebrew. Tuition is USD 15,000 a year.",
+   "ka": "ტექნიონი ისრაელის წამყვანი ტექნოლოგიური უნივერსიტეტია ჰაიფაში. საერთაშორისო სტუდენტებს შეუძლიათ ბაკალავრიატი დაიწყონ ინჟინერიაში ან მეცნიერებაში, პირველი წელი ინგლისურად; შემდეგი წლები ებრაულად. სწავლის საფასური წელიწადში 15 000 აშშ დოლარია.",
+   "ar": "التخنيون هو الجامعة التقنية الأولى في إسرائيل ويقع في حيفا. يمكن للطلاب الدوليين بدء بكالوريوس الهندسة أو العلوم بسنة أولى بالإنجليزية، ثم تُدرَّس السنوات التالية بالعبرية. الرسوم 15,000 دولار أمريكي سنوياً."
+  },
+  "about": {
+   "en": "Technion is a public research university in Haifa. Its international BSc option has the first year in English for engineering and science; the remaining years are taught in Hebrew, so students learn Hebrew during the first year. Applicants need a standardized test (SAT, ACT or Israeli psychometric) and a diploma recognised by Technion. Tuition for the programme is listed as USD 15,000 per year, paid in instalments.",
+   "ka": "ტექნიონი საჯარო სამეცნიერო უნივერსიტეტია ჰაიფაში. საერთაშორისო ბაკალავრის ვარიანტში პირველი წელი ინგლისურად ისწავლება, დანარჩენი ებრაულად, ამიტომ სტუდენტები პირველ წელს ებრაულს სწავლობენ. აპლიკანტს სჭირდება სტანდარტიზებული ტესტი (SAT, ACT ან ისრაელის ფსიქომეტრიული) და ტექნიონის მიერ აღიარებული დიპლომი. პროგრამის საფასური წელიწადში 15 000 აშშ დოლარია, ნაწილ-ნაწილ გადასახდელი.",
+   "ar": "التخنيون جامعة بحثية حكومية في حيفا. خيار البكالوريوس الدولي يقدّم السنة الأولى بالإنجليزية في الهندسة والعلوم، وتُدرَّس بقية السنوات بالعبرية، لذا يتعلم الطلاب العبرية في السنة الأولى. يلزم اختبار موحد (SAT أو ACT أو السيكومتري الإسرائيلي) وشهادة ثانوية يعترف بها التخنيون. الرسوم المعلنة للبرنامج 15,000 دولار سنوياً تُدفع على أقساط."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "A standardized test is required: SAT, ACT or the Israeli Psychometric Entrance Test. English proficiency is shown by a score of at least 120 on the English section of the psychometric or AMIRAM test, or an equivalent SAT/ACT English score.",
+   "ka": "სავალდებულოა სტანდარტიზებული ტესტი: SAT, ACT ან ისრაელის ფსიქომეტრიული გამოცდა. ინგლისურის ცოდნა დასტურდება ფსიქომეტრიული ან AMIRAM ტესტის ინგლისურ ნაწილში მინიმუმ 120 ქულით, ან SAT/ACT-ის ეკვივალენტური ქულით.",
+   "ar": "الاختبار الموحد مطلوب: SAT أو ACT أو الاختبار السيكومتري الإسرائيلي. تُثبت الإنجليزية بدرجة 120 على الأقل في قسم الإنجليزية من السيكومتري أو AMIRAM، أو بدرجة معادلة في SAT/ACT."
+  },
+  "gpa_note": {
+   "en": "Admission is based on a calculation (Sekem) of the foreign matriculation diploma, with strong mathematics and science preparation expected; a motivation letter is required.",
+   "ka": "მიღება ეფუძნება უცხოური ატესტატის გამოთვლას (Sekem); მოსალოდნელია ძლიერი მომზადება მათემატიკასა და საბუნებისმეტყველო საგნებში; საჭიროა მოტივაციური წერილი.",
+   "ar": "يعتمد القبول على احتساب (Sekem) لشهادة الثانوية الأجنبية، مع توقع إعداد قوي في الرياضيات والعلوم؛ ويلزم خطاب دافع."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Foreign matriculation diploma and transcripts",
+     "ka": "უცხოური ატესტატი და ნიშნების ცნობა",
+     "ar": "شهادة الثانوية الأجنبية وكشف الدرجات"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "SAT, ACT or Israeli psychometric score",
+     "ka": "SAT, ACT ან ფსიქომეტრიული ქულა",
+     "ar": "نتيجة SAT أو ACT أو السيكومتري"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency (120+ on English section)",
+     "ka": "ინგლისურის ცოდნა (ინგლისურ ნაწილში 120+)",
+     "ar": "إتقان الإنجليزية (120+ في قسم الإنجليزية)"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Motivation letter",
+     "ka": "მოტივაციური წერილი",
+     "ar": "خطاب الدافع"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "israel",
+   "haifa",
+   "engineering",
+   "english first year"
+  ],
+  "sources": [
+   "https://int.technion.ac.il/programs/bsc-in-engineering-1st-year-in-english/admission-and-costs/",
+   "https://int.technion.ac.il/programs/bsc-in-engineering-1st-year-in-english/faqs/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "indian-institute-of-technology-roorkee-iitr",
+  "name": {
+   "en": "Indian Institute of Technology Roorkee (IITR)",
+   "ka": "ინდოეთის ტექნოლოგიური ინსტიტუტი რურკი",
+   "ar": "المعهد الهندي للتكنولوجيا في رورك"
+  },
+  "iso": "IN",
+  "city": "Roorkee",
+  "lat": 29.865,
+  "lon": 77.896,
+  "type": "public",
+  "website": "https://www.iitr.ac.in",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 9000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "mathematics"
+  ],
+  "strengths": {
+   "en": [
+    "Civil Engineering",
+    "Computer Science",
+    "Electrical Engineering",
+    "Mechanical Engineering"
+   ],
+   "ka": [
+    "სამოქალაქო ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "ელექტროინჟინერია",
+    "მექანიკური ინჟინერია"
+   ],
+   "ar": [
+    "الهندسة المدنية",
+    "علوم الحاسوب",
+    "الهندسة الكهربائية",
+    "الهندسة الميكانيكية"
+   ]
+  },
+  "summary": {
+   "en": "One of India's oldest and top engineering institutes, in Uttarakhand. Teaching is in English.",
+   "ka": "ინდოეთის ერთ-ერთი უძველესი და წამყვანი საინჟინრო ინსტიტუტი, უტარახანდში. სწავლება ინგლისურადაა.",
+   "ar": "من أقدم وأبرز المعاهد الهندسية في الهند، في ولاية أوتاراخاند، والتدريس بالإنجليزية."
+  },
+  "about": {
+   "en": "IIT Roorkee is a public institute of national importance founded in 1847. Its BTech programmes are taught in English.",
+   "ka": "IIT რურკი ეროვნული მნიშვნელობის საჯარო ინსტიტუტია, დაარსებული 1847 წელს. BTech პროგრამები ინგლისურადაა.",
+   "ar": "المعهد الهندي للتكنولوجيا في رورك معهد حكومي ذو أهمية وطنية تأسس عام 1847. برامج BTech بالإنجليزية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.iitr.ac.in"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "southeast-university",
+  "name": {
+   "en": "Southeast University",
+   "ka": "სამხრეთ-აღმოსავლეთის უნივერსიტეტი (ნანძინი)",
+   "ar": "جامعة جنوب شرق الصين (نانجينغ)"
+  },
+  "iso": "CN",
+  "city": "Nanjing",
+  "lat": 32.057,
+  "lon": 118.797,
+  "type": "public",
+  "website": "https://www.seu.edu.cn",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 35000,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "arts-design",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Architecture",
+    "Civil Engineering",
+    "Electronic Engineering",
+    "Computer Science"
+   ],
+   "ka": [
+    "არქიტექტურა",
+    "სამოქალაქო ინჟინერია",
+    "ელექტრონული ინჟინერია",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "العمارة",
+    "الهندسة المدنية",
+    "الهندسة الإلكترونية",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "Chinese national key university in Nanjing, known for architecture and engineering.",
+   "ka": "ნანძინში მდებარე ჩინეთის ეროვნული წამყვანი უნივერსიტეტი, ცნობილი არქიტექტურითა და ინჟინერიით.",
+   "ar": "جامعة وطنية رئيسية في نانجينغ، معروفة بالعمارة والهندسة."
+  },
+  "about": {
+   "en": "Southeast University is a public Double First-Class university in Nanjing.",
+   "ka": "სამხრეთ-აღმოსავლეთის უნივერსიტეტი ნანძინში მდებარე საჯარო „Double First-Class“ უნივერსიტეტია.",
+   "ar": "جامعة جنوب شرق الصين جامعة حكومية من فئة Double First-Class في نانجينغ."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.seu.edu.cn"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-coimbra",
+  "name": {
+   "en": "University of Coimbra",
+   "ka": "კოიმბრის უნივერსიტეტი",
+   "ar": "جامعة كويمبرا"
+  },
+  "iso": "PT",
+  "city": "Coimbra",
+  "lat": 40.208,
+  "lon": -8.426,
+  "type": "public",
+  "website": "https://www.uc.pt",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 23000,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "law",
+   "medicine-health",
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Law",
+    "Medicine",
+    "Humanities",
+    "Sciences"
+   ],
+   "ka": [
+    "სამართალი",
+    "მედიცინა",
+    "ჰუმანიტარული მეცნიერებები",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "القانون",
+    "الطب",
+    "العلوم الإنسانية",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "One of Europe's oldest universities (founded 1290), in central Portugal and UNESCO World Heritage.",
+   "ka": "ევროპის ერთ-ერთი უძველესი უნივერსიტეტი (1290), პორტუგალიის ცენტრში, იუნესკოს მსოფლიო მემკვიდრეობა.",
+   "ar": "من أقدم جامعات أوروبا (تأسست 1290) في وسط البرتغال ومُدرجة في التراث العالمي لليونسكو."
+  },
+  "about": {
+   "en": "The University of Coimbra is a public university with eight faculties. Most bachelor programmes are taught in Portuguese.",
+   "ka": "კოიმბრის უნივერსიტეტი საჯარო უნივერსიტეტია რვა ფაკულტეტით. ბაკალავრის პროგრამების უმეტესობა პორტუგალიურადაა.",
+   "ar": "جامعة كويمبرا جامعة حكومية بثماني كليات. معظم برامج البكالوريوس بالبرتغالية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.uc.pt"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "mahidol-university",
+  "name": {
+   "en": "Mahidol University",
+   "ka": "მაჰიდოლის უნივერსიტეტი",
+   "ar": "جامعة ماهيدول"
+  },
+  "iso": "TH",
+  "city": "Nakhon Pathom",
+  "lat": 13.794,
+  "lon": 100.325,
+  "type": "public",
+  "website": "https://mahidol.ac.th",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 30000,
+  "intl_pct": null,
+  "languages": [
+   "Thai",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "social-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Nursing",
+    "Pharmacy",
+    "Science"
+   ],
+   "ka": [
+    "მედიცინა",
+    "მედდობა",
+    "ფარმაცია",
+    "მეცნიერება"
+   ],
+   "ar": [
+    "الطب",
+    "التمريض",
+    "الصيدلة",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "Thailand's leading public health and medical university, with campuses near Bangkok.",
+   "ka": "ტაილანდის წამყვანი სამედიცინო და ჯანდაცვის საჯარო უნივერსიტეტი, ბანგკოკის მახლობლად.",
+   "ar": "جامعة حكومية رائدة في الطب والصحة في تايلاند، لها حرم قرب بانكوك."
+  },
+  "about": {
+   "en": "Mahidol is a public research university with campuses in Salaya (Nakhon Pathom), Bangkok and elsewhere. It offers several international bachelor programmes in English.",
+   "ka": "მაჰიდოლი საჯარო სამეცნიერო უნივერსიტეტია, კამპუსებით სალაიაში (ნაკონ პატომი), ბანგკოკსა და სხვაგან. აქვს რამდენიმე საერთაშორისო ბაკალავრის პროგრამა ინგლისურად.",
+   "ar": "ماهيدول جامعة بحثية حكومية بحرم في سالايا (ناخون باثوم) وبانكوك وغيرها. تقدم عدة برامج بكالوريوس دولية بالإنجليزية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://mahidol.ac.th"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "abu-dhabi-university",
+  "name": {
+   "en": "Abu Dhabi University",
+   "ka": "აბუ-დაბის უნივერსიტეტი",
+   "ar": "جامعة أبوظبي"
+  },
+  "iso": "AE",
+  "city": "Abu Dhabi",
+  "lat": 24.47,
+  "lon": 54.6,
+  "type": "private",
+  "website": "https://adu.ac.ae",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 8000,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Arabic"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Law",
+    "Computer Science"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "საინჟინრო საქმე",
+    "სამართალი",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "القانون",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "Private university in the UAE with campuses in Abu Dhabi, Al Ain, Dubai and Ras Al Khaimah; teaching in English.",
+   "ka": "კერძო უნივერსიტეტი არაბთა გაერთიანებულ საემიროებში, კამპუსებით აბუ-დაბიში, ალ-აინში, დუბაიში და რას ალ-ხაიმაში; სწავლება ინგლისურად.",
+   "ar": "جامعة خاصة في الإمارات لها فروع في أبوظبي والعين ودبي ورأس الخيمة؛ والتدريس بالإنجليزية."
+  },
+  "about": {
+   "en": "Abu Dhabi University is an accredited private university offering bachelor programmes in English. Tuition is charged per credit hour.",
+   "ka": "აბუ-დაბის უნივერსიტეტი აკრედიტებული კერძო უნივერსიტეტია, ბაკალავრის პროგრამებით ინგლისურად. საფასური კრედიტზეა დაანგარიშებული.",
+   "ar": "جامعة أبوظبي جامعة خاصة معتمدة تقدم برامج بكالوريوس بالإنجليزية. تُحتسب الرسوم لكل ساعة معتمدة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://adu.ac.ae"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "indian-institute-of-technology-guwahati-iitg",
+  "name": {
+   "en": "Indian Institute of Technology Guwahati (IITG)",
+   "ka": "ინდოეთის ტექნოლოგიური ინსტიტუტი გუვაჰატი",
+   "ar": "المعهد الهندي للتكنولوجيا في غواهاتي"
+  },
+  "iso": "IN",
+  "city": "Guwahati",
+  "lat": 26.192,
+  "lon": 91.692,
+  "type": "public",
+  "website": "https://www.iitg.ac.in",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 7000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Computer Science",
+    "Electronics",
+    "Chemical Engineering",
+    "Design"
+   ],
+   "ka": [
+    "კომპიუტერული მეცნიერება",
+    "ელექტრონიკა",
+    "ქიმიური ინჟინერია",
+    "დიზაინი"
+   ],
+   "ar": [
+    "علوم الحاسوب",
+    "الإلكترونيات",
+    "الهندسة الكيميائية",
+    "التصميم"
+   ]
+  },
+  "summary": {
+   "en": "Public engineering institute in Assam, northeast India; teaching in English.",
+   "ka": "საჯარო საინჟინრო ინსტიტუტი ასამში, ჩრდილო-აღმოსავლეთ ინდოეთში; სწავლება ინგლისურად.",
+   "ar": "معهد هندسي حكومي في ولاية آسام شمال شرق الهند؛ التدريس بالإنجليزية."
+  },
+  "about": {
+   "en": "IIT Guwahati is a public institute of national importance founded in 1994. Its site lists undergraduate admission through JEE (Advanced).",
+   "ka": "IIT გუვაჰატი ეროვნული მნიშვნელობის საჯარო ინსტიტუტია, დაარსებული 1994 წელს. საიტის მიხედვით ბაკალავრიატში მიღება JEE (Advanced)-ით ხდება.",
+   "ar": "المعهد الهندي للتكنولوجيا في غواهاتي معهد حكومي ذو أهمية وطنية تأسس عام 1994. يذكر موقعه أن القبول الجامعي يتم عبر JEE (Advanced)."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.iitg.ac.in"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "satbayev-university",
+  "name": {
+   "en": "Satbayev University",
+   "ka": "სატბაევის უნივერსიტეტი",
+   "ar": "جامعة ساتبايف"
+  },
+  "iso": "KZ",
+  "city": "Almaty",
+  "lat": 43.236,
+  "lon": 76.929,
+  "type": "public",
+  "website": "https://satbayev.university",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 15000,
+  "intl_pct": null,
+  "languages": [
+   "Kazakh",
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "computer-science",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Mining",
+    "Petroleum Engineering",
+    "IT",
+    "Metallurgy"
+   ],
+   "ka": [
+    "სამთო საქმე",
+    "ნავთობის ინჟინერია",
+    "IT",
+    "მეტალურგია"
+   ],
+   "ar": [
+    "التعدين",
+    "هندسة النفط",
+    "تقنية المعلومات",
+    "المعادن"
+   ]
+  },
+  "summary": {
+   "en": "Kazakhstan's main technical university in Almaty, strong in mining, energy and IT.",
+   "ka": "ყაზახეთის მთავარი ტექნიკური უნივერსიტეტი ალმათში, ძლიერი სამთო, ენერგეტიკისა და IT მიმართულებებით.",
+   "ar": "الجامعة التقنية الرئيسة في كازاخستان في ألماتي، قوية في التعدين والطاقة وتقنية المعلومات."
+  },
+  "about": {
+   "en": "Satbayev University is a national research technical university in Almaty. Teaching is in Kazakh, Russian and English.",
+   "ka": "სატბაევის უნივერსიტეტი ეროვნული ტექნიკური სამეცნიერო უნივერსიტეტია ალმათში. სწავლება ყაზახურად, რუსულად და ინგლისურად მიმდინარეობს.",
+   "ar": "جامعة ساتبايف جامعة تقنية بحثية وطنية في ألماتي، والتدريس بالكازاخية والروسية والإنجليزية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://satbayev.university"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "pontificia-universidad-catolica-del-peru-pucp",
+  "name": {
+   "en": "Pontificia Universidad Catolica del Peru (PUCP)",
+   "ka": "პერუს პაპისეული კათოლიკური უნივერსიტეტი (PUCP)",
+   "ar": "الجامعة البابوية الكاثوليكية في بيرو (PUCP)"
+  },
+  "iso": "PE",
+  "city": "Lima",
+  "lat": -12.069,
+  "lon": -77.079,
+  "type": "private",
+  "website": "https://www.pucp.edu.pe",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 25000,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "engineering",
+   "social-sciences",
+   "law",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Law",
+    "Humanities",
+    "Architecture"
+   ],
+   "ka": [
+    "საინჟინრო საქმე",
+    "სამართალი",
+    "ჰუმანიტარული მეცნიერებები",
+    "არქიტექტურა"
+   ],
+   "ar": [
+    "الهندسة",
+    "القانون",
+    "العلوم الإنسانية",
+    "العمارة"
+   ]
+  },
+  "summary": {
+   "en": "Leading private university in Lima, Peru; teaching in Spanish.",
+   "ka": "პერუს წამყვანი კერძო უნივერსიტეტი ლიმაში; სწავლება ესპანურად.",
+   "ar": "جامعة خاصة رائدة في ليما ببيرو؛ التدريس بالإسبانية."
+  },
+  "about": {
+   "en": "PUCP is a private, non-profit university in Lima and one of the top-ranked in Peru. Bachelor teaching is in Spanish.",
+   "ka": "PUCP არის კერძო არამომგებიანი უნივერსიტეტი ლიმაში, პერუში ერთ-ერთი წამყვანი. ბაკალავრის სწავლება ესპანურადაა.",
+   "ar": "PUCP جامعة خاصة غير ربحية في ليما ومن الأبرز في بيرو. التدريس في البكالوريوس بالإسبانية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.pucp.edu.pe"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "city-st-georges-university-of-london",
+  "name": {
+   "en": "City St George’s, University of London",
+   "ka": "სიტი სენტ ჯორჯის ლონდონის უნივერსიტეტი",
+   "ar": "جامعة سيتي سانت جورج بلندن"
+  },
+  "iso": "GB",
+  "city": "London",
+  "lat": 51.528,
+  "lon": -0.102,
+  "type": "public",
+  "website": "https://citystgeorges.ac.uk",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 27000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "law",
+   "medicine-health",
+   "engineering",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Law",
+    "Health Sciences",
+    "Journalism"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "სამართალი",
+    "ჯანმრთელობის მეცნიერებები",
+    "ჟურნალისტიკა"
+   ],
+   "ar": [
+    "الأعمال",
+    "القانون",
+    "علوم الصحة",
+    "الصحافة"
+   ]
+  },
+  "summary": {
+   "en": "London university formed in 2024 from City, University of London and St George's; applications via UCAS.",
+   "ka": "ლონდონის უნივერსიტეტი, 2024 წელს City-სა და St George's-ის გაერთიანებით შექმნილი; განაცხადი UCAS-ით.",
+   "ar": "جامعة في لندن تشكلت عام 2024 من اندماج City وSt George's؛ التقديم عبر UCAS."
+  },
+  "about": {
+   "en": "City St George's, University of London is a public university in London, part of the University of London federation.",
+   "ka": "City St George's, ლონდონის უნივერსიტეტი, ლონდონის საჯარო უნივერსიტეტია და ლონდონის უნივერსიტეტის ფედერაციის წევრია.",
+   "ar": "City St George's جامعة لندن جامعة حكومية في لندن وعضو في اتحاد جامعة لندن."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://citystgeorges.ac.uk"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "cairo-university",
+  "name": {
+   "en": "Cairo University",
+   "ka": "კაიროს უნივერსიტეტი",
+   "ar": "جامعة القاهرة"
+  },
+  "iso": "EG",
+  "city": "Giza",
+  "lat": 30.027,
+  "lon": 31.208,
+  "type": "public",
+  "website": "https://www.cu.edu.eg",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 230000,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "law",
+   "economics",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Law",
+    "Economics and Political Science"
+   ],
+   "ka": [
+    "მედიცინა",
+    "საინჟინრო საქმე",
+    "სამართალი",
+    "ეკონომიკა და პოლიტიკური მეცნიერებები"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "القانون",
+    "الاقتصاد والعلوم السياسية"
+   ]
+  },
+  "summary": {
+   "en": "Egypt's flagship public university in Giza, founded 1908, with over 200,000 students.",
+   "ka": "ეგვიპტის მთავარი საჯარო უნივერსიტეტი გიზაში, დაარსებული 1908 წელს, 200 000-ზე მეტი სტუდენტით.",
+   "ar": "الجامعة الحكومية الأبرز في مصر بالجيزة، تأسست عام 1908، وتضم أكثر من 200 ألف طالب."
+  },
+  "about": {
+   "en": "Cairo University is a large public university. Most undergraduate teaching is in Arabic, with English-language programmes in some faculties.",
+   "ka": "კაიროს უნივერსიტეტი დიდი საჯარო უნივერსიტეტია. ბაკალავრიატში სწავლება ძირითადად არაბულადაა, ზოგ ფაკულტეტზე ინგლისური პროგრამებიცაა.",
+   "ar": "جامعة القاهرة جامعة حكومية كبيرة. التدريس الجامعي بالعربية في الغالب مع برامج بالإنجليزية في بعض الكليات."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.cu.edu.eg"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "goethe-university-frankfurt-am-main",
+  "name": {
+   "en": "Goethe-University Frankfurt am Main",
+   "ka": "ფრანკფურტის გოეთეს უნივერსიტეტი",
+   "ar": "جامعة غوته في فرانكفورت"
+  },
+  "iso": "DE",
+  "city": "Frankfurt am Main",
+  "lat": 50.128,
+  "lon": 8.667,
+  "type": "public",
+  "website": "https://www.goethe-university-frankfurt.de",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 46000,
+  "intl_pct": null,
+  "languages": [
+   "German",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "economics",
+   "law",
+   "natural-sciences",
+   "social-sciences",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Economics",
+    "Law",
+    "Physics",
+    "Social Sciences"
+   ],
+   "ka": [
+    "ეკონომიკა",
+    "სამართალი",
+    "ფიზიკა",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الاقتصاد",
+    "القانون",
+    "الفيزياء",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Large public research university in Frankfurt, Germany; most bachelor programmes are taught in German and have no tuition fees for most students.",
+   "ka": "გერმანიის ფრანკფურტის დიდი საჯარო სამეცნიერო უნივერსიტეტი; ბაკალავრის უმეტესობა გერმანულადაა.",
+   "ar": "جامعة بحثية حكومية كبيرة في فرانكفورت بألمانيا؛ معظم برامج البكالوريوس بالألمانية."
+  },
+  "about": {
+   "en": "Goethe University Frankfurt is a public university with about 46,000 students. Most bachelor programmes are taught in German.",
+   "ka": "ფრანკფურტის გოეთეს უნივერსიტეტი საჯარო უნივერსიტეტია დაახლოებით 46 000 სტუდენტით. ბაკალავრის უმეტესობა გერმანულადაა.",
+   "ar": "جامعة غوته جامعة حكومية يقارب عدد طلابها 46 ألفاً. معظم برامج البكالوريوس بالألمانية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.goethe-university-frankfurt.de"
+  ],
+  "verified_at": "2026-11-14"
+ }
+]

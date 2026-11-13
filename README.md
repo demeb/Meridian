@@ -551,6 +551,18 @@ school's students.
 password) so codes reach Gmail; `ANTHROPIC_API_KEY` to switch on Meridian AI.
 
 
+## Round 8 (14 Nov 2026)
+
+- Universities: 1,155 of 1,535 full profiles (+138). US profiles from NCES College Navigator.
+  Next round shown automatically after a deadline passes (`live_deadline` in app.py).
+- Internships: a third section on /programs (`section: "internship"`), Programs menu dropdown.
+- FLEX: one `flex-global` record with a per-country `rounds` table (`tools/flex_merge.py`).
+- Globe: US state borders and a State filter (`frontend/assets/us-states.geojson`, us-atlas 3.0.1),
+  light raised shapes for big countries, pins kept under the menu.
+- Counselling: "Make my CV with AI" document builder; counsellors see their students' universities.
+- Saved programmes → Excel; OMPT in prep; login/sign-up/reset rate limits; security headers.
+- Research merge: `tools/clean_round8.py` then `tools/merge_round5.py` (reads round 8 too).
+
 ## Round 7 (1 Nov 2026, doc tab "Oct 31 Website")
 
 - **Universities:** 1,017 of 1,535 have full profiles (was 338), each in EN/KA/AR, with the

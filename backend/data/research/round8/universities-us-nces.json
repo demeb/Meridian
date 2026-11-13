@@ -1,0 +1,2714 @@
+[
+{
+"id": "brandeis-university",
+"name": {
+"en": "Brandeis University"
+},
+"iso": "US",
+"city": "Waltham",
+"lat": 42.366,
+"lon": -71.255,
+"type": "private",
+"website": "https://www.brandeis.edu",
+"platform": null,
+"application_url": "https://www.brandeis.edu/admissions/apply/index.html",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 68080,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 40,
+"students": 5205,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1390,
+"high": 1520,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "Brandeis University is a private university in Waltham, Massachusetts with 5,205 students. Tuition and fees for out-of-state and international students were $68,080 in 2024–25, and it admitted 40% of applicants in fall 2024.",
+"ka": "Brandeis University — კერძო უნივერსიტეტი ქალაქ Waltham-ში, 5,205 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $68,080 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 40% მიიღეს.",
+"ar": "Brandeis University جامعة خاصة في Waltham تضم 5,205 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 68,080 دولارًا في 2024–25، وقبلت 40% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "Brandeis University is a private university in Waltham, Massachusetts with 5,205 students. Tuition and fees for out-of-state and international students were $68,080 in 2024–25, and it admitted 40% of applicants in fall 2024.",
+"ka": "Brandeis University — კერძო უნივერსიტეტი ქალაქ Waltham-ში, 5,205 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $68,080 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 40% მიიღეს.",
+"ar": "Brandeis University جامعة خاصة في Waltham تضم 5,205 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 68,080 دولارًا في 2024–25، وقبلت 40% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1390–1520 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1390–1520. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1390 و1520. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 40% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 40% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 40% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "recommendations",
+"label": {
+"en": "Letters of recommendation",
+"ka": "სარეკომენდაციო წერილები",
+"ar": "خطابات التوصية"
+}
+},
+{
+"key": "personal_statement",
+"label": {
+"en": "Personal statement or essay",
+"ka": "პირადი წერილი ან ესე",
+"ar": "بيان شخصي أو مقال"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"massachusetts",
+"waltham"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=165015",
+"https://www.brandeis.edu/admissions/apply/index.html"
+],
+"verified_at": "2026-11-14",
+"application_fee": 80
+},
+{
+"id": "missouri-university-of-science-and-technology",
+"name": {
+"en": "Missouri University of Science and Technology"
+},
+"iso": "US",
+"city": "Rolla",
+"lat": null,
+"lon": null,
+"type": "public",
+"website": "https://www.mst.edu",
+"platform": null,
+"application_url": "https://futurestudents.mst.edu/admissions/",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 33248,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 73,
+"students": 7154,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1190,
+"high": 1420,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "Missouri University of Science and Technology is a public university in Rolla, Missouri with 7,154 students. Tuition and fees for out-of-state and international students were $33,248 in 2024–25, and it admitted 73% of applicants in fall 2024.",
+"ka": "Missouri University of Science and Technology — საჯარო უნივერსიტეტი ქალაქ Rolla-ში, 7,154 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $33,248 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 73% მიიღეს.",
+"ar": "Missouri University of Science and Technology جامعة حكومية في Rolla تضم 7,154 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 33,248 دولارًا في 2024–25، وقبلت 73% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "Missouri University of Science and Technology is a public university in Rolla, Missouri with 7,154 students. Tuition and fees for out-of-state and international students were $33,248 in 2024–25, and it admitted 73% of applicants in fall 2024.",
+"ka": "Missouri University of Science and Technology — საჯარო უნივერსიტეტი ქალაქ Rolla-ში, 7,154 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $33,248 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 73% მიიღეს.",
+"ar": "Missouri University of Science and Technology جامعة حكومية في Rolla تضم 7,154 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 33,248 دولارًا في 2024–25، وقبلت 73% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1190–1420 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1190–1420. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1190 و1420. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 73% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 73% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 73% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"missouri",
+"rolla"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=178411",
+"https://futurestudents.mst.edu/admissions/"
+],
+"verified_at": "2026-11-14",
+"application_fee": null
+},
+{
+"id": "texas-tech-university",
+"name": {
+"en": "Texas Tech University"
+},
+"iso": "US",
+"city": "Lubbock",
+"lat": 33.584,
+"lon": -101.871,
+"type": "public",
+"website": "https://www.ttu.edu",
+"platform": null,
+"application_url": "https://www.depts.ttu.edu/admissions/apply/",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 24451,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 73,
+"students": 40757,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1090,
+"high": 1280,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "Texas Tech University is a public university in Lubbock, Texas with 40,757 students. Tuition and fees for out-of-state and international students were $24,451 in 2024–25, and it admitted 73% of applicants in fall 2024.",
+"ka": "Texas Tech University — საჯარო უნივერსიტეტი ქალაქ Lubbock-ში, 40,757 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $24,451 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 73% მიიღეს.",
+"ar": "Texas Tech University جامعة حكومية في Lubbock تضم 40,757 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 24,451 دولارًا في 2024–25، وقبلت 73% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "Texas Tech University is a public university in Lubbock, Texas with 40,757 students. Tuition and fees for out-of-state and international students were $24,451 in 2024–25, and it admitted 73% of applicants in fall 2024.",
+"ka": "Texas Tech University — საჯარო უნივერსიტეტი ქალაქ Lubbock-ში, 40,757 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $24,451 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 73% მიიღეს.",
+"ar": "Texas Tech University جامعة حكومية في Lubbock تضم 40,757 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 24,451 دولارًا في 2024–25، وقبلت 73% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1090–1280 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1090–1280. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1090 و1280. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 73% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 73% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 73% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"texas",
+"lubbock"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=229115",
+"https://www.depts.ttu.edu/admissions/apply/"
+],
+"verified_at": "2026-11-14",
+"application_fee": 75
+},
+{
+"id": "university-of-south-florida",
+"name": {
+"en": "University of South Florida"
+},
+"iso": "US",
+"city": "Tampa",
+"lat": 28.055,
+"lon": -82.414,
+"type": "public",
+"website": "https://www.usf.edu",
+"platform": null,
+"application_url": "https://admissions.usf.edu/application",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 17324,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 43,
+"students": 49622,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1130,
+"high": 1320,
+"required": "required"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "University of South Florida is a public university in Tampa, Florida with 49,622 students. Tuition and fees for out-of-state and international students were $17,324 in 2024–25, and it admitted 43% of applicants in fall 2024.",
+"ka": "University of South Florida — საჯარო უნივერსიტეტი ქალაქ Tampa-ში, 49,622 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $17,324 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 43% მიიღეს.",
+"ar": "University of South Florida جامعة حكومية في Tampa تضم 49,622 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 17,324 دولارًا في 2024–25، وقبلت 43% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "University of South Florida is a public university in Tampa, Florida with 49,622 students. Tuition and fees for out-of-state and international students were $17,324 in 2024–25, and it admitted 43% of applicants in fall 2024.",
+"ka": "University of South Florida — საჯარო უნივერსიტეტი ქალაქ Tampa-ში, 49,622 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $17,324 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 43% მიიღეს.",
+"ar": "University of South Florida جامعة حكومية في Tampa تضم 49,622 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 17,324 دولارًا في 2024–25، وقبلت 43% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: required. Admitted students scored 1130–1320 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: სავალდებულოა. მიღებული სტუდენტების SAT ქულა (შუა 50%): 1130–1320. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: مطلوب. تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1130 و1320. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 43% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 43% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 43% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "sat_act",
+"label": {
+"en": "SAT or ACT scores",
+"ka": "SAT ან ACT ქულები",
+"ar": "درجات SAT أو ACT"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"florida",
+"tampa"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=137351",
+"https://admissions.usf.edu/application"
+],
+"verified_at": "2026-11-14",
+"application_fee": 30
+},
+{
+"id": "drexel-university",
+"name": {
+"en": "Drexel University"
+},
+"iso": "US",
+"city": "Philadelphia",
+"lat": 39.954,
+"lon": -75.187,
+"type": "private",
+"website": "https://drexel.edu",
+"platform": null,
+"application_url": "https://drexel.edu/admissions/apply/",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 62412,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 79,
+"students": 21153,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1240,
+"high": 1440,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "Drexel University is a private university in Philadelphia, Pennsylvania with 21,153 students. Tuition and fees for out-of-state and international students were $62,412 in 2024–25, and it admitted 79% of applicants in fall 2024.",
+"ka": "Drexel University — კერძო უნივერსიტეტი ქალაქ Philadelphia-ში, 21,153 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $62,412 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 79% მიიღეს.",
+"ar": "Drexel University جامعة خاصة في Philadelphia تضم 21,153 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 62,412 دولارًا في 2024–25، وقبلت 79% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "Drexel University is a private university in Philadelphia, Pennsylvania with 21,153 students. Tuition and fees for out-of-state and international students were $62,412 in 2024–25, and it admitted 79% of applicants in fall 2024.",
+"ka": "Drexel University — კერძო უნივერსიტეტი ქალაქ Philadelphia-ში, 21,153 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $62,412 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 79% მიიღეს.",
+"ar": "Drexel University جامعة خاصة في Philadelphia تضم 21,153 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 62,412 دولارًا في 2024–25، وقبلت 79% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1240–1440 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1240–1440. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1240 و1440. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 79% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 79% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 79% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "recommendations",
+"label": {
+"en": "Letters of recommendation",
+"ka": "სარეკომენდაციო წერილები",
+"ar": "خطابات التوصية"
+}
+},
+{
+"key": "personal_statement",
+"label": {
+"en": "Personal statement or essay",
+"ka": "პირადი წერილი ან ესე",
+"ar": "بيان شخصي أو مقال"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"pennsylvania",
+"philadelphia"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=212054",
+"https://drexel.edu/admissions/apply/"
+],
+"verified_at": "2026-11-14",
+"application_fee": 50
+},
+{
+"id": "university-of-nebraska-lincoln",
+"name": {
+"en": "University of Nebraska - Lincoln"
+},
+"iso": "US",
+"city": "Lincoln",
+"lat": 40.817,
+"lon": -96.701,
+"type": "public",
+"website": "https://www.unl.edu",
+"platform": null,
+"application_url": "https://admissions.unl.edu/apply/",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 28584,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 87,
+"students": 24393,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1098,
+"high": 1330,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "University of Nebraska - Lincoln is a public university in Lincoln, Nebraska with 24,393 students. Tuition and fees for out-of-state and international students were $28,584 in 2024–25, and it admitted 87% of applicants in fall 2024.",
+"ka": "University of Nebraska - Lincoln — საჯარო უნივერსიტეტი ქალაქ Lincoln-ში, 24,393 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $28,584 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 87% მიიღეს.",
+"ar": "University of Nebraska - Lincoln جامعة حكومية في Lincoln تضم 24,393 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 28,584 دولارًا في 2024–25، وقبلت 87% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "University of Nebraska - Lincoln is a public university in Lincoln, Nebraska with 24,393 students. Tuition and fees for out-of-state and international students were $28,584 in 2024–25, and it admitted 87% of applicants in fall 2024.",
+"ka": "University of Nebraska - Lincoln — საჯარო უნივერსიტეტი ქალაქ Lincoln-ში, 24,393 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $28,584 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 87% მიიღეს.",
+"ar": "University of Nebraska - Lincoln جامعة حكومية في Lincoln تضم 24,393 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 28,584 دولارًا في 2024–25، وقبلت 87% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1098–1330 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is considered but not required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1098–1330. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) განიხილება, მაგრამ სავალდებულო არ არის მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1098 و1330. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) يُؤخذ في الاعتبار لكنه غير إلزامي لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 87% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 87% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 87% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"nebraska",
+"lincoln"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=181464",
+"https://admissions.unl.edu/apply/"
+],
+"verified_at": "2026-11-14",
+"application_fee": 45
+},
+{
+"id": "williams-college",
+"name": {
+"en": "Williams College"
+},
+"iso": "US",
+"city": "Williamstown",
+"lat": 42.712,
+"lon": -73.203,
+"type": "private",
+"website": "https://www.williams.edu",
+"platform": null,
+"application_url": "https://www.williams.edu/admission-aid/apply-overview/",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 68560,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 8,
+"students": 2164,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1490,
+"high": 1570,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "Williams College is a private university in Williamstown, Massachusetts with 2,164 students. Tuition and fees for out-of-state and international students were $68,560 in 2024–25, and it admitted 8% of applicants in fall 2024.",
+"ka": "Williams College — კერძო უნივერსიტეტი ქალაქ Williamstown-ში, 2,164 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $68,560 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 8% მიიღეს.",
+"ar": "Williams College جامعة خاصة في Williamstown تضم 2,164 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 68,560 دولارًا في 2024–25، وقبلت 8% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "Williams College is a private university in Williamstown, Massachusetts with 2,164 students. Tuition and fees for out-of-state and international students were $68,560 in 2024–25, and it admitted 8% of applicants in fall 2024.",
+"ka": "Williams College — კერძო უნივერსიტეტი ქალაქ Williamstown-ში, 2,164 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $68,560 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 8% მიიღეს.",
+"ar": "Williams College جامعة خاصة في Williamstown تضم 2,164 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 68,560 دولارًا في 2024–25، وقبلت 8% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1490–1570 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is considered but not required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1490–1570. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) განიხილება, მაგრამ სავალდებულო არ არის მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1490 و1570. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) يُؤخذ في الاعتبار لكنه غير إلزامي لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 8% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 8% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 8% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "recommendations",
+"label": {
+"en": "Letters of recommendation",
+"ka": "სარეკომენდაციო წერილები",
+"ar": "خطابات التوصية"
+}
+},
+{
+"key": "personal_statement",
+"label": {
+"en": "Personal statement or essay",
+"ka": "პირადი წერილი ან ესე",
+"ar": "بيان شخصي أو مقال"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"massachusetts",
+"williamstown"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=168342",
+"https://www.williams.edu/admission-aid/apply-overview/"
+],
+"verified_at": "2026-11-14",
+"application_fee": 65
+},
+{
+"id": "university-of-kentucky",
+"name": {
+"en": "University of Kentucky"
+},
+"iso": "US",
+"city": "Lexington",
+"lat": null,
+"lon": null,
+"type": "public",
+"website": "https://uky.edu",
+"platform": null,
+"application_url": "https://admission.uky.edu/apply",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 34140,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 93,
+"students": 34709,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1070,
+"high": 1290,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "University of Kentucky is a public university in Lexington, Kentucky with 34,709 students. Tuition and fees for out-of-state and international students were $34,140 in 2024–25, and it admitted 93% of applicants in fall 2024.",
+"ka": "University of Kentucky — საჯარო უნივერსიტეტი ქალაქ Lexington-ში, 34,709 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $34,140 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 93% მიიღეს.",
+"ar": "University of Kentucky جامعة حكومية في Lexington تضم 34,709 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 34,140 دولارًا في 2024–25، وقبلت 93% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "University of Kentucky is a public university in Lexington, Kentucky with 34,709 students. Tuition and fees for out-of-state and international students were $34,140 in 2024–25, and it admitted 93% of applicants in fall 2024.",
+"ka": "University of Kentucky — საჯარო უნივერსიტეტი ქალაქ Lexington-ში, 34,709 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $34,140 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 93% მიიღეს.",
+"ar": "University of Kentucky جامعة حكومية في Lexington تضم 34,709 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 34,140 دولارًا في 2024–25، وقبلت 93% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1070–1290 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1070–1290. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1070 و1290. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 93% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 93% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 93% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "personal_statement",
+"label": {
+"en": "Personal statement or essay",
+"ka": "პირადი წერილი ან ესე",
+"ar": "بيان شخصي أو مقال"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"kentucky",
+"lexington"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=157085",
+"https://admission.uky.edu/apply"
+],
+"verified_at": "2026-11-14",
+"application_fee": 50
+},
+{
+"id": "worcester-polytechnic-institute",
+"name": {
+"en": "Worcester Polytechnic Institute"
+},
+"iso": "US",
+"city": "Worcester",
+"lat": 42.273,
+"lon": -71.811,
+"type": "private",
+"website": "https://www.wpi.edu",
+"platform": null,
+"application_url": "https://www.wpi.edu/admissions/undergraduate/apply/how-to",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 60965,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 60,
+"students": 7584,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": null,
+"high": null,
+"required": "not-considered"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "Worcester Polytechnic Institute is a private university in Worcester, Massachusetts with 7,584 students. Tuition and fees for out-of-state and international students were $60,965 in 2024–25, and it admitted 60% of applicants in fall 2024.",
+"ka": "Worcester Polytechnic Institute — კერძო უნივერსიტეტი ქალაქ Worcester-ში, 7,584 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $60,965 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 60% მიიღეს.",
+"ar": "Worcester Polytechnic Institute جامعة خاصة في Worcester تضم 7,584 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 60,965 دولارًا في 2024–25، وقبلت 60% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "Worcester Polytechnic Institute is a private university in Worcester, Massachusetts with 7,584 students. Tuition and fees for out-of-state and international students were $60,965 in 2024–25, and it admitted 60% of applicants in fall 2024.",
+"ka": "Worcester Polytechnic Institute — კერძო უნივერსიტეტი ქალაქ Worcester-ში, 7,584 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $60,965 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 60% მიიღეს.",
+"ar": "Worcester Polytechnic Institute جامعة خاصة في Worcester تضم 7,584 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 60,965 دولارًا في 2024–25، وقبلت 60% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: not considered (test-blind). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არ განიხილება (test-blind). ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: لا يُؤخذ في الاعتبار (test-blind). اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 60% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 60% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 60% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "recommendations",
+"label": {
+"en": "Letters of recommendation",
+"ka": "სარეკომენდაციო წერილები",
+"ar": "خطابات التوصية"
+}
+},
+{
+"key": "personal_statement",
+"label": {
+"en": "Personal statement or essay",
+"ka": "პირადი წერილი ან ესე",
+"ar": "بيان شخصي أو مقال"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"massachusetts",
+"worcester"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=168421",
+"https://www.wpi.edu/admissions/undergraduate/apply/how-to"
+],
+"verified_at": "2026-11-14",
+"application_fee": null
+},
+{
+"id": "clemson-university",
+"name": {
+"en": "Clemson University"
+},
+"iso": "US",
+"city": "Clemson",
+"lat": null,
+"lon": null,
+"type": "public",
+"website": "https://www.clemson.edu",
+"platform": null,
+"application_url": "https://www.clemson.edu/admissions/undergraduate/index.html",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 40866,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 38,
+"students": 29077,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1240,
+"high": 1410,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "Clemson University is a public university in Clemson, South Carolina with 29,077 students. Tuition and fees for out-of-state and international students were $40,866 in 2024–25, and it admitted 38% of applicants in fall 2024.",
+"ka": "Clemson University — საჯარო უნივერსიტეტი ქალაქ Clemson-ში, 29,077 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $40,866 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 38% მიიღეს.",
+"ar": "Clemson University جامعة حكومية في Clemson تضم 29,077 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 40,866 دولارًا في 2024–25، وقبلت 38% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "Clemson University is a public university in Clemson, South Carolina with 29,077 students. Tuition and fees for out-of-state and international students were $40,866 in 2024–25, and it admitted 38% of applicants in fall 2024.",
+"ka": "Clemson University — საჯარო უნივერსიტეტი ქალაქ Clemson-ში, 29,077 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $40,866 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 38% მიიღეს.",
+"ar": "Clemson University جامعة حكومية في Clemson تضم 29,077 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 40,866 دولارًا في 2024–25، وقبلت 38% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1240–1410 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1240–1410. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1240 و1410. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 38% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 38% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 38% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"south carolina",
+"clemson"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=217882",
+"https://www.clemson.edu/admissions/undergraduate/index.html"
+],
+"verified_at": "2026-11-14",
+"application_fee": 70
+},
+{
+"id": "virginia-commonwealth-university",
+"name": {
+"en": "Virginia Commonwealth University"
+},
+"iso": "US",
+"city": "Richmond",
+"lat": 37.549,
+"lon": -77.453,
+"type": "public",
+"website": "https://www.vcu.edu",
+"platform": null,
+"application_url": "https://www.vcu.edu/admissions/apply/",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 40109,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 93,
+"students": 28464,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1010,
+"high": 1270,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "Virginia Commonwealth University is a public university in Richmond, Virginia with 28,464 students. Tuition and fees for out-of-state and international students were $40,109 in 2024–25, and it admitted 93% of applicants in fall 2024.",
+"ka": "Virginia Commonwealth University — საჯარო უნივერსიტეტი ქალაქ Richmond-ში, 28,464 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $40,109 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 93% მიიღეს.",
+"ar": "Virginia Commonwealth University جامعة حكومية في Richmond تضم 28,464 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 40,109 دولارًا في 2024–25، وقبلت 93% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "Virginia Commonwealth University is a public university in Richmond, Virginia with 28,464 students. Tuition and fees for out-of-state and international students were $40,109 in 2024–25, and it admitted 93% of applicants in fall 2024.",
+"ka": "Virginia Commonwealth University — საჯარო უნივერსიტეტი ქალაქ Richmond-ში, 28,464 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $40,109 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 93% მიიღეს.",
+"ar": "Virginia Commonwealth University جامعة حكومية في Richmond تضم 28,464 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 40,109 دولارًا في 2024–25، وقبلت 93% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1010–1270 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1010–1270. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1010 و1270. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 93% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 93% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 93% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "personal_statement",
+"label": {
+"en": "Personal statement or essay",
+"ka": "პირადი წერილი ან ესე",
+"ar": "بيان شخصي أو مقال"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"virginia",
+"richmond"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=234030",
+"https://www.vcu.edu/admissions/apply/"
+],
+"verified_at": "2026-11-14",
+"application_fee": 75
+},
+{
+"id": "fordham-university",
+"name": {
+"en": "Fordham University"
+},
+"iso": "US",
+"city": "The Bronx",
+"lat": 40.86,
+"lon": -73.888,
+"type": "private",
+"website": "https://fordham.edu",
+"platform": null,
+"application_url": "https://www.fordham.edu/info/20541/how_to_apply",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 64915,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 59,
+"students": 16150,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1320,
+"high": 1480,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "Fordham University is a private university in The Bronx, New York with 16,150 students. Tuition and fees for out-of-state and international students were $64,915 in 2024–25, and it admitted 59% of applicants in fall 2024.",
+"ka": "Fordham University — კერძო უნივერსიტეტი ქალაქ The Bronx-ში, 16,150 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $64,915 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 59% მიიღეს.",
+"ar": "Fordham University جامعة خاصة في The Bronx تضم 16,150 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 64,915 دولارًا في 2024–25، وقبلت 59% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "Fordham University is a private university in The Bronx, New York with 16,150 students. Tuition and fees for out-of-state and international students were $64,915 in 2024–25, and it admitted 59% of applicants in fall 2024.",
+"ka": "Fordham University — კერძო უნივერსიტეტი ქალაქ The Bronx-ში, 16,150 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $64,915 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 59% მიიღეს.",
+"ar": "Fordham University جامعة خاصة في The Bronx تضم 16,150 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 64,915 دولارًا في 2024–25، وقبلت 59% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1320–1480 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1320–1480. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1320 و1480. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 59% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 59% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 59% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "recommendations",
+"label": {
+"en": "Letters of recommendation",
+"ka": "სარეკომენდაციო წერილები",
+"ar": "خطابات التوصية"
+}
+},
+{
+"key": "personal_statement",
+"label": {
+"en": "Personal statement or essay",
+"ka": "პირადი წერილი ან ესე",
+"ar": "بيان شخصي أو مقال"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"new york",
+"the bronx"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=191241",
+"https://www.fordham.edu/info/20541/how_to_apply"
+],
+"verified_at": "2026-11-14",
+"application_fee": 75
+},
+{
+"id": "george-mason-university",
+"name": {
+"en": "George Mason University"
+},
+"iso": "US",
+"city": "Fairfax",
+"lat": 38.834,
+"lon": -77.304,
+"type": "public",
+"website": "https://www.gmu.edu",
+"platform": null,
+"application_url": "https://www.gmu.edu/admissions-aid",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 38688,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 87,
+"students": 39766,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1160,
+"high": 1360,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "George Mason University is a public university in Fairfax, Virginia with 39,766 students. Tuition and fees for out-of-state and international students were $38,688 in 2024–25, and it admitted 87% of applicants in fall 2024.",
+"ka": "George Mason University — საჯარო უნივერსიტეტი ქალაქ Fairfax-ში, 39,766 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $38,688 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 87% მიიღეს.",
+"ar": "George Mason University جامعة حكومية في Fairfax تضم 39,766 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 38,688 دولارًا في 2024–25، وقبلت 87% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "George Mason University is a public university in Fairfax, Virginia with 39,766 students. Tuition and fees for out-of-state and international students were $38,688 in 2024–25, and it admitted 87% of applicants in fall 2024.",
+"ka": "George Mason University — საჯარო უნივერსიტეტი ქალაქ Fairfax-ში, 39,766 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $38,688 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 87% მიიღეს.",
+"ar": "George Mason University جامعة حكومية في Fairfax تضم 39,766 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 38,688 دولارًا في 2024–25، وقبلت 87% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1160–1360 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1160–1360. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1160 و1360. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 87% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 87% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 87% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"virginia",
+"fairfax"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=232186",
+"https://www.gmu.edu/admissions-aid"
+],
+"verified_at": "2026-11-14",
+"application_fee": 70
+},
+{
+"id": "southern-methodist-university",
+"name": {
+"en": "Southern Methodist University"
+},
+"iso": "US",
+"city": "Dallas",
+"lat": 32.844,
+"lon": -96.786,
+"type": "private",
+"website": "https://www.smu.edu",
+"platform": null,
+"application_url": "https://www.smu.edu/Admission/Apply",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 67040,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 63,
+"students": 12116,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1340,
+"high": 1490,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "Southern Methodist University is a private university in Dallas, Texas with 12,116 students. Tuition and fees for out-of-state and international students were $67,040 in 2024–25, and it admitted 63% of applicants in fall 2024.",
+"ka": "Southern Methodist University — კერძო უნივერსიტეტი ქალაქ Dallas-ში, 12,116 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $67,040 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 63% მიიღეს.",
+"ar": "Southern Methodist University جامعة خاصة في Dallas تضم 12,116 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 67,040 دولارًا في 2024–25، وقبلت 63% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "Southern Methodist University is a private university in Dallas, Texas with 12,116 students. Tuition and fees for out-of-state and international students were $67,040 in 2024–25, and it admitted 63% of applicants in fall 2024.",
+"ka": "Southern Methodist University — კერძო უნივერსიტეტი ქალაქ Dallas-ში, 12,116 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $67,040 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 63% მიიღეს.",
+"ar": "Southern Methodist University جامعة خاصة في Dallas تضم 12,116 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 67,040 دولارًا في 2024–25، وقبلت 63% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1340–1490 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1340–1490. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1340 و1490. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 63% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 63% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 63% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "recommendations",
+"label": {
+"en": "Letters of recommendation",
+"ka": "სარეკომენდაციო წერილები",
+"ar": "خطابات التوصية"
+}
+},
+{
+"key": "personal_statement",
+"label": {
+"en": "Personal statement or essay",
+"ka": "პირადი წერილი ან ესე",
+"ar": "بيان شخصي أو مقال"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"texas",
+"dallas"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=228246",
+"https://www.smu.edu/Admission/Apply"
+],
+"verified_at": "2026-11-14",
+"application_fee": 60
+},
+{
+"id": "the-university-of-alabama",
+"name": {
+"en": "The University of Alabama"
+},
+"iso": "US",
+"city": "Tuscaloosa",
+"lat": 33.209,
+"lon": -87.546,
+"type": "public",
+"website": "https://www.ua.edu",
+"platform": null,
+"application_url": "https://apply.ua.edu/",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 34172,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 77,
+"students": 40846,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1170,
+"high": 1400,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "The University of Alabama is a public university in Tuscaloosa, Alabama with 40,846 students. Tuition and fees for out-of-state and international students were $34,172 in 2024–25, and it admitted 77% of applicants in fall 2024.",
+"ka": "The University of Alabama — საჯარო უნივერსიტეტი ქალაქ Tuscaloosa-ში, 40,846 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $34,172 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 77% მიიღეს.",
+"ar": "The University of Alabama جامعة حكومية في Tuscaloosa تضم 40,846 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 34,172 دولارًا في 2024–25، وقبلت 77% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "The University of Alabama is a public university in Tuscaloosa, Alabama with 40,846 students. Tuition and fees for out-of-state and international students were $34,172 in 2024–25, and it admitted 77% of applicants in fall 2024.",
+"ka": "The University of Alabama — საჯარო უნივერსიტეტი ქალაქ Tuscaloosa-ში, 40,846 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $34,172 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 77% მიიღეს.",
+"ar": "The University of Alabama جامعة حكومية في Tuscaloosa تضم 40,846 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 34,172 دولارًا في 2024–25، وقبلت 77% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1170–1400 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1170–1400. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1170 و1400. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 77% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 77% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 77% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"alabama",
+"tuscaloosa"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=100751",
+"https://apply.ua.edu/"
+],
+"verified_at": "2026-11-14",
+"application_fee": 40
+},
+{
+"id": "the-university-of-texas-at-arlington",
+"name": {
+"en": "The University of Texas at Arlington"
+},
+"iso": "US",
+"city": "Arlington",
+"lat": null,
+"lon": null,
+"type": "public",
+"website": "https://www.uta.edu",
+"platform": null,
+"application_url": "https://www.applytexas.org/",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 29582,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 80,
+"students": 44956,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1010,
+"high": 1240,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "The University of Texas at Arlington is a public university in Arlington, Texas with 44,956 students. Tuition and fees for out-of-state and international students were $29,582 in 2024–25, and it admitted 80% of applicants in fall 2024.",
+"ka": "The University of Texas at Arlington — საჯარო უნივერსიტეტი ქალაქ Arlington-ში, 44,956 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $29,582 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 80% მიიღეს.",
+"ar": "The University of Texas at Arlington جامعة حكومية في Arlington تضم 44,956 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 29,582 دولارًا في 2024–25، وقبلت 80% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "The University of Texas at Arlington is a public university in Arlington, Texas with 44,956 students. Tuition and fees for out-of-state and international students were $29,582 in 2024–25, and it admitted 80% of applicants in fall 2024.",
+"ka": "The University of Texas at Arlington — საჯარო უნივერსიტეტი ქალაქ Arlington-ში, 44,956 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $29,582 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 80% მიიღეს.",
+"ar": "The University of Texas at Arlington جامعة حكومية في Arlington تضم 44,956 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 29,582 دولارًا في 2024–25، وقبلت 80% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1010–1240 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1010–1240. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1010 و1240. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 80% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 80% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 80% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"texas",
+"arlington"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=228769",
+"https://www.applytexas.org/"
+],
+"verified_at": "2026-11-14",
+"application_fee": 75
+},
+{
+"id": "the-university-of-texas-at-san-antonio",
+"name": {
+"en": "The University of Texas at San Antonio"
+},
+"iso": "US",
+"city": "San Antonio",
+"lat": null,
+"lon": null,
+"type": "public",
+"website": "https://www.utsa.edu",
+"platform": null,
+"application_url": "https://www.applytexas.org/",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 22051,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 87,
+"students": 35770,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1000,
+"high": 1220,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "The University of Texas at San Antonio is a public university in San Antonio, Texas with 35,770 students. Tuition and fees for out-of-state and international students were $22,051 in 2024–25, and it admitted 87% of applicants in fall 2024.",
+"ka": "The University of Texas at San Antonio — საჯარო უნივერსიტეტი ქალაქ San Antonio-ში, 35,770 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $22,051 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 87% მიიღეს.",
+"ar": "The University of Texas at San Antonio جامعة حكومية في San Antonio تضم 35,770 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 22,051 دولارًا في 2024–25، وقبلت 87% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "The University of Texas at San Antonio is a public university in San Antonio, Texas with 35,770 students. Tuition and fees for out-of-state and international students were $22,051 in 2024–25, and it admitted 87% of applicants in fall 2024.",
+"ka": "The University of Texas at San Antonio — საჯარო უნივერსიტეტი ქალაქ San Antonio-ში, 35,770 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $22,051 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 87% მიიღეს.",
+"ar": "The University of Texas at San Antonio جامعة حكومية في San Antonio تضم 35,770 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 22,051 دولارًا في 2024–25، وقبلت 87% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1000–1220 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1000–1220. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1000 و1220. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 87% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 87% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 87% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"texas",
+"san antonio"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=229027",
+"https://www.applytexas.org/"
+],
+"verified_at": "2026-11-14",
+"application_fee": 70
+},
+{
+"id": "university-of-massachusetts-boston",
+"name": {
+"en": "University of Massachusetts Boston"
+},
+"iso": "US",
+"city": "Boston",
+"lat": null,
+"lon": null,
+"type": "public",
+"website": "https://www.umb.edu",
+"platform": null,
+"application_url": "https://www.umb.edu/admissions",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 38125,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 84,
+"students": 15575,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1070,
+"high": 1290,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "University of Massachusetts Boston is a public university in Boston, Massachusetts with 15,575 students. Tuition and fees for out-of-state and international students were $38,125 in 2024–25, and it admitted 84% of applicants in fall 2024.",
+"ka": "University of Massachusetts Boston — საჯარო უნივერსიტეტი ქალაქ Boston-ში, 15,575 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $38,125 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 84% მიიღეს.",
+"ar": "University of Massachusetts Boston جامعة حكومية في Boston تضم 15,575 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 38,125 دولارًا في 2024–25، وقبلت 84% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "University of Massachusetts Boston is a public university in Boston, Massachusetts with 15,575 students. Tuition and fees for out-of-state and international students were $38,125 in 2024–25, and it admitted 84% of applicants in fall 2024.",
+"ka": "University of Massachusetts Boston — საჯარო უნივერსიტეტი ქალაქ Boston-ში, 15,575 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $38,125 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 84% მიიღეს.",
+"ar": "University of Massachusetts Boston جامعة حكومية في Boston تضم 15,575 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 38,125 دولارًا في 2024–25، وقبلت 84% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1070–1290 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1070–1290. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1070 و1290. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 84% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 84% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 84% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "recommendations",
+"label": {
+"en": "Letters of recommendation",
+"ka": "სარეკომენდაციო წერილები",
+"ar": "خطابات التوصية"
+}
+},
+{
+"key": "personal_statement",
+"label": {
+"en": "Personal statement or essay",
+"ka": "პირადი წერილი ან ესე",
+"ar": "بيان شخصي أو مقال"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"massachusetts",
+"boston"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=166638",
+"https://www.umb.edu/admissions"
+],
+"verified_at": "2026-11-14",
+"application_fee": 60
+},
+{
+"id": "university-of-nevada-reno",
+"name": {
+"en": "University of Nevada - Reno"
+},
+"iso": "US",
+"city": "Reno",
+"lat": 39.547,
+"lon": -119.821,
+"type": "public",
+"website": "https://www.unr.edu",
+"platform": null,
+"application_url": "https://www.unr.edu/apply",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 27720,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 74,
+"students": 23024,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1060,
+"high": 1290,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "University of Nevada - Reno is a public university in Reno, Nevada with 23,024 students. Tuition and fees for out-of-state and international students were $27,720 in 2024–25, and it admitted 74% of applicants in fall 2024.",
+"ka": "University of Nevada - Reno — საჯარო უნივერსიტეტი ქალაქ Reno-ში, 23,024 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $27,720 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 74% მიიღეს.",
+"ar": "University of Nevada - Reno جامعة حكومية في Reno تضم 23,024 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 27,720 دولارًا في 2024–25، وقبلت 74% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "University of Nevada - Reno is a public university in Reno, Nevada with 23,024 students. Tuition and fees for out-of-state and international students were $27,720 in 2024–25, and it admitted 74% of applicants in fall 2024.",
+"ka": "University of Nevada - Reno — საჯარო უნივერსიტეტი ქალაქ Reno-ში, 23,024 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $27,720 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 74% მიიღეს.",
+"ar": "University of Nevada - Reno جامعة حكومية في Reno تضم 23,024 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 27,720 دولارًا في 2024–25، وقبلت 74% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1060–1290 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1060–1290. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1060 و1290. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 74% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 74% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 74% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"nevada",
+"reno"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=182290",
+"https://www.unr.edu/apply"
+],
+"verified_at": "2026-11-14",
+"application_fee": null
+},
+{
+"id": "university-of-north-texas",
+"name": {
+"en": "University of North Texas"
+},
+"iso": "US",
+"city": "Denton",
+"lat": null,
+"lon": null,
+"type": "public",
+"website": "https://www.unt.edu",
+"platform": null,
+"application_url": "https://apply.unt.edu/",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 21149,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 72,
+"students": 46864,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 980,
+"high": 1230,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "University of North Texas is a public university in Denton, Texas with 46,864 students. Tuition and fees for out-of-state and international students were $21,149 in 2024–25, and it admitted 72% of applicants in fall 2024.",
+"ka": "University of North Texas — საჯარო უნივერსიტეტი ქალაქ Denton-ში, 46,864 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $21,149 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 72% მიიღეს.",
+"ar": "University of North Texas جامعة حكومية في Denton تضم 46,864 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 21,149 دولارًا في 2024–25، وقبلت 72% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "University of North Texas is a public university in Denton, Texas with 46,864 students. Tuition and fees for out-of-state and international students were $21,149 in 2024–25, and it admitted 72% of applicants in fall 2024.",
+"ka": "University of North Texas — საჯარო უნივერსიტეტი ქალაქ Denton-ში, 46,864 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $21,149 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 72% მიიღეს.",
+"ar": "University of North Texas جامعة حكومية في Denton تضم 46,864 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 21,149 دولارًا في 2024–25، وقبلت 72% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 980–1230 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 980–1230. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 980 و1230. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 72% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 72% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 72% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"texas",
+"denton"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=227216",
+"https://apply.unt.edu/"
+],
+"verified_at": "2026-11-14",
+"application_fee": 75
+},
+{
+"id": "university-of-wyoming",
+"name": {
+"en": "University of Wyoming"
+},
+"iso": "US",
+"city": "Laramie",
+"lat": 41.311,
+"lon": -105.586,
+"type": "public",
+"website": "https://www.uwyo.edu",
+"platform": null,
+"application_url": "https://www.uwyo.edu/admissions/apply.html",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 24178,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 97,
+"students": 10813,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": null,
+"high": null,
+"required": "not-considered"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "University of Wyoming is a public university in Laramie, Wyoming with 10,813 students. Tuition and fees for out-of-state and international students were $24,178 in 2024–25, and it admitted 97% of applicants in fall 2024.",
+"ka": "University of Wyoming — საჯარო უნივერსიტეტი ქალაქ Laramie-ში, 10,813 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $24,178 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 97% მიიღეს.",
+"ar": "University of Wyoming جامعة حكومية في Laramie تضم 10,813 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 24,178 دولارًا في 2024–25، وقبلت 97% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "University of Wyoming is a public university in Laramie, Wyoming with 10,813 students. Tuition and fees for out-of-state and international students were $24,178 in 2024–25, and it admitted 97% of applicants in fall 2024.",
+"ka": "University of Wyoming — საჯარო უნივერსიტეტი ქალაქ Laramie-ში, 10,813 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $24,178 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 97% მიიღეს.",
+"ar": "University of Wyoming جامعة حكومية في Laramie تضم 10,813 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 24,178 دولارًا في 2024–25، وقبلت 97% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: not considered (test-blind). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არ განიხილება (test-blind). ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: لا يُؤخذ في الاعتبار (test-blind). اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 97% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 97% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 97% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"wyoming",
+"laramie"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=240727",
+"https://www.uwyo.edu/admissions/apply.html"
+],
+"verified_at": "2026-11-14",
+"application_fee": 40
+},
+{
+"id": "university-of-new-hampshire",
+"name": {
+"en": "University of New Hampshire"
+},
+"iso": "US",
+"city": "Durham",
+"lat": 42.987,
+"lon": -71.468,
+"type": "public",
+"website": "https://www.unh.edu",
+"platform": null,
+"application_url": "https://www.commonapp.org/",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 36418,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 81,
+"students": 663,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 973,
+"high": 1236,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "University of New Hampshire is a public university in Durham, New Hampshire with 663 students. Tuition and fees for out-of-state and international students were $36,418 in 2024–25, and it admitted 81% of applicants in fall 2024.",
+"ka": "University of New Hampshire — საჯარო უნივერსიტეტი ქალაქ Durham-ში, 663 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $36,418 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 81% მიიღეს.",
+"ar": "University of New Hampshire جامعة حكومية في Durham تضم 663 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 36,418 دولارًا في 2024–25، وقبلت 81% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "University of New Hampshire is a public university in Durham, New Hampshire with 663 students. Tuition and fees for out-of-state and international students were $36,418 in 2024–25, and it admitted 81% of applicants in fall 2024.",
+"ka": "University of New Hampshire — საჯარო უნივერსიტეტი ქალაქ Durham-ში, 663 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $36,418 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 81% მიიღეს.",
+"ar": "University of New Hampshire جامعة حكومية في Durham تضم 663 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 36,418 دولارًا في 2024–25، وقبلت 81% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 973–1236 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 973–1236. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 973 و1236. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 81% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 81% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 81% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "recommendations",
+"label": {
+"en": "Letters of recommendation",
+"ka": "სარეკომენდაციო წერილები",
+"ar": "خطابات التوصية"
+}
+},
+{
+"key": "personal_statement",
+"label": {
+"en": "Personal statement or essay",
+"ka": "პირადი წერილი ან ესე",
+"ar": "بيان شخصي أو مقال"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"new hampshire",
+"durham"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=183071",
+"https://www.commonapp.org/"
+],
+"verified_at": "2026-11-14",
+"application_fee": 65
+},
+{
+"id": "university-of-texas-el-paso",
+"name": {
+"en": "University of Texas El Paso"
+},
+"iso": "US",
+"city": "El Paso",
+"lat": 31.771,
+"lon": -106.504,
+"type": "public",
+"website": "https://www.utep.edu",
+"platform": null,
+"application_url": "https://www.applytexas.org/",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 25502,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 100,
+"students": 25039,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 860,
+"high": 1080,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "University of Texas El Paso is a public university in El Paso, Texas with 25,039 students. Tuition and fees for out-of-state and international students were $25,502 in 2024–25, and it admitted 100% of applicants in fall 2024.",
+"ka": "University of Texas El Paso — საჯარო უნივერსიტეტი ქალაქ El Paso-ში, 25,039 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $25,502 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 100% მიიღეს.",
+"ar": "University of Texas El Paso جامعة حكومية في El Paso تضم 25,039 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 25,502 دولارًا في 2024–25، وقبلت 100% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "University of Texas El Paso is a public university in El Paso, Texas with 25,039 students. Tuition and fees for out-of-state and international students were $25,502 in 2024–25, and it admitted 100% of applicants in fall 2024.",
+"ka": "University of Texas El Paso — საჯარო უნივერსიტეტი ქალაქ El Paso-ში, 25,039 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $25,502 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 100% მიიღეს.",
+"ar": "University of Texas El Paso جامعة حكومية في El Paso تضم 25,039 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 25,502 دولارًا في 2024–25، وقبلت 100% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 860–1080 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 860–1080. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 860 و1080. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 100% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 100% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 100% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"texas",
+"el paso"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=228796",
+"https://www.applytexas.org/"
+],
+"verified_at": "2026-11-14",
+"application_fee": null
+},
+{
+"id": "marquette-university",
+"name": {
+"en": "Marquette University"
+},
+"iso": "US",
+"city": "Milwaukee",
+"lat": 43.039,
+"lon": -87.928,
+"type": "private",
+"website": "https://www.marquette.edu",
+"platform": null,
+"application_url": "https://www.marquette.edu/explore/apply-today.php",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 51170,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 81,
+"students": 11746,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": 1200,
+"high": 1360,
+"required": "optional"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "Marquette University is a private university in Milwaukee, Wisconsin with 11,746 students. Tuition and fees for out-of-state and international students were $51,170 in 2024–25, and it admitted 81% of applicants in fall 2024.",
+"ka": "Marquette University — კერძო უნივერსიტეტი ქალაქ Milwaukee-ში, 11,746 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $51,170 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 81% მიიღეს.",
+"ar": "Marquette University جامعة خاصة في Milwaukee تضم 11,746 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 51,170 دولارًا في 2024–25، وقبلت 81% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "Marquette University is a private university in Milwaukee, Wisconsin with 11,746 students. Tuition and fees for out-of-state and international students were $51,170 in 2024–25, and it admitted 81% of applicants in fall 2024.",
+"ka": "Marquette University — კერძო უნივერსიტეტი ქალაქ Milwaukee-ში, 11,746 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $51,170 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 81% მიიღეს.",
+"ar": "Marquette University جامعة خاصة في Milwaukee تضم 11,746 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 51,170 دولارًا في 2024–25، وقبلت 81% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: optional (test-optional). Admitted students scored 1200–1360 on the SAT (middle 50%). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არასავალდებულოა (test-optional). მიღებული სტუდენტების SAT ქულა (შუა 50%): 1200–1360. ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: اختياري (test-optional). تراوحت درجات SAT للطلاب المقبولين (النصف الأوسط) بين 1200 و1360. اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 81% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 81% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 81% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"wisconsin",
+"milwaukee"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=239105",
+"https://www.marquette.edu/explore/apply-today.php"
+],
+"verified_at": "2026-11-14",
+"application_fee": null
+},
+{
+"id": "university-of-san-diego",
+"name": {
+"en": "University of San Diego"
+},
+"iso": "US",
+"city": "San Diego",
+"lat": 32.771,
+"lon": -117.19,
+"type": "private",
+"website": "https://www.sandiego.edu",
+"platform": null,
+"application_url": "https://www.sandiego.edu/admissions/undergraduate/apply/application.php",
+"intakes": [
+"August"
+],
+"deadline": null,
+"deadline_note": null,
+"tuition_intl": {
+"amount": 59486,
+"currency": "USD",
+"per": "year",
+"note": "2024–25 tuition and fees for out-of-state students, the rate international students pay (U.S. Department of Education, College Navigator)"
+},
+"acceptance_rate": 52,
+"students": 9714,
+"intl_pct": null,
+"languages": [
+"English"
+],
+"english_bachelors": "all",
+"qualifications": null,
+"qualifications_note": null,
+"sat": {
+"low": null,
+"high": null,
+"required": "not-considered"
+},
+"ielts_min": null,
+"toefl_min": null,
+"duolingo_min": null,
+"other_tests": [],
+"fields": null,
+"strengths": null,
+"summary": {
+"en": "University of San Diego is a private university in San Diego, California with 9,714 students. Tuition and fees for out-of-state and international students were $59,486 in 2024–25, and it admitted 52% of applicants in fall 2024.",
+"ka": "University of San Diego — კერძო უნივერსიტეტი ქალაქ San Diego-ში, 9,714 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $59,486 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 52% მიიღეს.",
+"ar": "University of San Diego جامعة خاصة في San Diego تضم 9,714 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 59,486 دولارًا في 2024–25، وقبلت 52% من المتقدمين في خريف 2024."
+},
+"about": {
+"en": "University of San Diego is a private university in San Diego, California with 9,714 students. Tuition and fees for out-of-state and international students were $59,486 in 2024–25, and it admitted 52% of applicants in fall 2024.",
+"ka": "University of San Diego — კერძო უნივერსიტეტი ქალაქ San Diego-ში, 9,714 სტუდენტით. შტატის გარეთა და საერთაშორისო სტუდენტებისთვის სწავლის საფასური 2024–25 წელს $59,486 იყო, ხოლო 2024 წლის შემოდგომაზე განმცხადებლების 52% მიიღეს.",
+"ar": "University of San Diego جامعة خاصة في San Diego تضم 9,714 طالبًا. بلغت الرسوم الدراسية للطلاب من خارج الولاية والطلاب الدوليين 59,486 دولارًا في 2024–25، وقبلت 52% من المتقدمين في خريف 2024."
+},
+"aid_intl": null,
+"tests": {
+"en": "SAT/ACT: not considered (test-blind). An English proficiency test (TOEFL, IELTS or similar) is required for applicants whose first language is not English; check the university's international page for the minimum score.",
+"ka": "SAT/ACT: არ განიხილება (test-blind). ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი) სავალდებულოა მათთვის, ვისი მშობლიური ენაც ინგლისური არ არის; მინიმალური ქულა გადაამოწმე უნივერსიტეტის საერთაშორისო გვერდზე.",
+"ar": "SAT/ACT: لا يُؤخذ في الاعتبار (test-blind). اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما) مطلوب لمن لغتهم الأم ليست الإنجليزية؛ راجع الصفحة الدولية للجامعة لمعرفة الحد الأدنى للدرجة."
+},
+"gpa_note": {
+"en": "Your secondary school record and GPA is required. In fall 2024 the university admitted 52% of applicants.",
+"ka": "სკოლის აკადემიური მოსწრება და GPA სავალდებულოა. 2024 წლის შემოდგომაზე უნივერსიტეტმა განმცხადებლების 52% მიიღო.",
+"ar": "السجل الدراسي في المرحلة الثانوية والمعدل التراكمي مطلوب. في خريف 2024 قبلت الجامعة 52% من المتقدمين."
+},
+"requirements": [
+{
+"key": "transcript",
+"label": {
+"en": "Secondary school transcripts",
+"ka": "სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+"ar": "كشوف درجات المرحلة الثانوية"
+}
+},
+{
+"key": "recommendations",
+"label": {
+"en": "Letters of recommendation",
+"ka": "სარეკომენდაციო წერილები",
+"ar": "خطابات التوصية"
+}
+},
+{
+"key": "personal_statement",
+"label": {
+"en": "Personal statement or essay",
+"ka": "პირადი წერილი ან ესე",
+"ar": "بيان شخصي أو مقال"
+}
+},
+{
+"key": "english",
+"label": {
+"en": "English proficiency test (TOEFL, IELTS or similar)",
+"ka": "ინგლისური ენის გამოცდა (TOEFL, IELTS ან მსგავსი)",
+"ar": "اختبار إتقان اللغة الإنجليزية (TOEFL أو IELTS أو ما يماثلهما)"
+}
+},
+{
+"key": "application_fee",
+"label": {
+"en": "Application fee",
+"ka": "განაცხადის საფასური",
+"ar": "رسوم التقديم"
+}
+}
+],
+"scholarships": [],
+"keywords": [
+"usa",
+"california",
+"san diego"
+],
+"sources": [
+"https://nces.ed.gov/collegenavigator/?id=122436",
+"https://www.sandiego.edu/admissions/undergraduate/apply/application.php"
+],
+"verified_at": "2026-11-14",
+"application_fee": 55
+}
+]

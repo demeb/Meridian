@@ -1,0 +1,848 @@
+[
+ {
+  "id": "ahmadu-bello-university-zaria",
+  "name": {
+   "en": "Ahmadu Bello University, Zaria",
+   "ka": "აჰმადუ ბელოს უნივერსიტეტი, ზარია",
+   "ar": "جامعة أحمدو بيلو، زاريا"
+  },
+  "iso": "NG",
+  "city": "Zaria",
+  "lat": 11.152,
+  "lon": 7.652,
+  "type": "public",
+  "website": "https://www.abu.edu.ng",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "ng",
+   "zaria"
+  ],
+  "sources": [
+   "https://www.abu.edu.ng"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "al-balqa-applied-university",
+  "name": {
+   "en": "Al-Balqa Applied University",
+   "ka": "ალ-ბალკას გამოყენებითი უნივერსიტეტი",
+   "ar": "جامعة البلقاء التطبيقية"
+  },
+  "iso": "JO",
+  "city": "As-Salt",
+  "lat": 32.039,
+  "lon": 35.727,
+  "type": "public",
+  "website": "https://www.bau.edu.jo",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "business",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "jo",
+   "as-salt"
+  ],
+  "sources": [
+   "https://www.bau.edu.jo/bauar/Units/Reg/Admissions.aspx"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "amman-arab-university",
+  "name": {
+   "en": "Amman Arab University",
+   "ka": "ამანის არაბული უნივერსიტეტი",
+   "ar": "جامعة عمان العربية"
+  },
+  "iso": "JO",
+  "city": "Amman",
+  "lat": 31.87,
+  "lon": 35.87,
+  "type": "private",
+  "website": "https://www.aau.edu.jo",
+  "platform": null,
+  "application_url": "https://edugate.aau.edu.jo/faces/ui/pages/guest/admissionOnline/index.xhtml",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Entry is based on the Jordanian Tawjihi (General Secondary Certificate) stamped by the Ministry of Higher Education. Minimum Tawjihi grades: 80% pharmacy, civil engineering and architecture; 75% Sharia; 70% applied medical fields; 65% law; 60% other majors. Some places for non-Jordanians below the minimum grade; the page does not give the percentage.",
+   "ka": "მიღება ეფუძნება იორდანიის Tawjihi-ს (ზოგადი საშუალო განათლების სერტიფიკატს). მინიმალური ქულა: 80% ფარმაცია, სამოქალაქო ინჟინერია და არქიტექტურა; 75% შარიათი; 70% გამოყენებითი სამედიცინო სპეციალობები; 65% სამართალი; 60% სხვა სპეციალობები. არაიორდანელებისთვის არსებობს შეღავათიანი ადგილები.",
+   "ar": "يعتمد القبول على شهادة الثانوية العامة الأردنية (التوجيهي) المصدقة من وزارة التعليم العالي. الحد الأدنى: 80% للصيدلة والهندسة المدنية والعمارة، 75% للشريعة، 70% للتخصصات الطبية التطبيقية، 65% للقانون، 60% لبقية التخصصات. تُقبل نسبة من غير الأردنيين بمعدل أقل من الحد الأدنى."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "law",
+   "business",
+   "engineering"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Private university in Amman offering bachelor programmes mainly in Arabic. Non-Jordanian applicants apply online; fee schedule is published per programme.",
+   "ka": "კერძო უნივერსიტეტი ამანში, საბაკალავრო პროგრამები ძირითადად არაბულ ენაზე. არაიორდანელი აპლიკანტები განაცხადს ონლაინ აგზავნიან.",
+   "ar": "جامعة خاصة في عمّان تقدم برامج البكالوريوس في الغالب بالعربية. يقدم الطلبة غير الأردنيين طلباتهم إلكترونيا."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": {
+   "en": "Minimum Tawjihi grade is 60% to 80% depending on the major; acceptance depends on the capacity of each specialization.",
+   "ka": "მინიმალური Tawjihi ქულა 60%-დან 80%-მდეა სპეციალობის მიხედვით; მიღება დამოკიდებულია ადგილების რაოდენობაზე.",
+   "ar": "الحد الأدنى لمعدل التوجيهي بين 60% و80% بحسب التخصص، والقبول مرهون بالطاقة الاستيعابية لكل تخصص."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Tawjihi certificate stamped by the Ministry of Higher Education",
+     "ka": "Tawjihi-ს სერტიფიკატი, დამოწმებული უმაღლესი განათლების სამინისტროს მიერ",
+     "ar": "شهادة التوجيهي مصدقة من وزارة التعليم العالي"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Copy of passport",
+     "ka": "პასპორტის ასლი",
+     "ar": "صورة عن جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Personal photo",
+     "ka": "პირადი ფოტო",
+     "ar": "صورة شخصية"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "jo",
+   "amman"
+  ],
+  "sources": [
+   "https://www.aau.edu.jo/en/admission/admission-requirements",
+   "https://www.aau.edu.jo/en"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "amrita-vishwa-vidyapeetham",
+  "name": {
+   "en": "Amrita Vishwa Vidyapeetham",
+   "ka": "ამრიტა ვიშვა ვიდიაპეტჰამი",
+   "ar": "جامعة أمريتا فيشوا فيديابيثام"
+  },
+  "iso": "IN",
+  "city": "Coimbatore",
+  "lat": 10.903,
+  "lon": 76.9,
+  "type": "private",
+  "website": "https://www.amrita.edu",
+  "platform": "Direct (international applicant portal)",
+  "application_url": "https://aoap.amrita.edu/international-26/index/",
+  "intakes": [
+   "August"
+  ],
+  "deadline": null,
+  "deadline_note": "The international portal for 2026-27 is closed; 2027-28 admissions are expected to open in March 2027. No closing date is published.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "business"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": {
+   "en": "Chancellor's Scholarship: 100% tuition waiver for Grade 12 or undergraduate scores above 80%. Meritorious Scholarship: 50% waiver for 70-79%.",
+   "ka": "კანცლერის სტიპენდია: სწავლის საფასურის 100% გათავისუფლება, თუ 12 კლასის ან ბაკალავრის ქულა 80%-ზე მეტია. დამსახურების სტიპენდია: 50% 70-79%-ის შემთხვევაში.",
+   "ar": "منحة المستشار: إعفاء 100% من الرسوم لمن تتجاوز درجته 80% في الصف 12 أو البكالوريوس. منحة التميز: إعفاء 50% لدرجات 70-79%."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Academic details and uploaded documents in the online application",
+     "ka": "აკადემიური ინფორმაცია და ატვირთული დოკუმენტები ონლაინ განაცხადში",
+     "ar": "التفاصيل الأكاديمية والوثائق المرفوعة في الطلب الإلكتروني"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Chancellor's Scholarship",
+    "url": "https://www.amrita.edu/international/admissions/",
+    "coverage": "full"
+   },
+   {
+    "name": "Meritorious Scholarship",
+    "url": "https://www.amrita.edu/international/admissions/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "in",
+   "coimbatore"
+  ],
+  "sources": [
+   "https://www.amrita.edu/international/admissions/",
+   "https://aoap.amrita.edu/international-26/index/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "anhui-university",
+  "name": {
+   "en": "Anhui University",
+   "ka": "ანხუის უნივერსიტეტი",
+   "ar": "جامعة آنهوي"
+  },
+  "iso": "CN",
+  "city": "Hefei",
+  "lat": 31.768,
+  "lon": 117.185,
+  "type": "public",
+  "website": "https://www.ahu.edu.cn",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "humanities"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "cn",
+   "hefei"
+  ],
+  "sources": [
+   "https://www.ahu.edu.cn/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "beijing-foreign-studies-university",
+  "name": {
+   "en": "Beijing Foreign Studies University",
+   "ka": "პეკინის უცხოური კვლევების უნივერსიტეტი",
+   "ar": "جامعة بكين للدراسات الأجنبية"
+  },
+  "iso": "CN",
+  "city": "Beijing",
+  "lat": 39.956,
+  "lon": 116.32,
+  "type": "public",
+  "website": "https://www.bfsu.edu.cn",
+  "platform": null,
+  "application_url": "https://study.bfsu.edu.cn",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "languages",
+   "international-relations",
+   "humanities"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "cn",
+   "beijing"
+  ],
+  "sources": [
+   "https://www.bfsu.edu.cn/",
+   "http://en.bfsu.edu.cn/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "beni-suef-university",
+  "name": {
+   "en": "Beni-Suef University",
+   "ka": "ბენი-სუეიფის უნივერსიტეტი",
+   "ar": "جامعة بني سويف"
+  },
+  "iso": "EG",
+  "city": "Beni-Suef",
+  "lat": 29.074,
+  "lon": 31.098,
+  "type": "public",
+  "website": "https://www.bsu.edu.eg",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "education"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "eg",
+   "beni-suef"
+  ],
+  "sources": [
+   "https://www.bsu.edu.eg"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "brock-university",
+  "name": {
+   "en": "Brock University",
+   "ka": "ბროკის უნივერსიტეტი",
+   "ar": "جامعة بروك"
+  },
+  "iso": "CA",
+  "city": "St. Catharines",
+  "lat": 43.118,
+  "lon": -79.248,
+  "type": "public",
+  "website": "https://brocku.ca",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 19000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "social-sciences",
+   "education"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "ca",
+   "st. catharines"
+  ],
+  "sources": [
+   "https://brocku.ca"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "capital-university-egypt",
+  "name": {
+   "en": "Capital University – Egypt",
+   "ka": "კაპიტალ უნივერსიტეტი (ეგვიპტე)",
+   "ar": "جامعة العاصمة (مصر)"
+  },
+  "iso": "EG",
+  "city": "Helwan",
+  "lat": 29.849,
+  "lon": 31.334,
+  "type": "public",
+  "website": "https://www.helwan.edu.eg",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "business",
+   "arts-design"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "eg",
+   "helwan"
+  ],
+  "sources": [
+   "https://www.helwan.edu.eg"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "central-china-normal-university",
+  "name": {
+   "en": "Central China Normal University",
+   "ka": "ცენტრალური ჩინეთის პედაგოგიური უნივერსიტეტი",
+   "ar": "جامعة وسط الصين العادية"
+  },
+  "iso": "CN",
+  "city": "Wuhan",
+  "lat": 30.512,
+  "lon": 114.363,
+  "type": "public",
+  "website": "https://www.ccnu.edu.cn",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "education",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "cn",
+   "wuhan"
+  ],
+  "sources": [
+   "http://english.ccnu.edu.cn"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "damascus-university",
+  "name": {
+   "en": "Damascus University",
+   "ka": "დამასკოს უნივერსიტეტი",
+   "ar": "جامعة دمشق"
+  },
+  "iso": "SY",
+  "city": "Damascus",
+  "lat": 33.51,
+  "lon": 36.289,
+  "type": "public",
+  "website": "https://damascusuniversity.edu.sy",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "law"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "sy",
+   "damascus"
+  ],
+  "sources": [
+   "https://damascusuniversity.edu.sy"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "delta-university-for-science-and-technology",
+  "name": {
+   "en": "Delta University for Science and Technology",
+   "ka": "დელტას მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი",
+   "ar": "جامعة الدلتا للعلوم والتكنولوجيا"
+  },
+  "iso": "EG",
+  "city": "Dakahlia",
+  "lat": 31.14,
+  "lon": 31.39,
+  "type": "private",
+  "website": "https://www.deltauniv.edu.eg",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "eg",
+   "dakahlia"
+  ],
+  "sources": [
+   "https://www.deltauniv.edu.eg"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "democritus-university-of-thrace-duth",
+  "name": {
+   "en": "Democritus University of Thrace (DUTH)",
+   "ka": "თრაკიის დემოკრიტეს უნივერსიტეტი",
+   "ar": "جامعة ديموقريطس في تراقيا"
+  },
+  "iso": "GR",
+  "city": "Komotini",
+  "lat": 41.122,
+  "lon": 25.406,
+  "type": "public",
+  "website": "https://www.duth.gr",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Greek"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "law",
+   "education"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "gr",
+   "komotini"
+  ],
+  "sources": [
+   "https://www.duth.gr"
+  ],
+  "verified_at": "2026-11-14"
+ }
+]

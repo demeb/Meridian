@@ -18,10 +18,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Newsreader:ital,wght@0,400;1,400&family=Noto+Sans+Georgian:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&family=Noto+Kufi+Arabic:wght@600;700&display=swap" />
-  <link rel="stylesheet" href="/css/tokens.css?v=r7" />
-  <link rel="stylesheet" href="/css/base.css?v=r7" />
-  <link rel="stylesheet" href="/css/components.css?v=r7" />
-  <link rel="stylesheet" href="/css/pages.css?v=r7" />
+  <link rel="stylesheet" href="/css/tokens.css?v=r10" />
+  <link rel="stylesheet" href="/css/base.css?v=r10" />
+  <link rel="stylesheet" href="/css/components.css?v=r10" />
+  <link rel="stylesheet" href="/css/pages.css?v=r10" />
   <script>
     /* Set theme + language before first paint so nothing flashes. */
     (function () {
@@ -64,13 +64,16 @@
 
     <section style="padding-bottom:var(--space-9)">
       <div class="container-wide">
-        <nav class="section-tabs section-tabs-2" role="tablist" aria-label="Sections">
+        <nav class="section-tabs section-tabs-3" role="tablist" aria-label="Sections">
           <a href="/programs?s=projects" class="sec-tab" data-section="project" role="tab">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg>
             <span data-i18n="programs.sec.projects">Projects</span><span class="sec-count"></span></a>
           <a href="/programs?s=scholarships" class="sec-tab" data-section="scholarship" role="tab">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="9" r="5.5"/><path d="m8.5 13.8-1.3 7.2L12 18.6l4.8 2.4-1.3-7.2"/></svg>
             <span data-i18n="programs.sec.scholarships">Scholarships</span><span class="sec-count"></span></a>
+          <a href="/programs?s=internships" class="sec-tab" data-section="internship" role="tab">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2M3 13h18"/></svg>
+            <span data-i18n="programs.sec.internships">Internships</span><span class="sec-count"></span></a>
         </nav>
 
         <section class="highlights" aria-labelledby="hlTitle">
@@ -116,7 +119,8 @@
               <span class="legend-row"><i class="legend-swatch" style="color:#9fb3d6;background:#9fb3d6"></i><span data-i18n="programs.legend.locked">Members only</span></span>
             </div>
             <div class="country-chip" id="countryChip" hidden>
-              <span class="cc-flag" id="countryChipFlag"></span><span class="cc-text"><small>UN</small><b id="countryChipLabel"></b><i id="countryChipNote"></i></span>
+              <span class="cc-flag" id="countryChipFlag"></span><span class="cc-text"><b id="countryChipLabel"></b><i id="countryChipNote"></i></span>
+              <select class="cc-state" id="stateSelect" aria-label="State" hidden></select>
               <button type="button" id="countryClear" aria-label="Clear country">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
               </button>
@@ -150,10 +154,10 @@
 
   <div id="footer-root"></div>
 
-  <script src="/js/i18n.js?v=r7"></script>
-  <script src="/js/app.js?v=r7"></script>
-  <script src="/vendor/globe.gl.min.js?v=r7"></script>
-  <script src="/js/earth.js?v=r7"></script>
-  <script src="/js/programs.js?v=r7"></script>
+  <script src="/js/i18n.js?v=r10"></script>
+  <script src="/js/app.js?v=r10"></script>
+  <script src="/vendor/globe.gl.min.js?v=r10"></script>
+  <script src="/js/earth.js?v=r10"></script>
+  <script src="/js/programs.js?v=r10"></script>
 </body>
 </html>

@@ -1,0 +1,1418 @@
+[
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 77,
+  "duolingo_min": 120,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": null,
+  "qualifications_note": null,
+  "tests": {
+   "en": "English proof is required unless you studied two years at a US high school. Minimums: TOEFL 77, IELTS 6.0 (5.5 per section), Duolingo 120. Scores must be under two years old.",
+   "ka": "ინგლისურის დამადასტურებელი ტესტი სავალდებულოა, თუ აშშ-ის სკოლაში 2 წელი არ გისწავლიათ. მინიმუმი: TOEFL 77, IELTS 6.0 (თითოეულ ნაწილში 5.5), Duolingo 120. შედეგი ორ წელზე ძველი არ უნდა იყოს.",
+   "ar": "يلزم إثبات اللغة الإنجليزية ما لم تدرس سنتين في مدرسة ثانوية أمريكية. الحدود الدنيا: TOEFL 77 وIELTS 6.0 (5.5 لكل قسم) وDuolingo 120. يجب ألا تتجاوز النتائج عامين."
+  },
+  "gpa_note": {
+   "en": "Admission is holistic and looks at course strength, grades and test scores. UAB publishes no minimum GPA for international first-year applicants.",
+   "ka": "მიღება კომპლექსურია: ითვლება საგნების სირთულე, ნიშნები და ტესტების შედეგები. საერთაშორისო პირველკურსელებისთვის მინიმალური GPA გამოქვეყნებული არ არის.",
+   "ar": "القبول شامل ويراعي قوة المقررات والدرجات ونتائج الاختبارات. لا تنشر الجامعة حدا أدنى للمعدل للطلاب الدوليين."
+  },
+  "aid_intl": null,
+  "deadline": null,
+  "deadline_note": "Priority dates for first-year applicants are June 1 for fall, November 1 for spring and May 15 for summer. Later applications are considered if space is available.",
+  "tuition_intl": {
+   "amount": 32490,
+   "currency": "USD",
+   "per": "year",
+   "note": "International undergraduate tuition and fees for 2026-27, 15 credit hours per semester; out-of-state is $29,820."
+  },
+  "application_url": "https://www.uab.edu/admissions/apply/international/freshman",
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის აკადემიური ჩანაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency test",
+     "ka": "ინგლისური ენის ცოდნის ტესტი",
+     "ar": "اختبار إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "platform": "UAB online application",
+  "verified_at": "2026-11-14",
+  "id": "university-of-alabama-at-birmingham",
+  "name": {
+   "en": "University of Alabama at Birmingham",
+   "ka": "ალაბამას უნივერსიტეტი ბირმინგემში",
+   "ar": "جامعة ألاباما في برمنغهام"
+  },
+  "iso": "US",
+  "city": "Birmingham",
+  "lat": 33.502,
+  "lon": -86.805,
+  "type": "public",
+  "website": "https://www.uab.edu",
+  "intakes": [
+   "August",
+   "January",
+   "May"
+  ],
+  "students": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "engineering",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Health professions",
+    "Biomedical sciences",
+    "Engineering",
+    "Business"
+   ],
+   "ka": [
+    "ჯანდაცვის პროფესიები",
+    "ბიომედიცინა",
+    "ინჟინერია",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "المهن الصحية",
+    "العلوم الطبية الحيوية",
+    "الهندسة",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "UAB is a large public research university in Birmingham, Alabama, known for health sciences. International undergraduates pay about $32,490 a year in tuition and fees.",
+   "ka": "UAB არის ალაბამის ბირმინგემის დიდი საჯარო კვლევითი უნივერსიტეტი, ცნობილი ჯანდაცვის მეცნიერებებით. საერთაშორისო სტუდენტის წლიური საფასური დაახლოებით $32,490-ია.",
+   "ar": "جامعة ألاباما في برمنغهام جامعة بحثية حكومية كبيرة معروفة بالعلوم الصحية. يدفع الطالب الدولي نحو 32,490 دولارا سنويا رسوما دراسية."
+  },
+  "about": {
+   "en": "UAB is a public research university in Birmingham, Alabama, with a strong medical centre. International first-year applicants apply online, send official English transcripts and prove English with TOEFL, IELTS or Duolingo. Classes are in English. Tuition and fees for international undergraduates are about $32,490 per year for 2026-27.",
+   "ka": "UAB ალაბამის ბირმინგემში მდებარე საჯარო კვლევითი უნივერსიტეტია ძლიერი სამედიცინო ცენტრით. საერთაშორისო აპლიკანტები განაცხადს ონლაინ აგზავნიან, წარადგენენ ინგლისურ ტრანსკრიპტს და ინგლისურის ტესტს (TOEFL, IELTS ან Duolingo). სწავლება ინგლისურია. 2026-27 წელს საერთაშორისო სტუდენტის საფასური დაახლოებით $32,490-ია.",
+   "ar": "جامعة ألاباما في برمنغهام جامعة بحثية حكومية فيها مركز طبي قوي. يقدم الطلاب الدوليون طلبهم إلكترونيا مع كشوف درجات رسمية بالإنجليزية ونتيجة TOEFL أو IELTS أو Duolingo. التدريس بالإنجليزية. تبلغ الرسوم للطالب الدولي نحو 32,490 دولارا سنويا للعام 2026-27."
+  },
+  "keywords": [
+   "usa",
+   "alabama",
+   "birmingham",
+   "health sciences",
+   "public"
+  ],
+  "sources": [
+   "https://www.uab.edu/admissions/apply/international/freshman",
+   "https://www.uab.edu/admissions/cost/estimated-costs"
+  ]
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.5,
+  "toefl_min": null,
+  "duolingo_min": 110,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": null,
+  "qualifications_note": null,
+  "tests": {
+   "en": "English proof is required: IELTS 6.5, PTE 55 or Duolingo 110 for undergraduates. Citizens of the UK, Canada (except Quebec), Australia, New Zealand, Ireland, Singapore and South Africa are exempt.",
+   "ka": "ინგლისურის დამადასტურებელი ტესტი სავალდებულოა: IELTS 6.5, PTE 55 ან Duolingo 110. გათავისუფლებულია დიდი ბრიტანეთის, კანადის (კვებეკის გარდა), ავსტრალიის, ახალი ზელანდიის, ირლანდიის, სინგაპურისა და სამხრეთ აფრიკის მოქალაქეები.",
+   "ar": "يلزم إثبات اللغة الإنجليزية: IELTS 6.5 أو PTE 55 أو Duolingo 110 للمرحلة الجامعية. يعفى مواطنو بريطانيا وكندا (عدا كيبك) وأستراليا ونيوزيلندا وأيرلندا وسنغافورة وجنوب أفريقيا."
+  },
+  "gpa_note": {
+   "en": "International applicants must meet the same admission standards as US applicants; the school has an open admission policy.",
+   "ka": "საერთაშორისო აპლიკანტებმა უნდა დააკმაყოფილონ იგივე სტანდარტები, რაც ამერიკელებმა; უნივერსიტეტს ღია მიღების პოლიტიკა აქვს.",
+   "ar": "يجب أن يستوفي المتقدمون الدوليون معايير القبول نفسها المطبقة على الأمريكيين، والجامعة تتبع سياسة قبول مفتوح."
+  },
+  "aid_intl": null,
+  "deadline": "2027-03-01",
+  "deadline_note": "International applicants: March 1 for fall and September 1 for spring (UAF admissions page; year not stated, shown for the 2027 fall intake).",
+  "tuition_intl": {
+   "amount": 22320,
+   "currency": "USD",
+   "per": "year",
+   "note": "Out-of-state tuition and fees 2024-25 (College Navigator); international rate not listed separately."
+  },
+  "application_url": "https://www.uaf.edu/admissions/international/",
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის აკადემიური ჩანაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency test",
+     "ka": "ინგლისური ენის ცოდნის ტესტი",
+     "ar": "اختبار إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Financial statement",
+     "ka": "ფინანსური მდგომარეობის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات القدرة المالية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "platform": "UAF application or Common App",
+  "verified_at": "2026-11-14",
+  "id": "university-of-alaska-fairbanks",
+  "name": {
+   "en": "University of Alaska Fairbanks",
+   "ka": "ალასკის უნივერსიტეტი ფეარბენქსში",
+   "ar": "جامعة ألاسكا فيربانكس"
+  },
+  "iso": "US",
+  "city": "Fairbanks",
+  "lat": 64.857,
+  "lon": -147.828,
+  "type": "public",
+  "website": "https://www.uaf.edu",
+  "intakes": [
+   "August",
+   "January"
+  ],
+  "students": 6893,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Arctic and climate science",
+    "Geophysics",
+    "Engineering",
+    "Biology"
+   ],
+   "ka": [
+    "არქტიკისა და კლიმატის მეცნიერება",
+    "გეოფიზიკა",
+    "ინჟინერია",
+    "ბიოლოგია"
+   ],
+   "ar": [
+    "علوم القطب والمناخ",
+    "الجيوفيزياء",
+    "الهندسة",
+    "علم الأحياء"
+   ]
+  },
+  "summary": {
+   "en": "UAF is a public research university in interior Alaska, a leader in Arctic and climate research. Out-of-state tuition and fees are about $22,300 a year.",
+   "ka": "UAF ალასკის შიდა ნაწილში მდებარე საჯარო კვლევითი უნივერსიტეტია, არქტიკისა და კლიმატის კვლევის ლიდერი. საფასური დაახლოებით $22,300-ია წელიწადში.",
+   "ar": "جامعة ألاسكا فيربانكس جامعة بحثية حكومية رائدة في أبحاث القطب والمناخ. تبلغ الرسوم لغير سكان الولاية نحو 22,300 دولار سنويا."
+  },
+  "about": {
+   "en": "UAF is a public university in Fairbanks, Alaska, with about 6,900 students. It is a research leader in Arctic science and has open admission. International applicants prove English, send transcripts evaluated by a NACES-approved service, and receive an I-20 after admission. Teaching is in English. Out-of-state tuition and fees were $22,320 in 2024-25.",
+   "ka": "UAF ფეარბენქსის (ალასკა) საჯარო უნივერსიტეტია დაახლოებით 6 900 სტუდენტით. ის არქტიკული მეცნიერების ლიდერია და ღია მიღება აქვს. საერთაშორისო აპლიკანტები ადასტურებენ ინგლისურს, აგზავნიან NACES-ის აკრედიტებული სერვისით შეფასებულ ტრანსკრიპტს და მიღების შემდეგ იღებენ I-20-ს. სწავლება ინგლისურია. 2024-25 წელს საფასური $22,320 იყო.",
+   "ar": "جامعة ألاسكا فيربانكس جامعة حكومية فيها نحو 6,900 طالب، رائدة في علوم القطب وتتبع القبول المفتوح. يثبت المتقدمون الدوليون إتقان الإنجليزية ويرسلون كشوف درجات مقيمة عبر جهة معتمدة من NACES ثم يحصلون على نموذج I-20 بعد القبول. التدريس بالإنجليزية. بلغت الرسوم 22,320 دولارا في 2024-25."
+  },
+  "keywords": [
+   "usa",
+   "alaska",
+   "fairbanks",
+   "arctic",
+   "open admission"
+  ],
+  "sources": [
+   "https://www.uaf.edu/admissions/",
+   "https://www.uaf.edu/admissions/international/",
+   "https://nces.ed.gov/collegenavigator/?id=102614"
+  ]
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Home certificates are checked in the anabin database; non-EU applicants need a uni-assist preliminary review (VPD).",
+   "ka": "ატესტატები მოწმდება anabin-ის ბაზაში; EU-ს გარეთ მყოფმა აპლიკანტებმა uni-assist-ის წინასწარი შეფასება (VPD) უნდა გაიარონ.",
+   "ar": "تفحص الشهادات في قاعدة anabin، ويحتاج المتقدمون من خارج الاتحاد الأوروبي إلى مراجعة أولية من uni-assist (VPD)."
+  },
+  "tests": {
+   "en": "Programmes taught in German need recognised proof of German. Programmes taught in another language need proof of that language. A Studienkolleg entrance test counts as an entrance qualification.",
+   "ka": "გერმანულენოვანი პროგრამებისთვის საჭიროა გერმანულის აღიარებული დამადასტურებელი დოკუმენტი, სხვა ენაზე პროგრამებისთვის კი — იმ ენის ცოდნა. Studienkolleg-ის შესასვლელი გამოცდა ჩაითვლება საუნივერსიტეტო კვალიფიკაციად.",
+   "ar": "تتطلب البرامج بالألمانية إثباتا معترفا به للغة الألمانية، والبرامج بلغة أخرى إثباتا لتلك اللغة. ويعد اختبار القبول في Studienkolleg مؤهلا للدخول."
+  },
+  "gpa_note": {
+   "en": "Check in the anabin database whether your school certificate qualifies for direct study in Germany; otherwise a Studienkolleg may be needed.",
+   "ka": "გადაამოწმეთ anabin-ის ბაზაში აძლევს თუ არა თქვენი ატესტატი გერმანიაში პირდაპირ სწავლის უფლებას; წინააღმდეგ შემთხვევაში შესაძლოა Studienkolleg იყოს საჭირო.",
+   "ar": "تحقق في قاعدة anabin هل تؤهلك شهادتك للدراسة المباشرة في ألمانيا، وإلا فقد تحتاج إلى Studienkolleg."
+  },
+  "aid_intl": null,
+  "deadline": "2027-07-15",
+  "deadline_note": "For subjects with restricted admission, winter semester applications close 15 July and summer semester applications close 15 January. Unrestricted subjects have separate dates. Non-EU applicants need a uni-assist VPD, so contact uni-assist at least 8 weeks before the deadline.",
+  "tuition_intl": null,
+  "application_url": "https://www.hhu.de/en/studies/application-and-enrolment/application-of-prospective-students-from-abroad",
+  "requirements": [
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma assessment (uni-assist VPD)",
+     "ka": "დიპლომის შეფასება (uni-assist VPD)",
+     "ar": "تقييم الشهادة (uni-assist VPD)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "German language proof",
+     "ka": "გერმანული ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الألمانية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის აკადემიური ჩანაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   }
+  ],
+  "platform": "uni-assist preliminary review (VPD) + HHU application portal",
+  "verified_at": "2026-11-14",
+  "id": "university-duesseldorf",
+  "name": {
+   "en": "University Duesseldorf",
+   "ka": "დიუსელდორფის უნივერსიტეტი",
+   "ar": "جامعة دوسلدورف"
+  },
+  "iso": "DE",
+  "city": "Düsseldorf",
+  "lat": 51.19,
+  "lon": 6.794,
+  "type": "public",
+  "website": "https://www.hhu.de",
+  "intakes": [
+   "October",
+   "April"
+  ],
+  "students": null,
+  "languages": [
+   "German",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "natural-sciences",
+   "medicine-health",
+   "law",
+   "economics",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Biology and chemistry",
+    "Law",
+    "Economics",
+    "Humanities"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ბიოლოგია და ქიმია",
+    "სამართალი",
+    "ეკონომიკა",
+    "ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "الطب",
+    "الأحياء والكيمياء",
+    "القانون",
+    "الاقتصاد",
+    "العلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "Heinrich Heine University Düsseldorf is a large public university in the Rhine region. Non-EU bachelor applicants apply through uni-assist and mostly need German.",
+   "ka": "დიუსელდორფის ჰაინრიხ ჰაინეს უნივერსიტეტი რაინის რეგიონის დიდი საჯარო უნივერსიტეტია. EU-ს გარეთ მყოფი აპლიკანტები uni-assist-ით ჩაირიცხებიან და უმეტესად გერმანული სჭირდებათ.",
+   "ar": "جامعة هاينريش هاينه دوسلدورف جامعة حكومية كبيرة. يتقدم الطلاب من خارج الاتحاد الأوروبي عبر uni-assist ويحتاج معظمهم إلى اللغة الألمانية."
+  },
+  "about": {
+   "en": "Heinrich Heine University (HHU) is a public university in Düsseldorf with faculties of medicine, sciences, law, economics and humanities. Non-EU bachelor applicants first obtain a preliminary review (VPD) from uni-assist, then apply online; posted documents are not accepted. Most bachelor programmes are in German, so recognised German proof is needed. HHU publishes no tuition for bachelor students on the pages used.",
+   "ka": "ჰაინრიხ ჰაინეს უნივერსიტეტი დიუსელდორფში საჯარო უნივერსიტეტია მედიცინის, საბუნებისმეტყველო, სამართლის, ეკონომიკისა და ჰუმანიტარულ ფაკულტეტებით. EU-ს გარეთ მყოფმა აპლიკანტებმა ჯერ uni-assist-ისგან უნდა მიიღონ წინასწარი შეფასება (VPD), შემდეგ განაცხადი ონლაინ გააგზავნონ; ფოსტით გაგზავნილი დოკუმენტები არ მიიღება. ბაკალავრიატის უმეტესობა გერმანულია, ამიტომ გერმანულის აღიარებული დამადასტურებელი დოკუმენტი სჭირდება.",
+   "ar": "جامعة هاينريش هاينه جامعة حكومية في دوسلدورف فيها كليات الطب والعلوم والقانون والاقتصاد والإنسانيات. يحصل المتقدمون من خارج الاتحاد الأوروبي أولا على مراجعة أولية (VPD) من uni-assist ثم يقدمون إلكترونيا، ولا تقبل المستندات المرسلة بالبريد. معظم برامج البكالوريوس بالألمانية لذا يلزم إثبات معترف به للغة الألمانية."
+  },
+  "keywords": [
+   "germany",
+   "duesseldorf",
+   "hhu",
+   "uni-assist",
+   "medicine"
+  ],
+  "sources": [
+   "https://www.hhu.de/en/studies/translate-to-english-bewerbung-und-einschreibung/application-of-prospective-students-from-abroad/application-as-a-foreign-student",
+   "https://www.hhu.de/en/"
+  ]
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "required"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "SAT/ACT/IB/A-Level"
+  ],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "12 or more years of schooling. SAT, ACT, IB Diploma or A-Levels must be submitted. The German Abitur is not accepted as the test requirement.",
+   "ka": "საჭიროა 12 ან მეტი წლის განათლება. უნდა წარადგინოთ SAT, ACT, IB ან A-Level. გერმანული Abitur ტესტის მოთხოვნად არ მიიღება.",
+   "ar": "يلزم 12 سنة دراسية أو أكثر مع تقديم SAT أو ACT أو IB أو A-Level. لا تقبل شهادة Abitur الألمانية بديلا عن هذا الشرط."
+  },
+  "tests": {
+   "en": "All applicants must submit at least one of SAT, ACT, IB Diploma or GCE A-Levels, plus TOEFL or IELTS. There is no minimum score. TOEFL or IELTS can be waived if you studied at least five of the last six years in English.",
+   "ka": "ყველა აპლიკანტმა უნდა წარადგინოს SAT, ACT, IB დიპლომი ან GCE A-Level მინიმუმ ერთი, ასევე TOEFL ან IELTS. მინიმალური ქულა დადგენილი არ არის. TOEFL/IELTS არ მოითხოვება, თუ ბოლო ექვსი წლიდან მინიმუმ ხუთი ინგლისურენოვან სკოლაში იმსწავლეთ.",
+   "ar": "يجب على كل متقدم تقديم واحد على الأقل من SAT أو ACT أو دبلوم IB أو A-Level إضافة إلى TOEFL أو IELTS. لا يوجد حد أدنى للدرجات. يعفى من TOEFL/IELTS من درس خمس سنوات على الأقل من آخر ست سنوات بالإنجليزية."
+  },
+  "gpa_note": {
+   "en": "Applicants need 12 or more years of formal education. There is no minimum GPA and no special quota for international students.",
+   "ka": "აპლიკანტს უნდა ჰქონდეს მინიმუმ 12 წლიანი განათლება. მინიმალური GPA არ არსებობს და საერთაშორისო სტუდენტებისთვის ცალკე კვოტა არ არის.",
+   "ar": "يلزم 12 سنة دراسية على الأقل. لا يوجد حد أدنى للمعدل ولا حصة خاصة للطلاب الدوليين."
+  },
+  "aid_intl": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "application_url": "https://adm.sophia.ac.jp/eng/admissions/ug_p/en_ug/",
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის აკადემიური ჩანაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency test",
+     "ka": "ინგლისური ენის ცოდნის ტესტი",
+     "ar": "اختبار إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "SAT, ACT, IB or A-level results",
+     "ka": "SAT, ACT, IB ან A-level შედეგები",
+     "ar": "نتائج SAT أو ACT أو IB أو A-level"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Recommendation letters",
+     "ka": "სარეკომენდაციო წერილები",
+     "ar": "رسائل توصية"
+    }
+   },
+   {
+    "key": "essay",
+    "label": {
+     "en": "Essay",
+     "ka": "ესე",
+     "ar": "مقال"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "platform": "Sophia online application (MyPage) for English-taught programmes",
+  "verified_at": "2026-11-14",
+  "id": "sophia-university",
+  "name": {
+   "en": "Sophia University",
+   "ka": "სოფიას უნივერსიტეტი",
+   "ar": "جامعة صوفيا (طوكيو)"
+  },
+  "iso": "JP",
+  "city": "Tokyo",
+  "lat": 35.685,
+  "lon": 139.733,
+  "type": "private",
+  "website": "https://www.sophia.ac.jp",
+  "intakes": [
+   "April",
+   "September"
+  ],
+  "students": null,
+  "languages": [
+   "English",
+   "Japanese"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "humanities",
+   "international-relations",
+   "social-sciences",
+   "languages",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Liberal arts",
+    "Sustainable futures (SPSF)",
+    "Journalism",
+    "International relations",
+    "Digital green technology"
+   ],
+   "ka": [
+    "ლიბერალური ხელოვნება",
+    "მდგრადი მომავლის პროგრამა (SPSF)",
+    "ჟურნალისტიკა",
+    "საერთაშორისო ურთიერთობები",
+    "ციფრული მწვანე ტექნოლოგია"
+   ],
+   "ar": [
+    "الفنون الحرة",
+    "برنامج المستقبل المستدام (SPSF)",
+    "الصحافة",
+    "العلاقات الدولية",
+    "التكنولوجيا الخضراء الرقمية"
+   ]
+  },
+  "summary": {
+   "en": "Sophia is a private Jesuit university in central Tokyo with English-taught bachelor programmes. There is no minimum test score, but SAT, ACT, IB or A-Levels must be submitted.",
+   "ka": "სოფია ტოკიოს ცენტრში მდებარე კერძო იეზუიტური უნივერსიტეტია ინგლისურენოვანი ბაკალავრის პროგრამებით. მინიმალური ქულა არ არის, მაგრამ SAT, ACT, IB ან A-Level სავალდებულოა.",
+   "ar": "جامعة صوفيا جامعة يسوعية خاصة في وسط طوكيو لديها برامج بكالوريوس بالإنجليزية. لا يوجد حد أدنى للدرجات لكن يجب تقديم SAT أو ACT أو IB أو A-Level."
+  },
+  "about": {
+   "en": "Sophia University is a private university in Tokyo. Its English-taught bachelor programmes are the BA in Liberal Arts, the Sophia Program for Sustainable Futures (SPSF) and Digital Green Technology (DGTech, engineering). Applicants apply online through MyPage, pay the fee and upload documents. Selection is by documents and there is no separate international quota. Tuition amounts and dates are in the Application Procedures Booklet.",
+   "ka": "სოფიას უნივერსიტეტი ტოკიოს კერძო უნივერსიტეტია. ინგლისურენოვანი ბაკალავრის პროგრამებია: ლიბერალური ხელოვნება, მდგრადი მომავლის პროგრამა (SPSF) და ციფრული მწვანე ტექნოლოგია (DGTech, ინჟინერია). განაცხადი ონლაინ, MyPage-ით იგზავნება; გადასახადი იხდება და დოკუმენტები იტვირთება. შერჩევა დოკუმენტებით ხდება, საერთაშორისო კვოტა ცალკე არ არის. საფასურსა და ვადებს ეძებეთ განაცხადის ბუკლეტში.",
+   "ar": "جامعة صوفيا جامعة خاصة في طوكيو. برامجها بالإنجليزية هي بكالوريوس الفنون الحرة وبرنامج صوفيا للمستقبل المستدام (SPSF) والتكنولوجيا الخضراء الرقمية (DGTech) الهندسية. يقدم الطلب إلكترونيا عبر MyPage مع دفع الرسوم ورفع المستندات. الاختيار بالمستندات ولا توجد حصة دولية منفصلة. تجدون الرسوم والمواعيد في كتيب إجراءات التقديم."
+  },
+  "keywords": [
+   "japan",
+   "tokyo",
+   "sophia",
+   "english-taught",
+   "liberal arts"
+  ],
+  "sources": [
+   "https://adm.sophia.ac.jp/eng/admissions/",
+   "https://adm.sophia.ac.jp/eng/admissions/ug_p/en_ug/",
+   "https://adm.sophia.ac.jp/eng/admissions/ug_p/en_ug/faq/"
+  ]
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": null,
+  "qualifications_note": null,
+  "tests": null,
+  "gpa_note": null,
+  "aid_intl": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 535800,
+   "currency": "JPY",
+   "per": "year",
+   "note": "Annual tuition; plus a one-time admission fee of 282,000 JPY and an exam fee of 17,000 JPY."
+  },
+  "application_url": "https://www.tuat.ac.jp/en/applicants/",
+  "requirements": [],
+  "platform": "Direct application",
+  "verified_at": "2026-11-14",
+  "id": "tokyo-university-of-agriculture-and-technology",
+  "name": {
+   "en": "Tokyo University of Agriculture and Technology",
+   "ka": "ტოკიოს სოფლის მეურნეობისა და ტექნოლოგიების უნივერსიტეტი",
+   "ar": "جامعة طوكيو للزراعة والتكنولوجيا"
+  },
+  "iso": "JP",
+  "city": "Tokyo",
+  "lat": 35.688,
+  "lon": 139.482,
+  "type": "public",
+  "website": "https://www.tuat.ac.jp",
+  "intakes": [
+   "April"
+  ],
+  "students": null,
+  "languages": [
+   "Japanese"
+  ],
+  "english_bachelors": "none",
+  "fields": [
+   "engineering",
+   "environment",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Agriculture",
+    "Veterinary medicine",
+    "Engineering",
+    "Biotechnology",
+    "Applied chemistry"
+   ],
+   "ka": [
+    "სოფლის მეურნეობა",
+    "ვეტერინარია",
+    "ინჟინერია",
+    "ბიოტექნოლოგია",
+    "გამოყენებითი ქიმია"
+   ],
+   "ar": [
+    "الزراعة",
+    "الطب البيطري",
+    "الهندسة",
+    "التقنية الحيوية",
+    "الكيمياء التطبيقية"
+   ]
+  },
+  "summary": {
+   "en": "TUAT is a national university in Tokyo with faculties of Agriculture and Engineering. Undergraduate tuition is 535,800 yen a year.",
+   "ka": "TUAT ტოკიოს ეროვნული უნივერსიტეტია სოფლის მეურნეობისა და ინჟინერიის ფაკულტეტებით. წლიური საფასური 535 800 იენია.",
+   "ar": "جامعة طوكيو للزراعة والتكنولوجيا جامعة وطنية فيها كليتا الزراعة والهندسة. الرسوم الجامعية 535,800 ين سنويا."
+  },
+  "about": {
+   "en": "Tokyo University of Agriculture and Technology is a national university with two undergraduate faculties, Agriculture and Engineering, covering biological production, veterinary medicine, applied chemistry, mechanical and electrical engineering. Undergraduate tuition is 535,800 yen per year, with a 282,000 yen admission fee and a 17,000 yen exam fee. International applicant details are on the university's applicants page.",
+   "ka": "ტოკიოს სოფლის მეურნეობისა და ტექნოლოგიების უნივერსიტეტი ეროვნული უნივერსიტეტია ორი ფაკულტეტით: სოფლის მეურნეობა და ინჟინერია (ბიოლოგიური წარმოება, ვეტერინარია, გამოყენებითი ქიმია, მექანიკა, ელექტროინჟინერია). წლიური საფასური 535 800 იენია, მიღების გადასახადი 282 000 იენი, საგამოცდო გადასახადი 17 000 იენი. საერთაშორისო აპლიკანტების ინფორმაცია უნივერსიტეტის სპეციალურ გვერდზეა.",
+   "ar": "جامعة طوكيو للزراعة والتكنولوجيا جامعة وطنية لها كليتان جامعيتان هما الزراعة والهندسة وتشمل الإنتاج الحيوي والطب البيطري والكيمياء التطبيقية والهندسة الميكانيكية والكهربائية. الرسوم الدراسية 535,800 ين سنويا مع رسوم قبول 282,000 ين ورسوم امتحان 17,000 ين. تفاصيل المتقدمين الدوليين في صفحة المتقدمين بالجامعة."
+  },
+  "keywords": [
+   "japan",
+   "tokyo",
+   "agriculture",
+   "engineering",
+   "national university"
+  ],
+  "sources": [
+   "https://www.tuat.ac.jp/en/admission/jugyouryou/index.html",
+   "https://www.tuat.ac.jp/en/applicants/"
+  ]
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Non-Jordanian applicants submit the original General Secondary Certificate transcript or its equivalent, certified by the Jordanian Ministry of Education.",
+   "ka": "არაიორდანელმა აპლიკანტებმა უნდა წარადგინონ საშუალო განათლების სერტიფიკატის ორიგინალი ან მისი ეკვივალენტი, დამოწმებული იორდანიის განათლების სამინისტროს მიერ.",
+   "ar": "يقدم غير الأردنيين كشف علامات شهادة الثانوية العامة الأصلي أو ما يعادله مصدقا من وزارة التربية والتعليم الأردنية."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "aid_intl": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "application_url": "https://portal.psut.edu.jo/NewApplic",
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის აკადემიური ჩანაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-style photos",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية"
+    }
+   }
+  ],
+  "platform": "PSUT online application portal",
+  "verified_at": "2026-11-14",
+  "id": "princess-sumaya-university-for-technology",
+  "name": {
+   "en": "Princess Sumaya University for Technology",
+   "ka": "პრინცესა სუმაიას ტექნოლოგიების უნივერსიტეტი",
+   "ar": "جامعة الأميرة سمية للتكنولوجيا"
+  },
+  "iso": "JO",
+  "city": "Amman",
+  "lat": 32.021,
+  "lon": 35.875,
+  "type": "private",
+  "website": "https://www.psut.edu.jo",
+  "intakes": [
+   "September",
+   "February"
+  ],
+  "languages": [
+   "English",
+   "Arabic"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "computer-science",
+   "engineering",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Computer science",
+    "Engineering",
+    "Information technology",
+    "Business"
+   ],
+   "ka": [
+    "კომპიუტერული მეცნიერება",
+    "ინჟინერია",
+    "ინფორმაციული ტექნოლოგიები",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "علوم الحاسوب",
+    "الهندسة",
+    "تكنولوجيا المعلومات",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "PSUT is a private technology-focused university in Amman. Non-Jordanian applicants apply online and submit a certified secondary certificate.",
+   "ka": "PSUT ამანის კერძო, ტექნოლოგიებზე ორიენტირებული უნივერსიტეტია. არაიორდანელი აპლიკანტები განაცხადს ონლაინ აგზავნიან და დამოწმებულ საშუალო განათლების სერტიფიკატს წარადგენენ.",
+   "ar": "جامعة الأميرة سمية للتكنولوجيا جامعة خاصة متخصصة في التكنولوجيا في عمّان. يقدم غير الأردنيين طلبهم إلكترونيا مع شهادة ثانوية مصدقة."
+  },
+  "about": {
+   "en": "Princess Sumaya University for Technology is a private university in Amman focused on technology, engineering, computing and business. International students apply through the online portal. Non-Jordanians must submit the original secondary certificate transcript certified by the Jordanian Ministry of Education, a certified passport copy and two photos. Tuition is calculated in the online application by programme and credit hours; the fee schedule is not published.",
+   "ka": "პრინცესა სუმაიას ტექნოლოგიების უნივერსიტეტი ამანის კერძო უნივერსიტეტია, რომელიც ტექნოლოგიებზე, ინჟინერიაზე, კომპიუტერულ მეცნიერებასა და ბიზნესზეა ორიენტირებული. უცხოელები განაცხადს ონლაინ პორტალით აგზავნიან. საჭიროა იორდანიის განათლების სამინისტროს მიერ დამოწმებული სერტიფიკატის ორიგინალი, პასპორტის დამოწმებული ასლი და ორი ფოტო. საფასური ონლაინ განაცხადში გამოითვლება პროგრამისა და კრედიტების მიხედვით.",
+   "ar": "جامعة الأميرة سمية للتكنولوجيا جامعة خاصة في عمّان تركز على التكنولوجيا والهندسة والحاسوب والأعمال. يقدم الطلاب الدوليون طلبهم عبر البوابة الإلكترونية، ويحتاج غير الأردنيين إلى كشف علامات الثانوية الأصلي مصدقا من وزارة التربية الأردنية ونسخة مصدقة من جواز السفر وصورتين. تحسب الرسوم في الطلب الإلكتروني حسب التخصص والساعات المعتمدة."
+  },
+  "keywords": [
+   "jordan",
+   "amman",
+   "technology",
+   "private",
+   "computer science"
+  ],
+  "sources": [
+   "https://psut.edu.jo/en/required-documents-payment-of-fees",
+   "https://psut.edu.jo/en/admission-platform",
+   "https://psut.edu.jo/en/payment-of-fees"
+  ]
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [
+   {
+    "name": "Chinese Government Scholarship",
+    "url": "https://admissions.swu.edu.cn/",
+    "coverage": "full"
+   },
+   {
+    "name": "Chongqing Mayor Scholarship",
+    "url": "https://admissions.swu.edu.cn/",
+    "coverage": "partial"
+   },
+   {
+    "name": "SWU President Scholarship",
+    "url": "https://admissions.swu.edu.cn/",
+    "coverage": "partial"
+   }
+  ],
+  "qualifications": null,
+  "qualifications_note": null,
+  "tests": null,
+  "gpa_note": null,
+  "aid_intl": {
+   "en": "SWU lists the Chinese Government Scholarship, Chongqing Mayor Scholarship, SWU President Scholarship and New Silk Road Scholarship for international students.",
+   "ka": "SWU საერთაშორისო სტუდენტებისთვის ასახელებს ჩინეთის მთავრობის სტიპენდიას, ჩონცინის მერის სტიპენდიას, SWU-ის პრეზიდენტის სტიპენდიასა და ახალი აბრეშუმის გზის სტიპენდიას.",
+   "ar": "تذكر الجامعة منحة الحكومة الصينية ومنحة عمدة تشونغتشينغ ومنحة رئيس الجامعة ومنحة طريق الحرير الجديد للطلاب الدوليين."
+  },
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "application_url": "https://swu.17gz.org/",
+  "requirements": [],
+  "platform": "SWU international admissions online system",
+  "verified_at": "2026-11-14",
+  "id": "southwest-university",
+  "name": {
+   "en": "Southwest University",
+   "ka": "სამხრეთ-დასავლეთის უნივერსიტეტი (ჩონცინი)",
+   "ar": "جامعة الجنوب الغربي (تشونغتشينغ)"
+  },
+  "iso": "CN",
+  "city": "Chongqing",
+  "lat": 29.825,
+  "lon": 106.426,
+  "type": "public",
+  "website": "https://www.swu.edu.cn",
+  "intakes": [
+   "September"
+  ],
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "education",
+   "natural-sciences",
+   "social-sciences",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Psychology",
+    "Agriculture",
+    "Biology",
+    "Tea science"
+   ],
+   "ka": [
+    "განათლება",
+    "ფსიქოლოგია",
+    "სოფლის მეურნეობა",
+    "ბიოლოგია",
+    "ჩაის მეცნიერება"
+   ],
+   "ar": [
+    "التعليم",
+    "علم النفس",
+    "الزراعة",
+    "الأحياء",
+    "علوم الشاي"
+   ]
+  },
+  "summary": {
+   "en": "Southwest University is a large public comprehensive university in Chongqing. It runs an online application system for international students and several scholarships.",
+   "ka": "სამხრეთ-დასავლეთის უნივერსიტეტი ჩონცინის დიდი საჯარო მრავალპროფილური უნივერსიტეტია. საერთაშორისო სტუდენტებისთვის ონლაინ განაცხადის სისტემა და რამდენიმე სტიპენდია აქვს.",
+   "ar": "جامعة الجنوب الغربي جامعة حكومية شاملة كبيرة في تشونغتشينغ. لديها نظام تقديم إلكتروني للطلاب الدوليين وعدة منح."
+  },
+  "about": {
+   "en": "Southwest University is a public comprehensive university in Chongqing, China, strong in education, psychology, agriculture and life sciences. International undergraduates apply through the online system at swu.17gz.org. The admissions site lists general requirements, application period and tuition pages, but they could not be read for this profile, so no fee or deadline is given here.",
+   "ka": "სამხრეთ-დასავლეთის უნივერსიტეტი ჩინეთის ქალაქ ჩონცინის საჯარო მრავალპროფილური უნივერსიტეტია, ძლიერია განათლებაში, ფსიქოლოგიაში, სოფლის მეურნეობასა და ბიომეცნიერებებში. საერთაშორისო სტუდენტები განაცხადს swu.17gz.org სისტემით აგზავნიან. საფასურისა და ვადების გვერდები ვერ წაიკითხა, ამიტომ ისინი აქ მითითებული არ არის.",
+   "ar": "جامعة الجنوب الغربي جامعة حكومية شاملة في تشونغتشينغ بالصين، قوية في التعليم وعلم النفس والزراعة وعلوم الحياة. يقدم الطلاب الدوليون طلباتهم عبر النظام الإلكتروني swu.17gz.org. لم يتيسر قراءة صفحات الرسوم والمواعيد لذا لا تذكر هنا."
+  },
+  "keywords": [
+   "china",
+   "chongqing",
+   "swu",
+   "csc scholarship"
+  ],
+  "sources": [
+   "https://admissions.swu.edu.cn/",
+   "https://www.swu.edu.cn/"
+  ]
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": null,
+  "qualifications_note": null,
+  "tests": null,
+  "gpa_note": null,
+  "aid_intl": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "application_url": "https://buketov.edu.kz/en/page/for-foreigners",
+  "requirements": [],
+  "platform": null,
+  "verified_at": "2026-11-14",
+  "id": "nlc-buketov-karaganda-national-research-university",
+  "name": {
+   "en": "NLC «Buketov Karaganda National Research University»",
+   "ka": "ბუკეტოვის სახელობის ყარაღანდის ეროვნული საკვლევი უნივერსიტეტი",
+   "ar": "جامعة بوكيتوف الوطنية للبحوث في قره غندا"
+  },
+  "iso": "KZ",
+  "city": "Karaganda",
+  "lat": 49.806,
+  "lon": 73.085,
+  "type": "public",
+  "website": "https://buketov.edu.kz",
+  "languages": [
+   "Kazakh",
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "intakes": [],
+  "fields": [
+   "natural-sciences",
+   "education",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Language programmes",
+    "Education",
+    "Natural sciences"
+   ],
+   "ka": [
+    "ენის პროგრამები",
+    "განათლება",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "برامج اللغات",
+    "التعليم",
+    "العلوم الطبيعية"
+   ]
+  },
+  "summary": {
+   "en": "Buketov Karaganda University is a public research university in central Kazakhstan. Its foreign-student page lists one-year Kazakh, Russian and English language courses and a 4-year bachelor in Russian as a foreign language.",
+   "ka": "ბუკეტოვის ყარაღანდის უნივერსიტეტი ცენტრალური ყაზახეთის საჯარო საკვლევი უნივერსიტეტია. უცხოელებისთვის გვერდზე მითითებულია ერთწლიანი ყაზახური, რუსული და ინგლისური ენის კურსები და 4-წლიანი ბაკალავრიატი რუსულში უცხოური ენის სახით.",
+   "ar": "جامعة بوكيتوف في قره غندا جامعة بحثية حكومية في وسط كازاخستان. تذكر صفحة الأجانب دورات لغة كازاخية وروسية وإنجليزية لمدة سنة وبكالوريوس مدته 4 سنوات في اللغة الروسية لغة أجنبية."
+  },
+  "about": null,
+  "keywords": [
+   "kazakhstan",
+   "karaganda"
+  ],
+  "sources": [
+   "https://buketov.edu.kz/en/page/for-foreigners",
+   "https://buketov.edu.kz/en/page/tarif"
+  ]
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": null,
+  "qualifications_note": null,
+  "tests": null,
+  "gpa_note": null,
+  "aid_intl": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "application_url": "https://admision.unmsm.edu.pe/portal/",
+  "requirements": [],
+  "platform": null,
+  "verified_at": "2026-11-14",
+  "id": "universidad-nacional-mayor-de-san-marcos",
+  "name": {
+   "en": "Universidad Nacional Mayor de San Marcos",
+   "ka": "სან-მარკოსის ეროვნული უნივერსიტეტი",
+   "ar": "جامعة سان ماركوس الوطنية الكبرى"
+  },
+  "iso": "PE",
+  "city": "Lima",
+  "lat": -12.06,
+  "lon": -77.082,
+  "type": "public",
+  "website": "https://www.unmsm.edu.pe",
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "intakes": [],
+  "fields": [
+   "medicine-health",
+   "humanities",
+   "natural-sciences",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Humanities",
+    "Natural sciences"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ჰუმანიტარული მეცნიერებები",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "الطب",
+    "العلوم الإنسانية",
+    "العلوم الطبيعية"
+   ]
+  },
+  "summary": {
+   "en": "San Marcos is Peru's oldest public university, in Lima. Admission is through the Oficina Central de Admisión exam; Spanish is the language of teaching.",
+   "ka": "სან-მარკოსი პერუს უძველესი საჯარო უნივერსიტეტია ლიმაში. მიღება ხდება Oficina Central de Admisión-ის გამოცდით; სწავლება ესპანურია.",
+   "ar": "سان ماركوس أقدم جامعة حكومية في بيرو وتقع في ليما. القبول عبر امتحان المكتب المركزي للقبول والتدريس بالإسبانية."
+  },
+  "about": null,
+  "keywords": [
+   "peru",
+   "lima",
+   "san marcos"
+  ],
+  "sources": [
+   "https://admision.unmsm.edu.pe/portal/",
+   "https://www.unmsm.edu.pe/"
+  ]
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": null,
+  "qualifications_note": null,
+  "tests": null,
+  "gpa_note": null,
+  "aid_intl": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "application_url": "https://spmb.uns.ac.id/",
+  "requirements": [],
+  "platform": null,
+  "verified_at": "2026-11-14",
+  "id": "universitas-sebelas-maret-uns",
+  "name": {
+   "en": "Universitas Sebelas Maret (UNS)",
+   "ka": "სებელას მარეტის უნივერსიტეტი (UNS)",
+   "ar": "جامعة سيبيلاس مارت (UNS)"
+  },
+  "iso": "ID",
+  "city": "Surakarta",
+  "lat": -7.56,
+  "lon": 110.857,
+  "type": "public",
+  "website": "https://uns.ac.id",
+  "languages": [
+   "Indonesian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "intakes": [],
+  "fields": [
+   "education",
+   "social-sciences",
+   "engineering",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Social sciences",
+    "Engineering"
+   ],
+   "ka": [
+    "განათლება",
+    "სოციალური მეცნიერებები",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "التعليم",
+    "العلوم الاجتماعية",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "UNS is a public university in Surakarta, Central Java. Admissions run through the spmb.uns.ac.id portal and the International Office (io.uns.ac.id).",
+   "ka": "UNS ცენტრალურ იავაზე, სურაკარტაში მდებარე საჯარო უნივერსიტეტია. მიღება მიმდინარეობს spmb.uns.ac.id პორტალითა და საერთაშორისო ოფისით (io.uns.ac.id).",
+   "ar": "UNS جامعة حكومية في سوراكارتا بجاوة الوسطى. يتم القبول عبر بوابة spmb.uns.ac.id ومكتب الشؤون الدولية (io.uns.ac.id)."
+  },
+  "about": null,
+  "keywords": [
+   "indonesia",
+   "surakarta",
+   "solo"
+  ],
+  "sources": [
+   "https://uns.ac.id/en/"
+  ]
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": null,
+  "qualifications_note": null,
+  "tests": null,
+  "gpa_note": null,
+  "aid_intl": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "application_url": null,
+  "requirements": [],
+  "platform": null,
+  "verified_at": "2026-11-14",
+  "id": "university-of-bahrain",
+  "name": {
+   "en": "University of Bahrain",
+   "ka": "ბაჰრეინის უნივერსიტეტი",
+   "ar": "جامعة البحرين"
+  },
+  "iso": "BH",
+  "city": "Zallaq",
+  "lat": 26.049,
+  "lon": 50.482,
+  "type": "public",
+  "website": "https://www.uob.edu.bh",
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "intakes": [],
+  "fields": [
+   "engineering",
+   "business",
+   "computer-science",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business",
+    "Information technology"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი",
+    "ინფორმაციული ტექნოლოგიები"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال",
+    "تكنولوجيا المعلومات"
+   ]
+  },
+  "summary": {
+   "en": "The University of Bahrain is the national public university of Bahrain, on the Sakhir campus near Zallaq. Admission details for international students were not readable on its site.",
+   "ka": "ბაჰრეინის უნივერსიტეტი ბაჰრეინის ეროვნული საჯარო უნივერსიტეტია, საჰირის კამპუსით ზალაქთან. საერთაშორისო სტუდენტების მიღების დეტალები საიტზე ვერ წაიკითხა.",
+   "ar": "جامعة البحرين هي الجامعة الحكومية الوطنية في البحرين ومقرها حرم الصخير قرب الزلاق. لم تتيسر قراءة تفاصيل القبول للطلاب الدوليين في موقعها."
+  },
+  "about": null,
+  "keywords": [
+   "bahrain",
+   "zallaq",
+   "public"
+  ],
+  "sources": [
+   "https://www.uob.edu.bh/"
+  ]
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": null,
+  "qualifications_note": null,
+  "tests": null,
+  "gpa_note": null,
+  "aid_intl": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "application_url": null,
+  "requirements": [],
+  "platform": null,
+  "verified_at": "2026-11-14",
+  "id": "university-of-peshawar",
+  "name": {
+   "en": "University of Peshawar",
+   "ka": "პეშავარის უნივერსიტეტი",
+   "ar": "جامعة بيشاور"
+  },
+  "iso": "PK",
+  "city": "Peshawar",
+  "lat": 34.002,
+  "lon": 71.487,
+  "type": "public",
+  "website": "https://www.uop.edu.pk",
+  "languages": [
+   "English",
+   "Urdu"
+  ],
+  "english_bachelors": "some",
+  "intakes": [],
+  "fields": [
+   "natural-sciences",
+   "social-sciences",
+   "humanities",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Natural sciences",
+    "Social sciences",
+    "Humanities"
+   ],
+   "ka": [
+    "საბუნებისმეტყველო მეცნიერებები",
+    "სოციალური მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم الطبيعية",
+    "العلوم الاجتماعية",
+    "العلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "The University of Peshawar is a public university in Khyber Pakhtunkhwa, Pakistan. Its international admissions links were inactive; contact the registrar at registrar@uop.edu.pk.",
+   "ka": "პეშავარის უნივერსიტეტი ხაიბერ-ფახტუნხვას (პაკისტანი) საჯარო უნივერსიტეტია. საერთაშორისო მიღების ბმულები გააქტიურებული არ იყო; დაუკავშირდით registrar@uop.edu.pk.",
+   "ar": "جامعة بيشاور جامعة حكومية في خيبر بختونخوا بباكستان. روابط القبول الدولي غير مفعلة؛ تواصل مع المسجل عبر registrar@uop.edu.pk."
+  },
+  "about": null,
+  "keywords": [
+   "pakistan",
+   "peshawar"
+  ],
+  "sources": [
+   "https://www.uop.edu.pk/"
+  ]
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": null,
+  "qualifications_note": null,
+  "tests": null,
+  "gpa_note": null,
+  "aid_intl": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "application_url": "https://ofad.ust.edu.ph/",
+  "requirements": [],
+  "platform": null,
+  "verified_at": "2026-11-14",
+  "id": "university-of-santo-tomas",
+  "name": {
+   "en": "University of Santo Tomas",
+   "ka": "წმინდა თომას უნივერსიტეტი (მანილა)",
+   "ar": "جامعة سانتو توماس"
+  },
+  "iso": "PH",
+  "city": "Manila",
+  "lat": 14.61,
+  "lon": 120.989,
+  "type": "private",
+  "website": "https://www.ust.edu.ph",
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "some",
+  "intakes": [],
+  "fields": [
+   "medicine-health",
+   "humanities",
+   "law",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine and health",
+    "Humanities",
+    "Law"
+   ],
+   "ka": [
+    "მედიცინა და ჯანდაცვა",
+    "ჰუმანიტარული მეცნიერებები",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب والصحة",
+    "العلوم الإنسانية",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "UST is a private Catholic university in Manila. Applicants take the USTET entrance exam; foreign-student details were not published on the pages read.",
+   "ka": "UST მანილის კერძო კათოლიკური უნივერსიტეტია. აპლიკანტები USTET მისაღებ გამოცდას აბარებენ; უცხოელებისთვის დეტალები წაკითხულ გვერდებზე არ იყო.",
+   "ar": "UST جامعة كاثوليكية خاصة في مانيلا. يؤدي المتقدمون امتحان القبول USTET، ولم تتوفر تفاصيل الطلاب الأجانب في الصفحات المقروءة."
+  },
+  "about": null,
+  "keywords": [
+   "philippines",
+   "manila",
+   "ust",
+   "catholic"
+  ],
+  "sources": [
+   "https://www.ust.edu.ph/admission/"
+  ]
+ }
+]

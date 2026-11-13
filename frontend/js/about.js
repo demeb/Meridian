@@ -94,25 +94,54 @@
       initials: 'DB',
       photo: '/img/team/demetre.jpg',
       name: { en: 'Demetre Bzekalava', ka: 'დემეტრე ბზეკალავა', ar: 'ديميتري بزيكالافا' },
-      school: 'Carnegie Mellon University',
-      bio: {
-        en: 'Co-founder. Studies at Carnegie Mellon University. Built the first version of Meridian after going through international applications himself and finding that the hardest part was never the work — it was finding out what existed in time.',
-        ka: 'თანადამფუძნებელი. სწავლობს Carnegie Mellon University-ში. Meridian-ის პირველი ვერსია შექმნა მას შემდეგ, რაც თავად გაიარა საერთაშორისო განაცხადების პროცესი და მიხვდა, რომ ყველაზე რთული არასდროს ყოფილა შრომა — რთული იყო დროულად გაგება, რა არსებობდა.',
-        ar: 'شريك مؤسس. يدرس في Carnegie Mellon University. بنى النسخة الأولى من Meridian بعد أن خاض بنفسه عملية التقديم الدولي، واكتشف أن الجزء الأصعب لم يكن العمل نفسه، بل معرفة ما هو متاح في الوقت المناسب.'
+      school: 'Carnegie Mellon University in Qatar',
+      major: { en: 'Computer Science', ka: 'კომპიუტერული მეცნიერებები', ar: 'علوم الحاسوب' },
+      role: { en: 'Leads technology', ka: 'ხელმძღვანელობს ტექნოლოგიურ მიმართულებას', ar: 'يقود الجانب التقني' },
+      points: {
+        en: ['National informatics olympiad winner',
+             'Mentored 120+ orphans and young people with disabilities in maths and programming',
+             'Co-founded ReadEaseGeo, a dyslexia support app',
+             'CTO and co-founder of TutorBrothers, a STEM mentorship platform',
+             'Built Attend AI, a face-recognition attendance system being deployed at two universities'],
+        ka: ['ინფორმატიკის ეროვნული ოლიმპიადის გამარჯვებული',
+             '120+ ობოლ ბავშვსა და შეზღუდული შესაძლებლობის მქონე ახალგაზრდას ასწავლა მათემატიკა და პროგრამირება',
+             'დისლექსიის მხარდამჭერი აპლიკაციის, ReadEaseGeo-ს თანადამფუძნებელი',
+             'STEM მენტორობის პლატფორმა TutorBrothers-ის თანადამფუძნებელი და CTO',
+             'შექმნა Attend AI — სახის ამოცნობით დასწრების აღრიცხვის სისტემა, რომელიც ორ უნივერსიტეტში ინერგება'],
+        ar: ['فائز في الأولمبياد الوطني للمعلوماتية',
+             'درّب أكثر من 120 يتيمًا وشابًا من ذوي الإعاقة في الرياضيات والبرمجة',
+             'شارك في تأسيس ReadEaseGeo، تطبيق لدعم المصابين بعسر القراءة',
+             'شريك مؤسس ومدير التكنولوجيا في TutorBrothers، منصة إرشاد في مجالات STEM',
+             'بنى Attend AI، نظام تسجيل حضور بالتعرف على الوجه يجري تطبيقه في جامعتين']
       },
-      focus: { en: 'Product, platform and the programme database', ka: 'პროდუქტი, პლატფორმა და პროგრამების ბაზა', ar: 'المنتج والمنصة وقاعدة بيانات البرامج' }
+      focus: { en: 'Machine learning, software development, data analytics', ka: 'მანქანური სწავლება, პროგრამული უზრუნველყოფა, მონაცემთა ანალიტიკა', ar: 'تعلّم الآلة، تطوير البرمجيات، تحليل البيانات' },
+      linkedin: 'https://www.linkedin.com/in/demetrebzekalava/',
+      email: 'demetrebzekalava@gmail.com'
     },
     {
       initials: 'PL',
       photo: '/img/team/petre.jpg',
       name: { en: 'Petre Labartkava', ka: 'პეტრე ლაბარტყავა', ar: 'بيتري لابارتكافا' },
-      school: 'Georgetown University',
-      bio: {
-        en: 'Co-founder. Studies at Georgetown University. Leads counselling standards and partnerships — deciding what a Meridian counsellor must be able to do before a student is ever charged for it.',
-        ka: 'თანადამფუძნებელი. სწავლობს Georgetown University-ში. ხელმძღვანელობს კონსულტირების სტანდარტებსა და პარტნიორობებს — განსაზღვრავს, რა უნდა შეეძლოს Meridian-ის კონსულტანტს, სანამ მოსწავლე ამაში გადაიხდის.',
-        ar: 'شريك مؤسس. يدرس في Georgetown University. يقود معايير الإرشاد والشراكات، ويحدد ما يجب أن يكون مرشد Meridian قادراً عليه قبل أن يُطلب من أي طالب دفع مقابله.'
+      school: 'Georgetown University in Qatar',
+      major: { en: 'International Politics', ka: 'საერთაშორისო პოლიტიკა', ar: 'السياسة الدولية' },
+      role: { en: 'Leads partnerships and operations', ka: 'ხელმძღვანელობს პარტნიორობებსა და ოპერაციებს', ar: 'يقود الشراكات والعمليات' },
+      points: {
+        en: ['Co-founded Youth Action Georgia and raised about $10,000 for free education programmes in the regions',
+             'Organised Georgia’s National Economics Olympiad',
+             'Secretary General of the Georgian Model UN Association',
+             'Led a 50-person team running events of up to 300 participants across the country'],
+        ka: ['Youth Action Georgia-ს თანადამფუძნებელი; რეგიონებში უფასო საგანმანათლებლო პროგრამებისთვის მოიზიდა დაახლოებით $10,000',
+             'მოაწყო საქართველოს ეკონომიკის ეროვნული ოლიმპიადა',
+             'გაეროს მოდელირების ქართული ასოციაციის (Georgian Model UN Association) გენერალური მდივანი',
+             'ხელმძღვანელობდა 50-კაციან გუნდს, რომელიც მთელ ქვეყანაში 300-მდე მონაწილიან ღონისძიებებს ატარებდა'],
+        ar: ['شارك في تأسيس Youth Action Georgia وجمع نحو 10,000 دولار لبرامج تعليمية مجانية في المناطق',
+             'نظّم الأولمبياد الوطني للاقتصاد في جورجيا',
+             'الأمين العام لجمعية نموذج الأمم المتحدة الجورجية (Georgian Model UN Association)',
+             'قاد فريقًا من 50 شخصًا نظّم فعاليات تصل إلى 300 مشارك في أنحاء البلاد']
       },
-      focus: { en: 'Counselling, partnerships and legal', ka: 'კონსულტირება, პარტნიორობები და იურიდიული საკითხები', ar: 'الإرشاد والشراكات والشؤون القانونية' }
+      focus: { en: 'Partnerships, team leadership, outreach', ka: 'პარტნიორობები, გუნდის მართვა, აუთრიჩი', ar: 'الشراكات، قيادة الفرق، التواصل' },
+      linkedin: 'https://www.linkedin.com/in/petre-labartkava/',
+      email: 'petrelabartkava@gmail.com'
     }
   ];
 
@@ -124,16 +153,17 @@
         face(person, 'avatar-xl avatar-ring') +
         '<div>' +
           '<h3>' + M.esc(M.pick(person.name)) + '</h3>' +
-          '<p class="founder-role">' + M.t('leadership.founder') + '</p>' +
-          '<p class="founder-school">' + M.icon('cap', 16) + M.t('leadership.studies') + ' ' + M.esc(person.school) + '</p>' +
-          '<p class="muted" style="margin-top:1rem;font-size:.94rem">' + M.esc(M.pick(person.bio)) + '</p>' +
+          '<p class="founder-role">' + M.t('leadership.founder') + ' · ' + M.esc(M.pick(person.role)) + '</p>' +
+          '<p class="founder-school">' + M.icon('cap', 16) + M.esc(M.pick(person.major)) + ', ' + M.esc(person.school) + '</p>' +
+          '<ul class="founder-points">' + M.pick(person.points).map(function (point) {
+            return '<li>' + M.esc(point) + '</li>';
+          }).join('') + '</ul>' +
           '<div class="cluster" style="margin-top:1.1rem">' +
             '<span class="badge badge-brand">' + M.esc(M.pick(person.focus)) + '</span>' +
           '</div>' +
           '<div class="footer-social" style="margin-top:1.1rem">' +
-            '<a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">' + M.icon('linkedin', 18) + '</a>' +
-            '<a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">' + M.icon('instagram', 18) + '</a>' +
-            '<a href="mailto:hello@meridian.ge" aria-label="Email">' + M.icon('mail', 18) + '</a>' +
+            '<a href="' + person.linkedin + '" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">' + M.icon('linkedin', 18) + '</a>' +
+            '<a href="mailto:' + person.email + '" aria-label="Email ' + M.esc(M.pick(person.name)) + '" title="' + person.email + '">' + M.icon('mail', 18) + '</a>' +
           '</div>' +
         '</div>' +
       '</article>';
@@ -181,9 +211,9 @@
   var FAQ = [
     {
       q: { en: 'Do I have to pay to use Meridian?', ka: 'უნდა გადავიხადო Meridian-ით სარგებლობისთვის?', ar: 'هل عليّ أن أدفع لاستخدام Meridian؟' },
-      a: { en: 'No. Projects, scholarships, universities, deadlines and resources are free. A free account unlocks every entry, every tutor profile and the application tracker. You pay only for people: lessons (the tutor\'s own price plus 10%), Compass or Navigator memberships. Payments are Visa or Mastercard.',
-           ka: 'არა. პროექტები, სტიპენდიები, უნივერსიტეტები, ვადები და რესურსები უფასოა. უფასო ანგარიში ხსნის ყველა ჩანაწერს, რეპეტიტორის ყველა პროფილს და განაცხადების ტრეკერს. იხდი მხოლოდ ადამიანებში: გაკვეთილებში (რეპეტიტორის ფასი + 10%), Compass ან Navigator წევრობაში. გადახდა Visa-თი ან Mastercard-ით.',
-           ar: 'لا. المشاريع والمنح والجامعات والمواعيد النهائية والموارد كلها مجانية. يفتح لك الحساب المجاني كل الإدخالات وكل ملفات المدرّسين ومتتبّع الطلبات. تدفع فقط مقابل الأشخاص: الدروس (سعر المدرّس نفسه زائد 10%)، أو عضويتَي Compass وNavigator. الدفع ببطاقة Visa أو Mastercard.' }
+      a: { en: 'Not to get started. The free Explorer plan gives you every project, scholarship, internship and university, prep materials, mini-courses, tutor profiles, saving and Excel export, and 25 Meridian AI messages a day. Compass ($29 a month) adds the application tracker with document checklists, deadline reminders by email, a monthly shortlist and AI help with documents. Navigator ($79 a month) adds counsellor check-ins, essay review and a review of your university list. Lessons cost the tutor\'s own price plus 10%. Payments are by Visa or Mastercard.',
+           ka: 'დასაწყებად — არა. უფასო Explorer პაკეტი გაძლევს ყველა პროექტს, სტიპენდიას, სტაჟირებასა და უნივერსიტეტს, მოსამზადებელ მასალებს, მინი-კურსებს, რეპეტიტორების პროფილებს, შენახვასა და Excel-ში ექსპორტს, და Meridian AI-ს 25 შეტყობინებას დღეში. Compass (თვეში $29) ამატებს განაცხადების ტრეკერს დოკუმენტების ჩამონათვალით, ვადების შეხსენებებს ელფოსტით, ყოველთვიურ შერჩეულ სიას და AI-ს დახმარებას დოკუმენტებში. Navigator (თვეში $79) ამატებს კონსულტანტთან შეხვედრებს, ესეს შემოწმებას და შენი უნივერსიტეტების სიის განხილვას. გაკვეთილი ღირს რეპეტიტორის ფასი + 10%. გადახდა Visa-თი ან Mastercard-ით.',
+           ar: 'ليس للبدء. تمنحك خطة Explorer المجانية كل المشاريع والمنح والتدريبات والجامعات، ومواد التحضير، والدورات القصيرة، وملفات المدرّسين، والحفظ والتصدير إلى Excel، و25 رسالة يوميًا مع Meridian AI. وتضيف خطة Compass (29 دولارًا شهريًا) متتبّع الطلبات مع قوائم المستندات، وتذكيرات المواعيد النهائية بالبريد الإلكتروني، وقائمة مختارة شهرية، ومساعدة الذكاء الاصطناعي في المستندات. وتضيف خطة Navigator (79 دولارًا شهريًا) لقاءات متابعة مع مرشد، ومراجعة المقالات، ومراجعة قائمة جامعاتك. سعر الدرس هو سعر المدرّس نفسه زائد 10%. الدفع ببطاقة Visa أو Mastercard.' }
     },
     {
       q: { en: 'Is Meridian only for one country?', ka: 'Meridian მხოლოდ ერთი ქვეყნისთვისაა?', ar: 'هل Meridian لبلد واحد فقط؟' },
@@ -199,15 +229,15 @@
     },
     {
       q: { en: 'How are new opportunities found?', ka: 'როგორ ემატება ახალი შესაძლებლობები?', ar: 'كيف تُكتشف الفرص الجديدة؟' },
-      a: { en: 'Research agents each cover one area (scholarships by region, universities, Erasmus+ projects, Model United Nations conferences, competitions and other projects) and a separate agent re-checks what they found against official pages. Nothing goes live until a person approves it.',
-           ka: 'კვლევითი აგენტები თითო მიმართულებას იკვლევენ (სტიპენდიები რეგიონების მიხედვით, უნივერსიტეტები, Erasmus+ პროექტები, გაეროს მოდელირების კონფერენციები, კონკურსები და სხვა პროექტები), ცალკე აგენტი კი ნაპოვნს ოფიციალურ გვერდებზე ამოწმებს. საიტზე არაფერი ჩნდება, სანამ ადამიანი არ დაამტკიცებს.',
-           ar: 'يغطي كل وكيل بحث مجالاً واحداً (المنح حسب المنطقة، والجامعات، ومشاريع Erasmus+، ومؤتمرات نموذج الأمم المتحدة، والمسابقات، وغيرها من المشاريع)، ويعيد وكيل منفصل التحقق مما وجدوه في الصفحات الرسمية. ولا يُنشر شيء حتى يوافق عليه شخص حقيقي.' }
+      a: { en: 'Research agents each cover one area (scholarships by region, universities, internships, Erasmus+ projects, Model United Nations conferences, competitions and other projects). Every entry must link to the organiser\'s own official page; anything that fails that check, or whose deadline has passed, is not published.',
+           ka: 'კვლევითი აგენტები თითო მიმართულებას იკვლევენ (სტიპენდიები რეგიონების მიხედვით, უნივერსიტეტები, სტაჟირებები, Erasmus+ პროექტები, გაეროს მოდელირების კონფერენციები, კონკურსები და სხვა პროექტები). ყოველი ჩანაწერი ორგანიზატორის ოფიციალურ გვერდზე უნდა მიუთითებდეს; რაც ამ შემოწმებას ვერ გადის ან რისი ვადაც გასულია, საიტზე არ ქვეყნდება.',
+           ar: 'يغطي كل وكيل بحث مجالاً واحداً (المنح حسب المنطقة، والجامعات، والتدريبات، ومشاريع Erasmus+، ومؤتمرات نموذج الأمم المتحدة، والمسابقات، وغيرها من المشاريع). ويجب أن يرتبط كل إدخال بالصفحة الرسمية للجهة المنظِّمة؛ وما لا يجتاز هذا التحقق أو انتهى موعده النهائي لا يُنشر.' }
     },
     {
       q: { en: 'Can I apply to universities through Meridian?', ka: 'შემიძლია უნივერსიტეტებში Meridian-ით განაცხადის გაგზავნა?', ar: 'هل يمكنني التقديم إلى الجامعات عبر Meridian؟' },
-      a: { en: 'Yes. Every university has its own page with tuition, deadlines, tests and an application checklist. Press "Start application" and the checklist moves to your profile, where you upload documents and track each step, like the Common App. Our team reviews your file and submits it with you through the university\'s official system.',
-           ka: 'დიახ. ყველა უნივერსიტეტს აქვს საკუთარი გვერდი სწავლის საფასურით, ვადებით, გამოცდებითა და განაცხადის ჩამონათვალით. დააჭირე „განაცხადის დაწყებას“ და ჩამონათვალი შენს პროფილში გადავა, სადაც დოკუმენტებს ატვირთავ და ყოველ ნაბიჯს აკონტროლებ, როგორც Common App-ში. ჩვენი გუნდი განიხილავს შენს საქმეს და შენთან ერთად აგზავნის უნივერსიტეტის ოფიციალური სისტემით.',
-           ar: 'نعم. لكل جامعة صفحتها الخاصة بالرسوم الدراسية والمواعيد النهائية والاختبارات وقائمة مراجعة التقديم. اضغط «ابدأ التقديم» فتنتقل القائمة إلى ملفك الشخصي، حيث ترفع المستندات وتتابع كل خطوة، كما في Common App. يراجع فريقنا ملفك ويقدّمه معك عبر النظام الرسمي للجامعة.' }
+      a: { en: 'Yes. Every university has its own page with tuition, deadlines, tests and an application checklist. Press "Apply with Meridian" and the checklist moves to your profile, where you upload documents and track each step, like the Common App. Our team reviews your file and submits it with you through the university\'s official system.',
+           ka: 'დიახ. ყველა უნივერსიტეტს აქვს საკუთარი გვერდი სწავლის საფასურით, ვადებით, გამოცდებითა და განაცხადის ჩამონათვალით. დააჭირე „Meridian-ით განაცხადს“ და ჩამონათვალი შენს პროფილში გადავა, სადაც დოკუმენტებს ატვირთავ და ყოველ ნაბიჯს აკონტროლებ, როგორც Common App-ში. ჩვენი გუნდი განიხილავს შენს საქმეს და შენთან ერთად აგზავნის უნივერსიტეტის ოფიციალური სისტემით.',
+           ar: 'نعم. لكل جامعة صفحتها الخاصة بالرسوم الدراسية والمواعيد النهائية والاختبارات وقائمة مراجعة التقديم. اضغط «قدّم عبر Meridian» فتنتقل القائمة إلى ملفك الشخصي، حيث ترفع المستندات وتتابع كل خطوة، كما في Common App. يراجع فريقنا ملفك ويقدّمه معك عبر النظام الرسمي للجامعة.' }
     },
     {
       q: { en: 'How do you check that a tutor is qualified?', ka: 'როგორ ამოწმებთ, რომ რეპეტიტორი კვალიფიციურია?', ar: 'كيف تتحققون من كفاءة المدرّس؟' },
@@ -226,6 +256,13 @@
       a: { en: 'Your account (name, email, optional phone) and your application files are stored in Meridian\'s own database on our server. Passwords are hashed with PBKDF2 and cannot be read back, not even by us. Card numbers never reach our server: only the card brand and last four digits are kept. We do not sell data.',
            ka: 'შენი ანგარიში (სახელი, ელფოსტა, არასავალდებულო ტელეფონი) და განაცხადის ფაილები ინახება Meridian-ის საკუთარ ბაზაში ჩვენს სერვერზე. პაროლები დაჰეშილია PBKDF2-ით და უკან ვერ იკითხება, ჩვენც კი ვერ ვკითხულობთ. ბარათის ნომერი ჩვენს სერვერამდე არასდროს მოდის: ინახება მხოლოდ ბრენდი და ბოლო ოთხი ციფრი. მონაცემებს არ ვყიდით.',
            ar: 'يُخزَّن حسابك (الاسم والبريد الإلكتروني ورقم هاتف اختياري) وملفات طلباتك في قاعدة بيانات Meridian الخاصة على خادمنا. تُشفَّر كلمات المرور بخوارزمية PBKDF2 ولا يمكن قراءتها مجدداً، ولا حتى من قِبلنا. ولا تصل أرقام البطاقات إلى خادمنا أبداً: لا نحتفظ إلا بنوع البطاقة وآخر أربعة أرقام. ولا نبيع البيانات.' }
+    }
+,
+    {
+      q: { en: 'How do I contact Meridian?', ka: 'როგორ დავუკავშირდე Meridian-ს?', ar: 'كيف أتواصل مع Meridian؟' },
+      a: { en: 'Write to contact.meridiangoal@gmail.com. It is our main inbox for students, parents, schools, tutors and partners, and we answer every message.',
+           ka: 'მოგვწერე მისამართზე contact.meridiangoal@gmail.com. ეს ჩვენი მთავარი ელფოსტაა მოსწავლეებისთვის, მშობლებისთვის, სკოლებისთვის, რეპეტიტორებისა და პარტნიორებისთვის, და ყველა წერილს ვპასუხობთ.',
+           ar: 'راسلنا على contact.meridiangoal@gmail.com. هذا هو بريدنا الرئيسي للطلاب وأولياء الأمور والمدارس والمدرّسين والشركاء، ونردّ على كل رسالة.' }
     }
   ];
 

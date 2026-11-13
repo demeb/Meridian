@@ -1,0 +1,1624 @@
+[
+ {
+  "id": "central-queensland-university-cquniversity-australia",
+  "name": {
+   "en": "Central Queensland University (CQUniversity Australia)",
+   "ka": "ცენტრალური კვინზლენდის უნივერსიტეტი (CQUniversity)",
+   "ar": "جامعة وسط كوينزلاند (CQUniversity)"
+  },
+  "iso": "AU",
+  "city": "Norman Gardens",
+  "lat": -23.32,
+  "lon": 150.52,
+  "type": "public",
+  "website": "https://www.cqu.edu.au",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 17520,
+   "currency": "AUD",
+   "per": "year",
+   "note": "Approximate first-year fee on the official fees page; varies by course and units chosen."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "IELTS Academic",
+   "Start Uni Now English pathway"
+  ],
+  "fields": [
+   "engineering",
+   "business",
+   "education",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business",
+    "Information Technology",
+    "Nursing",
+    "Education"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი",
+    "ინფორმაციული ტექნოლოგიები",
+    "საექთნო საქმე",
+    "განათლება"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال",
+    "تكنولوجيا المعلومات",
+    "التمريض",
+    "التعليم"
+   ]
+  },
+  "summary": {
+   "en": "A public Australian university based in Rockhampton, Queensland, with campuses across the state. International students pay about A$17,520 for the first year, depending on course.",
+   "ka": "ავსტრალიის საჯარო უნივერსიტეტი კვინზლენდში, კამპუსებით მთელ შტატში. საერთაშორისო სტუდენტების პირველი წლის საფასური დაახლოებით 17 520 ავსტრალიური დოლარია (დამოკიდებულია პროგრამაზე).",
+   "ar": "جامعة أسترالية حكومية في كوينزلاند ولها فروع في أنحاء الولاية. تبلغ رسوم السنة الأولى للطلاب الدوليين نحو 17,520 دولاراً أستراليا حسب البرنامج."
+  },
+  "about": {
+   "en": "CQUniversity is a public university in Queensland, Australia, with its main campus in Rockhampton and campuses in several regional cities. International bachelor applicants apply directly to the university, and entry depends on the course. The usual English requirement is IELTS Academic 6.0 overall with 5.5 in each band; some courses ask for more. A pathway programme is available for students below the English level.",
+   "ka": "CQUniversity არის კვინზლენდის (ავსტრალია) საჯარო უნივერსიტეტი, მთავარი კამპუსით როკჰემპტონში. საერთაშორისო აპლიკანტები ბაკალავრიატზე უშუალოდ უნივერსიტეტში აგზავნიან განაცხადს, მიღების პირობები პროგრამაზეა დამოკიდებული. ინგლისურის ჩვეულებრივი მოთხოვნაა IELTS Academic 6.0 საერთო ქულა და 5.5 თითოეულ ნაწილში; ზოგ პროგრამას მეტი სჭირდება. ენის დონის გასაუმჯობესებლად არსებობს საპრეპარაციო პროგრამა.",
+   "ar": "جامعة CQUniversity جامعة حكومية في كوينزلاند بأستراليا، وحرمها الرئيسي في روكهامبتون وفروعها في عدة مدن. يقدّم الطلاب الدوليون على البكالوريوس مباشرة إلى الجامعة ويختلف القبول حسب البرنامج. المطلوب عادة IELTS أكاديمي 6.0 بمجموع و5.5 في كل مهارة، وبعض البرامج تطلب أكثر. يتوفر برنامج تمهيدي لمن لم يبلغ المستوى المطلوب."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "IELTS Academic 6.0 overall with no band below 5.5 is the usual requirement for bachelor courses (some courses differ, check the course page). The Start Uni Now pathway accepts IELTS 5.5.",
+   "ka": "ბაკალავრიატზე ჩვეულებრივ საჭიროა IELTS Academic 6.0 საერთო ქულით და არანაკლებ 5.5 თითოეულ ნაწილში (ზოგ პროგრამაზე განსხვავდება). Start Uni Now საპრეპარაციო პროგრამაში მისაღებია IELTS 5.5.",
+   "ar": "المطلوب عادة IELTS أكاديمي 6.0 بمجموع ولا تقل أي مهارة عن 5.5 (تختلف بعض البرامج). يقبل برنامج Start Uni Now درجة IELTS 5.5."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის დანართი / შეფასებები",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების დიპლომი/ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test",
+     "ka": "ინგლისური ენის ტესტი",
+     "ar": "اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "australia",
+   "queensland",
+   "rockhampton",
+   "cquniversity"
+  ],
+  "sources": [
+   "https://www.cqu.edu.au/study/international/fees",
+   "https://www.cqu.edu.au/study/international/english-pathways/start-uni-now-sun"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "essex-university-of",
+  "name": {
+   "en": "Essex, University of",
+   "ka": "ესექსის უნივერსიტეტი",
+   "ar": "جامعة إسكس"
+  },
+  "iso": "GB",
+  "city": "Colchester",
+  "lat": 51.877,
+  "lon": 0.947,
+  "type": "public",
+  "website": "https://www.essex.ac.uk",
+  "platform": "UCAS",
+  "application_url": "https://www.essex.ac.uk/international/applying-to-essex",
+  "intakes": [
+   "October"
+  ],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 20475,
+   "currency": "GBP",
+   "per": "year",
+   "note": "2025 international prospectus figure for a set of courses incl. LLB Law; other courses and 2027 fees differ, check the course page."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Example course (BA International Relations, 2027 entry): 112 UCAS points from at least 2 full A-levels, or 29 points in the IB Diploma. Many courses ask BBB-BBC at A-level or IB 30-29.",
+   "ka": "მაგალითი (BA International Relations, 2027): 112 UCAS ქულა მინიმუმ 2 სრული A-level-იდან ან 29 ქულა IB დიპლომზე. ბევრ პროგრამას სჭირდება BBB-BBC (A-level) ან IB 30-29.",
+   "ar": "مثال (BA International Relations لعام 2027): 112 نقطة UCAS من مادتي A-level كاملتين على الأقل، أو 29 نقطة في دبلوم IB. تطلب برامج كثيرة BBB-BBC في A-level أو IB 30-29."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "IELTS"
+  ],
+  "fields": [
+   "social-sciences",
+   "law",
+   "business",
+   "economics",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Social Sciences",
+    "Law",
+    "Economics",
+    "Business",
+    "Human Rights"
+   ],
+   "ka": [
+    "სოციალური მეცნიერებები",
+    "სამართალი",
+    "ეკონომიკა",
+    "ბიზნესი",
+    "ადამიანის უფლებები"
+   ],
+   "ar": [
+    "العلوم الاجتماعية",
+    "القانون",
+    "الاقتصاد",
+    "الأعمال",
+    "حقوق الإنسان"
+   ]
+  },
+  "summary": {
+   "en": "A public research university in Colchester, England, strong in social sciences and law. Undergraduate entry usually needs IELTS 6.0 and international fees were about £20,475 for some courses in 2025.",
+   "ka": "საჯარო კვლევითი უნივერსიტეტი კოლჩესტერში (ინგლისი), ძლიერია სოციალურ მეცნიერებებსა და სამართალში. ბაკალავრიატისთვის ჩვეულებრივ საჭიროა IELTS 6.0; 2025 წელს ზოგ პროგრამაზე საერთაშორისო საფასური დაახლოებით £20 475 იყო.",
+   "ar": "جامعة بحثية حكومية في كولشستر بإنجلترا، قوية في العلوم الاجتماعية والقانون. يتطلب القبول غالباً IELTS 6.0، وبلغت الرسوم الدولية نحو 20,475 جنيهاً لبعض البرامج في 2025."
+  },
+  "about": {
+   "en": "The University of Essex is a public university with its main campus in Colchester. International students apply for bachelor courses through UCAS and start in October. The usual English requirement is IELTS 6.0 overall with 5.5 in each component, and a pre-sessional English course is available for those who fall short. Academic entry depends on the course and is usually set in A-level or IB terms.",
+   "ka": "ესექსის უნივერსიტეტი საჯარო უნივერსიტეტია, მთავარი კამპუსით კოლჩესტერში. საერთაშორისო სტუდენტები ბაკალავრიატზე UCAS-ით აგზავნიან განაცხადს და სწავლა ოქტომბერში იწყება. ინგლისურის ჩვეულებრივი მოთხოვნაა IELTS 6.0 საერთო ქულა და 5.5 თითოეულ კომპონენტში; ვინც ვერ აკმაყოფილებს, შეუძლია გაიაროს წინასემესტრული ინგლისურის კურსი. აკადემიური მოთხოვნები პროგრამაზეა დამოკიდებული და ძირითადად A-level-ით ან IB-ითაა გაწერილი.",
+   "ar": "جامعة إسكس جامعة حكومية وحرمها الرئيسي في كولشستر. يقدّم الدوليون على البكالوريوس عبر UCAS ويبدأ الدوام في أكتوبر. المطلوب عادة IELTS 6.0 بمجموع و5.5 في كل مهارة، وتتوفر دورة لغة تمهيدية لمن لم يبلغ المستوى. تختلف شروط القبول الأكاديمية حسب البرنامج وتُحدد غالباً بنظام A-level أو IB."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "IELTS 6.0 overall with 5.5 in each component is the general undergraduate requirement; some courses ask for more. A pre-sessional English pathway is available.",
+   "ka": "ბაკალავრიატის ზოგადი მოთხოვნაა IELTS 6.0 საერთო ქულა და 5.5 თითოეულ კომპონენტში; ზოგ პროგრამას მეტი სჭირდება. შესაძლებელია წინასემესტრული ინგლისურის კურსი.",
+   "ar": "المطلوب عموماً IELTS 6.0 بمجموع و5.5 في كل مهارة، وبعض البرامج تطلب أكثر. يتوفر مسار لغة تمهيدي."
+  },
+  "gpa_note": {
+   "en": "Entry is set per course, for example 112 UCAS points from 2 full A-levels or IB 29 for BA International Relations (2027 entry).",
+   "ka": "მიღების პირობები პროგრამის მიხედვითაა, მაგალითად BA International Relations-ზე (2027) 112 UCAS ქულა 2 სრული A-level-იდან ან IB 29.",
+   "ar": "شروط القبول تحددها كل دورة، مثلاً 112 نقطة UCAS من مادتي A-level أو IB 29 لبرنامج BA International Relations (2027)."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის დანართი / შეფასებები",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების დიპლომი/ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test",
+     "ka": "ინგლისური ენის ტესტი",
+     "ar": "اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "uk",
+   "essex",
+   "colchester",
+   "ucas"
+  ],
+  "sources": [
+   "https://www.essex.ac.uk/international/applying-to-essex",
+   "https://www.essex.ac.uk/courses/ug00221/1/ba-international-relations",
+   "https://www.essex.ac.uk/-/media/documents/admissions/undergraduate-admissions-policy.pdf",
+   "https://www.essex.ac.uk/-/media/documents/international-prospectus/international-prospectus-2025.pdf"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "james-cook-university",
+  "name": {
+   "en": "James Cook University",
+   "ka": "ჯეიმზ კუკის უნივერსიტეტი",
+   "ar": "جامعة جيمس كوك"
+  },
+  "iso": "AU",
+  "city": "Townsville",
+  "lat": -19.33,
+  "lon": 146.76,
+  "type": "public",
+  "website": "https://www.jcu.edu.au",
+  "platform": null,
+  "application_url": "https://www.jcu.edu.au/applying-to-jcu/international/coursework",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "IELTS Academic",
+   "PTE Academic (Dentistry 65)"
+  ],
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "medicine-health",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Marine Science",
+    "Medicine",
+    "Environmental Science",
+    "Engineering",
+    "Tropical Health"
+   ],
+   "ka": [
+    "საზღვაო მეცნიერება",
+    "მედიცინა",
+    "გარემოს მეცნიერება",
+    "ინჟინერია",
+    "ტროპიკული ჯანდაცვა"
+   ],
+   "ar": [
+    "علوم البحار",
+    "الطب",
+    "علوم البيئة",
+    "الهندسة",
+    "الصحة الاستوائية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in tropical north Queensland, known for marine science, environment and medicine. Entry requirements are set per course.",
+   "ka": "საჯარო უნივერსიტეტი ტროპიკულ ჩრდილოეთ კვინზლენდში, ცნობილი საზღვაო მეცნიერებით, გარემოს კვლევებითა და მედიცინით. მიღების პირობები პროგრამის მიხედვითაა.",
+   "ar": "جامعة حكومية في شمال كوينزلاند الاستوائي، معروفة بعلوم البحار والبيئة والطب. تحدد شروط القبول لكل برنامج."
+  },
+  "about": {
+   "en": "James Cook University has its main campus in Townsville, with campuses in Cairns and Singapore. International students apply directly to JCU, not through QTAC. Academic and English requirements differ by course; Medicine and Dentistry (2027 intake) need IELTS Academic 7 overall. Online-mode English tests are not accepted.",
+   "ka": "ჯეიმზ კუკის უნივერსიტეტის მთავარი კამპუსი ტაუნსვილშია; კამპუსები აქვს კერნსსა და სინგაპურშიც. საერთაშორისო სტუდენტები განაცხადს უშუალოდ JCU-ში აგზავნიან, QTAC-ის გარეშე. აკადემიური და ენობრივი მოთხოვნები პროგრამის მიხედვით განსხვავდება; მედიცინასა და სტომატოლოგიაზე (2027) საჭიროა IELTS Academic 7 საერთო ქულა. ონლაინ ტესტები არ მიიღება.",
+   "ar": "المقر الرئيسي لجامعة جيمس كوك في تاونسفيل ولها فروع في كيرنز وسنغافورة. يقدّم الدوليون مباشرة إلى الجامعة وليس عبر QTAC. تختلف الشروط الأكاديمية واللغوية حسب البرنامج؛ يتطلب الطب وطب الأسنان (دفعة 2027) IELTS أكاديمي 7 بمجموع. لا تقبل اختبارات اللغة عبر الإنترنت."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Medicine and Dentistry (2027 intake) need IELTS Academic 7 overall (7 in three components, 6.5 in one). Online-mode IELTS, TOEFL Home Edition and IELTS Indicator are not accepted. Other courses set their own English level.",
+   "ka": "მედიცინასა და სტომატოლოგიაზე (2027) საჭიროა IELTS Academic 7 საერთო ქულა (7 სამ კომპონენტში, 6.5 ერთში). ონლაინ IELTS, TOEFL Home Edition და IELTS Indicator არ მიიღება. სხვა პროგრამებს საკუთარი ენობრივი დონე აქვს.",
+   "ar": "يتطلب الطب وطب الأسنان (دفعة 2027) IELTS أكاديمي 7 بمجموع (7 في ثلاث مهارات و6.5 في واحدة). لا تُقبل نسخ الاختبار عبر الإنترنت. تحدد البرامج الأخرى مستواها اللغوي."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის დანართი / შეფასებები",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების დიპლომი/ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test",
+     "ka": "ინგლისური ენის ტესტი",
+     "ar": "اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "australia",
+   "queensland",
+   "townsville",
+   "jcu",
+   "marine science"
+  ],
+  "sources": [
+   "https://www.jcu.edu.au/applying-to-jcu/international/coursework/academic-and-english-language-entry-requirements",
+   "https://www.jcu.edu.au/applying-to-jcu/international/coursework"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-science-and-technology-beijing",
+  "name": {
+   "en": "University of Science and Technology Beijing",
+   "ka": "პეკინის მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი",
+   "ar": "جامعة بكين للعلوم والتكنولوجيا"
+  },
+  "iso": "CN",
+  "city": "Beijing",
+  "lat": 39.992,
+  "lon": 116.357,
+  "type": "public",
+  "website": "https://www.ustb.edu.cn",
+  "platform": "USTB International Student Online Application System",
+  "application_url": "http://onlineapply.ustb.edu.cn",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-06-15",
+  "deadline_note": "Online applications for the 2027 intake run from 1 November 2026 to 15 June 2027; scholarship deadlines are earlier.",
+  "tuition_intl": {
+   "amount": 23300,
+   "currency": "CNY",
+   "per": "year",
+   "note": "Same for Chinese- and English-taught programmes; application fee 600 CNY, insurance 800 CNY per year."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A high school diploma recognised by China's Ministry of Education is required; applicants must be 35 or younger.",
+   "ka": "საჭიროა ჩინეთის განათლების სამინისტროს მიერ აღიარებული საშუალო სკოლის დიპლომი; აპლიკანტი არაუმეტეს 35 წლისა უნდა იყოს.",
+   "ar": "يشترط شهادة ثانوية معترف بها من وزارة التعليم الصينية، وألا يتجاوز عمر المتقدم 35 عاماً."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 5.5,
+  "toefl_min": 70,
+  "duolingo_min": null,
+  "other_tests": [
+   "HSK 4 (Chinese-taught)",
+   "CSCA"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "economics",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Metallurgy and Materials",
+    "Engineering",
+    "Computer Science",
+    "Economics and Management",
+    "Mechanical Engineering"
+   ],
+   "ka": [
+    "მეტალურგია და მასალები",
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "ეკონომიკა და მენეჯმენტი",
+    "მექანიკური ინჟინერია"
+   ],
+   "ar": [
+    "علوم المعادن والمواد",
+    "الهندسة",
+    "علوم الحاسوب",
+    "الاقتصاد والإدارة",
+    "الهندسة الميكانيكية"
+   ]
+  },
+  "summary": {
+   "en": "A national university in Beijing strong in materials, metallurgy and engineering. Tuition is 23,300 CNY a year and applications for 2027 close on 15 June 2027.",
+   "ka": "ეროვნული უნივერსიტეტი პეკინში, ძლიერია მასალათმცოდნეობაში, მეტალურგიასა და ინჟინერიაში. სწავლის საფასური წელიწადში 23 300 იუანია, 2027 წლის განაცხადები 2027 წლის 15 ივნისს იხურება.",
+   "ar": "جامعة وطنية في بكين قوية في المواد والمعادن والهندسة. الرسوم 23,300 يوان سنوياً ويُغلق التقديم لدفعة 2027 في 15 يونيو 2027."
+  },
+  "about": {
+   "en": "USTB is a public university in Beijing's Haidian district. International bachelor applicants apply online from 1 November 2026 to 15 June 2027 and upload their documents, including a CSCA transcript. Chinese-taught programmes need HSK 4; English-taught programmes need IELTS 5.5 or TOEFL 70. Tuition is 23,300 CNY per year for all programmes. Scholarships include Chinese Government, Beijing Government and the USTB Chancellor Scholarship.",
+   "ka": "USTB პეკინის ჰაიდიანის რაიონში მდებარე საჯარო უნივერსიტეტია. საერთაშორისო აპლიკანტები ბაკალავრიატზე ონლაინ დაიწყებენ განაცხადს 2026 წლის 1 ნოემბრიდან 2027 წლის 15 ივნისამდე და ატვირთავენ დოკუმენტებს, მათ შორის CSCA ტრანსკრიპტს. ჩინურენოვან პროგრამებზე საჭიროა HSK 4, ინგლისურენოვანზე — IELTS 5.5 ან TOEFL 70. სწავლის საფასური ყველა პროგრამაზე წელიწადში 23 300 იუანია. სტიპენდიებია: ჩინეთის მთავრობის, პეკინის მთავრობის და USTB-ის რექტორის სტიპენდია.",
+   "ar": "جامعة USTB جامعة حكومية في حي هايديان ببكين. يقدّم الدوليون على البكالوريوس عبر الإنترنت من 1 نوفمبر 2026 حتى 15 يونيو 2027 مع رفع المستندات ومنها كشف CSCA. تتطلب البرامج بالصينية HSK 4 وبالإنجليزية IELTS 5.5 أو TOEFL 70. الرسوم 23,300 يوان سنوياً لجميع البرامج. تشمل المنح منحة الحكومة الصينية وحكومة بكين ومنحة رئيس الجامعة."
+  },
+  "aid_intl": {
+   "en": "Chinese Government Scholarship (Type A via embassy, Type B direct), Beijing Government Scholarship and USTB Chancellor Scholarship (full or partial) are available.",
+   "ka": "ხელმისაწვდომია ჩინეთის მთავრობის სტიპენდია (A — საელჩოს გავლით, B — პირდაპირ), პეკინის მთავრობის სტიპენდია და USTB-ის რექტორის სტიპენდია (სრული ან ნაწილობრივი).",
+   "ar": "تتوفر منحة الحكومة الصينية (النوع A عبر السفارة، النوع B مباشرة) ومنحة حكومة بكين ومنحة رئيس الجامعة (كاملة أو جزئية)."
+  },
+  "tests": {
+   "en": "Chinese-taught programmes need HSK 4 or higher; English-taught programmes need IELTS 5.5, TOEFL 70 or another official English certificate. A CSCA transcript for the required subjects is also needed.",
+   "ka": "ჩინურენოვან პროგრამებზე საჭიროა HSK 4 ან მეტი; ინგლისურენოვანზე — IELTS 5.5, TOEFL 70 ან სხვა ოფიციალური სერტიფიკატი. ასევე საჭიროა CSCA ტრანსკრიპტი შესაბამის საგნებში.",
+   "ar": "تتطلب البرامج بالصينية HSK 4 فما فوق، وبالإنجليزية IELTS 5.5 أو TOEFL 70 أو شهادة رسمية أخرى. يلزم أيضاً كشف CSCA للمواد المطلوبة."
+  },
+  "gpa_note": {
+   "en": "Applicants need a recognised high school diploma and official transcript, good health and conduct, and must be 35 or younger at the deadline.",
+   "ka": "აპლიკანტს სჭირდება აღიარებული დიპლომი და ოფიციალური ტრანსკრიპტი, კარგი ჯანმრთელობა და ყოფაქცევა, ასაკი კი ბოლო ვადისთვის არაუმეტეს 35 წელი.",
+   "ar": "يحتاج المتقدم إلى شهادة ثانوية معترف بها وكشف درجات رسمي وسلوك وصحة جيدين، وألا يتجاوز عمره 35 عاماً عند الموعد النهائي."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის დანართი / შეფასებები",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების დიპლომი/ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Chinese language certificate (HSK)",
+     "ka": "ჩინური ენის სერტიფიკატი (HSK)",
+     "ar": "شهادة اللغة الصينية (HSK)"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "CSCA transcript",
+     "ka": "CSCA გამოცდის შედეგი",
+     "ar": "كشف نتائج CSCA"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of finances",
+     "ka": "ფინანსური შესაძლებლობის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات القدرة المالية"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Medical examination and police clearance",
+     "ka": "სამედიცინო შემოწმება და ცნობა ნასამართლობის შესახებ",
+     "ar": "فحص طبي وشهادة عدم محكومية"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Chinese Government, Beijing Government and USTB Chancellor Scholarships",
+    "url": "https://iscen.ustb.edu.cn/Admissions/7a574bf57214495aa87b81647650f3da.htm",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "china",
+   "beijing",
+   "ustb",
+   "engineering",
+   "materials"
+  ],
+  "sources": [
+   "https://iscen.ustb.edu.cn/Admissions/7a574bf57214495aa87b81647650f3da.htm"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "pusan-national-university",
+  "name": {
+   "en": "Pusan National University",
+   "ka": "პუსანის ეროვნული უნივერსიტეტი",
+   "ar": "جامعة بوسان الوطنية"
+  },
+  "iso": "KR",
+  "city": "Busan",
+  "lat": 35.233,
+  "lon": 129.08,
+  "type": "public",
+  "website": "https://www.pusan.ac.kr",
+  "platform": "PNU admissions site (go.pusan.ac.kr)",
+  "application_url": "https://international.pusan.ac.kr/international/15256/subview.do",
+  "intakes": [
+   "March",
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Online applications open in early October for the spring (March) intake and early April for the fall (September) intake; documents are due at the end of that month. Exact 2027 dates are in the yearly application guide.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Korean",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 5.5,
+  "toefl_min": 80,
+  "duolingo_min": null,
+  "other_tests": [
+   "TOPIK 3-5 (by department)",
+   "NewTEPS 326 (Global Studies)"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "business",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Natural Sciences",
+    "Business",
+    "Nursing",
+    "Design"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ბიზნესი",
+    "საექთნო საქმე",
+    "დიზაინი"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم الطبيعية",
+    "الأعمال",
+    "التمريض",
+    "التصميم"
+   ]
+  },
+  "summary": {
+   "en": "A national university in Busan, South Korea. Most bachelor courses are taught in Korean and need TOPIK 3 or higher; Global Studies accepts English tests.",
+   "ka": "ეროვნული უნივერსიტეტი ბუსანში (სამხრეთ კორეა). ბაკალავრიატის უმეტესობა კორეულად ისწავლება და საჭიროა TOPIK 3 ან მეტი; Global Studies-ზე ინგლისური ტესტებიც მიიღება.",
+   "ar": "جامعة وطنية في بوسان بكوريا الجنوبية. تُدرّس معظم برامج البكالوريوس بالكورية وتتطلب TOPIK 3 فأكثر، أما Global Studies فتقبل اختبارات الإنجليزية."
+  },
+  "about": {
+   "en": "Pusan National University is a public university in Busan. Foreign applicants (and both parents) must not hold Korean nationality, and freshmen must be high school graduates. Two intakes a year: spring and fall. Most departments need TOPIK 3; some need 4 or 5. Global Studies accepts TOEFL iBT 80, IELTS 5.5 or NewTEPS 326. A bank statement of at least USD 18,000 and an interview are part of the process.",
+   "ka": "პუსანის ეროვნული უნივერსიტეტი ბუსანის საჯარო უნივერსიტეტია. უცხოელი აპლიკანტი და მისი ორივე მშობელი კორეის მოქალაქეობის არ უნდა იყოს, პირველკურსელი კი საშუალო სკოლის კურსდამთავრებული. წელიწადში ორი მიღებაა: გაზაფხულის და შემოდგომის. უმეტეს დეპარტამენტზე საჭიროა TOPIK 3, ზოგზე 4 ან 5. Global Studies-ზე მიიღება TOEFL iBT 80, IELTS 5.5 ან NewTEPS 326. პროცესში შედის საბანკო ამონაწერი მინიმუმ 18 000 აშშ დოლარზე და გასაუბრება.",
+   "ar": "جامعة بوسان الوطنية جامعة حكومية في بوسان. يجب ألا يحمل المتقدم الأجنبي ووالداه الجنسية الكورية، وأن يكون خريج ثانوية. يوجد قبولان سنوياً: الربيع والخريف. تتطلب معظم الأقسام TOPIK 3 وبعضها 4 أو 5. تقبل Global Studies درجة TOEFL iBT 80 أو IELTS 5.5 أو NewTEPS 326. تشمل الإجراءات كشف حساب بنكي لا يقل عن 18,000 دولار ومقابلة."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Most departments need TOPIK 3 (some 4 or 5). Global Studies needs TOEFL iBT 80, IELTS 5.5 or NewTEPS 326 instead; Computer Science needs TOPIK 3 plus an English test.",
+   "ka": "უმეტეს დეპარტამენტზე საჭიროა TOPIK 3 (ზოგზე 4 ან 5). Global Studies-ზე ნაცვლად საჭიროა TOEFL iBT 80, IELTS 5.5 ან NewTEPS 326; Computer Science-ზე TOPIK 3 და ინგლისურის ტესტი.",
+   "ar": "تتطلب معظم الأقسام TOPIK 3 (وبعضها 4 أو 5). تتطلب Global Studies TOEFL iBT 80 أو IELTS 5.5 أو NewTEPS 326، وتتطلب علوم الحاسوب TOPIK 3 مع اختبار إنجليزي."
+  },
+  "gpa_note": {
+   "en": "Freshman applicants must have graduated or be about to graduate from high school; transfer applicants need 66 or more credits.",
+   "ka": "პირველკურსელი აპლიკანტი საშუალო სკოლის კურსდამთავრებული ან მოსალოდნელი კურსდამთავრებული უნდა იყოს; გადმოსვლისას საჭიროა მინიმუმ 66 კრედიტი.",
+   "ar": "يجب أن يكون المتقدم خريج ثانوية أو على وشك التخرج؛ ويحتاج طلاب التحويل إلى 66 ساعة معتمدة فأكثر."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის დანართი / შეფასებები",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების დიპლომი/ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Chinese language certificate (HSK)",
+     "ka": "ჩინური ენის სერტიფიკატი (HSK)",
+     "ar": "شهادة اللغة الصينية (HSK)"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of finances",
+     "ka": "ფინანსური შესაძლებლობის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات القدرة المالية"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Study plan / personal statement",
+     "ka": "სასწავლო გეგმა / პირადი წერილი",
+     "ar": "خطة الدراسة / البيان الشخصي"
+    }
+   },
+   {
+    "key": "portfolio",
+    "label": {
+     "en": "Portfolio (art and design majors)",
+     "ka": "პორტფოლიო (ხელოვნება/დიზაინი)",
+     "ar": "ملف أعمال (تخصصات الفنون والتصميم)"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Interview",
+     "ka": "გასაუბრება",
+     "ar": "مقابلة"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Notarised translations of documents",
+     "ka": "დოკუმენტების ნოტარიულად დამოწმებული თარგმანი",
+     "ar": "ترجمة موثقة للمستندات"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "korea",
+   "busan",
+   "pusan",
+   "topik"
+  ],
+  "sources": [
+   "https://international.pusan.ac.kr/international/15256/subview.do"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "usi-universita-della-svizzera-italiana",
+  "name": {
+   "en": "USI - Università della Svizzera italiana",
+   "ka": "იტალიური შვეიცარიის უნივერსიტეტი (USI)",
+   "ar": "جامعة سويسرا الإيطالية (USI)"
+  },
+  "iso": "CH",
+  "city": "Lugano",
+  "lat": 46.012,
+  "lon": 8.961,
+  "type": "public",
+  "website": "https://www.usi.ch",
+  "platform": null,
+  "application_url": "https://www.usi.ch/en/education-application",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-04-30",
+  "deadline_note": "Informatics (autumn 2027) deadline for non-EU/EFTA applicants is 30 April 2027; deadlines differ by programme (Architecture 30 April for non-EU/EFTA certificates).",
+  "tuition_intl": {
+   "amount": 8000,
+   "currency": "CHF",
+   "per": "year",
+   "note": "CHF 4,000 per semester for residents abroad in older material; USI announced a CHF 5,000 semester fee from 2027/28 - check the fees page."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Italian"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "computer-science",
+   "economics",
+   "humanities",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Informatics",
+    "Economics",
+    "Communication",
+    "Architecture",
+    "Finance"
+   ],
+   "ka": [
+    "ინფორმატიკა",
+    "ეკონომიკა",
+    "კომუნიკაცია",
+    "არქიტექტურა",
+    "ფინანსები"
+   ],
+   "ar": [
+    "المعلوماتية",
+    "الاقتصاد",
+    "الاتصال",
+    "العمارة",
+    "المالية"
+   ]
+  },
+  "summary": {
+   "en": "A small public university in Lugano, Switzerland, with English- and Italian-taught bachelor programmes. Fees for students from abroad are CHF 4,000 per semester, rising in 2027/28.",
+   "ka": "პატარა საჯარო უნივერსიტეტი ლუგანოში (შვეიცარია), ინგლისურ და იტალიურ ენაზე ბაკალავრის პროგრამებით. საზღვარგარეთიდან მოსულთათვის საფასური სემესტრში CHF 4 000-ია, 2027/28-დან იზრდება.",
+   "ar": "جامعة حكومية صغيرة في لوغانو بسويسرا مع برامج بكالوريوس بالإنجليزية والإيطالية. الرسوم للقادمين من الخارج 4,000 فرنك للفصل وتزداد في 2027/28."
+  },
+  "about": {
+   "en": "USI is a public university in Lugano, in the Italian-speaking part of Switzerland. Applicants apply online and pay a CHF 100 registration fee, which is deducted from the first semester fee if they enrol. Applicants with a foreign secondary diploma can be admitted, and non-EU/EFTA applicants must show proof of academic and language requirements. Decisions usually arrive within 20 working days.",
+   "ka": "USI საჯარო უნივერსიტეტია ლუგანოში, შვეიცარიის იტალიურენოვან ნაწილში. აპლიკანტი განაცხადს ონლაინ აგზავნის და იხდის CHF 100 სარეგისტრაციო საფასურს, რომელიც ჩარიცხვისას პირველი სემესტრის საფასურს აკლდება. უცხოური საშუალო განათლების დიპლომის მქონე აპლიკანტები მიიღებიან; არა-EU/EFTA აპლიკანტებმა აკადემიური და ენობრივი მოთხოვნების დამადასტურებელი დოკუმენტები უნდა წარადგინონ. გადაწყვეტილება ჩვეულებრივ 20 სამუშაო დღეში მოდის.",
+   "ar": "USI جامعة حكومية في لوغانو بالجزء الإيطالي من سويسرا. يقدّم المتقدم عبر الإنترنت ويدفع رسم تسجيل 100 فرنك يُخصم من رسوم الفصل الأول عند الالتحاق. تُقبل الشهادات الثانوية الأجنبية، ويجب على المتقدمين من خارج الاتحاد الأوروبي/EFTA إثبات المتطلبات الأكاديمية واللغوية. تصل القرارات عادة خلال 20 يوم عمل."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": {
+   "en": "Applicants with a foreign secondary diploma are accepted; each programme page lists the exact academic and language proof for non-EU/EFTA applicants.",
+   "ka": "უცხოური საშუალო განათლების დიპლომი მიიღება; თითოეული პროგრამის გვერდზე მითითებულია არა-EU/EFTA აპლიკანტებისთვის საჭირო აკადემიური და ენობრივი დოკუმენტები.",
+   "ar": "تُقبل الشهادات الثانوية الأجنبية، وتذكر صفحة كل برنامج الإثباتات الأكاديمية واللغوية المطلوبة لغير مواطني الاتحاد الأوروبي/EFTA."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის დანართი / შეფასებები",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების დიპლომი/ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test",
+     "ka": "ინგლისური ენის ტესტი",
+     "ar": "اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "switzerland",
+   "lugano",
+   "usi",
+   "informatics"
+  ],
+  "sources": [
+   "https://www.usi.ch/en/education/tuition-and-scholarships",
+   "https://www.usi.ch/en/education/bachelor/informatics/admission",
+   "https://www.usi.ch/en/education-application"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "tashkent-institute-of-irrigation-and-agricultural-mechanization-engine",
+  "name": {
+   "en": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers - National Research University (TIIAME-NRU)",
+   "ka": "ტაშკენტის ირიგაციისა და სასოფლო-სამეურნეო მექანიზაციის ინჟინერთა ინსტიტუტი (TIIAME-NRU)",
+   "ar": "معهد طشقند لمهندسي الري وميكنة الزراعة - جامعة البحث الوطنية (TIIAME-NRU)"
+  },
+  "iso": "UZ",
+  "city": "Tashkent",
+  "lat": 41.33,
+  "lon": 69.25,
+  "type": "public",
+  "website": "https://tiiame.uz",
+  "platform": null,
+  "application_url": "https://tiiame.uz/admission/other/foreign_citizens",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Uzbek",
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "environment",
+   "economics",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Water Management",
+    "Agricultural Engineering",
+    "Software Engineering",
+    "Economics",
+    "Energy Engineering"
+   ],
+   "ka": [
+    "წყალთა მეურნეობა",
+    "სასოფლო-სამეურნეო ინჟინერია",
+    "პროგრამული ინჟინერია",
+    "ეკონომიკა",
+    "ენერგეტიკა"
+   ],
+   "ar": [
+    "إدارة المياه",
+    "الهندسة الزراعية",
+    "هندسة البرمجيات",
+    "الاقتصاد",
+    "هندسة الطاقة"
+   ]
+  },
+  "summary": {
+   "en": "A national research university in Tashkent specialising in water management and agricultural engineering, with over 40 bachelor programmes.",
+   "ka": "ეროვნული კვლევითი უნივერსიტეტი ტაშკენტში, სპეციალიზებული წყალთა მეურნეობასა და სასოფლო-სამეურნეო ინჟინერიაში, 40-ზე მეტი ბაკალავრის პროგრამით.",
+   "ar": "جامعة بحثية وطنية في طشقند متخصصة في إدارة المياه والهندسة الزراعية، وتضم أكثر من 40 برنامج بكالوريوس."
+  },
+  "about": {
+   "en": "TIIAME-NRU is a public university in Tashkent that became a national research university in 2021. It offers more than 40 bachelor programmes, and foreign citizens apply through the international admissions page. A flyer lists the usual documents: application, diploma copy and medical certificate. Uzbek and Russian language courses are available for foreign students, and dormitory places exist on campus.",
+   "ka": "TIIAME-NRU ტაშკენტის საჯარო უნივერსიტეტია, რომელმაც 2021 წელს ეროვნული კვლევითი უნივერსიტეტის სტატუსი მიიღო. სთავაზობს 40-ზე მეტ ბაკალავრის პროგრამას; უცხოელი მოქალაქეები განაცხადს საერთაშორისო მიღების გვერდზე აგზავნიან. ბუკლეტში მითითებული ჩვეულებრივი დოკუმენტებია: განაცხადი, დიპლომის ასლი და სამედიცინო ცნობა. უცხოელ სტუდენტებისთვის არსებობს უზბეკური და რუსული ენის კურსები, კამპუსზე კი საერთო საცხოვრებელი.",
+   "ar": "TIIAME-NRU جامعة حكومية في طشقند أصبحت جامعة بحثية وطنية عام 2021. تقدم أكثر من 40 برنامج بكالوريوس، ويقدّم الأجانب عبر صفحة القبول الدولي. تذكر نشرة الجامعة المستندات المعتادة: الطلب ونسخة الشهادة وشهادة طبية. تتوفر دورات في اللغتين الأوزبكية والروسية للأجانب وسكن جامعي في الحرم."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების დიპლომი/ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Medical examination and police clearance",
+     "ka": "სამედიცინო შემოწმება და ცნობა ნასამართლობის შესახებ",
+     "ar": "فحص طبي وشهادة عدم محكومية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "uzbekistan",
+   "tashkent",
+   "irrigation",
+   "tiiame"
+  ],
+  "sources": [
+   "https://tiiame.uz/",
+   "http://international.tiiame.uz/en/page/kontrakt",
+   "http://international.tiiame.uz/storage/web/source/1/Flayer/Flyer%20TIIAME.pdf"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "chongqing-university",
+  "name": {
+   "en": "Chongqing University",
+   "ka": "ჩონცინის უნივერსიტეტი",
+   "ar": "جامعة تشونغتشينغ"
+  },
+  "iso": "CN",
+  "city": "Chongqing",
+  "lat": 29.565,
+  "lon": 106.47,
+  "type": "public",
+  "website": "https://www.cqu.edu.cn",
+  "platform": "CQU online application system",
+  "application_url": "https://study.cqu.edu.cn/info/1887/2789.htm",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-05-31",
+  "deadline_note": "The 2026 undergraduate guide set 31 May 2026 (Beijing time); the 2027 date is not yet published, and scholarship deadlines are set by each scholarship guide.",
+  "tuition_intl": {
+   "amount": 18000,
+   "currency": "CNY",
+   "per": "year",
+   "note": "2026 guide: 18,000-22,000 CNY for Chinese-taught and 25,000-30,000 CNY for English-taught programmes; application fee 600 CNY, insurance 800 CNY."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "HSK 4 (score 210+) or HSK 5 by programme"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "computer-science",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Architecture",
+    "Mining and Resources",
+    "Electrical Engineering",
+    "Computer Science"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "არქიტექტურა",
+    "სამთო საქმე და რესურსები",
+    "ელექტროინჟინერია",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الهندسة",
+    "العمارة",
+    "التعدين والموارد",
+    "الهندسة الكهربائية",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "A national university in Chongqing strong in engineering. The 2026 guide listed tuition of 18,000-30,000 CNY a year and required HSK 4 for Chinese-taught programmes.",
+   "ka": "ეროვნული უნივერსიტეტი ჩონცინში, ძლიერია ინჟინერიაში. 2026 წლის გიდის მიხედვით საფასური წელიწადში 18 000-30 000 იუანია, ჩინურენოვან პროგრამებზე კი საჭიროა HSK 4.",
+   "ar": "جامعة وطنية في تشونغتشينغ قوية في الهندسة. حدد دليل 2026 الرسوم بين 18,000 و30,000 يوان سنوياً واشترط HSK 4 للبرامج بالصينية."
+  },
+  "about": {
+   "en": "Chongqing University is a public university in southwest China. International bachelor applicants create an account on the university's online system, upload scanned documents and pay a 600 CNY application fee. Applicants must be non-Chinese citizens with an ordinary passport. Chinese-taught programmes require HSK 4 with a score of at least 210, and some require HSK 5. The 2026 deadline was 31 May.",
+   "ka": "ჩონცინის უნივერსიტეტი სამხრეთ-დასავლეთ ჩინეთის საჯარო უნივერსიტეტია. საერთაშორისო აპლიკანტები ბაკალავრიატზე ქმნიან ანგარიშს უნივერსიტეტის ონლაინ სისტემაში, ტვირთავენ დოკუმენტებს და იხდიან 600 იუანის სააპლიკაციო საფასურს. აპლიკანტი უნდა იყოს არა-ჩინეთის მოქალაქე ჩვეულებრივი პასპორტით. ჩინურენოვან პროგრამებზე საჭიროა HSK 4 მინიმუმ 210 ქულით, ზოგზე HSK 5. 2026 წლის ბოლო ვადა 31 მაისი იყო.",
+   "ar": "جامعة تشونغتشينغ جامعة حكومية في جنوب غرب الصين. ينشئ المتقدم الدولي حساباً على نظام الجامعة الإلكتروني ويرفع المستندات ويدفع رسم تقديم 600 يوان. يجب ألا يكون المتقدم صيني الجنسية وأن يحمل جواز سفر عادياً. تتطلب البرامج بالصينية HSK 4 بدرجة 210 على الأقل وبعضها HSK 5. كان الموعد النهائي لعام 2026 هو 31 مايو."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Chinese-taught programmes need HSK 4 with a score of 210 or more (HSK 5 for some). English-taught programme requirements are listed in the programme list.",
+   "ka": "ჩინურენოვან პროგრამებზე საჭიროა HSK 4 მინიმუმ 210 ქულით (ზოგზე HSK 5). ინგლისურენოვან პროგრამებზე მოთხოვნები პროგრამების სიაშია მითითებული.",
+   "ar": "تتطلب البرامج بالصينية HSK 4 بدرجة 210 فأكثر (وبعضها HSK 5). تُذكر متطلبات البرامج بالإنجليزية في قائمة البرامج."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის დანართი / შეფასებები",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების დიპლომი/ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Chinese language certificate (HSK)",
+     "ka": "ჩინური ენის სერტიფიკატი (HSK)",
+     "ar": "شهادة اللغة الصينية (HSK)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო საფასური",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Chinese Government Scholarship Type A and Type B (Silk Road)",
+    "url": "https://study.cqu.edu.cn/info/1387/2793.htm",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "china",
+   "chongqing",
+   "cqu",
+   "engineering",
+   "hsk"
+  ],
+  "sources": [
+   "https://study.cqu.edu.cn/info/1887/2789.htm",
+   "https://study.cqu.edu.cn/info/1387/2793.htm"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "anna-university",
+  "name": {
+   "en": "Anna University",
+   "ka": "ანას უნივერსიტეტი",
+   "ar": "جامعة آنا"
+  },
+  "iso": "IN",
+  "city": "Chennai",
+  "lat": 13.011,
+  "lon": 80.235,
+  "type": "public",
+  "website": "https://annauniv.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Technology",
+    "Architecture"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ტექნოლოგიები",
+    "არქიტექტურა"
+   ],
+   "ar": [
+    "الهندسة",
+    "التكنولوجيا",
+    "العمارة"
+   ]
+  },
+  "summary": {
+   "en": "A public technical university in Chennai, India, known for engineering programmes.",
+   "ka": "საჯარო ტექნიკური უნივერსიტეტი ჩენაიში (ინდოეთი), ცნობილია საინჟინრო პროგრამებით.",
+   "ar": "جامعة تقنية حكومية في تشيناي بالهند، معروفة ببرامج الهندسة."
+  },
+  "about": {
+   "en": "Anna University is a public technical university in Chennai with colleges across Tamil Nadu. Its Centre for International Relations handles international students. Admission and fee details for international bachelor applicants were not available on pages reachable in this research, so check with the Centre for International Relations.",
+   "ka": "ანას უნივერსიტეტი ჩენაიში მდებარე საჯარო ტექნიკური უნივერსიტეტია, კოლეჯებით მთელ ტამილ-ნადუში. საერთაშორისო სტუდენტებთან მუშაობს საერთაშორისო ურთიერთობების ცენტრი. ბაკალავრიატზე მიღებისა და საფასურის დეტალები ხელმისაწვდომ გვერდებზე ვერ მოიძებნა; დაუკავშირდით საერთაშორისო ურთიერთობების ცენტრს.",
+   "ar": "جامعة آنا جامعة تقنية حكومية في تشيناي ولها كليات في ولاية تاميل نادو. يتولى مركز العلاقات الدولية شؤون الطلاب الدوليين. لم تتوفر تفاصيل القبول والرسوم لطلاب البكالوريوس الدوليين في الصفحات المتاحة، لذا يُرجى مراجعة مركز العلاقات الدولية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "in",
+   "chennai"
+  ],
+  "sources": [
+   "https://annauniv.edu/cir/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "imam-abdulrahman-bin-faisal-university-iau",
+  "name": {
+   "en": "Imam Abdulrahman Bin Faisal University (IAU)",
+   "ka": "იმამ აბდულრაჰმან ბინ ფეისალის უნივერსიტეტი (IAU)",
+   "ar": "جامعة الإمام عبدالرحمن بن فيصل"
+  },
+  "iso": "SA",
+  "city": "Dammam",
+  "lat": 26.39,
+  "lon": 50.19,
+  "type": "public",
+  "website": "https://www.iau.edu.sa",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Computer Science",
+    "Architecture"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "არქიტექტურა"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "علوم الحاسوب",
+    "العمارة"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Dammam, Saudi Arabia, strong in health sciences and engineering.",
+   "ka": "საჯარო უნივერსიტეტი დამამში (საუდის არაბეთი), ძლიერია ჯანდაცვასა და ინჟინერიაში.",
+   "ar": "جامعة حكومية في الدمام بالسعودية قوية في العلوم الصحية والهندسة."
+  },
+  "about": {
+   "en": "Imam Abdulrahman Bin Faisal University is a public university in Dammam, in Saudi Arabia's Eastern Province. Its website could not be read in this research, so no admission, fee or deadline details are given here. Check the university's admissions page or the national Study in Saudi portal.",
+   "ka": "იმამ აბდულრაჰმან ბინ ფეისალის უნივერსიტეტი საჯარო უნივერსიტეტია დამამში, საუდის არაბეთის აღმოსავლეთ პროვინციაში. ვებგვერდი ვერ გაიხსნა, ამიტომ მიღების, საფასურისა და ვადების ინფორმაცია არ არის მოცემული. იხილეთ უნივერსიტეტის მიღების გვერდი ან Study in Saudi პორტალი.",
+   "ar": "جامعة الإمام عبدالرحمن بن فيصل جامعة حكومية في الدمام بالمنطقة الشرقية من السعودية. لم يمكن فتح موقعها أثناء البحث، لذلك لا تُذكر تفاصيل القبول أو الرسوم أو المواعيد. يُرجى مراجعة صفحة القبول في الجامعة أو بوابة الدراسة في السعودية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "sa",
+   "dammam"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "china-agricultural-university",
+  "name": {
+   "en": "China Agricultural University",
+   "ka": "ჩინეთის სასოფლო-სამეურნეო უნივერსიტეტი",
+   "ar": "جامعة الصين الزراعية"
+  },
+  "iso": "CN",
+  "city": "Beijing",
+  "lat": 40.01,
+  "lon": 116.285,
+  "type": "public",
+  "website": "https://www.cau.edu.cn",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Agriculture",
+    "Food Science",
+    "Veterinary Medicine",
+    "Environmental Science"
+   ],
+   "ka": [
+    "სოფლის მეურნეობა",
+    "საკვები პროდუქტების მეცნიერება",
+    "ვეტერინარია",
+    "გარემოს მეცნიერება"
+   ],
+   "ar": [
+    "الزراعة",
+    "علوم الأغذية",
+    "الطب البيطري",
+    "علوم البيئة"
+   ]
+  },
+  "summary": {
+   "en": "A national university in Beijing focused on agriculture, food and life sciences.",
+   "ka": "ეროვნული უნივერსიტეტი პეკინში, ორიენტირებული სოფლის მეურნეობაზე, საკვებსა და ბიოლოგიურ მეცნიერებებზე.",
+   "ar": "جامعة وطنية في بكين تركز على الزراعة والأغذية وعلوم الحياة."
+  },
+  "about": {
+   "en": "China Agricultural University is a national university in Beijing with strengths in agriculture, food science, veterinary medicine and the environment. Its international admissions pages could not be reached in this research, so no deadline, fee or requirement details are given. Check the university's international office website.",
+   "ka": "ჩინეთის სასოფლო-სამეურნეო უნივერსიტეტი პეკინის ეროვნული უნივერსიტეტია, ძლიერია სოფლის მეურნეობაში, საკვების მეცნიერებაში, ვეტერინარიასა და გარემოს მეცნიერებაში. საერთაშორისო მიღების გვერდები ვერ გაიხსნა, ამიტომ ვადების, საფასურისა და მოთხოვნების ინფორმაცია არ არის მოცემული. იხილეთ უნივერსიტეტის საერთაშორისო ოფისის ვებგვერდი.",
+   "ar": "جامعة الصين الزراعية جامعة وطنية في بكين متميزة في الزراعة وعلوم الأغذية والطب البيطري والبيئة. لم يمكن الوصول إلى صفحات القبول الدولي أثناء البحث، لذلك لا تُذكر تفاصيل المواعيد والرسوم والشروط. يُرجى مراجعة موقع مكتب الشؤون الدولية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "cn",
+   "beijing"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "hunan-university",
+  "name": {
+   "en": "Hunan University",
+   "ka": "ჰუნანის უნივერსიტეტი",
+   "ar": "جامعة هونان"
+  },
+  "iso": "CN",
+  "city": "Changsha",
+  "lat": 28.188,
+  "lon": 112.945,
+  "type": "public",
+  "website": "https://www.hnu.edu.cn",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "business",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Mechanical Engineering",
+    "Business",
+    "Architecture",
+    "Chemistry"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მექანიკური ინჟინერია",
+    "ბიზნესი",
+    "არქიტექტურა",
+    "ქიმია"
+   ],
+   "ar": [
+    "الهندسة",
+    "الهندسة الميكانيكية",
+    "الأعمال",
+    "العمارة",
+    "الكيمياء"
+   ]
+  },
+  "summary": {
+   "en": "A national university in Changsha, China, with a long history and strengths in engineering and business.",
+   "ka": "ეროვნული უნივერსიტეტი ჩანშაში (ჩინეთი), მდიდარი ისტორიით, ძლიერია ინჟინერიასა და ბიზნესში.",
+   "ar": "جامعة وطنية في تشانغشا بالصين ذات تاريخ عريق وقوة في الهندسة والأعمال."
+  },
+  "about": {
+   "en": "Hunan University is a national university in Changsha, Hunan province, with roots going back to the 10th century Yuelu Academy. Its English site only shows domestic admissions notices, so no international deadline, fee or requirement details could be confirmed. Check the university's international admissions office.",
+   "ka": "ჰუნანის უნივერსიტეტი ჰუნანის პროვინციის ქალაქ ჩანშაში მდებარე ეროვნული უნივერსიტეტია, რომლის ფესვები X საუკუნის იუელუს აკადემიამდე ადის. ინგლისურ საიტზე მხოლოდ ადგილობრივი მიღების განცხადებებია, ამიტომ საერთაშორისო ვადები, საფასური და მოთხოვნები ვერ დადასტურდა. იხილეთ უნივერსიტეტის საერთაშორისო მიღების ოფისი.",
+   "ar": "جامعة هونان جامعة وطنية في تشانغشا بمقاطعة هونان وتعود جذورها إلى أكاديمية يويلو في القرن العاشر. يعرض موقعها الإنجليزي إعلانات قبول محلية فقط، لذلك لم يمكن تأكيد المواعيد والرسوم والشروط للدوليين. يُرجى مراجعة مكتب القبول الدولي."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "cn",
+   "changsha"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "amirkabir-university-of-technology",
+  "name": {
+   "en": "Amirkabir University of Technology",
+   "ka": "ამირქაბირის ტექნოლოგიური უნივერსიტეტი",
+   "ar": "جامعة أمير كبير للتكنولوجيا"
+  },
+  "iso": "IR",
+  "city": "Tehran",
+  "lat": 35.704,
+  "lon": 51.41,
+  "type": "public",
+  "website": "https://www.aut.ac.ir",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "mathematics"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer Engineering",
+    "Textile Engineering",
+    "Mathematics"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული ინჟინერია",
+    "ტექსტილის ინჟინერია",
+    "მათემატიკა"
+   ],
+   "ar": [
+    "الهندسة",
+    "هندسة الحاسوب",
+    "هندسة النسيج",
+    "الرياضيات"
+   ]
+  },
+  "summary": {
+   "en": "A public technical university in Tehran, one of Iran's leading engineering schools.",
+   "ka": "საჯარო ტექნიკური უნივერსიტეტი თეირანში, ირანის წამყვანი საინჟინრო სკოლებიდან.",
+   "ar": "جامعة تقنية حكومية في طهران، من أبرز كليات الهندسة في إيران."
+  },
+  "about": {
+   "en": "Amirkabir University of Technology, formerly Tehran Polytechnic, is a public university in Tehran focused on engineering and technology. Its website could not be reached in this research, so no admission, fee or deadline details are given. Check the university's international office.",
+   "ka": "ამირქაბირის ტექნოლოგიური უნივერსიტეტი (ყოფილი თეირანის პოლიტექნიკური) თეირანის საჯარო უნივერსიტეტია, ორიენტირებული ინჟინერიასა და ტექნოლოგიებზე. ვებგვერდი ვერ გაიხსნა, ამიტომ მიღების, საფასურისა და ვადების ინფორმაცია არ არის მოცემული. იხილეთ უნივერსიტეტის საერთაშორისო ოფისი.",
+   "ar": "جامعة أمير كبير للتكنولوجيا (بوليتكنيك طهران سابقاً) جامعة حكومية في طهران تركز على الهندسة والتكنولوجيا. لم يمكن فتح موقعها أثناء البحث، لذلك لا تُذكر تفاصيل القبول والرسوم والمواعيد. يُرجى مراجعة مكتب الشؤون الدولية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "ir",
+   "tehran"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ }
+]

@@ -1,0 +1,909 @@
+[
+ {
+  "id": "university-of-seoul",
+  "name": {
+   "en": "University of Seoul",
+   "ka": "სეულის უნივერსიტეტი",
+   "ar": "جامعة سول"
+  },
+  "iso": "KR",
+  "city": "Seoul",
+  "lat": 37.583,
+  "lon": 127.058,
+  "type": "public",
+  "website": "https://www.uos.ac.kr",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "business",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A public city university in Seoul, South Korea.",
+   "ka": "სახელმწიფო საქალაქო უნივერსიტეტი სეულში, სამხრეთ კორეა.",
+   "ar": "جامعة حكومية في مدينة سول، كوريا الجنوبية."
+  },
+  "about": {
+   "en": "The University of Seoul is a public university in Seoul. Official international admissions details could not be read from its site this round.",
+   "ka": "სეულის უნივერსიტეტი სახელმწიფო უნივერსიტეტია სეულში.",
+   "ar": "جامعة سول جامعة حكومية في العاصمة سول."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "korea",
+   "seoul",
+   "public"
+  ],
+  "sources": [
+   "https://www.uos.ac.kr/eng/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-stavanger",
+  "name": {
+   "en": "University of Stavanger",
+   "ka": "სტავანგერის უნივერსიტეტი",
+   "ar": "جامعة ستافنجر"
+  },
+  "iso": "NO",
+  "city": "Stavanger",
+  "lat": 58.937,
+  "lon": 5.697,
+  "type": "public",
+  "website": "https://www.uis.no",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "environment",
+   "education"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A public university in Stavanger, western Norway.",
+   "ka": "სახელმწიფო უნივერსიტეტი სტავანგერში, დასავლეთ ნორვეგია.",
+   "ar": "جامعة حكومية في ستافنجر غرب النرويج."
+  },
+  "about": {
+   "en": "The University of Stavanger is a public university in western Norway. Official admissions pages were blocked this round.",
+   "ka": "სტავანგერის უნივერსიტეტი სახელმწიფო უნივერსიტეტია დასავლეთ ნორვეგიაში.",
+   "ar": "جامعة ستافنجر جامعة حكومية في غرب النرويج."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "norway",
+   "stavanger",
+   "public"
+  ],
+  "sources": [
+   "https://www.uis.no"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "williams-college",
+  "name": {
+   "en": "Williams College",
+   "ka": "უილიამს კოლეჯი",
+   "ar": "كلية ويليامز"
+  },
+  "iso": "US",
+  "city": "Williamstown",
+  "lat": 42.713,
+  "lon": -73.205,
+  "type": "private",
+  "website": "https://www.williams.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 68560,
+   "currency": "USD",
+   "per": "year",
+   "note": "Tuition and fees 2024-25; estimated total on-campus cost $89,520 (US Dept. of Education College Navigator)."
+  },
+  "acceptance_rate": 8,
+  "students": 2164,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": 1490,
+   "high": 1570,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "humanities",
+   "natural-sciences",
+   "social-sciences",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A private liberal arts college in Massachusetts with an 8% admission rate (fall 2024). Tuition and fees were $68,560 in 2024-25.",
+   "ka": "კერძო თავისუფალი ხელოვნების კოლეჯი მასაჩუსეტსში; მიღების მაჩვენებელი 8% (2024). სწავლის საფასური და გადასახადები 2024-25 წელს: $68,560.",
+   "ar": "كلية خاصة للفنون الحرة في ماساتشusetts بنسبة قبول 8% (خريف 2024). بلغت الرسوم الدراسية 68,560 دولارًا في 2024-25."
+  },
+  "about": {
+   "en": "Williams College is a private undergraduate liberal arts college in Williamstown, Massachusetts. It had 2,164 students in fall 2024, of whom 2,115 were undergraduates. The 2024-25 application fee was $65. Admission is highly selective: 8% of 15,411 applicants were admitted.",
+   "ka": "უილიამს კოლეჯი კერძო საბაკალავრო კოლეჯია უილიამსთაუნში, მასაჩუსეტსი. 2024 წლის შემოდგომაზე ჰყავდა 2 164 სტუდენტი. განაცხადის გადასახადი 2024-25 წელს იყო $65. მიღება ძალიან შერჩევითია: 15 411 აპლიკანტიდან მიიღეს 8%.",
+   "ar": "كلية ويليامز كلية خاصة للفنون الحرة في ويليامزتاون بولاية ماساتشوستس. بلغ عدد طلابها 2,164 في خريف 2024. رسوم التقديم 65 دولارًا في 2024-25. القبول انتقائي جدًا: قُبل 8% من 15,411 متقدمًا."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee ($65 in 2024-25)",
+     "ka": "განაცხადის გადასახადი ($65 2024-25 წელს)",
+     "ar": "رسوم التقديم (65 دولارًا في 2024-25)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "williams",
+   "liberal arts",
+   "massachusetts"
+  ],
+  "sources": [
+   "https://nces.ed.gov/collegenavigator/?q=Williams+College&s=MA&id=168342"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "al-quds-university",
+  "name": {
+   "en": "Al-Quds University",
+   "ka": "ალ-ყუდსის უნივერსიტეტი",
+   "ar": "جامعة القدس"
+  },
+  "iso": "PS",
+  "city": "East Jerusalem",
+  "lat": 31.763,
+  "lon": 35.263,
+  "type": "public",
+  "website": "https://www.alquds.edu",
+  "platform": "Direct (enrolment card + online form)",
+  "application_url": "https://www.alquds.edu/en/admissions-registration/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A Palestinian university based in East Jerusalem and Abu Dis.",
+   "ka": "პალესტინური უნივერსიტეტი, განთავსებული აღმოსავლეთ იერუსალიმსა და აბუ დისში.",
+   "ar": "جامعة فلسطينية مقرها القدس الشرقية وأبو ديس."
+  },
+  "about": {
+   "en": "Al-Quds University applicants with the Tawjihi enter their seat number on the online form after buying an enrolment card. Fees and international rules were not published on the page read.",
+   "ka": "ალ-ყუდსის უნივერსიტეტში ტავჯიჰის მქონე აპლიკანტები ონლაინ ფორმაში შეჰყავთ სავარძლის ნომერს რეგისტრაციის ბარათის შეძენის შემდეგ.",
+   "ar": "يدخل المتقدمون الحاصلون على التوجيهي رقم الجلوس في النموذج الإلكتروني بعد شراء بطاقة التسجيل."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Tawjihi seat number (5+ digits) as on the certificate",
+     "ka": "ტავჯიჰის ნომერი სერტიფიკატზე მითითებულის მიხედვით",
+     "ar": "رقم جلوس التوجيهي كما في الشهادة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "palestine",
+   "al-quds",
+   "jerusalem"
+  ],
+  "sources": [
+   "https://www.alquds.edu/en/admissions-registration/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "altai-state-university",
+  "name": {
+   "en": "Altai State University",
+   "ka": "ალტაის სახელმწიფო უნივერსიტეტი",
+   "ar": "جامعة ألتاي الحكومية"
+  },
+  "iso": "RU",
+  "city": "Barnaul",
+  "lat": 53.348,
+  "lon": 83.779,
+  "type": "public",
+  "website": "https://www.asu.ru",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "natural-sciences",
+   "humanities",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A public university in Barnaul, Russia.",
+   "ka": "სახელმწიფო უნივერსიტეტი ბარნაულში, რუსეთი.",
+   "ar": "جامعة حكومية في بارناول، روسيا."
+  },
+  "about": {
+   "en": "Altai State University is a public university in Barnaul, Siberia. Official admissions pages could not be read this round.",
+   "ka": "ალტაის სახელმწიფო უნივერსიტეტი სახელმწიფო უნივერსიტეტია ბარნაულში, ციმბირი.",
+   "ar": "جامعة ألتاي الحكومية جامعة حكومية في بارناول بسيبيريا."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "russia",
+   "barnaul",
+   "altai"
+  ],
+  "sources": [
+   "https://www.asu.ru"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "amity-university",
+  "name": {
+   "en": "Amity University",
+   "ka": "ამითის უნივერსიტეტი",
+   "ar": "جامعة أميتي"
+  },
+  "iso": "IN",
+  "city": "Noida",
+  "lat": 28.544,
+  "lon": 77.333,
+  "type": "private",
+  "website": "https://www.amity.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A large private university in Noida, India.",
+   "ka": "დიდი კერძო უნივერსიტეტი ნოიდაში, ინდოეთი.",
+   "ar": "جامعة خاصة كبيرة في نويدا، الهند."
+  },
+  "about": {
+   "en": "Amity University Noida is a private university. Its site could not be read this round (certificate error).",
+   "ka": "ამითის უნივერსიტეტი ნოიდა კერძო უნივერსიტეტია.",
+   "ar": "جامعة أميتي نويدا جامعة خاصة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "noida",
+   "amity",
+   "private"
+  ],
+  "sources": [
+   "https://www.amity.edu"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "belarusian-national-technical-university-bntu",
+  "name": {
+   "en": "Belarusian National Technical University (BNTU)",
+   "ka": "ბელარუსის ეროვნული ტექნიკური უნივერსიტეტი (BNTU)",
+   "ar": "الجامعة الوطنية التقنية البيلاروسية (BNTU)"
+  },
+  "iso": "BY",
+  "city": "Minsk",
+  "lat": 53.908,
+  "lon": 27.576,
+  "type": "public",
+  "website": "https://www.bntu.by",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "environment"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "The main public technical university of Belarus, in Minsk.",
+   "ka": "ბელარუსის მთავარი სახელმწიფო ტექნიკური უნივერსიტეტი მინსკში.",
+   "ar": "الجامعة التقنية الحكومية الرئيسية في بيلاروس، في مينسك."
+  },
+  "about": {
+   "en": "BNTU is a public technical university in Minsk. Official admissions pages could not be read this round.",
+   "ka": "BNTU სახელმწიფო ტექნიკური უნივერსიტეტია მინსკში.",
+   "ar": "BNTU جامعة تقنية حكومية في مينسك."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "belarus",
+   "minsk",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.bntu.by"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "cy-cergy-paris-university",
+  "name": {
+   "en": "CY Cergy Paris University",
+   "ka": "სერჟი პარიზის უნივერსიტეტი (CY)",
+   "ar": "جامعة سيرجي باريس (CY)"
+  },
+  "iso": "FR",
+  "city": "Paris",
+  "lat": 49.037,
+  "lon": 2.076,
+  "type": "public",
+  "website": "https://www.cyu.fr",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "social-sciences",
+   "humanities",
+   "law",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A public university in the Paris region, in Cergy.",
+   "ka": "სახელმწიფო უნივერსიტეტი პარიზის რეგიონში, სერჟიში.",
+   "ar": "جامعة حكومية في منطقة باريس، في سيرجي."
+  },
+  "about": {
+   "en": "CY Cergy Paris University is a public university in the Paris region. Its site lists a separate application route for international licence applicants; details were not readable this round.",
+   "ka": "CY სერჟი პარიზის უნივერსიტეტი სახელმწიფო უნივერსიტეტია პარიზის რეგიონში.",
+   "ar": "جامعة CY سيرجي باريس جامعة حكومية في منطقة باريس."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "cergy",
+   "paris",
+   "public"
+  ],
+  "sources": [
+   "https://www.cyu.fr/en/academics/apply/register"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "effat-university",
+  "name": {
+   "en": "Effat University",
+   "ka": "ეფათის უნივერსიტეტი",
+   "ar": "جامعة عفت"
+  },
+  "iso": "SA",
+  "city": "Jeddah",
+  "lat": 21.686,
+  "lon": 39.159,
+  "type": "private",
+  "website": "https://www.effatuniversity.edu.sa",
+  "platform": "Direct (Banner portal)",
+  "application_url": "https://www.effatuniversity.edu.sa/English/Admissions/Pages/default.aspx",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "business",
+   "computer-science",
+   "arts-design"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A private women's university in Jeddah, Saudi Arabia.",
+   "ka": "კერძო ქალთა უნივერსიტეტი ჯედაში, საუდის არაბეთი.",
+   "ar": "جامعة خاصة للبنات في جدة بالمملكة العربية السعودية."
+  },
+  "about": {
+   "en": "Effat University is a private university in Jeddah. Applicants apply online through the Banner portal, submit an ID and certificate copies, pay the application fee and may sit placement tests.",
+   "ka": "ეფათის უნივერსიტეტი კერძო უნივერსიტეტია ჯედაში. განაცხადი იგზავნება ონლაინ Banner პორტალით, საჭიროა პირადობისა და სერტიფიკატების ასლები, განაცხადის გადასახადი და შესაძლოა განმსაზღვრელი ტესტი.",
+   "ar": "جامعة عفت جامعة خاصة في جدة. يقدَّم الطلب عبر بوابة Banner مع صورة الهوية والشهادات ودفع رسوم التقديم وقد تُطلب اختبارات تحديد مستوى."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Placement tests are taken if required; results are emailed to the applicant.",
+   "ka": "განმსაზღვრელი ტესტები ტარდება საჭიროების შემთხვევაში; შედეგები იგზავნება ელფოსტით.",
+   "ar": "تُجرى اختبارات تحديد المستوى عند الحاجة وتُرسل النتائج بالبريد الإلكتروني."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee paid online or at the office",
+     "ka": "განაცხადის გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Copies of ID and certificates",
+     "ka": "პირადობისა და სერტიფიკატების ასლები",
+     "ar": "صور الهوية والشهادات"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Placement tests if required",
+     "ka": "განმსაზღვრელი ტესტები საჭიროების შემთხვევაში",
+     "ar": "اختبارات تحديد المستوى عند الطلب"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "saudi arabia",
+   "jeddah",
+   "women",
+   "private"
+  ],
+  "sources": [
+   "https://www.effatuniversity.edu.sa/English/Admissions/Pages/default.aspx"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "european-university-of-lefke",
+  "name": {
+   "en": "European University of Lefke",
+   "ka": "ლეფკეს ევროპული უნივერსიტეტი",
+   "ar": "جامعة ليفكي الأوروبية"
+  },
+  "iso": "CY",
+  "city": "Lefke",
+  "lat": 35.115,
+  "lon": 32.846,
+  "type": "private",
+  "website": "https://www.lefke.edu.tr",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "business",
+   "education"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A private university in Lefke, northern Cyprus.",
+   "ka": "კერძო უნივერსიტეტი ლეფკეში, ჩრდილოეთ კვიპროსი.",
+   "ar": "جامعة خاصة في ليفكي بشمال قبرص."
+  },
+  "about": {
+   "en": "The European University of Lefke is a private university in northern Cyprus. Its admissions pages could not be read this round.",
+   "ka": "ლეფკეს ევროპული უნივერსიტეტი კერძო უნივერსიტეტია ჩრდილოეთ კვიპროსში.",
+   "ar": "جامعة ليفكي الأوروبية جامعة خاصة في شمال قبرص."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "northern cyprus",
+   "lefke",
+   "private"
+  ],
+  "sources": [
+   "https://www.lefke.edu.tr"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "gachon-university-seoul-korea",
+  "name": {
+   "en": "Gachon University (Seoul, Korea)",
+   "ka": "გაჩონის უნივერსიტეტი (სეული, კორეა)",
+   "ar": "جامعة غاتشون (سول، كوريا)"
+  },
+  "iso": "KR",
+  "city": "Seongnam",
+  "lat": 37.45,
+  "lon": 127.129,
+  "type": "private",
+  "website": "https://www.gachon.ac.kr",
+  "platform": "Direct (Jinhak Apply)",
+  "application_url": "https://enter.jinhakapply.com",
+  "intakes": [
+   "March"
+  ],
+  "deadline": "2027-01-04",
+  "deadline_note": "Spring 2027 freshman and transfer special admission: round 1 Oct 12-23 2026, round 2 Nov 23-Dec 4 2026, round 3 Dec 28 2026-Jan 4 2027 (online application, 16:00 Korea time).",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Korean",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A private university in Seongnam near Seoul. Spring 2027 international freshman applications run in three rounds from October 2026 to January 2027.",
+   "ka": "კერძო უნივერსიტეტი სეულთან ახლოს, სონგნამში. 2027 წლის გაზაფხულის საერთაშორისო პირველკურსელთა განაცხადები სამ რაუნდად მიმდინარეობს 2026 წლის ოქტომბრიდან 2027 წლის იანვრამდე.",
+   "ar": "جامعة خاصة في سونغنام قرب سول. تُقبل طلبات الطلاب الدوليين لفصل ربيع 2027 على ثلاث جولات من أكتوبر 2026 إلى يناير 2027."
+  },
+  "about": {
+   "en": "Gachon University is a private university in Seongnam, Gyeonggi. International freshmen apply online through Jinhak Apply and must deliver documents to the International Admissions Team by each round's deadline. Application fees cannot be edited after payment, and results are posted on the International Affairs Office notice board. Tuition amounts were not on the pages read.",
+   "ka": "გაჩონის უნივერსიტეტი კერძო უნივერსიტეტია სონგნამში. საერთაშორისო პირველკურსელები განაცხადს აგზავნიან ონლაინ Jinhak Apply-ით და დოკუმენტები უნდა მიაწოდონ საერთაშორისო მისაღებ გუნდს თითოეული რაუნდის ვადამდე. გადახდის შემდეგ განაცხადის შეცვლა შეუძლებელია, შედეგები ქვეყნდება შეტყობინებათა დაფაზე.",
+   "ar": "جامعة غاتشون جامعة خاصة في سونغنام. يقدّم الطلاب الدوليون طلباتهم عبر Jinhak Apply ويجب تسليم المستندات إلى فريق القبول الدولي قبل موعد كل جولة. لا يمكن تعديل الطلب بعد دفع الرسوم وتُنشر النتائج على لوحة إعلانات مكتب الشؤون الدولية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Application documents sent to the International Admissions Team",
+     "ka": "დოკუმენტები საერთაშორისო მისაღებ გუნდში",
+     "ar": "مستندات الطلب إلى فريق القبول الدولي"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee paid online",
+     "ka": "განაცხადის გადასახადი ონლაინ",
+     "ar": "رسوم التقديم عبر الإنترنت"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Korean language test information (link on notice)",
+     "ka": "კორეული ენის ტესტის ინფორმაცია",
+     "ar": "معلومات اختبار اللغة الكورية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "korea",
+   "gachon",
+   "seongnam",
+   "private"
+  ],
+  "sources": [
+   "https://www.gachon.ac.kr/bbs/intl/1948/125773/artclView.do",
+   "https://www.gachon.ac.kr/intl/12157/subview.do"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "london-south-bank-university",
+  "name": {
+   "en": "London South Bank University",
+   "ka": "ლონდონის სამხრეთ ბანკის უნივერსიტეტი",
+   "ar": "جامعة لندن ساوث بانك"
+  },
+  "iso": "GB",
+  "city": "London",
+  "lat": 51.498,
+  "lon": -0.103,
+  "type": "public",
+  "website": "https://www.lsbu.ac.uk",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "business"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A public university in central London.",
+   "ka": "სახელმწიფო უნივერსიტეტი ლონდონის ცენტრში.",
+   "ar": "جامعة حكومية في وسط لندن."
+  },
+  "about": {
+   "en": "London South Bank University is a public university in Southwark, London. Its pages were blocked this round.",
+   "ka": "ლონდონის სამხრეთ ბანკის უნივერსიტეტი სახელმწიფო უნივერსიტეტია ლონდონში.",
+   "ar": "جامعة لندن ساوث بانك جامعة حكومية في ساوثوارك بلندن."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "uk",
+   "london",
+   "lsbu"
+  ],
+  "sources": [
+   "https://www.lsbu.ac.uk"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "nanjing-normal-university",
+  "name": {
+   "en": "Nanjing Normal University",
+   "ka": "ნანჯინგის პედაგოგიური უნივერსიტეტი",
+   "ar": "جامعة نانجينغ العادية"
+  },
+  "iso": "CN",
+  "city": "Nanjing",
+  "lat": 32.105,
+  "lon": 118.917,
+  "type": "public",
+  "website": "https://www.njnu.edu.cn",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "education",
+   "humanities",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A public university in Nanjing, China, known for teacher education.",
+   "ka": "სახელმწიფო უნივერსიტეტი ნანჯინგში, ჩინეთი, ცნობილი პედაგოგიური განათლებით.",
+   "ar": "جامعة حكومية في نانجينغ بالصين، معروفة بإعداد المعلمين."
+  },
+  "about": {
+   "en": "Nanjing Normal University is a public university in Jiangsu. Its international admissions pages could not be read this round.",
+   "ka": "ნანჯინგის პედაგოგიური უნივერსიტეტი სახელმწიფო უნივერსიტეტია ძიანსუში.",
+   "ar": "جامعة نانجينغ العادية جامعة حكومية في مقاطعة جيانغسو."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "china",
+   "nanjing",
+   "normal"
+  ],
+  "sources": [
+   "https://www.njnu.edu.cn"
+  ],
+  "verified_at": "2026-11-14"
+ }
+]

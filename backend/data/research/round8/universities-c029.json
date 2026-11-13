@@ -1,0 +1,874 @@
+[
+ {
+  "id": "universidad-tecnica-federico-santa-maria-usm",
+  "name": {
+   "en": "Universidad Técnica Federico Santa María (USM)",
+   "ka": "ფედერიკო სანტა მარიას ტექნიკური უნივერსიტეტი (USM)",
+   "ar": "جامعة فيديريكو سانتا ماريا التقنية (USM)"
+  },
+  "iso": "CL",
+  "city": "Valparaíso",
+  "lat": -33.034,
+  "lon": -71.595,
+  "type": "private",
+  "website": "https://www.usm.cl",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Private engineering-focused university in Valparaíso, Chile. Teaching is in Spanish. Its admissions pages could not be read, so no official fee data is listed.",
+   "ka": "ვალპარაისოს (ჩილე) კერძო საინჟინრო უნივერსიტეტი. სწავლება ესპანურ ენაზეა. მისაღები პირობები ოფიციალური გვერდიდან ვერ წაიკითხა, ამიტომ საფასური მითითებული არ არის.",
+   "ar": "جامعة خاصة متخصصة في الهندسة في فالبارايسو بتشيلي. التدريس بالإسبانية. تعذّر قراءة صفحات القبول الرسمية، لذلك لا تُعرض رسوم رسمية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "chile",
+   "valparaiso",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.usm.cl"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universidade-federal-de-sao-carlos-ufscar",
+  "name": {
+   "en": "Universidade Federal de São Carlos (UFSCar)",
+   "ka": "სან-კარლოსის ფედერალური უნივერსიტეტი (UFSCar)",
+   "ar": "الجامعة الفيدرالية في ساو كارلوس (UFSCar)"
+  },
+  "iso": "BR",
+  "city": "São Carlos",
+  "lat": -21.984,
+  "lon": -47.881,
+  "type": "public",
+  "website": "https://www.ufscar.br",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "education"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Federal public university in São Carlos, Brazil. Teaching is in Portuguese. No international admissions page could be read, so fees and deadlines are not listed.",
+   "ka": "ბრაზილიის სან-კარლოსში მდებარე ფედერალური საჯარო უნივერსიტეტი. სწავლება პორტუგალიურია. საერთაშორისო მისაღები გვერდი ვერ წაიკითხა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "جامعة فيدرالية عامة في ساو كارلوس بالبرازيل. التدريس بالبرتغالية. تعذّرت قراءة صفحة القبول الدولي، لذلك لا تُعرض الرسوم والمواعيد."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "sao carlos",
+   "public"
+  ],
+  "sources": [
+   "https://www.ufscar.br"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universidade-federal-do-parana-ufpr",
+  "name": {
+   "en": "Universidade Federal do Paraná - UFPR",
+   "ka": "პარანას ფედერალური უნივერსიტეტი (UFPR)",
+   "ar": "الجامعة الفيدرالية في بارانا (UFPR)"
+  },
+  "iso": "BR",
+  "city": "Curitiba",
+  "lat": -25.427,
+  "lon": -49.266,
+  "type": "public",
+  "website": "https://www.ufpr.br",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "law",
+   "medicine-health",
+   "engineering",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Federal public university in Curitiba, Brazil. Its international relations office runs the PEC-G programme for students from partner countries. Teaching is in Portuguese.",
+   "ka": "ბრაზილიის კურიტიბაში მდებარე ფედერალური საჯარო უნივერსიტეტი. საერთაშორისო ურთიერთობების ოფისი მართავს PEC-G პროგრამას პარტნიორი ქვეყნების სტუდენტებისთვის. სწავლება პორტუგალიურია.",
+   "ar": "جامعة فيدرالية عامة في كوريتيبا بالبرازيل. يدير مكتب العلاقات الدولية فيها برنامج PEC-G لطلاب الدول الشريكة. التدريس بالبرتغالية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "curitiba",
+   "public",
+   "PEC-G"
+  ],
+  "sources": [
+   "https://internacional.ufpr.br/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universitas-sumatera-utara",
+  "name": {
+   "en": "Universitas Sumatera Utara",
+   "ka": "ჩრდილოეთ სუმატრის უნივერსიტეტი",
+   "ar": "جامعة سومطرة الشمالية"
+  },
+  "iso": "ID",
+  "city": "Medan",
+  "lat": 3.56,
+  "lon": 98.656,
+  "type": "public",
+  "website": "https://www.usu.ac.id",
+  "platform": null,
+  "application_url": "https://penerimaan.usu.ac.id",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Indonesian"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Medan, Indonesia, with 259 study programmes in 17 faculties and schools. Undergraduate fees are a single tuition fee (UKT) set by family income; no international amounts are published on the pages read.",
+   "ka": "ინდონეზიის ქალაქ მედანის საჯარო უნივერსიტეტი, 17 ფაკულტეტსა და სკოლაში 259 სასწავლო პროგრამით. ბაკალავრის საფასური არის ოჯახის შემოსავლის მიხედვით განსაზღვრული ერთიანი გადასახადი (UKT); საერთაშორისო თანხები გვერდებზე მითითებული არ არის.",
+   "ar": "جامعة عامة في ميدان بإندونيسيا تضم 259 برنامجاً دراسياً في 17 كلية ومدرسة. رسوم البكالوريوس رسم موحد (UKT) يُحدَّد حسب دخل الأسرة، ولا توجد مبالغ للطلاب الدوليين في الصفحات المقروءة."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "indonesia",
+   "medan",
+   "public"
+  ],
+  "sources": [
+   "https://www.usu.ac.id/en",
+   "https://www.usu.ac.id/en/international-visitors",
+   "https://www.usu.ac.id/en/education/tuition-fee"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universite-mohammed-v-de-rabat",
+  "name": {
+   "en": "Université Mohammed V de Rabat",
+   "ka": "რაბატის მოჰამედ V უნივერსიტეტი",
+   "ar": "جامعة محمد الخامس بالرباط"
+  },
+  "iso": "MA",
+  "city": "Rabat",
+  "lat": 33.992,
+  "lon": -6.853,
+  "type": "public",
+  "website": "https://www.um5.ac.ma",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French",
+   "Arabic"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "law",
+   "medicine-health",
+   "engineering",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Rabat, Morocco. Teaching is mainly in French and Arabic. Its website could not be read, so no official admissions data is listed.",
+   "ka": "მაროკოს რაბატის საჯარო უნივერსიტეტი. სწავლება ძირითადად ფრანგულ და არაბულ ენებზეა. ვებსაიტი ვერ წაიკითხა, ამიტომ ოფიციალური მონაცემები მითითებული არ არის.",
+   "ar": "جامعة عامة في الرباط بالمغرب. التدريس أساساً بالفرنسية والعربية. تعذّرت قراءة موقعها، لذلك لا تُعرض بيانات قبول رسمية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "morocco",
+   "rabat",
+   "public"
+  ],
+  "sources": [
+   "https://www.um5.ac.ma"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universiti-malaysia-perlis",
+  "name": {
+   "en": "Universiti Malaysia Perlis",
+   "ka": "პერლისის მალაიზიის უნივერსიტეტი",
+   "ar": "جامعة ماليزيا برليس"
+  },
+  "iso": "MY",
+  "city": "Kangar",
+  "lat": 6.466,
+  "lon": 100.2,
+  "type": "public",
+  "website": "https://www.unimap.edu.my",
+  "platform": null,
+  "application_url": "https://admission.unimap.edu.my/index.php/undergraduate/international-student",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Malay"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public technical university in Perlis, Malaysia. It has a dedicated undergraduate admission page for international students. Its admission server did not respond, so fees are not listed.",
+   "ka": "მალაიზიის პერლისის საჯარო ტექნიკური უნივერსიტეტი. საერთაშორისო სტუდენტებისთვის ბაკალავრის მისაღები გვერდი აქვს. მისაღები სერვერი არ პასუხობდა, ამიტომ საფასური მითითებული არ არის.",
+   "ar": "جامعة تقنية عامة في برليس بماليزيا. لديها صفحة قبول مخصصة لطلاب البكالوريوس الدوليين. لم يستجب خادم القبول، لذلك لا تُعرض الرسوم."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "malaysia",
+   "perlis",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.unimap.edu.my/index.php/en/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universiti-malaysia-sabah-ums",
+  "name": {
+   "en": "Universiti Malaysia Sabah (UMS)",
+   "ka": "საბაჰის მალაიზიის უნივერსიტეტი (UMS)",
+   "ar": "جامعة ماليزيا صباح (UMS)"
+  },
+  "iso": "MY",
+  "city": "Kota Kinabalu",
+  "lat": 6.033,
+  "lon": 116.119,
+  "type": "public",
+  "website": "https://www.ums.edu.my",
+  "platform": null,
+  "application_url": "https://mohon.ums.edu.my/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The UMS international application page said 'No intake open at this moment' when read in November 2026.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Malay",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "medicine-health"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Kota Kinabalu, Sabah. International applicants apply online through the UMS portal; at the time of reading the page said no intake was open.",
+   "ka": "საბაჰის (მალაიზია) ქალაქ კოტა-კინაბალუს საჯარო უნივერსიტეტი. საერთაშორისო აპლიკანტები განაცხადს UMS-ის პორტალით აგზავნიან; გვერდის წაკითხვისას ჩანდა, რომ მიღება ღია არ იყო.",
+   "ar": "جامعة عامة في كوتا كينابالو بولاية صباح. يقدّم المتقدمون الدوليون طلبهم عبر بوابة UMS، وكانت الصفحة وقت القراءة تشير إلى عدم فتح باب القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "malaysia",
+   "sabah",
+   "kota kinabalu"
+  ],
+  "sources": [
+   "https://www.ums.edu.my/v6/index.php/academic/admission-ums",
+   "https://smp.ums.edu.my/admission"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universiti-malaysia-sarawak-unimas",
+  "name": {
+   "en": "Universiti Malaysia Sarawak (UNIMAS)",
+   "ka": "სარავაკის მალაიზიის უნივერსიტეტი (UNIMAS)",
+   "ar": "جامعة ماليزيا سراواك (UNIMAS)"
+  },
+  "iso": "MY",
+  "city": "Kuching",
+  "lat": 1.468,
+  "lon": 110.428,
+  "type": "public",
+  "website": "https://www.unimas.my",
+  "platform": null,
+  "application_url": "https://iadweb.unimas.my/UGIntOnlineApp/MainPage2.jsp",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Malay"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A-Level, IB Diploma or AUSMAT recognised by the Malaysian government and approved by the University Senate, plus an SPM or equivalent credit in Bahasa Malaysia.",
+   "ka": "მალაიზიის მთავრობის მიერ აღიარებული და უნივერსიტეტის სენატის მიერ დამტკიცებული A-Level, IB დიპლომი ან AUSMAT, ასევე SPM-ის ან ექვივალენტის კრედიტი მალაიზიურ ენაში.",
+   "ar": "شهادة A-Level أو دبلوم IB أو AUSMAT معترف بها من الحكومة الماليزية ومعتمدة من مجلس الجامعة، مع ائتمان SPM أو ما يعادله في اللغة الماليزية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 5.5,
+  "toefl_min": 59,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "computer-science",
+   "environment",
+   "engineering"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Kuching, Sarawak. International bachelor applicants apply through an online portal. A-Level, IB and AUSMAT holders may apply with an SPM credit in Malay; English minimum is IELTS 5.5.",
+   "ka": "სარავაკის (მალაიზია) ქალაქ კუჩინგის საჯარო უნივერსიტეტი. საერთაშორისო აპლიკანტები განაცხადს ონლაინ პორტალით აგზავნიან. A-Level, IB და AUSMAT-ის მფლობელებს მალაის ენაში SPM-ის კრედიტი სჭირდებათ; ინგლისურის მინიმუმია IELTS 5.5.",
+   "ar": "جامعة عامة في كوتشينغ بولاية سراواك. يتقدّم طلاب البكالوريوس الدوليون عبر بوابة إلكترونية. يُقبل حملة A-Level وIB وAUSMAT مع ائتمان SPM في اللغة الماليزية؛ والحد الأدنى للإنجليزية IELTS 5.5."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "English proof: IELTS Band 5.5, TOEFL iBT 59, TOEFL PBT 500 or MUET Band 2 (as listed on the undergraduate entry page).",
+   "ka": "ინგლისურის დამადასტურებელი: IELTS 5.5, TOEFL iBT 59, TOEFL PBT 500 ან MUET Band 2.",
+   "ar": "إثبات اللغة الإنجليزية: IELTS 5.5 أو TOEFL iBT 59 أو TOEFL PBT 500 أو MUET Band 2."
+  },
+  "gpa_note": {
+   "en": "An SPM or equivalent credit in Bahasa Malaysia and a recognised A-Level, IB or AUSMAT qualification are required.",
+   "ka": "საჭიროა SPM-ის ან ექვივალენტის კრედიტი მალაიზიურ ენაში და აღიარებული A-Level, IB ან AUSMAT კვალიფიკაცია.",
+   "ar": "يُشترط ائتمان SPM أو ما يعادله في اللغة الماليزية ومؤهل A-Level أو IB أو AUSMAT معترف به."
+  },
+  "requirements": [
+   {
+    "key": "english",
+    "label": {
+     "en": "English test (IELTS 5.5 or equivalent)",
+     "ka": "ინგლისურის ტესტი (IELTS 5.5 ან ექვივალენტი)",
+     "ar": "اختبار اللغة الإنجليزية (IELTS 5.5 أو ما يعادله)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "A-Level, IB or AUSMAT certificate",
+     "ka": "A-Level, IB ან AUSMAT სერტიფიკატი",
+     "ar": "شهادة A-Level أو IB أو AUSMAT"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "malaysia",
+   "sarawak",
+   "kuching"
+  ],
+  "sources": [
+   "https://www.unimas.my/",
+   "https://www.unimas.my/undergraduate-programs"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-east-london",
+  "name": {
+   "en": "University of East London",
+   "ka": "აღმოსავლეთ ლონდონის უნივერსიტეტი",
+   "ar": "جامعة شرق لندن"
+  },
+  "iso": "GB",
+  "city": "London",
+  "lat": 51.508,
+  "lon": 0.065,
+  "type": "public",
+  "website": "https://www.uel.ac.uk",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "engineering",
+   "social-sciences",
+   "arts-design"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in London, UK, teaching in English. Its website blocks automated reading, so fees and entry rules are not listed here.",
+   "ka": "დიდი ბრიტანეთის ლონდონის საჯარო უნივერსიტეტი, სწავლება ინგლისურია. ვებსაიტი ავტომატურ წაკითხვას ბლოკავს, ამიტომ საფასური და მოთხოვნები მითითებული არ არის.",
+   "ar": "جامعة عامة في لندن بالمملكة المتحدة، التدريس بالإنجليزية. يحظر موقعها القراءة الآلية، لذلك لا تُعرض الرسوم ومتطلبات القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "uk",
+   "london",
+   "east london"
+  ],
+  "sources": [
+   "https://www.uel.ac.uk"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-ha-il",
+  "name": {
+   "en": "University of Ha'il",
+   "ka": "ჰაილის უნივერსიტეტი",
+   "ar": "جامعة حائل"
+  },
+  "iso": "SA",
+  "city": "Hail",
+  "lat": 27.523,
+  "lon": 41.69,
+  "type": "public",
+  "website": "https://www.uoh.edu.sa",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Hail, Saudi Arabia. Its Deanship of Admission and Registration handles admission of non-Saudi students; no fees or deadlines are published on the pages read.",
+   "ka": "საუდის არაბეთის ჰაილის საჯარო უნივერსიტეტი. არასაუდელი სტუდენტების მიღებას აღრიცხვისა და მიღების დეკანატი ახორციელებს; წაკითხულ გვერდებზე საფასური და ვადები არ არის.",
+   "ar": "جامعة عامة في حائل بالسعودية. تتولى عمادة القبول والتسجيل قبول الطلاب غير السعوديين، ولا تنشر الصفحات المقروءة رسوماً أو مواعيد."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "saudi arabia",
+   "hail",
+   "public"
+  ],
+  "sources": [
+   "https://www.uoh.edu.sa/En/Deanships/Deanship-A-R/Pages/default.aspx"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-ibadan",
+  "name": {
+   "en": "University of Ibadan",
+   "ka": "იბადანის უნივერსიტეტი",
+   "ar": "جامعة إبادان"
+  },
+  "iso": "NG",
+  "city": "Ibadan",
+  "lat": 7.443,
+  "lon": 3.9,
+  "type": "public",
+  "website": "https://www.ui.edu.ng",
+  "platform": null,
+  "application_url": "https://admissions.ui.edu.ng/#/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Ibadan, Nigeria, teaching in English. It has an International Students and Visitors page and an online undergraduate admissions portal; the portal did not load, so no data is listed.",
+   "ka": "ნიგერიის იბადანის საჯარო უნივერსიტეტი, სწავლება ინგლისურია. აქვს საერთაშორისო სტუდენტების გვერდი და ბაკალავრის ონლაინ პორტალი; პორტალი არ ჩაიტვირთა, ამიტომ მონაცემები მითითებული არ არის.",
+   "ar": "جامعة عامة في إبادان بنيجيريا، التدريس بالإنجليزية. لديها صفحة للطلاب الدوليين وبوابة قبول إلكترونية للبكالوريوس؛ لم تُحمَّل البوابة، لذلك لا تُعرض بيانات."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "nigeria",
+   "ibadan",
+   "public"
+  ],
+  "sources": [
+   "https://www.ui.edu.ng/",
+   "https://ui.edu.ng/internationalstudents"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-lodz",
+  "name": {
+   "en": "University of Lodz",
+   "ka": "ლოძის უნივერსიტეტი",
+   "ar": "جامعة لودز"
+  },
+  "iso": "PL",
+  "city": "Lodz",
+  "lat": 51.775,
+  "lon": 19.463,
+  "type": "public",
+  "website": "https://www.uni.lodz.pl",
+  "platform": "IRK online enrolment platform",
+  "application_url": "https://www.uni.lodz.pl/en/prospective-student-zone/admission/admission-rules-for-international-students-to-full-time-studies",
+  "intakes": [
+   "October"
+  ],
+  "deadline": null,
+  "deadline_note": "2026/27 round for non-Polish citizens: BA registration and fee payment 7 May to 13 July 2026, entrance exams until 17 July, documents by 10 August 2026. Dates for 2027/28 are not yet published.",
+  "tuition_intl": {
+   "amount": 3000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "2,500 EUR (Business Management, Economics, Digital Communication, Management and Finance), 2,800 EUR (Global Law and Governance), 2,900 EUR (International and Political Studies, International Marketing), 3,000 EUR (Computer Science); 2026/27 prices, may change."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Polish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "economics",
+   "law",
+   "international-relations",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Economics",
+    "Law",
+    "International studies",
+    "Computer Science"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ეკონომიკა",
+    "სამართალი",
+    "საერთაშორისო კვლევები",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الأعمال",
+    "الاقتصاد",
+    "القانون",
+    "الدراسات الدولية",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Lodz, Poland, with English-taught bachelor programmes in business, economics, law, international studies and computer science. Tuition is 2,500 to 3,000 EUR a year.",
+   "ka": "პოლონეთის ლოძის საჯარო უნივერსიტეტი, ბიზნესის, ეკონომიკის, სამართლის, საერთაშორისო კვლევებისა და კომპიუტერული მეცნიერების ინგლისურენოვანი ბაკალავრის პროგრამებით. სწავლის საფასური წელიწადში 2 500–3 000 ევროა.",
+   "ar": "جامعة عامة في لودز ببولندا، تقدم برامج بكالوريوس بالإنجليزية في الأعمال والاقتصاد والقانون والدراسات الدولية والحاسوب. الرسوم الدراسية من 2,500 إلى 3,000 يورو سنوياً."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "BA candidates sit entrance exams in July. The application fee is paid during registration on the IRK platform; the amount is not stated on the page read.",
+   "ka": "ბაკალავრის კანდიდატები ივლისში შესასვლელ გამოცდებს აბარებენ. სააპლიკაციო გადასახადი IRK პლატფორმაზე რეგისტრაციისას იხდება; თანხა წაკითხულ გვერდზე მითითებული არ არის.",
+   "ar": "يؤدي المتقدمون للبكالوريوس امتحانات قبول في يوليو. تُدفع رسوم التقديم أثناء التسجيل على منصة IRK، والمبلغ غير مذكور في الصفحة المقروءة."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee paid on the IRK platform",
+     "ka": "სააპლიკაციო გადასახადი IRK პლატფორმაზე",
+     "ar": "رسوم التقديم عبر منصة IRK"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam (BA)",
+     "ka": "შესასვლელი გამოცდა (ბაკალავრიატი)",
+     "ar": "امتحان القبول (البكالوريوس)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "poland",
+   "lodz",
+   "english programmes",
+   "low tuition"
+  ],
+  "sources": [
+   "https://www.uni.lodz.pl/en/ba-bachelors-degree",
+   "https://www.uni.lodz.pl/en/prospective-student-zone/admission/admission-rules-for-international-students-to-full-time-studies",
+   "https://www.uni.lodz.pl/en/candidate-zone/admission-for-international-candidates"
+  ],
+  "verified_at": "2026-11-14"
+ }
+]

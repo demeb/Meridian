@@ -1,0 +1,1347 @@
+[
+ {
+  "id": "martin-luther-universitat-halle-wittenberg",
+  "name": {
+   "en": "Martin-Luther-Universität Halle-Wittenberg",
+   "ka": "მარტინ ლუთერის უნივერსიტეტი ჰალე-ვიტენბერგი",
+   "ar": "جامعة مارتن لوثر هالة-فيتنبرغ"
+  },
+  "iso": "DE",
+  "city": "Halle",
+  "lat": 51.489,
+  "lon": 11.969,
+  "type": "public",
+  "website": "https://www.uni-halle.de",
+  "platform": "uni-assist / university portal",
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 20000,
+  "intl_pct": null,
+  "languages": [
+   "German",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "humanities",
+   "natural-sciences",
+   "law",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Humanities",
+    "Natural sciences",
+    "Law",
+    "Medicine",
+    "Economics"
+   ],
+   "ka": [
+    "ჰუმანიტარული მეცნიერებები",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "სამართალი",
+    "მედიცინა",
+    "ეკონომიკა"
+   ],
+   "ar": [
+    "العلوم الإنسانية",
+    "العلوم الطبيعية",
+    "القانون",
+    "الطب",
+    "الاقتصاد"
+   ]
+  },
+  "summary": {
+   "en": "A large public research university in Halle, Saxony-Anhalt, founded in 1502 (merged with Wittenberg in 1817). Bachelor study is mostly in German.",
+   "ka": "ჰალეს მსხვილი საჯარო საკვლევი უნივერსიტეტი, დაარსებულია 1502 წელს. საბაკალავრო სწავლება ძირითადად გერმანულ ენაზეა.",
+   "ar": "جامعة بحثية عامة كبيرة في هالة بولاية سكسونيا-أنهالت، تأسست عام 1502. التدريس في البكالوريوس بالألمانية في الغالب."
+  },
+  "about": {
+   "en": "Martin Luther University Halle-Wittenberg is a public university in eastern Germany with roughly 20,000 students. Most bachelor programmes are taught in German, so applicants from outside the EU normally need German proof and a recognised school-leaving certificate. The official admission pages for international bachelor applicants could not be read in this research round, so fees, deadlines and tests are not listed here. Check the university's international admissions page before applying.",
+   "ka": "მარტინ ლუთერის უნივერსიტეტი აღმოსავლეთ გერმანიაში მდებარე საჯარო უნივერსიტეტია, დაახლოებით 20 000 სტუდენტით. საბაკალავრო პროგრამების უმეტესობა გერმანულ ენაზეა, ამიტომ ევროკავშირს გარეთ მყოფ აბიტურიენტებს ჩვეულებრივ სჭირდებათ გერმანულის ცოდნის დამადასტურებელი დოკუმენტი და აღიარებული ატესტატი. საერთაშორისო აპლიკანტებისთვის ოფიციალური გვერდი ამ რაუნდში ვერ წაიკითხა, ამიტომ საფასური, ვადები და გამოცდები აქ არ არის მითითებული.",
+   "ar": "جامعة مارتن لوثر عامة في شرق ألمانيا وفيها نحو 20,000 طالب. معظم برامج البكالوريوس بالألمانية، لذا يحتاج المتقدمون من خارج الاتحاد الأوروبي عادة إلى إثبات اللغة الألمانية وشهادة ثانوية معترف بها. لم نتمكن من قراءة صفحات القبول الرسمية للطلاب الدوليين في هذه الجولة، لذا لا تُذكر الرسوم والمواعيد والاختبارات هنا."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "germany",
+   "halle",
+   "public",
+   "german-taught"
+  ],
+  "sources": [
+   "https://www.uni-halle.de"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "national-university-of-uzbekistan-named-after-mirzo-ulugbek",
+  "name": {
+   "en": "National University of Uzbekistan named after Mirzo Ulugbek",
+   "ka": "უზბეკეთის ეროვნული უნივერსიტეტი მირზო ულუღბეკის სახელობის",
+   "ar": "جامعة أوزبكستان الوطنية باسم ميرزو أولوغ بيك"
+  },
+  "iso": "UZ",
+  "city": "Tashkent",
+  "lat": 41.343,
+  "lon": 69.204,
+  "type": "public",
+  "website": "https://www.nuu.uz",
+  "platform": "University admission portal (qabul.nuu.uz)",
+  "application_url": "https://qabul.nuu.uz/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Uzbek",
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "natural-sciences",
+   "mathematics",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Mathematics",
+    "Physics",
+    "Biology",
+    "Philology",
+    "Law"
+   ],
+   "ka": [
+    "მათემატიკა",
+    "ფიზიკა",
+    "ბიოლოგია",
+    "ფილოლოგია",
+    "სამართალი"
+   ],
+   "ar": [
+    "الرياضيات",
+    "الفيزياء",
+    "الأحياء",
+    "فقه اللغة",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "The largest classical public university in Uzbekistan, founded in 1918 in Tashkent. Teaching is mainly in Uzbek and Russian.",
+   "ka": "უზბეკეთის უძველესი და უდიდესი კლასიკური საჯარო უნივერსიტეტი, დაარსებულია 1918 წელს ტაშკენტში. სწავლება ძირითადად უზბეკურ და რუსულ ენებზეა.",
+   "ar": "أكبر جامعة عامة كلاسيكية في أوزبكستان، تأسست عام 1918 في طشقند. التدريس بالأوزبكية والروسية في الغالب."
+  },
+  "about": {
+   "en": "The National University of Uzbekistan in Tashkent offers bachelor programmes in sciences, humanities, law and social sciences. The university lists an online reception portal. Fees, deadlines and requirements for foreign applicants were not available on the pages that could be read, so they are left empty. Contact the university at devonxona@nuu.uz for current international admission terms.",
+   "ka": "უზბეკეთის ეროვნული უნივერსიტეტი ტაშკენტში გთავაზობთ საბაკალავრო პროგრამებს მეცნიერებებში, ჰუმანიტარულ და სოციალურ მეცნიერებებში და სამართალში. საიტზე მითითებულია ონლაინ მიღების პორტალი. უცხოელი აპლიკანტებისთვის საფასური, ვადები და მოთხოვნები წაკითხულ გვერდებზე არ იყო, ამიტომ ცარიელია.",
+   "ar": "تقدم جامعة أوزبكستان الوطنية في طشقند برامج بكالوريوس في العلوم والإنسانيات والقانون والعلوم الاجتماعية. يعرض الموقع بوابة قبول إلكترونية. لم تتوفر الرسوم والمواعيد والشروط للمتقدمين الأجانب في الصفحات التي أمكن قراءتها، لذا تُركت فارغة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "uzbekistan",
+   "tashkent",
+   "public"
+  ],
+  "sources": [
+   "https://nuu.uz/en/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "ocean-university-of-china",
+  "name": {
+   "en": "Ocean University of China",
+   "ka": "ჩინეთის ოკეანის უნივერსიტეტი",
+   "ar": "جامعة المحيط الصينية"
+  },
+  "iso": "CN",
+  "city": "Qingdao",
+  "lat": 36.163,
+  "lon": 120.331,
+  "type": "public",
+  "website": "https://www.ouc.edu.cn",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Oceanography",
+    "Marine biology",
+    "Fisheries",
+    "Environmental science",
+    "Engineering"
+   ],
+   "ka": [
+    "ოკეანოგრაფია",
+    "საზღვაო ბიოლოგია",
+    "თევზჭერა",
+    "გარემოს მეცნიერება",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "علوم المحيطات",
+    "الأحياء البحرية",
+    "مصايد الأسماك",
+    "علوم البيئة",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "A national public university in Qingdao, known for ocean and marine sciences.",
+   "ka": "ქინდაოში მდებარე ეროვნული საჯარო უნივერსიტეტი, ცნობილი ოკეანისა და საზღვაო მეცნიერებებით.",
+   "ar": "جامعة وطنية عامة في تشينغداو، معروفة بعلوم المحيطات والبحار."
+  },
+  "about": {
+   "en": "Ocean University of China is a public university in Qingdao on the Yellow Sea, strong in marine and environmental sciences. The English pages of the official site could not be read in this round, so international bachelor fees, deadlines and requirements are not listed. Applicants should check the university's international admissions office and the Study in China scholarship portals.",
+   "ka": "ჩინეთის ოკეანის უნივერსიტეტი საჯარო უნივერსიტეტია ქინდაოში, ყვითელი ზღვის სანაპიროზე, ძლიერია საზღვაო და გარემოს მეცნიერებებში. ოფიციალური საიტის ინგლისური გვერდები ამ რაუნდში ვერ წაიკითხა, ამიტომ საფასური, ვადები და მოთხოვნები მითითებული არ არის.",
+   "ar": "جامعة المحيط الصينية جامعة عامة في تشينغداو على البحر الأصفر، قوية في علوم البحار والبيئة. لم نتمكن من قراءة الصفحات الإنجليزية للموقع الرسمي في هذه الجولة، لذا لا تُذكر الرسوم والمواعيد والشروط."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "china",
+   "qingdao",
+   "marine",
+   "ocean"
+  ],
+  "sources": [
+   "https://www.ouc.edu.cn"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "saveetha-institute-of-medical-and-technical-sciences-simats-tamil-nadu",
+  "name": {
+   "en": "Saveetha Institute of Medical And Technical Sciences (SIMATS) , Tamil Nadu,India",
+   "ka": "სავითას სამედიცინო და ტექნიკური მეცნიერებების ინსტიტუტი (SIMATS), ტამილ-ნადუ, ინდოეთი",
+   "ar": "معهد ساويثا للعلوم الطبية والتقنية (SIMATS)، تاميل نادو، الهند"
+  },
+  "iso": "IN",
+  "city": "Chennai (Thandalam)",
+  "lat": 13.0,
+  "lon": 80.0,
+  "type": "private",
+  "website": "https://www.saveetha.com",
+  "platform": null,
+  "application_url": "https://admissions.saveetha.com",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Dentistry",
+    "Engineering",
+    "Pharmacy",
+    "Nursing"
+   ],
+   "ka": [
+    "მედიცინა",
+    "სტომატოლოგია",
+    "ინჟინერია",
+    "ფარმაცია",
+    "მედდობა"
+   ],
+   "ar": [
+    "الطب",
+    "طب الأسنان",
+    "الهندسة",
+    "الصيدلة",
+    "التمريض"
+   ]
+  },
+  "summary": {
+   "en": "A private deemed university near Chennai with medical, dental, engineering and health-science programmes taught in English.",
+   "ka": "კერძო უნივერსიტეტი ჩენაის მახლობლად, სამედიცინო, სტომატოლოგიური, საინჟინრო და ჯანდაცვის პროგრამებით ინგლისურ ენაზე.",
+   "ar": "جامعة خاصة قرب تشيناي تقدم برامج الطب وطب الأسنان والهندسة والعلوم الصحية بالإنجليزية."
+  },
+  "about": {
+   "en": "SIMATS is a private deemed university in Tamil Nadu with medical, dental, pharmacy, nursing and engineering colleges. The university links to an admissions portal. International fees, eligibility rules and deadlines could not be read from the pages available in this round, so they are left empty. Contact the admissions office for current terms.",
+   "ka": "SIMATS ტამილ-ნადუს კერძო უნივერსიტეტია სამედიცინო, სტომატოლოგიური, ფარმაცევტული, სამედდო და საინჟინრო კოლეჯებით. საიტზე მითითებულია მიღების პორტალი. საერთაშორისო საფასური და ვადები ამ რაუნდში წაკითხულ გვერდებზე არ იყო.",
+   "ar": "SIMATS جامعة خاصة في تاميل نادو تضم كليات للطب وطب الأسنان والصيدلة والتمريض والهندسة. يحيل الموقع إلى بوابة قبول. لم تتوفر الرسوم والشروط والمواعيد للطلاب الدوليين في الصفحات المقروءة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "chennai",
+   "medicine",
+   "private"
+  ],
+  "sources": [
+   "https://www.saveetha.com"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "the-national-university-of-science-and-technology-misis",
+  "name": {
+   "en": "The National University of Science and Technology MISIS",
+   "ka": "მეცნიერებისა და ტექნოლოგიების ეროვნული უნივერსიტეტი MISIS",
+   "ar": "الجامعة الوطنية للعلوم والتكنولوجيا MISIS"
+  },
+  "iso": "RU",
+  "city": "Moscow",
+  "lat": 55.728,
+  "lon": 37.609,
+  "type": "public",
+  "website": "https://www.misis.ru",
+  "platform": null,
+  "application_url": "https://en.misis.ru/applicants/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Metallurgy",
+    "Materials science",
+    "Mining",
+    "IT",
+    "Engineering"
+   ],
+   "ka": [
+    "მეტალურგია",
+    "მასალათმცოდნეობა",
+    "სამთო საქმე",
+    "IT",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "علم المعادن",
+    "علوم المواد",
+    "التعدين",
+    "تكنولوجيا المعلومات",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "A leading Russian technical university in Moscow, known for materials science, metallurgy and mining.",
+   "ka": "მოსკოვის წამყვანი ტექნიკური უნივერსიტეტი, ცნობილი მასალათმცოდნეობით, მეტალურგიით და სამთო საქმით.",
+   "ar": "جامعة تقنية رائدة في موسكو، معروفة بعلوم المواد والمعادن والتعدين."
+  },
+  "about": {
+   "en": "MISIS is a public technical university in Moscow. Its English site shows an applicants section and English-taught master's programmes; bachelor teaching is mainly in Russian, with preparatory courses available. Fees, deadlines and entrance requirements for international bachelor applicants were not readable in this round, so they are left empty. Write to welcome@misis.ru for current terms.",
+   "ka": "MISIS მოსკოვის საჯარო ტექნიკური უნივერსიტეტია. ინგლისურ საიტზე არის აპლიკანტების განყოფილება და ინგლისურენოვანი სამაგისტრო პროგრამები; საბაკალავრო სწავლება ძირითადად რუსულადაა, ხელმისაწვდომია მოსამზადებელი კურსები. საერთაშორისო აპლიკანტებისთვის საფასური და ვადები ამ რაუნდში არ იკითხებოდა.",
+   "ar": "MISIS جامعة تقنية عامة في موسكو. يعرض موقعها الإنجليزي قسماً للمتقدمين وبرامج ماجستير بالإنجليزية؛ والتدريس في البكالوريوس بالروسية غالباً مع دورات تحضيرية. لم تُقرأ الرسوم والمواعيد والشروط للطلاب الدوليين في هذه الجولة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "russia",
+   "moscow",
+   "technical",
+   "materials"
+  ],
+  "sources": [
+   "https://en.misis.ru/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "ton-duc-thang-university",
+  "name": {
+   "en": "Ton Duc Thang University",
+   "ka": "ტონ დუკ ტანგის უნივერსიტეტი",
+   "ar": "جامعة تون دوك ثانغ"
+  },
+  "iso": "VN",
+  "city": "Ho Chi Minh City",
+  "lat": 10.732,
+  "lon": 106.699,
+  "type": "public",
+  "website": "https://tdtu.edu.vn",
+  "platform": "TDTU admission portal",
+  "application_url": "https://admission.tdtu.edu.vn/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 79000000,
+   "currency": "VND",
+   "per": "year",
+   "note": "Projected 2026-27 average for English-taught programmes, about 78-88 million VND depending on major; standard Vietnamese-taught programmes are about 31-37 million VND. The page does not say whether international students pay different fees; English skills courses cost extra."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Vietnamese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Computer science",
+    "Engineering",
+    "Accounting",
+    "Architecture"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "კომპიუტერული მეცნიერება",
+    "ინჟინერია",
+    "ბუღალტრული აღრიცხვა",
+    "არქიტექტურა"
+   ],
+   "ar": [
+    "الأعمال",
+    "علوم الحاسوب",
+    "الهندسة",
+    "المحاسبة",
+    "العمارة"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Ho Chi Minh City with 11 English-taught bachelor programmes and joint programmes with foreign universities. English-taught tuition is about 79-88 million VND a year.",
+   "ka": "ჰოშიმინის საჯარო უნივერსიტეტი 11 ინგლისურენოვანი საბაკალავრო პროგრამით და უცხოურ უნივერსიტეტებთან ერთობლივი პროგრამებით. ინგლისურენოვანი სწავლის საფასური წელიწადში დაახლოებით 79-88 მილიონი VND-ია.",
+   "ar": "جامعة عامة في مدينة هو تشي منه تقدم 11 برنامج بكالوريوس بالإنجليزية وبرامج مشتركة مع جامعات أجنبية. رسوم البرامج الإنجليزية نحو 79-88 مليون دونغ سنوياً."
+  },
+  "about": {
+   "en": "Ton Duc Thang University offers 52 standard, 20 advanced, 11 English-taught and 14 international joint-training bachelor programmes. The 2026-27 fee page lists projected yearly tuition by programme type. Deadlines and entry rules for international applicants are not on the pages that could be read; the admissions hotline is 19002024 and the joint-programme line is 0935 035 270. TDTU states it will give over 95 billion VND in scholarships in 2026.",
+   "ka": "ტონ დუკ ტანგის უნივერსიტეტს აქვს 52 სტანდარტული, 20 გაღრმავებული, 11 ინგლისურენოვანი და 14 საერთაშორისო ერთობლივი საბაკალავრო პროგრამა. 2026-27 წლის გვერდზე მითითებულია საპროგნოზო წლიური საფასური პროგრამის ტიპის მიხედვით. საერთაშორისო აპლიკანტების ვადები წაკითხულ გვერდებზე არ იყო. TDTU აცხადებს, რომ 2026 წელს სტიპენდიებში 95 მილიარდ VND-ზე მეტს გამოყოფს.",
+   "ar": "تقدم الجامعة 52 برنامجاً قياسياً و20 متقدماً و11 باللغة الإنجليزية و14 برنامجاً مشتركاً دولياً في البكالوريوس. تعرض صفحة الرسوم لعام 2026-27 الرسوم السنوية المتوقعة حسب نوع البرنامج. لم تتوفر مواعيد التقديم وشروط القبول للطلاب الدوليين. تعلن الجامعة تخصيص أكثر من 95 مليار دونغ منحاً في 2026."
+  },
+  "aid_intl": {
+   "en": "TDTU offers entrance scholarships of 10-100% of first-semester tuition for English-taught and joint programmes; the page does not say if international students qualify.",
+   "ka": "TDTU სთავაზობს შესვლის სტიპენდიებს პირველი სემესტრის საფასურის 10-100%-ის ოდენობით ინგლისურენოვან და ერთობლივ პროგრამებზე; გვერდზე არ წერია, ეხება თუ არა ეს უცხოელებს.",
+   "ar": "تقدم الجامعة منحاً دخول بنسبة 10-100% من رسوم الفصل الأول للبرامج الإنجليزية والمشتركة؛ ولا توضح الصفحة هل تشمل الطلاب الدوليين."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [
+   {
+    "name": "TDTU entrance scholarships 2026",
+    "url": "https://tdtu.edu.vn/giao-duc/hoc-phi-hoc-bong-2026",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "vietnam",
+   "ho chi minh city",
+   "english-taught",
+   "business"
+  ],
+  "sources": [
+   "https://tdtu.edu.vn/giao-duc/hoc-phi-hoc-bong-2026",
+   "https://admission.tdtu.edu.vn/tuyen-sinh/thong-tin-tuyen-sinh",
+   "https://tdtu.edu.vn"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universidad-catolica-del-uruguay-ucu",
+  "name": {
+   "en": "Universidad Católica del Uruguay (UCU)",
+   "ka": "ურუგვაის კათოლიკური უნივერსიტეტი (UCU)",
+   "ar": "جامعة أوروغواي الكاثوليكية (UCU)"
+  },
+  "iso": "UY",
+  "city": "Montevideo",
+  "lat": -34.896,
+  "lon": -56.165,
+  "type": "private",
+  "website": "https://www.ucu.edu.uy",
+  "platform": null,
+  "application_url": "https://www.ucu.edu.uy/categoria/Grado-7",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "law",
+   "social-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Law",
+    "Psychology",
+    "Engineering",
+    "Communication"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "სამართალი",
+    "ფსიქოლოგია",
+    "ინჟინერია",
+    "კომუნიკაცია"
+   ],
+   "ar": [
+    "الأعمال",
+    "القانون",
+    "علم النفس",
+    "الهندسة",
+    "الاتصال"
+   ]
+  },
+  "summary": {
+   "en": "A private Jesuit university in Montevideo with over 40 undergraduate programmes taught in Spanish.",
+   "ka": "მონტევიდეოს კერძო იეზუიტური უნივერსიტეტი 40-ზე მეტი საბაკალავრო პროგრამით ესპანურ ენაზე.",
+   "ar": "جامعة يسوعية خاصة في مونتيفيديو تقدم أكثر من 40 برنامجاً جامعياً بالإسبانية."
+  },
+  "about": {
+   "en": "UCU has campuses in Montevideo, Punta del Este and Salto and offers more than 40 undergraduate programmes. Courses are taught in Spanish. Exchange students apply through their home university; deadlines are 15 November for the March semester and 30 April for the August semester. Degree-seeking fees and entry rules for foreign applicants are not published on the pages read, so they are left empty.",
+   "ka": "UCU-ს კამპუსები აქვს მონტევიდეოში, პუნტა დელ ესტეში და სალტოში და გთავაზობთ 40-ზე მეტ საბაკალავრო პროგრამას. სწავლება ესპანურადაა. გაცვლითი სტუდენტები მიმართავენ საკუთარი უნივერსიტეტის მეშვეობით; ვადებია 15 ნოემბერი (მარტის სემესტრი) და 30 აპრილი (აგვისტოს სემესტრი). სრული ხარისხის სტუდენტებისთვის საფასური წაკითხულ გვერდებზე არ იყო.",
+   "ar": "لدى الجامعة فروع في مونتيفيديو وبونتا ديل إستي وسالتو وتقدم أكثر من 40 برنامجاً جامعياً. التدريس بالإسبانية. يتقدم طلاب التبادل عبر جامعتهم الأم؛ المواعيد 15 نوفمبر لفصل مارس و30 أبريل لفصل أغسطس. لم تُنشر رسوم وشروط الطلاب الأجانب لنيل الدرجة في الصفحات المقروءة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "uruguay",
+   "montevideo",
+   "spanish",
+   "jesuit"
+  ],
+  "sources": [
+   "https://www.ucu.edu.uy/categoria/English-348",
+   "https://www.ucu.edu.uy/categoria/International-426"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universidad-central-de-venezuela",
+  "name": {
+   "en": "Universidad Central de Venezuela",
+   "ka": "ვენესუელის ცენტრალური უნივერსიტეტი",
+   "ar": "جامعة فنزويلا المركزية"
+  },
+  "iso": "VE",
+  "city": "Caracas",
+  "lat": 10.49,
+  "lon": -66.89,
+  "type": "public",
+  "website": "https://www.ucv.ve",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "humanities",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Architecture",
+    "Humanities",
+    "Law"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "არქიტექტურა",
+    "ჰუმანიტარული მეცნიერებები",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "العمارة",
+    "الإنسانيات",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "Venezuela's oldest and largest public university, in Caracas, taught in Spanish. Its campus is a UNESCO World Heritage site.",
+   "ka": "ვენესუელის უძველესი და უდიდესი საჯარო უნივერსიტეტი კარაკასში, სწავლება ესპანურადაა. კამპუსი იუნესკოს მსოფლიო მემკვიდრეობის ძეგლია.",
+   "ar": "أقدم وأكبر جامعة عامة في فنزويلا، في كاراكاس، والتدريس بالإسبانية. حرمها الجامعي موقع تراث عالمي لليونسكو."
+  },
+  "about": {
+   "en": "The Central University of Venezuela is a public university in Caracas founded in 1721. Teaching is in Spanish. The university website could not be reached in this round, so admission rules, fees and deadlines for foreign applicants are left empty.",
+   "ka": "ვენესუელის ცენტრალური უნივერსიტეტი კარაკასის საჯარო უნივერსიტეტია, დაარსებულია 1721 წელს. სწავლება ესპანურადაა. საიტი ამ რაუნდში მიუწვდომელი იყო, ამიტომ მიღების წესები და საფასური მითითებული არ არის.",
+   "ar": "جامعة فنزويلا المركزية جامعة عامة في كاراكاس تأسست عام 1721، والتدريس بالإسبانية. تعذر الوصول إلى موقعها في هذه الجولة، لذا تُركت شروط القبول والرسوم والمواعيد فارغة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "venezuela",
+   "caracas",
+   "public",
+   "spanish"
+  ],
+  "sources": [
+   "https://www.ucv.ve"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universidad-nacional-de-cordoba-unc",
+  "name": {
+   "en": "Universidad Nacional de Córdoba - UNC",
+   "ka": "კორდობას ეროვნული უნივერსიტეტი (UNC)",
+   "ar": "جامعة قرطبة الوطنية (UNC)"
+  },
+  "iso": "AR",
+  "city": "Córdoba",
+  "lat": -31.42,
+  "lon": -64.188,
+  "type": "public",
+  "website": "https://www.unc.edu.ar",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "law",
+   "engineering",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Law",
+    "Engineering",
+    "Natural sciences",
+    "Architecture"
+   ],
+   "ka": [
+    "მედიცინა",
+    "სამართალი",
+    "ინჟინერია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "არქიტექტურა"
+   ],
+   "ar": [
+    "الطب",
+    "القانون",
+    "الهندسة",
+    "العلوم الطبيعية",
+    "العمارة"
+   ]
+  },
+  "summary": {
+   "en": "Argentina's oldest university, founded in 1613 in Córdoba. Public and taught in Spanish.",
+   "ka": "არგენტინის უძველესი უნივერსიტეტი, დაარსებულია 1613 წელს კორდობაში. საჯაროა, სწავლება ესპანურადაა.",
+   "ar": "أقدم جامعة في الأرجنتين، تأسست عام 1613 في قرطبة. عامة والتدريس بالإسبانية."
+  },
+  "about": {
+   "en": "The National University of Córdoba is a large public university in central Argentina with many undergraduate faculties. Teaching is in Spanish. The admission page checked returned an error, so entry rules, fees and deadlines for foreign applicants are left empty.",
+   "ka": "კორდობას ეროვნული უნივერსიტეტი არგენტინის ცენტრში მდებარე მსხვილი საჯარო უნივერსიტეტია მრავალი ფაკულტეტით. სწავლება ესპანურადაა. შემოწმებული მიღების გვერდი არ გაიხსნა, ამიტომ წესები და ვადები მითითებული არ არის.",
+   "ar": "جامعة قرطبة الوطنية جامعة عامة كبيرة في وسط الأرجنتين بكليات جامعية كثيرة، والتدريس بالإسبانية. أعطت صفحة القبول التي فُحصت خطأً، لذا تُركت الشروط والرسوم والمواعيد فارغة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "argentina",
+   "cordoba",
+   "public",
+   "spanish"
+  ],
+  "sources": [
+   "https://www.unc.edu.ar"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universidade-federal-de-sao-paulo",
+  "name": {
+   "en": "Universidade Federal de São Paulo",
+   "ka": "სან-პაულოს ფედერალური უნივერსიტეტი",
+   "ar": "الجامعة الفيدرالية في ساو باولو"
+  },
+  "iso": "BR",
+  "city": "São Paulo",
+  "lat": -23.598,
+  "lon": -46.644,
+  "type": "public",
+  "website": "https://www.unifesp.br",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Nursing",
+    "Biomedical sciences",
+    "Pharmacy",
+    "Psychology"
+   ],
+   "ka": [
+    "მედიცინა",
+    "მედდობა",
+    "ბიოსამედიცინო მეცნიერებები",
+    "ფარმაცია",
+    "ფსიქოლოგია"
+   ],
+   "ar": [
+    "الطب",
+    "التمريض",
+    "العلوم الطبية الحيوية",
+    "الصيدلة",
+    "علم النفس"
+   ]
+  },
+  "summary": {
+   "en": "A federal public university in São Paulo, best known for medicine and health sciences. Teaching is in Portuguese.",
+   "ka": "ფედერალური საჯარო უნივერსიტეტი სან-პაულოში, ცნობილი მედიცინითა და ჯანდაცვის მეცნიერებებით. სწავლება პორტუგალიურადაა.",
+   "ar": "جامعة اتحادية عامة في ساو باولو، معروفة بالطب والعلوم الصحية. التدريس بالبرتغالية."
+  },
+  "about": {
+   "en": "UNIFESP began as the Paulista School of Medicine and now has several campuses in the São Paulo region. Bachelor teaching is in Portuguese. The university's website could not be read in this round, so admission rules, fees and deadlines for foreign applicants are left empty.",
+   "ka": "UNIFESP დაიწყო როგორც პაულისტას სამედიცინო სკოლა და ახლა რამდენიმე კამპუსი აქვს სან-პაულოს რეგიონში. საბაკალავრო სწავლება პორტუგალიურადაა. საიტი ამ რაუნდში არ წაიკითხა, ამიტომ მიღების წესები და ვადები მითითებული არ არის.",
+   "ar": "بدأت UNIFESP كمدرسة باوليستا للطب ولها الآن عدة فروع في منطقة ساو باولو. التدريس في البكالوريوس بالبرتغالية. لم يُقرأ موقعها في هذه الجولة، لذا تُركت الشروط والرسوم والمواعيد فارغة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "sao paulo",
+   "medicine",
+   "public"
+  ],
+  "sources": [
+   "https://www.unifesp.br"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universitat-duisburg-essen",
+  "name": {
+   "en": "Universität Duisburg-Essen",
+   "ka": "დუისბურგ-ესენის უნივერსიტეტი",
+   "ar": "جامعة دويسبورغ-إيسن"
+  },
+  "iso": "DE",
+  "city": "Duisburg",
+  "lat": 51.428,
+  "lon": 6.797,
+  "type": "public",
+  "website": "https://www.uni-due.de",
+  "platform": "uni-assist",
+  "application_url": "https://www.uni-due.de/international/international-admissions-en.php",
+  "intakes": [
+   "October (winter semester)",
+   "April (summer semester)"
+  ],
+  "deadline": "2027-07-31",
+  "deadline_note": "Non-EU bachelor applicants apply via uni-assist. Winter semester: 1 May-15 June for restricted (NC) courses and 1 May-31 July for unrestricted courses. Summer semester: 1 Nov-15 Dec (NC) and 1 Nov-31 Jan (unrestricted). Deadline shown is the unrestricted winter one; dates are from the current page, not a 2027 notice.",
+  "tuition_intl": {
+   "amount": 0,
+   "currency": "EUR",
+   "per": "year",
+   "note": "No tuition fees. A semester contribution (student services and student body fees) is paid after enrolment."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "German",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "The school certificate must be recognised as a German university entrance qualification. If it is not equivalent to the Abitur, a Studienkolleg is needed; UDE has none.",
+   "ka": "სკოლის ატესტატი უნდა იყოს აღიარებული გერმანულ უნივერსიტეტში შესასვლელ კვალიფიკაციად. თუ ის Abitur-ის ეკვივალენტი არ არის, საჭიროა Studienkolleg; UDE-ს ასეთი არ აქვს.",
+   "ar": "يجب الاعتراف بالشهادة المدرسية كمؤهل للقبول في الجامعات الألمانية. إذا لم تعادل الأبيتور يلزم Studienkolleg، ولا توجد دورة كهذه في الجامعة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "DSH-2",
+   "TestDaF TDN-4",
+   "telc C1 Hochschule",
+   "DSD II"
+  ],
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "natural-sciences",
+   "business",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Medicine",
+    "Education",
+    "Business",
+    "Natural sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მედიცინა",
+    "განათლება",
+    "ბიზნესი",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "الطب",
+    "التربية",
+    "الأعمال",
+    "العلوم الطبيعية"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in the Ruhr area with campuses in Duisburg and Essen. There are no tuition fees, but most bachelor programmes need German at DSH-2 level.",
+   "ka": "რურის რეგიონის მსხვილი საჯარო უნივერსიტეტი დუისბურგისა და ესენის კამპუსებით. სწავლის საფასური არ არის, მაგრამ საბაკალავრო პროგრამების უმეტესობას სჭირდება გერმანული DSH-2 დონეზე.",
+   "ar": "جامعة عامة كبيرة في منطقة الرور بفرعين في دويسبورغ وإيسن. لا توجد رسوم دراسية، لكن معظم برامج البكالوريوس تتطلب الألمانية بمستوى DSH-2."
+  },
+  "about": {
+   "en": "The University of Duisburg-Essen is a public university with campuses in Duisburg and Essen. Non-EU applicants apply to bachelor programmes through uni-assist. Their school certificate must count as a German entrance qualification, otherwise a Studienkolleg is needed. Most applicants need DSH-2 German; DSH-3 applies to medicine. ISE programmes need English at CEFR B1. There are no tuition fees, only a semester contribution.",
+   "ka": "დუისბურგ-ესენის უნივერსიტეტი საჯარო უნივერსიტეტია დუისბურგისა და ესენის კამპუსებით. ევროკავშირს გარეთ მყოფი აპლიკანტები საბაკალავრო პროგრამებზე uni-assist-ით განაცხადებენ. ატესტატი უნდა ითვლებოდეს გერმანულ შესასვლელ კვალიფიკაციად, წინააღმდეგ შემთხვევაში საჭიროა Studienkolleg. უმეტესობას სჭირდება გერმანული DSH-2; მედიცინისთვის DSH-3. ISE პროგრამებისთვის ინგლისური B1. სწავლის საფასური არ არის, მხოლოდ სემესტრული შენატანი.",
+   "ar": "جامعة دويسبورغ-إيسن جامعة عامة بفرعين في دويسبورغ وإيسن. يتقدم الطلاب من خارج الاتحاد الأوروبي عبر uni-assist. يجب أن تُعد شهادتهم المدرسية مؤهلاً للقبول في ألمانيا وإلا لزم Studienkolleg. يحتاج معظمهم إلى DSH-2 بالألمانية، وDSH-3 للطب، ومستوى B1 بالإنجليزية لبرامج ISE. لا رسوم دراسية بل مساهمة فصلية فقط."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the page read.",
+   "ka": "საერთაშორისო საბაკალავრო სტუდენტებისთვის განკუთვნილი დახმარება წაკითხულ გვერდზე არ არის მითითებული.",
+   "ar": "لا توجد منح مخصصة للطلاب الدوليين في البكالوريوس منشورة في الصفحة المقروءة."
+  },
+  "tests": {
+   "en": "Most applicants need DSH-2 or equivalent (TestDaF TDN-4 in all parts, telc C1 Hochschule, DSD II); medicine needs DSH-3. ISE courses need English at CEFR B1 (TOEFL, IELTS or English-medium schooling).",
+   "ka": "უმეტესობას სჭირდება DSH-2 ან ეკვივალენტი (TestDaF TDN-4 ყველა ნაწილში, telc C1 Hochschule, DSD II); მედიცინისთვის DSH-3. ISE კურსებისთვის ინგლისური CEFR B1 (TOEFL, IELTS ან ინგლისურენოვანი სწავლა).",
+   "ar": "يحتاج معظم المتقدمين إلى DSH-2 أو ما يعادله (TestDaF TDN-4 في كل الأجزاء، telc C1 Hochschule، DSD II)؛ والطب يحتاج DSH-3. دورات ISE تحتاج الإنجليزية بمستوى B1 (TOEFL أو IELTS أو التعليم بالإنجليزية)."
+  },
+  "gpa_note": {
+   "en": "The school certificate must be recognised as a German university entrance qualification; if it is not equivalent to the Abitur, a Studienkolleg is required.",
+   "ka": "სკოლის ატესტატი უნდა იყოს აღიარებული გერმანულ უნივერსიტეტში შესასვლელ კვალიფიკაციად; თუ ის Abitur-ის ეკვივალენტი არ არის, საჭიროა Studienkolleg.",
+   "ar": "يجب الاعتراف بالشهادة المدرسية كمؤهل للقبول الجامعي في ألمانيا؛ وإن لم تعادل الأبيتور فيلزم Studienkolleg."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate (university entrance qualification)",
+     "ka": "სკოლის დამამთავრებელი სერტიფიკატი (უნივერსიტეტში მისაღები კვალიფიკაცია)",
+     "ar": "شهادة إتمام الدراسة الثانوية (مؤهل القبول الجامعي)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი და ნიშნების ფურცელი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of the foreign school certificate (Studienkolleg if not equivalent to Abitur)",
+     "ka": "უცხოური ატესტატის აღიარება (Studienkolleg, თუ Abitur-ის ეკვივალენტი არ არის)",
+     "ar": "الاعتراف بالشهادة المدرسية الأجنبية (Studienkolleg إن لم تعادل الأبيتور)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of German language level (DSH-2 or equivalent)",
+     "ka": "გერმანული ენის ცოდნის დამადასტურებელი დოკუმენტი (DSH-2 ან ეკვივალენტი)",
+     "ar": "إثبات إتقان اللغة الألمانية (DSH-2 أو ما يعادله)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proof (B1 for ISE programmes)",
+     "ka": "ინგლისურის დამადასტურებელი დოკუმენტი (B1 ISE პროგრამებისთვის)",
+     "ar": "إثبات اللغة الإنجليزية (مستوى B1 لبرامج ISE)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Health insurance proof",
+     "ka": "ჯანმრთელობის დაზღვევის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات التأمين الصحي"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "germany",
+   "duisburg",
+   "essen",
+   "no tuition",
+   "uni-assist"
+  ],
+  "sources": [
+   "https://www.uni-due.de/international/international-admissions-en.php",
+   "https://www.uni-due.de/en/studying/cost.php"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universite-de-lorraine",
+  "name": {
+   "en": "Université de Lorraine",
+   "ka": "ლორენის უნივერსიტეტი",
+   "ar": "جامعة لورين"
+  },
+  "iso": "FR",
+  "city": "Nancy",
+  "lat": 48.693,
+  "lon": 6.183,
+  "type": "public",
+  "website": "https://www.univ-lorraine.fr",
+  "platform": "Études en France (Campus France) / eCandidat",
+  "application_url": "https://www.univ-lorraine.fr/en/education/enrolment-at-universite-de-lorraine/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "eCandidat applications open in March each year; students in Campus France countries apply through Études en France. The enrolment page opens in early July after acceptance.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 60000,
+  "intl_pct": 16,
+  "languages": [
+   "French",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "law",
+   "medicine-health",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Materials science",
+    "Law",
+    "Medicine",
+    "Humanities"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მასალათმცოდნეობა",
+    "სამართალი",
+    "მედიცინა",
+    "ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم المواد",
+    "القانون",
+    "الطب",
+    "الإنسانيات"
+   ]
+  },
+  "summary": {
+   "en": "A large multidisciplinary French public university around Nancy and Metz. About 16% of students are international.",
+   "ka": "ნანსისა და მეცის გარშემო მდებარე მსხვილი მულტიდისციპლინური საჯარო უნივერსიტეტი. სტუდენტების დაახლოებით 16% საერთაშორისოა.",
+   "ar": "جامعة فرنسية عامة كبيرة متعددة التخصصات حول نانسي وميتز. نحو 16% من طلابها دوليون."
+  },
+  "about": {
+   "en": "Université de Lorraine has about 10,000 international students from 160 nationalities. Non-EU applicants living in a Campus France country apply through Études en France; others use eCandidat, which opens in March. Non-EU tuition differs from the standard fee, but the amount is not on the page read. French level and programme-specific conditions are in the admission conditions table on the university site.",
+   "ka": "ლორენის უნივერსიტეტში დაახლოებით 10 000 უცხოელი სტუდენტი სწავლობს 160 ეროვნებიდან. Campus France-ის ქვეყნებში მცხოვრები არა-ევროკავშირელები განაცხადებენ Études en France-ით, დანარჩენები eCandidat-ით, რომელიც მარტში იხსნება. არა-ევროკავშირელთა საფასური სტანდარტულისგან განსხვავდება, მაგრამ ოდენობა წაკითხულ გვერდზე არ არის.",
+   "ar": "في جامعة لورين نحو 10,000 طالب دولي من 160 جنسية. يتقدم المقيمون في دول Campus France عبر Études en France، وغيرهم عبر eCandidat الذي يفتح في مارس. رسوم الطلاب من خارج الاتحاد الأوروبي تختلف عن الرسوم العادية لكن المبلغ غير مذكور في الصفحة المقروءة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate (university entrance qualification)",
+     "ka": "სკოლის დამამთავრებელი სერტიფიკატი (უნივერსიტეტში მისაღები კვალიფიკაცია)",
+     "ar": "شهادة إتمام الدراسة الثانوية (مؤهل القبول الجامعي)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი და ნიშნების ფურცელი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "nancy",
+   "lorraine",
+   "campus france"
+  ],
+  "sources": [
+   "https://www.univ-lorraine.fr/en/education/enrolment-at-universite-de-lorraine/",
+   "https://www.univ-lorraine.fr/en/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universiti-tunku-abdul-rahman-utar",
+  "name": {
+   "en": "Universiti Tunku Abdul Rahman (UTAR)",
+   "ka": "უნივერსიტი ტუნკუ აბდულ რაჰმანი (UTAR)",
+   "ar": "جامعة تونكو عبد الرحمن (UTAR)"
+  },
+  "iso": "MY",
+  "city": "Kampar",
+  "lat": 4.338,
+  "lon": 101.143,
+  "type": "private",
+  "website": "https://www.utar.edu.my",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "engineering",
+   "medicine-health",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Medicine",
+    "Information technology",
+    "Accountancy"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "მედიცინა",
+    "ინფორმაციული ტექნოლოგიები",
+    "ბუღალტერია"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "الطب",
+    "تكنولوجيا المعلومات",
+    "المحاسبة"
+   ]
+  },
+  "summary": {
+   "en": "A private non-profit Malaysian university with campuses in Kampar and Sungai Long. Teaching is in English.",
+   "ka": "მალაიზიის კერძო არაკომერციული უნივერსიტეტი კამპარისა და სუნგაი ლონგის კამპუსებით. სწავლება ინგლისურადაა.",
+   "ar": "جامعة ماليزية خاصة غير ربحية بفرعين في كامبار وسونغاي لونغ. التدريس بالإنجليزية."
+  },
+  "about": {
+   "en": "UTAR is a private university in Malaysia with main campuses in Kampar (Perak) and Sungai Long (Selangor). Bachelor programmes are taught in English. The official site could not be read in this round (certificate error), so fees, deadlines and entry rules for international applicants are left empty.",
+   "ka": "UTAR მალაიზიის კერძო უნივერსიტეტია ძირითადი კამპუსებით კამპარში (პერაკი) და სუნგაი ლონგში (სელანგორი). საბაკალავრო პროგრამები ინგლისურადაა. საიტი ამ რაუნდში არ გაიხსნა (სერტიფიკატის შეცდომა), ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "UTAR جامعة خاصة في ماليزيا بفرعين رئيسيين في كامبار (بيراك) وسونغاي لونغ (سلانغور). برامج البكالوريوس بالإنجليزية. تعذر قراءة الموقع في هذه الجولة (خطأ شهادة)، لذا تُركت الرسوم والمواعيد والشروط فارغة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "malaysia",
+   "kampar",
+   "private",
+   "english-taught"
+  ],
+  "sources": [
+   "https://www.utar.edu.my"
+  ],
+  "verified_at": "2026-11-14"
+ }
+]

@@ -1,0 +1,939 @@
+[
+ {
+  "id": "umm-al-qura-university",
+  "name": {
+   "en": "Umm Al-Qura University",
+   "ka": "უმ ალ-ყურას უნივერსიტეტი",
+   "ar": "جامعة أم القرى"
+  },
+  "iso": "SA",
+  "city": "Makkah",
+  "lat": 21.489,
+  "lon": 39.243,
+  "type": "public",
+  "website": "https://www.uqu.edu.sa",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "education",
+   "engineering",
+   "medicine-health"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Makkah, Saudi Arabia. Official admission and fee details for international bachelor applicants could not be read this round.",
+   "ka": "საჯარო უნივერსიტეტი მექაში, საუდის არაბეთი. საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის ოფიციალური მონაცემები ამჯერად ვერ მოიძებნა.",
+   "ar": "جامعة حكومية في مكة المكرمة بالمملكة العربية السعودية. لم تتوفر هذه الجولة تفاصيل رسمية عن القبول والرسوم لطلبة البكالوريوس الدوليين."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "saudi arabia",
+   "makkah",
+   "umm al-qura"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "brandeis-university",
+  "name": {
+   "en": "Brandeis University",
+   "ka": "ბრენდაისის უნივერსიტეტი",
+   "ar": "جامعة براندايس"
+  },
+  "iso": "US",
+  "city": "Waltham",
+  "lat": 42.366,
+  "lon": -71.259,
+  "type": "private",
+  "website": "https://www.brandeis.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 5800,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "social-sciences",
+   "natural-sciences",
+   "economics",
+   "humanities"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Private research university in Waltham, Massachusetts. Official admission pages blocked automated reading, so admission details are not listed.",
+   "ka": "კერძო კვლევითი უნივერსიტეტი უოლთემში, მასაჩუსეტსი. ოფიციალური გვერდები ავტომატურად არ იკითხება, ამიტომ მისაღები მონაცემები არ არის მითითებული.",
+   "ar": "جامعة بحثية خاصة في والثام بولاية ماساتشوستس. منعت صفحات القبول الرسمية القراءة الآلية، لذا لم تُدرج تفاصيل القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "massachusetts",
+   "waltham",
+   "liberal arts",
+   "research"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "de-la-salle-university",
+  "name": {
+   "en": "De La Salle University",
+   "ka": "დე ლა სალის უნივერსიტეტი",
+   "ar": "جامعة دي لا سال"
+  },
+  "iso": "PH",
+  "city": "Manila",
+  "lat": 14.565,
+  "lon": 120.994,
+  "type": "private",
+  "website": "https://www.dlsu.edu.ph",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 23000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Private Catholic university in Manila, Philippines. Official admission pages blocked automated reading, so admission details are not listed.",
+   "ka": "კერძო კათოლიკური უნივერსიტეტი მანილაში, ფილიპინები. ოფიციალური გვერდები ავტომატურად არ იკითხება, ამიტომ მისაღები მონაცემები არ არის მითითებული.",
+   "ar": "جامعة كاثوليكية خاصة في مانيلا بالفلبين. منعت صفحات القبول الرسمية القراءة الآلية، لذا لم تُدرج تفاصيل القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "philippines",
+   "manila",
+   "lasallian",
+   "private"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "missouri-university-of-science-and-technology",
+  "name": {
+   "en": "Missouri University of Science and Technology",
+   "ka": "მისურის მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი",
+   "ar": "جامعة ميزوري للعلوم والتكنولوجيا"
+  },
+  "iso": "US",
+  "city": "Rolla",
+  "lat": 37.955,
+  "lon": -91.772,
+  "type": "public",
+  "website": "https://www.mst.edu",
+  "platform": "Direct (Missouri S&T online application)",
+  "application_url": "https://connect.mst.edu/apply/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 6000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "mathematics"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public STEM university in Rolla, Missouri. The official international page lists English-exempt countries and an application portal; fees and minimum scores were not readable.",
+   "ka": "საჯარო STEM უნივერსიტეტი როლაში, მისური. ოფიციალურ გვერდზე მითითებულია განაცხადის პორტალი; საფასური და მინიმალური ქულები ვერ ამოვიკითხეთ.",
+   "ar": "جامعة حكومية متخصصة في العلوم والهندسة في رولا بولاية ميزوري. تعرض الصفحة الرسمية بوابة التقديم، ولم تتوفر الرسوم والحدود الدنيا للدرجات."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი და შეფასებები",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დადასტურება",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "missouri",
+   "rolla",
+   "engineering",
+   "stem"
+  ],
+  "sources": [
+   "https://futurestudents.mst.edu/",
+   "https://futurestudents.mst.edu/admissions/international/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "o-p-jindal-global-university-jgu",
+  "name": {
+   "en": "O.P. Jindal Global University (JGU)",
+   "ka": "ო.პ. ჯინდალის გლობალური უნივერსიტეტი (JGU)",
+   "ar": "جامعة أو.بي. جيندال العالمية (JGU)"
+  },
+  "iso": "IN",
+  "city": "Sonepat",
+  "lat": 28.93,
+  "lon": 77.103,
+  "type": "private",
+  "website": "https://www.jgu.edu.in",
+  "platform": "Direct (JGU admissions portal) / Study in India",
+  "application_url": "https://admissions.jgu.edu.in",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "law",
+   "business",
+   "international-relations",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Private university near Delhi, known for law and business. International applicants register through the Study in India portal; fees and deadlines were not readable.",
+   "ka": "კერძო უნივერსიტეტი დელის მახლობლად, ცნობილი სამართლითა და ბიზნესით. საერთაშორისო აპლიკანტები რეგისტრირდებიან Study in India პორტალზე; საფასური და ვადები ვერ ამოვიკითხეთ.",
+   "ar": "جامعة خاصة قرب دلهي، معروفة بالقانون والأعمال. يسجل الطلبة الدوليون عبر بوابة Study in India، ولم تتوفر الرسوم والمواعيد."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "sonepat",
+   "law",
+   "private"
+  ],
+  "sources": [
+   "https://jgu.edu.in/admissions/",
+   "https://www.studyinindia.gov.in/admission/registrations"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "riga-technical-university",
+  "name": {
+   "en": "Riga Technical University",
+   "ka": "რიგის ტექნიკური უნივერსიტეტი",
+   "ar": "جامعة ريغا التقنية"
+  },
+  "iso": "LV",
+  "city": "Riga",
+  "lat": 56.951,
+  "lon": 24.114,
+  "type": "public",
+  "website": "https://rtu.lv",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 13000,
+  "intl_pct": null,
+  "languages": [
+   "Latvian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "environment"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public technical university in Riga, Latvia. Official admission pages blocked automated reading, so admission details are not listed.",
+   "ka": "საჯარო ტექნიკური უნივერსიტეტი რიგაში, ლატვია. ოფიციალური გვერდები ავტომატურად არ იკითხება, ამიტომ მისაღები მონაცემები არ არის მითითებული.",
+   "ar": "جامعة تقنية حكومية في ريغا بلاتفيا. منعت صفحات القبول الرسمية القراءة الآلية، لذا لم تُدرج تفاصيل القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "latvia",
+   "riga",
+   "engineering",
+   "eu"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "vietnam-national-university-hanoi",
+  "name": {
+   "en": "Vietnam National University, Hanoi",
+   "ka": "ვიეტნამის ეროვნული უნივერსიტეტი, ჰანოი",
+   "ar": "جامعة فيتنام الوطنية، هانوي"
+  },
+  "iso": "VN",
+  "city": "Hanoi",
+  "lat": 21.037,
+  "lon": 105.783,
+  "type": "public",
+  "website": "https://vnu.edu.vn",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Vietnamese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "natural-sciences",
+   "social-sciences",
+   "economics",
+   "languages"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public multi-disciplinary university system in Hanoi, Vietnam. Official admission details for international bachelor applicants were not read this round.",
+   "ka": "საჯარო მრავალდისციპლინური უნივერსიტეტი ჰანოიში, ვიეტნამი. საერთაშორისო ბაკალავრიატის მონაცემები ამჯერად ვერ მოიძებნა.",
+   "ar": "منظومة جامعية حكومية متعددة التخصصات في هانوي بفيتنام. لم تُقرأ تفاصيل القبول الدولي لهذه الجولة."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "vietnam",
+   "hanoi",
+   "public"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "agh-university-of-krakow",
+  "name": {
+   "en": "AGH University of Krakow",
+   "ka": "აგჰ კრაკოვის უნივერსიტეტი",
+   "ar": "جامعة AGH في كراكوف"
+  },
+  "iso": "PL",
+  "city": "Krakow",
+  "lat": 50.065,
+  "lon": 19.923,
+  "type": "public",
+  "website": "https://www.agh.edu.pl",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 30000,
+  "intl_pct": null,
+  "languages": [
+   "Polish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "environment"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public technical university in Krakow, Poland. Official admission pages could not be read this round, so admission details are not listed.",
+   "ka": "საჯარო ტექნიკური უნივერსიტეტი კრაკოვში, პოლონეთი. ოფიციალური გვერდები ამჯერად ვერ წაიკითხა, ამიტომ მონაცემები არ არის მითითებული.",
+   "ar": "جامعة تقنية حكومية في كراكوف ببولندا. لم تُقرأ صفحات القبول الرسمية لهذه الجولة."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "poland",
+   "krakow",
+   "engineering",
+   "technical"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "applied-science-private-university-jordan",
+  "name": {
+   "en": "Applied Science Private University - Jordan",
+   "ka": "იორდანიის გამოყენებითი მეცნიერებების კერძო უნივერსიტეტი",
+   "ar": "جامعة العلوم التطبيقية الخاصة - الأردن"
+  },
+  "iso": "JO",
+  "city": "Amman",
+  "lat": 31.995,
+  "lon": 35.904,
+  "type": "private",
+  "website": "https://www.asu.edu.jo",
+  "platform": null,
+  "application_url": "https://www.asu.edu.jo/en/welcome-to-the-admission/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "business",
+   "law"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Private university in Amman, Jordan. The official site lists minimum secondary averages by faculty; a one-time enrolment fee of 150 JOD and a 275 JOD registration fee per semester apply.",
+   "ka": "კერძო უნივერსიტეტი ამანში, იორდანია. ოფიციალური გვერდი ასახელებს მინიმალურ ქულებს ფაკულტეტების მიხედვით; ერთჯერადი 150 JOD და სემესტრული 275 JOD საფასური.",
+   "ar": "جامعة خاصة في عمّان بالأردن. يعرض الموقع الرسمي الحدود الدنيا للمعدلات حسب الكلية، مع رسم التحاق 150 دينارًا مرة واحدة ورسم تسجيل 275 دينارًا للفصل."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": {
+   "en": "Minimum secondary certificate averages by faculty: Dentistry 80% for non-Jordanians; Pharmacy and most Engineering 80%; Sharia and IT 75%; Nursing and allied health 70%; Law 65%; Business and Arts 60%.",
+   "ka": "უმცირესი საშუალო ქულა ფაკულტეტის მიხედვით: სტომატოლოგია უცხოელებისთვის 80%; ფარმაცია და ინჟინერიის უმეტესობა 80%; შარიათი და IT 75%; საექთნო და დაკავშირებული მედიცინა 70%; სამართალი 65%; ბიზნესი და ხელოვნება 60%.",
+   "ar": "الحدود الدنيا لمعدل الثانوية حسب الكلية: طب الأسنان 80% لغير الأردنيين؛ الصيدلة ومعظم الهندسة 80%؛ الشريعة وتكنولوجيا المعلومات 75%؛ التمريض والعلوم الطبية المساندة 70%؛ الحقوق 65%؛ الأعمال والآداب 60%."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი და შეფასებები",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "jordan",
+   "amman",
+   "private",
+   "pharmacy"
+  ],
+  "sources": [
+   "https://www.asu.edu.jo/en/students-admission-2/",
+   "https://www.asu.edu.jo/en/university-fees/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "norwegian-university-of-life-sciences",
+  "name": {
+   "en": "Norwegian University of Life Sciences",
+   "ka": "ნორვეგიის სიცოცხლის შემსწავლელ მეცნიერებათა უნივერსიტეტი",
+   "ar": "الجامعة النرويجية للعلوم الحياتية"
+  },
+  "iso": "NO",
+  "city": "Ås",
+  "lat": 59.664,
+  "lon": 10.775,
+  "type": "public",
+  "website": "https://www.nmbu.no",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 5500,
+  "intl_pct": null,
+  "languages": [
+   "Norwegian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "engineering",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university of life sciences in Ås near Oslo, Norway. No bachelor scholarships are offered; bachelor admission details were not readable.",
+   "ka": "ცხოვრების მეცნიერებათა საჯარო უნივერსიტეტი ოსლოს მახლობლად, ნორვეგია. ბაკალავრის სტიპენდიები არ არის; მისაღები მონაცემები ვერ ამოვიკითხეთ.",
+   "ar": "جامعة حكومية للعلوم الحياتية في أوس قرب أوسلو بالنرويج. لا توجد منح للبكالوريوس، ولم تتوفر تفاصيل القبول."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "NMBU states it offers no scholarships for bachelor or master students; students must be self-financed.",
+   "ka": "NMBU აცხადებს, რომ ბაკალავრისა და მაგისტრის სტუდენტებისთვის სტიპენდიებს არ სთავაზობს; სტუდენტები თვითდაფინანსებით სწავლობენ.",
+   "ar": "تذكر الجامعة أنها لا تقدم منحًا لطلبة البكالوريوس أو الماجستير، وعلى الطلبة تمويل دراستهم بأنفسهم."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "norway",
+   "as",
+   "life sciences",
+   "environment"
+  ],
+  "sources": [
+   "https://www.nmbu.no/en/studies/admission"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "texas-tech-university",
+  "name": {
+   "en": "Texas Tech University",
+   "ka": "ტეხასის ტექნოლოგიური უნივერსიტეტი",
+   "ar": "جامعة تكساس التقنية"
+  },
+  "iso": "US",
+  "city": "Lubbock",
+  "lat": 33.585,
+  "lon": -101.846,
+  "type": "public",
+  "website": "https://www.ttu.edu",
+  "platform": "Direct (Texas Tech application / ApplyTexas)",
+  "application_url": "http://www.depts.ttu.edu/admissions/international/apply/",
+  "intakes": [
+   "Fall",
+   "Spring",
+   "Summer"
+  ],
+  "deadline": "2027-05-01",
+  "deadline_note": "Priority deadline for Summer and Fall 2027 freshman applicants is 1 May 2027 (Spring 2027: 1 Nov 2026); the page does not say whether it differs for international applicants.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 40000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "business",
+   "natural-sciences",
+   "environment"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public research university in Lubbock, Texas. International applicants send official transcripts and SAT/ACT scores; tuition and English minimums were not readable.",
+   "ka": "საჯარო კვლევითი უნივერსიტეტი ლაბოკში, ტეხასი. საერთაშორისო აპლიკანტები აგზავნიან ოფიციალურ ატესტატს და SAT/ACT-ს; საფასური და ინგლისურის მინიმუმები ვერ ამოვიკითხეთ.",
+   "ar": "جامعة بحثية حكومية في لابوك بتكساس. يرسل الطلبة الدوليون كشوف درجات رسمية ونتائج SAT/ACT، ولم تتوفر الرسوم وحدود اللغة."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Official SAT or ACT scores are listed on the international page, which also describes a test-optional policy. English proficiency minimums were not readable.",
+   "ka": "TTU-ს საერთაშორისო გვერდზე მითითებულია SAT ან ACT-ის ოფიციალური შედეგები, თუმცა აღწერილია test-optional პოლიტიკაც. ინგლისურის მინიმუმები ვერ ამოვიკითხეთ.",
+   "ar": "تذكر الصفحة الدولية نتائج SAT أو ACT الرسمية مع سياسة اختيارية للاختبارات. لم تتوفر الحدود الدنيا للغة الإنجليزية."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Official high school transcript (sent by mail or via Counselor Portal)",
+     "ka": "ოფიციალური ატესტატი (ფოსტით ან Counselor Portal-ით)",
+     "ar": "كشف درجات رسمي للثانوية (بالبريد أو عبر Counselor Portal)"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "Official SAT/ACT scores",
+     "ka": "SAT/ACT-ის ოფიციალური შედეგები",
+     "ar": "نتائج SAT/ACT رسمية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "I-20 documentation and health insurance",
+     "ka": "I-20-ის დოკუმენტაცია და ჯანმრთელობის დაზღვევა",
+     "ar": "وثائق I-20 والتأمين الصحي"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "texas",
+   "lubbock",
+   "engineering"
+  ],
+  "sources": [
+   "http://www.depts.ttu.edu/admissions/international/apply/",
+   "http://www.depts.ttu.edu/admissions/apply/ImportantDates/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-south-florida",
+  "name": {
+   "en": "University of South Florida",
+   "ka": "სამხრეთ ფლორიდის უნივერსიტეტი",
+   "ar": "جامعة جنوب فلوريدا"
+  },
+  "iso": "US",
+  "city": "Tampa",
+  "lat": 28.061,
+  "lon": -82.413,
+  "type": "public",
+  "website": "https://www.usf.edu",
+  "platform": "Direct (USF application)",
+  "application_url": "https://admissions.usf.edu/application",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 50000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "business",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public research university in Tampa, Florida. The official international page links to requirements and cost pages that were not readable this round.",
+   "ka": "საჯარო კვლევითი უნივერსიტეტი ტამპაში, ფლორიდა. ოფიციალური გვერდის მოთხოვნებისა და საფასურის ბმულები ამჯერად ვერ წაიკითხა.",
+   "ar": "جامعة بحثية حكومية في تامبا بفلوريدا. روابط المتطلبات والتكاليف على الصفحة الرسمية لم تُقرأ هذه الجولة."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "florida",
+   "tampa",
+   "public"
+  ],
+  "sources": [
+   "https://www.usf.edu/admissions/international/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "beijing-jiaotong-university",
+  "name": {
+   "en": "Beijing Jiaotong University",
+   "ka": "პეკინის ჯიაოტონგის უნივერსიტეტი",
+   "ar": "جامعة بكين جياوتونغ"
+  },
+  "iso": "CN",
+  "city": "Beijing",
+  "lat": 39.951,
+  "lon": 116.341,
+  "type": "public",
+  "website": "https://www.bjtu.edu.cn",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 30000,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Beijing, strong in transport engineering. Its international admissions site was not reachable this round.",
+   "ka": "საჯარო უნივერსიტეტი პეკინში, ძლიერია სატრანსპორტო ინჟინერიაში. საერთაშორისო მისაღები საიტი ამჯერად მიუწვდომელი იყო.",
+   "ar": "جامعة حكومية في بكين قوية في هندسة النقل. لم يمكن الوصول إلى موقع القبول الدولي هذه الجولة."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "china",
+   "beijing",
+   "transport",
+   "engineering"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ }
+]

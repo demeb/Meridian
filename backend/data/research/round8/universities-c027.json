@@ -1,0 +1,893 @@
+[
+ {
+  "id": "seoul-national-university-of-science-and-technology",
+  "name": {
+   "en": "Seoul National University of Science and Technology",
+   "ka": "სეულის მეცნიერებისა და ტექნოლოგიების ეროვნული უნივერსიტეტი",
+   "ar": "جامعة سول الوطنية للعلوم والتكنولوجيا"
+  },
+  "iso": "KR",
+  "city": "Seoul",
+  "lat": 37.632,
+  "lon": 127.077,
+  "type": "public",
+  "website": "https://www.seoultech.ac.kr",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "korea",
+   "seoul",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.seoultech.ac.kr"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "shaanxi-normal-university",
+  "name": {
+   "en": "Shaanxi Normal University",
+   "ka": "შაანსის პედაგოგიური უნივერსიტეტი",
+   "ar": "جامعة شنشي العادية"
+  },
+  "iso": "CN",
+  "city": "Xi'an",
+  "lat": 34.158,
+  "lon": 108.907,
+  "type": "public",
+  "website": "https://www.snnu.edu.cn",
+  "platform": "Direct online application (SNNU international student system)",
+  "application_url": "https://snnu.17gz.org/member/login.do",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "Deadline not found on the English-accessible pages; the application fee is 400 CNY. Check the admissions brochure on study.snnu.edu.cn.",
+  "tuition_intl": {
+   "amount": 16500,
+   "currency": "CNY",
+   "per": "year",
+   "note": "Humanities 16,500; science and engineering 18,000; arts 32,000 CNY per academic year (undergraduate degree students)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Chinese"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "education",
+   "humanities",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Humanities",
+    "Chinese language"
+   ],
+   "ka": [
+    "განათლება",
+    "ჰუმანიტარული მეცნიერებები",
+    "ჩინური ენა"
+   ],
+   "ar": [
+    "التعليم",
+    "العلوم الإنسانية",
+    "اللغة الصينية"
+   ]
+  },
+  "summary": null,
+  "about": null,
+  "aid_intl": {
+   "en": "Chinese Government Scholarship (Silk Road programme) and Xi'an Belt and Road scholarships are announced on the international student office site.",
+   "ka": "ჩინეთის მთავრობის სტიპენდია (Silk Road პროგრამა) და სიანის Belt and Road სტიპენდიები გამოცხადებულია საერთაშორისო სტუდენტთა ოფისის საიტზე.",
+   "ar": "تُعلن منحة الحكومة الصينية (برنامج طريق الحرير) ومنح الحزام والطريق في شيآن في موقع مكتب الطلاب الدوليين."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Chinese Government Scholarship - Silk Road Programme 2026/2027",
+    "url": "http://study.snnu.edu.cn/zsjz.htm",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "china",
+   "xi'an",
+   "teacher training",
+   "low tuition"
+  ],
+  "sources": [
+   "http://study.snnu.edu.cn/zxxx/fybz.htm",
+   "http://study.snnu.edu.cn/zsjz.htm"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "shiv-nadar-university-delhi-ncr",
+  "name": {
+   "en": "Shiv Nadar University, Delhi NCR",
+   "ka": "შივ ნადარის უნივერსიტეტი, დელი NCR",
+   "ar": "جامعة شيف نادار، دلهي NCR"
+  },
+  "iso": "IN",
+  "city": "Dadri",
+  "lat": 28.527,
+  "lon": 77.575,
+  "type": "private",
+  "website": "https://snu.edu.in",
+  "platform": "Direct online application (snuadmissions.com)",
+  "application_url": "https://snuadmissions.com/",
+  "intakes": [
+   "August"
+  ],
+  "deadline": null,
+  "deadline_note": "For the 2026-27 cycle applications ran 1-15 June 2026 and offers came on 30 June 2026. The 2027-28 dates are not yet published.",
+  "tuition_intl": {
+   "amount": 643500,
+   "currency": "INR",
+   "per": "year",
+   "note": "2026 first-year batch: tuition plus living charges range from INR 643,500 to 1,043,500 per year depending on programme, plus one-time fees. Page does not give a separate international fee."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "IB: 28 of 45 points or 65%. Cambridge: at least 2 A-level subjects with 65% PUM aggregate.",
+   "ka": "IB: 45-დან 28 ქულა ან 65%. Cambridge: მინიმუმ 2 A-level საგანი, საშუალო 65% PUM.",
+   "ar": "IB: 28 من 45 نقطة أو 65%. كامبريدج: مادتان على الأقل من A-level بمعدل 65% PUM."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "SNUSAT",
+   "APT (some programmes)",
+   "SAT",
+   "ACT",
+   "JEE Main",
+   "CUET"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": {
+   "en": "Merit and need-based scholarships exist, but many depend on Indian exams or boards.",
+   "ka": "არსებობს დამსახურებისა და საჭიროებაზე დაფუძნებული სტიპენდიები, თუმცა ბევრი ინდოეთის გამოცდებზეა მიბმული.",
+   "ar": "تتوفر منح بحسب التفوق والحاجة لكن كثيرًا منها مرتبط بامتحانات أو مجالس تعليمية هندية."
+  },
+  "tests": {
+   "en": "Admission routes: SNUSAT (online, proctored, can be taken from home), SAT, ACT, JEE Main or CUET; some programmes add the APT and an online interview.",
+   "ka": "მიღების გზები: SNUSAT (ონლაინ, შეიძლება სახლიდან), SAT, ACT, JEE Main ან CUET; ზოგ პროგრამაზე ემატება APT და ონლაინ ინტერვიუ.",
+   "ar": "مسارات القبول: SNUSAT (عبر الإنترنت ويمكن أداؤه من المنزل)، SAT، ACT، JEE Main أو CUET؛ وتضيف بعض البرامج APT ومقابلة عبر الإنترنت."
+  },
+  "gpa_note": {
+   "en": "Class 12 aggregate of at least 65%; some programmes need specific subjects such as Physics, Chemistry and Mathematics.",
+   "ka": "12-ე კლასის საშუალო მინიმუმ 65%; ზოგ პროგრამას სჭირდება კონკრეტული საგნები, მაგ. ფიზიკა, ქიმია და მათემატიკა.",
+   "ar": "معدل الصف 12 لا يقل عن 65%؛ وتتطلب بعض البرامج مواد محددة مثل الفيزياء والكيمياء والرياضيات."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი/ნიშნები",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "SNUSAT, SAT, ACT, JEE Main or CUET score",
+     "ka": "SNUSAT, SAT, ACT, JEE Main ან CUET ქულა",
+     "ar": "نتيجة SNUSAT أو SAT أو ACT أو JEE Main أو CUET"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Online interview (some programmes)",
+     "ka": "ონლაინ ინტერვიუ (ზოგ პროგრამაზე)",
+     "ar": "مقابلة عبر الإنترنت (بعض البرامج)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "delhi ncr",
+   "private",
+   "dual degree ASU"
+  ],
+  "sources": [
+   "https://snu.edu.in/admissions/",
+   "https://snuadmissions.com/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "siberian-federal-university-sibfu",
+  "name": {
+   "en": "Siberian Federal University, SibFU",
+   "ka": "ციმბირის ფედერალური უნივერსიტეტი",
+   "ar": "جامعة سيبيريا الفيدرالية"
+  },
+  "iso": "RU",
+  "city": "Krasnoyarsk",
+  "lat": 56.007,
+  "lon": 92.797,
+  "type": "public",
+  "website": "https://sfu.ru",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "russia",
+   "krasnoyarsk"
+  ],
+  "sources": [
+   "https://sfu.ru/en/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "soonchunhyang-university",
+  "name": {
+   "en": "Soonchunhyang University",
+   "ka": "სუნჩონჰიანგის უნივერსიტეტი",
+   "ar": "جامعة سونتشونهيانغ"
+  },
+  "iso": "KR",
+  "city": "Asan",
+  "lat": 36.769,
+  "lon": 126.931,
+  "type": "private",
+  "website": "https://www.sch.ac.kr",
+  "platform": null,
+  "application_url": "http://sgee.sch.ac.kr/admi/admi01.php",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "A 2027 first-semester foreign-student admission guide (Korean PDF) is published on the university's international office site; dates not read.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "korea",
+   "asan",
+   "medicine"
+  ],
+  "sources": [
+   "http://sgee.sch.ac.kr/guide/guide01.php",
+   "http://sgee.sch.ac.kr/admi/admi01.php"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "southern-federal-university",
+  "name": {
+   "en": "Southern Federal University",
+   "ka": "სამხრეთის ფედერალური უნივერსიტეტი",
+   "ar": "جامعة الجنوب الفيدرالية"
+  },
+  "iso": "RU",
+  "city": "Rostov-on-Don",
+  "lat": 47.222,
+  "lon": 39.719,
+  "type": "public",
+  "website": "https://www.sfedu.ru",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "russia",
+   "rostov-on-don"
+  ],
+  "sources": [
+   "https://www.sfedu.ru"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "srm-institute-of-science-and-technology",
+  "name": {
+   "en": "SRM Institute of Science and Technology",
+   "ka": "SRM მეცნიერებისა და ტექნოლოგიების ინსტიტუტი",
+   "ar": "معهد SRM للعلوم والتكنولوجيا"
+  },
+  "iso": "IN",
+  "city": "Chennai",
+  "lat": 12.823,
+  "lon": 80.045,
+  "type": "private",
+  "website": "https://www.srmuniv.ac.in",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "chennai",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.srmuniv.ac.in"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "sumgayit-state-university",
+  "name": {
+   "en": "Sumgayit State University",
+   "ka": "სუმგაიტის სახელმწიფო უნივერსიტეტი",
+   "ar": "جامعة سومقايت الحكومية"
+  },
+  "iso": "AZ",
+  "city": "Sumgayit",
+  "lat": 40.589,
+  "lon": 49.668,
+  "type": "public",
+  "website": "https://sdu.edu.az",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "azerbaijan",
+   "sumgayit"
+  ],
+  "sources": [
+   "https://sdu.edu.az"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "szechenyi-istvan-university-university-of-gyor",
+  "name": {
+   "en": "Széchenyi István University (University of Győr)",
+   "ka": "სეჩენი ისტვანის უნივერსიტეტი (ჯიორის უნივერსიტეტი)",
+   "ar": "جامعة سيشيني إشتفان (جامعة جيور)"
+  },
+  "iso": "HU",
+  "city": "Győr",
+  "lat": 47.682,
+  "lon": 17.634,
+  "type": "public",
+  "website": "https://uni.sze.hu",
+  "platform": "Direct online application (admissions.sze.hu)",
+  "application_url": "https://admissions.sze.hu/application",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Hungarian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "business",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Vehicle engineering",
+    "Mechanical engineering",
+    "Business",
+    "International relations"
+   ],
+   "ka": [
+    "სატრანსპორტო საშუალებების ინჟინერია",
+    "მექანიკური ინჟინერია",
+    "ბიზნესი",
+    "საერთაშორისო ურთიერთობები"
+   ],
+   "ar": [
+    "هندسة المركبات",
+    "الهندسة الميكانيكية",
+    "الأعمال",
+    "العلاقات الدولية"
+   ]
+  },
+  "summary": null,
+  "about": null,
+  "aid_intl": {
+   "en": "Stipendium Hungaricum scholarships are administered by the university.",
+   "ka": "Stipendium Hungaricum სტიპენდიებს უნივერსიტეტი ადმინისტრირებს.",
+   "ar": "تدير الجامعة منح Stipendium Hungaricum."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [
+   {
+    "name": "Stipendium Hungaricum",
+    "url": "https://admissions.sze.hu/stipendium-hungaricum",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "hungary",
+   "gyor",
+   "engineering",
+   "stipendium hungaricum"
+  ],
+  "sources": [
+   "https://admissions.sze.hu",
+   "https://admissions.sze.hu/bachelors-level-full-degree-programmes",
+   "https://admissions.sze.hu/important-dates-and-regulations"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "tashkent-state-technical-university",
+  "name": {
+   "en": "Tashkent State Technical University",
+   "ka": "ტაშკენტის სახელმწიფო ტექნიკური უნივერსიტეტი",
+   "ar": "جامعة طشقند التقنية الحكومية"
+  },
+  "iso": "UZ",
+  "city": "Tashkent",
+  "lat": 41.345,
+  "lon": 69.203,
+  "type": "public",
+  "website": "https://tdtu.uz",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "uzbekistan",
+   "tashkent",
+   "engineering"
+  ],
+  "sources": [
+   "https://tdtu.uz"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "technical-university-of-kosice",
+  "name": {
+   "en": "Technical University of Kosice",
+   "ka": "კოშიცეს ტექნიკური უნივერსიტეტი",
+   "ar": "الجامعة التقنية في كوشيتسه"
+  },
+  "iso": "SK",
+  "city": "Košice",
+  "lat": 48.73,
+  "lon": 21.245,
+  "type": "public",
+  "website": "https://tuke.sk",
+  "platform": "Direct online application (IS MAIS e-application)",
+  "application_url": "https://eprihlaska.tuke.sk/eprihlaska/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "Deadlines are published per faculty on the MAIS site; not read.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Slovak",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV",
+     "ka": "CV (ბიოგრაფია)",
+     "ar": "السيرة الذاتية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate (original or notarized copy by enrolment)",
+     "ka": "საშუალო სკოლის დამამთავრებელი ატესტატი (დედანი ან notarial ასლი ჩარიცხვამდე)",
+     "ar": "شهادة إتمام الدراسة الثانوية (الأصل أو نسخة موثقة قبل التسجيل)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Education certificates",
+     "ka": "განათლების დამადასტურებელი დოკუმენტები",
+     "ar": "شهادات التعليم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "slovakia",
+   "kosice",
+   "engineering"
+  ],
+  "sources": [
+   "https://tuke.sk/en/admission-procedure",
+   "https://eprihlaska.tuke.sk/eprihlaska/"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "technische-universitat-chemnitz",
+  "name": {
+   "en": "Technische Universität Chemnitz",
+   "ka": "ქემნიცის ტექნიკური უნივერსიტეტი",
+   "ar": "الجامعة التقنية في كيمنتس"
+  },
+  "iso": "DE",
+  "city": "Chemnitz",
+  "lat": 50.813,
+  "lon": 12.929,
+  "type": "public",
+  "website": "https://www.tu-chemnitz.de",
+  "platform": "uni-assist (international applicants) / TU Chemnitz campus portal",
+  "application_url": "https://www.tu-chemnitz.de/study-in-chemnitz/bewerben.html.en",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 0,
+   "currency": "EUR",
+   "per": "year",
+   "note": "No tuition fees in Saxony; a semester contribution applies."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "German",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Mechanical engineering",
+    "Electrical engineering",
+    "Computer science"
+   ],
+   "ka": [
+    "მანქანათმშენებლობა",
+    "ელექტროინჟინერია",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الهندسة الميكانيكية",
+    "الهندسة الكهربائية",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Application via uni-assist for foreign qualifications",
+     "ka": "განაცხადი uni-assist-ის საშუალებით უცხოური კვალიფიკაციისთვის",
+     "ar": "التقديم عبر uni-assist للمؤهلات الأجنبية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "germany",
+   "chemnitz",
+   "no tuition",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.tu-chemnitz.de/study-in-chemnitz/bewerben.html.en"
+  ],
+  "verified_at": "2026-11-14"
+ }
+]

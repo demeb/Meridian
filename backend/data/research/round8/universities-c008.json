@@ -1,0 +1,1313 @@
+[
+ {
+  "platform": "Direct / UCAS",
+  "application_url": "https://www.ulster.ac.uk/global/apply/entry-requirements",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 17490,
+   "currency": "GBP",
+   "per": "year",
+   "note": "2026/27 rate for full-time undergraduate; 2027/28 rate is listed at 18,030 GBP. Medicine MBBS is 39,630 GBP plus a clinical placement levy."
+  },
+  "acceptance_rate": null,
+  "students": 25000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Minimum for entry is the equivalent of three A-levels at CCC; some courses need higher grades and set subjects. International qualifications are assessed individually.",
+   "ka": "მინიმალური მოთხოვნაა სამი A-level-ის ეკვივალენტი (CCC); ზოგ პროგრამას უფრო მაღალი ქულები და კონკრეტული საგნები სჭირდება. საერთაშორისო კვალიფიკაციები ინდივიდუალურად ფასდება.",
+   "ar": "الحد الأدنى للقبول ما يعادل ثلاث مواد A-level بتقدير CCC، وبعض البرامج تتطلب درجات أعلى ومواد محددة. تُقيَّم المؤهلات الدولية بشكل فردي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": {
+   "en": "A Standard Country Scholarship of 3,000 GBP is offered to applicants who meet the course entry requirements.",
+   "ka": "სტანდარტული ქვეყნის სტიპენდია 3 000 გირვანქის ოდენობით ეძლევათ აპლიკანტებს, რომლებიც აკმაყოფილებენ პროგრამის მოთხოვნებს.",
+   "ar": "تُقدَّم منحة بحسب البلد بقيمة 3,000 جنيه للمتقدمين المستوفين لشروط القبول."
+  },
+  "tests": {
+   "en": "IELTS Academic 6.0 overall with no band below 5.5 for most courses; Medicine needs 7.5 overall with 7.0 in each band. PTE, TOEFL iBT and Oxford Test of English are also listed.",
+   "ka": "IELTS Academic 6.0 საერთო ქულა, არცერთი ნაწილი 5.5-ზე დაბლა უმეტეს პროგრამაზე; მედიცინაზე 7.5 და ყველა ნაწილში 7.0. ასევე მიიღება PTE, TOEFL iBT და Oxford Test of English.",
+   "ar": "IELTS Academic بدرجة 6.0 دون أي مهارة أقل من 5.5 لمعظم البرامج؛ والطب يتطلب 7.5 مع 7.0 في كل مهارة. تُقبل أيضًا PTE وTOEFL iBT وOxford Test of English."
+  },
+  "gpa_note": {
+   "en": "The minimum for undergraduate entry is the equivalent of three A-levels at CCC; some programmes require higher grades and particular subjects.",
+   "ka": "ბაკალავრიატზე მინიმუმია სამი A-level-ის ეკვივალენტი CCC დონეზე; ზოგ პროგრამას უფრო მაღალი ქულები და კონკრეტული საგნები სჭირდება.",
+   "ar": "الحد الأدنى للقبول ما يعادل ثلاث مواد A-level بتقدير CCC، وبعض البرامج تتطلب درجات أعلى ومواد محددة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი/ნიშნების ფურცელი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proof (IELTS/TOEFL)",
+     "ka": "ინგლისურის დამადასტურებელი (IELTS/TOEFL)",
+     "ar": "إثبات اللغة الإنجليزية (IELTS/TOEFL)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების დიპლომი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Standard Country Scholarship (3,000 GBP)",
+    "url": "https://www.ulster.ac.uk/global/apply/fees-and-finance",
+    "coverage": "partial"
+   }
+  ],
+  "verified_at": "2026-11-14",
+  "id": "ulster-university",
+  "name": {
+   "en": "Ulster University",
+   "ka": "ალსტერის უნივერსიტეტი",
+   "ar": "جامعة أولستر"
+  },
+  "iso": "GB",
+  "city": "Belfast",
+  "lat": 54.603,
+  "lon": -5.929,
+  "type": "public",
+  "website": "https://www.ulster.ac.uk",
+  "fields": [
+   "business",
+   "engineering",
+   "medicine-health",
+   "computer-science",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Nursing and health",
+    "Engineering",
+    "Business",
+    "Art and design",
+    "Computing"
+   ],
+   "ka": [
+    "მედდობა და ჯანდაცვა",
+    "ინჟინერია",
+    "ბიზნესი",
+    "ხელოვნება და დიზაინი",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "التمريض والصحة",
+    "الهندسة",
+    "الأعمال",
+    "الفن والتصميم",
+    "الحوسبة"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Northern Ireland with its main city campus in Belfast. International undergraduate tuition is about 17,490 GBP a year for 2026/27.",
+   "ka": "საჯარო უნივერსიტეტი ჩრდილოეთ ირლანდიაში, მთავარი საქალაქო კამპუსით ბელფასტში. საერთაშორისო სტუდენტების ბაკალავრიატის საფასური 2026/27-ისთვის დაახლოებით 17 490 გირვანქაა წელიწადში.",
+   "ar": "جامعة حكومية في أيرلندا الشمالية وحرمها الرئيسي في بلفاست. تبلغ رسوم البكالوريوس للطلاب الدوليين نحو 17,490 جنيهًا إسترلينيًا سنويًا لعام 2026/27."
+  },
+  "about": {
+   "en": "Ulster University has campuses in Belfast, Coleraine, Derry~Londonderry and Birmingham. Teaching is in English. International applicants need qualifications equal to at least CCC at A-level, assessed individually, and IELTS 6.0 for most courses. Fees for 2026/27 are 17,490 GBP a year, rising to 18,030 GBP for 2027/28. Country scholarships of 3,000 GBP are available.",
+   "ka": "ალსტერის უნივერსიტეტს აქვს კამპუსები ბელფასტში, კოლრეინში, დერი-ლონდონდერიში და ბირმინგემში. სწავლება ინგლისურადაა. საერთაშორისო აპლიკანტებს სჭირდებათ მინიმუმ A-level CCC-ის ეკვივალენტი (ინდივიდუალური შეფასებით) და უმეტეს პროგრამაზე IELTS 6.0. საფასური 2026/27-ში 17 490 გირვანქაა წელიწადში, 2027/28-ში კი 18 030. ქვეყნის სტიპენდია 3 000 გირვანქაა.",
+   "ar": "للجامعة حرم في بلفاست وكولراين وديري-لندنديري وبرمنغهام، والتدريس بالإنجليزية. يحتاج المتقدمون الدوليون إلى مؤهلات تعادل CCC في A-level على الأقل بتقييم فردي، وIELTS 6.0 لمعظم البرامج. الرسوم 17,490 جنيهًا سنويًا لعام 2026/27 و18,030 لعام 2027/28. تتوفر منح بحسب البلد بقيمة 3,000 جنيه."
+  },
+  "keywords": [
+   "uk",
+   "northern ireland",
+   "belfast",
+   "ulster"
+  ],
+  "sources": [
+   "https://www.ulster.ac.uk/global/apply/entry-requirements",
+   "https://www.ulster.ac.uk/global/apply/english-language-requirements",
+   "https://www.ulster.ac.uk/student/fees/tuition-fees/international/tuition-fees-202627-international-and-eu-excluding-roi",
+   "https://www.ulster.ac.uk/student/fees/tuition-fees/international/tuition-fees-202728-international-and-eu-excluding-roi"
+  ]
+ },
+ {
+  "platform": "Parcoursup (French bac holders) / Études en France",
+  "application_url": "https://www.univ-lyon1.fr/formation/inscription-et-scolarite/inscription-candidats-internationaux-hors-echange-comment-candidater",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "French or European baccalauréat holders apply on Parcoursup from mid-January to early March. For 2027-28 the university states that no first-year licence programme is open to Études en France (DAP) applicants with foreign diplomas.",
+  "tuition_intl": {
+   "amount": 2902,
+   "currency": "EUR",
+   "per": "year",
+   "note": "2026/27 differential fee for non-EU licence students (master 3,950). Exemptions exist under a 30% university quota; national fee of 178 EUR in sciences applies even with exemption."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "French and European baccalauréat holders apply through Parcoursup. For 2027-28 no first-year licence is open to applicants with other foreign secondary diplomas through Études en France.",
+   "ka": "საფრანგეთის ან ევროპული ბაკალავრეატის მფლობელები სარგებლობენ Parcoursup-ით. 2027-28-ისთვის უცხოური საშუალო დიპლომის მქონე აპლიკანტებისთვის Études en France-ით პირველი კურსი ღია არაა.",
+   "ar": "يتقدم حاملو البكالوريا الفرنسية أو الأوروبية عبر Parcoursup. لعام 2027-28 لا يُفتح أي برنامج للسنة الأولى لحاملي الشهادات الثانوية الأجنبية الأخرى عبر Études en France."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TCF B2 (level 4)",
+   "DELF B2",
+   "TEF (14/20)"
+  ],
+  "aid_intl": {
+   "en": "The university can grant full or partial exemptions from differential fees within a 30% quota, applied for on eCandidat.",
+   "ka": "უნივერსიტეტს შეუძლია სრული ან ნაწილობრივი გათავისუფლება დიფერენცირებული საფასურისგან 30%-იანი კვოტის ფარგლებში, განაცხადი eCandidat-ზე.",
+   "ar": "يمكن للجامعة منح إعفاء كامل أو جزئي من الرسوم التفاضلية ضمن حصة 30%، ويُقدَّم الطلب عبر eCandidat."
+  },
+  "tests": {
+   "en": "French B2 is required for French-taught programmes: TCF tout public level 4, DELF B2 or TEF for university studies 14/20. TEF express, DELF Pro and OFII certificates are refused.",
+   "ka": "ფრანგულად სწავლებისთვის საჭიროა ფრანგულის B2: TCF tout public დონე 4, DELF B2 ან TEF 14/20. TEF express, DELF Pro და OFII სერტიფიკატი არ მიიღება.",
+   "ar": "يلزم مستوى B2 في الفرنسية: TCF tout public مستوى 4 أو DELF B2 أو TEF للدراسات الجامعية 14/20. لا تُقبل TEF express وDELF Pro وشهادة OFII."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი/ნიშნების ფურცელი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "French B2 certificate",
+     "ka": "ფრანგულის B2 სერტიფიკატი",
+     "ar": "شهادة الفرنسية B2"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების დიპლომი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-14",
+  "id": "universite-claude-bernard-lyon-1",
+  "name": {
+   "en": "Université Claude Bernard Lyon 1",
+   "ka": "კლოდ ბერნარ ლიონ 1-ის უნივერსიტეტი",
+   "ar": "جامعة كلود برنار ليون 1"
+  },
+  "iso": "FR",
+  "city": "Villeurbanne",
+  "lat": 45.778,
+  "lon": 4.866,
+  "type": "public",
+  "website": "https://www.univ-lyon1.fr",
+  "fields": [
+   "natural-sciences",
+   "medicine-health",
+   "engineering",
+   "computer-science",
+   "mathematics"
+  ],
+  "strengths": {
+   "en": [
+    "Sciences",
+    "Medicine and health",
+    "Engineering (Polytech)",
+    "Computer science",
+    "Sport sciences"
+   ],
+   "ka": [
+    "საბუნებისმეტყველო მეცნიერებები",
+    "მედიცინა და ჯანდაცვა",
+    "ინჟინერია (Polytech)",
+    "კომპიუტერული მეცნიერება",
+    "სპორტის მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم",
+    "الطب والصحة",
+    "الهندسة (Polytech)",
+    "علوم الحاسوب",
+    "علوم الرياضة"
+   ]
+  },
+  "summary": {
+   "en": "Large public science and health university in the Lyon area, teaching mostly in French. Non-EU licence students pay a 2,902 EUR differential fee for 2026/27.",
+   "ka": "მსხვილი საჯარო უნივერსიტეტი ლიონის რეგიონში, მეცნიერებისა და ჯანდაცვის მიმართულებით, სწავლება ძირითადად ფრანგულად. ევროკავშირს გარეთა ბაკალავრებისთვის 2026/27-ში საფასურია 2 902 ევრო.",
+   "ar": "جامعة حكومية كبيرة في منطقة ليون متخصصة في العلوم والصحة، والتدريس بالفرنسية في الغالب. يدفع طلاب الإجازة من خارج الاتحاد الأوروبي 2,902 يورو في 2026/27."
+  },
+  "about": {
+   "en": "Lyon 1 is a public university focused on science, health, technology and sport. Bachelor (licence) teaching is in French and applicants need B2 (TCF level 4, DELF B2 or TEF 14/20) unless exempt. Applicants with a French bac use Parcoursup. For 2027-28 first-year licence places are not open to Études en France applicants with foreign diplomas. Non-EU students pay 2,902 EUR a year.",
+   "ka": "ლიონ 1 საჯარო უნივერსიტეტია მეცნიერების, ჯანდაცვის, ტექნოლოგიისა და სპორტის მიმართულებით. ბაკალავრიატის სწავლება ფრანგულადაა და საჭიროა B2 (TCF დონე 4, DELF B2 ან TEF 14/20), გამონაკლისების გარდა. ფრანგული ბაკალავრეატის მფლობელები Parcoursup-ს იყენებენ. 2027-28-ისთვის პირველი კურსის ადგილები Études en France-ით უცხოური დიპლომის მქონეთათვის ღია არაა. ევროკავშირს გარეთა სტუდენტები იხდიან 2 902 ევროს წელიწადში.",
+   "ar": "ليون 1 جامعة حكومية تركز على العلوم والصحة والتكنولوجيا والرياضة. التدريس في الإجازة بالفرنسية ويتطلب مستوى B2 (TCF مستوى 4 أو DELF B2 أو TEF 14/20) ما لم يُعفَ المتقدم. يستخدم حاملو البكالوريا الفرنسية منصة Parcoursup. لعام 2027-28 لا تُفتح مقاعد السنة الأولى لحاملي الشهادات الأجنبية عبر Études en France. يدفع الطلاب من خارج الاتحاد الأوروبي 2,902 يورو سنويًا."
+  },
+  "keywords": [
+   "france",
+   "lyon",
+   "science",
+   "health"
+  ],
+  "sources": [
+   "https://www.univ-lyon1.fr/formation/inscription-et-scolarite/inscription-candidats-internationaux-hors-echange-comment-candidater",
+   "https://www.univ-lyon1.fr/formation/inscription-et-scolarite/international-students-differential-tuition-fees-and-exemptions-for-academic-year-2026-2027"
+  ]
+ },
+ {
+  "platform": "Direct (apply.utb.edu.bn)",
+  "application_url": "https://apply.utb.edu.bn/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 24000,
+   "currency": "BND",
+   "per": "programme",
+   "note": "Total programme fee for international students: 24,000 (3-year business/computing), 27,000 (architecture/design), 32,000 (food science, agrotechnology), 40,000 (4-year engineering). 50% advance payment on acceptance."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A-level applicants need 200 points from three relevant English-medium passes or 180 points from two; IB Diploma minimum 24 points. Programme-specific subjects apply.",
+   "ka": "A-level-ის აპლიკანტებს სჭირდებათ 200 ქულა სამი შესაბამისი ინგლისურენოვანი საგნიდან ან 180 ქულა ორიდან; IB დიპლომი მინიმუმ 24 ქულა. პროგრამების მიხედვით კონკრეტული საგნებია.",
+   "ar": "يحتاج حاملو A-level إلى 200 نقطة من ثلاث مواد ذات صلة بالإنجليزية أو 180 من مادتين؛ ودبلوم IB بحد أدنى 24 نقطة. وتوجد مواد مطلوبة حسب البرنامج."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 80,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": null,
+  "tests": {
+   "en": "English: IELTS 6.0, TOEFL iBT 80 (PBT 550) or a credit in English at GCE O-Level; taken within two years of start and waived if prior study was in English.",
+   "ka": "ინგლისური: IELTS 6.0, TOEFL iBT 80 (PBT 550) ან GCE O-Level-ის კრედიტი; ტესტი სწავლის დაწყებიდან ორი წლის განმავლობაში უნდა იყოს ჩაბარებული და არ მოითხოვება, თუ წინა სწავლა ინგლისურად იყო.",
+   "ar": "الإنجليزية: IELTS 6.0 أو TOEFL iBT 80 (ورقي 550) أو تقدير credit في الإنجليزية من GCE O-Level؛ تُجرى خلال سنتين من بدء البرنامج وتُعفى إذا كانت الدراسة السابقة بالإنجليزية."
+  },
+  "gpa_note": {
+   "en": "A-level: 200 points from three relevant English-medium passes, or 180 points from two; IB Diploma 24 points. Subjects are programme-specific.",
+   "ka": "A-level: 200 ქულა სამი შესაბამისი ინგლისურენოვანი საგნიდან ან 180 ორიდან; IB დიპლომი 24 ქულა. საგნები პროგრამის მიხედვით განისაზღვრება.",
+   "ar": "A-level: 200 نقطة من ثلاث مواد ذات صلة بالإنجليزية أو 180 من مادتين؛ IB: 24 نقطة. والمواد حسب البرنامج."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი/ნიშნების ფურცელი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proof (IELTS/TOEFL)",
+     "ka": "ინგლისურის დამადასტურებელი (IELTS/TOEFL)",
+     "ar": "إثبات اللغة الإنجليزية (IELTS/TOEFL)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving diploma",
+     "ka": "საშუალო განათლების დიპლომი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-14",
+  "id": "universiti-teknologi-brunei",
+  "name": {
+   "en": "Universiti Teknologi Brunei",
+   "ka": "ბრუნეის ტექნოლოგიური უნივერსიტეტი",
+   "ar": "جامعة بروناي للتكنولوجيا"
+  },
+  "iso": "BN",
+  "city": "Bandar Seri Begawan",
+  "lat": 4.975,
+  "lon": 114.929,
+  "type": "public",
+  "website": "https://www.utb.edu.bn",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business",
+   "arts-design",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computing",
+    "Business",
+    "Architecture and design",
+    "Food science"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტინგი",
+    "ბიზნესი",
+    "არქიტექტურა და დიზაინი",
+    "საკვების მეცნიერება"
+   ],
+   "ar": [
+    "الهندسة",
+    "الحوسبة",
+    "الأعمال",
+    "العمارة والتصميم",
+    "علوم الأغذية"
+   ]
+  },
+  "summary": {
+   "en": "Brunei's technology university, teaching in English. International programme fees range from 24,000 to 40,000 BND for the whole degree.",
+   "ka": "ბრუნეის ტექნოლოგიური უნივერსიტეტი, სწავლება ინგლისურად. საერთაშორისო სტუდენტების მთლიანი პროგრამის საფასური 24 000-დან 40 000 ბრუნეულ დოლარამდეა.",
+   "ar": "جامعة بروناي للتكنولوجيا والتدريس بالإنجليزية. تتراوح رسوم البرنامج كاملًا للطلاب الدوليين بين 24,000 و40,000 دولار بروناي."
+  },
+  "about": {
+   "en": "UTB offers bachelor degrees in engineering, computing, business, design and applied sciences, all in English. International students pay a whole-programme fee of 24,000 to 40,000 BND, with half due on accepting an offer. English proof is IELTS 6.0, TOEFL iBT 80 or an O-level English credit. Applications go through apply.utb.edu.bn.",
+   "ka": "UTB გთავაზობთ ბაკალავრის ხარისხს ინჟინერიაში, კომპიუტინგში, ბიზნესში, დიზაინსა და გამოყენებით მეცნიერებებში, ყველაფერი ინგლისურად. საერთაშორისო სტუდენტები იხდიან მთლიან პროგრამის საფასურს 24 000–40 000 BND, ნახევარს შეთავაზების მიღებისას. ინგლისური: IELTS 6.0, TOEFL iBT 80 ან O-level. განაცხადი apply.utb.edu.bn-ზე.",
+   "ar": "تقدم UTB درجات البكالوريوس في الهندسة والحوسبة والأعمال والتصميم والعلوم التطبيقية بالإنجليزية. يدفع الطلاب الدوليون رسم البرنامج كاملًا من 24,000 إلى 40,000 دولار بروناي، ونصفه عند قبول العرض. إثبات الإنجليزية: IELTS 6.0 أو TOEFL iBT 80 أو O-level. التقديم عبر apply.utb.edu.bn."
+  },
+  "keywords": [
+   "brunei",
+   "technology",
+   "engineering"
+  ],
+  "sources": [
+   "https://utb.edu.bn/admissions/future-students/university-fees/undergraduate-tuition-fees/",
+   "https://www.utb.edu.bn/prospectus.pdf",
+   "https://www.utb.edu.bn/admissions/future-students/"
+  ]
+ },
+ {
+  "platform": "Direct (admisi.ub.ac.id)",
+  "application_url": "https://io.ub.ac.id/admissions/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "International Undergraduate Program (IUP) intake I registration ran 16 February to 5 April 2026; later intakes follow.",
+  "tuition_intl": {
+   "amount": 15000000,
+   "currency": "IDR",
+   "per": "semester",
+   "note": "FEB International Undergraduate Program tuition; plus a one-off institution fee of 58,668,000 IDR and a 2,500,000 IDR application fee."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Indonesian"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 5.5,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": null,
+  "tests": {
+   "en": "No entry test unless special conditions apply. English: IELTS 5.5 or ITP TOEFL 500 (FEB states IELTS above 5.5 or ITP above 525).",
+   "ka": "შესასვლელი გამოცდა არ არის, განსაკუთრებული პირობების გარდა. ინგლისური: IELTS 5.5 ან ITP TOEFL 500 (FEB-ზე IELTS 5.5-ზე მეტი ან ITP 525-ზე მეტი).",
+   "ar": "لا يوجد اختبار دخول إلا في حالات خاصة. الإنجليزية: IELTS 5.5 أو ITP TOEFL 500 (وتذكر كلية الاقتصاد IELTS فوق 5.5 أو ITP فوق 525)."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი/ნიშნების ფურცელი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proof (IELTS/TOEFL)",
+     "ka": "ინგლისურის დამადასტურებელი (IELTS/TOEFL)",
+     "ar": "إثبات اللغة الإنجليزية (IELTS/TOEFL)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-14",
+  "id": "universitas-brawijaya",
+  "name": {
+   "en": "Universitas Brawijaya",
+   "ka": "ბრავიჯაიას უნივერსიტეტი",
+   "ar": "جامعة براويجايا"
+  },
+  "iso": "ID",
+  "city": "Malang",
+  "lat": -7.952,
+  "lon": 112.613,
+  "type": "public",
+  "website": "https://www.ub.ac.id",
+  "fields": [
+   "economics",
+   "business",
+   "engineering",
+   "computer-science",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Economics and business",
+    "Engineering",
+    "Computer science",
+    "Agriculture",
+    "Medicine"
+   ],
+   "ka": [
+    "ეკონომიკა და ბიზნესი",
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "სოფლის მეურნეობა",
+    "მედიცინა"
+   ],
+   "ar": [
+    "الاقتصاد والأعمال",
+    "الهندسة",
+    "علوم الحاسوب",
+    "الزراعة",
+    "الطب"
+   ]
+  },
+  "summary": {
+   "en": "Large public university in Malang, East Java, with English-taught International Undergraduate Programs. IUP economics and business costs 15,000,000 IDR per semester.",
+   "ka": "მსხვილი საჯარო უნივერსიტეტი მალანგში, აღმოსავლეთ იავაზე, ინგლისურენოვანი საერთაშორისო საბაკალავრო პროგრამებით. IUP ეკონომიკა და ბიზნესი ღირს 15 000 000 IDR სემესტრში.",
+   "ar": "جامعة حكومية كبيرة في مالانغ بجاوة الشرقية مع برامج بكالوريوس دولية بالإنجليزية. تبلغ رسوم الاقتصاد والأعمال في IUP نحو 15,000,000 روبية للفصل."
+  },
+  "about": {
+   "en": "Universitas Brawijaya is a large public university in Malang. International students apply through its International Office and online admission portal; admission is by desk evaluation of academic records with no entry test. English-taught IUP programmes ask for IELTS 5.5 or ITP TOEFL 500 (some faculties state 525).",
+   "ka": "ბრავიჯაიას უნივერსიტეტი მსხვილი საჯარო უნივერსიტეტია მალანგში. უცხოელი სტუდენტები სარგებლობენ საერთაშორისო ოფისითა და ონლაინ პორტალით; მიღება აკადემიური ჩანაწერების შეფასებით ხდება, შესასვლელი გამოცდის გარეშე. ინგლისურენოვან IUP პროგრამებზე საჭიროა IELTS 5.5 ან ITP TOEFL 500 (ზოგ ფაკულტეტზე 525).",
+   "ar": "جامعة براويجايا جامعة حكومية كبيرة في مالانغ. يتقدم الطلاب الدوليون عبر مكتب الشؤون الدولية وبوابة القبول الإلكترونية، ويتم القبول بتقييم السجل الأكاديمي دون اختبار دخول. تطلب برامج IUP بالإنجليزية IELTS 5.5 أو ITP TOEFL 500 (وبعض الكليات 525)."
+  },
+  "keywords": [
+   "indonesia",
+   "malang",
+   "iup"
+  ],
+  "sources": [
+   "https://io.ub.ac.id/web-io/services-2/international-student-admission.html",
+   "https://feb.ub.ac.id/iup/",
+   "https://filkom.ub.ac.id/2026/05/08/international-undergraduate-program-iup-2026-intake-2/"
+  ]
+ },
+ {
+  "platform": "Direct (international.hufs.ac.kr)",
+  "application_url": "https://international.hufs.ac.kr/",
+  "intakes": [
+   "March",
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Korean",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TOPIK"
+  ],
+  "aid_intl": {
+   "en": "Language Excellence scholarships: TOPIK level 6 (or equivalent TOEFL/IELTS) gives full semester tuition, level 5 half.",
+   "ka": "Language Excellence სტიპენდია: TOPIK დონე 6 (ან ტოლფასი TOEFL/IELTS) სრულ სემესტრულ საფასურს ფარავს, დონე 5 ნახევარს.",
+   "ar": "منح Language Excellence: TOPIK مستوى 6 (أو ما يعادله TOEFL/IELTS) يغطي رسوم الفصل كاملة، والمستوى 5 النصف."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი/ნიშნების ფურცელი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Language Excellence scholarship",
+    "url": "https://international.hufs.ac.kr/",
+    "coverage": "partial"
+   }
+  ],
+  "verified_at": "2026-11-14",
+  "id": "hufs-hankuk-korea-university-of-foreign-studies",
+  "name": {
+   "en": "HUFS - Hankuk (Korea) University of Foreign Studies",
+   "ka": "ჰანკუკის (კორეის) უცხო ენათა უნივერსიტეტი (HUFS)",
+   "ar": "جامعة هانكوك للدراسات الأجنبية (HUFS)"
+  },
+  "iso": "KR",
+  "city": "Seoul",
+  "lat": 37.597,
+  "lon": 127.059,
+  "type": "private",
+  "website": "https://www.hufs.ac.kr",
+  "fields": [
+   "languages",
+   "international-relations",
+   "humanities",
+   "business",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Foreign languages",
+    "International studies",
+    "Business",
+    "Interpretation and translation"
+   ],
+   "ka": [
+    "უცხო ენები",
+    "საერთაშორისო კვლევები",
+    "ბიზნესი",
+    "თარგმანი"
+   ],
+   "ar": [
+    "اللغات الأجنبية",
+    "الدراسات الدولية",
+    "الأعمال",
+    "الترجمة"
+   ]
+  },
+  "summary": {
+   "en": "Private university in Seoul known for foreign languages and international studies. The official 2027 spring undergraduate admission guide is published on its international site.",
+   "ka": "კერძო უნივერსიტეტი სეულში, ცნობილი უცხო ენებითა და საერთაშორისო კვლევებით. 2027 წლის საგაზაფხულო მიღების ოფიციალური გზამკვლევი გამოქვეყნებულია საერთაშორისო საიტზე.",
+   "ar": "جامعة خاصة في سيول معروفة باللغات الأجنبية والدراسات الدولية. دليل القبول الرسمي لفصل الربيع 2027 منشور على موقعها الدولي."
+  },
+  "about": {
+   "en": "HUFS is a private university in Seoul specialising in languages and international studies. International undergraduate admission guides are published each semester at international.hufs.ac.kr. Scholarships for foreign students are linked to TOPIK levels (level 6 full semester tuition, level 5 half). Fee and deadline details were not readable from the guide in this research round.",
+   "ka": "HUFS კერძო უნივერსიტეტია სეულში, ენებსა და საერთაშორისო კვლევებში სპეციალიზებული. საერთაშორისო საბაკალავრო მიღების გზამკვლევები ყოველ სემესტრში ქვეყნდება international.hufs.ac.kr-ზე. უცხოელთა სტიპენდიები TOPIK-ის დონეს უკავშირდება (დონე 6 სრული, დონე 5 ნახევარი). საფასურისა და ვადების დეტალები ამ რაუნდში ვერ წაიკითხა.",
+   "ar": "HUFS جامعة خاصة في سيول متخصصة في اللغات والدراسات الدولية. تُنشر أدلة القبول الدولية للبكالوريوس كل فصل على international.hufs.ac.kr. ترتبط منح الطلاب الأجانب بمستوى TOPIK (المستوى 6 رسوم فصل كاملة، والمستوى 5 نصفها). لم تُقرأ تفاصيل الرسوم والمواعيد من الدليل في هذه الجولة."
+  },
+  "keywords": [
+   "korea",
+   "seoul",
+   "languages"
+  ],
+  "sources": [
+   "https://international.hufs.ac.kr/sites/international/contents/files/2027spring/HUFS_2027-1_Admission_guide(ENG).pdf",
+   "https://international.hufs.ac.kr/sites/international/contents/files/2026fall/HUFS_2026_Fall_Admission_guide(ENG)_update_ver.pdf"
+  ]
+ },
+ {
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "verified_at": "2026-11-14",
+  "id": "pontificia-universidade-catolica-do-rio-de-janeiro",
+  "name": {
+   "en": "Pontifícia Universidade Católica do Rio de Janeiro",
+   "ka": "რიო-დე-ჟანეიროს პაპის კათოლიკური უნივერსიტეტი (PUC-Rio)",
+   "ar": "الجامعة الكاثوليكية البابوية في ريو دي جانيرو"
+  },
+  "iso": "BR",
+  "city": "Rio de Janeiro",
+  "lat": -22.979,
+  "lon": -43.233,
+  "type": "private",
+  "website": "https://www.puc-rio.br",
+  "fields": [
+   "engineering",
+   "law",
+   "social-sciences",
+   "humanities",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Law",
+    "Social sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "სამართალი",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "القانون",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Private Catholic university in Rio de Janeiro. Courses are mostly in Portuguese; some are offered in English to exchange students.",
+   "ka": "კერძო კათოლიკური უნივერსიტეტი რიო-დე-ჟანეიროში. სწავლება ძირითადად პორტუგალიურადაა, ზოგი კურსი ინგლისურად გაცვლითი სტუდენტებისთვის.",
+   "ar": "جامعة كاثوليكية خاصة في ريو دي جانيرو. التدريس بالبرتغالية في الغالب مع بعض المواد بالإنجليزية لطلاب التبادل."
+  },
+  "about": {
+   "en": "PUC-Rio is a private university in Rio's Gávea district. Degree admission details for international applicants were not available from its official pages in this round; contact the university directly.",
+   "ka": "PUC-Rio კერძო უნივერსიტეტია რიოს გავეას უბანში. საერთაშორისო აპლიკანტების ხარისხის მიღების დეტალები ოფიციალურ გვერდებზე ამ რაუნდში ვერ მოიძებნა; დაუკავშირდით უნივერსიტეტს.",
+   "ar": "PUC-Rio جامعة خاصة في حي غافيا بريو. لم تتوفر تفاصيل القبول الدولي للدرجات في صفحاتها الرسمية في هذه الجولة؛ يُرجى التواصل مع الجامعة."
+  },
+  "keywords": [
+   "br",
+   "rio de janeiro"
+  ],
+  "sources": [
+   "https://www.puc-rio.br/english/index.html",
+   "https://www.puc-rio.br/ensinopesq/ccci/incoming/study_english_puc.html"
+  ]
+ },
+ {
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "French",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "verified_at": "2026-11-14",
+  "id": "lebanese-university",
+  "name": {
+   "en": "Lebanese University",
+   "ka": "ლიბანის უნივერსიტეტი",
+   "ar": "الجامعة اللبنانية"
+  },
+  "iso": "LB",
+  "city": "Beirut",
+  "lat": 33.853,
+  "lon": 35.515,
+  "type": "public",
+  "website": "https://www.ul.edu.lb",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "humanities",
+   "law",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "Lebanon's only public university, with campuses across the country. Official admissions data could not be read in this round.",
+   "ka": "ლიბანის ერთადერთი საჯარო უნივერსიტეტი, კამპუსებით მთელ ქვეყანაში. ოფიციალური მიღების მონაცემები ამ რაუნდში ვერ წაიკითხა.",
+   "ar": "الجامعة الحكومية الوحيدة في لبنان وفروعها منتشرة في البلاد. لم تُقرأ بيانات القبول الرسمية في هذه الجولة."
+  },
+  "about": {
+   "en": "The Lebanese University is Lebanon's national public university with many faculties and campuses. Its website could not be fetched (certificate error), so no admission, fee or deadline data is given.",
+   "ka": "ლიბანის უნივერსიტეტი ლიბანის ეროვნული საჯარო უნივერსიტეტია მრავალი ფაკულტეტითა და კამპუსით. ვებსაიტი ვერ გაიხსნა (სერტიფიკატის შეცდომა), ამიტომ მიღების, საფასურისა და ვადების მონაცემები არ არის.",
+   "ar": "الجامعة اللبنانية هي الجامعة الوطنية الحكومية في لبنان بكليات وفروع عديدة. تعذّر فتح موقعها (خطأ شهادة) لذلك لا تتوفر بيانات القبول والرسوم والمواعيد."
+  },
+  "keywords": [
+   "lb",
+   "beirut"
+  ],
+  "sources": [
+   "https://www.ul.edu.lb"
+  ]
+ },
+ {
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Turkish"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "verified_at": "2026-11-14",
+  "id": "istanbul-university",
+  "name": {
+   "en": "Istanbul University",
+   "ka": "სტამბოლის უნივერსიტეტი",
+   "ar": "جامعة إسطنبول"
+  },
+  "iso": "TR",
+  "city": "Istanbul",
+  "lat": 41.012,
+  "lon": 28.964,
+  "type": "public",
+  "website": "https://www.istanbul.edu.tr",
+  "fields": [
+   "medicine-health",
+   "law",
+   "humanities",
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "One of Türkiye's oldest public universities, in central Istanbul. Official international admission data could not be read in this round.",
+   "ka": "თურქეთის ერთ-ერთი უძველესი საჯარო უნივერსიტეტი სტამბოლის ცენტრში. ოფიციალური საერთაშორისო მიღების მონაცემები ამ რაუნდში ვერ წაიკითხა.",
+   "ar": "من أقدم الجامعات الحكومية في تركيا وتقع في وسط إسطنبول. لم تُقرأ بيانات القبول الدولي الرسمية في هذه الجولة."
+  },
+  "about": {
+   "en": "Istanbul University is a large public university with faculties of medicine, law, science, letters and more. Teaching is mainly in Turkish. No fee, deadline or requirement data was available from its official pages in this round.",
+   "ka": "სტამბოლის უნივერსიტეტი მსხვილი საჯარო უნივერსიტეტია მედიცინის, სამართლის, მეცნიერებისა და ლიტერატურის ფაკულტეტებით. სწავლება ძირითადად თურქულადაა. საფასურის, ვადებისა და მოთხოვნების მონაცემები ოფიციალურ გვერდებზე ამ რაუნდში ვერ მოიძებნა.",
+   "ar": "جامعة إسطنبول جامعة حكومية كبيرة فيها كليات الطب والقانون والعلوم والآداب وغيرها. التدريس بالتركية في الغالب. لم تتوفر بيانات الرسوم والمواعيد والشروط من صفحاتها الرسمية في هذه الجولة."
+  },
+  "keywords": [
+   "tr",
+   "istanbul"
+  ],
+  "sources": [
+   "https://www.istanbul.edu.tr/en"
+  ]
+ },
+ {
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Urdu"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "verified_at": "2026-11-14",
+  "id": "university-of-agriculture-faisalabad",
+  "name": {
+   "en": "University of Agriculture, Faisalabad",
+   "ka": "სოფლის მეურნეობის უნივერსიტეტი, ფაისალაბადი",
+   "ar": "جامعة الزراعة، فيصل آباد"
+  },
+  "iso": "PK",
+  "city": "Faisalabad",
+  "lat": 31.431,
+  "lon": 73.071,
+  "type": "public",
+  "website": "https://www.uaf.edu.pk",
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "Public agricultural university in Faisalabad, Punjab. Official admissions data could not be read in this round.",
+   "ka": "საჯარო აგრარული უნივერსიტეტი ფაისალაბადში, პენჯაბი. ოფიციალური მიღების მონაცემები ამ რაუნდში ვერ წაიკითხა.",
+   "ar": "جامعة زراعية حكومية في فيصل آباد بإقليم البنجاب. لم تُقرأ بيانات القبول الرسمية في هذه الجولة."
+  },
+  "about": {
+   "en": "UAF is a public university focused on agriculture, food and life sciences. Its website could not be fetched (certificate error), so no admission, fee or deadline data is given.",
+   "ka": "UAF საჯარო უნივერსიტეტია, რომელიც სოფლის მეურნეობას, საკვებსა და სიცოცხლის მეცნიერებებს ეთმობა. ვებსაიტი ვერ გაიხსნა (სერტიფიკატის შეცდომა), ამიტომ მიღების, საფასურისა და ვადების მონაცემები არ არის.",
+   "ar": "UAF جامعة حكومية متخصصة في الزراعة والأغذية وعلوم الحياة. تعذّر فتح موقعها (خطأ شهادة) لذلك لا تتوفر بيانات القبول والرسوم والمواعيد."
+  },
+  "keywords": [
+   "pk",
+   "faisalabad"
+  ],
+  "sources": [
+   "https://www.uaf.edu.pk"
+  ]
+ },
+ {
+  "platform": "Direct (apply.u-szeged.hu)",
+  "application_url": "https://apply.u-szeged.hu/",
+  "intakes": [
+   "February",
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Hungarian"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "verified_at": "2026-11-14",
+  "id": "university-of-szeged",
+  "name": {
+   "en": "University of Szeged",
+   "ka": "სეგედის უნივერსიტეტი",
+   "ar": "جامعة سيجد"
+  },
+  "iso": "HU",
+  "city": "Szeged",
+  "lat": 46.253,
+  "lon": 20.145,
+  "type": "public",
+  "website": "https://u-szeged.hu",
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "humanities",
+   "law",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "Large public research university in southern Hungary with English-taught bachelor programmes for self-financed international students.",
+   "ka": "მსხვილი საჯარო კვლევითი უნივერსიტეტი სამხრეთ უნგრეთში, ინგლისურენოვანი საბაკალავრო პროგრამებით თვითდაფინანსებადი უცხოელი სტუდენტებისთვის.",
+   "ar": "جامعة بحثية حكومية كبيرة في جنوب المجر مع برامج بكالوريوس بالإنجليزية للطلاب الدوليين على نفقتهم."
+  },
+  "about": {
+   "en": "The University of Szeged says applications are open for international self-financed programmes starting in spring 2027, via apply.u-szeged.hu. The bachelor fee table is in a PDF that could not be read here, so tuition and deadlines are not given.",
+   "ka": "სეგედის უნივერსიტეტის მიხედვით, 2027 წლის გაზაფხულზე დაწყებული საერთაშორისო თვითდაფინანსებადი პროგრამებისთვის განაცხადები ღიაა apply.u-szeged.hu-ზე. საბაკალავრო საფასურის ცხრილი PDF-შია, რომელიც ვერ წაიკითხა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "تذكر جامعة سيجد أن التقديم مفتوح للبرامج الدولية على نفقة الطالب التي تبدأ في ربيع 2027 عبر apply.u-szeged.hu. جدول رسوم البكالوريوس في ملف PDF تعذّرت قراءته، لذلك لم تُذكر الرسوم والمواعيد."
+  },
+  "keywords": [
+   "hu",
+   "szeged"
+  ],
+  "sources": [
+   "https://u-szeged.hu/english",
+   "https://u-szeged.hu/bachelors"
+  ]
+ },
+ {
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Kazakh",
+   "Russian"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "verified_at": "2026-11-14",
+  "id": "abai-kazakh-national-pedagogical-university-abai-university",
+  "name": {
+   "en": "Abai Kazakh National Pedagogical University (Abai University)",
+   "ka": "აბაის სახელობის ყაზახეთის ეროვნული პედაგოგიური უნივერსიტეტი",
+   "ar": "جامعة أباي الوطنية الكازاخية التربوية"
+  },
+  "iso": "KZ",
+  "city": "Almaty",
+  "lat": 43.238,
+  "lon": 76.945,
+  "type": "public",
+  "website": "https://www.kaznpu.kz",
+  "fields": [
+   "education",
+   "humanities",
+   "languages"
+  ],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "Public pedagogical university in Almaty, Kazakhstan. Official admissions data could not be read in this round.",
+   "ka": "საჯარო პედაგოგიური უნივერსიტეტი ალმათში, ყაზახეთი. ოფიციალური მიღების მონაცემები ამ რაუნდში ვერ წაიკითხა.",
+   "ar": "جامعة تربوية حكومية في ألماتي بكازاخستان. لم تُقرأ بيانات القبول الرسمية في هذه الجولة."
+  },
+  "about": {
+   "en": "Abai University is Kazakhstan's leading teacher-training university, now at abai.university. Its site check was rate-limited, so no admission, fee or deadline data is given.",
+   "ka": "აბაის უნივერსიტეტი ყაზახეთის წამყვანი პედაგოგიური უნივერსიტეტია, ახლა abai.university-ზე. საიტის შემოწმება შეიზღუდა, ამიტომ მიღების, საფასურისა და ვადების მონაცემები არ არის.",
+   "ar": "جامعة أباي هي الجامعة الرائدة في إعداد المعلمين في كازاخستان، وموقعها الآن abai.university. تعذّر فحص الموقع فلم تُذكر بيانات القبول والرسوم والمواعيد."
+  },
+  "keywords": [
+   "kz",
+   "almaty"
+  ],
+  "sources": [
+   "https://www.kaznpu.kz/en"
+  ]
+ },
+ {
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Azerbaijani",
+   "English",
+   "Russian"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "verified_at": "2026-11-14",
+  "id": "azerbaijan-state-university-of-economics-unec",
+  "name": {
+   "en": "Azerbaijan State University of Economics (UNEC)",
+   "ka": "აზერბაიჯანის სახელმწიფო ეკონომიკური უნივერსიტეტი (UNEC)",
+   "ar": "جامعة أذربيجان الحكومية للاقتصاد (UNEC)"
+  },
+  "iso": "AZ",
+  "city": "Baku",
+  "lat": 40.376,
+  "lon": 49.847,
+  "type": "public",
+  "website": "https://unec.edu.az",
+  "fields": [
+   "economics",
+   "business",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "Public economics and business university in Baku. Official admissions data could not be read in this round.",
+   "ka": "საჯარო ეკონომიკისა და ბიზნესის უნივერსიტეტი ბაქოში. ოფიციალური მიღების მონაცემები ამ რაუნდში ვერ წაიკითხა.",
+   "ar": "جامعة حكومية للاقتصاد والأعمال في باكو. لم تُقرأ بيانات القبول الرسمية في هذه الجولة."
+  },
+  "about": {
+   "en": "UNEC is Azerbaijan's main public university for economics and business, in Baku. Its site check was rate-limited, so no admission, fee or deadline data is given.",
+   "ka": "UNEC აზერბაიჯანის მთავარი საჯარო უნივერსიტეტია ეკონომიკასა და ბიზნესში, ბაქოში. საიტის შემოწმება შეიზღუდა, ამიტომ მიღების, საფასურისა და ვადების მონაცემები არ არის.",
+   "ar": "UNEC هي الجامعة الحكومية الرئيسية للاقتصاد والأعمال في أذربيجان وتقع في باكو. تعذّر فحص الموقع فلم تُذكر بيانات القبول والرسوم والمواعيد."
+  },
+  "keywords": [
+   "az",
+   "baku"
+  ],
+  "sources": [
+   "https://unec.edu.az/en/"
+  ]
+ },
+ {
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Mandarin",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "verified_at": "2026-11-14",
+  "id": "national-chung-hsing-university",
+  "name": {
+   "en": "National Chung Hsing University",
+   "ka": "ეროვნული ჩუნგ-სინგის უნივერსიტეტი",
+   "ar": "جامعة تشونغ هسينغ الوطنية"
+  },
+  "iso": "TW",
+  "city": "Taichung City",
+  "lat": 24.123,
+  "lon": 120.675,
+  "type": "public",
+  "website": "https://www.nchu.edu.tw",
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "Public research university in Taichung, Taiwan, strong in agriculture and life sciences. Official admissions data could not be read in this round.",
+   "ka": "საჯარო კვლევითი უნივერსიტეტი ტაიჩუნგში, ტაივანი, ძლიერია სოფლის მეურნეობასა და სიცოცხლის მეცნიერებებში. ოფიციალური მიღების მონაცემები ამ რაუნდში ვერ წაიკითხა.",
+   "ar": "جامعة بحثية حكومية في تايتشونغ بتايوان قوية في الزراعة وعلوم الحياة. لم تُقرأ بيانات القبول الرسمية في هذه الجولة."
+  },
+  "about": {
+   "en": "NCHU is a public university in Taichung. Its site check was rate-limited, so no admission, fee or deadline data is given.",
+   "ka": "NCHU საჯარო უნივერსიტეტია ტაიჩუნგში. საიტის შემოწმება შეიზღუდა, ამიტომ მიღების, საფასურისა და ვადების მონაცემები არ არის.",
+   "ar": "NCHU جامعة حكومية في تايتشونغ. تعذّر فحص الموقع فلم تُذكر بيانات القبول والرسوم والمواعيد."
+  },
+  "keywords": [
+   "tw",
+   "taichung city"
+  ],
+  "sources": [
+   "https://www.nchu.edu.tw/en/"
+  ]
+ }
+]

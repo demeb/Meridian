@@ -60,8 +60,8 @@ class Config:
     SMTP_USER = os.environ.get("MERIDIAN_SMTP_USER", "")
     SMTP_PASSWORD = os.environ.get("MERIDIAN_SMTP_PASSWORD", "")
     SMTP_STARTTLS = _bool("MERIDIAN_SMTP_STARTTLS", True)
-    MAIL_FROM = os.environ.get("MERIDIAN_MAIL_FROM", "Meridian <no-reply@meridian.ge>")
-    TEAM_INBOX = os.environ.get("MERIDIAN_TEAM_INBOX", "hello@meridian.ge")
+    MAIL_FROM = os.environ.get("MERIDIAN_MAIL_FROM", "Meridian <no-reply@meridiangoal.com>")
+    TEAM_INBOX = os.environ.get("MERIDIAN_TEAM_INBOX", "contact.meridiangoal@gmail.com")
 
     # When no SMTP server is configured the code is written to backend/outbox/
     # and returned in the API response so you can test the whole flow offline.

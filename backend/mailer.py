@@ -70,7 +70,7 @@ def _sender():
     if Config.smtp_configured() and Config.SMTP_USER and "@" in Config.SMTP_USER:
         if address.lower() != Config.SMTP_USER.lower():
             address = Config.SMTP_USER
-    return formataddr((name or "Meridian", address or "no-reply@meridian.ge"))
+    return formataddr((name or "Meridian", address or "no-reply@meridiangoal.com"))
 
 
 def _message(to_address, subject, text, title, intro, body_html, footer=None, reply_to=None):

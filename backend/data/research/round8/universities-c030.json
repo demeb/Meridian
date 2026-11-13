@@ -1,0 +1,593 @@
+[
+ {
+  "id": "university-of-nairobi",
+  "name": {
+   "en": "University of Nairobi",
+   "ka": "ნაირობის უნივერსიტეტი",
+   "ar": "جامعة نيروبي"
+  },
+  "iso": "KE",
+  "city": "Nairobi",
+  "lat": -1.279,
+  "lon": 36.817,
+  "type": "public",
+  "website": "https://www.uonbi.ac.ke",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 84000,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "law",
+   "humanities"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "kenya",
+   "nairobi",
+   "public"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-sfax",
+  "name": {
+   "en": "University of Sfax",
+   "ka": "სფაქსის უნივერსიტეტი",
+   "ar": "جامعة صفاقس"
+  },
+  "iso": "TN",
+  "city": "Sfax",
+  "lat": 34.737,
+  "lon": 10.757,
+  "type": "public",
+  "website": "https://www.uss.rnu.tn",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "tunisia",
+   "sfax",
+   "public"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-the-free-state",
+  "name": {
+   "en": "University of the Free State",
+   "ka": "თავისუფალი შტატის უნივერსიტეტი",
+   "ar": "جامعة الولاية الحرة"
+  },
+  "iso": "ZA",
+  "city": "Bloemfontein",
+  "lat": -29.109,
+  "lon": 26.185,
+  "type": "public",
+  "website": "https://www.ufs.ac.za",
+  "platform": "Direct online application (apply.ufs.ac.za)",
+  "application_url": "https://apply.ufs.ac.za/Application/Start",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "2027 undergraduate applications open online on 1 April; closing dates differ by programme (selection programmes close earlier). A UFS dates table lists international undergraduate applications, but the closing date could not be read reliably.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Afrikaans"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "International applicants need a Universities South Africa (USAf) Certificate of Exemption, assessed from Grade 11/O-level and Grade 12/AS-level results. The UFS international office can apply to USAf on your behalf.",
+   "ka": "საერთაშორისო აპლიკანტებს სჭირდებათ სამხრეთ აფრიკის უნივერსიტეტების (USAf) გათავისუფლების სერტიფიკატი, რომელიც ფასდება მე-11 კლასისა და მე-12 კლასის (AS-level) შედეგებით. UFS-ის საერთაშორისო ოფისს შეუძლია USAf-ში განაცხადის გაგზავნა თქვენი სახელით.",
+   "ar": "يحتاج المتقدمون الدوليون إلى شهادة إعفاء من اتحاد الجامعات في جنوب أفريقيا (USAf) تُقيَّم بناءً على نتائج الصف الحادي عشر ومستوى AS للصف الثاني عشر. يمكن لمكتب الشؤون الدولية في الجامعة التقدم بالطلب إلى USAf نيابة عنك."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "law",
+   "education"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A public university in Bloemfontein, South Africa, teaching mainly in English. International bachelor applicants apply online and need a USAf Certificate of Exemption; fees are in the programme price list.",
+   "ka": "სახელმწიფო უნივერსიტეტი ბლუმფონტეინში, სამხრეთ აფრიკა, სწავლება ძირითადად ინგლისურად. საერთაშორისო აპლიკანტები განაცხადს ონლაინ აგზავნიან და სჭირდებათ USAf-ის სერტიფიკატი.",
+   "ar": "جامعة حكومية في بلومفونتين بجنوب أفريقيا، التدريس فيها بالإنجليزية غالباً. يقدّم الطلاب الدوليون طلبهم عبر الإنترنت ويحتاجون إلى شهادة إعفاء من USAf."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "The 2027 prospectus names no entrance test for non-selection programmes; selection programmes have their own selection process. Admission rests on school results and the USAf exemption.",
+   "ka": "2027 წლის პროსპექტუსი არ ასახელებს მისაღებ გამოცდას არასელექციური პროგრამებისთვის; სელექციურ პროგრამებს საკუთარი შერჩევა აქვს. მიღება ეფუძნება სკოლის შედეგებსა და USAf გათავისუფლებას.",
+   "ar": "لا يذكر دليل 2027 اختباراً للقبول للبرامج غير الانتقائية؛ وللبرامج الانتقائية عملية اختيار خاصة. يعتمد القبول على نتائج المدرسة وإعفاء USAf."
+  },
+  "gpa_note": {
+   "en": "Evaluation uses Grade 11 and mid-year Grade 12 (or O-level and AS-level) results; meeting minimum requirements does not guarantee admission, and a conditional offer is re-evaluated on final results.",
+   "ka": "შეფასება ეფუძნება მე-11 და მე-12 კლასის შუა წლის (ან O/AS-level) შედეგებს; მინიმალური მოთხოვნების დაკმაყოფილება მიღებას არ გარანტირებს, პირობითი შეთავაზება საბოლოო შედეგებით გადაისინჯება.",
+   "ar": "يعتمد التقييم على نتائج الصف الحادي عشر ومنتصف الصف الثاني عشر (أو O-level وAS-level)؛ استيفاء الحد الأدنى لا يضمن القبول، ويُعاد تقييم العرض المشروط بالنتائج النهائية."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Final Grade 11 and mid-year Grade 12 results (school-stamped)",
+     "ka": "მე-11 კლასის საბოლოო და მე-12 კლასის შუა წლის შედეგები (სკოლის ბეჭდით)",
+     "ar": "نتائج الصف الحادي عشر النهائية ومنتصف الصف الثاني عشر (مختومة من المدرسة)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate (if available)",
+     "ka": "სკოლის დამამთავრებელი სერტიფიკატი (არსებობის შემთხვევაში)",
+     "ar": "شهادة إتمام الدراسة الثانوية (إن وجدت)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "USAf Certificate of Exemption (fee paid by applicant)",
+     "ka": "USAf გათავისუფლების სერტიფიკატი (საფასურს აპლიკანტი იხდის)",
+     "ar": "شهادة إعفاء USAf (يدفع الرسوم المتقدم)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Police clearance certificate from each country of residence",
+     "ka": "პოლიციის ცნობა ყოველი საცხოვრებელი ქვეყნიდან",
+     "ar": "شهادة حسن سيرة وسلوك من كل بلد إقامة"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "south africa",
+   "bloemfontein",
+   "free state"
+  ],
+  "sources": [
+   "https://www.ufs.ac.za/prospective/study-at-ufs/international-students/steps-to-apply-as-an-international-undergraduate-student",
+   "https://www.ufs.ac.za/prospective/study-at-ufs/apply/application-opening-and-closing-dates",
+   "https://www.ufs.ac.za/apply"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-the-western-cape",
+  "name": {
+   "en": "University of the Western Cape",
+   "ka": "დასავლეთ კეიპის უნივერსიტეტი",
+   "ar": "جامعة غرب كيب"
+  },
+  "iso": "ZA",
+  "city": "Cape Town",
+  "lat": -33.934,
+  "lon": 18.629,
+  "type": "public",
+  "website": "https://www.uwc.ac.za",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 24000,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "social-sciences",
+   "natural-sciences",
+   "education",
+   "law"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "south africa",
+   "cape town",
+   "bellville"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-wolverhampton",
+  "name": {
+   "en": "University of Wolverhampton",
+   "ka": "ვულვერჰემპტონის უნივერსიტეტი",
+   "ar": "جامعة ولفرهامبتون"
+  },
+  "iso": "GB",
+  "city": "Wolverhampton",
+  "lat": 52.587,
+  "lon": -2.128,
+  "type": "public",
+  "website": "https://www.wlv.ac.uk",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 23000,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "engineering",
+   "education",
+   "medicine-health"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "uk",
+   "wolverhampton",
+   "midlands"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "yokohama-city-university",
+  "name": {
+   "en": "Yokohama City University",
+   "ka": "იოკოჰამას სიტის უნივერსიტეტი",
+   "ar": "جامعة مدينة يوكوهاما"
+  },
+  "iso": "JP",
+  "city": "Yokohama City",
+  "lat": 35.333,
+  "lon": 139.634,
+  "type": "public",
+  "website": "https://www.yokohama-cu.ac.jp",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 4500,
+  "intl_pct": null,
+  "languages": [
+   "Japanese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "economics",
+   "business"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "The English site states that full-time undergraduate enrolment requires applicants to be fluent in Japanese; the programmes are offered in Japanese. Details are on the Japanese International Admissions pages.",
+   "ka": "ინგლისური საიტი აცხადებს, რომ დღის განყოფილების ბაკალავრიატში ჩასარიცხად აუცილებელია იაპონური ენის თავისუფლად ცოდნა; პროგრამები იაპონურ ენაზეა.",
+   "ar": "يذكر الموقع الإنجليزي أن القبول في البكالوريوس بدوام كامل يتطلب إتقان اللغة اليابانية؛ والبرامج تُدرَّس باليابانية."
+  },
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "japan",
+   "yokohama",
+   "public"
+  ],
+  "sources": [
+   "https://www.yokohama-cu.ac.jp/english/admissions/undergraduate/index.html"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "yuan-ze-university",
+  "name": {
+   "en": "Yuan Ze University",
+   "ka": "იუან ძეს უნივერსიტეტი",
+   "ar": "جامعة يوان زي"
+  },
+  "iso": "TW",
+  "city": "Taoyuan City",
+  "lat": 24.97,
+  "lon": 121.267,
+  "type": "private",
+  "website": "https://www.yzu.edu.tw",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 9000,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business",
+   "arts-design"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "taiwan",
+   "taoyuan",
+   "engineering"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "a-sharqiyah-university",
+  "name": {
+   "en": "A'Sharqiyah University",
+   "ka": "ა'შარქიას უნივერსიტეტი",
+   "ar": "جامعة الشرقية"
+  },
+  "iso": "OM",
+  "city": "Ibra",
+  "lat": 22.69,
+  "lon": 58.54,
+  "type": "private",
+  "website": "https://www.asu.edu.om",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 5000,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "engineering",
+   "humanities"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "oman",
+   "ibra"
+  ],
+  "sources": [
+   "https://www.asu.edu.om/admission"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "adamson-university",
+  "name": {
+   "en": "Adamson University",
+   "ka": "ადამსონის უნივერსიტეტი",
+   "ar": "جامعة آدمسون"
+  },
+  "iso": "PH",
+  "city": "Manila",
+  "lat": 14.586,
+  "lon": 120.985,
+  "type": "private",
+  "website": "https://www.adamson.edu.ph",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "business",
+   "law"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "philippines",
+   "manila",
+   "vincentian"
+  ],
+  "sources": [
+   "https://www.adamson.edu.ph/"
+  ],
+  "verified_at": "2026-11-14"
+ }
+]

@@ -22,6 +22,8 @@ import os
 import re
 import secrets
 import sys
+import threading
+import time
 from datetime import date, datetime
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -327,6 +329,9 @@ def register():
     if profile["birth_date"]:
         profile["birth_year"] = int(profile["birth_date"][:4])
 
+    if too_many("register-ip:" + client_ip(), 15, 3600):
+        return fail("rate_limited", 429)
+    hit("register-ip:" + client_ip())
     if not first or not last:
         return fail("name_required")
     if not profile["birth_date"]:
@@ -382,13 +387,45 @@ def resend():
     return jsonify(code_payload({"ok": True}, code, delivered))
 
 
+# Brute-force guard: failed logins and code requests per email and per IP,
+# kept in memory (one gunicorn worker, so one shared counter).
+_HITS = {}
+_HITS_LOCK = threading.Lock()
+
+
+def client_ip():
+    forwarded = request.headers.get("X-Forwarded-For", "")
+    return (forwarded.split(",")[0].strip() if forwarded else request.remote_addr) or "?"
+
+
+def too_many(key, limit, window=900):
+    """True once `key` was hit `limit` times in the last `window` seconds."""
+    now = time.time()
+    with _HITS_LOCK:
+        hits = [t for t in _HITS.get(key, ()) if now - t < window]
+        _HITS[key] = hits
+        if len(_HITS) > 20000:                   # forget idle keys
+            for k in [k for k, v in _HITS.items() if not v or now - v[-1] > window]:
+                _HITS.pop(k, None)
+        return len(hits) >= limit
+
+
+def hit(key):
+    with _HITS_LOCK:
+        _HITS.setdefault(key, []).append(time.time())
+
+
 @app.post("/api/auth/login")
 def login():
     data = body()
     email = clean(data.get("email"), 160).lower()
     password = str(data.get("password") or "")
+    if too_many("login:" + email, 8) or too_many("login-ip:" + client_ip(), 30):
+        return fail("rate_limited", 429)
     user = db.get_user_by_email(email)
     if not user or not db.verify_password(password, user["password_hash"]):
+        hit("login:" + email)
+        hit("login-ip:" + client_ip())
         return fail("bad_credentials", 401)
 
     if not user["verified"]:
@@ -407,6 +444,9 @@ def forgot():
     email = clean(body().get("email"), 160).lower()
     if not EMAIL_RE.match(email):
         return fail("invalid_email")
+    if too_many("forgot-ip:" + client_ip(), 12, 3600):
+        return fail("rate_limited", 429)
+    hit("forgot-ip:" + client_ip())
     payload = {"ok": True, "step": "reset", "email": email}
     user = db.get_user_by_email(email)
     if user and db.codes_sent_last_hour(user["id"], "reset") < Config.CODE_RESEND_LIMIT:
@@ -582,15 +622,48 @@ def study_text(u):
     return " ".join(parts)[:600]
 
 
+_MONTHS = {m: i + 1 for i, m in enumerate(("jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"))}
+_ROUNDS = {}
+
+
+def note_dates(note):
+    """Every date a deadline note names ("Round 2 on 15 Jan 2027", "January 15, 2027", "2027-01-15")."""
+    text = (note.get("en") if isinstance(note, dict) else note) or ""
+    if text not in _ROUNDS:
+        found = [(y, _MONTHS.get(m[:3].lower()), d) for d, m, y in
+                 re.findall(r"\b(\d{1,2})\s+([A-Za-z]{3,9})\.?,?\s+(20\d\d)", text)]
+        found += [(y, _MONTHS.get(m[:3].lower()), d) for m, d, y in
+                  re.findall(r"\b([A-Za-z]{3,9})\.?\s+(\d{1,2}),?\s+(20\d\d)", text)]
+        found += [(y, int(m), d) for y, m, d in re.findall(r"\b(20\d\d)-(\d\d)-(\d\d)\b", text)]
+        dates = set()
+        for y, m, d in found:
+            try:
+                dates.add(date(int(y), m, int(d)).isoformat())
+            except (TypeError, ValueError):
+                pass
+        _ROUNDS[text] = sorted(dates)
+    return _ROUNDS[text]
+
+
+def live_deadline(uni):
+    """The deadline still ahead: the stored one, or else the next round its note names.
+    Universities with several rounds (IE University: 6 Nov, then 15 Jan, then 5 Mar)
+    keep showing the next round after the first one passes."""
+    today = date.today().isoformat()
+    if uni.get("deadline") and str(uni["deadline"])[:10] >= today:
+        return uni["deadline"]
+    return next((d for d in note_dates(uni.get("deadline_note")) if d >= today), None)
+
+
 @app.get("/api/universities")
 def api_universities():
     """The whole catalogue in one response: full profiles carry the admission
     data the filters use; basic QS entries carry just enough for a card."""
     full, rest = catalog.directory()
-    key = ("unis", id(full), len(full), id(rest), len(rest))
+    key = ("unis", id(full), len(full), id(rest), len(rest), date.today().isoformat())
     hit = _LIST_CACHE.get(key)
     if not hit:
-        cards = [dict({k: u.get(k) for k in UNI_CARD}, profile="full", logo=logo_for(u),
+        cards = [dict({k: u.get(k) for k in UNI_CARD}, profile="full", logo=logo_for(u), deadline=live_deadline(u),
                       scholarships=len(u.get("scholarships") or []), study=study_text(u)) for u in full]
         cards += [dict({k: u.get(k) for k in BASIC_CARD}, profile="basic", logo=logo_for(u))
                   for u in rest if isinstance(u.get("name"), dict)]
@@ -630,7 +703,8 @@ def api_university(uni_id):
     uni = catalog.find_university(uni_id)
     if not uni:
         return fail("not_found", 404)
-    return jsonify({"ok": True, "university": dict(uni, logo=logo_for(uni), other_tests=other_tests(uni))})
+    return jsonify({"ok": True, "university": dict(uni, logo=logo_for(uni), other_tests=other_tests(uni),
+                                                   deadline=live_deadline(uni))})
 
 
 # ---------------------------------------------------------------- research
@@ -648,7 +722,8 @@ def api_research():
             "verified": sum(1 for p in programs if p.get("verified_at") or p.get("found_by")),
             "families": len({p["family"] for p in programs}),
             "scholarships": sum(1 for p in programs if p.get("section") == "scholarship"),
-            "projects": sum(1 for p in programs if p.get("section") != "scholarship"),
+            "projects": sum(1 for p in programs if p.get("section", "project") == "project"),
+            "internships": sum(1 for p in programs if p.get("section") == "internship"),
             "universities": sum(len(part) for part in catalog.directory()),
             "tutors": sum(1 for t in tutors if t.get("user_id")),
         },
@@ -1034,6 +1109,11 @@ def require_tutor():
     return user, tutor
 
 
+# counselling services (frontend taxonomy.js `counselling`)
+COUNSELLING_SUBJECTS = {"us-admissions", "uk-admissions", "eu-admissions", "asia-admissions", "essays", "cv",
+                        "interview", "financial-aid"}
+
+
 @app.get("/api/tutor/me")
 def api_tutor_me():
     user, tutor = require_tutor()
@@ -1043,9 +1123,20 @@ def api_tutor_me():
                         "email": b.pop("email"), "phone": b.pop("phone"), "grade": b.pop("grade")}
     profile = dict(tutor)
     profile["services"] = services_for(tutor)
+    # counsellors see the universities their students chose: only students with a
+    # confirmed or completed session, and only for tutors who offer counselling
+    students = []
+    if set(tutor.get("subjects") or []) & COUNSELLING_SUBJECTS:
+        seen = set()
+        for b in bookings:
+            if b["status"] in ("confirmed", "completed") and b["user_id"] not in seen:
+                seen.add(b["user_id"])
+                students.append({"name": b["student"]["name"], "grade": b["student"]["grade"],
+                                 "universities": tracker.university_choices(b["user_id"])})
     return jsonify({
         "ok": True,
         "tutor": profile,
+        "students": students,
         "slots": db.list_slots(tutor["id"], include_closed=True),
         "bookings": bookings,
         "earnings": db.tutor_earnings(tutor["id"]),
@@ -1224,6 +1315,66 @@ def api_saved_universities_xlsx():
     return response
 
 
+@app.get("/api/saved/programs.xlsx")
+def api_saved_programs_xlsx():
+    """The student's saved projects, scholarships and internships as one Excel sheet
+    to keep or share, grouped by section and sorted by deadline."""
+    user = require_user()
+    lang = clean(request.args.get("lang"), 2) or "en"
+    base = (os.environ.get("MERIDIAN_PUBLIC_URL") or request.host_url).rstrip("/")
+
+    def t(value):
+        if isinstance(value, dict):
+            value = value.get(lang) or value.get("en") or ""
+        if isinstance(value, list):
+            return "\n".join("• " + str(v) for v in value)
+        return value or ""
+
+    sections = {"project": {"en": "Projects", "ka": "პროექტები", "ar": "المشاريع"},
+                "scholarship": {"en": "Scholarships", "ka": "სტიპენდიები", "ar": "المنح"},
+                "internship": {"en": "Internships", "ka": "სტაჟირებები", "ar": "التدريبات"}}
+    groups = {}
+    for item_id in db.list_saved(user["id"]):
+        p = catalog.find_program(item_id)
+        if not p:
+            continue
+        deadline = p.get("deadline") or ""
+        if p.get("deadline_note"):
+            deadline = (deadline + "\n" if deadline else "") + p["deadline_note"]
+        row = [
+            t(p.get("name")),
+            p.get("type") or p.get("family") or "",
+            p.get("org") or "",
+            ", ".join(x for x in [p.get("city") or "", t(p.get("country"))] if x),
+            deadline,
+            p.get("opens") or "",
+            p.get("event_dates") or "",
+            (p.get("cost") or "").replace("-", " "),
+            t(p.get("duration")),
+            t(p.get("eligibility")),
+            t(p.get("costs")) or t(p.get("stipend")),
+            ("link", p.get("url"), "Official page") if p.get("url") else "",
+            ("link", p.get("apply_url"), "Apply") if p.get("apply_url") else "",
+            ("link", base + "/programs/" + p["id"], "Meridian page"),
+        ]
+        groups.setdefault(p.get("section") or "project", []).append((p.get("deadline") or "9999", row))
+    sheet_rows = []
+    for key in ("scholarship", "internship", "project"):
+        if key not in groups:
+            continue
+        sheet_rows.append(("group", "%s (%d)" % (sections[key].get(lang) or sections[key]["en"], len(groups[key]))))
+        sheet_rows.extend(row for _, row in sorted(groups[key], key=lambda pair: pair[0]))
+    header = ["Programme", "Type", "Organiser", "City / country", "Deadline", "Applications open", "Dates",
+              "Funding", "Duration", "Who can apply", "What is covered / pay", "Official page", "Apply", "Meridian"]
+    widths = [40, 22, 26, 22, 30, 14, 22, 14, 18, 48, 40, 16, 12, 16]
+    data = xlsx.write_sheet("My programmes", header, sheet_rows, widths)
+    response = make_response(data)
+    response.headers["Content-Type"] = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    response.headers["Content-Disposition"] = 'attachment; filename="meridian-programmes.xlsx"'
+    response.headers["Cache-Control"] = "no-store"
+    return response
+
+
 @app.post("/api/engage")
 def api_engage():
     data = body()
@@ -1390,6 +1541,10 @@ def security_headers(response):
     response.headers.setdefault("X-Content-Type-Options", "nosniff")
     response.headers.setdefault("Referrer-Policy", "strict-origin-when-cross-origin")
     response.headers.setdefault("X-Frame-Options", "SAMEORIGIN")
+    response.headers.setdefault("Permissions-Policy", "camera=(), microphone=(), geolocation=(), payment=(self)")
+    response.headers.setdefault("Content-Security-Policy", "frame-ancestors 'self'; base-uri 'self'; object-src 'none'")
+    if request.is_secure or request.headers.get("X-Forwarded-Proto") == "https":
+        response.headers.setdefault("Strict-Transport-Security", "max-age=15552000; includeSubDomains")
     if request.path.startswith("/api/"):
         response.headers["Cache-Control"] = "no-store"
     return response

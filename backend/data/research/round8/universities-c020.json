@@ -1,0 +1,753 @@
+[
+ {
+  "id": "north-south-university",
+  "name": {
+   "en": "North South University",
+   "ka": "ნორთ საუთის უნივერსიტეტი",
+   "ar": "جامعة نورث ساوث"
+  },
+  "iso": "BD",
+  "city": "Dhaka",
+  "lat": 23.815,
+  "lon": 90.425,
+  "type": "private",
+  "website": "https://www.northsouth.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "bd",
+   "dhaka"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "oklahoma-state-university",
+  "name": {
+   "en": "Oklahoma State University",
+   "ka": "ოკლაჰომას შტატის უნივერსიტეტი",
+   "ar": "جامعة ولاية أوكلاهوما"
+  },
+  "iso": "US",
+  "city": "Stillwater",
+  "lat": 36.126,
+  "lon": -97.071,
+  "type": "public",
+  "website": "https://go.okstate.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 25754,
+   "currency": "USD",
+   "per": "year",
+   "note": "Out-of-state tuition and fees, 2024-25 (College Navigator). In-state is $10,234."
+  },
+  "acceptance_rate": 75,
+  "students": 27278,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": 1040,
+   "high": 1250,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "business",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee ($50)",
+     "ka": "სააპლიკაციო საფასური ($50)",
+     "ar": "رسوم التقديم (50 دولار)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "us",
+   "stillwater"
+  ],
+  "sources": [
+   "https://nces.ed.gov/collegenavigator/?id=207388"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "osaka-metropolitan-university",
+  "name": {
+   "en": "Osaka Metropolitan University",
+   "ka": "ოსაკას მეტროპოლიტენ უნივერსიტეტი",
+   "ar": "جامعة أوساكا متروبوليتان"
+  },
+  "iso": "JP",
+  "city": "Osaka",
+  "lat": 34.595,
+  "lon": 135.507,
+  "type": "public",
+  "website": "https://www.omu.ac.jp",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "jp",
+   "osaka"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "rhodes-university",
+  "name": {
+   "en": "Rhodes University",
+   "ka": "როდსის უნივერსიტეტი",
+   "ar": "جامعة رودس"
+  },
+  "iso": "ZA",
+  "city": "Grahamstown",
+  "lat": -33.312,
+  "lon": 26.521,
+  "type": "public",
+  "website": "https://www.ru.ac.za",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "natural-sciences",
+   "law"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "za",
+   "grahamstown"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universidad-de-los-andes-chile",
+  "name": {
+   "en": "Universidad de los Andes - Chile",
+   "ka": "ანდესის უნივერსიტეტი (ჩილე)",
+   "ar": "جامعة لوس أندes تشيلي"
+  },
+  "iso": "CL",
+  "city": "Santiago",
+  "lat": -33.392,
+  "lon": -70.5,
+  "type": "private",
+  "website": "https://www.uandes.cl",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "law",
+   "business"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "cl",
+   "santiago"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universidad-del-rosario",
+  "name": {
+   "en": "Universidad del Rosario",
+   "ka": "როსარიოს უნივერსიტეტი",
+   "ar": "جامعة ديل روساريو"
+  },
+  "iso": "CO",
+  "city": "Bogotá",
+  "lat": 4.601,
+  "lon": -74.073,
+  "type": "private",
+  "website": "https://www.urosario.edu.co",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "law",
+   "medicine-health",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "co",
+   "bogotá"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universidad-espiritu-santo-uees-ecuador",
+  "name": {
+   "en": "Universidad Espíritu Santo (UEES), Ecuador",
+   "ka": "სანტო სპირიტუს უნივერსიტეტი (UEES), ეკვადორი",
+   "ar": "جامعة إسبيريتو سانتو (UEES)، الإكوادور"
+  },
+  "iso": "EC",
+  "city": "Samborondón",
+  "lat": -2.141,
+  "lon": -79.866,
+  "type": "private",
+  "website": "https://uees.edu.ec",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "medicine-health",
+   "arts-design"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "ec",
+   "samborondón"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universidade-federal-de-santa-catarina",
+  "name": {
+   "en": "Universidade Federal de Santa Catarina",
+   "ka": "სანტა-კატარინას ფედერალური უნივერსიტეტი",
+   "ar": "جامعة سانتا كاتارينا الاتحادية"
+  },
+  "iso": "BR",
+  "city": "Florianópolis",
+  "lat": -27.601,
+  "lon": -48.519,
+  "type": "public",
+  "website": "https://ufsc.br",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "br",
+   "florianópolis"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "universite-paris-est-creteil-val-de-marne",
+  "name": {
+   "en": "Université Paris-Est Créteil Val de Marne",
+   "ka": "პარიზ-ესტ კრეტეი ვალ დე მარნის უნივერსიტეტი",
+   "ar": "جامعة باريس إست كريتاي فال دو مارن"
+  },
+  "iso": "FR",
+  "city": "Créteil",
+  "lat": 48.79,
+  "lon": 2.45,
+  "type": "public",
+  "website": "https://www.u-pec.fr",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "law",
+   "medicine-health",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "fr",
+   "créteil"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-beira-interior",
+  "name": {
+   "en": "University of Beira Interior",
+   "ka": "ბეირა ინტერიორის უნივერსიტეტი",
+   "ar": "جامعة بيرا إنتيريور"
+  },
+  "iso": "PT",
+  "city": "Covilhã",
+  "lat": 40.277,
+  "lon": -7.509,
+  "type": "public",
+  "website": "https://www.ubi.pt",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "pt",
+   "covilhã"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-calcutta",
+  "name": {
+   "en": "University of Calcutta",
+   "ka": "კალკუტის უნივერსიტეტი",
+   "ar": "جامعة كالكوتا"
+  },
+  "iso": "IN",
+  "city": "Kolkata",
+  "lat": 22.573,
+  "lon": 88.363,
+  "type": "public",
+  "website": "https://www.caluniv.ac.in",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "in",
+   "kolkata"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-kentucky",
+  "name": {
+   "en": "University of Kentucky",
+   "ka": "კენტუკის უნივერსიტეტი",
+   "ar": "جامعة كنتاكي"
+  },
+  "iso": "US",
+  "city": "Lexington",
+  "lat": 38.031,
+  "lon": -84.504,
+  "type": "public",
+  "website": "https://uky.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 34140,
+   "currency": "USD",
+   "per": "year",
+   "note": "Out-of-state tuition and fees, 2024-25 (College Navigator). In-state is $13,502."
+  },
+  "acceptance_rate": 93,
+  "students": 34709,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": 1070,
+   "high": 1290,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "business"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee ($50)",
+     "ka": "სააპლიკაციო საფასური ($50)",
+     "ar": "رسوم التقديم (50 دولار)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "us",
+   "lexington"
+  ],
+  "sources": [
+   "https://nces.ed.gov/collegenavigator/?id=157085"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "university-of-maribor",
+  "name": {
+   "en": "University of Maribor",
+   "ka": "მარიბორის უნივერსიტეტი",
+   "ar": "جامعة ماريبور"
+  },
+  "iso": "SI",
+  "city": "Maribor",
+  "lat": 46.559,
+  "lon": 15.638,
+  "type": "public",
+  "website": "https://www.um.si",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "economics",
+   "education"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "si",
+   "maribor"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-14"
+ }
+]

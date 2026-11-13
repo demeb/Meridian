@@ -1,0 +1,252 @@
+{
+ "programs.state.all": {
+  "en": "All states",
+  "ka": "ყველა შტატი",
+  "ar": "كل الولايات"
+ },
+ "programs.sec.internships": {
+  "en": "Internships",
+  "ka": "სტაჟირებები",
+  "ar": "التدريبات"
+ },
+ "programs.i.title": {
+  "en": "Internships around the world",
+  "ka": "სტაჟირებები მთელ მსოფლიოში",
+  "ar": "تدريبات حول العالم"
+ },
+ "programs.i.lede": {
+  "en": "Paid and unpaid internships at companies, international organisations and research labs, each checked on the organiser's own page. Filter by who can apply, pay and field.",
+  "ka": "ანაზღაურებადი და უანაზღაურო სტაჟირებები კომპანიებში, საერთაშორისო ორგანიზაციებსა და კვლევით ლაბორატორიებში — თითოეული შემოწმებულია ორგანიზატორის ოფიციალურ გვერდზე. გაფილტრე, ვის შეუძლია განაცხადის შეტანა, ანაზღაურებითა და სფეროთი.",
+  "ar": "تدريبات مدفوعة وغير مدفوعة في الشركات والمنظمات الدولية ومختبرات البحث، وكلها مُتحقَّق منها في الصفحة الرسمية للجهة المنظِّمة. صفِّ حسب من يمكنه التقديم والأجر والمجال."
+ },
+ "nav.internships": {
+  "en": "Internships",
+  "ka": "სტაჟირებები",
+  "ar": "التدريبات"
+ },
+ "nav.projects.note": {
+  "en": "Exchanges, MUN, competitions, summer schools",
+  "ka": "გაცვლითი, MUN, კონკურსები, საზაფხულო სკოლები",
+  "ar": "تبادل، نماذج الأمم المتحدة، مسابقات، مدارس صيفية"
+ },
+ "nav.scholarships.note": {
+  "en": "Funding to study abroad",
+  "ka": "დაფინანსება საზღვარგარეთ სწავლისთვის",
+  "ar": "تمويل للدراسة في الخارج"
+ },
+ "nav.internships.note": {
+  "en": "Paid work experience worldwide",
+  "ka": "ანაზღაურებადი გამოცდილება მთელ მსოფლიოში",
+  "ar": "خبرة عملية مدفوعة حول العالم"
+ },
+ "account.excelProgramsNote": {
+  "en": "Download your saved projects, scholarships and internships as an Excel file, sorted by deadline, to keep or share.",
+  "ka": "ჩამოტვირთე შენახული პროექტები, სტიპენდიები და სტაჟირებები Excel-ის ფაილად, ვადების მიხედვით დალაგებული, შესანახად ან გასაზიარებლად.",
+  "ar": "نزّل مشاريعك ومنحك وتدريباتك المحفوظة كملف Excel مرتب حسب الموعد النهائي، لتحتفظ به أو تشاركه."
+ },
+ "tutor.tab.students": {
+  "en": "Students' universities",
+  "ka": "მოსწავლეების უნივერსიტეტები",
+  "ar": "جامعات الطلاب"
+ },
+ "tutor.students.lede": {
+  "en": "Universities your counselling students are applying to or have saved, with their progress. Only students with a confirmed session appear here.",
+  "ka": "უნივერსიტეტები, სადაც შენი მოსწავლეები აბარებენ ან რომლებიც შეინახეს, მათი პროგრესით. აქ ჩანან მხოლოდ მოსწავლეები, რომლებსაც შენთან დადასტურებული სესია აქვთ.",
+  "ar": "الجامعات التي يتقدم إليها طلابك في الإرشاد أو حفظوها، مع تقدمهم. يظهر هنا فقط الطلاب الذين لديهم جلسة مؤكدة معك."
+ },
+ "tutor.students.empty": {
+  "en": "When a student books a counselling session with you, the universities they choose will appear here.",
+  "ka": "როცა მოსწავლე შენთან კონსულტაციას დაჯავშნის, მის მიერ არჩეული უნივერსიტეტები აქ გამოჩნდება.",
+  "ar": "عندما يحجز طالب جلسة إرشاد معك، ستظهر هنا الجامعات التي يختارها."
+ },
+ "tutor.students.saved": {
+  "en": "Saved",
+  "ka": "შენახული",
+  "ar": "محفوظة"
+ },
+ "tutor.students.none": {
+  "en": "No universities chosen yet.",
+  "ka": "უნივერსიტეტები ჯერ არ აურჩევია.",
+  "ar": "لم يختر جامعات بعد."
+ },
+ "cc.doc.eyebrow": {
+  "en": "Meridian AI documents",
+  "ka": "Meridian AI დოკუმენტები",
+  "ar": "مستندات Meridian AI"
+ },
+ "cc.doc.title": {
+  "en": "Make it with Meridian AI",
+  "ka": "შექმენი Meridian AI-ით",
+  "ar": "أنشئه مع Meridian AI"
+ },
+ "cc.doc.lede": {
+  "en": "Fill in what you have once. Meridian AI writes the document from your information only, and marks anything missing so you can add it.",
+  "ka": "ერთხელ შეავსე, რაც გაქვს. Meridian AI დოკუმენტს მხოლოდ შენი ინფორმაციით წერს და მონიშნავს, რაც აკლია, რომ დაამატო.",
+  "ar": "املأ ما لديك مرة واحدة. يكتب Meridian AI المستند من معلوماتك فقط، ويشير إلى ما ينقص لتضيفه."
+ },
+ "cc.doc.kind": {
+  "en": "Document",
+  "ka": "დოკუმენტი",
+  "ar": "المستند"
+ },
+ "cc.doc.f.name": {
+  "en": "Full name",
+  "ka": "სახელი და გვარი",
+  "ar": "الاسم الكامل"
+ },
+ "cc.doc.f.contact": {
+  "en": "Email / phone / city",
+  "ka": "ელფოსტა / ტელეფონი / ქალაქი",
+  "ar": "البريد / الهاتف / المدينة"
+ },
+ "cc.doc.f.education": {
+  "en": "School and grades",
+  "ka": "სკოლა და ნიშნები",
+  "ar": "المدرسة والدرجات"
+ },
+ "cc.doc.f.scores": {
+  "en": "Test scores",
+  "ka": "გამოცდების ქულები",
+  "ar": "درجات الاختبارات"
+ },
+ "cc.doc.f.activities": {
+  "en": "Activities, projects, work, volunteering",
+  "ka": "აქტივობები, პროექტები, სამსახური, მოხალისეობა",
+  "ar": "الأنشطة والمشاريع والعمل والتطوع"
+ },
+ "cc.doc.f.awards": {
+  "en": "Awards and achievements",
+  "ka": "ჯილდოები და მიღწევები",
+  "ar": "الجوائز والإنجازات"
+ },
+ "cc.doc.f.skills": {
+  "en": "Skills and languages",
+  "ka": "უნარები და ენები",
+  "ar": "المهارات واللغات"
+ },
+ "cc.doc.f.goal": {
+  "en": "What it is for (university, programme, job)",
+  "ka": "რისთვისაა (უნივერსიტეტი, პროგრამა, სამსახური)",
+  "ar": "الغرض منه (جامعة، برنامج، وظيفة)"
+ },
+ "cc.doc.f.extra": {
+  "en": "Anything else, or paste your old CV",
+  "ka": "სხვა რამე, ან ჩასვი შენი ძველი CV",
+  "ar": "أي شيء آخر، أو الصق سيرتك القديمة"
+ },
+ "cc.doc.p.name": {
+  "en": "Ana Beridze",
+  "ka": "ანა ბერიძე",
+  "ar": "آنا بيريدزه"
+ },
+ "cc.doc.p.contact": {
+  "en": "ana@email.com · Tbilisi",
+  "ka": "ana@email.com · თბილისი",
+  "ar": "ana@email.com · تبليسي"
+ },
+ "cc.doc.p.education": {
+  "en": "Public School No. 1, grade 12, GPA 9.6/10",
+  "ka": "N1 საჯარო სკოლა, მე-12 კლასი, GPA 9.6/10",
+  "ar": "المدرسة العامة رقم 1، الصف 12، المعدل 9.6/10"
+ },
+ "cc.doc.p.scores": {
+  "en": "SAT 1450, IELTS 7.5",
+  "ka": "SAT 1450, IELTS 7.5",
+  "ar": "SAT 1450، IELTS 7.5"
+ },
+ "cc.doc.p.activities": {
+  "en": "One per line: role, organisation, years, what you did and the result",
+  "ka": "თითო ხაზზე: როლი, ორგანიზაცია, წლები, რა გააკეთე და შედეგი",
+  "ar": "واحد في كل سطر: الدور، الجهة، السنوات، ما فعلته والنتيجة"
+ },
+ "cc.doc.p.awards": {
+  "en": "National olympiad bronze medal (2025)",
+  "ka": "ეროვნული ოლიმპიადის ბრინჯაოს მედალი (2025)",
+  "ar": "الميدالية البرونزية في الأولمبياد الوطني (2025)"
+ },
+ "cc.doc.p.skills": {
+  "en": "Python, public speaking; Georgian, English (C1), Russian",
+  "ka": "Python, საჯარო გამოსვლა; ქართული, ინგლისური (C1), რუსული",
+  "ar": "Python، الخطابة؛ الجورجية، الإنجليزية (C1)، الروسية"
+ },
+ "cc.doc.p.goal": {
+  "en": "BSc Economics in the Netherlands, 2027",
+  "ka": "ეკონომიკის ბაკალავრიატი ნიდერლანდებში, 2027",
+  "ar": "بكالوريوس اقتصاد في هولندا، 2027"
+ },
+ "cc.doc.p.extra": {
+  "en": "Paste text here, or upload a .txt file below",
+  "ka": "ჩასვი ტექსტი აქ ან ქვემოთ ატვირთე .txt ფაილი",
+  "ar": "الصق النص هنا أو ارفع ملف ‎.txt‎ أدناه"
+ },
+ "cc.doc.upload": {
+  "en": "Upload a .txt file",
+  "ka": ".txt ფაილის ატვირთვა",
+  "ar": "ارفع ملف ‎.txt‎"
+ },
+ "cc.doc.privacy": {
+  "en": "Your details stay in this browser for next time and are sent only to Meridian AI to write the document.",
+  "ka": "შენი მონაცემები შემდეგი ჯერისთვის ამ ბრაუზერში ინახება და მხოლოდ Meridian AI-ს ეგზავნება დოკუმენტის დასაწერად.",
+  "ar": "تبقى بياناتك في هذا المتصفح للمرة القادمة، وتُرسل فقط إلى Meridian AI لكتابة المستند."
+ },
+ "cc.doc.go": {
+  "en": "Write it with Meridian AI",
+  "ka": "დაწერე Meridian AI-ით",
+  "ar": "اكتبه مع Meridian AI"
+ },
+ "cc.doc.make": {
+  "en": "Make mine with AI",
+  "ka": "ჩემი შექმენი AI-ით",
+  "ar": "أنشئ نسختي بالذكاء الاصطناعي"
+ },
+ "cc.doc.empty": {
+  "en": "Add your education or activities first.",
+  "ka": "ჯერ დაამატე განათლება ან აქტივობები.",
+  "ar": "أضف تعليمك أو أنشطتك أولًا."
+ },
+ "cc.doc.tooBig": {
+  "en": "That file is too large. Paste the text instead.",
+  "ka": "ფაილი ძალიან დიდია. ჩასვი ტექსტი.",
+  "ar": "الملف كبير جدًا. الصق النص بدلًا منه."
+ },
+ "cc.doc.prompt": {
+  "en": "Write my {doc} from the details below. Use only these facts and mark anything missing as [add: ...].",
+  "ka": "დამიწერე {doc} ქვემოთ მოცემული მონაცემებით. გამოიყენე მხოლოდ ეს ფაქტები და რაც აკლია, მონიშნე როგორც [add: ...].",
+  "ar": "اكتب {doc} الخاصة بي من التفاصيل أدناه. استخدم هذه الحقائق فقط وضع علامة [add: ...] على أي شيء ناقص."
+ },
+ "op.rounds": {
+  "en": "Countries and deadlines",
+  "ka": "ქვეყნები და ვადები",
+  "ar": "الدول والمواعيد النهائية"
+ },
+ "op.roundsLede": {
+  "en": "Each country recruits separately. Apply through the round for the country you live in and hold citizenship of.",
+  "ka": "თითოეული ქვეყანა ცალკე არჩევს მონაწილეებს. განაცხადი შეიტანე იმ ქვეყნის რაუნდში, სადაც ცხოვრობ და რომლის მოქალაქეც ხარ.",
+  "ar": "تختار كل دولة مشاركيها بشكل منفصل. قدّم عبر جولة الدولة التي تعيش فيها وتحمل جنسيتها."
+ },
+ "op.roundTba": {
+  "en": "Next round to be announced",
+  "ka": "შემდეგი რაუნდი გამოცხადდება",
+  "ar": "سيُعلن عن الجولة القادمة"
+ },
+ "op.roundApply": {
+  "en": "Apply",
+  "ka": "განაცხადი",
+  "ar": "قدّم"
+ },
+ "programs.paid": {
+  "en": "Paid",
+  "ka": "ანაზღაურებადი",
+  "ar": "مدفوع"
+ },
+ "programs.unpaid": {
+  "en": "Unpaid",
+  "ka": "უანაზღაურო",
+  "ar": "غير مدفوع"
+ },
+ "pricing.feat.database": {
+  "en": "1,800+ projects, 570+ scholarships and 140+ internships, with deadlines",
+  "ka": "1800+ პროექტი, 570+ სტიპენდია და 140+ სტაჟირება ვადებით",
+  "ar": "أكثر من 1800 مشروع و570 منحة و140 تدريبًا مع المواعيد النهائية"
+ }
+}

@@ -1,0 +1,842 @@
+[
+ {
+  "id": "fu-jen-catholic-university",
+  "name": {
+   "en": "Fu Jen Catholic University",
+   "ka": "ფუ ჯენის კათოლიკური უნივერსიტეტი",
+   "ar": "جامعة فو جين الكاثوليكية"
+  },
+  "iso": "TW",
+  "city": "New Taipei City",
+  "lat": 25.036,
+  "lon": 121.432,
+  "type": "private",
+  "website": "https://www.fju.edu.tw",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "A private Catholic university in New Taipei City, Taiwan. Its admissions pages could not be read by the research tool, so no admissions facts are recorded.",
+   "ka": "კერძო კათოლიკური უნივერსიტეტი ახალ ტაიბეიში, ტაივანი. სამეცნიერო ინსტრუმენტით მისაღები გვერდები ვერ წაიკითხა, ამიტომ მისაღები ფაქტები არ არის ჩაწერილი.",
+   "ar": "جامعة كاثوليكية خاصة في مدينة نيو تايبيه بتايوان. تعذّرت قراءة صفحات القبول فلم تُسجَّل حقائق القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://www.fju.edu.tw"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "fujian-normal-university",
+  "name": {
+   "en": "Fujian Normal University",
+   "ka": "ფუძიენის პედაგოგიური უნივერსიტეტი",
+   "ar": "جامعة فوجيان العادية"
+  },
+  "iso": "CN",
+  "city": "Fuzhou",
+  "lat": 26.029,
+  "lon": 119.206,
+  "type": "public",
+  "website": "https://www.fjnu.edu.cn",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "A public university in Fuzhou, China, known for teacher education. Its international admissions pages were not reachable, so no admissions facts are recorded.",
+   "ka": "სახელმწიფო უნივერსიტეტი ფუჯოუში, ჩინეთი, ცნობილი მასწავლებლის მომზადებით. მისაღები გვერდები მიუწვდომელი იყო, ამიტომ მისაღები ფაქტები არ არის ჩაწერილი.",
+   "ar": "جامعة حكومية في فوتشو بالصين، معروفة بإعداد المعلمين. تعذّر الوصول إلى صفحات القبول الدولية فلم تُسجَّل حقائق القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://www.fjnu.edu.cn"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "gifu-university",
+  "name": {
+   "en": "Gifu University",
+   "ka": "გიფუს უნივერსიტეტი",
+   "ar": "جامعة غيفو"
+  },
+  "iso": "JP",
+  "city": "Gifu City",
+  "lat": 35.466,
+  "lon": 136.737,
+  "type": "public",
+  "website": "https://www.gifu-u.ac.jp",
+  "platform": null,
+  "application_url": "https://www.gifu-u.ac.jp/en/admissions/",
+  "intakes": [
+   "April"
+  ],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 535800,
+   "currency": "JPY",
+   "per": "year",
+   "note": "AY2021 figure on the university's page; plus 282,000 yen admission fee and 17,000 yen exam fee. Confirm the current amount."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Japanese"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "natural-sciences",
+   "education"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A national university in Gifu, Japan. Its English fee page lists 535,800 yen tuition and a 282,000 yen admission fee, but the page is dated AY2021.",
+   "ka": "ეროვნული უნივერსიტეტი გიფუში, იაპონია. ინგლისურენოვან გვერდზე მითითებულია სწავლის საფასური 535 800 იენი და ჩარიცხვის საფასური 282 000 იენი, თუმცა გვერდი 2021 სასწავლო წლისაა.",
+   "ar": "جامعة وطنية في غيفو باليابان. صفحة الرسوم الإنجليزية تذكر 535,800 ين رسومًا دراسية و282,000 ين رسوم قبول، لكن الصفحة تعود للعام الدراسي 2021."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "japan",
+   "gifu"
+  ],
+  "sources": [
+   "https://www.gifu-u.ac.jp/en/admissions/tuition_fees/admission_and_tuition_fees.html"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "ibn-tofail-university",
+  "name": {
+   "en": "Ibn Tofail University",
+   "ka": "იბნ თოფაილის უნივერსიტეტი",
+   "ar": "جامعة ابن طفيل"
+  },
+  "iso": "MA",
+  "city": "Kenitra",
+  "lat": 34.254,
+  "lon": -6.589,
+  "type": "public",
+  "website": "https://www.uit.ac.ma",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "A public university in Kenitra, Morocco, with about 8,570 foreign students from 61 nationalities according to its site. No fee or deadline information was found.",
+   "ka": "სახელმწიფო უნივერსიტეტი კენიტრაში, მაროკო; საიტის მიხედვით ჰყავს დაახლოებით 8 570 უცხოელი სტუდენტი 61 ეროვნებიდან. საფასურისა და ვადების ინფორმაცია ვერ მოიძებნა.",
+   "ar": "جامعة حكومية في القنيطرة بالمغرب، وفق موقعها فيها نحو 8,570 طالبًا أجنبيًا من 61 جنسية. لم تُعثر على معلومات عن الرسوم أو المواعيد."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://www.uit.ac.ma"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "istanbul-aydin-university",
+  "name": {
+   "en": "Istanbul Aydin University",
+   "ka": "სტამბოლის აიდინის უნივერსიტეტი",
+   "ar": "جامعة إسطنبول أيدن"
+  },
+  "iso": "TR",
+  "city": "Istanbul",
+  "lat": 41.0,
+  "lon": 28.8,
+  "type": "private",
+  "website": "https://www.aydin.edu.tr",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "A private university in Istanbul, Türkiye. Its website blocks automated reading, so no admissions facts are recorded.",
+   "ka": "კერძო უნივერსიტეტი სტამბოლში, თურქეთი. საიტი ავტომატურ კითხვას ბლოკავს, ამიტომ მისაღები ფაქტები არ არის ჩაწერილი.",
+   "ar": "جامعة خاصة في إسطنبول بتركيا. موقعها يمنع القراءة الآلية فلم تُسجَّل حقائق القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://www.aydin.edu.tr"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "jeju-national-university",
+  "name": {
+   "en": "Jeju National University",
+   "ka": "ჯეჯუს ეროვნული უნივერსიტეტი",
+   "ar": "جامعة جيجو الوطنية"
+  },
+  "iso": "KR",
+  "city": "Jeju City",
+  "lat": 33.456,
+  "lon": 126.561,
+  "type": "public",
+  "website": "https://www.jejunu.ac.kr",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "A national university in Jeju City, South Korea. Its site could not be read securely, so no admissions facts are recorded.",
+   "ka": "ეროვნული უნივერსიტეტი ჯეჯუში, სამხრეთ კორეა. საიტი უსაფრთხოდ ვერ წაიკითხა, ამიტომ მისაღები ფაქტები არ არის ჩაწერილი.",
+   "ar": "جامعة وطنية في مدينة جيجو بكوريا الجنوبية. تعذّرت قراءة موقعها بأمان فلم تُسجَّل حقائق القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://www.jejunu.ac.kr"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "kagoshima-university",
+  "name": {
+   "en": "Kagoshima University",
+   "ka": "კაგოშიმას უნივერსიტეტი",
+   "ar": "جامعة كاغوشيما"
+  },
+  "iso": "JP",
+  "city": "Kagoshima City",
+  "lat": 31.568,
+  "lon": 130.545,
+  "type": "public",
+  "website": "https://www.kagoshima-u.ac.jp",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "A national university in Kagoshima, Japan. Its English admission pages only list navigation, so no admissions facts are recorded.",
+   "ka": "ეროვნული უნივერსიტეტი კაგოშიმაში, იაპონია. ინგლისური გვერდები მხოლოდ ნავიგაციას შეიცავს, ამიტომ მისაღები ფაქტები არ არის ჩაწერილი.",
+   "ar": "جامعة وطنية في كاغوشيما باليابان. صفحات القبول الإنجليزية تضم التنقل فقط فلم تُسجَّل حقائق القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://www.kagoshima-u.ac.jp"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "kazakh-british-technical-university",
+  "name": {
+   "en": "Kazakh-British Technical University",
+   "ka": "ყაზახეთ-ბრიტანეთის ტექნიკური უნივერსიტეტი",
+   "ar": "الجامعة الكازاخية البريطانية التقنية"
+  },
+  "iso": "KZ",
+  "city": "Almaty",
+  "lat": 43.255,
+  "lon": 76.943,
+  "type": "private",
+  "website": "https://kbtu.kz",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "A technical university in Almaty, Kazakhstan. Its site failed a certificate check, so no admissions facts are recorded.",
+   "ka": "ტექნიკური უნივერსიტეტი ალმათიში, ყაზახეთი. საიტმა სერტიფიკატის შემოწმება ვერ გაიარა, ამიტომ მისაღები ფაქტები არ არის ჩაწერილი.",
+   "ar": "جامعة تقنية في ألماتي بكازاخستان. فشل موقعها في فحص الشهادة فلم تُسجَّل حقائق القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://kbtu.kz"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "kwame-nkrumah-university-of-science-and-technology",
+  "name": {
+   "en": "Kwame Nkrumah University of Science and Technology",
+   "ka": "კვამე ნკრუმას სამეცნიერო და ტექნოლოგიური უნივერსიტეტი",
+   "ar": "جامعة كوامي نكروما للعلوم والتكنولوجيا"
+  },
+  "iso": "GH",
+  "city": "Kumasi",
+  "lat": 6.673,
+  "lon": -1.567,
+  "type": "public",
+  "website": "https://www.knust.edu.gh",
+  "platform": "Direct (KNUST admissions portal, e-voucher)",
+  "application_url": "https://apps.knust.edu.gh/admissions/",
+  "intakes": [
+   "August"
+  ],
+  "deadline": null,
+  "deadline_note": "The 2026/27 regular undergraduate application was marked closed on the admissions page; no 2027/28 date was published yet.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Accepted results include WASSCE, GCE/IGCSE O and A Level, IB, Baccalaureate and American High School Grade 12. Other international high school results may need evaluation by the Ghana Tertiary Education Commission (GTEC) or another credential evaluator.",
+   "ka": "მიიღება WASSCE, GCE/IGCSE (O და A დონე), IB, ბაკალავრეატი და ამერიკული საშუალო სკოლის მე-12 კლასი. სხვა საერთაშორისო საშუალო განათლების შედეგებს შესაძლოა დასჭირდეს შეფასება განას უმაღლესი განათლების კომისიის (GTEC) ან სხვა შემფასებლის მიერ.",
+   "ar": "تُقبل نتائج WASSCE وGCE/IGCSE (المستويان O وA) والبكالوريا الدولية والبكالوريا الأمريكية للصف الثاني عشر. قد تحتاج نتائج الثانوية الدولية الأخرى إلى تقييم من هيئة التعليم العالي في غانا (GTEC) أو جهة تقييم أخرى."
+  },
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "medicine-health",
+   "business",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Architecture and Built Environment",
+    "Health Sciences",
+    "Business",
+    "Agriculture"
+   ],
+   "ka": [
+    "საინჟინრო მეცნიერებები",
+    "არქიტექტურა და ნაგებობათა გარემო",
+    "ჯანდაცვის მეცნიერებები",
+    "ბიზნესი",
+    "სოფლის მეურნეობა"
+   ],
+   "ar": [
+    "الهندسة",
+    "العمارة والبيئة المبنية",
+    "علوم الصحة",
+    "الأعمال",
+    "الزراعة"
+   ]
+  },
+  "summary": {
+   "en": "A large public science and technology university in Kumasi, Ghana. International bachelor applicants apply online with an e-voucher and pay a US$100 processing fee.",
+   "ka": "განის ქალაქ კუმასიში მდებარე დიდი სახელმწიფო სამეცნიერო-ტექნოლოგიური უნივერსიტეტი. უცხოელი ბაკალავრიატის აპლიკანტები მიმართავენ ონლაინ ელექტრონული ვაუჩერით და იხდიან 100 აშშ დოლარის სააპლიკაციო საფასურს.",
+   "ar": "جامعة حكومية كبيرة للعلوم والتكنولوجيا في كوماسي بغانا. يقدّم المتقدمون الدوليون للبكالوريوس طلبهم عبر الإنترنت بقسيمة إلكترونية ويدفعون رسوم معالجة قدرها 100 دولار أمريكي."
+  },
+  "about": {
+   "en": "KNUST is a public university in Kumasi, Ghana, with colleges of engineering, health sciences, science, art and built environment, agriculture, humanities and business. Most bachelor programmes last four years and are taught in English. International applicants apply through the online portal with an e-voucher and upload results, a birth certificate and a passport. Tuition for international students is not stated on the pages read.",
+   "ka": "KNUST განის ქალაქ კუმასიში მდებარე სახელმწიფო უნივერსიტეტია, რომელსაც აქვს საინჟინრო, ჯანდაცვის, საბუნებისმეტყველო, ხელოვნებისა და ნაგებობათა გარემოს, სოფლის მეურნეობის, ჰუმანიტარული და ბიზნესის კოლეჯები. ბაკალავრიატის უმეტესი პროგრამა ოთხი წელი გრძელდება და ინგლისურად ისწავლება. უცხოელი აპლიკანტები მიმართავენ ონლაინ პორტალით ელექტრონული ვაუჩერით და ტვირთავენ შედეგებს, დაბადების მოწმობას და პასპორტს. უცხოელთა სწავლის საფასური წაკითხულ გვერდებზე მითითებული არ არის.",
+   "ar": "جامعة كوامي نكروما حكومية في كوماسي بغانا وفيها كليات للهندسة وعلوم الصحة والعلوم والفنون والبيئة المبنية والزراعة والعلوم الإنسانية والأعمال. معظم برامج البكالوريوس مدتها أربع سنوات وتُدرَّس بالإنجليزية. يتقدم الدوليون عبر البوابة الإلكترونية بقسيمة إلكترونية ويرفعون النتائج وشهادة الميلاد وجواز السفر. لم تُذكر الرسوم الدراسية للدوليين في الصفحات التي قُرئت."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "No entrance exam is stated for international applicants. Applicants from non-English-speaking countries must provide at least one year of English proficiency certification.",
+   "ka": "უცხოელი აპლიკანტებისთვის შესასვლელი გამოცდა მითითებული არ არის. არაინგლისურენოვანი ქვეყნებიდან მოსულებმა უნდა წარადგინონ ინგლისური ენის ცოდნის სულ მცირე ერთწლიანი სერტიფიკატი.",
+   "ar": "لا يُذكر امتحان قبول للمتقدمين الدوليين. على المتقدمين من البلدان غير الناطقة بالإنجليزية تقديم شهادة إتقان للغة الإنجليزية لا تقل عن سنة واحدة."
+  },
+  "gpa_note": {
+   "en": "WASSCE applicants need credit passes in English, Mathematics and Integrated Science plus three relevant electives with aggregate 24 or better; GCE applicants need five O Level credits including English and Mathematics plus three A Level passes.",
+   "ka": "WASSCE-ის აპლიკანტებს სჭირდებათ კრედიტული შეფასებები ინგლისურში, მათემატიკასა და ინტეგრირებულ მეცნიერებაში და სამ შესაბამის არჩევით საგანში, აგრეგატით 24 ან უკეთესი; GCE-ის აპლიკანტებს — ხუთი O დონის კრედიტი (ინგლისური და მათემატიკა ჩათვლით) და სამი A დონის ჩაბარებული საგანი.",
+   "ar": "يحتاج متقدمو WASSCE إلى نجاح بتقدير ائتماني في الإنجليزية والرياضيات والعلوم المتكاملة وثلاث مواد اختيارية ذات صلة بمجموع 24 أو أفضل؛ ويحتاج متقدمو GCE إلى خمس مواد ائتمانية في المستوى O تشمل الإنجليزية والرياضيات وثلاث مواد ناجحة في المستوى A."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Examination results and certificates",
+     "ka": "გამოცდის შედეგები და სერტიფიკატები",
+     "ar": "نتائج الامتحانات والشهادات"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport (PDF)",
+     "ka": "პასპორტი (PDF)",
+     "ar": "جواز السفر (PDF)"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport photograph with light green background",
+     "ka": "პასპორტის ზომის ფოტო ღია მწვანე ფონზე",
+     "ar": "صورة شخصية بخلفية خضراء فاتحة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency certificate (one year minimum)",
+     "ka": "ინგლისურის ცოდნის სერტიფიკატი (მინიმუმ ერთი წელი)",
+     "ar": "شهادة إتقان اللغة الإنجليزية (سنة على الأقل)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Non-refundable processing fee of US$100",
+     "ka": "დაუბრუნებელი სააპლიკაციო საფასური 100 აშშ დოლარი",
+     "ar": "رسوم معالجة غير مستردة قدرها 100 دولار أمريكي"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Credential evaluation (GTEC) for some international certificates",
+     "ka": "სერტიფიკატის შეფასება (GTEC) ზოგიერთი საერთაშორისო სერტიფიკატისთვის",
+     "ar": "تقييم الشهادة (GTEC) لبعض الشهادات الدولية"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "ghana",
+   "kumasi",
+   "engineering",
+   "knust"
+  ],
+  "sources": [
+   "https://webapps.knust.edu.gh/check/forms/Admission_Requirement.pdf",
+   "https://www.knust.edu.gh/admissions/prospective/applying",
+   "https://www.knust.edu.gh/students/international"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "kyrgyz-national-university",
+  "name": {
+   "en": "Kyrgyz National University",
+   "ka": "ყირგიზეთის ეროვნული უნივერსიტეტი",
+   "ar": "الجامعة الوطنية القرغيزية"
+  },
+  "iso": "KG",
+  "city": "Bishkek",
+  "lat": 42.874,
+  "lon": 74.607,
+  "type": "public",
+  "website": "https://www.knu.kg",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "A public university in Bishkek, Kyrgyzstan. No international admissions facts could be read from its site.",
+   "ka": "სახელმწიფო უნივერსიტეტი ბიშკეკში, ყირგიზეთი. საიტიდან უცხოელთა მისაღები ფაქტები ვერ წაიკითხა.",
+   "ar": "جامعة حكومية في بيشكك بقرغيزستان. تعذّرت قراءة حقائق القبول الدولية من موقعها."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://www.knu.kg"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "lobachevsky-university",
+  "name": {
+   "en": "Lobachevsky University",
+   "ka": "ლობაჩევსკის უნივერსიტეტი",
+   "ar": "جامعة لوباتشيفسكي"
+  },
+  "iso": "RU",
+  "city": "Nizhny Novgorod",
+  "lat": 56.299,
+  "lon": 43.983,
+  "type": "public",
+  "website": "https://www.unn.ru",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "A public research university in Nizhny Novgorod, Russia. Its site redirected in a loop, so no admissions facts are recorded.",
+   "ka": "სახელმწიფო სამეცნიერო უნივერსიტეტი ნიჟნი ნოვგოროდში, რუსეთი. საიტი ციკლურად გადამისამართდა, ამიტომ მისაღები ფაქტები არ არის ჩაწერილი.",
+   "ar": "جامعة بحثية حكومية في نيجني نوفغورود بروسيا. أعاد موقعها التوجيه في حلقة فلم تُسجَّل حقائق القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://www.unn.ru"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "lviv-polytechnic-national-university",
+  "name": {
+   "en": "Lviv Polytechnic National University",
+   "ka": "ლვივის პოლიტექნიკური ეროვნული უნივერსიტეტი",
+   "ar": "جامعة لفيف البوليتكنيك الوطنية"
+  },
+  "iso": "UA",
+  "city": "Lviv",
+  "lat": 49.836,
+  "lon": 24.014,
+  "type": "public",
+  "website": "https://lpnu.ua",
+  "platform": null,
+  "application_url": "https://lpnu.ua/en/department-foreign-students",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Ukrainian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Interview (foreign language, physics, mathematics)"
+  ],
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "A public technical university in Lviv, Ukraine. Foreign applicants may enter a preparatory department (8-9 months) or, for English-taught programmes, be admitted by interview in a foreign language, physics and mathematics.",
+   "ka": "სახელმწიფო ტექნიკური უნივერსიტეტი ლვივში, უკრაინა. უცხოელ აპლიკანტებს შეუძლიათ ჩაირიცხონ მოსამზადებელ განყოფილებაში (8-9 თვე) ან ინგლისურენოვან პროგრამებზე გასაუბრებით (უცხო ენა, ფიზიკა, მათემატიკა).",
+   "ar": "جامعة تقنية حكومية في لفيف بأوكرانيا. يمكن للمتقدمين الأجانب الالتحاق بقسم تحضيري (8-9 أشهر) أو القبول في البرامج الإنجليزية بمقابلة في لغة أجنبية والفيزياء والرياضيات."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "ukraine",
+   "lviv"
+  ],
+  "sources": [
+   "https://lpnu.ua/en/vstupnyku",
+   "https://lpnu.ua/en/department-foreign-students"
+  ],
+  "verified_at": "2026-11-14"
+ },
+ {
+  "id": "nagoya-institute-of-technology-nit",
+  "name": {
+   "en": "Nagoya Institute of Technology (NIT)",
+   "ka": "ნაგოიას ტექნოლოგიური ინსტიტუტი",
+   "ar": "معهد ناغويا للتكنولوجيا"
+  },
+  "iso": "JP",
+  "city": "Nagoya",
+  "lat": 35.157,
+  "lon": 136.926,
+  "type": "public",
+  "website": "https://www.nitech.ac.jp",
+  "platform": null,
+  "application_url": "https://www.nitech.ac.jp/eng/admissions/programs/index.html",
+  "intakes": [
+   "April"
+  ],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 642960,
+   "currency": "JPY",
+   "per": "year",
+   "note": "For students admitted in FY2026 or later; plus 282,000 yen admission fee and 17,000 yen exam fee. FY2025 entrants pay 535,800 yen."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Japanese"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Information Science",
+    "Materials Science"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "საინფორმაციო მეცნიერება",
+    "მასალათმცოდნეობა"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم المعلومات",
+    "علم المواد"
+   ]
+  },
+  "summary": {
+   "en": "A national engineering university in Nagoya, Japan. The 2026 entry fees are published: 642,960 yen a year tuition plus a 282,000 yen admission fee.",
+   "ka": "ეროვნული საინჟინრო უნივერსიტეტი ნაგოიაში, იაპონია. 2026 წლის შემოსვლის საფასურები გამოქვეყნებულია: წლიური სწავლა 642 960 იენი და 282 000 იენი ჩარიცხვის საფასური.",
+   "ar": "جامعة هندسية وطنية في ناغويا باليابان. رسوم الالتحاق لعام 2026 منشورة: 642,960 ين سنويًا رسومًا دراسية إضافة إلى 282,000 ين رسوم قبول."
+  },
+  "about": {
+   "en": "NITech is a national university of engineering in Nagoya. It runs an undergraduate programme for international students leading to a bachelor's degree. Study lasts four years from April. Applications are made through an online registration site. The university does not accept applicants whose only aim is to study Japanese.",
+   "ka": "NITech ნაგოიას ეროვნული საინჟინრო უნივერსიტეტია. მას აქვს ბაკალავრის პროგრამა უცხოელი სტუდენტებისთვის, რომელიც ოთხი წელი გრძელდება და აპრილში იწყება. განაცხადი ონლაინ რეგისტრაციის საიტით ივსება. უნივერსიტეტი არ იღებს აპლიკანტებს, რომელთა ერთადერთი მიზანი იაპონური ენის შესწავლაა.",
+   "ar": "معهد ناغويا للتكنولوجيا جامعة هندسية وطنية في ناغويا. لديه برنامج بكالوريوس للطلاب الدوليين مدته أربع سنوات ويبدأ في أبريل. يُقدَّم الطلب عبر موقع تسجيل إلكتروني. لا تقبل الجامعة المتقدمين الذين هدفهم الوحيد دراسة اللغة اليابانية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Exam fee 17,000 yen",
+     "ka": "გამოცდის საფასური 17 000 იენი",
+     "ar": "رسوم الامتحان 17,000 ين"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Declaration of applicable specific categories (export control)",
+     "ka": "კონკრეტული კატეგორიების დეკლარაცია (ექსპორტის კონტროლი)",
+     "ar": "إعلان الفئات المحددة (ضوابط التصدير)"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "japan",
+   "nagoya",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.nitech.ac.jp/eng/admissions/programs/index.html",
+   "https://www.nitech.ac.jp/int/information/expense.html"
+  ],
+  "verified_at": "2026-11-14"
+ }
+]

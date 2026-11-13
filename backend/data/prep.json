@@ -2213,6 +2213,130 @@
    }
   },
   {
+   "id": "ompt",
+   "name": "OMPT (Online Mathematics Placement Test)",
+   "by": "OMPT (Paragin), proctored online by ProctorU",
+   "group": "admissions",
+   "what": {
+    "en": "An online maths admissions test you take at home under webcam supervision. Universities in Finland, Lithuania and other European countries use it when your school maths grade does not meet their requirement, for example LUT University (60% pass mark) and Kaunas University of Technology, Vilnius University and Häme UAS, which the organiser lists as users.",
+    "ka": "ონლაინ მათემატიკის მისაღები ტესტი, რომელსაც სახლიდან აბარებ ვებკამერით ზედამხედველობის ქვეშ. მას იყენებენ ფინეთის, ლიტვისა და სხვა ევროპული ქვეყნების უნივერსიტეტები, როცა სკოლის მათემატიკის ნიშანი მათ მოთხოვნას ვერ აკმაყოფილებს — მაგალითად LUT University (გამსვლელი ზღვარი 60%), ასევე Kaunas University of Technology, Vilnius University და Häme UAS, რომლებიც ორგანიზატორის სიაშია.",
+    "ar": "اختبار قبول في الرياضيات عبر الإنترنت تؤديه من المنزل تحت مراقبة بكاميرا الويب. تستخدمه جامعات في فنلندا وليتوانيا ودول أوروبية أخرى عندما لا تستوفي درجة الرياضيات المدرسية شرطها، مثل LUT University (حد النجاح 60%)، وكذلك Kaunas University of Technology وVilnius University وHäme UAS المدرجة في قائمة الجهة المنظِّمة."
+   },
+   "format": {
+    "en": "Several versions; universities say which one they accept. OMPT-B: 64 questions in 150 minutes. OMPT-D: 20 questions in 180 minutes. Topics include algebra, equations, functions, exponentials and logarithms, differentiation, integration, trigonometry and geometry. Only the built-in digital calculator is allowed, plus up to 3 sheets of scratch paper and pencils. No breaks.",
+    "ka": "რამდენიმე ვერსია არსებობს; უნივერსიტეტი გეტყვის, რომელს იღებს. OMPT-B: 64 კითხვა 150 წუთში. OMPT-D: 20 კითხვა 180 წუთში. თემებია ალგებრა, განტოლებები, ფუნქციები, ხარისხები და ლოგარითმები, წარმოებული, ინტეგრალი, ტრიგონომეტრია და გეომეტრია. დასაშვებია მხოლოდ ჩაშენებული ციფრული კალკულატორი, 3-მდე შავი ფურცელი და ფანქარი. შესვენება არ არის.",
+    "ar": "توجد عدة نسخ، وتحدد الجامعة النسخة التي تقبلها. OMPT-B: ‏64 سؤالًا في 150 دقيقة. OMPT-D: ‏20 سؤالًا في 180 دقيقة. تشمل المواضيع الجبر والمعادلات والدوال والأسس واللوغاريتمات والتفاضل والتكامل وحساب المثلثات والهندسة. يُسمح فقط بالآلة الحاسبة الرقمية المدمجة، وبما يصل إلى 3 أوراق مسودة وأقلام رصاص. لا توجد استراحات."
+   },
+   "dates": {
+    "en": "No fixed dates: you book any day and time, at least 72 hours ahead. Results arrive by email within 8 business days (4 with fast grading). Check your university's application deadline and leave time for a second attempt.",
+    "ka": "ფიქსირებული თარიღები არ არის: ჯავშნი ნებისმიერ დღესა და დროს, მინიმუმ 72 საათით ადრე. შედეგი ელფოსტით 8 სამუშაო დღეში მოდის (სწრაფი შეფასებით — 4 დღეში). გადაამოწმე შენი უნივერსიტეტის ვადა და დატოვე დრო მეორე მცდელობისთვის.",
+    "ar": "لا توجد مواعيد ثابتة: تحجز أي يوم ووقت قبل 72 ساعة على الأقل. تصل النتيجة بالبريد الإلكتروني خلال 8 أيام عمل (4 أيام مع التصحيح السريع). تحقّق من الموعد النهائي لجامعتك واترك وقتًا لمحاولة ثانية."
+   },
+   "cost": {
+    "en": "One attempt: €240 (OMPT-B) or €270 (OMPT-D). Optional practice material €95 and mock tests €90–110. Rescheduling or cancelling costs €50.",
+    "ka": "ერთი მცდელობა: €240 (OMPT-B) ან €270 (OMPT-D). არასავალდებულო სავარჯიშო მასალა €95, საცდელი ტესტი €90–110. გადატანა ან გაუქმება €50 ღირს.",
+    "ar": "المحاولة الواحدة: 240 يورو (OMPT-B) أو 270 يورو (OMPT-D). مواد التدريب الاختيارية 95 يورو والاختبارات التجريبية 90–110 يورو. تكلفة إعادة الجدولة أو الإلغاء 50 يورو."
+   },
+   "register_url": "https://app.omptest.org/ompt/",
+   "resources": [
+    {
+     "title": {
+      "en": "OMPT (official site)",
+      "ka": "OMPT (ოფიციალური საიტი)",
+      "ar": "OMPT (الموقع الرسمي)"
+     },
+     "kind": "official",
+     "provider": "OMPT",
+     "url": "https://www.omptest.org/",
+     "free": true,
+     "note": {
+      "en": "Test versions, universities that accept it, booking and results.",
+      "ka": "ტესტის ვერსიები, უნივერსიტეტები, რომლებიც მას იღებენ, ჯავშანი და შედეგები.",
+      "ar": "نسخ الاختبار والجامعات التي تقبله والحجز والنتائج."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "OMPT-D syllabus",
+      "ka": "OMPT-D-ის პროგრამა",
+      "ar": "منهج OMPT-D"
+     },
+     "kind": "official",
+     "provider": "OMPT",
+     "url": "https://www.omptest.org/tests/ompt-d/syllabus",
+     "free": true,
+     "note": {
+      "en": "Every topic on the test (242 topics, about 120 hours of study recommended).",
+      "ka": "ტესტის ყველა თემა (242 თემა, რეკომენდებულია დაახლოებით 120 საათი მომზადება).",
+      "ar": "كل مواضيع الاختبار (242 موضوعًا، ويُنصح بنحو 120 ساعة دراسة)."
+     },
+     "section": "Math"
+    },
+    {
+     "title": {
+      "en": "Test-day rules",
+      "ka": "გამოცდის დღის წესები",
+      "ar": "قواعد يوم الاختبار"
+     },
+     "kind": "official",
+     "provider": "OMPT",
+     "url": "https://www.omptest.org/rules",
+     "free": true,
+     "note": {
+      "en": "Computer, webcam, room, ID and calculator rules for the proctored test.",
+      "ka": "კომპიუტერის, ვებკამერის, ოთახის, პირადობის მოწმობისა და კალკულატორის წესები.",
+      "ar": "قواعد الحاسوب والكاميرا والغرفة والهوية والآلة الحاسبة للاختبار المراقَب."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "LUT University: applying with OMPT",
+      "ka": "LUT University: განაცხადი OMPT-ით",
+      "ar": "LUT University: التقديم باستخدام OMPT"
+     },
+     "kind": "official",
+     "provider": "LUT University",
+     "url": "https://www.lut.fi/en/studies/apply-lut/applying-bachelors-programmes/rolling-admission-bachelors-studies/admission-criteria-technology-bachelors-programmes-rolling-admission",
+     "free": true,
+     "note": {
+      "en": "60% pass mark, OMPT-B or OMPT-D, at most two attempts.",
+      "ka": "გამსვლელი ზღვარი 60%, OMPT-B ან OMPT-D, მაქსიმუმ ორი მცდელობა.",
+      "ar": "حد النجاح 60%، ‏OMPT-B أو OMPT-D، بحد أقصى محاولتان."
+     },
+     "section": "All"
+    }
+   ],
+   "who": {
+    "en": "Bachelor's applicants, mostly for engineering, technology and business, whose school maths grade is too low or who did not take advanced maths, at universities that list OMPT.",
+    "ka": "ბაკალავრიატის აპლიკანტები, ძირითადად ინჟინერიის, ტექნოლოგიებისა და ბიზნესის მიმართულებით, ვისაც სკოლის მათემატიკის ნიშანი არ ჰყოფნის ან მაღალი დონის მათემატიკა არ ჰქონია — იმ უნივერსიტეტებში, რომლებიც OMPT-ს იღებენ.",
+    "ar": "المتقدمون لمرحلة البكالوريوس، غالبًا في الهندسة والتكنولوجيا والأعمال، ممن لا تكفي درجتهم المدرسية في الرياضيات أو لم يدرسوا الرياضيات المتقدمة، في الجامعات التي تقبل OMPT."
+   },
+   "scores": {
+    "en": "Results are a percentage. LUT University requires at least 60% and allows two attempts; other universities set their own pass mark and number of attempts.",
+    "ka": "შედეგი პროცენტებშია. LUT University მოითხოვს მინიმუმ 60%-ს და ორ მცდელობას უშვებს; სხვა უნივერსიტეტები საკუთარ ზღვარსა და მცდელობების რაოდენობას ადგენენ.",
+    "ar": "تُعطى النتيجة كنسبة مئوية. تشترط LUT University ‏60% على الأقل وتسمح بمحاولتين؛ وتحدد الجامعات الأخرى حد النجاح وعدد المحاولات الخاص بها."
+   },
+   "tips": {
+    "en": [
+     "Check which version (OMPT-B or OMPT-D) your programme accepts before you buy an attempt.",
+     "Practise without your own calculator: only the on-screen one is allowed.",
+     "Do a full timed mock at home first, with the same webcam, room and ID you will use on test day."
+    ],
+    "ka": [
+     "სანამ მცდელობას იყიდი, გადაამოწმე, რომელ ვერსიას (OMPT-B თუ OMPT-D) იღებს შენი პროგრამა.",
+     "ივარჯიშე საკუთარი კალკულატორის გარეშე: დასაშვებია მხოლოდ ეკრანზე არსებული.",
+     "ჯერ სახლში გაიარე სრული საცდელი ტესტი დროით, იმავე ვებკამერით, ოთახითა და დოკუმენტით, რასაც გამოცდის დღეს გამოიყენებ."
+    ],
+    "ar": [
+     "تحقّق من النسخة التي يقبلها برنامجك (OMPT-B أو OMPT-D) قبل شراء محاولة.",
+     "تدرّب دون آلتك الحاسبة: يُسمح فقط بالآلة الظاهرة على الشاشة.",
+     "أدِّ اختبارًا تجريبيًا كاملًا بتوقيت حقيقي في المنزل أولًا، بالكاميرا والغرفة والهوية نفسها التي ستستخدمها يوم الاختبار."
+    ]
+   }
+  },
+  {
    "id": "ielts",
    "name": "IELTS Academic",
    "by": "British Council, IDP and Cambridge University Press & Assessment",

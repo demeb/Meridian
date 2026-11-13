@@ -1,3 +1,38 @@
+# 1 Nov Website — overnight checklist (14 Nov 2026)
+
+Legend: [ ] open · [x] done and verified · [~] partly done · [!] blocked (reason)
+Stop rule from the user: weekly usage must not go over 50%.
+
+## A. Research (agents, round 8)
+- [~] Universities: the last 518 basic pages → full profiles (40 batches + 25 US from College Navigator). Web search budget (200/turn, shared) ran out in the first minutes; most remaining sites block automated reading — see research/round8/THIN.txt
+- [~] Internships: new section (third tab on Programmes + menu) with verified internships; short of 200 because company careers pages are JavaScript-only and search was used up
+- [~] More scholarships: grantradar.ge had no concrete leads beyond ones already listed; a few new ones verified
+- [x] More exchange programmes (21 verified) ; FLEX is one entry with a per-country rounds table
+- [x] Translate new records (ka/ar) and merge — every programme and university has Georgian and Arabic
+
+## B. 1 Nov doc
+- [x] Globe: zooms to the chosen country; US state borders; State filter with counts; chosen state raised
+- [x] Globe pins drawn above the top menu when scrolling (globe is its own layer now)
+- [x] Hovering a big country freezes the page (raised shape uses a light outline: Canada 11,573 → ~2,000 points)
+- [x] Tracker: collapsible cards (one line with stage and progress; remembered per browser)
+- [x] FAQ: pay answer matches the plans; research and apply answers corrected; contact question added
+- [x] Leadership: Instagram removed; LinkedIn + Gmail; key-point bios from the doc
+- [x] Counselling: "Make my CV with AI" form (CV, Europass, activities list, letters, brag sheet) in tools and in the CV/letter courses
+- [x] Prep: OMPT (omptest.org) added from the official pages
+- [x] Counsellors see their booked students' universities (new tab on the tutor dashboard)
+- [x] Excel export for saved programmes
+- [x] Security: login / sign-up / reset rate limits, HSTS, CSP frame-ancestors, Permissions-Policy
+- [x] Programmes: Research and Olympiads chips (olympiads no longer under Competitions)
+- [x] Universities: next round shown after a deadline passes (IE University → 15 Jan 2027); rolling label
+- [x] contact.meridiangoal@gmail.com everywhere (also the team inbox for tutor applications and partner messages)
+
+## C. Finish
+- [x] Smoke test (all passed), browser check EN/KA/AR, server memory 187 MB
+- [ ] Push (waiting for the user's OK) and morning report
+
+
+---
+
 # Oct 31 Website — overnight checklist (1 Nov 2026)
 
 Legend: [ ] open · [x] done and verified · [!] blocked (reason)

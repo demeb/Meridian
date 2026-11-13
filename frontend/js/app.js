@@ -427,6 +427,12 @@
     { href: '/engage', key: 'nav.engage', note: 'nav.engage.note', ico: 'message' }
   ];
 
+  var PROGRAM_LINKS = [
+    { href: '/programs?s=projects', key: 'programs.sec.projects', note: 'nav.projects.note', ico: 'globe' },
+    { href: '/programs?s=scholarships', key: 'programs.sec.scholarships', note: 'nav.scholarships.note', ico: 'award' },
+    { href: '/programs?s=internships', key: 'programs.sec.internships', note: 'nav.internships.note', ico: 'trending' }
+  ];
+
   var MENTOR_LINKS = [
     { href: '/teachers', key: 'nav.teachers', note: 'nav.teachers.note', ico: 'users' },
     { href: '/prep', key: 'nav.prep', note: 'nav.prep.note', ico: 'book' }
@@ -454,6 +460,10 @@
       return '<a href="' + link.href + '">' + icon(link.ico, 17) +
         '<span>' + t(link.key) + '<span class="menu-note">' + t(link.note) + '</span></span></a>';
     }).join('');
+    var programItems = PROGRAM_LINKS.map(function (link) {
+      return '<a href="' + link.href + '">' + icon(link.ico, 17) +
+        '<span>' + t(link.key) + '<span class="menu-note">' + t(link.note) + '</span></span></a>';
+    }).join('');
     var mentorItems = MENTOR_LINKS.map(function (link) {
       return '<a href="' + link.href + '">' + icon(link.ico, 17) +
         '<span>' + t(link.key) + '<span class="menu-note">' + t(link.note) + '</span></span></a>';
@@ -465,7 +475,11 @@
           brandMarkup() +
           '<ul class="nav-links">' +
             '<li><a class="nav-link' + active('home') + '" href="/">' + t('nav.home') + '</a></li>' +
-            '<li><a class="nav-link' + active('programs') + '" href="/programs">' + t('nav.programs') + '</a></li>' +
+            '<li class="has-menu">' +
+              '<a class="nav-link' + active('programs') + '" href="/programs">' + t('nav.programs') +
+                '<span class="caret">' + icon('chevronDown', 14) + '</span></a>' +
+              '<div class="nav-menu">' + programItems + '</div>' +
+            '</li>' +
             '<li><a class="nav-link' + active('universities') + '" href="/universities">' + t('nav.universities') + '</a></li>' +
             '<li class="has-menu">' +
               '<a class="nav-link' + (page === 'teachers' || page === 'prep' ? ' is-active' : '') + '" href="/teachers">' + t('nav.mentorship') +
@@ -495,6 +509,7 @@
         '<div class="nav-drawer" id="navDrawer">' +
           '<a href="/">' + t('nav.home') + '</a>' +
           '<a href="/programs">' + t('nav.programs') + '</a>' +
+          '<a href="/programs?s=internships">' + t('nav.internships') + '</a>' +
           '<a href="/universities">' + t('nav.universities') + '</a>' +
           '<a href="/teachers">' + t('nav.teachers') + '</a>' +
           '<a href="/counselling">' + t('nav.counselling') + '</a>' +
@@ -579,7 +594,7 @@
   function footerMarkup() {
     var columns = [
       { title: 'footer.explore', links: [
-        ['/programs', 'nav.programs'], ['/teachers', 'nav.teachers'],
+        ['/programs', 'nav.programs'], ['/programs?s=internships', 'nav.internships'], ['/teachers', 'nav.teachers'],
         ['/pricing', 'nav.pricing'], ['/about/offerings', 'footer.database']
       ] },
       { title: 'footer.company', links: [
@@ -630,7 +645,7 @@
           '<div class="footer-wordmark" aria-hidden="true"></div>' +
           '<div class="footer-bottom">' +
             '<span>© ' + new Date().getFullYear() + ' Meridian. ' + t('footer.rights') + '</span>' +
-            '<nav><a href="mailto:hello@meridian.ge">hello@meridian.ge</a>' +
+            '<nav><a href="mailto:contact.meridiangoal@gmail.com">contact.meridiangoal@gmail.com</a>' +
             '<span>' + t('footer.built') + '</span></nav>' +
           '</div>' +
         '</div>' +
@@ -743,7 +758,7 @@
     // Meridian AI: the chat button on every page (loaded after the page itself)
     if (!document.querySelector('script[src^="/js/ai.js"]') && document.body.getAttribute('data-page') !== 'admin') {
       var ai = document.createElement('script');
-      ai.src = '/js/ai.js?v=r7';
+      ai.src = '/js/ai.js?v=r10';
       ai.defer = true;
       document.body.appendChild(ai);
     }

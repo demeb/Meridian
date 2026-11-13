@@ -11,6 +11,8 @@
 
   /* What students can work on with Meridian AI; each opens the chat with a starter */
   var TOOLS = [
+    { icon: 'file', doc: 'cv', title: { en: 'Make my CV with AI', ka: 'CV-ის შექმნა AI-ით', ar: 'أنشئ سيرتي الذاتية بالذكاء الاصطناعي' },
+      desc: { en: 'Fill in your details once: Meridian AI writes your CV, activities list or letter.', ka: 'ერთხელ შეავსე შენი მონაცემები და Meridian AI დაგიწერს CV-ს, აქტივობების სიას ან წერილს.', ar: 'املأ بياناتك مرة واحدة ليكتب Meridian AI سيرتك الذاتية أو قائمة أنشطتك أو خطابك.' } },
     { icon: 'sparkles', title: { en: 'Recommend from my CV', ka: 'რეკომენდაცია ჩემი CV-ით', ar: 'توصيات من سيرتي الذاتية' },
       desc: { en: 'Paste your CV or achievements: get universities, projects and scholarships that fit you.', ka: 'ჩასვი შენი CV ან მიღწევები და მიიღე შენზე მორგებული უნივერსიტეტები, პროექტები და სტიპენდიები.', ar: 'الصق سيرتك الذاتية أو إنجازاتك لتحصل على جامعات ومشاريع ومنح تناسبك.' },
       ask: { en: 'Recommend universities, projects and scholarships on Meridian that fit me. Here is my CV / my achievements (grade, scores, activities, awards, goals): ', ka: 'მირჩიე Meridian-ზე ჩემზე მორგებული უნივერსიტეტები, პროექტები და სტიპენდიები. აი ჩემი CV / მიღწევები (კლასი, ქულები, აქტივობები, ჯილდოები, მიზნები): ', ar: 'اقترح عليّ جامعات ومشاريع ومنحاً على Meridian تناسبني. هذه سيرتي الذاتية / إنجازاتي (الصف والدرجات والأنشطة والجوائز والأهداف): ' } },
@@ -49,10 +51,83 @@
   /* ---------------------------------------------------------- studio */
   function paintTools() {
     document.getElementById('ccTools').innerHTML = TOOLS.map(function (tool) {
-      return '<button type="button" class="cc-tool" data-ask-ai="' + M.esc(P(tool.ask)) + '">' +
+      return '<button type="button" class="cc-tool"' + (tool.doc ? ' data-doc="' + tool.doc + '"' : ' data-ask-ai="' + M.esc(P(tool.ask)) + '"') + '>' +
         '<span class="cc-tool-ico">' + M.icon(tool.icon, 20) + '</span>' +
         '<b>' + M.esc(P(tool.title)) + '</b><span>' + M.esc(P(tool.desc)) + '</span></button>';
     }).join('');
+  }
+
+  /* ---------------------------------------------------------- AI documents
+     The student fills in their details (or pastes / uploads an old CV) and
+     Meridian AI drafts the document from exactly that information. */
+  var DOCS = {
+    cv: { en: 'Student CV', ka: 'სტუდენტური CV', ar: 'سيرة ذاتية للطالب' },
+    europass: { en: 'Europass CV', ka: 'Europass CV', ar: 'سيرة Europass الذاتية' },
+    activities: { en: 'Activities list (Common App style)', ka: 'აქტივობების სია (Common App-ის სტილით)', ar: 'قائمة الأنشطة (بأسلوب Common App)' },
+    motivation: { en: 'Motivation / cover letter', ka: 'სამოტივაციო / თანმხლები წერილი', ar: 'خطاب الدافع / خطاب التقديم' },
+    brag: { en: 'Brag sheet for my recommenders', ka: 'ინფორმაცია რეკომენდატორებისთვის (brag sheet)', ar: 'ورقة إنجازات لكاتبي التوصيات' }
+  };
+  var COURSE_DOC = { cv: 'cv', europass: 'europass', 'cover-letter': 'motivation', 'recommendation-letters': 'brag',
+    'scholarship-applications': 'motivation', 'personal-statement': 'activities' };
+  var DOC_FIELDS = ['name', 'contact', 'education', 'scores', 'activities', 'awards', 'skills', 'goal', 'extra'];
+
+  function docBuilder(kind) {
+    var user = M.state.user || {};
+    var saved = {};
+    try { saved = JSON.parse(localStorage.getItem('meridian.docInfo')) || {}; } catch (e) {}
+    var value = function (k, fallback) { return M.esc(saved[k] || fallback || ''); };
+    var field = function (k, rows, fallback) {
+      return '<label class="field"><span class="field-label">' + M.t('cc.doc.f.' + k) + '</span>' +
+        (rows ? '<textarea class="textarea" rows="' + rows + '" data-doc-field="' + k + '" placeholder="' + M.esc(M.t('cc.doc.p.' + k)) + '">' + value(k, fallback) + '</textarea>'
+              : '<input class="input" data-doc-field="' + k + '" value="' + value(k, fallback) + '" placeholder="' + M.esc(M.t('cc.doc.p.' + k)) + '" />') +
+      '</label>';
+    };
+    openDialog('<div class="doc-builder">' +
+      '<span class="eyebrow">' + M.t('cc.doc.eyebrow') + '</span>' +
+      '<h2 style="font-size:var(--step-2);margin:.4rem 0 .5rem">' + M.t('cc.doc.title') + '</h2>' +
+      '<p class="muted" style="margin-bottom:1.2rem">' + M.t('cc.doc.lede') + '</p>' +
+      '<form id="docForm" class="stack" style="gap:.9rem">' +
+        '<label class="field"><span class="field-label">' + M.t('cc.doc.kind') + '</span><select class="select" id="docKind">' +
+          Object.keys(DOCS).map(function (k) { return '<option value="' + k + '"' + (k === kind ? ' selected' : '') + '>' + M.esc(P(DOCS[k])) + '</option>'; }).join('') +
+        '</select></label>' +
+        '<div class="grid grid-2" style="gap:.9rem">' +
+          field('name', 0, user.first_name ? user.first_name + ' ' + user.last_name : '') + field('contact', 0, user.email) +
+        '</div>' +
+        field('education', 2, user.school) + field('scores', 2) + field('activities', 5) + field('awards', 3) +
+        field('skills', 2) + field('goal', 2) +
+        field('extra', 4) +
+        '<label class="btn btn-ghost btn-sm" style="justify-self:start">' + M.icon('upload', 15) + M.t('cc.doc.upload') +
+          '<input type="file" hidden id="docFile" accept=".txt,.md,.text" /></label>' +
+        '<p class="dim" style="font-size:.8rem">' + M.t('cc.doc.privacy') + '</p>' +
+        '<button type="submit" class="btn btn-primary btn-lg">' + M.icon('sparkles', 17) + M.t('cc.doc.go') + '</button>' +
+      '</form></div>');
+    var form = document.getElementById('docForm');
+    document.getElementById('docFile').addEventListener('change', function (event) {
+      var file = event.target.files[0];
+      if (!file) return;
+      if (file.size > 200000) { M.toast(M.t('cc.doc.tooBig'), 'error'); return; }
+      var reader = new FileReader();
+      reader.onload = function () {
+        var box = form.querySelector('[data-doc-field="extra"]');
+        box.value = (box.value ? box.value + '\n\n' : '') + String(reader.result).slice(0, 12000);
+      };
+      reader.readAsText(file);
+    });
+    form.addEventListener('submit', function (event) {
+      event.preventDefault();
+      var info = {};
+      DOC_FIELDS.forEach(function (k) { info[k] = form.querySelector('[data-doc-field="' + k + '"]').value.trim(); });
+      if (!info.activities && !info.extra && !info.education) { M.toast(M.t('cc.doc.empty'), 'error'); return; }
+      try { localStorage.setItem('meridian.docInfo', JSON.stringify(info)); } catch (e) {}
+      var doc = document.getElementById('docKind').value;
+      var lines = DOC_FIELDS.filter(function (k) { return info[k]; }).map(function (k) {
+        return '- ' + M.t('cc.doc.f.' + k) + ': ' + info[k];
+      });
+      dialog.close();
+      if (window.MeridianAI) {
+        window.MeridianAI.open(M.t('cc.doc.prompt').replace('{doc}', P(DOCS[doc])) + '\n\n' + lines.join('\n'));
+      }
+    });
   }
 
   /* ---------------------------------------------------------- dialog */
@@ -212,6 +287,7 @@
           }).join('') + '</div>' : '') +
           '<div class="cluster" style="margin-top:1.2rem">' +
             (typeof index === 'number' && !last ? '<button type="button" class="btn btn-primary btn-sm" data-lesson="' + (index + 1) + '">' + M.t('cc.next') + M.icon('arrowRight', 15) + '</button>' : '') +
+            (COURSE_DOC[course.id] ? '<button type="button" class="btn btn-accent btn-sm" data-doc="' + COURSE_DOC[course.id] + '">' + M.icon('file', 15) + M.t('cc.doc.make') + '</button>' : '') +
             '<button type="button" class="btn btn-outline btn-sm" data-ask-ai="' + M.esc(M.t('cc.courseAi').replace('{c}', P(course.title))) + '">' + M.icon('sparkles', 15) + M.t('cc.practise') + '</button>' +
           '</div>' +
         '</article>' +
@@ -381,6 +457,11 @@
     dialog = document.getElementById('ccDialog');
     dialogBody = document.getElementById('ccDialogBody');
     dialog.addEventListener('click', function (e) { if (e.target === dialog) dialog.close(); });
+    // "Make my CV with AI" (tool card and the CV / letter courses)
+    document.addEventListener('click', function (e) {
+      var trigger = e.target.closest && e.target.closest('[data-doc]');
+      if (trigger) docBuilder(trigger.getAttribute('data-doc'));
+    });
     paintTools();
     M.api('/api/counselling').then(function (res) { data = res; paintAll(); })
       .catch(function () { M.toast(M.t('common.error'), 'error'); });
