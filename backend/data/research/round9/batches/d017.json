@@ -1,0 +1,92 @@
+[
+{
+"id": "universitas-sebelas-maret-uns",
+"name": "Universitas Sebelas Maret (UNS)",
+"iso": "ID",
+"city": "Surakarta",
+"website": "https://uns.ac.id",
+"rank_qs": 951,
+"previous_attempt": "round8/universities-c022.json"
+},
+{
+"id": "universitas-sumatera-utara",
+"name": "Universitas Sumatera Utara",
+"iso": "ID",
+"city": "Medan City",
+"website": "https://www.usu.ac.id",
+"rank_qs": 1001,
+"previous_attempt": "round8/universities-c029.json"
+},
+{
+"id": "telkom-university",
+"name": "Telkom University",
+"iso": "ID",
+"city": "Bandung",
+"website": "https://telkomuniversity.ac.id",
+"rank_qs": 1201,
+"previous_attempt": "round8/universities-c034.json"
+},
+{
+"id": "universitas-muhammadiyah-yogyakarta-umy",
+"name": "Universitas Muhammadiyah Yogyakarta (UMY)",
+"iso": "ID",
+"city": "Yogyakarta",
+"website": "https://www.umy.ac.id",
+"rank_qs": 1201,
+"previous_attempt": "round8/universities-c036.json"
+},
+{
+"id": "universitas-pendidikan-indonesia",
+"name": "Universitas Pendidikan Indonesia",
+"iso": "ID",
+"city": "Bandung",
+"website": "https://www.upi.edu",
+"rank_qs": 1401,
+"previous_attempt": "round8/universities-c040.json"
+},
+{
+"id": "universitas-trisakti-usakti",
+"name": "Universitas Trisakti (USAKTI)",
+"iso": "ID",
+"city": "Jakarta Barat,",
+"website": "https://www.trisakti.ac.id",
+"rank_qs": 1401,
+"previous_attempt": "round8/universities-c040.json"
+},
+{
+"id": "the-hebrew-university-of-jerusalem",
+"name": "The Hebrew University of Jerusalem",
+"iso": "IL",
+"city": "Jerusalem",
+"website": "https://www.huji.ac.il",
+"rank_qs": 218,
+"previous_attempt": "round8/universities-c001.json"
+},
+{
+"id": "ben-gurion-university-of-the-negev",
+"name": "Ben-Gurion University of The Negev",
+"iso": "IL",
+"city": "Be'er Sheva",
+"website": "https://www.bgu.ac.il",
+"rank_qs": 533,
+"previous_attempt": "round8/universities-c006.json"
+},
+{
+"id": "indian-institute-of-technology-roorkee-iitr",
+"name": "Indian Institute of Technology Roorkee (IITR)",
+"iso": "IN",
+"city": "Roorkee",
+"website": "https://www.iitr.ac.in",
+"rank_qs": 335,
+"previous_attempt": "round8/universities-c002.json"
+},
+{
+"id": "indian-institute-of-technology-guwahati-iitg",
+"name": "Indian Institute of Technology Guwahati (IITG)",
+"iso": "IN",
+"city": "Guwahati",
+"website": "https://www.iitg.ac.in",
+"rank_qs": 349,
+"previous_attempt": "round8/universities-c002.json"
+}
+]

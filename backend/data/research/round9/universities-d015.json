@@ -1,0 +1,1376 @@
+[
+ {
+  "id": "university-of-east-london",
+  "name": {
+   "en": "University of East London",
+   "ka": "აღმოსავლეთ ლონდონის უნივერსიტეტი",
+   "ar": "جامعة شرق لندن"
+  },
+  "iso": "GB",
+  "city": "London",
+  "lat": 51.508,
+  "lon": 0.065,
+  "type": "public",
+  "website": "https://www.uel.ac.uk",
+  "platform": "UCAS or direct application",
+  "application_url": "https://www.uel.ac.uk/study/undergraduate/applying-uel-undergraduate-student",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 15560,
+   "currency": "GBP",
+   "per": "year",
+   "note": "2025/26 fee for new full-time international students; varies by course. 5% early payment discount if paid in full before mid-September."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "IELTS",
+   "TOEFL",
+   "PTE"
+  ],
+  "fields": [
+   "business",
+   "engineering",
+   "social-sciences",
+   "arts-design"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in London, UK, teaching in English. Its website blocks automated reading, so fees and entry rules are not listed here.",
+   "ka": "დიდი ბრიტანეთის ლონდონის საჯარო უნივერსიტეტი, სწავლება ინგლისურია. ვებსაიტი ავტომატურ წაკითხვას ბლოკავს, ამიტომ საფასური და მოთხოვნები მითითებული არ არის.",
+   "ar": "جامعة عامة في لندن بالمملكة المتحدة، التدريس بالإنجليزية. يحظر موقعها القراءة الآلية، لذلك لا تُعرض الرسوم ومتطلبات القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "UEL accepts IELTS, TOEFL or PTE. The exact score is listed on each course page. The International Foundation Programme takes students from IELTS 4.5 or 5.5.",
+   "ka": "UEL იღებს IELTS-ს, TOEFL-სა და PTE-ს. ზუსტი ქულა მითითებულია თითოეული პროგრამის გვერდზე. საერთაშორისო სამზადისო პროგრამაზე ჩაირიცხებიან IELTS 4.5 ან 5.5-ით.",
+   "ar": "تقبل الجامعة IELTS وTOEFL وPTE. الدرجة المطلوبة مذكورة في صفحة كل برنامج. يُقبل في البرنامج التأسيسي الدولي من يحمل IELTS بدرجة 4.5 أو 5.5."
+  },
+  "gpa_note": {
+   "en": "Entry requirements are set course by course and are listed on each UEL course page. A foundation programme is available for applicants who do not meet them.",
+   "ka": "მისაღები მოთხოვნები თითოეული პროგრამისთვის ცალკეა დადგენილი და მითითებულია UEL-ის პროგრამის გვერდზე. მოთხოვნების დაუკმაყოფილებლობისას შესაძლებელია სამზადისო პროგრამა.",
+   "ar": "شروط القبول تُحدَّد لكل برنامج وتُذكر في صفحة البرنامج في UEL. يتوفر برنامج تأسيسي لمن لا يستوفي الشروط."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "uk",
+   "london",
+   "east london"
+  ],
+  "sources": [
+   "https://www.uel.ac.uk/study/fees-funding/international-fees-funding",
+   "https://www.uel.ac.uk/study/undergraduate/applying-uel-undergraduate-student",
+   "https://www.uel.ac.uk/international/regions/middle-east-north-africa"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-wolverhampton",
+  "name": {
+   "en": "University of Wolverhampton",
+   "ka": "ვულვერჰემპტონის უნივერსიტეტი",
+   "ar": "جامعة ولفرهامبتون"
+  },
+  "iso": "GB",
+  "city": "Wolverhampton",
+  "lat": 52.587,
+  "lon": -2.128,
+  "type": "public",
+  "website": "https://www.wlv.ac.uk",
+  "platform": "UCAS",
+  "application_url": "https://wlv.ac.uk/international/international-faqs",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 14950,
+   "currency": "GBP",
+   "per": "year",
+   "note": "2024/25 fee for non-laboratory courses (£15,450 for lab-based science and engineering). Check the current fee page for 2026/27."
+  },
+  "acceptance_rate": null,
+  "students": 23000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "engineering",
+   "education",
+   "medicine-health"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Standard undergraduate entry needs IELTS 6.0 with at least 5.5 in each skill, or an equivalent test. Some courses ask for more.",
+   "ka": "სტანდარტული საბაკალავრო მისაღებად საჭიროა IELTS 6.0, თითოეულ უნარში მინიმუმ 5.5, ან ექვივალენტური ტესტი. ზოგ პროგრამას მეტი სჭირდება.",
+   "ar": "يتطلب القبول الجامعي المعتاد IELTS بدرجة 6.0 وألا تقل أي مهارة عن 5.5، أو اختباراً معادلاً. بعض البرامج تطلب أكثر."
+  },
+  "gpa_note": {
+   "en": "Degree applicants apply through UCAS and receive a conditional offer. The International Foundation Programme is open to those whose qualifications or English fall short.",
+   "ka": "საბაკალავრო აპლიკანტები განაცხადს UCAS-ით აგზავნიან და იღებენ პირობით შეთავაზებას. საერთაშორისო სამზადისო პროგრამა ეგებათ მათ, ვისი კვალიფიკაცია ან ინგლისური საკმარისი არ არის.",
+   "ar": "يقدّم المتقدمون للدرجة الجامعية عبر UCAS ويحصلون على قبول مشروط. البرنامج التأسيسي الدولي متاح لمن لا تكفي مؤهلاته أو لغته الإنجليزية."
+  },
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "uk",
+   "wolverhampton",
+   "midlands"
+  ],
+  "sources": [
+   "https://wlv.ac.uk/international/international-faqs",
+   "https://wlv.ac.uk/international/making-an-application/international-fees",
+   "https://www.wlv.ac.uk/international/international-scholarships"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "duolingo_min": null,
+  "toefl_min": null,
+  "ielts_min": 6.0,
+  "other_tests": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "scholarships": [],
+  "tests": {
+   "en": "Standard undergraduate entry needs IELTS 6.0 overall with no element below 5.5. Professional health programmes set their own English requirements.",
+   "ka": "სტანდარტული საბაკალავრო მისაღებად საჭიროა IELTS 6.0 საერთო ქულით, არცერთი კომპონენტი 5.5-ზე დაბალი. პროფესიულ ჯანდაცვის პროგრამებს საკუთარი მოთხოვნები აქვს.",
+   "ar": "يتطلب القبول الجامعي المعتاد IELTS بدرجة 6.0 إجمالاً وألا يقل أي جزء عن 5.5. للبرامج الصحية المهنية متطلبات لغة خاصة بها."
+  },
+  "gpa_note": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "students": null,
+  "aid_intl": {
+   "en": "The university lists scholarships and bursaries worth up to 15,000 pounds for undergraduate and postgraduate students; check which apply to international applicants.",
+   "ka": "უნივერსიტეტი აცხადებს სტიპენდიებს 15 000 ფუნტამდე ბაკალავრებისა და მაგისტრებისთვის; შეამოწმეთ, რომელი ეხება საერთაშორისო სტუდენტებს.",
+   "ar": "تعلن الجامعة عن منح ومكافآت تصل إلى 15,000 جنيه للطلاب الجامعيين وطلاب الدراسات العليا؛ تحقق من انطباقها على الطلاب الدوليين."
+  },
+  "verified_at": "2026-11-16",
+  "id": "canterbury-christ-church-university",
+  "name": {
+   "en": "Canterbury Christ Church University",
+   "ka": "კენტერბერის ქრაისტ ჩერჩის უნივერსიტეტი",
+   "ar": "جامعة كانتربري كريست تشيرش"
+  },
+  "iso": "GB",
+  "city": "Canterbury",
+  "lat": 51.28,
+  "lon": 1.084,
+  "type": "public",
+  "website": "https://www.canterbury.ac.uk",
+  "platform": "UCAS or direct application",
+  "application_url": "https://www.canterbury.ac.uk/study-here/international/guide-to-applying-for-international-students",
+  "intakes": [
+   "September"
+  ],
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "fields": [
+   "education",
+   "humanities",
+   "social-sciences",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Nursing and health",
+    "Social sciences",
+    "Creative arts"
+   ],
+   "ka": [
+    "განათლება",
+    "საექთნო და ჯანდაცვა",
+    "სოციალური მეცნიერებები",
+    "შემოქმედებითი ხელოვნება"
+   ],
+   "ar": [
+    "التعليم",
+    "التمريض والصحة",
+    "العلوم الاجتماعية",
+    "الفنون الإبداعية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Canterbury, England, with a long record in teacher education, health and the arts. Its international pages say applicants need a valid English language qualification; fee amounts are not shown on the pages we could read.",
+   "ka": "საჯარო უნივერსიტეტი კენტერბერიში (ინგლისი), ცნობილი მასწავლებლების მომზადებით, ჯანდაცვით და ხელოვნებით. ოფიციალური გვერდის მიხედვით აპლიკანტს სჭირდება ინგლისური ენის მოქმედი სერტიფიკატი.",
+   "ar": "جامعة حكومية في كانتربري بإنجلترا معروفة بإعداد المعلمين والصحة والفنون. تذكر صفحاتها الدولية أن المتقدم يحتاج إلى شهادة لغة إنجليزية سارية."
+  },
+  "about": {
+   "en": "Canterbury Christ Church University is a public university in Kent, England, founded in 1962. International applicants need the relevant academic qualifications and a valid English language qualification. The university offers help with visas and immigration, and says scholarships and bursaries worth up to 15,000 pounds exist for undergraduate and postgraduate students. Course fees for international students are published on the university fees page.",
+   "ka": "კენტერბერის ქრაისტ ჩერჩის უნივერსიტეტი საჯარო უნივერსიტეტია კენტში (ინგლისი), დაარსებულია 1962 წელს. საერთაშორისო აპლიკანტს სჭირდება შესაბამისი აკადემიური კვალიფიკაცია და ინგლისური ენის მოქმედი სერტიფიკატი. უნივერსიტეტი ეხმარება ვიზასა და იმიგრაციაში და აცხადებს სტიპენდიებს 15 000 ფუნტამდე.",
+   "ar": "جامعة كانتربري كريست تشيرش جامعة حكومية في كنت بإنجلترا تأسست عام 1962. يحتاج المتقدمون الدوليون إلى المؤهلات الأكاديمية المناسبة وشهادة لغة إنجليزية سارية. تقدم الجامعة مساعدة في التأشيرة والهجرة وتعلن عن منح ومكافآت تصل إلى 15,000 جنيه."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ფურცელი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დადასტურება",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "uk",
+   "canterbury",
+   "education",
+   "kent"
+  ],
+  "sources": [
+   "https://www.canterbury.ac.uk/study-here/international/undergraduate",
+   "https://www.canterbury.ac.uk/study-here/fees-and-funding/international-student-fees-and-funding",
+   "https://canterbury.ac.uk/study-here/international/english-language-requirements",
+   "https://canterbury.ac.uk/study-here/applying/terms-and-conditions"
+  ]
+ },
+ {
+  "id": "national-technical-university-of-athens",
+  "name": {
+   "en": "National Technical University of Athens",
+   "ka": "ათენის ეროვნული ტექნიკური უნივერსიტეტი",
+   "ar": "الجامعة التقنية الوطنية في أثينا"
+  },
+  "iso": "GR",
+  "city": "Athens",
+  "lat": 37.978,
+  "lon": 23.783,
+  "type": "public",
+  "website": "https://www.ntua.gr",
+  "platform": "Greek Ministry of Education route for non-EU school graduates",
+  "application_url": "https://www.minedu.gov.gr/publications/docs2023/INSTRUCTIONS_FOR_FOREIGNERS_2024.doc",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": {
+   "en": "Dates for the non-EU ministry route are announced later on minedu.gov.gr. The instructions found are for 2023-24.",
+   "ka": "არაევროკავშირელთა სამინისტროს გზით განაცხადის ვადებს მოგვიანებით აცხადებენ minedu.gov.gr-ზე. ნაპოვნი ინსტრუქცია 2023-24 წლისაა.",
+   "ar": "تُعلن مواعيد التقديم لمسار الوزارة لغير الأوروبيين لاحقاً على minedu.gov.gr. التعليمات المتاحة تخص عام 2023-24."
+  },
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 20000,
+  "intl_pct": null,
+  "languages": [
+   "Greek"
+  ],
+  "english_bachelors": "none",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Certificate needs an Apostille or Greek consular validation and an official Greek translation. Distance-learning certificates are not accepted. Graduates of Greek schools cannot use this route.",
+   "ka": "ატესტატს სჭირდება აპოსტილი ან საბერძნეთის საკონსულოს დადასტურება და ოფიციალური ბერძნული თარგმანი. დისტანციური სწავლის ატესტატები მიუღებელია. ბერძნული სკოლების კურსდამთავრებულები ამ გზით ვერ ჩაირიცხებიან.",
+   "ar": "تحتاج الشهادة إلى أبوستيل أو تصديق قنصلي يوناني وترجمة يونانية رسمية. لا تُقبل شهادات التعليم عن بعد. لا يمكن لخريجي المدارس اليونانية استخدام هذا المسار."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Greek language certificate (B2)"
+  ],
+  "fields": [
+   "engineering",
+   "arts-design",
+   "mathematics",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Civil Engineering",
+    "Architecture",
+    "Mechanical Engineering",
+    "Electrical and Computer Engineering",
+    "Chemical Engineering"
+   ],
+   "ka": [
+    "სამოქალაქო ინჟინერია",
+    "არქიტექტურა",
+    "მექანიკური ინჟინერია",
+    "ელექტრო და კომპიუტერული ინჟინერია",
+    "ქიმიური ინჟინერია"
+   ],
+   "ar": [
+    "الهندسة المدنية",
+    "العمارة",
+    "الهندسة الميكانيكية",
+    "الهندسة الكهربائية وهندسة الحاسوب",
+    "الهندسة الكيميائية"
+   ]
+  },
+  "summary": {
+   "en": "Greece's oldest and largest technical university, based in Athens, with nine engineering schools. Bachelor study is taught in Greek.",
+   "ka": "საბერძნეთის უძველესი და უდიდესი ტექნიკური უნივერსიტეტი ათენში, ცხრა საინჟინრო სკოლით. ბაკალავრიატის სწავლება ბერძნულ ენაზეა.",
+   "ar": "أقدم وأكبر جامعة تقنية في اليونان ومقرها أثينا وتضم تسع كليات هندسية. تُدرَّس مرحلة البكالوريوس باللغة اليونانية."
+  },
+  "about": {
+   "en": "The National Technical University of Athens is a public university in central Athens with schools of engineering and architecture. Its integrated five-year diploma programmes are taught in Greek. The official pages reviewed describe only English-taught postgraduate programmes for non-EU students, so applicants should ask the university how non-EU bachelor entry works.",
+   "ka": "ათენის ეროვნული ტექნიკური უნივერსიტეტი საჯარო უნივერსიტეტია ათენის ცენტრში, საინჟინრო და არქიტექტურის სკოლებით. ხუთწლიანი ინტეგრირებული დიპლომის პროგრამები ბერძნულ ენაზეა. გადამოწმებულ ოფიციალურ გვერდებზე მხოლოდ ინგლისურენოვანი სამაგისტრო პროგრამებია აღწერილი, ამიტომ ბაკალავრიატში ჩასარიცხად აპლიკანტებმა უნივერსიტეტთან უნდა დააზუსტონ პროცედურა.",
+   "ar": "الجامعة التقنية الوطنية في أثينا جامعة حكومية في وسط أثينا فيها كليات للهندسة والعمارة. تُدرَّس برامج الدبلوم المتكاملة (خمس سنوات) باليونانية. الصفحات الرسمية التي روجعت تصف فقط برامج الدراسات العليا بالإنجليزية، لذا على المتقدمين الاستفسار من الجامعة عن آلية القبول في البكالوريوس لغير الأوروبيين."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "No entrance exams for non-EU applicants. Admitted candidates need a Greek language certificate (University of Athens or Thessaloniki exam, or B2 from the Greek Language Centre) to register.",
+   "ka": "არაევროკავშირელი აპლიკანტები მისაღებ გამოცდებს არ აბარებენ. ჩარიცხვისას საჭიროა ბერძნული ენის სერტიფიკატი (ათენის ან თესალონიკის უნივერსიტეტის გამოცდა ან Greek Language Centre-ის B2).",
+   "ar": "لا توجد امتحانات قبول للمتقدمين من خارج الاتحاد الأوروبي. يحتاج المقبولون إلى شهادة في اللغة اليونانية (امتحان جامعة أثينا أو سالونيك، أو B2 من مركز اللغة اليونانية) للتسجيل."
+  },
+  "gpa_note": {
+   "en": "Selection is by the overall mark of the school-leaving certificate, converted to the Greek 0-20 scale. The certificate must give access to university in the home country.",
+   "ka": "შერჩევა ხდება სკოლის დამამთავრებელი ატესტატის საერთო ქულით, გადათვლილი ბერძნულ 0-20 სკალაზე. ატესტატი უნდა იძლეოდეს უნივერსიტეტში ჩაბარების უფლებას მშობლიურ ქვეყანაში.",
+   "ar": "يتم الاختيار حسب المعدل العام لشهادة الثانوية محوّلاً إلى السلم اليوناني 0-20، ويجب أن تتيح الشهادة الالتحاق بالجامعة في بلد الطالب."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate (Apostille or consular validation, Greek translation)",
+     "ka": "სკოლის დამამთავრებელი ატესტატი (აპოსტილით ან საკონსულო დადასტურებით, ბერძნული თარგმანით)",
+     "ar": "شهادة إنهاء الثانوية (مع أبوستيل أو تصديق قنصلي وترجمة يونانية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Certificate of overall average on the 0-20 scale",
+     "ka": "საერთო საშუალო ქულის ცნობა 0-20 სკალაზე",
+     "ar": "شهادة المعدل العام على سلم 0-20"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalence certificate and proof the diploma gives access to university at home",
+     "ka": "ექვივალენტობის ცნობა და დადასტურება, რომ ატესტატი მშობლიურ ქვეყანაში უნივერსიტეტში შესვლის უფლებას იძლევა",
+     "ar": "شهادة معادلة وإثبات أن الشهادة تتيح دخول الجامعة في البلد الأصلي"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photographs",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Greek language certificate (Athens, Thessaloniki or B2 Greek Language Centre)",
+     "ka": "ბერძნული ენის სერტიფიკატი (ათენი, თესალონიკი ან B2 Greek Language Centre)",
+     "ar": "شهادة اللغة اليونانية (أثينا أو سالونيك أو B2 من مركز اللغة اليونانية)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Certificate of the candidate's and parents' origin",
+     "ka": "ცნობა კანდიდატისა და მშობლების წარმოშობის შესახებ",
+     "ar": "شهادة أصل المتقدم ووالديه"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "greece",
+   "athens",
+   "engineering",
+   "architecture",
+   "technical university"
+  ],
+  "sources": [
+   "https://www.minedu.gov.gr/publications/docs2023/INSTRUCTIONS_FOR_FOREIGNERS_2024.doc",
+   "https://www.ntua.gr",
+   "https://www.tuc.gr/en/studies/admission-of-international-students-to-greek-universities"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "aristotle-university-of-thessaloniki",
+  "name": {
+   "en": "Aristotle University of Thessaloniki",
+   "ka": "თესალონიკის არისტოტელეს უნივერსიტეტი",
+   "ar": "جامعة أرسطو في سالونيك"
+  },
+  "iso": "GR",
+  "city": "Thessaloniki",
+  "lat": 40.631,
+  "lon": 22.959,
+  "type": "public",
+  "website": "https://www.auth.gr",
+  "platform": "Ministry route (Greek-taught) or direct application (English-taught programmes)",
+  "application_url": "https://sportsciences.auth.gr/admissions",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": {
+   "en": "English-taught programmes (Sports Science, Clean Energy): rolling review for September 2027, no fixed date. Greek-taught degrees: dates announced by the ministry on minedu.gov.gr.",
+   "ka": "ინგლისურენოვანი პროგრამები (სპორტის მეცნიერება, სუფთა ენერგია): შერჩევა გრძელდება წლის განმავლობაში 2027 წლის სექტემბრისთვის, ფიქსირებული ვადის გარეშე. ბერძნულენოვანი პროგრამებისთვის ვადებს სამინისტრო აცხადებს minedu.gov.gr-ზე.",
+   "ar": "البرامج الإنجليزية (علوم الرياضة، الطاقة النظيفة): مراجعة متدرجة لقبول سبتمبر 2027 دون موعد نهائي ثابت. البرامج اليونانية: تعلن الوزارة المواعيد على minedu.gov.gr."
+  },
+  "tuition_intl": {
+   "amount": 6000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "English-taught BSc in Sports Science, same for all nationalities (Clean Energy BSc: EUR 8,000). Greek-taught degrees follow the ministry route."
+  },
+  "acceptance_rate": null,
+  "students": 75000,
+  "intl_pct": null,
+  "languages": [
+   "Greek",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Sports Science BSc: a completed secondary leaving certificate with strong results (Gulf states 80% minimum, A-levels BBB, IB 28 points). Greek-taught degrees need the ministry route documents.",
+   "ka": "სპორტის მეცნიერების BSc: დასრულებული საშუალო განათლების ატესტატი კარგი შედეგებით (ყურის ქვეყნები მინ. 80%, A-level BBB, IB 28 ქულა). ბერძნულენოვან პროგრამებზე საჭიროა სამინისტროს გზის დოკუმენტები.",
+   "ar": "بكالوريوس علوم الرياضة: شهادة ثانوية مكتملة بنتائج جيدة (دول الخليج 80% كحد أدنى، A-level بتقدير BBB، IB بـ28 نقطة). البرامج اليونانية تتطلب مستندات مسار الوزارة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 79,
+  "duolingo_min": null,
+  "other_tests": [
+   "Greek language certificate (B2) for Greek-taught degrees",
+   "IELTS 6.0 / TOEFL 79 / PTE or Cambridge B2 for English-taught"
+  ],
+  "fields": [
+   "humanities",
+   "medicine-health",
+   "engineering",
+   "law",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "The largest public university in Greece. First-cycle admission is set by the Greek Ministry of Education; the official AUTh pages do not give a separate non-EU bachelor route.",
+   "ka": "საბერძნეთის უდიდესი საჯარო უნივერსიტეტი. ბაკალავრიატში მიღებას საბერძნეთის განათლების სამინისტრო განსაზღვრავს; AUTh-ის გვერდებზე არაევროპელებისთვის ცალკე გზა არ არის მითითებული.",
+   "ar": "أكبر جامعة حكومية في اليونان. القبول في المرحلة الجامعية تحدده وزارة التعليم اليونانية؛ ولا تذكر صفحات الجامعة مسارًا منفصلًا لغير الأوروبيين."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "No entrance exams for non-EU applicants. Admitted candidates need a Greek language certificate (University of Athens or Thessaloniki exam, or B2 from the Greek Language Centre) to register.",
+   "ka": "არაევროკავშირელი აპლიკანტები მისაღებ გამოცდებს არ აბარებენ. ჩარიცხვისას საჭიროა ბერძნული ენის სერტიფიკატი (ათენის ან თესალონიკის უნივერსიტეტის გამოცდა ან Greek Language Centre-ის B2).",
+   "ar": "لا توجد امتحانات قبول للمتقدمين من خارج الاتحاد الأوروبي. يحتاج المقبولون إلى شهادة في اللغة اليونانية (امتحان جامعة أثينا أو سالونيك، أو B2 من مركز اللغة اليونانية) للتسجيل."
+  },
+  "gpa_note": {
+   "en": "Selection is by the overall mark of the school-leaving certificate, converted to the Greek 0-20 scale. The certificate must give access to university in the home country.",
+   "ka": "შერჩევა ხდება სკოლის დამამთავრებელი ატესტატის საერთო ქულით, გადათვლილი ბერძნულ 0-20 სკალაზე. ატესტატი უნდა იძლეოდეს უნივერსიტეტში ჩაბარების უფლებას მშობლიურ ქვეყანაში.",
+   "ar": "يتم الاختيار حسب المعدل العام لشهادة الثانوية محوّلاً إلى السلم اليوناني 0-20، ويجب أن تتيح الشهادة الالتحاق بالجامعة في بلد الطالب."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary certificate and grade report, with English translation",
+     "ka": "საშუალო განათლების ატესტატი და ნიშნების უწყისი ინგლისური თარგმანით",
+     "ar": "شهادة الثانوية وكشف الدرجات مع ترجمة إنجليزية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Certificate of overall average on the 0-20 scale",
+     "ka": "საერთო საშუალო ქულის ცნობა 0-20 სკალაზე",
+     "ar": "شهادة المعدل العام على سلم 0-20"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalence certificate and proof the diploma gives access to university at home",
+     "ka": "ექვივალენტობის ცნობა და დადასტურება, რომ ატესტატი მშობლიურ ქვეყანაში უნივერსიტეტში შესვლის უფლებას იძლევა",
+     "ar": "شهادة معادلة وإثبات أن الشهادة تتيح دخول الجامعة في البلد الأصلي"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or notarised copy",
+     "ka": "პასპორტი ან ნოტარიულად დამოწმებული ასლი",
+     "ar": "جواز السفر أو نسخة موثقة"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photographs",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Greek language certificate (Athens, Thessaloniki or B2 Greek Language Centre)",
+     "ka": "ბერძნული ენის სერტიფიკატი (ათენი, თესალონიკი ან B2 Greek Language Centre)",
+     "ar": "شهادة اللغة اليونانية (أثينا أو سالونيك أو B2 من مركز اللغة اليونانية)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Certificate of the candidate's and parents' origin",
+     "ka": "ცნობა კანდიდატისა და მშობლების წარმოშობის შესახებ",
+     "ar": "شهادة أصل المتقدم ووالديه"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency certificate (English-taught programmes)",
+     "ka": "ინგლისური ენის სერტიფიკატი (ინგლისურენოვანი პროგრამები)",
+     "ar": "شهادة إتقان اللغة الإنجليزية (البرامج الإنجليزية)"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Personal statement, 500-800 words (English-taught programmes)",
+     "ka": "პირადი წერილი, 500-800 სიტყვა (ინგლისურენოვანი პროგრამები)",
+     "ar": "بيان شخصي من 500 إلى 800 كلمة (البرامج الإنجليزية)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "greece",
+   "thessaloniki",
+   "public"
+  ],
+  "sources": [
+   "https://auth.gr/en/ugrad-en/",
+   "https://cese.auth.gr/",
+   "https://sportsciences.auth.gr/admissions",
+   "https://www.minedu.gov.gr/publications/docs2023/INSTRUCTIONS_FOR_FOREIGNERS_2024.doc",
+   "https://www.tuc.gr/en/studies/admission-of-international-students-to-greek-universities"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-crete",
+  "name": {
+   "en": "University of Crete",
+   "ka": "კრეტის უნივერსიტეტი",
+   "ar": "جامعة كريت"
+  },
+  "iso": "GR",
+  "city": "Heraklion",
+  "lat": 35.318,
+  "lon": 25.103,
+  "type": "public",
+  "website": "https://www.uoc.gr",
+  "platform": "Direct application (International Program in Medicine) or Greek ministry route",
+  "application_url": "https://imed.med.uoc.gr/admissions/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": {
+   "en": "International Program in Medicine: early round deadline in November (limited places), regular round deadline in March. Greek-taught degrees: ministry dates.",
+   "ka": "საერთაშორისო სამედიცინო პროგრამა: ადრეული რაუნდის ვადა ნოემბერში (შეზღუდული ადგილები), ჩვეულებრივი რაუნდის ვადა მარტში. ბერძნულენოვანი პროგრამები: სამინისტროს ვადები.",
+   "ar": "البرنامج الدولي للطب: موعد الجولة المبكرة في نوفمبر (أماكن محدودة) والجولة العادية في مارس. البرامج اليونانية: مواعيد الوزارة."
+  },
+  "tuition_intl": {
+   "amount": 15000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "English-taught International Program in Medicine (6 years). EUR 3,000 non-refundable downpayment on acceptance."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Greek",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "International Program in Medicine: national diploma at 80%+ with required sciences, A-levels, IB, or SAT/AP results. Last two school years must be outside Greece.",
+   "ka": "საერთაშორისო სამედიცინო პროგრამა: ეროვნული ატესტატი 80%+ საჭირო საგნებში, A-level, IB ან SAT/AP შედეგები. სკოლის ბოლო ორი წელი საბერძნეთს გარეთ უნდა იყოს გავლილი.",
+   "ar": "البرنامج الدولي للطب: شهادة وطنية بمعدل 80% فأكثر في المواد العلمية المطلوبة، أو A-level أو IB أو نتائج SAT/AP. يجب أن تكون آخر سنتين دراسيتين خارج اليونان."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 6.5,
+  "toefl_min": 79,
+  "duolingo_min": null,
+  "other_tests": [
+   "Online interview",
+   "Greek language certificate (B2) for Greek-taught degrees"
+  ],
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Crete, Greece. Greek students enter through national exams; the English-taught International Program in Medicine is the bachelor route for international applicants.",
+   "ka": "საჯარო უნივერსიტეტი კრეტაზე, საბერძნეთი. ბერძენი სტუდენტები ეროვნული გამოცდებით ირიცხებიან; უცხოელი აპლიკანტებისთვის საბაკალავრო გზაა ინგლისურენოვანი საერთაშორისო სამედიცინო პროგრამა.",
+   "ar": "جامعة حكومية في كريت باليونان. يلتحق الطلاب اليونانيون عبر الامتحانات الوطنية، أما مسار البكالوريوس للدوليين فهو البرنامج الدولي للطب بالإنجليزية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Medicine programme: IELTS 6.5, TOEFL 79 or B2 English, plus an online interview for selected candidates. No entrance exam. Greek-taught degrees need a Greek language certificate.",
+   "ka": "სამედიცინო პროგრამა: IELTS 6.5, TOEFL 79 ან B2 ინგლისური, ხოლო შერჩეული კანდიდატებისთვის ონლაინ გასაუბრება. მისაღები გამოცდა არ არის. ბერძნულენოვან პროგრამებზე საჭიროა ბერძნული ენის სერტიფიკატი.",
+   "ar": "برنامج الطب: IELTS 6.5 أو TOEFL 79 أو B2 إنجليزي، ومقابلة عبر الإنترنت للمرشحين المختارين. لا يوجد امتحان قبول. البرامج اليونانية تتطلب شهادة اللغة اليونانية."
+  },
+  "gpa_note": {
+   "en": "Medicine programme: IB with 3 higher-level sciences, A-levels in Chemistry, Biology and one more science, or a national diploma at 80%+ with Biology and two of Chemistry, Maths, Physics.",
+   "ka": "სამედიცინო პროგრამა: IB სამი მაღალი დონის საბუნებისმეტყველო საგნით, A-level ქიმიაში, ბიოლოგიასა და კიდევ ერთ საგანში, ან ეროვნული ატესტატი 80%+ ბიოლოგიით და ქიმიის, მათემატიკის ან ფიზიკის ორი საგნით.",
+   "ar": "برنامج الطب: IB بثلاث مواد علمية بمستوى عالٍ، أو A-level في الكيمياء والأحياء ومادة علمية أخرى، أو شهادة وطنية بمعدل 80% فأكثر مع الأحياء ومادتين من الكيمياء والرياضيات والفيزياء."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or notarised copy",
+     "ka": "პასპორტი ან ნოტარიულად დამოწმებული ასლი",
+     "ar": "جواز السفر أو نسخة موثقة"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary certificate and grade report, with English translation",
+     "ka": "საშუალო განათლების ატესტატი და ნიშნების უწყისი ინგლისური თარგმანით",
+     "ar": "شهادة الثانوية وكشف الدرجات مع ترجمة إنجليزية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency certificate",
+     "ka": "ინგლისური ენის სერტიფიკატი",
+     "ar": "شهادة إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Motivation letter",
+     "ka": "მოტივაციის წერილი",
+     "ar": "رسالة الدافع"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV",
+     "ka": "CV",
+     "ar": "السيرة الذاتية"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Online interview (selected candidates)",
+     "ka": "ონლაინ გასაუბრება (შერჩეული კანდიდატებისთვის)",
+     "ar": "مقابلة عبر الإنترنت (للمرشحين المختارين)"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "EUR 2,000 tuition reduction for the top three students each year",
+    "url": "https://imed.med.uoc.gr/admissions/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "greece",
+   "crete",
+   "medicine"
+  ],
+  "sources": [
+   "https://imed.med.uoc.gr/admissions/",
+   "https://welcome.uoc.gr/",
+   "https://welcome.uoc.gr/english_programs",
+   "https://www.minedu.gov.gr/publications/docs2023/INSTRUCTIONS_FOR_FOREIGNERS_2024.doc",
+   "https://www.tuc.gr/en/studies/admission-of-international-students-to-greek-universities",
+   "https://www.uoc.gr/studies/undergraduate-studies/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "democritus-university-of-thrace-duth",
+  "name": {
+   "en": "Democritus University of Thrace (DUTH)",
+   "ka": "თრაკიის დემოკრიტეს უნივერსიტეტი",
+   "ar": "جامعة ديموقريطس في تراقيا"
+  },
+  "iso": "GR",
+  "city": "Komotini",
+  "lat": 41.122,
+  "lon": 25.406,
+  "type": "public",
+  "website": "https://www.duth.gr",
+  "platform": "Greek Ministry of Education route for non-EU school graduates",
+  "application_url": "https://www.minedu.gov.gr/publications/docs2023/INSTRUCTIONS_FOR_FOREIGNERS_2024.doc",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": {
+   "en": "Dates for the non-EU ministry route are announced later on minedu.gov.gr. The instructions found are for 2023-24.",
+   "ka": "არაევროკავშირელთა სამინისტროს გზით განაცხადის ვადებს მოგვიანებით აცხადებენ minedu.gov.gr-ზე. ნაპოვნი ინსტრუქცია 2023-24 წლისაა.",
+   "ar": "تُعلن مواعيد التقديم لمسار الوزارة لغير الأوروبيين لاحقاً على minedu.gov.gr. التعليمات المتاحة تخص عام 2023-24."
+  },
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Greek",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Certificate needs an Apostille or Greek consular validation and an official Greek translation. Distance-learning certificates are not accepted. Graduates of Greek schools cannot use this route.",
+   "ka": "ატესტატს სჭირდება აპოსტილი ან საბერძნეთის საკონსულოს დადასტურება და ოფიციალური ბერძნული თარგმანი. დისტანციური სწავლის ატესტატები მიუღებელია. ბერძნული სკოლების კურსდამთავრებულები ამ გზით ვერ ჩაირიცხებიან.",
+   "ar": "تحتاج الشهادة إلى أبوستيل أو تصديق قنصلي يوناني وترجمة يونانية رسمية. لا تُقبل شهادات التعليم عن بعد. لا يمكن لخريجي المدارس اليونانية استخدام هذا المسار."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Greek language certificate (B2)"
+  ],
+  "fields": [
+   "engineering",
+   "law",
+   "education"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "No entrance exams for non-EU applicants. Admitted candidates need a Greek language certificate (University of Athens or Thessaloniki exam, or B2 from the Greek Language Centre) to register.",
+   "ka": "არაევროკავშირელი აპლიკანტები მისაღებ გამოცდებს არ აბარებენ. ჩარიცხვისას საჭიროა ბერძნული ენის სერტიფიკატი (ათენის ან თესალონიკის უნივერსიტეტის გამოცდა ან Greek Language Centre-ის B2).",
+   "ar": "لا توجد امتحانات قبول للمتقدمين من خارج الاتحاد الأوروبي. يحتاج المقبولون إلى شهادة في اللغة اليونانية (امتحان جامعة أثينا أو سالونيك، أو B2 من مركز اللغة اليونانية) للتسجيل."
+  },
+  "gpa_note": {
+   "en": "Selection is by the overall mark of the school-leaving certificate, converted to the Greek 0-20 scale. The certificate must give access to university in the home country.",
+   "ka": "შერჩევა ხდება სკოლის დამამთავრებელი ატესტატის საერთო ქულით, გადათვლილი ბერძნულ 0-20 სკალაზე. ატესტატი უნდა იძლეოდეს უნივერსიტეტში ჩაბარების უფლებას მშობლიურ ქვეყანაში.",
+   "ar": "يتم الاختيار حسب المعدل العام لشهادة الثانوية محوّلاً إلى السلم اليوناني 0-20، ويجب أن تتيح الشهادة الالتحاق بالجامعة في بلد الطالب."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary certificate and grade report, with English translation",
+     "ka": "საშუალო განათლების ატესტატი და ნიშნების უწყისი ინგლისური თარგმანით",
+     "ar": "شهادة الثانوية وكشف الدرجات مع ترجمة إنجليزية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Certificate of overall average on the 0-20 scale",
+     "ka": "საერთო საშუალო ქულის ცნობა 0-20 სკალაზე",
+     "ar": "شهادة المعدل العام على سلم 0-20"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalence certificate and proof the diploma gives access to university at home",
+     "ka": "ექვივალენტობის ცნობა და დადასტურება, რომ ატესტატი მშობლიურ ქვეყანაში უნივერსიტეტში შესვლის უფლებას იძლევა",
+     "ar": "شهادة معادلة وإثبات أن الشهادة تتيح دخول الجامعة في البلد الأصلي"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photographs",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Greek language certificate (Athens, Thessaloniki or B2 Greek Language Centre)",
+     "ka": "ბერძნული ენის სერტიფიკატი (ათენი, თესალონიკი ან B2 Greek Language Centre)",
+     "ar": "شهادة اللغة اليونانية (أثينا أو سالونيك أو B2 من مركز اللغة اليونانية)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Certificate of the candidate's and parents' origin",
+     "ka": "ცნობა კანდიდატისა და მშობლების წარმოშობის შესახებ",
+     "ar": "شهادة أصل المتقدم ووالديه"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "gr",
+   "komotini"
+  ],
+  "sources": [
+   "https://hellenicstudies.duth.gr/",
+   "https://www.duth.gr",
+   "https://www.minedu.gov.gr/publications/docs2023/INSTRUCTIONS_FOR_FOREIGNERS_2024.doc",
+   "https://www.tuc.gr/en/studies/admission-of-international-students-to-greek-universities"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-ioannina",
+  "name": {
+   "en": "University of Ioannina",
+   "ka": "იოანინას უნივერსიტეტი",
+   "ar": "جامعة يوانينا"
+  },
+  "iso": "GR",
+  "city": "Ioannina",
+  "lat": 39.617,
+  "lon": 20.84,
+  "type": "public",
+  "website": "https://www.uoi.gr",
+  "platform": "Greek Ministry of Education route for non-EU school graduates",
+  "application_url": "https://www.minedu.gov.gr/publications/docs2023/INSTRUCTIONS_FOR_FOREIGNERS_2024.doc",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": {
+   "en": "Dates for the non-EU ministry route are announced later on minedu.gov.gr. The instructions found are for 2023-24.",
+   "ka": "არაევროკავშირელთა სამინისტროს გზით განაცხადის ვადებს მოგვიანებით აცხადებენ minedu.gov.gr-ზე. ნაპოვნი ინსტრუქცია 2023-24 წლისაა.",
+   "ar": "تُعلن مواعيد التقديم لمسار الوزارة لغير الأوروبيين لاحقاً على minedu.gov.gr. التعليمات المتاحة تخص عام 2023-24."
+  },
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Greek"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Certificate needs an Apostille or Greek consular validation and an official Greek translation. Distance-learning certificates are not accepted. Graduates of Greek schools cannot use this route.",
+   "ka": "ატესტატს სჭირდება აპოსტილი ან საბერძნეთის საკონსულოს დადასტურება და ოფიციალური ბერძნული თარგმანი. დისტანციური სწავლის ატესტატები მიუღებელია. ბერძნული სკოლების კურსდამთავრებულები ამ გზით ვერ ჩაირიცხებიან.",
+   "ar": "تحتاج الشهادة إلى أبوستيل أو تصديق قنصلي يوناني وترجمة يونانية رسمية. لا تُقبل شهادات التعليم عن بعد. لا يمكن لخريجي المدارس اليونانية استخدام هذا المسار."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Greek language certificate (B2)"
+  ],
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "humanities",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Natural sciences",
+    "Humanities",
+    "Education"
+   ],
+   "ka": [
+    "მედიცინა",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "განათლება"
+   ],
+   "ar": [
+    "الطب",
+    "العلوم الطبيعية",
+    "العلوم الإنسانية",
+    "التربية"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Ioannina, north-west Greece. Bachelor teaching is in Greek. Its website blocked automated reading.",
+   "ka": "სახელმწიფო უნივერსიტეტი იოანინაში, ჩრდილო-დასავლეთ საბერძნეთი. ბაკალავრიატში სწავლება ბერძნულია. საიტი ავტომატურ წაკითხვას ბლოკავს.",
+   "ar": "جامعة عامة في يوانينا شمال غرب اليونان. التدريس في البكالوريوس بالإغريقية. موقعها يمنع القراءة الآلية."
+  },
+  "about": {
+   "en": "The University of Ioannina is a public university in Epirus, Greece. The national Study in Greece portal says applications for international students go through the @SiG platform and that a university acceptance letter is needed for the visa. The university's own site returned an access error, so fees and deadlines are not verified.",
+   "ka": "იოანინას უნივერსიტეტი სახელმწიფო უნივერსიტეტია ეპირუსში. Study in Greece პორტალის თანახმად, საერთაშორისო განაცხადები @SiG პლატფორმით იგზავნება და ვიზისთვის საჭიროა უნივერსიტეტის მიღების წერილი. უნივერსიტეტის საიტი მიუწვდომელია.",
+   "ar": "جامعة عامة في إبيروس باليونان. بحسب بوابة Study in Greece تُقدَّم طلبات الطلاب الدوليين عبر منصة @SiG ويلزم خطاب قبول للتأشيرة. موقع الجامعة لم يكن متاحاً."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "No entrance exams for non-EU applicants. Admitted candidates need a Greek language certificate (University of Athens or Thessaloniki exam, or B2 from the Greek Language Centre) to register.",
+   "ka": "არაევროკავშირელი აპლიკანტები მისაღებ გამოცდებს არ აბარებენ. ჩარიცხვისას საჭიროა ბერძნული ენის სერტიფიკატი (ათენის ან თესალონიკის უნივერსიტეტის გამოცდა ან Greek Language Centre-ის B2).",
+   "ar": "لا توجد امتحانات قبول للمتقدمين من خارج الاتحاد الأوروبي. يحتاج المقبولون إلى شهادة في اللغة اليونانية (امتحان جامعة أثينا أو سالونيك، أو B2 من مركز اللغة اليونانية) للتسجيل."
+  },
+  "gpa_note": {
+   "en": "Selection is by the overall mark of the school-leaving certificate, converted to the Greek 0-20 scale. The certificate must give access to university in the home country.",
+   "ka": "შერჩევა ხდება სკოლის დამამთავრებელი ატესტატის საერთო ქულით, გადათვლილი ბერძნულ 0-20 სკალაზე. ატესტატი უნდა იძლეოდეს უნივერსიტეტში ჩაბარების უფლებას მშობლიურ ქვეყანაში.",
+   "ar": "يتم الاختيار حسب المعدل العام لشهادة الثانوية محوّلاً إلى السلم اليوناني 0-20، ويجب أن تتيح الشهادة الالتحاق بالجامعة في بلد الطالب."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary certificate and grade report, with English translation",
+     "ka": "საშუალო განათლების ატესტატი და ნიშნების უწყისი ინგლისური თარგმანით",
+     "ar": "شهادة الثانوية وكشف الدرجات مع ترجمة إنجليزية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Certificate of overall average on the 0-20 scale",
+     "ka": "საერთო საშუალო ქულის ცნობა 0-20 სკალაზე",
+     "ar": "شهادة المعدل العام على سلم 0-20"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalence certificate and proof the diploma gives access to university at home",
+     "ka": "ექვივალენტობის ცნობა და დადასტურება, რომ ატესტატი მშობლიურ ქვეყანაში უნივერსიტეტში შესვლის უფლებას იძლევა",
+     "ar": "شهادة معادلة وإثبات أن الشهادة تتيح دخول الجامعة في البلد الأصلي"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photographs",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Greek language certificate (Athens, Thessaloniki or B2 Greek Language Centre)",
+     "ka": "ბერძნული ენის სერტიფიკატი (ათენი, თესალონიკი ან B2 Greek Language Centre)",
+     "ar": "شهادة اللغة اليونانية (أثينا أو سالونيك أو B2 من مركز اللغة اليونانية)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Certificate of the candidate's and parents' origin",
+     "ka": "ცნობა კანდიდატისა და მშობლების წარმოშობის შესახებ",
+     "ar": "شهادة أصل المتقدم ووالديه"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "greece",
+   "ioannina",
+   "public"
+  ],
+  "sources": [
+   "https://studyingreece.edu.gr/",
+   "https://www.minedu.gov.gr/publications/docs2023/INSTRUCTIONS_FOR_FOREIGNERS_2024.doc",
+   "https://www.tuc.gr/en/studies/admission-of-international-students-to-greek-universities"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-thessaly",
+  "name": {
+   "en": "University of Thessaly",
+   "ka": "თესალიის უნივერსიტეტი",
+   "ar": "جامعة ثيساليا"
+  },
+  "iso": "GR",
+  "city": "Volos",
+  "lat": 39.361,
+  "lon": 22.947,
+  "type": "public",
+  "website": "https://www.uth.gr",
+  "platform": "Greek Ministry of Education route for non-EU school graduates",
+  "application_url": "https://www.minedu.gov.gr/publications/docs2023/INSTRUCTIONS_FOR_FOREIGNERS_2024.doc",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": {
+   "en": "Dates for the non-EU ministry route are announced later on minedu.gov.gr. The instructions found are for 2023-24.",
+   "ka": "არაევროკავშირელთა სამინისტროს გზით განაცხადის ვადებს მოგვიანებით აცხადებენ minedu.gov.gr-ზე. ნაპოვნი ინსტრუქცია 2023-24 წლისაა.",
+   "ar": "تُعلن مواعيد التقديم لمسار الوزارة لغير الأوروبيين لاحقاً على minedu.gov.gr. التعليمات المتاحة تخص عام 2023-24."
+  },
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Greek"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Certificate needs an Apostille or Greek consular validation and an official Greek translation. Distance-learning certificates are not accepted. Graduates of Greek schools cannot use this route.",
+   "ka": "ატესტატს სჭირდება აპოსტილი ან საბერძნეთის საკონსულოს დადასტურება და ოფიციალური ბერძნული თარგმანი. დისტანციური სწავლის ატესტატები მიუღებელია. ბერძნული სკოლების კურსდამთავრებულები ამ გზით ვერ ჩაირიცხებიან.",
+   "ar": "تحتاج الشهادة إلى أبوستيل أو تصديق قنصلي يوناني وترجمة يونانية رسمية. لا تُقبل شهادات التعليم عن بعد. لا يمكن لخريجي المدارس اليونانية استخدام هذا المسار."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Greek language certificate (B2)"
+  ],
+  "fields": [],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Volos, Greece, with 35 undergraduate programmes taught mainly in Greek.",
+   "ka": "საჯარო უნივერსიტეტი ვოლოსში, საბერძნეთი, 35 საბაკალავრო პროგრამით, ძირითადად ბერძნულად.",
+   "ar": "جامعة حكومية في فولوس باليونان تقدم 35 برنامج بكالوريوس تدرَّس أساسا باليونانية."
+  },
+  "about": {
+   "en": "The University of Thessaly is a public university in Volos and other cities of Thessaly. Its website lists 35 undergraduate programmes. The public pages reviewed do not state fees, deadlines or admission rules for international bachelor applicants, so applicants should contact the International Relations Office or the Center for International Education.",
+   "ka": "თესალიის უნივერსიტეტი საჯარო უნივერსიტეტია ვოლოსსა და თესალიის სხვა ქალაქებში. საიტზე 35 საბაკალავრო პროგრამაა. საერთაშორისო აპლიკანტებისთვის საფასური და ვადები გვერდებზე მითითებული არ არის.",
+   "ar": "جامعة ثيساليا جامعة حكومية في فولوس ومدن أخرى من ثيساليا. يعرض موقعها 35 برنامج بكالوريوس. الصفحات العامة لا تذكر الرسوم أو المواعيد أو شروط قبول الطلاب الدوليين."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "No entrance exams for non-EU applicants. Admitted candidates need a Greek language certificate (University of Athens or Thessaloniki exam, or B2 from the Greek Language Centre) to register.",
+   "ka": "არაევროკავშირელი აპლიკანტები მისაღებ გამოცდებს არ აბარებენ. ჩარიცხვისას საჭიროა ბერძნული ენის სერტიფიკატი (ათენის ან თესალონიკის უნივერსიტეტის გამოცდა ან Greek Language Centre-ის B2).",
+   "ar": "لا توجد امتحانات قبول للمتقدمين من خارج الاتحاد الأوروبي. يحتاج المقبولون إلى شهادة في اللغة اليونانية (امتحان جامعة أثينا أو سالونيك، أو B2 من مركز اللغة اليونانية) للتسجيل."
+  },
+  "gpa_note": {
+   "en": "Selection is by the overall mark of the school-leaving certificate, converted to the Greek 0-20 scale. The certificate must give access to university in the home country.",
+   "ka": "შერჩევა ხდება სკოლის დამამთავრებელი ატესტატის საერთო ქულით, გადათვლილი ბერძნულ 0-20 სკალაზე. ატესტატი უნდა იძლეოდეს უნივერსიტეტში ჩაბარების უფლებას მშობლიურ ქვეყანაში.",
+   "ar": "يتم الاختيار حسب المعدل العام لشهادة الثانوية محوّلاً إلى السلم اليوناني 0-20، ويجب أن تتيح الشهادة الالتحاق بالجامعة في بلد الطالب."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary certificate and grade report, with English translation",
+     "ka": "საშუალო განათლების ატესტატი და ნიშნების უწყისი ინგლისური თარგმანით",
+     "ar": "شهادة الثانوية وكشف الدرجات مع ترجمة إنجليزية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Certificate of overall average on the 0-20 scale",
+     "ka": "საერთო საშუალო ქულის ცნობა 0-20 სკალაზე",
+     "ar": "شهادة المعدل العام على سلم 0-20"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalence certificate and proof the diploma gives access to university at home",
+     "ka": "ექვივალენტობის ცნობა და დადასტურება, რომ ატესტატი მშობლიურ ქვეყანაში უნივერსიტეტში შესვლის უფლებას იძლევა",
+     "ar": "شهادة معادلة وإثبات أن الشهادة تتيح دخول الجامعة في البلد الأصلي"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photographs",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Greek language certificate (Athens, Thessaloniki or B2 Greek Language Centre)",
+     "ka": "ბერძნული ენის სერტიფიკატი (ათენი, თესალონიკი ან B2 Greek Language Centre)",
+     "ar": "شهادة اللغة اليونانية (أثينا أو سالونيك أو B2 من مركز اللغة اليونانية)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Certificate of the candidate's and parents' origin",
+     "ka": "ცნობა კანდიდატისა და მშობლების წარმოშობის შესახებ",
+     "ar": "شهادة أصل المتقدم ووالديه"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English or other language proficiency (if the programme requires it)",
+     "ka": "ინგლისური ან სხვა ენის ცოდნის სერტიფიკატი (თუ პროგრამა მოითხოვს)",
+     "ar": "شهادة إتقان الإنجليزية أو لغة أخرى (إن اشترطها البرنامج)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "greece",
+   "thessaly",
+   "volos"
+  ],
+  "sources": [
+   "https://www.minedu.gov.gr/publications/docs2023/INSTRUCTIONS_FOR_FOREIGNERS_2024.doc",
+   "https://www.tuc.gr/en/studies/admission-of-international-students-to-greek-universities",
+   "https://www.uth.gr/en",
+   "https://www.uth.gr/en/international/units/center-international-education",
+   "https://www.uth.gr/sites/default/files/documents/2023/FOREIGN%20STUDENT%20HANDBOOK_non-EU%20citizens_1348444167.docx"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-de-san-carlos-de-guatemala",
+  "name": {
+   "en": "Universidad de San Carlos de Guatemala",
+   "ka": "გვატემალის სან-კარლოსის უნივერსიტეტი",
+   "ar": "جامعة سان كارلوس في غواتيمالا"
+  },
+  "iso": "GT",
+  "city": "Guatemala City",
+  "website": "https://www.usac.edu.gt",
+  "platform": "Direct (Registro y Estadística)",
+  "application_url": "https://portalregistro.usac.edu.gt/tramites",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Foreign secondary diploma legalised through diplomatic channels, with sworn translation made in Guatemala and a MINEDUC equivalence certificate.",
+   "ka": "უცხოური საშუალო განათლების დიპლომი დიპლომატიური გზით ლეგალიზებული, გვატემალაში შესრულებული ნაფიცი თარგმანით და MINEDUC-ის ექვივალენტობის ცნობით.",
+   "ar": "شهادة ثانوية أجنبية مصدّقة بالطرق الدبلوماسية، مع ترجمة محلّفة في غواتيمالا وشهادة معادلة من MINEDUC."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Pruebas de conocimientos básicos",
+   "Pruebas específicas (by faculty)"
+  ],
+  "fields": [
+   "medicine-health",
+   "law",
+   "engineering",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "The national public university of Guatemala, in Guatemala City, taught in Spanish. Its official website refused connections during this research, so no admission or fee data could be verified.",
+   "ka": "გვატემალის ეროვნული საჯარო უნივერსიტეტი, გვატემალის ქალაქში, სწავლება ესპანურად. კვლევის დროს ოფიციალური საიტი კავშირს არ ამყარებდა, ამიტომ მიღებისა და საფასურის მონაცემები ვერ შემოწმდა.",
+   "ar": "الجامعة الوطنية الحكومية في غواتيمالا بمدينة غواتيمالا والتدريس بالإسبانية. رفض موقعها الرسمي الاتصال أثناء البحث فلم يمكن التحقق من بيانات القبول والرسوم."
+  },
+  "about": {
+   "en": "USAC is Guatemala's oldest and only national public university, with its main campus in Guatemala City, and teaches in Spanish. Official admissions pages could not be reached, so no requirements, fees or deadlines for international bachelor applicants are given here.",
+   "ka": "USAC გვატემალის უძველესი და ერთადერთი ეროვნული საჯარო უნივერსიტეტია, მთავარი კამპუსით გვატემალის ქალაქში; სწავლება ესპანურად მიმდინარეობს. ოფიციალურ საგანმანათლებლო გვერდებზე წვდომა ვერ მოხერხდა, ამიტომ უცხოელი ბაკალავრების მოთხოვნები, საფასური და ვადები აქ არ არის მოცემული.",
+   "ar": "USAC أقدم جامعة في غواتيمالا والجامعة الوطنية الحكومية الوحيدة، وحرمها الرئيسي في مدينة غواتيمالا والتدريس بالإسبانية. تعذّر الوصول إلى صفحات القبول الرسمية فلا تُذكر هنا المتطلبات والرسوم والمواعيد للمتقدمين الدوليين."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Applicants take vocational orientation, basic-knowledge tests and faculty-specific tests. Foreign applicants exempted from the tests enrol directly at Registro y Estadística.",
+   "ka": "აპლიკანტები გადიან პროფორიენტაციას, ძირითადი ცოდნის ტესტებს და ფაკულტეტის სპეციფიკურ ტესტებს. ტესტებისგან გათავისუფლებული უცხოელები პირდაპირ რეგისტრირდებიან Registro y Estadística-ში.",
+   "ar": "يخضع المتقدمون للتوجيه المهني واختبارات المعرفة الأساسية واختبارات خاصة بالكلية. يسجّل الأجانب المعفون من الاختبارات مباشرة في إدارة التسجيل والإحصاء."
+  },
+  "gpa_note": {
+   "en": "Studies completed abroad must be certified as equivalent to Guatemalan curricula by the Ministry of Education (MINEDUC). Diploma and certificate must be legalised.",
+   "ka": "საზღვარგარეთ დასრულებული განათლება გვატემალის განათლების სამინისტროს (MINEDUC) მიერ უნდა დადასტურდეს გვატემალის სასწავლო გეგმების ექვივალენტურად. დიპლომი და ცნობა ლეგალიზებული უნდა იყოს.",
+   "ar": "يجب أن تصدّق وزارة التربية الغواتيمالية (MINEDUC) على معادلة الدراسة في الخارج للمناهج الغواتيمالية، وأن تكون الشهادة وكشف الدرجات مصدّقين."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary diploma legalised through diplomatic channels (sworn translation in Guatemala)",
+     "ka": "საშუალო განათლების დიპლომი დიპლომატიური გზით ლეგალიზებული (ნაფიცი თარგმანი გვატემალაში)",
+     "ar": "شهادة الثانوية مصدّقة بالطرق الدبلوماسية (ترجمة محلّفة في غواتيمالا)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "General certificate of studies with subjects and grades, legalised",
+     "ka": "სწავლის ზოგადი ცნობა საგნებითა და ნიშნებით, ლეგალიზებული",
+     "ar": "كشف الدراسة العام بالمواد والدرجات، مصدّق"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Ministry of Education (MINEDUC) equivalence certificate",
+     "ka": "განათლების სამინისტროს (MINEDUC) ექვივალენტობის ცნობა",
+     "ar": "شهادة معادلة من وزارة التربية (MINEDUC)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or notarised copy",
+     "ka": "პასპორტი ან ნოტარიულად დამოწმებული ასლი",
+     "ar": "جواز السفر أو نسخة موثقة"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Vocational orientation and basic-knowledge tests",
+     "ka": "პროფორიენტაციისა და ძირითადი ცოდნის ტესტები",
+     "ar": "اختبارات التوجيه المهني والمعرفة الأساسية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "guatemala",
+   "spanish",
+   "national university"
+  ],
+  "sources": [
+   "https://registro.usac.edu.gt/index.php?menu=reglamento&op=cap03.html",
+   "https://portalregistro.usac.edu.gt/tramites",
+   "https://www.usac.edu.gt"
+  ],
+  "verified_at": "2026-11-16",
+  "type": "public",
+  "lat": 14.587,
+  "lon": -90.551
+ }
+]

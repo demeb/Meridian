@@ -1,0 +1,1078 @@
+[
+ {
+  "id": "university-of-maribor",
+  "name": {
+   "en": "University of Maribor",
+   "ka": "მარიბორის უნივერსიტეტი",
+   "ar": "جامعة ماريبور"
+  },
+  "iso": "SI",
+  "city": "Maribor",
+  "lat": 46.559,
+  "lon": 15.638,
+  "type": "public",
+  "website": "https://www.um.si",
+  "platform": "eVŠ national e-application portal (Slovenia)",
+  "application_url": "https://moja.um.si/en/future-students/Strani/enrolment.aspx",
+  "intakes": [
+   "October"
+  ],
+  "deadline": null,
+  "deadline_note": "For 2026/27 non-EU applicants applied 18 Feb to 18 Mar 2026 (English-taught programmes and other programmes use separate non-EU deadlines); a second round ran 3 to 4 September 2026. The 2027/28 dates are not yet published.",
+  "tuition_intl": {
+   "amount": 4690,
+   "currency": "EUR",
+   "per": "year",
+   "note": "2026/27 fee published by the Faculty of Technology for its English-taught bachelor programme; English programmes carry tuition for all nationalities and other faculties set their own fee."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Slovenian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Secondary education abroad needs a recognition decision from the University of Maribor (applied for with the application). The IB Diploma counts as equal to the Slovene Matura and needs no recognition.",
+   "ka": "საზღვარგარეთ მიღებულ საშუალო განათლებას სჭირდება მარიბორის უნივერსიტეტის აღიარების გადაწყვეტილება (გაიცემა განაცხადთან ერთად). IB დიპლომი მატურის ტოლფასია და აღიარება არ სჭირდება.",
+   "ar": "تحتاج الشهادة الثانوية المحصّلة في الخارج إلى قرار اعتراف من جامعة ماريبور يُطلب مع التقديم. يعادل دبلوم IB شهادة الماتورا السلوفينية ولا يحتاج إلى اعتراف."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Faculty aptitude tests (some programmes)",
+   "Slovene language exam (some programmes)"
+  ],
+  "fields": [
+   "engineering",
+   "economics",
+   "education"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Some programmes require an aptitude test (24 June to 8 July 2026 for first-round applicants). Programmes in Slovene need a Slovene certificate for some faculties (B2 to C2). English-taught programmes need no general English test; the Faculty of Logistics asks for B2.",
+   "ka": "ზოგ პროგრამას სჭირდება უნარების ტესტი (2026 წელს პირველი ეტაპის აპლიკანტებისთვის 24 ივნისი - 8 ივლისი). სლოვენურენოვან პროგრამებზე ზოგ ფაკულტეტს სჭირდება სლოვენური ენის სერტიფიკატი (B2-C2). ინგლისურენოვან პროგრამებზე ზოგადი ინგლისურის ტესტი არ მოითხოვება; ლოჯისტიკის ფაკულტეტს სჭირდება B2.",
+   "ar": "تتطلب بعض البرامج اختبار قدرات (من 24 حزيران إلى 8 تموز 2026 لمتقدمي الدورة الأولى). وتطلب بعض الكليات شهادة اللغة السلوفينية (من B2 إلى C2) للبرامج السلوفينية. لا يُطلب اختبار إنجليزي عام للبرامج الإنجليزية، وتطلب كلية اللوجستيات مستوى B2."
+  },
+  "gpa_note": {
+   "en": "Applicants need a completed four-year secondary education with a recognised national exit exam, plus a recognition decision for foreign certificates. Selection scoring is set per programme in the Call for Enrolment.",
+   "ka": "აპლიკანტს უნდა ჰქონდეს დასრულებული ოთხწლიანი საშუალო განათლება აღიარებული გამოსასვლელი გამოცდით და უცხოური ატესტატის აღიარების გადაწყვეტილება. შერჩევის ქულები პროგრამების მიხედვით განისაზღვრება.",
+   "ar": "يشترط إتمام التعليم الثانوي (أربع سنوات) مع امتحان تخرج وطني معترف به، وقرار اعتراف بالشهادات الأجنبية. تحدَّد معايير الاختيار لكل برنامج في إعلان القبول."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school final certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition or attestation of the foreign certificate",
+     "ka": "უცხოური ატესტატის აღიარება ან დამოწმება",
+     "ar": "معادلة أو تصديق الشهادة الأجنبية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Court-certified translation into Slovenian or English",
+     "ka": "სასამართლოს მიერ დამოწმებული თარგმანი სლოვენურ ან ინგლისურ ენაზე",
+     "ar": "ترجمة معتمدة قضائياً إلى السلوفينية أو الإنجليزية"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Interview (for citizens of higher-migration-risk countries)",
+     "ka": "გასაუბრება (გაზრდილი მიგრაციული რისკის ქვეყნების მოქალაქეებისთვის)",
+     "ar": "مقابلة (لمواطني الدول ذات مخاطر الهجرة المرتفعة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "si",
+   "maribor"
+  ],
+  "sources": [
+   "https://moja.um.si/en/future-students/SiteAssets/Strani/enrolment/Admission_req_non_EU_citizens_2026_27_Final_KM.pdf",
+   "https://www.ft.um.si/?p=1299",
+   "https://moja.um.si/en/future-students/Documents/Price_List_2026/UM_Price_List_2026-27_Tuition_fees_full-time_studies.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "technical-university-of-kosice",
+  "name": {
+   "en": "Technical University of Kosice",
+   "ka": "კოშიცეს ტექნიკური უნივერსიტეტი",
+   "ar": "الجامعة التقنية في كوشيتسه"
+  },
+  "iso": "SK",
+  "city": "Košice",
+  "lat": 48.73,
+  "lon": 21.245,
+  "type": "public",
+  "website": "https://tuke.sk",
+  "platform": "EP TUKE e-application portal",
+  "application_url": "https://eprihlaska.tuke.sk/eprihlaska/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-04-30",
+  "deadline_note": "Faculty of Electrical Engineering and Informatics lists 30 April 2027 for bachelor applications (2027/28); other faculties set their own dates (for example 30 June 2026 at the Faculty of Economics for 2026/27).",
+  "tuition_intl": {
+   "amount": 5000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Faculty pages state EUR 5,000 per year for study in English; Slovak-taught study at standard length is free. Fee varies by faculty."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Slovak",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Faculty entrance exam (some programmes)"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "English-taught applicants must show basic English knowledge. Entrance exams vary by faculty (the Faculty of Aeronautics has none). E-application fee is EUR 20 at FEI; EUR 50 at the Faculty of Economics (EUR 60 on paper).",
+   "ka": "ინგლისურენოვანი პროგრამის აპლიკანტმა უნდა დაადასტუროს ინგლისურის საბაზისო ცოდნა. მისაღები გამოცდები ფაკულტეტების მიხედვით განსხვავდება (საავიაციო ფაკულტეტზე გამოცდა არ არის). ელექტრონული განაცხადის საფასური FEI-ზე 20 ევროა; ეკონომიკის ფაკულტეტზე 50 ევრო.",
+   "ar": "يجب على المتقدمين للبرامج الإنجليزية إثبات معرفة أساسية بالإنجليزية. تختلف امتحانات القبول حسب الكلية (كلية الطيران لا تشترطها). رسوم الطلب الإلكتروني 20 يورو في FEI و50 يورو في كلية الاقتصاد."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV",
+     "ka": "CV (ავტობიოგრაფია)",
+     "ar": "السيرة الذاتية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school final certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "slovakia",
+   "kosice",
+   "engineering"
+  ],
+  "sources": [
+   "https://tuke.sk/en/admission-procedure",
+   "https://eprihlaska.tuke.sk/eprihlaska/",
+   "https://fei.tuke.sk/en/applications-and-decisions",
+   "https://ekf.tuke.sk/en/information-for-applicants-for-the-first-bachelor-degree-of-study-at-ekf-tuke"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "mahidol-university",
+  "name": {
+   "en": "Mahidol University",
+   "ka": "მაჰიდოლის უნივერსიტეტი",
+   "ar": "جامعة ماهيدول"
+  },
+  "iso": "TH",
+  "city": "Nakhon Pathom",
+  "lat": 13.794,
+  "lon": 100.325,
+  "type": "public",
+  "website": "https://mahidol.ac.th",
+  "platform": "MUIC online admission portal",
+  "application_url": "https://admission.muic.io/#/signup",
+  "intakes": [
+   "September",
+   "January",
+   "April"
+  ],
+  "deadline": null,
+  "deadline_note": "Mahidol International College (MUIC) overseas applicants: Trimester 1 applications ran 2 to 30 June 2026, Trimester 2 from 1 to 30 September 2026, Trimester 3 from 1 December 2026 to 8 January 2027. Other Mahidol faculties set their own dates.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 30000,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Thai"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "MUIC accepts US Grade 12, A-Level, BTEC, IB Diploma, French Baccalaureate, GED and other overseas qualifications for overseas applicants.",
+   "ka": "MUIC უცხოელ აპლიკანტებს იღებს აშშ-ის მე-12 კლასის, A-Level-ის, BTEC-ის, IB დიპლომის, ფრანგული ბაკალავრეატის, GED-ისა და სხვა უცხოური კვალიფიკაციით.",
+   "ar": "تقبل MUIC المتقدمين من الخارج بشهادات الصف 12 الأمريكية وA-Level وBTEC ودبلوم IB والبكالوريا الفرنسية وGED ومؤهلات أجنبية أخرى."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 69,
+  "duolingo_min": null,
+  "other_tests": [
+   "SAT Math or ACT Math (most programmes)",
+   "PTE Academic 50"
+  ],
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "social-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Nursing",
+    "Pharmacy",
+    "Science"
+   ],
+   "ka": [
+    "მედიცინა",
+    "მედდობა",
+    "ფარმაცია",
+    "მეცნიერება"
+   ],
+   "ar": [
+    "الطب",
+    "التمريض",
+    "الصيدلة",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "Thailand's leading public health and medical university, with campuses near Bangkok.",
+   "ka": "ტაილანდის წამყვანი სამედიცინო და ჯანდაცვის საჯარო უნივერსიტეტი, ბანგკოკის მახლობლად.",
+   "ar": "جامعة حكومية رائدة في الطب والصحة في تايلاند، لها حرم قرب بانكوك."
+  },
+  "about": {
+   "en": "Mahidol is a public research university with campuses in Salaya (Nakhon Pathom), Bangkok and elsewhere. It offers several international bachelor programmes in English.",
+   "ka": "მაჰიდოლი საჯარო სამეცნიერო უნივერსიტეტია, კამპუსებით სალაიაში (ნაკონ პატომი), ბანგკოკსა და სხვაგან. აქვს რამდენიმე საერთაშორისო ბაკალავრის პროგრამა ინგლისურად.",
+   "ar": "ماهيدول جامعة بحثية حكومية بحرم في سالايا (ناخون باثوم) وبانكوك وغيرها. تقدم عدة برامج بكالوريوس دولية بالإنجليزية."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "MUIC requires IELTS Academic 6.0 (Writing 6), TOEFL iBT 69 or PTE 50, valid for 2 years. Most programmes also need SAT Math 600 or ACT Math 25 (500/18 for media and travel programmes). An interview follows for successful applicants.",
+   "ka": "MUIC-ს სჭირდება IELTS Academic 6.0 (Writing 6), TOEFL iBT 69 ან PTE 50, ორი წლის ვადით. პროგრამების უმეტესობას დამატებით სჭირდება SAT Math 600 ან ACT Math 25 (მედიისა და მოგზაურობის პროგრამებზე 500/18). წარმატებულ აპლიკანტებთან ტარდება გასაუბრება.",
+   "ar": "تشترط MUIC درجة IELTS Academic 6.0 (الكتابة 6) أو TOEFL iBT 69 أو PTE 50 صالحة لعامين. تحتاج معظم البرامج أيضاً إلى SAT Math 600 أو ACT Math 25 (500/18 لبرامج الإعلام والسفر). تُجرى مقابلة مع المقبولين."
+  },
+  "gpa_note": {
+   "en": "Applicants need an official transcript and school diploma with English translation and a school profile; no minimum GPA is published on the overseas admission page.",
+   "ka": "აპლიკანტს სჭირდება ოფიციალური ტრანსკრიპტი და ატესტატი ინგლისური თარგმანით და სკოლის პროფილი; მინიმალური GPA გვერდზე მითითებული არ არის.",
+   "ar": "يحتاج المتقدم إلى كشف درجات رسمي وشهادة مدرسية مترجمة إلى الإنجليزية وملف تعريفي بالمدرسة؛ ولا يُنشر حد أدنى للمعدل في صفحة القبول."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school final certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency score",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი ქულა",
+     "ar": "نتيجة اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "SAT or ACT Math score",
+     "ka": "SAT ან ACT მათემატიკის ქულა",
+     "ar": "نتيجة الرياضيات في SAT أو ACT"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Two letters of recommendation",
+     "ka": "ორი სარეკომენდაციო წერილი",
+     "ar": "خطابا توصية"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Statement of purpose (250+ words)",
+     "ka": "მოტივაციის წერილი (მინიმუმ 250 სიტყვა)",
+     "ar": "بيان الغرض (250 كلمة على الأقل)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Recent photo",
+     "ka": "ახალი ფოტო",
+     "ar": "صورة شخصية حديثة"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Financial statement",
+     "ka": "ფინანსური დოკუმენტი",
+     "ar": "إثبات القدرة المالية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Interview",
+     "ka": "გასაუბრება",
+     "ar": "مقابلة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate",
+     "ka": "სამედიცინო ცნობა",
+     "ar": "شهادة طبية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://muic.mahidol.ac.th/eng/admissions/undergraduate-admission/overseas-students"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "prince-of-songkla-university",
+  "name": {
+   "en": "Prince of Songkla University",
+   "ka": "სონგკლას პრინცის უნივერსიტეტი",
+   "ar": "جامعة برنس أوف سونغكلا"
+  },
+  "iso": "TH",
+  "city": "Hat Yai",
+  "lat": 7.007,
+  "lon": 100.5,
+  "type": "public",
+  "website": "https://www.psu.ac.th",
+  "platform": "PSU e-admission (TCAS) or direct faculty application",
+  "application_url": "https://e-admission.psu.ac.th/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Thai",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Sciences",
+    "Natural resources"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "მეცნიერებები",
+    "ბუნებრივი რესურსები"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "العلوم",
+    "الموارد الطبيعية"
+   ]
+  },
+  "summary": {
+   "en": "PSU is a public university in southern Thailand with its main campus in Hat Yai. Its site blocked automated reading, so no fee or deadline is listed here.",
+   "ka": "PSU სამხრეთ ტაილანდის სახელმწიფო უნივერსიტეტია, მთავარი კამპუსი ჰატ იაიშია. საიტმა ავტომატური წაკითხვა დაბლოკა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "PSU جامعة حكومية في جنوب تايلاند، ومقرها الرئيسي في هات ياي. حجب الموقع القراءة الآلية، لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "PSU is a public university in southern Thailand with its main campus in Hat Yai. Its site blocked automated reading, so no fee or deadline is listed here.",
+   "ka": "PSU სამხრეთ ტაილანდის სახელმწიფო უნივერსიტეტია, მთავარი კამპუსი ჰატ იაიშია. საიტმა ავტომატური წაკითხვა დაბლოკა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "PSU جامعة حكومية في جنوب تايلاند، ومقرها الرئيسي في هات ياي. حجب الموقع القراءة الآلية، لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Applicants may need evidence of English proficiency such as IELTS or TOEFL; minimum scores are set by each programme. International applicants must obtain a non-immigrant ED visa and health insurance before arriving in Thailand.",
+   "ka": "აპლიკანტებს შეიძლება დასჭირდეთ ინგლისურის დამადასტურებელი IELTS ან TOEFL; მინიმალურ ქულას პროგრამა განსაზღვრავს. ტაილანდში ჩასვლამდე საჭიროა ED ვიზა და ჯანმრთელობის დაზღვევა.",
+   "ar": "قد يُطلب إثبات إتقان الإنجليزية مثل IELTS أو TOEFL ويحدد كل برنامج الحد الأدنى. يجب الحصول على تأشيرة ED وتأمين صحي قبل دخول تايلاند."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school final certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency score",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი ქულა",
+     "ar": "نتيجة اختبار اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "thailand",
+   "hat yai"
+  ],
+  "sources": [
+   "https://gao.psu.ac.th/admission/undergraduate-admission.html",
+   "https://reg.psu.ac.th/en/tuition-fee-en/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "duolingo_min": null,
+  "toefl_min": null,
+  "ielts_min": null,
+  "other_tests": [
+   "SAT, GSAT, GED, GCSE or IGCSE",
+   "TOEFL, IELTS, TOEIC, Duolingo or CEFR certificate"
+  ],
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "scholarships": [],
+  "tests": {
+   "en": "Engineering international programmes ask for one standardised test (SAT, GSAT, GED, GCSE or IGCSE) and one English proficiency proof (TOEFL, IELTS, TOEIC, Duolingo or CEFR). Minimum scores are not published on the page.",
+   "ka": "საინჟინრო საერთაშორისო პროგრამებზე საჭიროა ერთი სტანდარტიზებული ტესტი (SAT, GSAT, GED, GCSE ან IGCSE) და ინგლისურის დამადასტურებელი ერთი დოკუმენტი (TOEFL, IELTS, TOEIC, Duolingo ან CEFR). მინიმალური ქულები მითითებული არ არის.",
+   "ar": "تطلب برامج الهندسة الدولية اختباراً معيارياً واحداً (SAT أو GSAT أو GED أو GCSE أو IGCSE) وإثباتاً واحداً للغة الإنجليزية (TOEFL أو IELTS أو TOEIC أو Duolingo أو CEFR). لا تُنشر الدرجات الدنيا."
+  },
+  "gpa_note": null,
+  "deadline": null,
+  "deadline_note": "Engineering international programmes: Round 2 direct admission ran 1 April to 1 May 2025; the 2027 dates are not yet published.",
+  "tuition_intl": {
+   "amount": 480000,
+   "currency": "THB",
+   "per": "program",
+   "note": "Faculty of Engineering international bachelor programmes, total programme fee without a scholarship; full tuition-waiver scholarships exist for outstanding applicants."
+  },
+  "students": null,
+  "aid_intl": {
+   "en": "Full tuition-waived scholarships are offered to outstanding applicants in the international engineering programmes.",
+   "ka": "საერთაშორისო საინჟინრო პროგრამებზე გამორჩეულ აპლიკანტებს სთავაზობენ სწავლის საფასურის სრულ გათავისუფლებას.",
+   "ar": "تُمنح منح إعفاء كامل من الرسوم للمتقدمين المتميزين في برامج الهندسة الدولية."
+  },
+  "verified_at": "2026-11-16",
+  "id": "king-mongkut-s-university-of-technology-north-bangkok-kmutnb",
+  "name": {
+   "en": "King Mongkut's University of Technology North Bangkok (KMUTNB)",
+   "ka": "მეფე მონგკუტის ჩრდილოეთ ბანგკოკის ტექნოლოგიური უნივერსიტეტი (KMUTNB)",
+   "ar": "جامعة الملك مونغكوت للتكنولوجيا شمال بانكوك (KMUTNB)"
+  },
+  "iso": "TH",
+  "city": "Bangkok",
+  "lat": 13.819,
+  "lon": 100.514,
+  "type": "public",
+  "website": "https://www.kmutnb.ac.th",
+  "platform": "CIEP (Faculty of Engineering international programmes) online application / TCAS",
+  "application_url": "https://www.eng.kmutnb.ac.th/ciep/?page_id=3092",
+  "intakes": [
+   "August"
+  ],
+  "languages": [
+   "English",
+   "Thai"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Technical education",
+    "Applied science",
+    "Information technology"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ტექნიკური განათლება",
+    "გამოყენებითი მეცნიერება",
+    "საინფორმაციო ტექნოლოგიები"
+   ],
+   "ar": [
+    "الهندسة",
+    "التعليم التقني",
+    "العلوم التطبيقية",
+    "تكنولوجيا المعلومات"
+   ]
+  },
+  "summary": {
+   "en": "A public technical university in Bangkok with an International College offering English-taught programmes. Fees and requirements could not be read on the pages available.",
+   "ka": "საჯარო ტექნიკური უნივერსიტეტი ბანგკოკში, საერთაშორისო კოლეჯით ინგლისურენოვანი პროგრამებით. საფასური და მოთხოვნები ხელმისაწვდომ გვერდებზე ვერ მოიძებნა.",
+   "ar": "جامعة تقنية حكومية في بانكوك لها كلية دولية تقدم برامج بالإنجليزية. لم تتوفر الرسوم والشروط في الصفحات المتاحة."
+  },
+  "about": {
+   "en": "KMUTNB is a public technical university in Bangkok, Thailand. The main site is in Thai; an International Programs page and an International College recruit through the Thai TCAS system, including a Round 1 quota. Tuition, deadlines and English requirements for international applicants were not found in readable form; contact contact@op.kmutnb.ac.th.",
+   "ka": "KMUTNB საჯარო ტექნიკური უნივერსიტეტია ბანგკოკში. ძირითადი საიტი ტაილანდურია; საერთაშორისო პროგრამები და საერთაშორისო კოლეჯი მიიღებს ტაილანდური TCAS სისტემით, მათ შორის I რაუნდის კვოტით. საფასური და მოთხოვნები ვერ მოიძებნა; მიწერეთ contact@op.kmutnb.ac.th.",
+   "ar": "KMUTNB جامعة تقنية حكومية في بانكوك. الموقع الرئيسي بالتايلاندية، وتقبل الكلية الدولية عبر نظام TCAS بما في ذلك حصة الجولة الأولى. لم تتوفر الرسوم والمواعيد وشروط الإنجليزية؛ راسل contact@op.kmutnb.ac.th."
+  },
+  "requirements": [
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency score",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი ქულა",
+     "ar": "نتيجة اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "SAT, GSAT, GED, GCSE or IGCSE result",
+     "ka": "SAT, GSAT, GED, GCSE ან IGCSE შედეგი",
+     "ar": "نتيجة SAT أو GSAT أو GED أو GCSE أو IGCSE"
+    }
+   }
+  ],
+  "keywords": [
+   "thailand",
+   "bangkok",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.eng.kmutnb.ac.th/ciep/?p=4673",
+   "https://www.eng.kmutnb.ac.th/ciep/academic-programs/scholarships/"
+  ]
+ },
+ {
+  "id": "northern-borders-university",
+  "name": {
+   "en": "Northern Borders University",
+   "ka": "ჩრდილოეთ საზღვრების უნივერსიტეტი",
+   "ar": "جامعة الحدود الشمالية"
+  },
+  "iso": "SA",
+  "city": "Arar",
+  "lat": 30.98,
+  "lon": 41.02,
+  "type": "public",
+  "website": "https://nbu.edu.sa",
+  "platform": "Unified National Admission Platform (uap.sa)",
+  "application_url": "https://uap.sa",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Qudurat (General Aptitude Test)",
+   "Tahsili (Achievement Test)"
+  ],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Arar, Saudi Arabia, with colleges of medicine, engineering, computing, pharmacy, nursing and business.",
+   "ka": "საჯარო უნივერსიტეტი არარში, საუდის არაბეთი, სამედიცინო, საინჟინრო, საკომპიუტერო, ფარმაცევტული, საექთნო და ბიზნეს ფაკულტეტებით.",
+   "ar": "جامعة حكومية في عرعر بالمملكة العربية السعودية تضم كليات الطب والهندسة والحاسب والصيدلة والتمريض وإدارة الأعمال."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Admission is ranked by a weighted score of the secondary result, the Qudurat and, for the scientific track, the Tahsili. Foreign certificates must be attested by the Saudi Cultural Mission or given equivalency by the Ministry of Education. The page is written for Saudi applicants.",
+   "ka": "მიღება ხდება შეწონილი ქულით: საშუალო სკოლის შედეგი, Qudurat და სამეცნიერო მიმართულებისთვის Tahsili. უცხოური ატესტატი უნდა დამოწმდეს საუდის კულტურულ მისიაში ან მიიღოს განათლების სამინისტროს ექვივალენტობა. გვერდი საუდელი აპლიკანტებისთვისაა დაწერილი.",
+   "ar": "يُرتَّب القبول بدرجة مرجّحة من نتيجة الثانوية واختبار القدرات وللمسار العلمي اختبار التحصيلي. يجب تصديق الشهادة الأجنبية من الملحقية الثقافية السعودية أو معادلتها من وزارة التعليم. الصفحة موجهة للمتقدمين السعوديين."
+  },
+  "gpa_note": {
+   "en": "Applicants need a general secondary certificate or equivalent. Scientific track weights: school 30%, Qudurat 30%, Tahsili 40%; theoretical track (female): 40/30/30; theoretical track (male): 50/50.",
+   "ka": "საჭიროა ზოგადი საშუალო განათლების ატესტატი ან ექვივალენტი. სამეცნიერო მიმართულების წონები: სკოლა 30%, Qudurat 30%, Tahsili 40%; თეორიული (ქალები) 40/30/30; თეორიული (კაცები) 50/50.",
+   "ar": "يُشترط شهادة الثانوية العامة أو ما يعادلها. أوزان المسار العلمي: المدرسة 30% والقدرات 30% والتحصيلي 40%؛ المسار النظري (إناث) 40/30/30؛ (ذكور) 50/50."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school final certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition or attestation of the foreign certificate",
+     "ka": "უცხოური ატესტატის აღიარება ან დამოწმება",
+     "ar": "معادلة أو تصديق الشهادة الأجنبية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "saudi arabia",
+   "arar"
+  ],
+  "sources": [
+   "https://deanship-admission-registration.nbu.edu.sa/en/new-students",
+   "https://nbu.edu.sa/en"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-ha-il",
+  "name": {
+   "en": "University of Ha'il",
+   "ka": "ჰაილის უნივერსიტეტი",
+   "ar": "جامعة حائل"
+  },
+  "iso": "SA",
+  "city": "Hail",
+  "lat": 27.523,
+  "lon": 41.69,
+  "type": "public",
+  "website": "https://www.uoh.edu.sa",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Hail, Saudi Arabia. Its Deanship of Admission and Registration handles admission of non-Saudi students; no fees or deadlines are published on the pages read.",
+   "ka": "საუდის არაბეთის ჰაილის საჯარო უნივერსიტეტი. არასაუდელი სტუდენტების მიღებას აღრიცხვისა და მიღების დეკანატი ახორციელებს; წაკითხულ გვერდებზე საფასური და ვადები არ არის.",
+   "ar": "جامعة عامة في حائل بالسعودية. تتولى عمادة القبول والتسجيل قبول الطلاب غير السعوديين، ولا تنشر الصفحات المقروءة رسوماً أو مواعيد."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "saudi arabia",
+   "hail",
+   "public"
+  ],
+  "sources": [
+   "https://www.uoh.edu.sa/En/Deanships/Deanship-A-R/Pages/default.aspx"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-khartoum",
+  "name": {
+   "en": "University of Khartoum",
+   "ka": "ხართუმის უნივერსიტეტი",
+   "ar": "جامعة الخرطوم"
+  },
+  "iso": "SD",
+  "city": "Khartoum",
+  "lat": 15.589,
+  "lon": 32.534,
+  "type": "public",
+  "website": "https://www.uofk.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Sciences",
+    "Law"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "მეცნიერებები",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "العلوم",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "Oldest and largest public university in Sudan. Undergraduate admission is set by Sudan's Board of Higher Education.",
+   "ka": "სუდანის უძველესი და უდიდესი სახელმწიფო უნივერსიტეტი. ბაკალავრიატში მიღებას სუდანის უმაღლესი განათლების საბჭო არეგულირებს.",
+   "ar": "أقدم وأكبر جامعة عامة في السودان. يخضع القبول الجامعي لمجلس التعليم العالي السوداني."
+  },
+  "about": {
+   "en": "The University of Khartoum is a public university in Khartoum, Sudan. Its admission page states that undergraduate admission policy is governed by the Board of Higher Education of Sudan, with minimum requirements depending on nationality and school-certificate board. No international fee, deadline or application link is published on the page read.",
+   "ka": "ხართუმის უნივერსიტეტი სახელმწიფო უნივერსიტეტია სუდანში. მისი გვერდის მიხედვით ბაკალავრიატში მიღებას არეგულირებს სუდანის უმაღლესი განათლების საბჭო; მოთხოვნები დამოკიდებულია ეროვნებასა და ატესტატის ტიპზე. საფასური და ვადები არ არის მითითებული.",
+   "ar": "جامعة عامة في الخرطوم. تذكر صفحة القبول أن سياسة القبول الجامعي يحكمها مجلس التعليم العالي السوداني، وأن الحد الأدنى يتوقف على الجنسية ونوع الشهادة. لا تُنشر رسوم أو مواعيد."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": {
+   "en": "Minimum undergraduate entry requirements are set by the Board of Higher Education of Sudan and depend on the applicant's nationality (Sudanese or non-Sudanese) and the secondary certificate board.",
+   "ka": "ბაკალავრიატში მიღების მინიმალურ მოთხოვნებს განსაზღვრავს სუდანის უმაღლესი განათლების საბჭო; ისინი დამოკიდებულია აპლიკანტის ეროვნებაზე (სუდანელი თუ არასუდანელი) და საშუალო განათლების სერტიფიკატზე.",
+   "ar": "يحدد مجلس التعليم العالي السوداني الحد الأدنى لشروط القبول الجامعي، وتختلف حسب جنسية المتقدم (سوداني أو غير سوداني) وجهة إصدار الشهادة الثانوية."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "sudan",
+   "khartoum",
+   "public"
+  ],
+  "sources": [
+   "https://www.uofk.edu/index.php/admission"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "damascus-university",
+  "name": {
+   "en": "Damascus University",
+   "ka": "დამასკოს უნივერსიტეტი",
+   "ar": "جامعة دمشق"
+  },
+  "iso": "SY",
+  "city": "Damascus",
+  "lat": 33.51,
+  "lon": 36.289,
+  "type": "public",
+  "website": "https://damascusuniversity.edu.sy",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "law"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "sy",
+   "damascus"
+  ],
+  "sources": [
+   "https://damascusuniversity.edu.sy"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universite-de-tunis-el-manar",
+  "name": {
+   "en": "Université de Tunis El Manar",
+   "ka": "ტუნის ელ-მანარის უნივერსიტეტი",
+   "ar": "جامعة تونس المنار"
+  },
+  "iso": "TN",
+  "city": "Tunis",
+  "lat": 36.836,
+  "lon": 10.147,
+  "type": "public",
+  "website": "https://www.utm.rnu.tn",
+  "platform": "National admission system",
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 5000,
+   "currency": "TND",
+   "per": "year",
+   "note": "Ministry of Higher Education document on foreign students in public universities lists 5,000 TND per year for Licence programmes; the document is undated, confirm with the university."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French",
+   "Arabic"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "engineering",
+   "law"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Tunis, Tunisia. Its website could not be reached during this research, so no admissions data is listed.",
+   "ka": "საჯარო უნივერსიტეტი ტუნისში, ტუნისი. კვლევისას მისი ვებგვერდი მიუწვდომელი იყო, ამიტომ მიღების მონაცემები არ არის მითითებული.",
+   "ar": "جامعة حكومية في تونس العاصمة. تعذّر الوصول إلى موقعها أثناء البحث، لذا لا تُذكر بيانات القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "tunisia",
+   "tunis"
+  ],
+  "sources": [
+   "https://www.utm.rnu.tn",
+   "https://www.mes.tn/image.php?id=7580"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

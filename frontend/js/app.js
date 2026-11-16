@@ -562,7 +562,11 @@
     var tutorLink = user.tutor && user.tutor.status === 'approved'
       ? '<a class="btn btn-ghost btn-sm" href="/tutor" title="' + t('nav.tutorDashboard') + '" aria-label="' + t('nav.tutorDashboard') + '">' + icon('dashboard', 16) + t('nav.tutorDashboard') + '</a>'
       : '';
-    return tutorLink + '<a class="btn btn-ghost btn-sm" href="/account">' +
+    // school counsellors get their students; teachers their dashboard; students their account
+    var counsellorLink = user.counsellor && user.counsellor.status === 'approved' && user.counsellor.linked
+      ? '<a class="btn btn-ghost btn-sm" href="/counsellor" title="' + t('nav.myStudents') + '">' + icon('users', 16) + t('nav.myStudents') + '</a>'
+      : '';
+    return counsellorLink + tutorLink + '<a class="btn btn-ghost btn-sm" href="/account">' +
       '<span class="avatar avatar-sm">' + esc(user.initials) + '</span>' + esc(user.first_name) + '</a>' +
       '<button type="button" class="btn btn-outline btn-sm" data-logout>' + t('nav.logout') + '</button>';
   }
@@ -754,6 +758,10 @@
       }
     });
     loadUser().then(paintAuth);
+    if (/[?&]deleted=1/.test(window.location.search)) {
+      toast(t('home.deleted'), 'success');
+      try { window.history.replaceState(null, '', window.location.pathname); } catch (e) {}
+    }
     watchSelects();
     // Meridian AI: the chat button on every page (loaded after the page itself)
     if (!document.querySelector('script[src^="/js/ai.js"]') && document.body.getAttribute('data-page') !== 'admin') {

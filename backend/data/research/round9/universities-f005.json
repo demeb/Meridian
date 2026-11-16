@@ -1,0 +1,679 @@
+[
+ {
+  "id": "prince-of-songkla-university",
+  "name": {
+   "en": "Prince of Songkla University",
+   "ka": "სონგკლას პრინცის უნივერსიტეტი",
+   "ar": "جامعة برنس أوف سونغكلا"
+  },
+  "iso": "TH",
+  "city": "Hat Yai",
+  "lat": 7.007,
+  "lon": 100.5,
+  "type": "public",
+  "website": "https://www.psu.ac.th",
+  "platform": "PSU e-admission (TCAS) or direct faculty application",
+  "application_url": "https://e-admission.psu.ac.th/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 27000,
+   "currency": "THB",
+   "per": "semester",
+   "note": "PSU's registrar fee page lists Thai-student rates per semester (e.g. 16,000 for Economics, Law, Humanities; 18,000 for Science; 28,000 for Engineering Computer Eng., Pharmacy, Veterinary; 59,000 for the international Innovation Engineering programme). International undergraduates pay 1.5 times the Thai rate, so 27,000 is the general Science figure. The page is the 2017 announcement, valid for students enrolled 2015-2022 and updated 2022; confirm the current rate."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Thai",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Sciences",
+    "Natural resources"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "მეცნიერებები",
+    "ბუნებრივი რესურსები"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "العلوم",
+    "الموارد الطبيعية"
+   ]
+  },
+  "summary": {
+   "en": "PSU is a public university in southern Thailand with its main campus in Hat Yai. Its site blocked automated reading, so no fee or deadline is listed here.",
+   "ka": "PSU სამხრეთ ტაილანდის სახელმწიფო უნივერსიტეტია, მთავარი კამპუსი ჰატ იაიშია. საიტმა ავტომატური წაკითხვა დაბლოკა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "PSU جامعة حكومية في جنوب تايلاند، ومقرها الرئيسي في هات ياي. حجب الموقع القراءة الآلية، لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "PSU is a public university in southern Thailand with its main campus in Hat Yai. Its site blocked automated reading, so no fee or deadline is listed here.",
+   "ka": "PSU სამხრეთ ტაილანდის სახელმწიფო უნივერსიტეტია, მთავარი კამპუსი ჰატ იაიშია. საიტმა ავტომატური წაკითხვა დაბლოკა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "PSU جامعة حكومية في جنوب تايلاند، ومقرها الرئيسي في هات ياي. حجب الموقع القراءة الآلية، لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Applicants may need evidence of English proficiency such as IELTS or TOEFL; minimum scores are set by each programme. International applicants must obtain a non-immigrant ED visa and health insurance before arriving in Thailand.",
+   "ka": "აპლიკანტებს შეიძლება დასჭირდეთ ინგლისურის დამადასტურებელი IELTS ან TOEFL; მინიმალურ ქულას პროგრამა განსაზღვრავს. ტაილანდში ჩასვლამდე საჭიროა ED ვიზა და ჯანმრთელობის დაზღვევა.",
+   "ar": "قد يُطلب إثبات إتقان الإنجليزية مثل IELTS أو TOEFL ويحدد كل برنامج الحد الأدنى. يجب الحصول على تأشيرة ED وتأمين صحي قبل دخول تايلاند."
+  },
+  "gpa_note": {
+   "en": "No minimum grade is published on the central page; each faculty sets its entry criteria, and applicants who qualify receive an Acceptance Letter within three weeks.",
+   "ka": "ცენტრალურ გვერდზე მინიმალური ნიშანი არ არის გამოქვეყნებული; შესარჩევ კრიტერიუმებს ფაკულტეტი განსაზღვრავს, შესაბამისი აპლიკანტები მისაღებ წერილს სამ კვირაში იღებენ.",
+   "ar": "لا يُنشر حد أدنى للعلامات في الصفحة المركزية؛ تحدد كل كلية معايير القبول، ويتلقى المتقدمون المؤهلون خطاب القبول خلال ثلاثة أسابيع."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school final certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency score",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი ქულა",
+     "ar": "نتيجة اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee paid online or sent with the form",
+     "ka": "განაცხადის საფასური ონლაინ ან ფორმასთან ერთად",
+     "ar": "رسوم التقديم تُدفع إلكترونياً أو مع الطلب"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "thailand",
+   "hat yai"
+  ],
+  "sources": [
+   "https://gao.psu.ac.th/admission/undergraduate-admission.html",
+   "https://reg.psu.ac.th/en/tuition-fee-en/",
+   "https://e-admission.psu.ac.th/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universite-de-tunis-el-manar",
+  "name": {
+   "en": "Université de Tunis El Manar",
+   "ka": "ტუნის ელ-მანარის უნივერსიტეტი",
+   "ar": "جامعة تونس المنار"
+  },
+  "iso": "TN",
+  "city": "Tunis",
+  "lat": 36.836,
+  "lon": 10.147,
+  "type": "public",
+  "website": "https://www.utm.rnu.tn",
+  "platform": "National admission system",
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 5000,
+   "currency": "TND",
+   "per": "year",
+   "note": "Ministry of Higher Education document on foreign students in public universities lists 5,000 TND per year for Licence programmes; the document is undated, confirm with the university."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French",
+   "Arabic"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "engineering",
+   "law"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Tunis, Tunisia. Its website could not be reached during this research, so no admissions data is listed.",
+   "ka": "საჯარო უნივერსიტეტი ტუნისში, ტუნისი. კვლევისას მისი ვებგვერდი მიუწვდომელი იყო, ამიტომ მიღების მონაცემები არ არის მითითებული.",
+   "ar": "جامعة حكومية في تونس العاصمة. تعذّر الوصول إلى موقعها أثناء البحث، لذا لا تُذكر بيانات القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "tunisia",
+   "tunis"
+  ],
+  "sources": [
+   "https://www.utm.rnu.tn",
+   "https://www.mes.tn/image.php?id=7580"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "tashkent-state-transport-university",
+  "name": {
+   "en": "Tashkent State Transport University",
+   "ka": "ტაშკენტის სახელმწიფო სატრანსპორტო უნივერსიტეტი",
+   "ar": "جامعة طشقند الحكومية للنقل"
+  },
+  "iso": "UZ",
+  "city": "Tashkent",
+  "lat": 41.3,
+  "lon": 69.29,
+  "type": "public",
+  "website": "https://www.tstu.uz",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public transport and engineering university in Tashkent, Uzbekistan.",
+   "ka": "სახელმწიფო სატრანსპორტო და საინჟინრო უნივერსიტეტი ტაშკენტში, უზბეკეთში.",
+   "ar": "جامعة حكومية للنقل والهندسة في طشقند بأوزبكستان."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "uz",
+   "tashkent"
+  ],
+  "sources": [
+   "https://www.tstu.uz"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "tashkent-state-university-of-economics",
+  "name": {
+   "en": "Tashkent State University of Economics",
+   "ka": "ტაშკენტის სახელმწიფო ეკონომიკის უნივერსიტეტი",
+   "ar": "جامعة طشقند الحكومية للاقتصاد"
+  },
+  "iso": "UZ",
+  "city": "Tashkent",
+  "lat": 41.318,
+  "lon": 69.268,
+  "type": "public",
+  "website": "https://www.tsue.uz",
+  "platform": null,
+  "application_url": "https://tsue.uz/en/admission",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "economics",
+   "business"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public economics university in Tashkent, Uzbekistan.",
+   "ka": "სახელმწიფო ეკონომიკის უნივერსიტეტი ტაშკენტში, უზბეკეთში.",
+   "ar": "جامعة حكومية للاقتصاد في طشقند بأوزبكستان."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "The university says it gives no financial aid to international students.",
+   "ka": "უნივერსიტეტის განცხადებით, უცხოელ სტუდენტებს ფინანსურ დახმარებას არ სთავაზობს.",
+   "ar": "تذكر الجامعة أنها لا تقدّم مساعدة مالية للطلاب الدوليين."
+  },
+  "tests": {
+   "en": "Foreign applicants apply online and are admitted after a university interview (remote by Zoom is possible) that checks mathematics and a foreign language. No test score is published.",
+   "ka": "უცხოელი აპლიკანტები განაცხადს აგზავნიან ონლაინ და ჩაირიცხებიან უნივერსიტეტის გასაუბრების შემდეგ (შესაძლებელია დისტანციურად Zoom-ით), რომელიც მათემატიკასა და უცხო ენას აფასებს. ქულის მინიმუმი გამოქვეყნებული არ არის.",
+   "ar": "يقدّم الأجانب طلبهم إلكترونياً ويُقبلون بعد مقابلة جامعية (ممكنة عن بُعد عبر Zoom) تقيّم الرياضيات ولغة أجنبية. لا تُنشر درجة دنيا."
+  },
+  "gpa_note": {
+   "en": "Original educational documents showing subjects and grades are required; no minimum grade is published. The State Commission reviews the interview and the rector's order confirms admission.",
+   "ka": "საჭიროა საგნებისა და ნიშნების მაჩვენებელი ორიგინალი საგანმანათლებლო დოკუმენტები; მინიმალური ნიშანი გამოქვეყნებული არ არის. გასაუბრებას სახელმწიფო კომისია განიხილავს, ჩარიცხვას რექტორის ბრძანება ადასტურებს.",
+   "ar": "تُطلب وثائق التعليم الأصلية بالمواد والعلامات، ولا يُنشر حد أدنى للعلامات. تراجع اللجنة الحكومية المقابلة ويؤكد أمر رئيس الجامعة القبول."
+  },
+  "requirements": [
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Application for admission",
+     "ka": "განაცხადი ჩარიცხვაზე",
+     "ar": "طلب القبول"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Original educational documents with subjects and grades",
+     "ka": "განათლების დამადასტურებელი ორიგინალი დოკუმენტები საგნებითა და ნიშნებით",
+     "ar": "وثائق التعليم الأصلية مع المواد والدرجات"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate of health",
+     "ka": "ჯანმრთელობის სამედიცინო ცნობა",
+     "ar": "شهادة طبية بالحالة الصحية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "National passport with valid visa, or birth certificate",
+     "ka": "ეროვნული პასპორტი მოქმედი ვიზით ან დაბადების მოწმობა",
+     "ar": "جواز سفر وطني مع تأشيرة سارية أو شهادة ميلاد"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Six photographs, 4 x 6 cm",
+     "ka": "ექვსი ფოტო, 4 x 6 სმ",
+     "ar": "ست صور شخصية مقاس 4 × 6 سم"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Admission interview (online possible)",
+     "ka": "მისაღები გასაუბრება (შესაძლებელია ონლაინ)",
+     "ar": "مقابلة القبول (ممكنة عبر الإنترنت)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "uz",
+   "tashkent"
+  ],
+  "sources": [
+   "https://www.tsue.uz",
+   "https://tsue.uz/en/admission",
+   "https://weconomist.tsue.uz/kafedra/page/international-applicants/",
+   "https://estatistics.tsue.uz/kafedra/page/international-students/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-central-de-venezuela",
+  "name": {
+   "en": "Universidad Central de Venezuela",
+   "ka": "ვენესუელის ცენტრალური უნივერსიტეტი",
+   "ar": "جامعة فنزويلا المركزية"
+  },
+  "iso": "VE",
+  "city": "Caracas",
+  "lat": 10.49,
+  "lon": -66.89,
+  "type": "public",
+  "website": "https://www.ucv.ve",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "humanities",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Architecture",
+    "Humanities",
+    "Law"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "არქიტექტურა",
+    "ჰუმანიტარული მეცნიერებები",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "العمارة",
+    "الإنسانيات",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "Venezuela's oldest and largest public university, in Caracas, taught in Spanish. Its campus is a UNESCO World Heritage site.",
+   "ka": "ვენესუელის უძველესი და უდიდესი საჯარო უნივერსიტეტი კარაკასში, სწავლება ესპანურადაა. კამპუსი იუნესკოს მსოფლიო მემკვიდრეობის ძეგლია.",
+   "ar": "أقدم وأكبر جامعة عامة في فنزويلا، في كاراكاس، والتدريس بالإسبانية. حرمها الجامعي موقع تراث عالمي لليونسكو."
+  },
+  "about": {
+   "en": "The Central University of Venezuela is a public university in Caracas founded in 1721. Teaching is in Spanish. The university website could not be reached in this round, so admission rules, fees and deadlines for foreign applicants are left empty.",
+   "ka": "ვენესუელის ცენტრალური უნივერსიტეტი კარაკასის საჯარო უნივერსიტეტია, დაარსებულია 1721 წელს. სწავლება ესპანურადაა. საიტი ამ რაუნდში მიუწვდომელი იყო, ამიტომ მიღების წესები და საფასური მითითებული არ არის.",
+   "ar": "جامعة فنزويلا المركزية جامعة عامة في كاراكاس تأسست عام 1721، والتدريس بالإسبانية. تعذر الوصول إلى موقعها في هذه الجولة، لذا تُركت شروط القبول والرسوم والمواعيد فارغة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "venezuela",
+   "caracas",
+   "public",
+   "spanish"
+  ],
+  "sources": [
+   "https://www.ucv.ve"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-simon-bolivar-usb",
+  "name": {
+   "en": "Universidad Simón Bolívar (USB)",
+   "ka": "სიმონ ბოლივარის უნივერსიტეტი (USB)",
+   "ar": "جامعة سيمون بوليفار (USB)"
+  },
+  "iso": "VE",
+  "city": "Caracas",
+  "lat": 10.408,
+  "lon": -66.886,
+  "type": "public",
+  "website": "https://www.usb.ve",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [],
+  "strengths": null,
+  "summary": {
+   "en": "A public university in Caracas, Venezuela, focused on science and engineering. Its website could not be read, so no admission facts were verified.",
+   "ka": "საჯარო უნივერსიტეტი კარაკასში, ვენესუელა, მეცნიერებასა და ინჟინერიაზე ორიენტირებული. საიტი ვერ ჩაიტვირთა, ამიტომ მიღების ფაქტები ვერ გადამოწმდა.",
+   "ar": "جامعة حكومية في كاراكاس بفنزويلا تركز على العلوم والهندسة. تعذرت قراءة موقعها لذا لم يتم التحقق من معلومات القبول."
+  },
+  "about": {
+   "en": "A public university in Caracas, Venezuela, focused on science and engineering. Its website could not be read, so no admission facts were verified. Contact the admissions office for current requirements and fees.",
+   "ka": "საჯარო უნივერსიტეტი კარაკასში, ვენესუელა, მეცნიერებასა და ინჟინერიაზე ორიენტირებული. საიტი ვერ ჩაიტვირთა, ამიტომ მიღების ფაქტები ვერ გადამოწმდა. მიმდინარე პირობებისა და საფასურისთვის დაუკავშირდით მისაღებ ოფისს.",
+   "ar": "جامعة حكومية في كاراكاس بفنزويلا تركز على العلوم والهندسة. تعذرت قراءة موقعها لذا لم يتم التحقق من معلومات القبول. يُرجى التواصل مع مكتب القبول لمعرفة الشروط والرسوم الحالية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "ve",
+   "caracas"
+  ],
+  "sources": [
+   "https://www.usb.ve"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-de-los-andes-ula-merida",
+  "name": {
+   "en": "Universidad de Los Andes - (ULA) Mérida",
+   "ka": "ანდების უნივერსიტეტი (ULA), მერიდა",
+   "ar": "جامعة لوس أنديس (ULA) ميريدا"
+  },
+  "iso": "VE",
+  "city": "Merida",
+  "lat": 8.589,
+  "lon": -71.156,
+  "type": "public",
+  "website": "https://www.ula.ve",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "humanities"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Universidad de Los Andes - (ULA) Mérida is a public university in Merida, Venezuela. Teaching is in Spanish.",
+   "ka": "ანდების უნივერსიტეტი (ULA), მერიდა — სახელმწიფო უნივერსიტეტია, მდებარეობს ვენესუელაში (მერიდა). სწავლება მიმდინარეობს ესპანურ ენაზე.",
+   "ar": "جامعة لوس أنديس (ULA) ميريدا جامعة حكومية في ميريدا، فنزويلا. لغة التدريس هي الإسبانية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "merida",
+   "venezuela",
+   "spanish"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "duy-tan-university",
+  "name": {
+   "en": "Duy Tan University",
+   "ka": "ზუი ტანის უნივერსიტეტი",
+   "ar": "جامعة دوي تان"
+  },
+  "iso": "VN",
+  "city": "Da Nang",
+  "lat": 16.06,
+  "lon": 108.21,
+  "type": "private",
+  "website": "https://www.duytan.edu.vn",
+  "platform": null,
+  "application_url": "https://duytan.edu.vn/tuyen-sinh",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Vietnamese",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "computer-science",
+   "business",
+   "medicine-health",
+   "engineering"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A private university in Da Nang, Vietnam, with programmes in IT, medicine, business and engineering. Official international admission details could not be read this round.",
+   "ka": "ვიეტნამის დანანგის კერძო უნივერსიტეტი, პროგრამებით IT-ში, მედიცინაში, ბიზნესსა და ინჟინერიაში. ოფიციალური საერთაშორისო ჩარიცხვის დეტალები ვერ წაიკითხა.",
+   "ar": "جامعة خاصة في دا نانغ بفيتنام، ببرامج في تقنية المعلومات والطب والأعمال والهندسة. لم يمكن قراءة تفاصيل القبول الدولي الرسمية في هذه الجولة."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "DTU's 2021 admission notice allows direct enrolment with IELTS 5.5 or higher; its 2026 routes use Vietnamese school exam or transcript scores. A separate international-applicant rule set is not published.",
+   "ka": "DTU-ის 2021 წლის შეტყობინებით, IELTS 5.5 ან მეტით შესაძლებელია პირდაპირი ჩარიცხვა; 2026 წლის გზები ვიეტნამურ სასკოლო გამოცდის ან ატესტატის ქულებს ეფუძნება. უცხოელებისთვის ცალკე წესები გამოქვეყნებული არ არის.",
+   "ar": "يتيح إشعار القبول لعام 2021 في DTU التسجيل المباشر بدرجة IELTS 5.5 فأكثر، بينما تعتمد مسارات 2026 على درجات الامتحان المدرسي الفيتنامي أو السجل الدراسي. لا توجد قواعد منفصلة للمتقدمين الدوليين منشورة."
+  },
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "vietnam",
+   "da nang"
+  ],
+  "sources": [
+   "https://www.duytan.edu.vn/en",
+   "https://duytan.edu.vn/news/en/undergraduate/dtu-announces-admission-score-thresholds-for-the-first-round-of-2026-admissions"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

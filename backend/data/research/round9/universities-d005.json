@@ -1,0 +1,1090 @@
+[
+ {
+  "id": "universidade-federal-de-santa-catarina",
+  "name": {
+   "en": "Universidade Federal de Santa Catarina",
+   "ka": "სანტა-კატარინას ფედერალური უნივერსიტეტი",
+   "ar": "جامعة سانتا كاتارينا الاتحادية"
+  },
+  "iso": "BR",
+  "city": "Florianópolis",
+  "lat": -27.601,
+  "lon": -48.519,
+  "type": "public",
+  "website": "https://ufsc.br",
+  "platform": "Vestibular Unificado UFSC/IFC (COPERVE); PEC-G; SiSU/ENEM",
+  "application_url": "https://vestibularunificado2027.ufsc.br",
+  "intakes": [],
+  "deadline": "2026-09-17",
+  "deadline_note": "Vestibular Unificado UFSC/IFC 2027: online registration 12 Aug to 17 Sep 2026 (fee paid by 18 Sep), exams 5 and 6 Dec 2026. Foreign nationals may sit it; PEC-G and SiSU are separate routes with their own calendars.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Vestibular UFSC/IFC"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "The Vestibular is a written exam with multiple-proposition and open questions in subject areas (including Physics, Chemistry, humanities) and an essay. Registration fee R$192. All undergraduate programmes are taught in Portuguese.",
+   "ka": "ვესტიბულარი წერითი გამოცდაა: მრავალპასუხიანი და ღია კითხვები საგნობრივ სფეროებში (მათ შორის ფიზიკა, ქიმია, ჰუმანიტარული საგნები) და ესე. სარეგისტრაციო გადასახადი R$192. ყველა საბაკალავრო პროგრამა პორტუგალიურ ენაზეა.",
+   "ar": "الفيستيبولار امتحان تحريري فيه أسئلة متعددة الافتراضات ومفتوحة في مجالات دراسية (منها الفيزياء والكيمياء والعلوم الإنسانية) ومقال. رسوم التسجيل 192 ريالاً برازيلياً. جميع برامج البكالوريوس تُدرَّس بالبرتغالية."
+  },
+  "gpa_note": {
+   "en": "Candidates must have finished secondary school, or be about to finish it, by the enrolment date; places are filled by exam rank.",
+   "ka": "კანდიდატს საშუალო სკოლა უნდა ჰქონდეს დამთავრებული ან ჩარიცხვის დროისთვის დასამთავრებელი; ადგილები გამოცდის რეიტინგით ნაწილდება.",
+   "ar": "يجب أن يكون المتقدم قد أنهى المرحلة الثانوية أو على وشك إنهائها عند التسجيل؛ وتُوزَّع المقاعد حسب ترتيب نتيجة الامتحان."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or national ID, plus Brazilian CPF number",
+     "ka": "პასპორტი ან ეროვნული პირადობის მოწმობა და ბრაზილიური CPF ნომერი",
+     "ar": "جواز السفر أو الهوية الوطنية مع رقم CPF البرازيلي"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school completion",
+     "ka": "საშუალო სკოლის დამთავრების დამადასტურებელი დოკუმენტი",
+     "ar": "وثيقة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "br",
+   "florianópolis"
+  ],
+  "sources": [
+   "https://vestibularunificado2027.ufsc.br/files/2026/08/Edital-Vestibular-2027.pdf",
+   "https://en.ufsc.br/international-admissions/",
+   "https://sinter.ufsc.br/pec-g-2/?lang=en"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "pontificia-universidade-catolica-de-sao-paulo",
+  "name": {
+   "en": "Pontifícia Universidade Católica de São Paulo",
+   "ka": "სან-პაულუს პაპის კათოლიკური უნივერსიტეტი",
+   "ar": "الجامعة البابوية الكاثوليكية في ساو باولو"
+  },
+  "iso": "BR",
+  "city": "São Paulo",
+  "lat": -23.54,
+  "lon": -46.67,
+  "type": "private",
+  "website": "https://www.pucsp.br",
+  "platform": "Direct (Vestibular PUC-SP via NUCVEST)",
+  "application_url": "https://www.nucvest.com.br/",
+  "intakes": [
+   "February"
+  ],
+  "deadline": "2026-10-02",
+  "deadline_note": "Vestibular PUC-SP Verao 2027 (entry in the first semester of 2027): registration 6 Aug to 2 Oct 2026, exam 17 Oct 2026, first enrolment call 10 to 23 Nov 2026. Later calls run to Feb 2027. Dates for the next intake are published by NUCVEST.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Vestibular PUC-SP"
+  ],
+  "fields": [
+   "social-sciences",
+   "humanities",
+   "law"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Private Catholic university in São Paulo, Brazil, taught in Portuguese. Entry is by vestibular.",
+   "ka": "კერძო კათოლიკური უნივერსიტეტი სან-პაულუში, ბრაზილია, სწავლება პორტუგალიურად. მიღება ვესტიბულარით.",
+   "ar": "جامعة كاثوليكية خاصة في ساو باولو بالبرازيل، التدريس بالبرتغالية، والقبول عبر امتحان vestibular."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "The in-person exam lasts 4 hours: 50 objective questions based on the ENEM matrix plus an essay written in Portuguese. A zero on the essay disqualifies the candidate. Registration fee R$280.",
+   "ka": "გამოცდა ცოცხალია და 4 საათი გრძელდება: 50 ტესტური კითხვა ENEM-ის მატრიცის მიხედვით და ესე პორტუგალიურ ენაზე. ესეზე ნულოვანი ქულა კანდიდატს გამორიცხავს. სარეგისტრაციო გადასახადი R$280.",
+   "ar": "الامتحان حضوري ومدته 4 ساعات: 50 سؤالاً موضوعياً وفق مصفوفة ENEM ومقال بالبرتغالية. الحصول على صفر في المقال يستبعد المتقدم. رسوم التسجيل 280 ريالاً برازيلياً."
+  },
+  "gpa_note": {
+   "en": "The exam is for candidates with secondary school completed or finishing in 2026; places are ranked by exam score. Monthly tuition is listed on each programme page.",
+   "ka": "გამოცდა განკუთვნილია საშუალო სკოლადამთავრებულთათვის ან 2026 წელს დამამთავრებლებისთვის; ადგილები ქულების რეიტინგით ნაწილდება. თვიური გადასახადი თითოეული პროგრამის გვერდზეა მითითებული.",
+   "ar": "الامتحان لمن أتمّ المرحلة الثانوية أو سيُتمّها في 2026؛ وتُوزَّع المقاعد حسب النتيجة. الأقساط الشهرية مذكورة في صفحة كل برنامج."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school completion",
+     "ka": "საშუალო სკოლის დამთავრების დამადასტურებელი დოკუმენტი",
+     "ar": "وثيقة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "sao paulo"
+  ],
+  "sources": [
+   "https://www.pucsp.br/en",
+   "https://www.pucsp.br/arii/estude-na-puc-sp-study-puc-sp",
+   "https://nucvest.com.br/downloads/pucsp/vestibular/2027/verao/Manual-Candidato-Vestibular-Verao-2027.pdf",
+   "https://www.pucsp.br/arii/study-puc-sp"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidade-federal-de-sao-carlos-ufscar",
+  "name": {
+   "en": "Universidade Federal de São Carlos (UFSCar)",
+   "ka": "სან-კარლოსის ფედერალური უნივერსიტეტი (UFSCar)",
+   "ar": "الجامعة الفيدرالية في ساو كارلوس (UFSCar)"
+  },
+  "iso": "BR",
+  "city": "São Carlos",
+  "lat": -21.984,
+  "lon": -47.881,
+  "type": "public",
+  "website": "https://www.ufscar.br",
+  "platform": "SiSU/ENEM; PEC-G; refugee admission via ENEM",
+  "application_url": "https://www.ingresso.ufscar.br",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Any foreign student can apply through ENEM and SiSU: ENEM registration usually opens in early May, SiSU in early January. Refugees register in May and post documents by the last day of August. PEC-G follows the national call.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "ENEM",
+   "Celpe-Bras"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "education"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Federal public university in São Carlos, Brazil. Teaching is in Portuguese. No international admissions page could be read, so fees and deadlines are not listed.",
+   "ka": "ბრაზილიის სან-კარლოსში მდებარე ფედერალური საჯარო უნივერსიტეტი. სწავლება პორტუგალიურია. საერთაშორისო მისაღები გვერდი ვერ წაიკითხა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "جامعة فيدرالية عامة في ساو كارلوس بالبرازيل. التدريس بالبرتغالية. تعذّرت قراءة صفحة القبول الدولي، لذلك لا تُعرض الرسوم والمواعيد."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Entry is by ENEM score through SiSU; there is no separate UFSCar entrance exam on the international page. PEC-G applicants need a Portuguese proficiency certificate (Celpe-Bras) under the national decree.",
+   "ka": "მიღება ხდება ENEM-ის ქულით SiSU-ს სისტემით; UFSCar-ის საერთაშორისო გვერდზე ცალკე მისაღები გამოცდა არ არის მითითებული. PEC-G განმცხადებლებს ეროვნული დეკრეტით პორტუგალიური ენის სერტიფიკატი (Celpe-Bras) სჭირდებათ.",
+   "ar": "القبول بنتيجة ENEM عبر نظام SiSU، ولا يذكر قسم الدولي امتحان قبول منفصلاً في UFSCar. يحتاج متقدمو PEC-G إلى شهادة إتقان البرتغالية (Celpe-Bras) بموجب المرسوم الوطني."
+  },
+  "gpa_note": {
+   "en": "PEC-G candidates need a secondary school diploma, are aged 18 to preferably 23, and are selected diplomatically in their home country; others compete by ENEM score.",
+   "ka": "PEC-G კანდიდატებს სჭირდებათ საშუალო სკოლის დიპლომი, ასაკი 18-დან სასურველად 23 წლამდე და მშობლიურ ქვეყანაში დიპლომატიური შერჩევა; დანარჩენები ENEM-ის ქულით კონკურირებენ.",
+   "ar": "يحتاج متقدمو PEC-G إلى شهادة الثانوية وعمرهم من 18 عاماً ويُفضَّل ألا يتجاوز 23، ويُختارون دبلوماسياً في بلدهم؛ وغيرهم يتنافسون بنتيجة ENEM."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school completion",
+     "ka": "საშუალო სკოლის დამთავრების დამადასტურებელი დოკუმენტი",
+     "ar": "وثيقة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Portuguese proficiency (Celpe-Bras)",
+     "ka": "პორტუგალიური ენის ცოდნა (Celpe-Bras)",
+     "ar": "إثبات إتقان اللغة البرتغالية (Celpe-Bras)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "sao carlos",
+   "public"
+  ],
+  "sources": [
+   "https://www.ufscar.br",
+   "https://www.ufscar.br/foreign-visitor/undergraduate",
+   "https://www.ingresso.ufscar.br",
+   "https://legis.senado.leg.br/norma/588020/publicacao/15771164"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidade-federal-do-parana-ufpr",
+  "name": {
+   "en": "Universidade Federal do Paraná - UFPR",
+   "ka": "პარანას ფედერალური უნივერსიტეტი (UFPR)",
+   "ar": "الجامعة الفيدرالية في بارانا (UFPR)"
+  },
+  "iso": "BR",
+  "city": "Curitiba",
+  "lat": -25.427,
+  "lon": -49.266,
+  "type": "public",
+  "website": "https://www.ufpr.br",
+  "platform": "PEC-G / PEC-PLE (national programme); ENEM-based selections",
+  "application_url": "https://internacional.ufpr.br/portal/programa-pec/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "PEC-G applications are made at a Brazilian embassy or consulate under the yearly MEC/MRE call. UFPR has 36 places for transfers into the first semester of 2027 (PEC-G students already in the programme, apply by 23 Dec 2026).",
+  "tuition_intl": {
+   "amount": 0,
+   "currency": "BRL",
+   "per": "year",
+   "note": "PEC-G offers free higher education; living costs are the student's own and must be proven."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Celpe-Bras"
+  ],
+  "fields": [
+   "law",
+   "medicine-health",
+   "engineering",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Federal public university in Curitiba, Brazil. Its international relations office runs the PEC-G programme for students from partner countries. Teaching is in Portuguese.",
+   "ka": "ბრაზილიის კურიტიბაში მდებარე ფედერალური საჯარო უნივერსიტეტი. საერთაშორისო ურთიერთობების ოფისი მართავს PEC-G პროგრამას პარტნიორი ქვეყნების სტუდენტებისთვის. სწავლება პორტუგალიურია.",
+   "ar": "جامعة فيدرالية عامة في كوريتيبا بالبرازيل. يدير مكتب العلاقات الدولية فيها برنامج PEC-G لطلاب الدول الشريكة. التدريس بالبرتغالية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "PEC-G applicants must show Portuguese proficiency, usually the Celpe-Bras certificate. Without it they apply to PEC-PLE: a free year of Portuguese in Brazil, then the Celpe-Bras exam (free at UFPR).",
+   "ka": "PEC-G განმცხადებლებმა პორტუგალიური ენის ცოდნა უნდა დაადასტურონ, ჩვეულებრივ Celpe-Bras სერტიფიკატით. თუ არ აქვთ, მიმართავენ PEC-PLE-ს: ერთი უფასო წელი ბრაზილიაში პორტუგალიურის შესასწავლად, შემდეგ Celpe-Bras გამოცდა (UFPR-ში უფასოა).",
+   "ar": "على متقدمي PEC-G إثبات إتقان البرتغالية، عادةً بشهادة Celpe-Bras. وإن لم تتوفر لديهم يتقدمون إلى PEC-PLE: سنة مجانية لتعلم البرتغالية في البرازيل ثم امتحان Celpe-Bras (مجاني في UFPR)."
+  },
+  "gpa_note": {
+   "en": "Applicants must be citizens of a PEC-G country, aged 18 to preferably 23, have finished or be about to finish secondary school, and hold no Brazilian visa.",
+   "ka": "განმცხადებელი უნდა იყოს PEC-G-ში მონაწილე ქვეყნის მოქალაქე, 18-დან სასურველად 23 წლამდე, დამთავრებული ან დასამთავრებელი საშუალო სკოლით და ბრაზილიის ვიზის გარეშე.",
+   "ar": "يجب أن يكون المتقدم من مواطني دولة مشاركة في PEC-G، وعمره من 18 عاماً ويُفضَّل ألا يتجاوز 23، وقد أنهى الثانوية أو على وشك ذلك، ولا يحمل تأشيرة برازيلية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school completion",
+     "ka": "საშუალო სკოლის დამთავრების დამადასტურებელი დოკუმენტი",
+     "ar": "وثيقة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Portuguese proficiency (Celpe-Bras)",
+     "ka": "პორტუგალიური ენის ცოდნა (Celpe-Bras)",
+     "ar": "إثبات إتقان اللغة البرتغالية (Celpe-Bras)"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds to live in Brazil",
+     "ka": "ბრაზილიაში საცხოვრებელი სახსრების დადასტურება",
+     "ar": "إثبات القدرة المالية للعيش في البرازيل"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "curitiba",
+   "public",
+   "PEC-G"
+  ],
+  "sources": [
+   "https://internacional.ufpr.br/",
+   "https://internacional.ufpr.br/portal/programa-pec/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidade-do-estado-do-rio-de-janeiro-uerj",
+  "name": {
+   "en": "Universidade do Estado do Rio de Janeiro (UERJ)",
+   "ka": "რიო-დე-ჟანეიროს შტატის უნივერსიტეტი (UERJ)",
+   "ar": "جامعة ولاية ريو دي جانيرو (UERJ)"
+  },
+  "iso": "BR",
+  "city": "Rio de Janeiro",
+  "lat": -22.911,
+  "lon": -43.236,
+  "type": "public",
+  "website": "https://www.uerj.br",
+  "platform": "Direct (UERJ Vestibular)",
+  "application_url": "https://www.vestibular.uerj.br/",
+  "intakes": [
+   "March"
+  ],
+  "deadline": null,
+  "deadline_note": "Vestibular Estadual 2027: 1st Qualification Exam registration closed 7 May 2026 (exam in June), 2nd closed 7 Aug 2026, Discursive Exam registration 12 Sep to 7 Oct 2026 with the exam on 29 Nov 2026.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "UERJ Vestibular"
+  ],
+  "fields": [
+   "medicine-health",
+   "social-sciences",
+   "humanities"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Universidade do Estado do Rio de Janeiro (UERJ) is a public university in Rio de Janeiro, Brazil. Teaching is in Portuguese.",
+   "ka": "რიო-დე-ჟანეიროს შტატის უნივერსიტეტი (UERJ) — სახელმწიფო უნივერსიტეტია, მდებარეობს ბრაზილიაში (რიო-დე-ჟანეირო). სწავლება მიმდინარეობს პორტუგალიურ ენაზე.",
+   "ar": "جامعة ولاية ريو دي جانيرو (UERJ) جامعة حكومية في ريو دي جانيرو، البرازيل. لغة التدريس هي البرتغالية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Entry is by the UERJ Vestibular: two Qualification exams (objective, fee R$100 each) and one written Discursive exam (R$130), based on high-school content. Foreigners may use the Ministry of Justice foreigner ID as identity.",
+   "ka": "მიღება ხდება UERJ-ის ვესტიბულარით: ორი საკვალიფიკაციო გამოცდა (ტესტური, თითო R$100) და ერთი წერითი დისკურსიული გამოცდა (R$130) საშუალო სკოლის შინაარსზე. უცხოელებს პირადობად შეუძლიათ იუსტიციის სამინისტროს მიერ გაცემული უცხოელის ბარათის გამოყენება.",
+   "ar": "القبول عبر فيستيبولار UERJ: امتحانا تأهيل موضوعيان (100 ريال لكل منهما) وامتحان كتابي استدلالي (130 ريالاً) بمحتوى المرحلة الثانوية. يُقبل لإثبات الهوية بطاقة الأجنبي الصادرة عن وزارة العدل."
+  },
+  "gpa_note": {
+   "en": "Open to candidates who finished or are in the last year of secondary school; classified candidates must prove completion of secondary school at enrolment.",
+   "ka": "ღიაა საშუალო სკოლადამთავრებულთათვის ან ბოლო კლასის მოსწავლეებისთვის; ჩარიცხვისას კლასიფიცირებულებმა სკოლის დამთავრება უნდა დაადასტურონ.",
+   "ar": "التقديم مفتوح لمن أنهى الثانوية أو في سنتها الأخيرة؛ ويجب على المقبولين إثبات إتمام الثانوية عند التسجيل."
+  },
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam",
+     "ka": "მისაღები გამოცდა",
+     "ar": "امتحان القبول"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school completion",
+     "ka": "საშუალო სკოლის დამთავრების დამადასტურებელი დოკუმენტი",
+     "ar": "وثيقة إتمام المرحلة الثانوية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "rio de janeiro",
+   "brazil",
+   "portuguese"
+  ],
+  "sources": [
+   "https://www.uerj.br/ensino/estude-na-uerj/",
+   "https://www.vestibular.uerj.br/",
+   "https://www.vestibular.uerj.br/anexos/271/Manual_1fase_2027_Edital_.pdf",
+   "https://www.uerj.br/noticia/vestibular-uerj-2027-periodo-de-inscricoes-para-o-exame-discursivo-vai-de-12-de-setembro-a-7-de-outubro/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidade-federal-da-bahia",
+  "name": {
+   "en": "Universidade Federal da Bahia",
+   "ka": "ბაჰიის ფედერალური უნივერსიტეტი",
+   "ar": "جامعة ولاية باهيا الفيدرالية"
+  },
+  "iso": "BR",
+  "city": "Salvador",
+  "lat": -13.002,
+  "lon": -38.507,
+  "type": "public",
+  "website": "https://www.ufba.br",
+  "platform": "SISU / ENEM (national), PEC-G for foreign students",
+  "application_url": "https://ingresso.ufba.br/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "ENEM",
+   "Celpe-Bras"
+  ],
+  "fields": [
+   "humanities",
+   "social-sciences",
+   "medicine-health",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Humanities",
+    "Health sciences",
+    "Arts",
+    "Social sciences"
+   ],
+   "ka": [
+    "ჰუმანიტარული მეცნიერებები",
+    "ჯანდაცვის მეცნიერებები",
+    "ხელოვნება",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم الإنسانية",
+    "العلوم الصحية",
+    "الفنون",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Large federal public university in Salvador, Brazil. Undergraduate teaching is in Portuguese.",
+   "ka": "ბრაზილიის ქალაქ სალვადორში მდებარე დიდი ფედერალური საჯარო უნივერსიტეტი. ბაკალავრიატში სწავლება პორტუგალიურ ენაზეა.",
+   "ar": "جامعة اتحادية عامة كبيرة في سالفادور بالبرازيل. التدريس في المرحلة الجامعية الأولى بالبرتغالية."
+  },
+  "about": {
+   "en": "UFBA is a federal public university in Salvador, Bahia. Undergraduate entry runs through the national SISU system using ENEM results. Foreign students can enter through the PEC-G government programme, which is arranged by the home country and Brazil's education ministry. Classes are in Portuguese. The university's foreign-student pages cover exchange students only; no degree-seeking fee or deadline is published for international applicants.",
+   "ka": "უფბა (UFBA) არის ფედერალური საჯარო უნივერსიტეტი სალვადორში, ბაჰიაში. ბაკალავრიატში მიღება ხდება ეროვნული SISU სისტემით ENEM-ის შედეგების მიხედვით. უცხოელ სტუდენტებს შეუძლიათ ჩაირიცხონ PEC-G სამთავრობო პროგრამით. სწავლება პორტუგალიურ ენაზეა. უნივერსიტეტის გვერდები უცხოელებისთვის მხოლოდ გაცვლით სტუდენტებს ეხება.",
+   "ar": "جامعة اتحادية عامة في سالفادور بولاية باهيا. يتم القبول في المرحلة الجامعية الأولى عبر نظام SISU الوطني بنتائج ENEM. يمكن للطلاب الأجانب الالتحاق عبر برنامج PEC-G الحكومي. التدريس بالبرتغالية. صفحات الطلاب الأجانب تخص طلاب التبادل فقط."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Regular undergraduate entry is by ENEM score through SiSU. Foreign degree students can also enter through PEC-G, applying at the Brazilian embassy; Portuguese proficiency (Celpe-Bras) is required under the PEC-G decree.",
+   "ka": "რეგულარული საბაკალავრო მიღება ხდება ENEM-ის ქულით SiSU-ს მეშვეობით. უცხოელ სტუდენტებს PEC-G-ითაც შეუძლიათ ჩაბარება ბრაზილიის საელჩოში განაცხადით; PEC-G-ის დეკრეტით საჭიროა პორტუგალიური ენის ცოდნა (Celpe-Bras).",
+   "ar": "القبول العادي للبكالوريوس بنتيجة ENEM عبر SiSU. ويمكن للطلاب الأجانب الالتحاق عبر PEC-G بالتقديم في السفارة البرازيلية؛ ويُشترط إثبات البرتغالية (Celpe-Bras) بموجب مرسوم PEC-G."
+  },
+  "gpa_note": {
+   "en": "ENEM candidates are ranked by score. PEC-G candidates must have finished secondary school and hold a Celpe-Bras certificate under Decree 7,948/2013.",
+   "ka": "ENEM-ის კანდიდატები ქულების მიხედვით რანჟირდებიან. PEC-G კანდიდატებს დეკრეტის 7,948/2013 მიხედვით საშუალო სკოლა უნდა ჰქონდეთ დამთავრებული და Celpe-Bras სერტიფიკატი.",
+   "ar": "يُرتَّب متقدمو ENEM حسب النتيجة. ويجب على متقدمي PEC-G إنهاء الثانوية وتقديم شهادة Celpe-Bras بموجب المرسوم 7.948/2013."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school completion",
+     "ka": "საშუალო სკოლის დამთავრების დამადასტურებელი დოკუმენტი",
+     "ar": "وثيقة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Portuguese proficiency (Celpe-Bras)",
+     "ka": "პორტუგალიური ენის ცოდნა (Celpe-Bras)",
+     "ar": "إثبات إتقان اللغة البرتغالية (Celpe-Bras)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "salvador",
+   "bahia",
+   "portuguese",
+   "federal university"
+  ],
+  "sources": [
+   "https://ufba.br/processos-seletivos",
+   "https://aai.ufba.br/pt-br/documentos-necessarios-estrangeiros",
+   "https://legis.senado.leg.br/norma/588020/publicacao/15771164"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidade-federal-de-pernambuco-ufpe",
+  "name": {
+   "en": "Universidade Federal de Pernambuco (UFPE)",
+   "ka": "პერნამბუკუს ფედერალური უნივერსიტეტი (UFPE)",
+   "ar": "جامعة بيرنامبوكو الاتحادية (UFPE)"
+  },
+  "iso": "BR",
+  "city": "Recife",
+  "lat": -8.052,
+  "lon": -34.951,
+  "type": "public",
+  "website": "https://www.ufpe.br",
+  "platform": "SISU / ENEM (national)",
+  "application_url": "https://www.ufpe.br/en/international/admissions",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "ENEM",
+   "Celpe-Bras"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "medicine-health",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Health sciences",
+    "Social sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "ჯანდაცვის მეცნიერებები",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "العلوم الصحية",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Federal public university in Recife, Brazil. Undergraduate teaching is in Portuguese.",
+   "ka": "ფედერალური საჯარო უნივერსიტეტი რესიფეში, ბრაზილია. ბაკალავრიატში სწავლება პორტუგალიურია.",
+   "ar": "جامعة اتحادية عامة في ريسيفي بالبرازيل. التدريس بالبرتغالية."
+  },
+  "about": {
+   "en": "UFPE is a federal public university based in Recife, Pernambuco. Brazilian federal universities fill undergraduate places mainly through the national SISU system using ENEM scores. The university website could not be reached for this review, so no international fee, deadline or entry rule was verified. Teaching is in Portuguese.",
+   "ka": "UFPE არის ფედერალური საჯარო უნივერსიტეტი რესიფეში. ბრაზილიის ფედერალური უნივერსიტეტები ბაკალავრიატის ადგილებს ძირითადად SISU-ს მეშვეობით ავსებენ. უნივერსიტეტის საიტი მიუწვდომელი იყო, ამიტომ საერთაშორისო საფასური და ვადები არ დადასტურდა. სწავლება პორტუგალიურია.",
+   "ar": "جامعة اتحادية عامة في ريسيفي. تملأ الجامعات الاتحادية البرازيلية مقاعدها عبر نظام SISU بدرجات ENEM. لم يمكن الوصول إلى موقع الجامعة، لذلك لم يتم التحقق من الرسوم أو المواعيد. التدريس بالبرتغالية."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Regular undergraduate entry is through SiSU, which accepts only ENEM scores. PEC-G students are selected in their home country and need Celpe-Bras Portuguese proficiency under the national decree.",
+   "ka": "რეგულარული საბაკალავრო მიღება SiSU-ით ხდება, რომელიც მხოლოდ ENEM-ის ქულებს იღებს. PEC-G სტუდენტები მშობლიურ ქვეყანაში შეირჩევიან და ეროვნული დეკრეტით საჭიროებენ პორტუგალიური ენის ცოდნას (Celpe-Bras).",
+   "ar": "القبول العادي للبكالوريوس عبر SiSU الذي يقبل نتائج ENEM فقط. يُختار طلاب PEC-G في بلدانهم ويحتاجون إلى إثبات البرتغالية (Celpe-Bras) بموجب المرسوم الوطني."
+  },
+  "gpa_note": {
+   "en": "A foreign national with a tourist, diplomatic or permanent visa cannot be a PEC-G student; UFPE offers PEC-G places each year.",
+   "ka": "უცხო ქვეყნის მოქალაქე ტურისტული, დიპლომატიური ან მუდმივი ვიზით PEC-G სტუდენტი ვერ იქნება; UFPE ყოველწლიურად სთავაზობს PEC-G ადგილებს.",
+   "ar": "لا يجوز لمن يحمل تأشيرة سياحية أو دبلوماسية أو إقامة دائمة أن يكون طالب PEC-G؛ وتوفّر UFPE مقاعد PEC-G كل عام."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school completion",
+     "ka": "საშუალო სკოლის დამთავრების დამადასტურებელი დოკუმენტი",
+     "ar": "وثيقة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Portuguese proficiency (Celpe-Bras)",
+     "ka": "პორტუგალიური ენის ცოდნა (Celpe-Bras)",
+     "ar": "إثبات إتقان اللغة البرتغالية (Celpe-Bras)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "recife",
+   "pernambuco",
+   "portuguese"
+  ],
+  "sources": [
+   "https://www.ufpe.br",
+   "https://www.ufpe.br/en/international/admissions",
+   "https://www.ufpe.br/en/dri/estudantes-estrangeiros",
+   "https://legis.senado.leg.br/norma/588020/publicacao/15771164"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidade-federal-fluminense",
+  "name": {
+   "en": "Universidade Federal Fluminense",
+   "ka": "ფლუმინენსეს ფედერალური უნივერსიტეტი",
+   "ar": "جامعة فلومينينسي الاتحادية"
+  },
+  "iso": "BR",
+  "city": "Niterói",
+  "lat": -22.906,
+  "lon": -43.131,
+  "type": "public",
+  "website": "https://www.uff.br",
+  "platform": "SISU / ENEM; PEC-G for foreign students",
+  "application_url": "https://www.uff.br/prograd/formas-de-ingresso/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "ENEM",
+   "Celpe-Bras"
+  ],
+  "fields": [
+   "social-sciences",
+   "engineering",
+   "medicine-health",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Social sciences",
+    "Engineering",
+    "Health sciences",
+    "Humanities"
+   ],
+   "ka": [
+    "სოციალური მეცნიერებები",
+    "ინჟინერია",
+    "ჯანდაცვის მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم الاجتماعية",
+    "الهندسة",
+    "العلوم الصحية",
+    "العلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "Federal public university in Niterói, across the bay from Rio de Janeiro. Foreign undergraduates enter through the PEC-G programme.",
+   "ka": "ფედერალური საჯარო უნივერსიტეტი ნიტეროიში, რიო-დე-ჟანეიროს მახლობლად. უცხოელი ბაკალავრები ჩაირიცხებიან PEC-G პროგრამით.",
+   "ar": "جامعة اتحادية عامة في نيتروي قرب ريو دي جانيرو. يلتحق الطلاب الأجانب عبر برنامج PEC-G."
+  },
+  "about": {
+   "en": "UFF is a federal public university in Niterói, Rio de Janeiro state. Its admission-modes page lists SiSU (needs ENEM results from the last three editions) and PEC-G for foreign students, who are selected in their home country and sent by Brazil's education ministry within UFF's yearly places. PEC-G students do not sit the university entrance exam. No fee amount is stated. Teaching is in Portuguese.",
+   "ka": "UFF არის ფედერალური საჯარო უნივერსიტეტი ნიტეროიში. მიღების გვერდზე მითითებულია SiSU (ENEM-ის ბოლო სამი წლის შედეგები) და PEC-G უცხოელებისთვის, რომლებიც საკუთარ ქვეყანაში შეირჩევიან. PEC-G სტუდენტები შესასვლელ გამოცდას არ აბარებენ. საფასური არ არის მითითებული. სწავლება პორტუგალიურია.",
+   "ar": "جامعة اتحادية عامة في نيتروي. صفحة طرق القبول تذكر SiSU (نتائج ENEM لآخر ثلاث دورات) وبرنامج PEC-G للأجانب الذين يتم اختيارهم في بلدهم ضمن مقاعد الجامعة السنوية. لا يخضع طلاب PEC-G لامتحان القبول. لم يُذكر مبلغ للرسوم. التدريس بالبرتغالية."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Home-country selection through PEC-G; no university entrance exam for PEC-G students. SiSU applicants use ENEM scores.",
+   "ka": "PEC-G-ით სტუდენტები შეირჩევიან საკუთარ ქვეყანაში; უნივერსიტეტის შესასვლელი გამოცდა არ არის საჭირო. SiSU-ს განმცხადებლები იყენებენ ENEM-ის ქულებს.",
+   "ar": "الاختيار في بلد الطالب عبر PEC-G دون امتحان قبول جامعي. متقدمو SiSU يستخدمون درجات ENEM."
+  },
+  "gpa_note": {
+   "en": "PEC-G students are selected in their home country through MEC and MRE and are exempt from the vestibular; enrolment is limited to the places UFF offers each year.",
+   "ka": "PEC-G სტუდენტები მშობლიურ ქვეყანაში MEC-სა და MRE-ის მეშვეობით შეირჩევიან და ვესტიბულარისგან თავისუფლდებიან; ჩარიცხვა UFF-ის ყოველწლიური ადგილებით შემოიფარგლება.",
+   "ar": "يُختار طلاب PEC-G في بلدانهم عبر MEC وMRE ويُعفون من الفيستيبولار؛ والقبول محدود بالمقاعد التي تعرضها UFF كل عام."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school completion",
+     "ka": "საშუალო სკოლის დამთავრების დამადასტურებელი დოკუმენტი",
+     "ar": "وثيقة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Portuguese proficiency (Celpe-Bras)",
+     "ka": "პორტუგალიური ენის ცოდნა (Celpe-Bras)",
+     "ar": "إثبات إتقان اللغة البرتغالية (Celpe-Bras)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "niteroi",
+   "rio",
+   "PEC-G",
+   "portuguese"
+  ],
+  "sources": [
+   "https://www.uff.br/prograd/formas-de-ingresso/",
+   "https://legis.senado.leg.br/norma/588020/publicacao/15771164"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "belarusian-state-university",
+  "name": {
+   "en": "Belarusian State University",
+   "ka": "ბელარუსის სახელმწიფო უნივერსიტეტი",
+   "ar": "جامعة بيلاروسيا الحكومية"
+  },
+  "iso": "BY",
+  "city": "Minsk",
+  "lat": 53.893,
+  "lon": 27.547,
+  "type": "public",
+  "website": "https://www.bsu.by",
+  "platform": "Direct (invitation + language interview); ISEI BSU international bachelor admission",
+  "application_url": "https://www.iseu.bsu.by/en/foreign_applicant/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Language interviews for foreign bachelor applicants run 1 July to 15 October (2025 schedule at ISEI BSU; every Tuesday and Thursday from Sept 2025). Citizens of visa-regime countries need an invitation and study visa first.",
+  "tuition_intl": {
+   "amount": 3950,
+   "currency": "USD",
+   "per": "year",
+   "note": "ISEI BSU English-taught bachelor, paid when a group has 10 students; Russian-taught places are 274,324 RUB per year. Other faculties set their own fees."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "Belarus's leading public university in Minsk. Official admission and fee pages could not be read this round.",
+   "ka": "ბელარუსის წამყვანი საჯარო უნივერსიტეტი მინსკში. ოფიციალური მისაღები და საფასურის გვერდები ვერ წაიკითხა.",
+   "ar": "الجامعة الحكومية الرائدة في بيلاروسيا في مينسك. تعذرت قراءة صفحات القبول والرسوم الرسمية."
+  },
+  "about": {
+   "en": "Belarusian State University is the country's main public university, in Minsk. Teaching is mainly in Russian. No official admission, fee or deadline details could be retrieved; contact the international office.",
+   "ka": "ბელარუსის სახელმწიფო უნივერსიტეტი ქვეყნის მთავარი საჯარო უნივერსიტეტია მინსკში. სწავლება ძირითადად რუსულადაა. ოფიციალური მონაცემები ვერ მოიძებნა; დაუკავშირდით საერთაშორისო ოფისს.",
+   "ar": "جامعة بيلاروسيا الحكومية هي الجامعة الحكومية الرئيسية في البلاد ومقرها مينسك. التدريس غالبا بالروسية. لم تتوفر بيانات رسمية؛ يرجى مراجعة المكتب الدولي."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "No entrance exam: foreign bachelor applicants are admitted after a paid language interview in Russian, or in English for English-taught programmes. Applicants who fail can join the preparatory department.",
+   "ka": "მისაღები გამოცდა არ არის: უცხოელი საბაკალავრო განმცხადებლები მიიღებიან ფასიანი ენის გასაუბრების შემდეგ რუსულად, ან ინგლისურად ინგლისურენოვან პროგრამებზე. წარუმატებლობისას შეიძლება მოსამზადებელ განყოფილებაში ჩაირიცხონ.",
+   "ar": "لا يوجد امتحان قبول: يُقبل المتقدمون الأجانب للبكالوريوس بعد مقابلة لغوية مدفوعة بالروسية، أو بالإنجليزية للبرامج الإنجليزية. ومن لا يجتاز المقابلة يمكنه الالتحاق بالقسم التحضيري."
+  },
+  "gpa_note": {
+   "en": "Applicants need completed secondary education (or higher education); Russian is tested by interview, English for English-taught programmes.",
+   "ka": "განმცხადებელს უნდა ჰქონდეს დამთავრებული საშუალო (ან უმაღლესი) განათლება; რუსული ენა მოწმდება გასაუბრებით, ინგლისური კი ინგლისურენოვან პროგრამებზე.",
+   "ar": "يحتاج المتقدم إلى تعليم ثانوي مكتمل (أو جامعي)؛ وتُختبر الروسية بمقابلة، والإنجليزية للبرامج الإنجليزية."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Original education certificate with subjects and grades, notarised Russian translation",
+     "ka": "განათლების დამადასტურებელი დოკუმენტი საგნებითა და ნიშნებით, რუსული ნოტარიული თარგმანით",
+     "ar": "شهادة التعليم الأصلية بالمواد والدرجات مع ترجمة روسية موثقة"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Photographs",
+     "ka": "ფოტოსურათები",
+     "ar": "صور شخصية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical and HIV certificates and birth certificate (notarised Russian translation)",
+     "ka": "სამედიცინო და აივ სერტიფიკატები და დაბადების მოწმობა (რუსული ნოტარიული თარგმანით)",
+     "ar": "شهادات طبية وخلو من الإيدز وشهادة الميلاد (مع ترجمة روسية موثقة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": null,
+  "sources": [
+   "https://bsu.by/en/",
+   "https://www.iseu.bsu.by/en/foreign_applicant/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "belarusian-national-technical-university-bntu",
+  "name": {
+   "en": "Belarusian National Technical University (BNTU)",
+   "ka": "ბელარუსის ეროვნული ტექნიკური უნივერსიტეტი (BNTU)",
+   "ar": "الجامعة الوطنية التقنية البيلاروسية (BNTU)"
+  },
+  "iso": "BY",
+  "city": "Minsk",
+  "lat": 53.908,
+  "lon": 27.576,
+  "type": "public",
+  "website": "https://www.bntu.by",
+  "platform": "Direct (invitation + online application at study.bntu.by)",
+  "application_url": "https://study.bntu.by",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "An older BNTU article (2019) gives 15 October as the application deadline for foreign students; check study.bntu.by for the current year. Visa-regime countries need an invitation (10 to 14 days review) and a student visa.",
+  "tuition_intl": {
+   "amount": 4800,
+   "currency": "USD",
+   "per": "year",
+   "note": "Full-time English-taught bachelor (Automation of technological processes, IIDE faculty page); Russian-taught distance bachelor about 1,800 USD. Fees vary by programme."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "environment"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "The main public technical university of Belarus, in Minsk.",
+   "ka": "ბელარუსის მთავარი სახელმწიფო ტექნიკური უნივერსიტეტი მინსკში.",
+   "ar": "الجامعة التقنية الحكومية الرئيسية في بيلاروس، في مينسك."
+  },
+  "about": {
+   "en": "BNTU is a public technical university in Minsk. Official admissions pages could not be read this round.",
+   "ka": "BNTU სახელმწიფო ტექნიკური უნივერსიტეტია მინსკში.",
+   "ar": "BNTU جامعة تقنية حكومية في مينسك."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "After arrival, applicants take an interview in Russian (English for English-taught programmes). Some faculties, such as architecture, may require extra entrance exams. Those who fail Russian can join the preparatory department.",
+   "ka": "ჩამოსვლის შემდეგ განმცხადებლები გადიან გასაუბრებას რუსულად (ინგლისურენოვან პროგრამებზე ინგლისურად). ზოგიერთ ფაკულტეტზე, მაგალითად არქიტექტურაზე, შეიძლება დამატებითი გამოცდა იყოს საჭირო. რუსულის გაუვლელობისას მოსამზადებელ განყოფილებაში ჩაირიცხებიან.",
+   "ar": "بعد الوصول يجري المتقدمون مقابلة بالروسية (وبالإنجليزية للبرامج الإنجليزية). قد تشترط بعض الكليات مثل العمارة امتحانات قبول إضافية. ومن لا يجتاز الروسية يلتحق بالقسم التحضيري."
+  },
+  "gpa_note": {
+   "en": "Applicants need an original education certificate listing subjects and grades that is recognised in Belarus; foreign-language documents need a notarised Russian translation.",
+   "ka": "განმცხადებელს სჭირდება განათლების დამადასტურებელი დედანი საგნებითა და ნიშნებით, რომელიც ბელარუსში აღიარებულია; უცხოენოვან დოკუმენტებს რუსული ნოტარიული თარგმანი სჭირდება.",
+   "ar": "يحتاج المتقدم إلى شهادة تعليمية أصلية بالمواد والدرجات معترف بها في بيلاروس؛ والوثائق بلغة أجنبية تتطلب ترجمة روسية موثقة."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport and application to the Rector",
+     "ka": "პასპორტი და განცხადება რექტორის სახელზე",
+     "ar": "جواز السفر وطلب موجّه إلى رئيس الجامعة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Original education certificate with subjects and grades (recognised in Belarus)",
+     "ka": "განათლების დამადასტურებელი დედანი საგნებითა და ნიშნებით (ბელარუსში აღიარებული)",
+     "ar": "شهادة التعليم الأصلية بالمواد والدرجات (معترف بها في بيلاروس)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate and HIV certificate",
+     "ka": "სამედიცინო და აივ სერტიფიკატი",
+     "ar": "شهادة طبية وشهادة خلو من الإيدز"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Four 3x4 cm photographs",
+     "ka": "ოთხი 3x4 სმ ფოტო",
+     "ar": "أربع صور 3×4 سم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "belarus",
+   "minsk",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.bntu.by",
+   "https://times.bntu.by/en/faculties/mido/pages/abiturientu",
+   "https://times.bntu.by/en/news/5597-obrazovanie-v-bntu"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

@@ -1,0 +1,486 @@
+[
+ {
+  "id": "can-tho-university",
+  "name": {
+   "en": "Can Tho University",
+   "ka": "კან თოს უნივერსიტეტი",
+   "ar": "جامعة كان ثو"
+  },
+  "iso": "VN",
+  "city": "Can Tho",
+  "lat": 10.03,
+  "lon": 105.771,
+  "type": "public",
+  "website": "https://www.ctu.edu.vn",
+  "platform": null,
+  "application_url": "https://www.ctu.edu.vn/en/admission-guidelines",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Vietnamese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "A graduation diploma at least equivalent to a Vietnamese upper-secondary diploma, certified, translated and consularly legalised.",
+   "ka": "საჭიროა ვიეტნამური საშუალო განათლების ტოლფასი დიპლომი, დამოწმებული, თარგმნილი და კონსულარულად ლეგალიზებული.",
+   "ar": "يلزم دبلوم يعادل على الأقل الثانوية الفيتنامية مصدقا ومترجما وموثقا قنصليا."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "environment",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in the Mekong Delta, Vietnam. International degree students apply through the Center for Global Education.",
+   "ka": "საჯარო უნივერსიტეტი მეკონგის დელტაში, ვიეტნამი. საერთაშორისო სტუდენტები განაცხადს გლობალური განათლების ცენტრში აგზავნიან.",
+   "ar": "جامعة حكومية في دلتا الميكونغ بفيتنام. يتقدم الطلاب الدوليون عبر مركز التعليم العالمي."
+  },
+  "about": {
+   "en": "Can Tho University is a public university in the Mekong Delta. International degree students send their documents by email or post to the Center for Global Education. Fees are paid within 10 working days after the admission decision; amounts are not published on the guidelines page. No application deadline is stated.",
+   "ka": "კან თოს უნივერსიტეტი საჯარო უნივერსიტეტია მეკონგის დელტაში. საერთაშორისო სტუდენტები დოკუმენტებს ელფოსტით ან ფოსტით უგზავნიან გლობალური განათლების ცენტრს. საფასური ირიცხება დაშვების გადაწყვეტილებიდან 10 სამუშაო დღეში; ოდენობა მითითებული არ არის. ვადა არ არის მითითებული.",
+   "ar": "جامعة كان ثو جامعة حكومية في دلتا الميكونغ. يرسل الطلاب الدوليون وثائقهم بالبريد الإلكتروني أو العادي إلى مركز التعليم العالمي. تُدفع الرسوم خلال 10 أيام عمل من قرار القبول ولا يُذكر المبلغ. لا يوجد موعد نهائي معلن."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "A language proficiency certificate meeting CTU's entry standard (Vietnamese or English) is required for degree students. No entrance exam is listed except talent tests for arts, sports and pedagogy majors.",
+   "ka": "ხარისხის სტუდენტებს სჭირდებათ CTU-ის სტანდარტის შესაბამისი ენის ცოდნის სერტიფიკატი. მისაღები გამოცდა არ არის, გარდა ხელოვნების, სპორტისა და პედაგოგიკის ნიჭის გამოცდებისა.",
+   "ar": "يلزم شهادة إتقان لغة (الفيتنامية أو الإنجليزية) وفق معيار الجامعة. لا يوجد امتحان قبول عدا اختبارات المواهب للفنون والرياضة والتربية."
+  },
+  "gpa_note": {
+   "en": "A graduation diploma at least equivalent to a Vietnamese diploma is required, plus a health certificate issued within 3 months of applying.",
+   "ka": "საჭიროა ვიეტნამური დიპლომის ტოლფასი დიპლომი და განაცხადამდე 3 თვის ვადაში გაცემული ჯანმრთელობისცნობა.",
+   "ar": "يلزم دبلوم يعادل الدبلوم الفيتنامي وشهادة صحية صادرة قبل 3 أشهر من التقديم."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო განათლების დამადასტურებელი სერტიფიკატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი და ნიშნების ფურცელი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Photos",
+     "ka": "ფოტოები",
+     "ar": "صور شخصية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of finances",
+     "ka": "ფინანსური შესაძლებლობის დამადასტურებელი საბუთი",
+     "ar": "إثبات القدرة المالية"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Two letters of recommendation",
+     "ka": "ორი სარეკომენდაციო წერილი",
+     "ar": "خطابا توصية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Legalised or apostilled documents",
+     "ka": "აპოსტილით ან ლეგალიზებული დოკუმენტები",
+     "ar": "وثائق مصدقة أو موثقة بالأبوستيل"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "vietnam",
+   "can tho",
+   "mekong"
+  ],
+  "sources": [
+   "https://cge.ctu.edu.vn/admission-guidelines",
+   "https://www.ctu.edu.vn/en",
+   "https://en.ctu.edu.vn/infor-for-students/admission-information-a-advanced-programs.html"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "duolingo_min": null,
+  "toefl_min": null,
+  "ielts_min": null,
+  "other_tests": [
+   "Vietnamese Bac 4 (level 4) certificate for admitted students"
+  ],
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "scholarships": [],
+  "tests": {
+   "en": "Vietnamese-taught degree programmes. Admitted international students without a certificate need Vietnamese level 4 or higher (Vietnamese proficiency framework for foreigners); IUH also offers a one-year Vietnamese course.",
+   "ka": "სწავლება ვიეტნამურ ენაზე მიმდინარეობს. ჩარიცხულ უცხოელ სტუდენტებს სერტიფიკატის გარეშე სჭირდებათ ვიეტნამურის მე-4 დონე ან მეტი; IUH გთავაზობთ ერთწლიან ვიეტნამურის კურსსაც.",
+   "ar": "التدريس بالفيتنامية. على الطلاب الدوليين المقبولين دون شهادة الحصول على المستوى 4 فأعلى في الفيتنامية؛ وتوفر الجامعة أيضاً دورة فيتنامية لمدة سنة."
+  },
+  "gpa_note": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "students": null,
+  "aid_intl": null,
+  "verified_at": "2026-11-16",
+  "id": "industrial-university-of-ho-chi-minh-city-iuh",
+  "name": {
+   "en": "Industrial University of Ho Chi Minh City (IUH)",
+   "ka": "ჰოშიმინის სამრეწველო უნივერსიტეტი (IUH)",
+   "ar": "جامعة هو تشي منه الصناعية (IUH)"
+  },
+  "iso": "VN",
+  "city": "Ho Chi Minh",
+  "lat": 10.822,
+  "lon": 106.687,
+  "type": "public",
+  "website": "https://www.hui.edu.vn",
+  "platform": "Vietnam national admissions portal",
+  "application_url": null,
+  "intakes": null,
+  "languages": [
+   "Vietnamese"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "business",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Technology",
+    "Business",
+    "Food technology"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ტექნოლოგია",
+    "ბიზნესი",
+    "კვების ტექნოლოგია"
+   ],
+   "ar": [
+    "الهندسة",
+    "التكنولوجيا",
+    "الأعمال",
+    "تكنولوجيا الغذاء"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in Ho Chi Minh City focused on engineering and industry. Its website was unreachable, so admission details are not confirmed.",
+   "ka": "დიდი საჯარო უნივერსიტეტი ჰოშიმინში ინჟინერიასა და ინდუსტრიაზე ორიენტირებით. საიტი მიუწვდომელი იყო, დეტალები დადასტურებული არ არის.",
+   "ar": "جامعة حكومية كبيرة في مدينة هو تشي منه تركز على الهندسة والصناعة. كان موقعها غير متاح لذا لم تتأكد التفاصيل."
+  },
+  "about": {
+   "en": "IUH is a public university in Ho Chi Minh City with a focus on engineering, technology and business. Its official website could not be reached during research, so fees, deadlines and international admission rules must be checked with the university.",
+   "ka": "IUH საჯარო უნივერსიტეტია ჰოშიმინში, ინჟინერიის, ტექნოლოგიისა და ბიზნესის მიმართულებით. ოფიციალური საიტი მიუწვდომელი იყო, ამიტომ საფასური და წესები გადაამოწმეთ უნივერსიტეტთან.",
+   "ar": "IUH جامعة حكومية في مدينة هو تشي منه تركز على الهندسة والتكنولوجيا والأعمال. تعذر الوصول إلى موقعها الرسمي لذا يجب التحقق من الرسوم والقواعد مع الجامعة."
+  },
+  "requirements": null,
+  "keywords": [
+   "vietnam",
+   "ho chi minh",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.hui.edu.vn",
+   "https://ipe.iuh.edu.vn/vi/thong-bao-tuyen-luu-hoc-sinh-lao/4970/",
+   "https://ipe.iuh.edu.vn/en/overview/"
+  ]
+ },
+ {
+  "id": "university-of-pretoria",
+  "name": {
+   "en": "University of Pretoria",
+   "ka": "პრეტორიის უნივერსიტეტი",
+   "ar": "جامعة بريتوريا"
+  },
+  "iso": "ZA",
+  "city": "Pretoria",
+  "lat": -25.754,
+  "lon": 28.231,
+  "type": "public",
+  "website": "https://www.up.ac.za",
+  "platform": "Direct (UP online application)",
+  "application_url": "https://www.up.ac.za/students/admission-information",
+  "intakes": [
+   "January"
+  ],
+  "deadline": "2026-06-30",
+  "deadline_note": "For 2027 entry applications opened on 1 April 2026; Veterinary Science closes on 31 May 2026 and all other faculties on 30 June 2026.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "ZAR",
+   "per": "year",
+   "note": "Non-SADC students pay double the South African tuition fee plus an international levy (R4,725 in 2026); SADC citizens pay local fees plus the levy. 2027 initial payment for undergraduates is R12,000."
+  },
+  "acceptance_rate": null,
+  "students": 56000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": 680,
+   "high": null,
+   "required": "required"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business",
+   "law",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Veterinary Science",
+    "Engineering",
+    "Medicine",
+    "Law",
+    "Business"
+   ],
+   "ka": [
+    "ვეტერინარია",
+    "საინჟინრო საქმე",
+    "მედიცინა",
+    "სამართალი",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "الطب البيطري",
+    "الهندسة",
+    "الطب",
+    "القانون",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "Large public research university in Pretoria, South Africa, teaching in English. International applicants need a USAf exemption and an SAT score.",
+   "ka": "სამხრეთ აფრიკის პრეტორიაში მდებარე დიდი საჯარო სამეცნიერო უნივერსიტეტი, სწავლება ინგლისურად. საერთაშორისო აპლიკანტებს სჭირდებათ USAf-ის გათავისუფლება და SAT-ის შედეგი.",
+   "ar": "جامعة بحثية حكومية كبيرة في بريتوريا بجنوب أفريقيا، والتدريس بالإنجليزية. يحتاج المتقدمون الدوليون إلى إعفاء USAf ونتيجة SAT."
+  },
+  "about": {
+   "en": "The University of Pretoria is one of South Africa's largest contact universities, with ten faculties and several campuses in and around Pretoria. Teaching is mainly in English. For 2027 entry, applications opened on 1 April 2026 and most faculties close on 30 June. Applicants with foreign school qualifications need a USAf exemption certificate and must submit an SAT result. Many programmes are number-limited.",
+   "ka": "პრეტორიის უნივერსიტეტი სამხრეთ აფრიკის ერთ-ერთი უდიდესი უნივერსიტეტია, რომელსაც პრეტორიაში და მის შემოგარენში რამდენიმე კამპუსი აქვს. სწავლება ძირითადად ინგლისურადაა. 2027 წლის მისაღებად განაცხადები 2026 წლის 1 აპრილს გაიხსნა, უმეტეს ფაკულტეტზე კი 30 ივნისს იხურება. უცხოური საშუალო განათლების მქონე აპლიკანტებს სჭირდებათ USAf-ის გათავისუფლების სერტიფიკატი და SAT-ის შედეგი. ბევრ პროგრამაზე ადგილები შეზღუდულია.",
+   "ar": "جامعة بريتوريا من أكبر الجامعات الحضورية في جنوب أفريقيا، ولها عشر كليات وعدة حرم في بريتوريا ومحيطها. التدريس بالإنجليزية في الغالب. بالنسبة لدخول 2027 فُتح التقديم في 1 أبريل 2026 ويُغلق في معظم الكليات في 30 يونيو. يحتاج حاملو المؤهلات الأجنبية إلى شهادة إعفاء USAf ونتيجة SAT. كثير من البرامج محدودة المقاعد."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Applicants with qualifications from outside South Africa need a USAf exemption and an SAT result; the international prospectus lists a minimum of 680. Predicted results are not considered. Cambridge applicants must submit an official statement of results.",
+   "ka": "უცხოური კვალიფიკაციის მქონე აპლიკანტებს სჭირდებათ USAf-ის გათავისუფლება და SAT-ის შედეგი; უნივერსიტეტის გვერდზე მითითებულია მინიმუმ 680. პროგნოზირებული შედეგები არ განიხილება. Cambridge-ის აპლიკანტებმა უნდა წარადგინონ შედეგების ოფიციალური ცნობა.",
+   "ar": "يحتاج حاملو المؤهلات من خارج جنوب أفريقيا إلى إعفاء USAf ونتيجة SAT، ويذكر موقع الجامعة حداً أدنى 680. لا تُعتمد النتائج المتوقعة. على متقدمي Cambridge تقديم بيان نتائج رسمي."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee R300 (waived if household income is R150,000 or less)",
+     "ka": "განაცხადის საფასური R300 (ითხოვება გათავისუფლება, თუ ოჯახის შემოსავალი R150,000-ს არ აღემატება)",
+     "ar": "رسوم التقديم 300 راند (تُعفى إذا كان دخل الأسرة 150,000 راند أو أقل)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport and study permit",
+     "ka": "მოქმედი პასპორტი და სასწავლო ნებართვა",
+     "ar": "جواز سفر ساري وتصريح دراسة"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "SAT result",
+     "ka": "SAT-ის შედეგი",
+     "ar": "نتيجة SAT"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "USAf exemption certificate",
+     "ka": "USAf-ის გათავისუფლების სერტიფიკატი",
+     "ar": "شهادة إعفاء USAf"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "south africa",
+   "pretoria",
+   "usaf",
+   "sat"
+  ],
+  "sources": [
+   "https://www.up.ac.za/students/admission-information",
+   "https://www.up.ac.za/online-application/article/2746913/application-fee",
+   "https://www.up.ac.za/faq"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-the-western-cape",
+  "name": {
+   "en": "University of the Western Cape",
+   "ka": "დასავლეთ კეიპის უნივერსიტეტი",
+   "ar": "جامعة غرب كيب"
+  },
+  "iso": "ZA",
+  "city": "Cape Town",
+  "lat": -33.934,
+  "lon": 18.629,
+  "type": "public",
+  "website": "https://www.uwc.ac.za",
+  "platform": "Direct (UWC online application)",
+  "application_url": "https://www.uwc.ac.za/admission-and-financial-aid/apply/international-applications",
+  "intakes": [
+   "January"
+  ],
+  "deadline": "2026-09-30",
+  "deadline_note": "2027 Application Guide: closing date 30 September 2026 (Oral Health 31 August 2026). Outstanding USAf documents are due by the same date. UWC charges no application fee.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "ZAR",
+   "per": "year",
+   "note": "International students pay full tuition and residence fees upfront at registration; get a fee quotation from UWC. The latest published fee sheet found is from 2020."
+  },
+  "acceptance_rate": null,
+  "students": 24000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Undergraduate applicants with foreign school qualifications need a USAf Foreign Exemption Certificate (or proof that it is pending); UWC's APS calculator supports many international school qualifications.",
+   "ka": "უცხოური სასკოლო კვალიფიკაციის მქონე აპლიკანტებს სჭირდებათ USAf-ის უცხოური გამონაკლისის სერტიფიკატი (ან მისი მოლოდინის დამადასტურებელი საბუთი); UWC-ის APS კალკულატორი მრავალ საერთაშორისო კვალიფიკაციას ეყრდნობა.",
+   "ar": "يحتاج المتقدمون بمؤهلات مدرسية أجنبية إلى شهادة الإعفاء الأجنبي من USAf (أو إثبات أنها قيد الإصدار)؛ وتدعم حاسبة APS في الجامعة مؤهلات دولية كثيرة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "social-sciences",
+   "natural-sciences",
+   "education",
+   "law"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "No separate entrance test or English score is stated for international applicants; selection uses the admission point score (APS) and faculty requirements. The USAf certificate is needed for selection, not for submitting the application.",
+   "ka": "საერთაშორისო აპლიკანტებისთვის ცალკე შესასვლელი გამოცდა ან ინგლისურის ქულა მითითებული არ არის; შერჩევა ხდება მისაღები ქულებისა (APS) და ფაკულტეტის მოთხოვნების მიხედვით. USAf-ის სერტიფიკატი საჭიროა შერჩევისთვის და არა განაცხადის გასაგზავნად.",
+   "ar": "لا يُذكر اختبار قبول منفصل أو درجة إنجليزية للمتقدمين الدوليين؛ يعتمد الاختيار على مجموع نقاط القبول (APS) ومتطلبات الكلية. شهادة USAf مطلوبة للاختيار لا لتقديم الطلب."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ნიშნების ფურცელი (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "USAf matriculation exemption certificate (foreign school qualifications)",
+     "ka": "USAf-ის მატრიკულაციის გამონაკლისის სერტიფიკატი (უცხოური განათლებისთვის)",
+     "ar": "شهادة الإعفاء من المترك من USAf (للمؤهلات الأجنبية)"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "south africa",
+   "cape town",
+   "bellville"
+  ],
+  "sources": [
+   "https://www.uwc.ac.za/admission-and-financial-aid/apply/international-applications",
+   "https://www.uwc.ac.za/files/files/UWC-2027-Application-Guide.pdf",
+   "https://www.uwc.ac.za/admission-and-financial-aid/international-students/international-student-applications"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

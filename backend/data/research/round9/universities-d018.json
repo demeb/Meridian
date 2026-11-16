@@ -1,0 +1,993 @@
+[
+ {
+  "id": "anna-university",
+  "name": {
+   "en": "Anna University",
+   "ka": "ანას უნივერსიტეტი",
+   "ar": "جامعة آنا"
+  },
+  "iso": "IN",
+  "city": "Chennai",
+  "lat": 13.011,
+  "lon": 80.235,
+  "type": "public",
+  "website": "https://annauniv.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Technology",
+    "Architecture"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ტექნოლოგიები",
+    "არქიტექტურა"
+   ],
+   "ar": [
+    "الهندسة",
+    "التكنولوجيا",
+    "العمارة"
+   ]
+  },
+  "summary": {
+   "en": "A public technical university in Chennai, India, known for engineering programmes.",
+   "ka": "საჯარო ტექნიკური უნივერსიტეტი ჩენაიში (ინდოეთი), ცნობილია საინჟინრო პროგრამებით.",
+   "ar": "جامعة تقنية حكومية في تشيناي بالهند، معروفة ببرامج الهندسة."
+  },
+  "about": {
+   "en": "Anna University is a public technical university in Chennai with colleges across Tamil Nadu. Its Centre for International Relations handles international students. Admission and fee details for international bachelor applicants were not available on pages reachable in this research, so check with the Centre for International Relations.",
+   "ka": "ანას უნივერსიტეტი ჩენაიში მდებარე საჯარო ტექნიკური უნივერსიტეტია, კოლეჯებით მთელ ტამილ-ნადუში. საერთაშორისო სტუდენტებთან მუშაობს საერთაშორისო ურთიერთობების ცენტრი. ბაკალავრიატზე მიღებისა და საფასურის დეტალები ხელმისაწვდომ გვერდებზე ვერ მოიძებნა; დაუკავშირდით საერთაშორისო ურთიერთობების ცენტრს.",
+   "ar": "جامعة آنا جامعة تقنية حكومية في تشيناي ولها كليات في ولاية تاميل نادو. يتولى مركز العلاقات الدولية شؤون الطلاب الدوليين. لم تتوفر تفاصيل القبول والرسوم لطلاب البكالوريوس الدوليين في الصفحات المتاحة، لذا يُرجى مراجعة مركز العلاقات الدولية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "in",
+   "chennai"
+  ],
+  "sources": [
+   "https://annauniv.edu/cir/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "indian-institute-of-technology-bhu-varanasi-iit-bhu-varanasi",
+  "name": {
+   "en": "Indian Institute of Technology BHU Varanasi (IIT BHU Varanasi)",
+   "ka": "ინდოეთის ტექნოლოგიური ინსტიტუტი BHU ვარანასი",
+   "ar": "المعهد الهندي للتكنولوجيا BHU فاراناسي"
+  },
+  "iso": "IN",
+  "city": "Varanasi",
+  "lat": 25.262,
+  "lon": 82.992,
+  "type": "public",
+  "website": "https://www.iitbhu.ac.in",
+  "platform": null,
+  "application_url": "https://iitbhu.ac.in/outreach/ir",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "2025 intake: online registration ran 21-24 July 2025 after JoSAA round 6 and classes began 1 August 2025. Admission follows the JEE (Advanced) and JoSAA calendar.",
+  "tuition_intl": {
+   "amount": 4000,
+   "currency": "USD",
+   "per": "year",
+   "note": "2025 intake: US$2,000 per semester for non-SAARC countries, US$1,000 per semester for SAARC countries; all-inclusive. Mess advance INR 16,500 extra."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "JEE Advanced"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A public IIT in Varanasi. Indian citizens enter via JEE; the official site points foreign applicants to its International Relations page. Fee PDFs were not readable.",
+   "ka": "ვარანასის საჯარო IIT. ინდოეთის მოქალაქეები JEE-ით შედიან; ოფიციალური საიტი უცხოელებს საერთაშორისო ურთიერთობების გვერდზე გზავნის. საფასურის PDF-ები ვერ წაიკითხა.",
+   "ar": "معهد IIT حكومي في فاراناسي. يلتحق الهنود عبر JEE؛ ويحيل الموقع الرسمي المتقدمين الأجانب إلى صفحة العلاقات الدولية. تعذّرت قراءة ملفات الرسوم."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Undergraduate admission is only through JEE and JoSAA seat allocation. After joining, eligible students sit a basic English diagnostic test.",
+   "ka": "საბაკალავრო მისაღები მხოლოდ JEE-სა და JoSAA-ს ადგილების განაწილებით ხდება. ჩარიცხვის შემდეგ სტუდენტები ინგლისურის დიაგნოსტიკურ ტესტს აბარებენ.",
+   "ar": "القبول في البكالوريوس يتم فقط عبر JEE وتوزيع المقاعد في JoSAA. وبعد الالتحاق يجري الطلاب المؤهلون اختباراً تشخيصياً في اللغة الإنجليزية."
+  },
+  "gpa_note": {
+   "en": "The 2025 rules required a passed Class XII, a qualifying JEE (Advanced) result and a birth date no earlier than 1 October 2000 (relaxed for SC/ST/PwD).",
+   "ka": "2025 წლის წესებით საჭირო იყო XII კლასის დასრულება, JEE (Advanced)-ის საკვალიფიკაციო შედეგი და დაბადება არაუადრეს 2000 წლის 1 ოქტომბრისა.",
+   "ar": "اشترطت قواعد 2025 اجتياز الصف الثاني عشر ونتيجة مؤهلة في JEE (Advanced) وتاريخ ميلاد لا يسبق 1 أكتوبر 2000 (مع استثناءات لبعض الفئات)."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Attested passport copy (name, photo, nationality)",
+     "ka": "პასპორტის დამოწმებული ასლი",
+     "ar": "نسخة موثقة من جواز السفر"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Class X and XII marksheets",
+     "ka": "X და XII კლასის ქულების უწყისები",
+     "ar": "كشوف درجات الصفين العاشر والثاني عشر"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Class X and XII certificates, migration and school leaving certificates",
+     "ka": "X და XII კლასის სერტიფიკატები, მიგრაციისა და სკოლის დატოვების ცნობა",
+     "ar": "شهادتا الصفين العاشر والثاني عشر وشهادة الانتقال وإخلاء الطرف"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photographs and medical examination report",
+     "ka": "პასპორტის ზომის ფოტოები და სამედიცინო ცნობა",
+     "ar": "صور شخصية وتقرير الفحص الطبي"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "varanasi",
+   "iit",
+   "btech"
+  ],
+  "sources": [
+   "https://iitbhu.ac.in/outreach/ir",
+   "https://iitbhu.ac.in/acad/fresher/instructions",
+   "https://www.iitbhu.ac.in/",
+   "https://iitbhu.ac.in/dean/doaa/fee"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "chandigarh-university",
+  "name": {
+   "en": "Chandigarh University",
+   "ka": "ჩანდიგარჰის უნივერსიტეტი",
+   "ar": "جامعة شانديغار"
+  },
+  "iso": "IN",
+  "city": "Mohali",
+  "lat": 30.771,
+  "lon": 76.575,
+  "type": "private",
+  "website": "https://www.cuchd.in",
+  "platform": "Direct (international admissions portal)",
+  "application_url": "https://international.cuchd.in/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "Private university in Mohali, Punjab, with a dedicated international admissions office. Offers up to 50% scholarships on merit.",
+   "ka": "კერძო უნივერსიტეტი მოჰალიში (პენჯაბი) საერთაშორისო მისაღები ოფისით. დამსახურების მიხედვით გთავაზობთ 50%-მდე სტიპენდიას.",
+   "ar": "جامعة خاصة في موهالي بولاية البنجاب ولديها مكتب قبول دولي. تقدم منحا تصل إلى 50% على أساس التفوق."
+  },
+  "about": {
+   "en": "Chandigarh University is a private university in Mohali near Chandigarh. International applicants apply online, email scanned certificates to the international office, and receive a conditional offer, then pay an advance fee before the acceptance letter and visa steps. Tuition amounts and English minimums are not listed on the page that could be read. Teaching is in English.",
+   "ka": "ჩანდიგარჰის უნივერსიტეტი კერძო უნივერსიტეტია მოჰალიში, ჩანდიგარჰთან ახლოს. საერთაშორისო აპლიკანტები მიმართავენ ონლაინ, საერთაშორისო ოფისს უგზავნიან დასკანერებულ სერტიფიკატებს, იღებენ პირობით შეთავაზებას და იხდიან ავანსს მიღების წერილამდე და ვიზამდე. სწავლის საფასური და ინგლისურის მინიმუმი წაკითხულ გვერდზე მითითებული არ არის. სწავლება ინგლისურადაა.",
+   "ar": "جامعة شانديغار جامعة خاصة في موهالي قرب شانديغار. يقدم الطلاب الدوليون طلبهم عبر الإنترنت ويرسلون الشهادات الممسوحة إلى المكتب الدولي ثم يتسلمون عرضا مشروطا ويدفعون رسما مقدما قبل خطاب القبول والتأشيرة. لم تُذكر الرسوم ولا الحد الأدنى للإنجليزية في الصفحة المقروءة. التدريس بالإنجليزية."
+  },
+  "aid_intl": {
+   "en": "Scholarships of up to 50% are offered to meritorious international students, based on submitted documents.",
+   "ka": "დამსახურებული საერთაშორისო სტუდენტებისთვის ირიცხება 50%-მდე სტიპენდია წარდგენილი დოკუმენტების მიხედვით.",
+   "ar": "تُمنح منح تصل إلى 50% للطلاب الدوليين المتفوقين بحسب الوثائق المقدمة."
+  },
+  "tests": {
+   "en": "No IELTS or TOEFL minimum is published on the how-to-apply page. Documents not in English need a certified English translation.",
+   "ka": "how-to-apply გვერდზე IELTS-ის ან TOEFL-ის მინიმუმი არ არის მითითებული. ინგლისურის გარდა სხვა ენაზე დოკუმენტებს სჭირდება დამოწმებული ინგლისური თარგმანი.",
+   "ar": "لا تنشر صفحة التقديم حداً أدنى لـ IELTS أو TOEFL. المستندات غير الإنجليزية تحتاج إلى ترجمة إنجليزية معتمدة."
+  },
+  "gpa_note": {
+   "en": "No fixed minimum grades are published; the International Admission Office assesses eligibility from the submitted transcripts and certificates.",
+   "ka": "მინიმალური ქულები გამოქვეყნებული არ არის; საერთაშორისო მისაღები ოფისი უფლებამოსილებას წარდგენილი ატესტატებისა და სერტიფიკატების მიხედვით აფასებს.",
+   "ar": "لا يُنشر حد أدنى ثابت للدرجات؛ يقيّم مكتب القبول الدولي الأهلية من كشوف الدرجات والشهادات المقدمة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი და შეფასებები",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or equivalent",
+     "ka": "საშუალო განათლების დიპლომი ან ექვივალენტი",
+     "ar": "شهادة الثانوية العامة أو ما يعادلها"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English (if required)",
+     "ka": "ინგლისური ენის დამადასტურებელი დოკუმენტი (საჭიროების შემთხვევაში)",
+     "ar": "إثبات إجادة اللغة الإنجليزية (عند الطلب)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "International merit scholarship (up to 50%)",
+    "url": "https://www.cuchd.in/international/how-to-apply.php",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": null,
+  "sources": [
+   "https://www.cuchd.in/international/how-to-apply.php",
+   "https://international.cuchd.in/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "jamia-millia-islamia",
+  "name": {
+   "en": "Jamia Millia Islamia",
+   "ka": "ჯამია მილია ისლამია",
+   "ar": "جامعة جامعيا ميليا الإسلامية"
+  },
+  "iso": "IN",
+  "city": "New Delhi",
+  "lat": 28.562,
+  "lon": 77.281,
+  "type": "public",
+  "website": "https://jmi.ac.in",
+  "platform": "Direct (JMI admission portal) or Study in India",
+  "application_url": "https://admission.jmi.ac.in",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "2026-27 session: undergraduate online application closed 25 May 2026, qualifying results due by 15 June 2026. The 2027-28 dates are not yet published.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 20000,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Hindi"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "engineering",
+   "social-sciences",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Humanities",
+    "Mass communication",
+    "Education"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ჰუმანიტარული მეცნიერებები",
+    "მასობრივი კომუნიკაცია",
+    "განათლება"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم الإنسانية",
+    "الإعلام",
+    "التربية"
+   ]
+  },
+  "summary": {
+   "en": "A central public university in New Delhi. Official admission details for foreign students could not be read.",
+   "ka": "ცენტრალური სახელმწიფო უნივერსიტეტი ნიუ-დელიში. უცხოელი სტუდენტების მიღების ოფიციალური მონაცემები ვერ წაიკითხა.",
+   "ar": "جامعة مركزية حكومية في نيودلهي. لم تتوفر بيانات رسمية مقروءة عن قبول الطلاب الأجانب."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Foreign passport holders can apply for the 25% supernumerary seats without sitting the entrance test and are ranked by marks in the last qualifying exam. They can also compete in the general category through the entrance test (JEE Main rank for B.Tech).",
+   "ka": "უცხოური პასპორტის მფლობელებს შეუძლიათ განაცხადი შეიტანონ 25%-იან დამატებით ადგილებზე შესასვლელი გამოცდის გარეშე; ისინი ირჩევიან ბოლო საკვალიფიკაციო გამოცდის ქულების მიხედვით. ასევე შეუძლიათ ზოგად კატეგორიაში კონკურენცია საშესვლელი გამოცდით (B.Tech-ისთვის JEE Main).",
+   "ar": "يمكن لحاملي الجوازات الأجنبية التقدم إلى المقاعد الإضافية (25%) دون اجتياز اختبار القبول، ويُرتَّبون حسب درجات آخر مؤهل دراسي. كما يمكنهم التنافس ضمن الفئة العامة عبر اختبار القبول (JEE Main لبرنامج B.Tech)."
+  },
+  "gpa_note": {
+   "en": "Minimum eligibility for foreign students is the same as for Indian students; supernumerary seats are filled by merit in the last qualifying exam.",
+   "ka": "უცხოელი სტუდენტებისთვის მინიმალური მოთხოვნები იგივეა, რაც ინდოელებისთვის; დამატებითი ადგილები ივსება ბოლო საკვალიფიკაციო გამოცდის ქულებით.",
+   "ar": "الحد الأدنى للأهلية للطلاب الأجانب هو نفسه للطلاب الهنود، وتُملأ المقاعد الإضافية حسب الجدارة في آخر مؤهل دراسي."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Class X and XII marksheets with GPA-to-percentage conversion",
+     "ka": "ქულების უწყისი X და XII კლასისთვის და GPA-ის პროცენტად გადაყვანა",
+     "ar": "كشوف درجات الصفين العاشر والثاني عشر مع تحويل المعدل إلى نسبة مئوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport (and visa, if already issued)",
+     "ka": "მოქმედი პასპორტი (და ვიზა, თუ უკვე გაცემულია)",
+     "ar": "جواز سفر ساري (وتأشيرة إن كانت صادرة)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Attested English translations; foreign qualification checked for equivalence",
+     "ka": "დამოწმებული ინგლისური თარგმანები; უცხოური კვალიფიკაციის ექვივალენტობის შემოწმება",
+     "ar": "ترجمات إنجليزية موثقة والتحقق من معادلة المؤهل الأجنبي"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee, about INR 1,000 per course",
+     "ka": "სააპლიკაციო საფასური, დაახლოებით INR 1,000 კურსზე",
+     "ar": "رسوم التقديم، حوالي 1,000 روبية هندية لكل برنامج"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "delhi"
+  ],
+  "sources": [
+   "https://jmi.ac.in",
+   "https://www.jmi.ac.in/upload/menuupload/fsa_guidelines_2026-2027.pdf",
+   "https://admission.jmi.ac.in"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "jadavpur-university",
+  "name": {
+   "en": "Jadavpur University",
+   "ka": "ჯადავპურის უნივერსიტეტი",
+   "ar": "جامعة جادافبور"
+  },
+  "iso": "IN",
+  "city": "Kolkata",
+  "lat": 22.499,
+  "lon": 88.371,
+  "type": "public",
+  "website": "https://jadavpuruniversity.in",
+  "platform": "Direct (Foreign Students Advisor office)",
+  "application_url": "https://jadavpuruniversity.in/foreign-students/",
+  "intakes": [
+   "August"
+  ],
+  "deadline": null,
+  "deadline_note": "The 2026-27 notice for foreign students gave an application window from 14 May to 15 June 2026; the 2027-28 window is not yet published.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "humanities",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering and Technology",
+    "Arts",
+    "Science",
+    "Law and Management"
+   ],
+   "ka": [
+    "ინჟინერია და ტექნოლოგიები",
+    "ხელოვნება და ჰუმანიტარული",
+    "მეცნიერება",
+    "სამართალი და მენეჯმენტი"
+   ],
+   "ar": [
+    "الهندسة والتكنولوجيا",
+    "الآداب",
+    "العلوم",
+    "القانون والإدارة"
+   ]
+  },
+  "summary": {
+   "en": "Jadavpur University is a public university in Kolkata. Foreign students are admitted on a self-financed basis, through an ICCR scholarship or through exchange programmes.",
+   "ka": "ჯადავპურის უნივერსიტეტი კოლკატაში მდებარე სახელმწიფო უნივერსიტეტია. უცხოელი სტუდენტები მიიღებიან თვითდაფინანსებით, ICCR-ის სტიპენდიით ან გაცვლითი პროგრამებით.",
+   "ar": "جامعة جادافبور جامعة حكومية في كولكاتا. يُقبل الطلاب الأجانب على نفقتهم الخاصة أو بمنحة ICCR أو عبر برامج التبادل."
+  },
+  "about": {
+   "en": "Jadavpur University is in Kolkata and offers programmes in Arts, Engineering and Technology, Science, and Interdisciplinary Studies, Law and Management. Foreign students apply once a year through the Foreign Students Advisor office using a faculty-specific form. Admission routes are self-financed, ICCR scholarship and exchange. Fees and criteria are published as faculty PDFs; amounts were not readable on the pages used.",
+   "ka": "ჯადავპურის უნივერსიტეტი კოლკატაშია და გთავაზობთ პროგრამებს ხელოვნებაში, ინჟინერიასა და ტექნოლოგიებში, მეცნიერებაში, ასევე ინტერდისციპლინარულ კვლევებში, სამართალსა და მენეჯმენტში. უცხოელი სტუდენტები წელიწადში ერთხელ აგზავნიან განაცხადს უცხოელ სტუდენტთა მრჩევლის ოფისში ფაკულტეტის სპეციფიკური ფორმით. მიღების გზებია თვითდაფინანსება, ICCR სტიპენდია და გაცვლა. საფასურები და კრიტერიუმები ფაკულტეტების PDF-ებშია; თანხები გამოყენებულ გვერდებზე არ იკითხებოდა.",
+   "ar": "تقع جامعة جادافبور في كولكاتا وتقدم برامج في الآداب والهندسة والتكنولوجيا والعلوم والدراسات متعددة التخصصات والقانون والإدارة. يتقدم الطلاب الأجانب مرة في السنة عبر مكتب مستشار الطلاب الأجانب باستمارة خاصة بكل كلية. مسارات القبول هي على النفقة الخاصة أو منحة ICCR أو التبادل. الرسوم والمعايير منشورة في ملفات PDF لكل كلية، ولم تكن المبالغ مقروءة في الصفحات المستخدمة."
+  },
+  "aid_intl": {
+   "en": "ICCR scholarships are available to selected foreign students; amounts are set by ICCR.",
+   "ka": "არჩეული უცხოელი სტუდენტებისთვის ხელმისაწვდომია ICCR-ის სტიპენდიები; თანხებს ICCR ადგენს.",
+   "ar": "تتاح منح ICCR للطلاب الأجانب المختارين، ويحدد ICCR مبالغها."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Recommendation form (per faculty)",
+     "ka": "სარეკომენდაციო ფორმა (ფაკულტეტის მიხედვით)",
+     "ar": "نموذج توصية (حسب الكلية)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "kolkata",
+   "engineering",
+   "iccr",
+   "foreign students"
+  ],
+  "sources": [
+   "https://jadavpuruniversity.in",
+   "https://jadavpuruniversity.in/foreign-students/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "o-p-jindal-global-university-jgu",
+  "name": {
+   "en": "O.P. Jindal Global University (JGU)",
+   "ka": "ო.პ. ჯინდალის გლობალური უნივერსიტეტი (JGU)",
+   "ar": "جامعة أو.بي. جيندال العالمية (JGU)"
+  },
+  "iso": "IN",
+  "city": "Sonepat",
+  "lat": 28.93,
+  "lon": 77.103,
+  "type": "private",
+  "website": "https://www.jgu.edu.in",
+  "platform": "Direct (JGU admissions portal) / Study in India",
+  "application_url": "https://admissions.jgu.edu.in",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "JGU online entrance test"
+  ],
+  "fields": [
+   "law",
+   "business",
+   "international-relations",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Private university near Delhi, known for law and business. International applicants register through the Study in India portal; fees and deadlines were not readable.",
+   "ka": "კერძო უნივერსიტეტი დელის მახლობლად, ცნობილი სამართლითა და ბიზნესით. საერთაშორისო აპლიკანტები რეგისტრირდებიან Study in India პორტალზე; საფასური და ვადები ვერ ამოვიკითხეთ.",
+   "ar": "جامعة خاصة قرب دلهي، معروفة بالقانون والأعمال. يسجل الطلبة الدوليون عبر بوابة Study in India، ولم تتوفر الرسوم والمواعيد."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "The process is fully online: application form, personal statement, an online entrance test set by programme, and a video-call interview with faculty.",
+   "ka": "პროცესი სრულად ონლაინ ხდება: განაცხადი, პირადი წერილი, პროგრამის მიხედვით ონლაინ მისაღები ტესტი და ფაკულტეტთან ვიდეოგასაუბრება.",
+   "ar": "العملية إلكترونية بالكامل: نموذج التقديم، وبيان شخصي، واختبار قبول إلكتروني حسب البرنامج، ومقابلة بالفيديو مع أعضاء الهيئة التدريسية."
+  },
+  "gpa_note": {
+   "en": "Study in India requires at least 10+2 years of schooling for undergraduate study; each institute sets its own entry requirements.",
+   "ka": "Study in India-ს მიხედვით საბაკალავრო სწავლისთვის საჭიროა მინიმუმ 10+2 წლის სკოლა; დამატებით მოთხოვნებს თითოეული ინსტიტუტი თავად ადგენს.",
+   "ar": "تشترط Study in India ما لا يقل عن 10+2 سنوات من الدراسة المدرسية للبكالوريوس، وتضع كل مؤسسة شروطها الخاصة."
+  },
+  "requirements": [
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Personal statement",
+     "ka": "პირადი წერილი",
+     "ar": "بيان شخصي"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Online entrance test set by programme",
+     "ka": "ონლაინ მისაღები ტესტი პროგრამის მიხედვით",
+     "ar": "اختبار قبول إلكتروني حسب البرنامج"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Video-call interview with faculty",
+     "ka": "ვიდეოგასაუბრება ფაკულტეტთან",
+     "ar": "مقابلة بالفيديو مع أعضاء الهيئة التدريسية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "sonepat",
+   "law",
+   "private"
+  ],
+  "sources": [
+   "https://jgu.edu.in/admissions/",
+   "https://admissions.jgu.edu.in",
+   "https://www.studyinindia.gov.in/admission/registrations",
+   "https://www.studyinindia.gov.in/Eligibility-Criteria"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "savitribai-phule-pune-university",
+  "name": {
+   "en": "Savitribai Phule Pune University",
+   "ka": "სავიტრიბაი ფულე პუნეს უნივერსიტეტი",
+   "ar": "جامعة سافيتريباي فولي في بوني"
+  },
+  "iso": "IN",
+  "city": "Pune",
+  "website": "https://www.unipune.ac.in",
+  "lat": 18.552,
+  "lon": 73.826,
+  "type": "public",
+  "platform": null,
+  "application_url": "https://intcent.unipune.ac.in/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Marathi"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "natural-sciences",
+   "engineering",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Sciences",
+    "Engineering",
+    "Humanities",
+    "Management",
+    "Social sciences"
+   ],
+   "ka": [
+    "მეცნიერებები",
+    "ინჟინერია",
+    "ჰუმანიტარული",
+    "მენეჯმენტი",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم",
+    "الهندسة",
+    "العلوم الإنسانية",
+    "الإدارة",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Large public university in Pune, India.",
+   "ka": "დიდი სახელმწიფო უნივერსიტეტი პუნეში, ინდოეთში.",
+   "ar": "جامعة حكومية كبيرة في بوني بالهند."
+  },
+  "about": {
+   "en": "Savitribai Phule Pune University is a large public affiliated university in Pune, India. Its International Centre manages admissions and eligibility for foreign students, including ICCR scholars, and posted a UG/PG international admission notice for 2026-27.",
+   "ka": "სავიტრიბაი ფულე პუნეს უნივერსიტეტი დიდი სახელმწიფო უნივერსიტეტია პუნეში, ინდოეთში. საერთაშორისო ცენტრი უცხოელთა მიღებასა და უფლებამოსილებას აწესრიგებს, ICCR სტიპენდიანტების ჩათვლით, და 2026-27 წლის UG/PG შეტყობინება გამოაქვეყნა.",
+   "ar": "جامعة سافيتريباي فولي في بوني جامعة حكومية كبيرة في الهند. يدير مركزها الدولي قبول الأجانب وأهليتهم، ومنهم طلاب ICCR، ونشر إعلان قبول دولي للبكالوريوس والدراسات العليا لعام 2026-27."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Students from non-English-speaking countries must sit the university's English Proficiency Test (EPT), or take a remedial course; a B+ (61%) in a prior English course exempts them.",
+   "ka": "არაინგლისურენოვანი ქვეყნების სტუდენტებმა უნდა ჩააბარონ უნივერსიტეტის ინგლისური ენის ტესტი (EPT) ან გაიარონ გამოსწორების კურსი; წინა ინგლისურ კურსში B+ (61%) ათავისუფლებს ტესტისგან.",
+   "ar": "على طلاب الدول غير الناطقة بالإنجليزية اجتياز اختبار الكفاءة في اللغة الإنجليزية (EPT) أو أخذ مقرر تقوية؛ ويُعفى من حصل على B+ (61%) في مقرر إنجليزي سابق."
+  },
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "pune",
+   "iccr"
+  ],
+  "sources": [
+   "https://www.unipune.ac.in/dept/International%20Centre/default.htm",
+   "https://intcent.unipune.ac.in/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "saveetha-institute-of-medical-and-technical-sciences-simats-tamil-nadu",
+  "name": {
+   "en": "Saveetha Institute of Medical And Technical Sciences (SIMATS) , Tamil Nadu,India",
+   "ka": "სავითას სამედიცინო და ტექნიკური მეცნიერებების ინსტიტუტი (SIMATS), ტამილ-ნადუ, ინდოეთი",
+   "ar": "معهد ساويثا للعلوم الطبية والتقنية (SIMATS)، تاميل نادو، الهند"
+  },
+  "iso": "IN",
+  "city": "Chennai (Thandalam)",
+  "lat": 13.0,
+  "lon": 80.0,
+  "type": "private",
+  "website": "https://www.saveetha.com",
+  "platform": null,
+  "application_url": "https://admissions.saveetha.com",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Dentistry",
+    "Engineering",
+    "Pharmacy",
+    "Nursing"
+   ],
+   "ka": [
+    "მედიცინა",
+    "სტომატოლოგია",
+    "ინჟინერია",
+    "ფარმაცია",
+    "მედდობა"
+   ],
+   "ar": [
+    "الطب",
+    "طب الأسنان",
+    "الهندسة",
+    "الصيدلة",
+    "التمريض"
+   ]
+  },
+  "summary": {
+   "en": "A private deemed university near Chennai with medical, dental, engineering and health-science programmes taught in English.",
+   "ka": "კერძო უნივერსიტეტი ჩენაის მახლობლად, სამედიცინო, სტომატოლოგიური, საინჟინრო და ჯანდაცვის პროგრამებით ინგლისურ ენაზე.",
+   "ar": "جامعة خاصة قرب تشيناي تقدم برامج الطب وطب الأسنان والهندسة والعلوم الصحية بالإنجليزية."
+  },
+  "about": {
+   "en": "SIMATS is a private deemed university in Tamil Nadu with medical, dental, pharmacy, nursing and engineering colleges. The university links to an admissions portal. International fees, eligibility rules and deadlines could not be read from the pages available in this round, so they are left empty. Contact the admissions office for current terms.",
+   "ka": "SIMATS ტამილ-ნადუს კერძო უნივერსიტეტია სამედიცინო, სტომატოლოგიური, ფარმაცევტული, სამედდო და საინჟინრო კოლეჯებით. საიტზე მითითებულია მიღების პორტალი. საერთაშორისო საფასური და ვადები ამ რაუნდში წაკითხულ გვერდებზე არ იყო.",
+   "ar": "SIMATS جامعة خاصة في تاميل نادو تضم كليات للطب وطب الأسنان والصيدلة والتمريض والهندسة. يحيل الموقع إلى بوابة قبول. لم تتوفر الرسوم والشروط والمواعيد للطلاب الدوليين في الصفحات المقروءة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "chennai",
+   "medicine",
+   "private"
+  ],
+  "sources": [
+   "https://www.saveetha.com"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "indian-institute-of-technology-gandhinagar-iitgn",
+  "name": {
+   "en": "Indian Institute of Technology Gandhinagar (IITGN)",
+   "ka": "ინდოეთის ტექნოლოგიური ინსტიტუტი განდინაგარი (IITGN)",
+   "ar": "المعهد الهندي للتكنولوجيا غاندينغار (IITGN)"
+  },
+  "iso": "IN",
+  "city": "Gandhinagar",
+  "lat": 23.211,
+  "lon": 72.684,
+  "type": "public",
+  "website": "https://iitgn.ac.in",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "IITGN is a public technical institute in Gandhinagar, Gujarat, India. Its official admissions pages could not be read automatically, so no fee or deadline is listed here.",
+   "ka": "IITGN არის სახელმწიფო ტექნიკური ინსტიტუტი განდინაგარში, გუჯარათი, ინდოეთი. ოფიციალური მისაღები გვერდები ავტომატურად ვერ წაიკითხა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "IITGN معهد تقني حكومي في غاندينغار بولاية غوجارات في الهند. تعذّرت قراءة صفحات القبول الرسمية آليًا، لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "IITGN is a public technical institute in Gandhinagar, Gujarat, India. Its official admissions pages could not be read automatically, so no fee or deadline is listed here.",
+   "ka": "IITGN არის სახელმწიფო ტექნიკური ინსტიტუტი განდინაგარში, გუჯარათი, ინდოეთი. ოფიციალური მისაღები გვერდები ავტომატურად ვერ წაიკითხა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "IITGN معهد تقني حكومي في غاندينغار بولاية غوجارات في الهند. تعذّرت قراءة صفحات القبول الرسمية آليًا، لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "gandhinagar",
+   "iit",
+   "engineering"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "amity-university",
+  "name": {
+   "en": "Amity University",
+   "ka": "ამითის უნივერსიტეტი",
+   "ar": "جامعة أميتي"
+  },
+  "iso": "IN",
+  "city": "Noida",
+  "lat": 28.544,
+  "lon": 77.333,
+  "type": "private",
+  "website": "https://www.amity.edu",
+  "platform": null,
+  "application_url": "https://www.amity.edu/Noida/international-students.aspx",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "The Noida international students page gave 31 May 2025 as the last date for the 2025 session, and the 2024 prospectus gave 30 June 2024 for foreign nationals. 2027 dates are not yet published.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A large private university in Noida, India.",
+   "ka": "დიდი კერძო უნივერსიტეტი ნოიდაში, ინდოეთი.",
+   "ar": "جامعة خاصة كبيرة في نويدا، الهند."
+  },
+  "about": {
+   "en": "Amity University Noida is a private university. Its site could not be read this round (certificate error).",
+   "ka": "ამითის უნივერსიტეტი ნოიდა კერძო უნივერსიტეტია.",
+   "ar": "جامعة أميتي نويدا جامعة خاصة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Form fee waived for international students",
+     "ka": "საერთაშორისო სტუდენტებისთვის სააპლიკაციო საფასური გაუქმებულია",
+     "ar": "رسوم النموذج معفاة للطلاب الدوليين"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "noida",
+   "amity",
+   "private"
+  ],
+  "sources": [
+   "https://www.amity.edu",
+   "https://www.amity.edu/Noida/international-students.aspx"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

@@ -1,3 +1,32 @@
+# Final Meridian Draft — checklist (16 Nov 2026)
+
+Legend: [ ] open · [x] done and verified · [~] partly done · [!] blocked (reason)
+
+## A. Universities (top priority)
+- [~] All 1,543 universities researched again (3 passes, 75 agent batches). Full profiles: see the
+  final count in the round-9 report; the rest stay basic because their official sites refuse
+  automated reading or publish nothing for foreign applicants (list: research/round8/THIN.txt)
+- [x] Qatar first: 18 existing + 8 new Qatar institutions, all with official data
+- [x] Tuition units fixed: per-credit / per-programme fees no longer shown as "/ year"
+
+## B. Final Meridian Draft doc
+- [x] Tutoring filters grouped (Tests · School subjects · Languages · Programmes), folding sections, active-filter pills
+- [x] Three account types: student, teacher (tutor dashboard), counsellor (new /counsellor page)
+- [x] Teachers register → approved on /admin → set their own hourly rate; applications go to contact.meridiangoal@gmail.com
+- [x] Prep: lighter pages with pictures (7 illustrations), details folded away, 95 more official resources/practice files
+- [x] Counsellors: see every student of their school (applications, checklists, GPA, tests, saved items), post webinars/activities, book meetings both ways (student or counsellor asks, the other confirms, emails both)
+- [x] pl857@georgetown.edu is a built-in counsellor (Meridian Demo School) — activates when he signs in / registers on the live site
+- [x] Security: cross-site write protection (Origin/Referer check), counsellor access log, students see which counsellors can see their file
+- [x] Account: × to remove saved universities/programmes, ➜ to move a saved university into applications, editable profile (grade, school, GPA, tests, city), delete-account with password
+- [x] Teachers and counsellors stay on their plan's limits (no free upgrade from the role)
+- [~] Internships: 171 in total; Georgia and Qatar got every serious programme with a live official page (now Georgia 11, Qatar 22 in total) — far short of 125+125 because most employers there do not publish internship pages
+
+## C. Finish
+- [x] Smoke test incl. new account-deletion checks (all passed)
+- [ ] Push (waiting for the user's OK)
+
+---
+
 # 1 Nov Website — overnight checklist (14 Nov 2026)
 
 Legend: [ ] open · [x] done and verified · [~] partly done · [!] blocked (reason)

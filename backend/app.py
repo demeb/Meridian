@@ -62,6 +62,24 @@ def housekeeping():
         except Exception as exc:          # a failed report must never break a page
             print("weekly report failed:", exc)
 
+@app.before_request
+def same_origin_writes():
+    """Cross-site request forgery guard: a request that changes something (POST,
+    PATCH, DELETE) must come from our own pages. Browsers send Origin (or at least
+    Referer) on these; a form or script on another site is refused. Payment
+    webhooks and tools without a browser send neither and are not affected."""
+    if request.method in ("GET", "HEAD", "OPTIONS") or not request.path.startswith("/api/"):
+        return None
+    source = request.headers.get("Origin") or request.headers.get("Referer") or ""
+    if not source:
+        return None
+    host = re.sub(r"^https?://", "", source).split("/")[0].lower()
+    allowed = {request.host.lower(), "meridiangoal.com", "www.meridiangoal.com"}
+    if host not in allowed:
+        return fail("cross_site_request", 403)
+    return None
+
+
 EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[A-Za-z]{2,}$")
 SLOT_RE = re.compile(r"^\d{4}-\d{2}-\d{2} \d{2}:\d{2}$")
 
@@ -121,6 +139,8 @@ def split_list(value, limit=12):
 
 def public_user(user):
     tutor = db.tutor_for_user(user["id"])
+    counselling.ensure_builtin(user)
+    counsellor = counselling._counsellor_of(user["id"])
     return {
         "id": user["id"],
         "first_name": user["first_name"],
@@ -138,12 +158,17 @@ def public_user(user):
         "school": user.get("school"),
         "birth_year": user.get("birth_year"),
         "birth_date": user.get("birth_date"),
+        "gpa": user.get("gpa"),
+        "test_scores": user.get("test_scores"),
         "interests": split_list(user.get("interests")),
         "target_regions": split_list(user.get("target_regions")),
         "locale": user["locale"],
         "initials": (user["first_name"][:1] + user["last_name"][:1]).upper(),
         "created_at": user["created_at"],
         "tutor": {"id": tutor["id"], "status": tutor["status"]} if tutor else None,
+        # three kinds of account: student (default), teacher (tutor) and school counsellor
+        "counsellor": {"status": counsellor["status"], "school": counsellor.get("school"),
+                       "linked": bool(counsellor.get("school_id"))} if counsellor else None,
     }
 
 
@@ -191,6 +216,8 @@ def profile_from(data):
         "locale": data.get("locale") if data.get("locale") in ("ka", "ar") else "en",
         "birth_year": birth_year_from(data.get("birth_year")),
         "birth_date": birth_date_from(data.get("birth_date")),
+        "gpa": clean(data.get("gpa"), 30) or None,
+        "test_scores": clean(data.get("test_scores"), 160) or None,
     }
 
 
@@ -220,6 +247,7 @@ PAGES = {
     "pricing": "pricing.html",
     "checkout": "checkout.html",
     "tutor": "tutor.html",
+    "counsellor": "counsellor.html",
     "tutors/apply": "apply.html",
     "about": "about.html",
     "about/leadership": "leadership.html",
@@ -504,6 +532,25 @@ def update_profile():
             fields[key] = clean(data.get(key), 60)
     db.update_profile(user["id"], **fields)
     return jsonify({"ok": True, "user": public_user(db.get_user(user["id"]))})
+
+
+@app.post("/api/auth/delete")
+def delete_account():
+    """Permanently deletes the signed-in account after the password is typed
+    again: profile, sessions, saved items, applications and uploaded files."""
+    user = require_user()
+    password = str(body().get("password") or "")
+    if too_many("delete:%d" % user["id"], 5):
+        return fail("rate_limited", 429)
+    if not db.verify_password(password, user["password_hash"]):
+        hit("delete:%d" % user["id"])
+        return fail("bad_credentials", 401)
+    db.delete_user(user["id"])
+    import shutil
+    shutil.rmtree(os.path.join(tracker.FILES_DIR, str(user["id"])), ignore_errors=True)
+    response = make_response(jsonify({"ok": True}))
+    response.delete_cookie(Config.COOKIE_NAME, path="/")
+    return response
 
 
 # ---------------------------------------------------------------- programmes
@@ -1246,14 +1293,16 @@ def api_saved_universities_xlsx():
         rate = assistant.USD_RATES.get((tuition.get("currency") or "USD").upper())
         tuition_text = ""
         if isinstance(tuition.get("amount"), (int, float)):
-            per = tuition.get("per") or "year"
-            yearly = tuition["amount"] * (2 if per == "semester" else 1)
+            per = tuition.get("per") or ""
+            if per not in ("year", "semester", "month"):
+                rate = None                    # per credit / whole programme: show it as written
+            yearly = tuition["amount"] * (2 if per == "semester" else 12 if per == "month" else 1)
             if rate:
                 tuition_text = "$%s / year" % "{:,}".format(int(round(yearly * rate, -2)))
                 if (tuition.get("currency") or "USD").upper() != "USD":
                     tuition_text += "\n(%s %s / %s)" % ("{:,}".format(tuition["amount"]), tuition.get("currency", ""), per)
             else:
-                tuition_text = "%s %s / %s" % ("{:,}".format(tuition["amount"]), tuition.get("currency", ""), per)
+                tuition_text = "%s %s%s" % ("{:,}".format(tuition["amount"]), tuition.get("currency", ""), " / " + per if per else "")
         english = " · ".join(x for x in [
             "IELTS %s" % u["ielts_min"] if u.get("ielts_min") else "",
             "TOEFL %s" % u["toefl_min"] if u.get("toefl_min") else "",

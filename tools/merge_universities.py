@@ -124,6 +124,24 @@ def next_round(note):
     return min(ahead).isoformat() if ahead else None
 
 
+def per_unit(per):
+    """Research files write the fee period many ways; the site understands six."""
+    p = str(per or "").lower()
+    if "not stated" in p or "period not" in p or "enrolment" in p:
+        return None
+    if "credit" in p:
+        return "credit"
+    if "program" in p or "total" in p or "whole" in p:
+        return "programme"
+    if "semester" in p or p == "term":
+        return "semester"
+    if p == "month":
+        return "month"
+    if "year" in p or "annual" in p:
+        return "year"
+    return None
+
+
 def substance(u):
     """How many key admission facts a researched record actually has."""
     missing = re.compile(r"not (been )?(retrieved|available|found|published|readable|accessible)|could not|unable to|no (official )?data", re.I)
@@ -204,7 +222,8 @@ def main():
         sorted(p for p in glob.glob(os.path.join(RESEARCH, "round5", "universities-*.json")) if "qs-list" not in p) + \
         sorted(glob.glob(os.path.join(RESEARCH, "round6", "universities-*.json"))) + \
         sorted(glob.glob(os.path.join(RESEARCH, "round7", "universities-*.json"))) + \
-        sorted(glob.glob(os.path.join(RESEARCH, "round8", "universities-*.json")))
+        sorted(glob.glob(os.path.join(RESEARCH, "round8", "universities-*.json"))) + \
+        sorted(glob.glob(os.path.join(RESEARCH, "round9", "universities-*.json")))
     thin = []
     for path in files:
         rows = load(path)
@@ -213,7 +232,7 @@ def main():
                 continue
             # round 7: a record with almost no admission facts stays a basic page
             # (listed in round7/THIN.txt for a retry) instead of an empty profile
-            if ("round7" in path or "round8" in path) and substance(u) < 4:
+            if any(r in path for r in ("round7", "round8", "round9")) and substance(u) < 4:
                 thin.append("%s | %s" % (u["id"], os.path.basename(path)))
                 continue
             if isinstance(u["name"], str):
@@ -284,6 +303,8 @@ def main():
     out = sorted(full.values(), key=lambda u: (u.get("rank_qs") or 99999, u["name"].get("en", "")))
     for u in out:
         enrich(u)
+        if isinstance(u.get("tuition_intl"), dict) and u["tuition_intl"].get("amount") is not None:
+            u["tuition_intl"]["per"] = per_unit(u["tuition_intl"].get("per") or "year")
         # a deadline that has passed is not shown as one: the next round named in
         # the note takes its place (IE University: 6 Nov passed -> 15 Jan 2027)
         if isinstance(u.get("deadline"), str) and u["deadline"][:10] < date.today().isoformat():

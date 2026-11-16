@@ -123,6 +123,11 @@ def cleanup():
                 "SELECT slot_id FROM bookings WHERE user_id IN (%s) AND slot_id IS NOT NULL" % marks, ids)]
             for sid in slot_ids:
                 conn.execute("UPDATE tutor_slots SET status = 'open', held_until = NULL WHERE id = ?", (sid,))
+            cids = [r[0] for r in conn.execute("SELECT id FROM counsellors WHERE user_id IN (%s)" % marks, ids)]
+            for cid in cids:
+                conn.execute("DELETE FROM meetings WHERE counsellor_id = ?", (cid,))
+                conn.execute("DELETE FROM counsellor_access WHERE counsellor_id = ?", (cid,))
+                conn.execute("DELETE FROM counsellors WHERE id = ?", (cid,))
             for table in ("bookings", "orders", "saved_programs", "sessions", "verification_codes"):
                 conn.execute("DELETE FROM %s WHERE user_id IN (%s)" % (table, marks), ids)
             conn.execute("DELETE FROM users WHERE id IN (%s)" % marks, ids)
@@ -222,6 +227,19 @@ def main():
     _, r = student.call("POST", "/api/orders/%s/pay" % order_id, {"method": "card", "card": {"brand": "Visa", "last4": "4242"}})
     _, me = student.call("GET", "/api/auth/me")
     check("navigator yearly active", me["user"]["plan"] == "navigator", me["user"].get("plan_renews_at", ""))
+
+    print("\nAccount deletion")
+    leaver = Client()
+    leaver_email = signup(leaver, "Leaver")
+    leaver.call("POST", "/api/saved", {"program_id": "uwc-dilijan"})
+    status, r = leaver.call("POST", "/api/auth/delete", {"password": "wrong-password"})
+    check("wrong password refused", status == 401 and not r.get("ok"))
+    status, r = leaver.call("POST", "/api/auth/delete", {"password": "smoke-pass-123"})
+    check("account deleted", status == 200 and r.get("ok"))
+    status, r = leaver.call("GET", "/api/auth/me")
+    check("signed out after deletion", r.get("user") is None)
+    status, r = Client().call("POST", "/api/auth/login", {"email": leaver_email, "password": "smoke-pass-123"})
+    check("deleted account cannot sign in", status == 401)
 
     print("\nAll checks passed.")
     cleanup()

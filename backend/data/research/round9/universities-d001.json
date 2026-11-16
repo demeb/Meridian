@@ -1,0 +1,1345 @@
+[
+ {
+  "id": "university-of-sharjah",
+  "name": {
+   "en": "University of Sharjah",
+   "ka": "შარჯას უნივერსიტეტი",
+   "ar": "جامعة الشارقة"
+  },
+  "iso": "AE",
+  "city": "Sharjah",
+  "lat": 25.286,
+  "lon": 55.468,
+  "type": "public",
+  "website": "https://www.sharjah.ac.ae",
+  "platform": "Direct (University of Sharjah online admissions portal)",
+  "application_url": "https://www.sharjah.ac.ae/oa",
+  "intakes": [
+   "September",
+   "February"
+  ],
+  "deadline": null,
+  "deadline_note": "Fall early admission usually opens in April for Grade 12 students and regular Fall admission opens in June after school results; Spring (December) intake is limited to selected programmes. Exact dates are announced on the website.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Foreign certificates need 12 years of schooling from a recognised school, attestation and a UAE Ministry of Education equivalency letter. Graduation must be within 3 years (1 year for Medicine and Dental Medicine).",
+   "ka": "უცხოურ სერტიფიკატს სჭირდება აღიარებული სკოლის 12-წლიანი სწავლა, დამოწმება და გაერთიანებული არაბეთის ემირატების განათლების სამინისტროს ეკვივალენტობის წერილი. დამთავრებიდან 3 წელზე მეტი არ უნდა იყოს გასული (მედიცინასა და სტომატოლოგიაში 1 წელი).",
+   "ar": "تحتاج الشهادات الأجنبية إلى 12 عاماً من الدراسة في مدرسة معترف بها وتصديق وخطاب معادلة من وزارة التربية والتعليم الإماراتية. يجب ألا يتجاوز التخرج 3 سنوات (سنة واحدة للطب وطب الأسنان)."
+  },
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "EmSAT",
+   "Physics and Mathematics placement test (engineering)"
+  ],
+  "fields": null,
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "English-taught programmes need Academic IELTS, TOEFL (iBT or paper), EmSAT or PTE Academic (valid 2 years; EmSAT 1.5 years). Engineering applicants sit a Physics and Mathematics placement test; communication applicants have an interview.",
+   "ka": "ინგლისურენოვანი პროგრამებისთვის საჭიროა Academic IELTS, TOEFL (iBT ან ქაღალდის), EmSAT ან PTE Academic (მოქმედია 2 წელი; EmSAT 1.5 წელი). საინჟინრო პროგრამების აბიტურიენტები აბარებენ ფიზიკა-მათემატიკის დონის განმსაზღვრელ ტესტს; კომუნიკაციის აბიტურიენტებს აქვთ ინტერვიუ.",
+   "ar": "تحتاج البرامج بالإنجليزية إلى IELTS Academic أو TOEFL (إلكتروني أو ورقي) أو EmSAT أو PTE Academic (صالحة سنتين؛ EmSAT سنة ونصف). يؤدي متقدمو الهندسة اختبار تحديد مستوى في الفيزياء والرياضيات، ولمتقدمي الإعلام مقابلة."
+  },
+  "gpa_note": {
+   "en": "Admission averages start at 70% and vary by major; the school certificate must come from a recognised school after 12 years of study.",
+   "ka": "ჩარიცხვის საშუალო ქულა იწყება 70%-იდან და დამოკიდებულია სპეციალობაზე; სკოლის სერტიფიკატი უნდა იყოს აღიარებული სკოლიდან 12-წლიანი სწავლის შემდეგ.",
+   "ar": "تبدأ معدلات القبول من 70% وتختلف حسب التخصص، ويجب أن تكون شهادة المدرسة من مدرسة معترف بها بعد 12 عاماً من الدراسة."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalency letter from the UAE Ministry of Education for foreign certificates",
+     "ka": "გარე სერტიფიკატებისთვის გაერთიანებული არაბეთის ემირატების განათლების სამინისტროს ეკვივალენტობის წერილი",
+     "ar": "خطاب معادلة من وزارة التربية والتعليم الإماراتية للشهادات الأجنبية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Attested copy of certificates (education authority, foreign ministry, UAE embassy)",
+     "ka": "სერტიფიკატების დამოწმებული ასლი (განათლების უწყება, საგარეო საქმეთა სამინისტრო, საელჩო)",
+     "ar": "نسخة مصدقة من الشهادات (جهة التعليم ووزارة الخارجية والسفارة)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency (IELTS, TOEFL, EmSAT or PTE)",
+     "ka": "ინგლისური ენის ცოდნის დადასტურება (IELTS, TOEFL, EmSAT ან PTE)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (IELTS أو TOEFL أو EmSAT أو PTE)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee (AED 360) and seat reservation (AED 12,000, credited to tuition)",
+     "ka": "სააპლიკაციო გადასახადი (360 AED) და ადგილის დაჯავშნა (12 000 AED, ჩაითვლება სწავლის საფასურში)",
+     "ar": "رسوم الطلب (360 درهماً) وحجز المقعد (12,000 درهم تُحسب من الرسوم الدراسية)"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Physics and maths placement test (engineering) / interview (communication)",
+     "ka": "ფიზიკა-მათემატიკის დონის განმსაზღვრელი ტესტი (ინჟინერია) / ინტერვიუ (კომუნიკაცია)",
+     "ar": "اختبار تحديد مستوى في الفيزياء والرياضيات (الهندسة) / مقابلة (الإعلام)"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "sharjah",
+   "ae"
+  ],
+  "sources": [
+   "https://www.sharjah.ac.ae/Admissions/UFAQs",
+   "https://www.sharjah.ac.ae/oa",
+   "https://www.sharjah.ac.ae/Admissions/Tuition-and-Fees/Admission-Tuition-Fees"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "abu-dhabi-university",
+  "name": {
+   "en": "Abu Dhabi University",
+   "ka": "აბუ-დაბის უნივერსიტეტი",
+   "ar": "جامعة أبوظبي"
+  },
+  "iso": "AE",
+  "city": "Abu Dhabi",
+  "lat": 24.47,
+  "lon": 54.6,
+  "type": "private",
+  "website": "https://adu.ac.ae",
+  "platform": null,
+  "application_url": "https://adu.ac.ae/admissions/eligibility-and-requirements",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 1620,
+   "currency": "AED",
+   "per": "credit hour",
+   "note": "Abu Dhabi campus, Arts and Sciences (2026-27 catalogue). Business 1,800; Engineering 2,000; Health Sciences 2,085 per credit hour. Al Ain campus is lower. Plus a one-time AED 300 application fee and AED 2,850 registration fee; 5% VAT."
+  },
+  "acceptance_rate": null,
+  "students": 8000,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Arabic"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "A recognised secondary certificate approved by the UAE Ministry of Education; foreign-curriculum applicants may need a UAE Ministry of Education equivalency letter.",
+   "ka": "საჭიროა გაერთიანებული არაბეთის ემირატების განათლების სამინისტროს მიერ დამტკიცებული აღიარებული საშუალო განათლების სერტიფიკატი; უცხოური სასწავლო გეგმის განმცხადებლებს შეიძლება დასჭირდეთ სამინისტროს ეკვივალენტობის წერილი.",
+   "ar": "شهادة ثانوية معترف بها ومعتمدة من وزارة التربية والتعليم الإماراتية؛ وقد يحتاج المتقدمون من مناهج أجنبية إلى خطاب معادلة من الوزارة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Institutional TOEFL + WriteAccuplacer",
+   "IELTS (on ADU campus)",
+   "Math/science placement, portfolio or interview by programme"
+  ],
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Law",
+    "Computer Science"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "საინჟინრო საქმე",
+    "სამართალი",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "القانون",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "Private university in the UAE with campuses in Abu Dhabi, Al Ain, Dubai and Ras Al Khaimah; teaching in English.",
+   "ka": "კერძო უნივერსიტეტი არაბთა გაერთიანებულ საემიროებში, კამპუსებით აბუ-დაბიში, ალ-აინში, დუბაიში და რას ალ-ხაიმაში; სწავლება ინგლისურად.",
+   "ar": "جامعة خاصة في الإمارات لها فروع في أبوظبي والعين ودبي ورأس الخيمة؛ والتدريس بالإنجليزية."
+  },
+  "about": {
+   "en": "Abu Dhabi University is an accredited private university offering bachelor programmes in English. Tuition is charged per credit hour.",
+   "ka": "აბუ-დაბის უნივერსიტეტი აკრედიტებული კერძო უნივერსიტეტია, ბაკალავრის პროგრამებით ინგლისურად. საფასური კრედიტზეა დაანგარიშებული.",
+   "ar": "جامعة أبوظبي جامعة خاصة معتمدة تقدم برامج بكالوريوس بالإنجليزية. تُحتسب الرسوم لكل ساعة معتمدة."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "English proficiency is shown by IELTS, TOEFL, school English grades or an ADU preparatory course, depending on the programme. Some programmes also require a maths, science, placement test, portfolio, entry exam or interview.",
+   "ka": "ინგლისურის ცოდნა მტკიცდება IELTS-ით, TOEFL-ით, სკოლის ინგლისურის ნიშნებით ან ADU-ს მოსამზადებელი კურსით, პროგრამის მიხედვით. ზოგ პროგრამას დამატებით სჭირდება მათემატიკის, მეცნიერების, დონის განმსაზღვრელი ტესტი, პორტფოლიო, მისაღები გამოცდა ან ინტერვიუ.",
+   "ar": "يُثبت إتقان الإنجليزية عبر IELTS أو TOEFL أو درجات اللغة الإنجليزية المدرسية أو دورة تحضيرية في ADU بحسب البرنامج. وتشترط بعض البرامج أيضاً اختباراً في الرياضيات أو العلوم أو تحديد مستوى أو ملف أعمال أو امتحان قبول أو مقابلة."
+  },
+  "gpa_note": {
+   "en": "Admission average is typically 70% or equivalent, with higher averages for some Engineering and Health Sciences programmes; applicants below direct-entry level may get conditional admission.",
+   "ka": "ჩარიცხვის საშუალო ქულა, როგორც წესი, 70%-ია ან ექვივალენტური, ზოგ საინჟინრო და ჯანდაცვის პროგრამაზე უფრო მაღალი; პირდაპირი ჩარიცხვის დონეზე დაბალ განმცხადებლებს შეიძლება პირობითი ჩარიცხვა შესთავაზონ.",
+   "ar": "يبلغ معدل القبول عادة 70% أو ما يعادله، ويكون أعلى في بعض برامج الهندسة والعلوم الصحية؛ وقد يُقبل من لا يستوفون شروط القبول المباشر قبولاً مشروطاً."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcript",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ცხრილი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalency letter from the UAE Ministry of Education for foreign certificates",
+     "ka": "გარე სერტიფიკატებისთვის გაერთიანებული არაბეთის ემირატების განათლების სამინისტროს ეკვივალენტობის წერილი",
+     "ar": "خطاب معادلة من وزارة التربية والتعليم الإماراتية للشهادات الأجنبية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English (IELTS, TOEFL, school English grades or ADU preparatory course)",
+     "ka": "ინგლისურის ცოდნის დადასტურება (IELTS, TOEFL, სკოლის ნიშნები ან ADU-ს მოსამზადებელი კურსი)",
+     "ar": "إثبات الإنجليزية (IELTS أو TOEFL أو درجات المدرسة أو دورة ADU التحضيرية)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee AED 300 (non-refundable) and registration fee AED 2,850",
+     "ka": "სააპლიკაციო გადასახადი 300 AED (არ ბრუნდება) და რეგისტრაციის გადასახადი 2 850 AED",
+     "ar": "رسوم الطلب 300 درهم (غير مستردة) ورسوم التسجيل 2,850 درهم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://adu.ac.ae/admissions/eligibility-and-requirements",
+   "https://cdn.adu.ac.ae/flipbooks/ugcat/files/basic-html/page69.html"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "pontificia-universidad-catolica-argentina",
+  "name": {
+   "en": "Pontificia Universidad Católica Argentina",
+   "ka": "არგენტინის პაპის კათოლიკური უნივერსიტეტი",
+   "ar": "الجامعة الكاثوليكية البابوية الأرجنتينية"
+  },
+  "iso": "AR",
+  "city": "Buenos Aires",
+  "lat": -34.604,
+  "lon": -58.363,
+  "type": "private",
+  "website": "https://www.uca.edu.ar",
+  "platform": null,
+  "application_url": "https://uca.edu.ar/es/comenza-con-tu-inscripcion",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Applicants who did not finish secondary school in Argentina must complete the recognition (convalidación or revalidación) of their studies; foreign documents must be apostilled.",
+   "ka": "აპლიკანტებმა, რომლებმაც საშუალო განათლება არგენტინაში არ დაასრულეს, უნდა გაიარონ სწავლის აღიარების პროცედურა (convalidación ან revalidación); უცხოური დოკუმენტები აპოსტილირებული უნდა იყოს.",
+   "ar": "على من لم يُنهِ الثانوية في الأرجنتين إتمام معادلة دراسته (convalidación أو revalidación)، ويجب أن تكون الوثائق الأجنبية مصدقة بأبوستيل."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "Private Catholic university in Buenos Aires. Official admissions pages could not be read, so fees and deadlines are not listed.",
+   "ka": "კერძო კათოლიკური უნივერსიტეტი ბუენოს-აირესში. ოფიციალური გვერდები ვერ წაიკითხა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "جامعة كاثوليكية خاصة في بوينس آيرس. تعذرت قراءة صفحات القبول الرسمية لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "UCA is a private Catholic university in Buenos Aires. Teaching is in Spanish. No official admissions, fee or deadline details could be retrieved this round; check the university's international admissions office.",
+   "ka": "UCA კერძო კათოლიკური უნივერსიტეტია ბუენოს-აირესში. სწავლება ესპანურადაა. ამ ეტაპზე ოფიციალური მონაცემები მისაღებ პირობებზე, საფასურსა და ვადებზე ვერ მოიძებნა; გთხოვთ დაუკავშირდეთ უნივერსიტეტს.",
+   "ar": "الجامعة الكاثوليكية الأرجنتينية جامعة خاصة في بوينس آيرس. التدريس بالإسبانية. لم تتوفر بيانات رسمية عن القبول والرسوم والمواعيد في هذه الجولة؛ يرجى مراجعة الجامعة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": null,
+  "gpa_note": {
+   "en": "Foreign applicants follow the same requirements as everyone else; studies completed abroad must be recognised (convalidated or revalidated) and documents apostilled.",
+   "ka": "უცხოელი განმცხადებლებისთვის იგივე მოთხოვნებია, რაც ყველასთვის; საზღვარგარეთ დასრულებული სწავლა უნდა აღიარდეს (convalidación ან revalidación) და დოკუმენტები აპოსტილირდეს.",
+   "ar": "يخضع المتقدمون الأجانب للشروط نفسها؛ ويجب معادلة الدراسة المنجزة في الخارج وتصديق الوثائق بأبوستيل."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or national ID",
+     "ka": "პასპორტი ან პირადობის მოწმობა",
+     "ar": "جواز السفر أو الهوية الوطنية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (convalidación) of the foreign secondary title by the Argentine Ministry of Education",
+     "ka": "უცხოური საშუალო განათლების აღიარება (convalidación) არგენტინის განათლების სამინისტროში",
+     "ar": "معادلة (convalidación) الشهادة الثانوية الأجنبية لدى وزارة التعليم الأرجنتينية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Enrolment fee (paid once, in February) plus 11 monthly fees per year",
+     "ka": "ჩარიცხვის გადასახადი (ერთჯერადი, თებერვალში) და წელიწადში 11 ყოველთვიური გადასახადი",
+     "ar": "رسوم التسجيل (مرة واحدة في فبراير) إضافة إلى 11 قسطاً شهرياً في السنة"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": null,
+  "sources": [
+   "https://uca.edu.ar/es/comenza-con-tu-inscripcion",
+   "https://uca.edu.ar/es/institucional/alumnos/pago-de-aranceles"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-austral",
+  "name": {
+   "en": "Universidad Austral",
+   "ka": "ავსტრალის უნივერსიტეტი (Universidad Austral)",
+   "ar": "جامعة أوسترال"
+  },
+  "iso": "AR",
+  "city": "Pilar",
+  "lat": -34.455,
+  "lon": -58.866,
+  "type": "private",
+  "website": "https://www.austral.edu.ar",
+  "platform": null,
+  "application_url": "https://www.austral.edu.ar/admisiones/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "IB Diploma holders with 30+ points (or AICE 220+) can enter directly after an interview; the diploma and secondary title must be legalised by the foreign affairs and education ministries of both countries.",
+   "ka": "IB დიპლომის მფლობელებს 30+ ქულით (ან AICE 220+) შეუძლიათ პირდაპირ ჩაირიცხონ ინტერვიუს შემდეგ; დიპლომი და საშუალო განათლების ატესტატი უნდა იყოს ლეგალიზებული ორივე ქვეყნის საგარეო საქმეთა და განათლების სამინისტროებში.",
+   "ar": "يمكن لحاملي دبلوم IB بـ 30 نقطة فأكثر (أو AICE 220 فأكثر) الالتحاق مباشرة بعد مقابلة؛ ويجب تصديق الشهادة والمؤهل الثانوي من وزارتي الخارجية والتعليم في البلدين."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "IB Diploma 30+ (direct entry)",
+   "AICE 220+ (direct entry)"
+  ],
+  "fields": [
+   "engineering",
+   "law",
+   "business",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Law",
+    "Business",
+    "Health sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "სამართალი",
+    "ბიზნესი",
+    "ჯანდაცვის მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "القانون",
+    "الأعمال",
+    "العلوم الصحية"
+   ]
+  },
+  "summary": {
+   "en": "Private university in Pilar with about 25 undergraduate programmes; 51% of students receive a scholarship or incentive, per its admissions page.",
+   "ka": "კერძო უნივერსიტეტი პილარში, დაახლოებით 25 საბაკალავრო პროგრამით; მისი გვერდის მიხედვით სტუდენტების 51% იღებს სტიპენდიას ან წახალისებას.",
+   "ar": "جامعة خاصة في بيلار بنحو 25 برنامجا جامعيا؛ وبحسب صفحة القبول يحصل 51% من الطلاب على منحة أو حافز."
+  },
+  "about": {
+   "en": "Universidad Austral has campuses in Pilar, Buenos Aires city and Rosario. Pilar offers about 25 undergraduate programmes, including engineering, law, business and health sciences. Applicants can book an entrance interview. Teaching is in Spanish. Fees and international document rules were not available on the pages read.",
+   "ka": "უნივერსიტეტ ავსტრალს აქვს კამპუსები პილარში, ბუენოს-აირესსა და როსარიოში. პილარში დაახლოებით 25 საბაკალავრო პროგრამაა, მათ შორის ინჟინერია, სამართალი, ბიზნესი და ჯანდაცვა. აპლიკანტებს შეუძლიათ მისაღები ინტერვიუს დაჯავშნა. სწავლება ესპანურადაა. საფასური და უცხოური დოკუმენტების წესები წაკითხულ გვერდებზე არ იყო.",
+   "ar": "لجامعة أوسترال فروع في بيلار ومدينة بوينس آيرس وروساريو. تقدم بيلار نحو 25 برنامجا جامعيا منها الهندسة والقانون والأعمال والعلوم الصحية. يمكن للمتقدمين حجز مقابلة قبول. التدريس بالإسبانية. لم تتوفر الرسوم وقواعد الوثائق الدولية في الصفحات المقروءة."
+  },
+  "aid_intl": {
+   "en": "About half of students receive a scholarship or incentive; terms for international students are not published on the page read.",
+   "ka": "სტუდენტების დაახლოებით ნახევარი იღებს სტიპენდიას ან წახალისებას; საერთაშორისო სტუდენტებისთვის პირობები გვერდზე არ არის.",
+   "ar": "يحصل نحو نصف الطلاب على منحة أو حافز؛ ولم تُنشر شروط الطلاب الدوليين في الصفحة."
+  },
+  "tests": {
+   "en": "Admission combines a secondary title, an admission interview and one of three routes: entrance course, direct entry (IB 30+ or AICE 220+) or University Pass. Foreign applicants must validate their secondary title.",
+   "ka": "ჩარიცხვა მოიცავს საშუალო განათლების ატესტატს, მისაღებ ინტერვიუს და სამიდან ერთ გზას: შესავალი კურსი, პირდაპირი ჩარიცხვა (IB 30+ ან AICE 220+) ან University Pass. უცხოელმა განმცხადებლებმა უნდა დაადასტურონ ატესტატი.",
+   "ar": "يجمع القبول بين المؤهل الثانوي ومقابلة القبول وأحد ثلاثة مسارات: دورة القبول أو القبول المباشر (IB 30+ أو AICE 220+) أو University Pass. ويجب على الأجانب معادلة مؤهلهم الثانوي."
+  },
+  "gpa_note": {
+   "en": "Direct entry needs an IB Diploma of 30+ points or AICE 220+; otherwise applicants take the entrance course. The secondary title must be complete or in process.",
+   "ka": "პირდაპირი ჩარიცხვისთვის საჭიროა IB დიპლომი 30+ ქულით ან AICE 220+; სხვა შემთხვევაში განმცხადებლები გადიან შესავალ კურსს. საშუალო განათლება უნდა იყოს დასრულებული ან მიმდინარე.",
+   "ar": "يتطلب القبول المباشر دبلوم IB بـ 30 نقطة فأكثر أو AICE 220 فأكثر؛ وإلا يلتحق المتقدمون بدورة القبول. ويجب أن يكون المؤهل الثانوي مكتملاً أو قيد الإصدار."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or national ID",
+     "ka": "პასპორტი ან პირადობის მოწმობა",
+     "ar": "جواز السفر أو الهوية الوطنية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (convalidación) of the foreign secondary title by the Argentine Ministry of Education",
+     "ka": "უცხოური საშუალო განათლების აღიარება (convalidación) არგენტინის განათლების სამინისტროში",
+     "ar": "معادلة (convalidación) الشهادة الثانوية الأجنبية لدى وزارة التعليم الأرجنتينية"
+    }
+   },
+   {
+    "key": "residence",
+    "label": {
+     "en": "Argentine residence and DNI through the National Directorate of Migration",
+     "ka": "არგენტინული რეზიდენტობა და DNI მიგრაციის ეროვნული სამსახურის მეშვეობით",
+     "ar": "الإقامة الأرجنتينية وبطاقة DNI عبر المديرية الوطنية للهجرة"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Admission interview",
+     "ka": "მისაღები ინტერვიუ",
+     "ar": "مقابلة القبول"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam or entrance course",
+     "ka": "მისაღები გამოცდა ან შესავალი კურსი",
+     "ar": "امتحان أو دورة القبول"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": null,
+  "sources": [
+   "https://www.austral.edu.ar/admisiones/",
+   "https://www.austral.edu.ar/en/admisiones/inscripciones/",
+   "https://www.austral.edu.ar/ingresantes/ingreso-directo-ib/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-nacional-de-cordoba-unc",
+  "name": {
+   "en": "Universidad Nacional de Córdoba - UNC",
+   "ka": "კორდობას ეროვნული უნივერსიტეტი (UNC)",
+   "ar": "جامعة قرطبة الوطنية (UNC)"
+  },
+  "iso": "AR",
+  "city": "Córdoba",
+  "lat": -31.42,
+  "lon": -64.188,
+  "type": "public",
+  "website": "https://www.unc.edu.ar",
+  "platform": "Direct (faculty pre-enrolment on the Guaraní system)",
+  "application_url": "https://fcm.unc.edu.ar/wp-content/uploads/2024/09/INGRESO-A-CARRERAS-DE-PREGRADO-Y-GRADO.pdf",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "Pre-enrolment dates are set by each faculty. Foreign secondary titles must be recognised by the Argentine Ministry of Education within 12 months of pre-enrolment.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Foreign secondary titles need the Hague Apostille (or Argentine consular legalisation) and recognition (convalidación) by the Ministry of Education within 12 months of pre-enrolment.",
+   "ka": "უცხოურ საშუალო განათლებას სჭირდება ჰააგის აპოსტილი (ან არგენტინის საკონსულო ლეგალიზაცია) და განათლების სამინისტროს მიერ აღიარება (convalidación) წინასწარი რეგისტრაციიდან 12 თვის განმავლობაში.",
+   "ar": "تحتاج الشهادات الثانوية الأجنبية إلى أبوستيل لاهاي (أو تصديق القنصلية الأرجنتينية) ومعادلة (convalidación) من وزارة التعليم خلال 12 شهراً من التسجيل المبدئي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "CELU (Spanish, intermediate, Muy Bueno)"
+  ],
+  "fields": [
+   "medicine-health",
+   "law",
+   "engineering",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Law",
+    "Engineering",
+    "Natural sciences",
+    "Architecture"
+   ],
+   "ka": [
+    "მედიცინა",
+    "სამართალი",
+    "ინჟინერია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "არქიტექტურა"
+   ],
+   "ar": [
+    "الطب",
+    "القانون",
+    "الهندسة",
+    "العلوم الطبيعية",
+    "العمارة"
+   ]
+  },
+  "summary": {
+   "en": "Argentina's oldest university, founded in 1613 in Córdoba. Public and taught in Spanish.",
+   "ka": "არგენტინის უძველესი უნივერსიტეტი, დაარსებულია 1613 წელს კორდობაში. საჯაროა, სწავლება ესპანურადაა.",
+   "ar": "أقدم جامعة في الأرجنتين، تأسست عام 1613 في قرطبة. عامة والتدريس بالإسبانية."
+  },
+  "about": {
+   "en": "The National University of Córdoba is a large public university in central Argentina with many undergraduate faculties. Teaching is in Spanish. The admission page checked returned an error, so entry rules, fees and deadlines for foreign applicants are left empty.",
+   "ka": "კორდობას ეროვნული უნივერსიტეტი არგენტინის ცენტრში მდებარე მსხვილი საჯარო უნივერსიტეტია მრავალი ფაკულტეტით. სწავლება ესპანურადაა. შემოწმებული მიღების გვერდი არ გაიხსნა, ამიტომ წესები და ვადები მითითებული არ არის.",
+   "ar": "جامعة قرطبة الوطنية جامعة عامة كبيرة في وسط الأرجنتين بكليات جامعية كثيرة، والتدريس بالإسبانية. أعطت صفحة القبول التي فُحصت خطأً، لذا تُركت الشروط والرسوم والمواعيد فارغة."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Applicants from non-Spanish-speaking countries must present the CELU Spanish certificate at intermediate level with the mention Muy Bueno. Each faculty may add its own entrance course.",
+   "ka": "არაესპანურენოვანი ქვეყნების განმცხადებლებმა უნდა წარადგინონ CELU-ს ესპანურის სერტიფიკატი საშუალო დონეზე შეფასებით Muy Bueno. თითოეულ ფაკულტეტს შეიძლება ჰქონდეს საკუთარი საგაოცდო კურსი.",
+   "ar": "على المتقدمين من بلدان غير ناطقة بالإسبانية تقديم شهادة CELU للإسبانية بمستوى متوسط وتقدير Muy Bueno. وقد تضيف كل كلية دورة قبول خاصة بها."
+  },
+  "gpa_note": {
+   "en": "A complete secondary school education that qualifies for higher studies is required; the diploma and transcript must be legalised by the education and foreign ministries (Hague Apostille).",
+   "ka": "აუცილებელია სრული საშუალო განათლება, რომელიც უმაღლესი განათლების უფლებას იძლევა; დიპლომი და ატესტატი უნდა იყოს ლეგალიზებული განათლებისა და საგარეო საქმეთა სამინისტროებში (ჰააგის აპოსტილი).",
+   "ar": "يُشترط تعليم ثانوي كامل يؤهل للدراسة الجامعية، ويجب تصديق الشهادة وكشف الدرجات من وزارتي التعليم والخارجية (أبوستيل لاهاي)."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or national ID",
+     "ka": "პასპორტი ან პირადობის მოწმობა",
+     "ar": "جواز السفر أو الهوية الوطنية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Diploma and transcript legalised (Hague Apostille or Argentine consulate)",
+     "ka": "დიპლომი და ატესტატი ლეგალიზებული (ჰააგის აპოსტილი ან არგენტინის საკონსულო)",
+     "ar": "الشهادة وكشف الدرجات مصدقان (أبوستيل لاهاي أو القنصلية الأرجنتينية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Diploma and transcript legalised (Hague Apostille or Argentine consulate)",
+     "ka": "დიპლომი და ატესტატი ლეგალიზებული (ჰააგის აპოსტილი ან არგენტინის საკონსულო)",
+     "ar": "الشهادة وكشف الدرجات مصدقان (أبوستيل لاهاي أو القنصلية الأرجنتينية)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (convalidación) of the foreign secondary title by the Argentine Ministry of Education",
+     "ka": "უცხოური საშუალო განათლების აღიარება (convalidación) არგენტინის განათლების სამინისტროში",
+     "ar": "معادلة (convalidación) الشهادة الثانوية الأجنبية لدى وزارة التعليم الأرجنتينية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of Spanish (CELU intermediate, mention Muy Bueno)",
+     "ka": "ესპანური ენის დამადასტურებელი (CELU, საშუალო დონე, შეფასება Muy Bueno)",
+     "ar": "إثبات اللغة الإسبانية (CELU مستوى متوسط بتقدير جيد جداً)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Sworn translation into Spanish if not in Spanish",
+     "ka": "ნაფიცი თარჯიმნის თარგმანი ესპანურად, თუ დოკუმენტი სხვა ენაზეა",
+     "ar": "ترجمة محلفة إلى الإسبانية إذا لم تكن بالإسبانية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "argentina",
+   "cordoba",
+   "public",
+   "spanish"
+  ],
+  "sources": [
+   "https://fcm.unc.edu.ar/wp-content/uploads/2024/09/INGRESO-A-CARRERAS-DE-PREGRADO-Y-GRADO.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-argentina-de-la-empresa-uade",
+  "name": {
+   "en": "Universidad Argentina de la Empresa (UADE)",
+   "ka": "არგენტინის საწარმოთა უნივერსიტეტი (UADE)",
+   "ar": "جامعة الأرجنتين للأعمال (UADE)"
+  },
+  "iso": "AR",
+  "city": "Buenos Aires",
+  "lat": -34.61,
+  "lon": -58.371,
+  "type": "private",
+  "website": "https://www.uade.edu.ar",
+  "platform": null,
+  "application_url": "https://www.uade.edu.ar/informacion-para/ingresantes/sistema-de-admision/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "A foreign secondary title must be apostilled in the country of origin and recognised (convalidado) by the Argentine Ministry of Education.",
+   "ka": "უცხოური საშუალო განათლების ატესტატი უნდა აპოსტილირდეს წარმოშობის ქვეყანაში და აღიარებულ იქნეს (convalidado) არგენტინის განათლების სამინისტროში.",
+   "ar": "يجب تصديق الشهادة الثانوية الأجنبية بأبوستيل في بلد المنشأ ومعادلتها (convalidado) لدى وزارة التعليم الأرجنتينية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "SIA entrance exam",
+   "Spanish C1 (non-Spanish-speaking schools)"
+  ],
+  "fields": [
+   "business",
+   "engineering",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Law"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "სამართალი"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "A private business-oriented university in Buenos Aires with four campuses. International degree-seeking admission details could not be verified.",
+   "ka": "კერძო ბიზნესზე ორიენტირებული უნივერსიტეტი ბუენოს-აირესში ოთხი კამპუსით. საერთაშორისო აპლიკანტების მიღების დეტალები ვერ გადამოწმდა.",
+   "ar": "جامعة خاصة تركز على الأعمال في بوينس آيرس بأربعة فروع. لم يمكن التحقق من تفاصيل قبول الطلبة الدوليين."
+  },
+  "about": {
+   "en": "UADE has campuses in Buenos Aires (Lima, Recoleta, Belgrano) and Pinamar. Its international section describes exchange (incoming) study for a semester or a year; the pages read gave no fees, deadlines or requirements for degree-seeking foreign applicants. Online registration is at the admission web page.",
+   "ka": "UADE-ს კამპუსები აქვს ბუენოს-აირესში (Lima, Recoleta, Belgrano) და პინამარში. საერთაშორისო განყოფილება აღწერს გაცვლით სწავლას ერთი სემესტრით ან წლით; წაკითხულ გვერდებზე ხარისხის მაძიებელი უცხოელებისთვის საფასური და ვადები არ არის. ონლაინ რეგისტრაცია admisionweb გვერდზეა.",
+   "ar": "للجامعة فروع في بوينس آيرس (ليما، ريكوليتا، بيلغرانو) وبيناماري. يصف قسمها الدولي الدراسة التبادلية لفصل أو سنة، ولم تتضمن الصفحات المقروءة رسوماً أو مواعيد أو شروطاً للأجانب الراغبين بالحصول على الدرجة. التسجيل الإلكتروني عبر صفحة القبول."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Admission needs a mandatory interview and the SIA entrance exam unless exempt (prior university subjects or school agreement). Applicants from non-Spanish-speaking schools show Spanish at C1 or higher; some programmes add an English interview.",
+   "ka": "მისაღებად სავალდებულოა ინტერვიუ და SIA-ს მისაღები გამოცდა, თუ განმცხადებელი გათავისუფლებული არ არის (წინა საუნივერსიტეტო საგნები ან სკოლასთან შეთანხმება). არაესპანურენოვანი სკოლებიდან ესპანური უნდა დადასტურდეს C1 ან მეტ დონეზე; ზოგ პროგრამას დამატებით ინგლისურის ინტერვიუ აქვს.",
+   "ar": "يتطلب القبول مقابلة إلزامية وامتحان القبول SIA ما لم يتم الإعفاء (مواد جامعية سابقة أو اتفاقية مع المدرسة). يُثبت المتقدمون من مدارس غير ناطقة بالإسبانية مستوى C1 أو أعلى، وتضيف بعض البرامج مقابلة بالإنجليزية."
+  },
+  "gpa_note": {
+   "en": "Secondary studies must be complete (or in progress with a student certificate); a foreign title must be apostilled in the home country and recognised by the Argentine Ministry of Education.",
+   "ka": "საშუალო განათლება უნდა იყოს დასრულებული (ან მიმდინარე მოსწავლის ცნობით); უცხოური ატესტატი უნდა აპოსტილირდეს მშობლიურ ქვეყანაში და აღიარებულ იქნეს არგენტინის განათლების სამინისტროში.",
+   "ar": "يجب أن تكون الدراسة الثانوية مكتملة (أو جارية مع شهادة طالب)؛ وتُصدَّق الشهادة الأجنبية بأبوستيل في بلدها وتُعادل لدى وزارة التعليم الأرجنتينية."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or national ID",
+     "ka": "პასპორტი ან პირადობის მოწმობა",
+     "ar": "جواز السفر أو الهوية الوطنية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (convalidación) of the foreign secondary title by the Argentine Ministry of Education",
+     "ka": "უცხოური საშუალო განათლების აღიარება (convalidación) არგენტინის განათლების სამინისტროში",
+     "ar": "معادلة (convalidación) الشهادة الثانوية الأجنبية لدى وزارة التعليم الأرجنتينية"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Digital photo",
+     "ka": "ციფრული ფოტო",
+     "ar": "صورة رقمية"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Admission interview",
+     "ka": "მისაღები ინტერვიუ",
+     "ar": "مقابلة القبول"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam or entrance course",
+     "ka": "მისაღები გამოცდა ან შესავალი კურსი",
+     "ar": "امتحان أو دورة القبول"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Spanish certificate level C1 or higher (non-Spanish-speaking schools)",
+     "ka": "ესპანურის სერტიფიკატი C1 ან უფრო მაღალი დონე (არაესპანურენოვანი სკოლებისთვის)",
+     "ar": "شهادة اللغة الإسبانية بمستوى C1 أو أعلى (للمدارس غير الناطقة بالإسبانية)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application / admission fee",
+     "ka": "სააპლიკაციო / მისაღები გადასახადი",
+     "ar": "رسوم الطلب / القبول"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "argentina",
+   "buenos aires",
+   "business"
+  ],
+  "sources": [
+   "https://www.uade.edu.ar/informacion-para/ingresantes/",
+   "https://www.uade.edu.ar/uade-internacional/",
+   "https://www.uade.edu.ar/admisionweb"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-nacional-de-rosario-unr",
+  "name": {
+   "en": "Universidad Nacional de Rosario (UNR)",
+   "ka": "როსარიოს ეროვნული უნივერსიტეტი (UNR)",
+   "ar": "جامعة روساريو الوطنية (UNR)"
+  },
+  "iso": "AR",
+  "city": "Rosario",
+  "lat": -32.947,
+  "lon": -60.64,
+  "type": "public",
+  "website": "https://unr.edu.ar",
+  "platform": null,
+  "application_url": "https://unr.edu.ar/ingreso-extranjeros/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Faculties require the secondary title to be approved by 30 April of the entry year (for example FCEIA and Humanities). Foreign students apply from their home country and request a visa at the Argentine consulate.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Spanish B2 (or DUCLE) for non-Spanish speakers"
+  ],
+  "fields": [],
+  "strengths": null,
+  "summary": {
+   "en": "A public university in Rosario, Argentina. Its website refused connections, so no admission facts were verified.",
+   "ka": "საჯარო უნივერსიტეტი როსარიოში, არგენტინა. საიტმა კავშირი უარყო, ამიტომ მიღების ფაქტები ვერ გადამოწმდა.",
+   "ar": "جامعة حكومية في روساريو بالأرجنتين. رفض موقعها الاتصال لذا لم يتم التحقق من معلومات القبول."
+  },
+  "about": {
+   "en": "A public university in Rosario, Argentina. Its website refused connections, so no admission facts were verified. Contact the admissions office for current requirements and fees.",
+   "ka": "საჯარო უნივერსიტეტი როსარიოში, არგენტინა. საიტმა კავშირი უარყო, ამიტომ მიღების ფაქტები ვერ გადამოწმდა. მიმდინარე პირობებისა და საფასურისთვის დაუკავშირდით მისაღებ ოფისს.",
+   "ar": "جامعة حكومية في روساريو بالأرجنتين. رفض موقعها الاتصال لذا لم يتم التحقق من معلومات القبول. يُرجى التواصل مع مكتب القبول لمعرفة الشروط والرسوم الحالية."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Non-Spanish speakers must prove Spanish at B2 (independent intermediate); some faculties accept the DUCLE certificate. Each faculty runs its own entry course.",
+   "ka": "არაესპანურენოვნებმა უნდა დაადასტურონ ესპანური B2 დონეზე; ზოგი ფაკულტეტი იღებს DUCLE სერტიფიკატს. თითოეულ ფაკულტეტს აქვს საკუთარი შესავალი კურსი.",
+   "ar": "على غير الناطقين بالإسبانية إثبات مستوى B2؛ وتقبل بعض الكليات شهادة DUCLE. ولكل كلية دورة قبول خاصة بها."
+  },
+  "gpa_note": {
+   "en": "The secondary title must be approved by 30 April of the entry year; foreign documents are legalised (Hague or consulate) and translated into Spanish if needed. Tourist status does not allow enrolment.",
+   "ka": "საშუალო განათლება უნდა იყოს დასრულებული შესვლის წლის 30 აპრილამდე; უცხოური დოკუმენტები ლეგალიზებული (ჰააგა ან საკონსულო) და საჭიროების შემთხვევაში ესპანურად ნათარგმნი უნდა იყოს. ტურისტული სტატუსი ჩარიცხვის უფლებას არ იძლევა.",
+   "ar": "يجب إنهاء الدراسة الثانوية قبل 30 أبريل من سنة الالتحاق؛ وتُصدَّق الوثائق الأجنبية (لاهاي أو القنصلية) وتُترجم إلى الإسبانية عند الحاجة. ولا تسمح صفة السائح بالتسجيل."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or national ID",
+     "ka": "პასპორტი ან პირადობის მოწმობა",
+     "ar": "جواز السفر أو الهوية الوطنية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Diploma and transcript legalised (Hague Apostille or Argentine consulate)",
+     "ka": "დიპლომი და ატესტატი ლეგალიზებული (ჰააგის აპოსტილი ან არგენტინის საკონსულო)",
+     "ar": "الشهادة وكشف الدرجات مصدقان (أبوستيل لاهاي أو القنصلية الأرجنتينية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Diploma and transcript legalised (Hague Apostille or Argentine consulate)",
+     "ka": "დიპლომი და ატესტატი ლეგალიზებული (ჰააგის აპოსტილი ან არგენტინის საკონსულო)",
+     "ar": "الشهادة وكشف الدرجات مصدقان (أبوستيل لاهاي أو القنصلية الأرجنتينية)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of Spanish at B2 for non-Spanish speakers (some faculties accept DUCLE)",
+     "ka": "ესპანურის B2 დონის დადასტურება არაესპანურენოვნებისთვის (ზოგი ფაკულტეტი იღებს DUCLE-ს)",
+     "ar": "إثبات اللغة الإسبانية بمستوى B2 لغير الناطقين بها (تقبل بعض الكليات DUCLE)"
+    }
+   },
+   {
+    "key": "visa",
+    "label": {
+     "en": "Student visa / temporary residence for non-Mercosur applicants",
+     "ka": "სტუდენტური ვიზა / დროებითი რეზიდენტობა არა-მერკოსურის განმცხადებლებისთვის",
+     "ar": "تأشيرة طالب / إقامة مؤقتة لغير مواطني ميركوسور"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Sworn translation into Spanish if not in Spanish",
+     "ka": "ნაფიცი თარჯიმნის თარგმანი ესპანურად, თუ დოკუმენტი სხვა ენაზეა",
+     "ar": "ترجمة محلفة إلى الإسبانية إذا لم تكن بالإسبانية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "ar",
+   "rosario"
+  ],
+  "sources": [
+   "https://unr.edu.ar/ingreso-extranjeros/",
+   "https://fhumyar.unr.edu.ar/ingreso/",
+   "https://web.fceia.unr.edu.ar/es/informacion-ingresantes/ingreso.html"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-nacional-de-cuyo-uncuyo",
+  "name": {
+   "en": "Universidad Nacional de Cuyo (UNCUYO)",
+   "ka": "კუიოს ეროვნული უნივერსიტეტი (UNCUYO)",
+   "ar": "جامعة كويو الوطنية (UNCUYO)"
+  },
+  "iso": "AR",
+  "city": "Mendoza",
+  "lat": -32.889,
+  "lon": -68.857,
+  "type": "public",
+  "website": "https://www.uncuyo.edu.ar",
+  "platform": "Direct (faculty enrolment)",
+  "application_url": "https://www.uncuyo.edu.ar/relacionesinternacionales/estudiantes/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "For 2027 entry, applicants who finished secondary school abroad must have the title recognised (convalidado) by 30 April 2027 (Faculties of Education, Engineering and Arts). The 2027 entrance course at the Faculty of Education started on 13 October 2026.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Foreign secondary titles must be recognised (convalidado) and, for Arts, apostilled by 30 April 2027.",
+   "ka": "უცხოური საშუალო განათლება უნდა იყოს აღიარებული (convalidado), ხოლო ხელოვნებაში აპოსტილირებული, 2027 წლის 30 აპრილამდე.",
+   "ar": "يجب معادلة الشهادة الثانوية الأجنبية (convalidado) وتصديقها بأبوستيل لكلية الفنون قبل 30 أبريل 2027."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "humanities"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Universidad Nacional de Cuyo (UNCUYO) is a public university in Mendoza, Argentina. Teaching is in Spanish.",
+   "ka": "კუიოს ეროვნული უნივერსიტეტი (UNCUYO) — სახელმწიფო უნივერსიტეტია, მდებარეობს არგენტინაში (მენდოსა). სწავლება მიმდინარეობს ესპანურ ენაზე.",
+   "ar": "جامعة كويو الوطنية (UNCUYO) جامعة حكومية في مندوزا، الأرجنتين. لغة التدريس هي الإسبانية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Each faculty sets its own entrance course (curso de ingreso); at the Faculty of Education the 2027 vocational and entrance courses started on 13 October 2026. Foreign applicants present valid identity or passport.",
+   "ka": "თითოეული ფაკულტეტი საკუთარ შესავალ კურსს (curso de ingreso) ადგენს; განათლების ფაკულტეტზე 2027 წლის საპროფესიო და შესავალი კურსები 2026 წლის 13 ოქტომბერს დაიწყო. უცხოელი განმცხადებლები წარადგენენ მოქმედ პირადობის დოკუმენტს ან პასპორტს.",
+   "ar": "تحدد كل كلية دورة القبول الخاصة بها؛ وفي كلية التربية بدأت الدورتان المهنية والتمهيدية لعام 2027 في 13 أكتوبر 2026. ويقدم المتقدمون الأجانب هوية سارية أو جواز سفر."
+  },
+  "gpa_note": {
+   "en": "The secondary title must be complete and, if obtained abroad, recognised or convalidated by 30 April 2027; titles from Mexico, Brazil, Chile, Spain, Italy, France and other listed countries are recognised directly by the Ministry.",
+   "ka": "საშუალო განათლება უნდა იყოს დასრულებული და, თუ საზღვარგარეთაა მიღებული, აღიარებული 2027 წლის 30 აპრილამდე; მექსიკის, ბრაზილიის, ჩილეს, ესპანეთის, იტალიის, საფრანგეთისა და სხვა ჩამოთვლილი ქვეყნების ატესტატებს სამინისტრო პირდაპირ აღიარებს.",
+   "ar": "يجب أن تكون الشهادة الثانوية مكتملة وأن تُعادل قبل 30 أبريل 2027 إذا كانت من الخارج؛ وتُعادل الوزارة مباشرة شهادات المكسيك والبرازيل وتشيلي وإسبانيا وإيطاليا وفرنسا ودول أخرى مذكورة."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or national ID",
+     "ka": "პასპორტი ან პირადობის მოწმობა",
+     "ar": "جواز السفر أو الهوية الوطنية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Diploma and transcript legalised (Hague Apostille or Argentine consulate)",
+     "ka": "დიპლომი და ატესტატი ლეგალიზებული (ჰააგის აპოსტილი ან არგენტინის საკონსულო)",
+     "ar": "الشهادة وكشف الدرجات مصدقان (أبوستيل لاهاي أو القنصلية الأرجنتينية)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (convalidación) of the foreign secondary title by the Argentine Ministry of Education",
+     "ka": "უცხოური საშუალო განათლების აღიარება (convalidación) არგენტინის განათლების სამინისტროში",
+     "ar": "معادلة (convalidación) الشهادة الثانوية الأجنبية لدى وزارة التعليم الأرجنتينية"
+    }
+   },
+   {
+    "key": "visa",
+    "label": {
+     "en": "Student visa / temporary residence for non-Mercosur applicants",
+     "ka": "სტუდენტური ვიზა / დროებითი რეზიდენტობა არა-მერკოსურის განმცხადებლებისთვის",
+     "ar": "تأشيرة طالب / إقامة مؤقتة لغير مواطني ميركوسور"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "mendoza",
+   "argentina",
+   "spanish"
+  ],
+  "sources": [
+   "https://educacion.uncuyo.edu.ar/ingreso/condiciones-basicas-de-ingreso",
+   "https://fcai.uncuyo.edu.ar/ingreso/upload/alumnos-extranjeros-flujograma.pdf",
+   "https://www.uncuyo.edu.ar/relacionesinternacionales/estudiantes/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-nacional-del-centro-de-la-provincia-de-buenos-aires-unicen",
+  "name": {
+   "en": "Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)",
+   "ka": "ბუენოს-აირესის პროვინციის ცენტრის ეროვნული უნივერსიტეტი (UNICEN)",
+   "ar": "جامعة مركز مقاطعة بوينس آيرس الوطنية (UNICEN)"
+  },
+  "iso": "AR",
+  "city": "Tandil",
+  "website": "https://www.unicen.edu.ar",
+  "platform": "Direct (faculty-level enrolment)",
+  "application_url": "https://www.unicen.edu.ar/inscripciones/",
+  "intakes": [
+   "March"
+  ],
+  "deadline": null,
+  "deadline_note": "2027 enrolment windows differ by faculty, e.g. Economics Nov 1 to Dec 20, 2026 and Jan 25-29, 2027; Humanities Nov 2 to Dec 11, 2026 and Feb 3-12, 2027; Health Sciences until Dec 22, 2026.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "economics",
+   "humanities",
+   "medicine-health",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Exact Sciences",
+    "Economics",
+    "Humanities",
+    "Veterinary Sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ზუსტი მეცნიერებები",
+    "ეკონომიკა",
+    "ჰუმანიტარული მეცნიერებები",
+    "სამეურნეო/ვეტერინარია"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم الدقيقة",
+    "الاقتصاد",
+    "العلوم الإنسانية",
+    "الطب البيطري"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Tandil, Argentina, with faculties spread across Tandil, Olavarria, Azul and Quequen, taught in Spanish. Enrolment for 2027 is handled faculty by faculty; fees and foreign-student rules were not published on the pages checked.",
+   "ka": "საჯარო უნივერსიტეტი არგენტინის ქალაქ ტანდილში, ფაკულტეტებით ტანდილში, ოლავარიაში, აზულსა და კეკენში; სწავლება ესპანურად. 2027 წლის ჩარიცხვა ფაკულტეტების მიხედვით ხდება; საფასური და უცხოელთა წესები შემოწმებულ გვერდებზე არ არის.",
+   "ar": "جامعة حكومية في تاندِل بالأرجنتين، وكلياتها موزعة بين تاندِل وأولافاريا وأزول وكيكن والتدريس بالإسبانية. يتم التسجيل لعام 2027 لكل كلية على حدة، ولم تُنشر الرسوم وقواعد الطلاب الأجانب في الصفحات التي جرى الاطلاع عليها."
+  },
+  "about": {
+   "en": "UNICEN is a public university with faculties in Tandil, Olavarria, Azul and Quequen. Each faculty runs its own enrolment with its own enrolment requirements and dates; people over 25 without a secondary diploma can enter by exam. Argentine public universities have no stated tuition here, and the international office page covers exchange only.",
+   "ka": "UNICEN საჯარო უნივერსიტეტია ფაკულტეტებით ტანდილში, ოლავარიაში, აზულსა და კეკენში. თითოეული ფაკულტეტი საკუთარ ჩარიცხვას ახორციელებს საკუთარი მოთხოვნებითა და ვადებით; 25 წელზე უფროს პირებს საშუალო განათლების გარეშე გამოცდით შეუძლიათ ჩაბარება. გვერდებზე სწავლის საფასური მითითებული არ არის, საერთაშორისო ოფისის გვერდი კი მხოლოდ გაცვლით პროგრამებს ეხება.",
+   "ar": "UNICEN جامعة حكومية بكليات في تاندِل وأولافاريا وأزول وكيكن. تدير كل كلية تسجيلها بمتطلباتها ومواعيدها، ويمكن لمن تجاوز 25 عاماً دون شهادة ثانوية الدخول عبر امتحان. لا تُذكر رسوم دراسية في الصفحات، وصفحة المكتب الدولي تخص التبادل فقط."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Faculty-specific enrolment requirements (see each faculty's page)",
+     "ka": "ფაკულტეტის სპეციფიკური ჩარიცხვის მოთხოვნები (იხ. თითოეული ფაკულტეტის გვერდი)",
+     "ar": "متطلبات التسجيل الخاصة بكل كلية (انظر صفحة كل كلية)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "argentina",
+   "tandil",
+   "spanish",
+   "public university"
+  ],
+  "sources": [
+   "https://www.unicen.edu.ar/inscripciones/",
+   "https://internacionales.unicen.edu.ar/"
+  ],
+  "verified_at": "2026-11-16",
+  "type": "public",
+  "lat": -37.325,
+  "lon": -59.133
+ },
+ {
+  "id": "universidad-tecnologica-nacional-utn",
+  "name": {
+   "en": "Universidad Tecnológica Nacional (UTN)",
+   "ka": "ეროვნული ტექნოლოგიური უნივერსიტეტი (UTN)",
+   "ar": "جامعة التكنولوجيا الوطنية (UTN)"
+  },
+  "iso": "AR",
+  "city": "Capital Federal",
+  "lat": -34.598,
+  "lon": -58.419,
+  "type": "public",
+  "website": "https://www.utn.edu.ar",
+  "platform": null,
+  "application_url": "https://www.frd.utn.edu.ar/ingresantes/",
+  "intakes": [],
+  "deadline": "2026-12-15",
+  "deadline_note": "Example from Facultad Regional Delta, 2027 entry: second round (summer intensive course) 1 November to 15 December 2026; first round was 1 to 20 July 2026. Each regional faculty sets its own dates.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "A foreign secondary certificate (analítico) must be recognised (convalidado) by the Argentine Ministry of Education; the birth certificate must be legalised and apostilled.",
+   "ka": "უცხოური საშუალო განათლების ატესტატი უნდა აღიარდეს (convalidado) არგენტინის განათლების სამინისტროში; დაბადების მოწმობა ლეგალიზებული და აპოსტილირებული უნდა იყოს.",
+   "ar": "يجب معادلة الشهادة الثانوية الأجنبية (convalidado) لدى وزارة التعليم الأرجنتينية، وتصديق شهادة الميلاد بأبوستيل."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Seminario Universitario de Nivelación (maths, physics)"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Technology"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ტექნოლოგიები"
+   ],
+   "ar": [
+    "الهندسة",
+    "التكنولوجيا"
+   ]
+  },
+  "summary": {
+   "en": "UTN is Argentina's national technological university, with 30 regional campuses and 16 engineering degrees. Teaching is in Spanish; no international admission rules were found on the pages read.",
+   "ka": "UTN არგენტინის ეროვნული ტექნოლოგიური უნივერსიტეტია, 30 რეგიონული კამპუსითა და 16 საინჟინრო პროგრამით. სწავლება ესპანურია; წაკითხულ გვერდებზე უცხოელთა მისაღები წესები არ იყო.",
+   "ar": "UTN الجامعة التكنولوجية الوطنية في الأرجنتين، لها 30 فرعا إقليميا و16 تخصصا هندسيا. التدريس بالإسبانية ولم تظهر شروط قبول دولية في الصفحات المقروءة."
+  },
+  "about": {
+   "en": "The Universidad Tecnológica Nacional is a public university with 30 campuses across Argentina, headquartered in Buenos Aires. Its bachelor offer is mainly 16 engineering degrees and 2 licenciaturas. Teaching is in Spanish. The pages read do not state admission rules, fees or deadlines for foreign applicants; contact the International Relations Secretariat.",
+   "ka": "UTN სახელმწიფო უნივერსიტეტია არგენტინის მასშტაბით 30 კამპუსით, შტაბბინა ბუენოს-აირესშია. ბაკალავრის შეთავაზება ძირითადად 16 საინჟინრო და 2 ლიცენციატის პროგრამაა. სწავლება ესპანურია. წაკითხულ გვერდებზე უცხოელთა მისაღები წესები, საფასური და ვადები არ არის მითითებული.",
+   "ar": "UTN جامعة حكومية لها 30 فرعا في أنحاء الأرجنتين ومقرها بوينس آيرس. تضم 16 تخصصا هندسيا ودرجتي ليسانسيا. التدريس بالإسبانية. لا تذكر الصفحات المقروءة شروط القبول أو الرسوم أو المواعيد للأجانب، ويمكن مراسلة أمانة العلاقات الدولية."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة للطلاب الدوليين في البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "Every engineering applicant must pass the Seminario Universitario de Nivelación (maths, physics and introduction to university), run as a 7-week summer course or a 16-week course. No fee is published on the page checked.",
+   "ka": "ინჟინერიის ყველა აბიტურიენტმა უნდა ჩააბაროს Seminario Universitario de Nivelación (მათემატიკა, ფიზიკა, შესავალი უნივერსიტეტში), რომელიც ტარდება 7-კვირიანი საზაფხულო ან 16-კვირიანი კურსის სახით. შემოწმებულ გვერდზე საფასური მითითებული არ არის.",
+   "ar": "يجب على كل متقدم للهندسة اجتياز Seminario Universitario de Nivelación (الرياضيات والفيزياء ومدخل إلى الجامعة) وهو دورة صيفية مدتها 7 أسابيع أو دورة مدتها 16 أسبوعاً. ولم تُنشر الرسوم في الصفحة التي جرى الاطلاع عليها."
+  },
+  "gpa_note": {
+   "en": "A complete secondary school certificate (or last-year student certificate) is required; foreign certificates must be recognised by the Ministry of Education and the birth certificate legalised and apostilled.",
+   "ka": "საჭიროა სრული საშუალო განათლების ატესტატი (ან ბოლო კლასის მოსწავლის ცნობა); უცხოური ატესტატი უნდა აღიარდეს სამინისტროში, დაბადების მოწმობა კი ლეგალიზებული და აპოსტილირებული უნდა იყოს.",
+   "ar": "يُشترط شهادة ثانوية كاملة (أو شهادة طالب السنة الأخيرة)، ويجب معادلة الشهادات الأجنبية لدى الوزارة وتصديق شهادة الميلاد بأبوستيل."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or national ID",
+     "ka": "პასპორტი ან პირადობის მოწმობა",
+     "ar": "جواز السفر أو الهوية الوطنية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcript",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ცხრილი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Birth certificate (legalised and apostilled)",
+     "ka": "დაბადების მოწმობა (ლეგალიზებული და აპოსტილირებული)",
+     "ar": "شهادة الميلاد (مصدقة ومعتمدة بأبوستيل)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition (convalidación) of the foreign secondary title by the Argentine Ministry of Education",
+     "ka": "უცხოური საშუალო განათლების აღიარება (convalidación) არგენტინის განათლების სამინისტროში",
+     "ar": "معادلة (convalidación) الشهادة الثانوية الأجنبية لدى وزارة التعليم الأرجنتينية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "CUIL certificate",
+     "ka": "CUIL-ის დამადასტურებელი",
+     "ar": "شهادة CUIL"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Pass the Seminario Universitario de Nivelación (maths, physics)",
+     "ka": "Seminario Universitario de Nivelación-ის (მათემატიკა, ფიზიკა) გავლა",
+     "ar": "اجتياز Seminario Universitario de Nivelación (الرياضيات والفيزياء)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "argentina",
+   "buenos aires",
+   "engineering",
+   "public"
+  ],
+  "sources": [
+   "https://www.frd.utn.edu.ar/ingresantes/",
+   "https://www.utn.edu.ar/es/secretaria-rrii"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

@@ -1,0 +1,92 @@
+[
+{
+"id": "university-of-sharjah",
+"name": "University of Sharjah",
+"iso": "AE",
+"city": "Sharjah",
+"website": "https://www.sharjah.ac.ae",
+"rank_qs": 283,
+"previous_attempt": "round8/universities-c001.json"
+},
+{
+"id": "abu-dhabi-university",
+"name": "Abu Dhabi University",
+"iso": "AE",
+"city": "Abu Dhabi",
+"website": "https://adu.ac.ae",
+"rank_qs": 348,
+"previous_attempt": "round8/universities-c002.json"
+},
+{
+"id": "pontificia-universidad-catolica-argentina",
+"name": "Pontificia Universidad Católica Argentina",
+"iso": "AR",
+"city": "Buenos Aires",
+"website": "https://www.uca.edu.ar",
+"rank_qs": 530,
+"previous_attempt": "round8/universities-c006.json"
+},
+{
+"id": "universidad-austral",
+"name": "Universidad Austral",
+"iso": "AR",
+"city": "Pilar",
+"website": "https://www.austral.edu.ar",
+"rank_qs": 530,
+"previous_attempt": "round8/universities-c006.json"
+},
+{
+"id": "universidad-nacional-de-cordoba-unc",
+"name": "Universidad Nacional de Córdoba - UNC",
+"iso": "AR",
+"city": "Córdoba",
+"website": "https://www.unc.edu.ar",
+"rank_qs": 801,
+"previous_attempt": "round8/universities-c016.json"
+},
+{
+"id": "universidad-argentina-de-la-empresa-uade",
+"name": "Universidad Argentina de la Empresa (UADE)",
+"iso": "AR",
+"city": "Buenos Aires",
+"website": "https://www.uade.edu.ar",
+"rank_qs": 1001,
+"previous_attempt": "round8/universities-c028.json"
+},
+{
+"id": "universidad-nacional-de-rosario-unr",
+"name": "Universidad Nacional de Rosario (UNR)",
+"iso": "AR",
+"city": "Rosario",
+"website": "https://unr.edu.ar",
+"rank_qs": 1001,
+"previous_attempt": "round8/universities-c028.json"
+},
+{
+"id": "universidad-nacional-de-cuyo-uncuyo",
+"name": "Universidad Nacional de Cuyo (UNCUYO)",
+"iso": "AR",
+"city": "Mendoza",
+"website": "https://www.uncuyo.edu.ar",
+"rank_qs": 1201,
+"previous_attempt": "round8/universities-c035.json"
+},
+{
+"id": "universidad-nacional-del-centro-de-la-provincia-de-buenos-aires-unicen",
+"name": "Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN)",
+"iso": "AR",
+"city": "Tandil",
+"website": "https://www.unicen.edu.ar",
+"rank_qs": 1401,
+"previous_attempt": "round8/universities-c039.json"
+},
+{
+"id": "universidad-tecnologica-nacional-utn",
+"name": "Universidad Tecnológica Nacional (UTN)",
+"iso": "AR",
+"city": "Capital Federal",
+"website": "https://www.utn.edu.ar",
+"rank_qs": 1401,
+"previous_attempt": "round8/universities-c040.json"
+}
+]

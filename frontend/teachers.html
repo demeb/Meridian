@@ -18,10 +18,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=Newsreader:ital,wght@0,400;1,400&family=Noto+Sans+Georgian:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700&family=Noto+Kufi+Arabic:wght@600;700&display=swap" />
-  <link rel="stylesheet" href="/css/tokens.css?v=r10" />
-  <link rel="stylesheet" href="/css/base.css?v=r10" />
-  <link rel="stylesheet" href="/css/components.css?v=r10" />
-  <link rel="stylesheet" href="/css/pages.css?v=r10" />
+  <link rel="stylesheet" href="/css/tokens.css?v=r11" />
+  <link rel="stylesheet" href="/css/base.css?v=r11" />
+  <link rel="stylesheet" href="/css/components.css?v=r11" />
+  <link rel="stylesheet" href="/css/pages.css?v=r11" />
   <script>
     /* Set theme + language before first paint so nothing flashes. */
     (function () {
@@ -74,15 +74,15 @@
                      data-i18n-ph="teachers.filter.search" placeholder="Search by name or subject" />
             </div>
 
-            <div class="filter-section">
-              <h4 data-i18n="teachers.filter.subject">I need help with</h4>
+            <details class="filter-section filter-fold" open>
+              <summary><h4 data-i18n="teachers.filter.subject">I need help with</h4></summary>
               <div id="subjectFilters"></div>
-            </div>
+            </details>
 
-            <div class="filter-section">
-              <h4 data-i18n="teachers.filter.region">Target region</h4>
+            <details class="filter-section filter-fold" open>
+              <summary><h4 data-i18n="teachers.filter.region">Target region</h4></summary>
               <div id="regionFilters"></div>
-            </div>
+            </details>
 
             <div class="filter-section">
               <h4 data-i18n="teachers.filter.price">Max price per hour</h4>
@@ -93,10 +93,10 @@
               </div>
             </div>
 
-            <div class="filter-section">
-              <h4 data-i18n="teachers.filter.language">Language</h4>
+            <details class="filter-section filter-fold">
+              <summary><h4 data-i18n="teachers.filter.language">Language</h4></summary>
               <div id="languageFilters"></div>
-            </div>
+            </details>
 
             <button type="button" class="btn btn-ghost btn-block" id="clearFilters" data-i18n="teachers.filter.clear">Clear filters</button>
           </aside>
@@ -109,6 +109,7 @@
                 <select class="select" id="sortSelect" style="width:auto;min-height:40px"></select>
               </div>
             </div>
+            <div class="active-filters" id="activeFilters" hidden></div>
             <div class="grid grid-2" id="teacherGrid" data-reveal-group></div>
           </div>
         </div>
@@ -118,9 +119,9 @@
 
   <div id="footer-root"></div>
 
-  <script src="/js/i18n.js?v=r10"></script>
-  <script src="/js/app.js?v=r10"></script>
-  <script src="/js/taxonomy.js?v=r10"></script>
-  <script src="/js/teachers.js?v=r10"></script>
+  <script src="/js/i18n.js?v=r11"></script>
+  <script src="/js/app.js?v=r11"></script>
+  <script src="/js/taxonomy.js?v=r11"></script>
+  <script src="/js/teachers.js?v=r11"></script>
 </body>
 </html>

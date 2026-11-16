@@ -8,6 +8,11 @@
     GET    /api/admin/counselling              counsellors and partner schools (admin token)
     POST   /api/admin/counsellors/<id>/<approve|reject>
     POST   /api/admin/schools                  {"name", "domain", "emails": "a@x.ge, b@x.ge"} add or update a partner school
+    GET    /api/counsellor/students            an approved school counsellor's students, with progress
+    GET    /api/counsellor/students/<id>       one student's full file (profile, GPA, applications, saved items)
+    GET    /api/meetings                       my meetings (as student or as counsellor)
+    POST   /api/meetings                       ask for a meeting: student → their counsellor, counsellor → their student
+    PATCH  /api/meetings/<id>                  {"status": "confirmed" | "cancelled"}
 
 Counsellors join only after review, and only staff of partner schools. A
 student sees their school's board when their account email is on the list the
@@ -53,6 +58,29 @@ def _admin():
     token = request.args.get("token") or request.headers.get("X-Admin-Token", "")
     if not (token and secrets.compare_digest(token, Config.ADMIN_TOKEN)):
         abort(make_response(jsonify({"ok": False, "error": "forbidden"}), 403))
+
+
+# Accounts that are counsellors without going through the application form
+# (founders checking the counsellor view). They are linked to a demo school.
+BUILTIN_COUNSELLORS = {"pl857@georgetown.edu": "Meridian Demo School"}
+
+
+def ensure_builtin(user):
+    school = BUILTIN_COUNSELLORS.get((user or {}).get("email", "").lower()) if user else None
+    if not school:
+        return
+    conn = db.connect()
+    with conn:
+        sid = _school_id(conn, school)
+        row = conn.execute("SELECT id, status FROM counsellors WHERE user_id = ?", (user["id"],)).fetchone()
+        if not row:
+            conn.execute("""INSERT INTO counsellors (user_id, school, school_id, title, status, created_at)
+                            VALUES (?, ?, ?, 'School counsellor', 'approved', datetime('now'))""",
+                         (user["id"], school, sid))
+        elif row["status"] != "approved":
+            conn.execute("UPDATE counsellors SET status = 'approved', school_id = COALESCE(school_id, ?) WHERE id = ?",
+                         (sid, row["id"]))
+    conn.close()
 
 
 def _domain(email):
@@ -140,6 +168,7 @@ def prep():
 
 @bp.get("/api/counselling")
 def counselling():
+    ensure_builtin(_user())
     user = _user()
     mine = _counsellor_of(user["id"]) if user else None
     schools = _schools_for(user)
@@ -285,3 +314,194 @@ def admin_school():
                          [(sid, e) for e in emails[:5000]])
     conn.close()
     return admin_overview()
+
+
+# ---------------------------------------------------------------- counsellor view
+def _approved_counsellor(user):
+    """The user's approved, school-linked counsellor record, or None."""
+    ensure_builtin(user)
+    mine = _counsellor_of(user["id"])
+    return mine if mine and mine["status"] == "approved" and mine.get("school_id") else None
+
+
+def _students_of(school_id):
+    """Students of a partner school: emails the school gave us, or its email domain.
+    Counsellors themselves are never listed as students."""
+    conn = db.connect()
+    school = conn.execute("SELECT * FROM schools WHERE id = ?", (school_id,)).fetchone()
+    if not school:
+        conn.close()
+        return []
+    rows = conn.execute(
+        """SELECT u.* FROM users u
+           WHERE (lower(u.email) IN (SELECT lower(email) FROM school_members WHERE school_id = ?)
+                  OR (? != '' AND lower(substr(u.email, instr(u.email, '@') + 1)) = ?))
+             AND u.id NOT IN (SELECT user_id FROM counsellors WHERE status = 'approved')
+           ORDER BY u.last_name, u.first_name""",
+        (school_id, (school["domain"] or "").lower(), (school["domain"] or "").lower())).fetchall()
+    conn.close()
+    return [dict(r) for r in rows]
+
+
+def _student_summary(conn, u):
+    apps = conn.execute("SELECT kind, stage, checklist FROM applications WHERE user_id = ?", (u["id"],)).fetchall()
+    unis = [a for a in apps if a["kind"] == "university"]
+    done = total = 0
+    for a in apps:
+        items = json.loads(a["checklist"] or "[]")
+        done += sum(1 for c in items if c.get("done"))
+        total += len(items)
+    saved = conn.execute("SELECT COUNT(*) AS n FROM saved_programs WHERE user_id = ?", (u["id"],)).fetchone()["n"]
+    return {
+        "id": u["id"], "name": "%s %s" % (u["first_name"], u["last_name"]), "email": u["email"],
+        "grade": u.get("grade"), "gpa": u.get("gpa"), "test_scores": u.get("test_scores"),
+        "country": u.get("country"), "city": u.get("city"), "plan": u.get("plan"),
+        "verified": bool(u.get("verified")), "last_login_at": u.get("last_login_at"),
+        "applications": len(apps), "universities": len(unis),
+        "submitted": sum(1 for a in apps if a["stage"] in ("review", "submitted", "result")),
+        "progress": {"done": done, "total": total}, "saved": saved,
+    }
+
+
+@bp.get("/api/counsellor/students")
+def counsellor_students():
+    user = _user(required=True)
+    mine = _approved_counsellor(user)
+    if not mine:
+        return jsonify({"ok": False, "error": "not_counsellor"}), 403
+    students = _students_of(mine["school_id"])
+    conn = db.connect()
+    out = [_student_summary(conn, u) for u in students]
+    school = conn.execute("SELECT name FROM schools WHERE id = ?", (mine["school_id"],)).fetchone()
+    conn.close()
+    return jsonify({"ok": True, "school": school["name"] if school else mine["school"], "students": out})
+
+
+@bp.get("/api/counsellor/students/<int:student_id>")
+def counsellor_student(student_id):
+    user = _user(required=True)
+    mine = _approved_counsellor(user)
+    if not mine:
+        return jsonify({"ok": False, "error": "not_counsellor"}), 403
+    student = next((u for u in _students_of(mine["school_id"]) if u["id"] == student_id), None)
+    if not student:
+        return jsonify({"ok": False, "error": "not_found"}), 404
+    import tracker, catalog
+    conn = db.connect()
+    with conn:
+        conn.execute("INSERT INTO counsellor_access (counsellor_id, student_id, at) VALUES (?, ?, datetime('now'))",
+                     (mine["id"], student_id))
+    rows = conn.execute("SELECT * FROM applications WHERE user_id = ? ORDER BY updated_at DESC", (student_id,)).fetchall()
+    apps = [tracker._row(r, with_files=True) for r in rows]
+    saved_ids = [r["program_id"] for r in conn.execute(
+        "SELECT program_id FROM saved_programs WHERE user_id = ? ORDER BY created_at DESC", (student_id,))]
+    meetings = [dict(r) for r in conn.execute(
+        "SELECT * FROM meetings WHERE counsellor_id = ? AND student_id = ? ORDER BY starts_at DESC", (mine["id"], student_id))]
+    summary = _student_summary(conn, student)
+    conn.close()
+    saved = []
+    for item_id in saved_ids:
+        p = catalog.find_program(item_id)
+        u = None if p else catalog.find_university(item_id)
+        item = p or u
+        if item:
+            saved.append({"id": item["id"], "kind": "program" if p else "university", "name": item.get("name"),
+                          "flag": item.get("flag"), "deadline": item.get("deadline"),
+                          "url": "/%s/%s" % ("programs" if p else "universities", item["id"])})
+    profile = {k: student.get(k) for k in ("phone", "school", "birth_date", "interests", "target_regions", "created_at")}
+    return jsonify({"ok": True, "student": dict(summary, profile=profile), "applications": apps,
+                    "saved": saved, "meetings": meetings})
+
+
+# ---------------------------------------------------------------- meetings
+MEETING_STATUSES = ("requested", "confirmed", "cancelled")
+
+
+def _meeting_row(conn, m):
+    item = dict(m)
+    c = conn.execute("""SELECT u.first_name, u.last_name, u.email FROM counsellors c JOIN users u ON u.id = c.user_id
+                        WHERE c.id = ?""", (m["counsellor_id"],)).fetchone()
+    st = conn.execute("SELECT first_name, last_name, email FROM users WHERE id = ?", (m["student_id"],)).fetchone()
+    item["counsellor"] = "%s %s" % (c["first_name"], c["last_name"]) if c else ""
+    item["student"] = "%s %s" % (st["first_name"], st["last_name"]) if st else ""
+    return item, c, st
+
+
+@bp.get("/api/meetings")
+def my_meetings():
+    user = _user(required=True)
+    mine = _approved_counsellor(user)
+    conn = db.connect()
+    if mine:
+        rows = conn.execute("SELECT * FROM meetings WHERE counsellor_id = ? ORDER BY starts_at", (mine["id"],)).fetchall()
+    else:
+        rows = conn.execute("SELECT * FROM meetings WHERE student_id = ? ORDER BY starts_at", (user["id"],)).fetchall()
+    out = [_meeting_row(conn, r)[0] for r in rows]
+    conn.close()
+    return jsonify({"ok": True, "meetings": out, "role": "counsellor" if mine else "student"})
+
+
+@bp.post("/api/meetings")
+def ask_meeting():
+    user = _user(required=True)
+    data = request.get_json(silent=True) or {}
+    starts = _clean(data.get("starts_at"), 16)
+    if not re.match(r"^\d{4}-\d{2}-\d{2}[T ]\d{2}:\d{2}$", starts):
+        return jsonify({"ok": False, "error": "bad_time"}), 400
+    minutes = int(data.get("minutes") or 30)
+    minutes = minutes if minutes in (15, 30, 45, 60) else 30
+    topic = _clean(data.get("topic"), 200)
+    mine = _approved_counsellor(user)
+    if mine:
+        student_id = int(data.get("student_id") or 0)
+        if not any(u["id"] == student_id for u in _students_of(mine["school_id"])):
+            return jsonify({"ok": False, "error": "not_your_student"}), 403
+        counsellor_id, by = mine["id"], "counsellor"
+    else:
+        counsellor_id = int(data.get("counsellor_id") or 0)
+        allowed = {c["id"] for c in _approved_counsellors([s["id"] for s in _schools_for(user)])}
+        if counsellor_id not in allowed:
+            return jsonify({"ok": False, "error": "not_your_counsellor"}), 403
+        student_id, by = user["id"], "student"
+    conn = db.connect()
+    with conn:
+        cur = conn.execute("""INSERT INTO meetings (counsellor_id, student_id, starts_at, minutes, topic, status, requested_by, created_at)
+                              VALUES (?, ?, ?, ?, ?, 'requested', ?, datetime('now'))""",
+                           (counsellor_id, student_id, starts.replace(" ", "T"), minutes, topic, by))
+    row = conn.execute("SELECT * FROM meetings WHERE id = ?", (cur.lastrowid,)).fetchone()
+    item, c, st = _meeting_row(conn, row)
+    conn.close()
+    other = st if by == "counsellor" else c
+    if other:
+        mailer.send_meeting_notice(other["email"], other["first_name"], item["counsellor"] if by == "student" else item["student"],
+                                   item["starts_at"].replace("T", " "), topic, "requested")
+    return jsonify({"ok": True, "meeting": item})
+
+
+@bp.patch("/api/meetings/<int:meeting_id>")
+def update_meeting(meeting_id):
+    user = _user(required=True)
+    status = _clean((request.get_json(silent=True) or {}).get("status"), 20)
+    if status not in ("confirmed", "cancelled"):
+        return jsonify({"ok": False, "error": "bad_status"}), 400
+    mine = _approved_counsellor(user)
+    conn = db.connect()
+    row = conn.execute("SELECT * FROM meetings WHERE id = ?", (meeting_id,)).fetchone()
+    if not row or not ((mine and row["counsellor_id"] == mine["id"]) or row["student_id"] == user["id"]):
+        conn.close()
+        return jsonify({"ok": False, "error": "not_found"}), 404
+    # the side that asked can only cancel; the other side confirms
+    side = "counsellor" if mine and row["counsellor_id"] == mine["id"] else "student"
+    if status == "confirmed" and row["requested_by"] == side:
+        conn.close()
+        return jsonify({"ok": False, "error": "other_side_confirms"}), 400
+    with conn:
+        conn.execute("UPDATE meetings SET status = ? WHERE id = ?", (status, meeting_id))
+    row = conn.execute("SELECT * FROM meetings WHERE id = ?", (meeting_id,)).fetchone()
+    item, c, st = _meeting_row(conn, row)
+    conn.close()
+    other = st if side == "counsellor" else c
+    if other:
+        mailer.send_meeting_notice(other["email"], other["first_name"], item["counsellor"] if side == "student" else item["student"],
+                                   item["starts_at"].replace("T", " "), item.get("topic"), status)
+    return jsonify({"ok": True, "meeting": item})

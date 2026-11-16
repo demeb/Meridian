@@ -1,0 +1,1348 @@
+[
+ {
+  "id": "university-of-sfax",
+  "name": {
+   "en": "University of Sfax",
+   "ka": "სფაქსის უნივერსიტეტი",
+   "ar": "جامعة صفاقس"
+  },
+  "iso": "TN",
+  "city": "Sfax",
+  "lat": 34.737,
+  "lon": 10.757,
+  "type": "public",
+  "website": "https://www.uss.rnu.tn",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "International students apply between 1 March and 15 July each year (Ministry of Higher Education guide for international students).",
+  "tuition_intl": {
+   "amount": 5000,
+   "currency": "TND",
+   "per": "year",
+   "note": "Ministry-set annual fee for foreign students on a bachelor (bac+3) course in public universities; may vary by up to 20% by institution."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "There is no national entrance exam for foreign students. The foreign baccalaureate must be validated or declared equivalent, and the chosen field must match the type of baccalaureate.",
+   "ka": "უცხოელი სტუდენტებისთვის ეროვნული მისაღები გამოცდა არ არის. უცხოური ატესტატი უნდა დამოწმდეს ან ეკვივალენტურად ჩაითვალოს, ხოლო არჩეული მიმართულება ატესტატის ტიპს უნდა შეესაბამებოდეს.",
+   "ar": "لا يوجد امتحان قبول وطني للطلبة الأجانب. يجب توثيق شهادة البكالوريا الأجنبية أو معادلتها، وأن يتوافق التخصص مع نوع البكالوريا."
+  },
+  "gpa_note": {
+   "en": "The applicant must meet the access conditions of the country that issued the secondary diploma and the field must match the type of baccalaureate.",
+   "ka": "განმცხადებელი უნდა აკმაყოფილებდეს იმ ქვეყნის უმაღლეს განათლებაზე დაშვების პირობებს, რომელმაც ატესტატი გასცა; მიმართულება ატესტატის ტიპს უნდა შეესაბამებოდეს.",
+   "ar": "يجب أن يستوفي المتقدم شروط الالتحاق بالتعليم العالي في بلد إصدار الشهادة الثانوية وأن يتوافق التخصص مع نوع البكالوريا."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Baccalaureate or equivalent, validated by the issuing authority",
+     "ka": "ბაკალავრეატის ან ეკვივალენტური ატესტატი, დამოწმებული გამცემი უწყების მიერ",
+     "ar": "شهادة البكالوريا أو ما يعادلها موثقة من الجهة المصدرة"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Baccalaureate equivalence with certified copy of the school-leaving certificate",
+     "ka": "ბაკალავრეატის ეკვივალენტობა და სკოლის დამთავრების ცნობის დამოწმებული ასლი",
+     "ar": "معادلة البكالوريا مع نسخة مصدقة من شهادة نهاية الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate",
+     "ka": "სამედიცინო ცნობა",
+     "ar": "شهادة طبية"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "tunisia",
+   "sfax",
+   "public"
+  ],
+  "sources": [
+   "https://www.mes.tn/FlayerGuide/files/basic-html/page14.html",
+   "https://www.mes.tn/FlayerGuide/files/basic-html/page5.html",
+   "https://www.mes.tn/image.php?id=9067"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universite-de-sousse",
+  "name": {
+   "en": "Université de Sousse",
+   "ka": "სუსის უნივერსიტეტი",
+   "ar": "جامعة سوسة"
+  },
+  "iso": "TN",
+  "city": "Sousse",
+  "lat": 35.832,
+  "lon": 10.59,
+  "type": "public",
+  "website": "https://www.uc.rnu.tn",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "International students apply between 1 March and 15 July each year (Ministry of Higher Education guide for international students).",
+  "tuition_intl": {
+   "amount": 5000,
+   "currency": "TND",
+   "per": "year",
+   "note": "Ministry-set annual fee for foreign students on a bachelor (bac+3) course in public universities; may vary by up to 20% by institution."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "French"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Business",
+    "Sciences"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "ბიზნესი",
+    "მეცნიერებები"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "الأعمال",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Sousse, Tunisia. Its website could not be reached, so no admission data was verified.",
+   "ka": "სახელმწიფო უნივერსიტეტი სუსში, ტუნისი. საიტი მიუწვდომელი იყო, მონაცემები ვერ დადასტურდა.",
+   "ar": "جامعة عامة في سوسة بتونس. تعذر الوصول إلى موقعها لذلك لم يتم التحقق من بيانات القبول."
+  },
+  "about": {
+   "en": "The University of Sousse is a public university in eastern Tunisia. Teaching is mainly in French and Arabic. The listed website does not resolve, so fees, deadlines and entry rules for international bachelor applicants are not verified.",
+   "ka": "სუსის უნივერსიტეტი სახელმწიფო უნივერსიტეტია აღმოსავლეთ ტუნისში. სწავლება ძირითადად ფრანგულ და არაბულ ენებზეა. მითითებული საიტი არ იხსნება, ამიტომ პირობები არ დადასტურდა.",
+   "ar": "جامعة عامة في شرق تونس. التدريس بالفرنسية والعربية غالباً. الموقع المذكور لا يعمل لذلك لم يتم التحقق من الرسوم والمواعيد."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "There is no national entrance exam for foreign students. The foreign baccalaureate must be validated or declared equivalent, and the chosen field must match the type of baccalaureate.",
+   "ka": "უცხოელი სტუდენტებისთვის ეროვნული მისაღები გამოცდა არ არის. უცხოური ატესტატი უნდა დამოწმდეს ან ეკვივალენტურად ჩაითვალოს, ხოლო არჩეული მიმართულება ატესტატის ტიპს უნდა შეესაბამებოდეს.",
+   "ar": "لا يوجد امتحان قبول وطني للطلبة الأجانب. يجب توثيق شهادة البكالوريا الأجنبية أو معادلتها، وأن يتوافق التخصص مع نوع البكالوريا."
+  },
+  "gpa_note": {
+   "en": "The applicant must meet the access conditions of the country that issued the secondary diploma and the field must match the type of baccalaureate.",
+   "ka": "განმცხადებელი უნდა აკმაყოფილებდეს იმ ქვეყნის უმაღლეს განათლებაზე დაშვების პირობებს, რომელმაც ატესტატი გასცა; მიმართულება ატესტატის ტიპს უნდა შეესაბამებოდეს.",
+   "ar": "يجب أن يستوفي المتقدم شروط الالتحاق بالتعليم العالي في بلد إصدار الشهادة الثانوية وأن يتوافق التخصص مع نوع البكالوريا."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Baccalaureate or equivalent, validated by the issuing authority",
+     "ka": "ბაკალავრეატის ან ეკვივალენტური ატესტატი, დამოწმებული გამცემი უწყების მიერ",
+     "ar": "شهادة البكالوريا أو ما يعادلها موثقة من الجهة المصدرة"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Baccalaureate equivalence with certified copy of the school-leaving certificate",
+     "ka": "ბაკალავრეატის ეკვივალენტობა და სკოლის დამთავრების ცნობის დამოწმებული ასლი",
+     "ar": "معادلة البكالوريا مع نسخة مصدقة من شهادة نهاية الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate",
+     "ka": "სამედიცინო ცნობა",
+     "ar": "شهادة طبية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "tunisia",
+   "sousse",
+   "french",
+   "arabic"
+  ],
+  "sources": [
+   "https://www.mes.tn/FlayerGuide/files/basic-html/page14.html",
+   "https://www.mes.tn/FlayerGuide/files/basic-html/page5.html",
+   "https://www.mes.tn/image.php?id=9067"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-tunis",
+  "name": {
+   "en": "University of Tunis",
+   "ka": "ტუნისის უნივერსიტეტი",
+   "ar": "جامعة تونس"
+  },
+  "iso": "TN",
+  "city": "Tunis",
+  "lat": 36.801,
+  "lon": 10.172,
+  "type": "public",
+  "website": "https://www.utunis.rnu.tn",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "International students apply between 1 March and 15 July each year (Ministry of Higher Education guide for international students).",
+  "tuition_intl": {
+   "amount": 5000,
+   "currency": "TND",
+   "per": "year",
+   "note": "Ministry-set annual fee for foreign students on a bachelor (bac+3) course in public universities; may vary by up to 20% by institution."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "French"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Tunis made up of 15 institutions, including faculties and Tunis Business School.",
+   "ka": "საჯარო უნივერსიტეტი ტუნისში, 15 დაწესებულებით, მათ შორის Tunis Business School.",
+   "ar": "جامعة حكومية في تونس تضم 15 مؤسسة منها كليات ومدرسة تونس للأعمال."
+  },
+  "about": {
+   "en": "The University of Tunis is a public university in the Tunisian capital. It groups 15 establishments: faculties, higher institutes, the École Normale Supérieure and Tunis Business School. The official site does not publish admission rules, fees or deadlines for international bachelor applicants.",
+   "ka": "ტუნისის უნივერსიტეტი საჯარო უნივერსიტეტია დედაქალაქში. მასში 15 დაწესებულებაა: ფაკულტეტები, უმაღლესი ინსტიტუტები, ENS და Tunis Business School. საიტზე საერთაშორისო აპლიკანტებისთვის მიღების წესები და საფასური მითითებული არ არის.",
+   "ar": "جامعة تونس جامعة حكومية في العاصمة التونسية، تضم 15 مؤسسة بينها كليات ومعاهد عليا والمدرسة العليا للأساتذة ومدرسة تونس للأعمال. لا ينشر الموقع شروط القبول أو الرسوم أو المواعيد للطلاب الدوليين."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "There is no national entrance exam for foreign students. The foreign baccalaureate must be validated or declared equivalent, and the chosen field must match the type of baccalaureate.",
+   "ka": "უცხოელი სტუდენტებისთვის ეროვნული მისაღები გამოცდა არ არის. უცხოური ატესტატი უნდა დამოწმდეს ან ეკვივალენტურად ჩაითვალოს, ხოლო არჩეული მიმართულება ატესტატის ტიპს უნდა შეესაბამებოდეს.",
+   "ar": "لا يوجد امتحان قبول وطني للطلبة الأجانب. يجب توثيق شهادة البكالوريا الأجنبية أو معادلتها، وأن يتوافق التخصص مع نوع البكالوريا."
+  },
+  "gpa_note": {
+   "en": "The applicant must meet the access conditions of the country that issued the secondary diploma and the field must match the type of baccalaureate.",
+   "ka": "განმცხადებელი უნდა აკმაყოფილებდეს იმ ქვეყნის უმაღლეს განათლებაზე დაშვების პირობებს, რომელმაც ატესტატი გასცა; მიმართულება ატესტატის ტიპს უნდა შეესაბამებოდეს.",
+   "ar": "يجب أن يستوفي المتقدم شروط الالتحاق بالتعليم العالي في بلد إصدار الشهادة الثانوية وأن يتوافق التخصص مع نوع البكالوريا."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Baccalaureate or equivalent, validated by the issuing authority",
+     "ka": "ბაკალავრეატის ან ეკვივალენტური ატესტატი, დამოწმებული გამცემი უწყების მიერ",
+     "ar": "شهادة البكالوريا أو ما يعادلها موثقة من الجهة المصدرة"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Baccalaureate equivalence with certified copy of the school-leaving certificate",
+     "ka": "ბაკალავრეატის ეკვივალენტობა და სკოლის დამთავრების ცნობის დამოწმებული ასლი",
+     "ar": "معادلة البكالوريا مع نسخة مصدقة من شهادة نهاية الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate",
+     "ka": "სამედიცინო ცნობა",
+     "ar": "شهادة طبية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "tunisia",
+   "tunis"
+  ],
+  "sources": [
+   "https://utunis.rnu.tn/fr/etablissements",
+   "https://utunis.rnu.tn/fr/international/venir-a-luniversite-de-tunis",
+   "https://www.mes.tn/FlayerGuide/files/basic-html/page14.html",
+   "https://www.mes.tn/FlayerGuide/files/basic-html/page5.html",
+   "https://www.mes.tn/image.php?id=9067"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Accepted: TR-YÖS, TQDK, SAT, ACT (valid 2 years), GCE A Level, IB, French Baccalaureate, Abitur (no expiry). Fachabitur is not accepted. Predicted grades are allowed.",
+   "ka": "მიიღება: TR-YÖS, TQDK, SAT, ACT (მოქმედია 2 წელი), GCE A Level, IB, ფრანგული ბაკალავრეატი, Abitur (ვადის გარეშე). Fachabitur არ მიიღება. დაშვებულია პროგნოზირებული შეფასებები.",
+   "ar": "المقبول: TR-YÖS وTQDK وSAT وACT (صالحة سنتين) وGCE A Level وIB والبكالوريا الفرنسية وAbitur (دون انتهاء). لا يُقبل Fachabitur. تُقبل الدرجات المتوقعة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TR-YÖS",
+   "SAT",
+   "ACT",
+   "IB",
+   "GCE A Level"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-16",
+  "id": "hacettepe-university",
+  "name": {
+   "en": "Hacettepe University",
+   "ka": "ჰაჯეთეფეს უნივერსიტეტი",
+   "ar": "جامعة حجي تبه"
+  },
+  "iso": "TR",
+  "city": "Ankara",
+  "lat": 39.867,
+  "lon": 32.735,
+  "type": "public",
+  "website": "https://www.hacettepe.edu.tr",
+  "platform": "Direct (International Students Office)",
+  "application_url": "https://internationalstudent.hacettepe.edu.tr/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "For 2026-27, TR-YÖS and SAT applications ran 25 May to 31 July 2026 and A Level applications in August 2026; waitlist rounds follow.",
+  "tuition_intl": null,
+  "students": 45000,
+  "languages": [
+   "Turkish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "engineering",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Hacettepe University is a public university in Ankara. No international bachelor fees or deadlines could be read from its official pages in this round.",
+   "ka": "ჰაჯეთეფეს უნივერსიტეტი — Ankara-ში მდებარე სახელმწიფო უნივერსიტეტია. საერთაშორისო საბაკალავრო საფასური და ვადები ოფიციალურ გვერდებზე ამ ეტაპზე ვერ გადამოწმდა.",
+   "ar": "جامعة حجي تبه جامعة حكومية في Ankara. لم يمكن التحقق من رسوم البكالوريوس الدولية ومواعيدها من صفحاتها الرسمية في هذه الجولة."
+  },
+  "about": {
+   "en": "Hacettepe University serves about 45,000 students in Ankara. Its official site was blocked or incomplete for automated reading, so fees, deadlines and entry rules for international bachelor applicants are not confirmed. Check the university's international admissions page.",
+   "ka": "ჰაჯეთეფეს უნივერსიტეტი Ankara-ში დაახლოებით 45,000 სტუდენტს ემსახურება. ოფიციალური საიტი ავტომატური წაკითხვისთვის დაბლოკილი ან არასრული იყო, ამიტომ საერთაშორისო საბაკალავრო განაცხადის საფასური, ვადები და მოთხოვნები დადასტურებული არ არის. გადაამოწმეთ უნივერსიტეტის საერთაშორისო მიღების გვერდი.",
+   "ar": "جامعة حجي تبه تخدم نحو 45,000 طالب في Ankara. كان موقعها الرسمي محجوباً أو ناقصاً للقراءة الآلية، لذا لم تُؤكَّد الرسوم والمواعيد وشروط القبول للبكالوريوس الدولي. راجع صفحة القبول الدولي في الجامعة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages read.",
+   "ka": "წაკითხულ გვერდებზე საერთაშორისო საბაკალავრო სტუდენტებისთვის სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منح مخصصة لطلاب البكالوريوس الدوليين في الصفحات المطّلع عليها."
+  },
+  "tests": {
+   "en": "Applicants use a TR-YÖS, TQDK, SAT or ACT score (valid two years) or an IB, A Level, French Baccalaureate or Abitur result. Language requirements depend on the department and may include a prep class.",
+   "ka": "განმცხადებლები იყენებენ TR-YÖS, TQDK, SAT ან ACT ქულას (მოქმედია ორი წელი) ან IB, A Level, ფრანგული ბაკალავრეატის ან Abitur შედეგს. ენის მოთხოვნა დეპარტამენტზეა დამოკიდებული და შეიძლება მოსამზადებელი კლასი იყოს.",
+   "ar": "يستخدم المتقدمون نتيجة TR-YÖS أو TQDK أو SAT أو ACT (صالحة سنتين) أو نتيجة IB أو A Level أو البكالوريا الفرنسية أو Abitur. تختلف متطلبات اللغة حسب القسم وقد تشمل سنة تحضيرية."
+  },
+  "gpa_note": {
+   "en": "Candidates are ranked by score within quotas; predicted grades are accepted but a place is forfeited if the final results fall below the stated minimum.",
+   "ka": "კანდიდატები კვოტის ფარგლებში ქულით იყოფიან; პროგნოზირებული შეფასებები მიიღება, თუმცა საბოლოო შედეგის ზღვარზე დაბლა ყოფნისას ადგილი იკარგება.",
+   "ar": "يُرتَّب المرشحون حسب النتيجة ضمن الحصص؛ تُقبل الدرجات المتوقعة لكن يضيع المقعد إذا جاءت النتائج النهائية دون الحد الأدنى."
+  },
+  "keywords": [
+   "tr",
+   "ankara"
+  ],
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma or temporary graduation certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დროებითი ცნობა დამთავრების შესახებ",
+     "ar": "شهادة الثانوية العامة أو شهادة تخرج مؤقتة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcript (with sworn Turkish translation if needed)",
+     "ka": "საშუალო სკოლის ატესტატის შეფასებათა ცხრილი (საჭიროებისას თურქული ნოტარიული თარგმანით)",
+     "ar": "كشف درجات المرحلة الثانوية (مع ترجمة تركية محلفة عند الحاجة)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-style photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Official score report of an accepted exam (TR-YÖS, SAT, IB, A Level, etc.)",
+     "ka": "მისაღები გამოცდის ოფიციალური შედეგი (TR-YÖS, SAT, IB, A Level და სხვ.)",
+     "ar": "نتيجة رسمية لاختبار مقبول (TR-YÖS أو SAT أو IB أو A Level وغيرها)"
+    }
+   }
+  ],
+  "sources": [
+   "https://internationalstudents.hacettepe.edu.tr/",
+   "https://www.hacettepe.edu.tr/english/admissions",
+   "https://internationalstudent.hacettepe.edu.tr/",
+   "https://internationalstudent.hacettepe.edu.tr/en/hacettepe_university_2025_–_-140",
+   "https://internationalstudent.hacettepe.edu.tr/en/update_on_tuition_fees-65",
+   "https://internationalstudent.hacettepe.edu.tr/en/menu/required_documents-49"
+  ]
+ },
+ {
+  "platform": null,
+  "application_url": "https://isad.istanbul.edu.tr/en/mansetler/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Enrolment of admitted students was 8-12 September 2025; application dates are set in the yearly İÜYÖS guide on isad.istanbul.edu.tr.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Turkish"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "The FAQ lists SAT, ACT, TR-YÖS, Abitur, Matura, French Baccalaureate, IB and GCE A Level as accepted exams; other pages mention the university's own İÜYÖS exam, so check the current guide.",
+   "ka": "FAQ-ის მიხედვით მიიღება SAT, ACT, TR-YÖS, Abitur, Matura, ფრანგული ბაკალავრეატი, IB და GCE A Level; სხვა გვერდებზე უნივერსიტეტის საკუთარი İÜYÖS გამოცდაა მოხსენიებული, ამიტომ გადაამოწმეთ მიმდინარე გზამკვლევი.",
+   "ar": "تذكر الأسئلة الشائعة SAT وACT وTR-YÖS وAbitur وMatura والبكالوريا الفرنسية وIB وGCE A Level كاختبارات مقبولة؛ وتذكر صفحات أخرى امتحان İÜYÖS الخاص بالجامعة، لذا راجع الدليل الحالي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "İÜYÖS",
+   "TR-YÖS",
+   "SAT",
+   "ACT",
+   "IB",
+   "GCE A Level"
+  ],
+  "aid_intl": null,
+  "tests": {
+   "en": "Admission is ranked by exam score: the university's İÜYÖS exam or an accepted international exam such as SAT, ACT, TR-YÖS, IB, GCE A Level or Abitur. A Turkish or foreign-language certificate is submitted at enrolment where relevant.",
+   "ka": "მიღება გამოცდის ქულით ხდება: უნივერსიტეტის İÜYÖS ან აღიარებული საერთაშორისო გამოცდა, როგორიცაა SAT, ACT, TR-YÖS, IB, GCE A Level ან Abitur. საჭიროებისას რეგისტრაციისას ბარდება თურქულის ან უცხო ენის სერტიფიკატი.",
+   "ar": "يتم القبول حسب نتيجة الاختبار: امتحان İÜYÖS الخاص بالجامعة أو اختبار دولي مقبول مثل SAT أو ACT أو TR-YÖS أو IB أو GCE A Level أو Abitur. تُقدَّم شهادة اللغة التركية أو الأجنبية عند التسجيل عند اللزوم."
+  },
+  "gpa_note": {
+   "en": "Ranking is by exam score within each programme quota; the FAQ lists IB, GCE A Level, Abitur and SAT among the accepted qualifications.",
+   "ka": "რანჟირება გამოცდის ქულით ხდება თითოეული პროგრამის კვოტაში; FAQ-ის მიხედვით მიიღება IB, GCE A Level, Abitur და SAT.",
+   "ar": "يتم الترتيب حسب نتيجة الاختبار ضمن حصة كل برنامج؛ وتشمل المؤهلات المقبولة IB وGCE A Level وAbitur وSAT."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma or temporary graduation certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დროებითი ცნობა დამთავრების შესახებ",
+     "ar": "شهادة الثانوية العامة أو شهادة تخرج مؤقتة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Official score report of an accepted exam (TR-YÖS, SAT, IB, A Level, etc.)",
+     "ka": "მისაღები გამოცდის ოფიციალური შედეგი (TR-YÖS, SAT, IB, A Level და სხვ.)",
+     "ar": "نتيجة رسمية لاختبار مقبول (TR-YÖS أو SAT أو IB أو A Level وغيرها)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Turkish proficiency certificate where the programme is taught in Turkish",
+     "ka": "თურქულის ცოდნის სერტიფიკატი თურქულენოვანი პროგრამებისთვის",
+     "ar": "شهادة إتقان اللغة التركية للبرامج المدرّسة بالتركية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-16",
+  "id": "istanbul-university",
+  "name": {
+   "en": "Istanbul University",
+   "ka": "სტამბოლის უნივერსიტეტი",
+   "ar": "جامعة إسطنبول"
+  },
+  "iso": "TR",
+  "city": "Istanbul",
+  "lat": 41.012,
+  "lon": 28.964,
+  "type": "public",
+  "website": "https://www.istanbul.edu.tr",
+  "fields": [
+   "medicine-health",
+   "law",
+   "humanities",
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "One of Türkiye's oldest public universities, in central Istanbul. Official international admission data could not be read in this round.",
+   "ka": "თურქეთის ერთ-ერთი უძველესი საჯარო უნივერსიტეტი სტამბოლის ცენტრში. ოფიციალური საერთაშორისო მიღების მონაცემები ამ რაუნდში ვერ წაიკითხა.",
+   "ar": "من أقدم الجامعات الحكومية في تركيا وتقع في وسط إسطنبول. لم تُقرأ بيانات القبول الدولي الرسمية في هذه الجولة."
+  },
+  "about": {
+   "en": "Istanbul University is a large public university with faculties of medicine, law, science, letters and more. Teaching is mainly in Turkish. No fee, deadline or requirement data was available from its official pages in this round.",
+   "ka": "სტამბოლის უნივერსიტეტი მსხვილი საჯარო უნივერსიტეტია მედიცინის, სამართლის, მეცნიერებისა და ლიტერატურის ფაკულტეტებით. სწავლება ძირითადად თურქულადაა. საფასურის, ვადებისა და მოთხოვნების მონაცემები ოფიციალურ გვერდებზე ამ რაუნდში ვერ მოიძებნა.",
+   "ar": "جامعة إسطنبول جامعة حكومية كبيرة فيها كليات الطب والقانون والعلوم والآداب وغيرها. التدريس بالتركية في الغالب. لم تتوفر بيانات الرسوم والمواعيد والشروط من صفحاتها الرسمية في هذه الجولة."
+  },
+  "keywords": [
+   "tr",
+   "istanbul"
+  ],
+  "sources": [
+   "https://www.istanbul.edu.tr/en",
+   "https://iso.istanbul.edu.tr/en/content/frequently-asked-questions/frequently-asked-questions",
+   "https://iso.istanbul.edu.tr/en/content/application-principles/evaluation-and-acceptance",
+   "https://cdn.istanbul.edu.tr/FileHandler2.ashx?f=enrolment_guide.pdf",
+   "https://isad.istanbul.edu.tr/en/mansetler/"
+  ]
+ },
+ {
+  "id": "yildiz-technical-university",
+  "name": {
+   "en": "Yildiz Technical University",
+   "ka": "იილდიზის ტექნიკური უნივერსიტეტი",
+   "ar": "جامعة يلدز التقنية"
+  },
+  "iso": "TR",
+  "city": "Istanbul",
+  "lat": 41.023,
+  "lon": 28.89,
+  "type": "public",
+  "website": "https://www.yildiz.edu.tr",
+  "platform": "Direct (YTU International)",
+  "application_url": "https://ogi.yildiz.edu.tr/en/node/16731",
+  "intakes": [],
+  "deadline": "2026-07-31",
+  "deadline_note": "For 2026-27, online applications ran 20-31 July 2026 and registration 7-18 September 2026; the 2027-28 dates are not yet announced.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Turkish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TR-YÖS",
+   "SAT",
+   "IB",
+   "A Level"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "arts-design",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public technical university in Istanbul. Its international office lists programmes, language of instruction and a 2024-2025 fee PDF; the figures could not be read here.",
+   "ka": "საჯარო ტექნიკური უნივერსიტეტი სტამბოლში. საერთაშორისო ოფისი აქვეყნებს პროგრამებს, სწავლების ენას და 2024-2025 წლის საფასურების PDF-ს; მონაცემების წაკითხვა ვერ მოხერხდა.",
+   "ar": "جامعة تقنية حكومية في إسطنبول. يعرض مكتبها الدولي البرامج ولغة التدريس وملف PDF للرسوم لعام 2024-2025، وتعذّرت قراءة الأرقام."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Applications use official ÖSYM-verified exam results (with a QR code); the university's own YTÜYÖS was removed in June 2026 and other universities' YÖS exams are not accepted. A Turkish certificate is requested if available.",
+   "ka": "განაცხადი იყენებს ÖSYM-ით დადასტურებულ ოფიციალურ გამოცდის შედეგს (QR კოდით); საკუთარი YTÜYÖS 2026 წლის ივნისში გაუქმდა, სხვა უნივერსიტეტების YÖS არ მიიღება. თურქულის სერტიფიკატი მოითხოვება, თუ არსებობს.",
+   "ar": "يعتمد التقديم على نتائج اختبار رسمية موثقة من ÖSYM (برمز QR)؛ أُلغي امتحان YTÜYÖS الخاص بالجامعة في يونيو 2026 ولا تُقبل امتحانات YÖS للجامعات الأخرى. تُطلب شهادة اللغة التركية إن وجدت."
+  },
+  "gpa_note": {
+   "en": "The high school diploma with a graduation GPA document is required; a graduation certificate alone is not accepted, and the exam score decides ranking.",
+   "ka": "საჭიროა საშუალო სკოლის დიპლომი დამთავრების GPA-ს დოკუმენტით; მხოლოდ დამთავრების ცნობა არ მიიღება, რანჟირებას გამოცდის ქულა წყვეტს.",
+   "ar": "يلزم دبلوم الثانوية مع وثيقة معدل التخرج؛ لا تُقبل شهادة التخرج وحدها، ويحدد الترتيب نتيجة الاختبار."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma or temporary graduation certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დროებითი ცნობა დამთავრების შესახებ",
+     "ar": "شهادة الثانوية العامة أو شهادة تخرج مؤقتة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcript (with sworn Turkish translation if needed)",
+     "ka": "საშუალო სკოლის ატესტატის შეფასებათა ცხრილი (საჭიროებისას თურქული ნოტარიული თარგმანით)",
+     "ar": "كشف درجات المرحلة الثانوية (مع ترجمة تركية محلفة عند الحاجة)"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Official score report of an accepted exam (TR-YÖS, SAT, IB, A Level, etc.)",
+     "ka": "მისაღები გამოცდის ოფიციალური შედეგი (TR-YÖS, SAT, IB, A Level და სხვ.)",
+     "ar": "نتيجة رسمية لاختبار مقبول (TR-YÖS أو SAT أو IB أو A Level وغيرها)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-style photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Financial Security Declaration Form",
+     "ka": "ფინანსური უზრუნველყოფის დეკლარაციის ფორმა",
+     "ar": "نموذج إقرار الضمان المالي"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "turkey",
+   "istanbul",
+   "engineering"
+  ],
+  "sources": [
+   "https://international.yildiz.edu.tr/",
+   "https://international.yildiz.edu.tr/undergraduate/undergraduate-information/",
+   "https://ogi.yildiz.edu.tr/en/node/16731",
+   "https://mim.yildiz.edu.tr/en/duyurular/admission-students-ytu-undergraduate-programs-international-students-2026-2027-academic"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "ankara-universitesi",
+  "name": {
+   "en": "Ankara Üniversitesi",
+   "ka": "ანკარის უნივერსიტეტი",
+   "ar": "جامعة أنقرة"
+  },
+  "iso": "TR",
+  "city": "Ankara",
+  "lat": 39.936,
+  "lon": 32.834,
+  "type": "public",
+  "website": "https://www.ankara.edu.tr",
+  "platform": "Direct (Ankara University international admissions)",
+  "application_url": "https://ugadmissions.ankara.edu.tr",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Applications are online in a window announced each year; the 2025 window was 11-20 June, and the 2026 notices are on isoidb.ankara.edu.tr.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Turkish"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "required"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TR-YÖS",
+   "SAT",
+   "IB",
+   "A Level",
+   "Turkish C1 (TÖMER)"
+  ],
+  "fields": [
+   "social-sciences",
+   "law",
+   "humanities",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Political Science",
+    "Law",
+    "Languages and History",
+    "Agriculture",
+    "Medicine"
+   ],
+   "ka": [
+    "პოლიტმეცნიერება",
+    "სამართალი",
+    "ენები და ისტორია",
+    "სოფლის მეურნეობა",
+    "მედიცინა"
+   ],
+   "ar": [
+    "العلوم السياسية",
+    "القانون",
+    "اللغات والتاريخ",
+    "الزراعة",
+    "الطب"
+   ]
+  },
+  "summary": {
+   "en": "Ankara University is one of Türkiye's oldest public universities, in the capital. Official international bachelor admission details could not be read from its site.",
+   "ka": "ანკარის უნივერსიტეტი თურქეთის უძველესი სახელმწიფო უნივერსიტეტია დედაქალაქში. საერთაშორისო საბაკალავრო მიღების ოფიციალური დეტალები მისი საიტიდან ვერ წაიკითხა.",
+   "ar": "جامعة أنقرة من أقدم الجامعات الحكومية في تركيا وتقع في العاصمة. لم تتح قراءة تفاصيل القبول الدولي للبكالوريوس من موقعها الرسمي."
+  },
+  "about": {
+   "en": "Ankara University is a public university in Ankara, Türkiye. Most bachelor teaching is in Turkish. International applicants should check the university's international office and Study in Türkiye for the current application route, exam and fees; these could not be read from the official pages available.",
+   "ka": "ანკარის უნივერსიტეტი სახელმწიფო უნივერსიტეტია თურქეთის დედაქალაქ ანკარაში. საბაკალავრო სწავლების უმეტესობა თურქულადაა. უცხოელმა აპლიკანტებმა მიმდინარე განაცხადის გზა, გამოცდა და საფასურები უნდა გადაამოწმონ უნივერსიტეტის საერთაშორისო ოფისსა და Study in Türkiye-ზე; ხელმისაწვდომი ოფიციალური გვერდებიდან ეს ვერ წაიკითხა.",
+   "ar": "جامعة أنقرة جامعة حكومية في أنقرة بتركيا، ومعظم التدريس في البكالوريوس بالتركية. على المتقدمين الدوليين مراجعة المكتب الدولي للجامعة وموقع Study in Türkiye لمعرفة مسار التقديم والامتحان والرسوم الحالية، فلم تتح قراءتها من الصفحات الرسمية المتاحة."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Applicants need a TR-YÖS score (200/500 for most programmes; 275-440 for law, medicine, dentistry, engineering), or IB 30, Abitur 4, SAT 1100 with 650 Maths, or A Levels. Turkish-taught programmes need Turkish C1 within a year.",
+   "ka": "საჭიროა TR-YÖS ქულა (პროგრამების უმრავლესობისთვის 200/500; სამართლის, მედიცინის, სტომატოლოგიისა და საინჟინრო პროგრამებისთვის 275-440), ან IB 30, Abitur 4, SAT 1100 (მათემატიკაში 650) ან A Level. თურქულენოვან პროგრამებზე ერთი წლის განმავლობაში საჭიროა თურქულის C1.",
+   "ar": "يلزم الحصول على نتيجة TR-YÖS (200/500 لمعظم البرامج و275-440 للحقوق والطب وطب الأسنان والهندسة) أو IB 30 أو Abitur 4 أو SAT 1100 مع 650 في الرياضيات أو A Level. البرامج بالتركية تتطلب مستوى C1 خلال سنة."
+  },
+  "gpa_note": {
+   "en": "The minimum exam score depends on the programme; a high school diploma average of 80/100 or higher is used for any quota left unfilled.",
+   "ka": "მინიმალური ქულა პროგრამის მიხედვით განსხვავდება; ატესტატის საშუალო 80/100 ან მეტი გამოიყენება შეუვსებელი კვოტებისთვის.",
+   "ar": "يختلف الحد الأدنى للنتيجة حسب البرنامج؛ ويُستخدم معدل الثانوية 80/100 فأكثر للمقاعد التي لم تُملأ."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcript (with sworn Turkish translation if needed)",
+     "ka": "საშუალო სკოლის ატესტატის შეფასებათა ცხრილი (საჭიროებისას თურქული ნოტარიული თარგმანით)",
+     "ar": "كشف درجات المرحلة الثانوية (مع ترجمة تركية محلفة عند الحاجة)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma or temporary graduation certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დროებითი ცნობა დამთავრების შესახებ",
+     "ar": "شهادة الثانوية العامة أو شهادة تخرج مؤقتة"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Official score report of an accepted exam (TR-YÖS, SAT, IB, A Level, etc.)",
+     "ka": "მისაღები გამოცდის ოფიციალური შედეგი (TR-YÖS, SAT, IB, A Level და სხვ.)",
+     "ar": "نتيجة رسمية لاختبار مقبول (TR-YÖS أو SAT أو IB أو A Level وغيرها)"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Financial Security Declaration Form",
+     "ka": "ფინანსური უზრუნველყოფის დეკლარაციის ფორმა",
+     "ar": "نموذج إقرار الضمان المالي"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "turkey",
+   "ankara",
+   "public"
+  ],
+  "sources": [
+   "https://www.ankara.edu.tr",
+   "https://isoidb.ankara.edu.tr/wp-content/uploads/sites/381/2026/07/YONERGE-CEVIRI-2026.pdf",
+   "https://iso.ankara.edu.tr/?p=16290",
+   "https://en.ankara.edu.tr/faq/"
+  ],
+  "verified_at": "2026-11-16",
+  "qualifications_note": {
+   "en": "Entry is by exam score: TR-YÖS, IB 30+, Abitur 4+, SAT 1100+ (650 Maths), or A Levels. A general high school diploma (80/100 or above) is used only for vacant quotas.",
+   "ka": "მიღება გამოცდის ქულით ხდება: TR-YÖS, IB 30+, Abitur 4+, SAT 1100+ (მათემატიკაში 650) ან A Level. ატესტატი (80/100 ან მეტი) მხოლოდ თავისუფალი ადგილებისთვის გამოიყენება.",
+   "ar": "القبول حسب نتيجة الاختبار: TR-YÖS أو IB 30+ أو Abitur 4+ أو SAT 1100+ (650 رياضيات) أو A Level. شهادة الثانوية (80/100 فأكثر) تُستخدم للمقاعد الشاغرة فقط."
+  }
+ },
+ {
+  "id": "gazi-universitesi",
+  "name": {
+   "en": "Gazi Üniversitesi",
+   "ka": "გაზის უნივერსიტეტი",
+   "ar": "جامعة غازي"
+  },
+  "iso": "TR",
+  "city": "Ankara",
+  "lat": 39.934,
+  "lon": 32.82,
+  "type": "public",
+  "website": "https://www.gazi.edu.tr",
+  "platform": null,
+  "application_url": "https://ogris.gazi.edu.tr/view/announcement/324384?type=1",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "The 2026-27 announcement for international undergraduate applicants was posted on 13 July 2026; dates are set each year by the Student Affairs Department.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Turkish"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "Undergraduate minimums: TR-YÖS 400/500, IB 36/45, SAT 1200 (650 Maths), ACT 30, or A Levels with two A grades and one B. Diploma needs an equivalency certificate.",
+   "ka": "ბაკალავრიატის მინიმუმი: TR-YÖS 400/500, IB 36/45, SAT 1200 (მათემატიკაში 650), ACT 30 ან A Level (ორი A და ერთი B). ატესტატს ეკვივალენტობის ცნობა სჭირდება.",
+   "ar": "الحد الأدنى للبكالوريوس: TR-YÖS 400/500 أو IB 36/45 أو SAT 1200 (650 رياضيات) أو ACT 30 أو A Level بتقديرين A وتقدير B. الشهادة تحتاج شهادة معادلة."
+  },
+  "sat": {
+   "low": 1200,
+   "high": null,
+   "required": "required"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TR-YÖS",
+   "SAT",
+   "ACT",
+   "IB",
+   "A Level",
+   "Turkish B1/C1 (TÖMER)"
+  ],
+  "fields": [
+   "education",
+   "engineering",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Engineering",
+    "Health Sciences"
+   ],
+   "ka": [
+    "განათლება",
+    "ინჟინერია",
+    "ჯანდაცვის მეცნიერებები"
+   ],
+   "ar": [
+    "التعليم",
+    "الهندسة",
+    "علوم الصحة"
+   ]
+  },
+  "summary": {
+   "en": "Gazi University is a large public university in Ankara, Türkiye. International undergraduate applications run through its International Students Office.",
+   "ka": "გაზის უნივერსიტეტი დიდი სახელმწიფო უნივერსიტეტია თურქეთის დედაქალაქ ანკარაში. საერთაშორისო განმცხადებლები საბაკალავრო პროგრამებზე საერთაშორისო სტუდენტთა ოფისის მეშვეობით აგზავნიან განაცხადს.",
+   "ar": "جامعة غازي جامعة حكومية كبيرة في أنقرة بتركيا. تتم طلبات البكالوريوس الدولية عبر مكتب الطلاب الدوليين."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Applicants submit one accepted exam score: TR-YÖS 400/500, IB 36, SAT 1200 with 650 Maths, ACT 30, or A Levels. Turkish-taught programmes need Turkish C1 within two years; English-taught ones need B1.",
+   "ka": "განმცხადებელი აბარებს ერთ-ერთ აღიარებულ გამოცდის შედეგს: TR-YÖS 400/500, IB 36, SAT 1200 (მათემატიკაში 650), ACT 30 ან A Level. თურქულენოვან პროგრამაზე ორი წლის განმავლობაში საჭიროა C1, ინგლისურენოვანზე კი B1.",
+   "ar": "يقدّم المتقدم نتيجة أحد الاختبارات المقبولة: TR-YÖS 400/500 أو IB 36 أو SAT 1200 مع 650 رياضيات أو ACT 30 أو A Level. البرامج بالتركية تتطلب C1 خلال سنتين، والبرامج بالإنجليزية تتطلب B1."
+  },
+  "gpa_note": {
+   "en": "Entry is ranked by exam score (converted to 100 points); the annex minimums are required but do not guarantee a place within the programme quota.",
+   "ka": "შერჩევა გამოცდის ქულით ხდება (100-ქულიან სკალაზე გადაყვანით); დანართის მინიმუმები სავალდებულოა, მაგრამ ადგილს არ გარანტირებს.",
+   "ar": "يتم الترتيب حسب نتيجة الاختبار (محوّلة إلى 100 درجة)؛ الحدود الدنيا في الملحق مطلوبة لكنها لا تضمن مقعداً ضمن حصة البرنامج."
+  },
+  "requirements": [
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Official score report of an accepted exam (TR-YÖS, SAT, IB, A Level, etc.)",
+     "ka": "მისაღები გამოცდის ოფიციალური შედეგი (TR-YÖS, SAT, IB, A Level და სხვ.)",
+     "ar": "نتيجة رسمية لاختبار مقبول (TR-YÖS أو SAT أو IB أو A Level وغيرها)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma or temporary graduation certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დროებითი ცნობა დამთავრების შესახებ",
+     "ar": "شهادة الثانوية العامة أو شهادة تخرج مؤقتة"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalency certificate for foreign high school diploma",
+     "ka": "უცხოური ატესტატის ეკვივალენტობის ცნობა",
+     "ar": "شهادة معادلة للشهادة الثانوية الأجنبية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcript (with sworn Turkish translation if needed)",
+     "ka": "საშუალო სკოლის ატესტატის შეფასებათა ცხრილი (საჭიროებისას თურქული ნოტარიული თარგმანით)",
+     "ar": "كشف درجات المرحلة الثانوية (مع ترجمة تركية محلفة عند الحاجة)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-style photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Financial Security Declaration Form",
+     "ka": "ფინანსური უზრუნველყოფის დეკლარაციის ფორმა",
+     "ar": "نموذج إقرار الضمان المالي"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "turkey",
+   "ankara",
+   "public"
+  ],
+  "sources": [
+   "https://gazi.edu.tr",
+   "http://gazi-international.gazi.edu.tr/",
+   "https://webupload.gazi.edu.tr/upload/12/2026/7/13/60a61ab3-d570-46d8-8802-2c4ef145ac47-yabanci-uyruklu-ogrenci-kabul-yonergesi-ing.pdf",
+   "https://ogris.gazi.edu.tr/view/announcement/324384?type=1"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "marmara-university",
+  "name": {
+   "en": "Marmara University",
+   "ka": "მარმარას უნივერსიტეტი",
+   "ar": "جامعة مرمرة"
+  },
+  "iso": "TR",
+  "city": "Istanbul",
+  "lat": 40.986,
+  "lon": 29.052,
+  "type": "public",
+  "website": "https://www.marmara.edu.tr",
+  "platform": null,
+  "application_url": "https://aday.marmara.edu.tr",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Applications are online on dates in the academic calendar; the MÜYÖS exam is held once a year in the second half of April (2023 directive; check the current notice).",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Turkish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "MÜYÖS",
+   "TR-YÖS",
+   "Turkish B2 (TÖMER)"
+  ],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business",
+   "international-relations",
+   "economics"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Business",
+    "Political science and international relations",
+    "Dentistry"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "ბიზნესი",
+    "პოლიტიკური მეცნიერებები და საერთაშორისო ურთიერთობები",
+    "სტომატოლოგია"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "إدارة الأعمال",
+    "العلوم السياسية والعلاقات الدولية",
+    "طب الأسنان"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in Istanbul with several fully English-taught bachelor programmes, including Medicine, Dentistry, Engineering and Business.",
+   "ka": "დიდი სახელმწიფო უნივერსიტეტი სტამბოლში, რამდენიმე სრულად ინგლისურენოვანი ბაკალავრის პროგრამით, მათ შორის მედიცინა, სტომატოლოგია, ინჟინერია და ბიზნესი.",
+   "ar": "جامعة حكومية كبيرة في إسطنبول تقدم عدة برامج بكالوريوس بالإنجليزية بالكامل منها الطب وطب الأسنان والهندسة وإدارة الأعمال."
+  },
+  "about": {
+   "en": "Marmara University is a public university in Istanbul. Its English-taught bachelor programmes include Medicine, Dentistry, Economics, Business, Political Science and International Relations, and seven engineering fields. International degree applicants should use the university's candidate portal; fees and dates were not readable.",
+   "ka": "მარმარას უნივერსიტეტი სტამბოლის სახელმწიფო უნივერსიტეტია. ინგლისურენოვანი ბაკალავრის პროგრამებია მედიცინა, სტომატოლოგია, ეკონომიკა, ბიზნესი, პოლიტმეცნიერება და საერთაშორისო ურთიერთობები და შვიდი საინჟინრო მიმართულება.",
+   "ar": "جامعة مرمرة جامعة حكومية في إسطنبول. من برامجها بالإنجليزية الطب وطب الأسنان والاقتصاد وإدارة الأعمال والعلوم السياسية والعلاقات الدولية وسبعة تخصصات هندسية."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages reviewed.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة في الصفحات التي تمت مراجعتها."
+  },
+  "tests": {
+   "en": "Applicants sit the MÜYÖS exam (Basic Learning Skills and Turkish) or use a TR-YÖS score, and must score above the programme threshold. Turkish-taught programmes need Turkish B2.",
+   "ka": "განმცხადებლები აბარებენ MÜYÖS გამოცდას (ძირითადი სასწავლო უნარები და თურქული) ან იყენებენ TR-YÖS ქულას და უნდა გადალახონ პროგრამის ზღვარი. თურქულენოვან პროგრამებზე საჭიროა თურქულის B2.",
+   "ar": "يجتاز المتقدمون امتحان MÜYÖS (مهارات التعلم الأساسية واللغة التركية) أو يستخدمون نتيجة TR-YÖS ويجب تجاوز حد البرنامج. البرامج بالتركية تتطلب مستوى B2."
+  },
+  "gpa_note": {
+   "en": "Applicants must be final-year or graduated high school students and score above the threshold set for each programme; quotas are capped at 50% of last year.",
+   "ka": "განმცხადებელი უნდა იყოს მეთორმეტე კლასელი ან კურსდამთავრებული და გადალახოს თითოეული პროგრამის ზღვარი; კვოტა გასული წლის 50%-ს არ აღემატება.",
+   "ar": "يجب أن يكون المتقدم في السنة الأخيرة من الثانوية أو خريجاً وأن يتجاوز الحد المحدد لكل برنامج؛ والحصص لا تتجاوز 50% من العام السابق."
+  },
+  "requirements": [
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Official score report of an accepted exam (TR-YÖS, SAT, IB, A Level, etc.)",
+     "ka": "მისაღები გამოცდის ოფიციალური შედეგი (TR-YÖS, SAT, IB, A Level და სხვ.)",
+     "ar": "نتيجة رسمية لاختبار مقبول (TR-YÖS أو SAT أو IB أو A Level وغيرها)"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Financial Security Declaration Form",
+     "ka": "ფინანსური უზრუნველყოფის დეკლარაციის ფორმა",
+     "ar": "نموذج إقرار الضمان المالي"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Turkish proficiency certificate where the programme is taught in Turkish",
+     "ka": "თურქულის ცოდნის სერტიფიკატი თურქულენოვანი პროგრამებისთვის",
+     "ar": "شهادة إتقان اللغة التركية للبرامج المدرّسة بالتركية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma or temporary graduation certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დროებითი ცნობა დამთავრების შესახებ",
+     "ar": "شهادة الثانوية العامة أو شهادة تخرج مؤقتة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "turkey",
+   "istanbul",
+   "marmara",
+   "english programmes"
+  ],
+  "sources": [
+   "https://www.marmara.edu.tr/en/academic/degree-programmes/bachelors-degree",
+   "https://international.marmara.edu.tr/",
+   "https://sustainability.marmara.edu.tr/dosya/sustainability/y%C3%B6netmelikler/DIRECTIVE%20FOR%20SELECTION%20AND%20PLACEMENT%20EXAM%20FOR%20FOREIGN%20AND%20INTERNATIONAL%20STUDENTS%20AT%20ASSOCIATE%20AND%20UND.pdf",
+   "https://aday.marmara.edu.tr"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "istanbul-aydin-university",
+  "name": {
+   "en": "Istanbul Aydin University",
+   "ka": "სტამბოლის აიდინის უნივერსიტეტი",
+   "ar": "جامعة إسطنبول أيدن"
+  },
+  "iso": "TR",
+  "city": "Istanbul",
+  "lat": 41.0,
+  "lon": 28.8,
+  "type": "private",
+  "website": "https://www.aydin.edu.tr",
+  "platform": null,
+  "application_url": "https://appform.aydin.edu.tr",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "The guideline lists several intakes but gives no fixed date; applications are online at appform.aydin.edu.tr (2022 guideline, check current dates).",
+  "tuition_intl": {
+   "amount": 6000,
+   "currency": "USD",
+   "per": "year",
+   "note": "Bachelor (4 years) rate on the official undated fee sheet, listed with a 50% scholarship; dentistry 15,000 and medicine 17,500 USD. Confirm current fees with the university."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": 79,
+  "duolingo_min": null,
+  "other_tests": [
+   "IAU English proficiency exam",
+   "PTE 55",
+   "TÖMER B1/C1"
+  ],
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "A private university in Istanbul, Türkiye. Its website blocks automated reading, so no admissions facts are recorded.",
+   "ka": "კერძო უნივერსიტეტი სტამბოლში, თურქეთი. საიტი ავტომატურ კითხვას ბლოკავს, ამიტომ მისაღები ფაქტები არ არის ჩაწერილი.",
+   "ar": "جامعة خاصة في إسطنبول بتركيا. موقعها يمنع القراءة الآلية فلم تُسجَّل حقائق القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "English-taught programmes need TOEFL 79 or PTE 55, or a pass in the IAU English exam; if not passed, a one-year English prep is required. Turkish-taught programmes need TÖMER B1 (C1 for medicine and dentistry).",
+   "ka": "ინგლისურენოვან პროგრამებზე საჭიროა TOEFL 79 ან PTE 55, ან IAU-ის ინგლისურის გამოცდა; წარუმატებლობისას ერთწლიანი მოსამზადებელი კურსია. თურქულენოვანზე საჭიროა TÖMER B1 (მედიცინასა და სტომატოლოგიაზე C1).",
+   "ar": "البرامج بالإنجليزية تتطلب TOEFL 79 أو PTE 55 أو النجاح في امتحان الجامعة، وإلا فسنة تحضيرية. البرامج بالتركية تتطلب TÖMER B1 (C1 للطب وطب الأسنان)."
+  },
+  "gpa_note": {
+   "en": "A minimum of 60% in the high school record is required for associate and undergraduate applicants; admission is by online application, not a national exam.",
+   "ka": "ასოცირებულ და ბაკალავრის განმცხადებლებს სკოლის შეფასებებში მინიმუმ 60% სჭირდებათ; მიღება ონლაინ განაცხადით ხდება.",
+   "ar": "يشترط حد أدنى 60% في الشهادة الثانوية للدبلوم والبكالوريوس؛ والقبول عبر طلب إلكتروني دون امتحان وطني."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma or temporary graduation certificate",
+     "ka": "საშუალო განათლების ატესტატი ან დროებითი ცნობა დამთავრების შესახებ",
+     "ar": "شهادة الثانوية العامة أو شهادة تخرج مؤقتة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcript (with sworn Turkish translation if needed)",
+     "ka": "საშუალო სკოლის ატესტატის შეფასებათა ცხრილი (საჭიროებისას თურქული ნოტარიული თარგმანით)",
+     "ar": "كشف درجات المرحلة الثانوية (مع ترجمة تركية محلفة عند الحاجة)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-style photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency proof (TOEFL 79 / PTE 55 or IAU English exam)",
+     "ka": "ინგლისურის ცოდნის დამადასტურებელი (TOEFL 79 / PTE 55 ან IAU-ის გამოცდა)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (TOEFL 79 / PTE 55 أو امتحان الجامعة)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalency certificate for foreign high school diploma",
+     "ka": "უცხოური ატესტატის ეკვივალენტობის ცნობა",
+     "ar": "شهادة معادلة للشهادة الثانوية الأجنبية"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://www.aydin.edu.tr",
+   "https://study.aydin.edu.tr/wp-content/uploads/2022/06/ING-Guideline-2022.pdf",
+   "https://www.aydin.edu.tr/tr-tr/international/int/Documents/Tuition%20Fee%20(%20ENGLISH%20).pdf"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

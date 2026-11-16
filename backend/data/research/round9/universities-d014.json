@@ -1,0 +1,1245 @@
+[
+ {
+  "id": "cy-cergy-paris-university",
+  "name": {
+   "en": "CY Cergy Paris University",
+   "ka": "სერჟი პარიზის უნივერსიტეტი (CY)",
+   "ar": "جامعة سيرجي باريس (CY)"
+  },
+  "iso": "FR",
+  "city": "Paris",
+  "lat": 49.037,
+  "lon": 2.076,
+  "type": "public",
+  "website": "https://www.cyu.fr",
+  "platform": "Études en France (Campus France) or DAP white/green file",
+  "application_url": "https://www.cyu.fr/en/node/2679",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-12-15",
+  "deadline_note": "National Campus France calendar for 2027 entry: Études en France / DAP applications open 1 October 2026 and first-year licence files are due at the institution by 15 December 2026 (dates can differ by country). Universities answer before 30 April 2027.",
+  "tuition_intl": {
+   "amount": 2895,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Differentiated bachelor fee for non-EU students (2027-2028 page); partial exemption can be requested at droitsdifferencies@cyu.fr."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TCF",
+   "DELF/DALF",
+   "TEF"
+  ],
+  "fields": [
+   "social-sciences",
+   "humanities",
+   "law",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A public university in the Paris region, in Cergy.",
+   "ka": "სახელმწიფო უნივერსიტეტი პარიზის რეგიონში, სერჟიში.",
+   "ar": "جامعة حكومية في منطقة باريس، في سيرجي."
+  },
+  "about": {
+   "en": "CY Cergy Paris University is a public university in the Paris region. Its site lists a separate application route for international licence applicants; details were not readable this round.",
+   "ka": "CY სერჟი პარიზის უნივერსიტეტი სახელმწიფო უნივერსიტეტია პარიზის რეგიონში.",
+   "ar": "جامعة CY سيرجي باريس جامعة حكومية في منطقة باريس."
+  },
+  "aid_intl": {
+   "en": "A partial exemption from the differentiated fee can be requested (droitsdifferencies@cyu.fr); the national fee is then paid.",
+   "ka": "დიფერენცირებული საფასურისგან ნაწილობრივი გათავისუფლების მოთხოვნა შესაძლებელია (droitsdifferencies@cyu.fr); მაშინ იხდება ეროვნული საფასური.",
+   "ar": "يمكن طلب إعفاء جزئي من الرسوم التفاضلية (droitsdifferencies@cyu.fr) فتُدفع الرسوم الوطنية بدلاً منها."
+  },
+  "tests": {
+   "en": "French-taught licence. DAP applicants need at least B2: TCF, DELF or DALF at B2, or TEF 400/699 (national Campus France rule). The exact level can depend on the programme.",
+   "ka": "სწავლება ფრანგულად მიმდინარეობს. DAP-ის განმცხადებლებს სჭირდებათ მინიმუმ B2: TCF, DELF ან DALF B2 დონეზე, ან TEF 400/699 (Campus France-ის ეროვნული წესი). საჭირო დონე პროგრამის მიხედვით შეიძლება განსხვავდებოდეს.",
+   "ar": "التدريس بالفرنسية. يحتاج متقدمو DAP إلى مستوى B2 على الأقل: TCF أو DELF أو DALF بمستوى B2، أو TEF بدرجة 400/699 (قاعدة Campus France الوطنية). قد يختلف المستوى المطلوب حسب البرنامج."
+  },
+  "gpa_note": {
+   "en": "A foreign secondary diploma must give access to higher education in its country of origin; the French university may evaluate it and can refuse it.",
+   "ka": "უცხოური საშუალო განათლების დიპლომი უნდა იძლეოდეს უმაღლეს განათლებაზე წვდომას წარმოშობის ქვეყანაში; ფრანგულ უნივერსიტეტს შეუძლია მისი შეფასება და უარყოფა.",
+   "ar": "يجب أن تتيح شهادة الثانوية الأجنبية الالتحاق بالتعليم العالي في بلدها الأصلي؛ وقد تقيّمها الجامعة الفرنسية ويمكنها رفضها."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (proof of access to higher education in the home country)",
+     "ka": "საშუალო განათლების ატესტატი (უმაღლეს განათლებაზე წვდომის დამადასტურებელი)",
+     "ar": "شهادة الثانوية العامة (إثبات حق الالتحاق بالتعليم العالي في بلد الطالب)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "French language proof (TCF, DELF/DALF or TEF)",
+     "ka": "ფრანგული ენის დამადასტურებელი (TCF, DELF/DALF ან TEF)",
+     "ar": "إثبات إتقان اللغة الفرنسية (TCF أو DELF/DALF أو TEF)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "DAP application form (white or green file)",
+     "ka": "წინასწარი დაშვების განაცხადი DAP (თეთრი ან მწვანე დოსიე)",
+     "ar": "استمارة طلب القبول المسبق DAP (الملف الأبيض أو الأخضر)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "cergy",
+   "paris",
+   "public"
+  ],
+  "sources": [
+   "https://www.cyu.fr/en/academics/apply/register",
+   "https://www.campusfrance.org/en/application-etudes-en-france-procedure",
+   "https://www.canada.campusfrance.org/en/eef-application",
+   "https://www.cyu.fr/en/node/2679"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universite-paris-est-creteil-val-de-marne",
+  "name": {
+   "en": "Université Paris-Est Créteil Val de Marne",
+   "ka": "პარიზ-ესტ კრეტეი ვალ დე მარნის უნივერსიტეტი",
+   "ar": "جامعة باريس إست كريتاي فال دو مارن"
+  },
+  "iso": "FR",
+  "city": "Créteil",
+  "lat": 48.79,
+  "lon": 2.45,
+  "type": "public",
+  "website": "https://www.u-pec.fr",
+  "platform": "Études en France (Campus France) or DAP white file",
+  "application_url": "https://u-pec.fr/vous-etes/etudiant-e/inscriptions/etudiants-internationaux-hors-programme-d-echange-candidature-en-1ere-annee-145310.kjsp?RF=VEN_CANDIND&RH=FOR_INS",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-12-15",
+  "deadline_note": "National Campus France calendar for 2027 entry: Études en France / DAP applications open 1 October 2026 and first-year licence files are due at the institution by 15 December 2026 (dates can differ by country). Universities answer before 30 April 2027.",
+  "tuition_intl": {
+   "amount": 2902,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Differentiated licence fee for non-EU first-time students, 2026-2027 (UPEC page); exemptions are possible."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TCF",
+   "DELF/DALF",
+   "TEF"
+  ],
+  "fields": [
+   "law",
+   "medicine-health",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A public university in the Paris region (Créteil) teaching in French. Non-EU students pay about €2,902 a year for a licence in 2026-2027.",
+   "ka": "საჯარო უნივერსიტეტი პარიზის რეგიონში (კრეტეი), სწავლება ფრანგულად. ევროკავშირის გარეთ მყოფი სტუდენტები 2026-2027 წელს ლიცენსიატისთვის წელიწადში დაახლოებით €2,902 იხდიან.",
+   "ar": "جامعة عامة في منطقة باريس (كريتاي) تُدرّس بالفرنسية. يدفع الطلاب من خارج الاتحاد الأوروبي نحو 2,902 يورو سنوياً لمرحلة الليسانس في 2026-2027."
+  },
+  "about": {
+   "en": "Université Paris-Est Créteil is a public university in the Paris region. Bachelor (licence) teaching is in French. Non-EU applicants with a foreign school diploma apply for first-year entry through Études en France (Campus France) or a DAP file, and must prove French level (B2). Differentiated fees for non-EU first-time students are €2,902 a year for a licence in 2026-2027, with exemptions possible.",
+   "ka": "პარიზ-ესტ კრეტეის უნივერსიტეტი საჯარო უნივერსიტეტია პარიზის რეგიონში. ლიცენსიატის სწავლება ფრანგულად მიმდინარეობს. უცხოური საშუალო განათლების დიპლომის მქონე არაევროპელი აპლიკანტები პირველ კურსზე Études en France-ის (Campus France) ან DAP-ის დოსიეს მეშვეობით აბარებენ და ფრანგულის დონე (B2) უნდა დაადასტურონ. ევროკავშირის გარეთ მყოფი პირველადი სტუდენტებისთვის დიფერენცირებული საფასური 2026-2027 წელს ლიცენსიატზე €2,902-ია; შესაძლებელია გათავისუფლება.",
+   "ar": "جامعة باريس إست كريتاي جامعة عامة في منطقة باريس، والتدريس في مرحلة الليسانس بالفرنسية. يتقدم الحاصلون على شهادة ثانوية أجنبية من خارج أوروبا للسنة الأولى عبر منصة Études en France (Campus France) أو ملف DAP، ويجب إثبات مستوى الفرنسية (B2). الرسوم التفاضلية للطلاب الجدد من خارج الاتحاد الأوروبي 2,902 يورو سنوياً لليسانس في 2026-2027 مع إمكانية الإعفاء."
+  },
+  "aid_intl": {
+   "en": "Partial exemptions from the differentiated fees are possible; the national fee is then paid instead.",
+   "ka": "დიფერენცირებული საფასურისგან ნაწილობრივი გათავისუფლება შესაძლებელია; მაშინ იხდება ეროვნული საფასური.",
+   "ar": "يمكن الحصول على إعفاء جزئي من الرسوم التفاضلية فيدفع الطالب الرسوم الوطنية بدلاً منها."
+  },
+  "tests": {
+   "en": "French-taught licence. DAP applicants need at least B2: TCF, DELF or DALF at B2, or TEF 400/699 (national Campus France rule). The exact level can depend on the programme.",
+   "ka": "სწავლება ფრანგულად მიმდინარეობს. DAP-ის განმცხადებლებს სჭირდებათ მინიმუმ B2: TCF, DELF ან DALF B2 დონეზე, ან TEF 400/699 (Campus France-ის ეროვნული წესი). საჭირო დონე პროგრამის მიხედვით შეიძლება განსხვავდებოდეს.",
+   "ar": "التدريس بالفرنسية. يحتاج متقدمو DAP إلى مستوى B2 على الأقل: TCF أو DELF أو DALF بمستوى B2، أو TEF بدرجة 400/699 (قاعدة Campus France الوطنية). قد يختلف المستوى المطلوب حسب البرنامج."
+  },
+  "gpa_note": {
+   "en": "A foreign secondary diploma must give access to higher education in its country of origin; the French university may evaluate it and can refuse it.",
+   "ka": "უცხოური საშუალო განათლების დიპლომი უნდა იძლეოდეს უმაღლეს განათლებაზე წვდომას წარმოშობის ქვეყანაში; ფრანგულ უნივერსიტეტს შეუძლია მისი შეფასება და უარყოფა.",
+   "ar": "يجب أن تتيح شهادة الثانوية الأجنبية الالتحاق بالتعليم العالي في بلدها الأصلي؛ وقد تقيّمها الجامعة الفرنسية ويمكنها رفضها."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (proof of access to higher education in the home country)",
+     "ka": "საშუალო განათლების ატესტატი (უმაღლეს განათლებაზე წვდომის დამადასტურებელი)",
+     "ar": "شهادة الثانوية العامة (إثبات حق الالتحاق بالتعليم العالي في بلد الطالب)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "French language proof (TCF, DELF/DALF or TEF)",
+     "ka": "ფრანგული ენის დამადასტურებელი (TCF, DELF/DALF ან TEF)",
+     "ar": "إثبات إتقان اللغة الفرنسية (TCF أو DELF/DALF أو TEF)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "DAP application form (white or green file)",
+     "ka": "წინასწარი დაშვების განაცხადი DAP (თეთრი ან მწვანე დოსიე)",
+     "ar": "استمارة طلب القبول المسبق DAP (الملف الأبيض أو الأخضر)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "fr",
+   "créteil"
+  ],
+  "sources": [
+   "https://www.campusfrance.org/en/application-etudes-en-france-procedure",
+   "https://www.canada.campusfrance.org/en/eef-application",
+   "https://www.u-pec.fr/fr/international/information-sur-les-droits-dinscription-des-etudiants-hors-union-europeenne-espace-economique-europeen-suisse-et-quebec",
+   "https://www.u-pec.fr/fr/international/venir-etudier-a-lupec"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "paul-valery-university-montpellier",
+  "name": {
+   "en": "Paul Valéry University Montpellier",
+   "ka": "პოლ ვალერის უნივერსიტეტი მონპელიე",
+   "ar": "جامعة بول فاليري مونبلييه"
+  },
+  "iso": "FR",
+  "city": "Montpellier",
+  "lat": 43.634,
+  "lon": 3.871,
+  "type": "public",
+  "website": "https://www.univ-montp3.fr",
+  "platform": "Études en France (Campus France), DAP white/green file, or Parcoursup",
+  "application_url": "https://www.univ-montp3.fr/en/node/165670",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-12-15",
+  "deadline_note": "National Campus France calendar for 2027 entry: Études en France / DAP applications open 1 October 2026 and first-year licence files are due at the institution by 15 December 2026 (dates can differ by country). Universities answer before 30 April 2027. The university page lists four routes for licence 1: Parcoursup, Campus France, white file (abroad), green file (in France).",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TCF-DAP",
+   "DELF B2",
+   "DALF C1",
+   "TEF"
+  ],
+  "fields": [
+   "humanities",
+   "languages",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Humanities",
+    "Languages",
+    "Arts",
+    "Social sciences"
+   ],
+   "ka": [
+    "ჰუმანიტარული მეცნიერებები",
+    "ენები",
+    "ხელოვნება",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم الإنسانية",
+    "اللغات",
+    "الفنون",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Paul Valéry University Montpellier is a French public university for arts, humanities and social sciences. Teaching is mainly in French; its website does not publish a clear international bachelor application page in English.",
+   "ka": "პოლ ვალერის უნივერსიტეტი მონპელიე საფრანგეთის სახელმწიფო უნივერსიტეტია ხელოვნების, ჰუმანიტარული და სოციალური მეცნიერებებისთვის. სწავლება ძირითადად ფრანგულია; ინგლისურ საიტზე საერთაშორისო ბაკალავრიატის განაცხადის ცალკე გვერდი არ ჩანს.",
+   "ar": "جامعة بول فاليري مونبلييه جامعة فرنسية حكومية للفنون والعلوم الإنسانية والاجتماعية. التدريس بالفرنسية في الغالب، ولا يوضح موقعها الإنجليزي صفحة تقديم دولية واضحة للبكالوريوس."
+  },
+  "about": {
+   "en": "Paul Valéry University Montpellier is a French public university for arts, humanities and social sciences. Teaching is mainly in French; its website does not publish a clear international bachelor application page in English.",
+   "ka": "პოლ ვალერის უნივერსიტეტი მონპელიე საფრანგეთის სახელმწიფო უნივერსიტეტია ხელოვნების, ჰუმანიტარული და სოციალური მეცნიერებებისთვის. სწავლება ძირითადად ფრანგულია; ინგლისურ საიტზე საერთაშორისო ბაკალავრიატის განაცხადის ცალკე გვერდი არ ჩანს.",
+   "ar": "جامعة بول فاليري مونبلييه جامعة فرنسية حكومية للفنون والعلوم الإنسانية والاجتماعية. التدريس بالفرنسية في الغالب، ولا يوضح موقعها الإنجليزي صفحة تقديم دولية واضحة للبكالوريوس."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الجامعة منحاً مخصصة للطلاب الدوليين في البكالوريوس."
+  },
+  "tests": {
+   "en": "French-taught licence. Accepted proof: TCF-DAP, DELF B2, DALF C1 or TEF; the level required depends on the programme (university page). National rule: at least B2.",
+   "ka": "სწავლება ფრანგულად მიმდინარეობს. მისაღები დამადასტურებელი: TCF-DAP, DELF B2, DALF C1 ან TEF; საჭირო დონე პროგრამაზეა დამოკიდებული (უნივერსიტეტის გვერდი). ეროვნული წესით მინიმუმ B2.",
+   "ar": "التدريس بالفرنسية. الإثباتات المقبولة: TCF-DAP أو DELF B2 أو DALF C1 أو TEF؛ ويعتمد المستوى المطلوب على البرنامج (صفحة الجامعة). القاعدة الوطنية: B2 على الأقل."
+  },
+  "gpa_note": {
+   "en": "A foreign secondary diploma must give access to higher education in its country of origin; the French university may evaluate it and can refuse it.",
+   "ka": "უცხოური საშუალო განათლების დიპლომი უნდა იძლეოდეს უმაღლეს განათლებაზე წვდომას წარმოშობის ქვეყანაში; ფრანგულ უნივერსიტეტს შეუძლია მისი შეფასება და უარყოფა.",
+   "ar": "يجب أن تتيح شهادة الثانوية الأجنبية الالتحاق بالتعليم العالي في بلدها الأصلي؛ وقد تقيّمها الجامعة الفرنسية ويمكنها رفضها."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (proof of access to higher education in the home country)",
+     "ka": "საშუალო განათლების ატესტატი (უმაღლეს განათლებაზე წვდომის დამადასტურებელი)",
+     "ar": "شهادة الثانوية العامة (إثبات حق الالتحاق بالتعليم العالي في بلد الطالب)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "French language proof (TCF, DELF/DALF or TEF)",
+     "ka": "ფრანგული ენის დამადასტურებელი (TCF, DELF/DALF ან TEF)",
+     "ar": "إثبات إتقان اللغة الفرنسية (TCF أو DELF/DALF أو TEF)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "DAP application form (white or green file)",
+     "ka": "წინასწარი დაშვების განაცხადი DAP (თეთრი ან მწვანე დოსიე)",
+     "ar": "استمارة طلب القبول المسبق DAP (الملف الأبيض أو الأخضر)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "montpellier"
+  ],
+  "sources": [
+   "https://www.univ-montp3.fr/en",
+   "https://www.campusfrance.org/en/application-etudes-en-france-procedure",
+   "https://www.canada.campusfrance.org/en/eef-application",
+   "https://www.univ-montp3.fr/en/node/165670"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universite-de-rouen",
+  "name": {
+   "en": "Université de Rouen",
+   "ka": "რუანის უნივერსიტეტი",
+   "ar": "جامعة روان"
+  },
+  "iso": "FR",
+  "city": "Rouen",
+  "lat": 49.457,
+  "lon": 1.068,
+  "type": "public",
+  "website": "https://www.univ-rouen.fr",
+  "platform": "Études en France / Campus France (DAP) for licence 1; Parcoursup; eCandidat for licence 2-3",
+  "application_url": "https://mesdemarches.univ-rouen.fr/les-plateformes-de-candidature/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2026-12-15",
+  "deadline_note": "National Campus France calendar for 2027 entry: Études en France / DAP applications open 1 October 2026 and first-year licence files are due at the institution by 15 December 2026 (dates can differ by country). Universities answer before 30 April 2027. Rouen also applies differentiated fees to new non-EU students from 2026-2027, with individual exemptions for up to 30% of those concerned.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TCF",
+   "DELF/DALF",
+   "TEF"
+  ],
+  "fields": [
+   "humanities",
+   "natural-sciences",
+   "law",
+   "social-sciences",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Humanities",
+    "Sciences",
+    "Law",
+    "Health",
+    "Social sciences"
+   ],
+   "ka": [
+    "ჰუმანიტარული მეცნიერებები",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "სამართალი",
+    "ჯანდაცვა",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم الإنسانية",
+    "العلوم الطبيعية",
+    "القانون",
+    "الصحة",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Université de Rouen Normandie is a public university in Normandy, France. Teaching is in French; international applicants without an exchange agreement apply via Campus France.",
+   "ka": "რუან-ნორმანდიის უნივერსიტეტი სახელმწიფო უნივერსიტეტია ნორმანდიაში, საფრანგეთი. სწავლება ფრანგულია; გაცვლითი ხელშეკრულების გარეშე უცხოელები ცხადდებიან Campus France-ის გზით.",
+   "ar": "جامعة روان نورماندي جامعة حكومية في نورماندي بفرنسا. التدريس بالفرنسية ويتقدم الدوليون بلا اتفاقية تبادل عبر Campus France."
+  },
+  "about": {
+   "en": "Université de Rouen Normandie is a public university in Rouen, France. First-year entry is through the national Parcoursup platform; international students from Études en France countries apply through Campus France as independent candidates (candidat libre). Teaching is in French. The pages read do not state non-EU tuition, language levels or deadlines.",
+   "ka": "რუან-ნორმანდიის უნივერსიტეტი სახელმწიფო უნივერსიტეტია რუანში. პირველ კურსზე მიღება ეროვნული Parcoursup-ის პლატფორმით ხდება; Études en France-ის ქვეყნების სტუდენტები ცხადდებიან Campus France-ით როგორც დამოუკიდებელი კანდიდატები. სწავლება ფრანგულია. წაკითხულ გვერდებზე არაევროპელთა საფასური, ენის დონე და ვადები მითითებული არ არის.",
+   "ar": "جامعة روان نورماندي جامعة حكومية في روان بفرنسا. يتم القبول في السنة الأولى عبر منصة Parcoursup الوطنية، ويتقدم الطلاب من دول Études en France عبر Campus France كمرشحين مستقلين. التدريس بالفرنسية. لا تذكر الصفحات رسوم غير الأوروبيين أو مستوى اللغة أو المواعيد."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة للطلاب الدوليين في البكالوريوس منشورة."
+  },
+  "tests": {
+   "en": "French-taught licence. DAP applicants need at least B2: TCF, DELF or DALF at B2, or TEF 400/699 (national Campus France rule). The exact level can depend on the programme.",
+   "ka": "სწავლება ფრანგულად მიმდინარეობს. DAP-ის განმცხადებლებს სჭირდებათ მინიმუმ B2: TCF, DELF ან DALF B2 დონეზე, ან TEF 400/699 (Campus France-ის ეროვნული წესი). საჭირო დონე პროგრამის მიხედვით შეიძლება განსხვავდებოდეს.",
+   "ar": "التدريس بالفرنسية. يحتاج متقدمو DAP إلى مستوى B2 على الأقل: TCF أو DELF أو DALF بمستوى B2، أو TEF بدرجة 400/699 (قاعدة Campus France الوطنية). قد يختلف المستوى المطلوب حسب البرنامج."
+  },
+  "gpa_note": {
+   "en": "A foreign secondary diploma must give access to higher education in its country of origin; the French university may evaluate it and can refuse it.",
+   "ka": "უცხოური საშუალო განათლების დიპლომი უნდა იძლეოდეს უმაღლეს განათლებაზე წვდომას წარმოშობის ქვეყანაში; ფრანგულ უნივერსიტეტს შეუძლია მისი შეფასება და უარყოფა.",
+   "ar": "يجب أن تتيح شهادة الثانوية الأجنبية الالتحاق بالتعليم العالي في بلدها الأصلي؛ وقد تقيّمها الجامعة الفرنسية ويمكنها رفضها."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (proof of access to higher education in the home country)",
+     "ka": "საშუალო განათლების ატესტატი (უმაღლეს განათლებაზე წვდომის დამადასტურებელი)",
+     "ar": "شهادة الثانوية العامة (إثبات حق الالتحاق بالتعليم العالي في بلد الطالب)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "French language proof (TCF, DELF/DALF or TEF)",
+     "ka": "ფრანგული ენის დამადასტურებელი (TCF, DELF/DALF ან TEF)",
+     "ar": "إثبات إتقان اللغة الفرنسية (TCF أو DELF/DALF أو TEF)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "DAP application form (white or green file)",
+     "ka": "წინასწარი დაშვების განაცხადი DAP (თეთრი ან მწვანე დოსიე)",
+     "ar": "استمارة طلب القبول المسبق DAP (الملف الأبيض أو الأخضر)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "rouen",
+   "normandy",
+   "campus france"
+  ],
+  "sources": [
+   "https://www.univ-rouen.fr/international/venir-a-luniversite-de-rouen-normandie-2/",
+   "https://mesdemarches.univ-rouen.fr/les-plateformes-de-candidature/",
+   "https://www.campusfrance.org/en/application-etudes-en-france-procedure",
+   "https://www.canada.campusfrance.org/en/eef-application",
+   "https://www.univ-rouen.fr/actualites/application-des-droits-dinscription-differencies-a-luniversite-de-rouen-normandie-a-compter-de-la-rentree-universitaire-2026-2027/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "kingston-university-london",
+  "name": {
+   "en": "Kingston University, London",
+   "ka": "კინგსტონის უნივერსიტეტი, ლონდონი",
+   "ar": "جامعة كينغستون في لندن"
+  },
+  "iso": "GB",
+  "city": "Kingston upon Thames",
+  "lat": 51.403,
+  "lon": -0.304,
+  "type": "public",
+  "website": "https://www.kingston.ac.uk",
+  "platform": "Kingston direct application (no fee) or UCAS",
+  "application_url": "https://www.kingston.ac.uk/study/international-students/country-specific-information",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Kingston opened a direct application route (no application fee) for international undergraduates applying only to Kingston; no international bachelor deadline was found.",
+  "tuition_intl": {
+   "amount": 18500,
+   "currency": "GBP",
+   "per": "year",
+   "note": "2026/27 Year 1 international fee: £18,500 (other classroom-based) to £21,400 (art and design); £19,200 for social sciences, economics, law and computer science. Fees rise each year."
+  },
+  "acceptance_rate": null,
+  "students": 17000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "arts-design",
+   "engineering",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Art and design",
+    "Engineering",
+    "Law"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ხელოვნება და დიზაინი",
+    "ინჟინერია",
+    "სამართალი"
+   ],
+   "ar": [
+    "الأعمال",
+    "الفن والتصميم",
+    "الهندسة",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "A public university in south-west London. Its website blocked reading, so fees and entry rules are not confirmed.",
+   "ka": "სახელმწიფო უნივერსიტეტი სამხრეთ-დასავლეთ ლონდონში. საიტი კითხვას ბლოკავს, ამიტომ საფასური და მოთხოვნები დადასტურებული არ არის.",
+   "ar": "جامعة حكومية في جنوب غرب لندن. حجب موقعها القراءة الآلية لذا لم تُؤكَّد الرسوم وشروط القبول."
+  },
+  "about": {
+   "en": "Kingston University is a public university in south-west London with about 17,000 students. Bachelor degrees are taught in English. International applicants can use Kingston's direct application route (no fee) or UCAS. English: IELTS 6.0 with 5.5 in each element. Year 1 international fees for 2026/27 run from £18,500 to £21,400 depending on the course.",
+   "ka": "კინგსტონის უნივერსიტეტი საჯარო უნივერსიტეტია სამხრეთ-დასავლეთ ლონდონში, დაახლოებით 17,000 სტუდენტით. ბაკალავრიატი ინგლისურად ისწავლება. საერთაშორისო აპლიკანტებს შეუძლიათ გამოიყენონ კინგსტონის პირდაპირი განაცხადი (საფასურის გარეშე) ან UCAS. ინგლისური: IELTS 6.0, თითოეულ კომპონენტში 5.5. 2026/27 წლის პირველი კურსის საფასური მერყეობს £18,500-დან £21,400-მდე კურსის მიხედვით.",
+   "ar": "جامعة كينغستون جامعة عامة في جنوب غرب لندن وفيها نحو 17,000 طالب. تُدرَّس البكالوريوس بالإنجليزية. يمكن للمتقدمين الدوليين استخدام مسار التقديم المباشر في كينغستون (بلا رسوم) أو UCAS. اللغة: IELTS 6.0 مع 5.5 في كل مهارة. تتراوح رسوم السنة الأولى للطلاب الدوليين في 2026/27 بين 18,500 و21,400 جنيه حسب المساق."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages read.",
+   "ka": "ნაკითხ გვერდებზე საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد مساعدات مخصصة للطلاب الدوليين في البكالوريوس منشورة في الصفحات المقروءة."
+  },
+  "tests": {
+   "en": "Academic IELTS 6.0 overall with 5.5 in every element for undergraduate study; some courses ask for more.",
+   "ka": "ბაკალავრიატისთვის საჭიროა Academic IELTS 6.0 საერთო ქულა და 5.5 ყველა კომპონენტში; ზოგ კურსზე მეტია საჭირო.",
+   "ar": "للدراسة الجامعية يلزم IELTS Academic بدرجة 6.0 إجمالاً و5.5 في كل مهارة؛ وبعض المساقات تتطلب أكثر."
+  },
+  "gpa_note": {
+   "en": "Example: International Business BSc asks for 112-128 UCAS tariff points from at least two A-levels or equivalent (2027 entry); country pages list accepted school qualifications.",
+   "ka": "მაგალითი: International Business BSc-ს სჭირდება 112-128 UCAS ტარიფის ქულა მინიმუმ ორი A-level-იდან ან ექვივალენტიდან (2027); ქვეყნის გვერდებზე ჩამოთვლილია მისაღები კვალიფიკაციები.",
+   "ar": "مثال: يتطلب بكالوريوس International Business ما بين 112 و128 نقطة UCAS من مادتي A-level على الأقل أو ما يعادلها (قبول 2027)؛ وتسرد صفحات الدول المؤهلات المقبولة."
+  },
+  "requirements": [
+   {
+    "key": "qual",
+    "label": {
+     "en": "Qualifications with certified translations",
+     "ka": "კვალიფიკაციები დამოწმებული თარგმანით",
+     "ar": "المؤهلات مع ترجمات معتمدة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language certificate (IELTS or equivalent)",
+     "ka": "ინგლისური ენის სერტიფიკატი (IELTS ან ექვივალენტი)",
+     "ar": "شهادة اللغة الإنجليزية (IELTS أو ما يعادلها)"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Personal statement",
+     "ka": "პირადი მოტივაციის წერილი",
+     "ar": "بيان شخصي"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "uk",
+   "london",
+   "kingston"
+  ],
+  "sources": [
+   "https://www.kingston.ac.uk/study/fees-and-funding/undergraduate-fees",
+   "https://www.kingston.ac.uk/study/international-students/english-language-entry-requirements",
+   "https://www.kingston.ac.uk/study/international-students/country-specific-information",
+   "https://www.kingston.ac.uk/study/undergraduate/international-business-bsc-hons"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "duolingo_min": null,
+  "toefl_min": null,
+  "ielts_min": 6.0,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-16",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "id": "bournemouth-university",
+  "name": {
+   "en": "Bournemouth University",
+   "ka": "ბორნმუთის უნივერსიტეტი",
+   "ar": "جامعة بورنموث"
+  },
+  "iso": "GB",
+  "city": "Poole",
+  "lat": 50.742,
+  "lon": -1.896,
+  "type": "public",
+  "website": "https://www.bournemouth.ac.uk",
+  "platform": "Direct",
+  "application_url": "https://www.bournemouth.ac.uk/study/international/bu-your-country/welcoming-students-france",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 17685,
+   "currency": "GBP",
+   "per": "year",
+   "note": "2027/28 international undergraduate range £17,685 to £20,685 (varies by course; includes foundation years). Placement year £1,955."
+  },
+  "students": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "fields": [
+   "arts-design",
+   "business",
+   "medicine-health",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Media",
+    "Design",
+    "Tourism",
+    "Computing",
+    "Health"
+   ],
+   "ka": [
+    "მედია",
+    "დიზაინი",
+    "ტურიზმი",
+    "კომპიუტინგი",
+    "ჯანდაცვა"
+   ],
+   "ar": [
+    "الإعلام",
+    "التصميم",
+    "السياحة",
+    "الحوسبة",
+    "الصحة"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Poole, England, known for media, design and tourism. Its site blocks automated reading, so no admission details are listed.",
+   "ka": "სახელმწიფო უნივერსიტეტი პულში, ინგლისში, ცნობილი მედიით, დიზაინითა და ტურიზმით. საიტი ავტომატურ წაკითხვას ბლოკავს, ამიტომ მიღების დეტალები მითითებული არ არის.",
+   "ar": "جامعة حكومية في بول بإنجلترا، معروفة بالإعلام والتصميم والسياحة. يمنع موقعها القراءة الآلية لذلك لا ترد تفاصيل القبول."
+  },
+  "about": {
+   "en": "A public university in Poole, England, known for media, design and tourism. Its site blocks automated reading, so no admission details are listed.",
+   "ka": "სახელმწიფო უნივერსიტეტი პულში, ინგლისში, ცნობილი მედიით, დიზაინითა და ტურიზმით. საიტი ავტომატურ წაკითხვას ბლოკავს, ამიტომ მიღების დეტალები მითითებული არ არის.",
+   "ar": "جامعة حكومية في بول بإنجلترا، معروفة بالإعلام والتصميم والسياحة. يمنع موقعها القراءة الآلية لذلك لا ترد تفاصيل القبول."
+  },
+  "aid_intl": {
+   "en": "A European Access Scholarship reduces tuition to £12,075 for September 2027 entry for eligible applicants.",
+   "ka": "European Access Scholarship ამცირებს სწავლის საფასურს £12,075-მდე 2027 წლის სექტემბრის მიღებისთვის შესაბამის აპლიკანტებზე.",
+   "ar": "تخفض منحة European Access Scholarship الرسوم إلى 12,075 جنيهاً لقبول سبتمبر 2027 للمتقدمين المؤهلين."
+  },
+  "tests": {
+   "en": "IELTS Academic (UKVI or non-UKVI) 6.0 overall with at least 5.5 in each component; some courses need higher.",
+   "ka": "IELTS Academic (UKVI ან არა-UKVI) 6.0 საერთო და მინიმუმ 5.5 თითოეულ კომპონენტში; ზოგ კურსზე მეტია საჭირო.",
+   "ar": "IELTS Academic (UKVI أو غير UKVI) بدرجة 6.0 إجمالاً و5.5 على الأقل في كل مهارة؛ وبعض المساقات تتطلب أكثر."
+  },
+  "gpa_note": {
+   "en": "Applicants with 12 years of schooling in some countries can start with the BU International College foundation certificate (IELTS 5.0); direct entry depends on the course.",
+   "ka": "ზოგ ქვეყანაში 12-წლიანი სწავლის მქონე აპლიკანტებს შეუძლიათ დაიწყონ BU International College-ის საფუძვლების სერტიფიკატით (IELTS 5.0); პირდაპირი ჩარიცხვა კურსზეა დამოკიდებული.",
+   "ar": "يمكن للمتقدمين الذين أكملوا 12 سنة دراسية في بعض الدول البدء بشهادة السنة التأسيسية في BU International College (IELTS 5.0)؛ ويعتمد القبول المباشر على المساق."
+  },
+  "requirements": [
+   {
+    "key": "qual",
+    "label": {
+     "en": "Qualifications with certified translations",
+     "ka": "კვალიფიკაციები დამოწმებული თარგმანით",
+     "ar": "المؤهلات مع ترجمات معتمدة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language certificate (IELTS or equivalent)",
+     "ka": "ინგლისური ენის სერტიფიკატი (IELTS ან ექვივალენტი)",
+     "ar": "شهادة اللغة الإنجليزية (IELTS أو ما يعادلها)"
+    }
+   }
+  ],
+  "keywords": [
+   "uk",
+   "england",
+   "poole",
+   "media"
+  ],
+  "sources": [
+   "https://www.bournemouth.ac.uk/study/international/international-fees-funding/undergraduate-tuition-fees-international-students",
+   "https://www.bournemouth.ac.uk/study/undergraduate/fees-funding/undergraduate-tuition-fees",
+   "https://www.bournemouth.ac.uk/study/international/bu-your-country/welcoming-students-france"
+  ]
+ },
+ {
+  "id": "nottingham-trent-university",
+  "name": {
+   "en": "Nottingham Trent University",
+   "ka": "ნოტინგემ ტრენტის უნივერსიტეტი",
+   "ar": "جامعة نوتنغهام ترنت"
+  },
+  "iso": "GB",
+  "city": "Nottingham",
+  "lat": 52.958,
+  "lon": -1.153,
+  "type": "public",
+  "website": "https://www.ntu.ac.uk",
+  "platform": "UCAS (or NTU Applicant Portal for NTU-only applications)",
+  "application_url": "https://www.ntu.ac.uk/international/frequently-asked-questions",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Undergraduate applications go through UCAS; no separate international bachelor deadline was found.",
+  "tuition_intl": {
+   "amount": 19150,
+   "currency": "GBP",
+   "per": "year",
+   "note": "Example from UCAS: International Business, September 2027 entry, £19,150 a year; other courses differ."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "arts-design",
+   "social-sciences",
+   "engineering"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Nottingham, England. Applications for undergraduate courses go through UCAS; the official fee and entry pages blocked automated reading, so fees are not listed here.",
+   "ka": "საჯარო უნივერსიტეტი ნოტინგემში, ინგლისი. საბაკალავრო კურსებზე აპლიკაცია UCAS-ით იგზავნება; ოფიციალური საფასურებისა და მოთხოვნების გვერდები ავტომატური წაკითხვისთვის დაბლოკილია, ამიტომ საფასური აქ არ არის მითითებული.",
+   "ar": "جامعة حكومية في نوتنغهام بإنجلترا. تُقدَّم طلبات البكالوريوس عبر UCAS؛ وقد حُجبت صفحات الرسوم والشروط الرسمية عن القراءة الآلية، لذا لا تُذكر الرسوم هنا."
+  },
+  "about": {
+   "en": "Nottingham Trent University is a public university in Nottingham, England; bachelor degrees are taught in English. International undergraduates apply through UCAS (or the NTU Applicant Portal). IELTS requirements are listed per course. A UCAS example shows £19,150 a year for International Business (2027 entry). Scholarships of £2,000 up to 50% of fees exist.",
+   "ka": "ნოტინგემ ტრენტის უნივერსიტეტი საჯარო უნივერსიტეტია ნოტინგემში, ინგლისში; ბაკალავრიატი ინგლისურად ისწავლება. საერთაშორისო სტუდენტები UCAS-ით (ან NTU Applicant Portal-ით) აბარებენ. IELTS-ის მოთხოვნები კურსის მიხედვით არის მითითებული. UCAS-ის მაგალითით International Business-ის საფასური 2027 წლის მიღებაზე წელიწადში £19,150-ია. არსებობს სტიპენდიები £2,000-დან საფასურის 50%-მდე.",
+   "ar": "جامعة نوتنغهام ترنت جامعة عامة في نوتنغهام بإنجلترا، وتُدرَّس البكالوريوس بالإنجليزية. يتقدم الطلاب الدوليون عبر UCAS (أو بوابة المتقدمين في NTU). تُحدد متطلبات IELTS لكل مساق. يُظهر مثال في UCAS رسوماً قدرها 19,150 جنيهاً سنوياً لمساق International Business (قبول 2027). تتوفر منح من 2,000 جنيه حتى 50% من الرسوم."
+  },
+  "aid_intl": {
+   "en": "NTU scholarships range from £2,000 up to 50% off tuition fees.",
+   "ka": "NTU-ს სტიპენდიები მერყეობს £2,000-დან სწავლის საფასურის 50%-მდე.",
+   "ar": "تتراوح منح NTU بين 2,000 جنيه وخصم يصل إلى 50% من الرسوم."
+  },
+  "tests": {
+   "en": "IELTS requirements are listed per course on NTU's English language page, with separate tables for Student visa applicants; an example course asks for 6.0 for Year 1 entry and 6.5 for later-year entry.",
+   "ka": "IELTS-ის მოთხოვნები მითითებულია კურსის მიხედვით NTU-ის ინგლისური ენის გვერდზე, ცალკე ცხრილებით სტუდენტური ვიზის განმცხადებლებისთვის; მაგალითად, ერთი კურსი ითხოვს 6.0-ს პირველი წლისთვის და 6.5-ს უფრო მაღალ კურსზე ჩარიცხვისას.",
+   "ar": "تُدرج متطلبات IELTS لكل مساق في صفحة اللغة الإنجليزية لدى NTU مع جداول منفصلة لمتقدمي تأشيرة الطالب؛ ومثال ذلك مساق يطلب 6.0 للسنة الأولى و6.5 للالتحاق بسنوات لاحقة."
+  },
+  "gpa_note": {
+   "en": "Academic requirements vary by course and by country; NTU lists them on its Your Country pages and offers a foundation route with Nottingham Trent International College.",
+   "ka": "აკადემიური მოთხოვნები განსხვავდება კურსისა და ქვეყნის მიხედვით; NTU მათ აქვეყნებს Your Country გვერდებზე და გთავაზობთ საფუძვლების გზას Nottingham Trent International College-თან.",
+   "ar": "تختلف المتطلبات الأكاديمية حسب المساق والدولة؛ وتنشرها NTU في صفحات الدول، وتوفر مساراً تأسيسياً عبر Nottingham Trent International College."
+  },
+  "requirements": [
+   {
+    "key": "qual",
+    "label": {
+     "en": "Qualifications with certified translations",
+     "ka": "კვალიფიკაციები დამოწმებული თარგმანით",
+     "ar": "المؤهلات مع ترجمات معتمدة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language certificate (IELTS or equivalent)",
+     "ka": "ინგლისური ენის სერტიფიკატი (IELTS ან ექვივალენტი)",
+     "ar": "شهادة اللغة الإنجليزية (IELTS أو ما يعادلها)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "uk",
+   "nottingham",
+   "ucas"
+  ],
+  "sources": [
+   "https://www.ntu.ac.uk/international/frequently-asked-questions",
+   "https://www.ntu.ac.uk/study-and-courses/international/entry-requirements/english-language-requirements",
+   "https://www.ucas.com/explore/courses/c11c5604-ea5b-c77b-3ce5-0ab2405e87e5/business?studyYear=2027"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "city-st-georges-university-of-london",
+  "name": {
+   "en": "City St George’s, University of London",
+   "ka": "სიტი სენტ ჯორჯის ლონდონის უნივერსიტეტი",
+   "ar": "جامعة سيتي سانت جورج بلندن"
+  },
+  "iso": "GB",
+  "city": "London",
+  "lat": 51.528,
+  "lon": -0.102,
+  "type": "public",
+  "website": "https://citystgeorges.ac.uk",
+  "platform": "UCAS",
+  "application_url": "https://connect.citystgeorges.ac.uk/city/international/undergraduate",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Undergraduate applications go through UCAS; no separate international bachelor deadline was found.",
+  "tuition_intl": {
+   "amount": 22790,
+   "currency": "GBP",
+   "per": "year",
+   "note": "Example from UCAS: International Politics BSc; other courses differ."
+  },
+  "acceptance_rate": null,
+  "students": 27000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.5,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "law",
+   "medicine-health",
+   "engineering",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Law",
+    "Health Sciences",
+    "Journalism"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "სამართალი",
+    "ჯანმრთელობის მეცნიერებები",
+    "ჟურნალისტიკა"
+   ],
+   "ar": [
+    "الأعمال",
+    "القانون",
+    "علوم الصحة",
+    "الصحافة"
+   ]
+  },
+  "summary": {
+   "en": "London university formed in 2024 from City, University of London and St George's; applications via UCAS.",
+   "ka": "ლონდონის უნივერსიტეტი, 2024 წელს City-სა და St George's-ის გაერთიანებით შექმნილი; განაცხადი UCAS-ით.",
+   "ar": "جامعة في لندن تشكلت عام 2024 من اندماج City وSt George's؛ التقديم عبر UCAS."
+  },
+  "about": {
+   "en": "City St George's, University of London is a public university in London, part of the University of London federation.",
+   "ka": "City St George's, ლონდონის უნივერსიტეტი, ლონდონის საჯარო უნივერსიტეტია და ლონდონის უნივერსიტეტის ფედერაციის წევრია.",
+   "ar": "City St George's جامعة لندن جامعة حكومية في لندن وعضو في اتحاد جامعة لندن."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages read.",
+   "ka": "ნაკითხ გვერდებზე საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد مساعدات مخصصة للطلاب الدوليين في البكالوريوس منشورة في الصفحات المقروءة."
+  },
+  "tests": {
+   "en": "UCAS course listings state IELTS 6.5 overall with no sub-test below 6.0; the university warns some courses ask for more.",
+   "ka": "UCAS-ის კურსის აღწერებში მითითებულია IELTS 6.5 საერთო და არცერთი ქვეტესტი 6.0-ზე დაბლა; უნივერსიტეტი აფრთხილებს, რომ ზოგ კურსზე მეტია საჭირო.",
+   "ar": "تذكر قوائم المساقات في UCAS درجة IELTS 6.5 إجمالاً دون 6.0 في أي اختبار فرعي؛ وتنبه الجامعة إلى أن بعض المساقات تتطلب أكثر."
+  },
+  "gpa_note": {
+   "en": "Requirements vary by course (for example SL maths grade 4 and English 5 for one IB-based entry); applicants below direct-entry level can take a preparatory pathway programme.",
+   "ka": "მოთხოვნები კურსის მიხედვით განსხვავდება (მაგალითად, ერთ IB-ზე დაფუძნებულ შემთხვევაში SL მათემატიკა 4 და ინგლისური 5); პირდაპირ ჩარიცხვის დონეზე დაბალ აპლიკანტებს შეუძლიათ მოსამზადებელი პროგრამა გაიარონ.",
+   "ar": "تختلف المتطلبات حسب المساق (مثلاً رياضيات SL بدرجة 4 والإنجليزية بدرجة 5 في أحد مسارات IB)؛ ويمكن لمن هم دون مستوى القبول المباشر الالتحاق ببرنامج تحضيري."
+  },
+  "requirements": [
+   {
+    "key": "qual",
+    "label": {
+     "en": "Qualifications with certified translations",
+     "ka": "კვალიფიკაციები დამოწმებული თარგმანით",
+     "ar": "المؤهلات مع ترجمات معتمدة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language certificate (IELTS or equivalent)",
+     "ka": "ინგლისური ენის სერტიფიკატი (IELTS ან ექვივალენტი)",
+     "ar": "شهادة اللغة الإنجليزية (IELTS أو ما يعادلها)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://connect.citystgeorges.ac.uk/city/international/undergraduate",
+   "https://citystgeorges.ac.uk/prospective-students/apply/entry-requirements",
+   "https://www.ucas.com/explore/courses/0192e856-ceee-8aef-0485-bd6ddd4a76ca/course"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "london-south-bank-university",
+  "name": {
+   "en": "London South Bank University",
+   "ka": "ლონდონის სამხრეთ ბანკის უნივერსიტეტი",
+   "ar": "جامعة لندن ساوث بانك"
+  },
+  "iso": "GB",
+  "city": "London",
+  "lat": 51.498,
+  "lon": -0.103,
+  "type": "public",
+  "website": "https://www.lsbu.ac.uk",
+  "platform": "Direct application (lsbu.ac.uk/international-apply)",
+  "application_url": "https://www.lsbu.ac.uk/international-apply",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "business"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A public university in central London.",
+   "ka": "სახელმწიფო უნივერსიტეტი ლონდონის ცენტრში.",
+   "ar": "جامعة حكومية في وسط لندن."
+  },
+  "about": {
+   "en": "London South Bank University is a public university in Southwark, London. Its pages were blocked this round.",
+   "ka": "ლონდონის სამხრეთ ბანკის უნივერსიტეტი სახელმწიფო უნივერსიტეტია ლონდონში.",
+   "ar": "جامعة لندن ساوث بانك جامعة حكومية في ساوثوارك بلندن."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages read.",
+   "ka": "ნაკითხ გვერდებზე საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد مساعدات مخصصة للطلاب الدوليين في البكالوريوس منشورة في الصفحات المقروءة."
+  },
+  "tests": {
+   "en": "Undergraduate entry needs Academic IELTS 6.0 overall with no component below 5.5; country pages can set higher or equivalent proof.",
+   "ka": "ბაკალავრიატში ჩასარიცხად საჭიროა Academic IELTS 6.0 საერთო და არცერთი კომპონენტი 5.5-ზე დაბლა; ქვეყნის გვერდებზე შეიძლება უფრო მაღალი ან ეკვივალენტური მოთხოვნა იყოს.",
+   "ar": "يلزم للقبول الجامعي IELTS Academic بدرجة 6.0 إجمالاً دون 5.5 في أي مهارة؛ وقد تحدد صفحات الدول متطلباً أعلى أو معادلاً."
+  },
+  "gpa_note": {
+   "en": "Each country page on the LSBU international site sets its own academic entry requirements; applicants upload qualifications with certified translations.",
+   "ka": "LSBU-ს საერთაშორისო საიტზე თითოეული ქვეყნის გვერდი საკუთარ აკადემიურ მოთხოვნებს აწესებს; აპლიკანტები ატვირთავენ კვალიფიკაციებს დამოწმებული თარგმანით.",
+   "ar": "تحدد كل صفحة دولة في موقع LSBU الدولي متطلباتها الأكاديمية؛ ويرفع المتقدمون مؤهلاتهم مع ترجمات معتمدة."
+  },
+  "requirements": [
+   {
+    "key": "qual",
+    "label": {
+     "en": "Qualifications with certified translations",
+     "ka": "კვალიფიკაციები დამოწმებული თარგმანით",
+     "ar": "المؤهلات مع ترجمات معتمدة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language certificate (IELTS or equivalent)",
+     "ka": "ინგლისური ენის სერტიფიკატი (IELTS ან ექვივალენტი)",
+     "ar": "شهادة اللغة الإنجليزية (IELTS أو ما يعادلها)"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Personal statement",
+     "ka": "პირადი მოტივაციის წერილი",
+     "ar": "بيان شخصي"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "uk",
+   "london",
+   "lsbu"
+  ],
+  "sources": [
+   "https://www.lsbu.ac.uk/study/undergraduate/entry-requirements",
+   "https://www.lsbu.ac.uk/_resources/pdf/international/134-2324-SJ-INT-5-Reasons-flyer-V4.pdf",
+   "https://www.lsbu.ac.uk/international/your-country/pakistan"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "glasgow-caledonian-university",
+  "name": {
+   "en": "Glasgow Caledonian University",
+   "ka": "გლაზგოს კალედონიის უნივერსიტეტი",
+   "ar": "جامعة غلاسكو كالدونيان"
+  },
+  "iso": "GB",
+  "city": "Glasgow",
+  "lat": 55.867,
+  "lon": -4.25,
+  "type": "public",
+  "website": "https://www.gcu.ac.uk",
+  "platform": "UCAS (direct route also offered July-September)",
+  "application_url": "https://www.gcu.ac.uk/internationalstudy/howtoapply",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Undergraduate applications, including international ones, go through UCAS; a direct route opens between July and September.",
+  "tuition_intl": {
+   "amount": 15200,
+   "currency": "GBP",
+   "per": "year",
+   "note": "'From' price on GCU's international page; UCAS shows £15,700 for International Marketing (provisional). Varies by course."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Guide: A-level BCC, IB 25 points.",
+   "ka": "სახელმძღვანელო: A-level BCC, IB 25 ქულა.",
+   "ar": "إرشادياً: A-level بدرجات BCC وIB بـ25 نقطة."
+  },
+  "sat": null,
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "medicine-health",
+   "social-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Nursing",
+    "Business",
+    "Built Environment",
+    "Law"
+   ],
+   "ka": [
+    "საექთნო საქმე",
+    "ბიზნესი",
+    "აშენებული გარემო",
+    "სამართალი"
+   ],
+   "ar": [
+    "التمريض",
+    "إدارة الأعمال",
+    "البيئة المبنية",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "Glasgow Caledonian University is a public university in Glasgow, Scotland. Its website blocks automated reading, so no admissions data is listed.",
+   "ka": "გლაზგოს კალედონიის უნივერსიტეტი სახელმწიფო უნივერსიტეტია შოტლანდიის ქალაქ გლაზგოში. საიტი ავტომატურ წაკითხვას ბლოკავს, ამიტომ ადმისიის მონაცემები არ არის მითითებული.",
+   "ar": "جامعة غلاسكو كالدونيان جامعة حكومية في غلاسكو باسكتلندا. يمنع موقعها القراءة الآلية، لذلك لا تُدرج بيانات القبول."
+  },
+  "about": {
+   "en": "Glasgow Caledonian University is a public university in Glasgow, Scotland; bachelor degrees are taught in English. All undergraduate applicants, international students included, apply through UCAS. English proof equals IELTS 6.0 with no element below 5.5. International fees start from about £15,200 a year, depending on the course.",
+   "ka": "გლაზგოს კალედონიის უნივერსიტეტი საჯარო უნივერსიტეტია გლაზგოში, შოტლანდიაში; ბაკალავრიატი ინგლისურად ისწავლება. ყველა ბაკალავრიატის აპლიკანტი, საერთაშორისოების ჩათვლით, UCAS-ით აბარებს. ინგლისურის დონე IELTS 6.0-ის ტოლფასია, არცერთი კომპონენტი 5.5-ზე დაბლა. საერთაშორისო საფასური იწყება დაახლოებით £15,200-დან წელიწადში, კურსის მიხედვით.",
+   "ar": "جامعة غلاسكو كالدونيان جامعة عامة في غلاسكو باسكتلندا، وتُدرَّس البكالوريوس بالإنجليزية. يتقدم جميع طلاب البكالوريوس، ومنهم الدوليون، عبر UCAS. يعادل إثبات اللغة IELTS 6.0 دون 5.5 في أي مهارة. تبدأ الرسوم الدولية من نحو 15,200 جنيه سنوياً حسب المساق."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages read.",
+   "ka": "ნაკითხ გვერდებზე საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد مساعدات مخصصة للطلاب الدوليين في البكالوريوس منشورة في الصفحات المقروءة."
+  },
+  "tests": {
+   "en": "English requirement is equivalent to IELTS 6.0 with no element below 5.5; some programmes need more (see each programme page).",
+   "ka": "ინგლისურის მოთხოვნა IELTS 6.0-ის ექვივალენტია, არცერთი კომპონენტი 5.5-ზე დაბლა; ზოგ პროგრამაზე მეტია საჭირო (იხ. პროგრამის გვერდი).",
+   "ar": "متطلب اللغة الإنجليزية يعادل IELTS 6.0 دون 5.5 في أي مهارة؛ وتتطلب بعض البرامج أكثر (انظر صفحة كل برنامج)."
+  },
+  "gpa_note": {
+   "en": "Guide entry levels include A-level BCC and 25 IB points; subject requirements are set on each course page.",
+   "ka": "სახელმძღვანელო მოთხოვნებია A-level BCC და 25 IB ქულა; საგნობრივი მოთხოვნები მითითებულია კურსის გვერდზე.",
+   "ar": "من المستويات الإرشادية: A-level بدرجات BCC و25 نقطة IB؛ وتُحدد متطلبات المواد في صفحة كل مساق."
+  },
+  "requirements": [
+   {
+    "key": "qual",
+    "label": {
+     "en": "Qualifications with certified translations",
+     "ka": "კვალიფიკაციები დამოწმებული თარგმანით",
+     "ar": "المؤهلات مع ترجمات معتمدة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language certificate (IELTS or equivalent)",
+     "ka": "ინგლისური ენის სერტიფიკატი (IELTS ან ექვივალენტი)",
+     "ar": "شهادة اللغة الإنجليزية (IELTS أو ما يعادلها)"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "uk",
+   "scotland",
+   "glasgow",
+   "public"
+  ],
+  "sources": [
+   "https://www.gcu.ac.uk/internationalstudy/howtoapply",
+   "https://www.gcu.ac.uk/internationalstudy/howtoapply/englishlanguagerequirements",
+   "https://www.ucas.com/explore/courses/722a26cd-7271-4950-9487-34f691843aed/international-marketing"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

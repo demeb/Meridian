@@ -1,0 +1,1214 @@
+[
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "ACET"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-16",
+  "id": "ateneo-de-manila-university",
+  "name": {
+   "en": "Ateneo de Manila University",
+   "ka": "ატენეო დე მანილას უნივერსიტეტი",
+   "ar": "جامعة أتينيو دي مانيلا"
+  },
+  "iso": "PH",
+  "city": "Quezon City",
+  "lat": 14.64,
+  "lon": 121.077,
+  "type": "private",
+  "website": "https://www.ateneo.edu",
+  "platform": "Ateneo College Application Hub",
+  "application_url": "https://apply.ateneo.edu",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "students": 9000,
+  "languages": [
+   "English",
+   "Filipino"
+  ],
+  "english_bachelors": "all",
+  "fields": [
+   "business",
+   "humanities",
+   "social-sciences",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Ateneo de Manila University is a private Jesuit university in Quezon City. Foreign applicants take the ACET and apply on the Ateneo College Application Hub.",
+   "ka": "ატენეო დე მანილას უნივერსიტეტი Quezon City-ში მდებარე კერძო იეზუიტური უნივერსიტეტია. უცხოელი აპლიკანტები აბარებენ ACET-ს და განაცხადს Ateneo College Application Hub-ზე აგზავნიან.",
+   "ar": "جامعة أتينيو دي مانيلا جامعة يسوعية خاصة في Quezon City. يؤدي المتقدمون الأجانب امتحان ACET ويقدّمون طلباتهم عبر Ateneo College Application Hub."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages read.",
+   "ka": "წაკითხულ გვერდებზე საერთაშორისო საბაკალავრო სტუდენტებისთვის სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منح مخصصة لطلاب البكالوريوس الدوليين في الصفحات المطّلع عليها."
+  },
+  "tests": {
+   "en": "Applicants who studied or graduated abroad take the Ateneo College Entrance Test (ACET). All applications go through the Ateneo College Application Hub.",
+   "ka": "საზღვარგარეთ სწავლისას ან დამთავრებისას აპლიკანტები აბარებენ Ateneo College Entrance Test-ს (ACET). განაცხადები იგზავნება Ateneo College Application Hub-ის მეშვეობით.",
+   "ar": "يؤدي المتقدمون الذين درسوا أو تخرجوا في الخارج امتحان Ateneo College Entrance Test (ACET). تُقدَّم جميع الطلبات عبر Ateneo College Application Hub."
+  },
+  "gpa_note": null,
+  "keywords": [
+   "ph",
+   "quezon city"
+  ],
+  "requirements": [
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "University entrance test",
+     "ka": "უნივერსიტეტის მისაღები გამოცდა",
+     "ar": "امتحان القبول الجامعي"
+    }
+   }
+  ],
+  "sources": [
+   "https://cms-training.ateneo.edu/college/admissions/apply/first-year/international",
+   "https://www.ateneo.edu"
+  ]
+ },
+ {
+  "id": "de-la-salle-university",
+  "name": {
+   "en": "De La Salle University",
+   "ka": "დე ლა სალის უნივერსიტეტი",
+   "ar": "جامعة دي لا سال"
+  },
+  "iso": "PH",
+  "city": "Manila",
+  "lat": 14.565,
+  "lon": 120.994,
+  "type": "private",
+  "website": "https://www.dlsu.edu.ph",
+  "platform": "DLSU Office of Admissions",
+  "application_url": "https://www.dlsu.edu.ph/?p=24825",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 23000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "DLSU CAT"
+  ],
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "De La Salle University is a private Catholic university in Manila. International applicants pay a US$50 admission processing fee, take the DLSU CAT and then register with the International Center.",
+   "ka": "დე ლა სალის უნივერსიტეტი მანილის კერძო კათოლიკური უნივერსიტეტია. საერთაშორისო აპლიკანტები იხდიან 50 აშშ დოლარის სააპლიკაციო საფასურს, აბარებენ DLSU CAT-ს და ბარდებიან საერთაშორისო ცენტრში.",
+   "ar": "جامعة دي لا سال جامعة كاثوليكية خاصة في مانيلا. يدفع المتقدمون الدوليون رسوم معالجة قبول قدرها 50 دولارًا، ويؤدون DLSU CAT ثم يراجعون المركز الدولي."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "International applicants take the DLSU College Admission Test (DLSU CAT). Applicants who use the SAT as their admission credential submit the original SAT results.",
+   "ka": "საერთაშორისო აპლიკანტები აბარებენ DLSU-ის კოლეჯის მისაღებ ტესტს (DLSU CAT). ვინც SAT-ს იყენებს, წარადგენს SAT-ის ორიგინალ შედეგებს.",
+   "ar": "يؤدي المتقدمون الدوليون اختبار القبول الجامعي DLSU CAT. ومن يستخدم SAT كوثيقة قبول يقدّم نتائج SAT الأصلية."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport",
+     "ka": "მოქმედი პასპორტი",
+     "ar": "جواز سفر ساري"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application or admission processing fee",
+     "ka": "სააპლიკაციო / მიღების საფასური",
+     "ar": "رسوم التقديم أو معالجة القبول"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "University entrance test",
+     "ka": "უნივერსიტეტის მისაღები გამოცდა",
+     "ar": "امتحان القبول الجامعي"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "Original SAT results (if SAT is used as credential)",
+     "ka": "SAT-ის ორიგინალი შედეგები (თუ SAT გამოიყენება)",
+     "ar": "نتائج SAT الأصلية (إذا استُخدم SAT)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "philippines",
+   "manila",
+   "lasallian",
+   "private"
+  ],
+  "sources": [
+   "https://www.dlsu.edu.ph/?p=24825",
+   "https://www.dlsu.edu.ph/?p=27441"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "sat": {
+   "low": 1200,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "USTET"
+  ],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "IB Diploma (28+ predicted or awarded), 3 A Levels at grade C or better, 3 AP courses at grade 3+, SAT 1200+ or ACT 27+ can replace the USTET. 13 years of basic education are required.",
+   "ka": "IB დიპლომა (28+), 3 A Level მინიმუმ C ნიშნით, 3 AP კურსი 3+ ნიშნით, SAT 1200+ ან ACT 27+ შეიძლება USTET-ს ჩაანაცვლოს. საჭიროა 13 წლიანი საბაზო განათლება.",
+   "ar": "يمكن لدبلوم IB (28 فأكثر) أو 3 مواد A Level بتقدير C فأعلى أو 3 مواد AP بدرجة 3+ أو SAT 1200+ أو ACT 27+ أن تحل محل USTET. يلزم 13 عامًا من التعليم الأساسي."
+  },
+  "tests": {
+   "en": "Applicants take the USTET, in Manila or at international centres in Riyadh, Al-Khobar and Dubai. IB, A Level, AP, VCE, SAT or ACT results above set cut-offs can replace it.",
+   "ka": "აპლიკანტები აბარებენ USTET-ს მანილაში ან საერთაშორისო ცენტრებში (რიადი, ალ-ხობარი, დუბაი). IB, A Level, AP, VCE, SAT ან ACT შედეგები დადგენილ ზღვარზე მაღლა USTET-ს ჩაანაცვლებს.",
+   "ar": "يؤدي المتقدمون امتحان USTET في مانيلا أو في مراكز دولية في الرياض والخبر ودبي. ويمكن لنتائج IB وA Level وAP وVCE وSAT وACT فوق حدود معينة أن تحل محله."
+  },
+  "gpa_note": {
+   "en": "Credential route: IB 28+ points, 3 A Levels at C or better, 3 AP courses at 3+, SAT 1200+ (600+ in each section) or ACT 27+ (no section below 24); 13 years of basic education.",
+   "ka": "სანაცვლო გზა: IB 28+ ქულა, 3 A Level მინიმუმ C-ით, 3 AP კურსი 3+-ით, SAT 1200+ (თითო განყოფილებაში 600+) ან ACT 27+ (არცერთი 24-ზე ნაკლები); 13 წლიანი საბაზო განათლება.",
+   "ar": "مسار الشهادات: IB بـ28 نقطة فأكثر أو 3 مواد A Level بتقدير C فأعلى أو 3 مواد AP بدرجة 3+ أو SAT 1200+ (600+ في كل قسم) أو ACT 27+ (لا قسم أقل من 24)؛ 13 عامًا من التعليم الأساسي."
+  },
+  "aid_intl": null,
+  "deadline": "2027-01-08",
+  "deadline_note": "College registration for the USTET runs 8 August 2026 to 8 January 2027; overseas testing centres (Riyadh, Al-Khobar, Dubai) test 12-16 January 2027 with payment due 8 January 2027.",
+  "tuition_intl": null,
+  "application_url": "https://ofad.ust.edu.ph/",
+  "requirements": [
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size ID photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport",
+     "ka": "მოქმედი პასპორტი",
+     "ar": "جواز سفر ساري"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნები (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application or admission processing fee",
+     "ka": "სააპლიკაციო / მიღების საფასური",
+     "ar": "رسوم التقديم أو معالجة القبول"
+    }
+   }
+  ],
+  "platform": "USTET Application Portal (OFAD)",
+  "verified_at": "2026-11-16",
+  "id": "university-of-santo-tomas",
+  "name": {
+   "en": "University of Santo Tomas",
+   "ka": "წმინდა თომას უნივერსიტეტი (მანილა)",
+   "ar": "جامعة سانتو توماس"
+  },
+  "iso": "PH",
+  "city": "Manila",
+  "lat": 14.61,
+  "lon": 120.989,
+  "type": "private",
+  "website": "https://www.ust.edu.ph",
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "some",
+  "intakes": [
+   "August"
+  ],
+  "fields": [
+   "medicine-health",
+   "humanities",
+   "law",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine and health",
+    "Humanities",
+    "Law"
+   ],
+   "ka": [
+    "მედიცინა და ჯანდაცვა",
+    "ჰუმანიტარული მეცნიერებები",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب والصحة",
+    "العلوم الإنسانية",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "UST is a private Catholic university in Manila. International applicants register for the USTET (PhP 1,000 or PhP 3,000 with international credentials) by 8 January 2027, or use IB, A Level, AP, SAT or ACT results.",
+   "ka": "UST მანილის კერძო კათოლიკური უნივერსიტეტია. საერთაშორისო აპლიკანტები USTET-ზე რეგისტრირდებიან 2027 წლის 8 იანვრამდე (PhP 1,000, ან PhP 3,000 საერთაშორისო სერტიფიკატებით) ან იყენებენ IB, A Level, AP, SAT ან ACT შედეგებს.",
+   "ar": "UST جامعة كاثوليكية خاصة في مانيلا. يسجّل المتقدمون الدوليون في USTET قبل 8 يناير 2027 (1,000 بيزو، أو 3,000 بيزو مع الشهادات الدولية) أو يستخدمون نتائج IB وA Level وAP وSAT وACT."
+  },
+  "about": null,
+  "keywords": [
+   "philippines",
+   "manila",
+   "ust",
+   "catholic"
+  ],
+  "sources": [
+   "https://ustet.ust.edu.ph/",
+   "https://ofad.ust.edu.ph/",
+   "https://www.ust.edu.ph/admission/"
+  ]
+ },
+ {
+  "id": "adamson-university",
+  "name": {
+   "en": "Adamson University",
+   "ka": "ადამსონის უნივერსიტეტი",
+   "ar": "جامعة آدمسون"
+  },
+  "iso": "PH",
+  "city": "Manila",
+  "lat": 14.586,
+  "lon": 120.985,
+  "type": "private",
+  "website": "https://www.adamson.edu.ph",
+  "platform": "Adamson online application",
+  "application_url": "https://www.adamson.edu.ph/v1/?page=foreign",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "No application deadline is published on the foreign-student page; accepted applicants receive enrolment schedules after notification.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "business",
+   "law"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Adamson University is a private Vincentian university in Manila. Foreign applicants send an authenticated transcript, diploma, passport page and photo; an acceptance fee of PHP 11,025 and a foreign fee of PHP 5,512 per semester apply.",
+   "ka": "ადამსონის უნივერსიტეტი მანილის კერძო ვინსენციანური უნივერსიტეტია. უცხოელი აპლიკანტები წარადგენენ ავტორიზებულ ტრანსკრიპტს, დიპლომს, პასპორტის გვერდს და ფოტოს; მოქმედებს PHP 11,025 მიღების საფასური და PHP 5,512 საფასური თითო სემესტრზე.",
+   "ar": "جامعة آدمسون جامعة فينسنتية خاصة في مانيلا. يقدّم المتقدمون الأجانب كشف درجات موثقًا وشهادة وصفحة جواز وصورة؛ وتُطبَّق رسوم قبول 11,025 بيزو ورسوم أجانب 5,512 بيزو لكل فصل."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნები (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი / დიპლომი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport",
+     "ka": "მოქმედი პასპორტი",
+     "ar": "جواز سفر ساري"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size ID photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Letter of application to the Registrar",
+     "ka": "განცხადება რეგისტრატორის სახელზე",
+     "ar": "خطاب تقديم موجه إلى المسجل"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Notarised affidavit of support with proof of funds",
+     "ka": "ნოტარიულად დამოწმებული მხარდაჭერის ხელწერილი და ფინანსური დოკუმენტები",
+     "ar": "إقرار دعم موثق مع إثبات الموارد المالية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Police clearance and medical certificate",
+     "ka": "პოლიციის ცნობა და სამედიცინო ცნობა",
+     "ar": "شهادة حسن سيرة وشهادة طبية"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "philippines",
+   "manila",
+   "vincentian"
+  ],
+  "sources": [
+   "https://www.adamson.edu.ph/v1/?page=foreign",
+   "https://www.adamson.edu.ph/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "platform": "UAF Foreign Students Advisor (FSA) office",
+  "application_url": "https://uaf.edu.pk/directorates/fsa/fsa_guidelines.html",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Urdu"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A 12-year school certificate with a science subject combination is required; HSSC marks sheets are verified by IBCC and an IBCC equivalence certificate is needed where applicable.",
+   "ka": "საჭიროა 12 წლიანი სკოლის ატესტატი საბუნებისმეტყველო საგნებით; HSSC ნიშნების უწყისი მოწმდება IBCC-ში და საჭიროების შემთხვევაში საჭიროა IBCC-ის ეკვივალენტობის სერტიფიკატი.",
+   "ar": "يلزم شهادة مدرسية من 12 عامًا بتخصص علمي؛ وتُوثَّق كشوف درجات HSSC لدى IBCC وتُطلب شهادة معادلة من IBCC عند الاقتضاء."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": {
+   "en": "A Self-Finance Scheme/Scholarship reserves a limited number of B.Sc. (Hons) seats for foreign students.",
+   "ka": "ფინანსური თვითდაფინანსების სქემა/სტიპენდია უცხოელი სტუდენტებისთვის B.Sc. (Hons) პროგრამებზე შეზღუდულ რაოდენობის ადგილს ითვალისწინებს.",
+   "ar": "يخصص نظام التمويل الذاتي/المنحة عددًا محدودًا من مقاعد B.Sc. (Hons) للطلاب الأجانب."
+  },
+  "tests": {
+   "en": "Foreign applicants submit an English language proficiency certificate; no entrance test is named on the foreign-student page. Seats for foreign students are allocated by the university.",
+   "ka": "უცხოელი აპლიკანტები წარადგენენ ინგლისური ენის ცოდნის სერტიფიკატს; უცხოელთა გვერდზე მისაღები გამოცდა მითითებული არ არის. უცხოელთა ადგილებს უნივერსიტეტი ანაწილებს.",
+   "ar": "يقدّم المتقدمون الأجانب شهادة إتقان اللغة الإنجليزية؛ ولا يُذكر امتحان قبول في صفحة الطلاب الأجانب. وتخصّص الجامعة مقاعد الطلاب الأجانب."
+  },
+  "gpa_note": {
+   "en": "Applicants need a 12-year higher secondary certificate with a science combination (chemistry, physics, biology, maths or computer) and at least 45%; the age limit is 23 for undergraduate programmes.",
+   "ka": "საჭიროა 12 წლიანი საშუალო განათლების ატესტატი საბუნებისმეტყველო კომბინაციით (ქიმია, ფიზიკა, ბიოლოგია, მათემატიკა ან კომპიუტერი) მინიმუმ 45%-ით; ასაკობრივი ზღვარია 23 წელი.",
+   "ar": "يلزم شهادة ثانوية عليا من 12 عامًا بمجموعة علمية (كيمياء، فيزياء، أحياء، رياضيات أو حاسوب) بنسبة 45% على الأقل؛ والحد الأقصى للعمر 23 عامًا للبرامج الجامعية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი / დიპლომი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport",
+     "ka": "მოქმედი პასპორტი",
+     "ar": "جواز سفر ساري"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proficiency certificate",
+     "ka": "ინგლისური ენის ცოდნის სერტიფიკატი",
+     "ar": "شهادة إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "IBCC equivalence certificate for foreign qualifications",
+     "ka": "IBCC-ის ეკვივალენტობის სერტიფიკატი უცხოური კვალიფიკაციისთვის",
+     "ar": "شهادة معادلة IBCC للمؤهلات الأجنبية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "No-objection certificate (NOC) from own embassy",
+     "ka": "საკუთარი ქვეყნის საელჩოს NOC",
+     "ar": "شهادة عدم ممانعة من سفارة بلد المتقدم"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size ID photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-16",
+  "id": "university-of-agriculture-faisalabad",
+  "name": {
+   "en": "University of Agriculture, Faisalabad",
+   "ka": "სოფლის მეურნეობის უნივერსიტეტი, ფაისალაბადი",
+   "ar": "جامعة الزراعة، فيصل آباد"
+  },
+  "iso": "PK",
+  "city": "Faisalabad",
+  "lat": 31.431,
+  "lon": 73.071,
+  "type": "public",
+  "website": "https://www.uaf.edu.pk",
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "UAF is a public agricultural university in Faisalabad. Foreign students apply online and through the Foreign Students Advisor office; they need a 12-year science certificate with 45%, an English certificate and an embassy NOC.",
+   "ka": "UAF ფაისალაბადის საჯარო აგრარული უნივერსიტეტია. უცხოელი სტუდენტები განაცხადს ონლაინ და უცხოელ სტუდენტთა მრჩევლის ოფისის მეშვეობით აგზავნიან; საჭიროა 12 წლიანი საბუნებისმეტყველო ატესტატი 45%-ით, ინგლისურის სერტიფიკატი და საელჩოს NOC.",
+   "ar": "UAF جامعة زراعية حكومية في فيصل آباد. يتقدم الطلاب الأجانب عبر الإنترنت ومكتب مستشار الطلاب الأجانب؛ ويلزمهم شهادة علمية من 12 عامًا بنسبة 45% وشهادة إنجليزية وNOC من السفارة."
+  },
+  "about": null,
+  "keywords": [
+   "pk",
+   "faisalabad"
+  ],
+  "sources": [
+   "https://uaf.edu.pk/directorates/fsa/fsa_guidelines.html",
+   "https://www.uaf.edu.pk"
+  ]
+ },
+ {
+  "id": "comsats-university-islamabad",
+  "name": {
+   "en": "COMSATS University Islamabad",
+   "ka": "COMSATS-ის უნივერსიტეტი ისლამაბადი",
+   "ar": "جامعة كومساتس إسلام آباد"
+  },
+  "iso": "PK",
+  "city": "Islamabad",
+  "lat": 33.651,
+  "lon": 73.156,
+  "type": "public",
+  "website": "https://www.comsats.edu.pk",
+  "platform": "COMSATS international admissions portal",
+  "application_url": "https://internationaladmissions.comsats.edu.pk/",
+  "intakes": [
+   "February",
+   "September"
+  ],
+  "deadline": "2026-11-15",
+  "deadline_note": "Spring 2027 applications for international students open 4 September 2026 and close 15 November 2026; classes begin in February 2027.",
+  "tuition_intl": {
+   "amount": 505,
+   "currency": "USD",
+   "per": "semester",
+   "note": "Per semester: Other programmes 505, Management 472, Computer Sciences 548, Engineering 570, Pharmacy 605, Architecture 630 USD; plus a one-time admission fee of 100 USD. Rates may be revised."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Computer science",
+    "Engineering",
+    "Management sciences",
+    "Sciences"
+   ],
+   "ka": [
+    "კომპიუტერული მეცნიერება",
+    "ინჟინერია",
+    "მენეჯმენტის მეცნიერებები",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "علوم الحاسوب",
+    "الهندسة",
+    "العلوم الإدارية",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Islamabad focused on science, technology and engineering. International students apply on a dedicated portal; fees are listed on the university's fee structure page.",
+   "ka": "საჯარო უნივერსიტეტი ისლამაბადში, მეცნიერების, ტექნოლოგიისა და ინჟინერიის მიმართულებით. უცხოელი სტუდენტები სპეციალურ პორტალზე აპლიკაციას აგზავნიან; საფასურები უნივერსიტეტის საფასურების გვერდზეა.",
+   "ar": "جامعة حكومية في إسلام آباد تركز على العلوم والتكنولوجيا والهندسة. يقدّم الطلاب الدوليون طلباتهم عبر بوابة مخصصة، وتُنشر الرسوم في صفحة هيكل الرسوم."
+  },
+  "about": {
+   "en": "COMSATS University Islamabad is a public university in Pakistan's capital. International students apply through a dedicated admissions portal; Spring 2027 applications close on 15 November 2026. Scholarships are listed for nominees from D-8, OIC, ICESCO and SCO member countries.",
+   "ka": "COMSATS-ის უნივერსიტეტი ისლამაბადი საჯარო უნივერსიტეტია პაკისტანის დედაქალაქში. უცხოელი სტუდენტები სპეციალური პორტალით აპლიკაციას აგზავნიან; 2027 წლის საგაზაფხულო მიღება 2026 წლის 15 ნოემბერს მთავრდება. სტიპენდიები მითითებულია D-8, OIC, ICESCO და SCO წევრი ქვეყნების ნომინანტებისთვის.",
+   "ar": "جامعة كومساتس إسلام آباد جامعة حكومية في عاصمة باكستان. يقدّم الطلاب الدوليون طلباتهم عبر بوابة قبول مخصصة، ويُغلق التقديم لفصل ربيع 2027 في 15 نوفمبر 2026. تُذكر منح لمرشحي دول D-8 و OIC و ICESCO و SCO."
+  },
+  "aid_intl": {
+   "en": "Scholarships are listed for nominees from D-8, OIC, ICESCO and SCO member countries; it is not stated whether undergraduates qualify.",
+   "ka": "სტიპენდიები მითითებულია D-8, OIC, ICESCO და SCO წევრი ქვეყნების ნომინანტებისთვის; არ არის მითითებული, ეხება თუ არა ბაკალავრიატს.",
+   "ar": "تُذكر منح لمرشحي دول D-8 و OIC و ICESCO و SCO، دون بيان ما إذا كانت تشمل البكالوريوس."
+  },
+  "tests": null,
+  "gpa_note": {
+   "en": "BS programmes need 12 years of education (Intermediate or equivalent) with at least 50% marks; Computer Science and Software Engineering also need Mathematics.",
+   "ka": "BS პროგრამებისთვის საჭიროა 12 წლიანი განათლება (Intermediate ან ექვივალენტი) მინიმუმ 50%-ით; კომპიუტერული მეცნიერებისა და პროგრამული ინჟინერიისთვის ასევე საჭიროა მათემატიკა.",
+   "ar": "تتطلب برامج BS تعليمًا من 12 عامًا (Intermediate أو ما يعادله) بنسبة 50% على الأقل؛ ويلزم أيضًا الرياضيات لعلوم الحاسوب وهندسة البرمجيات."
+  },
+  "requirements": [],
+  "scholarships": [
+   {
+    "name": "COMSATS scholarships for international students",
+    "url": "https://ww2.comsats.edu.pk/scholarships/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "pakistan",
+   "islamabad",
+   "engineering",
+   "computer science"
+  ],
+  "sources": [
+   "https://internationaladmissions.comsats.edu.pk/",
+   "https://internationaladmissions.comsats.edu.pk/Home/EligibilityCriteria?pt=BS",
+   "https://ww2.comsats.edu.pk/internationalstudents/FeeStructureInt.aspx",
+   "https://www.comsats.edu.pk/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "LAT (LLB only)"
+  ],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": null,
+  "qualifications_note": null,
+  "tests": {
+   "en": "The Fall 2026 undergraduate merit counts SSC and HSSC marks only; the LLB programme needs the Law Admission Test (LAT). Foreign candidates also need an IBCC equivalence certificate.",
+   "ka": "Fall 2026-ის საბაკალავრო რეიტინგი ითვალისწინებს მხოლოდ SSC და HSSC ნიშნებს; LLB-ზე სავალდებულოა სამართლის მისაღები ტესტი (LAT). უცხოელ კანდიდატებს ასევე სჭირდებათ IBCC-ის ეკვივალენტობის სერტიფიკატი.",
+   "ar": "تعتمد جدارة القبول الجامعي لخريف 2026 على درجات SSC وHSSC فقط؛ ويتطلب برنامج LLB اختبار القبول القانوني (LAT). ويحتاج المرشحون الأجانب أيضًا إلى شهادة معادلة من IBCC."
+  },
+  "gpa_note": {
+   "en": "BS entry needs an FA/FSc or equivalent with at least 45% marks (higher for some programmes). Merit counts 30% SSC and 70% HSSC or equivalent.",
+   "ka": "BS-ზე მისაღებად საჭიროა FA/FSc ან ექვივალენტი მინიმუმ 45%-ით (ზოგ პროგრამაზე მეტი). დაკვირვება: SSC 30% და HSSC ან ექვივალენტი 70%.",
+   "ar": "يتطلب القبول في BS شهادة FA/FSc أو ما يعادلها بنسبة 45% على الأقل (وأعلى في بعض البرامج). تُحتسب الجدارة 30% من SSC و70% من HSSC أو المعادل."
+  },
+  "aid_intl": null,
+  "deadline": "2026-09-27",
+  "deadline_note": "Fall 2026 online applications ran 15-27 September 2026, with interviews and fee payment on 28 September. The next dates are not yet published.",
+  "tuition_intl": {
+   "amount": 1069,
+   "currency": "USD",
+   "per": "semester",
+   "note": "BS foreign-student fee per semester: 1,069 USD (arts, humanities, management and social sciences) or 1,303 USD (life, earth and natural sciences) including 100 USD miscellaneous fee; plus a 50 USD admission fee. Hostel 55,000 PKR per year."
+  },
+  "application_url": "https://www.uop.edu.pk",
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი / დიპლომი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "IBCC equivalence certificate for foreign qualifications",
+     "ka": "IBCC-ის ეკვივალენტობის სერტიფიკატი უცხოური კვალიფიკაციისთვის",
+     "ar": "شهادة معادلة IBCC للمؤهلات الأجنبية"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size ID photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application or admission processing fee",
+     "ka": "სააპლიკაციო / მიღების საფასური",
+     "ar": "رسوم التقديم أو معالجة القبول"
+    }
+   }
+  ],
+  "platform": "UoP online admission portal",
+  "verified_at": "2026-11-16",
+  "id": "university-of-peshawar",
+  "name": {
+   "en": "University of Peshawar",
+   "ka": "პეშავარის უნივერსიტეტი",
+   "ar": "جامعة بيشاور"
+  },
+  "iso": "PK",
+  "city": "Peshawar",
+  "lat": 34.002,
+  "lon": 71.487,
+  "type": "public",
+  "website": "https://www.uop.edu.pk",
+  "languages": [
+   "English",
+   "Urdu"
+  ],
+  "english_bachelors": "some",
+  "intakes": [
+   "September"
+  ],
+  "fields": [
+   "natural-sciences",
+   "social-sciences",
+   "humanities",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Natural sciences",
+    "Social sciences",
+    "Humanities"
+   ],
+   "ka": [
+    "საბუნებისმეტყველო მეცნიერებები",
+    "სოციალური მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم الطبيعية",
+    "العلوم الاجتماعية",
+    "العلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "The University of Peshawar is a public university in Khyber Pakhtunkhwa. Foreign students pay in US dollars: about 1,069-1,303 USD per semester for a BS.",
+   "ka": "პეშავარის უნივერსიტეტი ხაიბერ-ფახტუნხვას საჯარო უნივერსიტეტია. უცხოელი სტუდენტები იხდიან აშშ დოლარში: BS-ზე დაახლოებით 1,069-1,303 დოლარი სემესტრში.",
+   "ar": "جامعة بيشاور جامعة حكومية في خيبر بختونخوا. يدفع الطلاب الأجانب بالدولار: نحو 1,069-1,303 دولار لكل فصل لبرنامج BS."
+  },
+  "about": null,
+  "keywords": [
+   "pakistan",
+   "peshawar"
+  ],
+  "sources": [
+   "https://www.uop.edu.pk/uploads/media/1789740616926-i9bx8e-Re-AdBSBrochureFall202615926.pdf",
+   "https://www.uop.edu.pk"
+  ]
+ },
+ {
+  "id": "the-university-of-lahore",
+  "name": {
+   "en": "The University of Lahore",
+   "ka": "ლაჰორის უნივერსიტეტი",
+   "ar": "جامعة لاهور"
+  },
+  "iso": "PK",
+  "city": "Lahore",
+  "lat": 31.395,
+  "lon": 74.215,
+  "type": "private",
+  "website": "https://www.uol.edu.pk",
+  "platform": "UOL International Students Office",
+  "application_url": "https://uol.edu.pk/admissions/international-students/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Business"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "The University of Lahore is a private university in Lahore with an International Students Office. International applicants show English proficiency and pay a 200 USD deposit on admission.",
+   "ka": "ლაჰორის უნივერსიტეტი ლაჰორის კერძო უნივერსიტეტია, საერთაშორისო სტუდენტთა ოფისით. საერთაშორისო აპლიკანტები ადასტურებენ ინგლისურის ცოდნას და მიღებისას იხდიან 200 აშშ დოლარის დეპოზიტს.",
+   "ar": "جامعة لاهور جامعة خاصة في لاهور ولها مكتب للطلاب الدوليين. يثبت المتقدمون الدوليون إتقان الإنجليزية ويدفعون وديعة 200 دولار عند القبول."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "The university says it offers scholarships for international students; amounts are not given.",
+   "ka": "უნივერსიტეტი ამბობს, რომ საერთაშორისო სტუდენტებისთვის სტიპენდიებს სთავაზობს; ოდენობები მითითებული არ არის.",
+   "ar": "تذكر الجامعة أنها تقدم منحًا للطلاب الدوليين؛ ولم تُذكر المبالغ."
+  },
+  "tests": {
+   "en": "International applicants must show English proficiency and meet the mathematics portion of the HEC test; some programmes use a UOL entry test. A 200 USD deposit is requested on admission.",
+   "ka": "საერთაშორისო აპლიკანტებმა უნდა წარადგინონ ინგლისურის ცოდნა და დააკმაყოფილონ HEC ტესტის მათემატიკური ნაწილი; ზოგ პროგრამაზე UOL-ის მისაღები ტესტია. მიღებისას მოითხოვება 200 აშშ დოლარის დეპოზიტი.",
+   "ar": "يجب على المتقدمين الدوليين إثبات إتقان الإنجليزية واجتياز الجزء الرياضي من اختبار HEC؛ وتستخدم بعض البرامج اختبار قبول من UOL. يُطلب إيداع قدره 200 دولار عند القبول."
+  },
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "pakistan",
+   "lahore"
+  ],
+  "sources": [
+   "https://uol.edu.pk/admissions/international-students/",
+   "https://www.uol.edu.pk/Services/Student-Services/International-Students-Advisory/feepolicy"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "riphah-international-university",
+  "name": {
+   "en": "Riphah International University",
+   "ka": "რიფას საერთაშორისო უნივერსიტეტი",
+   "ar": "جامعة ريفاه الدولية"
+  },
+  "iso": "PK",
+  "city": "Islamabad",
+  "lat": 33.65,
+  "lon": 73.02,
+  "type": "private",
+  "website": "https://www.riphah.edu.pk",
+  "platform": "Riphah online admissions portal",
+  "application_url": "https://admissions.riphah.edu.pk/",
+  "intakes": [
+   "Spring",
+   "Fall"
+  ],
+  "deadline": null,
+  "deadline_note": "Admission campaigns: Spring November-February, Fall June-September, Medical July-January. Exact dates and international-student fees were not shown on the pages read.",
+  "tuition_intl": {
+   "amount": 2280,
+   "currency": "USD",
+   "per": "semester",
+   "note": "Pharm-D international tuition per semester (year not stated on the page); plus 500 USD admission fee. MBBS international: about 16,500 USD tuition in year one. Other programmes: see the fee page."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "MDCAT (MBBS)"
+  ],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Health sciences",
+    "Rehabilitation",
+    "Pharmacy",
+    "Computing"
+   ],
+   "ka": [
+    "ჯანდაცვის მეცნიერებები",
+    "რეაბილიტაცია",
+    "ფარმაცია",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "العلوم الصحية",
+    "التأهيل",
+    "الصيدلة",
+    "الحوسبة"
+   ]
+  },
+  "summary": {
+   "en": "Riphah International University is a private university with campuses in Islamabad/Rawalpindi, Lahore and Malakand, known for health sciences. It runs Spring (Nov-Feb), Fall (Jun-Sep) and Medical (Jul-Jan) admission campaigns; fees by programme are listed on its fee page.",
+   "ka": "რიფას საერთაშორისო უნივერსიტეტი კერძო უნივერსიტეტია ისლამაბადის/რავალპინდის, ლაჰორისა და მალაკანდის კამპუსებით, ცნობილია ჯანდაცვის მეცნიერებებით. აქვს გაზაფხულის (ნოემბერი-თებერვალი), შემოდგომის (ივნისი-სექტემბერი) და სამედიცინო (ივლისი-იანვარი) მიღების კამპანიები.",
+   "ar": "جامعة ريفاه الدولية جامعة خاصة لها حرم في إسلام آباد/روالبندي ولاهور ومالاكند، معروفة بالعلوم الصحية. لديها حملات قبول للربيع (نوفمبر-فبراير) والخريف (يونيو-سبتمبر) والطب (يوليو-يناير)."
+  },
+  "about": {
+   "en": "Riphah International University is a private university with campuses in Islamabad/Rawalpindi, Lahore and Malakand, known for health sciences. It runs Spring (Nov-Feb), Fall (Jun-Sep) and Medical (Jul-Jan) admission campaigns; fees by programme are listed on its fee page.",
+   "ka": "რიფას საერთაშორისო უნივერსიტეტი კერძო უნივერსიტეტია ისლამაბადის/რავალპინდის, ლაჰორისა და მალაკანდის კამპუსებით, ცნობილია ჯანდაცვის მეცნიერებებით. აქვს გაზაფხულის (ნოემბერი-თებერვალი), შემოდგომის (ივნისი-სექტემბერი) და სამედიცინო (ივლისი-იანვარი) მიღების კამპანიები.",
+   "ar": "جامعة ريفاه الدولية جامعة خاصة لها حرم في إسلام آباد/روالبندي ولاهور ومالاكند، معروفة بالعلوم الصحية. لديها حملات قبول للربيع (نوفمبر-فبراير) والخريف (يونيو-سبتمبر) والطب (يوليو-يناير)."
+  },
+  "aid_intl": {
+   "en": "Riphah offers financial assistance to deserving students, from partial to full tuition coverage.",
+   "ka": "Riphah-ი კონკრეტულ სტუდენტებს სთავაზობს ფინანსურ დახმარებას, ნაწილობრივიდან სრულ დაფარვამდე.",
+   "ar": "تقدم ريفاه مساعدة مالية للطلاب المستحقين، من تغطية جزئية إلى كاملة للرسوم."
+  },
+  "tests": {
+   "en": "MBBS applicants must pass the MDCAT; foreign qualifications for BS programmes need an IBCC equivalence certificate. The International Foundation Year takes a secondary school certificate.",
+   "ka": "MBBS-ზე აპლიკანტებმა უნდა ჩააბარონ MDCAT; BS პროგრამებზე უცხოურ კვალიფიკაციას სჭირდება IBCC-ის ეკვივალენტობის სერტიფიკატი. საერთაშორისო სამზადისო წელი საშუალო განათლების ატესტატს მოითხოვს.",
+   "ar": "يجب على المتقدمين لـ MBBS اجتياز MDCAT؛ وتحتاج المؤهلات الأجنبية لبرامج BS إلى شهادة معادلة من IBCC. وتتطلب السنة التأسيسية الدولية شهادة الثانوية."
+  },
+  "gpa_note": {
+   "en": "International applicants need at least 50% in Intermediate (pre-medical or pre-engineering) or A Levels for BS Biomedicine; foreign qualifications need an IBCC equivalence certificate.",
+   "ka": "საერთაშორისო აპლიკანტებს BS Biomedicine-ზე სჭირდებათ მინიმუმ 50% Intermediate-ში (პრემედიკალური ან პრეინჟინერიული) ან A Level-ში; უცხოურ კვალიფიკაციას სჭირდება IBCC-ის ეკვივალენტობის სერტიფიკატი.",
+   "ar": "يحتاج المتقدمون الدوليون إلى 50% على الأقل في Intermediate (طبي أو هندسي) أو A Levels لبرنامج BS Biomedicine؛ وتحتاج المؤهلات الأجنبية إلى شهادة معادلة من IBCC."
+  },
+  "requirements": [
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "IBCC equivalence certificate for foreign qualifications",
+     "ka": "IBCC-ის ეკვივალენტობის სერტიფიკატი უცხოური კვალიფიკაციისთვის",
+     "ar": "شهادة معادلة IBCC للمؤهلات الأجنبية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი / დიპლომი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "University entrance test",
+     "ka": "უნივერსიტეტის მისაღები გამოცდა",
+     "ar": "امتحان القبول الجامعي"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "pakistan",
+   "islamabad"
+  ],
+  "sources": [
+   "https://riphah.edu.pk/admissions/fee-structure-by-program/",
+   "https://riphah.edu.pk/programs/detail/?p=164",
+   "https://riphah.edu.pk/programs/detail/?p=197",
+   "https://riphah.edu.pk/programs/detail/?p=204",
+   "https://www.riphah.edu.pk/admissions/",
+   "https://www.riphah.edu.pk/admissions/dates/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "agh-university-of-krakow",
+  "name": {
+   "en": "AGH University of Krakow",
+   "ka": "აგჰ კრაკოვის უნივერსიტეტი",
+   "ar": "جامعة AGH في كراكوف"
+  },
+  "iso": "PL",
+  "city": "Krakow",
+  "lat": 50.065,
+  "lon": 19.923,
+  "type": "public",
+  "website": "https://www.agh.edu.pl",
+  "platform": "AGH e-Rekrutacja",
+  "application_url": "https://rekrutacja.cr.agh.edu.pl/?pg=start",
+  "intakes": [
+   "October"
+  ],
+  "deadline": null,
+  "deadline_note": "Admission for 2026/2027 is closed. Recruitment for 2027/2028 is expected to start in June 2027 (runs June-September); the calendar is due around May 2027.",
+  "tuition_intl": {
+   "amount": 3450,
+   "currency": "EUR",
+   "per": "year",
+   "note": "2026/2027 full-time bachelor fees per semester: Computer Science 3,000; Computer Science for Embedded Systems 2,500; Computer Physics 2,000; Mechatronic Engineering 1,800; Mechanical Engineering and Geology of Natural Resources 1,725; Space Engineering 1,250 EUR. Annual figure shown is Mechanical Engineering (2 semesters)."
+  },
+  "acceptance_rate": null,
+  "students": 30000,
+  "intl_pct": null,
+  "languages": [
+   "Polish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "with-extra",
+   "a-level": null,
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Certificates must qualify for university in the issuing country. A NAWA recognition statement is needed except for EU/EFTA/OECD, IB and European Baccalaureate certificates. IB and EB need no AGH maths exam.",
+   "ka": "ატესტატი უნდა იძლეოდეს უნივერსიტეტში სწავლის უფლებას გამცემ ქვეყანაში. საჭიროა NAWA-ს აღიარების ცნობა, გარდა EU/EFTA/OECD, IB და ევროპული ბაკალავრიატის ატესტატებისა. IB და EB-ს AGH-ის მათემატიკის გამოცდა არ სჭირდება.",
+   "ar": "يجب أن تؤهل الشهادة للجامعة في بلد الإصدار. يلزم بيان اعتراف من NAWA ما عدا شهادات EU/EFTA/OECD وIB والبكالوريا الأوروبية. ولا يحتاج IB وEB إلى امتحان رياضيات AGH."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 5.5,
+  "toefl_min": 72,
+  "duolingo_min": null,
+  "other_tests": [
+   "AGH math exam (required for many foreign certificates)",
+   "Cambridge B2 or equivalent"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "environment"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "AGH is a public technical university in Krakow. International bachelor students pay 1,250-3,000 EUR per semester and apply through e-Rekrutacja; recruitment runs June to September for an October start.",
+   "ka": "AGH კრაკოვის საჯარო ტექნიკური უნივერსიტეტია. საერთაშორისო ბაკალავრები იხდიან 1,250-3,000 ევროს სემესტრში და განაცხადს e-Rekrutacja-ში აგზავნიან; მიღება გრძელდება ივნისიდან სექტემბრამდე, სწავლა ოქტომბერში იწყება.",
+   "ar": "AGH جامعة تقنية حكومية في كراكوف. يدفع طلاب البكالوريوس الدوليون 1,250-3,000 يورو لكل فصل ويقدّمون عبر e-Rekrutacja؛ ويمتد التسجيل من يونيو إلى سبتمبر والدراسة تبدأ في أكتوبر."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Non-EU applicants take the AGH maths exam (at least 30% to continue) unless they hold IB, EB or a Polish matura. English B2 is needed: IELTS 5.5, TOEFL iBT 72, PTE 59 or Cambridge FCE.",
+   "ka": "არა-EU აპლიკანტები აბარებენ AGH-ის მათემატიკის გამოცდას (გასაგრძელებლად მინიმუმ 30%), თუ არ აქვთ IB, EB ან პოლონური მატურა. საჭიროა ინგლისური B2: IELTS 5.5, TOEFL iBT 72, PTE 59 ან Cambridge FCE.",
+   "ar": "يؤدي المتقدمون من خارج الاتحاد الأوروبي امتحان رياضيات AGH (30% على الأقل للمتابعة) ما لم يحملوا IB أو EB أو matura بولندية. يلزم مستوى B2 في الإنجليزية: IELTS 5.5 أو TOEFL iBT 72 أو PTE 59 أو Cambridge FCE."
+  },
+  "gpa_note": {
+   "en": "Ranking is by an admission score of up to 1000 points; at least 300 points are needed for first-year full-time bachelor study. Subjects counted depend on the field (maths, physics, informatics).",
+   "ka": "რეიტინგი ხდება მაქსიმუმ 1000 ქულიანი ბარიერით; სრულდროული ბაკალავრიატის პირველ კურსზე მისაღებად საჭიროა მინიმუმ 300 ქულა. ითვლება სპეციალობის შესაბამისი საგნები (მათემატიკა, ფიზიკა, ინფორმატიკა).",
+   "ar": "يتم الترتيب بمعدل قبول يصل إلى 1000 نقطة؛ ويلزم 300 نقطة على الأقل للسنة الأولى في البكالوريوس بدوام كامل. وتُحتسب المواد حسب التخصص (رياضيات، فيزياء، معلوماتية)."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი / დიპლომი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნები (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport",
+     "ka": "მოქმედი პასპორტი",
+     "ar": "جواز سفر ساري"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language proficiency certificate",
+     "ka": "ინგლისური ენის ცოდნის სერტიფიკატი",
+     "ar": "شهادة إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "IBCC equivalence certificate for foreign qualifications",
+     "ka": "IBCC-ის ეკვივალენტობის სერტიფიკატი უცხოური კვალიფიკაციისთვის",
+     "ar": "شهادة معادلة IBCC للمؤهلات الأجنبية"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size ID photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application or admission processing fee",
+     "ka": "სააპლიკაციო / მიღების საფასური",
+     "ar": "رسوم التقديم أو معالجة القبول"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "poland",
+   "krakow",
+   "engineering",
+   "technical"
+  ],
+  "sources": [
+   "https://www.international.agh.edu.pl/en/studies/fees",
+   "https://www.international.agh.edu.pl/en/studies/education-offer-bachelor-studies",
+   "https://www.international.agh.edu.pl/en/studies/recruitment/deadlines-bachelor-studies"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

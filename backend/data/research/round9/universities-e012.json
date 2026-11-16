@@ -1,0 +1,272 @@
+[
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Non-Jordanian applicants submit the original General Secondary Certificate transcript or its equivalent, certified by the Jordanian Ministry of Education. Graduates of international schools (IG, IB, SAT2) can apply once the certificate has Ministry equivalency and states the school average.",
+   "ka": "არაიორდანელმა აპლიკანტებმა უნდა წარადგინონ საშუალო განათლების სერტიფიკატის ორიგინალი ან მისი ეკვივალენტი, დამოწმებული იორდანიის განათლების სამინისტროს მიერ. საერთაშორისო სკოლების კურსდამთავრებულებს (IG, IB, SAT2) შეუძლიათ განაცხადი, თუ სერტიფიკატს აქვს სამინისტროს ეკვივალენტობა და მითითებულია სკოლის საშუალო ქულა.",
+   "ar": "يقدم غير الأردنيين كشف علامات شهادة الثانوية العامة الأصلي أو ما يعادله مصدقا من وزارة التربية والتعليم الأردنية. ويمكن لخريجي المدارس الدولية (IG وIB وSAT2) التقدم بعد معادلة الشهادة من الوزارة وبيان معدل المدرسة فيها."
+  },
+  "tests": null,
+  "gpa_note": {
+   "en": "Minimum average listed on the FAQ: 75% for Computing and Business, 80% for Engineering. Non-Jordanians are admitted on the competitive average set for each major each year.",
+   "ka": "FAQ-ში მითითებული მინიმალური საშუალო: 75% კომპიუტერინგსა და ბიზნესში, 80% ინჟინერიაში. არაიორდანელები მიიღებიან ყოველწლიურად დადგენილი საკონკურსო საშუალოს მიხედვით.",
+   "ar": "الحد الأدنى للمعدل في الأسئلة الشائعة: 75% للحاسوب والأعمال و80% للهندسة. يقبل غير الأردنيين وفق المعدل التنافسي المحدد لكل تخصص كل عام."
+  },
+  "aid_intl": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "application_url": "https://portal.psut.edu.jo/NewApplic",
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის აკადემიური ჩანაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-style photos",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية"
+    }
+   }
+  ],
+  "platform": "PSUT online application portal",
+  "verified_at": "2026-11-16",
+  "id": "princess-sumaya-university-for-technology",
+  "name": {
+   "en": "Princess Sumaya University for Technology",
+   "ka": "პრინცესა სუმაიას ტექნოლოგიების უნივერსიტეტი",
+   "ar": "جامعة الأميرة سمية للتكنولوجيا"
+  },
+  "iso": "JO",
+  "city": "Amman",
+  "lat": 32.021,
+  "lon": 35.875,
+  "type": "private",
+  "website": "https://www.psut.edu.jo",
+  "intakes": [
+   "September",
+   "February"
+  ],
+  "languages": [
+   "English",
+   "Arabic"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "computer-science",
+   "engineering",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Computer science",
+    "Engineering",
+    "Information technology",
+    "Business"
+   ],
+   "ka": [
+    "კომპიუტერული მეცნიერება",
+    "ინჟინერია",
+    "ინფორმაციული ტექნოლოგიები",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "علوم الحاسوب",
+    "الهندسة",
+    "تكنولوجيا المعلومات",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "PSUT is a private technology-focused university in Amman. Non-Jordanian applicants apply online and submit a certified secondary certificate.",
+   "ka": "PSUT ამანის კერძო, ტექნოლოგიებზე ორიენტირებული უნივერსიტეტია. არაიორდანელი აპლიკანტები განაცხადს ონლაინ აგზავნიან და დამოწმებულ საშუალო განათლების სერტიფიკატს წარადგენენ.",
+   "ar": "جامعة الأميرة سمية للتكنولوجيا جامعة خاصة متخصصة في التكنولوجيا في عمّان. يقدم غير الأردنيين طلبهم إلكترونيا مع شهادة ثانوية مصدقة."
+  },
+  "about": {
+   "en": "Princess Sumaya University for Technology is a private university in Amman focused on technology, engineering, computing and business. International students apply through the online portal. Non-Jordanians must submit the original secondary certificate transcript certified by the Jordanian Ministry of Education, a certified passport copy and two photos. Tuition is calculated in the online application by programme and credit hours; the fee schedule is not published.",
+   "ka": "პრინცესა სუმაიას ტექნოლოგიების უნივერსიტეტი ამანის კერძო უნივერსიტეტია, რომელიც ტექნოლოგიებზე, ინჟინერიაზე, კომპიუტერულ მეცნიერებასა და ბიზნესზეა ორიენტირებული. უცხოელები განაცხადს ონლაინ პორტალით აგზავნიან. საჭიროა იორდანიის განათლების სამინისტროს მიერ დამოწმებული სერტიფიკატის ორიგინალი, პასპორტის დამოწმებული ასლი და ორი ფოტო. საფასური ონლაინ განაცხადში გამოითვლება პროგრამისა და კრედიტების მიხედვით.",
+   "ar": "جامعة الأميرة سمية للتكنولوجيا جامعة خاصة في عمّان تركز على التكنولوجيا والهندسة والحاسوب والأعمال. يقدم الطلاب الدوليون طلبهم عبر البوابة الإلكترونية، ويحتاج غير الأردنيين إلى كشف علامات الثانوية الأصلي مصدقا من وزارة التربية الأردنية ونسخة مصدقة من جواز السفر وصورتين. تحسب الرسوم في الطلب الإلكتروني حسب التخصص والساعات المعتمدة."
+  },
+  "keywords": [
+   "jordan",
+   "amman",
+   "technology",
+   "private",
+   "computer science"
+  ],
+  "sources": [
+   "https://psut.edu.jo/en/required-documents-payment-of-fees",
+   "https://psut.edu.jo/en/admission-platform",
+   "https://psut.edu.jo/en/payment-of-fees",
+   "https://psut.edu.jo/en/faqs"
+  ]
+ },
+ {
+  "id": "mutah-university",
+  "name": {
+   "en": "Mutah University",
+   "ka": "მუთას უნივერსიტეტი",
+   "ar": "جامعة مؤتة"
+  },
+  "iso": "JO",
+  "city": "Mu'tah",
+  "lat": 31.092,
+  "lon": 35.696,
+  "type": "public",
+  "website": "https://www.mutah.edu.jo",
+  "platform": "Unified admission portal for international students (Ministry of Higher Education, Study in Jordan)",
+  "application_url": "https://www.mutah.edu.jo/ar/admission/Pages/nternational_Stu.aspx",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": {
+   "en": "2026/27 first-semester applications for non-Jordanians opened 1 June 2026 via the Ministry's unified portal; no closing date is published on the university page.",
+   "ka": "2026/27 პირველი სემესტრის განაცხადები არაიორდანელებისთვის გაიხსნა 2026 წლის 1 ივნისს სამინისტროს ერთიანი პორტალით; დახურვის თარიღი უნივერსიტეტის გვერდზე არ არის გამოქვეყნებული.",
+   "ar": "فُتح التقديم للطلبة غير الأردنيين للفصل الأول 2026/2027 في 1-6-2026 عبر البوابة الموحدة للوزارة، ولا يُنشر موعد إغلاق في صفحة الجامعة."
+  },
+  "tuition_intl": {
+   "amount": 70,
+   "currency": "USD",
+   "per": "credit hour",
+   "note": "International bachelor programme: USD 70 per credit hour for arts, sharia, law, social sciences and business; USD 100 for science, engineering, agriculture and nursing; USD 150 pharmacy; USD 250 medicine. Plus a one-time USD 390 new-student fee and USD 330 per semester."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "International certificates are evaluated by the Jordanian Ministry of Higher Education; a certified passport copy is required for non-Jordanians.",
+   "ka": "საერთაშორისო სერტიფიკატებს აფასებს იორდანიის უმაღლესი განათლების სამინისტრო; არაიორდანელებს სჭირდებათ პასპორტის დამოწმებული ასლი.",
+   "ar": "تقيّم وزارة التعليم العالي الأردنية الشهادات الدولية، ويشترط لغير الأردنيين نسخة مصدقة عن جواز السفر."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Science",
+    "Law"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "მეცნიერება",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "العلوم",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Karak, Jordan with an international bachelor programme for non-Jordanians. Fees run from USD 70 to 250 per credit hour.",
+   "ka": "სახელმწიფო უნივერსიტეტი ქარაქში, იორდანია, არაიორდანელებისთვის საერთაშორისო საბაკალავრო პროგრამით. საფასური 70-დან 250 აშშ დოლარამდეა კრედიტზე.",
+   "ar": "جامعة حكومية في الكرك بالأردن لديها برنامج بكالوريوس دولي لغير الأردنيين. تتراوح الرسوم بين 70 و250 دولارا للساعة المعتمدة."
+  },
+  "about": {
+   "en": "Mutah University is a public university in southern Jordan. Non-Jordanians apply online through the Ministry of Higher Education's unified portal for the International Bachelor Programme. Conditions per major are shown on the portal. Fees are in US dollars per credit hour, with a one-time new-student fee and a semester fee. Teaching is mainly in Arabic.",
+   "ka": "მუთას უნივერსიტეტი სამხრეთ იორდანიის სახელმწიფო უნივერსიტეტია. არაიორდანელები განაცხადს ონლაინ აგზავნიან უმაღლესი განათლების სამინისტროს ერთიანი პორტალით საერთაშორისო საბაკალავრო პროგრამაზე. საფასური აშშ დოლარშია კრედიტზე, პლუს ერთჯერადი და სემესტრული საფასური. სწავლება ძირითადად არაბულია.",
+   "ar": "جامعة مؤتة جامعة حكومية في جنوب الأردن. يقدم غير الأردنيين طلبهم إلكترونيا عبر البوابة الموحدة لوزارة التعليم العالي لبرنامج البكالوريوس الدولي، وتظهر شروط كل تخصص في البوابة. الرسوم بالدولار للساعة المعتمدة مع رسوم مستجدين لمرة واحدة ورسوم فصلية. التدريس بالعربية غالبا."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages reviewed.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة في الصفحات التي تمت مراجعتها."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة عن جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalency of the school certificate (Ministry of Education / Higher Education)",
+     "ka": "სკოლის სერტიფიკატის ეკვივალენტობა (სამინისტროს მიერ)",
+     "ar": "معادلة الشهادة الثانوية من الوزارة"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "One-time new-student fee (USD 390, paid on acceptance)",
+     "ka": "ახალი სტუდენტის ერთჯერადი საფასური (390 აშშ დოლარი, ირიცხება მიღებისას)",
+     "ar": "رسوم المستجدين لمرة واحدة (390 دولارا تدفع عند القبول)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "jordan",
+   "mutah",
+   "karak"
+  ],
+  "sources": [
+   "https://www.mutah.edu.jo/",
+   "http://www.studyinjordan.jo/Ar/",
+   "https://www.mutah.edu.jo/Pages/University-fees.aspx",
+   "https://www.mutah.edu.jo/ar/admission/Pages/nternational_Stu.aspx",
+   "https://www.mutah.edu.jo/Documents/Fess/1.1.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

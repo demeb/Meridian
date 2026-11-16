@@ -35,7 +35,7 @@ def strip_empty(value):
 def main():
     live = json.load(open(LIVE, encoding="utf-8"))
     seen = {key(p["name"].get("en")) for p in live} | {p["id"] for p in live}
-    for path in sorted(glob.glob(os.path.join(R8, "*.json"))):
+    for path in sorted(glob.glob(os.path.join(R8, "*.json"))) + sorted(glob.glob(os.path.join(R8, "..", "round9", "internships-*.json"))):
         name = os.path.basename(path)
         if not name.startswith(("internships-", "exchanges-", "scholarships-")):
             continue

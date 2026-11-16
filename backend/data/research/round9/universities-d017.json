@@ -1,0 +1,921 @@
+[
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": 450,
+  "duolingo_min": null,
+  "other_tests": [
+   "Online interview",
+   "Indonesian language certificate (preferred)"
+  ],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [
+   {
+    "name": "UNS Scholarship for international students",
+    "url": "https://uns.ac.id/en/admission/uns-scholarship/",
+    "coverage": "full"
+   }
+  ],
+  "qualifications": null,
+  "qualifications_note": null,
+  "tests": {
+   "en": "The UNS Scholarship page asks for an English certificate: TOEFL 450 for science programmes or 500 for social science, or equivalent. An online interview is held; an Indonesian language certificate is preferred.",
+   "ka": "UNS-ის სტიპენდიის გვერდი მოითხოვს ინგლისურის სერტიფიკატს: TOEFL 450 საბუნებისმეტყველო მიმართულებებისთვის ან 500 სოციალური მეცნიერებებისთვის (ან ექვივალენტი). ტარდება ონლაინ გასაუბრება; სასურველია ინდონეზიური ენის სერტიფიკატი.",
+   "ar": "تطلب صفحة منحة UNS شهادة في اللغة الإنجليزية: TOEFL بدرجة 450 للتخصصات العلمية أو 500 للعلوم الاجتماعية أو ما يعادلها. تُجرى مقابلة عبر الإنترنت ويُفضَّل تقديم شهادة في اللغة الإندونيسية."
+  },
+  "gpa_note": null,
+  "aid_intl": {
+   "en": "The UNS Scholarship for international students offers a full award (tuition waiver, IDR 1,500,000 monthly allowance for bachelor students, Indonesian course, health insurance) or a partial award (tuition waiver, course, insurance). Bachelor applicants must be under 24.",
+   "ka": "UNS-ის სტიპენდია უცხოელი სტუდენტებისთვის მოიცავს სრულ (სწავლის საფასურის გათავისუფლება, ბაკალავრებისთვის თვიური დახმარება 1 500 000 IDR, ინდონეზიური ენის კურსი, დაზღვევა) ან ნაწილობრივ სტიპენდიას. ბაკალავრის აპლიკანტი უნდა იყოს 24 წელზე უმცროსი.",
+   "ar": "تقدم منحة UNS للطلاب الدوليين منحة كاملة (إعفاء من الرسوم، ومخصص شهري 1,500,000 روبية لطلاب البكالوريوس، ودورة لغة إندونيسية، وتأمين صحي) أو منحة جزئية. يجب أن يكون المتقدم للبكالوريوس دون 24 عامًا."
+  },
+  "deadline": null,
+  "deadline_note": "The UNS Scholarship page for the August 2026 intake shows registration from 1 July to 30 September 2025 with results on 17 November 2025; confirm current dates with UNS.",
+  "tuition_intl": null,
+  "application_url": "https://spmb.uns.ac.id/international/default/login",
+  "requirements": [
+   {
+    "key": "photo",
+    "label": {
+     "en": "Recent formal photo (JPG/PNG, max 300 KB)",
+     "ka": "ახალი ფორმალური ფოტო (JPG/PNG, მაქს. 300 KB)",
+     "ar": "صورة رسمية حديثة (JPG/PNG بحد أقصى 300 KB)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport valid for at least 18 months",
+     "ka": "პასპორტი, მოქმედი მინიმუმ 18 თვით",
+     "ar": "جواز سفر ساري لمدة 18 شهرًا على الأقل"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Graduation certificate and academic transcript (English or Indonesian)",
+     "ka": "დამთავრების ატესტატი და აკადემიური ტრანსკრიპტი (ინგლისურად ან ინდონეზიურად)",
+     "ar": "شهادة التخرج وكشف الدرجات (بالإنجليزية أو الإندونيسية)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Recent health certificate",
+     "ka": "ცნობა ჯანმრთელობის შესახებ",
+     "ar": "شهادة صحية حديثة"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV (UNS template)",
+     "ka": "CV (UNS-ის შაბლონი)",
+     "ar": "سيرة ذاتية (نموذج UNS)"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Financial statement (UNS template)",
+     "ka": "ფინანსური განცხადება (UNS-ის შაბლონი)",
+     "ar": "بيان مالي (نموذج UNS)"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Personal statement (UNS template)",
+     "ka": "პირადი განცხადება (UNS-ის შაბლონი)",
+     "ar": "بيان شخصي (نموذج UNS)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency certificate",
+     "ka": "ინგლისური ენის სერტიფიკატი",
+     "ar": "شهادة إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Online interview",
+     "ka": "ონლაინ გასაუბრება",
+     "ar": "مقابلة عبر الإنترنت"
+    }
+   }
+  ],
+  "platform": "Direct (UNS international admission portal)",
+  "verified_at": "2026-11-16",
+  "id": "universitas-sebelas-maret-uns",
+  "name": {
+   "en": "Universitas Sebelas Maret (UNS)",
+   "ka": "სებელას მარეტის უნივერსიტეტი (UNS)",
+   "ar": "جامعة سيبيلاس مارت (UNS)"
+  },
+  "iso": "ID",
+  "city": "Surakarta",
+  "lat": -7.56,
+  "lon": 110.857,
+  "type": "public",
+  "website": "https://uns.ac.id",
+  "languages": [
+   "Indonesian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "intakes": [
+   "August"
+  ],
+  "fields": [
+   "education",
+   "social-sciences",
+   "engineering",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Social sciences",
+    "Engineering"
+   ],
+   "ka": [
+    "განათლება",
+    "სოციალური მეცნიერებები",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "التعليم",
+    "العلوم الاجتماعية",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "UNS is a public university in Surakarta, Central Java. Admissions run through the spmb.uns.ac.id portal and the International Office (io.uns.ac.id).",
+   "ka": "UNS ცენტრალურ იავაზე, სურაკარტაში მდებარე საჯარო უნივერსიტეტია. მიღება მიმდინარეობს spmb.uns.ac.id პორტალითა და საერთაშორისო ოფისით (io.uns.ac.id).",
+   "ar": "UNS جامعة حكومية في سوراكارتا بجاوة الوسطى. يتم القبول عبر بوابة spmb.uns.ac.id ومكتب الشؤون الدولية (io.uns.ac.id)."
+  },
+  "about": null,
+  "keywords": [
+   "indonesia",
+   "surakarta",
+   "solo"
+  ],
+  "sources": [
+   "https://uns.ac.id/en/",
+   "https://uns.ac.id/en/admissions/guide-for-applicants/",
+   "https://uns.ac.id/en/admission/uns-scholarship/"
+  ]
+ },
+ {
+  "id": "universitas-sumatera-utara",
+  "name": {
+   "en": "Universitas Sumatera Utara",
+   "ka": "ჩრდილოეთ სუმატრის უნივერსიტეტი",
+   "ar": "جامعة سومطرة الشمالية"
+  },
+  "iso": "ID",
+  "city": "Medan",
+  "lat": 3.56,
+  "lon": 98.656,
+  "type": "public",
+  "website": "https://www.usu.ac.id",
+  "platform": null,
+  "application_url": "https://isa.usu.ac.id/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "For the 2026 intake of the School of Medicine, Dentistry and Pharmacy, document submission was 15-17 July 2026, website registration 22-25 July, exam 18 July and results 20 July; other programmes may differ.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Indonesian"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Medan, Indonesia, with 259 study programmes in 17 faculties and schools. Undergraduate fees are a single tuition fee (UKT) set by family income; no international amounts are published on the pages read.",
+   "ka": "ინდონეზიის ქალაქ მედანის საჯარო უნივერსიტეტი, 17 ფაკულტეტსა და სკოლაში 259 სასწავლო პროგრამით. ბაკალავრის საფასური არის ოჯახის შემოსავლის მიხედვით განსაზღვრული ერთიანი გადასახადი (UKT); საერთაშორისო თანხები გვერდებზე მითითებული არ არის.",
+   "ar": "جامعة عامة في ميدان بإندونيسيا تضم 259 برنامجاً دراسياً في 17 كلية ومدرسة. رسوم البكالوريوس رسم موحد (UKT) يُحدَّد حسب دخل الأسرة، ولا توجد مبالغ للطلاب الدوليين في الصفحات المقروءة."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "indonesia",
+   "medan",
+   "public"
+  ],
+  "sources": [
+   "https://isa.usu.ac.id/",
+   "https://www.usu.ac.id/en"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "telkom-university",
+  "name": {
+   "en": "Telkom University",
+   "ka": "ტელკომის უნივერსიტეტი",
+   "ar": "جامعة تلكوم"
+  },
+  "iso": "ID",
+  "city": "Bandung",
+  "lat": -6.974,
+  "lon": 107.631,
+  "type": "private",
+  "website": "https://telkomuniversity.ac.id",
+  "platform": "Direct (Telkom University International Office portal)",
+  "application_url": "https://io.telkomuniversity.ac.id/admission/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "computer-science",
+   "engineering",
+   "business"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Private university in Bandung, Indonesia, focused on technology and business.",
+   "ka": "კერძო უნივერსიტეტი ბანდუნგში, ინდონეზიაში, ტექნოლოგიებისა და ბიზნესის მიმართულებით.",
+   "ar": "جامعة خاصة في باندونغ بإندونيسيا تركز على التكنولوجيا والأعمال."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "id",
+   "bandung"
+  ],
+  "sources": [
+   "https://telkomuniversity.ac.id",
+   "https://io.telkomuniversity.ac.id/?p=2218"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universitas-muhammadiyah-yogyakarta-umy",
+  "name": {
+   "en": "Universitas Muhammadiyah Yogyakarta (UMY)",
+   "ka": "მუჰამადიას იოგიაკარტას უნივერსიტეტი (UMY)",
+   "ar": "جامعة محمدية يوجياكارتا (UMY)"
+  },
+  "iso": "ID",
+  "city": "Yogyakarta",
+  "lat": -7.81,
+  "lon": 110.32,
+  "type": "private",
+  "website": "https://www.umy.ac.id",
+  "platform": null,
+  "application_url": "https://internationaladmissions.umy.ac.id/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Indonesian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "business",
+   "medicine-health",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business",
+    "Health sciences",
+    "Social sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი",
+    "ჯანდაცვის მეცნიერებები",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال",
+    "العلوم الصحية",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Private Islamic university in Yogyakarta, Indonesia. The website blocks automated reading, so no admission data was verified.",
+   "ka": "კერძო ისლამური უნივერსიტეტი იოგიაკარტაში, ინდონეზია. საიტი ავტომატურ წაკითხვას ბლოკავს, ამიტომ მიღების მონაცემები ვერ დადასტურდა.",
+   "ar": "جامعة إسلامية خاصة في يوجياكارتا بإندونيسيا. موقعها يمنع القراءة الآلية لذلك لم يتم التحقق من بيانات القبول."
+  },
+  "about": {
+   "en": "UMY is a private university run by the Muhammadiyah organisation in Yogyakarta, Indonesia. Its website returned an access error and no English admission pages could be reached, so tuition, deadlines and entry rules for international bachelor applicants are not verified here. Check the university's international office directly.",
+   "ka": "UMY არის კერძო უნივერსიტეტი იოგიაკარტაში, რომელსაც მუჰამადიას ორგანიზაცია მართავს. საიტზე წვდომა შეუძლებელი იყო, ამიტომ საფასური და ვადები არ დადასტურდა. მიმართეთ უნივერსიტეტის საერთაშორისო ოფისს.",
+   "ar": "جامعة خاصة تديرها منظمة المحمدية في يوجياكارتا. تعذر الوصول إلى موقعها لذلك لم يتم التحقق من الرسوم والمواعيد. يرجى مراجعة مكتب الشؤون الدولية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [
+   {
+    "name": "UMY full-time study scholarship for international students",
+    "url": "https://internationaladmissions.umy.ac.id/foreign-student/fulltime/scholarship",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "indonesia",
+   "yogyakarta",
+   "muhammadiyah",
+   "private"
+  ],
+  "sources": [
+   "https://internationaladmissions.umy.ac.id/foreign-student/fulltime/scholarship"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universitas-pendidikan-indonesia",
+  "name": {
+   "en": "Universitas Pendidikan Indonesia",
+   "ka": "ინდონეზიის პედაგოგიური უნივერსიტეტი",
+   "ar": "جامعة التربية الإندونيسية"
+  },
+  "iso": "ID",
+  "city": "Bandung",
+  "lat": -6.86,
+  "lon": 107.59,
+  "type": "public",
+  "website": "https://www.upi.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Indonesian"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "education",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Teacher training",
+    "Languages"
+   ],
+   "ka": [
+    "განათლება",
+    "მასწავლებელთა მომზადება",
+    "ენები"
+   ],
+   "ar": [
+    "التربية",
+    "إعداد المعلمين",
+    "اللغات"
+   ]
+  },
+  "summary": {
+   "en": "UPI is a public university in Bandung, Indonesia, known for teacher education. Its website blocked automated reading, so no admissions facts were verified.",
+   "ka": "UPI სახელმწიფო უნივერსიტეტია ბანდუნგში, ინდონეზია, ცნობილია მასწავლებლების მომზადებით. ვებსაიტი ავტომატურ წაკითხვას ბლოკავს, ამიტომ მისაღები პირობები ვერ გადამოწმდა.",
+   "ar": "UPI جامعة حكومية في باندونغ بإندونيسيا معروفة بإعداد المعلمين. موقعها يمنع القراءة الآلية لذلك لم يتم التحقق من شروط القبول."
+  },
+  "about": {
+   "en": "Universitas Pendidikan Indonesia is a public university in Bandung, founded as a teacher-training institution. Teaching is mainly in Indonesian. Admission rules, fees and deadlines for international applicants could not be read because the official site returned an access error.",
+   "ka": "ინდონეზიის პედაგოგიური უნივერსიტეტი სახელმწიფო უნივერსიტეტია ბანდუნგში, დაარსდა როგორც მასწავლებელთა მომზადების დაწესებულება. სწავლება ძირითადად ინდონეზიურ ენაზეა. უცხოელთა მისაღები წესები, საფასური და ვადები ვერ წაიკითხა, რადგან ოფიციალურმა საიტმა წვდომა შეზღუდა.",
+   "ar": "جامعة التربية الإندونيسية جامعة حكومية في باندونغ نشأت كمؤسسة لإعداد المعلمين. التدريس غالبا بالإندونيسية. لم يمكن قراءة شروط القبول والرسوم والمواعيد للدوليين لأن الموقع الرسمي رفض الوصول."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة للطلاب الدوليين في البكالوريوس منشورة."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "indonesia",
+   "bandung",
+   "education",
+   "teacher training"
+  ],
+  "sources": [
+   "https://www.upi.edu"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universitas-trisakti-usakti",
+  "name": {
+   "en": "Universitas Trisakti (USAKTI)",
+   "ka": "ტრისაკტის უნივერსიტეტი (USAKTI)",
+   "ar": "جامعة تريساكتي (USAKTI)"
+  },
+  "iso": "ID",
+  "city": "Jakarta Barat",
+  "lat": -6.168,
+  "lon": 106.791,
+  "type": "private",
+  "website": "https://www.trisakti.ac.id",
+  "platform": "Direct (SPMB portal; International Office KUIKK)",
+  "application_url": "https://spmb.trisakti.ac.id",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Indonesian"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "business",
+   "law",
+   "medicine-health",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Economics",
+    "Law",
+    "Medicine",
+    "Architecture"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ეკონომიკა",
+    "სამართალი",
+    "მედიცინა",
+    "არქიტექტურა"
+   ],
+   "ar": [
+    "الهندسة",
+    "الاقتصاد",
+    "القانون",
+    "الطب",
+    "العمارة"
+   ]
+  },
+  "summary": {
+   "en": "Trisakti is a private university in Jakarta, Indonesia. Its website could not be reached, so no admissions facts were verified.",
+   "ka": "ტრისაკტი კერძო უნივერსიტეტია ჯაკარტაში, ინდონეზია. საიტი მიუწვდომელი იყო, ამიტომ მისაღები პირობები ვერ გადამოწმდა.",
+   "ar": "تريساكتي جامعة خاصة في جاكرتا بإندونيسيا. تعذر الوصول إلى موقعها لذلك لم يتم التحقق من شروط القبول."
+  },
+  "about": {
+   "en": "Universitas Trisakti is a private university in West Jakarta with faculties including engineering, economics, law and medicine. Teaching is mainly in Indonesian. The official site could not be reached, so admission rules, fees and deadlines for international applicants are not verified.",
+   "ka": "ტრისაკტის უნივერსიტეტი კერძო უნივერსიტეტია დასავლეთ ჯაკარტაში, ინჟინერიის, ეკონომიკის, სამართლისა და მედიცინის ფაკულტეტებით. სწავლება ძირითადად ინდონეზიურ ენაზეა. ოფიციალური საიტი მიუწვდომელი იყო, ამიტომ უცხოელთა წესები, საფასური და ვადები გადამოწმებული არ არის.",
+   "ar": "جامعة تريساكتي جامعة خاصة في غرب جاكرتا فيها كليات للهندسة والاقتصاد والقانون والطب. التدريس غالبا بالإندونيسية. تعذر الوصول إلى الموقع الرسمي فلم يتم التحقق من الشروط والرسوم والمواعيد."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة للطلاب الدوليين في البكالوريوس منشورة."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "photo",
+    "label": {
+     "en": "Official photo ID",
+     "ka": "ოფიციალური ფოტო",
+     "ar": "صورة هوية رسمية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport information page (valid at least 18 months for a 1-year permit, 30 months for a 2-year permit)",
+     "ka": "პასპორტის პირადი მონაცემების გვერდი (მოქმედი მინიმუმ 18 თვით 1-წლიანი ნებართვისთვის, 30 თვით 2-წლიანისთვის)",
+     "ar": "صفحة بيانات جواز السفر (سارية 18 شهرًا على الأقل لتصريح سنة، و30 شهرًا لتصريح سنتين)"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Financial statement (university template)",
+     "ka": "ფინანსური განცხადება (უნივერსიტეტის შაბლონი)",
+     "ar": "بيان مالي (نموذج الجامعة)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Statement letter on not working or taking part in political activity, and health certificate issued within the last two months",
+     "ka": "განცხადება მუშაობისა და პოლიტიკურ საქმიანობაში მონაწილეობის შესახებ და ბოლო ორი თვის ჯანმრთელობის ცნობა",
+     "ar": "خطاب إقرار بعدم العمل أو المشاركة في أنشطة سياسية وشهادة صحية صادرة خلال الشهرين الأخيرين"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Latest diploma",
+     "ka": "ბოლო დიპლომი/ატესტატი",
+     "ar": "آخر شهادة دراسية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Letter of Acceptance from the university or faculty",
+     "ka": "უნივერსიტეტის ან ფაკულტეტის მიღების წერილი",
+     "ar": "خطاب القبول من الجامعة أو الكلية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "indonesia",
+   "jakarta",
+   "private"
+  ],
+  "sources": [
+   "https://sis.trisakti.ac.id/documents/template/Foreign_student_guidance.pdf",
+   "https://kuikk.trisakti.ac.id"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "the-hebrew-university-of-jerusalem",
+  "name": {
+   "en": "The Hebrew University of Jerusalem",
+   "ka": "ივრითის უნივერსიტეტი იერუსალიმში",
+   "ar": "الجامعة العبرية في القدس"
+  },
+  "iso": "IL",
+  "city": "Jerusalem",
+  "lat": 31.776,
+  "lon": 35.241,
+  "type": "public",
+  "website": "https://www.huji.ac.il",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 24000,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "jerusalem",
+   "il"
+  ],
+  "sources": [],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "ben-gurion-university-of-the-negev",
+  "name": {
+   "en": "Ben-Gurion University of The Negev",
+   "ka": "ბენ-გურიონის უნივერსიტეტი ნეგევში",
+   "ar": "جامعة بن غوريون في النقب"
+  },
+  "iso": "IL",
+  "city": "Be'er Sheva",
+  "lat": 31.262,
+  "lon": 34.802,
+  "type": "public",
+  "website": "https://www.bgu.ac.il",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Hebrew",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "Public research university in Be'er Sheva. Official international undergraduate pages could not be read this round.",
+   "ka": "საჯარო კვლევითი უნივერსიტეტი ბეერ-შევაში. საერთაშორისო საბაკალავრო გვერდები ვერ წაიკითხა.",
+   "ar": "جامعة بحثية حكومية في بئر السبع. تعذرت قراءة صفحات البكالوريوس الدولية."
+  },
+  "about": {
+   "en": "Ben-Gurion University of the Negev is a public research university in Be'er Sheva. Most bachelor teaching is in Hebrew. Its site blocks automated reading, and no official international bachelor fee or deadline could be confirmed.",
+   "ka": "ნეგევის ბენ-გურიონის უნივერსიტეტი საჯარო კვლევითი უნივერსიტეტია ბეერ-შევაში. საბაკალავრო სწავლება უმეტესად ებრაულადაა. საიტი ავტომატურ წაკითხვას ბლოკავს და საფასური ან ვადა ვერ დადასტურდა.",
+   "ar": "جامعة بن غوريون في النقب جامعة بحثية حكومية في بئر السبع. معظم التدريس في البكالوريوس بالعبرية. يمنع موقعها القراءة الآلية ولم يتأكد أي رسم أو موعد رسمي."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": null,
+  "sources": [
+   "https://www.bgu.ac.il/en/study/content-pages/tuition/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "indian-institute-of-technology-roorkee-iitr",
+  "name": {
+   "en": "Indian Institute of Technology Roorkee (IITR)",
+   "ka": "ინდოეთის ტექნოლოგიური ინსტიტუტი რურკი",
+   "ar": "المعهد الهندي للتكنولوجيا في رورك"
+  },
+  "iso": "IN",
+  "city": "Roorkee",
+  "lat": 29.865,
+  "lon": 77.896,
+  "type": "public",
+  "website": "https://www.iitr.ac.in",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 9000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "mathematics"
+  ],
+  "strengths": {
+   "en": [
+    "Civil Engineering",
+    "Computer Science",
+    "Electrical Engineering",
+    "Mechanical Engineering"
+   ],
+   "ka": [
+    "სამოქალაქო ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "ელექტროინჟინერია",
+    "მექანიკური ინჟინერია"
+   ],
+   "ar": [
+    "الهندسة المدنية",
+    "علوم الحاسوب",
+    "الهندسة الكهربائية",
+    "الهندسة الميكانيكية"
+   ]
+  },
+  "summary": {
+   "en": "One of India's oldest and top engineering institutes, in Uttarakhand. Teaching is in English.",
+   "ka": "ინდოეთის ერთ-ერთი უძველესი და წამყვანი საინჟინრო ინსტიტუტი, უტარახანდში. სწავლება ინგლისურადაა.",
+   "ar": "من أقدم وأبرز المعاهد الهندسية في الهند، في ولاية أوتاراخاند، والتدريس بالإنجليزية."
+  },
+  "about": {
+   "en": "IIT Roorkee is a public institute of national importance founded in 1847. Its BTech programmes are taught in English.",
+   "ka": "IIT რურკი ეროვნული მნიშვნელობის საჯარო ინსტიტუტია, დაარსებული 1847 წელს. BTech პროგრამები ინგლისურადაა.",
+   "ar": "المعهد الهندي للتكنولوجيا في رورك معهد حكومي ذو أهمية وطنية تأسس عام 1847. برامج BTech بالإنجليزية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.iitr.ac.in"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "indian-institute-of-technology-guwahati-iitg",
+  "name": {
+   "en": "Indian Institute of Technology Guwahati (IITG)",
+   "ka": "ინდოეთის ტექნოლოგიური ინსტიტუტი გუვაჰატი",
+   "ar": "المعهد الهندي للتكنولوجيا في غواهاتي"
+  },
+  "iso": "IN",
+  "city": "Guwahati",
+  "lat": 26.192,
+  "lon": 91.692,
+  "type": "public",
+  "website": "https://www.iitg.ac.in",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 300000,
+   "currency": "INR",
+   "per": "semester",
+   "note": "B.Tech/B.Des fee for foreign nationals from non-SAARC countries; SAARC countries pay INR 150,000 per semester. Hostel and other fees are extra."
+  },
+  "acceptance_rate": null,
+  "students": 7000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Computer Science",
+    "Electronics",
+    "Chemical Engineering",
+    "Design"
+   ],
+   "ka": [
+    "კომპიუტერული მეცნიერება",
+    "ელექტრონიკა",
+    "ქიმიური ინჟინერია",
+    "დიზაინი"
+   ],
+   "ar": [
+    "علوم الحاسوب",
+    "الإلكترونيات",
+    "الهندسة الكيميائية",
+    "التصميم"
+   ]
+  },
+  "summary": {
+   "en": "Public engineering institute in Assam, northeast India; teaching in English.",
+   "ka": "საჯარო საინჟინრო ინსტიტუტი ასამში, ჩრდილო-აღმოსავლეთ ინდოეთში; სწავლება ინგლისურად.",
+   "ar": "معهد هندسي حكومي في ولاية آسام شمال شرق الهند؛ التدريس بالإنجليزية."
+  },
+  "about": {
+   "en": "IIT Guwahati is a public institute of national importance founded in 1994. Its site lists undergraduate admission through JEE (Advanced).",
+   "ka": "IIT გუვაჰატი ეროვნული მნიშვნელობის საჯარო ინსტიტუტია, დაარსებული 1994 წელს. საიტის მიხედვით ბაკალავრიატში მიღება JEE (Advanced)-ით ხდება.",
+   "ar": "المعهد الهندي للتكنولوجيا في غواهاتي معهد حكومي ذو أهمية وطنية تأسس عام 1994. يذكر موقعه أن القبول الجامعي يتم عبر JEE (Advanced)."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://iitg.ac.in/acad/admission/imp_info/fee.php",
+   "https://www.iitg.ac.in/admission-fr"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

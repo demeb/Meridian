@@ -1,0 +1,887 @@
+[
+ {
+  "id": "deakin-university",
+  "name": {
+   "en": "Deakin University",
+   "ka": "დიკინის უნივერსიტეტი",
+   "ar": "جامعة ديكن"
+  },
+  "iso": "AU",
+  "city": "Melbourne",
+  "lat": -37.848,
+  "lon": 145.115,
+  "type": "public",
+  "website": "https://www.deakin.edu.au",
+  "platform": null,
+  "application_url": "https://www.deakin.edu.au/study/how-to-apply/international-student-applications",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "Deakin takes international applications for Trimester 1 (March 2027) and Trimester 3 (November); deadlines differ by country, so check the application dates page.",
+  "tuition_intl": {
+   "amount": 45600,
+   "currency": "AUD",
+   "per": "year",
+   "note": "Example from the Bachelor of Business Analytics course page (Biomedical Science shows 47,000). Fees differ by course."
+  },
+  "acceptance_rate": null,
+  "students": 61000,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": {
+   "en": "Deakin scholarships can cut tuition by 20%, 25%, 50% or 100% for the whole degree. Most are considered automatically when you apply.",
+   "ka": "დიკინის სტიპენდიებს შეუძლია სწავლის საფასური შეამციროს 20%-ით, 25%-ით, 50%-ით ან 100%-ით მთელი პროგრამის განმავლობაში. უმეტესობა განაცხადისას ავტომატურად განიხილება.",
+   "ar": "يمكن لمنح Deakin خفض الرسوم الدراسية بنسبة 20% أو 25% أو 50% أو 100% طوال مدة الدرجة، ويُنظر في معظمها تلقائيًا عند التقديم."
+  },
+  "tests": {
+   "en": "Many Deakin undergraduate degrees ask for IELTS 6.0 or an equivalent test. Some degrees ask for more, so check the entry requirements tab of the course page.",
+   "ka": "დიკინის ბევრ საბაკალავრო პროგრამას სჭირდება IELTS 6.0 ან ექვივალენტური ტესტი. ზოგს მეტი სჭირდება, ამიტომ შეამოწმეთ კურსის გვერდზე შესვლის მოთხოვნები.",
+   "ar": "تطلب كثير من برامج البكالوريوس في Deakin درجة IELTS 6.0 أو اختبارًا معادلًا، وبعضها يطلب أكثر، فراجع تبويب متطلبات القبول في صفحة البرنامج."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are set course by course on each course page. Every application needs academic transcripts.",
+   "ka": "აკადემიური მოთხოვნები თითოეულ კურსზე ცალკე განისაზღვრება კურსის გვერდზე. ყოველ განაცხადს სჭირდება აკადემიური ტრანსკრიპტები.",
+   "ar": "تُحدَّد المتطلبات الأكاديمية لكل برنامج في صفحته، ويتطلب كل طلب سجلات أكاديمية."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Academic transcripts",
+     "ka": "აკადემიური ტრანსკრიპტები",
+     "ar": "السجلات الأكاديمية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "melbourne",
+   "au"
+  ],
+  "sources": [
+   "https://www.deakin.edu.au/course/bachelor-business-analytics-international",
+   "https://www.deakin.edu.au/study/how-to-apply/application-dates",
+   "https://www.deakin.edu.au/study/how-to-apply/preparing-your-application"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "queensland-university-of-technology-qut",
+  "name": {
+   "en": "Queensland University of Technology (QUT)",
+   "ka": "კვინსლენდის ტექნოლოგიური უნივერსიტეტი (QUT)",
+   "ar": "جامعة كوينزلاند للتكنولوجيا (QUT)"
+  },
+  "iso": "AU",
+  "city": "Brisbane",
+  "lat": -27.477,
+  "lon": 153.028,
+  "type": "public",
+  "website": "https://www.qut.edu.au",
+  "platform": null,
+  "application_url": "https://www.qut.edu.au/study/applying/undergraduate-applications",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "QUT says some courses need an application to QUT as well as to QTAC, with possibly different closing dates; check the course page requirements tab.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 52000,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "You must meet the minimum English language entry requirement of your course; it differs by course, so read the requirements on the course page. QUT also runs English programs for those who fall short.",
+   "ka": "უნდა დააკმაყოფილოთ თქვენი კურსის ინგლისური ენის მინიმალური მოთხოვნა; ის კურსების მიხედვით განსხვავდება, ამიტომ იხილეთ კურსის გვერდი. QUT-ს აქვს ინგლისურის პროგრამებიც.",
+   "ar": "يجب استيفاء الحد الأدنى لمتطلبات اللغة الإنجليزية الخاص ببرنامجك وهو يختلف من برنامج لآخر، فراجع صفحة البرنامج. كما تقدم QUT برامج لتعلم الإنجليزية."
+  },
+  "gpa_note": {
+   "en": "Offers are conditional on the academic and English language requirements of the course, plus any extra requirements the course sets.",
+   "ka": "შეთავაზებები პირობითია და დამოკიდებულია კურსის აკადემიურ და ინგლისური ენის მოთხოვნებზე, ასევე კურსის დამატებით მოთხოვნებზე.",
+   "ar": "العروض مشروطة باستيفاء المتطلبات الأكademية واللغوية للبرنامج وأي متطلبات إضافية يحددها."
+  },
+  "requirements": [
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "brisbane",
+   "au"
+  ],
+  "sources": [
+   "https://www.qut.edu.au/study/applying/undergraduate-applications",
+   "https://www.qut.edu.au/study/applying/international-year-12-students",
+   "https://www.qut.edu.au/international/applying"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "la-trobe-university",
+  "name": {
+   "en": "La Trobe University",
+   "ka": "ლა ტრობის უნივერსიტეტი",
+   "ar": "جامعة لا تروب"
+  },
+  "iso": "AU",
+  "city": "Melbourne",
+  "lat": -37.721,
+  "lon": 145.048,
+  "type": "public",
+  "website": "https://www.latrobe.edu.au",
+  "platform": null,
+  "application_url": "https://www.latrobe.edu.au/international/applying/how-to-apply",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "Applications must be in before the closing date, which differs by course; check the course page.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 40000,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Undergraduate entry needs IELTS Academic 6.0 overall with no band below 6.0, or an equivalent score on another approved test. Some courses ask for more.",
+   "ka": "საბაკალავრო მისაღებად საჭიროა IELTS Academic 6.0 საერთო ქულა, არცერთი ნაწილი 6.0-ზე ნაკლები, ან სხვა დამტკიცებული ტესტის ექვივალენტი. ზოგ კურსს მეტი სჭირდება.",
+   "ar": "يتطلب القبول في البكالوريوس IELTS أكاديمي 6.0 إجمالًا دون أقل من 6.0 في أي مهارة، أو درجة معادلة في اختبار معتمد آخر. وبعض البرامج تطلب أكثر."
+  },
+  "gpa_note": {
+   "en": "You need to have completed Australian Year 12 or an accepted international equivalent, and some courses also need subject prerequisites. Each course page lists them.",
+   "ka": "საჭიროა ავსტრალიური Year 12-ის ან მისი აღიარებული საერთაშორისო ექვივალენტის დასრულება, ზოგ კურსს კი საგნობრივი წინაპირობებიც სჭირდება. ისინი კურსის გვერდზეა.",
+   "ar": "يجب إتمام Year 12 الأسترالي أو ما يعادله دوليًا، وتشترط بعض البرامج مواد محددة. تجدها في صفحة كل برنامج."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Academic transcripts",
+     "ka": "აკადემიური ტრანსკრიპტები",
+     "ar": "السجلات الأكاديمية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "melbourne",
+   "au"
+  ],
+  "sources": [
+   "https://www.latrobe.edu.au/international/applying/how-to-apply",
+   "https://www.latrobe.edu.au/international/applying/entry-requirements"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "the-university-of-newcastle-australia-uon",
+  "name": {
+   "en": "The University of Newcastle, Australia (UON)",
+   "ka": "ნიუკასლის უნივერსიტეტი (ავსტრალია)",
+   "ar": "جامعة نيوكاسل (أستراليا)"
+  },
+  "iso": "AU",
+  "city": "Newcastle CBD",
+  "lat": -32.893,
+  "lon": 151.705,
+  "type": "public",
+  "website": "https://www.newcastle.edu.au",
+  "platform": null,
+  "application_url": "https://www.newcastle.edu.au/study/international/how-to-apply",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 36000,
+   "currency": "AUD",
+   "per": "year",
+   "note": "The university says international fees range from 36,000 to 53,000 AUD a year depending on the program. A 2027 per-course fee list is published."
+  },
+  "acceptance_rate": null,
+  "students": 38000,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "English is shown with IELTS, TOEFL or other accepted tests. Some programs have extra requirements such as an audition or portfolio.",
+   "ka": "ინგლისური ენა დასტურდება IELTS-ით, TOEFL-ით ან სხვა მიღებული ტესტით. ზოგ პროგრამას დამატებითი მოთხოვნები აქვს, მაგალითად აუდიცია ან პორტფოლიო.",
+   "ar": "تُثبت اللغة الإنجليزية عبر IELTS أو TOEFL أو اختبارات مقبولة أخرى. وبعض البرامج لها متطلبات إضافية مثل اختبار أداء أو ملف أعمال."
+  },
+  "gpa_note": {
+   "en": "Undergraduate admission usually needs a completed senior secondary qualification similar to the NSW Higher School Certificate.",
+   "ka": "საბაკალავრო მისაღებად ჩვეულებრივ საჭიროა დასრულებული საშუალო განათლება, რომელიც NSW Higher School Certificate-ის მსგავსია.",
+   "ar": "يتطلب القبول في البكالوريوس عادةً شهادة ثانوية مكتملة مماثلة لشهادة Higher School Certificate في نيو ساوث ويلز."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school qualification",
+     "ka": "საშუალო განათლების დამადასტურებელი დოკუმენტი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Academic transcripts",
+     "ka": "აკადემიური ტრანსკრიპტები",
+     "ar": "السجلات الأكاديمية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "newcastle cbd",
+   "au"
+  ],
+  "sources": [
+   "https://www.newcastle.edu.au/study/international/study-with-us/undergraduate/undergraduate-entry-requirements",
+   "https://www.newcastle.edu.au/study/international/how-to-apply",
+   "https://www.newcastle.edu.au/__data/assets/pdf_file/0003/1159905/2027-Undergraduate-International-Course-Fee-List.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-tasmania",
+  "name": {
+   "en": "University of Tasmania",
+   "ka": "ტასმანიის უნივერსიტეტი",
+   "ar": "جامعة تسمانيا"
+  },
+  "iso": "AU",
+  "city": "Hobart",
+  "lat": -42.903,
+  "lon": 147.325,
+  "type": "public",
+  "website": "https://www.utas.edu.au",
+  "platform": null,
+  "application_url": "https://www.utas.edu.au/international/applying/how-to-apply",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TOEFL iBT",
+   "PTE Academic",
+   "Cambridge C1 Advanced / C2 Proficiency"
+  ],
+  "fields": null,
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "The baseline for undergraduate entry is IELTS Academic 6.0 with no band below 5.5. Some courses need more (for example 6.5 for Psychological Science). TOEFL iBT, PTE Academic and Cambridge tests are also accepted; results must be under 2 years old.",
+   "ka": "საბაკალავრო მისაღები მინიმუმია IELTS Academic 6.0, არცერთი ნაწილი 5.5-ზე ნაკლები. ზოგ კურსს მეტი სჭირდება (მაგ. ფსიქოლოგიურ მეცნიერებას 6.5). მიიღება TOEFL iBT, PTE Academic და Cambridge-ის ტესტებიც; შედეგი 2 წელზე ძველი არ უნდა იყოს.",
+   "ar": "الحد الأدنى للبكالوريوس هو IELTS أكاديمي 6.0 دون أقل من 5.5 في أي مهارة، وبعض البرامج تطلب أكثر (مثل 6.5 للعلوم النفسية). تُقبل أيضًا TOEFL iBT وPTE Academic واختبارات Cambridge، ويجب ألا تتجاوز النتيجة سنتين."
+  },
+  "gpa_note": {
+   "en": "International applicants must meet the English language requirement, the university general entry requirements and any course-specific requirements.",
+   "ka": "საერთაშორისო აპლიკანტებმა უნდა დააკმაყოფილონ ინგლისური ენის მოთხოვნა, უნივერსიტეტის ზოგადი მისაღები მოთხოვნები და კურსის სპეციფიკური მოთხოვნები.",
+   "ar": "يجب على المتقدمين الدوليين استيفاء شرط اللغة الإنجليزية ومتطلبات القبول العامة للجامعة ومتطلبات البرنامج الخاصة."
+  },
+  "requirements": [
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "hobart",
+   "au"
+  ],
+  "sources": [
+   "https://www.utas.edu.au/study/apply/admission-requirements/english-language-requirements",
+   "https://www.utas.edu.au/international/applying/how-to-apply",
+   "https://www.utas.edu.au/study/apply/international-students"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "james-cook-university",
+  "name": {
+   "en": "James Cook University",
+   "ka": "ჯეიმზ კუკის უნივერსიტეტი",
+   "ar": "جامعة جيمس كوك"
+  },
+  "iso": "AU",
+  "city": "Townsville",
+  "lat": -19.33,
+  "lon": 146.76,
+  "type": "public",
+  "website": "https://www.jcu.edu.au",
+  "platform": null,
+  "application_url": "https://www.jcu.edu.au/applying-to-jcu/international/coursework",
+  "intakes": [],
+  "deadline": "2026-06-30",
+  "deadline_note": "For Medicine, Dentistry and Veterinary Science (2027 entry) international applications and documents closed on 30 June 2026. Other courses have their own due dates in the 'Application due dates for 2027' section of the international apply page.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "IELTS Academic",
+   "PTE Academic (Dentistry 65)"
+  ],
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "medicine-health",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Marine Science",
+    "Medicine",
+    "Environmental Science",
+    "Engineering",
+    "Tropical Health"
+   ],
+   "ka": [
+    "საზღვაო მეცნიერება",
+    "მედიცინა",
+    "გარემოს მეცნიერება",
+    "ინჟინერია",
+    "ტროპიკული ჯანდაცვა"
+   ],
+   "ar": [
+    "علوم البحار",
+    "الطب",
+    "علوم البيئة",
+    "الهندسة",
+    "الصحة الاستوائية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in tropical north Queensland, known for marine science, environment and medicine. Entry requirements are set per course.",
+   "ka": "საჯარო უნივერსიტეტი ტროპიკულ ჩრდილოეთ კვინზლენდში, ცნობილი საზღვაო მეცნიერებით, გარემოს კვლევებითა და მედიცინით. მიღების პირობები პროგრამის მიხედვითაა.",
+   "ar": "جامعة حكومية في شمال كوينزلاند الاستوائي، معروفة بعلوم البحار والبيئة والطب. تحدد شروط القبول لكل برنامج."
+  },
+  "about": {
+   "en": "James Cook University has its main campus in Townsville, with campuses in Cairns and Singapore. International students apply directly to JCU, not through QTAC. Academic and English requirements differ by course; Medicine and Dentistry (2027 intake) need IELTS Academic 7 overall. Online-mode English tests are not accepted.",
+   "ka": "ჯეიმზ კუკის უნივერსიტეტის მთავარი კამპუსი ტაუნსვილშია; კამპუსები აქვს კერნსსა და სინგაპურშიც. საერთაშორისო სტუდენტები განაცხადს უშუალოდ JCU-ში აგზავნიან, QTAC-ის გარეშე. აკადემიური და ენობრივი მოთხოვნები პროგრამის მიხედვით განსხვავდება; მედიცინასა და სტომატოლოგიაზე (2027) საჭიროა IELTS Academic 7 საერთო ქულა. ონლაინ ტესტები არ მიიღება.",
+   "ar": "المقر الرئيسي لجامعة جيمس كوك في تاونسفيل ولها فروع في كيرنز وسنغافورة. يقدّم الدوليون مباشرة إلى الجامعة وليس عبر QTAC. تختلف الشروط الأكاديمية واللغوية حسب البرنامج؛ يتطلب الطب وطب الأسنان (دفعة 2027) IELTS أكاديمي 7 بمجموع. لا تقبل اختبارات اللغة عبر الإنترنت."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Medicine and Dentistry (2027 intake) need IELTS Academic 7 overall (7 in three components, 6.5 in one). Online-mode IELTS, TOEFL Home Edition and IELTS Indicator are not accepted. Other courses set their own English level.",
+   "ka": "მედიცინასა და სტომატოლოგიაზე (2027) საჭიროა IELTS Academic 7 საერთო ქულა (7 სამ კომპონენტში, 6.5 ერთში). ონლაინ IELTS, TOEFL Home Edition და IELTS Indicator არ მიიღება. სხვა პროგრამებს საკუთარი ენობრივი დონე აქვს.",
+   "ar": "يتطلب الطب وطب الأسنان (دفعة 2027) IELTS أكاديمي 7 بمجموع (7 في ثلاث مهارات و6.5 في واحدة). لا تُقبل نسخ الاختبار عبر الإنترنت. تحدد البرامج الأخرى مستواها اللغوي."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის დანართი / შეფასებები",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების დიპლომი/ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English language test",
+     "ka": "ინგლისური ენის ტესტი",
+     "ar": "اختبار اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "australia",
+   "queensland",
+   "townsville",
+   "jcu",
+   "marine science"
+  ],
+  "sources": [
+   "https://www.jcu.edu.au/applying-to-jcu/international/coursework/academic-and-english-language-entry-requirements",
+   "https://www.jcu.edu.au/applying-to-jcu/international/coursework",
+   "https://www.jcu.edu.au/applying-to-jcu/international/coursework/capped-courses/faqs",
+   "https://www.jcu.edu.au/international-students/apply/undergraduate-postgraduate"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "edith-cowan-university",
+  "name": {
+   "en": "Edith Cowan University",
+   "ka": "ედით ქოუენის უნივერსიტეტი",
+   "ar": "جامعة إديث كوان"
+  },
+  "iso": "AU",
+  "city": "Joondalup",
+  "lat": -31.752,
+  "lon": 115.776,
+  "type": "public",
+  "website": "https://www.ecu.edu.au",
+  "platform": "Direct",
+  "application_url": "https://www.ecu.edu.au/future-students/applying",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 70,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Perth, Western Australia. English entry is IELTS 6.0 for most undergraduate courses; a 20% ASEAN scholarship exists.",
+   "ka": "საჯარო უნივერსიტეტი პერტში (დასავლეთ ავსტრალია). უმეტეს კურსზე საჭიროა IELTS 6.0; არსებობს ASEAN-ის 20%-იანი სტიპენდია.",
+   "ar": "جامعة حكومية في بيرث بغرب أستراليا. شرط الإنجليزية IELTS 6.0 لمعظم المقررات، وتوجد منحة آسيان بخصم 20%."
+  },
+  "about": {
+   "en": "Edith Cowan University is a public university in Western Australia with its main campus at Joondalup, north of Perth. International undergraduates apply directly and teaching is in English. Fees for 2027 were not readable on the pages found. Its site blocks automated reading, so entry details come from search results on ecu.edu.au.",
+   "ka": "ედით ქოუენის უნივერსიტეტი საჯარო უნივერსიტეტია დასავლეთ ავსტრალიაში, მთავარი კამპუსით ჯუნდალუპში, პერთის ჩრდილოეთით. საერთაშორისო სტუდენტები განაცხადს უშუალოდ აგზავნიან; სწავლება ინგლისურადაა. 2027 წლის საფასური ვერ წაიკითხა. საიტი ავტომატურ წაკითხვას ბლოკავს, ამიტომ პირობები ძიების შედეგებიდანაა.",
+   "ar": "جامعة إديث كوان جامعة حكومية في غرب أستراليا وحرمها الرئيسي في جوندالوب شمال بيرث. يقدم الطلاب الدوليون طلبهم مباشرة والتدريس بالإنجليزية. لم تُقرأ رسوم 2027. يمنع الموقع القراءة الآلية لذا أُخذت الشروط من نتائج البحث على ecu.edu.au."
+  },
+  "aid_intl": {
+   "en": "The 2027 ECU ASEAN International Scholarship gives a 20% tuition reduction to eligible students from selected ASEAN countries.",
+   "ka": "2027 წლის ECU ASEAN საერთაშორისო სტიპენდია ირჩეული ASEAN ქვეყნების სტუდენტებს სწავლის საფასურს 20%-ით უკლებს.",
+   "ar": "تمنح منحة ECU آسيان الدولية 2027 خصما 20% من الرسوم لطلاب دول آسيان المختارة."
+  },
+  "tests": {
+   "en": "Search results from ECU state IELTS Academic 6.0 overall with no band below 6.0, TOEFL iBT 70 (no section below 17) or PTE Academic 52 (no score below 50); some courses need higher. Online IELTS is not accepted.",
+   "ka": "ECU-ს გვერდების მიხედვით: IELTS Academic 6.0 (არცერთი ნაწილი 6.0-ზე ნაკლები), TOEFL iBT 70 (ნაწილი არანაკლებ 17) ან PTE 52 (ნაწილი არანაკლებ 50); ზოგ კურსს მეტი სჭირდება. ონლაინ IELTS არ მიიღება.",
+   "ar": "بحسب صفحات ECU: IELTS Academic 6.0 دون أقل من 6.0 في أي مهارة، أو TOEFL iBT 70 (لا أقل من 17 في أي قسم)، أو PTE 52 (لا أقل من 50)؛ وبعض المقررات تتطلب أكثر. لا يُقبل IELTS عبر الإنترنت."
+  },
+  "gpa_note": {
+   "en": "Check the entry requirements of your course before applying, including English competency and secondary school results. There is more than one admission pathway.",
+   "ka": "განაცხადის წინ შეამოწმეთ არჩეული კურსის შესვლის მოთხოვნები, მათ შორის ინგლისური ენისა და საშუალო სკოლის შედეგები. შესვლის ერთზე მეტი გზა არსებობს.",
+   "ar": "راجع متطلبات القبول في برنامجك قبل التقديم، ومنها إتقان الإنجليزية ونتائج الثانوية. توجد أكثر من مسار للقبول."
+  },
+  "requirements": null,
+  "scholarships": [
+   {
+    "name": "2027 ECU ASEAN International Scholarship",
+    "url": "https://www.ecu.edu.au/scholarships/details/2027-asean-international-scholarship",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": null,
+  "sources": [
+   "https://www.ecu.edu.au/future-students/course-entry/english-competency",
+   "https://www.ecu.edu.au/scholarships/details/2027-asean-international-scholarship",
+   "https://www.ecu.edu.au/degrees/international"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "australian-catholic-university",
+  "name": {
+   "en": "Australian Catholic University",
+   "ka": "ავსტრალიის კათოლიკური უნივერსიტეტი",
+   "ar": "الجامعة الكاثوليكية الأسترالية"
+  },
+  "iso": "AU",
+  "city": "Melbourne",
+  "lat": -37.797,
+  "lon": 144.997,
+  "type": "public",
+  "website": "https://www.acu.edu.au",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "IELTS",
+   "PTE Academic",
+   "TOEFL",
+   "Cambridge Advanced English"
+  ],
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "Australian Catholic University is a public university with campuses in several Australian cities. Its site blocked automated reading this round.",
+   "ka": "ავსტრალიის კათოლიკური უნივერსიტეტი საჯარო უნივერსიტეტია, რამდენიმე ქალაქში კამპუსებით. მისმა საიტმა ამ ეტაპზე ავტომატური წაკითხვა დაბლოკა.",
+   "ar": "الجامعة الكاثوليكية الأسترالية جامعة حكومية لها حرم في عدة مدن أسترالية. حجب موقعها القراءة الآلية في هذه الجولة."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "ACU accepts IELTS, PTE Academic, TOEFL and Cambridge Advanced English as proof of English. The Versant Placement Test is not accepted.",
+   "ka": "ACU ინგლისურის დასადასტურებლად იღებს IELTS-ს, PTE Academic-ს, TOEFL-სა და Cambridge Advanced English-ს. Versant Placement Test არ მიიღება.",
+   "ar": "تقبل ACU اختبارات IELTS وPTE Academic وTOEFL وCambridge Advanced English لإثبات الإنجليزية، ولا يُقبل اختبار Versant Placement."
+  },
+  "gpa_note": {
+   "en": "International applications are assessed on academic qualifications and English proficiency. Applicants sitting Australian Year 12 apply through the state admissions centre; everyone else applies directly.",
+   "ka": "საერთაშორისო განაცხადები ფასდება აკადემიური კვალიფიკაციისა და ინგლისური ენის ცოდნის მიხედვით. ავსტრალიური Year 12-ის მწერლები განაცხადს შტატის ცენტრის გავლით აგზავნიან, დანარჩენები უშუალოდ.",
+   "ar": "تُقيَّم الطلبات الدولية بحسب المؤهلات الأكاديمية وإتقان الإنجليزية. من يدرس Year 12 الأسترالي يقدم عبر مركز القبول في الولاية، وغيرهم يقدمون مباشرة."
+  },
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://www.acu.edu.au",
+   "https://www.acu.edu.au/handbook/handbook-2026/policies-and-general-information/international-students",
+   "https://www.acu.edu.au/study-at-acu/fees-and-scholarships/international-student-fees"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "charles-sturt-university",
+  "name": {
+   "en": "Charles Sturt University",
+   "ka": "ჩარლზ სტერტის უნივერსიტეტი",
+   "ar": "جامعة تشارلز ستورت"
+  },
+  "iso": "AU",
+  "city": "Bathurst",
+  "lat": -33.435,
+  "lon": 149.553,
+  "type": "public",
+  "website": "https://csu.edu.au",
+  "platform": null,
+  "application_url": "https://study.csu.edu.au/international/apply/how-to-apply",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "education",
+   "medicine-health",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Agriculture",
+    "Health"
+   ],
+   "ka": [
+    "განათლება",
+    "სოფლის მეურნეობა",
+    "ჯანდაცვა"
+   ],
+   "ar": [
+    "التعليم",
+    "الزراعة",
+    "الصحة"
+   ]
+  },
+  "summary": {
+   "en": "A public university in regional New South Wales, Australia, strong in education, health and agriculture. Fees and dates were not available from readable official pages.",
+   "ka": "სახელმწიფო უნივერსიტეტი ახალ სამხრეთ უელსში, ავსტრალიაში.",
+   "ar": "جامعة حكومية في نيو ساوث ويلز بأستراليا."
+  },
+  "about": {
+   "en": "Charles Sturt University is a public Australian university with campuses in regional New South Wales, including Bathurst, and large online study. Teaching is in English. International applicants should use the CSU international pages and CRICOS for fees.",
+   "ka": "ჩარლზ სტერტის უნივერსიტეტი ავსტრალიური სახელმწიფო უნივერსიტეტია; სწავლება ინგლისურია.",
+   "ar": "جامعة تشارلز ستورت جامعة حكومية أسترالية بحرم في نيو ساوث ويلز ودراسة عبر الإنترنت، والتدريس بالإنجليزية."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Undergraduate courses ask for Academic IELTS taken in the last two years with 6.0 overall and no band below 5.5. Some courses, such as nursing, ask for more, and not every course accepts every English test.",
+   "ka": "საბაკალავრო კურსებს სჭირდება ბოლო ორი წლის განმავლობაში ჩაბარებული IELTS Academic: 6.0 საერთო, არცერთი ნაწილი 5.5-ზე ნაკლები. ზოგს (მაგ. საექთნო) მეტი სჭირდება და ყველა კურსი ყველა ტესტს არ იღებს.",
+   "ar": "تطلب برامج البكالوريوس IELTS أكاديمي أُجري خلال آخر سنتين بمجموع 6.0 دون أقل من 5.5 في أي مهارة. وبعض البرامج مثل التمريض تطلب أكثر، ولا تقبل كل البرامج كل الاختبارات."
+  },
+  "gpa_note": {
+   "en": "International students must meet minimum academic and English requirements. Entry requirements differ from country to country; CSU publishes an international admissions matrix.",
+   "ka": "საერთაშორისო სტუდენტებმა უნდა დააკმაყოფილონ აკადემიური და ინგლისური ენის მინიმალური მოთხოვნები. მოთხოვნები ქვეყნების მიხედვით განსხვავდება; CSU აქვეყნებს საერთაშორისო მიღების მატრიცას.",
+   "ar": "يجب على الطلاب الدوليين استيفاء الحد الأدنى الأكاديمي واللغوي. تختلف المتطلبات من بلد لآخر، وتنشر CSU جدولًا للقبول الدولي."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://csu.edu.au",
+   "https://study.csu.edu.au/international/apply/how-to-apply",
+   "https://study.csu.edu.au/international/apply/course-entry-requirements",
+   "https://sydneymelbourne.csu.edu.au/how-apply/international-students/journey/english-requirements/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "the-university-of-notre-dame-australia",
+  "name": {
+   "en": "The University of Notre Dame, Australia",
+   "ka": "ნოტრ-დამის უნივერსიტეტი, ავსტრალია",
+   "ar": "جامعة نوتردام أستراليا"
+  },
+  "iso": "AU",
+  "city": "Sydney",
+  "lat": -33.876,
+  "lon": 151.2,
+  "type": "private",
+  "website": "https://notredame.edu.au",
+  "platform": null,
+  "application_url": "https://www.notredame.edu.au/international/how-to-apply",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "IELTS Academic",
+   "PTE Academic",
+   "TOEFL iBT",
+   "Cambridge CAE/CPE",
+   "LanguageCert"
+  ],
+  "fields": [
+   "medicine-health",
+   "law",
+   "education"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Private Catholic university with campuses in Sydney, Fremantle and Broome, Australia.",
+   "ka": "კერძო კათოლიკური უნივერსიტეტი სიდნეიში, ფრიმანტლსა და ბრუმში, ავსტრალია.",
+   "ar": "جامعة كاثوليكية خاصة لها فروع في سيدني وفريمانتل وبروم بأستراليا."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "English proof can be IELTS Academic, PTE Academic, TOEFL iBT, Cambridge CAE/CPE or LanguageCert, valid for two years from the test date. Some programs need a higher level.",
+   "ka": "ინგლისურის დასადასტურებლად მიიღება IELTS Academic, PTE Academic, TOEFL iBT, Cambridge CAE/CPE ან LanguageCert; შედეგი ძალაშია ტესტიდან ორი წელი. ზოგ პროგრამას უფრო მაღალი დონე სჭირდება.",
+   "ar": "يمكن إثبات الإنجليزية عبر IELTS Academic أو PTE Academic أو TOEFL iBT أو Cambridge CAE/CPE أو LanguageCert، وتبقى النتيجة صالحة سنتين. وبعض البرامج تطلب مستوى أعلى."
+  },
+  "gpa_note": {
+   "en": "Applicants send certified copies of their academic qualification. For undergraduate entry the school qualification must have been completed within the last five years.",
+   "ka": "აპლიკანტები აგზავნიან აკადემიური კვალიფიკაციის დამოწმებულ ასლებს. საბაკალავროზე სკოლის კვალიფიკაცია ბოლო ხუთი წლის განმავლობაში უნდა იყოს დასრულებული.",
+   "ar": "يرسل المتقدمون نسخًا معتمدة من مؤهلهم الأكاديمي، ويجب أن تكون الشهادة الثانوية قد اكتملت خلال آخر خمس سنوات."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school qualification",
+     "ka": "საშუალო განათლების დამადასტურებელი დოკუმენტი",
+     "ar": "شهادة إتمام الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Certified translations of non-English documents",
+     "ka": "არაინგლისური დოკუმენტების დამოწმებული თარგმანები",
+     "ar": "ترجمات معتمدة للوثائق غير الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "au",
+   "sydney"
+  ],
+  "sources": [
+   "https://notredame.edu.au",
+   "https://www.notredame.edu.au/international/how-to-apply",
+   "https://www.notredame.edu.au/study/applications-and-admissions/admission-requirements/english-language-proficiency-requirements/international"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

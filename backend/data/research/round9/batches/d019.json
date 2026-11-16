@@ -1,0 +1,92 @@
+[
+{
+"id": "university-of-calcutta",
+"name": "University of Calcutta",
+"iso": "IN",
+"city": "Kolkata",
+"website": "https://www.caluniv.ac.in",
+"rank_qs": 901,
+"previous_attempt": "round8/universities-c020.json"
+},
+{
+"id": "university-of-mumbai",
+"name": "University of Mumbai",
+"iso": "IN",
+"city": "Mumbai",
+"website": "https://www.mu.ac.in",
+"rank_qs": 901,
+"previous_attempt": "round8/universities-c021.json"
+},
+{
+"id": "aligarh-muslim-university",
+"name": "Aligarh Muslim University",
+"iso": "IN",
+"city": "Aligarh",
+"website": "https://www.amu.ac.in",
+"rank_qs": 1001,
+"previous_attempt": "round8/universities-c023.json"
+},
+{
+"id": "guru-gobind-singh-indraprastha-university",
+"name": "Guru Gobind Singh Indraprastha University",
+"iso": "IN",
+"city": "New Delhi",
+"website": "https://ipu.ac.in",
+"rank_qs": 1001,
+"previous_attempt": "round8/universities-c024.json"
+},
+{
+"id": "indian-institute-of-technology-bhubaneswar",
+"name": "Indian Institute of Technology Bhubaneswar",
+"iso": "IN",
+"city": "Bhubaneswar",
+"website": "https://www.iitbbs.ac.in",
+"rank_qs": 1001,
+"previous_attempt": "round8/universities-c025.json"
+},
+{
+"id": "kalinga-institute-of-industrial-technology-kiit-university",
+"name": "Kalinga Institute of Industrial Technology (KIIT) University",
+"iso": "IN",
+"city": "Bhubaneswar",
+"website": "https://www.kiit.ac.in",
+"rank_qs": 1001,
+"previous_attempt": "round8/universities-c025.json"
+},
+{
+"id": "panjab-university-chandigarh",
+"name": "Panjab University, Chandigarh",
+"iso": "IN",
+"city": "Chandigarh",
+"website": "https://www.puchd.ac.in",
+"rank_qs": 1001,
+"previous_attempt": "round8/universities-c026.json"
+},
+{
+"id": "srm-institute-of-science-and-technology",
+"name": "SRM Institute of Science and Technology",
+"iso": "IN",
+"city": "Chennai",
+"website": "https://www.srmuniv.ac.in",
+"rank_qs": 1001,
+"previous_attempt": "round8/universities-c027.json"
+},
+{
+"id": "amrita-vishwa-vidyapeetham",
+"name": "Amrita Vishwa Vidyapeetham",
+"iso": "IN",
+"city": "Coimbatore",
+"website": "https://www.amrita.edu",
+"rank_qs": 1201,
+"previous_attempt": "round8/universities-c031.json"
+},
+{
+"id": "sathyabama-institute-of-science-and-technology-deemed-to-be-university",
+"name": "Sathyabama Institute of Science and Technology (Deemed to be University)",
+"iso": "IN",
+"city": "Chennai",
+"website": "https://www.sathyabamauniversity.ac.in",
+"rank_qs": 1201,
+"previous_attempt": "round8/universities-c033.json"
+}
+]

@@ -1,0 +1,320 @@
+{
+ "act": [
+  {
+   "title": {
+    "en": "Free official ACT practice tests and section practice",
+    "ka": "უფასო ოფიციალური ACT საცდელი ტესტები და სექციების პრაქტიკა",
+    "ar": "اختبارات ACT التدريبية الرسمية المجانية وتدريب الأقسام"
+   },
+   "kind": "practice-test",
+   "provider": "ACT",
+   "url": "https://www.act.org/content/act/en/students-and-parents/high-school-success/testing-advice-for-the-act/free-act-practice-test.html",
+   "free": true,
+   "note": {
+    "en": "Full-length official practice tests (digital or paper) plus section practice."
+   },
+   "section": "All"
+  },
+  {
+   "title": {
+    "en": "Official ACT YouTube channel",
+    "ka": "ოფიციალური ACT YouTube არხი",
+    "ar": "قناة ACT الرسمية على يوتيوب"
+   },
+   "kind": "video",
+   "provider": "ACT",
+   "url": "https://www.youtube.com/user/TheACTTest",
+   "free": true,
+   "note": {
+    "en": "Official videos on the test, test-day steps and prep tips."
+   },
+   "section": "All"
+  },
+  {
+   "title": {
+    "en": "ACT testing advice and test-taking tips",
+    "ka": "ACT-ის გავლის რჩევები და სტრატეგიები",
+    "ar": "نصائح ACT واستراتيجيات الاختبار"
+   },
+   "kind": "official",
+   "provider": "ACT",
+   "url": "https://www.act.org/content/act/en/students-and-parents/high-school-success/testing-advice-for-the-act.html",
+   "free": true,
+   "note": {
+    "en": "Official tips on pacing, guessing and preparing for each section."
+   },
+   "section": "All"
+  }
+ ],
+ "ielts": [
+  {
+   "title": {
+    "en": "IELTS Ready: free official prep from the British Council",
+    "ka": "IELTS Ready — უფასო ოფიციალური მომზადება British Council-ისგან",
+    "ar": "IELTS Ready: تحضير رسمي مجاني من المجلس الثقافي البريطاني"
+   },
+   "kind": "course",
+   "provider": "British Council",
+   "url": "https://learnenglish.britishcouncil.org/ielts-preparation",
+   "free": true,
+   "note": {
+    "en": "Free short mock test, Speaking and Listening courses and expert webinars."
+   },
+   "section": "All"
+  }
+ ],
+ "pte": [
+  {
+   "title": {
+    "en": "PTE Academic Smart Prep (free with myPTE account)",
+    "ka": "PTE Academic Smart Prep (უფასო myPTE ანგარიშით)",
+    "ar": "PTE Academic Smart Prep (مجاني مع حساب myPTE)"
+   },
+   "kind": "course",
+   "provider": "Pearson",
+   "url": "https://www.pearsonpte.com/preparation/free-practice",
+   "free": true,
+   "note": {
+    "en": "Study plan, guided practice tests, video courses and tip sheets."
+   },
+   "section": "All"
+  },
+  {
+   "title": {
+    "en": "Introduction to PTE Academic (free online course)",
+    "ka": "Introduction to PTE Academic (უფასო ონლაინ კურსი)",
+    "ar": "مقدمة في PTE Academic (دورة مجانية عبر الإنترنت)"
+   },
+   "kind": "course",
+   "provider": "Pearson",
+   "url": "https://mylearningx.pearson.com/courses/course-v1:PX+PTE001+2019_T4/about",
+   "free": true,
+   "note": {
+    "en": "Free MOOC explaining the test format and how to approach each task."
+   },
+   "section": "All"
+  }
+ ],
+ "hsk": [
+  {
+   "title": {
+    "en": "HSK 3.0 competency profile (official PDF)",
+    "ka": "HSK 3.0 — ენობრივი კომპეტენციების ოფიციალური აღწერა (PDF)",
+    "ar": "الوصف الرسمي لكفاءات HSK 3.0 (PDF)"
+   },
+   "kind": "official",
+   "provider": "Chinese Testing International",
+   "url": "https://hsk.cn-bj.ufileos.com/3.0/HSK3.0%E8%80%83%E8%AF%95%E8%83%BD%E5%8A%9B%E6%8F%8F%E8%BF%B0.pdf",
+   "free": true,
+   "note": {
+    "en": "Official description of what candidates can do at each HSK 3.0 level."
+   },
+   "section": "All"
+  },
+  {
+   "title": {
+    "en": "Try HSK 3.0: official online demo",
+    "ka": "სცადე HSK 3.0 — ოფიციალური ონლაინ დემო",
+    "ar": "جرّب HSK 3.0: العرض التجريبي الرسمي"
+   },
+   "kind": "practice-test",
+   "provider": "Chinese Testing International",
+   "url": "https://hsk3demo.chinesetest.cn",
+   "free": true,
+   "note": {
+    "en": "Official demo of the computer-based HSK 3.0 test interface."
+   },
+   "section": "All"
+  }
+ ],
+ "ap": [
+  {
+   "title": {
+    "en": "AP Central: past free-response questions by course",
+    "ka": "AP Central — წინა წლების ღია პასუხიანი დავალებები კურსების მიხედვით",
+    "ar": "AP Central: أسئلة الإجابة الحرة السابقة حسب المادة"
+   },
+   "kind": "practice-test",
+   "provider": "College Board",
+   "url": "https://apcentral.collegeboard.org/courses/past-exam-questions",
+   "free": true,
+   "note": {
+    "en": "Recent free-response questions with scoring guidelines and sample answers."
+   },
+   "section": "All"
+  }
+ ],
+ "esat": [
+  {
+   "title": {
+    "en": "ESAT and TMUA free preparation hub",
+    "ka": "ESAT და TMUA — უფასო მომზადების ცენტრი",
+    "ar": "مركز التحضير المجاني لـ ESAT وTMUA"
+   },
+   "kind": "official",
+   "provider": "UAT-UK",
+   "url": "https://esat-tmua.ac.uk/prepare/",
+   "free": true,
+   "note": {
+    "en": "Official specifications, notes on mathematics and logic, and specimen tests."
+   },
+   "section": "All"
+  },
+  {
+   "title": {
+    "en": "TMUA specimen and practice tests (Pearson VUE)",
+    "ka": "TMUA — სანიმუშო და საცდელი ტესტები (Pearson VUE)",
+    "ar": "اختبارات TMUA النموذجية والتدريبية (Pearson VUE)"
+   },
+   "kind": "practice-test",
+   "provider": "UAT-UK / Pearson VUE",
+   "url": "https://www.pearsonvue.com/us/en/uatuk.html",
+   "free": true,
+   "note": {
+    "en": "Try the real on-screen test player with official specimen papers."
+   },
+   "section": "Mathematics"
+  },
+  {
+   "title": {
+    "en": "ENGAA 2023 answer key (check your ESAT practice)",
+    "ka": "ENGAA 2023 — სწორი პასუხები (ESAT-ის პრაქტიკის შესამოწმებლად)",
+    "ar": "مفتاح إجابات ENGAA 2023 (لمراجعة تدريب ESAT)"
+   },
+   "kind": "practice-test",
+   "provider": "UAT-UK",
+   "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07115610/ENGAA_2023_S1_AnswerKey.pdf",
+   "free": true,
+   "note": {
+    "en": "Answer key for the 2023 ENGAA paper already listed."
+   },
+   "section": "Physics"
+  },
+  {
+   "title": {
+    "en": "NSAA 2023 answer key (check your ESAT practice)",
+    "ka": "NSAA 2023 — სწორი პასუხები (ESAT-ის პრაქტიკის შესამოწმებლად)",
+    "ar": "مفتاح إجابات NSAA 2023 (لمراجعة تدريب ESAT)"
+   },
+   "kind": "practice-test",
+   "provider": "UAT-UK",
+   "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07120531/NSAA_2023_S1_AnswerKey.pdf",
+   "free": true,
+   "note": {
+    "en": "Answer key for the 2023 NSAA paper already listed."
+   },
+   "section": "Biology"
+  }
+ ],
+ "ucat": [
+  {
+   "title": {
+    "en": "Official UCAT YouTube channel",
+    "ka": "ოფიციალური UCAT YouTube არხი",
+    "ar": "قناة UCAT الرسمية على يوتيوب"
+   },
+   "kind": "video",
+   "provider": "UCAT Consortium",
+   "url": "https://www.youtube.com/OfficialUCAT",
+   "free": true,
+   "note": {
+    "en": "Official videos with test advice and tips from high-scoring candidates."
+   },
+   "section": "All"
+  },
+  {
+   "title": {
+    "en": "Official UCAT preparation plan (PDF)",
+    "ka": "UCAT-ის ოფიციალური მომზადების გეგმა (PDF)",
+    "ar": "خطة التحضير الرسمية لـ UCAT (PDF)"
+   },
+   "kind": "official",
+   "provider": "UCAT Consortium",
+   "url": "https://www.ucat.ac.uk/media/1483/ucat_uk_preparation_plan-final.pdf",
+   "free": true,
+   "note": {
+    "en": "A step-by-step plan for using the free official materials."
+   },
+   "section": "All"
+  }
+ ],
+ "gre": [
+  {
+   "title": {
+    "en": "GRE Test Prep at a Glance (official PDF)",
+    "ka": "GRE Test Prep at a Glance — ოფიციალური გზამკვლევი (PDF)",
+    "ar": "GRE Test Prep at a Glance: دليل رسمي (PDF)"
+   },
+   "kind": "official",
+   "provider": "ETS",
+   "url": "https://www.ets.org/pdfs/gre/gre-test-prep-at-a-glance.pdf",
+   "free": true,
+   "note": {
+    "en": "ETS summary of every free and paid official prep tool."
+   },
+   "section": "All"
+  }
+ ],
+ "mcat": [
+  {
+   "title": {
+    "en": "MCAT Sample Question Guide (free)",
+    "ka": "MCAT Sample Question Guide (უფასო)",
+    "ar": "دليل أسئلة MCAT النموذجية (مجاني)"
+   },
+   "kind": "official",
+   "provider": "AAMC",
+   "url": "https://students-residents.aamc.org/prepare-mcat-exam/mcat-sample-question-guide",
+   "free": true,
+   "note": {
+    "en": "12 official questions, three per section, with full explanations."
+   },
+   "section": "All"
+  },
+  {
+   "title": {
+    "en": "AAMC free full-length MCAT practice exam",
+    "ka": "AAMC-ის უფასო სრული MCAT საცდელი გამოცდა",
+    "ar": "اختبار MCAT تدريبي كامل ومجاني من AAMC"
+   },
+   "kind": "practice-test",
+   "provider": "AAMC",
+   "url": "https://offers.aamc.org/free-practice-exam",
+   "free": true,
+   "note": {
+    "en": "Scored full-length practice exam with scaled score and percentile."
+   },
+   "section": "All"
+  },
+  {
+   "title": {
+    "en": "What's on the MCAT exam: official content outline",
+    "ka": "რა შედის MCAT-ში: ოფიციალური შინაარსის სქემა",
+    "ar": "محتوى اختبار MCAT: المخطط الرسمي"
+   },
+   "kind": "official",
+   "provider": "AAMC",
+   "url": "https://students-residents.aamc.org/prepare-mcat-exam/whats-mcat-exam-pdf-outline",
+   "free": true,
+   "note": {
+    "en": "The official list of topics and skills tested in every section."
+   },
+   "section": "All"
+  },
+  {
+   "title": {
+    "en": "Creating your MCAT study plan",
+    "ka": "MCAT-ის სასწავლო გეგმის შედგენა",
+    "ar": "إعداد خطتك الدراسية لاختبار MCAT"
+   },
+   "kind": "official",
+   "provider": "AAMC",
+   "url": "https://students-residents.aamc.org/prepare-mcat-exam/creating-your-mcat-exam-study-plan",
+   "free": true,
+   "note": {
+    "en": "AAMC's step-by-step guide to planning your preparation."
+   },
+   "section": "All"
+  }
+ ]
+}

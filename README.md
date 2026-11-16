@@ -228,16 +228,40 @@ single function to fill in.
 
 ---
 
+## Counsellors and meetings
+
+- **Three account types.** Students are the default. Teachers apply on
+  `/tutors/apply` and get the tutor dashboard once approved. Counsellors are
+  approved partner-school staff and get **My students** (`/counsellor`).
+- **Built-in counsellors.** These are listed in `BUILTIN_COUNSELLORS` in
+  `backend/counselling.py`, for example `pl857@georgetown.edu` → Meridian Demo
+  School. They are approved automatically the first time that email signs in.
+- **Who a counsellor can see.**
+  - The students of their school: emails added with the school's member list,
+    or emails on the school's domain.
+  - For each student: applications and checklists, GPA, test scores, saved items
+    and meetings.
+  - Every look at a student's file is written to `counsellor_access`. The
+    student's Account page names the counsellors who can see their file.
+- **Meetings.** Either side can ask (`POST /api/meetings`), and only the other
+  side can confirm (`PATCH /api/meetings/<id>`). Both get an email.
+- **Deleting an account.** Account → *Delete my account* asks for the password
+  again (`POST /api/auth/delete`). It removes the profile, sessions, saved items,
+  applications with their uploaded files, meetings, and the counsellor or tutor
+  role.
+
+---
+
 ## Checking that everything works
 
 ```bash
 python3 tools/smoke_test.py
 ```
 
-This runs 31 end-to-end checks against the running site: sign-up, verification,
+This runs 37 end-to-end checks against the running site: sign-up, verification,
 password reset, the 10% fee, slot holds, a declined card, payment, the ledger, a
 tutor application with photo, approval, the tutor's calendar, a refund,
-memberships, and that only Visa and Mastercard are accepted. It deletes its test accounts afterwards.
+memberships, that only Visa and Mastercard are accepted, and account deletion. It deletes its test accounts afterwards.
 
 ---
 

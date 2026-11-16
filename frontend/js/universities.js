@@ -105,7 +105,9 @@
     if (!t || t.amount === null || t.amount === undefined) return null;
     var rate = USD[(t.currency || 'USD').toUpperCase()];
     if (!rate) return null;
-    var perYear = t.per === 'semester' ? t.amount * 2 : t.amount;
+    // only yearly figures can be compared; per-credit or whole-programme fees are left out of the filter
+    var perYear = t.per === 'semester' ? t.amount * 2 : t.per === 'month' ? t.amount * 12 : t.per === 'year' ? t.amount : null;
+    if (perYear === null) return null;
     return Math.round(perYear * rate);
   }
 
@@ -350,11 +352,14 @@
   }
 
   /* ---------------------------------------------------------- cards */
+  // the fee period: per year, semester, credit, whole programme or month (none = not stated)
+  var PER_KEY = { year: 'uni.year', semester: 'uni.semester', credit: 'uni.perCredit', programme: 'uni.perProgramme', month: 'uni.perMonth' };
+
   function money(u) {
     var t = u.tuition_intl;
     if (!t || t.amount === null || t.amount === undefined) return '—';
     if (t.amount === 0) return M.t('uni.free');
-    return Number(t.amount).toLocaleString('en-US') + ' ' + (t.currency || '') + ' / ' + M.t(t.per === 'semester' ? 'uni.semester' : 'uni.year');
+    return Number(t.amount).toLocaleString('en-US') + ' ' + (t.currency || '') + (PER_KEY[t.per] ? ' / ' + M.t(PER_KEY[t.per]) : '');
   }
 
   function initials(name) {

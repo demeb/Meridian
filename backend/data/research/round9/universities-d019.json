@@ -1,0 +1,1236 @@
+[
+ {
+  "id": "university-of-calcutta",
+  "name": {
+   "en": "University of Calcutta",
+   "ka": "კალკუტის უნივერსიტეტი",
+   "ar": "جامعة كالكوتا"
+  },
+  "iso": "IN",
+  "city": "Kolkata",
+  "lat": 22.573,
+  "lon": 88.363,
+  "type": "public",
+  "website": "https://www.caluniv.ac.in",
+  "platform": null,
+  "application_url": "https://www.caluniv-ucsta.net/msc-btech/notice-2023/Section 11- For Foreign National Candidate.pdf",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "No fixed international deadline is published; foreign applicants apply by email to the department head or through the normal admission portal (2023 notice).",
+  "tuition_intl": {
+   "amount": 1000,
+   "currency": "USD",
+   "per": "year",
+   "note": "USD 500 or equivalent in INR per semester for all courses (2023 notice); all other fees as for Indian students."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "There is no entrance test in the foreign-national rules. The department may interview the applicant online or in person after checking the academic records.",
+   "ka": "უცხოელი სტუდენტების წესებში მისაღები გამოცდა არ არის მითითებული. დეპარტამენტმა აკადემიური დოკუმენტების შემოწმების შემდეგ შეიძლება აპლიკანტთან ონლაინ ან პირადად გასაუბრება ჩაატაროს.",
+   "ar": "لا يرد في قواعد الطلاب الأجانب اختبار قبول. وقد يُجري القسم مقابلة مع المتقدم عبر الإنترنت أو حضورياً بعد فحص السجلات الأكاديمية."
+  },
+  "gpa_note": {
+   "en": "The foreign qualification must receive an equivalence certificate from the Calcutta University Registrar office; foreign seats are 15% extra, above the regular intake.",
+   "ka": "უცხოური კვალიფიკაციისთვის საჭიროა კალკუტის უნივერსიტეტის რეგისტრატურის ეკვივალენტურობის სერტიფიკატი; უცხოელებისთვის გათვალისწინებულია სტანდარტულ ადგილებზე დამატებით 15%.",
+   "ar": "يجب أن يحصل المؤهل الأجنبي على شهادة معادلة من مكتب المسجل في جامعة كالكوتا؛ وتبلغ المقاعد المخصصة للأجانب 15% إضافية فوق القبول المعتاد."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts and mark sheets",
+     "ka": "საშუალო სკოლის ატესტატი და ნიშნების ფურცელი",
+     "ar": "كشوف درجات وشهادات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "AIU equivalence certificate for the foreign qualification",
+     "ka": "უცხოური კვალიფიკაციის AIU-ს ეკვივალენტურობის სერტიფიკატი",
+     "ar": "شهادة معادلة المؤهل الأجنبي من AIU"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Financial undertaking",
+     "ka": "ფინანსური ვალდებულების წერილი",
+     "ar": "تعهد مالي"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical fitness certificate",
+     "ka": "ჯანმრთელობის მდგომარეობის სამედიცინო ცნობა",
+     "ar": "شهادة اللياقة الطبية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "in",
+   "kolkata"
+  ],
+  "sources": [
+   "https://www.caluniv-ucsta.net/msc-btech/notice-2023/Section 11- For Foreign National Candidate.pdf",
+   "https://caluniv-ucsta.net/mtech/notice-2024/Foreign National Admission rules.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-mumbai",
+  "name": {
+   "en": "University of Mumbai",
+   "ka": "მუმბაის უნივერსიტეტი",
+   "ar": "جامعة مومباي"
+  },
+  "iso": "IN",
+  "city": "Mumbai",
+  "lat": 18.929,
+  "lon": 72.833,
+  "type": "public",
+  "website": "https://www.mu.ac.in",
+  "platform": "Single-window international admission portal (mu.admissiondesk.org)",
+  "application_url": "https://mu.admissiondesk.org",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "The 2025-26 circular for international students set the application window; 2027-28 dates are not yet published. Fees: USD 50 eligibility fee per course and USD 1000 admission processing fee, both non-refundable (2025-26).",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "humanities",
+   "social-sciences",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Arts",
+    "Commerce",
+    "Science"
+   ],
+   "ka": [
+    "ხელოვნება",
+    "კომერცია",
+    "მეცნიერება"
+   ],
+   "ar": [
+    "الآداب",
+    "التجارة",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "A large public affiliating university in Mumbai, India. Official fee and deadline details for international bachelor applicants were not available.",
+   "ka": "მუმბაის დიდი სახელმწიფო უნივერსიტეტი ინდოეთში.",
+   "ar": "جامعة حكومية كبيرة في مومباي بالهند."
+  },
+  "about": {
+   "en": "The University of Mumbai is a public university in Mumbai, India, with many affiliated colleges. International applicants should check the university and the Study in India portal for current rules.",
+   "ka": "მუმბაის უნივერსიტეტი სახელმწიფო უნივერსიტეტია მუმბაიში, ინდოეთში, ბევრი აფილირებული კოლეჯით.",
+   "ar": "جامعة مومباي جامعة حكومية في مومباي بالهند وتضم كليات مرتبطة كثيرة."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "No entrance test is named in the circular. Applicants upload their academic records and passport details, pay the eligibility fee, and receive a provisional admission letter if eligible.",
+   "ka": "ცირკულარში მისაღები გამოცდა არ არის დასახელებული. აპლიკანტები ტვირთავენ აკადემიურ დოკუმენტებსა და პასპორტის მონაცემებს, იხდიან უფლებამოსილების შემოწმების საფასურს და გამართლების შემთხვევაში იღებენ დროებით მიღების წერილს.",
+   "ar": "لا تذكر التعميمات اختبار قبول. يرفع المتقدمون سجلاتهم الأكاديمية وبيانات جواز السفر ويدفعون رسوم فحص الأهلية، ثم يتلقون خطاب قبول مؤقتاً إن كانوا مؤهلين."
+  },
+  "gpa_note": {
+   "en": "An Association of Indian Universities (AIU) equivalence certificate is required; eligibility is checked per course against the Mumbai University rules.",
+   "ka": "საჭიროა ინდოეთის უნივერსიტეტების ასოციაციის (AIU) ეკვივალენტურობის სერტიფიკატი; უფლებამოსილება მოწმდება თითოეული პროგრამისთვის მუმბაის უნივერსიტეტის წესებით.",
+   "ar": "يلزم الحصول على شهادة معادلة من رابطة الجامعات الهندية (AIU)، ويُفحص الاستحقاق لكل برنامج وفق قواعد جامعة مومباي."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts and mark sheets",
+     "ka": "საშუალო სკოლის ატესტატი და ნიშნების ფურცელი",
+     "ar": "كشوف درجات وشهادات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "AIU equivalence certificate for the foreign qualification",
+     "ka": "უცხოური კვალიფიკაციის AIU-ს ეკვივალენტურობის სერტიფიკატი",
+     "ar": "شهادة معادلة المؤهل الأجنبي من AIU"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო საფასური",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://mu.ac.in/wp-content/uploads/2025/03/Circular-for-Admission-for-International-Students-2025-26.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "aligarh-muslim-university",
+  "name": {
+   "en": "Aligarh Muslim University",
+   "ka": "ალიგარის მუსლიმური უნივერსიტეტი",
+   "ar": "جامعة عليكرة الإسلامية"
+  },
+  "iso": "IN",
+  "city": "Aligarh",
+  "lat": 27.915,
+  "lon": 78.08,
+  "type": "public",
+  "website": "https://www.amu.ac.in",
+  "platform": "AMU counselling portal (Foreign National / NRI category)",
+  "application_url": "https://counselling.amuonline.ac.in",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "For 2025-26 the Foreign National/NRI counselling ran 14-25 September 2025 for courses including B.A. (Hons.) and B.Com. (Hons.); 2027-28 dates are not yet published. Application processing fee is about USD 100 (INR 9,500 in a recent guide), non-refundable.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Hindi",
+   "Urdu"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "medicine-health",
+   "engineering",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Law",
+    "Humanities"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "სამართალი",
+    "ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "القانون",
+    "العلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "A public central university in Aligarh, India. Its website failed a security check, so no admissions data is listed here.",
+   "ka": "საჯარო ცენტრალური უნივერსიტეტი ალიგარში, ინდოეთი. ვებსაიტმა უსაფრთხოების შემოწმება ვერ გაიარა, ამიტომ მისაღები მონაცემები მითითებული არ არის.",
+   "ar": "جامعة مركزية عامة في عليكرة بالهند. فشل موقعها في فحص الأمان، لذلك لا تُذكر بيانات القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Admission is on merit in the qualifying examination. Foreign nationals register on the counselling portal, upload documents, and pay the admission fee online.",
+   "ka": "მიღება ხდება საკვალიფიკაციო გამოცდის შედეგების მიხედვით. უცხოელები რეგისტრირდებიან საკონსულტაციო პორტალზე, ტვირთავენ დოკუმენტებს და საფასურს ონლაინ იხდიან.",
+   "ar": "القبول على أساس التفوق في الامتحان المؤهِّل. يسجّل الأجانب في بوابة الاستشارات ويرفعون المستندات ويدفعون رسوم القبول إلكترونياً."
+  },
+  "gpa_note": {
+   "en": "Selection is on merit in the qualifying examination for most courses; MBBS and BDS follow separate rules.",
+   "ka": "უმეტეს პროგრამაზე შერჩევა ხდება საკვალიფიკაციო გამოცდის შედეგების მიხედვით; MBBS და BDS ცალკე წესებს ექვემდებარება.",
+   "ar": "يتم الاختيار في معظم البرامج بحسب التفوق في الامتحان المؤهِّل، بينما تخضع MBBS وBDS لقواعد منفصلة."
+  },
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Certificate of the qualifying examination",
+     "ka": "საკვალიფიკაციო გამოცდის სერტიფიკატი",
+     "ar": "شهادة الامتحان المؤهِّل"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid student visa",
+     "ka": "მოქმედი სასწავლო ვიზა",
+     "ar": "تأشيرة طالب سارية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical fitness certificate",
+     "ka": "ჯანმრთელობის მდგომარეობის სამედიცინო ცნობა",
+     "ar": "شهادة اللياقة الطبية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "aligarh",
+   "central university"
+  ],
+  "sources": [
+   "https://amucontrollerexams.com/page/view/counselling-cum-admission-schedule-for-various-courses-under-fnnris-category-2025-26-1757660395",
+   "https://amucontrollerexams.com/uploads/files/3a1821b49aecdf60c5f42fb0164f9c64.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "guru-gobind-singh-indraprastha-university",
+  "name": {
+   "en": "Guru Gobind Singh Indraprastha University",
+   "ka": "გურუ გობინდ სინგჰ ინდრაპრასთას უნივერსიტეტი",
+   "ar": "جامعة غورو غوبيند سينغ إندرابراسثا"
+  },
+  "iso": "IN",
+  "city": "New Delhi",
+  "lat": 28.59,
+  "lon": 77.019,
+  "type": "public",
+  "website": "https://ipu.ac.in",
+  "platform": null,
+  "application_url": "https://ipu.ac.in/intaff.php",
+  "intakes": [
+   "July/August"
+  ],
+  "deadline": null,
+  "deadline_note": "The 2026-27 international brochure gave 20 July 2026 as the last date (later extended for some schools); the process opens in late June. 2027-28 dates are not yet published.",
+  "tuition_intl": {
+   "amount": 2500,
+   "currency": "USD",
+   "per": "year",
+   "note": "First-year fee for most undergraduate programmes, rising to USD 3100 in year 5; B.Tech and B.Arch USD 3000 in year 1, rising by USD 150 a year (2026-27 brochure)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": 5.0,
+  "toefl_min": 60,
+  "duolingo_min": null,
+  "other_tests": [
+   "IELTS 6.0 / TOEFL 70 (management, law)",
+   "IELTS 7.0 / TOEFL 80 (humanities and social sciences)"
+  ],
+  "fields": [
+   "engineering",
+   "business",
+   "law",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Management",
+    "Law",
+    "Medical Sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მენეჯმენტი",
+    "სამართალი",
+    "სამედიცინო მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "الإدارة",
+    "القانون",
+    "العلوم الطبية"
+   ]
+  },
+  "summary": {
+   "en": "GGSIPU is a public state university in New Delhi, India, with many affiliated colleges. It publishes a yearly brochure for international students.",
+   "ka": "GGSIPU სახელმწიფო უნივერსიტეტია ნიუ-დელიში, ინდოეთი, მრავალი აფილირებული კოლეჯით. ყოველწლიურად აქვეყნებს ბროშურას საერთაშორისო სტუდენტებისთვის.",
+   "ar": "جامعة GGSIPU جامعة حكومية في نيودلهي بالهند ولها كليات منتسبة كثيرة. تنشر كل عام كتيبًا للطلاب الدوليين."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "Seats are offered first to ICCR scholarship applicants; no other dedicated aid is published in the brochure.",
+   "ka": "ადგილები პირველ რიგში ეთმობა ICCR-ის სტიპენდიის აპლიკანტებს; ბროშურაში სხვა სპეციალური დახმარება არ არის მითითებული.",
+   "ar": "تُعرض المقاعد أولاً على المتقدمين بمنحة ICCR، ولا تنشر النشرة مساعدات أخرى مخصصة."
+  },
+  "tests": {
+   "en": "No entrance test for foreign applicants; admission is on marks in the qualifying exam. English proof is needed: IELTS 5.0 or TOEFL 60 for most courses, IELTS 6.0 for management and law, IELTS 7.0 for humanities.",
+   "ka": "უცხოელი აპლიკანტებისთვის მისაღები გამოცდა არ არის; მიღება ხდება საკვალიფიკაციო გამოცდის ქულებით. საჭიროა ინგლისურის დამადასტურებელი: უმეტეს პროგრამაზე IELTS 5.0 ან TOEFL 60, მენეჯმენტსა და სამართალში IELTS 6.0, ჰუმანიტარულ მეცნიერებებში IELTS 7.0.",
+   "ar": "لا يوجد اختبار قبول للمتقدمين الأجانب؛ فالقبول بحسب علامات الامتحان المؤهِّل. يلزم إثبات اللغة الإنجليزية: IELTS 5.0 أو TOEFL 60 لمعظم البرامج، وIELTS 6.0 للإدارة والقانون، وIELTS 7.0 للعلوم الإنسانية."
+  },
+  "gpa_note": {
+   "en": "Eligibility is the same as for Indian students in each programme; an AIU equivalence statement is needed and the maximum age for undergraduate entry is 21 on 1 August 2026.",
+   "ka": "უფლებამოსილების პირობები იგივეა, რაც ინდოელი სტუდენტებისთვის თითოეულ პროგრამაზე; საჭიროა AIU-ს ეკვივალენტურობის დოკუმენტი, ბაკალავრიატში მაქსიმალური ასაკია 21 წელი 2026 წლის 1 აგვისტოსთვის.",
+   "ar": "شروط الأهلية هي نفسها المطبقة على الطلاب الهنود في كل برنامج؛ يلزم مستند معادلة من AIU، والحد الأقصى للعمر للقبول الجامعي 21 عاماً في 1 أغسطس 2026."
+  },
+  "requirements": [
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Completed international application form",
+     "ka": "შევსებული საერთაშორისო სააპლიკაციო ფორმა",
+     "ar": "استمارة الطلب الدولية المعبأة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Certificate of the qualifying examination",
+     "ka": "საკვალიფიკაციო გამოცდის სერტიფიკატი",
+     "ar": "شهادة الامتحان المؤهِّل"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "AIU equivalence certificate for the foreign qualification",
+     "ka": "უცხოური კვალიფიკაციის AIU-ს ეკვივალენტურობის სერტიფიკატი",
+     "ar": "شهادة معادلة المؤهل الأجنبي من AIU"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency proof (IELTS/TOEFL or medium-of-instruction certificate)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი (IELTS/TOEFL ან სწავლების ენის ცნობა)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (IELTS/TOEFL أو شهادة لغة التدريس)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Valid student visa",
+     "ka": "მოქმედი სასწავლო ვიზა",
+     "ar": "تأشيرة طالب سارية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical fitness certificate",
+     "ka": "ჯანმრთელობის მდგომარეობის სამედიცინო ცნობა",
+     "ar": "شهادة اللياقة الطبية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Conduct and character certificate",
+     "ka": "ქცევისა და ხასიათის ცნობა",
+     "ar": "شهادة حسن السيرة والسلوك"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "india",
+   "delhi",
+   "public"
+  ],
+  "sources": [
+   "https://ipu.ac.in/intaff.php",
+   "https://ipu.ac.in/Pubinfo2026/admbrinternational100726.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "indian-institute-of-technology-bhubaneswar",
+  "name": {
+   "en": "Indian Institute of Technology Bhubaneswar",
+   "ka": "ინდოეთის ტექნოლოგიური ინსტიტუტი ბჰუბანესვარი",
+   "ar": "المعهد الهندي للتكنولوجيا في بهوبانيسوار"
+  },
+  "iso": "IN",
+  "city": "Bhubaneswar",
+  "lat": 20.149,
+  "lon": 85.671,
+  "type": "public",
+  "website": "https://www.iitbbs.ac.in",
+  "platform": "JEE (Advanced) foreign-candidate route",
+  "application_url": "https://www.iitbbs.ac.in/index.php/home/academics/admission-b-tech-international/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Dates follow the JEE (Advanced) and JoSAA calendar; the institute page does not list a separate international deadline.",
+  "tuition_intl": {
+   "amount": 600000,
+   "currency": "INR",
+   "per": "year",
+   "note": "B.Tech tuition for non-SAARC foreign students per the institute academic profile (about INR 2 lakh for SAARC/least-developed countries), plus other charges; a later fee schedule may differ."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "JEE (Advanced)"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Basic sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "ფუნდამენტური მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "العلوم الأساسية"
+   ]
+  },
+  "summary": {
+   "en": "A government technical institute in Odisha, India. The university states it admits eligible international students; B.Tech fees and deadlines were not readable online.",
+   "ka": "სახელმწიფო ტექნიკური ინსტიტუტი ორისაში, ინდოეთი. ინსტიტუტი აცხადებს, რომ იღებს საერთაშორისო სტუდენტებს; B.Tech-ის საფასური და ვადები ვერ წაიკითხა.",
+   "ar": "معهد تقني حكومي في أوديشا بالهند. تذكر الجامعة أنها تقبل الطلاب الدوليين المؤهلين؛ لم تتوفر رسوم B.Tech ومواعيدها."
+  },
+  "about": {
+   "en": "IIT Bhubaneswar is one of India's Institutes of Technology and teaches in English. Foreign nationals are admitted through routes such as ICCR, the Study in India portal and sponsored channels. Bachelor entry for foreigners is usually through DASA; check the institute's international pages.",
+   "ka": "IIT ბჰუბანესვარი ინდოეთის ტექნოლოგიურ ინსტიტუტებს განეკუთვნება და სწავლება ინგლისურადაა. უცხოელები მიიღებიან ICCR-ის, Study in India პორტალისა და სპონსორული არხების გავლით.",
+   "ar": "IIT بهوبانيسوار أحد المعاهد الهندية للتكنولوجيا ويدرّس بالإنجليزية. يُقبل الأجانب عبر مسارات مثل ICCR وبوابة Study in India والقنوات المموَّلة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages reviewed.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة في الصفحات التي تمت مراجعتها."
+  },
+  "tests": {
+   "en": "Foreign nationals are admitted to B.Tech through the JEE (Advanced) foreign-candidate route. English communication is assessed in a seminar, and a communication skills course may be required.",
+   "ka": "უცხოელი მოქალაქეები B.Tech-ზე მიიღებიან JEE (Advanced)-ის უცხოელი კანდიდატებისთვის გათვალისწინებული გზით. ინგლისური კომუნიკაცია ფასდება სემინარზე და საჭიროების შემთხვევაში შესაძლოა კომუნიკაციის უნარების კურსი დაევალოს.",
+   "ar": "يُقبل الأجانب في B.Tech عبر مسار المتقدمين الأجانب في JEE (Advanced). تُقيَّم مهارات التواصل بالإنجليزية في ندوة، وقد يُطلب منهم مقرر في مهارات التواصل."
+  },
+  "gpa_note": {
+   "en": "Foreign national seats are supernumerary, capped at 10% of seats in every course; foreign nationals fall outside the OBC, SC, ST and PwD reservation categories.",
+   "ka": "უცხოელებისთვის განკუთვნილი ადგილები დამატებითია და თითოეულ პროგრამაზე ადგილების 10%-ით შემოიფარგლება; უცხოელები OBC, SC, ST და PwD კატეგორიებს არ მიეკუთვნებიან.",
+   "ar": "مقاعد الأجانب إضافية ولا تتجاوز 10% من المقاعد في كل برنامج، ولا يندرج الأجانب ضمن فئات OBC وSC وST وPwD."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "odisha",
+   "iit",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.iitbbs.ac.in/index.php/home/academics/admission-b-tech-international/",
+   "https://www.iitbbs.ac.in/index.php/international-relations/how-to-apply/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "kalinga-institute-of-industrial-technology-kiit-university",
+  "name": {
+   "en": "Kalinga Institute of Industrial Technology (KIIT) University",
+   "ka": "კალინგას ინდუსტრიული ტექნოლოგიების ინსტიტუტი (KIIT)",
+   "ar": "معهد كالينغا للتكنولوجيا الصناعية (KIIT)"
+  },
+  "iso": "IN",
+  "city": "Bhubaneswar",
+  "lat": 20.355,
+  "lon": 85.817,
+  "type": "private",
+  "website": "https://www.kiit.ac.in",
+  "platform": "KIIT international application portal",
+  "application_url": "https://kiitee.kiit.ac.in/international-application/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "No international deadline is published on the pages reached; contact the KIIT international office for the 2027 intake.",
+  "tuition_intl": {
+   "amount": 10000,
+   "currency": "USD",
+   "per": "year",
+   "note": "Undergraduate course fee for foreign nationals incl. NRI/OCI/PIO on the KIIT international fee page (excludes MBBS/BDS); the page may be dated."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer applications",
+    "Management",
+    "Medicine"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული აპლიკაციები",
+    "მენეჯმენტი",
+    "მედიცინა"
+   ],
+   "ar": [
+    "الهندسة",
+    "تطبيقات الحاسوب",
+    "الإدارة",
+    "الطب"
+   ]
+  },
+  "summary": {
+   "en": "A large private university in Bhubaneswar, India. Its website blocks automated reading, so fees and deadlines are not listed.",
+   "ka": "მსხვილი კერძო უნივერსიტეტი ბჰუბანესვარში, ინდოეთი. საიტი ავტომატურ წაკითხვას ბლოკავს, ამიტომ საფასური და ვადები არ არის მითითებული.",
+   "ar": "جامعة خاصة كبيرة في بهوبانيسوار بالهند. يحظر موقعها القراءة الآلية، لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "KIIT University in Bhubaneswar offers engineering, management, law, medicine and other bachelor programmes taught in English. It has a separate international students office. Check the official international admissions page for fees and dates.",
+   "ka": "KIIT უნივერსიტეტი ბჰუბანესვარში გთავაზობთ საინჟინრო, მენეჯმენტის, სამართლის, სამედიცინო და სხვა ბაკალავრის პროგრამებს ინგლისურად.",
+   "ar": "تقدم جامعة KIIT في بهوبانيسوار برامج بكالوريوس في الهندسة والإدارة والقانون والطب وغيرها بالإنجليزية ولها مكتب للطلاب الدوليين."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages reviewed.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة في الصفحات التي تمت مراجعتها."
+  },
+  "tests": {
+   "en": "International applicants apply on the KIIT portal with transcripts and passport. The 2026 international page lists no application or examination fee. English proof such as TOEFL or IELTS is optional.",
+   "ka": "საერთაშორისო აპლიკანტები მიმართავენ KIIT-ის პორტალზე ნიშნების ფურცლებითა და პასპორტით. 2026 წლის საერთაშორისო გვერდზე სააპლიკაციო ან საგამოცდო საფასური არ არის მითითებული. ინგლისურის დამადასტურებელი (TOEFL ან IELTS) არასავალდებულოა.",
+   "ar": "يقدّم المتقدمون الدوليون طلباتهم عبر بوابة KIIT مع كشوف الدرجات وجواز السفر. لا تذكر صفحة 2026 أي رسوم تقديم أو امتحان. إثبات اللغة مثل TOEFL أو IELTS اختياري."
+  },
+  "gpa_note": {
+   "en": "For B.Tech the KIITEE 2026 brochure asks for 10+2 with at least 60% in Physics, Chemistry and Mathematics taken together, from regular full-time schooling.",
+   "ka": "B.Tech-ისთვის KIITEE 2026-ის ბროშურა ითხოვს 10+2-ს ფიზიკაში, ქიმიასა და მათემატიკაში ჯამურად სულ მცირე 60%-ით, რეგულარული დღის სწავლებიდან.",
+   "ar": "تشترط نشرة KIITEE 2026 لبرنامج B.Tech شهادة 10+2 بما لا يقل عن 60% في الفيزياء والكيمياء والرياضيات مجتمعة، من دراسة نظامية بدوام كامل."
+  },
+  "requirements": [
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية بحجم جواز السفر"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts and mark sheets",
+     "ka": "საშუალო სკოლის ატესტატი და ნიშნების ფურცელი",
+     "ar": "كشوف درجات وشهادات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency proof (IELTS/TOEFL or medium-of-instruction certificate)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი (IELTS/TOEFL ან სწავლების ენის ცნობა)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (IELTS/TOEFL أو شهادة لغة التدريس)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "bhubaneswar",
+   "kiit"
+  ],
+  "sources": [
+   "https://kiit.ac.in/international-admission/",
+   "https://kiitee.kiit.ac.in/international-application/international-nri-admission-fees/",
+   "https://kiitee.kiit.ac.in/international-application/eligibility-criteria/",
+   "https://kiitee.kiit.ac.in/wp-content/uploads/2026/02/Information-Brochure-2026.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "panjab-university-chandigarh",
+  "name": {
+   "en": "Panjab University, Chandigarh",
+   "ka": "პანჯაბის უნივერსიტეტი, ჩანდიგარჰი",
+   "ar": "جامعة بانجاب، شانديغار"
+  },
+  "iso": "IN",
+  "city": "Chandigarh",
+  "lat": 30.76,
+  "lon": 76.768,
+  "type": "public",
+  "website": "https://www.puchd.ac.in",
+  "platform": "Study in India portal registration, then application on the Panjab University website",
+  "application_url": "https://dis.puchd.ac.in/guidelines.php",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Dates are notified by the university each year; first register on the Study in India portal to get a SII ID (needed for the student visa). 2027-28 dates are not yet published.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 5.0,
+  "toefl_min": 60,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "natural-sciences",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Chandigarh, India. Foreign nationals apply through the Dean of International Students and need an eligibility certificate.",
+   "ka": "საჯარო უნივერსიტეტი ჩანდიგარჰში, ინდოეთი. უცხოელები განაცხადს საერთაშორისო სტუდენტთა დეკანატის მეშვეობით აგზავნიან და სჭირდებათ შესაბამისობის სერტიფიკატი.",
+   "ar": "جامعة حكومية في شانديغار بالهند. يتقدم الأجانب عبر عميد الطلاب الدوليين ويحتاجون إلى شهادة أهلية."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "Foreign students from SAARC or underdeveloped countries get a fee concession; ICCR scholarship applicants apply through ICCR.",
+   "ka": "SAARC-ისა და ნაკლებად განვითარებული ქვეყნების უცხოელი სტუდენტები სარგებლობენ საფასურის შეღავათით; ICCR-ის სტიპენდიანტები სააპლიკაციოდ ICCR-ს მიმართავენ.",
+   "ar": "يحصل الطلاب الأجانب من دول سارك والدول الأقل نمواً على خصم في الرسوم؛ ويتقدم المرشحون لمنحة ICCR عبر ICCR."
+  },
+  "tests": {
+   "en": "The entrance test is waived for foreign-national and NRI applicants (except BDS/MDS and courses where regulators do not allow it). Students from non-English-speaking countries need IELTS 5.0 or TOEFL 60, or a medium-of-instruction certificate.",
+   "ka": "უცხოელებისა და NRI აპლიკანტებისთვის მისაღები გამოცდა გაუქმებულია (BDS/MDS-სა და იმ პროგრამების გარდა, სადაც მარეგულირებელი ამის უფლებას არ იძლევა). არაინგლისურენოვანი ქვეყნების სტუდენტებს სჭირდებათ IELTS 5.0 ან TOEFL 60, ან სწავლების ენის ცნობა.",
+   "ar": "أُلغي اختبار القبول للمتقدمين الأجانب والهنود غير المقيمين (باستثناء BDS/MDS والبرامج التي لا تسمح الجهات المنظمة بإعفائها). يحتاج طلاب الدول غير الناطقة بالإنجليزية إلى IELTS 5.0 أو TOEFL 60 أو شهادة لغة التدريس."
+  },
+  "gpa_note": {
+   "en": "Applicants must meet the academic eligibility of the chosen course and hold an equivalence certificate from the Panjab University Deputy Registrar or an AIU-approved equivalence; 25% extra seats are reserved for foreign nationals.",
+   "ka": "აპლიკანტმა უნდა დააკმაყოფილოს არჩეული პროგრამის აკადემიური მოთხოვნები და ჰქონდეს პენჯაბის უნივერსიტეტის რეგისტრატორის ან AIU-ს მიერ დამტკიცებული ეკვივალენტურობის სერტიფიკატი; უცხოელებისთვის დამატებით 25% ადგილია გათვალისწინებული.",
+   "ar": "يجب أن يستوفي المتقدم الشروط الأكاديمية للبرنامج المختار وأن يحمل شهادة معادلة من نائب المسجل في جامعة بنجاب أو معادلة معتمدة من AIU؛ وتُخصَّص 25% مقاعد إضافية للأجانب."
+  },
+  "requirements": [
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "AIU equivalence certificate for the foreign qualification",
+     "ka": "უცხოური კვალიფიკაციის AIU-ს ეკვივალენტურობის სერტიფიკატი",
+     "ar": "شهادة معادلة المؤهل الأجنبي من AIU"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency proof (IELTS/TOEFL or medium-of-instruction certificate)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი (IELTS/TOEFL ან სწავლების ენის ცნობა)",
+     "ar": "إثبات إتقان اللغة الإنجليزية (IELTS/TOEFL أو شهادة لغة التدريس)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Foreign Students Welfare Fee (about INR 1,655 a year) after admission",
+     "ka": "უცხოელ სტუდენტთა კეთილდღეობის გადასახადი (დაახლ. 1 655 რუპია წელიწადში) მიღების შემდეგ",
+     "ar": "رسوم رعاية الطلاب الأجانب (نحو 1,655 روبية سنوياً) بعد القبول"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "chandigarh"
+  ],
+  "sources": [
+   "https://ubsadmissions.puchd.ac.in/pdf/nri-guidelines-2026-27.pdf",
+   "https://dis.puchd.ac.in/",
+   "https://dis.puchd.ac.in/guidelines.php"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "srm-institute-of-science-and-technology",
+  "name": {
+   "en": "SRM Institute of Science and Technology",
+   "ka": "SRM მეცნიერებისა და ტექნოლოგიების ინსტიტუტი",
+   "ar": "معهد SRM للعلوم والتكنولوجيا"
+  },
+  "iso": "IN",
+  "city": "Chennai",
+  "lat": 12.823,
+  "lon": 80.045,
+  "type": "private",
+  "website": "https://www.srmuniv.ac.in",
+  "platform": "SRM international application portal",
+  "application_url": "https://intlapplications.srmist.edu.in/international-application-form-2025",
+  "intakes": [
+   "July/August"
+  ],
+  "deadline": null,
+  "deadline_note": "In the 2025-26 FAQ applications open in the first week of November; applications are due 15 June, documents by 20 June and full tuition by 30 June (15 July for medicine). 2027 dates may differ.",
+  "tuition_intl": {
+   "amount": 7000,
+   "currency": "USD",
+   "per": "year",
+   "note": "Most B.Tech programmes (2027 engineering table); Computer Science and Engineering USD 12,500; one-time registration fee USD 300; application fee USD 50."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "Edexcel, Cambridge/IGCSE, IB, American High School and similar qualifications are accepted if AIU recognises them as equal to Indian 10+2; A-level route is five O-levels plus two A-levels, or four O-levels plus three A-levels.",
+   "ka": "Edexcel, Cambridge/IGCSE, IB, ამერიკული საშუალო სკოლა და მსგავსი კვალიფიკაციები მიიღება, თუ AIU მათ ინდური 10+2-ის ტოლფასად აღიარებს; A-level გზა: ხუთი O-level და ორი A-level ან ოთხი O-level და სამი A-level.",
+   "ar": "تُقبل مؤهلات Edexcel وCambridge/IGCSE وIB والثانوية الأمريكية وما شابهها إذا اعترفت AIU بمعادلتها لـ 10+2 الهندية؛ ومسار A-level هو خمس مواد O-level ومادتان A-level، أو أربع O-level وثلاث A-level."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": {
+   "en": "A tuition scholarship for undergraduates with an SAT score or high school grades above 70% is listed on the engineering page; check the percentage with the university.",
+   "ka": "საინჟინრო გვერდზე ბაკალავრებისთვის მითითებულია სწავლის საფასურის სტიპენდია SAT-ის ქულით ან 70%-ზე მეტი სკოლის ნიშნებით; პროცენტი უნივერსიტეტთან დააზუსტეთ.",
+   "ar": "تذكر صفحة الهندسة منحة على الرسوم الدراسية لطلاب البكالوريوس الحاصلين على درجة SAT أو معدل مدرسي فوق 70%؛ يُرجى التأكد من النسبة مع الجامعة."
+  },
+  "tests": {
+   "en": "There is no entrance exam for foreign and NRI applicants; undergraduate admission is on marks in the school-leaving exam, first come first served. The medium of instruction is English.",
+   "ka": "უცხოელი და NRI აპლიკანტებისთვის მისაღები გამოცდა არ არის; ბაკალავრიატში მიღება ხდება სკოლის დამამთავრებელი გამოცდის ქულებით, პირველობის მიხედვით. სწავლების ენა ინგლისურია.",
+   "ar": "لا يوجد امتحان قبول للمتقدمين الأجانب وغير المقيمين؛ ويتم القبول الجامعي بحسب علامات الشهادة الثانوية وعلى أساس الأسبقية. لغة التدريس هي الإنجليزية."
+  },
+  "gpa_note": {
+   "en": "B.Tech needs at least 50% aggregate in Physics, Mathematics and one of Chemistry, Biology, Computer Science or similar; the foreign qualification must be AIU-equivalent to Indian 10+2.",
+   "ka": "B.Tech-ისთვის საჭიროა ფიზიკაში, მათემატიკასა და ქიმიის, ბიოლოგიის, კომპიუტერული მეცნიერების ან მსგავსი საგნიდან ერთ-ერთში ჯამურად სულ მცირე 50%; უცხოური კვალიფიკაცია AIU-ის მიხედვით ინდური 10+2-ის ეკვივალენტური უნდა იყოს.",
+   "ar": "يتطلب B.Tech ما لا يقل عن 50% في مجموع الفيزياء والرياضيات ومادة من الكيمياء أو الأحياء أو علوم الحاسوب أو ما يماثلها؛ ويجب أن يعادل المؤهل الأجنبي 10+2 الهندية بحسب AIU."
+  },
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts and mark sheets",
+     "ka": "საშუალო სკოლის ატესტატი და ნიშნების ფურცელი",
+     "ar": "كشوف درجات وشهادات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "AIU equivalence certificate for the foreign qualification",
+     "ka": "უცხოური კვალიფიკაციის AIU-ს ეკვივალენტურობის სერტიფიკატი",
+     "ar": "شهادة معادلة المؤهل الأجنبي من AIU"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية بحجم جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "chennai",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.srmist.edu.in/admission-international/engineering/",
+   "https://webstor.srmist.edu.in/web_assets/downloads/2025/faqs-ir-international-admissions-2025-2026.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "amrita-vishwa-vidyapeetham",
+  "name": {
+   "en": "Amrita Vishwa Vidyapeetham",
+   "ka": "ამრიტა ვიშვა ვიდიაპეტჰამი",
+   "ar": "جامعة أمريتا فيشوا فيديابيثام"
+  },
+  "iso": "IN",
+  "city": "Coimbatore",
+  "lat": 10.903,
+  "lon": 76.9,
+  "type": "private",
+  "website": "https://www.amrita.edu",
+  "platform": "Direct (international applicant portal)",
+  "application_url": "https://aoap.amrita.edu/international-26/index/",
+  "intakes": [
+   "August"
+  ],
+  "deadline": null,
+  "deadline_note": "Admissions for 2026-27 are closed; 2027-28 international applications are expected to open in March 2027.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "business"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": {
+   "en": "Students from SAARC and African countries may get a fee concession; the engineering page says no scholarships exist for NRI/OCI/PIO categories.",
+   "ka": "SAARC-ისა და აფრიკის ქვეყნების სტუდენტებს შეიძლება ჰქონდეთ საფასურის შეღავათი; საინჟინრო გვერდის მიხედვით NRI/OCI/PIO კატეგორიებისთვის სტიპენდიები არ არსებობს.",
+   "ar": "قد يحصل طلاب دول سارك وأفريقيا على خصم في الرسوم؛ وتذكر صفحة الهندسة عدم وجود منح لفئات NRI/OCI/PIO."
+  },
+  "tests": {
+   "en": "NRI and foreign applicants who studied Plus Two outside India are exempt from the entrance exam. Admission is on merit and an interview, held only for applicants fluent in English.",
+   "ka": "NRI და უცხოელი აპლიკანტები, რომლებმაც Plus Two ინდოეთს გარეთ დაამთავრეს, მისაღები გამოცდისგან თავისუფლდებიან. მიღება ხდება დამსახურებისა და გასაუბრების მიხედვით, რომელიც ტარდება მხოლოდ ინგლისურად თავისუფლად მოსაუბრე აპლიკანტებთან.",
+   "ar": "يُعفى الأجانب وغير المقيمين الذين درسوا Plus Two خارج الهند من امتحان القبول. يتم القبول على أساس التفوق ومقابلة تُجرى فقط مع المتقدمين المتقنين للإنجليزية."
+  },
+  "gpa_note": {
+   "en": "B.Tech: 10+2 with 75% aggregate in Maths, Physics and Chemistry for CBSE/ICSE (80% for state boards) and at least 60% in each; other systems preferably grade A. AIU equivalence is required for non-Indian syllabi.",
+   "ka": "B.Tech: 10+2 მათემატიკაში, ფიზიკასა და ქიმიაში ჯამურად 75% CBSE/ICSE-სთვის (80% შტატის საბჭოებისთვის) და თითოეულში სულ მცირე 60%; სხვა სისტემებისთვის სასურველია A შეფასება. არაინდური სასწავლო გეგმებისთვის საჭიროა AIU-ს ეკვივალენტურობა.",
+   "ar": "B.Tech: شهادة 10+2 بمعدل 75% في الرياضيات والفيزياء والكيمياء لمناهج CBSE/ICSE (80% لمجالس الولايات) وما لا يقل عن 60% في كل مادة؛ ويُفضَّل تقدير A في الأنظمة الأخرى. تلزم معادلة AIU للمناهج غير الهندية."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts and mark sheets",
+     "ka": "საშუალო სკოლის ატესტატი და ნიშნების ფურცელი",
+     "ar": "كشوف درجات وشهادات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية بحجم جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "AIU equivalence certificate for the foreign qualification",
+     "ka": "უცხოური კვალიფიკაციის AIU-ს ეკვივალენტურობის სერტიფიკატი",
+     "ar": "شهادة معادلة المؤهل الأجنبي من AIU"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical fitness certificate",
+     "ka": "ჯანმრთელობის მდგომარეობის სამედიცინო ცნობა",
+     "ar": "شهادة اللياقة الطبية"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Chancellor's Scholarship",
+    "url": "https://www.amrita.edu/international/admissions/",
+    "coverage": "full"
+   },
+   {
+    "name": "Meritorious Scholarship",
+    "url": "https://www.amrita.edu/international/admissions/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "in",
+   "coimbatore"
+  ],
+  "sources": [
+   "https://aoap.amrita.edu/international-26/index/",
+   "https://www.amrita.edu/admissions/international-admissions/engineering/",
+   "https://webfiles.amrita.edu/2023/03/international-student-admissions-terms-and-conditions-2023.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "sathyabama-institute-of-science-and-technology-deemed-to-be-university",
+  "name": {
+   "en": "Sathyabama Institute of Science and Technology (Deemed to be University)",
+   "ka": "სათიაბამას მეცნიერებისა და ტექნოლოგიის ინსტიტუტი",
+   "ar": "معهد ساثيابما للعلوم والتكنولوجيا (جامعة معتبرة)"
+  },
+  "iso": "IN",
+  "city": "Chennai",
+  "lat": 12.873,
+  "lon": 80.221,
+  "type": "private",
+  "website": "https://www.sathyabamauniversity.ac.in",
+  "platform": "Sathyabama online admission portal",
+  "application_url": "https://www.sathyabama.ac.in/International_Student_Admissions",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Pharmacy",
+    "Dentistry",
+    "Law"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ფარმაცია",
+    "სტომატოლოგია",
+    "სამართალი"
+   ],
+   "ar": [
+    "الهندسة",
+    "الصيدلة",
+    "طب الأسنان",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "Sathyabama is a private deemed university in Chennai offering engineering, science, law, pharmacy, dental and nursing degrees. Its site lists an online application portal; international eligibility and fees were not shown.",
+   "ka": "სათიაბამა კერძო უნივერსიტეტია ჩენაიში, რომელიც გთავაზობთ საინჟინრო, საბუნებისმეტყველო, სამართლის, ფარმაციის, სტომატოლოგიისა და მედდის პროგრამებს. საერთაშორისო პირობები და საფასურები არ ჩანს.",
+   "ar": "ساثيابما جامعة خاصة معتبرة في تشيناي تقدم الهندسة والعلوم والقانون والصيدلة وطب الأسنان والتمريض. لم تظهر شروط القبول الدولية والرسوم."
+  },
+  "about": {
+   "en": "Sathyabama is a private deemed university in Chennai offering engineering, science, law, pharmacy, dental and nursing degrees. Its site lists an online application portal; international eligibility and fees were not shown.",
+   "ka": "სათიაბამა კერძო უნივერსიტეტია ჩენაიში, რომელიც გთავაზობთ საინჟინრო, საბუნებისმეტყველო, სამართლის, ფარმაციის, სტომატოლოგიისა და მედდის პროგრამებს. საერთაშორისო პირობები და საფასურები არ ჩანს.",
+   "ar": "ساثيابما جامعة خاصة معتبرة في تشيناي تقدم الهندسة والعلوم والقانون والصيدلة وطب الأسنان والتمريض. لم تظهر شروط القبول الدولية والرسوم."
+  },
+  "aid_intl": {
+   "en": "Students from developing countries may be allowed up to 30% scholarship on the international tuition fee (admission policy).",
+   "ka": "განვითარებადი ქვეყნების სტუდენტებს საერთაშორისო სწავლის საფასურზე შეიძლება მიეცეთ 30%-მდე სტიპენდია (მიღების პოლიტიკა).",
+   "ar": "قد يُمنح طلاب الدول النامية منحة تصل إلى 30% من الرسوم الدراسية الدولية (سياسة القبول)."
+  },
+  "tests": {
+   "en": "Overseas, NRI and foreign-origin applicants do not sit the SAEEE entrance test; selection is on marks in the qualifying exam, subject to seat availability. Applicants send the form and documents by email.",
+   "ka": "საზღვარგარეთელ, NRI და უცხოური წარმოშობის აპლიკანტებს SAEEE მისაღები გამოცდა არ აქვთ; შერჩევა ხდება საკვალიფიკაციო გამოცდის ქულებით, ადგილების არსებობის შემთხვევაში. აპლიკანტები ფორმასა და დოკუმენტებს ელფოსტით აგზავნიან.",
+   "ar": "لا يخضع المتقدمون من الخارج وغير المقيمين وذوو الأصل الأجنبي لاختبار SAEEE؛ ويتم الاختيار بحسب علامات الامتحان المؤهِّل ووفق توفر المقاعد. يرسل المتقدمون الاستمارة والمستندات بالبريد الإلكتروني."
+  },
+  "gpa_note": {
+   "en": "Engineering programmes need 10+2 with Mathematics, Physics and Chemistry and about 45% aggregate for most programmes, as in the university admission policy.",
+   "ka": "საინჟინრო პროგრამებისთვის საჭიროა 10+2 მათემატიკით, ფიზიკითა და ქიმიით და უმეტეს პროგრამაზე დაახლოებით 45% ჯამურად, უნივერსიტეტის მიღების პოლიტიკის მიხედვით.",
+   "ar": "تتطلب البرامج الهندسية شهادة 10+2 مع الرياضيات والفيزياء والكيمياء ونحو 45% مجموعاً في معظم البرامج، وفق سياسة القبول بالجامعة."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "india",
+   "chennai"
+  ],
+  "sources": [
+   "https://www.sathyabama.ac.in/International_Student_Admissions",
+   "https://www.sathyabama.ac.in/sites/default/files/2020-12/ADMISSION%20POLICY%20OF%20SATHYABAMA%20%20(1).pdf"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

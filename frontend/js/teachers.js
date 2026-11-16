@@ -24,6 +24,14 @@
     return (teacher.regions || []).map(function (r) { return (TAX.legacyRegions || {})[r] || r; });
   }
 
+  /* subjects are grouped so the list reads at a glance */
+  var SUBJECT_GROUPS = [
+    ['tests', ['sat', 'act', 'ielts', 'toefl', 'duolingo', 'ap']],
+    ['school', ['math', 'physics', 'chemistry', 'biology', 'english', 'cs', 'history']],
+    ['languages', ['german', 'italian', 'japanese']],
+    ['programmes', ['flex-prep', 'uwc-prep', 'mun', 'olympiad']]
+  ];
+
   /* filter groups are toggle chips (not white checkboxes); every chip shows how many tutors match */
   function checkGroup(hostId, table, key, source) {
     var host = document.getElementById(hostId);
@@ -33,15 +41,29 @@
       var values = source === 'regions' ? regionsOf(teacher) : (teacher[source] || []);
       values.forEach(function (value) { used[value] = (used[value] || 0) + 1; });
     });
-    host.className = 'chip-filter';
-    host.innerHTML = Object.keys(table).filter(function (value) {
-      return used[value] && !(source === 'subjects' && COUNSELLING.indexOf(value) !== -1);
-    }).map(function (value) {
+    var chip = function (value) {
       return '<button type="button" class="fchip" data-value="' + value + '" aria-pressed="' + (filters[key].indexOf(value) !== -1) + '">' +
         '<span>' + M.esc(M.pick(table[value])) + '</span>' +
         '<span class="fchip-count">' + used[value] + '</span>' +
       '</button>';
-    }).join('');
+    };
+    var keep = function (value) { return used[value] && !(source === 'subjects' && COUNSELLING.indexOf(value) !== -1); };
+    if (source === 'subjects') {
+      var grouped = {};
+      host.className = 'chip-groups';
+      host.innerHTML = SUBJECT_GROUPS.map(function (group) {
+        var values = group[1].filter(function (v) { grouped[v] = 1; return table[v] && keep(v); });
+        return values.length ? '<div class="chip-group"><span class="chip-group-label">' + M.t('teachers.group.' + group[0]) + '</span>' +
+          '<div class="chip-filter">' + values.map(chip).join('') + '</div></div>' : '';
+      }).join('') + (function () {
+        var rest = Object.keys(table).filter(function (v) { return !grouped[v] && keep(v); });
+        return rest.length ? '<div class="chip-group"><span class="chip-group-label">' + M.t('teachers.group.other') + '</span>' +
+          '<div class="chip-filter">' + rest.map(chip).join('') + '</div></div>' : '';
+      })();
+    } else {
+      host.className = 'chip-filter';
+      host.innerHTML = Object.keys(table).filter(keep).map(chip).join('');
+    }
     host.querySelectorAll('[data-value]').forEach(function (chip) {
       chip.addEventListener('click', function () {
         var value = chip.getAttribute('data-value');
@@ -145,6 +167,33 @@
     '</article>';
   }
 
+  /* what is switched on, as pills you can remove one by one */
+  function paintActive() {
+    var host = document.getElementById('activeFilters');
+    if (!host) return;
+    var pills = [];
+    filters.subjects.forEach(function (v) { pills.push(['subjects', v, M.pick(SUBJECTS[v] || { en: v })]); });
+    filters.regions.forEach(function (v) { pills.push(['regions', v, M.pick(REGIONS[v] || { en: v })]); });
+    filters.languages.forEach(function (v) { pills.push(['languages', v, M.pick(LANGUAGES[v] || { en: v })]); });
+    if (filters.price < 200) pills.push(['price', '', '≤ $' + filters.price]);
+    if (filters.q) pills.push(['q', '', '“' + filters.q + '”']);
+    host.hidden = !pills.length;
+    host.innerHTML = pills.map(function (p) {
+      return '<button type="button" class="active-pill" data-k="' + p[0] + '" data-v="' + M.esc(p[1]) + '">' + M.esc(p[2]) + ' <span aria-hidden="true">×</span></button>';
+    }).join('') + (pills.length > 1 ? '<button type="button" class="link-btn" data-clear-all>' + M.t('teachers.filter.clear') + '</button>' : '');
+    host.querySelectorAll('.active-pill').forEach(function (b) {
+      b.addEventListener('click', function () {
+        var k = b.getAttribute('data-k'), v = b.getAttribute('data-v');
+        if (k === 'price') { filters.price = 200; var r = document.getElementById('priceRange'); r.value = 200; r.dispatchEvent(new Event('input')); return; }
+        if (k === 'q') { filters.q = ''; document.getElementById('teacherSearch').value = ''; }
+        else filters[k] = filters[k].filter(function (x) { return x !== v; });
+        paintFilters(); render();
+      });
+    });
+    var all2 = host.querySelector('[data-clear-all]');
+    if (all2) all2.addEventListener('click', function () { document.getElementById('clearFilters').click(); });
+  }
+
   function render() {
     var host = document.getElementById('teacherGrid');
     var count = document.getElementById('resultCount');
@@ -155,6 +204,7 @@
     var list = unlocked.filter(matches).sort(SORTS[filters.sort] || SORTS.recommended);
 
     count.textContent = list.length + ' ' + M.t('teachers.count');
+    paintActive();
 
     if (!list.length && !lockedOnes.length) {
       host.innerHTML = '<div class="empty-state" style="grid-column:1/-1">' + M.icon('users', 42) +

@@ -1,0 +1,978 @@
+[
+ {
+  "id": "azerbaijan-university-of-architecture-and-construction-azuac",
+  "name": {
+   "en": "Azerbaijan University of Architecture and Construction (AzUAC)",
+   "ka": "აზერბაიჯანის არქიტექტურისა და მშენებლობის უნივერსიტეტი",
+   "ar": "جامعة أذربيجان للهندسة المعمارية والإنشاءات"
+  },
+  "iso": "AZ",
+  "city": "Baku",
+  "lat": 40.384,
+  "lon": 49.835,
+  "type": "public",
+  "website": "https://www.azmiu.edu.az",
+  "platform": null,
+  "application_url": "https://admissions.azmiu.edu.az/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 2000,
+   "currency": "USD",
+   "per": "year",
+   "note": "USD 2,500 per year for architecture, design and urban planning; USD 2,000 for other programmes (official admissions page, 2024-25 round; confirm current year)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Azerbaijani",
+   "Russian"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Architecture",
+    "Civil Engineering",
+    "Construction"
+   ],
+   "ka": [
+    "არქიტექტურა",
+    "სამოქალაქო ინჟინერია",
+    "მშენებლობა"
+   ],
+   "ar": [
+    "العمارة",
+    "الهندسة المدنية",
+    "الإنشاءات"
+   ]
+  },
+  "summary": {
+   "en": "A public architecture and construction university in Baku. Foreign bachelor tuition is USD 2,000 a year (USD 2,500 for architecture and design).",
+   "ka": "არქიტექტურისა და მშენებლობის სახელმწიფო უნივერსიტეტი ბაქოში. უცხოელთა ბაკალავრიატის საფასური წელიწადში 2 000 აშშ დოლარია (არქიტექტურა და დიზაინი – 2 500).",
+   "ar": "جامعة حكومية للعمارة والإنشاءات في باكو. رسوم البكالوريوس للأجانب 2000 دولار سنويا (2500 للعمارة والتصميم)."
+  },
+  "about": {
+   "en": "AzUAC is a public university in Baku for architecture, construction and related engineering. Teaching is mainly in Azerbaijani and Russian. Foreign applicants apply on the university's admissions site with legalised school documents and a health certificate. Tuition is USD 2,000 a year, or USD 2,500 for architecture and design.",
+   "ka": "AzUAC სახელმწიფო უნივერსიტეტია ბაქოში, არქიტექტურასა და მშენებლობაზე ორიენტირებული. სწავლება ძირითადად აზერბაიჯანულ და რუსულ ენებზეა. უცხოელები აპლიკაციას აგზავნიან უნივერსიტეტის სამიღებო საიტზე ლეგალიზებული დოკუმენტებითა და ჯანმრთელობის ცნობით. სწავლის საფასური წელიწადში 2 000 აშშ დოლარია, არქიტექტურასა და დიზაინზე კი 2 500.",
+   "ar": "جامعة حكومية في باكو متخصصة في العمارة والإنشاءات والهندسة المرتبطة بها، والتدريس بالأذربيجانية والروسية بشكل رئيسي. يتقدم الأجانب عبر موقع القبول بوثائق دراسية مصدقة وشهادة صحية. الرسوم 2000 دولار سنويا، و2500 دولار للعمارة والتصميم."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": {
+   "en": "Applicants need a complete secondary education certificate and transcript, legalised or apostilled; the admissions page lists no minimum grade.",
+   "ka": "აპლიკანტს სჭირდება სრული საშუალო განათლების ატესტატი და ნიშნების ფურცელი, ლეგალიზებული ან აპოსტილირებული; მინიმალური ნიშანი გვერდზე მითითებული არ არის.",
+   "ar": "يحتاج المتقدم إلى شهادة ثانوية كاملة وكشف درجات مصدقين أو بأبوستيل، ولا تذكر صفحة القبول حدا أدنى للدرجات."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary education document (legalised or apostilled)",
+     "ka": "საშუალო განათლების დოკუმენტი (ლეგალიზებული ან აპოსტილირებული)",
+     "ar": "وثيقة التعليم الثانوي (مصدقة أو بأبوستيل)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Transcript (legalised or apostilled)",
+     "ka": "ატესტატის ნიშნების ფურცელი (ლეგალიზებული ან აპოსტილირებული)",
+     "ar": "كشف الدرجات (مصدق أو بأبوستيل)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport or identity card",
+     "ka": "მოქმედი პასპორტი ან პირადობის მოწმობა",
+     "ar": "جواز سفر أو بطاقة هوية سارية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Health certificate (HIV, hepatitis B and C) and a contract with the university",
+     "ka": "ჯანმრთელობის ცნობა (HIV, ჰეპატიტი B და C) და ხელშეკრულება უნივერსიტეტთან",
+     "ar": "شهادة صحية (HIV والتهاب الكبد B وC) وعقد مع الجامعة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.azmiu.edu.az",
+   "https://azmiu.edu.az/en/news/2556/",
+   "https://admissions.azmiu.edu.az/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "sumgayit-state-university",
+  "name": {
+   "en": "Sumgayit State University",
+   "ka": "სუმგაიტის სახელმწიფო უნივერსიტეტი",
+   "ar": "جامعة سومقايت الحكومية"
+  },
+  "iso": "AZ",
+  "city": "Sumgayit",
+  "lat": 40.589,
+  "lon": 49.668,
+  "type": "public",
+  "website": "https://sdu.edu.az",
+  "platform": "Ministry portal portal.edu.az (AOITAS system)",
+  "application_url": "https://portal.edu.az",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": {
+   "en": "Foreign applicants apply electronically via portal.edu.az from June to 10 September; classes start on 15 September (admission guidelines page; the 2026/27 call was announced in July 2026).",
+   "ka": "უცხოელები განაცხადს ელექტრონულად portal.edu.az-ზე აგზავნიან ივნისიდან 10 სექტემბრამდე; მეცადინეობა 15 სექტემბერს იწყება (მიღების წესების გვერდი; 2026/27 წლის მიღება 2026 წლის ივლისში გამოცხადდა).",
+   "ar": "يتقدم الأجانب إلكترونيا عبر portal.edu.az من حزيران/يونيو حتى 10 أيلول/سبتمبر، وتبدأ الدراسة في 15 أيلول/سبتمبر (صفحة قواعد القبول؛ أُعلن قبول 2026/27 في تموز/يوليو 2026)."
+  },
+  "tuition_intl": {
+   "amount": 1200,
+   "currency": "USD",
+   "per": "year",
+   "note": "Bachelor, paid in manat at the official rate, in full at the start of each semester; master USD 1,500; preparatory language course USD 1,000 (1 year) or 500 (6 months)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Azerbaijani",
+   "Russian"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": {
+   "en": "The Bright Future programme covered full tuition and free dormitory for 100 international students in selected majors (2025 call, deadline 10 September 2025).",
+   "ka": "Bright Future პროგრამა 100 უცხოელ სტუდენტს უფარავდა სრულ სწავლის საფასურსა და უფასო საერთო საცხოვრებელს შერჩეულ სპეციალობებზე (2025 წლის კონკურსი, ბოლო ვადა 10 სექტემბერი).",
+   "ar": "غطى برنامج Bright Future الرسوم كاملة والسكن الجامعي المجاني لـ100 طالب أجنبي في تخصصات محددة (دورة 2025، الموعد النهائي 10 أيلول/سبتمبر 2025)."
+  },
+  "tests": null,
+  "gpa_note": {
+   "en": "Applicants need a complete secondary education certificate with its supplement; foreign certificates need an apostille and a notarised Azerbaijani translation. No minimum grade is listed.",
+   "ka": "აპლიკანტს სჭირდება სრული საშუალო განათლების ატესტატი დანართით; უცხოური ატესტატი საჭიროებს აპოსტილსა და ნოტარიულად დამოწმებულ აზერბაიჯანულ თარგმანს. მინიმალური ნიშანი მითითებული არ არის.",
+   "ar": "يحتاج المتقدم إلى شهادة ثانوية كاملة مع ملحقها، والشهادات الأجنبية تتطلب أبوستيل وترجمة أذربيجانية موثقة. لا يُذكر حد أدنى للدرجات."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Complete secondary education certificate with supplement (apostille and notarised Azerbaijani translation if issued abroad)",
+     "ka": "სრული საშუალო განათლების ატესტატი დანართით (საზღვარგარეთ გაცემულის შემთხვევაში აპოსტილი და ნოტარიულად დამოწმებული აზერბაიჯანული თარგმანი)",
+     "ar": "شهادة الثانوية الكاملة مع الملحق (أبوستيل وترجمة أذربيجانية موثقة إذا صدرت في الخارج)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy valid for at least one year",
+     "ka": "პასპორტის ასლი, მოქმედი მინიმუმ ერთი წლით",
+     "ar": "نسخة من جواز السفر سارية لسنة على الأقل"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Health certificate (no HIV, hepatitis B or C)",
+     "ka": "ჯანმრთელობის ცნობა (HIV, ჰეპატიტი B და C-ს გარეშე)",
+     "ar": "شهادة صحية (خالية من HIV والتهاب الكبد B وC)"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Bright Future scholarship (100 places, full tuition and free dormitory; 2025 call)",
+    "url": "https://sdu.edu.az/en/news/3509",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "azerbaijan",
+   "sumgayit"
+  ],
+  "sources": [
+   "https://sdu.edu.az",
+   "https://sdu.edu.az/userfiles/image/news/Regulations of foreigners' admission.pdf",
+   "https://www.sdu.edu.az/userfiles/file/file_pdf/Majors%20and%20tuition%20fees%201111.pdf",
+   "https://sdu.edu.az/en/news/3941",
+   "https://sdu.edu.az/en/_admission_ruless",
+   "https://sdu.edu.az/en/news/3509"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "brac-university",
+  "name": {
+   "en": "BRAC University",
+   "ka": "BRAC უნივერსიტეტი",
+   "ar": "جامعة براك"
+  },
+  "iso": "BD",
+  "city": "Dhaka",
+  "lat": 23.78,
+  "lon": 90.407,
+  "type": "private",
+  "website": "https://www.bracu.ac.bd",
+  "platform": null,
+  "application_url": "https://www.bracu.ac.bd/admissions/international-applicants/undergraduate-admission",
+  "intakes": [
+   "Spring",
+   "Summer",
+   "Fall"
+  ],
+  "deadline": null,
+  "deadline_note": "International applicants can apply at any time of the year; no deadline is set. Contact the admissions office by email first and apply online.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "computer-science",
+   "engineering",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Computer science",
+    "Engineering",
+    "Architecture"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "კომპიუტერული მეცნიერება",
+    "ინჟინერია",
+    "არქიტექტურა"
+   ],
+   "ar": [
+    "الأعمال",
+    "علوم الحاسوب",
+    "الهندسة",
+    "العمارة"
+   ]
+  },
+  "summary": {
+   "en": "A private English-medium university in Dhaka, Bangladesh. Its admissions pages blocked automated access, so no fee or deadline is listed here.",
+   "ka": "კერძო ინგლისურენოვანი უნივერსიტეტი დაკაში, ბანგლადეში. მისაღები გვერდები ავტომატურ წვდომას ბლოკავს, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "جامعة خاصة تدرّس بالإنجليزية في دكا ببنغلاديش. حجبت صفحات القبول الوصول الآلي، لذلك لا تُذكر الرسوم أو المواعيد."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "International applicants contact the admissions office by email and apply online. Applicants with IELTS 6.5 are exempt from the written admission test for some programmes (ANT, ENG, LLB); weaker English may require remedial courses first.",
+   "ka": "საერთაშორისო აპლიკანტები ჯერ ელფოსტით ეკონტაქტებიან მისაღებ ოფისს და განაცხადს ონლაინ აგზავნიან. IELTS 6.5-ის მქონეები ზოგ პროგრამაზე (ANT, ENG, LLB) თავისუფლდებიან წერითი გამოცდისგან; სუსტი ინგლისურის შემთხვევაში შესაძლოა საჭირო გახდეს გამასწორებელი კურსები.",
+   "ar": "يتواصل المتقدمون الدوليون مع مكتب القبول بالبريد الإلكتروني ثم يقدمون طلبهم عبر الإنترنت. يُعفى حاملو IELTS 6.5 من امتحان القبول الكتابي في بعض البرامج (ANT وENG وLLB)، وقد يُطلب مقررات علاجية عند ضعف الإنجليزية."
+  },
+  "gpa_note": {
+   "en": "Recent BRAC pages ask for GPA 3.5 in SSC/O-Level and HSC/A-Level, with B in Physics and Mathematics at HSC (C at A-Level) for engineering and science programmes; check current figures with admissions.",
+   "ka": "BRAC-ის ბოლო გვერდებზე მოთხოვნილია GPA 3.5 SSC/O-Level-სა და HSC/A-Level-ში, ხოლო საინჟინრო და საბუნებისმეტყველო პროგრამებზე B ფიზიკასა და მათემატიკაში HSC-ზე (A-Level-ზე C); მიმდინარე მონაცემები გადაამოწმეთ მისაღებ ოფისში.",
+   "ar": "تطلب صفحات BRAC الحديثة معدل 3.5 في SSC/O-Level وHSC/A-Level، مع تقدير B في الفيزياء والرياضيات في HSC (وC في A-Level) لبرامج الهندسة والعلوم؛ تحقق من الأرقام الحالية مع القبول."
+  },
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee (US$20)",
+     "ka": "სააპლიკაციო მოსაკრებელი (20 აშშ დოლარი)",
+     "ar": "رسوم التقديم (20 دولارًا)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Attested copies of previous academic documents",
+     "ka": "წინა აკადემიური დოკუმენტების დამოწმებული ასლები",
+     "ar": "نسخ موثقة من الوثائق الأكاديمية السابقة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency test result",
+     "ka": "ინგლისური ენის ტესტის შედეგი",
+     "ar": "نتيجة اختبار إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalence certificate from the Board of Intermediate and Secondary Education, Dhaka, and attested documents",
+     "ka": "დაკას საშუალო განათლების საბჭოს ექვივალენტობის სერტიფიკატი და დამოწმებული დოკუმენტები",
+     "ar": "شهادة معادلة من مجلس التعليم الثانوي في دكا ووثائق مصدقة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport with student visa",
+     "ka": "პასპორტი სტუდენტური ვიზით",
+     "ar": "جواز سفر مع تأشيرة طالب"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Written admission test",
+     "ka": "წერითი მისაღები გამოცდა",
+     "ar": "اختبار قبول كتابي"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Admission interview",
+     "ka": "გასაუბრება",
+     "ar": "مقابلة قبول"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "bangladesh",
+   "dhaka",
+   "private university"
+  ],
+  "sources": [
+   "https://www.bracu.ac.bd/admissions/international-applicants/undergraduate-admission",
+   "https://www.bracu.ac.bd/admissions/tuition-and-fees",
+   "https://www.bracu.ac.bd/ug-international-applicant"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "daffodil-international-university",
+  "name": {
+   "en": "Daffodil International University",
+   "ka": "დაფოდილის საერთაშორისო უნივერსიტეტი",
+   "ar": "جامعة دافوديل الدولية"
+  },
+  "iso": "BD",
+  "city": "Dhaka",
+  "lat": 23.877,
+  "lon": 90.32,
+  "type": "private",
+  "website": "https://daffodilvarsity.edu.bd",
+  "platform": null,
+  "application_url": "https://admission.daffodilvarsity.edu.bd/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 8255,
+   "currency": "USD",
+   "per": "total",
+   "note": "Example: B.Sc. in CSE (154.5 credits, 4 years) tuition USD 8,255 plus USD 2,059 other fees = USD 10,314; BBA tuition USD 6,382 (total USD 8,239). Other programmes range from about USD 6,150 to 11,150 in total."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "computer-science",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Computer Science",
+    "Business",
+    "Engineering"
+   ],
+   "ka": [
+    "კომპიუტერული მეცნიერება",
+    "ბიზნესი",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "علوم الحاسوب",
+    "إدارة الأعمال",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "Daffodil International University is a private university in Dhaka, Bangladesh, with 38 programmes in 6 faculties. Fee waivers of up to 100% are offered to top achievers.",
+   "ka": "დაფოდილის საერთაშორისო უნივერსიტეტი კერძო უნივერსიტეტია დაკაში, ბანგლადეში, 6 ფაკულტეტზე 38 პროგრამით. საუკეთესო სტუდენტებს სწავლის საფასურის 100%-მდე შეღავათი ეძლევათ.",
+   "ar": "جامعة دافوديل الدولية جامعة خاصة في دكا ببنغلاديش، تقدم 38 برنامجًا في 6 كليات. تُمنح إعفاءات من الرسوم تصل إلى 100% للمتفوقين."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "International bachelor students can get a tuition waiver of 10% to 50% based on their latest semester SGPA (waiver policy 2025).",
+   "ka": "უცხოელ ბაკალავრიატის სტუდენტებს შეუძლიათ მიიღონ სწავლის საფასურის 10%-დან 50%-მდე შეღავათი ბოლო სემესტრის SGPA-ის მიხედვით.",
+   "ar": "يمكن لطلاب البكالوريوس الدوليين الحصول على إعفاء من الرسوم الدراسية من 10% إلى 50% بحسب معدل آخر فصل دراسي (SGPA)."
+  },
+  "tests": {
+   "en": "The international tuition page lists an IELTS preparation fee (USD 62) payable after arrival; the page does not state an English test score. A medical check (USD 50) and an admission form fee (USD 20) are paid after arrival.",
+   "ka": "საერთაშორისო საფასურების გვერდზე მითითებულია IELTS-ის მოსამზადებელი საფასური (62 აშშ დოლარი), რომელიც ჩამოსვლის შემდეგ იხდება; გვერდზე ინგლისურის ტესტის ქულა მითითებული არ არის. სამედიცინო შემოწმება (50 აშშ დოლარი) და განაცხადის საფასური (20 აშშ დოლარი) ასევე ჩამოსვლის შემდეგ იხდება.",
+   "ar": "تذكر صفحة الرسوم الدولية رسم دورة تحضير IELTS (62 دولارا) يُدفع بعد الوصول، ولا تذكر الصفحة درجة اختبار إنجليزي، كما يُدفع الفحص الطبي (50 دولارا) ورسم نموذج القبول (20 دولارا) بعد الوصول."
+  },
+  "gpa_note": {
+   "en": "Transcripts and certificates go to the Registrar and the Dean checks them for equivalence; the page asks for a good background in the chosen subject.",
+   "ka": "ტრანსკრიპტები და სერტიფიკატები ეგზავნება რეგისტრატორს, ხოლო დეკანი ამოწმებს მათ ექვივალენტობას; აბიტურიენტს უნდა ჰქონდეს კარგი მომზადება არჩეულ საგანში.",
+   "ar": "تُرسل كشوف الدرجات والشهادات إلى المسجّل ويتحقق العميد من معادلتها، ويُطلب من المتقدم خلفية جيدة في التخصص المختار."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ფურცელი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or equivalent",
+     "ka": "საშუალო განათლების დიპლომი ან ექვივალენტი",
+     "ar": "شهادة الثانوية العامة أو ما يعادلها"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalence check of the diploma",
+     "ka": "დიპლომის ექვივალენტობის შემოწმება",
+     "ar": "التحقق من معادلة الشهادة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "bangladesh",
+   "dhaka",
+   "private",
+   "fee waiver"
+  ],
+  "sources": [
+   "https://daffodilvarsity.edu.bd",
+   "https://daffodilvarsity.edu.bd/international/undergraduate-student",
+   "https://daffodilvarsity.edu.bd/int-tuition-fees",
+   "https://daffodilvarsity.edu.bd/images/download/waiver-policy2025.pdf",
+   "https://webbackend.daffodilvarsity.edu.bd/int-tuition-fees",
+   "https://admission.daffodilvarsity.edu.bd/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "duolingo_min": null,
+  "toefl_min": null,
+  "ielts_min": null,
+  "other_tests": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "scholarships": [],
+  "tests": null,
+  "gpa_note": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "students": null,
+  "aid_intl": null,
+  "verified_at": "2026-11-16",
+  "id": "jahangirnagar-university",
+  "name": {
+   "en": "Jahangirnagar University",
+   "ka": "ჯაჰანგირნაგარის უნივერსიტეტი",
+   "ar": "جامعة جاهانجيرناغار"
+  },
+  "iso": "BD",
+  "city": "Dhaka",
+  "lat": 23.883,
+  "lon": 90.269,
+  "type": "public",
+  "website": "https://www.juniv.edu",
+  "platform": "Direct (national-level undergraduate admission)",
+  "application_url": "https://bachelor.ju-admission.com",
+  "intakes": null,
+  "languages": [
+   "Bengali",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "natural-sciences",
+   "social-sciences",
+   "humanities",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Sciences",
+    "Social sciences",
+    "Humanities",
+    "Business"
+   ],
+   "ka": [
+    "მეცნიერებები",
+    "სოციალური მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "العلوم",
+    "العلوم الاجتماعية",
+    "العلوم الإنسانية",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "A public residential university near Dhaka. Bachelor admission runs through its own admission portal; the site does not describe an international route.",
+   "ka": "საჯარო საცხოვრებელი უნივერსიტეტი დაკასთან. ბაკალავრის მიღება მიმდინარეობს საკუთარი პორტალით; საიტზე საერთაშორისო გზა აღწერილი არ არის.",
+   "ar": "جامعة حكومية سكنية قرب دكا. يتم القبول في البكالوريوس عبر بوابتها الخاصة ولا يصف الموقع مسارا دوليا."
+  },
+  "about": {
+   "en": "Jahangirnagar University is a public residential university in Savar, near Dhaka. Bachelor (Honours) admission is run through the official admission portal bachelor.ju-admission.com. The main website does not publish rules for international applicants; write to registrar@juniv.edu.",
+   "ka": "ჯაჰანგირნაგარის უნივერსიტეტი საჯარო საცხოვრებელი უნივერსიტეტია სავარში, დაკასთან. ბაკალავრის (Honours) მიღება მიმდინარეობს პორტალით bachelor.ju-admission.com. საერთაშორისო აპლიკანტების წესები არ არის გამოქვეყნებული; მიწერეთ registrar@juniv.edu.",
+   "ar": "جامعة جاهانجيرناغار جامعة حكومية سكنية في سافار قرب دكا. يتم القبول في البكالوريوس (Honours) عبر بوابة bachelor.ju-admission.com. لا ينشر الموقع قواعد للمتقدمين الدوليين؛ راسل registrar@juniv.edu."
+  },
+  "requirements": null,
+  "keywords": [
+   "bangladesh",
+   "dhaka"
+  ],
+  "sources": [
+   "https://www.juniv.edu/",
+   "https://bachelor.ju-admission.com",
+   "https://bachelor.ju-admission.com/"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "duolingo_min": null,
+  "toefl_min": null,
+  "ielts_min": null,
+  "other_tests": null,
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Foreign nationals who passed secondary and higher secondary exams, or GCE O and A levels, from foreign boards are treated as foreign students and have a separate seat quota; applications go through the Ministry of Foreign Affairs and the Bangladeshi embassy.",
+   "ka": "უცხოელებად განიხილებიან უცხო ქვეყნის საგანმანათლებლო საბჭოებში საშუალო და უმაღლესი საშუალო ან GCE O და A დონის გამოცდები ჩაბარებული პირები; მათთვის ცალკე კვოტაა, ხოლო განაცხადი იგზავნება საგარეო საქმეთა სამინისტროსა და ბანგლადეშის საელჩოს მეშვეობით.",
+   "ar": "يُعتبر أجانب من اجتازوا امتحانات الثانوية أو GCE O وA من مجالس أجنبية، ولهم حصة مقاعد مستقلة، وتُقدَّم الطلبات عبر وزارة الخارجية والسفارة البنغلاديشية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "scholarships": [],
+  "tests": {
+   "en": "Applications go through the Bangladesh embassy or high commission in the applicant's country, not directly to KUET. The 2024 rules cap foreign undergraduate intake at 100 seats a session, at most 10 per department.",
+   "ka": "განაცხადი იგზავნება განმცხადებლის ქვეყანაში ბანგლადეშის საელჩოს ან უმაღლეს კომისარიატში და არა უშუალოდ KUET-ში. 2024 წლის წესებით უცხოელთა ბაკალავრიატის მიღება სესიაზე 100 ადგილით შემოიფარგლება, დეპარტამენტზე მაქსიმუმ 10.",
+   "ar": "تُرسل الطلبات عبر سفارة بنغلاديش أو مفوضيتها العليا في بلد المتقدم وليس مباشرة إلى KUET. وتحدد قواعد 2024 مقاعد الأجانب في البكالوريوس بـ100 مقعد في الدورة وبحد أقصى 10 لكل قسم."
+  },
+  "gpa_note": {
+   "en": "The 2024 rules ask for GPA 3.50 out of 5.00 (or equivalent) in SSC plus a pass in HSC or GCE A-Level; the 2026-27 guidelines ask for grade B in five or more O-Level subjects and in the required A-Level/HSC subjects.",
+   "ka": "2024 წლის წესები მოითხოვს SSC-ში GPA 3.50-ს 5.00-დან (ან ექვივალენტს) და HSC-ის ან GCE A-Level-ის ჩაბარებას; 2026-27 წლის სახელმძღვანელო მოითხოვს B ნიშანს O-Level-ის ხუთ ან მეტ საგანში და საჭირო A-Level/HSC საგნებში.",
+   "ar": "تشترط قواعد 2024 معدل 3.50 من 5.00 (أو ما يعادله) في SSC مع النجاح في HSC أو GCE A-Level؛ وتشترط إرشادات 2026-27 تقدير B في خمس مواد أو أكثر من O-Level وفي مواد A-Level/HSC المطلوبة."
+  },
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 300,
+   "currency": "USD",
+   "per": "term",
+   "note": "2024 rules for non-SAARC students: USD 150 admission fee and USD 300 course registration fee per term; other fees as for local students. SAARC students pay per Bangladesh government rules. The 2026-27 guidelines mention a full tuition waiver, so confirm."
+  },
+  "students": null,
+  "aid_intl": null,
+  "verified_at": "2026-11-16",
+  "id": "khulna-university-of-engineering-and-technology",
+  "name": {
+   "en": "Khulna University of Engineering and Technology",
+   "ka": "ხულნას საინჟინრო და ტექნოლოგიური უნივერსიტეტი",
+   "ar": "جامعة خولنا للهندسة والتكنولوجيا"
+  },
+  "iso": "BD",
+  "city": "Khulna",
+  "lat": 22.899,
+  "lon": 89.503,
+  "type": "public",
+  "website": "https://kuet.ac.bd",
+  "platform": "Direct",
+  "application_url": "https://www.kuet.ac.bd/program/isapplyprocedure",
+  "intakes": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Architecture",
+    "Urban planning",
+    "Computer science"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "არქიტექტურა",
+    "ურბანული დაგეგმარება",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الهندسة",
+    "العمارة",
+    "التخطيط العمراني",
+    "علوم الحاسب"
+   ]
+  },
+  "summary": {
+   "en": "A public engineering university in Khulna, Bangladesh. Its site had an invalid certificate, so admission details are not confirmed.",
+   "ka": "საჯარო საინჟინრო უნივერსიტეტი ხულნაში (ბანგლადეში). საიტის სერტიფიკატი არასწორი იყო, ამიტომ დეტალები დადასტურებული არ არის.",
+   "ar": "جامعة هندسية حكومية في خولنا ببنغلاديش. كانت شهادة موقعها غير صالحة لذا لم تتأكد التفاصيل."
+  },
+  "about": {
+   "en": "KUET is a public engineering and technology university in Khulna, Bangladesh. Its website could not be verified, so fees, deadlines and foreign-student rules must be requested from the university.",
+   "ka": "KUET საჯარო საინჟინრო უნივერსიტეტია ხულნაში. საიტი ვერ გადამოწმდა, ამიტომ საფასური, ვადები და უცხოელთა წესები გაარკვიეთ უნივერსიტეტთან.",
+   "ar": "KUET جامعة هندسية حكومية في خولنا ببنغلاديش. تعذر التحقق من موقعها لذا اطلب الرسوم والمواعيد وقواعد الطلاب الأجانب من الجامعة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Official academic credentials (two copies), including transcripts",
+     "ka": "ოფიციალური აკადემიური დოკუმენტები (ორი ეგზემპლარი), მათ შორის ნიშნების ფურცელი",
+     "ar": "وثائق أكاديمية رسمية (نسختان) تشمل كشف الدرجات"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "SSC/O-Level and HSC/A-Level certificates or equivalent",
+     "ka": "SSC/O-Level და HSC/A-Level სერტიფიკატები ან ექვივალენტი",
+     "ar": "شهادات SSC/O-Level وHSC/A-Level أو ما يعادلها"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Application routed through the Bangladesh embassy or high commission",
+     "ka": "განაცხადი ბანგლადეშის საელჩოს ან უმაღლესი კომისარიატის გავლით",
+     "ar": "تقديم الطلب عبر سفارة بنغلاديش أو مفوضيتها العليا"
+    }
+   }
+  ],
+  "keywords": [
+   "bangladesh",
+   "khulna",
+   "engineering"
+  ],
+  "sources": [
+   "https://kuet.ac.bd",
+   "https://admission.kuet.ac.bd/",
+   "https://www.kuet.ac.bd/program/isapplyprocedure",
+   "https://www.kuet.ac.bd/storage/webfile/international_student/Rules_for_International_Students_Admission_to_KUET_06-07-2024.pdf",
+   "https://admission.kuet.ac.bd/uploads/notices/3.Prospectus-Eng.pdf"
+  ]
+ },
+ {
+  "id": "shahjalal-university-of-science-and-technology",
+  "name": {
+   "en": "Shahjalal University of Science and Technology",
+   "ka": "შაჯალალის მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი",
+   "ar": "جامعة شاهجلال للعلوم والتكنولوجيا"
+  },
+  "iso": "BD",
+  "city": "Sylhet",
+  "website": "https://www.sust.edu",
+  "platform": null,
+  "application_url": "https://www.sust.edu/190/content-details/29/5",
+  "intakes": [
+   "January",
+   "July"
+  ],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 1200,
+   "currency": "USD",
+   "per": "year",
+   "note": "Archived SUST international student document: USD 500 per year for SAARC citizens, USD 1,200 for other countries, plus other fees; confirm current amounts."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A public science and technology university in Sylhet, Bangladesh. The official website blocked automated reading (HTTP 403), so no admission, fee or deadline data could be verified.",
+   "ka": "საჯარო მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი ბანგლადეშის ქალაქ სილჰეტში. ოფიციალურმა საიტმა ავტომატური წაკითხვა დაბლოკა (HTTP 403), ამიტომ მიღების, საფასურისა და ვადების მონაცემები ვერ შემოწმდა.",
+   "ar": "جامعة حكومية للعلوم والتكنولوجيا في سيلهيت ببنغلاديش. حجب الموقع الرسمي القراءة الآلية (HTTP 403) فلم يمكن التحقق من بيانات القبول والرسوم والمواعيد."
+  },
+  "about": {
+   "en": "SUST is a public university of science and technology in Sylhet, Bangladesh. Its official site could not be read in this round, so admissions details for international bachelor applicants are not available here; please check sust.edu directly.",
+   "ka": "SUST არის მეცნიერებისა და ტექნოლოგიების საჯარო უნივერსიტეტი ბანგლადეშში, სილჰეტში. ამ ეტაპზე ოფიციალური საიტის წაკითხვა ვერ მოხერხდა, ამიტომ უცხოელი ბაკალავრების მიღების დეტალები აქ მიუწვდომელია; გთხოვთ, გადაამოწმოთ sust.edu-ზე.",
+   "ar": "SUST جامعة حكومية للعلوم والتكنولوجيا في سيلهيت ببنغلاديش. تعذّر قراءة موقعها الرسمي في هذه الجولة، لذا لا تتوفر هنا تفاصيل القبول للطلاب الدوليين؛ يرجى مراجعة sust.edu مباشرة."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Applications go through the Bangladesh Ministry of Education; an admission committee checks eligibility and the file goes to the Foreign Student Admission Processing Unit in the Registrar's office.",
+   "ka": "განაცხადები გადის ბანგლადეშის განათლების სამინისტროში; სამიღებო კომისია ამოწმებს შესაბამისობას და დოსიე გადაეცემა რექტორატის უცხოელ სტუდენტთა მიღების დამუშავების განყოფილებას.",
+   "ar": "تُقدم الطلبات عبر وزارة التعليم في بنغلاديش؛ تتحقق لجنة القبول من الأهلية ثم يُحال الملف إلى وحدة معالجة قبول الطلاب الأجانب في مكتب المسجل."
+  },
+  "gpa_note": {
+   "en": "Admission of foreign students depends on verification of their academic records under university rules; certificates and transcripts must be notarized by the foreign ministry of the applicant's country.",
+   "ka": "უცხოელი სტუდენტების მიღება დამოკიდებულია აკადემიური ჩანაწერების შემოწმებაზე უნივერსიტეტის წესების მიხედვით; სერტიფიკატები და ტრანსკრიპტები უნდა დამოწმდეს აპლიკანტის ქვეყნის საგარეო საქმეთა სამინისტროში.",
+   "ar": "يعتمد قبول الطلاب الأجانب على التحقق من سجلاتهم الأكاديمية وفق أنظمة الجامعة، ويجب توثيق الشهادات وكشوف الدرجات لدى وزارة خارجية بلد المتقدم."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ფურცელი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or equivalent",
+     "ka": "საშუალო განათლების დიპლომი ან ექვივალენტი",
+     "ar": "شهادة الثانوية العامة أو ما يعادلها"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Certificates and transcripts notarised by the foreign ministry of the applicant's country",
+     "ka": "სერტიფიკატები და ტრანსკრიპტები, დამოწმებული განმცხადებლის ქვეყნის საგარეო უწყების მიერ",
+     "ar": "شهادات وكشوف درجات موثقة من وزارة خارجية بلد المتقدم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "bangladesh",
+   "sylhet",
+   "science and technology"
+  ],
+  "sources": [
+   "https://www.sust.edu",
+   "https://sust.edu/190/content-details/29/5",
+   "https://archive.sust.edu/uploads/documents/Website_International-Student.pdf"
+  ],
+  "verified_at": "2026-11-16",
+  "type": "public",
+  "lat": 24.919,
+  "lon": 91.832
+ },
+ {
+  "id": "university-of-mons",
+  "name": {
+   "en": "University of Mons",
+   "ka": "მონსის უნივერსიტეტი",
+   "ar": "جامعة مونس"
+  },
+  "iso": "BE",
+  "city": "Mons",
+  "lat": 50.454,
+  "lon": 3.953,
+  "type": "public",
+  "website": "https://web.umons.ac.be",
+  "platform": null,
+  "application_url": "https://web.umons.ac.be/en/missions/register-at-umons/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": {
+   "en": "Applicants from outside the EU must prove any assimilation criteria by 31 October of the academic year; fee-reduction requests are made between 1 July and 31 October. Non-EU applicants needing a study visa had a 31 March deadline in 2025-26, and must be in Belgium by 30 September to register.",
+   "ka": "ევროკავშირს გარეთ მყოფმა აპლიკანტებმა ასიმილაციის კრიტერიუმები აკადემიური წლის 31 ოქტომბრამდე უნდა დაადასტურონ; საფასურის შემცირების თხოვნა 1 ივლისიდან 31 ოქტომბრამდე შეიძლება. 2025-26 წელს სასწავლო ვიზის მქონე არა-ევროკავშირელებისთვის ბოლო ვადა 31 მარტი იყო; რეგისტრაციისთვის ბელგიაში 30 სექტემბრამდე უნდა იყვნენ.",
+   "ar": "على المتقدمين من خارج الاتحاد الأوروبي إثبات معايير المعادلة بحلول 31 أكتوبر من السنة الدراسية، وتُقدَّم طلبات تخفيض الرسوم بين 1 يوليو و31 أكتوبر. وكان الموعد النهائي لمن يحتاجون تأشيرة دراسة من خارج الاتحاد 31 آذار/مارس في 2025-26، ويجب أن يكونوا في بلجيكا قبل 30 أيلول/سبتمبر للتسجيل."
+  },
+  "tuition_intl": {
+   "amount": 5369,
+   "currency": "EUR",
+   "per": "year",
+   "note": "2026-27, non-EU students not assimilated to EU status: minerval EUR 1,194 plus a EUR 4,175 supplement; the supplement can be waived for some countries or assimilated students."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "DELF/TCF/TEF (French)",
+   "Special engineering entrance exam (if no equivalence)"
+  ],
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "The University of Mons is a public university in Wallonia, Belgium, teaching mainly in French. Official admission pages could not be read this round.",
+   "ka": "მონსის უნივერსიტეტი ბელგიის ვალონიაში მდებარე საჯარო უნივერსიტეტია, სწავლება ძირითადად ფრანგულია. ოფიციალური მიღების გვერდები ამ ეტაპზე ვერ ჩაიტვირთა.",
+   "ar": "جامعة مونس جامعة حكومية في والونيا ببلجيكا، والتدريس فيها بالفرنسية أساسا. لم يمكن قراءة صفحات القبول الرسمية في هذه الجولة."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Teaching is in French; proof of French is a government-listed test (such as DELF, TCF or TEF) unless the diploma was taught in French. Engineering bachelor applicants without equivalence sit the special entrance exam.",
+   "ka": "სწავლება ფრანგულია; ფრანგული ენის დასადასტურებლად საჭიროა მთავრობის სიაში შეტანილი ტესტი (მაგ. DELF, TCF ან TEF), თუ დიპლომი ფრანგულ ენაზე არ არის მიღებული. საინჟინრო ბაკალავრიატის აპლიკანტებს ექვივალენტობის გარეშე უწევთ სპეციალური მისაღები გამოცდა.",
+   "ar": "التدريس بالفرنسية؛ يُثبت إتقانها باختبار معتمد حكوميا (مثل DELF أو TCF أو TEF) ما لم تكن لغة تدريس الدبلوم الفرنسية. ويؤدي المتقدمون لبكالوريوس الهندسة دون معادلة امتحان القبول الخاص."
+  },
+  "gpa_note": {
+   "en": "A foreign secondary diploma needs an official equivalence decision from the French Community of Belgium (for engineering, a diploma without equivalence needs the special entrance exam). Non-EU applicants may sit the exam only with prior authorisation.",
+   "ka": "უცხოური საშუალო განათლების დიპლომს სჭირდება ბელგიის ფრანგული თემის ოფიციალური ექვივალენტობის გადაწყვეტილება (საინჟინრო მიმართულებაზე ექვივალენტობის გარეშე საჭიროა სპეციალური მისაღები გამოცდა). ევროკავშირს გარეთ მყოფებს გამოცდის ჩაბარება მხოლოდ წინასწარი ნებართვით შეუძლიათ.",
+   "ar": "يحتاج الدبلوم الثانوي الأجنبي إلى قرار معادلة رسمي من الجماعة الفرنسية في بلجيكا (وفي الهندسة يلزم امتحان القبول الخاص إذا لم توجد معادلة). ولا يجوز لمن هم من خارج الاتحاد الأوروبي دخول الامتحان إلا بإذن مسبق."
+  },
+  "requirements": [
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalence decision for the foreign diploma",
+     "ka": "უცხოური დიპლომის ექვივალენტობის გადაწყვეტილება",
+     "ar": "قرار معادلة للدبلوم الأجنبي"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Transcripts and diplomas from the last secondary years",
+     "ka": "წინა წლების ტრანსკრიპტები და დიპლომები",
+     "ar": "كشوف الدرجات والدبلومات للسنوات السابقة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid ID or passport and cover letter",
+     "ka": "მოქმედი პირადობა ან პასპორტი და მოტივაციის წერილი",
+     "ar": "هوية أو جواز سفر ساري ورسالة تقديم"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "French proficiency proof (DELF, TCF or TEF)",
+     "ka": "ფრანგულის ცოდნის დამადასტურებელი (DELF, TCF ან TEF)",
+     "ar": "إثبات إتقان الفرنسية (DELF أو TCF أو TEF)"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://web.umons.ac.be",
+   "https://web.umons.ac.be/app/uploads/2026/02/Guide-de-ladmission-2026-2027-version-16-02.pdf",
+   "https://web.umons.ac.be/app/uploads/2026/02/Budget-annuel-2026-27-version-16-02.pdf",
+   "https://web.umons.ac.be/en/missions/register-at-umons/",
+   "https://web.umons.ac.be/app/uploads/2026/02/Admissions-guide_EN_26-27-version-16-02.pdf",
+   "https://web.umons.ac.be/en/teaching/register-at-umons/examen-dadmission-aux-etudes-de-1er-cycle-de-lenseignement-superieur/"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

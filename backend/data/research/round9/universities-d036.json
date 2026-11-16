@@ -1,0 +1,1264 @@
+[
+ {
+  "id": "lviv-polytechnic-national-university",
+  "name": {
+   "en": "Lviv Polytechnic National University",
+   "ka": "ლვივის პოლიტექნიკური ეროვნული უნივერსიტეტი",
+   "ar": "جامعة لفيف البوليتكنيك الوطنية"
+  },
+  "iso": "UA",
+  "city": "Lviv",
+  "lat": 49.836,
+  "lon": 24.014,
+  "type": "public",
+  "website": "https://lpnu.ua",
+  "platform": null,
+  "application_url": "https://lpnu.ua/en/department-foreign-students/general-admission-procedure-international-applicants",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "No application deadline is published on the international admission pages.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Ukrainian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Interview in specialised subjects"
+  ],
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "A public technical university in Lviv, Ukraine. Foreign applicants may enter a preparatory department (8-9 months) or, for English-taught programmes, be admitted by interview in a foreign language, physics and mathematics.",
+   "ka": "სახელმწიფო ტექნიკური უნივერსიტეტი ლვივში, უკრაინა. უცხოელ აპლიკანტებს შეუძლიათ ჩაირიცხონ მოსამზადებელ განყოფილებაში (8-9 თვე) ან ინგლისურენოვან პროგრამებზე გასაუბრებით (უცხო ენა, ფიზიკა, მათემატიკა).",
+   "ar": "جامعة تقنية حكومية في لفيف بأوكرانيا. يمكن للمتقدمين الأجانب الالتحاق بقسم تحضيري (8-9 أشهر) أو القبول في البرامج الإنجليزية بمقابلة في لغة أجنبية والفيزياء والرياضيات."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "No written entrance exam is listed. Enrolment depends on an interview in specialised subjects; applicants without Ukrainian or English enter the Preparatory Department first.",
+   "ka": "წერილობითი მისაღები გამოცდა არ არის მითითებული. ჩარიცხვა დამოკიდებულია გასაუბრებაზე პროფილურ საგნებში; უკრაინული ან ინგლისური ენის არმცოდნეები ჯერ მოსამზადებელ განყოფილებაში ირიცხებიან.",
+   "ar": "لا يُذكر امتحان قبول كتابي. يعتمد القبول على مقابلة في المواد التخصصية، ومن لا يتقن الأوكرانية أو الإنجليزية يلتحق أولاً بالقسم التحضيري."
+  },
+  "gpa_note": {
+   "en": "The previous-education diploma and its grades supplement must be approved by the issuing country's education authority, legalised and recognised under Ukrainian law.",
+   "ka": "წინა განათლების დიპლომი და შეფასებების დანართი უნდა დამტკიცდეს გამცემი ქვეყნის განათლების ორგანოს მიერ, ლეგალიზებული და აღიარებული იყოს უკრაინის კანონმდებლობით.",
+   "ar": "يجب أن تعتمد جهة التعليم في بلد الإصدار شهادة المرحلة السابقة وملحق الدرجات، وأن تُوثَّق وتُعترف بها وفق القانون الأوكراني."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photos",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate and insurance",
+     "ka": "სამედიცინო ცნობა და დაზღვევა",
+     "ar": "شهادة طبية وتأمين صحي"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Entrance interview",
+     "ka": "შესასვლელი გასაუბრება",
+     "ar": "مقابلة القبول"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma legalisation and recognition",
+     "ka": "დიპლომის ლეგალიზაცია და აღიარება",
+     "ar": "توثيق الشهادة والاعتراف بها"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "ukraine",
+   "lviv"
+  ],
+  "sources": [
+   "https://lpnu.ua/en/department-foreign-students/general-admission-procedure-international-applicants",
+   "https://lpnu.ua/en/department-foreign-students/admission-requirements-bamaphd"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "sumy-state-university",
+  "name": {
+   "en": "Sumy State University",
+   "ka": "სუმის სახელმწიფო უნივერსიტეტი",
+   "ar": "جامعة سومي الحكومية"
+  },
+  "iso": "UA",
+  "city": "Sumy",
+  "lat": 50.906,
+  "lon": 34.798,
+  "type": "public",
+  "website": "https://sumdu.edu.ua",
+  "platform": null,
+  "application_url": "https://study.sumdu.edu.ua/en/vstup-2/how-to-apply.html",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 1350,
+   "currency": "USD",
+   "per": "year",
+   "note": "Typical bachelor fee in Ukrainian-language programmes per SumDU fee page snippet; some English programmes about 2,000 USD, medicine and dentistry about 3,850-4,400 USD. Confirm the current year."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Sumy, northeastern Ukraine.",
+   "ka": "სახელმწიფო უნივერსიტეტი სუმში, უკრაინის ჩრდილო-აღმოსავლეთით.",
+   "ar": "جامعة حكومية في سومي شمال شرق أوكرانيا."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "The admission page states no English or Ukrainian test. Previous-education documents must be translated into Ukrainian, notarised and legalised.",
+   "ka": "მისაღებ გვერდზე ინგლისური ან უკრაინული ენის ტესტი მითითებული არ არის. წინა განათლების დოკუმენტები უნდა ითარგმნოს უკრაინულად, ნოტარიულად დამოწმდეს და ლეგალიზდეს.",
+   "ar": "لا تذكر صفحة القبول اختباراً للغة الإنجليزية أو الأوكرانية. يجب ترجمة وثائق التعليم السابق إلى الأوكرانية وتوثيقها لدى كاتب العدل وتصديقها."
+  },
+  "gpa_note": {
+   "en": "Education documents must be verified in the issuing country through its official procedure and legalised by the Ukrainian diplomatic mission.",
+   "ka": "განათლების დოკუმენტები უნდა გადამოწმდეს გამცემ ქვეყანაში ოფიციალური პროცედურით და ლეგალიზდეს უკრაინის დიპლომატიური წარმომადგენლობის მიერ.",
+   "ar": "يجب التحقق من وثائق التعليم في بلد الإصدار عبر إجراءاته الرسمية وتصديقها من البعثة الدبلوماسية الأوكرانية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photos",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma legalisation and recognition",
+     "ka": "დიპლომის ლეგალიზაცია და აღიარება",
+     "ar": "توثيق الشهادة والاعتراف بها"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "ua",
+   "sumy"
+  ],
+  "sources": [
+   "https://universities.studyinukraine.gov.ua/en/minedu/university/74/documents",
+   "https://study.sumdu.edu.ua/en/vstup-2/academic-programs-and-tuition-fees.html",
+   "https://study.sumdu.edu.ua/en/vstup-2/how-to-apply.html"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-maryland-baltimore",
+  "name": {
+   "en": "University of Maryland, Baltimore",
+   "ka": "მერილენდის უნივერსიტეტი, ბალტიმორი",
+   "ar": "جامعة ميريلاند، بالتيمور"
+  },
+  "iso": "US",
+  "city": "Baltimore",
+  "lat": 39.289,
+  "lon": -76.625,
+  "type": "public",
+  "website": "https://www.umaryland.edu",
+  "platform": null,
+  "application_url": "https://nursing.umaryland.edu/admissions/apply/international-students",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.5,
+  "toefl_min": 79,
+  "duolingo_min": null,
+  "other_tests": [
+   "TOEFL PBT 550 / CBT 213 accepted"
+  ],
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "UMB is a public health and law campus in Baltimore with professional and graduate schools; its admissions page lists no freshman bachelor entry.",
+   "ka": "UMB ბალტიმორში მდებარე ჯანდაცვისა და სამართლის საჯარო კამპუსია პროფესიული და სამაგისტრო სკოლებით; მისი მიღების გვერდზე პირველკურსელთა ბაკალავრიატი არ არის მითითებული.",
+   "ar": "UMB حرم جامعي حكومي للصحة والقانون في بالتيمور يضم كليات مهنية وعليا، ولا تذكر صفحة القبول فيه قبولا للمستجدين في البكالوريوس."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "English proof is needed for the BSN unless you hold a US degree: TOEFL iBT 79 or IELTS 6.5. Scores older than two years are not accepted.",
+   "ka": "BSN-ზე საჭიროა ინგლისურის დამადასტურებელი ტესტი (TOEFL iBT 79 ან IELTS 6.5), თუ არ გაქვთ აშშ-ის ხარისხი. ორ წელზე ძველი შედეგები არ მიიღება.",
+   "ar": "يلزم إثبات اللغة الإنجليزية لبرنامج BSN ما لم تحمل شهادة أمريكية: TOEFL iBT 79 أو IELTS 6.5. لا تُقبل النتائج الأقدم من سنتين."
+  },
+  "gpa_note": {
+   "en": "UMB offers only the BSN at undergraduate level. All non-US coursework needs an official course-by-course credential evaluation from a NACES member.",
+   "ka": "UMB ბაკალავრის დონეზე მხოლოდ BSN-ს გთავაზობთ. აშშ-ს გარეთ გავლილი ყველა კურსისთვის საჭიროა NACES-ის წევრი სააგენტოს კურსების მიხედვით კრედენშლის შეფასება.",
+   "ar": "تقدم UMB على مستوى البكالوريوس برنامج BSN فقط. تتطلب جميع المقررات خارج الولايات المتحدة تقييماً رسمياً لكل مقرر من جهة عضو في NACES."
+  },
+  "requirements": [
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency test",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი ტესტი",
+     "ar": "اختبار إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma legalisation and recognition",
+     "ka": "დიპლომის ლეგალიზაცია და აღიარება",
+     "ar": "توثيق الشهادة والاعتراف بها"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://nursing.umaryland.edu/admissions/apply/international-students",
+   "https://www.umaryland.edu/admissions/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "oklahoma-state-university",
+  "name": {
+   "en": "Oklahoma State University",
+   "ka": "ოკლაჰომას შტატის უნივერსიტეტი",
+   "ar": "جامعة ولاية أوكلاهوما"
+  },
+  "iso": "US",
+  "city": "Stillwater",
+  "lat": 36.126,
+  "lon": -97.071,
+  "type": "public",
+  "website": "https://go.okstate.edu",
+  "platform": null,
+  "application_url": "https://go.okstate.edu/admissions/international/freshman",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Applications open July 1 (OSU application) or Aug 1 (Common App). Scholarship deadlines: Nov 1 (early) and Feb 1 (priority).",
+  "tuition_intl": {
+   "amount": 25754,
+   "currency": "USD",
+   "per": "year",
+   "note": "Out-of-state tuition and fees, 2024-25 (College Navigator). In-state is $10,234."
+  },
+  "acceptance_rate": 75,
+  "students": 27278,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": 1040,
+   "high": 1250,
+   "required": null
+  },
+  "ielts_min": 5.5,
+  "toefl_min": 61,
+  "duolingo_min": 95,
+  "other_tests": [
+   "PTE Academic 44"
+  ],
+  "fields": [
+   "engineering",
+   "business",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "English proof within two years: TOEFL iBT 61, IELTS 5.5, PTE 44 or Duolingo 95 (2025-26 catalog). A financial guarantee and bank letter are needed for the I-20.",
+   "ka": "ინგლისურის დამადასტურებელი შედეგი ბოლო ორი წლის განმავლობაში: TOEFL iBT 61, IELTS 5.5, PTE 44 ან Duolingo 95 (2025-26 კატალოგი). I-20-ისთვის საჭიროა ფინანსური გარანტია და ბანკის წერილი.",
+   "ar": "إثبات اللغة الإنجليزية خلال سنتين: TOEFL iBT 61 أو IELTS 5.5 أو PTE 44 أو Duolingo 95 (كتالوج 2025-26). يلزم ضمان مالي وخطاب بنكي لإصدار I-20."
+  },
+  "gpa_note": {
+   "en": "International applicants with a high school GPA of 3.0 or higher (4.0 scale) and the English score qualify for assured admission.",
+   "ka": "საშუალო სკოლის GPA 3.0 ან მეტი (4.0 სკალაზე) და ინგლისურის საჭირო ქულა უზრუნველყოფს გარანტირებულ მიღებას.",
+   "ar": "يُقبل المتقدمون الدوليون الحاصلون على معدل ثانوي 3.0 فأكثر (من 4.0) مع الدرجة المطلوبة في الإنجليزية قبولاً مضموناً."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency test",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი ტესტი",
+     "ar": "اختبار إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds",
+     "ka": "ფინანსური შესაძლებლობის დამადასტურებელი საბუთი",
+     "ar": "إثبات القدرة المالية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო საფასური",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "us",
+   "stillwater"
+  ],
+  "sources": [
+   "https://nces.ed.gov/collegenavigator/?id=207388",
+   "https://go.okstate.edu/admissions/international/freshman",
+   "https://catalog.okstate.edu/about/admissions/international/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-nevada-reno",
+  "name": {
+   "en": "University of Nevada - Reno",
+   "ka": "ნევადას უნივერსიტეტი – რენო",
+   "ar": "جامعة نيفادا - رينو"
+  },
+  "iso": "US",
+  "city": "Reno",
+  "lat": 39.544,
+  "lon": -119.816,
+  "type": "public",
+  "website": "https://www.unr.edu",
+  "platform": null,
+  "application_url": "https://www.unr.edu/admissions/international/undergraduate",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Deadlines are not listed on the international undergraduate page; check the application portal.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "optional"
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 61,
+  "duolingo_min": 95,
+  "other_tests": [
+   "PTE Academic 46",
+   "Cambridge English 169"
+  ],
+  "fields": [
+   "engineering",
+   "business",
+   "medicine-health",
+   "natural-sciences",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business",
+    "Medicine",
+    "Science",
+    "Education"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი",
+    "მედიცინა",
+    "მეცნიერებები",
+    "განათლება"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال",
+    "الطب",
+    "العلوم",
+    "التربية"
+   ]
+  },
+  "summary": {
+   "en": "University of Nevada - Reno is a public university in Reno, USA. Its website was rejected by the research tool (certificate error), so admission data could not be read.",
+   "ka": "ნევადას უნივერსიტეტი – რენო არის სახელმწიფო უნივერსიტეტი (ადგილმდებარეობა: რენო, აშშ). მისი ვებგვერდი კვლევით ხელსაწყოს სერტიფიკატის შეცდომით უარყო, ამიტომ მიღების მონაცემები ვერ წაიკითხა.",
+   "ar": "جامعة نيفادا - رينو جامعة حكومية في رينو، الولايات المتحدة. رفضت أداة البحث موقعها بسبب خطأ في الشهادة، لذا تعذّرت قراءة بيانات القبول."
+  },
+  "about": {
+   "en": "University of Nevada - Reno is a public university in Reno, USA. Its website was rejected by the research tool (certificate error), so admission data could not be read. Deadlines, tuition, entry rules and language scores for international bachelor applicants could not be verified. Contact the university admissions office before applying.",
+   "ka": "ნევადას უნივერსიტეტი – რენო არის სახელმწიფო უნივერსიტეტი (ადგილმდებარეობა: რენო, აშშ). მისი ვებგვერდი კვლევით ხელსაწყოს სერტიფიკატის შეცდომით უარყო, ამიტომ მიღების მონაცემები ვერ წაიკითხა. საერთაშორისო ბაკალავრიატის აპლიკანტებისთვის ვადები, სწავლის საფასური, მისაღები მოთხოვნები და ენის ქულები ვერ გადამოწმდა. განაცხადამდე დაუკავშირდით უნივერსიტეტის მიღების ოფისს.",
+   "ar": "جامعة نيفادا - رينو جامعة حكومية في رينو، الولايات المتحدة. رفضت أداة البحث موقعها بسبب خطأ في الشهادة، لذا تعذّرت قراءة بيانات القبول. تعذّر التحقق من المواعيد والرسوم وشروط القبول ودرجات اللغة للمتقدمين الدوليين في البكالوريوس. تواصل مع مكتب القبول في الجامعة قبل التقديم."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students could be confirmed.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის სპეციალური დაფინანსება ვერ დადასტურდა.",
+   "ar": "تعذّر تأكيد وجود دعم مخصص لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "English proof: TOEFL 61, IELTS 6.0, Duolingo 95, PTE 46 or Cambridge 169. SAT/ACT are not required. Required coursework: 4 native language, 3 maths, 3 science, 3 social science.",
+   "ka": "ინგლისური: TOEFL 61, IELTS 6.0, Duolingo 95, PTE 46 ან Cambridge 169. SAT/ACT სავალდებულო არ არის. საჭირო კურსები: 4 მშობლიური ენა, 3 მათემატიკა, 3 მეცნიერება, 3 სოციალური მეცნიერება.",
+   "ar": "إثبات الإنجليزية: TOEFL 61 أو IELTS 6.0 أو Duolingo 95 أو PTE 46 أو Cambridge 169. لا يشترط SAT/ACT. المقررات المطلوبة: 4 لغة أم و3 رياضيات و3 علوم و3 علوم اجتماعية."
+  },
+  "gpa_note": {
+   "en": "A 3.0 academic GPA on a 4.0 scale is required, calculated from the required coursework.",
+   "ka": "საჭიროა აკადემიური GPA 3.0 (4.0 სკალაზე), რომელიც გამოითვლება სავალდებულო საგნებით.",
+   "ar": "يُشترط معدل أكاديمي 3.0 من 4.0 يُحسب من المقررات المطلوبة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო საფასური",
+     "ar": "رسوم التقديم"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency test",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი ტესტი",
+     "ar": "اختبار إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "nevada",
+   "reno",
+   "public"
+  ],
+  "sources": [
+   "https://www.unr.edu/admissions/international/undergraduate"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "west-virginia-university",
+  "name": {
+   "en": "West Virginia University",
+   "ka": "დასავლეთ ვირჯინიის უნივერსიტეტი",
+   "ar": "جامعة ويست فرجينيا"
+  },
+  "iso": "US",
+  "city": "Morgantown",
+  "lat": 39.635,
+  "lon": -79.954,
+  "type": "public",
+  "website": "https://www.wvu.edu",
+  "platform": null,
+  "application_url": "https://admissions.wvu.edu/how-to-apply/international-students",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Not verified.",
+   "ka": "დადასტურებული არ არის.",
+   "ar": "غير مؤكد."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.5,
+  "toefl_min": 79,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [],
+  "strengths": null,
+  "summary": {
+   "en": "Public research university in Morgantown, West Virginia. Its admissions pages returned access errors, so no fees, deadlines or test scores are listed.",
+   "ka": "სახელმწიფო კვლევითი უნივერსიტეტი მორგანტაუნში, დასავლეთ ვირჯინია. მისმა მიღების გვერდებმა წვდომის შეცდომა დააბრუნა, ამიტომ საფასური, ვადები და ტესტის ქულები მითითებული არ არის.",
+   "ar": "جامعة بحثية حكومية في مورغانتاون بولاية ويست فرجينيا. أعادت صفحات القبول أخطاء في الوصول، لذلك لا تُذكر الرسوم والمواعيد والدرجات."
+  },
+  "about": {
+   "en": "West Virginia University is the state's public flagship in Morgantown. Its website blocked our automated access (HTTP 403), so international first-year deadlines, English-test minimums, test policy and tuition could not be verified. Check the WVU admissions and international pages directly.",
+   "ka": "დასავლეთ ვირჯინიის უნივერსიტეტი შტატის მთავარი სახელმწიფო უნივერსიტეტია მორგანტაუნში. მისმა საიტმა ავტომატური წვდომა დაბლოკა (HTTP 403), ამიტომ უცხოელი პირველკურსელების ვადები, ინგლისურის ტესტის მინიმუმები, ტესტის პოლიტიკა და საფასური ვერ გადამოწმდა. გადაამოწმეთ WVU-ის მიღებისა და საერთაშორისო გვერდები უშუალოდ.",
+   "ar": "جامعة ويست فرجينيا هي الجامعة الحكومية الرئيسية في الولاية وتقع في مورغانتاون. حجب موقعها وصولنا الآلي (HTTP 403)، فلم يمكن التحقق من مواعيد الطلاب الدوليين الجدد وحدود اللغة وسياسة الاختبارات والرسوم. راجع صفحات القبول والطلاب الدوليين مباشرة."
+  },
+  "aid_intl": {
+   "en": "Not verified.",
+   "ka": "დადასტურებული არ არის.",
+   "ar": "غير مؤكد."
+  },
+  "tests": {
+   "en": "English proof for undergraduates: TOEFL iBT 79 or IELTS 6.5 (WVU intensive English page). An older instruction PDF lists lower scores, so confirm before applying.",
+   "ka": "ბაკალავრებისთვის ინგლისურის დამადასტურებელი: TOEFL iBT 79 ან IELTS 6.5 (WVU-ს ინტენსიური ინგლისურის გვერდი). ძველ PDF-ში უფრო დაბალი ქულებია, ამიტომ გადაამოწმეთ.",
+   "ar": "إثبات الإنجليزية لمرحلة البكالوريوس: TOEFL iBT 79 أو IELTS 6.5 (صفحة اللغة المكثفة في WVU). يذكر ملف أقدم درجات أقل، لذا تأكد قبل التقديم."
+  },
+  "gpa_note": {
+   "en": "A minimum high school GPA of 2.5 on a 4.0 scale plus the English score is listed for undergraduate admission.",
+   "ka": "ბაკალავრიატში მისაღებად მითითებულია საშუალო სკოლის მინიმალური GPA 2.5 (4.0 სკალაზე) და ინგლისურის საჭირო ქულა.",
+   "ar": "يُذكر للقبول في البكالوريوس حد أدنى لمعدل الثانوية 2.5 من 4.0 إضافة إلى درجة الإنجليزية."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ტრანსკრიპტები",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency test",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი ტესტი",
+     "ar": "اختبار إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funding",
+     "ka": "დაფინანსების დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات القدرة المالية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "west virginia",
+   "morgantown"
+  ],
+  "sources": [
+   "https://iep.wvu.edu/programs/program-requirements",
+   "https://admissions.wvu.edu/how-to-apply/international-students"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-arkansas-fayetteville",
+  "name": {
+   "en": "University of Arkansas Fayetteville",
+   "ka": "არკანზასის უნივერსიტეტი ფეიეტვილში",
+   "ar": "جامعة أركنساس في فايتفيل"
+  },
+  "iso": "US",
+  "city": "Fayetteville",
+  "lat": 36.068,
+  "lon": -94.173,
+  "type": "public",
+  "website": "https://www.uark.edu",
+  "platform": null,
+  "application_url": "https://international-admissions.uark.edu/undergraduate-studies/new-freshmen.php",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "International undergraduate page: fall June 1, spring October 1; priority admission November 15; scholarship deadlines November 1 and February 1.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": null,
+   "note": "Not published on the pages that could be read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Entry rules for foreign school diplomas could not be confirmed from the official pages that could be read.",
+   "ka": "უცხოური საშუალო განათლების დოკუმენტებისთვის მიღების წესები ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ დადასტურდა.",
+   "ar": "تعذّر التأكد من شروط قبول شهادات الثانوية الأجنبية من الصفحات الرسمية التي أمكن قراءتها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.5,
+  "toefl_min": 79,
+  "duolingo_min": 110,
+  "other_tests": [
+   "PTE Academic 58",
+   "iTEP 3.9"
+  ],
+  "fields": [
+   "business",
+   "engineering",
+   "natural-sciences",
+   "law",
+   "education"
+  ],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "The University of Arkansas is a public university in Fayetteville, USA. Its official site failed a security check, so admission rules and fees could not be confirmed.",
+   "ka": "არკანზასის უნივერსიტეტი აშშ-ის ქალაქ ფეიეტვილში მდებარე საჯარო უნივერსიტეტია. ოფიციალური ვებგვერდი უსაფრთხოების შემოწმებას ვერ გაივლის, ამიტომ მიღების წესები და საფასური ვერ დადასტურდა.",
+   "ar": "جامعة أركنساس جامعة حكومية في فايتفيل بالولايات المتحدة. فشل موقعها الرسمي في فحص الأمان، لذلك لم يمكن التأكد من شروط القبول والرسوم."
+  },
+  "about": {
+   "en": "The University of Arkansas is a public university in Fayetteville, Arkansas. Every official address tried (uark.edu and its admissions and international subdomains) was rejected with a certificate error, so no page could be read. Application deadlines, test policy, English scores, tuition and scholarships for international first-year applicants are not confirmed. Check the official admissions site directly.",
+   "ka": "არკანზასის უნივერსიტეტი არკანზასის შტატის ქალაქ ფეიეტვილში მდებარე საჯარო უნივერსიტეტია. ყველა გამოცდილი ოფიციალური მისამართი (uark.edu და მისი მიღებისა და საერთაშორისო ქვედომენები) სერტიფიკატის შეცდომით უარყოფილ იქნა, ამიტომ ვერც ერთი გვერდი ვერ წაიკითხა. საერთაშორისო პირველკურსელი აპლიკანტებისთვის ვადები, ტესტების პოლიტიკა, ინგლისურის ქულები, სწავლის საფასური და სტიპენდიები დადასტურებული არ არის. გადაამოწმეთ უშუალოდ ოფიციალურ საიტზე.",
+   "ar": "جامعة أركنساس جامعة حكومية في فايتفيل بولاية أركنساس. رُفضت جميع العناوين الرسمية التي جُرّبت (uark.edu ونطاقاته الفرعية للقبول والدولي) بخطأ شهادة، فلم تُقرأ أي صفحة. لذلك لم تتأكد مواعيد التقديم وسياسة الاختبارات ودرجات الإنجليزية والرسوم والمنح لطلاب السنة الأولى الدوليين. راجع موقع القبول الرسمي مباشرة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الجامعة منحاً أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "tests": {
+   "en": "New freshmen need TOEFL iBT 79, IELTS Academic 6.5, PTE 58, iTEP 3.9 or Duolingo 110. IELTS General Training is not accepted.",
+   "ka": "პირველკურსელებს სჭირდებათ TOEFL iBT 79, IELTS Academic 6.5, PTE 58, iTEP 3.9 ან Duolingo 110. IELTS General Training არ მიიღება.",
+   "ar": "يحتاج الطلاب الجدد إلى TOEFL iBT 79 أو IELTS Academic 6.5 أو PTE 58 أو iTEP 3.9 أو Duolingo 110. لا يُقبل IELTS General Training."
+  },
+  "gpa_note": {
+   "en": "Academic requirements are not confirmed on the pages that could be read.",
+   "ka": "აკადემიური მოთხოვნები წაკითხულ გვერდებზე დადასტურებული არ არის.",
+   "ar": "لم تتأكد المتطلبات الأكاديمية من الصفحات التي أمكن قراءتها."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "სასკოლო ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds",
+     "ka": "ფინანსური შესაძლებლობის დამადასტურებელი საბუთი",
+     "ar": "إثبات القدرة المالية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო საფასური",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "arkansas",
+   "fayetteville",
+   "public university"
+  ],
+  "sources": [
+   "https://international-admissions.uark.edu/undergraduate-studies/new-freshmen.php",
+   "https://international-admissions.uark.edu/undergraduate-studies/english-proficiency.php",
+   "https://international-admissions.uark.edu/faq/requirements.php"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-missouri-kansas-city",
+  "name": {
+   "en": "University of Missouri, Kansas City",
+   "ka": "მისური-კანზას-სიტის უნივერსიტეტი (UMKC)",
+   "ar": "جامعة ميزوري - كانساس سيتي (UMKC)"
+  },
+  "iso": "US",
+  "city": "Kansas City",
+  "lat": 39.034,
+  "lon": -94.576,
+  "type": "public",
+  "website": "https://www.umkc.edu",
+  "platform": "UMKC online application (futureroo.umkc.edu/apply)",
+  "application_url": "https://futureroo.umkc.edu/apply",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": null,
+   "currency": null,
+   "per": null,
+   "note": "Not published on the pages that could be read."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Entry rules for foreign school diplomas could not be confirmed from the official pages that could be read.",
+   "ka": "უცხოური საშუალო განათლების დოკუმენტებისთვის მიღების წესები ხელმისაწვდომ ოფიციალურ გვერდებზე ვერ დადასტურდა.",
+   "ar": "تعذّر التأكد من شروط قبول شهادات الثانوية الأجنبية من الصفحات الرسمية التي أمكن قراءتها."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 70,
+  "duolingo_min": 100,
+  "other_tests": [
+   "PTE Academic 48",
+   "GTEC CBT 1175"
+  ],
+  "fields": [
+   "arts-design",
+   "medicine-health",
+   "law",
+   "business",
+   "education"
+  ],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "UMKC is a public university in Kansas City, Missouri, with Volker and Health Sciences campuses. Its international admission page could not be read.",
+   "ka": "UMKC მისურის შტატის ქალაქ კანზას-სიტიში მდებარე საჯარო უნივერსიტეტია, ვოლკერისა და ჯანდაცვის მეცნიერებების კამპუსებით. საერთაშორისო მიღების გვერდი ვერ წაიკითხა.",
+   "ar": "UMKC جامعة حكومية في كانساس سيتي بولاية ميزوري ولها حرما Volker وعلوم الصحة. تعذّرت قراءة صفحة القبول الدولي."
+  },
+  "about": {
+   "en": "The University of Missouri-Kansas City is a public university with Volker and Health Sciences campuses in Kansas City, Missouri. Only the homepage could be read; the international undergraduate admission page returned an error. Deadlines, test policy, English scores, fees and scholarships for international first-year applicants are therefore not confirmed. Applications go through the online portal linked from the official site.",
+   "ka": "მისური-კანზას-სიტის უნივერსიტეტი მისურის შტატის ქალაქ კანზას-სიტიში მდებარე საჯარო უნივერსიტეტია, ვოლკერისა და ჯანდაცვის მეცნიერებების კამპუსებით. წაიკითხა მხოლოდ მთავარი გვერდი; საერთაშორისო ბაკალავრიატის მიღების გვერდმა შეცდომა დააბრუნა. ამიტომ საერთაშორისო პირველკურსელებისთვის ვადები, ტესტების პოლიტიკა, ინგლისურის ქულები, საფასური და სტიპენდიები დადასტურებული არ არის. განაცხადი იგზავნება ოფიციალური საიტიდან მიბმული ონლაინ პორტალით.",
+   "ar": "جامعة ميزوري - كانساس سيتي جامعة حكومية ولها حرما Volker وعلوم الصحة في كانساس سيتي. لم تُقرأ سوى الصفحة الرئيسية؛ أعادت صفحة القبول الدولي للدراسات الأولية خطأ. لذلك لم تتأكد المواعيد وسياسة الاختبارات ودرجات الإنجليزية والرسوم والمنح لطلاب السنة الأولى الدوليين. يتم التقديم عبر البوابة الإلكترونية المرتبطة بالموقع الرسمي."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الجامعة منحاً أو مساعدات مخصصة للطلاب الدوليين في مرحلة البكالوريوس."
+  },
+  "tests": {
+   "en": "Undergraduate English minimums: TOEFL iBT 70, IELTS 6.0 (5.5 per band), PTE 48 or Duolingo 100. Architecture and urban planning need TOEFL 100.",
+   "ka": "ბაკალავრიატის ინგლისურის მინიმუმი: TOEFL iBT 70, IELTS 6.0 (თითო ნაწილში 5.5), PTE 48 ან Duolingo 100. არქიტექტურასა და ურბანულ დაგეგმარებაზე საჭიროა TOEFL 100.",
+   "ar": "الحد الأدنى للإنجليزية في البكالوريوس: TOEFL iBT 70 أو IELTS 6.0 (5.5 لكل جزء) أو PTE 48 أو Duolingo 100. تتطلب العمارة والتخطيط العمراني TOEFL 100."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "სასკოლო ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი საბუთი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds",
+     "ka": "ფინანსური შესაძლებლობის დამადასტურებელი საბუთი",
+     "ar": "إثبات القدرة المالية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო საფასური",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "usa",
+   "missouri",
+   "kansas city",
+   "public university"
+  ],
+  "sources": [
+   "https://www.umkc.edu/isao/future-students/english-proficiency.html",
+   "https://catalog.umkc.edu/undergraduate-academic-regulations-information/undergraduate-admission-policy-procedures/policies-on-admission-of-international-students/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "platform": "Direct (application at marquette.edu/apply)",
+  "application_url": "https://www.marquette.edu/oie/prospective-students/application-process.php",
+  "intakes": [
+   "August"
+  ],
+  "deadline": null,
+  "acceptance_rate": null,
+  "students": 8000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Exam certificates such as IB, GCSE or A levels are uploaded as results; official copies are due before the I-20."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.5,
+  "toefl_min": 86,
+  "duolingo_min": 120,
+  "other_tests": [
+   "TOEFL (from 21 Jan 2026): 4.5 in each section",
+   "SAT EBRW 560 / ACT English 24 and Reading 20 accepted as English proof"
+  ],
+  "aid_intl": {
+   "en": "All undergraduate applicants are automatically considered for the Père Marquette Scholarship; the page does not say whether international students qualify.",
+   "ka": "ყველა საბაკალავრო აპლიკანტი ავტომატურად განიხილება Père Marquette Scholarship-ისთვის; გვერდზე არ წერია, ვრცელდება თუ არა საერთაშორისო სტუდენტებზე.",
+   "ar": "يُنظر تلقائياً في منحة Père Marquette لجميع المتقدمين للبكالوريوس؛ ولا تذكر الصفحة إن كان الطلاب الدوليون مؤهلين لها."
+  },
+  "tests": {
+   "en": "English proof: IELTS 6.5 in each section, TOEFL iBT 86 (20 per section) or 4.5 per section from 21 Jan 2026, or Duolingo 120. SAT/ACT reading scores can also qualify.",
+   "ka": "ინგლისური: IELTS 6.5 თითოეულ ნაწილში, TOEFL iBT 86 (თითო ნაწილში 20) ან 2026 წლის 21 იანვრიდან 4.5 თითო ნაწილში, ან Duolingo 120. SAT/ACT-ის წაკითხვის ქულაც შეიძლება გამოდგეს.",
+   "ar": "إثبات الإنجليزية: IELTS 6.5 في كل جزء أو TOEFL iBT 86 (20 لكل جزء) أو 4.5 لكل جزء منذ 21 يناير 2026 أو Duolingo 120. يمكن أيضاً قبول درجات القراءة في SAT/ACT."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ტრანსკრიპტი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency test",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი ტესტი",
+     "ar": "اختبار إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of funds",
+     "ka": "ფინანსური შესაძლებლობის დამადასტურებელი საბუთი",
+     "ar": "إثبات القدرة المالية"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Père Marquette Scholarship",
+    "url": "https://www.marquette.edu/tuition-financial-aid/scholarships-overview.php",
+    "coverage": "partial"
+   }
+  ],
+  "verified_at": "2026-11-16",
+  "id": "marquette-university",
+  "name": {
+   "en": "Marquette University",
+   "ka": "მარკეტის უნივერსიტეტი",
+   "ar": "جامعة ماركيت"
+  },
+  "iso": "US",
+  "city": "Milwaukee",
+  "lat": 43.038,
+  "lon": -87.931,
+  "type": "private",
+  "website": "https://www.marquette.edu",
+  "deadline_note": "Fall first-year: Early Action Nov 15, Regular Decision Feb 1 (international application page; confirm year). Apply by the Marquette International Application or Common App.",
+  "tuition_intl": {
+   "amount": 53890,
+   "currency": "USD",
+   "per": "year",
+   "note": "2026-27 full-time tuition (12+ credits); housing and food US$14,380-18,790 and fees US$1,200 extra. No separate international rate is shown."
+  },
+  "fields": [
+   "business",
+   "engineering",
+   "medicine-health",
+   "law",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Nursing and health sciences",
+    "Communication",
+    "Law"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "საექთნო საქმე და ჯანდაცვა",
+    "კომუნიკაცია",
+    "სამართალი"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "التمريض والعلوم الصحية",
+    "الاتصال",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "Marquette is a private Catholic, Jesuit university in Milwaukee with over 8,000 undergraduates. 2026-27 tuition is US$53,890.",
+   "ka": "მარკეტი მილუოკიში მდებარე კერძო კათოლიკური, იეზუიტური უნივერსიტეტია, 8,000-ზე მეტი ბაკალავრიატის სტუდენტით. 2026-27 სწავლის საფასური US$53,890-ია.",
+   "ar": "ماركيت جامعة خاصة كاثوليكية يسوعية في ميلووكي فيها أكثر من 8,000 طالب بكالوريوس. رسوم 2026-27 هي 53,890 دولاراً."
+  },
+  "about": {
+   "en": "Marquette is a private Catholic, Jesuit university in Milwaukee, Wisconsin, with more than 8,000 undergraduates and a 14 to 1 student-to-faculty ratio. All undergraduate applicants are automatically considered for the Père Marquette Scholarship. Full-time tuition for 2026-27 is US$53,890, with housing and food adding US$14,380 to US$18,790. The admissions pages found do not publish international deadlines, test or English-proficiency rules.",
+   "ka": "მარკეტი კერძო კათოლიკური, იეზუიტური უნივერსიტეტია მილუოკიში, ვისკონსინი, 8,000-ზე მეტი ბაკალავრიატის სტუდენტით და სტუდენტი-პროფესორის თანაფარდობით 14:1. ყველა საბაკალავრო აპლიკანტი ავტომატურად განიხილება Père Marquette Scholarship-ისთვის. 2026-27 წლის სრული განაკვეთის სწავლის საფასური US$53,890-ია, საცხოვრებელი და კვება დამატებით US$14,380-დან US$18,790-მდე. ნაპოვნ მიღების გვერდებზე საერთაშორისო ვადები, ტესტებისა და ინგლისურის მოთხოვნები არ არის გამოქვეყნებული.",
+   "ar": "ماركيت جامعة خاصة كاثوليكية يسوعية في ميلووكي بولاية ويسكونسن، فيها أكثر من 8,000 طالب بكالوريوس ونسبة طلاب إلى أعضاء هيئة التدريس 14 إلى 1. يُنظر تلقائياً في منحة Père Marquette لجميع المتقدمين للبكالوريوس. رسوم 2026-27 بدوام كامل 53,890 دولاراً ويضيف السكن والطعام من 14,380 إلى 18,790 دولاراً. لا تنشر صفحات القبول التي وُجدت المواعيد الدولية ولا قواعد الاختبارات أو الإنجليزية."
+  },
+  "keywords": [
+   "usa",
+   "milwaukee",
+   "jesuit",
+   "private",
+   "wisconsin"
+  ],
+  "sources": [
+   "https://www.marquette.edu/tuition-financial-aid/",
+   "https://www.marquette.edu/oie/prospective-students/application-materials.php",
+   "https://www.marquette.edu/oie/prospective-students/application-process.php"
+  ]
+ },
+ {
+  "id": "universidad-catolica-del-uruguay-ucu",
+  "name": {
+   "en": "Universidad Católica del Uruguay (UCU)",
+   "ka": "ურუგვაის კათოლიკური უნივერსიტეტი (UCU)",
+   "ar": "جامعة أوروغواي الكاثوليكية (UCU)"
+  },
+  "iso": "UY",
+  "city": "Montevideo",
+  "lat": -34.896,
+  "lon": -56.165,
+  "type": "private",
+  "website": "https://www.ucu.edu.uy",
+  "platform": null,
+  "application_url": "https://carreras.ucu.edu.uy/categoria/Admisiones-12",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Foreign secondary certificates need an apostille (Hague countries) or legalisation. A 20% fee discount applies to International Baccalaureate graduates up to age 20."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "law",
+   "social-sciences",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Law",
+    "Psychology",
+    "Engineering",
+    "Communication"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "სამართალი",
+    "ფსიქოლოგია",
+    "ინჟინერია",
+    "კომუნიკაცია"
+   ],
+   "ar": [
+    "الأعمال",
+    "القانون",
+    "علم النفس",
+    "الهندسة",
+    "الاتصال"
+   ]
+  },
+  "summary": {
+   "en": "A private Jesuit university in Montevideo with over 40 undergraduate programmes taught in Spanish.",
+   "ka": "მონტევიდეოს კერძო იეზუიტური უნივერსიტეტი 40-ზე მეტი საბაკალავრო პროგრამით ესპანურ ენაზე.",
+   "ar": "جامعة يسوعية خاصة في مونتيفيديو تقدم أكثر من 40 برنامجاً جامعياً بالإسبانية."
+  },
+  "about": {
+   "en": "UCU has campuses in Montevideo, Punta del Este and Salto and offers more than 40 undergraduate programmes. Courses are taught in Spanish. Exchange students apply through their home university; deadlines are 15 November for the March semester and 30 April for the August semester. Degree-seeking fees and entry rules for foreign applicants are not published on the pages read, so they are left empty.",
+   "ka": "UCU-ს კამპუსები აქვს მონტევიდეოში, პუნტა დელ ესტეში და სალტოში და გთავაზობთ 40-ზე მეტ საბაკალავრო პროგრამას. სწავლება ესპანურადაა. გაცვლითი სტუდენტები მიმართავენ საკუთარი უნივერსიტეტის მეშვეობით; ვადებია 15 ნოემბერი (მარტის სემესტრი) და 30 აპრილი (აგვისტოს სემესტრი). სრული ხარისხის სტუდენტებისთვის საფასური წაკითხულ გვერდებზე არ იყო.",
+   "ar": "لدى الجامعة فروع في مونتيفيديو وبونتا ديل إستي وسالتو وتقدم أكثر من 40 برنامجاً جامعياً. التدريس بالإسبانية. يتقدم طلاب التبادل عبر جامعتهم الأم؛ المواعيد 15 نوفمبر لفصل مارس و30 أبريل لفصل أغسطس. لم تُنشر رسوم وشروط الطلاب الأجانب لنيل الدرجة في الصفحات المقروءة."
+  },
+  "aid_intl": {
+   "en": "A 20% discount on the monthly fee is given to International Baccalaureate graduates up to age 20.",
+   "ka": "IB-ის კურსდამთავრებულებს 20 წლამდე ასაკში ყოველთვიურ გადასახადზე 20%-იანი ფასდაკლება აქვთ.",
+   "ar": "يُمنح خريجو البكالوريا الدولية حتى سن 20 خصماً 20% على القسط الشهري."
+  },
+  "tests": {
+   "en": "Teaching is in Spanish. UCU offers B1 and B2 Spanish courses and an intensive pre-semester course; no entrance test is listed for international applicants.",
+   "ka": "სწავლება ესპანურ ენაზეა. UCU გთავაზობთ ესპანურის B1 და B2 კურსებს და ინტენსიურ წინასემესტრულ კურსს; საერთაშორისო აპლიკანტებისთვის მისაღები ტესტი მითითებული არ არის.",
+   "ar": "التدريس بالإسبانية. تقدم UCU دورات إسبانية B1 وB2 ودورة مكثفة قبل الفصل؛ ولا يُذكر اختبار قبول للمتقدمين الدوليين."
+  },
+  "gpa_note": {
+   "en": "Applicants who finished secondary school abroad need a certificate from the school stating completion and eligibility for university study, stamped, signed and apostilled or legalised.",
+   "ka": "საზღვარგარეთ სკოლადამთავრებულებს სჭირდებათ სკოლის ცნობა დასრულებისა და უნივერსიტეტში სწავლის უფლების შესახებ, ბეჭდითა და ხელმოწერით, აპოსტილით ან ლეგალიზებით.",
+   "ar": "يحتاج خريجو الثانوية من الخارج إلى شهادة من المدرسة تثبت إتمام الدراسة وأهلية الدراسة الجامعية، مختومة وموقعة ومصدقة بأبوستيل أو موثقة."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Diploma legalisation and recognition",
+     "ka": "დიპლომის ლეგალიზაცია და აღიარება",
+     "ar": "توثيق الشهادة والاعتراف بها"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Spanish language ability",
+     "ka": "ესპანური ენის ცოდნა",
+     "ar": "إتقان اللغة الإسبانية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "uruguay",
+   "montevideo",
+   "spanish",
+   "jesuit"
+  ],
+  "sources": [
+   "https://carreras.ucu.edu.uy/categoria/Admisiones-12",
+   "https://www.ucu.edu.uy/SIN-CATEGORIZAR/Revalidas-uc64",
+   "https://www.ucu.edu.uy/categoria/International-426"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

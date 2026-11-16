@@ -1,0 +1,1482 @@
+[
+ {
+  "id": "hong-kong-metropolitan-university",
+  "name": {
+   "en": "Hong Kong Metropolitan University",
+   "ka": "ჰონგ-კონგის მეტროპოლიტენ უნივერსიტეტი",
+   "ar": "جامعة هونغ كونغ متروبوليتان"
+  },
+  "iso": "HK",
+  "city": "Hong Kong",
+  "website": "https://www.hkmu.edu.hk",
+  "lat": 22.317,
+  "lon": 114.181,
+  "type": "public",
+  "platform": "Direct (HKMU Admissions online application)",
+  "application_url": "https://admissions.hkmu.edu.hk/?p=95376",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-03-31",
+  "deadline_note": "Non-local direct admission for the September 2027 start: first round closes 31 March 2027, second round (all overseas applicants) 31 May 2027. Rolling basis; places may fill early.",
+  "tuition_intl": {
+   "amount": 45020,
+   "currency": "HKD",
+   "per": "year",
+   "note": "First-year programme fee for non-local students; the page gives HK$105,060 as the estimated fee for the whole 3-year programme. Exact fee depends on programme."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Chinese"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Accepted for direct admission: IB Diploma, GCE A-level or International A-level, HKDSE, HKALE and other overseas qualifications the university judges equivalent. Minimum grades are not listed on the page.",
+   "ka": "მიიღება პირდაპირი ჩარიცხვისთვის: IB დიპლომი, GCE A-level ან International A-level, HKDSE, HKALE და სხვა უცხოური კვალიფიკაციები, რომლებსაც უნივერსიტეტი ექვივალენტურად მიიჩნევს. მინიმალური ქულები გვერდზე მითითებული არ არის.",
+   "ar": "تُقبل في القبول المباشر: دبلوم IB وGCE A-level أو International A-level وHKDSE وHKALE ومؤهلات أجنبية أخرى تراها الجامعة معادلة. لا تذكر الصفحة الحد الأدنى للدرجات."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TOEFL",
+   "IELTS (Academic)"
+  ],
+  "fields": [
+   "business",
+   "education",
+   "computer-science",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Nursing and health",
+    "Education",
+    "Computing",
+    "Humanities"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "მედდობა და ჯანდაცვა",
+    "განათლება",
+    "კომპიუტინგი",
+    "ჰუმანიტარული"
+   ],
+   "ar": [
+    "الأعمال",
+    "التمريض والصحة",
+    "التربية",
+    "الحوسبة",
+    "العلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Kowloon, Hong Kong, formerly the Open University of Hong Kong.",
+   "ka": "ჰონგ-კონგის სახელმწიფო უნივერსიტეტი კოულუნში, ყოფილი Open University of Hong Kong.",
+   "ar": "جامعة حكومية في كولون بهونغ كونغ، كانت تُعرف بجامعة هونغ كونغ المفتوحة."
+  },
+  "about": {
+   "en": "Hong Kong Metropolitan University (HKMU) is a publicly funded university in Ho Man Tin, Kowloon, formerly the Open University of Hong Kong.",
+   "ka": "ჰონგ-კონგის მეტროპოლიტენ უნივერსიტეტი (HKMU) სახელმწიფოს მიერ დაფინანსებული უნივერსიტეტია კოულუნში, ჰო მან ტინში, ყოფილი Open University of Hong Kong.",
+   "ar": "جامعة هونغ كونغ متروبوليتان (HKMU) جامعة ممولة حكوميًا في هو مان تين بكولون، وكانت تُعرف بجامعة هونغ كونغ المفتوحة."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "No entrance exam is listed for direct admission. English proof can be an IB, A-level, HKDSE, GCSE/IGCSE or O-level English result, TOEFL or IELTS Academic; the page gives no minimum scores.",
+   "ka": "პირდაპირი ჩარიცხვისთვის მისაღები გამოცდა მითითებული არ არის. ინგლისურის დასადასტურებლად შეიძლება IB, A-level, HKDSE, GCSE/IGCSE ან O-level ინგლისურის შედეგი, TOEFL ან IELTS Academic; მინიმალური ქულები გვერდზე არ არის.",
+   "ar": "لا يُذكر امتحان قبول للقبول المباشر. يمكن إثبات الإنجليزية بنتيجة IB أو A-level أو HKDSE أو GCSE/IGCSE أو O-level أو TOEFL أو IELTS Academic؛ ولا تذكر الصفحة حدًا أدنى للدرجات."
+  },
+  "gpa_note": {
+   "en": "Applicants need a recognised secondary qualification (IB Diploma, A-level, HKDSE or equivalent) plus English proof; minimum grades are set per programme and are not listed on the direct admission page.",
+   "ka": "განმცხადებელს სჭირდება აღიარებული საშუალო განათლების კვალიფიკაცია (IB დიპლომი, A-level, HKDSE ან ექვივალენტი) და ინგლისურის დამადასტურებელი დოკუმენტი; მინიმალური ქულები პროგრამის მიხედვითაა და გვერდზე არ არის მითითებული.",
+   "ar": "يحتاج المتقدم إلى مؤهل ثانوي معترف به (دبلوم IB أو A-level أو HKDSE أو ما يعادلها) مع إثبات اللغة الإنجليزية؛ وتحدد الدرجات الدنيا لكل برنامج ولا تُذكر في صفحة القبول المباشر."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving qualification (IB Diploma, A-level, HKDSE or equivalent)",
+     "ka": "საშუალო სკოლის დიპლომი ან ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "hong kong",
+   "hkmu",
+   "non-local",
+   "direct admission"
+  ],
+  "sources": [
+   "https://www.hkmu.edu.hk",
+   "https://admissions.hkmu.edu.hk/?p=95376"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "hong-kong-shue-yan-university",
+  "name": {
+   "en": "Hong Kong Shue Yan University",
+   "ka": "ჰონკონგის შუე იანის უნივერსიტეტი",
+   "ar": "جامعة هونغ كونغ شو يان"
+  },
+  "iso": "HK",
+  "city": "Hong Kong",
+  "lat": 22.291,
+  "lon": 114.2,
+  "type": "private",
+  "website": "https://www.hksyu.edu",
+  "platform": "Direct (University Admissions Office online application)",
+  "application_url": "https://uao.hksyu.edu/en/student-admission/first-year",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Chinese"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "First-year entry is open to applicants with HKDSE, IB Diploma (at least 24 points), GCE A-level (2 subjects at E or above), Gaokao or SAT results; other overseas qualifications are assessed case by case.",
+   "ka": "პირველ კურსზე მიღება შესაძლებელია HKDSE-ს, IB დიპლომის (მინ. 24 ქულა), GCE A-level-ის (2 საგანი E ან უკეთესი), გაოკაოს ან SAT-ის შედეგებით; სხვა უცხოური კვალიფიკაციები ინდივიდუალურად ფასდება.",
+   "ar": "القبول في السنة الأولى متاح لحاملي HKDSE أو دبلوم IB (24 نقطة على الأقل) أو GCE A-level (مادتان بتقدير E فأعلى) أو Gaokao أو نتائج SAT؛ وتُقيَّم المؤهلات الأجنبية الأخرى حالة بحالة."
+  },
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "SAT",
+   "Written test or interview (non-local)"
+  ],
+  "fields": [
+   "social-sciences",
+   "business",
+   "humanities",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Social Work",
+    "Counselling",
+    "Business",
+    "Journalism and Communication"
+   ],
+   "ka": [
+    "სოციალური მუშაობა",
+    "კონსულტირება",
+    "ბიზნესი",
+    "ჟურნალისტიკა და კომუნიკაცია"
+   ],
+   "ar": [
+    "الخدمة الاجتماعية",
+    "الإرشاد",
+    "إدارة الأعمال",
+    "الصحافة والاتصال"
+   ]
+  },
+  "summary": {
+   "en": "Hong Kong Shue Yan University is a private university in Hong Kong with 20 self-financed undergraduate programmes in four faculties.",
+   "ka": "ჰონკონგის შუე იანის უნივერსიტეტი კერძო უნივერსიტეტია ჰონკონგში, ოთხ ფაკულტეტზე 20 თვითდაფინანსებადი საბაკალავრო პროგრამით.",
+   "ar": "جامعة هونغ كونغ شو يان جامعة خاصة في هونغ كونغ تقدم 20 برنامج بكالوريوس ذاتي التمويل في أربع كليات."
+  },
+  "about": {
+   "en": "The university offers 20 self-financed undergraduate programmes across 4 faculties and 12 departments, all accredited in Hong Kong. First-year applicants may hold the HKDSE, IB Diploma, GCE, Gaokao or SAT results. Year 2 and Year 3 entry is possible with associate degrees or part of a bachelor's programme. Applications go through the University Admissions Office online portal. Fees and deadlines were not shown on the pages read.",
+   "ka": "უნივერსიტეტი სთავაზობს 20 თვითდაფინანსებად საბაკალავრო პროგრამას 4 ფაკულტეტსა და 12 დეპარტამენტზე, რომლებიც ჰონკონგში აკრედიტებულია. პირველ კურსზე შეიძლება განაცხადონ HKDSE-ს, IB დიპლომის, GCE-ს, გაოკაოს ან SAT-ის შედეგების მქონე პირებმა. მეორე და მესამე კურსზე ჩარიცხვა შესაძლებელია ასოცირებული ხარისხით ან ბაკალავრიატის ნაწილის დასრულებით. განაცხადი ონლაინ პორტალით იგზავნება. გადასახადები და ვადები წაკითხულ გვერდებზე მითითებული არ იყო.",
+   "ar": "تقدم الجامعة 20 برنامج بكالوريوس ذاتي التمويل في 4 كليات و12 قسمًا، وكلها معتمدة في هونغ كونغ. يمكن لحاملي HKDSE أو دبلوم IB أو GCE أو Gaokao أو نتائج SAT التقديم للسنة الأولى. يمكن القبول في السنة الثانية أو الثالثة بدرجة زمالة أو بإتمام جزء من برنامج بكالوريوس. يتم التقديم عبر بوابة مكتب القبول الإلكترونية. لم تُعرض الرسوم والمواعيد في الصفحات المقروءة."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Non-local applicants may be asked to sit a written test or an interview. Other overseas qualifications are assessed individually by the Admissions Office; no IELTS or TOEFL minimum is published on the first-year page.",
+   "ka": "არარეზიდენტი განმცხადებლებისგან შეიძლება მოითხოვონ წერითი ტესტი ან გასაუბრება. სხვა უცხოური კვალიფიკაციები ინდივიდუალურად ფასდება მიღების ოფისში; პირველი კურსის გვერდზე IELTS ან TOEFL-ის მინიმუმი მითითებული არ არის.",
+   "ar": "قد يُطلب من المتقدمين غير المحليين اجتياز اختبار كتابي أو مقابلة. تُقيَّم المؤهلات الأجنبية الأخرى فرديًا من مكتب القبول؛ ولا تنشر صفحة السنة الأولى حدًا أدنى لـ IELTS أو TOEFL."
+  },
+  "gpa_note": {
+   "en": "First-year entry: HKDSE with Chinese and English Level 3, Mathematics Level 2, Citizenship and Social Development 'Attained' and one elective at Level 2; GCE A-level in at least 2 subjects at grade E or above (excluding Chinese); IB Diploma with at least 24 points.",
+   "ka": "პირველი კურსის მიღება: HKDSE ჩინურსა და ინგლისურში დონე 3, მათემატიკაში დონე 2, Citizenship and Social Development 'Attained' და ერთი არჩევითი დონე 2; GCE A-level მინიმუმ 2 საგანში E ან უკეთესი შეფასებით (ჩინურის გარდა); IB დიპლომი მინიმუმ 24 ქულით.",
+   "ar": "القبول في السنة الأولى: HKDSE بمستوى 3 في الصينية والإنجليزية ومستوى 2 في الرياضيات وCitizenship and Social Development بتقدير Attained ومادة اختيارية بمستوى 2؛ أو GCE A-level في مادتين على الأقل بتقدير E فأعلى (دون الصينية)؛ أو دبلوم IB بما لا يقل عن 24 نقطة."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving qualification (HKDSE, IB Diploma, GCE A-level, Gaokao or SAT results)",
+     "ka": "საშუალო სკოლის დიპლომი ან ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Written test or interview (may be required for non-local applicants)",
+     "ka": "მისაღები გამოცდა ან გასაუბრება",
+     "ar": "امتحان قبول أو مقابلة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English result (HKDSE English Level 3 or GCE/IB English)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "hong kong",
+   "private",
+   "social work"
+  ],
+  "sources": [
+   "https://www.hksyu.edu/en/admissions/undergraduate-studies",
+   "https://uao.hksyu.edu/en/application",
+   "https://uao.hksyu.edu/en/student-admission/first-year"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-tecnologica-centroamericana-unitec",
+  "name": {
+   "en": "Universidad Tecnológica Centroamericana (UNITEC)",
+   "ka": "ცენტრალური ამერიკის ტექნოლოგიური უნივერსიტეტი (UNITEC)",
+   "ar": "جامعة أمريكا الوسطى التكنولوجية (UNITEC)"
+  },
+  "iso": "HN",
+  "city": "Tegucigalpa",
+  "lat": 14.08,
+  "lon": -87.18,
+  "type": "private",
+  "website": "https://www.unitec.edu",
+  "platform": "Direct online form",
+  "application_url": "https://www.unitec.edu/admision/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Foreign high school diplomas must be apostilled. Applicants without the diploma yet can submit a graduation certificate for conditional admission.",
+   "ka": "უცხოური საშუალო სკოლის დიპლომები უნდა იყოს აპოსტილირებული. დიპლომის არმქონე განმცხადებელს პირობითი მიღებისთვის შეუძლია წარადგინოს დამთავრების ცნობა.",
+   "ar": "يجب توثيق شهادات الثانوية الأجنبية بالأبوستيل. ومن لم يحصل على الشهادة بعد يمكنه تقديم شهادة تخرج للقبول المشروط."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Computer science"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "UNITEC is a private university in Honduras with campuses in Tegucigalpa and San Pedro Sula. Teaching is in Spanish; tuition is not published on the admissions page.",
+   "ka": "UNITEC კერძო უნივერსიტეტია ჰონდურასში, კამპუსებით ტეგუსიგალპასა და სან-პედრო-სულაში. სწავლება ესპანურია; საფასური მისაღების გვერდზე მითითებული არ არის.",
+   "ar": "UNITEC جامعة خاصة في هندوراس بحرمين في تيغوسيغالبا وسان بيدرو سولا. التدريس بالإسبانية ولا تنشر صفحة القبول الرسوم."
+  },
+  "about": {
+   "en": "UNITEC is a private university in Honduras with campuses in Tegucigalpa and San Pedro Sula. Applicants submit a school diploma, ID, photo and an application form online; foreign diplomas must be apostilled. Fees are paid as a fixed program fee or per class, and monthly payment plans exist. Teaching is in Spanish. No international tuition amount is published.",
+   "ka": "UNITEC კერძო უნივერსიტეტია ჰონდურასში, კამპუსებით ტეგუსიგალპასა და სან-პედრო-სულაში. აპლიკანტები ონლაინ წარადგენენ საშუალო განათლების დოკუმენტს, პირადობას, ფოტოს და განაცხადს; უცხოური დიპლომი აპოსტილირებული უნდა იყოს. გადახდა ხდება ფიქსირებული საფასურით ან საგნების მიხედვით, ხელმისაწვდომია ყოველთვიური განვადება. სწავლება ესპანურია. საერთაშორისო საფასური მითითებული არ არის.",
+   "ar": "UNITEC جامعة خاصة في هندوراس بحرمين في تيغوسيغالبا وسان بيدرو سولا. يقدم المتقدم شهادة الثانوية والهوية وصورة ونموذج الطلب إلكترونيا، ويجب توثيق الشهادات الأجنبية بالأبوستيل. تدفع الرسوم كمبلغ ثابت للبرنامج أو حسب المواد مع خطط دفع شهرية. التدريس بالإسبانية ولا يوجد مبلغ دولي منشور."
+  },
+  "aid_intl": {
+   "en": "The Fundación Nasser–UNITEC scholarships are for Honduran youth; no aid for international students is published.",
+   "ka": "Fundación Nasser–UNITEC-ის სტიპენდიები ჰონდურასელი ახალგაზრდებისთვისაა; უცხოელებისთვის დახმარება გამოქვეყნებული არ არის.",
+   "ar": "منح Fundación Nasser–UNITEC مخصصة للشباب الهندوراسي ولا توجد منح منشورة للطلاب الدوليين."
+  },
+  "tests": {
+   "en": "No entrance test or English test is listed on the admissions page. Teaching is in Spanish.",
+   "ka": "მისაღების გვერდზე შესასვლელი ან ინგლისურის ტესტი მითითებული არ არის. სწავლება ესპანურია.",
+   "ar": "لا يذكر في صفحة القبول اختبار قبول أو اختبار إنجليزي. التدريس بالإسبانية."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma, front and back (apostilled if foreign; graduation certificate allowed for conditional admission)",
+     "ka": "საშუალო სკოლის დიპლომი ან ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "National ID or passport, front and back",
+     "ka": "პირადობა ან პასპორტი, ორივე მხარე",
+     "ar": "هوية وطنية أو جواز سفر (الوجهان)"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Digital passport-style photo",
+     "ka": "ახალი ფოტო",
+     "ar": "صورة شخصية حديثة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Online application form and initial payment",
+     "ka": "ონლაინ საკონკურსო ფორმა და საწყისი გადახდა",
+     "ar": "استمارة التقديم الإلكترونية والدفعة الأولى"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "International and transfer applicants: academic transcript signed and sealed by the previous university, official grade certificate and course syllabi",
+     "ka": "საერთაშორისო და გადმოსვლის აპლიკანტებისთვის: წინა უნივერსიტეტის მიერ ხელმოწერილი და დალუქული ტრანსკრიპტი, ნიშნების ოფიციალური ცნობა და კურსების სილაბუსები",
+     "ar": "للمتقدمين الدوليين والمحوّلين: كشف درجات موقّع ومختوم من الجامعة السابقة وشهادة درجات رسمية ووصف المقررات"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "International applicants: residency card (carné de residencia)",
+     "ka": "საერთაშორისო აპლიკანტებისთვის: ბინადრობის ბარათი (carné de residencia)",
+     "ar": "للمتقدمين الدوليين: بطاقة الإقامة (carné de residencia)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "honduras",
+   "tegucigalpa",
+   "private",
+   "spanish"
+  ],
+  "sources": [
+   "https://www.unitec.edu/admision/",
+   "https://www.unitec.edu"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "the-josip-juraj-strossmayer-university-of-osijek",
+  "name": {
+   "en": "The Josip Juraj Strossmayer University of Osijek",
+   "ka": "იოსიპ იურაი შტროსმაიერის ოსიეკის უნივერსიტეტი",
+   "ar": "جامعة يوسيب يوراي ستروسماير في أوسييك"
+  },
+  "iso": "HR",
+  "city": "Osijek",
+  "lat": 45.557,
+  "lon": 18.688,
+  "type": "public",
+  "website": "https://www.unios.hr",
+  "platform": "Central national system (postani-student.hr) for Croatian-taught undergraduate studies",
+  "application_url": "https://www.studij.hr/all-about-applications",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Croatian"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Foreign secondary qualifications are recognised centrally by AZVO as part of the application.",
+   "ka": "უცხოური საშუალო განათლების აღიარებას ცენტრალურად AZVO ახორციელებს განაცხადის პროცესში.",
+   "ar": "يجري الاعتراف بالمؤهلات الثانوية الأجنبية مركزيًا عبر AZVO ضمن إجراءات التقديم."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "humanities",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Osijek, Croatia.",
+   "ka": "სახელმწიფო უნივერსიტეტი ოსიეკში, ხორვატიაში.",
+   "ar": "جامعة حكومية في أوسييك بكرواتيا."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "The Faculty of Economics offers one English-taught programme, a part-time master's in Management and Entrepreneurship. Undergraduate studies are taught in Croatian; no English-taught bachelor degree was found.",
+   "ka": "ეკონომიკის ფაკულტეტზე ინგლისურენოვანია ერთი პროგრამა: Management and Entrepreneurship (მაგისტრატურა, ნახევარგანაკვეთური). საბაკალავრო სწავლება ხორვატულია; ინგლისურენოვანი ბაკალავრიატი ვერ მოიძებნა.",
+   "ar": "تقدم كلية الاقتصاد برنامجًا واحدًا بالإنجليزية هو ماجستير الإدارة وريادة الأعمال بدوام جزئي. الدراسة الجامعية الأولى بالكرواتية ولم يُعثر على برنامج بكالوريوس بالإنجليزية."
+  },
+  "gpa_note": {
+   "en": "Croatian undergraduate entry needs at least four years of secondary education or equivalent; foreign secondary qualifications must be recognised by the Agency for Science and Higher Education (AZVO) before enrolment.",
+   "ka": "ხორვატიის საბაკალავრო პროგრამებზე ჩასარიცხად საჭიროა მინიმუმ ოთხწლიანი საშუალო განათლება ან მისი ექვივალენტი; უცხოური საშუალო განათლება უნდა აღიარდეს მეცნიერებისა და უმაღლესი განათლების სააგენტოს (AZVO) მიერ ჩარიცხვამდე.",
+   "ar": "يتطلب القبول في البكالوريوس بكرواتيا أربع سنوات من التعليم الثانوي على الأقل أو ما يعادلها؛ ويجب أن تعترف وكالة العلوم والتعليم العالي (AZVO) بالمؤهل الثانوي الأجنبي قبل التسجيل."
+  },
+  "requirements": [
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign secondary diploma (AZVO)",
+     "ka": "უცხოური საშუალო განათლების აღიარება (AZVO)",
+     "ar": "الاعتراف بشهادة الثانوية الأجنبية (AZVO)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (with certified Croatian translation)",
+     "ka": "საშუალო სკოლის დიპლომი ან ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Citizenship certificate",
+     "ka": "მოქალაქეობის დამადასტურებელი დოკუმენტი",
+     "ar": "شهادة الجنسية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "hr",
+   "osijek"
+  ],
+  "sources": [
+   "https://www.unios.hr",
+   "https://www.efos.unios.hr/en/for-students/international-students/",
+   "https://www.studij.hr/all-about-applications"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-rijeka",
+  "name": {
+   "en": "University of Rijeka",
+   "ka": "რიეკას უნივერსიტეტი",
+   "ar": "جامعة رييكا"
+  },
+  "iso": "HR",
+  "city": "Rijeka",
+  "lat": 45.328,
+  "lon": 14.44,
+  "type": "public",
+  "website": "https://www.uniri.hr",
+  "platform": "National system postani-student.hr plus faculty calls for English-taught programmes",
+  "application_url": "https://uniri.hr/en/studies/students-at-the-university-of-rijeka/",
+  "intakes": [
+   "October"
+  ],
+  "deadline": null,
+  "deadline_note": "Last published undergraduate cycle (2025/26): foreign school qualification recognition request by 1 July 2025 and final registration in postani-student.hr by 16 July 2025. Dates for 2027 are set in the annual call.",
+  "tuition_intl": {
+   "amount": 3000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "English-taught bachelor fees for non-EU students: Hospitality management 3,000; Joint YUFE Bachelor in Urban Sustainability Studies 5,000; Business Economics 5,000 (faculty page). Medicine and Dental Medicine are 12,000 per year."
+  },
+  "acceptance_rate": null,
+  "students": 15250,
+  "intl_pct": 3.6,
+  "languages": [
+   "Croatian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Foreign secondary qualifications need a recognition decision from the Agency for Science and Higher Education (AZVO); the request is filed in postani-student.hr. Final exam results from abroad count as equal to the Croatian state matura.",
+   "ka": "უცხოურ საშუალო განათლებას სჭირდება მეცნიერებისა და უმაღლესი განათლების სააგენტოს (AZVO) აღიარების გადაწყვეტილება; მოთხოვნა იგზავნება postani-student.hr-ზე. საზღვარგარეთის დასკვნითი გამოცდების შედეგები ხორვატულ სახელმწიფო მატურასთან გათანაბრებულია.",
+   "ar": "يتطلب المؤهل الثانوي الأجنبي قرار اعتراف من وكالة العلوم والتعليم العالي (AZVO) ويُقدَّم الطلب عبر postani-student.hr. وتُعادل نتائج الامتحانات النهائية من الخارج امتحان الماتورا الحكومي الكرواتي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TOEFL",
+   "IELTS",
+   "Cambridge",
+   "TOEIC"
+  ],
+  "fields": [
+   "medicine-health",
+   "business",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Dental Medicine",
+    "International Business",
+    "Tourism and Hospitality"
+   ],
+   "ka": [
+    "მედიცინა",
+    "სტომატოლოგია",
+    "საერთაშორისო ბიზნესი",
+    "ტურიზმი და სტუმართმოყვარეობა"
+   ],
+   "ar": [
+    "الطب",
+    "طب الأسنان",
+    "الأعمال الدولية",
+    "السياحة والضيافة"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Rijeka, Croatia. It offers some programmes in English, including Medicine, Dental Medicine and International Business.",
+   "ka": "საჯარო უნივერსიტეტი რიეკაში, ხორვატია. ზოგი პროგრამა ინგლისურადაა, მათ შორის მედიცინა, სტომატოლოგია და საერთაშორისო ბიზნესი.",
+   "ar": "جامعة حكومية في رييكا بكرواتيا. تقدم بعض البرامج بالإنجليزية ومنها الطب وطب الأسنان والأعمال الدولية."
+  },
+  "about": {
+   "en": "The University of Rijeka is a public university on the Adriatic coast of Croatia. Its page for international students says full degrees can be taken in English or Croatian. English-taught bachelor-level programmes listed are Business Economics in Tourism and Hospitality, International Business, Medicine, Dental Medicine and the YUFE joint Bachelor in Urban Sustainability Studies. Fees and deadlines are not published on the page; applicants should use the interest form and the guide for international degree students.",
+   "ka": "რიეკას უნივერსიტეტი საჯარო უნივერსიტეტია ხორვატიის ადრიატიკის სანაპიროზე. საერთაშორისო სტუდენტების გვერდის მიხედვით, სრული ხარისხის მიღება შესაძლებელია ინგლისურად ან ხორვატულად. ინგლისურენოვანი ბაკალავრიატის დონის პროგრამებია: ტურიზმისა და სტუმართმოყვარეობის ბიზნეს-ეკონომიკა, საერთაშორისო ბიზნესი, მედიცინა, სტომატოლოგია და YUFE-ის ერთობლივი ბაკალავრიატი. საფასური და ვადები გვერდზე მითითებული არ არის.",
+   "ar": "جامعة رييكا جامعة حكومية على ساحل الأدرياتيكي في كرواتيا. تذكر صفحة الطلاب الدوليين أنه يمكن الدراسة بالإنجليزية أو الكرواتية. البرامج الجامعية بالإنجليزية: اقتصاد الأعمال في السياحة والضيافة، الأعمال الدولية، الطب، طب الأسنان، وبكالوريوس YUFE المشترك. الرسوم والمواعيد غير منشورة في الصفحة."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "English-taught programmes recommend CEFR B2 English; a faculty may ask for TOEFL, IELTS, Cambridge or TOEIC proof. Some programmes add their own entrance assessment; details are in each faculty call.",
+   "ka": "ინგლისურენოვანი პროგრამებისთვის რეკომენდებულია ინგლისური CEFR B2 დონეზე; ფაკულტეტმა შეიძლება მოითხოვოს TOEFL, IELTS, Cambridge ან TOEIC. ზოგ პროგრამას საკუთარი მისაღები შეფასება აქვს; დეტალები თითოეული ფაკულტეტის კონკურსშია.",
+   "ar": "توصي البرامج بالإنجليزية بمستوى B2 وفق CEFR؛ وقد تطلب الكلية إثباتًا عبر TOEFL أو IELTS أو Cambridge أو TOEIC. وتضيف بعض البرامج تقييم قبول خاصًا؛ والتفاصيل في إعلان كل كلية."
+  },
+  "gpa_note": {
+   "en": "Entry needs at least four years of secondary education or equivalent. Applicants with foreign schooling are generally not required to take the Croatian state matura, but some faculties set minimum scores or extra tests.",
+   "ka": "ჩასარიცხად საჭიროა მინიმუმ ოთხწლიანი საშუალო განათლება ან ექვივალენტი. უცხოეთში განათლებამიღებულებს ხორვატული სახელმწიფო მატურა ზოგადად არ მოეთხოვებათ, თუმცა ზოგ ფაკულტეტს აქვს მინიმალური ქულები ან დამატებითი ტესტები.",
+   "ar": "يتطلب القبول أربع سنوات من التعليم الثانوي على الأقل أو ما يعادلها. لا يُطلب عادةً من حملة التعليم الأجنبي أداء الماتورا الكرواتية، لكن بعض الكليات تضع حدودًا دنيا أو اختبارات إضافية."
+  },
+  "requirements": [
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign secondary diploma (AZVO)",
+     "ka": "უცხოური საშუალო განათლების აღიარება (AZVO)",
+     "ar": "الاعتراف بشهادة الثانوية الأجنبية (AZVO)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma with certified Croatian translation",
+     "ka": "საშუალო სკოლის დიპლომი ან ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Citizenship certificate",
+     "ka": "მოქალაქეობის დამადასტურებელი დოკუმენტი",
+     "ar": "شهادة الجنسية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Application form in postani-student.hr plus faculty-specific requirements",
+     "ka": "განაცხადის ფორმა postani-student.hr-ზე და ფაკულტეტის სპეციფიკური მოთხოვნები",
+     "ar": "استمارة التقديم في postani-student.hr مع متطلبات الكلية الخاصة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "croatia",
+   "rijeka",
+   "medicine",
+   "english programmes"
+  ],
+  "sources": [
+   "https://uniri.hr/en/studies/students-at-the-university-of-rijeka/",
+   "https://uniri.hr/en/",
+   "https://uniri.hr/wp-content/uploads/2025/04/UNIRI_Guide_for_International_Degree_Students_03_2025.pdf",
+   "https://uniri.hr/wp-content/uploads/2025/01/101-Natjecaj-za-studije-na-engleskom-2025_2026_fin.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-split",
+  "name": {
+   "en": "University of Split",
+   "ka": "სპლიტის უნივერსიტეტი",
+   "ar": "جامعة سبليت"
+  },
+  "iso": "HR",
+  "city": "Split",
+  "lat": 43.511,
+  "lon": 16.469,
+  "type": "public",
+  "website": "https://www.unist.hr",
+  "platform": "National system postani-student.hr plus faculty enrolment",
+  "application_url": "https://www.ffst.unist.hr/en/psychology/psychology_-_admissions",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Applications run through postani-student.hr in summer; the 2026 Psychology summer enrolment was 16-17 July 2026. Exact 2027 dates are announced by the faculty.",
+  "tuition_intl": {
+   "amount": 6000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Bachelor in Psychology (English), Faculty of Humanities and Social Sciences, paid in full at enrolment. Other faculties set their own fees."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Croatian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Foreign secondary qualifications are recognised by the Agency for Science and Higher Education (AZVO) within the central application.",
+   "ka": "უცხოური საშუალო განათლების აღიარებას მეცნიერებისა და უმაღლესი განათლების სააგენტო (AZVO) ახორციელებს ცენტრალური განაცხადის ფარგლებში.",
+   "ar": "تعترف وكالة العلوم والتعليم العالي (AZVO) بالمؤهلات الثانوية الأجنبية ضمن التقديم المركزي."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TOEFL",
+   "IELTS",
+   "Cambridge CAE (C1)"
+  ],
+  "fields": [
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Forensic Sciences",
+    "Psychology"
+   ],
+   "ka": [
+    "სასამართლო მეცნიერებები",
+    "ფსიქოლოგია"
+   ],
+   "ar": [
+    "العلوم الجنائية",
+    "علم النفس"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Split, Croatia. Its English-taught bachelor programmes are Forensic Sciences and Psychology.",
+   "ka": "საჯარო უნივერსიტეტი სპლიტში, ხორვატია. ინგლისურენოვანი ბაკალავრიატია სასამართლო მეცნიერებები და ფსიქოლოგია.",
+   "ar": "جامعة حكومية في سبليت بكرواتيا. برنامجا البكالوريوس بالإنجليزية هما العلوم الجنائية وعلم النفس."
+  },
+  "about": {
+   "en": "The University of Split is a public university in the Dalmatian coastal city of Split. Its Studies in English page lists two bachelor programmes taught in English, each 6 semesters and 180 ECTS: Forensic Sciences and Psychology. The page does not publish fees, deadlines or entry requirements; these are on the programme pages of the departments.",
+   "ka": "სპლიტის უნივერსიტეტი საჯარო უნივერსიტეტია დალმაციის სანაპირო ქალაქ სპლიტში. ინგლისურენოვანი სწავლების გვერდზე ორი ბაკალავრიატია: სასამართლო მეცნიერებები და ფსიქოლოგია, თითოეული 6 სემესტრი, 180 ECTS. საფასური და ვადები გვერდზე მითითებული არ არის.",
+   "ar": "جامعة سبليت جامعة حكومية في مدينة سبليت الساحلية. تعرض صفحة الدراسة بالإنجليزية برنامجي بكالوريوس مدة كل منهما 6 فصول و180 وحدة ECTS: العلوم الجنائية وعلم النفس. الرسوم والمواعيد غير منشورة في الصفحة."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Applicants who are not native English speakers or did not study in English must show English at CEFR C1 (TOEFL, IELTS or CAE) for the Faculty of Humanities and Social Sciences. Admission is ranked through the national system; foreign diplomas need AZVO recognition.",
+   "ka": "ჰუმანიტარულ და სოციალურ მეცნიერებათა ფაკულტეტზე ინგლისურის არამშობლიურ მოლაპარაკეებს ან ინგლისურად არასწავლილებს უნდა წარადგინონ ინგლისური CEFR C1 დონეზე (TOEFL, IELTS ან CAE). ჩარიცხვა რანჟირდება ეროვნული სისტემით; უცხოურ დიპლომს სჭირდება AZVO-ს აღიარება.",
+   "ar": "على من ليست الإنجليزية لغتهم الأم أو لم يدرسوا بها إثبات مستوى C1 وفق CEFR (TOEFL أو IELTS أو CAE) في كلية العلوم الإنسانية والاجتماعية. يجري الترتيب عبر النظام الوطني، وتحتاج الشهادات الأجنبية إلى اعتراف AZVO."
+  },
+  "gpa_note": {
+   "en": "Entry needs at least four years of secondary education or equivalent. Foreign secondary qualifications must be recognised by AZVO; places are ranked in the national system.",
+   "ka": "ჩასარიცხად საჭიროა მინიმუმ ოთხწლიანი საშუალო განათლება ან ექვივალენტი. უცხოური საშუალო განათლება უნდა აღიარდეს AZVO-ს მიერ; ადგილები ეროვნულ სისტემაში რანჟირდება.",
+   "ar": "يتطلب القبول أربع سنوات من التعليم الثانوي على الأقل أو ما يعادلها. يجب أن تعترف AZVO بالمؤهل الثانوي الأجنبي، ويجري ترتيب المقاعد في النظام الوطني."
+  },
+  "requirements": [
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign secondary diploma (AZVO)",
+     "ka": "უცხოური საშუალო განათლების აღიარება (AZVO)",
+     "ar": "الاعتراف بشهادة الثانوية الأجنبية (AZVO)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma with certified Croatian translation",
+     "ka": "საშუალო სკოლის დიპლომი ან ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English at C1 (TOEFL, IELTS or CAE)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Full annual tuition fee paid at enrolment (EUR 6,000 for Psychology)",
+     "ka": "სრული წლიური სწავლის საფასური ჩარიცხვისას (ფსიქოლოგია: 6 000 EUR)",
+     "ar": "الرسوم الدراسية السنوية كاملة عند التسجيل (6000 يورو لعلم النفس)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "croatia",
+   "split",
+   "psychology",
+   "forensics"
+  ],
+  "sources": [
+   "https://www.unist.hr/studies-in-english/323",
+   "https://www.unist.hr/en/",
+   "https://www.ffst.unist.hr/en/departments/psychology",
+   "https://www.ffst.unist.hr/en/psychology/psychology_-_admissions"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "platform": "Direct (DreamApply, apply.u-szeged.hu)",
+  "application_url": "https://apply.u-szeged.hu/",
+  "intakes": [
+   "February",
+   "September"
+  ],
+  "deadline": "2027-03-15",
+  "deadline_note": "BSc Computer Science (Faculty of Science and Informatics): application window for the 2027/28 autumn semester is 4 January to 15 March 2027. Other faculties set their own dates.",
+  "tuition_intl": {
+   "amount": 6400,
+   "currency": "EUR",
+   "per": "year",
+   "note": "BSc Computer Science is EUR 3,200 per semester; the first two semesters are paid in advance. Other bachelor programmes have their own fees."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Hungarian"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "The Computer Science page accepts a high school diploma, leaving certificate or equivalent; no foreign-system exceptions are listed.",
+   "ka": "კომპიუტერული მეცნიერების გვერდზე მიიღება საშუალო სკოლის დიპლომი, ატესტატი ან ექვივალენტი; უცხოური სისტემების გამონაკლისები მითითებული არ არის.",
+   "ar": "تقبل صفحة علوم الحاسوب شهادة الثانوية أو ما يعادلها دون ذكر استثناءات للأنظمة الأجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 5.5,
+  "toefl_min": 72,
+  "duolingo_min": null,
+  "other_tests": [
+   "TELC B2",
+   "ECL B2",
+   "Cambridge First (B)",
+   "LanguageCert B2",
+   "Entrance exam (online interview)"
+  ],
+  "aid_intl": null,
+  "tests": {
+   "en": "English proof is needed: IELTS 5.5, TOEFL iBT 72, TELC or ECL B2, Cambridge First grade B or LanguageCert B2. After document review an entrance exam follows, for Computer Science an online interview (EUR 100 fee).",
+   "ka": "საჭიროა ინგლისურის დამადასტურებელი დოკუმენტი: IELTS 5.5, TOEFL iBT 72, TELC ან ECL B2, Cambridge First (B) ან LanguageCert B2. დოკუმენტების განხილვის შემდეგ მისაღები გამოცდაა; კომპიუტერულ მეცნიერებაზე ონლაინ გასაუბრება (გადასახადი 100 EUR).",
+   "ar": "يلزم إثبات الإنجليزية: IELTS 5.5 أو TOEFL iBT 72 أو TELC أو ECL B2 أو Cambridge First بتقدير B أو LanguageCert B2. بعد مراجعة الوثائق يأتي امتحان القبول، وفي علوم الحاسوب مقابلة عبر الإنترنت (رسوم 100 يورو)."
+  },
+  "gpa_note": {
+   "en": "Entry needs completed secondary education (senior high school diploma, leaving certificate or equivalent). Some faculties may also ask for a motivation letter or an online interview.",
+   "ka": "ჩასარიცხად საჭიროა დასრულებული საშუალო განათლება (საშუალო სკოლის დიპლომი, ატესტატი ან ექვივალენტი). ზოგმა ფაკულტეტმა შეიძლება მოტივაციის წერილი ან ონლაინ გასაუბრებაც მოითხოვოს.",
+   "ar": "يتطلب القبول إتمام التعليم الثانوي (شهادة الثانوية أو ما يعادلها). وقد تطلب بعض الكليات خطاب دافع أو مقابلة عبر الإنترنت."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or leaving certificate",
+     "ka": "საშუალო სკოლის დიპლომი ან ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "General medical certificate of satisfactory health",
+     "ka": "ზოგადი ჯანმრთელობის სამედიცინო ცნობა",
+     "ar": "شهادة طبية عامة بسلامة الحالة الصحية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee EUR 79 per programme (non-refundable)",
+     "ka": "სააპლიკაციო გადასახადი 79 EUR თითო პროგრამაზე (არ ბრუნდება)",
+     "ar": "رسوم التقديم 79 يورو لكل برنامج (غير مستردة)"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam or online interview (EUR 100 fee)",
+     "ka": "მისაღები გამოცდა ან გასაუბრება",
+     "ar": "امتحان قبول أو مقابلة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-16",
+  "id": "university-of-szeged",
+  "name": {
+   "en": "University of Szeged",
+   "ka": "სეგედის უნივერსიტეტი",
+   "ar": "جامعة سيجد"
+  },
+  "iso": "HU",
+  "city": "Szeged",
+  "lat": 46.253,
+  "lon": 20.145,
+  "type": "public",
+  "website": "https://u-szeged.hu",
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "humanities",
+   "law",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [],
+   "ka": [],
+   "ar": []
+  },
+  "summary": {
+   "en": "Large public research university in southern Hungary with English-taught bachelor programmes for self-financed international students.",
+   "ka": "მსხვილი საჯარო კვლევითი უნივერსიტეტი სამხრეთ უნგრეთში, ინგლისურენოვანი საბაკალავრო პროგრამებით თვითდაფინანსებადი უცხოელი სტუდენტებისთვის.",
+   "ar": "جامعة بحثية حكومية كبيرة في جنوب المجر مع برامج بكالوريوس بالإنجليزية للطلاب الدوليين على نفقتهم."
+  },
+  "about": {
+   "en": "The University of Szeged says applications are open for international self-financed programmes starting in spring 2027, via apply.u-szeged.hu. The bachelor fee table is in a PDF that could not be read here, so tuition and deadlines are not given.",
+   "ka": "სეგედის უნივერსიტეტის მიხედვით, 2027 წლის გაზაფხულზე დაწყებული საერთაშორისო თვითდაფინანსებადი პროგრამებისთვის განაცხადები ღიაა apply.u-szeged.hu-ზე. საბაკალავრო საფასურის ცხრილი PDF-შია, რომელიც ვერ წაიკითხა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "تذكر جامعة سيجد أن التقديم مفتوح للبرامج الدولية على نفقة الطالب التي تبدأ في ربيع 2027 عبر apply.u-szeged.hu. جدول رسوم البكالوريوس في ملف PDF تعذّرت قراءته، لذلك لم تُذكر الرسوم والمواعيد."
+  },
+  "keywords": [
+   "hu",
+   "szeged"
+  ],
+  "sources": [
+   "https://u-szeged.hu/english",
+   "https://u-szeged.hu/bachelors",
+   "https://apply.u-szeged.hu/en_GB/courses/course/474-bsc-computer-science",
+   "https://u-szeged.hu/english/undergraduate-programs/computer-science-bsc",
+   "https://u-szeged.hu/prospective-students/how-to-apply"
+  ]
+ },
+ {
+  "id": "obuda-university",
+  "name": {
+   "en": "Obuda University",
+   "ka": "ობუდას უნივერსიტეტი",
+   "ar": "جامعة أوبودا"
+  },
+  "iso": "HU",
+  "city": "Budapest",
+  "lat": 47.548,
+  "lon": 19.033,
+  "type": "public",
+  "website": "https://www.uni-obuda.hu",
+  "platform": "Direct online application (Obuda University portal)",
+  "application_url": "https://uni-obuda.hu/how-to-apply/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "The fall 2026 intake deadline was 31 May 2026; the 2027 schedule is not yet published on the deadlines page. Applicants must be 18 by the end of September of the start year.",
+  "tuition_intl": {
+   "amount": 5800,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Non-EEA bachelor fees are EUR 2,700 to 3,200 per semester depending on programme (e.g. business 2,900; computer science 3,200). Application fee EUR 150, non-refundable."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Hungarian"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Any secondary school diploma or GCE with a notarised English translation is accepted; every school-leaving document must be notarised even if issued in English. GCSE or GED are decided by the faculty.",
+   "ka": "მიიღება ნებისმიერი საშუალო სკოლის დიპლომი ან GCE ნოტარიულად დამოწმებული ინგლისური თარგმანით; ყველა დოკუმენტი უნდა იყოს ნოტარიულად დამოწმებული ინგლისურადაც რომ იყოს გაცემული. GCSE-ს და GED-ს ფაკულტეტი განიხილავს.",
+   "ar": "يُقبل أي دبلوم ثانوي أو GCE مع ترجمة إنجليزية موثقة؛ ويجب توثيق كل وثيقة تخرج حتى لو صدرت بالإنجليزية. وتقرر الكلية بشأن GCSE وGED."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 5.5,
+  "toefl_min": 72,
+  "duolingo_min": null,
+  "other_tests": [
+   "TOEFL iBT 72",
+   "Cambridge FCE",
+   "ECL B2",
+   "Euroexam B2",
+   "PTE General B2",
+   "telc B2",
+   "Entrance exam (maths, physics, oral)"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "business"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public technical university in Budapest, Hungary, with engineering, computing and business programmes.",
+   "ka": "საჯარო ტექნიკური უნივერსიტეტი ბუდაპეშტში, უნგრეთი, საინჟინრო, საკომპიუტერო და ბიზნეს პროგრამებით.",
+   "ar": "جامعة تقنية حكومية في بودابست بالمجر تقدم برامج في الهندسة والحاسب والأعمال."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "Obuda University points applicants to the Stipendium Hungaricum scholarship; no other fee waiver is listed.",
+   "ka": "ობუდას უნივერსიტეტი აპლიკანტებს უთითებს Stipendium Hungaricum-ის სტიპენდიაზე; სხვა შეღავათი მითითებული არ არის.",
+   "ar": "تحيل جامعة أوبودا المتقدمين إلى منحة Stipendium Hungaricum ولا تذكر إعفاءات أخرى."
+  },
+  "tests": {
+   "en": "BSc applicants need English at B2: IELTS 5.5, TOEFL iBT 72, Cambridge FCE or equivalent (Duolingo is not accepted). Online entrance tests follow document checks: mathematics plus physics, chemistry, biology or informatics depending on the programme, and an oral exam.",
+   "ka": "ბაკალავრის აპლიკანტებს სჭირდებათ ინგლისური B2 დონეზე: IELTS 5.5, TOEFL iBT 72, Cambridge FCE ან ექვივალენტი (Duolingo არ მიიღება). დოკუმენტების შემოწმების შემდეგ ონლაინ მისაღები ტესტებია: მათემატიკა და პროგრამის მიხედვით ფიზიკა, ქიმია, ბიოლოგია ან ინფორმატიკა, ასევე ზეპირი გამოცდა.",
+   "ar": "يحتاج متقدمو البكالوريوس إلى الإنجليزية بمستوى B2: IELTS 5.5 أو TOEFL iBT 72 أو Cambridge FCE أو ما يعادلها (لا يُقبل Duolingo). بعد فحص الوثائق تُجرى اختبارات قبول عبر الإنترنت: الرياضيات مع الفيزياء أو الكيمياء أو الأحياء أو المعلوماتية حسب البرنامج، وامتحان شفوي."
+  },
+  "gpa_note": {
+   "en": "Applicants must have finished secondary school, or be in the last year and upload the leaving certificate by 1 August. The report card must show Mathematics, Physics and English; GCSE or GED acceptance is decided by the faculty.",
+   "ka": "განმცხადებელს უნდა ჰქონდეს დამთავრებული საშუალო სკოლა ან იყოს ბოლო კლასში და ატესტატი ატვირთოს 1 აგვისტომდე. ნიშნების ფურცელში უნდა ჩანდეს მათემატიკა, ფიზიკა და ინგლისური; GCSE-ს ან GED-ის მიღებას ფაკულტეტი წყვეტს.",
+   "ar": "يجب أن يكون المتقدم قد أنهى الثانوية أو في سنتها الأخيرة ويرفع الشهادة قبل 1 أغسطس. ينبغي أن يُظهر كشف الدرجات الرياضيات والفيزياء والإنجليزية؛ وتقرر الكلية قبول GCSE أو GED."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Motivation letter",
+     "ka": "მოტივაციის წერილი",
+     "ar": "خطاب الدافع"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV",
+     "ka": "CV (რეზიუმე)",
+     "ar": "سيرة ذاتية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school report card showing Mathematics, Physics and English (notarised English translation)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or GCE (notarised English translation)",
+     "ka": "საშუალო სკოლის დიპლომი ან ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Online entrance tests and oral exam",
+     "ka": "მისაღები გამოცდა ან გასაუბრება",
+     "ar": "امتحان قبول أو مقابلة"
+    }
+   },
+   {
+    "key": "portfolio",
+    "label": {
+     "en": "Portfolio (Design Engineering only)",
+     "ka": "პორტფოლიო (მხოლოდ Design Engineering)",
+     "ar": "ملف أعمال (لهندسة التصميم فقط)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee EUR 150 (non-refundable)",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "hungary",
+   "budapest"
+  ],
+  "sources": [
+   "https://www.uni-obuda.hu/en/",
+   "https://uni-obuda.hu/application-deadlines/",
+   "https://uni-obuda.hu/required-documents/",
+   "https://uni-obuda.hu/tuition-fees/",
+   "https://uni-obuda.hu/entrance-tests/",
+   "https://uni-obuda.hu/faq/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "szechenyi-istvan-university-university-of-gyor",
+  "name": {
+   "en": "Széchenyi István University (University of Győr)",
+   "ka": "სეჩენი ისტვანის უნივერსიტეტი (ჯიორის უნივერსიტეტი)",
+   "ar": "جامعة سيشيني إشتفان (جامعة جيور)"
+  },
+  "iso": "HU",
+  "city": "Győr",
+  "lat": 47.682,
+  "lon": 17.634,
+  "type": "public",
+  "website": "https://uni.sze.hu",
+  "platform": "Direct online application (admissions.sze.hu)",
+  "application_url": "https://admissions.sze.hu/application-information",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "2026/27 cycle: registration for BSc/BA closed 30 June 2026, tuition payment due 15 July 2026, arrival by 30 September 2026. The 2027/28 dates are not yet posted.",
+  "tuition_intl": {
+   "amount": 5200,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Per semester: EUR 1,700 (Business Administration, International Relations) to EUR 2,600 (Vehicle, Civil, Business Informatics engineering). First two semesters are paid in advance. Application fee EUR 100."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Hungarian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Secondary school results and the courses studied are required, notarised; Hague Convention countries may use an apostille instead. Mathematics must appear for engineering, agriculture and business degrees.",
+   "ka": "საჭიროა საშუალო სკოლის შედეგები და ნასწავლი საგნები ნოტარიულად დამოწმებული; ჰააგის კონვენციის წევრი ქვეყნები შეიძლება აპოსტილით დაკმაყოფილდნენ. საინჟინრო, აგრარულ და ბიზნეს პროგრამებზე უნდა ჩანდეს მათემატიკა.",
+   "ar": "تُطلب نتائج الثانوية والمقررات الدراسية موثقة؛ ويمكن لدول اتفاقية لاهاي استخدام الأبوستيل. يجب ظهور الرياضيات في برامج الهندسة والزراعة والأعمال."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 5.5,
+  "toefl_min": 66,
+  "duolingo_min": null,
+  "other_tests": [
+   "TOEFL iBT 66",
+   "Online language interview"
+  ],
+  "fields": [
+   "engineering",
+   "business",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Vehicle engineering",
+    "Mechanical engineering",
+    "Business",
+    "International relations"
+   ],
+   "ka": [
+    "სატრანსპორტო საშუალებების ინჟინერია",
+    "მექანიკური ინჟინერია",
+    "ბიზნესი",
+    "საერთაშორისო ურთიერთობები"
+   ],
+   "ar": [
+    "هندسة المركبات",
+    "الهندسة الميكانيكية",
+    "الأعمال",
+    "العلاقات الدولية"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Győr, Hungary, with English-taught engineering, business and international relations bachelor programmes for self-financed students.",
+   "ka": "საჯარო უნივერსიტეტი ჯიორში, უნგრეთი, ინგლისურენოვანი საინჟინრო, ბიზნეს და საერთაშორისო ურთიერთობების საბაკალავრო პროგრამებით თვითდაფინანსებადი სტუდენტებისთვის.",
+   "ar": "جامعة حكومية في جيور بالمجر تقدم برامج بكالوريوس بالإنجليزية في الهندسة والأعمال والعلاقات الدولية للطلاب على نفقتهم."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "Stipendium Hungaricum scholarships are administered by the university.",
+   "ka": "Stipendium Hungaricum სტიპენდიებს უნივერსიტეტი ადმინისტრირებს.",
+   "ar": "تدير الجامعة منح Stipendium Hungaricum."
+  },
+  "tests": {
+   "en": "English at CEFR B2 is required: IELTS 5.5 or TOEFL iBT 66 in general, and some programmes ask IELTS 6.0 or TOEFL iBT 72. The university may hold an online language interview; no entrance exam is listed.",
+   "ka": "საჭიროა ინგლისური CEFR B2 დონეზე: ზოგადად IELTS 5.5 ან TOEFL iBT 66, ზოგ პროგრამაზე IELTS 6.0 ან TOEFL iBT 72. უნივერსიტეტმა შეიძლება ჩაატაროს ონლაინ ენობრივი გასაუბრება; მისაღები გამოცდა მითითებული არ არის.",
+   "ar": "يلزم مستوى B2 في الإنجليزية: IELTS 5.5 أو TOEFL iBT 66 عمومًا، وبعض البرامج تطلب IELTS 6.0 أو TOEFL iBT 72. قد تجري الجامعة مقابلة لغوية عبر الإنترنت؛ ولا يُذكر امتحان قبول."
+  },
+  "gpa_note": {
+   "en": "Bachelor applicants must be over 18 and submit secondary school results and courses studied; engineering, agriculture and business programmes need proof of mathematics in the school-leaving results.",
+   "ka": "ბაკალავრის აპლიკანტი უნდა იყოს 18 წელზე უფროსი და წარადგინოს საშუალო სკოლის შედეგები და ნასწავლი საგნები; საინჟინრო, აგრარულ და ბიზნეს პროგრამებზე საჭიროა მათემატიკის დადასტურება ატესტატში.",
+   "ar": "يجب أن يتجاوز المتقدم 18 عامًا ويقدم نتائج الثانوية والمقررات التي درسها؛ وتتطلب برامج الهندسة والزراعة والأعمال إثبات دراسة الرياضيات في شهادة التخرج."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Notarised copy of the secondary school diploma (apostille accepted for Hague Convention countries)",
+     "ka": "საშუალო სკოლის დიპლომი ან ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Notarised copy of the transcript of records",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Copy of English language certificate",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Recent photograph",
+     "ka": "ახალი ფოტო",
+     "ar": "صورة شخصية حديثة"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV",
+     "ka": "CV (რეზიუმე)",
+     "ar": "سيرة ذاتية"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Motivation letter",
+     "ka": "მოტივაციის წერილი",
+     "ar": "خطاب الدافع"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Academic reference letter",
+     "ka": "აკადემიური სარეკომენდაციო წერილი",
+     "ar": "خطاب توصية أكاديمي"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee EUR 100 (non-refundable) and two semesters of tuition plus one month of accommodation after approval",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Stipendium Hungaricum",
+    "url": "https://admissions.sze.hu/stipendium-hungaricum",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "hungary",
+   "gyor",
+   "engineering",
+   "stipendium hungaricum"
+  ],
+  "sources": [
+   "https://admissions.sze.hu",
+   "https://admissions.sze.hu/bachelors-level-full-degree-programmes",
+   "https://admissions.sze.hu/important-dates-and-regulations",
+   "https://admissions.sze.hu/application-information",
+   "https://admissions.sze.hu/bachelor-in-vehicle-engineering-bsc-",
+   "https://admissions.sze.hu/bachelor-of-business-administration-and-management-bsc-"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universitas-padjadjaran-unpad",
+  "name": {
+   "en": "Universitas Padjadjaran (UNPAD)",
+   "ka": "ჯაჯარანის უნივერსიტეტი (UNPAD)",
+   "ar": "جامعة باجاجاران (UNPAD)"
+  },
+  "iso": "ID",
+  "city": "Bandung",
+  "lat": -6.929,
+  "lon": 107.772,
+  "type": "public",
+  "website": "https://www.unpad.ac.id",
+  "platform": "Unpad international undergraduate admission portal",
+  "application_url": "https://info.admission.unpad.ac.id/apply-and-enroll",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "International undergraduate application period listed as January to March 2027, with results and registration in March 2027; intake dates are still marked to be announced.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Indonesian"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "National exam scores or equivalents such as IGCSE or A-levels are accepted with the school transcript; applicants must have graduated within the last three years.",
+   "ka": "ეროვნული გამოცდების ქულები ან ექვივალენტები, მაგალითად IGCSE ან A-level, მიიღება სკოლის ატესტატთან ერთად; დამთავრებიდან ბოლო სამ წელზე მეტი არ უნდა იყოს გასული.",
+   "ar": "تُقبل درجات الامتحانات الوطنية أو ما يعادلها مثل IGCSE وA-level مع كشف الدرجات المدرسي؛ ويجب ألا يزيد الانقطاع عن ثلاث سنوات منذ التخرج."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": 95,
+  "other_tests": [
+   "TOEFL 500",
+   "TOEP 500",
+   "Duolingo 95"
+  ],
+  "fields": [
+   "medicine-health",
+   "law",
+   "social-sciences",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A large public university in Bandung, Indonesia, strong in medicine, law and social sciences. Official international fee data could not be read this round.",
+   "ka": "ინდონეზიის ბანდუნგის მსხვილი საჯარო უნივერსიტეტი, ძლიერია მედიცინაში, სამართალსა და სოციალურ მეცნიერებებში. ოფიციალური საფასურები ვერ წაიკითხა.",
+   "ar": "جامعة حكومية كبيرة في باندونغ بإندونيسيا، قوية في الطب والقانون والعلوم الاجتماعية. لم يمكن قراءة الرسوم الدولية الرسمية في هذه الجولة."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "International Undergraduate Program applicants prove English with IELTS 6.0, TOEFL 500, TOEP 500 or Duolingo 95. No national entrance exam is listed; selection uses school records and national exam or IGCSE/A-level results.",
+   "ka": "საერთაშორისო საბაკალავრო პროგრამის აპლიკანტები ინგლისურს ადასტურებენ IELTS 6.0, TOEFL 500, TOEP 500 ან Duolingo 95-ით. ეროვნული მისაღები გამოცდა მითითებული არ არის; შერჩევა ეფუძნება სკოლის ნიშნებს და ეროვნული გამოცდების ან IGCSE/A-level შედეგებს.",
+   "ar": "يثبت متقدمو برنامج البكالوريوس الدولي إتقان الإنجليزية بـ IELTS 6.0 أو TOEFL 500 أو TOEP 500 أو Duolingo 95. لا يُذكر امتحان قبول وطني؛ ويعتمد الاختيار على السجلات المدرسية ونتائج الامتحانات الوطنية أو IGCSE/A-level."
+  },
+  "gpa_note": {
+   "en": "Open to Indonesian and international applicants who graduated from high school or an equivalent within the last three years; grades for years 10 to 12 and national exam or IGCSE/A-level results are uploaded.",
+   "ka": "ღიაა ინდონეზიელი და უცხოელი აპლიკანტებისთვის, რომლებმაც ბოლო სამ წელიწადში დაასრულეს საშუალო სკოლა ან ექვივალენტი; ტვირთება მე-10–მე-12 კლასის ნიშნები და ეროვნული გამოცდების ან IGCSE/A-level შედეგები.",
+   "ar": "البرنامج مفتوح للمتقدمين الإندونيسيين والأجانب الذين أنهوا الثانوية أو ما يعادلها خلال آخر ثلاث سنوات؛ وتُرفع درجات الصفوف 10 إلى 12 ونتائج الامتحانات الوطنية أو IGCSE/A-level."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Scanned high school transcripts for grades 10 to 12",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Diploma or certificate of completion, plus national exam scores or IGCSE/A-level results",
+     "ka": "საშუალო სკოლის დიპლომი ან ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Recent 3x4 cm photo",
+     "ka": "ახალი ფოტო",
+     "ar": "صورة شخصية حديثة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English test (IELTS 6.0, TOEFL 500, TOEP 500 or Duolingo 95)",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "indonesia",
+   "bandung",
+   "unpad"
+  ],
+  "sources": [
+   "https://info.admission.unpad.ac.id/apply-and-enroll",
+   "https://info.admission.unpad.ac.id/deadline"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

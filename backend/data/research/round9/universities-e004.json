@@ -1,0 +1,1329 @@
+[
+ {
+  "id": "universidad-de-la-frontera-ufro",
+  "name": {
+   "en": "Universidad de La Frontera (UFRO)",
+   "ka": "ლა ფრონტერას უნივერსიტეტი (UFRO)",
+   "ar": "جامعة لا فرونتيرا (UFRO)"
+  },
+  "iso": "CL",
+  "city": "Temuco",
+  "lat": -38.745,
+  "lon": -72.617,
+  "type": "public",
+  "website": "https://www.ufro.cl",
+  "platform": "Direct (admision.ufro.cl)",
+  "application_url": "https://postulacion.ufro.cl/",
+  "intakes": null,
+  "deadline": "2027-01-08",
+  "deadline_note": "Route for people with studies abroad, Admission 2027: applications 9 Dec 2026 to 8 Jan 2027, results 22 Jan, enrolment 22-23 Jan 2027. Cupos, requirements and documents are in the route PDF.",
+  "tuition_intl": {
+   "amount": 5430000,
+   "currency": "CLP",
+   "per": "year",
+   "note": "2026 tuition by programme: 3,166,000 to 7,036,000 CLP (Medicine, Dentistry). Example: Ingeniería Civil 5,430,000; Ingeniería Comercial 4,795,000. Enrolment fee 240,000 CLP (120,000 without gratuidad). No separate international rate is published."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "education"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Universidad de La Frontera (UFRO) is a public university in Temuco, Chile. Teaching is in Spanish.",
+   "ka": "ლა ფრონტერას უნივერსიტეტი (UFRO) — სახელმწიფო უნივერსიტეტია, მდებარეობს ჩილეში (ტემუკო). სწავლება მიმდინარეობს ესპანურ ენაზე.",
+   "ar": "جامعة لا فرونتيرا (UFRO) جامعة حكومية في تيموكو، تشيلي. لغة التدريس هي الإسبانية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "No entrance test is listed for this route: places are ranked by the applicant's academic record. Teaching is in Spanish and the route PDF sets no language test.",
+   "ka": "ამ გზით ჩარიცხვისთვის მისაღები გამოცდა არ არის მითითებული: ადგილები ნაწილდება აკადემიური მაჩვენებლების მიხედვით. სწავლება ესპანურ ენაზეა და ენის ტესტი არ არის მითითებული.",
+   "ar": "لا يُذكر اختبار قبول لهذا المسار: تُرتَّب المقاعد بحسب السجل الأكاديمي للمتقدم. التدريس بالإسبانية ولا يحدد الدليل اختبار لغة."
+  },
+  "gpa_note": {
+   "en": "Average secondary grade equal to 5.50 or higher on the Chilean scale; at least the last two years of secondary school studied abroad; finished school no more than two years before applying.",
+   "ka": "საშუალო სკოლის საშუალო ნიშანი ჩილეს სკალაზე მინიმუმ 5.50; სულ მცირე ბოლო ორი წელი საზღვარგარეთ უნდა იყოს დასრულებული; სკოლის დამთავრებიდან განაცხადამდე ორ წელზე მეტი არ უნდა იყოს გასული.",
+   "ar": "معدل الثانوية يعادل 5.50 أو أكثر على السلم التشيلي؛ دراسة السنتين الأخيرتين على الأقل من الثانوية في الخارج؛ وألا يزيد الوقت منذ التخرج على سنتين عند التقديم."
+  },
+  "requirements": [
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Request letter to the Academic Registry Office",
+     "ka": "მოთხოვნის წერილი აკადემიური რეგისტრაციის დირექციის სახელზე",
+     "ar": "رسالة طلب موجهة إلى إدارة السجل الأكاديمي"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Identity document (image)",
+     "ka": "პირადობის დოკუმენტი (გამოსახულება)",
+     "ar": "صورة وثيقة الهوية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Birth certificate",
+     "ka": "დაბადების მოწმობა",
+     "ar": "شهادة الميلاد"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school grade record (legalized)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ლეგალიზებული)",
+     "ar": "كشف درجات الثانوية (مصدّق)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Foreign documents apostilled or legalized and translated into Spanish",
+     "ka": "უცხოური დოკუმენტები აპოსტილირებული ან ლეგალიზებული და ესპანურად ნათარგმნი",
+     "ar": "الوثائق الأجنبية موثّقة بالأبوستيل أو مصدّقة ومترجمة إلى الإسبانية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "temuco",
+   "chile",
+   "spanish"
+  ],
+  "sources": [
+   "https://admision.ufro.cl/admision-especial/personas-con-estudios-en-el-extranjero/",
+   "https://admision.ufro.cl/aranceles-y-matriculas/",
+   "https://admision.ufro.cl/admision-especial/",
+   "https://admision.ufro.cl/wp-content/uploads/2026/10/Estudios-Medios-en-el-Extranjero-2027.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 80,
+  "duolingo_min": null,
+  "other_tests": [
+   "CSCA (China Scholastic Competency Assessment)"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-16",
+  "id": "zhengzhou-university",
+  "name": {
+   "en": "Zhengzhou University",
+   "ka": "ჟენჯოუს უნივერსიტეტი",
+   "ar": "جامعة تشنغتشو"
+  },
+  "iso": "CN",
+  "city": "Zhengzhou",
+  "lat": 34.818,
+  "lon": 113.537,
+  "type": "public",
+  "website": "https://www.zzu.edu.cn",
+  "platform": "Direct",
+  "application_url": "http://apply.zzu.edu.cn",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Selection rounds run in April-May, June and July; scholarship applicants should apply in early March. The programme pages are undated, so confirm the 2027 dates with the admission office.",
+  "tuition_intl": {
+   "amount": 20000,
+   "currency": "CNY",
+   "per": "year",
+   "note": "Bachelor, most science and engineering programmes (undated programme pages); Arts 18,000; Pharmacy, Civil Engineering, Software Engineering, Architecture 25,000; Medicine (MBBS) 35,000. Chinese or English language foundation year 15,000."
+  },
+  "students": 70000,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences",
+   "humanities"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Zhengzhou University is a public university in Zhengzhou. No international bachelor fees or deadlines could be read from its official pages in this round.",
+   "ka": "ჟენჯოუს უნივერსიტეტი — Zhengzhou-ში მდებარე სახელმწიფო უნივერსიტეტია. საერთაშორისო საბაკალავრო საფასური და ვადები ოფიციალურ გვერდებზე ამ ეტაპზე ვერ გადამოწმდა.",
+   "ar": "جامعة تشنغتشو جامعة حكومية في Zhengzhou. لم يمكن التحقق من رسوم البكالوريوس الدولية ومواعيدها من صفحاتها الرسمية في هذه الجولة."
+  },
+  "about": {
+   "en": "Zhengzhou University serves about 70,000 students in Zhengzhou. Its official site was blocked or incomplete for automated reading, so fees, deadlines and entry rules for international bachelor applicants are not confirmed. Check the university's international admissions page.",
+   "ka": "ჟენჯოუს უნივერსიტეტი Zhengzhou-ში დაახლოებით 70,000 სტუდენტს ემსახურება. ოფიციალური საიტი ავტომატური წაკითხვისთვის დაბლოკილი ან არასრული იყო, ამიტომ საერთაშორისო საბაკალავრო განაცხადის საფასური, ვადები და მოთხოვნები დადასტურებული არ არის. გადაამოწმეთ უნივერსიტეტის საერთაშორისო მიღების გვერდი.",
+   "ar": "جامعة تشنغتشو تخدم نحو 70,000 طالب في Zhengzhou. كان موقعها الرسمي محجوباً أو ناقصاً للقراءة الآلية، لذا لم تُؤكَّد الرسوم والمواعيد وشروط القبول للبكالوريوس الدولي. راجع صفحة القبول الدولي في الجامعة."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages read.",
+   "ka": "წაკითხულ გვერდებზე საერთაშორისო საბაკალავრო სტუდენტებისთვის სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منح مخصصة لطلاب البكالوريوس الدوليين في الصفحات المطّلع عليها."
+  },
+  "tests": {
+   "en": "English-taught bachelor programmes need IELTS 6.0 or TOEFL iBT 80 (or equivalent) and a pass in the China Scholastic Competency Assessment (CSCA); a foundation year is offered to applicants who miss these.",
+   "ka": "ინგლისურენოვანი ბაკალავრიატისთვის საჭიროა IELTS 6.0 ან TOEFL iBT 80 (ან ექვივალენტი) და ჩინეთის სასწავლო კომპეტენციის შეფასების (CSCA) ჩაბარება; მათთვის, ვინც ვერ აკმაყოფილებს ამ პირობებს, არსებობს მოსამზადებელი წელი.",
+   "ar": "تتطلب برامج البكالوريوس بالإنجليزية IELTS 6.0 أو TOEFL iBT 80 (أو ما يعادلهما) والنجاح في اختبار الكفاءة الدراسية الصيني (CSCA)؛ وتتوفر سنة تأسيسية لمن لا يستوفي ذلك."
+  },
+  "gpa_note": {
+   "en": "Applicants must have finished high school (age 18 to 25 on one page, up to 30 on another) and pass the school-leaving or national exam with ZZU's minimum percentage; one page states 70% in core subjects.",
+   "ka": "აპლიკანტს უნდა ჰქონდეს დასრულებული საშუალო სკოლა (ასაკი 18–25, ერთ გვერდზე — 30 წლამდე) და სკოლის გამოსაშვები ან ეროვნული გამოცდა უნდა ჰქონდეს ZZU-ს მინიმალურ პროცენტზე ჩაბარებული; ერთ გვერდზე მითითებულია 70% ძირითად საგნებში.",
+   "ar": "يجب إنهاء الثانوية (العمر 18 إلى 25 في صفحة وحتى 30 في أخرى) واجتياز امتحان التخرج أو الامتحان الوطني بالحد الأدنى للنسبة لدى الجامعة؛ وتذكر إحدى الصفحات 70% في المواد الأساسية."
+  },
+  "keywords": [
+   "cn",
+   "zhengzhou"
+  ],
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy (photo page)",
+     "ka": "პასპორტის ასლი (ფოტოს გვერდი)",
+     "ar": "نسخة من جواز السفر (صفحة الصورة)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "High school transcript (certified copy)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (დამოწმებული ასლი)",
+     "ar": "كشف درجات الثانوية (نسخة مصدقة)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma (certified copy)",
+     "ka": "საშუალო სკოლის ატესტატი (დამოწმებული ასლი)",
+     "ar": "شهادة الثانوية (نسخة مصدقة)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Certificate of no criminal record",
+     "ka": "ნასამართლობის არარსებობის ცნობა",
+     "ar": "شهادة عدم وجود سوابق جنائية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Foreigner physical examination form",
+     "ka": "უცხოელის სამედიცინო შემოწმების ფორმა",
+     "ar": "استمارة الفحص الطبي للأجانب"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency report (IELTS or TOEFL)",
+     "ka": "ინგლისურის ცოდნის ტესტის შედეგი (IELTS ან TOEFL)",
+     "ar": "نتيجة اختبار اللغة الإنجليزية (IELTS أو TOEFL)"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Reference letter from high school",
+     "ka": "რეკომენდაციის წერილი საშუალო სკოლიდან",
+     "ar": "خطاب توصية من المدرسة الثانوية"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Recent passport-size photo",
+     "ka": "ახალი პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية حديثة بحجم جواز السفر"
+    }
+   }
+  ],
+  "sources": [
+   "http://international.zzu.edu.cn/en/admission/detail?cid=17&pid=0&spid=0&detail=89",
+   "http://international.zzu.edu.cn/en/admission/detail?cid=17&pid=0&spid=0&detail=632",
+   "https://english.zzu.edu.cn/admissions.html"
+  ]
+ },
+ {
+  "id": "beijing-university-of-chemical-technology",
+  "name": {
+   "en": "Beijing University of Chemical Technology",
+   "ka": "პეკინის ქიმიური ტექნოლოგიების უნივერსიტეტი",
+   "ar": "جامعة بكين للتكنولوجيا الكيميائية"
+  },
+  "iso": "CN",
+  "city": "Beijing",
+  "lat": 39.953,
+  "lon": 116.43,
+  "type": "public",
+  "website": "https://www.buct.edu.cn",
+  "platform": "BUCT study portal (direct)",
+  "application_url": "https://study.buct.edu.cn/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": "2027-06-30",
+  "deadline_note": "Applications for the 2027-2028 academic year close on 30 June 2027.",
+  "tuition_intl": {
+   "amount": 20000,
+   "currency": "CNY",
+   "per": "year",
+   "note": "Undergraduate tuition; plus CNY 500 application fee, CNY 800 insurance and CNY 400 residence permit per year; double room 21,600 per year."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 85,
+  "duolingo_min": null,
+  "other_tests": [
+   "CSCA",
+   "HSK 4 (180+) for Chinese-taught programmes",
+   "French B1 for French-taught programmes"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "computer-science",
+   "environment"
+  ],
+  "strengths": {
+   "en": [
+    "Chemical engineering",
+    "Chemistry",
+    "Bioengineering",
+    "Polymer materials",
+    "Computer science"
+   ],
+   "ka": [
+    "ქიმიური ინჟინერია",
+    "ქიმია",
+    "ბიოინჟინერია",
+    "პოლიმერული მასალები",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الهندسة الكيميائية",
+    "الكيمياء",
+    "الهندسة الحيوية",
+    "مواد البوليمر",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Beijing specialised in chemistry and chemical engineering. International undergraduate tuition is RMB 20,000 per year.",
+   "ka": "საჯარო უნივერსიტეტი პეკინში, ქიმიისა და ქიმიური ინჟინერიის სპეციალიზაციით. უცხოელი ბაკალავრებისთვის სწავლის საფასური წელიწადში 20,000 იუანია.",
+   "ar": "جامعة حكومية في بكين متخصصة في الكيمياء والهندسة الكيميائية. تبلغ رسوم البكالوريوس للطلاب الدوليين 20,000 يوان سنويًا."
+  },
+  "about": {
+   "en": "BUCT is a public university in Beijing. International undergraduate applicants register on the study portal, upload documents, pass a document review and an online interview, and then receive an admission letter and JW201/JW202 form. The application window runs from February to June. Undergraduate majors listed for international students include Bioengineering, Chemical Engineering, Chemistry, Computer Science and Polymer Materials.",
+   "ka": "BUCT საჯარო უნივერსიტეტია პეკინში. უცხოელი ბაკალავრიატის აპლიკანტები რეგისტრირდებიან სასწავლო პორტალზე, ტვირთავენ დოკუმენტებს, გადიან დოკუმენტების შემოწმებასა და ონლაინ გასაუბრებას, შემდეგ კი იღებენ მიღების წერილსა და JW201/JW202 ფორმას. აპლიკაციის პერიოდი თებერვლიდან ივნისამდეა. უცხოელებისთვის ჩამოთვლილ მიმართულებებს შორისაა ბიოინჟინერია, ქიმიური ინჟინერია, ქიმია, კომპიუტერული მეცნიერება და პოლიმერული მასალები.",
+   "ar": "جامعة بكين للتكنولوجيا الكيميائية جامعة حكومية في بكين. يسجّل المتقدمون الدوليون للبكالوريوس في بوابة الدراسة ويرفعون المستندات ثم تتم مراجعتها وتُجرى مقابلة عبر الإنترنت، بعدها يُرسل خطاب القبول ونموذج JW201/JW202. تمتد فترة التقديم من فبراير إلى يونيو. تشمل التخصصات المعلنة للطلاب الدوليين الهندسة الحيوية والهندسة الكيميائية والكيمياء وعلوم الحاسوب ومواد البوليمر."
+  },
+  "aid_intl": {
+   "en": "Chinese Government Scholarship (Type A), Beijing Government Scholarship and BUCT Scholarship are listed for undergraduates.",
+   "ka": "ბაკალავრიატისთვის მითითებულია ჩინეთის მთავრობის სტიპენდია (Type A), პეკინის მთავრობის სტიპენდია და BUCT-ის სტიპენდია.",
+   "ar": "تُذكر للبكالوريوس منحة الحكومة الصينية (النوع A) ومنحة حكومة بكين ومنحة BUCT."
+  },
+  "tests": {
+   "en": "Chinese-taught programmes need HSK 4 (180+) and the CSCA; English-taught programmes need IELTS 6.0 or TOEFL 85 and CSCA Mathematics. All applicants take an online CSCA exam and a comprehensive interview.",
+   "ka": "ჩინურენოვანი პროგრამებისთვის საჭიროა HSK 4 (180+) და CSCA; ინგლისურენოვანისთვის — IELTS 6.0 ან TOEFL 85 და CSCA მათემატიკა. ყველა აპლიკანტი ბარდება ონლაინ CSCA გამოცდას და ყოვლისმომცველ გასაუბრებას.",
+   "ar": "تتطلب البرامج بالصينية HSK 4 (180+) واختبار CSCA؛ والبرامج بالإنجليزية IELTS 6.0 أو TOEFL 85 مع رياضيات CSCA. يجتاز كل المتقدمين اختبار CSCA عبر الإنترنت ومقابلة شاملة."
+  },
+  "gpa_note": {
+   "en": "Applicants must be high-school graduates or above, non-Chinese citizens aged 18 to 25 (under 18 needs a Beijing-resident guardian), and have a CSCA score in the required subjects.",
+   "ka": "აპლიკანტი უნდა იყოს საშუალო სკოლის კურსდამთავრებული ან უფრო მაღალი განათლებით, არაჩინელი მოქალაქე, 18–25 წლის (18 წლამდე საჭიროა პეკინში მცხოვრები მეურვე) და ჰქონდეს CSCA ქულა საჭირო საგნებში.",
+   "ar": "يجب أن يكون المتقدم خريج ثانوية أو أعلى، غير حامل للجنسية الصينية، بعمر 18 إلى 25 عامًا (ودون 18 يلزم ولي أمر مقيم في بكين)، وأن يحمل نتيجة CSCA في المواد المطلوبة."
+  },
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee CNY 500 (paid after preliminary review)",
+     "ka": "სააპლიკაციო საფასური 500 იუანი (წინასწარი შემოწმების შემდეგ)",
+     "ar": "رسوم التقديم 500 يوان (بعد المراجعة الأولية)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy (photo page)",
+     "ka": "პასპორტის ასლი (ფოტოს გვერდი)",
+     "ar": "نسخة من جواز السفر (صفحة الصورة)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Notarized high school transcript and diploma (Chinese or English)",
+     "ka": "ნოტარიულად დამოწმებული ატესტატი და ნიშნების ამონაწერი (ჩინურად ან ინგლისურად)",
+     "ar": "كشف درجات وشهادة ثانوية موثقان (بالصينية أو الإنجليزية)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language certificate (HSK or IELTS/TOEFL)",
+     "ka": "ენის სერტიფიკატი (HSK ან IELTS/TOEFL)",
+     "ar": "شهادة لغة (HSK أو IELTS/TOEFL)"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "CSCA exam scores",
+     "ka": "CSCA გამოცდის შედეგები",
+     "ar": "نتائج اختبار CSCA"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "CV and study proposal",
+     "ka": "CV და სასწავლო გეგმა",
+     "ar": "سيرة ذاتية وخطة دراسية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Foreigner physical examination form",
+     "ka": "უცხოელის სამედიცინო შემოწმების ფორმა",
+     "ar": "استمارة الفحص الطبي للأجانب"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Certificate of no criminal record",
+     "ka": "ნასამართლობის არარსებობის ცნობა",
+     "ar": "شهادة عدم وجود سوابق جنائية"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Online interview after document review",
+     "ka": "ონლაინ გასაუბრება დოკუმენტების შემოწმების შემდეგ",
+     "ar": "مقابلة عبر الإنترنت بعد مراجعة المستندات"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Chinese Government Scholarship (Type A)",
+    "url": "https://apply.buct.edu.cn/UndergraduatePrograms_14731/list.htm",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "china",
+   "beijing",
+   "chemistry",
+   "chemical engineering"
+  ],
+  "sources": [
+   "https://apply.buct.edu.cn/15426/list.htm",
+   "https://study.buct.edu.cn/",
+   "http://sie.buct.edu.cn/sqlcjfy/list.htm",
+   "https://apply.buct.edu.cn/UndergraduatePrograms/list.htm"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "east-china-university-of-science-and-technology",
+  "name": {
+   "en": "East China University of Science and Technology",
+   "ka": "აღმოსავლეთ ჩინეთის მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი",
+   "ar": "جامعة شرق الصين للعلوم والتكنولوجيا"
+  },
+  "iso": "CN",
+  "city": "Shanghai",
+  "lat": 30.832,
+  "lon": 121.51,
+  "type": "public",
+  "website": "https://www.ecust.edu.cn",
+  "platform": "Direct (ECUST College of International Education)",
+  "application_url": "https://apply.ecust.edu.cn/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Most programmes start in September and no single deadline is published; the last published dates (2025 intake) were 15 April for scholarship applicants and 20 July for self-sponsored applicants, 30 June for English-taught undergraduate programmes.",
+  "tuition_intl": {
+   "amount": 22000,
+   "currency": "CNY",
+   "per": "year",
+   "note": "Chinese-taught undergraduate (Art 30,000; double degree 32,000). English-taught Joint Multi-Degree programme 55,000 (single degree) or 70,000 (double degree). Application fee CNY 600."
+  },
+  "acceptance_rate": null,
+  "students": 30000,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "CSCA (China Scholastic Competency Assessment)"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Chemical engineering",
+    "Materials",
+    "Biotechnology"
+   ],
+   "ka": [
+    "ქიმიური ინჟინერია",
+    "მასალები",
+    "ბიოტექნოლოგია"
+   ],
+   "ar": [
+    "الهندسة الكيميائية",
+    "المواد",
+    "التقنية الحيوية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Shanghai known for chemical engineering. English-taught undergraduate applications carry a RMB 600 fee.",
+   "ka": "სახელმწიფო უნივერსიტეტი შანხაიში, ცნობილია ქიმიური ინჟინერიით. ინგლისურენოვანი ბაკალავრიატის განაცხადის საფასური 600 CNY-ია.",
+   "ar": "جامعة حكومية في شنغهاي تشتهر بالهندسة الكيميائية. رسوم التقديم لبرامج البكالوريوس الإنجليزية 600 يوان."
+  },
+  "about": {
+   "en": "East China University of Science and Technology is a public university in Shanghai with strengths in chemical engineering and materials. International applicants apply through the College of International Education. Applicants need a valid foreign passport, good health and a high school degree or above. The English-taught undergraduate application fee is RMB 600.",
+   "ka": "აღმოსავლეთ ჩინეთის მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი შანხაის სახელმწიფო უნივერსიტეტია, ძლიერია ქიმიურ ინჟინერიასა და მასალათმცოდნეობაში. საერთაშორისო აპლიკანტები განაცხადს საერთაშორისო განათლების კოლეჯში აგზავნიან. საჭიროა უცხო ქვეყნის მოქმედი პასპორტი, კარგი ჯანმრთელობა და საშუალო სკოლის დიპლომი ან უფრო მაღალი ხარისხი. ინგლისურენოვანი ბაკალავრიატის განაცხადის საფასური 600 CNY-ია.",
+   "ar": "جامعة شرق الصين للعلوم والتكنولوجيا جامعة حكومية في شنغهاي قوية في الهندسة الكيميائية والمواد. يقدّم الطلاب الدوليون طلبهم عبر كلية التعليم الدولي ويحتاجون إلى جواز سفر أجنبي ساري وصحة جيدة وشهادة ثانوية أو أعلى. رسوم التقديم لبرامج البكالوريوس الإنجليزية 600 يوان."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "The 2026 notice for the 4-year Chinese-taught degree lists the CSCA subjects for each major (for example STEM Chinese, Mathematics, Physics, Chemistry for Chemical Engineering).",
+   "ka": "4-წლიანი ჩინურენოვანი ხარისხის 2026 განცხადება თითოეული სპეციალობისთვის ჩამოთვლის CSCA საგნებს (მაგალითად, ქიმიური ინჟინერიისთვის: STEM ჩინური, მათემატიკა, ფიზიკა, ქიმია).",
+   "ar": "يعدّد إعلان 2026 لدرجة البكالوريوس بالصينية (4 سنوات) مواد اختبار CSCA لكل تخصص (مثل الصينية العلمية والرياضيات والفيزياء والكيمياء للهندسة الكيميائية)."
+  },
+  "gpa_note": {
+   "en": "Entry requirements are set by each programme; applicants whose first language is not Chinese may need to meet an extra Chinese-language requirement for some programmes.",
+   "ka": "მისაღები პირობები თითო პროგრამას თავისი აქვს; ვისაც ჩინური მშობლიური ენა არ არის, ზოგ პროგრამაზე შეიძლება დამატებითი ჩინური ენის მოთხოვნა დასჭირდეს.",
+   "ar": "شروط القبول تحددها كل برنامج؛ وقد يلزم من لغته الأولى ليست الصينية استيفاء متطلب لغة صينية إضافي في بعض البرامج."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma",
+     "ka": "საშუალო სკოლის დიპლომი/ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee RMB 600 (non-refundable)",
+     "ka": "სააპლიკაციო საფასური 600 იუანი (არ ბრუნდება)",
+     "ar": "رسوم التقديم 600 يوان (غير مستردة)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Chinese-language proof where the programme requires it",
+     "ka": "ჩინური ენის დამადასტურებელი დოკუმენტი, სადაც პროგრამა მოითხოვს",
+     "ar": "إثبات اللغة الصينية حيث يشترطه البرنامج"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "CSCA exam scores for the chosen major",
+     "ka": "არჩეული სპეციალობის CSCA შედეგები",
+     "ar": "نتائج CSCA للتخصص المختار"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "china",
+   "shanghai",
+   "chemical engineering"
+  ],
+  "sources": [
+   "https://cie.ecust.edu.cn/foundation_programme/",
+   "https://cie.ecust.edu.cn/",
+   "https://cie.ecust.edu.cn/notices/518.html",
+   "https://cie.ecust.edu.cn/application_guide/",
+   "https://cie.ecust.edu.cn/index.php?c=show&id=165"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "nanjing-university-of-science-and-technology",
+  "name": {
+   "en": "Nanjing University of Science and Technology",
+   "ka": "ნანძინგის მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი",
+   "ar": "جامعة نانجينغ للعلوم والتكنولوجيا"
+  },
+  "iso": "CN",
+  "city": "Nanjing",
+  "lat": 32.027,
+  "lon": 118.855,
+  "type": "public",
+  "website": "https://www.njust.edu.cn",
+  "platform": "Direct (NJUST international student application system)",
+  "application_url": "https://admission.njust.edu.cn/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "The 2027 undergraduate admission guide was published on 12 November 2026 on the NJUST admissions portal; dates are in the guide. An older English page gave 10 August (autumn) and 20 February (spring).",
+  "tuition_intl": {
+   "amount": 18000,
+   "currency": "CNY",
+   "per": "year",
+   "note": "Chinese-taught undergraduate; English-taught 19,800 (2021 official regulation, the latest fee table seen). Application fee CNY 500."
+  },
+  "acceptance_rate": null,
+  "students": 30000,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 5.5,
+  "toefl_min": 80,
+  "duolingo_min": 85,
+  "other_tests": [
+   "CSCA (China Scholastic Competency Assessment)",
+   "HSK 4 for Chinese-taught programmes"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Optics",
+    "Computer science"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ოპტიკა",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الهندسة",
+    "البصريات",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Nanjing strong in engineering and defence-related technology.",
+   "ka": "სახელმწიფო უნივერსიტეტი ნანჯინგში, ძლიერია საინჟინრო და თავდაცვასთან დაკავშირებულ ტექნოლოგიებში.",
+   "ar": "جامعة حكومية في نانجينغ قوية في الهندسة والتقنيات المرتبطة بالدفاع."
+  },
+  "about": {
+   "en": "Nanjing University of Science and Technology is a public university in Nanjing with strengths in engineering, computing and natural sciences. International applicants apply online through its international admissions system. Check the School of International Education site for current fees and dates.",
+   "ka": "ნანჯინგის მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი ნანჯინგის სახელმწიფო უნივერსიტეტია, ძლიერია ინჟინერიაში, კომპიუტერულ და საბუნებისმეტყველო მეცნიერებებში. საერთაშორისო აპლიკანტები განაცხადს ონლაინ საერთაშორისო მიღების სისტემით აგზავნიან. მიმდინარე საფასურებისა და ვადებისთვის იხილეთ საერთაშორისო განათლების სკოლის საიტი.",
+   "ar": "جامعة نانجينغ للعلوم والتكنولوجيا جامعة حكومية قوية في الهندسة والحوسبة والعلوم الطبيعية. يقدّم الطلاب الدوليون طلبهم عبر نظام القبول الدولي الإلكتروني. للاطلاع على الرسوم والمواعيد الحالية راجع موقع كلية التعليم الدولي."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "The 2026 catalogue lists the required CSCA subjects for each major. Chinese-taught programmes need HSK 4; English-taught programmes need IELTS 5.5, TOEFL 80 or Duolingo 85 (2021 regulation).",
+   "ka": "2026 წლის კატალოგი თითოეული სპეციალობისთვის ჩამოთვლის საჭირო CSCA საგნებს. ჩინურენოვან პროგრამებზე საჭიროა HSK 4; ინგლისურენოვანზე — IELTS 5.5, TOEFL 80 ან Duolingo 85 (2021 წლის რეგულაცია).",
+   "ar": "يحدد دليل 2026 مواد CSCA المطلوبة لكل تخصص. البرامج بالصينية تتطلب HSK 4؛ والبرامج بالإنجليزية IELTS 5.5 أو TOEFL 80 أو Duolingo 85 (لائحة 2021)."
+  },
+  "gpa_note": {
+   "en": "Applicants must be non-Chinese citizens in good health with a high school diploma or equivalent and a good academic record; the 2021 regulation set the age range at 18 to 28.",
+   "ka": "აპლიკანტი უნდა იყოს არაჩინელი მოქალაქე კარგი ჯანმრთელობით, ჰქონდეს საშუალო სკოლის დიპლომი ან ექვივალენტი და კარგი აკადემიური მოსწრება; 2021 წლის რეგულაციით ასაკი 18–28 იყო.",
+   "ar": "يجب أن يكون المتقدم غير صيني بصحة جيدة، وحاصلًا على شهادة الثانوية أو ما يعادلها مع سجل أكاديمي جيد؛ وحددت لائحة 2021 العمر بين 18 و28 عامًا."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy (photo page)",
+     "ka": "პასპორტის ასლი (ფოტოს გვერდი)",
+     "ar": "نسخة من جواز السفر (صفحة الصورة)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma and transcripts",
+     "ka": "საშუალო სკოლის დიპლომი და ნიშნების ამონაწერი",
+     "ar": "شهادة الثانوية وكشف الدرجات"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language certificate (HSK or IELTS/TOEFL/Duolingo)",
+     "ka": "ენის სერტიფიკატი (HSK ან IELTS/TOEFL/Duolingo)",
+     "ar": "شهادة لغة (HSK أو IELTS/TOEFL/Duolingo)"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Study plan of at least 800 words",
+     "ka": "სასწავლო გეგმა მინიმუმ 800 სიტყვით",
+     "ar": "خطة دراسية لا تقل عن 800 كلمة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Foreigner physical examination form",
+     "ka": "უცხოელის სამედიცინო შემოწმების ფორმა",
+     "ar": "استمارة الفحص الطبي للأجانب"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of financial support",
+     "ka": "ფინანსური უზრუნველყოფის დადასტურება",
+     "ar": "إثبات القدرة المالية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Certificate of no criminal record",
+     "ka": "ნასამართლობის არარსებობის ცნობა",
+     "ar": "شهادة عدم وجود سوابق جنائية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "china",
+   "nanjing",
+   "engineering"
+  ],
+  "sources": [
+   "https://admission.njust.edu.cn/",
+   "https://admission.njust.edu.cn/html/article_content/202511/1354E63CFEAC4607A25DD72E063F4E74.shtml",
+   "https://english.njust.edu.cn/683/list.htm",
+   "http://study.njust.edu.cn/d5/13/c4396a251155/page.htm"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "china-university-of-geosciences",
+  "name": {
+   "en": "China University of Geosciences",
+   "ka": "ჩინეთის გეომეცნიერებათა უნივერსიტეტი",
+   "ar": "جامعة الصين للعلوم الجيولوجية"
+  },
+  "iso": "CN",
+  "city": "Wuhan",
+  "lat": 30.457,
+  "lon": 114.617,
+  "type": "public",
+  "website": "https://www.cug.edu.cn",
+  "platform": "Direct (CUG international student application system)",
+  "application_url": "http://admission.cug.edu.cn/member/login.do",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "2024 cycle (latest published guide): self-funded and university-scholarship applicants registered from 1 January to 15 June 2024; admission list before 30 June and admission letters before 15 July.",
+  "tuition_intl": {
+   "amount": 22000,
+   "currency": "CNY",
+   "per": "year",
+   "note": "Science and engineering undergraduate; arts programmes RMB 18,000 per year; RMB 400 application fee, RMB 1,000 insurance per year"
+  },
+  "acceptance_rate": null,
+  "students": 30000,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "HSK 4 for self-funded Chinese-taught programmes"
+  ],
+  "fields": [
+   "natural-sciences",
+   "environment",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Geology",
+    "Environmental science",
+    "Resource engineering"
+   ],
+   "ka": [
+    "გეოლოგია",
+    "გარემოს მეცნიერება",
+    "რესურსების ინჟინერია"
+   ],
+   "ar": [
+    "الجيولوجيا",
+    "علوم البيئة",
+    "هندسة الموارد"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Wuhan specialised in geosciences. Undergraduate tuition is RMB 18,000-22,000 a year.",
+   "ka": "სახელმწიფო უნივერსიტეტი უჰანში, სპეციალიზებულია გეომეცნიერებებში. საბაკალავრო საფასური 18 000–22 000 CNY წელიწადში.",
+   "ar": "جامعة حكومية في ووهان متخصصة في علوم الأرض. رسوم البكالوريوس 18,000-22,000 يوان سنويًا."
+  },
+  "about": {
+   "en": "China University of Geosciences (Wuhan) is a public university specialised in geology, environment and resources. International bachelor applicants apply through the CUG international student application system. Undergraduate tuition is RMB 22,000 per year for science and engineering and RMB 18,000 for arts, plus a RMB 400 application fee and RMB 1,000 yearly insurance.",
+   "ka": "ჩინეთის გეომეცნიერებების უნივერსიტეტი (უჰანი) სახელმწიფო უნივერსიტეტია, სპეციალიზებულია გეოლოგიაში, გარემოსა და რესურსებში. საერთაშორისო აპლიკანტები განაცხადს CUG-ის საერთაშორისო სტუდენტთა სისტემით აგზავნიან. საბაკალავრო საფასური მეცნიერებისა და ინჟინერიისთვის 22 000 CNY წელიწადში, ხოლო ჰუმანიტარულისთვის 18 000 CNY; დამატებით 400 CNY სააპლიკაციო საფასური და 1 000 CNY დაზღვევა წელიწადში.",
+   "ar": "جامعة الصين للعلوم الجيولوجية (ووهان) جامعة حكومية متخصصة في الجيولوجيا والبيئة والموارد. يقدّم الطلاب الدوليون طلبهم عبر نظام تقديم الطلاب الدوليين. رسوم البكالوريوس 22,000 يوان سنويًا للعلوم والهندسة و18,000 للآداب، إضافة إلى 400 يوان رسوم تقديم و1,000 يوان تأمينًا سنويًا."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Self-funded applicants to Chinese-taught programmes must pass HSK 4, otherwise a one-year Chinese preparatory course comes first. English-taught programmes need a TOEFL or IELTS score (no minimum stated).",
+   "ka": "თვითდაფინანსებულმა აპლიკანტებმა ჩინურენოვან პროგრამებზე უნდა ჩააბარონ HSK 4, წინააღმდეგ შემთხვევაში ჯერ ერთწლიანი ჩინური ენის მოსამზადებელი კურსია საჭირო. ინგლისურენოვან პროგრამებზე საჭიროა TOEFL ან IELTS (მინიმუმი მითითებული არ არის).",
+   "ar": "على المتقدمين على نفقتهم الخاصة للبرامج بالصينية اجتياز HSK 4 وإلا تسبقها سنة تحضيرية للغة الصينية. وتتطلب البرامج بالإنجليزية نتيجة TOEFL أو IELTS (دون حد أدنى معلن)."
+  },
+  "gpa_note": {
+   "en": "Non-Chinese citizens aged 18 to 25 with a high school diploma or equivalent; academic proof can be a transcript, a national school-leaving record or SAT/ACT/A-Level/AP/IB scores.",
+   "ka": "არაჩინელი მოქალაქეები 18–25 წლის, საშუალო სკოლის დიპლომით ან ექვივალენტით; აკადემიური დადასტურება შეიძლება იყოს ნიშნების ამონაწერი, ეროვნული გამოცდის შედეგი ან SAT/ACT/A-Level/AP/IB ქულები.",
+   "ar": "غير حاملي الجنسية الصينية بعمر 18 إلى 25 عامًا مع شهادة ثانوية أو ما يعادلها؛ ويُثبت المستوى الأكاديمي بكشف الدرجات أو سجل التخرج الوطني أو نتائج SAT/ACT/A-Level/AP/IB."
+  },
+  "requirements": [
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Online application form",
+     "ka": "ონლაინ სააპლიკაციო ფორმა",
+     "ar": "استمارة التقديم عبر الإنترنت"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma (notarized copy)",
+     "ka": "საშუალო სკოლის ატესტატი (ნოტარიულად დამოწმებული ასლი)",
+     "ar": "شهادة الثانوية (نسخة موثّقة)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "High school transcript (notarized)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ნოტარიულად დამოწმებული)",
+     "ar": "كشف درجات الثانوية (موثّق)"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "Personal resume",
+     "ka": "პირადი რეზიუმე",
+     "ar": "سيرة ذاتية"
+    }
+   },
+   {
+    "key": "recommendations",
+    "label": {
+     "en": "Two recommendation letters (one from the high school)",
+     "ka": "ორი სარეკომენდაციო წერილი (ერთი საშუალო სკოლიდან)",
+     "ar": "خطابا توصية (أحدهما من المدرسة الثانوية)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Self-introduction video (3-5 minutes)",
+     "ka": "თვითპრეზენტაციის ვიდეო (3–5 წუთი)",
+     "ar": "فيديو تعريفي بالنفس (3 إلى 5 دقائق)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Foreigner physical examination form",
+     "ka": "უცხოელის სამედიცინო შემოწმების ფორმა",
+     "ar": "استمارة الفحص الطبي للأجانب"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy (photo page)",
+     "ka": "პასპორტის ასლი (ფოტოს გვერდი)",
+     "ar": "نسخة من جواز السفر (صفحة الصورة)"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Guarantor's passport copy and income proof (self-funded)",
+     "ka": "გარანტის პასპორტის ასლი და შემოსავლის დამადასტურებელი დოკუმენტი (თვითდაფინანსება)",
+     "ar": "نسخة جواز الكفيل وإثبات دخله (للدراسة على النفقة الخاصة)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "HSK or TOEFL/IELTS certificate",
+     "ka": "HSK ან TOEFL/IELTS სერტიფიკატი",
+     "ar": "شهادة HSK أو TOEFL/IELTS"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Certificate of no criminal record",
+     "ka": "ნასამართლობის არარსებობის ცნობა",
+     "ar": "شهادة عدم وجود سوابق جنائية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "china",
+   "wuhan",
+   "geology",
+   "geosciences"
+  ],
+  "sources": [
+   "https://eniec.cug.edu.cn/__local/0/84/53/77A131516921A27A6D846ACB082_C79957D1_360D9.pdf",
+   "https://eniec.cug.edu.cn/admissions/Tuition___Fees.htm"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "hunan-university",
+  "name": {
+   "en": "Hunan University",
+   "ka": "ჰუნანის უნივერსიტეტი",
+   "ar": "جامعة هونان"
+  },
+  "iso": "CN",
+  "city": "Changsha",
+  "lat": 28.188,
+  "lon": 112.945,
+  "type": "public",
+  "website": "https://www.hnu.edu.cn",
+  "platform": "Direct (HNU international student online application)",
+  "application_url": "https://hnu.17gz.org/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "2025 cycle (latest published guide): applications closed 18 July 2025 (Beijing time); decisions before the end of July. Check the HNU admission notice for the 2027 date.",
+  "tuition_intl": {
+   "amount": 17000,
+   "currency": "CNY",
+   "per": "year",
+   "note": "Chinese-taught undergraduate science and engineering (arts 15,000); English-taught programmes 3,000 more per year. Application fee CNY 400; insurance 800 per year (2025 guide)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 80,
+  "duolingo_min": null,
+  "other_tests": [
+   "HSK 6 for Chinese-taught programmes"
+  ],
+  "fields": [
+   "engineering",
+   "business",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Mechanical Engineering",
+    "Business",
+    "Architecture",
+    "Chemistry"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მექანიკური ინჟინერია",
+    "ბიზნესი",
+    "არქიტექტურა",
+    "ქიმია"
+   ],
+   "ar": [
+    "الهندسة",
+    "الهندسة الميكانيكية",
+    "الأعمال",
+    "العمارة",
+    "الكيمياء"
+   ]
+  },
+  "summary": {
+   "en": "A national university in Changsha strong in engineering, business and computing.",
+   "ka": "ეროვნული უნივერსიტეტი ჩანშაში, ძლიერია ინჟინერიაში, ბიზნესსა და კომპიუტერულ მეცნიერებებში.",
+   "ar": "جامعة وطنية في تشانغشا قوية في الهندسة والأعمال والحوسبة."
+  },
+  "about": {
+   "en": "Hunan University is a national university in Changsha with strengths in engineering, business and computing. Chinese-taught undergraduate programmes are open to non-Chinese citizens aged 18 to 30 who hold a high school diploma or equivalent. See the international admissions office on hnu.edu.cn for fees and dates.",
+   "ka": "ჰუნანის უნივერსიტეტი ჩანშას ეროვნული უნივერსიტეტია, ძლიერია ინჟინერიაში, ბიზნესსა და კომპიუტერულ მეცნიერებებში. ჩინურენოვანი საბაკალავრო პროგრამები ღიაა უცხო ქვეყნის მოქალაქეებისთვის, 18–30 წლის ასაკში, საშუალო სკოლის დიპლომით ან ექვივალენტით. საფასურებისა და ვადებისთვის იხილეთ hnu.edu.cn-ის საერთაშორისო მიღების ოფისი.",
+   "ar": "جامعة هونان جامعة وطنية في تشانغشا قوية في الهندسة والأعمال والحوسبة. برامج البكالوريوس بالصينية مفتوحة لغير الصينيين بين 18 و30 عامًا من حملة شهادة الثانوية أو ما يعادلها. للرسوم والمواعيد راجع مكتب القبول الدولي على hnu.edu.cn."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Chinese-taught programmes ask for an HSK 6 certificate (or proof of previous Chinese-medium study); English-taught programmes ask for IELTS 6.0 or TOEFL 80, valid for 2 years. Some schools may invite applicants to an interview or written test.",
+   "ka": "ჩინურენოვანი პროგრამები მოითხოვს HSK 6 სერტიფიკატს (ან ჩინურ ენაზე წინა სწავლის დადასტურებას); ინგლისურენოვანი — IELTS 6.0 ან TOEFL 80, 2 წლის ვადით. ზოგი სკოლა აპლიკანტს გასაუბრებაზე ან წერით ტესტზე იწვევს.",
+   "ar": "تطلب البرامج بالصينية شهادة HSK 6 (أو إثبات دراسة سابقة بالصينية)، والبرامج بالإنجليزية IELTS 6.0 أو TOEFL 80 صالحة لعامين. وقد تدعو بعض الكليات المتقدمين إلى مقابلة أو اختبار تحريري."
+  },
+  "gpa_note": {
+   "en": "Applicants must hold a high school diploma or equivalent before formal enrolment and be aged 18 to 30 at enrolment.",
+   "ka": "ჩარიცხვამდე აპლიკანტს უნდა ჰქონდეს საშუალო სკოლის დიპლომი ან ექვივალენტი და ჩარიცხვისას იყოს 18–30 წლის.",
+   "ar": "يجب أن يحمل المتقدم شهادة الثانوية أو ما يعادلها قبل التسجيل الرسمي وأن يتراوح عمره بين 18 و30 عامًا عند التسجيل."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma (notarized copy)",
+     "ka": "საშუალო სკოლის ატესტატი (ნოტარიულად დამოწმებული ასლი)",
+     "ar": "شهادة الثانوية (نسخة موثّقة)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "High school transcript (notarized)",
+     "ka": "საშუალო სკოლის ნიშნების ამონაწერი (ნოტარიულად დამოწმებული)",
+     "ar": "كشف درجات الثانوية (موثّق)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy (photo page)",
+     "ka": "პასპორტის ასლი (ფოტოს გვერდი)",
+     "ar": "نسخة من جواز السفر (صفحة الصورة)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Foreigner physical examination form",
+     "ka": "უცხოელის სამედიცინო შემოწმების ფორმა",
+     "ar": "استمارة الفحص الطبي للأجانب"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Certificate of no criminal record",
+     "ka": "ნასამართლობის არარსებობის ცნობა",
+     "ar": "شهادة عدم وجود سوابق جنائية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language certificate (HSK or IELTS/TOEFL)",
+     "ka": "ენის სერტიფიკატი (HSK ან IELTS/TOEFL)",
+     "ar": "شهادة لغة (HSK أو IELTS/TOEFL)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee CNY 400 (non-refundable)",
+     "ka": "სააპლიკაციო საფასური 400 იუანი (არ ბრუნდება)",
+     "ar": "رسوم التقديم 400 يوان (غير مستردة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "cn",
+   "changsha"
+  ],
+  "sources": [
+   "https://www-en.hnu.edu.cn/__local/1/D4/C0/0A6AC6A418F491ADEC7EE62655D_437210C1_5304C.pdf",
+   "http://www-en.hnu.edu.cn/info/1039/2248.htm"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "lanzhou-university",
+  "name": {
+   "en": "Lanzhou University",
+   "ka": "ლანჯოუს უნივერსიტეტი",
+   "ar": "جامعة لانتشو"
+  },
+  "iso": "CN",
+  "city": "Lanzhou",
+  "lat": 36.046,
+  "lon": 103.859,
+  "type": "public",
+  "website": "https://www.lzu.edu.cn",
+  "platform": "Direct (LZU International Student Online Application System)",
+  "application_url": "https://apply.lzu.edu.cn/en/site/login",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "2022 cycle (latest published prospectus): bachelor applications January to June for a September start; results about mid-July. Check the current LZU notice for 2027.",
+  "tuition_intl": {
+   "amount": 20000,
+   "currency": "CNY",
+   "per": "year",
+   "note": "Chinese-taught liberal arts (2022 prospectus); natural sciences 25,000; medicine and arts 35,000; English-taught programmes 5,000 more (MBBS 40,000). Registration fee 600."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 5.5,
+  "toefl_min": 80,
+  "duolingo_min": null,
+  "other_tests": [
+   "HSK 4 (195) for most Chinese-taught majors"
+  ],
+  "fields": [
+   "natural-sciences",
+   "environment",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Chemistry",
+    "Ecology",
+    "Atmospheric Science",
+    "Chinese Language"
+   ],
+   "ka": [
+    "ქიმია",
+    "ეკოლოგია",
+    "ატმოსფეროს მეცნიერება",
+    "ჩინური ენა"
+   ],
+   "ar": [
+    "الكيمياء",
+    "علم البيئة",
+    "علوم الغلاف الجوي",
+    "اللغة الصينية"
+   ]
+  },
+  "summary": {
+   "en": "A national university in Lanzhou strong in natural sciences, environment and humanities.",
+   "ka": "ეროვნული უნივერსიტეტი ლანჯოუში, ძლიერია საბუნებისმეტყველო მეცნიერებებში, გარემოსა და ჰუმანიტარულ დარგებში.",
+   "ar": "جامعة وطنية في لانتشو قوية في العلوم الطبيعية والبيئة والإنسانيات."
+  },
+  "about": {
+   "en": "Lanzhou University is a national university in Gansu province with strengths in natural sciences, environment and the humanities. International undergraduate applicants apply through the university's international student online application system; the School of International Cultural Exchange handles admissions (interadmission@lzu.edu.cn).",
+   "ka": "ლანჯოუს უნივერსიტეტი განსუს პროვინციის ეროვნული უნივერსიტეტია, ძლიერია საბუნებისმეტყველო მეცნიერებებში, გარემოსა და ჰუმანიტარულ დარგებში. საერთაშორისო აპლიკანტები ონლაინ სისტემით აგზავნიან განაცხადს; მიღებას ამუშავებს საერთაშორისო კულტურული გაცვლის სკოლა (interadmission@lzu.edu.cn).",
+   "ar": "جامعة لانتشو جامعة وطنية في مقاطعة قانسو قوية في العلوم الطبيعية والبيئة والإنسانيات. يقدّم الطلاب الدوليون طلبهم عبر نظام التقديم الإلكتروني، وتتولى كلية التبادل الثقافي الدولي القبول (interadmission@lzu.edu.cn)."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Chinese-taught bachelor programmes need HSK 4 (195 for most majors, 210 for literature, history and philosophy); without it, 1-2 years of Chinese study come first. English-taught programmes need IELTS 5.5 or TOEFL 80.",
+   "ka": "ჩინურენოვან ბაკალავრიატზე საჭიროა HSK 4 (უმეტეს სპეციალობაზე 195, ლიტერატურა/ისტორია/ფილოსოფიაზე 210); სხვაგვარად ჯერ 1–2 წელი ჩინური ენის სწავლაა საჭირო. ინგლისურენოვანზე — IELTS 5.5 ან TOEFL 80.",
+   "ar": "تتطلب برامج البكالوريوس بالصينية HSK 4 (195 لمعظم التخصصات و210 للأدب والتاريخ والفلسفة)، وإلا تسبقها سنة إلى سنتين من دراسة الصينية. والبرامج بالإنجليزية تتطلب IELTS 5.5 أو TOEFL 80."
+  },
+  "gpa_note": {
+   "en": "Bachelor applicants must hold a high school diploma, be under 25 and not Chinese citizens; the international college also cites a minimum average of 75% (or 3.0/4.0) in the highest qualification.",
+   "ka": "ბაკალავრის აპლიკანტს უნდა ჰქონდეს საშუალო სკოლის დიპლომი, იყოს 25 წლამდე და არაჩინელი მოქალაქე; საერთაშორისო კოლეჯი მინიმალურ საშუალოდ ასახელებს 75%-ს (ან 3.0/4.0) უმაღლეს კვალიფიკაციაში.",
+   "ar": "يجب أن يحمل متقدم البكالوريوس شهادة ثانوية وأن يكون دون 25 عامًا وغير صيني؛ وتذكر الكلية الدولية حدًا أدنى للمعدل 75% (أو 3.0/4.0) في أعلى مؤهل."
+  },
+  "requirements": [
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Foreigner physical examination form",
+     "ka": "უცხოელის სამედიცინო შემოწმების ფორმა",
+     "ar": "استمارة الفحص الطبي للأجانب"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Notarized diploma and certificate",
+     "ka": "ნოტარიულად დამოწმებული დიპლომი და სერტიფიკატი",
+     "ar": "شهادة ودبلوم موثقان"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Notarized transcripts",
+     "ka": "ნოტარიულად დამოწმებული ნიშნების ამონაწერი",
+     "ar": "كشوف درجات موثقة"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Personal statement (800+ words)",
+     "ka": "პირადი განცხადება (800+ სიტყვა)",
+     "ar": "بيان شخصي (800 كلمة فأكثر)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Certificate of no criminal record",
+     "ka": "ნასამართლობის არარსებობის ცნობა",
+     "ar": "شهادة عدم وجود سوابق جنائية"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of economic status",
+     "ka": "ფინანსური მდგომარეობის დადასტურება",
+     "ar": "إثبات الوضع المالي"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Chinese or English proficiency proof",
+     "ka": "ჩინური ან ინგლისური ენის ცოდნის დამადასტურებელი",
+     "ar": "إثبات إتقان اللغة الصينية أو الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy (photo page)",
+     "ka": "პასპორტის ასლი (ფოტოს გვერდი)",
+     "ar": "نسخة من جواز السفر (صفحة الصورة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "china",
+   "lanzhou",
+   "gansu"
+  ],
+  "sources": [
+   "https://sice.lzu.edu.cn/hdupf/fil/202206/202206171655453777442262.pdf",
+   "https://sice.lzu.edu.cn/col_undergraduate/index"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

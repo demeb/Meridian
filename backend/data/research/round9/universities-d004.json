@@ -1,0 +1,1040 @@
+[
+ {
+  "id": "daffodil-international-university",
+  "name": {
+   "en": "Daffodil International University",
+   "ka": "დაფოდილის საერთაშორისო უნივერსიტეტი",
+   "ar": "جامعة دافوديل الدولية"
+  },
+  "iso": "BD",
+  "city": "Dhaka",
+  "lat": 23.877,
+  "lon": 90.32,
+  "type": "private",
+  "website": "https://daffodilvarsity.edu.bd",
+  "platform": null,
+  "application_url": "https://admission.daffodilvarsity.edu.bd",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "computer-science",
+   "engineering"
+  ],
+  "strengths": {
+   "en": [
+    "Computer Science",
+    "Business",
+    "Engineering"
+   ],
+   "ka": [
+    "კომპიუტერული მეცნიერება",
+    "ბიზნესი",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "علوم الحاسوب",
+    "إدارة الأعمال",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "Daffodil International University is a private university in Dhaka, Bangladesh, with 38 programmes in 6 faculties. Fee waivers of up to 100% are offered to top achievers.",
+   "ka": "დაფოდილის საერთაშორისო უნივერსიტეტი კერძო უნივერსიტეტია დაკაში, ბანგლადეში, 6 ფაკულტეტზე 38 პროგრამით. საუკეთესო სტუდენტებს სწავლის საფასურის 100%-მდე შეღავათი ეძლევათ.",
+   "ar": "جامعة دافوديل الدولية جامعة خاصة في دكا ببنغلاديش، تقدم 38 برنامجًا في 6 كليات. تُمنح إعفاءات من الرسوم تصل إلى 100% للمتفوقين."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "International bachelor students can get a tuition waiver of 10% to 50% based on their latest semester SGPA (waiver policy 2025).",
+   "ka": "უცხოელ ბაკალავრიატის სტუდენტებს შეუძლიათ მიიღონ სწავლის საფასურის 10%-დან 50%-მდე შეღავათი ბოლო სემესტრის SGPA-ის მიხედვით.",
+   "ar": "يمكن لطلاب البكالوريوس الدوليين الحصول على إعفاء من الرسوم الدراسية من 10% إلى 50% بحسب معدل آخر فصل دراسي (SGPA)."
+  },
+  "tests": null,
+  "gpa_note": {
+   "en": "Transcripts and certificates go to the Registrar and the Dean checks them for equivalence; the page asks for a good background in the chosen subject.",
+   "ka": "ტრანსკრიპტები და სერტიფიკატები ეგზავნება რეგისტრატორს, ხოლო დეკანი ამოწმებს მათ ექვივალენტობას; აბიტურიენტს უნდა ჰქონდეს კარგი მომზადება არჩეულ საგანში.",
+   "ar": "تُرسل كشوف الدرجات والشهادات إلى المسجّل ويتحقق العميد من معادلتها، ويُطلب من المتقدم خلفية جيدة في التخصص المختار."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ფურცელი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or equivalent",
+     "ka": "საშუალო განათლების დიპლომი ან ექვივალენტი",
+     "ar": "شهادة الثانوية العامة أو ما يعادلها"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalence check of the diploma",
+     "ka": "დიპლომის ექვივალენტობის შემოწმება",
+     "ar": "التحقق من معادلة الشهادة"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "bangladesh",
+   "dhaka",
+   "private",
+   "fee waiver"
+  ],
+  "sources": [
+   "https://daffodilvarsity.edu.bd",
+   "https://daffodilvarsity.edu.bd/international/undergraduate-student",
+   "https://daffodilvarsity.edu.bd/int-tuition-fees",
+   "https://daffodilvarsity.edu.bd/images/download/waiver-policy2025.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "bangladesh-agricultural-university",
+  "name": {
+   "en": "Bangladesh Agricultural University",
+   "ka": "ბანგლადეშის სასოფლო-სამეურნეო უნივერსიტეტი",
+   "ar": "جامعة بنغلاديش الزراعية"
+  },
+  "iso": "BD",
+  "city": "Mymensingh",
+  "lat": 24.727,
+  "lon": 90.426,
+  "type": "public",
+  "website": "https://www.bau.edu.bd",
+  "platform": null,
+  "application_url": "https://app.bau.edu.bd/foreign_student",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 100,
+   "currency": "USD",
+   "per": "semester",
+   "note": "Semester fee USD 50 plus other fees USD 50 each semester; one-time admission fee USD 200; hall fee in BDT at the Bangladeshi student rate. No separate tuition line is published."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Bengali"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "12 years of schooling and a Science-group qualification (Physics, Chemistry, Mathematics, Biology) equivalent to the Bangladeshi HSC; certificates are attested by the education or foreign ministry of the applicant's country.",
+   "ka": "12-წლიანი სწავლა და საბუნებისმეტყველო მიმართულების საგნები (ფიზიკა, ქიმია, მათემატიკა, ბიოლოგია), ბანგლადეშის HSC-ის ექვივალენტური; სერტიფიკატები უნდა დადასტურდეს განათლების ან საგარეო საქმეთა სამინისტროს მიერ.",
+   "ar": "اثنتا عشرة سنة دراسية وشهادة من المسار العلمي (الفيزياء والكيمياء والرياضيات والأحياء) تعادل HSC البنغلاديشية، مع تصديق الشهادات من وزارة التعليم أو الخارجية في بلد المتقدم."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "natural-sciences",
+   "environment"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public agricultural university in Mymensingh with an online application for foreign students.",
+   "ka": "საჯარო აგრარული უნივერსიტეტი მაიმენსინგში, უცხოელებისთვის ონლაინ განაცხადით.",
+   "ar": "جامعة زراعية حكومية في ميمنسينغ مع تقديم إلكتروني للطلاب الأجانب."
+  },
+  "about": {
+   "en": "Bangladesh Agricultural University is a public university in Mymensingh. It has an International Desk and a Foreign Student Admission section with an online application form. The director's message says over 100 foreign students from countries such as Nepal, Malaysia, Japan and Nigeria are enrolled. Fee amounts and deadlines were not readable on the pages reviewed.",
+   "ka": "ბანგლადეშის სასოფლო-სამეურნეო უნივერსიტეტი საჯარო უნივერსიტეტია მაიმენსინგში. აქვს საერთაშორისო სამსახური და უცხოელთა მიღების გვერდი ონლაინ განაცხადით. მიმდინარე სტუდენტებს შორის 100-ზე მეტი უცხოელია. საფასური და ვადები მითითებული არ არის.",
+   "ar": "جامعة بنغلاديش الزراعية جامعة حكومية في ميمنسينغ. لديها مكتب دولي وقسم لقبول الطلاب الأجانب مع نموذج تقديم إلكتروني. يذكر مديرها أن أكثر من 100 طالب أجنبي مسجلون. لم تظهر الرسوم والمواعيد في الصفحات."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "No entrance test is published for foreign applicants. Proof of English language proficiency is required, and the page gives no minimum IELTS or TOEFL score.",
+   "ka": "უცხოელი აპლიკანტებისთვის მისაღები გამოცდა არ არის გამოქვეყნებული. საჭიროა ინგლისური ენის ცოდნის დამადასტურებელი საბუთი; IELTS-ის ან TOEFL-ის მინიმალური ქულა მითითებული არ არის.",
+   "ar": "لم يُنشر اختبار قبول للمتقدمين الأجانب. يلزم إثبات إتقان اللغة الإنجليزية، ولا تحدد الصفحة حدًا أدنى لدرجة IELTS أو TOEFL."
+  },
+  "gpa_note": {
+   "en": "Applicants need 12 years of schooling and Science-group passes in Physics, Chemistry, Mathematics and Biology, with a division or grade equal to what Bangladeshi HSC applicants need.",
+   "ka": "აპლიკანტს სჭირდება 12-წლიანი სწავლა და ფიზიკის, ქიმიის, მათემატიკისა და ბიოლოგიის წარმატებით ჩაბარება ისეთი შეფასებით, როგორიც ბანგლადეშელი HSC აბიტურიენტებისთვისაა საჭირო.",
+   "ar": "يحتاج المتقدم إلى 12 سنة دراسية ونجاح في الفيزياء والكيمياء والرياضيات والأحياء بتقدير مساوٍ لما يُطلب من حاملي HSC البنغلاديشية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or equivalent",
+     "ka": "საშუალო განათლების დიპლომი ან ექვივალენტი",
+     "ar": "شهادة الثانوية العامة أو ما يعادلها"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Attested certificates and transcripts",
+     "ka": "ატესტატისა და ნიშნების ფურცლის დამოწმებული ასლები",
+     "ar": "نسخ مصدّقة من الشهادة وكشف الدرجات"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი სერტიფიკატი",
+     "ar": "شهادة إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "bangladesh",
+   "agriculture",
+   "mymensingh"
+  ],
+  "sources": [
+   "https://www.bau.edu.bd/",
+   "https://app.bau.edu.bd/pages/view_2/11055",
+   "https://bau.edu.bd/public/images/tender_event/notice_10e86713b1896607b1f0b892d1db5548.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "duolingo_min": null,
+  "toefl_min": null,
+  "ielts_min": null,
+  "other_tests": null,
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Non-Bangladeshi applicants with 12 years of schooling, GCE A-level or an equivalent qualification are treated as foreign students; about 50 undergraduate seats are set aside for them.",
+   "ka": "არაბანგლადეშელი აპლიკანტები 12-წლიანი სწავლით, GCE A-level-ით ან ექვივალენტური კვალიფიკაციით განიხილებიან უცხოელებად; მათთვის დაახლოებით 50 ადგილია გამოყოფილი.",
+   "ar": "يُعامل غير البنغلاديشيين الحاصلون على 12 سنة دراسية أو GCE A-level أو ما يعادله كطلاب أجانب، ويُخصص لهم نحو 50 مقعدًا في البكالوريوس."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "scholarships": [],
+  "tests": {
+   "en": "Local applicants sit a merit-based admission test run by the university; for foreign students admission is based on Mathematics, Physics, Chemistry and English results and overall merit.",
+   "ka": "ადგილობრივებისთვის მიღება ხდება ტესტით; უცხოელებისთვის გათვალისწინებულია მათემატიკის, ფიზიკის, ქიმიისა და ინგლისურის შედეგები და საერთო მერიტი.",
+   "ar": "يعتمد قبول الأجانب على نتائج الرياضيات والفيزياء والكيمياء والإنجليزية والتقدير العام."
+  },
+  "gpa_note": {
+   "en": "Admission rests on earlier results in Mathematics, Physics, Chemistry and English plus overall merit; the ministry reviews applications before CUET issues an offer letter for the visa.",
+   "ka": "მიღება ეყრდნობა მათემატიკის, ფიზიკის, ქიმიისა და ინგლისურის წინა შედეგებს და საერთო მერიტს; განაცხადს სამინისტრო განიხილავს, შემდეგ CUET გასცემს მიწვევის წერილს ვიზისთვის.",
+   "ar": "يعتمد القبول على النتائج السابقة في الرياضيات والفيزياء والكيمياء والإنجليزية والتقدير العام، وتراجع الوزارة الطلب قبل أن تصدر CUET خطاب القبول لأغراض التأشيرة."
+  },
+  "deadline": "2026-04-15",
+  "deadline_note": {
+   "en": "Online applications for the 2025-26 session closed on 15 April 2026; the next date is not yet published.",
+   "ka": "2025-26 სესიისთვის ონლაინ განაცხადები 2026 წლის 15 აპრილამდე მიიღებოდა; შემდეგი ვადა ჯერ გამოქვეყნებული არ არის.",
+   "ar": "أُغلق التقديم الإلكتروني لدورة 2025-26 في 15 أبريل 2026، ولم يُنشر الموعد التالي بعد."
+  },
+  "tuition_intl": null,
+  "students": null,
+  "aid_intl": null,
+  "verified_at": "2026-11-16",
+  "id": "chittagong-university-of-engineering-and-technology",
+  "name": {
+   "en": "Chittagong University of Engineering and Technology",
+   "ka": "ჩიტაგონგის საინჟინრო და ტექნოლოგიური უნივერსიტეტი",
+   "ar": "جامعة شيتاغونغ للهندسة والتكنولوجيا"
+  },
+  "iso": "BD",
+  "city": "Chittagong",
+  "lat": 22.463,
+  "lon": 91.972,
+  "type": "public",
+  "website": "https://www.cuet.ac.bd",
+  "platform": "Direct (International Affairs Office)",
+  "application_url": "https://www.cuet.ac.bd/fsc",
+  "intakes": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Civil engineering",
+    "Electrical engineering",
+    "Mechanical engineering",
+    "Architecture"
+   ],
+   "ka": [
+    "სამოქალაქო საინჟინრო",
+    "ელექტროინჟინერია",
+    "მექანიკური ინჟინერია",
+    "არქიტექტურა"
+   ],
+   "ar": [
+    "الهندسة المدنية",
+    "الهندسة الكهربائية",
+    "الهندسة الميكانيكية",
+    "العمارة"
+   ]
+  },
+  "summary": {
+   "en": "A public engineering university in Chittagong, Bangladesh, offering engineering, urban planning and architecture degrees. Foreign students apply online through the Admission of Foreign Students page.",
+   "ka": "საჯარო საინჟინრო უნივერსიტეტი ჩიტაგონგში (ბანგლადეში) საინჟინრო, ურბანული დაგეგმარებისა და არქიტექტურის პროგრამებით. უცხოელები ონლაინ აპლიკაციას აგზავნიან ოფიციალური გვერდის საშუალებით.",
+   "ar": "جامعة هندسية حكومية في شيتاغونغ ببنغلاديش تقدم الهندسة والتخطيط العمراني والعمارة. يقدم الطلاب الأجانب طلبهم عبر الإنترنت من صفحة قبول الطلاب الأجانب."
+  },
+  "about": {
+   "en": "CUET is a public engineering university in Chittagong, Bangladesh. Its undergraduate programmes are Engineering, Urban and Regional Planning (BURP) and Architecture (B.Arch). Foreign students apply through the International Affairs Office using an online form after reading the admission regulation for foreign nationals; the university asks for transcripts, a passport copy and attested certificates. Dates and fees are not published on the pages we could read; contact the registrar.",
+   "ka": "CUET საჯარო საინჟინრო უნივერსიტეტია ჩიტაგონგში. ბაკალავრის პროგრამებია ინჟინერია, ურბანული დაგეგმარება (BURP) და არქიტექტურა (B.Arch). უცხოელები განაცხადს აგზავნიან საერთაშორისო ურთიერთობების ოფისის ონლაინ ფორმით; საჭიროა ნიშნების ფურცელი, პასპორტის ასლი და დამოწმებული სერტიფიკატები. ვადები და საფასური გამოქვეყნებული არ არის.",
+   "ar": "CUET جامعة هندسية حكومية في شيتاغونغ. برامج البكالوريوس: الهندسة والتخطيط الحضري والإقليمي (BURP) والعمارة (B.Arch). يتقدم الطلاب الأجانب عبر مكتب الشؤون الدولية بنموذج إلكتروني، وتطلب الجامعة كشف الدرجات ونسخة من جواز السفر وشهادات موثقة. لم تُنشر المواعيد والرسوم."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ფურცელი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or equivalent",
+     "ka": "საშუალო განათლების დიპლომი ან ექვივალენტი",
+     "ar": "شهادة الثانوية العامة أو ما يعادلها"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalence check of the diploma",
+     "ka": "დიპლომის ექვივალენტობის შემოწმება",
+     "ar": "التحقق من معادلة الشهادة"
+    }
+   }
+  ],
+  "keywords": [
+   "bangladesh",
+   "chittagong",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.cuet.ac.bd/fsc",
+   "https://www.cuet.ac.bd/admission",
+   "https://app.cuet.ac.bd/storage/Notices/6931497d31d10.pdf"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "duolingo_min": null,
+  "toefl_min": null,
+  "ielts_min": null,
+  "other_tests": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "scholarships": [],
+  "tests": null,
+  "gpa_note": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "students": null,
+  "aid_intl": null,
+  "verified_at": "2026-11-16",
+  "id": "jahangirnagar-university",
+  "name": {
+   "en": "Jahangirnagar University",
+   "ka": "ჯაჰანგირნაგარის უნივერსიტეტი",
+   "ar": "جامعة جاهانجيرناغار"
+  },
+  "iso": "BD",
+  "city": "Dhaka",
+  "lat": 23.883,
+  "lon": 90.269,
+  "type": "public",
+  "website": "https://www.juniv.edu",
+  "platform": "Direct (national-level undergraduate admission)",
+  "application_url": "https://bachelor.ju-admission.com",
+  "intakes": null,
+  "languages": [
+   "Bengali",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "natural-sciences",
+   "social-sciences",
+   "humanities",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Sciences",
+    "Social sciences",
+    "Humanities",
+    "Business"
+   ],
+   "ka": [
+    "მეცნიერებები",
+    "სოციალური მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "العلوم",
+    "العلوم الاجتماعية",
+    "العلوم الإنسانية",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "A public residential university near Dhaka. Bachelor admission runs through its own admission portal; the site does not describe an international route.",
+   "ka": "საჯარო საცხოვრებელი უნივერსიტეტი დაკასთან. ბაკალავრის მიღება მიმდინარეობს საკუთარი პორტალით; საიტზე საერთაშორისო გზა აღწერილი არ არის.",
+   "ar": "جامعة حكومية سكنية قرب دكا. يتم القبول في البكالوريوس عبر بوابتها الخاصة ولا يصف الموقع مسارا دوليا."
+  },
+  "about": {
+   "en": "Jahangirnagar University is a public residential university in Savar, near Dhaka. Bachelor (Honours) admission is run through the official admission portal bachelor.ju-admission.com. The main website does not publish rules for international applicants; write to registrar@juniv.edu.",
+   "ka": "ჯაჰანგირნაგარის უნივერსიტეტი საჯარო საცხოვრებელი უნივერსიტეტია სავარში, დაკასთან. ბაკალავრის (Honours) მიღება მიმდინარეობს პორტალით bachelor.ju-admission.com. საერთაშორისო აპლიკანტების წესები არ არის გამოქვეყნებული; მიწერეთ registrar@juniv.edu.",
+   "ar": "جامعة جاهانجيرناغار جامعة حكومية سكنية في سافار قرب دكا. يتم القبول في البكالوريوس (Honours) عبر بوابة bachelor.ju-admission.com. لا ينشر الموقع قواعد للمتقدمين الدوليين؛ راسل registrar@juniv.edu."
+  },
+  "requirements": null,
+  "keywords": [
+   "bangladesh",
+   "dhaka"
+  ],
+  "sources": [
+   "https://www.juniv.edu/",
+   "https://bachelor.ju-admission.com"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "duolingo_min": null,
+  "toefl_min": null,
+  "ielts_min": null,
+  "other_tests": null,
+  "qualifications": {
+   "national": "accepted",
+   "a-level": "accepted",
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Foreign nationals who passed secondary and higher secondary exams, or GCE O and A levels, from foreign boards are treated as foreign students and have a separate seat quota; applications go through the Ministry of Foreign Affairs and the Bangladeshi embassy.",
+   "ka": "უცხოელებად განიხილებიან უცხო ქვეყნის საგანმანათლებლო საბჭოებში საშუალო და უმაღლესი საშუალო ან GCE O და A დონის გამოცდები ჩაბარებული პირები; მათთვის ცალკე კვოტაა, ხოლო განაცხადი იგზავნება საგარეო საქმეთა სამინისტროსა და ბანგლადეშის საელჩოს მეშვეობით.",
+   "ar": "يُعتبر أجانب من اجتازوا امتحانات الثانوية أو GCE O وA من مجالس أجنبية، ولهم حصة مقاعد مستقلة، وتُقدَّم الطلبات عبر وزارة الخارجية والسفارة البنغلاديشية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "scholarships": [],
+  "tests": null,
+  "gpa_note": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "students": null,
+  "aid_intl": null,
+  "verified_at": "2026-11-16",
+  "id": "khulna-university-of-engineering-and-technology",
+  "name": {
+   "en": "Khulna University of Engineering and Technology",
+   "ka": "ხულნას საინჟინრო და ტექნოლოგიური უნივერსიტეტი",
+   "ar": "جامعة خولنا للهندسة والتكنولوجيا"
+  },
+  "iso": "BD",
+  "city": "Khulna",
+  "lat": 22.899,
+  "lon": 89.503,
+  "type": "public",
+  "website": "https://kuet.ac.bd",
+  "platform": "Direct",
+  "application_url": null,
+  "intakes": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Architecture",
+    "Urban planning",
+    "Computer science"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "არქიტექტურა",
+    "ურბანული დაგეგმარება",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الهندسة",
+    "العمارة",
+    "التخطيط العمراني",
+    "علوم الحاسب"
+   ]
+  },
+  "summary": {
+   "en": "A public engineering university in Khulna, Bangladesh. Its site had an invalid certificate, so admission details are not confirmed.",
+   "ka": "საჯარო საინჟინრო უნივერსიტეტი ხულნაში (ბანგლადეში). საიტის სერტიფიკატი არასწორი იყო, ამიტომ დეტალები დადასტურებული არ არის.",
+   "ar": "جامعة هندسية حكومية في خولنا ببنغلاديش. كانت شهادة موقعها غير صالحة لذا لم تتأكد التفاصيل."
+  },
+  "about": {
+   "en": "KUET is a public engineering and technology university in Khulna, Bangladesh. Its website could not be verified, so fees, deadlines and foreign-student rules must be requested from the university.",
+   "ka": "KUET საჯარო საინჟინრო უნივერსიტეტია ხულნაში. საიტი ვერ გადამოწმდა, ამიტომ საფასური, ვადები და უცხოელთა წესები გაარკვიეთ უნივერსიტეტთან.",
+   "ar": "KUET جامعة هندسية حكومية في خولنا ببنغلاديش. تعذر التحقق من موقعها لذا اطلب الرسوم والمواعيد وقواعد الطلاب الأجانب من الجامعة."
+  },
+  "requirements": null,
+  "keywords": [
+   "bangladesh",
+   "khulna",
+   "engineering"
+  ],
+  "sources": [
+   "https://kuet.ac.bd",
+   "https://admission.kuet.ac.bd/"
+  ]
+ },
+ {
+  "id": "shahjalal-university-of-science-and-technology",
+  "name": {
+   "en": "Shahjalal University of Science and Technology",
+   "ka": "შაჯალალის მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი",
+   "ar": "جامعة شاهجلال للعلوم والتكنولوجيا"
+  },
+  "iso": "BD",
+  "city": "Sylhet",
+  "website": "https://www.sust.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": [
+   "January",
+   "July"
+  ],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 1200,
+   "currency": "USD",
+   "per": "year",
+   "note": "Archived SUST international student document: USD 500 per year for SAARC citizens, USD 1,200 for other countries, plus other fees; confirm current amounts."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A public science and technology university in Sylhet, Bangladesh. The official website blocked automated reading (HTTP 403), so no admission, fee or deadline data could be verified.",
+   "ka": "საჯარო მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი ბანგლადეშის ქალაქ სილჰეტში. ოფიციალურმა საიტმა ავტომატური წაკითხვა დაბლოკა (HTTP 403), ამიტომ მიღების, საფასურისა და ვადების მონაცემები ვერ შემოწმდა.",
+   "ar": "جامعة حكومية للعلوم والتكنولوجيا في سيلهيت ببنغلاديش. حجب الموقع الرسمي القراءة الآلية (HTTP 403) فلم يمكن التحقق من بيانات القبول والرسوم والمواعيد."
+  },
+  "about": {
+   "en": "SUST is a public university of science and technology in Sylhet, Bangladesh. Its official site could not be read in this round, so admissions details for international bachelor applicants are not available here; please check sust.edu directly.",
+   "ka": "SUST არის მეცნიერებისა და ტექნოლოგიების საჯარო უნივერსიტეტი ბანგლადეშში, სილჰეტში. ამ ეტაპზე ოფიციალური საიტის წაკითხვა ვერ მოხერხდა, ამიტომ უცხოელი ბაკალავრების მიღების დეტალები აქ მიუწვდომელია; გთხოვთ, გადაამოწმოთ sust.edu-ზე.",
+   "ar": "SUST جامعة حكومية للعلوم والتكنولوجيا في سيلهيت ببنغلاديش. تعذّر قراءة موقعها الرسمي في هذه الجولة، لذا لا تتوفر هنا تفاصيل القبول للطلاب الدوليين؛ يرجى مراجعة sust.edu مباشرة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": {
+   "en": "Admission of foreign students depends on verification of their academic records under university rules; certificates and transcripts must be notarized by the foreign ministry of the applicant's country.",
+   "ka": "უცხოელი სტუდენტების მიღება დამოკიდებულია აკადემიური ჩანაწერების შემოწმებაზე უნივერსიტეტის წესების მიხედვით; სერტიფიკატები და ტრანსკრიპტები უნდა დამოწმდეს აპლიკანტის ქვეყნის საგარეო საქმეთა სამინისტროში.",
+   "ar": "يعتمد قبول الطلاب الأجانب على التحقق من سجلاتهم الأكاديمية وفق أنظمة الجامعة، ويجب توثيق الشهادات وكشوف الدرجات لدى وزارة خارجية بلد المتقدم."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ფურცელი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or equivalent",
+     "ka": "საშუალო განათლების დიპლომი ან ექვივალენტი",
+     "ar": "شهادة الثانوية العامة أو ما يعادلها"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "bangladesh",
+   "sylhet",
+   "science and technology"
+  ],
+  "sources": [
+   "https://www.sust.edu",
+   "https://sust.edu/190/content-details/29/5",
+   "https://archive.sust.edu/uploads/documents/Website_International-Student.pdf"
+  ],
+  "verified_at": "2026-11-16",
+  "type": "public",
+  "lat": 24.919,
+  "lon": 91.832
+ },
+ {
+  "id": "university-of-mons",
+  "name": {
+   "en": "University of Mons",
+   "ka": "მონსის უნივერსიტეტი",
+   "ar": "جامعة مونس"
+  },
+  "iso": "BE",
+  "city": "Mons",
+  "lat": 50.454,
+  "lon": 3.953,
+  "type": "public",
+  "website": "https://web.umons.ac.be",
+  "platform": null,
+  "application_url": "https://web.umons.ac.be/en/missions/register-at-umons/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": {
+   "en": "Applicants from outside the EU must prove any assimilation criteria by 31 October of the academic year; fee-reduction requests are made between 1 July and 31 October.",
+   "ka": "ევროკავშირს გარეთ მყოფმა აპლიკანტებმა ასიმილაციის კრიტერიუმები აკადემიური წლის 31 ოქტომბრამდე უნდა დაადასტურონ; საფასურის შემცირების თხოვნა 1 ივლისიდან 31 ოქტომბრამდე შეიძლება.",
+   "ar": "على المتقدمين من خارج الاتحاد الأوروبي إثبات معايير المعادلة بحلول 31 أكتوبر من السنة الدراسية، وتُقدَّم طلبات تخفيض الرسوم بين 1 يوليو و31 أكتوبر."
+  },
+  "tuition_intl": {
+   "amount": 5369,
+   "currency": "EUR",
+   "per": "year",
+   "note": "2026-27, non-EU students not assimilated to EU status: minerval EUR 1,194 plus a EUR 4,175 supplement; the supplement can be waived for some countries or assimilated students."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "The University of Mons is a public university in Wallonia, Belgium, teaching mainly in French. Official admission pages could not be read this round.",
+   "ka": "მონსის უნივერსიტეტი ბელგიის ვალონიაში მდებარე საჯარო უნივერსიტეტია, სწავლება ძირითადად ფრანგულია. ოფიციალური მიღების გვერდები ამ ეტაპზე ვერ ჩაიტვირთა.",
+   "ar": "جامعة مونس جامعة حكومية في والونيا ببلجيكا، والتدريس فيها بالفرنسية أساسا. لم يمكن قراءة صفحات القبول الرسمية في هذه الجولة."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://web.umons.ac.be",
+   "https://web.umons.ac.be/app/uploads/2026/02/Guide-de-ladmission-2026-2027-version-16-02.pdf",
+   "https://web.umons.ac.be/app/uploads/2026/02/Budget-annuel-2026-27-version-16-02.pdf",
+   "https://web.umons.ac.be/en/missions/register-at-umons/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "English exemption exam"
+  ],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Recognised certificates include Arab certificates, IGCSE/GCSE, IB, AP and A-level; non-Bahrainis need a certificate attested by the issuing country. One UoB page says foreign applicants must have finished secondary school inside Bahrain, so confirm eligibility with the Deanship.",
+   "ka": "აღიარებული სერტიფიკატებია არაბული სერტიფიკატები, IGCSE/GCSE, IB, AP და A-level; არაბაჰრეინელებს სჭირდებათ გამცემი ქვეყნის მიერ დამოწმებული სერტიფიკატი. UoB-ის ერთი გვერდი ამბობს, რომ უცხოელებს საშუალო სკოლა ბაჰრეინში უნდა ჰქონდეთ დამთავრებული, ამიტომ დაადასტურეთ უფლებამოსილება დეკანატთან.",
+   "ar": "تشمل الشهادات المعترف بها الشهادات العربية وIGCSE/GCSE وIB وAP وA-level، ويحتاج غير البحرينيين إلى شهادة مصدّقة من بلد الإصدار. تذكر إحدى صفحات الجامعة أن الأجانب يجب أن يكونوا خريجي مدارس ثانوية داخل البحرين، لذا تأكد من أهليتك لدى العمادة."
+  },
+  "tests": {
+   "en": "No entrance exam is listed. Students with a 90%+ average, IB, A-level or AP graduates, and holders of IELTS 5.5 (or TOEFL equivalent) skip the Foundation Program; others with 70-89.99% sit an English exemption exam.",
+   "ka": "მისაღები გამოცდა მითითებული არ არის. 90%+ საშუალო ქულის მქონენი, IB, A-level ან AP კურსდამთავრებულები და IELTS 5.5-ის (ან TOEFL-ის ექვივალენტის) მფლობელები Foundation Program-ს გამოტოვებენ; 70-89.99%-ის მქონენი ინგლისურის გათავისუფლების გამოცდას აბარებენ.",
+   "ar": "لا يُذكر اختبار قبول. يُعفى من البرنامج التأسيسي من لديه معدل 90% فأكثر وخريجو IB وA-level وAP وحملة IELTS 5.5 (أو ما يعادله في TOEFL)، أما أصحاب 70-89.99% فيؤدون امتحان إعفاء في اللغة الإنجليزية."
+  },
+  "gpa_note": {
+   "en": "A high school diploma or equivalent with a minimum average of 70% is required; placement is competitive and depends on the average, seat availability and each programme's own requirements.",
+   "ka": "საჭიროა საშუალო განათლების დიპლომი ან ექვივალენტი მინიმუმ 70%-იანი საშუალო ქულით; მიღება კონკურსულია და დამოკიდებულია საშუალო ქულაზე, ადგილების რაოდენობასა და პროგრამის მოთხოვნებზე.",
+   "ar": "يُشترط دبلوم الثانوية أو ما يعادله بمعدل لا يقل عن 70%، والقبول تنافسي ويعتمد على المعدل وتوفر المقاعد ومتطلبات كل برنامج."
+  },
+  "aid_intl": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 80,
+   "currency": "BHD",
+   "per": "credit hour",
+   "note": "Non-Bahraini undergraduate rate, fixed for the whole study period; a 3-credit course costs BD 240. Application fee BD 10; first-semester payment is BD 640 including application and confirmation fees."
+  },
+  "application_url": "https://admission.uob.edu.bh",
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma or equivalent",
+     "ka": "საშუალო განათლების დიპლომი ან ექვივალენტი",
+     "ar": "شهادة الثانوية العامة أو ما يعادلها"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Attested secondary school transcript",
+     "ka": "ატესტატის ნიშნების ფურცელი, დამოწმებული გამცემი ქვეყნის მიერ",
+     "ar": "كشف الدرجات مصدّق من بلد الإصدار"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი სერტიფიკატი",
+     "ar": "شهادة إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო გადასახადი",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "platform": null,
+  "verified_at": "2026-11-16",
+  "id": "university-of-bahrain",
+  "name": {
+   "en": "University of Bahrain",
+   "ka": "ბაჰრეინის უნივერსიტეტი",
+   "ar": "جامعة البحرين"
+  },
+  "iso": "BH",
+  "city": "Zallaq",
+  "lat": 26.049,
+  "lon": 50.482,
+  "type": "public",
+  "website": "https://www.uob.edu.bh",
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "intakes": [],
+  "fields": [
+   "engineering",
+   "business",
+   "computer-science",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business",
+    "Information technology"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი",
+    "ინფორმაციული ტექნოლოგიები"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال",
+    "تكنولوجيا المعلومات"
+   ]
+  },
+  "summary": {
+   "en": "The University of Bahrain is the national public university of Bahrain, on the Sakhir campus near Zallaq. Admission details for international students were not readable on its site.",
+   "ka": "ბაჰრეინის უნივერსიტეტი ბაჰრეინის ეროვნული საჯარო უნივერსიტეტია, საჰირის კამპუსით ზალაქთან. საერთაშორისო სტუდენტების მიღების დეტალები საიტზე ვერ წაიკითხა.",
+   "ar": "جامعة البحرين هي الجامعة الحكومية الوطنية في البحرين ومقرها حرم الصخير قرب الزلاق. لم تتيسر قراءة تفاصيل القبول للطلاب الدوليين في موقعها."
+  },
+  "about": null,
+  "keywords": [
+   "bahrain",
+   "zallaq",
+   "public"
+  ],
+  "sources": [
+   "https://www.uob.edu.bh/",
+   "https://www.uob.edu.bh/study/international-student/inter-std-admission/",
+   "https://www.uob.edu.bh/study/undergraduate-programs/studying-fees2025/",
+   "https://www.uob.edu.bh/wp-content/uploads/2026/04/AdmissionGuide_Eng2025.pdf"
+  ]
+ },
+ {
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "verified_at": "2026-11-16",
+  "id": "pontificia-universidade-catolica-do-rio-de-janeiro",
+  "name": {
+   "en": "Pontifícia Universidade Católica do Rio de Janeiro",
+   "ka": "რიო-დე-ჟანეიროს პაპის კათოლიკური უნივერსიტეტი (PUC-Rio)",
+   "ar": "الجامعة الكاثوليكية البابوية في ريو دي جانيرو"
+  },
+  "iso": "BR",
+  "city": "Rio de Janeiro",
+  "lat": -22.979,
+  "lon": -43.233,
+  "type": "private",
+  "website": "https://www.puc-rio.br",
+  "fields": [
+   "engineering",
+   "law",
+   "social-sciences",
+   "humanities",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Law",
+    "Social sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "სამართალი",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "القانون",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Private Catholic university in Rio de Janeiro. Courses are mostly in Portuguese; some are offered in English to exchange students.",
+   "ka": "კერძო კათოლიკური უნივერსიტეტი რიო-დე-ჟანეიროში. სწავლება ძირითადად პორტუგალიურადაა, ზოგი კურსი ინგლისურად გაცვლითი სტუდენტებისთვის.",
+   "ar": "جامعة كاثوليكية خاصة في ريو دي جانيرو. التدريس بالبرتغالية في الغالب مع بعض المواد بالإنجليزية لطلاب التبادل."
+  },
+  "about": {
+   "en": "PUC-Rio is a private university in Rio's Gávea district. Degree admission details for international applicants were not available from its official pages in this round; contact the university directly.",
+   "ka": "PUC-Rio კერძო უნივერსიტეტია რიოს გავეას უბანში. საერთაშორისო აპლიკანტების ხარისხის მიღების დეტალები ოფიციალურ გვერდებზე ამ რაუნდში ვერ მოიძებნა; დაუკავშირდით უნივერსიტეტს.",
+   "ar": "PUC-Rio جامعة خاصة في حي غافيا بريو. لم تتوفر تفاصيل القبول الدولي للدرجات في صفحاتها الرسمية في هذه الجولة؛ يُرجى التواصل مع الجامعة."
+  },
+  "keywords": [
+   "br",
+   "rio de janeiro"
+  ],
+  "sources": [
+   "https://www.puc-rio.br/english/index.html",
+   "https://www.puc-rio.br/ensinopesq/ccci/incoming/study_english_puc.html"
+  ]
+ },
+ {
+  "id": "universidade-federal-de-sao-paulo",
+  "name": {
+   "en": "Universidade Federal de São Paulo",
+   "ka": "სან-პაულოს ფედერალური უნივერსიტეტი",
+   "ar": "الجامعة الفيدرالية في ساو باولو"
+  },
+  "iso": "BR",
+  "city": "São Paulo",
+  "lat": -23.598,
+  "lon": -46.644,
+  "type": "public",
+  "website": "https://www.unifesp.br",
+  "platform": null,
+  "application_url": "https://ingresso.unifesp.br",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Nursing",
+    "Biomedical sciences",
+    "Pharmacy",
+    "Psychology"
+   ],
+   "ka": [
+    "მედიცინა",
+    "მედდობა",
+    "ბიოსამედიცინო მეცნიერებები",
+    "ფარმაცია",
+    "ფსიქოლოგია"
+   ],
+   "ar": [
+    "الطب",
+    "التمريض",
+    "العلوم الطبية الحيوية",
+    "الصيدلة",
+    "علم النفس"
+   ]
+  },
+  "summary": {
+   "en": "A federal public university in São Paulo, best known for medicine and health sciences. Teaching is in Portuguese.",
+   "ka": "ფედერალური საჯარო უნივერსიტეტი სან-პაულოში, ცნობილი მედიცინითა და ჯანდაცვის მეცნიერებებით. სწავლება პორტუგალიურადაა.",
+   "ar": "جامعة اتحادية عامة في ساو باولو، معروفة بالطب والعلوم الصحية. التدريس بالبرتغالية."
+  },
+  "about": {
+   "en": "UNIFESP began as the Paulista School of Medicine and now has several campuses in the São Paulo region. Bachelor teaching is in Portuguese. The university's website could not be read in this round, so admission rules, fees and deadlines for foreign applicants are left empty.",
+   "ka": "UNIFESP დაიწყო როგორც პაულისტას სამედიცინო სკოლა და ახლა რამდენიმე კამპუსი აქვს სან-პაულოს რეგიონში. საბაკალავრო სწავლება პორტუგალიურადაა. საიტი ამ რაუნდში არ წაიკითხა, ამიტომ მიღების წესები და ვადები მითითებული არ არის.",
+   "ar": "بدأت UNIFESP كمدرسة باوليستا للطب ولها الآن عدة فروع في منطقة ساو باولو. التدريس في البكالوريوس بالبرتغالية. لم يُقرأ موقعها في هذه الجولة، لذا تُركت الشروط والرسوم والمواعيد فارغة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "sao paulo",
+   "medicine",
+   "public"
+  ],
+  "sources": [
+   "https://www.unifesp.br",
+   "https://ingresso.unifesp.br"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

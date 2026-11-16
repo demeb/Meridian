@@ -321,6 +321,8 @@
     host.innerHTML = head +
       '<p class="muted">' + M.esc(me.schools.map(function (s) { return s.name; }).join(' · ')) + ' — ' + M.t('cc.board.private') + '</p>' +
       (staff.length ? '<h3 class="cc-sub">' + M.t('cc.board.counsellors') + '</h3><div class="cc-people">' + staff.map(personCard).join('') + '</div>' +
+        (mine ? '<p style="margin-top:.8rem"><a class="btn btn-primary btn-sm" href="/counsellor">' + M.icon('users', 15) + M.t('nav.myStudents') + '</a></p>'
+              : '<p style="margin-top:.8rem"><a class="btn btn-outline btn-sm" href="/account#meetings">' + M.icon('calendar', 15) + M.t('account.askMeeting') + '</a></p>') +
         '<h3 class="cc-sub">' + M.t('cc.board.posts') + '</h3>' : '') +
       (mine ? postForm() : '') +
       '<div class="cc-posts">' + (posts.length ? posts.map(function (p) {

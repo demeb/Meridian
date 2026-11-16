@@ -1,0 +1,961 @@
+[
+ {
+  "id": "immanuel-kant-baltic-federal-university",
+  "name": {
+   "en": "Immanuel Kant Baltic Federal University",
+   "ka": "იმანუილ კანტის სახელობის ბალტიის ფედერალური უნივერსიტეტი",
+   "ar": "جامعة إيمانويل كانط البلطيقية الفيدرالية"
+  },
+  "iso": "RU",
+  "city": "Kaliningrad",
+  "lat": 54.724,
+  "lon": 20.527,
+  "type": "public",
+  "website": "https://www.kantiana.ru",
+  "platform": "Direct: Russian Public Services portal (Gosuslugi, via ruID) or in person at 14 Nevsky St",
+  "application_url": "https://kantiana.ru/en/enrollee/admission-of-international-students/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Bachelor applicants who take the university's entrance tests submit documents 20 June - 15 July, sit online tests 16-25 July and enrol by 31 August (fee-paying) according to the university's published admission calendar.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "University entrance examinations (online)",
+   "TORFL/TRKI (target of the preparatory course, B1)"
+  ],
+  "fields": [
+   "humanities",
+   "natural-sciences",
+   "engineering",
+   "economics"
+  ],
+  "strengths": {
+   "en": [
+    "Humanities",
+    "Natural sciences",
+    "Engineering",
+    "Economics"
+   ],
+   "ka": [
+    "ჰუმანიტარული მეცნიერებები",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ინჟინერია",
+    "ეკონომიკა"
+   ],
+   "ar": [
+    "العلوم الإنسانية",
+    "العلوم الطبيعية",
+    "الهندسة",
+    "الاقتصاد"
+   ]
+  },
+  "summary": {
+   "en": "Federal university in Kaliningrad on the Baltic coast. Foreign bachelor applicants apply online via Gosuslugi and sit online entrance tests in July; teaching is in Russian.",
+   "ka": "ფედერალური უნივერსიტეტი კალინინგრადში, ბალტიის სანაპიროზე. უცხოელი ბაკალავრიატის აპლიკანტები განაცხადს Gosuslugi-ით აგზავნიან და ივლისში ონლაინ გამოცდებს აბარებენ; სწავლება რუსულია.",
+   "ar": "جامعة فيدرالية في كالينينغراد على ساحل البلطيق. يتقدم الأجانب للبكالوريوس عبر Gosuslugi ويجرون امتحانات قبول عبر الإنترنت في يوليو؛ التدريس بالروسية."
+  },
+  "about": {
+   "en": "Immanuel Kant Baltic Federal University is the main state university of the Kaliningrad region. Teaching is mostly in Russian. International applicants should check the official international admissions page for fees, deadlines and the Russian government quota route.",
+   "ka": "იმანუილ კანტის ბალტიის ფედერალური უნივერსიტეტი კალინინგრადის რეგიონის მთავარი სახელმწიფო უნივერსიტეტია. სწავლება ძირითადად რუსულ ენაზეა. საფასურისა და ვადების გასარკვევად გადაამოწმეთ ოფიციალური გვერდი.",
+   "ar": "جامعة إيمانويل كانط البلطيقية الفيدرالية هي الجامعة الحكومية الرئيسية في إقليم كالينينغراد. التدريس غالبًا بالروسية. على المتقدمين الدوليين مراجعة صفحة القبول الرسمية للرسوم والمواعيد."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages reviewed.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة في الصفحات التي تمت مراجعتها."
+  },
+  "tests": {
+   "en": "Foreign applicants must pass entrance examinations; for bachelor programmes they are held online 16-25 July. Teaching is in Russian and a preparatory course (up to B1, TORFL/TRKI) is offered.",
+   "ka": "უცხოელმა აპლიკანტებმა უნდა ჩააბარონ მისაღები გამოცდები; საბაკალავრო პროგრამებზე ისინი ონლაინ ტარდება 16-25 ივლისს. სწავლება რუსულია, არსებობს მოსამზადებელი კურსი (B1 დონემდე, TORFL/TRKI).",
+   "ar": "يجب على المتقدمين الأجانب اجتياز امتحانات القبول، وتُجرى لبرامج البكالوريوس عبر الإنترنت من 16 إلى 25 يوليو. التدريس بالروسية وتتوفر دورة تحضيرية (حتى مستوى B1، TORFL/TRKI)."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport with certified Russian translation",
+     "ka": "პასპორტი რუსულად დამოწმებული თარგმანით",
+     "ar": "جواز السفر مع ترجمة روسية مصدقة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Education document and transcript with certified Russian translation",
+     "ka": "განათლების დოკუმენტი და ტრანსკრიპტი რუსულად დამოწმებული თარგმანით",
+     "ar": "وثيقة التعليم وكشف الدرجات مع ترجمة روسية مصدقة"
+    }
+   },
+   {
+    "key": "migration",
+    "label": {
+     "en": "Migration card, residence permit or visa (if available)",
+     "ka": "მიგრაციის ბარათი, ბინადრობის ნებართვა ან ვიზა (არსებობის შემთხვევაში)",
+     "ar": "بطاقة الهجرة أو الإقامة أو التأشيرة (إن وجدت)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign education (the university can assess documents itself)",
+     "ka": "უცხოური განათლების აღიარება (უნივერსიტეტს შეუძლია დოკუმენტების თვითონ შეფასება)",
+     "ar": "الاعتراف بالمؤهل الأجنبي (تقوم الجامعة بتقييم الوثائق بنفسها)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "russia",
+   "kaliningrad",
+   "kantiana"
+  ],
+  "sources": [
+   "https://kantiana.ru/en/enrollee/admission-of-international-students/",
+   "https://kantiana.ru/en/enrollee/faq/",
+   "https://kantiana.ru/en/enrollee/admission-committee/",
+   "https://kantiana.ru/enrollee/priemnaya-komissiya/priem-inostrannykh-grazhdan/",
+   "https://kantiana.ru/enrollee/priemnaya-komissiya/sroki-provedeniya-priema/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "siberian-federal-university-sibfu",
+  "name": {
+   "en": "Siberian Federal University, SibFU",
+   "ka": "ციმბირის ფედერალური უნივერსიტეტი",
+   "ar": "جامعة سيبيريا الفيدرالية"
+  },
+  "iso": "RU",
+  "city": "Krasnoyarsk",
+  "lat": 56.007,
+  "lon": 92.797,
+  "type": "public",
+  "website": "https://sfu.ru",
+  "platform": "Direct (online application form on sfu-kras.ru; ruID app for the entrance procedure)",
+  "application_url": "https://sfu-kras.ru/en/admission",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 176934,
+   "currency": "RUB",
+   "per": "year",
+   "note": "Lowest figure in the SibFU programme table (5-year architecture bachelor); fees vary by programme."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Large federal university in Krasnoyarsk, Siberia, with Russian-taught bachelor programmes and a preparatory Russian course. Tuition starts from about 177,000 RUB per year.",
+   "ka": "დიდი ფედერალური უნივერსიტეტი ციმბირში, კრასნოიარსკში; საბაკალავრო პროგრამები რუსულენოვანია და არსებობს მოსამზადებელი რუსული კურსი. სწავლის საფასური დაახლოებით 177 000 რუბლიდან იწყება წელიწადში.",
+   "ar": "جامعة فيدرالية كبيرة في كراسنويارسك بسيبيريا، برامج البكالوريوس بالروسية مع دورة تمهيدية للغة الروسية. تبدأ الرسوم من نحو 177 ألف روبل سنويًا."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "SibFU gives a discount of 10% or more on tuition for applicants with high entrance test results.",
+   "ka": "SibFU-ს მაღალი მისაღები ქულების მქონე აპლიკანტებისთვის სწავლის საფასურზე 10%-იანი ან მეტი ფასდაკლება აქვს.",
+   "ar": "تمنح SibFU خصما بنسبة 10% أو أكثر على الرسوم لأصحاب نتائج القبول المرتفعة."
+  },
+  "tests": {
+   "en": "Fee-paying international applicants can be admitted on two entrance exams, and the Russian language exam is compulsory. Bachelor programmes are taught in Russian; pre-university Russian courses are offered.",
+   "ka": "ფასიან ადგილზე უცხოელი აპლიკანტები შეიძლება ორი მისაღები გამოცდით ჩაირიცხონ და რუსული ენის გამოცდა სავალდებულოა. საბაკალავრო სწავლება რუსულია; არსებობს უნივერსიტეტამდელი რუსული კურსები.",
+   "ar": "يمكن قبول الأجانب على المقاعد المدفوعة بامتحانين للقبول، ويُعد امتحان اللغة الروسية إلزاميا. التدريس في البكالوريوس بالروسية وتتوفر دورات روسية تمهيدية."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Colour copy of the first page of the passport (valid at least 18 months after start)",
+     "ka": "პასპორტის პირველი გვერდის ფერადი ასლი (მოქმედი სწავლის დაწყებიდან მინიმუმ 18 თვე)",
+     "ar": "نسخة ملونة من الصفحة الأولى من جواز السفر (صالح 18 شهرًا على الأقل بعد بدء الدراسة)"
+    }
+   },
+   {
+    "key": "application_form",
+    "label": {
+     "en": "Online application form (up to 5 programmes)",
+     "ka": "ონლაინ საანკეტო განაცხადი (მაქსიმუმ 5 პროგრამა)",
+     "ar": "استمارة التقديم عبر الإنترنت (حتى 5 برامج)"
+    }
+   },
+   {
+    "key": "education_docs",
+    "label": {
+     "en": "School certificate and other documents translated into Russian",
+     "ka": "სკოლის სერტიფიკატი და სხვა დოკუმენტები რუსულ თარგმანით",
+     "ar": "شهادة المدرسة والوثائق الأخرى مترجمة إلى الروسية"
+    }
+   },
+   {
+    "key": "learning_agreement",
+    "label": {
+     "en": "Signed Learning Agreement and tuition payment before the invitation letter",
+     "ka": "ხელმოწერილი სასწავლო ხელშეკრულება და გადახდა მოწვევის წერილამდე",
+     "ar": "عقد الدراسة الموقّع ودفع الرسوم قبل خطاب الدعوة"
+    }
+   },
+   {
+    "key": "medical",
+    "label": {
+     "en": "Chest X-ray / fluorography result",
+     "ka": "მკერდის რენტგენი / ფლუოროგრაფია",
+     "ar": "نتيجة تصوير الصدر بالأشعة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "russia",
+   "krasnoyarsk",
+   "siberia"
+  ],
+  "sources": [
+   "https://sfu-kras.ru/en/admission",
+   "https://sfu-kras.ru/en/education/programs",
+   "https://sfu.ru/en/admission/applications_procedure",
+   "https://priemnaya.sfu-kras.ru/admission/en/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "southern-federal-university",
+  "name": {
+   "en": "Southern Federal University",
+   "ka": "სამხრეთის ფედერალური უნივერსიტეტი",
+   "ar": "جامعة الجنوب الفيدرالية"
+  },
+  "iso": "RU",
+  "city": "Rostov-on-Don",
+  "lat": 47.222,
+  "lon": 39.719,
+  "type": "public",
+  "website": "https://www.sfedu.ru",
+  "platform": "Direct (SFedU admissions: ruID, Gosuslugi or university account) / Russian Government quota",
+  "application_url": "https://studyinrussia.ru/en/university-show/238/admission-rules",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "Fee-paying foreign applicants (separate competition group), bachelor: documents from 20 June to 15 July if taking the university's own tests, contracts by 14 August; additional round 21-24 August with tests 25-26 August (2026 admission rules).",
+  "tuition_intl": {
+   "amount": 250000,
+   "currency": "RUB",
+   "per": "year",
+   "note": "Most bachelor/specialist programmes in the 2026 separate competition group for foreign citizens list 250,000 RUB per year; a few programmes differ."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TRKI-1 (Russian as a foreign language) may replace the Russian test"
+  ],
+  "fields": [],
+  "strengths": null,
+  "summary": {
+   "en": "Large public university in Rostov-on-Don. Foreign bachelor applicants join a separate competition group with their own entrance tests and fees around 250,000 RUB per year.",
+   "ka": "დიდი სახელმწიფო უნივერსიტეტი როსტოვ-დონზე. უცხოელი ბაკალავრიატის აპლიკანტები ცალკე საკონკურსო ჯგუფში არიან საკუთარი გამოცდებით; საფასური დაახლოებით 250 000 რუბლი წელიწადში.",
+   "ar": "جامعة حكومية كبيرة في روستوف أون دون. يتقدم الأجانب للبكالوريوس ضمن مجموعة منافسة منفصلة لها اختبارات خاصة ورسوم نحو 250 ألف روبل سنويًا."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "Study is free for winners of Russian Government quota places, awarded competitively through Rossotrudnichestvo.",
+   "ka": "რუსეთის მთავრობის კვოტის გამარჯვებულებისთვის სწავლა უფასოა; კვოტა კონკურსით გაიცემა Rossotrudnichestvo-ს მეშვეობით.",
+   "ar": "الدراسة مجانية لمن يفوز بمقاعد الحصة الحكومية الروسية التي تُمنح بالمنافسة عبر Rossotrudnichestvo."
+  },
+  "tests": {
+   "en": "Foreign citizens on fee-paying places sit two entrance tests set for them (a subject test plus Russian or a foreign language), minimum 50 points per test on the programmes checked; a TRKI-1 certificate may be counted for the Russian test.",
+   "ka": "ფასიან ადგილებზე უცხოელები ორ სპეციალურ მისაღებ გამოცდას აბარებენ (საგნობრივი + რუსული ან უცხო ენა), შემოწმებულ პროგრამებზე მინიმუმ 50 ქულა თითოეულზე; რუსულის გამოცდად შეიძლება ჩაითვალოს TRKI-1 სერტიფიკატი.",
+   "ar": "يجري الأجانب على المقاعد المدفوعة اختبارين مخصصين (مادة دراسية + الروسية أو لغة أجنبية) بحد أدنى 50 نقطة لكل اختبار في البرامج التي روجعت؛ ويجوز احتساب شهادة TRKI-1 لاختبار الروسية."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or other identity document",
+     "ka": "პასპორტი ან პირადობის დამადასტურებელი დოკუმენტი",
+     "ar": "جواز السفر أو وثيقة هوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Previous education document with annex, legalised if required",
+     "ka": "წინა განათლების დოკუმენტი დანართით, საჭიროებისას ლეგალიზებული",
+     "ar": "وثيقة التعليم السابقة مع الملحق، مصدقة عند الحاجة"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition certificate for foreign education (or university expertise)",
+     "ka": "უცხოური განათლების აღიარების სერტიფიკატი (ან უნივერსიტეტის ექსპერტიზა)",
+     "ar": "شهادة اعتراف بالتعليم الأجنبي (أو تقييم الجامعة)"
+    }
+   },
+   {
+    "key": "photos",
+    "label": {
+     "en": "Two 3x4 photos",
+     "ka": "ორი 3x4 ფოტო",
+     "ar": "صورتان 3×4"
+    }
+   },
+   {
+    "key": "translation",
+    "label": {
+     "en": "Notarised Russian translations in the name shown on the visa",
+     "ka": "რუსული ნოტარიულად დამოწმებული თარგმანები ვიზაზე მითითებული სახელით",
+     "ar": "ترجمات روسية موثقة بالاسم المذكور في التأشيرة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "russia",
+   "rostov-on-don",
+   "sfedu"
+  ],
+  "sources": [
+   "https://studyinrussia.ru/en/university-show/238/admission-rules",
+   "https://welcome.sfedu.ru/faq_en",
+   "https://sfedu.ru/www/stat_pages22.show?p=ABT/N8216/P",
+   "http://sfedu.ru/00_main_2010/abitur/abit_2026/pravila_priema2026(1).pdf",
+   "http://sfedu.ru/00_main_2010/abitur/abit_2026/sroki.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": 800,
+   "high": null,
+   "required": "required"
+  },
+  "ielts_min": 6.0,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "SAT (800; 1200 for Medicine) for applicants from outside Saudi Arabia",
+   "Qudurat and Tahsili for applicants residing in Saudi Arabia",
+   "KFU English language programme (alternative to IELTS)"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-16",
+  "id": "king-faisal-university",
+  "name": {
+   "en": "King Faisal University",
+   "ka": "მეფე ფაისალის უნივერსიტეტი",
+   "ar": "جامعة الملك فيصل"
+  },
+  "iso": "SA",
+  "city": "Hofuf",
+  "lat": 25.358,
+  "lon": 49.585,
+  "type": "public",
+  "website": "https://www.kfu.edu.sa",
+  "platform": "Direct",
+  "application_url": "https://www.kfu.edu.sa/ar/Deans/AdmissionRecordsDeanship/Documents/acadPlan/admession/admissionEn.html",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "students": 30000,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "business",
+   "environment"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Hofuf (Al-Ahsa). Non-Saudi bachelor applicants enter on scholarship seats; applicants from abroad need an SAT score and IELTS 6.0.",
+   "ka": "სახელმწიფო უნივერსიტეტი ჰოფუფში (ალ-აჰსა). არასაუდელი ბაკალავრიატის აპლიკანტები სტიპენდიის ადგილებზე ირიცხებიან; საზღვარგარეთიდან განმცხადებლებს სჭირდებათ SAT და IELTS 6.0.",
+   "ar": "جامعة حكومية في الهفوف (الأحساء). يُقبل غير السعوديين في البكالوريوس على مقاعد المنح؛ ويحتاج المتقدمون من الخارج إلى SAT وIELTS 6.0."
+  },
+  "about": {
+   "en": "King Faisal University serves about 30,000 students in Hofuf. Non-Saudi students are admitted on scholarship seats (full, free, partial or paid); the page does not state whether the SAT and IELTS thresholds are current, so confirm with the Deanship of Admission.",
+   "ka": "მეფე ფაისალის უნივერსიტეტი ჰოფუფში დაახლოებით 30 000 სტუდენტს ემსახურება. არასაუდელები ირიცხებიან სტიპენდიის ადგილებზე (სრული, უფასო, ნაწილობრივი ან ფასიანი); გვერდი არ მიუთითებს, რამდენად აქტუალურია SAT და IELTS ზღვრები, ამიტომ გადაამოწმეთ მიღების დეკანატთან.",
+   "ar": "تخدم جامعة الملك فيصل نحو 30,000 طالب في الهفوف. يُقبل غير السعوديين على مقاعد المنح (كاملة أو مجانية أو جزئية أو مدفوعة)؛ ولا تذكر الصفحة تاريخ سريان حدود SAT وIELTS، لذا يُنصح بالتأكد من عمادة القبول."
+  },
+  "aid_intl": {
+   "en": "KFU offers scholarship seats for non-Saudi students in four types: full, free, partial (50% off fees) and paid; only the full scholarship includes a monthly reward.",
+   "ka": "KFU არასაუდელ სტუდენტებს სტიპენდიის ოთხ ტიპს სთავაზობს: სრული, უფასო, ნაწილობრივი (50%-იანი ფასდაკლება) და ფასიანი; ყოველთვიური დახმარება მხოლოდ სრულ სტიპენდიაშია.",
+   "ar": "تقدم الجامعة مقاعد منح لغير السعوديين بأربعة أنواع: كاملة ومجانية وجزئية (خصم 50% من الرسوم) ومدفوعة؛ والمكافأة الشهرية في المنحة الكاملة فقط."
+  },
+  "tests": {
+   "en": "Applicants from outside Saudi Arabia on partial or paid scholarships need an SAT score of at least 800 (1200 for Medicine) and IELTS Academic 6.0 with no band below 5, or completion of KFU's English programme. Residents sit the Saudi aptitude and achievement tests.",
+   "ka": "საუდის არაბეთის გარეთ მყოფ აპლიკანტებს ნაწილობრივ ან ფასიან სტიპენდიაზე სჭირდებათ SAT მინიმუმ 800 (მედიცინაზე 1200) და IELTS Academic 6.0, არცერთი ქვეტესტი 5-ზე ნაკლები, ან KFU-ს ინგლისური პროგრამის გავლა. რეზიდენტები საუდურ უნარებისა და მიღწევების ტესტებს აბარებენ.",
+   "ar": "يحتاج المتقدمون من خارج السعودية على المنح الجزئية أو المدفوعة إلى SAT لا يقل عن 800 (1200 للطب) وIELTS أكاديمي 6.0 دون 5 في أي مهارة، أو اجتياز برنامج اللغة الإنجليزية بالجامعة. ويؤدي المقيمون اختباري القدرات والتحصيلي."
+  },
+  "gpa_note": {
+   "en": "Residents applying for free or full scholarships need a weighted score of at least 95% for Computer Science, Engineering and Business and 90% for other majors; health colleges are not open to free scholarships and need 95% on partial or paid seats.",
+   "ka": "რეზიდენტებს უფასო ან სრულ სტიპენდიაზე სჭირდებათ შეწონილი ქულა მინიმუმ 95% კომპიუტერულ მეცნიერებაზე, ინჟინერიასა და ბიზნესზე და 90% სხვა მიმართულებებზე; სამედიცინო კოლეჯები უფასო სტიპენდიისთვის ღია არ არის, ნაწილობრივ ან ფასიან ადგილებზე კი 95% სჭირდება.",
+   "ar": "يحتاج المقيمون على المنح الكاملة أو المجانية إلى نسبة موزونة لا تقل عن 95% لعلوم الحاسب والهندسة والأعمال و90% لبقية التخصصات؛ والكليات الصحية غير متاحة للمنح المجانية وتتطلب 95% على المقاعد الجزئية أو المدفوعة."
+  },
+  "keywords": [
+   "sa",
+   "hofuf"
+  ],
+  "requirements": [
+   {
+    "key": "secondary_certificate",
+    "label": {
+     "en": "Secondary school certificate (not more than five years old)",
+     "ka": "საშუალო სკოლის სერტიფიკატი (არაუმეტეს ხუთი წლის წინანდელი)",
+     "ar": "شهادة الثانوية (لا يتجاوز عمرها خمس سنوات)"
+    }
+   },
+   {
+    "key": "sat",
+    "label": {
+     "en": "SAT result (800; 1200 for Medicine) for applicants from abroad",
+     "ka": "SAT შედეგი (800; მედიცინაზე 1200) საზღვარგარეთიდან განმცხადებლებისთვის",
+     "ar": "نتيجة SAT (800؛ 1200 للطب) للمتقدمين من الخارج"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "IELTS Academic 6.0 (min 5 per band) or the KFU English programme",
+     "ka": "IELTS Academic 6.0 (თითო ნაწილში მინ. 5) ან KFU-ს ინგლისური პროგრამა",
+     "ar": "IELTS أكاديمي 6.0 (حد أدنى 5 لكل مهارة) أو برنامج اللغة الإنجليزية بالجامعة"
+    }
+   },
+   {
+    "key": "interview_medical",
+    "label": {
+     "en": "Interview and medical fitness",
+     "ka": "გასაუბრება და სამედიცინო ვარგისიანობა",
+     "ar": "المقابلة واللياقة الطبية"
+    }
+   },
+   {
+    "key": "employer_approval",
+    "label": {
+     "en": "Employer approval if working",
+     "ka": "დამსაქმებლის თანხმობა, თუ მუშაობს",
+     "ar": "موافقة جهة العمل إن كان يعمل"
+    }
+   }
+  ],
+  "sources": [
+   "https://www.kfu.edu.sa",
+   "https://www.kfu.edu.sa/ar/Deans/AdmissionRecordsDeanship/Documents/acadPlan/admession/admissionEn.html",
+   "https://www.kfu.edu.sa/ar/Deans/AdmissionRecordsDeanship/Documents/acadPlan/scholarship/scolarshipDetEn.html"
+  ]
+ },
+ {
+  "id": "qassim-university",
+  "name": {
+   "en": "Qassim University",
+   "ka": "ყასიმის უნივერსიტეტი",
+   "ar": "جامعة القصيم"
+  },
+  "iso": "SA",
+  "city": "Buraydah",
+  "website": "https://www.qu.edu.sa",
+  "lat": 26.346,
+  "lon": 43.769,
+  "type": "public",
+  "platform": "Unified National Admission Platform (uap.sa); international students via studyinsaudi.sa",
+  "application_url": "https://www.qu.edu.sa/en/international-admission/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "GAT (Qiyas)",
+   "Achievement Test (Qiyas)"
+  ],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Agriculture",
+    "Sharia",
+    "Computer science"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "სოფლის მეურნეობა",
+    "შარიათი",
+    "ინფორმატიკა"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "الزراعة",
+    "الشريعة",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Buraydah, Saudi Arabia, with about 3,000 international students.",
+   "ka": "საჭარო უნივერსიტეტი ბურაიდაში, საუდის არაბეთში, დაახლოებით 3 000 უცხოელი სტუდენტით.",
+   "ar": "جامعة حكومية في بريدة بالسعودية يدرس بها نحو 3,000 طالب دولي."
+  },
+  "about": {
+   "en": "Qassim University is a public university in Buraydah, Saudi Arabia. It says it accepts international students through the studyinsaudi.sa platform. For Saudi applicants the weighted score combines high school, aptitude and achievement tests.",
+   "ka": "ყასიმის უნივერსიტეტი სახელმწიფო უნივერსიტეტია ბურაიდაში, საუდის არაბეთში. უცხოელ სტუდენტებს studyinsaudi.sa პლატფორმით იღებს. საუდელთათვის შეწონილი ქულა ატესტატის, უნარებისა და მიღწევების ტესტებს აერთიანებს.",
+   "ar": "جامعة القصيم جامعة حكومية في بريدة بالسعودية، وتقبل الطلاب الدوليين عبر منصة studyinsaudi.sa. يجمع المعدل الموزون للسعوديين درجات الثانوية والقدرات والتحصيلي."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Saudi applicants need the high school result, general aptitude test and achievement test; some colleges add interviews or own tests.",
+   "ka": "საუდელ განმცხადებლებს სჭირდებათ ატესტატის შედეგი, უნარების და მიღწევების ტესტი; ზოგ კოლეჯში დამატებით გასაუბრება ან საკუთარი გამოცდაა.",
+   "ar": "يحتاج المتقدمون السعوديون إلى نتيجة الثانوية واختبار القدرات والتحصيلي؛ وتضيف بعض الكليات مقابلات أو اختبارات خاصة."
+  },
+  "gpa_note": {
+   "en": "Admission uses a weighted score of 30% high school, 30% General Aptitude Test and 40% Achievement Test (an equivalent score of 50% high school and 50% aptitude applies to non-health, non-science majors for male applicants).",
+   "ka": "მიღებისას გამოიყენება შეწონილი ქულა: 30% ატესტატი, 30% უნარების ტესტი და 40% მიღწევების ტესტი (ზოგიერთ მიმართულებაზე მამაკაცებისთვის ექვივალენტური ქულა: 50% ატესტატი და 50% უნარები).",
+   "ar": "يُحسب معدل القبول الموزون من 30% الثانوية و30% القدرات العامة و40% التحصيلي (وتُطبق نسبة مكافئة 50% ثانوية و50% قدرات على بعض التخصصات للطلاب الذكور)."
+  },
+  "requirements": [
+   {
+    "key": "secondary_certificate",
+    "label": {
+     "en": "High school diploma or equivalent accredited in the country of study",
+     "ka": "საშუალო სკოლის დიპლომი ან ექვივალენტი, აღიარებული სწავლის ქვეყანაში",
+     "ar": "شهادة الثانوية أو ما يعادلها معتمدة في بلد الدراسة"
+    }
+   },
+   {
+    "key": "age",
+    "label": {
+     "en": "Age up to 25 for Sharia, Business, Engineering, Computer Science, Architecture and health colleges",
+     "ka": "ასაკი 25 წლამდე შარიათის, ბიზნესის, ინჟინერიის, ინფორმატიკის, არქიტექტურისა და სამედიცინო კოლეჯებზე",
+     "ar": "العمر حتى 25 سنة لكليات الشريعة والأعمال والهندسة والحاسب والعمارة والكليات الصحية"
+    }
+   },
+   {
+    "key": "medical",
+    "label": {
+     "en": "Medical fitness report for health specialties",
+     "ka": "სამედიცინო ვარგისიანობის დასკვნა სამედიცინო მიმართულებებზე",
+     "ar": "تقرير اللياقة الطبية للتخصصات الصحية"
+    }
+   },
+   {
+    "key": "tests",
+    "label": {
+     "en": "General Aptitude and Achievement test results",
+     "ka": "უნარებისა და მიღწევების ტესტის შედეგები",
+     "ar": "نتائج اختبار القدرات والتحصيلي"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "saudi arabia",
+   "buraydah",
+   "medicine"
+  ],
+  "sources": [
+   "https://www.qu.edu.sa/en/undergraduate-admission/",
+   "https://www.qu.edu.sa/en/",
+   "https://www.qu.edu.sa/en/international-admission/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-ha-il",
+  "name": {
+   "en": "University of Ha'il",
+   "ka": "ჰაილის უნივერსიტეტი",
+   "ar": "جامعة حائل"
+  },
+  "iso": "SA",
+  "city": "Hail",
+  "lat": 27.523,
+  "lon": 41.69,
+  "type": "public",
+  "website": "https://www.uoh.edu.sa",
+  "platform": "Study in Saudi platform for internal scholarship seats; non-Saudi admission portal",
+  "application_url": "https://kamzx.uoh.edu.sa/AdmissionNs/MainPage",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Qudurat (General Aptitude Test)",
+   "Tahsili (Achievement Test)"
+  ],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Hail. Non-Saudi residents apply for internal scholarship seats using the Qudurat and Tahsili tests, with a weighted-score ranking.",
+   "ka": "სახელმწიფო უნივერსიტეტი ჰაილში. არასაუდელი რეზიდენტები შიდა სტიპენდიის ადგილებზე ახდენენ განაცხადს Qudurat-ისა და Tahsili-ს ტესტებით და შეწონილი ქულით რანჟირდებიან.",
+   "ar": "جامعة حكومية في حائل. يتقدم المقيمون غير السعوديين لمقاعد المنح الداخلية بنتائج القدرات والتحصيلي ويُرتبون بنسبة موزونة."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "Non-Saudi students residing in Saudi Arabia can apply for internal scholarship seats through the Study in Saudi platform.",
+   "ka": "საუდის არაბეთში მცხოვრებ არასაუდელ სტუდენტებს შეუძლიათ შიდა სტიპენდიის ადგილებზე განაცხადი Study in Saudi პლატფორმით.",
+   "ar": "يمكن للطلاب غير السعوديين المقيمين في السعودية التقدم لمقاعد المنح الداخلية عبر منصة ادرس في السعودية."
+  },
+  "tests": {
+   "en": "Non-Saudi applicants on internal scholarship seats need National Center for Assessment results (General Aptitude Test and Achievement Test) and must speak and write Arabic.",
+   "ka": "არასაუდელ აპლიკანტებს შიდა სტიპენდიის ადგილებზე სჭირდებათ შეფასების ეროვნული ცენტრის შედეგები (უნარების და მიღწევების ტესტი) და უნდა ფლობდნენ არაბულს ზეპირად და წერილობით.",
+   "ar": "يحتاج المتقدمون غير السعوديين على مقاعد المنح الداخلية إلى نتائج المركز الوطني للقياس (القدرات والتحصيلي) وإتقان العربية تحدثًا وكتابة."
+  },
+  "gpa_note": {
+   "en": "Applicants need a general secondary certificate (obtained within the last five years) and are ranked on a weighted score; for the science track it is 25% school GPA, 40% aptitude and 35% achievement, with seats split between Ha'il-region graduates (at least 78%) and others (at least 95%).",
+   "ka": "აპლიკანტს სჭირდება საშუალო განათლების სერტიფიკატი (ბოლო ხუთი წლის განმავლობაში მიღებული) და რანჟირდება შეწონილი ქულით; საბუნებისმეტყველო მიმართულებაზე ეს არის 25% ატესტატი, 40% უნარები და 35% მიღწევები; ადგილები იყოფა ჰაილის რეგიონის კურსდამთავრებულებსა (მინ. 78%) და სხვებს (მინ. 95%) შორის.",
+   "ar": "يلزم شهادة الثانوية العامة (خلال آخر خمس سنوات) ويتم الترتيب بنسبة موزونة؛ وللمسار العلمي هي 25% للثانوية و40% للقدرات و35% للتحصيلي، وتُوزع المقاعد بين خريجي منطقة حائل (لا تقل عن 78%) وغيرهم (لا تقل عن 95%)."
+  },
+  "requirements": [
+   {
+    "key": "secondary_certificate",
+    "label": {
+     "en": "General secondary certificate (inside or outside the Kingdom)",
+     "ka": "საშუალო სკოლის სერტიფიკატი (სამეფოს შიგნით ან გარეთ)",
+     "ar": "شهادة الثانوية العامة (من داخل المملكة أو خارجها)"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "صورة من جواز السفر"
+    }
+   },
+   {
+    "key": "residence",
+    "label": {
+     "en": "Valid residence permit or civil ID (at least four months remaining)",
+     "ka": "მოქმედი ბინადრობის ნებართვა ან პირადობის ბარათი (მინიმუმ ოთხი თვე დარჩენილი)",
+     "ar": "إقامة سارية أو بطاقة مدنية (لا تقل عن أربعة أشهر)"
+    }
+   },
+   {
+    "key": "test_results",
+    "label": {
+     "en": "Qudurat and Tahsili results",
+     "ka": "Qudurat-ისა და Tahsili-ს შედეგები",
+     "ar": "نتائج القدرات والتحصيلي"
+    }
+   },
+   {
+    "key": "age",
+    "label": {
+     "en": "Age between 17 and 25 for bachelor entry",
+     "ka": "ასაკი 17-დან 25 წლამდე ბაკალავრიატზე",
+     "ar": "العمر بين 17 و25 سنة للبكالوريوس"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "saudi arabia",
+   "hail",
+   "public"
+  ],
+  "sources": [
+   "https://www.uoh.edu.sa/En/Deanships/Deanship-A-R/Pages/default.aspx",
+   "https://www.uoh.edu.sa/Ar/Deanships/Deanship-S-A/Grants-Department/SiteAssets/Lists/Tabs/AllItems/%D8%AF%D9%84%D9%8A%D9%84%20%D8%A7%D9%84%D9%82%D8%A8%D9%88%D9%84.pdf",
+   "https://kamzx.uoh.edu.sa/AdmissionNs/MainPage"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-khartoum",
+  "name": {
+   "en": "University of Khartoum",
+   "ka": "ხართუმის უნივერსიტეტი",
+   "ar": "جامعة الخرطوم"
+  },
+  "iso": "SD",
+  "city": "Khartoum",
+  "lat": 15.589,
+  "lon": 32.534,
+  "type": "public",
+  "website": "https://www.uofk.edu",
+  "platform": null,
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Sciences",
+    "Law"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "მეცნიერებები",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "العلوم",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "Oldest and largest public university in Sudan. Undergraduate admission is set by Sudan's Board of Higher Education.",
+   "ka": "სუდანის უძველესი და უდიდესი სახელმწიფო უნივერსიტეტი. ბაკალავრიატში მიღებას სუდანის უმაღლესი განათლების საბჭო არეგულირებს.",
+   "ar": "أقدم وأكبر جامعة عامة في السودان. يخضع القبول الجامعي لمجلس التعليم العالي السوداني."
+  },
+  "about": {
+   "en": "The University of Khartoum is a public university in Khartoum, Sudan. Its admission page states that undergraduate admission policy is governed by the Board of Higher Education of Sudan, with minimum requirements depending on nationality and school-certificate board. No international fee, deadline or application link is published on the page read.",
+   "ka": "ხართუმის უნივერსიტეტი სახელმწიფო უნივერსიტეტია სუდანში. მისი გვერდის მიხედვით ბაკალავრიატში მიღებას არეგულირებს სუდანის უმაღლესი განათლების საბჭო; მოთხოვნები დამოკიდებულია ეროვნებასა და ატესტატის ტიპზე. საფასური და ვადები არ არის მითითებული.",
+   "ar": "جامعة عامة في الخرطوم. تذكر صفحة القبول أن سياسة القبول الجامعي يحكمها مجلس التعليم العالي السوداني، وأن الحد الأدنى يتوقف على الجنسية ونوع الشهادة. لا تُنشر رسوم أو مواعيد."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": {
+   "en": "Minimum undergraduate entry requirements are set by the Board of Higher Education of Sudan and depend on the applicant's nationality (Sudanese or non-Sudanese) and the secondary certificate board.",
+   "ka": "ბაკალავრიატში მიღების მინიმალურ მოთხოვნებს განსაზღვრავს სუდანის უმაღლესი განათლების საბჭო; ისინი დამოკიდებულია აპლიკანტის ეროვნებაზე (სუდანელი თუ არასუდანელი) და საშუალო განათლების სერტიფიკატზე.",
+   "ar": "يحدد مجلس التعليم العالي السوداني الحد الأدنى لشروط القبول الجامعي، وتختلف حسب جنسية المتقدم (سوداني أو غير سوداني) وجهة إصدار الشهادة الثانوية."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "sudan",
+   "khartoum",
+   "public"
+  ],
+  "sources": [
+   "https://www.uofk.edu/index.php/admission",
+   "https://www.uofk.edu/admission"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "damascus-university",
+  "name": {
+   "en": "Damascus University",
+   "ka": "დამასკოს უნივერსიტეტი",
+   "ar": "جامعة دمشق"
+  },
+  "iso": "SY",
+  "city": "Damascus",
+  "lat": 33.51,
+  "lon": 36.289,
+  "type": "public",
+  "website": "https://damascusuniversity.edu.sy",
+  "platform": "Ministry of Higher Education special competition for Arab and foreign students (online competition card)",
+  "application_url": "https://mohe.gov.sy/ar/media-center/details/651",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "The 2026-27 vacancy-filling competition for Arab and foreign students opened on 11 November 2026 and was extended to 18 November 2026 (Ministry announcements via SANA).",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "law"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Syria's largest public university in Damascus. Arab and foreign students are admitted through a Ministry of Higher Education competition based on the secondary-certificate average.",
+   "ka": "სირიის უდიდესი სახელმწიფო უნივერსიტეტი დამასკოში. არაბები და უცხოელები მიიღებიან უმაღლესი განათლების სამინისტროს კონკურსით, საშუალო განათლების სერტიფიკატის საშუალო ქულის მიხედვით.",
+   "ar": "أكبر جامعة حكومية في سوريا بدمشق. يُقبل الطلاب العرب والأجانب عبر مفاضلة وزارة التعليم العالي على معدل الشهادة الثانوية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Admission is by competition on the secondary-certificate average (converted to a percentage for non-Syrian certificates); no separate entrance exam is described in the Ministry announcement for Arab and foreign students.",
+   "ka": "მიღება კონკურსით ხდება საშუალო განათლების სერტიფიკატის საშუალო ქულით (არასირიული სერტიფიკატისთვის პროცენტად გადაყვანილი); არაბთა და უცხოელთა შესახებ სამინისტროს განცხადებაში ცალკე მისაღები გამოცდა მითითებული არ არის.",
+   "ar": "يتم القبول بالمفاضلة على معدل الشهادة الثانوية (يُحوَّل إلى نسبة مئوية للشهادات غير السورية)؛ ولا يذكر إعلان الوزارة للطلاب العرب والأجانب امتحان قبول منفصلًا."
+  },
+  "gpa_note": {
+   "en": "Applicants need the Syrian general secondary certificate (scientific or literary) or an equivalent non-Syrian one from the 2025 or 2026 session, with the competition average and per-programme minimums set in the Ministry's announcements.",
+   "ka": "აპლიკანტს სჭირდება სირიის ზოგადი საშუალო განათლების სერტიფიკატი (სამეცნიერო ან ლიტერატურული) ან ექვივალენტური არასირიული 2025 ან 2026 წლის სესიიდან; საკონკურსო საშუალო და პროგრამების მინიმუმები განსაზღვრულია სამინისტროს განცხადებებში.",
+   "ar": "يلزم شهادة الثانوية العامة السورية (علمي أو أدبي) أو معادلة غير سورية من دورتي 2025 أو 2026، مع المعدل التنافسي والحدود الدنيا لكل اختصاص كما في إعلانات الوزارة."
+  },
+  "requirements": [
+   {
+    "key": "secondary_certificate",
+    "label": {
+     "en": "Syrian general secondary certificate or an equivalent non-Syrian certificate",
+     "ka": "სირიის საშუალო განათლების სერტიფიკატი ან ექვივალენტური არასირიული სერტიფიკატი",
+     "ar": "شهادة الثانوية العامة السورية أو معادلة غير سورية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalence of the non-Syrian certificate from the Examinations Directorate",
+     "ka": "არასირიული სერტიფიკატის ექვივალენტობა გამოცდების დირექციისგან",
+     "ar": "معادلة الشهادة غير السورية من مديرية الامتحانات"
+    }
+   },
+   {
+    "key": "competition_card",
+    "label": {
+     "en": "Online competition card with ranked programme choices",
+     "ka": "ონლაინ საკონკურსო ბარათი პროგრამების პრიორიტეტული არჩევანით",
+     "ar": "بطاقة المفاضلة الإلكترونية مع ترتيب الرغبات"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "sy",
+   "damascus"
+  ],
+  "sources": [
+   "https://damascusuniversity.edu.sy",
+   "https://mohe.gov.sy/ar/media-center/details/651",
+   "https://sana.sy/education/2631940/",
+   "https://sana.sy/education/2635907/"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

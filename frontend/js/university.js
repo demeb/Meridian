@@ -37,11 +37,14 @@
     return String(text || '').split(/\n{2,}/).map(function (p) { return '<p>' + M.esc(p.trim()) + '</p>'; }).join('');
   }
 
+  // the fee period: per year, semester, credit, whole programme or month (none = not stated)
+  var PER_KEY = { year: 'uni.year', semester: 'uni.semester', credit: 'uni.perCredit', programme: 'uni.perProgramme', month: 'uni.perMonth' };
+
   function tuition(u) {
     var t = u.tuition_intl;
     if (!t || t.amount === null || t.amount === undefined) return '—';
     if (t.amount === 0) return M.t('uni.free');
-    return Number(t.amount).toLocaleString('en-US') + ' ' + (t.currency || '') + ' / ' + M.t(t.per === 'semester' ? 'uni.semester' : 'uni.year');
+    return Number(t.amount).toLocaleString('en-US') + ' ' + (t.currency || '') + (PER_KEY[t.per] ? ' / ' + M.t(PER_KEY[t.per]) : '');
   }
 
   function paintHero() {

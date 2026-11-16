@@ -1,0 +1,1056 @@
+[
+ {
+  "id": "conservatoire-national-des-arts-et-metiers-cnam",
+  "name": {
+   "en": "Conservatoire National des Arts et Métiers (CNAM)",
+   "ka": "ხელოვნებისა და ხელობების ეროვნული კონსერვატორია (CNAM)",
+   "ar": "المعهد الوطني للفنون والحرف (CNAM)"
+  },
+  "iso": "FR",
+  "city": "Paris",
+  "lat": 48.866,
+  "lon": 2.355,
+  "type": "public",
+  "website": "https://www.cnam.fr",
+  "platform": "Etudes en France / Campus France for non-EU residents abroad",
+  "application_url": "https://www.cnam.fr/international/etudier-au-cnam/candidature",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Calendars vary by programme and centre; no single deadline is published. Non-EU applicants abroad use the Etudes en France / Campus France procedure.",
+  "tuition_intl": {
+   "amount": 2902,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Differentiated fee for non-EU/EEA/Swiss students in licence, 2026-27; CVEC 105 EUR extra."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "business",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A French public institution for adult and professional education. Non-EU licence students paid 2,902 EUR per year in registration fees for 2026-27.",
+   "ka": "საფრანგეთის საჯარო დაწესებულება ზრდასრულთა და პროფესიული განათლებისთვის. არა-ევროკავშირელ ლიცენციატ სტუდენტებს 2026-27 წელს 2 902 ევრო უწევდათ წელიწადში.",
+   "ar": "مؤسسة فرنسية عامة للتعليم المهني وتعليم الكبار. بلغت رسوم التسجيل لطلاب الإجازة من خارج الاتحاد الأوروبي 2902 يورو سنويًا في 2026-27."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Certificate equivalency / diploma recognition",
+     "ka": "დიპლომის გათანაბრება/აღიარება",
+     "ar": "معادلة الشهادة / الاعتراف بها"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "paris",
+   "cnam",
+   "low tuition"
+  ],
+  "sources": [
+   "https://www.cnam.fr/international/etudier-au-cnam/venir/droits-inscriptions",
+   "https://www.cnam.fr/international/etudier-au-cnam/candidature",
+   "https://demarche.numerique.gouv.fr/commencer/cnam-intec-candidature-licence-3-cca-apprentissage"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "institut-national-polytechnique-de-toulouse",
+  "name": {
+   "en": "Institut National Polytechnique de Toulouse",
+   "ka": "ტულუზის ეროვნული პოლიტექნიკური ინსტიტუტი",
+   "ar": "المعهد الوطني متعدد التقنيات في تولوز"
+  },
+  "iso": "FR",
+  "city": "Toulouse",
+  "lat": 43.57,
+  "lon": 1.468,
+  "type": "public",
+  "website": "https://www.inp-toulouse.fr",
+  "platform": "Parcoursup with the 'Formation étrangère' form (La Prépa des INP); Études en France only for the visa",
+  "application_url": "https://www.groupe-inp.fr/la-prepa-des-inp/les-4-etapes-pour-postuler",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "La Prépa des INP, 2026 cycle: Parcoursup wishes by 12 March 2026, confirmation and fee payment by 1 April 2026, admission phases 2 June to 11 July 2026. 2027 dates are not yet published.",
+  "tuition_intl": {
+   "amount": 628,
+   "currency": "EUR",
+   "per": "year",
+   "note": "La Prépa des INP 2026: non-EU rate 2,902 EUR with a partial exemption at Toulouse, listed at 628 EUR (the same page also gives 630 EUR for EU students); CVEC 105 EUR extra. Confirm with candidater@la-prepa-des-inp.fr."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "The prépa recruits general baccalauréat holders with a scientific emphasis; an equivalent foreign diploma is accepted.",
+   "ka": "მოამზადებელი კურსი იღებს მეცნიერული დახრილობის ზოგადი ბაკალავრის (bac) მფლობელებს; ექვივალენტური უცხოური დიპლომიც მიიღება.",
+   "ar": "يقبل البرنامج التحضيري حملة البكالوريا العامة ذات التوجه العلمي، ويُقبل الدبلوم الأجنبي المعادل."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "French C1"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "environment",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public engineering and agronomy institute in Toulouse, France. Its English site describes exchange applications and the Etudes en France platform; degree-student fees were not confirmed.",
+   "ka": "საჯარო საინჟინრო და აგრონომიული ინსტიტუტი ტულუზში, საფრანგეთი. ინგლისურენოვანი საიტი აღწერს გაცვლით აპლიკაციებსა და Etudes en France პლატფორმას; ხარისხის სტუდენტების საფასური ვერ დადასტურდა.",
+   "ar": "معهد حكومي للهندسة والزراعة في تولوز بفرنسا. يصف موقعه الإنجليزي طلبات التبادل ومنصة Etudes en France، ولم تُؤكَّد رسوم طلاب الدرجات."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Applicants from foreign schools must upload a French C1 certificate. Selection is by school file, motivation and an interview (in person or by video).",
+   "ka": "უცხოური სკოლების კანდიდატებმა უნდა ატვირთონ ფრანგულის C1 სერტიფიკატი. შერჩევა ხდება სასკოლო ჩანაწერით, მოტივაციითა და გასაუბრებით (პირადად ან ვიდეოთი).",
+   "ar": "على المتقدمين من مدارس أجنبية رفع شهادة فرنسية بمستوى C1. يتم الاختيار بناءً على الملف الدراسي والدافع ومقابلة (حضورية أو بالفيديو)."
+  },
+  "gpa_note": {
+   "en": "Certified French translations of the last two years of grades are needed, showing subject averages, class rank in maths and physics and class size; the Terminale maths and physics syllabus is also required.",
+   "ka": "საჭიროა ბოლო ორი წლის ნიშნების დამოწმებული ფრანგული თარგმანი, საგნობრივი საშუალოებით, მათემატიკასა და ფიზიკაში რანგით და კლასის რაოდენობით; ასევე საჭიროა ბოლო კლასის მათემატიკისა და ფიზიკის პროგრამა.",
+   "ar": "يلزم ترجمة فرنسية معتمدة لدرجات آخر سنتين تبيّن متوسطات المواد والترتيب في الرياضيات والفيزياء وعدد طلاب الصف، إضافة إلى منهج الرياضيات والفيزياء للصف الأخير."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Certified French translation of grades for the last two years",
+     "ka": "ბოლო ორი წლის ნიშნების დამოწმებული ფრანგული თარგმანი",
+     "ar": "ترجمة فرنسية معتمدة للدرجات لآخر سنتين"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "French C1 certificate",
+     "ka": "ფრანგულის C1 სერტიფიკატი",
+     "ar": "شهادة اللغة الفرنسية C1"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee 90 EUR (non-refundable)",
+     "ka": "სააპლიკაციო გადასახადი 90 ევრო (არ ბრუნდება)",
+     "ar": "رسوم تقديم 90 يورو (غير مستردة)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Terminale maths and physics syllabus; grading system if not out of 20",
+     "ka": "ბოლო კლასის მათემატიკისა და ფიზიკის პროგრამა; შეფასების სისტემა, თუ არ არის 20-ქულიანი",
+     "ar": "منهج الرياضيات والفيزياء للصف الأخير؛ نظام التقييم إن لم يكن من 20"
+    }
+   },
+   {
+    "key": "interview",
+    "label": {
+     "en": "Interview with the chosen site",
+     "ka": "გასაუბრება არჩეულ ცენტრში",
+     "ar": "مقابلة مع الموقع المختار"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "La Prepa des INP Toulouse - JPA Malaysia programme (Malaysian SPM holders)",
+    "url": "https://www.inp-toulouse.fr/en/international/international-programmes.html",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "france",
+   "toulouse",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.groupe-inp.fr/la-prepa-des-inp/les-4-etapes-pour-postuler",
+   "https://www.groupe-inp.fr/la-prepa-des-inp/modalites-dinscription",
+   "https://www.inp-toulouse.fr/fr/formations/la-prepa-des-inp.html",
+   "https://www.inp-toulouse.fr/en/international/international-programmes.html"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universite-de-lille",
+  "name": {
+   "en": "Université de Lille",
+   "ka": "ლილის უნივერსიტეტი",
+   "ar": "جامعة ليل"
+  },
+  "iso": "FR",
+  "city": "Lille",
+  "lat": 50.609,
+  "lon": 3.14,
+  "type": "public",
+  "website": "https://www.univ-lille.fr",
+  "platform": "Parcoursup (first year of licence); eCandidat for years 2-3",
+  "application_url": "https://www.univ-lille.fr/en/studies/apply-enrol/applying",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "First-year licence applications go through Parcoursup; dates follow the national Parcoursup calendar. Foreign applicants should check the international pages.",
+  "tuition_intl": {
+   "amount": 2902,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Differentiated fee for non-EU students in licence/BUT, 2026-27 (reduced rate 1,934 EUR in some cases); CVEC 105 EUR extra. EU students and exempt categories pay 178 EUR."
+  },
+  "acceptance_rate": null,
+  "students": 75000,
+  "intl_pct": null,
+  "languages": [
+   "French",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "French B2"
+  ],
+  "fields": [
+   "medicine-health",
+   "law",
+   "humanities",
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine and health",
+    "Law",
+    "Humanities",
+    "Sciences",
+    "Economics"
+   ],
+   "ka": [
+    "მედიცინა და ჯანმრთელობა",
+    "სამართალი",
+    "ჰუმანიტარული მეცნიერებები",
+    "მეცნიერებები",
+    "ეკონომიკა"
+   ],
+   "ar": [
+    "الطب والصحة",
+    "القانون",
+    "العلوم الإنسانية",
+    "العلوم",
+    "الاقتصاد"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in Lille, northern France. Bachelor (licence) applications go through Parcoursup, with standard fees of 178 EUR for EU students.",
+   "ka": "დიდი სახელმწიფო უნივერსიტეტი ლილში, ჩრდილოეთ საფრანგეთში. ლისანსის განცხადებები Parcoursup-ით იგზავნება; ევროკავშირის სტუდენტებისთვის სტანდარტული საფასური 178 ევროა.",
+   "ar": "جامعة حكومية كبيرة في ليل شمال فرنسا. تُقدَّم طلبات الإجازة عبر Parcoursup، والرسوم المعتادة 178 يورو لطلاب الاتحاد الأوروبي."
+  },
+  "about": {
+   "en": "The University of Lille is a large public university in northern France. First-year bachelor (licence) places are applied for through the national Parcoursup portal; later years use eCandidat. Teaching is mainly in French. Non-EU students pay tiered enrolment fees and also the CVEC contribution of 105 EUR.",
+   "ka": "ლილის უნივერსიტეტი დიდი სახელმწიფო უნივერსიტეტია ჩრდილოეთ საფრანგეთში. ბაკალავრიატის (ლისანსი) პირველ კურსზე განცხადება Parcoursup-ით ხდება, შემდეგი კურსებისთვის eCandidat-ით. სწავლება ძირითადად ფრანგულია. არაევროპელი სტუდენტები იხდიან დიფერენცირებულ საფასურს და CVEC შენატანს 105 ევროს.",
+   "ar": "جامعة ليل جامعة حكومية كبيرة في شمال فرنسا. يُتقدَّم إلى السنة الأولى من الإجازة عبر بوابة Parcoursup الوطنية، وللسنوات اللاحقة عبر eCandidat. التدريس غالبا بالفرنسية. يدفع الطلاب من خارج الاتحاد الأوروبي رسوم تسجيل متدرجة إضافة إلى مساهمة CVEC البالغة 105 يورو."
+  },
+  "aid_intl": {
+   "en": "Fee exemptions can be requested from the Fee Waiver Committee; scholarship holders are exempt.",
+   "ka": "საფასურის გათავისუფლება შესაძლებელია მოითხოვონ საფასურის შემცირების კომისიისგან; სტიპენდიანტები გათავისუფლებულნი არიან.",
+   "ar": "يمكن طلب الإعفاء من الرسوم من لجنة الإعفاءات؛ ويُعفى حاملو المنح."
+  },
+  "tests": {
+   "en": "Courses taught in French need proof of B2 French. First-year entry for non-EU applicants with foreign diplomas goes through the prior admission request (DAP).",
+   "ka": "ფრანგულენოვან პროგრამებზე საჭიროა ფრანგული ენის B2 დონის დადასტურება. უცხოური დიპლომის მქონე არა-ევროკავშირელებისთვის პირველ კურსზე ჩაბარება წინასწარი ნებართვის მოთხოვნით (DAP) ხდება.",
+   "ar": "تتطلب البرامج المدرَّسة بالفرنسية إثبات مستوى B2 في الفرنسية، ويتم القبول في السنة الأولى لحاملي الشهادات الأجنبية من خارج الاتحاد الأوروبي عبر طلب القبول المسبق (DAP)."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "CVEC contribution 105 EUR at enrolment",
+     "ka": "CVEC შენატანი 105 ევრო ჩარიცხვისას",
+     "ar": "مساهمة CVEC 105 يورو عند التسجيل"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "French for French-taught programmes",
+     "ka": "ფრანგული ფრანგულენოვან პროგრამებზე",
+     "ar": "الفرنسية للبرامج المدرّسة بالفرنسية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "lille",
+   "licence",
+   "parcoursup"
+  ],
+  "sources": [
+   "https://www.univ-lille.fr/en/studies/apply-enrol/enrolment-fees",
+   "https://www.univ-lille.fr/en/studies/apply-enrol/applying",
+   "https://international.univ-lille.fr/en/come-to-the-university-of-lille/i-am-a-student/international-non-exchange-students",
+   "https://www.univ-lille.fr/formation/droits-dinscription"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universite-de-lorraine",
+  "name": {
+   "en": "Université de Lorraine",
+   "ka": "ლორენის უნივერსიტეტი",
+   "ar": "جامعة لورين"
+  },
+  "iso": "FR",
+  "city": "Nancy",
+  "lat": 48.693,
+  "lon": 6.183,
+  "type": "public",
+  "website": "https://www.univ-lorraine.fr",
+  "platform": "Études en France (Campus France) / eCandidat",
+  "application_url": "https://www.univ-lorraine.fr/en/education/enrolment-at-universite-de-lorraine/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "eCandidat applications open in March each year; students in Campus France countries apply through Études en France. The enrolment page opens in early July after acceptance.",
+  "tuition_intl": {
+   "amount": 2902,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Differentiated fee for non-EU students on first enrolment (BUT and licence professionnelle pages show 2,902 EUR for 2026-27; other Lorraine pages show 2,895 EUR). CVEC 105 EUR extra."
+  },
+  "acceptance_rate": null,
+  "students": 60000,
+  "intl_pct": 16,
+  "languages": [
+   "French",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "law",
+   "medicine-health",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Materials science",
+    "Law",
+    "Medicine",
+    "Humanities"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მასალათმცოდნეობა",
+    "სამართალი",
+    "მედიცინა",
+    "ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم المواد",
+    "القانون",
+    "الطب",
+    "الإنسانيات"
+   ]
+  },
+  "summary": {
+   "en": "A large multidisciplinary French public university around Nancy and Metz. About 16% of students are international.",
+   "ka": "ნანსისა და მეცის გარშემო მდებარე მსხვილი მულტიდისციპლინური საჯარო უნივერსიტეტი. სტუდენტების დაახლოებით 16% საერთაშორისოა.",
+   "ar": "جامعة فرنسية عامة كبيرة متعددة التخصصات حول نانسي وميتز. نحو 16% من طلابها دوليون."
+  },
+  "about": {
+   "en": "Université de Lorraine has about 10,000 international students from 160 nationalities. Non-EU applicants living in a Campus France country apply through Études en France; others use eCandidat, which opens in March. Non-EU tuition differs from the standard fee, but the amount is not on the page read. French level and programme-specific conditions are in the admission conditions table on the university site.",
+   "ka": "ლორენის უნივერსიტეტში დაახლოებით 10 000 უცხოელი სტუდენტი სწავლობს 160 ეროვნებიდან. Campus France-ის ქვეყნებში მცხოვრები არა-ევროკავშირელები განაცხადებენ Études en France-ით, დანარჩენები eCandidat-ით, რომელიც მარტში იხსნება. არა-ევროკავშირელთა საფასური სტანდარტულისგან განსხვავდება, მაგრამ ოდენობა წაკითხულ გვერდზე არ არის.",
+   "ar": "في جامعة لورين نحو 10,000 طالب دولي من 160 جنسية. يتقدم المقيمون في دول Campus France عبر Études en France، وغيرهم عبر eCandidat الذي يفتح في مارس. رسوم الطلاب من خارج الاتحاد الأوروبي تختلف عن الرسوم العادية لكن المبلغ غير مذكور في الصفحة المقروءة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate (university entrance qualification)",
+     "ka": "სკოლის დამამთავრებელი სერტიფიკატი (უნივერსიტეტში მისაღები კვალიფიკაცია)",
+     "ar": "شهادة إتمام الدراسة الثانوية (مؤهل القبول الجامعي)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი და ნიშნების ფურცელი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "nancy",
+   "lorraine",
+   "campus france"
+  ],
+  "sources": [
+   "https://www.univ-lorraine.fr/en/education/enrolment-at-universite-de-lorraine/",
+   "https://www.univ-lorraine.fr/en/",
+   "https://iut-metz.univ-lorraine.fr/node/323"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "duolingo_min": null,
+  "toefl_min": null,
+  "ielts_min": 6.0,
+  "other_tests": null,
+  "qualifications": {
+   "national": null,
+   "a-level": "accepted",
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "A-level and International Baccalaureate are listed as accepted qualifications on course pages; other Level 3 qualifications also count.",
+   "ka": "კურსის გვერდებზე A-level და International Baccalaureate მიღებულ კვალიფიკაციებად არის მითითებული; სხვა Level 3 კვალიფიკაციებიც ითვლება.",
+   "ar": "تُدرج شهادتا A-level والبكالوريا الدولية كمؤهلات مقبولة في صفحات المقررات؛ وتُحتسب مؤهلات المستوى 3 الأخرى أيضاً."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "scholarships": [],
+  "tests": {
+   "en": "Standard undergraduate entry needs IELTS 6.0 overall with no element below 5.5. Professional health programmes set their own English requirements.",
+   "ka": "სტანდარტული საბაკალავრო მისაღებად საჭიროა IELTS 6.0 საერთო ქულით, არცერთი კომპონენტი 5.5-ზე დაბალი. პროფესიულ ჯანდაცვის პროგრამებს საკუთარი მოთხოვნები აქვს.",
+   "ar": "يتطلب القبول الجامعي المعتاد IELTS بدرجة 6.0 إجمالاً وألا يقل أي جزء عن 5.5. للبرامج الصحية المهنية متطلبات لغة خاصة بها."
+  },
+  "gpa_note": {
+   "en": "Course-level example: Computer Science BSc asks for BBC at A-level or 112 UCAS points; the IB, BTEC, Access and other Level 3 qualifications are accepted.",
+   "ka": "კურსის დონის მაგალითი: Computer Science BSc ითხოვს BBC-ს A-level-ზე ან 112 UCAS ქულას; მიიღება IB, BTEC, Access და სხვა Level 3 კვალიფიკაციები.",
+   "ar": "مثال على مستوى المقرر: يطلب بكالوريوس علوم الحاسوب BBC في A-level أو 112 نقطة UCAS؛ وتُقبل شهادة IB وBTEC وAccess وغيرها من مؤهلات المستوى 3."
+  },
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 17750,
+   "currency": "GBP",
+   "per": "year",
+   "note": "Full-time undergraduate overseas fee for 2027/28 entry as shown on a course page (Computer Science BSc); a GBP 1,500 international student scholarship discount applies to courses at this fee. Fees are set per course."
+  },
+  "students": null,
+  "aid_intl": {
+   "en": "The university lists scholarships and bursaries worth up to 15,000 pounds for undergraduate and postgraduate students; check which apply to international applicants.",
+   "ka": "უნივერსიტეტი აცხადებს სტიპენდიებს 15 000 ფუნტამდე ბაკალავრებისა და მაგისტრებისთვის; შეამოწმეთ, რომელი ეხება საერთაშორისო სტუდენტებს.",
+   "ar": "تعلن الجامعة عن منح ومكافآت تصل إلى 15,000 جنيه للطلاب الجامعيين وطلاب الدراسات العليا؛ تحقق من انطباقها على الطلاب الدوليين."
+  },
+  "verified_at": "2026-11-16",
+  "id": "canterbury-christ-church-university",
+  "name": {
+   "en": "Canterbury Christ Church University",
+   "ka": "კენტერბერის ქრაისტ ჩერჩის უნივერსიტეტი",
+   "ar": "جامعة كانتربري كريست تشيرش"
+  },
+  "iso": "GB",
+  "city": "Canterbury",
+  "lat": 51.28,
+  "lon": 1.084,
+  "type": "public",
+  "website": "https://www.canterbury.ac.uk",
+  "platform": "UCAS or direct application",
+  "application_url": "https://www.canterbury.ac.uk/study-here/international/guide-to-applying-for-international-students",
+  "intakes": [
+   "September"
+  ],
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "fields": [
+   "education",
+   "humanities",
+   "social-sciences",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Nursing and health",
+    "Social sciences",
+    "Creative arts"
+   ],
+   "ka": [
+    "განათლება",
+    "საექთნო და ჯანდაცვა",
+    "სოციალური მეცნიერებები",
+    "შემოქმედებითი ხელოვნება"
+   ],
+   "ar": [
+    "التعليم",
+    "التمريض والصحة",
+    "العلوم الاجتماعية",
+    "الفنون الإبداعية"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Canterbury, England, with a long record in teacher education, health and the arts. Its international pages say applicants need a valid English language qualification; fee amounts are not shown on the pages we could read.",
+   "ka": "საჯარო უნივერსიტეტი კენტერბერიში (ინგლისი), ცნობილი მასწავლებლების მომზადებით, ჯანდაცვით და ხელოვნებით. ოფიციალური გვერდის მიხედვით აპლიკანტს სჭირდება ინგლისური ენის მოქმედი სერტიფიკატი.",
+   "ar": "جامعة حكومية في كانتربري بإنجلترا معروفة بإعداد المعلمين والصحة والفنون. تذكر صفحاتها الدولية أن المتقدم يحتاج إلى شهادة لغة إنجليزية سارية."
+  },
+  "about": {
+   "en": "Canterbury Christ Church University is a public university in Kent, England, founded in 1962. International applicants need the relevant academic qualifications and a valid English language qualification. The university offers help with visas and immigration, and says scholarships and bursaries worth up to 15,000 pounds exist for undergraduate and postgraduate students. Course fees for international students are published on the university fees page.",
+   "ka": "კენტერბერის ქრაისტ ჩერჩის უნივერსიტეტი საჯარო უნივერსიტეტია კენტში (ინგლისი), დაარსებულია 1962 წელს. საერთაშორისო აპლიკანტს სჭირდება შესაბამისი აკადემიური კვალიფიკაცია და ინგლისური ენის მოქმედი სერტიფიკატი. უნივერსიტეტი ეხმარება ვიზასა და იმიგრაციაში და აცხადებს სტიპენდიებს 15 000 ფუნტამდე.",
+   "ar": "جامعة كانتربري كريست تشيرش جامعة حكومية في كنت بإنجلترا تأسست عام 1962. يحتاج المتقدمون الدوليون إلى المؤهلات الأكاديمية المناسبة وشهادة لغة إنجليزية سارية. تقدم الجامعة مساعدة في التأشيرة والهجرة وتعلن عن منح ومكافآت تصل إلى 15,000 جنيه."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ფურცელი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency",
+     "ka": "ინგლისური ენის ცოდნის დადასტურება",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "keywords": [
+   "uk",
+   "canterbury",
+   "education",
+   "kent"
+  ],
+  "sources": [
+   "https://www.canterbury.ac.uk/study-here/international/undergraduate",
+   "https://www.canterbury.ac.uk/study-here/fees-and-funding/international-student-fees-and-funding",
+   "https://canterbury.ac.uk/study-here/international/english-language-requirements",
+   "https://canterbury.ac.uk/study-here/applying/terms-and-conditions",
+   "https://www.canterbury.ac.uk/study-here/courses/computer-science"
+  ]
+ },
+ {
+  "id": "universidad-tecnologica-centroamericana-unitec",
+  "name": {
+   "en": "Universidad Tecnológica Centroamericana (UNITEC)",
+   "ka": "ცენტრალური ამერიკის ტექნოლოგიური უნივერსიტეტი (UNITEC)",
+   "ar": "جامعة أمريكا الوسطى التكنولوجية (UNITEC)"
+  },
+  "iso": "HN",
+  "city": "Tegucigalpa",
+  "lat": 14.08,
+  "lon": -87.18,
+  "type": "private",
+  "website": "https://www.unitec.edu",
+  "platform": "Direct online form",
+  "application_url": "https://www.unitec.edu/admision/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Foreign high school diplomas must be apostilled. Applicants without the diploma yet can submit a graduation certificate for conditional admission.",
+   "ka": "უცხოური საშუალო სკოლის დიპლომები უნდა იყოს აპოსტილირებული. დიპლომის არმქონე განმცხადებელს პირობითი მიღებისთვის შეუძლია წარადგინოს დამთავრების ცნობა.",
+   "ar": "يجب توثيق شهادات الثانوية الأجنبية بالأبوستيل. ومن لم يحصل على الشهادة بعد يمكنه تقديم شهادة تخرج للقبول المشروط."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Engineering",
+    "Computer science"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الأعمال",
+    "الهندسة",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "UNITEC is a private university in Honduras with campuses in Tegucigalpa and San Pedro Sula. Teaching is in Spanish; tuition is not published on the admissions page.",
+   "ka": "UNITEC კერძო უნივერსიტეტია ჰონდურასში, კამპუსებით ტეგუსიგალპასა და სან-პედრო-სულაში. სწავლება ესპანურია; საფასური მისაღების გვერდზე მითითებული არ არის.",
+   "ar": "UNITEC جامعة خاصة في هندوراس بحرمين في تيغوسيغالبا وسان بيدرو سولا. التدريس بالإسبانية ولا تنشر صفحة القبول الرسوم."
+  },
+  "about": {
+   "en": "UNITEC is a private university in Honduras with campuses in Tegucigalpa and San Pedro Sula. Applicants submit a school diploma, ID, photo and an application form online; foreign diplomas must be apostilled. Fees are paid as a fixed program fee or per class, and monthly payment plans exist. Teaching is in Spanish. No international tuition amount is published.",
+   "ka": "UNITEC კერძო უნივერსიტეტია ჰონდურასში, კამპუსებით ტეგუსიგალპასა და სან-პედრო-სულაში. აპლიკანტები ონლაინ წარადგენენ საშუალო განათლების დოკუმენტს, პირადობას, ფოტოს და განაცხადს; უცხოური დიპლომი აპოსტილირებული უნდა იყოს. გადახდა ხდება ფიქსირებული საფასურით ან საგნების მიხედვით, ხელმისაწვდომია ყოველთვიური განვადება. სწავლება ესპანურია. საერთაშორისო საფასური მითითებული არ არის.",
+   "ar": "UNITEC جامعة خاصة في هندوراس بحرمين في تيغوسيغالبا وسان بيدرو سولا. يقدم المتقدم شهادة الثانوية والهوية وصورة ونموذج الطلب إلكترونيا، ويجب توثيق الشهادات الأجنبية بالأبوستيل. تدفع الرسوم كمبلغ ثابت للبرنامج أو حسب المواد مع خطط دفع شهرية. التدريس بالإسبانية ولا يوجد مبلغ دولي منشور."
+  },
+  "aid_intl": {
+   "en": "The Fundación Nasser–UNITEC scholarships are for Honduran youth; no aid for international students is published.",
+   "ka": "Fundación Nasser–UNITEC-ის სტიპენდიები ჰონდურასელი ახალგაზრდებისთვისაა; უცხოელებისთვის დახმარება გამოქვეყნებული არ არის.",
+   "ar": "منح Fundación Nasser–UNITEC مخصصة للشباب الهندوراسي ولا توجد منح منشورة للطلاب الدوليين."
+  },
+  "tests": {
+   "en": "No entrance test or English test is listed on the admissions page. Teaching is in Spanish.",
+   "ka": "მისაღების გვერდზე შესასვლელი ან ინგლისურის ტესტი მითითებული არ არის. სწავლება ესპანურია.",
+   "ar": "لا يذكر في صفحة القبول اختبار قبول أو اختبار إنجليزي. التدريس بالإسبانية."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma, front and back (apostilled if foreign; graduation certificate allowed for conditional admission)",
+     "ka": "საშუალო სკოლის დიპლომი ან ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "National ID or passport, front and back",
+     "ka": "პირადობა ან პასპორტი, ორივე მხარე",
+     "ar": "هوية وطنية أو جواز سفر (الوجهان)"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Digital passport-style photo",
+     "ka": "ახალი ფოტო",
+     "ar": "صورة شخصية حديثة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Online application form and initial payment",
+     "ka": "ონლაინ საკონკურსო ფორმა და საწყისი გადახდა",
+     "ar": "استمارة التقديم الإلكترونية والدفعة الأولى"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "International and transfer applicants: academic transcript signed and sealed by the previous university, official grade certificate and course syllabi",
+     "ka": "საერთაშორისო და გადმოსვლის აპლიკანტებისთვის: წინა უნივერსიტეტის მიერ ხელმოწერილი და დალუქული ტრანსკრიპტი, ნიშნების ოფიციალური ცნობა და კურსების სილაბუსები",
+     "ar": "للمتقدمين الدوليين والمحوّلين: كشف درجات موقّع ومختوم من الجامعة السابقة وشهادة درجات رسمية ووصف المقررات"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "International applicants: residency card (carné de residencia)",
+     "ka": "საერთაშორისო აპლიკანტებისთვის: ბინადრობის ბარათი (carné de residencia)",
+     "ar": "للمتقدمين الدوليين: بطاقة الإقامة (carné de residencia)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "honduras",
+   "tegucigalpa",
+   "private",
+   "spanish"
+  ],
+  "sources": [
+   "https://www.unitec.edu/admision/",
+   "https://www.unitec.edu"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universitas-sumatera-utara",
+  "name": {
+   "en": "Universitas Sumatera Utara",
+   "ka": "ჩრდილოეთ სუმატრის უნივერსიტეტი",
+   "ar": "جامعة سومطرة الشمالية"
+  },
+  "iso": "ID",
+  "city": "Medan",
+  "lat": 3.56,
+  "lon": 98.656,
+  "type": "public",
+  "website": "https://www.usu.ac.id",
+  "platform": null,
+  "application_url": "https://isa.usu.ac.id/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "For the 2026 intake of the School of Medicine, Dentistry and Pharmacy, document submission was 15-17 July 2026, website registration 22-25 July, exam 18 July and results 20 July; other programmes may differ.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Indonesian"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Medan, Indonesia, with 259 study programmes in 17 faculties and schools. Undergraduate fees are a single tuition fee (UKT) set by family income; no international amounts are published on the pages read.",
+   "ka": "ინდონეზიის ქალაქ მედანის საჯარო უნივერსიტეტი, 17 ფაკულტეტსა და სკოლაში 259 სასწავლო პროგრამით. ბაკალავრის საფასური არის ოჯახის შემოსავლის მიხედვით განსაზღვრული ერთიანი გადასახადი (UKT); საერთაშორისო თანხები გვერდებზე მითითებული არ არის.",
+   "ar": "جامعة عامة في ميدان بإندونيسيا تضم 259 برنامجاً دراسياً في 17 كلية ومدرسة. رسوم البكالوريوس رسم موحد (UKT) يُحدَّد حسب دخل الأسرة، ولا توجد مبالغ للطلاب الدوليين في الصفحات المقروءة."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "The 2026 independent selection (SMM) uses the national UTBK computer test plus a Saintek and/or Soshum written exam, and is described for Indonesian citizens. International degree applicants should contact iao@usu.ac.id.",
+   "ka": "2026 წლის დამოუკიდებელი შერჩევა (SMM) იყენებს ეროვნულ კომპიუტერულ UTBK ტესტს და Saintek და/ან Soshum წერით გამოცდას და აღწერილია ინდონეზიის მოქალაქეებისთვის. საერთაშორისო კანდიდატებმა უნდა დაუკავშირდნენ iao@usu.ac.id-ს.",
+   "ar": "تعتمد المفاضلة المستقلة لعام 2026 (SMM) على اختبار UTBK الوطني الحاسوبي بالإضافة إلى امتحان كتابي في Saintek و/أو Soshum، وهي موصوفة للمواطنين الإندونيسيين. على المتقدمين الدوليين مراسلة iao@usu.ac.id."
+  },
+  "gpa_note": {
+   "en": "Overseas high school graduates must hold a diploma officially recognised as equivalent to the Indonesian one; the 2026 independent selection also set a maximum age of 25. No minimum grade is published.",
+   "ka": "საზღვარგარეთ სკოლადამთავრებულებს უნდა ჰქონდეთ ინდონეზიურის ექვივალენტად ოფიციალურად აღიარებული დიპლომი; 2026 წლის დამოუკიდებელ შერჩევაში ასევე დაწესებული იყო მაქსიმალური ასაკი 25 წელი. მინიმალური ნიშანი გამოქვეყნებული არ არის.",
+   "ar": "يجب أن يحمل خريجو الثانوية من الخارج دبلوماً معترفاً به رسمياً كمعادل للإندونيسي؛ كما حددت المفاضلة المستقلة 2026 سقف عمر 25 عاماً. ولا يُنشر حدّ أدنى للدرجات."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Educational certificate (high school diploma), officially recognised as equivalent",
+     "ka": "საგანმანათლებლო სერტიფიკატი (საშუალო სკოლის დიპლომი), ოფიციალურად აღიარებული ექვივალენტად",
+     "ar": "شهادة التعليم (دبلوم الثانوية) معترف بها رسمياً كمعادلة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Latest official transcript",
+     "ka": "უახლესი ოფიციალური ნიშნების ცნობა",
+     "ar": "أحدث كشف درجات رسمي"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport biodata page (valid at least 18 months for a one-year study permit)",
+     "ka": "პასპორტის პირადი მონაცემების გვერდი (ერთწლიანი სასწავლო ნებართვისთვის მოქმედი მინიმუმ 18 თვე)",
+     "ar": "صفحة بيانات جواز السفر (صالحة 18 شهراً على الأقل لتصريح دراسة لسنة)"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Colour photo, 400x600 px",
+     "ka": "ფერადი ფოტო, 400x600 პიქსელი",
+     "ar": "صورة ملونة 400x600 بكسل"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Bank statement showing at least USD 2,000 over the last 3 months (study permit)",
+     "ka": "საბანკო ამონაწერი, რომელიც ბოლო 3 თვეში მინიმუმ 2 000 აშშ დოლარს აჩვენებს (სასწავლო ნებართვისთვის)",
+     "ar": "كشف حساب بنكي يُظهر 2,000 دولار على الأقل خلال آخر 3 أشهر (لتصريح الدراسة)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Official equivalence recognition of the foreign diploma",
+     "ka": "უცხოური დიპლომის ოფიციალური ექვივალენტობის აღიარება",
+     "ar": "اعتراف رسمي بمعادلة الدبلوم الأجنبي"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "indonesia",
+   "medan",
+   "public"
+  ],
+  "sources": [
+   "https://isa.usu.ac.id/",
+   "https://www.usu.ac.id/en",
+   "https://iao.usu.ac.id/en/student-visa",
+   "https://www.usu.ac.id/en/news/usu-opens-independent-student-selection-pathway-until-june-10-2026",
+   "https://dirpp.usu.ac.id/id/pengumuman/syarat-pendaftaran-seleksi-mahasiswa-mandiri-smm-usu-2025",
+   "https://www.usu.ac.id/en/education/tuition-fee"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "telkom-university",
+  "name": {
+   "en": "Telkom University",
+   "ka": "ტელკომის უნივერსიტეტი",
+   "ar": "جامعة تلكوم"
+  },
+  "iso": "ID",
+  "city": "Bandung",
+  "lat": -6.974,
+  "lon": 107.631,
+  "type": "private",
+  "website": "https://telkomuniversity.ac.id",
+  "platform": "Direct (Telkom University International Office portal)",
+  "application_url": "https://io.telkomuniversity.ac.id/admission/",
+  "intakes": [
+   "February",
+   "September"
+  ],
+  "deadline": "2026-04-30",
+  "deadline_note": "2026 intake, four registration batches; the last batch ran 1 March to 30 April 2026 (class start September 2026). Earlier batches closed 30 September 2025, 30 November 2025 and 31 January 2026. Dates for the next intake are not yet published.",
+  "tuition_intl": {
+   "amount": 22000000,
+   "currency": "IDR",
+   "per": "year",
+   "note": "Regular bachelor programmes: one-time admission fee IDR 33,000,000 plus IDR 11,000,000 per semester (2 semesters = IDR 22,000,000 per year). International Classes: admission fee IDR 71,000,000 plus IDR 18,000,000 per semester. Fee covers immigration documents and foreign-student services."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Indonesian"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "computer-science",
+   "engineering",
+   "business"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Private technology and business university in Bandung, Indonesia. Eleven bachelor programmes are taught in English; regular bachelor tuition is IDR 11,000,000 per semester plus a one-time IDR 33,000,000 admission fee.",
+   "ka": "კერძო ტექნოლოგიებისა და ბიზნესის უნივერსიტეტი ბანდუნგში, ინდონეზიაში. თერთმეტი საბაკალავრო პროგრამა ინგლისურადაა; ჩვეულებრივი ბაკალავრიატის საფასური სემესტრში 11 000 000 IDR-ია, პლუს ერთჯერადი 33 000 000 IDR მიღების გადასახადი.",
+   "ar": "جامعة خاصة للتكنولوجيا والأعمال في باندونغ بإندونيسيا. تُدرَّس أحد عشر برنامج بكالوريوس بالإنجليزية؛ ورسوم البكالوريوس العادي 11,000,000 روبية للفصل بالإضافة إلى رسم قبول لمرة واحدة قدره 33,000,000 روبية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "No IELTS or TOEFL score is published; the page asks for good English. D3 and applied bachelor programmes need Indonesian. After the document check, bachelor applicants take an online test and an interview.",
+   "ka": "IELTS ან TOEFL-ის ქულა გამოქვეყნებული არ არის; გვერდი ითხოვს კარგ ინგლისურს. D3 და გამოყენებით ბაკალავრიატს ინდონეზიური ენა სჭირდება. დოკუმენტების შემოწმების შემდეგ ბაკალავრიატის კანდიდატები ჩააბარებენ ონლაინ ტესტს და გასაუბრებას.",
+   "ar": "لا تُنشر درجة IELTS أو TOEFL؛ تطلب الصفحة إنجليزية جيدة. تتطلب برامج D3 والبكالوريوس التطبيقي اللغة الإندونيسية. بعد فحص الوثائق يجري المتقدمون للبكالوريوس اختباراً إلكترونياً ومقابلة."
+  },
+  "gpa_note": {
+   "en": "Bachelor applicants must hold a foreign citizenship, be 23 or younger and upload a high school certificate and transcripts in English; no minimum grade is published.",
+   "ka": "ბაკალავრიატის კანდიდატებს უნდა ჰქონდეთ უცხო ქვეყნის მოქალაქეობა, იყვნენ 23 წლის ან უმცროსი და ატვირთონ საშუალო სკოლის ატესტატი და ნიშნების ცნობა ინგლისურად; მინიმალური ნიშანი გამოქვეყნებული არ არის.",
+   "ar": "يجب أن يحمل المتقدم للبكالوريوس جنسية أجنبية وألا يتجاوز عمره 23 عاماً وأن يرفع شهادة الثانوية وكشف الدرجات بالإنجليزية؛ ولا يُنشر حدّ أدنى للدرجات."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport scan",
+     "ka": "პასპორტის სკანი",
+     "ar": "نسخة ممسوحة من جواز السفر"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photo with red background",
+     "ka": "პასპორტის ზომის ფოტო წითელ ფონზე",
+     "ar": "صورة شخصية بخلفية حمراء"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school certificate",
+     "ka": "საშუალო სკოლის ატესტატი",
+     "ar": "شهادة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "High school transcripts (in English)",
+     "ka": "საშუალო სკოლის ნიშნების ცნობა (ინგლისურად)",
+     "ar": "كشف درجات الثانوية (بالإنجليزية)"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Motivation letter, 1-2 pages",
+     "ka": "სამოტივაციო წერილი, 1-2 გვერდი",
+     "ar": "خطاب دافع من 1-2 صفحة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Signed statement of compliance with university rules and non-employment",
+     "ka": "ხელმოწერილი განცხადება უნივერსიტეტის წესების დაცვასა და დასაქმებისგან თავის შეკავებაზე",
+     "ar": "إقرار موقّع بالالتزام بلوائح الجامعة وعدم العمل"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Online test and interview after document check",
+     "ka": "ონლაინ ტესტი და გასაუბრება დოკუმენტების შემოწმების შემდეგ",
+     "ar": "اختبار إلكتروني ومقابلة بعد فحص الوثائق"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "id",
+   "bandung"
+  ],
+  "sources": [
+   "https://io.telkomuniversity.ac.id/international-admissions-2026-at-telkom-university/",
+   "https://io.telkomuniversity.ac.id/future-student/tuition-fee/",
+   "https://io.telkomuniversity.ac.id/admission/"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

@@ -1,0 +1,1074 @@
+[
+ {
+  "id": "university-of-belgrade",
+  "name": {
+   "en": "University of Belgrade",
+   "ka": "ბელგრადის უნივერსიტეტი",
+   "ar": "جامعة بلغراد"
+  },
+  "iso": "RS",
+  "city": "Belgrade",
+  "lat": 44.818,
+  "lon": 20.457,
+  "type": "public",
+  "website": "https://www.bg.ac.rs",
+  "platform": "Faculty-level applications (each faculty sets its own rules)",
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 90000,
+  "intl_pct": null,
+  "languages": [
+   "Serbian",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "The University of Belgrade is Serbia's largest public university, made up of many faculties. Recognition of foreign school documents is handled through the rectorate.",
+   "ka": "ბელგრადის უნივერსიტეტი სერბეთის უდიდესი საჯარო უნივერსიტეტია და მრავალი ფაკულტეტისგან შედგება. უცხოური სასკოლო დოკუმენტების აღიარება რექტორატის მეშვეობით ხდება.",
+   "ar": "جامعة بلغراد أكبر جامعة حكومية في صربيا وتضم كليات عديدة. يتم الاعتراف بالوثائق الدراسية الأجنبية عبر رئاسة الجامعة."
+  },
+  "about": {
+   "en": "The University of Belgrade is Serbia's largest public university, made up of many faculties. Foreign secondary school certificates must be recognised by the Agency for Qualifications before applying. Each faculty sets its own fees and deadlines; for example the English-taught medicine programme costs 8,000 EUR per year.",
+   "ka": "ბელგრადის უნივერსიტეტი სერბეთის უდიდესი საჯარო უნივერსიტეტია და მრავალი ფაკულტეტისგან შედგება. უცხოური საშუალო განათლების დოკუმენტი განაცხადამდე უნდა აღიარდეს კვალიფიკაციების სააგენტოში. ფაკულტეტები თავად ადგენენ საფასურსა და ვადებს; მაგალითად, ინგლისურენოვანი მედიცინის პროგრამა წელიწადში 8 000 ევრო ღირს.",
+   "ar": "جامعة بلغراد أكبر جامعة حكومية في صربيا وتضم كليات عديدة. يجب الاعتراف بشهادة الثانوية الأجنبية لدى وكالة المؤهلات قبل التقديم. تحدد كل كلية رسومها ومواعيدها، فمثلا يكلف برنامج الطب بالإنجليزية 8,000 يورو سنويا."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Faculties set their own entrance rules and fees. First-year programmes are mostly taught in Serbian, so faculties ask for proof of Serbian (for example B2 at the Faculty of Economics and Finance); some English-taught programmes exist.",
+   "ka": "ფაკულტეტები თავად ადგენენ მისაღებ წესებსა და საფასურს. პირველი კურსის პროგრამები ძირითადად სერბულია, ამიტომ ფაკულტეტები სერბულის დადასტურებას ითხოვენ (მაგ. B2 ეკონომიკისა და ფინანსების ფაკულტეტზე); არსებობს ზოგი ინგლისურენოვანი პროგრამა.",
+   "ar": "تضع الكليات قواعد القبول والرسوم بنفسها. التدريس في السنة الأولى غالبا بالصربية لذا تطلب الكليات إثباتا لها (مثل B2 في كلية الاقتصاد والمالية)، وتوجد برامج بالإنجليزية."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign education (where required)",
+     "ka": "უცხოური განათლების აღიარება (საჭიროების შემთხვევაში)",
+     "ar": "الاعتراف بالمؤهل الأجنبي (عند الحاجة)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of Russian language level",
+     "ka": "რუსული ენის ცოდნის დადასტურება",
+     "ar": "إثبات مستوى اللغة الروسية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate incl. HIV test",
+     "ka": "სამედიცინო ცნობა, მათ შორის აივ ტესტი",
+     "ar": "شهادة طبية تشمل فحص فيروس نقص المناعة"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://www.bg.ac.rs/recognition/",
+   "https://www.ekof.bg.ac.rs/studies/undergraduate/enrolment/enrolment-information/?lang=en",
+   "https://studiesinenglish.med.bg.ac.rs/studies-in-english/applying-to-ubfm"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "bauman-moscow-state-technical-university",
+  "name": {
+   "en": "Bauman Moscow State Technical University",
+   "ka": "ბაუმანის მოსკოვის სახელმწიფო ტექნიკური უნივერსიტეტი",
+   "ar": "جامعة باومان موسكو التقنية الحكومية"
+  },
+  "iso": "RU",
+  "city": "Moscow",
+  "lat": 55.766,
+  "lon": 37.685,
+  "type": "public",
+  "website": "https://bmstu.ru",
+  "platform": "Direct (BMSTU international office / preparatory department)",
+  "application_url": "https://do.bmstu.ru/foreign-students/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "BMSTU's international applicant guide (2017 edition, latest found) set document submission from 20 June to 10 July (to 26 July with Unified State Exam results), with the contract and first payment due by 18 August. The preparatory department recruits from 1 February to 1 August. 2027 dates not confirmed.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Bauman Moscow State Technical University is a leading Russian engineering university. International bachelor study is in Russian, with a preparatory year available.",
+   "ka": "ბაუმანის მოსკოვის სახელმწიფო ტექნიკური უნივერსიტეტი რუსეთის წამყვანი საინჟინრო უნივერსიტეტია. საერთაშორისო საბაკალავრო სწავლება რუსულია, ხელმისაწვდომია მოსამზადებელი წელი.",
+   "ar": "جامعة باومان التقنية في موسكو من أبرز الجامعات الهندسية في روسيا. الدراسة الجامعية للأجانب بالروسية مع سنة تحضيرية متاحة."
+  },
+  "about": {
+   "en": "BMSTU is a public engineering university in Moscow. International applicants apply through the international office, choose up to three programmes, and sit entrance examinations. Teaching is in Russian. The preparatory department charges 340,000 RUB per year on campus; bachelor fees are set per programme.",
+   "ka": "BMSTU მოსკოვის საჯარო საინჟინრო უნივერსიტეტია. უცხოელი აპლიკანტები საერთაშორისო ოფისის მეშვეობით შეიტანენ განაცხადს, ირჩევენ სამ პროგრამამდე და აბარებენ მისაღებ გამოცდებს. სწავლება რუსულია. მოსამზადებელი დეპარტამენტის საფასური წელიწადში 340 000 რუბლია; საბაკალავრო საფასური პროგრამის მიხედვით განისაზღვრება.",
+   "ar": "BMSTU جامعة هندسية حكومية في موسكو. يتقدم الأجانب عبر المكتب الدولي ويختارون حتى ثلاثة برامج ويؤدون امتحانات القبول. التدريس بالروسية. تبلغ رسوم الكلية التحضيرية 340,000 روبل سنويا، وتُحدد رسوم البكالوريوس لكل برنامج."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Entrance examinations are held at BMSTU in July. Applicants who fail them are offered a preparatory year. Study is in Russian, so sufficient Russian is needed; the preparatory department teaches it from beginner level.",
+   "ka": "მისაღები გამოცდები BMSTU-ში ივლისში ტარდება. ვინც ვერ ჩააბარებს, მას მოსამზადებელ წელს სთავაზობენ. სწავლება რუსულია, ამიტომ რუსულის საკმარისი ცოდნაა საჭირო; მოსამზადებელ დეპარტამენტში რუსულს ნულიდან ასწავლიან.",
+   "ar": "تُجرى امتحانات القبول في BMSTU في يوليو، ويُعرض على من يرسب سنة تحضيرية. الدراسة بالروسية لذا يلزم مستوى كافٍ منها، وتدرّسها الكلية التحضيرية من الصفر."
+  },
+  "gpa_note": {
+   "en": "The preparatory department accepts applicants with a school GPA of 4.2 or higher (on the Russian 5-point scale).",
+   "ka": "მოსამზადებელი დეპარტამენტი იღებს აპლიკანტებს სკოლის საშუალო ქულით 4.2 ან მეტი (რუსული 5-ქულიანი სკალით).",
+   "ar": "تقبل الكلية التحضيرية المتقدمين بمعدل مدرسي 4.2 أو أعلى (على مقياس روسي من 5)."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport (with notarised Russian translation)",
+     "ka": "პასპორტი (რუსული ნოტარიული თარგმანით)",
+     "ar": "جواز السفر (مع ترجمة روسية موثقة)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma with transcript, legalised and translated into Russian",
+     "ka": "საშუალო სკოლის ატესტატი ან დიპლომი ნიშნების ამონაწერით, ლეგალიზებული და რუსულად ნათარგმნი",
+     "ar": "شهادة الثانوية أو الدبلوم مع كشف الدرجات، موثقة ومترجمة إلى الروسية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign education (where required)",
+     "ka": "უცხოური განათლების აღიარება (საჭიროების შემთხვევაში)",
+     "ar": "الاعتراف بالمؤهل الأجنبي (عند الحاجة)"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photographs",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate incl. HIV test",
+     "ka": "სამედიცინო ცნობა, მათ შორის აივ ტესტი",
+     "ar": "شهادة طبية تشمل فحص فيروس نقص المناعة"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "russia",
+   "moscow",
+   "bauman",
+   "engineering"
+  ],
+  "sources": [
+   "https://do.bmstu.ru/foreign-students/",
+   "https://eng.mf.bmstu.ru/fcec/docs/information-for-international-applicants.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "moscow-institute-of-physics-and-technology-mipt-moscow-phystech",
+  "name": {
+   "en": "Moscow Institute of Physics and Technology (MIPT / Moscow Phystech)",
+   "ka": "მოსკოვის ფიზიკა-ტექნიკური ინსტიტუტი (MIPT)",
+   "ar": "معهد موسكو للفيزياء والتكنولوجيا (MIPT)"
+  },
+  "iso": "RU",
+  "city": "Dolgoprudny",
+  "lat": 55.929,
+  "lon": 37.518,
+  "type": "public",
+  "website": "https://mipt.ru",
+  "platform": "Direct (MIPT international admissions)",
+  "application_url": "https://eng.mipt.ru/apply/",
+  "intakes": [
+   "September",
+   "October"
+  ],
+  "deadline": null,
+  "deadline_note": "MIPT lists arrival by 26 August (Russian-taught, classes from 1 September) and by 20 September (English-taught, classes from 1 October). No fixed application deadline was published on the pages read.",
+  "tuition_intl": {
+   "amount": 400000,
+   "currency": "RUB",
+   "per": "year",
+   "note": "English-taught programmes 400,000 RUB per year; Russian-taught 250,000 RUB per year (MIPT international FAQ). Health insurance about 7,500 RUB per year extra."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "English B2 or equivalent (optional proof, English-taught track)",
+   "MIPT entrance tests (physics, mathematics, informatics, chemistry, biology)"
+  ],
+  "fields": [
+   "natural-sciences",
+   "mathematics",
+   "computer-science",
+   "engineering"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A leading Russian public university for physics, mathematics and computing, with Russian- and English-taught bachelor tracks. Fees are 250,000 to 400,000 RUB per year.",
+   "ka": "რუსეთის წამყვანი საჯარო უნივერსიტეტი ფიზიკაში, მათემატიკასა და კომპიუტერულ მეცნიერებებში, რუსულ და ინგლისურ საბაკალავრო მიმართულებებით. საფასური წელიწადში 250 000–400 000 რუბლია.",
+   "ar": "جامعة روسية حكومية رائدة في الفيزياء والرياضيات والحوسبة، بمساري بكالوريوس بالروسية والإنجليزية. الرسوم من 250,000 إلى 400,000 روبل سنويا."
+  },
+  "about": {
+   "en": "MIPT is a public university in Dolgoprudny near Moscow. International bachelor applicants apply online, send documents with Russian translations and sit written and oral entrance tests. There is a Russian-taught and an English-taught track; a one-year preparatory course is available.",
+   "ka": "MIPT დოლგოპრუდნის (მოსკოვთან) საჯარო უნივერსიტეტია. უცხოელი აპლიკანტები განაცხადს ონლაინ აგზავნიან, დოკუმენტებს რუსული თარგმანით წარადგენენ და წერით და ზეპირ მისაღებ გამოცდებს აბარებენ. არსებობს რუსულენოვანი და ინგლისურენოვანი მიმართულება; ხელმისაწვდომია ერთწლიანი მოსამზადებელი კურსი.",
+   "ar": "MIPT جامعة حكومية في دولغوبرودني قرب موسكو. يتقدم الطلاب الدوليون إلكترونيا ويرسلون وثائق مترجمة إلى الروسية ويؤدون اختبارات تحريرية وشفوية. يوجد مسار بالروسية وآخر بالإنجليزية، مع دورة تحضيرية لمدة سنة."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Entrance tests are set by programme from physics, mathematics, computer science, chemistry and biology, each written plus oral; computer science is taken remotely. Russian-taught track needs proof of Russian; English-taught track accepts B2 English proof.",
+   "ka": "მისაღები გამოცდები პროგრამის მიხედვით ფიზიკაში, მათემატიკაში, ინფორმატიკაში, ქიმიასა და ბიოლოგიაში იწერება და ზეპირად მიმდინარეობს; ინფორმატიკა დისტანციურია. რუსულენოვანი მიმართულება მოითხოვს რუსულის დამადასტურებელს, ინგლისურენოვანი – B2 ინგლისურს.",
+   "ar": "تُحدد اختبارات القبول حسب البرنامج من الفيزياء والرياضيات والمعلوماتية والكيمياء والأحياء، تحريرية وشفوية، وتُجرى المعلوماتية عن بعد. المسار الروسي يتطلب إثبات الروسية، والإنجليزي يقبل إثبات مستوى B2."
+  },
+  "gpa_note": {
+   "en": "Admission is decided by the MIPT entrance tests; applicants also need a complete secondary school certificate with transcript.",
+   "ka": "მიღება წყდება MIPT-ის მისაღები გამოცდებით; აპლიკანტს ასევე სჭირდება სრული საშუალო განათლების ატესტატი ნიშნების ამონაწერით.",
+   "ar": "يُحسم القبول عبر اختبارات MIPT، ويحتاج المتقدم أيضا إلى شهادة ثانوية كاملة مع كشف الدرجات."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport (with notarised Russian translation)",
+     "ka": "პასპორტი (რუსული ნოტარიული თარგმანით)",
+     "ar": "جواز السفر (مع ترجمة روسية موثقة)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma with transcript, legalised and translated into Russian",
+     "ka": "საშუალო სკოლის ატესტატი ან დიპლომი ნიშნების ამონაწერით, ლეგალიზებული და რუსულად ნათარგმნი",
+     "ar": "شهادة الثانوية أو الدبلوم مع كشف الدرجات، موثقة ومترجمة إلى الروسية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign education (where required)",
+     "ka": "უცხოური განათლების აღიარება (საჭიროების შემთხვევაში)",
+     "ar": "الاعتراف بالمؤهل الأجنبي (عند الحاجة)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of Russian language level",
+     "ka": "რუსული ენის ცოდნის დადასტურება",
+     "ar": "إثبات مستوى اللغة الروسية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate incl. HIV test",
+     "ka": "სამედიცინო ცნობა, მათ შორის აივ ტესტი",
+     "ar": "شهادة طبية تشمل فحص فيروس نقص المناعة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "russia",
+   "mipt",
+   "physics",
+   "english-taught"
+  ],
+  "sources": [
+   "https://eng.mipt.ru/faq",
+   "https://eng.mipt.ru/how-to-apply/undergraduate/",
+   "https://eng.mipt.ru/how-to-apply/entrance-test-procedure-description-guidance/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "mgimo-university",
+  "name": {
+   "en": "MGIMO University",
+   "ka": "მოსკოვის საერთაშორისო ურთიერთობათა სახელმწიფო ინსტიტუტი (MGIMO)",
+   "ar": "جامعة موسكو الحكومية للعلاقات الدولية (MGIMO)"
+  },
+  "iso": "RU",
+  "city": "Moscow",
+  "lat": 55.693,
+  "lon": 37.505,
+  "type": "public",
+  "website": "https://www.mgimo.ru",
+  "platform": "Direct (MGIMO international admissions)",
+  "application_url": "https://int.mgimo.ru/en/apply",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "International bachelor admissions for 2026/27 opened on 10 February (Politics and International Relations opens in December per the programme page); the 2027/28 dates were not confirmed.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Online interview in English (some English-taught programmes)"
+  ],
+  "fields": [
+   "international-relations",
+   "law",
+   "economics",
+   "languages"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Moscow specialised in international relations, with English-taught bachelor programmes. Its international admissions campaign for 2026/27 opened on 10 February; fees could not be confirmed.",
+   "ka": "საჯარო უნივერსიტეტი მოსკოვში, საერთაშორისო ურთიერთობების სპეციალიზაციით, ინგლისურენოვანი საბაკალავრო პროგრამებით. 2026/27 წლის საერთაშორისო მიღება 10 თებერვალს დაიწყო; საფასური ვერ დადასტურდა.",
+   "ar": "جامعة حكومية في موسكو متخصصة في العلاقات الدولية ولديها برامج بكالوريوس بالإنجليزية. فُتح القبول الدولي لعام 2026/27 في 10 فبراير، ولم يمكن تأكيد الرسوم."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Entrance exams vary by programme. Some English-taught bachelor programmes use an online interview in English, others in Russian and English. Check the programme page on int.mgimo.ru.",
+   "ka": "მისაღები გამოცდები პროგრამის მიხედვით განსხვავდება. ზოგი ინგლისურენოვანი პროგრამა იყენებს ონლაინ გასაუბრებას ინგლისურად, სხვა – რუსულად და ინგლისურად. იხილეთ პროგრამის გვერდი int.mgimo.ru-ზე.",
+   "ar": "تختلف امتحانات القبول حسب البرنامج. بعض برامج البكالوريوس بالإنجليزية تعتمد مقابلة عبر الإنترنت بالإنجليزية وبعضها بالروسية والإنجليزية. راجع صفحة البرنامج على int.mgimo.ru."
+  },
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "russia",
+   "moscow",
+   "international relations"
+  ],
+  "sources": [
+   "https://int.mgimo.ru/en/apply",
+   "https://int.mgimo.ru/news_en/undergraduate-admissions-for-international-applicants-to-start-on-february-10",
+   "https://int.mgimo.ru/english-bachelor-programs"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "the-national-university-of-science-and-technology-misis",
+  "name": {
+   "en": "The National University of Science and Technology MISIS",
+   "ka": "მეცნიერებისა და ტექნოლოგიების ეროვნული უნივერსიტეტი MISIS",
+   "ar": "الجامعة الوطنية للعلوم والتكنولوجيا MISIS"
+  },
+  "iso": "RU",
+  "city": "Moscow",
+  "lat": 55.728,
+  "lon": 37.609,
+  "type": "public",
+  "website": "https://www.misis.ru",
+  "platform": "Direct (NUST MISIS) / Russian Government quota via education-in-russia.com",
+  "application_url": "https://en.misis.ru/applicants/algorithm/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Paid places 2026: applications from 20 June; deadline 31 July for entrance-exam route and 18 August for the Unified State Exam route; exams 13 July to 12 August. Government quota 2026/27: 15 September to 15 December 2026 (CIS) or to 15 January 2027 (other countries) on education-in-russia.com. 2027 dates not yet published.",
+  "tuition_intl": {
+   "amount": 337000,
+   "currency": "RUB",
+   "per": "year",
+   "note": "337,000 to 439,000 RUB per year depending on programme (MISIS international undergraduate page)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Metallurgy",
+    "Materials science",
+    "Mining",
+    "IT",
+    "Engineering"
+   ],
+   "ka": [
+    "მეტალურგია",
+    "მასალათმცოდნეობა",
+    "სამთო საქმე",
+    "IT",
+    "ინჟინერია"
+   ],
+   "ar": [
+    "علم المعادن",
+    "علوم المواد",
+    "التعدين",
+    "تكنولوجيا المعلومات",
+    "الهندسة"
+   ]
+  },
+  "summary": {
+   "en": "A leading Russian technical university in Moscow, known for materials science, metallurgy and mining.",
+   "ka": "მოსკოვის წამყვანი ტექნიკური უნივერსიტეტი, ცნობილი მასალათმცოდნეობით, მეტალურგიით და სამთო საქმით.",
+   "ar": "جامعة تقنية رائدة في موسكو، معروفة بعلوم المواد والمعادن والتعدين."
+  },
+  "about": {
+   "en": "MISIS is a public technical university in Moscow. Its English site shows an applicants section and English-taught master's programmes; bachelor teaching is mainly in Russian, with preparatory courses available. Fees, deadlines and entrance requirements for international bachelor applicants were not readable in this round, so they are left empty. Write to welcome@misis.ru for current terms.",
+   "ka": "MISIS მოსკოვის საჯარო ტექნიკური უნივერსიტეტია. ინგლისურ საიტზე არის აპლიკანტების განყოფილება და ინგლისურენოვანი სამაგისტრო პროგრამები; საბაკალავრო სწავლება ძირითადად რუსულადაა, ხელმისაწვდომია მოსამზადებელი კურსები. საერთაშორისო აპლიკანტებისთვის საფასური და ვადები ამ რაუნდში არ იკითხებოდა.",
+   "ar": "MISIS جامعة تقنية عامة في موسكو. يعرض موقعها الإنجليزي قسماً للمتقدمين وبرامج ماجستير بالإنجليزية؛ والتدريس في البكالوريوس بالروسية غالباً مع دورات تحضيرية. لم تُقرأ الرسوم والمواعيد والشروط للطلاب الدوليين في هذه الجولة."
+  },
+  "aid_intl": {
+   "en": "Russian Government quota places cover tuition, preparatory Russian study, housing and a monthly stipend; apply through education-in-russia.com.",
+   "ka": "რუსეთის მთავრობის კვოტა ფარავს სწავლის საფასურს, მოსამზადებელ რუსულ კურსს, საცხოვრებელს და ყოველთვიურ სტიპენდიას; განაცხადი education-in-russia.com-ზე.",
+   "ar": "تغطي منح الحصة الحكومية الروسية الرسوم والدراسة التحضيرية للروسية والسكن ومنحة شهرية، ويُقدَّم الطلب عبر education-in-russia.com."
+  },
+  "tests": {
+   "en": "Entrance exams depend on the programme and can be taken online or in person. Bachelor teaching is in Russian only, so sufficient Russian is required; MISIS offers a pre-university Russian course.",
+   "ka": "მისაღები გამოცდები პროგრამაზეა დამოკიდებული და შეიძლება ონლაინ ან პირადად ჩაბარდეს. საბაკალავრო სწავლება მხოლოდ რუსულია, ამიტომ რუსულის საკმარისი ცოდნაა საჭირო; MISIS სთავაზობს უნივერსიტეტამდელ რუსულ კურსს.",
+   "ar": "تعتمد امتحانات القبول على البرنامج ويمكن أداؤها عبر الإنترنت أو حضوريا. التدريس في البكالوريوس بالروسية فقط لذا يلزم مستوى كاف منها، وتوفر MISIS دورة روسية تمهيدية."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport (with notarised Russian translation)",
+     "ka": "პასპორტი (რუსული ნოტარიული თარგმანით)",
+     "ar": "جواز السفر (مع ترجمة روسية موثقة)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma with transcript, legalised and translated into Russian",
+     "ka": "საშუალო სკოლის ატესტატი ან დიპლომი ნიშნების ამონაწერით, ლეგალიზებული და რუსულად ნათარგმნი",
+     "ar": "شهادة الثانوية أو الدبلوم مع كشف الدرجات، موثقة ومترجمة إلى الروسية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign education (where required)",
+     "ka": "უცხოური განათლების აღიარება (საჭიროების შემთხვევაში)",
+     "ar": "الاعتراف بالمؤهل الأجنبي (عند الحاجة)"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photographs",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate incl. HIV test",
+     "ka": "სამედიცინო ცნობა, მათ შორის აივ ტესტი",
+     "ar": "شهادة طبية تشمل فحص فيروس نقص المناعة"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "Russian Government quota",
+    "url": "https://education-in-russia.com",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "russia",
+   "moscow",
+   "technical",
+   "materials"
+  ],
+  "sources": [
+   "https://en.misis.ru/applicants/algorithm/",
+   "https://en.misis.ru/applicants/undergraduate-programs"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "altai-state-university",
+  "name": {
+   "en": "Altai State University",
+   "ka": "ალტაის სახელმწიფო უნივერსიტეტი",
+   "ar": "جامعة ألتاي الحكومية"
+  },
+  "iso": "RU",
+  "city": "Barnaul",
+  "lat": 53.348,
+  "lon": 83.779,
+  "type": "public",
+  "website": "https://www.asu.ru",
+  "platform": "Direct (Altai State University admissions)",
+  "application_url": "https://www.asu.ru/en/admission/foreignapplicants",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Visa-support application form to be sent before 1 June; admission documents are accepted from 20 June to 29 September (latest year shown on the page).",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "natural-sciences",
+   "humanities",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A public university in Barnaul, Russia.",
+   "ka": "სახელმწიფო უნივერსიტეტი ბარნაულში, რუსეთი.",
+   "ar": "جامعة حكومية في بارناول، روسيا."
+  },
+  "about": {
+   "en": "Altai State University is a public university in Barnaul, Siberia. International applicants send an application form for visa support, submit translated and legalised documents, and take admission tests in Russian. Tuition is listed on each programme page; a one-year Russian preparatory course is offered.",
+   "ka": "ალტაის სახელმწიფო უნივერსიტეტი ბარნაულის (ციმბირი) საჯარო უნივერსიტეტია. უცხოელი აპლიკანტები ვიზის მხარდასაჭერად აგზავნიან სააპლიკაციო ფორმას, წარადგენენ ნათარგმნ და ლეგალიზებულ დოკუმენტებს და რუსულად აბარებენ გამოცდებს. საფასური მითითებულია თითოეული პროგრამის გვერდზე; არსებობს ერთწლიანი რუსული მოსამზადებელი კურსი.",
+   "ar": "جامعة ألتاي الحكومية جامعة حكومية في بارناول بسيبيريا. يرسل الأجانب استمارة لدعم التأشيرة ويقدمون وثائق مترجمة وموثقة ويؤدون اختبارات القبول بالروسية. الرسوم مذكورة في صفحة كل برنامج، وتتوفر دورة تحضيرية للروسية لمدة سنة."
+  },
+  "aid_intl": {
+   "en": "Fee discounts for high entrance-exam totals: 3% for 200-219, 7.5% for 220-239, 15% for 240 or more (full-time bachelor and specialist programmes).",
+   "ka": "სწავლის საფასურის ფასდაკლება მაღალი მისაღები ქულებისთვის: 3% (200–219), 7.5% (220–239), 15% (240 და მეტი) დღის განყოფილების საბაკალავრო და სპეციალისტის პროგრამებზე.",
+   "ar": "خصومات على الرسوم لمجاميع القبول العالية: 3% لـ 200-219 و7.5% لـ 220-239 و15% لـ 240 فأكثر (البكالوريوس والتخصص بدوام كامل)."
+  },
+  "tests": {
+   "en": "All admission tests and teaching are in Russian; tests in a foreign language are not offered. A one-year preparatory course in Russian and subject basics is available for applicants who need it.",
+   "ka": "ყველა მისაღები გამოცდა და სწავლება რუსულ ენაზეა; უცხო ენაზე გამოცდები არ არის. საჭიროების შემთხვევაში ხელმისაწვდომია ერთწლიანი მოსამზადებელი კურსი რუსულსა და საგნებში.",
+   "ar": "جميع اختبارات القبول والتدريس بالروسية ولا تتوفر اختبارات بلغة أجنبية. تتوفر دورة تحضيرية لمدة سنة في الروسية وأساسيات المواد لمن يحتاجها."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma with transcript, legalised and translated into Russian",
+     "ka": "საშუალო სკოლის ატესტატი ან დიპლომი ნიშნების ამონაწერით, ლეგალიზებული და რუსულად ნათარგმნი",
+     "ar": "شهادة الثانوية أو الدبلوم مع كشف الدرجات، موثقة ومترجمة إلى الروسية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport (with notarised Russian translation)",
+     "ka": "პასპორტი (რუსული ნოტარიული თარგმანით)",
+     "ar": "جواز السفر (مع ترجمة روسية موثقة)"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photographs",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of Russian language level",
+     "ka": "რუსული ენის ცოდნის დადასტურება",
+     "ar": "إثبات مستوى اللغة الروسية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate incl. HIV test",
+     "ka": "სამედიცინო ცნობა, მათ შორის აივ ტესტი",
+     "ar": "شهادة طبية تشمل فحص فيروس نقص المناعة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Application form",
+     "ka": "სააპლიკაციო ფორმა",
+     "ar": "استمارة التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "russia",
+   "barnaul",
+   "altai"
+  ],
+  "sources": [
+   "https://www.asu.ru/en/admission/",
+   "https://www.asu.ru/en/admission/fee/",
+   "https://www.asu.ru/en/education/bachelor/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "immanuel-kant-baltic-federal-university",
+  "name": {
+   "en": "Immanuel Kant Baltic Federal University",
+   "ka": "იმანუილ კანტის სახელობის ბალტიის ფედერალური უნივერსიტეტი",
+   "ar": "جامعة إيمانويل كانط البلطيقية الفيدرالية"
+  },
+  "iso": "RU",
+  "city": "Kaliningrad",
+  "lat": 54.724,
+  "lon": 20.527,
+  "type": "public",
+  "website": "https://www.kantiana.ru",
+  "platform": null,
+  "application_url": "https://kantiana.ru/en/enrollee/admission-of-international-students/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "natural-sciences",
+   "engineering",
+   "economics"
+  ],
+  "strengths": {
+   "en": [
+    "Humanities",
+    "Natural sciences",
+    "Engineering",
+    "Economics"
+   ],
+   "ka": [
+    "ჰუმანიტარული მეცნიერებები",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ინჟინერია",
+    "ეკონომიკა"
+   ],
+   "ar": [
+    "العلوم الإنسانية",
+    "العلوم الطبيعية",
+    "الهندسة",
+    "الاقتصاد"
+   ]
+  },
+  "summary": {
+   "en": "A federal university in Kaliningrad, Russia, on the Baltic coast. Its admissions pages could not be read automatically, so fees and deadlines are not listed.",
+   "ka": "ფედერალური უნივერსიტეტი კალინინგრადში, რუსეთი, ბალტიის სანაპიროზე. მისი მიღების გვერდები ავტომატურად ვერ წაიკითხა, ამიტომ საფასური და ვადები არ არის მითითებული.",
+   "ar": "جامعة فيدرالية في كالينينغراد بروسيا على ساحل البلطيق. تعذّرت قراءة صفحات القبول آليًا، لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "Immanuel Kant Baltic Federal University is the main state university of the Kaliningrad region. Teaching is mostly in Russian. International applicants should check the official international admissions page for fees, deadlines and the Russian government quota route.",
+   "ka": "იმანუილ კანტის ბალტიის ფედერალური უნივერსიტეტი კალინინგრადის რეგიონის მთავარი სახელმწიფო უნივერსიტეტია. სწავლება ძირითადად რუსულ ენაზეა. საფასურისა და ვადების გასარკვევად გადაამოწმეთ ოფიციალური გვერდი.",
+   "ar": "جامعة إيمانويل كانط البلطيقية الفيدرالية هي الجامعة الحكومية الرئيسية في إقليم كالينينغراد. التدريس غالبًا بالروسية. على المتقدمين الدوليين مراجعة صفحة القبول الرسمية للرسوم والمواعيد."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages reviewed.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة في الصفحات التي تمت مراجعتها."
+  },
+  "tests": {
+   "en": "Entrance examinations for bachelor and specialist programmes are conducted in Russian. Foreign applicants may contact the admissions office for a preliminary assessment of their documents.",
+   "ka": "საბაკალავრო და სპეციალისტის პროგრამებზე მისაღები გამოცდები რუსულად ტარდება. უცხოელ აპლიკანტებს შეუძლიათ მიმართონ მისაღებ კომისიას დოკუმენტების წინასწარი შეფასებისთვის.",
+   "ar": "تُجرى امتحانات القبول لبرامج البكالوريوس والتخصص بالروسية. يمكن للمتقدمين الأجانب مراسلة مكتب القبول لتقييم أولي لوثائقهم."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport (with notarised Russian translation)",
+     "ka": "პასპორტი (რუსული ნოტარიული თარგმანით)",
+     "ar": "جواز السفر (مع ترجمة روسية موثقة)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign education (where required)",
+     "ka": "უცხოური განათლების აღიარება (საჭიროების შემთხვევაში)",
+     "ar": "الاعتراف بالمؤهل الأجنبي (عند الحاجة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "russia",
+   "kaliningrad",
+   "kantiana"
+  ],
+  "sources": [
+   "https://kantiana.ru/en/enrollee/admission-of-international-students/",
+   "https://kantiana.ru/en/enrollee/faq/",
+   "https://kantiana.ru/en/enrollee/admission-committee/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "siberian-federal-university-sibfu",
+  "name": {
+   "en": "Siberian Federal University, SibFU",
+   "ka": "ციმბირის ფედერალური უნივერსიტეტი",
+   "ar": "جامعة سيبيريا الفيدرالية"
+  },
+  "iso": "RU",
+  "city": "Krasnoyarsk",
+  "lat": 56.007,
+  "lon": 92.797,
+  "type": "public",
+  "website": "https://sfu.ru",
+  "platform": "Direct (SibFU international admissions)",
+  "application_url": "https://sfu-kras.ru/en/admission",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 176934,
+   "currency": "RUB",
+   "per": "year",
+   "note": "Lowest figure in the SibFU programme table (5-year architecture bachelor); fees vary by programme."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": {
+   "en": "SibFU gives a discount of 10% or more on tuition for applicants with high entrance test results.",
+   "ka": "SibFU-ს მაღალი მისაღები ქულების მქონე აპლიკანტებისთვის სწავლის საფასურზე 10%-იანი ან მეტი ფასდაკლება აქვს.",
+   "ar": "تمنح SibFU خصما بنسبة 10% أو أكثر على الرسوم لأصحاب نتائج القبول المرتفعة."
+  },
+  "tests": {
+   "en": "Fee-paying international applicants can be admitted on two entrance exams, and the Russian language exam is compulsory. Bachelor programmes are taught in Russian; pre-university Russian courses are offered.",
+   "ka": "ფასიან ადგილზე უცხოელი აპლიკანტები შეიძლება ორი მისაღები გამოცდით ჩაირიცხონ და რუსული ენის გამოცდა სავალდებულოა. საბაკალავრო სწავლება რუსულია; არსებობს უნივერსიტეტამდელი რუსული კურსები.",
+   "ar": "يمكن قبول الأجانب على المقاعد المدفوعة بامتحانين للقبول، ويُعد امتحان اللغة الروسية إلزاميا. التدريس في البكالوريوس بالروسية وتتوفر دورات روسية تمهيدية."
+  },
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "russia",
+   "krasnoyarsk",
+   "siberia"
+  ],
+  "sources": [
+   "https://sfu-kras.ru/en/admission",
+   "https://sfu-kras.ru/en/education/programs",
+   "https://sfu.ru/en/admission/applications_procedure"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "southern-federal-university",
+  "name": {
+   "en": "Southern Federal University",
+   "ka": "სამხრეთის ფედერალური უნივერსიტეტი",
+   "ar": "جامعة الجنوب الفيدرالية"
+  },
+  "iso": "RU",
+  "city": "Rostov-on-Don",
+  "lat": 47.222,
+  "lon": 39.719,
+  "type": "public",
+  "website": "https://www.sfedu.ru",
+  "platform": "Direct (SFedU admissions: ruID, Gosuslugi or university account) / Russian Government quota",
+  "application_url": "https://studyinrussia.ru/en/university-show/238/admission-rules",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "Admission rules for 2026 were set by Order No. 3-OD of 20 January 2026; specific dates were not readable. Government quota applications run through Rossotrudnichestvo.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": {
+   "en": "Study is free for winners of Russian Government quota places, awarded competitively through Rossotrudnichestvo.",
+   "ka": "რუსეთის მთავრობის კვოტის გამარჯვებულებისთვის სწავლა უფასოა; კვოტა კონკურსით გაიცემა Rossotrudnichestvo-ს მეშვეობით.",
+   "ar": "الدراسة مجانية لمن يفوز بمقاعد الحصة الحكومية الروسية التي تُمنح بالمنافسة عبر Rossotrudnichestvo."
+  },
+  "tests": {
+   "en": "General competition admission is based on entrance test results or on prior education documents; winners of international olympiads on the Ministry list may enter without exams. English-taught bachelor programmes exist.",
+   "ka": "ზოგადი კონკურსით მიღება ხდება მისაღები გამოცდების შედეგებით ან წინა განათლების დოკუმენტებით; სამინისტროს სიაში შემავალი საერთაშორისო ოლიმპიადების გამარჯვებულები გამოცდების გარეშე ირიცხებიან. არსებობს ინგლისურენოვანი საბაკალავრო პროგრამები.",
+   "ar": "يعتمد القبول في المنافسة العامة على نتائج اختبارات القبول أو وثائق التعليم السابق، ويُقبل الفائزون في الأولمبيادات الدولية المعتمدة بلا امتحانات. تتوفر برامج بكالوريوس بالإنجليزية."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign education (where required)",
+     "ka": "უცხოური განათლების აღიარება (საჭიროების შემთხვევაში)",
+     "ar": "الاعتراف بالمؤهل الأجنبي (عند الحاجة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "russia",
+   "rostov-on-don",
+   "sfedu"
+  ],
+  "sources": [
+   "https://studyinrussia.ru/en/university-show/238/admission-rules",
+   "https://welcome.sfedu.ru/faq_en"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "lobachevsky-university",
+  "name": {
+   "en": "Lobachevsky University",
+   "ka": "ლობაჩევსკის უნივერსიტეტი",
+   "ar": "جامعة لوباتشيفسكي"
+  },
+  "iso": "RU",
+  "city": "Nizhny Novgorod",
+  "lat": 56.299,
+  "lon": 43.983,
+  "type": "public",
+  "website": "https://www.unn.ru",
+  "platform": "Direct (LUNN personal account) ",
+  "application_url": "https://lunn.ru/en/admission",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "No application deadline is published on the international admission pages; applicants must arrive by the start of the academic year.",
+  "tuition_intl": {
+   "amount": 175000,
+   "currency": "RUB",
+   "per": "year",
+   "note": "Economics bachelor programme page; English-taught Fundamental Informatics and IT is 240,000 RUB per year. Other programmes differ."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Russian as a foreign language test"
+  ],
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "A public research university in Nizhny Novgorod, Russia. Its site redirected in a loop, so no admissions facts are recorded.",
+   "ka": "სახელმწიფო სამეცნიერო უნივერსიტეტი ნიჟნი ნოვგოროდში, რუსეთი. საიტი ციკლურად გადამისამართდა, ამიტომ მისაღები ფაქტები არ არის ჩაწერილი.",
+   "ar": "جامعة بحثية حكومية في نيجني نوفغورود بروسيا. أعاد موقعها التوجيه في حلقة فلم تُسجَّل حقائق القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Self-funded bachelor applicants take two exams, one in a foreign language and one in Russian, plus a Russian-as-a-foreign-language test. Exams can be taken online. The English-taught IT programme uses English and mathematics.",
+   "ka": "საკუთარი დაფინანსების საბაკალავრო აპლიკანტები აბარებენ ორ გამოცდას – ერთს უცხო ენაში და ერთს რუსულში – ასევე რუსულის როგორც უცხო ენის ტესტს. გამოცდები შეიძლება ონლაინ ჩაბარდეს. ინგლისურენოვანი IT პროგრამა იყენებს ინგლისურსა და მათემატიკას.",
+   "ar": "يؤدي المتقدمون على نفقتهم الخاصة امتحانين، أحدهما بلغة أجنبية والآخر بالروسية، إضافة إلى اختبار الروسية كلغة أجنبية، ويمكن أداؤها عبر الإنترنت. برنامج تقنية المعلومات بالإنجليزية يعتمد الإنجليزية والرياضيات."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport (with notarised Russian translation)",
+     "ka": "პასპორტი (რუსული ნოტარიული თარგმანით)",
+     "ar": "جواز السفر (مع ترجمة روسية موثقة)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma with transcript, legalised and translated into Russian",
+     "ka": "საშუალო სკოლის ატესტატი ან დიპლომი ნიშნების ამონაწერით, ლეგალიზებული და რუსულად ნათარგმნი",
+     "ar": "شهادة الثانوية أو الدبلوم مع كشف الدرجات، موثقة ومترجمة إلى الروسية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign education (where required)",
+     "ka": "უცხოური განათლების აღიარება (საჭიროების შემთხვევაში)",
+     "ar": "الاعتراف بالمؤهل الأجنبي (عند الحاجة)"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photographs",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate incl. HIV test",
+     "ka": "სამედიცინო ცნობა, მათ შორის აივ ტესტი",
+     "ar": "شهادة طبية تشمل فحص فيروس نقص المناعة"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "russia",
+   "nizhny novgorod",
+   "lobachevsky",
+   "unn"
+  ],
+  "sources": [
+   "https://lunn.ru/en/admission",
+   "https://lunn.ru/en/page/documents",
+   "https://fiit.unn.ru/",
+   "https://econ.unn.ru/"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

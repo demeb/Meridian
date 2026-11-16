@@ -1,0 +1,974 @@
+[
+ {
+  "id": "de-la-salle-university",
+  "name": {
+   "en": "De La Salle University",
+   "ka": "დე ლა სალის უნივერსიტეტი",
+   "ar": "جامعة دي لا سال"
+  },
+  "iso": "PH",
+  "city": "Manila",
+  "lat": 14.565,
+  "lon": 120.994,
+  "type": "private",
+  "website": "https://www.dlsu.edu.ph",
+  "platform": "DLSU Office of Admissions",
+  "application_url": "https://www.dlsu.edu.ph/?p=24825",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 23000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "DLSU CAT"
+  ],
+  "fields": [
+   "business",
+   "engineering",
+   "computer-science",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "De La Salle University is a private Catholic university in Manila. International applicants pay a US$50 admission processing fee, take the DLSU CAT and then register with the International Center.",
+   "ka": "დე ლა სალის უნივერსიტეტი მანილის კერძო კათოლიკური უნივერსიტეტია. საერთაშორისო აპლიკანტები იხდიან 50 აშშ დოლარის სააპლიკაციო საფასურს, აბარებენ DLSU CAT-ს და ბარდებიან საერთაშორისო ცენტრში.",
+   "ar": "جامعة دي لا سال جامعة كاثوليكية خاصة في مانيلا. يدفع المتقدمون الدوليون رسوم معالجة قبول قدرها 50 دولارًا، ويؤدون DLSU CAT ثم يراجعون المركز الدولي."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "International applicants take the DLSU College Admission Test (DLSU CAT). Applicants who use the SAT as their admission credential submit the original SAT results.",
+   "ka": "საერთაშორისო აპლიკანტები აბარებენ DLSU-ის კოლეჯის მისაღებ ტესტს (DLSU CAT). ვინც SAT-ს იყენებს, წარადგენს SAT-ის ორიგინალ შედეგებს.",
+   "ar": "يؤدي المتقدمون الدوليون اختبار القبول الجامعي DLSU CAT. ومن يستخدم SAT كوثيقة قبول يقدّم نتائج SAT الأصلية."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport",
+     "ka": "მოქმედი პასპორტი",
+     "ar": "جواز سفر ساري"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application or admission processing fee",
+     "ka": "სააპლიკაციო / მიღების საფასური",
+     "ar": "رسوم التقديم أو معالجة القبول"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "University entrance test",
+     "ka": "უნივერსიტეტის მისაღები გამოცდა",
+     "ar": "امتحان القبول الجامعي"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "Original SAT results (if SAT is used as credential)",
+     "ka": "SAT-ის ორიგინალი შედეგები (თუ SAT გამოიყენება)",
+     "ar": "نتائج SAT الأصلية (إذا استُخدم SAT)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "philippines",
+   "manila",
+   "lasallian",
+   "private"
+  ],
+  "sources": [
+   "https://www.dlsu.edu.ph/?p=24825",
+   "https://www.dlsu.edu.ph/?p=27441"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "adamson-university",
+  "name": {
+   "en": "Adamson University",
+   "ka": "ადამსონის უნივერსიტეტი",
+   "ar": "جامعة آدمسون"
+  },
+  "iso": "PH",
+  "city": "Manila",
+  "lat": 14.586,
+  "lon": 120.985,
+  "type": "private",
+  "website": "https://www.adamson.edu.ph",
+  "platform": "Adamson online application",
+  "application_url": "https://www.adamson.edu.ph/v1/?page=foreign",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "No application deadline is published on the foreign-student page; accepted applicants receive enrolment schedules after notification.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "AdUCET"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "business",
+   "law"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Adamson University is a private Vincentian university in Manila. Foreign applicants send an authenticated transcript, diploma, passport page and photo; an acceptance fee of PHP 11,025 and a foreign fee of PHP 5,512 per semester apply.",
+   "ka": "ადამსონის უნივერსიტეტი მანილის კერძო ვინსენციანური უნივერსიტეტია. უცხოელი აპლიკანტები წარადგენენ ავტორიზებულ ტრანსკრიპტს, დიპლომს, პასპორტის გვერდს და ფოტოს; მოქმედებს PHP 11,025 მიღების საფასური და PHP 5,512 საფასური თითო სემესტრზე.",
+   "ar": "جامعة آدمسون جامعة فينسنتية خاصة في مانيلا. يقدّم المتقدمون الأجانب كشف درجات موثقًا وشهادة وصفحة جواز وصورة؛ وتُطبَّق رسوم قبول 11,025 بيزو ورسوم أجانب 5,512 بيزو لكل فصل."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Freshmen apply online and take the Adamson University College Entrance Test (AdUCET). The foreign-student page asks for authenticated school records but does not publish an English score.",
+   "ka": "პირველკურსელები განაცხადს ონლაინ აგზავნიან და აბარებენ ადამსონის უნივერსიტეტის საკოლეჯო მისაღებ ტესტს (AdUCET). უცხოელთა გვერდზე მოითხოვება დამოწმებული სასკოლო დოკუმენტები, ინგლისურის მინიმალური ქულა კი არ არის გამოქვეყნებული.",
+   "ar": "يتقدم طلاب السنة الأولى إلكترونيا ويؤدون اختبار القبول الجامعي AdUCET. تطلب صفحة الطلاب الأجانب سجلات مدرسية موثقة ولا تنشر حدا أدنى لدرجة الإنجليزية."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნები (ტრანსკრიპტი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma",
+     "ka": "საშუალო განათლების ატესტატი / დიპლომი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport",
+     "ka": "მოქმედი პასპორტი",
+     "ar": "جواز سفر ساري"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size ID photo",
+     "ka": "პასპორტის ზომის ფოტო",
+     "ar": "صورة شخصية"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Letter of application to the Registrar",
+     "ka": "განცხადება რეგისტრატორის სახელზე",
+     "ar": "خطاب تقديم موجه إلى المسجل"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Notarised affidavit of support with proof of funds",
+     "ka": "ნოტარიულად დამოწმებული მხარდაჭერის ხელწერილი და ფინანსური დოკუმენტები",
+     "ar": "إقرار دعم موثق مع إثبات الموارد المالية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Police clearance and medical certificate",
+     "ka": "პოლიციის ცნობა და სამედიცინო ცნობა",
+     "ar": "شهادة حسن سيرة وشهادة طبية"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "philippines",
+   "manila",
+   "vincentian"
+  ],
+  "sources": [
+   "https://www.adamson.edu.ph/",
+   "https://www.adamson.edu.ph/aducet/",
+   "https://www.adamson.edu.ph/v1/?page=foreign"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "the-university-of-lahore",
+  "name": {
+   "en": "The University of Lahore",
+   "ka": "ლაჰორის უნივერსიტეტი",
+   "ar": "جامعة لاهور"
+  },
+  "iso": "PK",
+  "city": "Lahore",
+  "lat": 31.395,
+  "lon": 74.215,
+  "type": "private",
+  "website": "https://www.uol.edu.pk",
+  "platform": "UOL International Students Office",
+  "application_url": "https://uol.edu.pk/admissions/international-students/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "TOEFL/TWE or UOL English Language Proficiency (ELP) test",
+   "HEC mathematics test"
+  ],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Business"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "The University of Lahore is a private university in Lahore with an International Students Office. International applicants show English proficiency and pay a 200 USD deposit on admission.",
+   "ka": "ლაჰორის უნივერსიტეტი ლაჰორის კერძო უნივერსიტეტია, საერთაშორისო სტუდენტთა ოფისით. საერთაშორისო აპლიკანტები ადასტურებენ ინგლისურის ცოდნას და მიღებისას იხდიან 200 აშშ დოლარის დეპოზიტს.",
+   "ar": "جامعة لاهور جامعة خاصة في لاهور ولها مكتب للطلاب الدوليين. يثبت المتقدمون الدوليون إتقان الإنجليزية ويدفعون وديعة 200 دولار عند القبول."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "The university says it offers scholarships for international students; amounts are not given.",
+   "ka": "უნივერსიტეტი ამბობს, რომ საერთაშორისო სტუდენტებისთვის სტიპენდიებს სთავაზობს; ოდენობები მითითებული არ არის.",
+   "ar": "تذكر الجامعة أنها تقدم منحًا للطلاب الدوليين؛ ولم تُذكر المبالغ."
+  },
+  "tests": {
+   "en": "International applicants must show English proficiency and meet the mathematics portion of the HEC test; some programmes use a UOL entry test. A 200 USD deposit is requested on admission.",
+   "ka": "საერთაშორისო აპლიკანტებმა უნდა წარადგინონ ინგლისურის ცოდნა და დააკმაყოფილონ HEC ტესტის მათემატიკური ნაწილი; ზოგ პროგრამაზე UOL-ის მისაღები ტესტია. მიღებისას მოითხოვება 200 აშშ დოლარის დეპოზიტი.",
+   "ar": "يجب على المتقدمين الدوليين إثبات إتقان الإنجليزية واجتياز الجزء الرياضي من اختبار HEC؛ وتستخدم بعض البرامج اختبار قبول من UOL. يُطلب إيداع قدره 200 دولار عند القبول."
+  },
+  "gpa_note": {
+   "en": "Applicants need an HEC-recognised secondary qualification; merit is based on past academic results, the UOL admission test and an interview.",
+   "ka": "აპლიკანტს სჭირდება HEC-ის მიერ აღიარებული საშუალო განათლების დოკუმენტი; მერიტი ეფუძნება წინა აკადემიურ შედეგებს, UOL-ის მისაღებ ტესტსა და გასაუბრებას.",
+   "ar": "يحتاج المتقدم إلى مؤهل ثانوي معترف به من HEC، ويعتمد الترتيب على النتائج الأكاديمية السابقة واختبار القبول في UOL والمقابلة."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Matric and Intermediate (or equivalent) academic records",
+     "ka": "მატრიკულაციისა და Intermediate-ის (ან ეკვივალენტის) აკადემიური ჩანაწერები",
+     "ar": "السجلات الأكاديمية للمرحلتين الثانوية والمتوسطة (أو ما يعادلها)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalence certificate for foreign qualifications",
+     "ka": "უცხოური კვალიფიკაციის ეკვივალენტობის სერტიფიკატი",
+     "ar": "شهادة معادلة للمؤهلات الأجنبية"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photographs",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية بحجم جواز السفر"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "TOEFL/TWE or UOL English proficiency test",
+     "ka": "TOEFL/TWE ან UOL-ის ინგლისურის ცოდნის ტესტი",
+     "ar": "TOEFL/TWE أو اختبار الكفاءة اللغوية في UOL"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "pakistan",
+   "lahore"
+  ],
+  "sources": [
+   "https://uol.edu.pk/admissions/international-students/",
+   "https://uol.edu.pk/international-students/",
+   "https://uol.edu.pk/wp-content/uploads/2023/06/Prospectus-2023-24_compressed.pdf",
+   "https://www.uol.edu.pk/Services/Student-Services/International-Students-Advisory/feepolicy"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "poznan-university-of-life-sciences",
+  "name": {
+   "en": "Poznan University of Life Sciences",
+   "ka": "პოზნანის სიცოცხლის მეცნიერებათა უნივერსიტეტი",
+   "ar": "جامعة بوزنان لعلوم الحياة"
+  },
+  "iso": "PL",
+  "city": "Poznań",
+  "lat": 52.427,
+  "lon": 16.918,
+  "type": "public",
+  "website": "https://puls.edu.pl",
+  "platform": "Direct (PULS e-Rekrutacja)",
+  "application_url": "https://wu.up.poznan.pl/rekrutacja-eng/",
+  "intakes": [
+   "October"
+  ],
+  "deadline": null,
+  "deadline_note": "Registration for English-taught bachelor studies runs from January to September; the 2026 intake closed in September 2026 and from January 2027 applications go through the irk.up.poznan.pl portal.",
+  "tuition_intl": {
+   "amount": 2000,
+   "currency": "EUR",
+   "per": "year",
+   "note": "English-taught BSc: 600 EUR per semester (Economics and Finance Management in Agri-food Sector) to 1,000 EUR per semester (Crop Plant Biology and Production); plus an 85 PLN enrolment fee. Figure shown is the higher yearly rate."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Polish",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "English B2 certificate"
+  ],
+  "fields": [
+   "environment",
+   "natural-sciences",
+   "engineering"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Poznań, Poland, focused on agriculture, food, veterinary and environmental sciences.",
+   "ka": "საჯარო უნივერსიტეტი პოზნანში, პოლონეთი, სოფლის მეურნეობის, სურსათის, ვეტერინარიისა და გარემოს მეცნიერებების მიმართულებით.",
+   "ar": "جامعة حكومية في بوزنان ببولندا متخصصة في الزراعة والغذاء والطب البيطري وعلوم البيئة."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Applicants must document English at B2 or higher with an accepted certificate. The foreign secondary certificate is uploaded in the recruitment system; some countries need a NAWA recognition decision.",
+   "ka": "აპლიკანტმა უნდა წარადგინოს ინგლისურის B2 ან უფრო მაღალი დონის მისაღები სერტიფიკატი. უცხოური საშუალო განათლების ატესტატი იტვირთება სარეკრუტაციო სისტემაში; ზოგ ქვეყანაზე საჭიროა NAWA-ს აღიარების გადაწყვეტილება.",
+   "ar": "يجب إثبات مستوى الإنجليزية B2 أو أعلى بشهادة مقبولة. تُرفع شهادة الثانوية الأجنبية في نظام التسجيل، وبعض الدول تتطلب قرار اعتراف من NAWA."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school-leaving certificate (scan)",
+     "ka": "საშუალო სკოლის დამამთავრებელი ატესტატი (სკანი)",
+     "ar": "شهادة إتمام الثانوية (نسخة ممسوحة)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Transcript of records if grades are not on the certificate",
+     "ka": "ნიშნების ამონაწერი, თუ ნიშნები ატესტატზე არ არის",
+     "ar": "كشف الدرجات إذا لم تكن الدرجات على الشهادة"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "NAWA recognition decision or apostille/legalisation where required",
+     "ka": "NAWA-ს აღიარების გადაწყვეტილება ან აპოსტილი/ლეგალიზაცია საჭიროების შემთხვევაში",
+     "ar": "قرار اعتراف من NAWA أو أبوستيل/تصديق عند الحاجة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English certificate at B2 or higher",
+     "ka": "ინგლისურის სერტიფიკატი B2 ან უფრო მაღალი",
+     "ar": "شهادة إنجليزية بمستوى B2 أو أعلى"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport data page and photo",
+     "ka": "პასპორტის მონაცემთა გვერდი და ფოტო",
+     "ar": "صفحة بيانات جواز السفر وصورة"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "Standard CV",
+     "ka": "სტანდარტული CV",
+     "ar": "سيرة ذاتية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Enrolment fee of 85 PLN",
+     "ka": "ჩარიცხვის საფასური 85 PLN",
+     "ar": "رسوم تسجيل 85 زلوتي"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "poland",
+   "poznan"
+  ],
+  "sources": [
+   "https://www.studyinpoland.pl/en/programme?programme=1390",
+   "https://www.studyinpoland.pl/en/programme?programme=1389",
+   "https://iro.puls.edu.pl/bachelor-required-documents-recruitment",
+   "https://iro.puls.edu.pl/bachelor-recruitment-rules",
+   "https://wu.up.poznan.pl/rekrutacja-eng/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "al-quds-university",
+  "name": {
+   "en": "Al-Quds University",
+   "ka": "ალ-ყუდსის უნივერსიტეტი",
+   "ar": "جامعة القدس"
+  },
+  "iso": "PS",
+  "city": "East Jerusalem",
+  "lat": 31.763,
+  "lon": 35.263,
+  "type": "public",
+  "website": "https://www.alquds.edu",
+  "platform": "Direct (enrolment card + online form)",
+  "application_url": "https://www.alquds.edu/en/admissions-registration/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Besides the Palestinian Tawjihi, Al-Quds accepts some Arab and international secondary certificates that the Palestinian Ministry of Education treats as equivalent.",
+   "ka": "პალესტინური ტავჯიჰის გარდა, ალ-ყუდსი იღებს ზოგ არაბულ და საერთაშორისო საშუალო ატესტატს, რომელსაც პალესტინის განათლების სამინისტრო ეკვივალენტურად ცნობს.",
+   "ar": "إلى جانب التوجيهي الفلسطيني، تقبل جامعة القدس بعض الشهادات الثانوية العربية والدولية التي تعادلها وزارة التعليم الفلسطينية."
+  },
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A Palestinian university based in East Jerusalem and Abu Dis.",
+   "ka": "პალესტინური უნივერსიტეტი, განთავსებული აღმოსავლეთ იერუსალიმსა და აბუ დისში.",
+   "ar": "جامعة فلسطينية مقرها القدس الشرقية وأبو ديس."
+  },
+  "about": {
+   "en": "Al-Quds University applicants with the Tawjihi enter their seat number on the online form after buying an enrolment card. Fees and international rules were not published on the page read.",
+   "ka": "ალ-ყუდსის უნივერსიტეტში ტავჯიჰის მქონე აპლიკანტები ონლაინ ფორმაში შეჰყავთ სავარძლის ნომერს რეგისტრაციის ბარათის შეძენის შემდეგ.",
+   "ar": "يدخل المتقدمون الحاصلون على التوجيهي رقم الجلوس في النموذج الإلكتروني بعد شراء بطاقة التسجيل."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Some faculties require an aptitude test. Applicants may apply before school results are released and send the official documents when they are issued.",
+   "ka": "ზოგ ფაკულტეტზე საჭიროა უნარების ტესტი. განაცხადის გაგზავნა სკოლის შედეგების გამოქვეყნებამდეც შეიძლება, ოფიციალური დოკუმენტები კი გაცემისთანავე წარედგინება.",
+   "ar": "تشترط بعض الكليات امتحان قدرات. يمكن التقديم قبل صدور نتائج المدرسة ثم إرسال الوثائق الرسمية عند صدورها."
+  },
+  "gpa_note": {
+   "en": "Each faculty sets its own minimum average and secondary-school stream; the Tawjihi average decides entry to the chosen programme.",
+   "ka": "თითოეული ფაკულტეტი თავად განსაზღვრავს მინიმალურ ქულას და საშუალო სკოლის პროფილს; არჩეულ პროგრამაზე მიღებას ტავჯიჰის საშუალო ქულა წყვეტს.",
+   "ar": "كل كلية تحدد معدلها الأدنى وفرع الثانوية المطلوب، ويحدد معدل التوجيهي القبول في البرنامج المختار."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო სკოლის დამამთავრებელი ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Transcript with subjects and grades",
+     "ka": "საგნებისა და ნიშნების ჩანაწერი",
+     "ar": "كشف بالمواد والدرجات"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalency of non-Palestinian certificates (Palestinian Ministry of Education)",
+     "ka": "არაპალესტინური ატესტატის ეკვივალენტობა (პალესტინის განათლების სამინისტრო)",
+     "ar": "معادلة الشهادات غير الفلسطينية (وزارة التعليم الفلسطينية)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Enrollment card (application purchase)",
+     "ka": "ჩარიცხვის ბარათი (განაცხადის შეძენა)",
+     "ar": "بطاقة التسجيل (شراء طلب الالتحاق)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "palestine",
+   "al-quds",
+   "jerusalem"
+  ],
+  "sources": [
+   "https://www.alquds.edu/en/admissions-registration/",
+   "https://www.alquds.edu/en/admissions-registration/admissions/",
+   "https://www.alquds.edu/wp-content/uploads/2021/03/accepted-certificates.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "an-najah-national-university",
+  "name": {
+   "en": "An-Najah National University",
+   "ka": "ან-ნაჯაჰის ეროვნული უნივერსიტეტი",
+   "ar": "جامعة النجاح الوطنية"
+  },
+  "iso": "PS",
+  "city": "Nablus",
+  "lat": 32.227,
+  "lon": 35.223,
+  "type": "public",
+  "website": "https://www.najah.edu",
+  "platform": "Direct (Registration and Admission Department)",
+  "application_url": "https://www.najah.edu/en/international-office/international-students/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Applicants must first get the local equivalent of their high school diploma from the Palestinian Ministry of Higher Education in Ramallah.",
+   "ka": "აპლიკანტმა ჯერ უნდა მიიღოს საშუალო განათლების დიპლომის ადგილობრივი ექვივალენტობა ფალესტინის უმაღლესი განათლების სამინისტროსგან რამალაში.",
+   "ar": "يجب على المتقدم أولا الحصول على معادلة شهادته الثانوية من وزارة التعليم العالي الفلسطينية في رام الله."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "natural-sciences",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering and IT",
+    "Medicine and health sciences",
+    "Science",
+    "Agriculture and veterinary medicine"
+   ],
+   "ka": [
+    "ინჟინერია და IT",
+    "მედიცინა და ჯანმრთელობის მეცნიერებები",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "სოფლის მეურნეობა და ვეტერინარია"
+   ],
+   "ar": [
+    "الهندسة وتكنولوجيا المعلومات",
+    "الطب والعلوم الصحية",
+    "العلوم",
+    "الزراعة والطب البيطري"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in Nablus, Palestine. Teaching is in Arabic and English, and international applicants need a diploma equivalency from the Palestinian ministry.",
+   "ka": "დიდი საჯარო უნივერსიტეტი ნაბლუსში, პალესტინა. სწავლება არაბულად და ინგლისურად მიმდინარეობს; უცხოელ აპლიკანტებს სჭირდებათ დიპლომის ექვივალენტობა პალესტინის სამინისტროდან.",
+   "ar": "جامعة عامة كبيرة في نابلس بفلسطين. التدريس بالعربية والإنجليزية، ويحتاج المتقدمون الدوليون إلى معادلة الشهادة من الوزارة الفلسطينية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "No language proficiency proof is required; the university advises applying only to programmes whose teaching language you can follow comfortably.",
+   "ka": "ენის ცოდნის დამადასტურებელი დოკუმენტი საჭირო არ არის; უნივერსიტეტი გირჩევთ აირჩიოთ მხოლოდ ისეთი პროგრამა, რომლის სწავლების ენაც კარგად გესმით.",
+   "ar": "لا يُطلب إثبات لغوي؛ وتنصح الجامعة بالتقدم فقط للبرامج التي تستطيع متابعة لغة تدريسها."
+  },
+  "gpa_note": {
+   "en": "Admission is competitive and based on the Tawjihi average or its recognised equivalent; Engineering asks for at least 80 percent.",
+   "ka": "მიღება კონკურსულია და ეფუძნება ტავჯიჰის საშუალო ქულას ან მის აღიარებულ ეკვივალენტს; საინჟინროზე მინიმუმ 80 პროცენტია საჭირო.",
+   "ar": "القبول تنافسي ويعتمد على معدل التوجيهي أو ما يعادله المعترف به؛ وتشترط الهندسة 80 بالمئة على الأقل."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school leaving certificate",
+     "ka": "საშუალო სკოლის დამამთავრებელი ატესტატი",
+     "ar": "شهادة إتمام الدراسة الثانوية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Local equivalency of the school certificate (Palestinian Ministry of Higher Education)",
+     "ka": "ატესტატის ადგილობრივი ეკვივალენტობა (პალესტინის უმაღლესი განათლების სამინისტრო)",
+     "ar": "معادلة الشهادة محليا (وزارة التعليم العالي الفلسطينية)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Transcript with subjects and grades",
+     "ka": "საგნებისა და ნიშნების ჩანაწერი",
+     "ar": "كشف بالمواد والدرجات"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "palestine",
+   "nablus",
+   "engineering",
+   "medicine"
+  ],
+  "sources": [
+   "https://www.najah.edu/en/international-office/international-students/",
+   "https://www.najah.edu/en/international-office",
+   "https://www.najah.edu/en/academic/admission/incoming-students/",
+   "https://eng.najah.edu/en/study/departments/electrical-computer-engineering-division/computer-engineering/prospective-students/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-belgrade",
+  "name": {
+   "en": "University of Belgrade",
+   "ka": "ბელგრადის უნივერსიტეტი",
+   "ar": "جامعة بلغراد"
+  },
+  "iso": "RS",
+  "city": "Belgrade",
+  "lat": 44.818,
+  "lon": 20.457,
+  "type": "public",
+  "website": "https://www.bg.ac.rs",
+  "platform": "Faculty-level applications (each faculty sets its own rules)",
+  "application_url": null,
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "The call for enrolment is published on bg.ac.rs, usually in May; each faculty sets its own deadline. Recognition of a foreign school diploma should be started at least 15 days before the faculty deadline.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 90000,
+  "intl_pct": null,
+  "languages": [
+   "Serbian",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "The University of Belgrade is Serbia's largest public university, made up of many faculties. Recognition of foreign school documents is handled through the rectorate.",
+   "ka": "ბელგრადის უნივერსიტეტი სერბეთის უდიდესი საჯარო უნივერსიტეტია და მრავალი ფაკულტეტისგან შედგება. უცხოური სასკოლო დოკუმენტების აღიარება რექტორატის მეშვეობით ხდება.",
+   "ar": "جامعة بلغراد أكبر جامعة حكومية في صربيا وتضم كليات عديدة. يتم الاعتراف بالوثائق الدراسية الأجنبية عبر رئاسة الجامعة."
+  },
+  "about": {
+   "en": "The University of Belgrade is Serbia's largest public university, made up of many faculties. Foreign secondary school certificates must be recognised by the Agency for Qualifications before applying. Each faculty sets its own fees and deadlines; for example the English-taught medicine programme costs 8,000 EUR per year.",
+   "ka": "ბელგრადის უნივერსიტეტი სერბეთის უდიდესი საჯარო უნივერსიტეტია და მრავალი ფაკულტეტისგან შედგება. უცხოური საშუალო განათლების დოკუმენტი განაცხადამდე უნდა აღიარდეს კვალიფიკაციების სააგენტოში. ფაკულტეტები თავად ადგენენ საფასურსა და ვადებს; მაგალითად, ინგლისურენოვანი მედიცინის პროგრამა წელიწადში 8 000 ევრო ღირს.",
+   "ar": "جامعة بلغراد أكبر جامعة حكومية في صربيا وتضم كليات عديدة. يجب الاعتراف بشهادة الثانوية الأجنبية لدى وكالة المؤهلات قبل التقديم. تحدد كل كلية رسومها ومواعيدها، فمثلا يكلف برنامج الطب بالإنجليزية 8,000 يورو سنويا."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Faculties set their own entrance rules and fees. First-year programmes are mostly taught in Serbian, so faculties ask for proof of Serbian (for example B2 at the Faculty of Economics and Finance); some English-taught programmes exist.",
+   "ka": "ფაკულტეტები თავად ადგენენ მისაღებ წესებსა და საფასურს. პირველი კურსის პროგრამები ძირითადად სერბულია, ამიტომ ფაკულტეტები სერბულის დადასტურებას ითხოვენ (მაგ. B2 ეკონომიკისა და ფინანსების ფაკულტეტზე); არსებობს ზოგი ინგლისურენოვანი პროგრამა.",
+   "ar": "تضع الكليات قواعد القبول والرسوم بنفسها. التدريس في السنة الأولى غالبا بالصربية لذا تطلب الكليات إثباتا لها (مثل B2 في كلية الاقتصاد والمالية)، وتوجد برامج بالإنجليزية."
+  },
+  "gpa_note": {
+   "en": "General enrolment rules are the same as for Serbian citizens; foreign applicants need a recognised school diploma, health insurance and fluency in the language of instruction.",
+   "ka": "ზოგადი მისაღები წესები სერბეთის მოქალაქეებისთვის და უცხოელებისთვის ერთნაირია; უცხოელს სჭირდება აღიარებული საშუალო განათლების დოკუმენტი, ჯანმრთელობის დაზღვევა და სწავლების ენის ცოდნა.",
+   "ar": "قواعد القبول العامة هي نفسها للمواطنين الصرب؛ يحتاج الأجنبي إلى شهادة ثانوية معترف بها وتأمين صحي وإتقان لغة التدريس."
+  },
+  "requirements": [
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Recognition of foreign education (where required)",
+     "ka": "უცხოური განათლების აღიარება (საჭიროების შემთხვევაში)",
+     "ar": "الاعتراف بالمؤهل الأجنبي (عند الحاجة)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of Serbian (or the programme language)",
+     "ka": "სერბულის (ან პროგრამის ენის) ცოდნის დადასტურება",
+     "ar": "إثبات إتقان الصربية (أو لغة البرنامج)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate incl. HIV test",
+     "ka": "სამედიცინო ცნობა, მათ შორის აივ ტესტი",
+     "ar": "شهادة طبية تشمل فحص فيروس نقص المناعة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Proof of health insurance for the academic year",
+     "ka": "სასწავლო წლის ჯანმრთელობის დაზღვევის დადასტურება",
+     "ar": "إثبات تأمين صحي للعام الدراسي"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://bg.ac.rs/files/en/international/How-to-study-at-the-UB.pdf",
+   "https://studiesinenglish.med.bg.ac.rs/studies-in-english/applying-to-ubfm",
+   "https://www.bg.ac.rs/recognition/",
+   "https://www.ekof.bg.ac.rs/studies/undergraduate/enrolment/enrolment-information/?lang=en"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "altai-state-university",
+  "name": {
+   "en": "Altai State University",
+   "ka": "ალტაის სახელმწიფო უნივერსიტეტი",
+   "ar": "جامعة ألتاي الحكومية"
+  },
+  "iso": "RU",
+  "city": "Barnaul",
+  "lat": 53.348,
+  "lon": 83.779,
+  "type": "public",
+  "website": "https://www.asu.ru",
+  "platform": "Direct (Altai State University admissions)",
+  "application_url": "https://www.asu.ru/en/admission/foreignapplicants",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Visa-support application form to be sent before 1 June; admission documents are accepted from 20 June to 29 September (latest year shown on the page).",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Russian"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "natural-sciences",
+   "humanities",
+   "economics"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A public university in Barnaul, Russia.",
+   "ka": "სახელმწიფო უნივერსიტეტი ბარნაულში, რუსეთი.",
+   "ar": "جامعة حكومية في بارناول، روسيا."
+  },
+  "about": {
+   "en": "Altai State University is a public university in Barnaul, Siberia. International applicants send an application form for visa support, submit translated and legalised documents, and take admission tests in Russian. Tuition is listed on each programme page; a one-year Russian preparatory course is offered.",
+   "ka": "ალტაის სახელმწიფო უნივერსიტეტი ბარნაულის (ციმბირი) საჯარო უნივერსიტეტია. უცხოელი აპლიკანტები ვიზის მხარდასაჭერად აგზავნიან სააპლიკაციო ფორმას, წარადგენენ ნათარგმნ და ლეგალიზებულ დოკუმენტებს და რუსულად აბარებენ გამოცდებს. საფასური მითითებულია თითოეული პროგრამის გვერდზე; არსებობს ერთწლიანი რუსული მოსამზადებელი კურსი.",
+   "ar": "جامعة ألتاي الحكومية جامعة حكومية في بارناول بسيبيريا. يرسل الأجانب استمارة لدعم التأشيرة ويقدمون وثائق مترجمة وموثقة ويؤدون اختبارات القبول بالروسية. الرسوم مذكورة في صفحة كل برنامج، وتتوفر دورة تحضيرية للروسية لمدة سنة."
+  },
+  "aid_intl": {
+   "en": "Fee discounts for high entrance-exam totals: 3% for 200-219, 7.5% for 220-239, 15% for 240 or more (full-time bachelor and specialist programmes).",
+   "ka": "სწავლის საფასურის ფასდაკლება მაღალი მისაღები ქულებისთვის: 3% (200–219), 7.5% (220–239), 15% (240 და მეტი) დღის განყოფილების საბაკალავრო და სპეციალისტის პროგრამებზე.",
+   "ar": "خصومات على الرسوم لمجاميع القبول العالية: 3% لـ 200-219 و7.5% لـ 220-239 و15% لـ 240 فأكثر (البكالوريوس والتخصص بدوام كامل)."
+  },
+  "tests": {
+   "en": "All admission tests and teaching are in Russian; tests in a foreign language are not offered. A one-year preparatory course in Russian and subject basics is available for applicants who need it.",
+   "ka": "ყველა მისაღები გამოცდა და სწავლება რუსულ ენაზეა; უცხო ენაზე გამოცდები არ არის. საჭიროების შემთხვევაში ხელმისაწვდომია ერთწლიანი მოსამზადებელი კურსი რუსულსა და საგნებში.",
+   "ar": "جميع اختبارات القبول والتدريس بالروسية ولا تتوفر اختبارات بلغة أجنبية. تتوفر دورة تحضيرية لمدة سنة في الروسية وأساسيات المواد لمن يحتاجها."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or diploma with transcript, legalised and translated into Russian",
+     "ka": "საშუალო სკოლის ატესტატი ან დიპლომი ნიშნების ამონაწერით, ლეგალიზებული და რუსულად ნათარგმნი",
+     "ar": "شهادة الثانوية أو الدبلوم مع كشف الدرجات، موثقة ومترجمة إلى الروسية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport (with notarised Russian translation)",
+     "ka": "პასპორტი (რუსული ნოტარიული თარგმანით)",
+     "ar": "جواز السفر (مع ترجمة روسية موثقة)"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photographs",
+     "ka": "პასპორტის ზომის ფოტოები",
+     "ar": "صور شخصية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of Russian language level",
+     "ka": "რუსული ენის ცოდნის დადასტურება",
+     "ar": "إثبات مستوى اللغة الروسية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate incl. HIV test",
+     "ka": "სამედიცინო ცნობა, მათ შორის აივ ტესტი",
+     "ar": "شهادة طبية تشمل فحص فيروس نقص المناعة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Application form",
+     "ka": "სააპლიკაციო ფორმა",
+     "ar": "استمارة التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "russia",
+   "barnaul",
+   "altai"
+  ],
+  "sources": [
+   "https://www.asu.ru/en/admission/",
+   "https://www.asu.ru/en/admission/fee/",
+   "https://www.asu.ru/en/education/bachelor/"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

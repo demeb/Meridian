@@ -1,0 +1,1075 @@
+[
+ {
+  "platform": "PUC-Rio Vestibular 2027 (own exam, ENEM, or international exams)",
+  "application_url": "https://www.puc-rio.br/vestibular/202612/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Vestibular 2027 registration ran 27 Jul to 7 Sep 2026, extended to 15 Sep 2026. Results of IB, AP, Abitur or Bac had to be emailed to vest@puc-rio.br by 29 Oct 2026. Dates for the next cycle are not yet published.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": "accepted",
+   "us-diploma": "with-extra"
+  },
+  "qualifications_note": {
+   "en": "IB Diploma (30+ points), French Bac, Abitur and a set of AP exams are accepted for the reserved international-exam places. The page does not say how a Georgian or Qatari school certificate is treated.",
+   "ka": "დაცული საერთაშორისო ადგილებისთვის მიიღება IB Diploma (30+ ქულა), ფრანგული Bac, Abitur და AP გამოცდების ნაკრები. გვერდზე არ წერია, როგორ განიხილება ქართული ან ყატარული სასკოლო სერტიფიკატი.",
+   "ar": "تُقبل شهادة IB Diploma (30 نقطة فأكثر) وBac الفرنسية وAbitur ومجموعة امتحانات AP للمقاعد المخصصة للامتحانات الدولية. لا توضح الصفحة كيف تُعامَل الشهادة المدرسية الجورجية أو القطرية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "IB Diploma",
+   "AP",
+   "Abitur",
+   "Baccalauréat",
+   "ENEM"
+  ],
+  "aid_intl": null,
+  "tests": {
+   "en": "Three routes: the PUC-Rio vestibular, ENEM (2022-2026), or international exams (Abitur, AP, Bac, IB Diploma). You must register for the vestibular in every case. International-exam applicants compete for their first-choice programme only, and if the exam has no Portuguese essay they sit the Portuguese, Brazilian literature and essay papers as pass/fail.",
+   "ka": "სამი გზა: PUC-Rio-ს ვესტიბულარი, ENEM (2022-2026) ან საერთაშორისო გამოცდები (Abitur, AP, Bac, IB Diploma). ყველა შემთხვევაში ვესტიბულარზე რეგისტრაცია სავალდებულოა. საერთაშორისო გამოცდებით მსურველები მხოლოდ პირველი არჩევანის პროგრამაზე იასპარეზებენ; თუ გამოცდას პორტუგალიური ესე არ აქვს, ისინი აბარებენ პორტუგალიურს, ბრაზილიურ ლიტერატურასა და ესეს (გამსვლელი/ჩამჭრელი).",
+   "ar": "ثلاثة مسارات: امتحان PUC-Rio (الفيستيبولار)، أو ENEM (2022-2026)، أو الامتحانات الدولية (Abitur وAP وBac وIB Diploma). التسجيل في الفيستيبولار إلزامي في كل الحالات. يتنافس أصحاب الامتحانات الدولية على الخيار الأول فقط، وإن لم يتضمن امتحانهم مقالاً بالبرتغالية فعليهم اجتياز اختبارات البرتغالية والأدب البرازيلي والمقال بنظام النجاح/الرسوب."
+  },
+  "gpa_note": {
+   "en": "With an international exam you need IB Diploma 30 points or more, Bac 12 or more, Abitur 2.5 or better, or four AP exams (three required plus one extra) with at least 3 in each and 12 points in total.",
+   "ka": "საერთაშორისო გამოცდით საჭიროა IB Diploma მინიმუმ 30 ქულა, Bac მინიმუმ 12, Abitur 2.5 ან უკეთესი, ან ოთხი AP გამოცდა (სამი სავალდებულო და ერთი დამატებითი), თითოეულში მინიმუმ 3 და ჯამში 12 ქულა.",
+   "ar": "مع الامتحان الدولي يلزم IB Diploma بـ 30 نقطة فأكثر، أو Bac بـ 12 فأكثر، أو Abitur بدرجة 2.5 أو أفضل، أو أربعة امتحانات AP (ثلاثة إلزامية وواحد إضافي) بدرجة 3 على الأقل في كل منها ومجموع 12."
+  },
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Registration fee of R$ 200 (bank slip)",
+     "ka": "რეგისტრაციის გადასახადი R$ 200 (საბანკო ქვითარი)",
+     "ar": "رسوم التسجيل 200 ريال برازيلي (قسيمة بنكية)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Results of IB, AP, Abitur or Bac sent to vest@puc-rio.br",
+     "ka": "IB, AP, Abitur ან Bac-ის შედეგები გაგზავნილი vest@puc-rio.br-ზე",
+     "ar": "إرسال نتائج IB أو AP أو Abitur أو Bac إلى vest@puc-rio.br"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Vestibular papers, or ENEM score, or international exam result",
+     "ka": "ვესტიბულარის გამოცდები ან ENEM-ის ქულა ან საერთაშორისო გამოცდის შედეგი",
+     "ar": "امتحانات الفيستيبولار أو درجة ENEM أو نتيجة امتحان دولي"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Portuguese essay and Brazilian literature paper (pass/fail for international-exam applicants)",
+     "ka": "პორტუგალიური ესე და ბრაზილიური ლიტერატურა (საერთაშორისო გამოცდით მსურველებისთვის გამსვლელი/ჩამჭრელი)",
+     "ar": "مقال بالبرتغالية واختبار الأدب البرازيلي (نجاح/رسوب لأصحاب الامتحانات الدولية)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-16",
+  "id": "pontificia-universidade-catolica-do-rio-de-janeiro",
+  "name": {
+   "en": "Pontifícia Universidade Católica do Rio de Janeiro",
+   "ka": "რიო-დე-ჟანეიროს პაპის კათოლიკური უნივერსიტეტი (PUC-Rio)",
+   "ar": "الجامعة الكاثوليكية البابوية في ريو دي جانيرو"
+  },
+  "iso": "BR",
+  "city": "Rio de Janeiro",
+  "lat": -22.979,
+  "lon": -43.233,
+  "type": "private",
+  "website": "https://www.puc-rio.br",
+  "fields": [
+   "engineering",
+   "law",
+   "social-sciences",
+   "humanities",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Law",
+    "Social sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "სამართალი",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "القانون",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Private Catholic university in Rio de Janeiro. Courses are mostly in Portuguese; some are offered in English to exchange students.",
+   "ka": "კერძო კათოლიკური უნივერსიტეტი რიო-დე-ჟანეიროში. სწავლება ძირითადად პორტუგალიურადაა, ზოგი კურსი ინგლისურად გაცვლითი სტუდენტებისთვის.",
+   "ar": "جامعة كاثوليكية خاصة في ريو دي جانيرو. التدريس بالبرتغالية في الغالب مع بعض المواد بالإنجليزية لطلاب التبادل."
+  },
+  "about": {
+   "en": "PUC-Rio is a private university in Rio's Gávea district. Degree admission details for international applicants were not available from its official pages in this round; contact the university directly.",
+   "ka": "PUC-Rio კერძო უნივერსიტეტია რიოს გავეას უბანში. საერთაშორისო აპლიკანტების ხარისხის მიღების დეტალები ოფიციალურ გვერდებზე ამ რაუნდში ვერ მოიძებნა; დაუკავშირდით უნივერსიტეტს.",
+   "ar": "PUC-Rio جامعة خاصة في حي غافيا بريو. لم تتوفر تفاصيل القبول الدولي للدرجات في صفحاتها الرسمية في هذه الجولة؛ يُرجى التواصل مع الجامعة."
+  },
+  "keywords": [
+   "br",
+   "rio de janeiro"
+  ],
+  "sources": [
+   "https://www.puc-rio.br/english/index.html",
+   "https://www.puc-rio.br/ensinopesq/ccci/incoming/study_english_puc.html",
+   "https://www.puc-rio.br/vestibular/202612/",
+   "https://www.puc-rio.br/vestibular/202612/pdf/EDITAL-PUC-202612.pdf",
+   "https://puc-rio.br/ensinopesq/ccci/incoming/fees_tuition.html"
+  ]
+ },
+ {
+  "id": "universidade-federal-de-sao-paulo",
+  "name": {
+   "en": "Universidade Federal de São Paulo",
+   "ka": "სან-პაულოს ფედერალური უნივერსიტეტი",
+   "ar": "الجامعة الفيدرالية في ساو باولو"
+  },
+  "iso": "BR",
+  "city": "São Paulo",
+  "lat": -23.598,
+  "lon": -46.644,
+  "type": "public",
+  "website": "https://www.unifesp.br",
+  "platform": "PEC-G (selected in home country) / SiSU with ENEM",
+  "application_url": "https://ingresso.unifesp.br",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Unifesp's enrolment FAQ says secondary school finished abroad needs an equivalence declaration.",
+   "ka": "Unifesp-ის ხშირად დასმული კითხვები ჩარიცხვაზე ამბობს, რომ საზღვარგარეთ დასრულებულ საშუალო სკოლას ეკვივალენტობის დეკლარაცია სჭირდება.",
+   "ar": "تذكر الأسئلة الشائعة للتسجيل في Unifesp أن الثانوية المنجزة في الخارج تحتاج إلى إقرار معادلة."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "ENEM",
+   "Celpe-Bras"
+  ],
+  "fields": [
+   "medicine-health",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Nursing",
+    "Biomedical sciences",
+    "Pharmacy",
+    "Psychology"
+   ],
+   "ka": [
+    "მედიცინა",
+    "მედდობა",
+    "ბიოსამედიცინო მეცნიერებები",
+    "ფარმაცია",
+    "ფსიქოლოგია"
+   ],
+   "ar": [
+    "الطب",
+    "التمريض",
+    "العلوم الطبية الحيوية",
+    "الصيدلة",
+    "علم النفس"
+   ]
+  },
+  "summary": {
+   "en": "A federal public university in São Paulo, best known for medicine and health sciences. Teaching is in Portuguese.",
+   "ka": "ფედერალური საჯარო უნივერსიტეტი სან-პაულოში, ცნობილი მედიცინითა და ჯანდაცვის მეცნიერებებით. სწავლება პორტუგალიურადაა.",
+   "ar": "جامعة اتحادية عامة في ساو باولو، معروفة بالطب والعلوم الصحية. التدريس بالبرتغالية."
+  },
+  "about": {
+   "en": "UNIFESP began as the Paulista School of Medicine and now has several campuses in the São Paulo region. Bachelor teaching is in Portuguese. The university's website could not be read in this round, so admission rules, fees and deadlines for foreign applicants are left empty.",
+   "ka": "UNIFESP დაიწყო როგორც პაულისტას სამედიცინო სკოლა და ახლა რამდენიმე კამპუსი აქვს სან-პაულოს რეგიონში. საბაკალავრო სწავლება პორტუგალიურადაა. საიტი ამ რაუნდში არ წაიკითხა, ამიტომ მიღების წესები და ვადები მითითებული არ არის.",
+   "ar": "بدأت UNIFESP كمدرسة باوليستا للطب ولها الآن عدة فروع في منطقة ساو باولو. التدريس في البكالوريوس بالبرتغالية. لم يُقرأ موقعها في هذه الجولة، لذا تُركت الشروط والرسوم والمواعيد فارغة."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Foreign students enter mainly through PEC-G: they are selected in their home country, need Celpe-Bras Portuguese proficiency and are exempt from the university entrance exam. Other applicants use ENEM scores through SiSU.",
+   "ka": "უცხოელი სტუდენტები ძირითადად PEC-G-ით შედიან: ისინი მშობლიურ ქვეყანაში შეირჩევიან, სჭირდებათ პორტუგალიური ენის ცოდნა (Celpe-Bras) და საუნივერსიტეტო შესასვლელი გამოცდისგან თავისუფლდებიან. დანარჩენები SiSU-ით ENEM-ის ქულებს იყენებენ.",
+   "ar": "يلتحق الطلاب الأجانب غالباً عبر PEC-G: يُختارون في بلدانهم، ويحتاجون إلى إتقان البرتغالية (Celpe-Bras)، ويُعفون من امتحان القبول الجامعي. أما غيرهم فيستخدمون درجات ENEM عبر SiSU."
+  },
+  "gpa_note": {
+   "en": "PEC-G applicants must be over 18 (preferably 23 or younger), live abroad, hold a secondary school certificate and not hold a permanent or other Brazilian visa; places are limited each year.",
+   "ka": "PEC-G-ის კანდიდატი უნდა იყოს 18 წელზე უფროსი (სასურველია 23 წლამდე), ცხოვრობდეს საზღვარგარეთ, ჰქონდეს საშუალო სკოლის მოწმობა და არ ჰქონდეს მუდმივი ან სხვა ბრაზილიური ვიზა; ადგილები ყოველწლიურად შეზღუდულია.",
+   "ar": "يجب أن يكون المتقدم لـ PEC-G فوق 18 عاماً (ويفضَّل ألا يتجاوز 23)، ومقيماً في الخارج، وحاصلاً على شهادة الثانوية، وألا يحمل تأشيرة دائمة أو أخرى للبرازيل؛ والمقاعد محدودة كل عام."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school completion certificate (may be handed in at enrolment)",
+     "ka": "საშუალო სკოლის დამთავრების მოწმობა (შეიძლება ჩარიცხვისას წარდგენა)",
+     "ar": "شهادة إتمام المرحلة الثانوية (يمكن تقديمها عند التسجيل)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Celpe-Bras Portuguese certificate",
+     "ka": "პორტუგალიური ენის სერტიფიკატი Celpe-Bras",
+     "ar": "شهادة إتقان البرتغالية Celpe-Bras"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Signed financial responsibility term (transport and living costs in Brazil)",
+     "ka": "ხელმოწერილი ფინანსური პასუხისმგებლობის ვალდებულება (ტრანსპორტი და ცხოვრების ხარჯები ბრაზილიაში)",
+     "ar": "إقرار موقّع بالمسؤولية المالية (النقل والمعيشة في البرازيل)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Signed PEC-G commitment term and student visa",
+     "ka": "ხელმოწერილი PEC-G ვალდებულება და სტუდენტური ვიზა",
+     "ar": "إقرار التزام PEC-G موقّع وتأشيرة طالب"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalence declaration for secondary school finished abroad",
+     "ka": "საზღვარგარეთ დასრულებული საშუალო სკოლის ეკვივალენტობის დეკლარაცია",
+     "ar": "إقرار معادلة للثانوية المنجزة في الخارج"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "3x4 photo and identity document",
+     "ka": "3x4 ფოტო და პირადობის დოკუმენტი",
+     "ar": "صورة 3x4 ووثيقة هوية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "sao paulo",
+   "medicine",
+   "public"
+  ],
+  "sources": [
+   "https://www.unifesp.br",
+   "https://ingresso.unifesp.br",
+   "https://ingresso.unifesp.br/perguntas-frequentes-hide/quais-os-documentos-basicos-obrigatorios-de-matricula",
+   "https://legis.senado.leg.br/norma/588020/publicacao/15771164"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidade-federal-de-pernambuco-ufpe",
+  "name": {
+   "en": "Universidade Federal de Pernambuco (UFPE)",
+   "ka": "პერნამბუკუს ფედერალური უნივერსიტეტი (UFPE)",
+   "ar": "جامعة بيرنامبوكو الاتحادية (UFPE)"
+  },
+  "iso": "BR",
+  "city": "Recife",
+  "lat": -8.052,
+  "lon": -34.951,
+  "type": "public",
+  "website": "https://www.ufpe.br",
+  "platform": "SISU / ENEM (national)",
+  "application_url": "https://www.ufpe.br/en/international/admissions",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "ENEM",
+   "Celpe-Bras"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "medicine-health",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer science",
+    "Health sciences",
+    "Social sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "ჯანდაცვის მეცნიერებები",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "العلوم الصحية",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Federal public university in Recife, Brazil. Undergraduate teaching is in Portuguese.",
+   "ka": "ფედერალური საჯარო უნივერსიტეტი რესიფეში, ბრაზილია. ბაკალავრიატში სწავლება პორტუგალიურია.",
+   "ar": "جامعة اتحادية عامة في ريسيفي بالبرازيل. التدريس بالبرتغالية."
+  },
+  "about": {
+   "en": "UFPE is a federal public university based in Recife, Pernambuco. Brazilian federal universities fill undergraduate places mainly through the national SISU system using ENEM scores. The university website could not be reached for this review, so no international fee, deadline or entry rule was verified. Teaching is in Portuguese.",
+   "ka": "UFPE არის ფედერალური საჯარო უნივერსიტეტი რესიფეში. ბრაზილიის ფედერალური უნივერსიტეტები ბაკალავრიატის ადგილებს ძირითადად SISU-ს მეშვეობით ავსებენ. უნივერსიტეტის საიტი მიუწვდომელი იყო, ამიტომ საერთაშორისო საფასური და ვადები არ დადასტურდა. სწავლება პორტუგალიურია.",
+   "ar": "جامعة اتحادية عامة في ريسيفي. تملأ الجامعات الاتحادية البرازيلية مقاعدها عبر نظام SISU بدرجات ENEM. لم يمكن الوصول إلى موقع الجامعة، لذلك لم يتم التحقق من الرسوم أو المواعيد. التدريس بالبرتغالية."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Regular undergraduate entry is through SiSU, which accepts only ENEM scores. PEC-G students are selected in their home country and need Celpe-Bras Portuguese proficiency under the national decree.",
+   "ka": "რეგულარული საბაკალავრო მიღება SiSU-ით ხდება, რომელიც მხოლოდ ENEM-ის ქულებს იღებს. PEC-G სტუდენტები მშობლიურ ქვეყანაში შეირჩევიან და ეროვნული დეკრეტით საჭიროებენ პორტუგალიური ენის ცოდნას (Celpe-Bras).",
+   "ar": "القبول العادي للبكالوريوس عبر SiSU الذي يقبل نتائج ENEM فقط. يُختار طلاب PEC-G في بلدانهم ويحتاجون إلى إثبات البرتغالية (Celpe-Bras) بموجب المرسوم الوطني."
+  },
+  "gpa_note": {
+   "en": "PEC-G applicants must be over 18 (preferably 23 or younger), live abroad, hold a secondary school certificate and not hold a permanent or other Brazilian visa; places are limited each year.",
+   "ka": "PEC-G-ის კანდიდატი უნდა იყოს 18 წელზე უფროსი (სასურველია 23 წლამდე), ცხოვრობდეს საზღვარგარეთ, ჰქონდეს საშუალო სკოლის მოწმობა და არ ჰქონდეს მუდმივი ან სხვა ბრაზილიური ვიზა; ადგილები ყოველწლიურად შეზღუდულია.",
+   "ar": "يجب أن يكون المتقدم لـ PEC-G فوق 18 عاماً (ويفضَّل ألا يتجاوز 23)، ومقيماً في الخارج، وحاصلاً على شهادة الثانوية، وألا يحمل تأشيرة دائمة أو أخرى للبرازيل؛ والمقاعد محدودة كل عام."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school completion certificate (may be handed in at enrolment)",
+     "ka": "საშუალო სკოლის დამთავრების მოწმობა (შეიძლება ჩარიცხვისას წარდგენა)",
+     "ar": "شهادة إتمام المرحلة الثانوية (يمكن تقديمها عند التسجيل)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Celpe-Bras Portuguese certificate",
+     "ka": "პორტუგალიური ენის სერტიფიკატი Celpe-Bras",
+     "ar": "شهادة إتقان البرتغالية Celpe-Bras"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Signed financial responsibility term (transport and living costs in Brazil)",
+     "ka": "ხელმოწერილი ფინანსური პასუხისმგებლობის ვალდებულება (ტრანსპორტი და ცხოვრების ხარჯები ბრაზილიაში)",
+     "ar": "إقرار موقّع بالمسؤولية المالية (النقل والمعيشة في البرازيل)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Signed PEC-G commitment term and student visa",
+     "ka": "ხელმოწერილი PEC-G ვალდებულება და სტუდენტური ვიზა",
+     "ar": "إقرار التزام PEC-G موقّع وتأشيرة طالب"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "brazil",
+   "recife",
+   "pernambuco",
+   "portuguese"
+  ],
+  "sources": [
+   "https://www.ufpe.br",
+   "https://www.ufpe.br/en/international/admissions",
+   "https://www.ufpe.br/en/dri/estudantes-estrangeiros",
+   "https://legis.senado.leg.br/norma/588020/publicacao/15771164"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidade-federal-fluminense",
+  "name": {
+   "en": "Universidade Federal Fluminense",
+   "ka": "ფლუმინენსეს ფედერალური უნივერსიტეტი",
+   "ar": "جامعة فلومينينسي الاتحادية"
+  },
+  "iso": "BR",
+  "city": "Niterói",
+  "lat": -22.906,
+  "lon": -43.131,
+  "type": "public",
+  "website": "https://www.uff.br",
+  "platform": "SISU / ENEM; PEC-G for foreign students",
+  "application_url": "https://www.uff.br/prograd/formas-de-ingresso/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Portuguese"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "ENEM",
+   "Celpe-Bras"
+  ],
+  "fields": [
+   "social-sciences",
+   "engineering",
+   "medicine-health",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Social sciences",
+    "Engineering",
+    "Health sciences",
+    "Humanities"
+   ],
+   "ka": [
+    "სოციალური მეცნიერებები",
+    "ინჟინერია",
+    "ჯანდაცვის მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "العلوم الاجتماعية",
+    "الهندسة",
+    "العلوم الصحية",
+    "العلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "Federal public university in Niterói, across the bay from Rio de Janeiro. Foreign undergraduates enter through the PEC-G programme.",
+   "ka": "ფედერალური საჯარო უნივერსიტეტი ნიტეროიში, რიო-დე-ჟანეიროს მახლობლად. უცხოელი ბაკალავრები ჩაირიცხებიან PEC-G პროგრამით.",
+   "ar": "جامعة اتحادية عامة في نيتروي قرب ريو دي جانيرو. يلتحق الطلاب الأجانب عبر برنامج PEC-G."
+  },
+  "about": {
+   "en": "UFF is a federal public university in Niterói, Rio de Janeiro state. Its admission-modes page lists SiSU (needs ENEM results from the last three editions) and PEC-G for foreign students, who are selected in their home country and sent by Brazil's education ministry within UFF's yearly places. PEC-G students do not sit the university entrance exam. No fee amount is stated. Teaching is in Portuguese.",
+   "ka": "UFF არის ფედერალური საჯარო უნივერსიტეტი ნიტეროიში. მიღების გვერდზე მითითებულია SiSU (ENEM-ის ბოლო სამი წლის შედეგები) და PEC-G უცხოელებისთვის, რომლებიც საკუთარ ქვეყანაში შეირჩევიან. PEC-G სტუდენტები შესასვლელ გამოცდას არ აბარებენ. საფასური არ არის მითითებული. სწავლება პორტუგალიურია.",
+   "ar": "جامعة اتحادية عامة في نيتروي. صفحة طرق القبول تذكر SiSU (نتائج ENEM لآخر ثلاث دورات) وبرنامج PEC-G للأجانب الذين يتم اختيارهم في بلدهم ضمن مقاعد الجامعة السنوية. لا يخضع طلاب PEC-G لامتحان القبول. لم يُذكر مبلغ للرسوم. التدريس بالبرتغالية."
+  },
+  "aid_intl": {
+   "en": "PROAES offers a monthly scholarship of R$ 622 to PEC-G foreign students, selected by socioeconomic assessment.",
+   "ka": "PROAES სთავაზობს PEC-G-ის უცხოელ სტუდენტებს ყოველთვიურ სტიპენდიას R$ 622 სოციალურ-ეკონომიკური შეფასებით შერჩევით.",
+   "ar": "تقدّم PROAES منحة شهرية قدرها 622 ريالاً برازيلياً لطلاب PEC-G الأجانب، تُمنح بتقييم اجتماعي اقتصادي."
+  },
+  "tests": {
+   "en": "Home-country selection through PEC-G; no university entrance exam for PEC-G students. SiSU applicants use ENEM scores.",
+   "ka": "PEC-G-ით სტუდენტები შეირჩევიან საკუთარ ქვეყანაში; უნივერსიტეტის შესასვლელი გამოცდა არ არის საჭირო. SiSU-ს განმცხადებლები იყენებენ ENEM-ის ქულებს.",
+   "ar": "الاختيار في بلد الطالب عبر PEC-G دون امتحان قبول جامعي. متقدمو SiSU يستخدمون درجات ENEM."
+  },
+  "gpa_note": {
+   "en": "PEC-G students are selected in their home country through MEC and MRE and are exempt from the vestibular; enrolment is limited to the places UFF offers each year.",
+   "ka": "PEC-G სტუდენტები მშობლიურ ქვეყანაში MEC-სა და MRE-ის მეშვეობით შეირჩევიან და ვესტიბულარისგან თავისუფლდებიან; ჩარიცხვა UFF-ის ყოველწლიური ადგილებით შემოიფარგლება.",
+   "ar": "يُختار طلاب PEC-G في بلدانهم عبر MEC وMRE ويُعفون من الفيستيبولار؛ والقبول محدود بالمقاعد التي تعرضها UFF كل عام."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school completion certificate (may be handed in at enrolment)",
+     "ka": "საშუალო სკოლის დამთავრების მოწმობა (შეიძლება ჩარიცხვისას წარდგენა)",
+     "ar": "شهادة إتمام المرحلة الثانوية (يمكن تقديمها عند التسجيل)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Celpe-Bras Portuguese certificate",
+     "ka": "პორტუგალიური ენის სერტიფიკატი Celpe-Bras",
+     "ar": "شهادة إتقان البرتغالية Celpe-Bras"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Signed financial responsibility term (transport and living costs in Brazil)",
+     "ka": "ხელმოწერილი ფინანსური პასუხისმგებლობის ვალდებულება (ტრანსპორტი და ცხოვრების ხარჯები ბრაზილიაში)",
+     "ar": "إقرار موقّع بالمسؤولية المالية (النقل والمعيشة في البرازيل)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Signed PEC-G commitment term and student visa",
+     "ka": "ხელმოწერილი PEC-G ვალდებულება და სტუდენტური ვიზა",
+     "ar": "إقرار التزام PEC-G موقّع وتأشيرة طالب"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "UFF PEC-G student scholarship (PROAES)",
+    "url": "https://www.uff.br/servico/bolsa-para-estudantes-estrangeiro-pec-g/",
+    "coverage": "partial"
+   }
+  ],
+  "keywords": [
+   "brazil",
+   "niteroi",
+   "rio",
+   "PEC-G",
+   "portuguese"
+  ],
+  "sources": [
+   "https://www.uff.br/prograd/formas-de-ingresso/",
+   "https://legis.senado.leg.br/norma/588020/publicacao/15771164",
+   "https://www.uff.br/servico/bolsa-para-estudantes-estrangeiro-pec-g/",
+   "https://legis.senado.leg.br/norma/588020/publicacao/15771164"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-de-concepcion",
+  "name": {
+   "en": "Universidad de Concepción",
+   "ka": "კონსეპსიონის უნივერსიტეტი",
+   "ar": "جامعة كونسبسيون"
+  },
+  "iso": "CL",
+  "city": "Concepcion",
+  "lat": -36.829,
+  "lon": -73.036,
+  "type": "private",
+  "website": "https://www.udec.cl",
+  "platform": null,
+  "application_url": "https://admision.udec.cl/ingresos-especiales/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Special admission system for Chilean or foreign applicants who studied abroad; the 2027 application dates were not published in the pages found. Check admision.udec.cl.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 30000,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "medicine-health",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Natural sciences",
+    "Health sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ჯანდაცვის მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم الطبيعية",
+    "علوم الصحة"
+   ]
+  },
+  "summary": {
+   "en": "A traditional Chilean university in Concepción, taught in Spanish. Official admission details for foreign school-leavers could not be read.",
+   "ka": "ტრადიციული ჩილელი უნივერსიტეტი კონსეპსიონში, სწავლება ესპანურად. უცხოეთში სკოლადამთავრებულთა მიღების ოფიციალური მონაცემები ვერ წაიკითხა.",
+   "ar": "جامعة تشيلية عريقة في كونسبسيون، التدريس بالإسبانية. لم تتوفر بيانات رسمية مقروءة عن قبول خريجي المدارس الأجنبية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": {
+   "en": "You must have studied at least two years of secondary school abroad and finished it in the two years before the academic period you apply for; you may apply to one programme only.",
+   "ka": "საშუალო სკოლის მინიმუმ ორი წელი უცხოეთში უნდა გქონდეთ გავლილი და დასრულებული უნდა იყოს განაცხადის აკადემიურ პერიოდამდე ორი წლის განმავლობაში; განაცხადი მხოლოდ ერთ პროგრამაზე შეიძლება.",
+   "ar": "يجب أن تكون قد درست سنتين على الأقل من الثانوية في الخارج وأنهيتها خلال السنتين السابقتين للفترة الأكاديمية المتقدَّم إليها؛ ويُسمح بالتقديم إلى برنامج واحد فقط."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school grade certificate",
+     "ka": "საშუალო სკოლის შეფასებების ცნობა",
+     "ar": "شهادة درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Certificate from the education authority of the country of study",
+     "ka": "განათლების უწყების ცნობა სწავლის ქვეყნიდან",
+     "ar": "شهادة من الجهة التعليمية في بلد الدراسة"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Sworn statement of means to pay tuition and live in Chile",
+     "ka": "ფიცით დადასტურებული ცნობა სწავლისა და ცხოვრების ხარჯების დაფარვის შესახებ",
+     "ar": "إقرار مشفوع باليمين بالقدرة على دفع الرسوم والمعيشة في تشيلي"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "University tax payment receipt (70,000 CLP in the 2024 rules)",
+     "ka": "საუნივერსიტეტო გადასახადის ქვითარი (2024 წესებით 70,000 CLP)",
+     "ar": "إيصال دفع الضريبة الجامعية (70,000 بيزو في قواعد 2024)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Original foreign documents, legalised and translated into Spanish",
+     "ka": "უცხოური დოკუმენტების ორიგინალები, ლეგალიზებული და ესპანურად ნათარგმნი",
+     "ar": "وثائق أجنبية أصلية مصدقة ومترجمة إلى الإسبانية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "chile",
+   "concepcion"
+  ],
+  "sources": [
+   "https://admision.udec.cl/ingresos-especiales/",
+   "https://admision.udec.cl/wp-content/uploads/2025/01/01_2024_8-Educ-Media-Extr.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "pontificia-universidad-catolica-de-valparaiso",
+  "name": {
+   "en": "Pontificia Universidad Católica de Valparaíso",
+   "ka": "ვალპარაისოს პაპისეული კათოლიკური უნივერსიტეტი",
+   "ar": "جامعة بونتيفيسيا الكاثوليكية في فالبارايسو"
+  },
+  "iso": "CL",
+  "city": "Valparaíso",
+  "lat": -33.034,
+  "lon": -71.595,
+  "type": "private",
+  "website": "https://www.pucv.cl",
+  "platform": null,
+  "application_url": "https://estudiantespucv.cl/postulaciones",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Special admission for the first semester of 2027: registration and documents 21 Aug to 30 Sep 2026; route deadlines run to 11 Dec 2026 (other direct-access routes). Requirements depend on the route; see the terms PDF on the page.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "business",
+   "humanities",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business",
+    "Humanities",
+    "Sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი",
+    "ჰუმანიტარული მეცნიერებები",
+    "მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال",
+    "العلوم الإنسانية",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "PUCV is a Catholic university in Valparaíso, Chile, that teaches mainly in Spanish. Its site blocked automated reading, so no fee or deadline is listed here.",
+   "ka": "PUCV ჩილეს ქალაქ ვალპარაისოს კათოლიკური უნივერსიტეტია, სწავლება ძირითადად ესპანურად მიმდინარეობს. საიტმა ავტომატური წაკითხვა დაბლოკა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "PUCV جامعة كاثوليكية في فالبارايسو بتشيلي، التدريس فيها بالإسبانية غالبًا. حجب الموقع القراءة الآلية، لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "PUCV is a Catholic university in Valparaíso, Chile, that teaches mainly in Spanish. Its site blocked automated reading, so no fee or deadline is listed here.",
+   "ka": "PUCV ჩილეს ქალაქ ვალპარაისოს კათოლიკური უნივერსიტეტია, სწავლება ძირითადად ესპანურად მიმდინარეობს. საიტმა ავტომატური წაკითხვა დაბლოკა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "PUCV جامعة كاثوليكية في فالبارايسو بتشيلي، التدريس فيها بالإسبانية غالبًا. حجب الموقع القراءة الآلية، لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "aid_intl": {
+   "en": "The Beca Juan Gómez Millas covers part or all of the annual tuition (up to 1,150,000 CLP) for non-Chilean students from Latin America and the Caribbean with financial need; the page may describe earlier years.",
+   "ka": "Beca Juan Gómez Millas ფარავს წლიური გადასახადის ნაწილს ან მთლიანს (1,150,000 CLP-მდე) ლათინური ამერიკისა და კარიბის ქვეყნების არაჩილელი სტუდენტებისთვის ფინანსური საჭიროებისას; გვერდი შესაძლოა წინა წლებს აღწერდეს.",
+   "ar": "تغطي منحة Beca Juan Gómez Millas جزءاً من الرسوم السنوية أو كلها (حتى 1,150,000 بيزو) للطلاب غير التشيليين من أمريكا اللاتينية والكاريبي ذوي الحاجة المالية؛ وقد تصف الصفحة سنوات سابقة."
+  },
+  "tests": {
+   "en": "Special-admission applicants who finish secondary school in the current year must also sit the PAES and join the national admission process. Each special route sets its own extra requirements; see the terms PDF.",
+   "ka": "განსაკუთრებული მიღებით მსურველებმა, რომლებიც მიმდინარე წელს ამთავრებენ საშუალო სკოლას, უნდა ჩააბარონ PAES და ჩაერთონ ეროვნულ მიღების პროცესში. თითოეულ განსაკუთრებულ გზას საკუთარი დამატებითი მოთხოვნები აქვს; იხილეთ პირობების PDF.",
+   "ar": "على المتقدمين بالقبول الخاص الذين ينهون الثانوية في السنة الحالية أداء PAES والمشاركة في عملية القبول الوطنية. ولكل مسار خاص شروطه الإضافية؛ راجع ملف الشروط."
+  },
+  "gpa_note": {
+   "en": "You must have completed secondary school or its equivalent. You may make only one application, in one route, and choose up to two programmes if the route allows it.",
+   "ka": "საშუალო სკოლა ან მისი ეკვივალენტი დასრულებული უნდა გქონდეთ. შეგიძლიათ მხოლოდ ერთი განაცხადი ერთ გზაზე და, თუ გზა იძლევა, არაუმეტეს ორი პროგრამა.",
+   "ar": "يجب أن تكون قد أنهيت الثانوية أو ما يعادلها. يُسمح بطلب واحد فقط في مسار واحد، ويمكن اختيار برنامجين كحد أقصى إن سمح المسار بذلك."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Proof of completed secondary education or equivalent",
+     "ka": "დასრულებული საშუალო განათლების ან ეკვივალენტის დამადასტურებელი დოკუმენტი",
+     "ar": "إثبات إتمام التعليم الثانوي أو ما يعادله"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Route-specific documents uploaded on the application portal",
+     "ka": "გზის შესაბამისი დოკუმენტები, ატვირთული განაცხადის პორტალზე",
+     "ar": "مستندات خاصة بكل مسار تُرفع على بوابة التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "chile",
+   "valparaiso"
+  ],
+  "sources": [
+   "https://estudiantespucv.cl/postulaciones",
+   "https://www.pucv.cl/pucv/pregrado/vias-de-admision",
+   "https://estudiantespucv.cl/wp-content/uploads/2026/08/Terminos-y-Condiciones-IIEE-1S-2027.pdf",
+   "https://estudiantespucv.cl/aranceles/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-de-los-andes-chile",
+  "name": {
+   "en": "Universidad de los Andes - Chile",
+   "ka": "ანდესის უნივერსიტეტი (ჩილე)",
+   "ar": "جامعة لوس أندes تشيلي"
+  },
+  "iso": "CL",
+  "city": "Santiago",
+  "lat": -33.392,
+  "lon": -70.5,
+  "type": "private",
+  "website": "https://www.uandes.cl",
+  "platform": null,
+  "application_url": "https://admision.uandes.cl/estudiantes-de-region-y-del-extranjero",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Admisión Directa 2027: applications opened 11 Aug; first stage closed 11 Sep 2026; a second stage starts 14 Sep, subject to available places. Classes start March 2027.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Foreign applicants have their own routes in Admisión Directa and need a secondary-school average (NEM) on the Chilean scale, from 5.5 to 6.2 depending on the programme. IB Diploma routes exist for most programmes.",
+   "ka": "უცხოელ აპლიკანტებს Admisión Directa-ში საკუთარი გზები აქვთ და სჭირდებათ საშუალო სკოლის საშუალო ქულა (NEM) ჩილეს სკალით, პროგრამის მიხედვით 5.5-დან 6.2-მდე. IB Diploma-ს გზები უმეტეს პროგრამას აქვს.",
+   "ar": "للمتقدمين الأجانب مسارات خاصة في القبول المباشر ويُشترط معدل ثانوي (NEM) على المقياس التشيلي من 5.5 إلى 6.2 حسب البرنامج. وتتوفر مسارات IB Diploma لمعظم البرامج."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "PAES",
+   "IB Diploma",
+   "English B2 (International Business)"
+  ],
+  "fields": [
+   "medicine-health",
+   "law",
+   "business"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": {
+   "en": "A scholarship for schools abroad with an agreement (Beca colegios extranjeros por convenio) exists; see the university page.",
+   "ka": "არსებობს სტიპენდია უცხოური სკოლებისთვის, რომლებსაც ხელშეკრულება აქვთ (Beca colegios extranjeros por convenio); იხილეთ უნივერსიტეტის გვერდი.",
+   "ar": "توجد منحة للمدارس الأجنبية ذات الاتفاقيات (Beca colegios extranjeros por convenio)؛ راجع صفحة الجامعة."
+  },
+  "tests": {
+   "en": "Admisión Directa 2027 accepts IB Diploma scores by programme (for example Civil Engineering 27 points with 4.0 in Mathematics, Commercial Engineering 29, International Business 30) or PAES scores. Only International Business asks for English: the faculty exam or a B2 certificate.",
+   "ka": "Admisión Directa 2027 იღებს IB Diploma-ს ქულებს პროგრამის მიხედვით (მაგ. სამოქალაქო ინჟინერია 27 ქულა და მათემატიკაში 4.0, კომერციული ინჟინერია 29, International Business 30) ან PAES-ის ქულებს. ინგლისური მხოლოდ International Business-ს სჭირდება: ფაკულტეტის გამოცდა ან B2 სერტიფიკატი.",
+   "ar": "يقبل القبول المباشر 2027 درجات IB Diploma حسب البرنامج (مثلاً الهندسة المدنية 27 نقطة مع 4.0 في الرياضيات، والهندسة التجارية 29، وInternational Business 30) أو درجات PAES. الإنجليزية مطلوبة لـ International Business فقط: امتحان الكلية أو شهادة B2."
+  },
+  "gpa_note": {
+   "en": "Foreign applicants need a secondary average (NEM) of 6.0 for Architecture, Political Science, Commercial Engineering and International Business, 6.2 for Dentistry, and 5.5 for Civil Engineering, Philosophy, History and Literature.",
+   "ka": "უცხოელ აპლიკანტებს სჭირდებათ საშუალო სკოლის საშუალო (NEM) 6.0 არქიტექტურაზე, პოლიტმეცნიერებაზე, კომერციულ ინჟინერიასა და International Business-ზე, 6.2 სტომატოლოგიაზე და 5.5 სამოქალაქო ინჟინერიაზე, ფილოსოფიაზე, ისტორიასა და ლიტერატურაზე.",
+   "ar": "يحتاج المتقدمون الأجانب إلى معدل ثانوي (NEM) قدره 6.0 للعمارة والعلوم السياسية والهندسة التجارية وInternational Business، و6.2 لطب الأسنان، و5.5 للهندسة المدنية والفلسفة والتاريخ والأدب."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "School grades (PDF, under 2 MB)",
+     "ka": "სკოლის ნიშნები (PDF, 2 MB-მდე)",
+     "ar": "درجات المدرسة (PDF أقل من 2 ميغابايت)"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Certificates, including IB Diploma results where used",
+     "ka": "სერტიფიკატები, მათ შორის IB Diploma-ს შედეგები",
+     "ar": "الشهادات بما فيها نتائج IB Diploma عند استخدامها"
+    }
+   },
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Cover letter (carta de presentación)",
+     "ka": "სამოტივაციო წერილი (carta de presentación)",
+     "ar": "خطاب تقديمي (carta de presentación)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English B2 certificate or faculty exam (International Business only)",
+     "ka": "ინგლისურის B2 სერტიფიკატი ან ფაკულტეტის გამოცდა (მხოლოდ International Business)",
+     "ar": "شهادة إنجليزية B2 أو امتحان الكلية (لـ International Business فقط)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "cl",
+   "santiago"
+  ],
+  "sources": [
+   "https://admision.uandes.cl/estudiantes-de-region-y-del-extranjero",
+   "https://admision.uandes.cl/admision/admision-directa"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-tecnica-federico-santa-maria-usm",
+  "name": {
+   "en": "Universidad Técnica Federico Santa María (USM)",
+   "ka": "ფედერიკო სანტა მარიას ტექნიკური უნივერსიტეტი (USM)",
+   "ar": "جامعة فيديريكو سانتا ماريا التقنية (USM)"
+  },
+  "iso": "CL",
+  "city": "Valparaíso",
+  "lat": -33.034,
+  "lon": -71.595,
+  "type": "private",
+  "website": "https://www.usm.cl",
+  "platform": "Admisión Especial via admision.usm.cl",
+  "application_url": "https://usm.cl/admision/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 6520000,
+   "currency": "CLP",
+   "per": "year",
+   "note": "2026 tuition for Architecture (day); enrolment fee 137,500 CLP per semester. Only this programme was found; other programmes differ. No separate international rate is published."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "IB Diploma, French Bac, ECS and Abitur are accepted through Admisión Especial; studies abroad must be certified.",
+   "ka": "IB Diploma, ფრანგული Bac, ECS და Abitur მიიღება Admisión Especial-ით; საზღვარგარეთ სწავლა დადასტურებული უნდა იყოს.",
+   "ar": "تُقبل IB Diploma وBac الفرنسية وECS وAbitur عبر القبول الخاص؛ ويجب توثيق الدراسة في الخارج."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "IB Diploma",
+   "Baccalauréat (BAC)",
+   "Abitur"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Private engineering-focused university in Valparaíso, Chile. Teaching is in Spanish. Its admissions pages could not be read, so no official fee data is listed.",
+   "ka": "ვალპარაისოს (ჩილე) კერძო საინჟინრო უნივერსიტეტი. სწავლება ესპანურ ენაზეა. მისაღები პირობები ოფიციალური გვერდიდან ვერ წაიკითხა, ამიტომ საფასური მითითებული არ არის.",
+   "ar": "جامعة خاصة متخصصة في الهندسة في فالبارايسو بتشيلي. التدريس بالإسبانية. تعذّر قراءة صفحات القبول الرسمية، لذلك لا تُعرض رسوم رسمية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "The Admisión Especial route is for people who finished secondary school abroad within the last year, or who sat the IB, French Bac, ECS or Abitur under agreement with USM. It allows entry without a PAES score, but applicants still register for the national test. Scores quoted on the USM page: IB 24, Bac 12, ECS 75; older versions differ, so confirm the current figure.",
+   "ka": "Admisión Especial განკუთვნილია მათთვის, ვინც საშუალო სკოლა ბოლო ერთი წლის განმავლობაში საზღვარგარეთ დაასრულა ან USM-თან შეთანხმებით ჩააბარა IB, ფრანგული Bac, ECS ან Abitur. შესაძლებელია PAES-ის ქულის გარეშე ჩარიცხვა, თუმცა ეროვნულ გამოცდაზე რეგისტრაცია მაინც საჭიროა. USM-ის გვერდზე მითითებული ქულებია: IB 24, Bac 12, ECS 75; ძველი ვერსიები განსხვავდება, ამიტომ მიმდინარე მონაცემი გადაამოწმეთ.",
+   "ar": "مسار القبول الخاص لمن أنهوا الثانوية في الخارج خلال السنة الأخيرة أو أدّوا IB أو Bac الفرنسية أو ECS أو Abitur بموجب اتفاق مع USM. يتيح الالتحاق دون درجة PAES، لكن التسجيل في الاختبار الوطني يبقى مطلوباً. الدرجات المذكورة في صفحة USM: IB 24 وBac 12 وECS 75؛ وتختلف النسخ الأقدم، لذا تحقق من الرقم الحالي."
+  },
+  "gpa_note": {
+   "en": "Applicants must have left secondary school no more than one year before applying and prove their foreign studies or their IB or Abitur result; foreigners must also certify their date of entry into the country.",
+   "ka": "აპლიკანტმა საშუალო სკოლა განაცხადამდე არაუმეტეს ერთი წლით ადრე უნდა დაასრულოს და დაადასტუროს საზღვარგარეთ სწავლა ან IB/Abitur შედეგი; უცხოელებმა ქვეყანაში შესვლის თარიღიც უნდა დაადასტურონ.",
+   "ar": "يجب ألا يتجاوز تخرجك من الثانوية سنة قبل التقديم، وأن تثبت دراستك في الخارج أو نتيجة IB أو Abitur؛ وعلى الأجانب إثبات تاريخ دخولهم البلاد."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Copy of identity card, both sides",
+     "ka": "პირადობის მოწმობის ასლი, ორივე მხარე",
+     "ar": "نسخة من بطاقة الهوية من الوجهين"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Certification of studies abroad, or IB programme or Abitur result",
+     "ka": "საზღვარგარეთ სწავლის დადასტურება ან IB პროგრამის/Abitur-ის შედეგი",
+     "ar": "توثيق الدراسة في الخارج أو نتيجة IB أو Abitur"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "PAES (PDT) registration card",
+     "ka": "PAES (PDT)-ზე რეგისტრაციის ბარათის ასლი",
+     "ar": "نسخة من بطاقة التسجيل في الاختبار الوطني (PDT)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Proof of date of entry to Chile (foreigners)",
+     "ka": "ჩილეში შესვლის თარიღის დადასტურება (უცხოელებისთვის)",
+     "ar": "إثبات تاريخ الدخول إلى تشيلي (للأجانب)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "chile",
+   "valparaiso",
+   "engineering"
+  ],
+  "sources": [
+   "https://arquitectura.usm.cl/admision-pregrado/",
+   "https://usm.cl/admision/",
+   "https://usm.cl/en/2022-admission-process/special-admission-process/",
+   "https://concepcion.usm.cl/admision/admision-especial/"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

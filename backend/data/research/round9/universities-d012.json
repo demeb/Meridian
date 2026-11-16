@@ -1,0 +1,1204 @@
+[
+ {
+  "id": "cairo-university",
+  "name": {
+   "en": "Cairo University",
+   "ka": "კაიროს უნივერსიტეტი",
+   "ar": "جامعة القاهرة"
+  },
+  "iso": "EG",
+  "city": "Giza",
+  "lat": 30.027,
+  "lon": 31.208,
+  "type": "public",
+  "website": "https://www.cu.edu.eg",
+  "platform": "Study in Egypt portal / Wafedeen (Ministry of Higher Education)",
+  "application_url": "https://admission.study-in-egypt.gov.eg/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 230000,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "law",
+   "economics",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Law",
+    "Economics and Political Science"
+   ],
+   "ka": [
+    "მედიცინა",
+    "საინჟინრო საქმე",
+    "სამართალი",
+    "ეკონომიკა და პოლიტიკური მეცნიერებები"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "القانون",
+    "الاقتصاد والعلوم السياسية"
+   ]
+  },
+  "summary": {
+   "en": "Egypt's flagship public university in Giza, founded 1908, with over 200,000 students.",
+   "ka": "ეგვიპტის მთავარი საჯარო უნივერსიტეტი გიზაში, დაარსებული 1908 წელს, 200 000-ზე მეტი სტუდენტით.",
+   "ar": "الجامعة الحكومية الأبرز في مصر بالجيزة، تأسست عام 1908، وتضم أكثر من 200 ألف طالب."
+  },
+  "about": {
+   "en": "Cairo University is a large public university. Most undergraduate teaching is in Arabic, with English-language programmes in some faculties.",
+   "ka": "კაიროს უნივერსიტეტი დიდი საჯარო უნივერსიტეტია. ბაკალავრიატში სწავლება ძირითადად არაბულადაა, ზოგ ფაკულტეტზე ინგლისური პროგრამებიცაა.",
+   "ar": "جامعة القاهرة جامعة حكومية كبيرة. التدريس الجامعي بالعربية في الغالب مع برامج بالإنجليزية في بعض الكليات."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "No entrance exam is listed for international applicants. Faculty of Agriculture English-language programmes ask for at least 70% in English; Faculty of Medicine asks for immunisation proof and medical insurance.",
+   "ka": "საერთაშორისო აპლიკანტებისთვის მისაღები გამოცდა მითითებული არ არის. სოფლის მეურნეობის ფაკულტეტის ინგლისურენოვან პროგრამებზე ინგლისურში მინიმუმ 70% სჭირდება; მედიცინის ფაკულტეტი ითხოვს ვაქცინაციის დადასტურებასა და სამედიცინო დაზღვევას.",
+   "ar": "لا يُذكر امتحان قبول للمتقدمين الدوليين. تشترط برامج كلية الزراعة بالإنجليزية 70% على الأقل في الإنجليزية، وتطلب كلية الطب إثبات التطعيمات وتأمينا صحيا."
+  },
+  "gpa_note": {
+   "en": "Foreign students are admitted to undergraduate study with the approval of the Ministry of Higher Education and Scientific Research.",
+   "ka": "უცხოელი სტუდენტები ბაკალავრიატში მიიღებიან უმაღლესი განათლებისა და სამეცნიერო კვლევის სამინისტროს თანხმობით.",
+   "ar": "يُقبل الطلاب الأجانب في مرحلة البكالوريوس بموافقة وزارة التعليم العالي والبحث العلمي."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport copy",
+     "ka": "მოქმედი პასპორტის ასლი",
+     "ar": "صورة جواز سفر ساري"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Recent passport photos",
+     "ka": "ახალი პასპორტის ფოტოები",
+     "ar": "صور شخصية حديثة"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Registration fee receipt",
+     "ka": "რეგისტრაციის გადასახადის ქვითარი",
+     "ar": "إيصال سداد رسوم التسجيل"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate (authenticated)",
+     "ka": "საშუალო სკოლის დამოწმებული სერტიფიკატი",
+     "ar": "شهادة الثانوية موثقة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.cu.edu.eg/International_student_services",
+   "https://medicine.cu.edu.eg/international-students-undergraduate/",
+   "http://www.agr.cu.edu.eg/langs/index.php/sectors/learningandstudents/conditions-for-international-students-admission",
+   "https://study-in-egypt.gov.eg/ar/how-to-apply"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "ain-shams-university-in-cairo-asu-cairo",
+  "name": {
+   "en": "Ain Shams University in Cairo (ASU, Cairo)",
+   "ka": "ქაიროს ეინ შამსის უნივერსიტეტი",
+   "ar": "جامعة عين شمس في القاهرة"
+  },
+  "iso": "EG",
+  "city": "Cairo",
+  "lat": 30.077,
+  "lon": 31.285,
+  "type": "public",
+  "website": "https://www.asu.edu.eg",
+  "platform": "Study in Egypt portal + International Students Administration",
+  "application_url": "https://admission.study-in-egypt.gov.eg/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Document intake for 2025/26 opened 21 July 2025; accepted students are contacted by email from September. The 2026/27 dates are not yet confirmed.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "Large public university in Cairo. Official international admission and fee pages could not be read this round.",
+   "ka": "დიდი საჯარო უნივერსიტეტი კაიროში. ოფიციალური გვერდები ვერ წაიკითხა.",
+   "ar": "جامعة حكومية كبيرة في القاهرة. تعذرت قراءة صفحات القبول والرسوم الرسمية."
+  },
+  "about": {
+   "en": "Ain Shams University is one of Egypt's largest public universities, in Cairo. Teaching is in Arabic, with some English-language programmes. No official fee, deadline or requirement details could be retrieved.",
+   "ka": "ეინ შამსის უნივერსიტეტი ეგვიპტის ერთ-ერთი უდიდესი საჯარო უნივერსიტეტია კაიროში. სწავლება არაბულადაა, ზოგი პროგრამა ინგლისურად. ოფიციალური მონაცემები ვერ მოიძებნა.",
+   "ar": "جامعة عين شمس من أكبر الجامعات الحكومية في مصر ومقرها القاهرة. التدريس بالعربية مع بعض البرامج بالإنجليزية. لم تتوفر بيانات رسمية عن الرسوم والمواعيد والشروط."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "Some faculties require aptitude test results. Accepted students must pass a medical exam at their faculty and pay the registration fee before final enrolment.",
+   "ka": "ზოგ ფაკულტეტს სჭირდება უნარების ტესტის შედეგები. მიღებულმა სტუდენტებმა საბოლოო ჩარიცხვამდე უნდა გაიარონ სამედიცინო გასინჯვა ფაკულტეტზე და გადაიხადონ რეგისტრაციის საფასური.",
+   "ar": "تشترط بعض الكليات نتيجة اختبار القدرات. على المقبولين اجتياز الكشف الطبي في كلياتهم وسداد رسوم التسجيل قبل القيد النهائي."
+  },
+  "gpa_note": {
+   "en": "Applicants need an original, certified secondary school certificate; faculties may add aptitude tests and have their own subject conditions.",
+   "ka": "აპლიკანტს სჭირდება საშუალო სკოლის დამოწმებული ორიგინალი სერტიფიკატი; ფაკულტეტებს შეიძლება დამატებითი ტესტები და საგნობრივი პირობები ჰქონდეთ.",
+   "ar": "يحتاج المتقدم إلى أصل شهادة الثانوية موثقة، وقد تضيف الكليات اختبارات قدرات وشروطا خاصة بالمواد."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate (authenticated)",
+     "ka": "საშუალო სკოლის დამოწმებული სერტიფიკატი",
+     "ar": "شهادة الثانوية موثقة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Birth certificate",
+     "ka": "დაბადების მოწმობა",
+     "ar": "شهادة الميلاد"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport copy",
+     "ka": "მოქმედი პასპორტის ასლი",
+     "ar": "صورة جواز سفر ساري"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Recent passport photos",
+     "ka": "ახალი პასპორტის ფოტოები",
+     "ar": "صور شخصية حديثة"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Aptitude test results (some faculties)",
+     "ka": "უნარების ტესტის შედეგები (ზოგ ფაკულტეტზე)",
+     "ar": "نتيجة اختبار القدرات (بعض الكليات)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Registration fee receipt",
+     "ka": "რეგისტრაციის გადასახადის ქვითარი",
+     "ar": "إيصال سداد رسوم التسجيل"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Nomination letter from the Study in Egypt platform",
+     "ka": "Study in Egypt პლატფორმის ნომინაციის წერილი",
+     "ar": "خطاب الترشيح من منصة ادرس في مصر"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": null,
+  "sources": [
+   "https://www.asu.edu.eg/ar/8963/news/start-of-receiving-application-documents-for-international-students-at-ain-shams-university-for-the-academic-year-20252026"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "duolingo_min": null,
+  "toefl_min": null,
+  "ielts_min": null,
+  "other_tests": [],
+  "scholarships": [],
+  "verified_at": "2026-11-16",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "id": "alexandria-university",
+  "name": {
+   "en": "Alexandria University",
+   "ka": "ალექსანდრიის უნივერსიტეტი",
+   "ar": "جامعة الإسكندرية"
+  },
+  "iso": "EG",
+  "city": "Alexandria",
+  "lat": 31.208,
+  "lon": 29.909,
+  "type": "public",
+  "website": "https://alexu.edu.eg",
+  "platform": "Wafedeen portal (wafeden.gov.eg) + General Administration for Admission and Expatriates",
+  "application_url": "https://admission.study-in-egypt.gov.eg/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "Applicants register on the Wafedeen portal from June to the end of August each year, then submit documents; one page gives mid-September as the embassy deadline. Registration is free.",
+  "tuition_intl": {
+   "amount": 1500,
+   "currency": "GBP",
+   "per": "year",
+   "note": "Scientific faculties (medicine, pharmacy, dentistry, engineering, science etc.): 1,500 GBP a year plus 1,500 GBP one-time registration fee. Literary faculties (arts, law, commerce): 1,000 GBP a year plus 1,000 GBP registration. Medical sector international programme: 8,000 USD a year. Fee page dated 2016; check the current schedule."
+  },
+  "students": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Pharmacy",
+    "Science",
+    "Law"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "ფარმაცია",
+    "მეცნიერება",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "الصيدلة",
+    "العلوم",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in Alexandria, Egypt. International (wafedeen) admission rules and fees are on its Arabic expatriates page and the national Study in Egypt portal.",
+   "ka": "დიდი სახელმწიფო უნივერსიტეტი ეგვიპტის ალექსანდრიაში. საერთაშორისო სტუდენტების მიღების წესები და საფასურები არაბულ გვერდზეა და ეროვნულ პორტალზე Study in Egypt.",
+   "ar": "جامعة حكومية كبيرة في الإسكندرية بمصر. قواعد قبول الوافدين ورسومهم في صفحة الوافدين العربية وعلى بوابة Study in Egypt الوطنية."
+  },
+  "about": {
+   "en": "A large public university in Alexandria, Egypt. International (wafedeen) admission rules and fees are on its Arabic expatriates page and the national Study in Egypt portal.",
+   "ka": "დიდი სახელმწიფო უნივერსიტეტი ეგვიპტის ალექსანდრიაში. საერთაშორისო სტუდენტების მიღების წესები და საფასურები არაბულ გვერდზეა და ეროვნულ პორტალზე Study in Egypt.",
+   "ar": "جامعة حكومية كبيرة في الإسكندرية بمصر. قواعد قبول الوافدين ورسومهم في صفحة الوافدين العربية وعلى بوابة Study in Egypt الوطنية."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრებისთვის განკუთვნილი დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا يوجد دعم مخصص منشور للطلاب الدوليين في البكالوريوس."
+  },
+  "tests": {
+   "en": "Some faculties set their own admission tests, a personal interview or a medical fitness check (for example the Faculty of Computers and Data Science). Full-time study is required.",
+   "ka": "ზოგი ფაკულტეტი საკუთარ მისაღებ ტესტს, გასაუბრებას ან სამედიცინო ვარგისიანობის შემოწმებას ითხოვს (მაგ. კომპიუტერებისა და მონაცემთა მეცნიერების ფაკულტეტი). საჭიროა სრული დატვირთვით სწავლა.",
+   "ar": "تضع بعض الكليات اختبارات قبول أو مقابلة شخصية أو كشفا طبيا (مثل كلية الحاسبات وعلوم البيانات). يُشترط التفرغ الكامل للدراسة."
+  },
+  "gpa_note": {
+   "en": "Foreign students are admitted under the Egyptian public-university system after approval of the General Administration for Expatriates and their home country's authorities.",
+   "ka": "უცხოელი სტუდენტები მიიღებიან ეგვიპტის სახელმწიფო უნივერსიტეტების სისტემით, ექსპატრიანტთა გენერალური ადმინისტრაციისა და მათი ქვეყნის უწყებების თანხმობის შემდეგ.",
+   "ar": "يُقبل الطلاب الوافدون وفق نظام القبول بالجامعات الحكومية بعد موافقة الإدارة العامة للوافدين والجهات المختصة في بلد الإيفاد."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate (authenticated)",
+     "ka": "საშუალო სკოლის დამოწმებული სერტიფიკატი",
+     "ar": "شهادة الثانوية موثقة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Birth certificate",
+     "ka": "დაბადების მოწმობა",
+     "ar": "شهادة الميلاد"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport copy",
+     "ka": "მოქმედი პასპორტის ასლი",
+     "ar": "صورة جواز سفر ساري"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Recent passport photos",
+     "ka": "ახალი პასპორტის ფოტოები",
+     "ar": "صور شخصية حديثة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Embassy letter",
+     "ka": "საელჩოს წერილი",
+     "ar": "خطاب من السفارة"
+    }
+   }
+  ],
+  "keywords": [
+   "egypt",
+   "alexandria",
+   "public university"
+  ],
+  "sources": [
+   "https://www.alexu.edu.eg/index.php/fees-and-tuition-fees-assessed-on-foreign-students-ar",
+   "https://alexu.edu.eg/index.php/admission/1181-required-documents-for-registration-of-foreign-students",
+   "https://alexu.edu.eg/index.php/admission-2/1186-2016-04-07-12-09-24"
+  ]
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "duolingo_min": null,
+  "toefl_min": null,
+  "ielts_min": null,
+  "other_tests": [],
+  "scholarships": [
+   {
+    "name": "E-JUST Palestinian Scholarship (tuition, dormitory, monthly stipend, medical care, residency fees)",
+    "url": "https://ejust.edu.eg/undergraduate-admissions/",
+    "coverage": "full"
+   }
+  ],
+  "verified_at": "2026-11-16",
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "id": "egypt-japan-university-of-science-technology",
+  "name": {
+   "en": "Egypt Japan University of Science & Technology",
+   "ka": "ეგვიპტე-იაპონიის მეცნიერებისა და ტექნოლოგიის უნივერსიტეტი",
+   "ar": "الجامعة المصرية اليابانية للعلوم والتكنولوجيا"
+  },
+  "iso": "EG",
+  "city": "New Borg El Arab",
+  "lat": 30.894,
+  "lon": 29.598,
+  "type": "public",
+  "website": "https://ejust.edu.eg",
+  "platform": "Direct",
+  "application_url": "https://ejust.edu.eg/undergraduate-admissions/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "The Fall 2026 admission timeline was still listed as 'to be announced' on the university site.",
+  "tuition_intl": null,
+  "students": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": null,
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Computer Science",
+    "Energy",
+    "Materials"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "ენერგეტიკა",
+    "მასალები"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم الحاسوب",
+    "الطاقة",
+    "المواد"
+   ]
+  },
+  "summary": {
+   "en": "A public research university near Alexandria built with Japanese partners. Its site could not be read automatically, so no admission details are listed.",
+   "ka": "სახელმწიფო საკვლევი უნივერსიტეტი ალექსანდრიის მახლობლად, იაპონელ პარტნიორებთან ერთად შექმნილი. საიტის ავტომატური წაკითხვა ვერ მოხერხდა, ამიტომ მიღების დეტალები მითითებული არ არის.",
+   "ar": "جامعة بحثية حكومية قرب الإسكندرية أنشئت بالشراكة مع اليابان. تعذرت قراءة موقعها آليا لذلك لا ترد تفاصيل القبول."
+  },
+  "about": {
+   "en": "A public research university near Alexandria built with Japanese partners. Its site could not be read automatically, so no admission details are listed.",
+   "ka": "სახელმწიფო საკვლევი უნივერსიტეტი ალექსანდრიის მახლობლად, იაპონელ პარტნიორებთან ერთად შექმნილი. საიტის ავტომატური წაკითხვა ვერ მოხერხდა, ამიტომ მიღების დეტალები მითითებული არ არის.",
+   "ar": "جامعة بحثية حكومية قرب الإسكندرية أنشئت بالشراكة مع اليابان. تعذرت قراءة موقعها آليا لذلك لا ترد تفاصيل القبول."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრებისთვის განკუთვნილი დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا يوجد دعم مخصص منشور للطلاب الدوليين في البكالوريوس."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "keywords": [
+   "egypt",
+   "japan",
+   "engineering",
+   "research university"
+  ],
+  "sources": [
+   "https://ejust.edu.eg/undergraduate-admissions/",
+   "https://ejust.edu.eg/int-admission",
+   "https://www.ejust.edu.eg/ug-tution-fees"
+  ]
+ },
+ {
+  "id": "al-azhar-university",
+  "name": {
+   "en": "Al-Azhar University",
+   "ka": "ალ-აზჰარის უნივერსიტეტი",
+   "ar": "جامعة الأزهر"
+  },
+  "iso": "EG",
+  "city": "Cairo",
+  "lat": 30.064,
+  "lon": 31.314,
+  "type": "public",
+  "website": "https://www.azhar.edu.eg",
+  "platform": "Expatriates Coordination Office (online registration)",
+  "application_url": "http://www.azhar.edu.eg/%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/%D8%A7%D9%84%D9%88%D8%A7%D9%81%D8%AF%D9%88%D9%86/%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D9%88%D8%B4%D8%B1%D9%88%D8%B7-%D9%82%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D8%A7%D9%84%D9%88%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D8%A8%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A%D8%A9",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "law",
+   "medicine-health",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Islamic studies",
+    "Arabic language",
+    "Sharia and law",
+    "Medicine"
+   ],
+   "ka": [
+    "ისლამური მეცნიერებები",
+    "არაბული ენა",
+    "შარიათი და სამართალი",
+    "მედიცინა"
+   ],
+   "ar": [
+    "الدراسات الإسلامية",
+    "اللغة العربية",
+    "الشريعة والقانون",
+    "الطب"
+   ]
+  },
+  "summary": {
+   "en": "A historic public university in Cairo, Egypt, known for Islamic studies and Arabic. The website could not be read securely, so no admissions data is listed here.",
+   "ka": "ისტორიული საჯარო უნივერსიტეტი კაიროში, ეგვიპტე, ცნობილი ისლამური მეცნიერებებითა და არაბული ენით. ვებსაიტი უსაფრთხოდ ვერ გაიხსნა, ამიტომ მისაღები მონაცემები მითითებული არ არის.",
+   "ar": "جامعة عامة عريقة في القاهرة بمصر، معروفة بالدراسات الإسلامية واللغة العربية. تعذرت قراءة الموقع بأمان، لذلك لا تُذكر بيانات القبول."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Applicants to Sharia and Islamic-studies faculties must be Muslim of good reputation and fluent in Arabic. Medicine, dentistry, pharmacy and engineering files need the university president's approval.",
+   "ka": "შარიათისა და ისლამური მეცნიერებების ფაკულტეტების აპლიკანტი უნდა იყოს კარგი რეპუტაციის მუსლიმი და თავისუფლად ფლობდეს არაბულს. მედიცინის, სტომატოლოგიის, ფარმაციისა და ინჟინერიის განაცხადები უნივერსიტეტის პრეზიდენტის თანხმობას საჭიროებს.",
+   "ar": "يُشترط في المتقدم لكليات الشريعة والعلوم الإسلامية أن يكون مسلما حسن السمعة يجيد العربية. وتُعرض ملفات الطب وطب الأسنان والصيدلة والهندسة على رئيس الجامعة."
+  },
+  "gpa_note": {
+   "en": "Applicants need the Azhari secondary certificate or an equivalent, certified by the Egyptian foreign ministry if issued abroad. Foreign students outside religious faculties are capped at 10% of the Egyptians admitted (2019/20 rules).",
+   "ka": "აპლიკანტს სჭირდება აზჰარის საშუალო სკოლის სერტიფიკატი ან მისი ექვივალენტი, საზღვარგარეთ გაცემულის შემთხვევაში ეგვიპტის საგარეო სამინისტროს მიერ დამოწმებული. არასაღვთისმეტყველო ფაკულტეტებზე უცხოელები ეგვიპტელი მიღებულების 10%-მდეა (2019/20 წესები).",
+   "ar": "يشترط الحصول على الثانوية الأزهرية أو ما يعادلها موثقة من الخارجية المصرية إن كانت من الخارج. ويُحدد قبول الوافدين في الكليات غير الدينية بما لا يزيد عن 10% من المصريين المقبولين (قواعد 2019/2020)."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate (authenticated)",
+     "ka": "საშუალო სკოლის დამოწმებული სერტიფიკატი",
+     "ar": "شهادة الثانوية موثقة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Birth certificate",
+     "ka": "დაბადების მოწმობა",
+     "ar": "شهادة الميلاد"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport copy",
+     "ka": "მოქმედი პასპორტის ასლი",
+     "ar": "صورة جواز سفر ساري"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Recent passport photos",
+     "ka": "ახალი პასპორტის ფოტოები",
+     "ar": "صور شخصية حديثة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Embassy letter",
+     "ka": "საელჩოს წერილი",
+     "ar": "خطاب من السفارة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate (HIV and hepatitis C free)",
+     "ka": "სამედიცინო ცნობა (აივ-ისა და C ჰეპატიტის გარეშე)",
+     "ar": "شهادة خلو من الإيدز والتهاب الكبد C"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "egypt",
+   "cairo",
+   "islamic studies",
+   "arabic"
+  ],
+  "sources": [
+   "http://www.azhar.edu.eg/%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/%D8%A7%D9%84%D9%88%D8%A7%D9%81%D8%AF%D9%88%D9%86/%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D9%88%D8%B4%D8%B1%D9%88%D8%B7-%D9%82%D8%A8%D9%88%D9%84-%D8%A7%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D8%A7%D9%84%D9%88%D8%A7%D9%81%D8%AF%D9%8A%D9%86-%D8%A8%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A%D8%A9"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "assiut-university",
+  "name": {
+   "en": "Assiut University",
+   "ka": "ასიუტის უნივერსიტეტი",
+   "ar": "جامعة أسيوط"
+  },
+  "iso": "EG",
+  "city": "Asyut",
+  "lat": 27.188,
+  "lon": 31.171,
+  "type": "public",
+  "website": "https://www.aun.edu.eg",
+  "platform": "Study in Egypt portal",
+  "application_url": "https://admission.study-in-egypt.gov.eg/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The page read gives 2023 dates: electronic coordination re-run 15 Sep 2023 and original documents due 30 Sep 2023. Check the current cycle.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "General undergraduate applicants submit the original Thanaweyya Amma certificate, birth certificate, photos and a medical report; the page does not say whether this applies to international applicants.",
+   "ka": "ზოგადი ბაკალავრიატის აპლიკანტები წარადგენენ ორიგინალ Thanaweyya Amma სერტიფიკატს, დაბადების მოწმობას, ფოტოებსა და სამედიცინო ცნობას; გვერდზე არ წერია, ეხება თუ არა ეს უცხოელებს.",
+   "ar": "يقدم المتقدمون للبكالوريوس الشهادة الأصلية للثانوية العامة وشهادة الميلاد وصورا وتقريرا طبيا؛ ولا توضح الصفحة هل ينطبق ذلك على الدوليين."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Science"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "მეცნიერება"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in Asyut, Upper Egypt, that welcomes international students under the Study in Egypt initiative. No fees or deadlines are published for them on the pages read.",
+   "ka": "დიდი საჯარო უნივერსიტეტი ასიუტში, ზემო ეგვიპტე, რომელიც Study in Egypt ინიციატივით იღებს უცხოელ სტუდენტებს. წაკითხულ გვერდებზე მათთვის საფასური და ვადები არ არის მითითებული.",
+   "ar": "جامعة عامة كبيرة في أسيوط بصعيد مصر ترحب بالطلاب الدوليين ضمن مبادرة ادرس في مصر. لم تُنشر لهم رسوم أو مواعيد في الصفحات التي قُرئت."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "No entrance exam or language score is stated. Applicants choose up to 10 faculty preferences on the Study in Egypt platform and pay coordination and registration service fees at least 14 days after nomination.",
+   "ka": "მისაღები გამოცდა ან ენის ქულა მითითებული არ არის. აპლიკანტი Study in Egypt პლატფორმაზე ირჩევს 10-მდე ფაკულტეტს და ნომინაციიდან მინიმუმ 14 დღეში იხდის საკოორდინაციო და სარეგისტრაციო მომსახურების საფასურს.",
+   "ar": "لا يُذكر امتحان قبول أو درجة لغة. يختار المتقدم حتى 10 رغبات على منصة ادرس في مصر ويسدد رسوم التنسيق والتسجيل بعد 14 يوما على الأقل من الترشيح."
+  },
+  "gpa_note": {
+   "en": "Applicants must be non-Egyptian and hold a completed secondary school certificate or equivalent; the name must match the passport or refugee card.",
+   "ka": "აპლიკანტი უნდა იყოს არაეგვიპტელი და ჰქონდეს დასრულებული საშუალო განათლების სერტიფიკატი ან ექვივალენტი; სახელი უნდა ემთხვეოდეს პასპორტს ან ლტოლვილის ბარათს.",
+   "ar": "يشترط أن يكون المتقدم غير مصري وحاصلا على الثانوية أو ما يعادلها، وأن يطابق الاسم جواز السفر أو بطاقة اللاجئ."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate (authenticated)",
+     "ka": "საშუალო სკოლის დამოწმებული სერტიფიკატი",
+     "ar": "شهادة الثانوية موثقة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport copy",
+     "ka": "მოქმედი პასპორტის ასლი",
+     "ar": "صورة جواز سفر ساري"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Recent passport photos",
+     "ka": "ახალი პასპორტის ფოტოები",
+     "ar": "صور شخصية حديثة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Birth certificate",
+     "ka": "დაბადების მოწმობა",
+     "ar": "شهادة الميلاد"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "egypt",
+   "asyut",
+   "medicine",
+   "study in egypt"
+  ],
+  "sources": [
+   "https://aun.edu.eg/student/undergraduate/rules",
+   "https://aun.edu.eg/student/node/33927"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "mansoura-university",
+  "name": {
+   "en": "Mansoura University",
+   "ka": "მანსურას უნივერსიტეტი",
+   "ar": "جامعة المنصورة"
+  },
+  "iso": "EG",
+  "city": "Mansoura",
+  "lat": 31.043,
+  "lon": 31.353,
+  "type": "public",
+  "website": "https://www.mans.edu.eg",
+  "platform": "Study in Egypt portal",
+  "application_url": "https://admission.study-in-egypt.gov.eg/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 6000,
+   "currency": "USD",
+   "per": "year",
+   "note": "Faculty of Medicine, other nationalities: 6,000 USD a year (7,500 USD in the first year with registration). Older faculty page; other faculties and nationalities differ. Paid in foreign currency."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Pharmacy",
+    "Science"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "ფარმაცია",
+    "მეცნიერება"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "الصيدلة",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in Mansoura, Egypt, known for its medical faculties. Admission and fee pages were not reachable, so those fields are empty.",
+   "ka": "მსხვილი სახელმწიფო უნივერსიტეტი მანსურაში, ეგვიპტე, ცნობილი სამედიცინო ფაკულტეტებით. მიღებისა და საფასურის გვერდები მიუწვდომელი იყო.",
+   "ar": "جامعة حكومية كبيرة في المنصورة بمصر، معروفة بكلياتها الطبية. تعذّر الوصول إلى صفحات القبول والرسوم."
+  },
+  "about": {
+   "en": "Mansoura University is a public university in the Nile Delta. Foreign students are handled by the International Student Affairs office, which has its own site at isa.mans.edu.eg. Check it for fees and deadlines.",
+   "ka": "მანსურას უნივერსიტეტი ნილოსის დელტაში მდებარეობს. უცხოელ სტუდენტებს ამუშავებს საერთაშორისო სტუდენტთა სამსახური (isa.mans.edu.eg).",
+   "ar": "جامعة المنصورة جامعة حكومية في دلتا النيل. تتولى إدارة شؤون الطلاب الوافدين شؤون الأجانب ولها موقع isa.mans.edu.eg."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages reviewed.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة في الصفحات التي تمت مراجعتها."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate (authenticated)",
+     "ka": "საშუალო სკოლის დამოწმებული სერტიფიკატი",
+     "ar": "شهادة الثانوية موثقة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport copy",
+     "ka": "მოქმედი პასპორტის ასლი",
+     "ar": "صورة جواز سفر ساري"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "egypt",
+   "mansoura",
+   "medicine"
+  ],
+  "sources": [
+   "https://medfac.mans.edu.eg/index.php/en/isu-en-applay",
+   "https://dentfac.mans.edu.eg/index.php/en/latest-news/2402-international-students-fees-en"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "beni-suef-university",
+  "name": {
+   "en": "Beni-Suef University",
+   "ka": "ბენი-სუეიფის უნივერსიტეტი",
+   "ar": "جامعة بني سويف"
+  },
+  "iso": "EG",
+  "city": "Beni-Suef",
+  "lat": 29.074,
+  "lon": 31.098,
+  "type": "public",
+  "website": "https://www.bsu.edu.eg",
+  "platform": "Directorate General of Expatriates + embassy in Cairo",
+  "application_url": "https://www.bsu.edu.eg/Content.aspx?section_id=3300&cat_id=14&lang=en",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "Bachelor's enrolment runs from the end of June until 1 September, per the expatriate office page.",
+  "tuition_intl": {
+   "amount": 4000,
+   "currency": "USD",
+   "per": "year",
+   "note": "Bachelor's: 4,000 USD annual tuition plus 1,500 USD first-time fee, as shown on the expatriate office page (text partly garbled)."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "education"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "A personal interview is held with new international students. No language score is stated; electronic submission on the Directorate General of Expatriates site is required.",
+   "ka": "ახალ საერთაშორისო სტუდენტებთან ტარდება პირადი გასაუბრება. ენის ქულა მითითებული არ არის; საჭიროა ელექტრონული წარდგენა ექსპატრიანტთა გენერალური დირექტორატის საიტზე.",
+   "ar": "يُجرى اختبار شخصي مع الطلاب الدوليين الجدد. لا تُذكر درجة لغة، ويُشترط التقديم إلكترونيا على موقع الإدارة العامة للوافدين."
+  },
+  "gpa_note": {
+   "en": "Requirements vary by faculty: engineering needs the science-track secondary certificate or equivalent; pharmacy needs biology and chemistry in the secondary certificate.",
+   "ka": "მოთხოვნები ფაკულტეტების მიხედვით განსხვავდება: საინჟინრო ფაკულტეტს სჭირდება საბუნებისმეტყველო მიმართულების სერტიფიკატი, ფარმაციას — ბიოლოგია და ქიმია.",
+   "ar": "تختلف الشروط حسب الكلية: الهندسة تتطلب الثانوية العامة علمي أو ما يعادلها، والصيدلة تتطلب الأحياء والكيمياء."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate (authenticated)",
+     "ka": "საშუალო სკოლის დამოწმებული სერტიფიკატი",
+     "ar": "شهادة الثانوية موثقة"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalence certificate (Supreme Council of Universities)",
+     "ka": "ექვივალენტობის სერტიფიკატი (უნივერსიტეტების უმაღლესი საბჭო)",
+     "ar": "شهادة المعادلة من المجلس الأعلى للجامعات"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport copy",
+     "ka": "მოქმედი პასპორტის ასლი",
+     "ar": "صورة جواز سفر ساري"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Embassy letter",
+     "ka": "საელჩოს წერილი",
+     "ar": "خطاب من السفارة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Birth certificate",
+     "ka": "დაბადების მოწმობა",
+     "ar": "شهادة الميلاد"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Recent passport photos",
+     "ka": "ახალი პასპორტის ფოტოები",
+     "ar": "صور شخصية حديثة"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "eg",
+   "beni-suef"
+  ],
+  "sources": [
+   "https://www.bsu.edu.eg/Content.aspx?section_id=3300&cat_id=14&lang=en"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "capital-university-egypt",
+  "name": {
+   "en": "Capital University – Egypt",
+   "ka": "კაპიტალ უნივერსიტეტი (ეგვიპტე)",
+   "ar": "جامعة العاصمة (مصر)"
+  },
+  "iso": "EG",
+  "city": "Helwan",
+  "lat": 29.849,
+  "lon": 31.334,
+  "type": "public",
+  "website": "https://www.helwan.edu.eg",
+  "platform": "Ministry platform for expatriates + university Expatriates Office",
+  "application_url": "http://www.helwan.edu.eg/InternationalStudents/?page_id=13",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 3000,
+   "currency": "USD",
+   "per": "year",
+   "note": "Varies by faculty. Faculty of Social Work: 3,000 USD a year plus 1,500 USD one-time registration (4,500 USD in year 1). Hotel management: 1,500 GBP a year plus first-year registration. 2023/24-era pages."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "business",
+   "arts-design"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "International students are admitted on the same conditions as Egyptian Thanaweya Amma holders; some programmes add aptitude tests, interviews or an English score (for example 80% for Law).",
+   "ka": "უცხოელები მიიღებიან ეგვიპტური Thanaweya Amma-ს მფლობელების იმავე პირობებით; ზოგი პროგრამა ამატებს უნარების ტესტს, გასაუბრებას ან ინგლისურის ქულას (მაგ. სამართალში 80%).",
+   "ar": "يُقبل الوافدون بنفس شروط قبول حاملي الثانوية العامة المصرية، وبعض البرامج تضيف اختبار قدرات أو مقابلة أو درجة إنجليزية (مثل 80% في الحقوق)."
+  },
+  "gpa_note": {
+   "en": "Applicants must be non-Egyptian with a secondary certificate or equivalent recognised by the Supreme Council of Universities; subject rules of each faculty apply.",
+   "ka": "აპლიკანტი უნდა იყოს არაეგვიპტელი და ჰქონდეს უნივერსიტეტების უმაღლესი საბჭოს მიერ აღიარებული საშუალო განათლების სერტიფიკატი; მოქმედებს თითოეული ფაკულტეტის საგნობრივი წესები.",
+   "ar": "يشترط أن يكون المتقدم غير مصري وحاصلا على الثانوية أو ما يعادلها معتمدة من المجلس الأعلى للجامعات، مع مراعاة شروط المواد لكل كلية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate (authenticated)",
+     "ka": "საშუალო სკოლის დამოწმებული სერტიფიკატი",
+     "ar": "شهادة الثانوية موثقة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Valid passport copy",
+     "ka": "მოქმედი პასპორტის ასლი",
+     "ar": "صورة جواز سفر ساري"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Birth certificate",
+     "ka": "დაბადების მოწმობა",
+     "ar": "شهادة الميلاد"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "eg",
+   "helwan"
+  ],
+  "sources": [
+   "http://www.helwan.edu.eg/InternationalStudents/?page_id=13",
+   "https://tourism.helwan.edu.eg/?page_id=87",
+   "https://pr.helwan.edu.eg/?p=6301"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "delta-university-for-science-and-technology",
+  "name": {
+   "en": "Delta University for Science and Technology",
+   "ka": "დელტას მეცნიერებისა და ტექნოლოგიების უნივერსიტეტი",
+   "ar": "جامعة الدلتا للعلوم والتكنولوجيا"
+  },
+  "iso": "EG",
+  "city": "Dakahlia",
+  "lat": 31.14,
+  "lon": 31.39,
+  "type": "private",
+  "website": "https://www.deltauniv.edu.eg",
+  "platform": null,
+  "application_url": "https://apply.deltauniv.edu.eg/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 2000,
+   "currency": "USD",
+   "per": "year",
+   "note": "Non-Egyptian fees 2023/24: engineering about 2,000 USD; medicine about 6,800; artificial intelligence 2,380; management 1,400; arts 1,260. Check the current schedule."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "business"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "eg",
+   "dakahlia"
+  ],
+  "sources": [
+   "https://new.deltauniv.edu.eg/ar/home/index",
+   "https://apply.deltauniv.edu.eg/"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

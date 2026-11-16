@@ -1,0 +1,976 @@
+[
+ {
+  "id": "universitas-muhammadiyah-yogyakarta-umy",
+  "name": {
+   "en": "Universitas Muhammadiyah Yogyakarta (UMY)",
+   "ka": "მუჰამადიას იოგიაკარტას უნივერსიტეტი (UMY)",
+   "ar": "جامعة محمدية يوجياكارتا (UMY)"
+  },
+  "iso": "ID",
+  "city": "Yogyakarta",
+  "lat": -7.81,
+  "lon": 110.32,
+  "type": "private",
+  "website": "https://www.umy.ac.id",
+  "platform": null,
+  "application_url": "https://internationaladmissions.umy.ac.id/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Indonesian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "business",
+   "medicine-health",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business",
+    "Health sciences",
+    "Social sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი",
+    "ჯანდაცვის მეცნიერებები",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال",
+    "العلوم الصحية",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Private Islamic university in Yogyakarta, Indonesia. The website blocks automated reading, so no admission data was verified.",
+   "ka": "კერძო ისლამური უნივერსიტეტი იოგიაკარტაში, ინდონეზია. საიტი ავტომატურ წაკითხვას ბლოკავს, ამიტომ მიღების მონაცემები ვერ დადასტურდა.",
+   "ar": "جامعة إسلامية خاصة في يوجياكارتا بإندونيسيا. موقعها يمنع القراءة الآلية لذلك لم يتم التحقق من بيانات القبول."
+  },
+  "about": {
+   "en": "UMY is a private university run by the Muhammadiyah organisation in Yogyakarta, Indonesia. Its website returned an access error and no English admission pages could be reached, so tuition, deadlines and entry rules for international bachelor applicants are not verified here. Check the university's international office directly.",
+   "ka": "UMY არის კერძო უნივერსიტეტი იოგიაკარტაში, რომელსაც მუჰამადიას ორგანიზაცია მართავს. საიტზე წვდომა შეუძლებელი იყო, ამიტომ საფასური და ვადები არ დადასტურდა. მიმართეთ უნივერსიტეტის საერთაშორისო ოფისს.",
+   "ar": "جامعة خاصة تديرها منظمة المحمدية في يوجياكارتا. تعذر الوصول إلى موقعها لذلك لم يتم التحقق من الرسوم والمواعيد. يرجى مراجعة مكتب الشؤون الدولية."
+  },
+  "aid_intl": {
+   "en": "UMY's full-time scholarship for international undergraduates waives tuition and living costs for the first year; later semesters depend on GPA.",
+   "ka": "UMY-ის სრულ განაკვეთზე სტიპენდია უცხოელ ბაკალავრებს პირველი წლის სწავლის საფასურსა და საცხოვრებელ ხარჯს ფარავს; შემდგომი სემესტრები GPA-ზეა დამოკიდებული.",
+   "ar": "منحة UMY للدراسة بدوام كامل تعفي طلاب البكالوريوس الدوليين من الرسوم الدراسية وتكاليف المعيشة للسنة الأولى، وتعتمد الفصول اللاحقة على المعدل التراكمي."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school certificate",
+     "ka": "საშუალო სკოლის ატესტატი",
+     "ar": "شهادة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Academic transcript",
+     "ka": "აკადემიური ტრანსკრიპტი",
+     "ar": "السجل الأكاديمي"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "UMY full-time study scholarship for international students",
+    "url": "https://internationaladmissions.umy.ac.id/foreign-student/fulltime/scholarship",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "indonesia",
+   "yogyakarta",
+   "muhammadiyah",
+   "private"
+  ],
+  "sources": [
+   "https://internationaladmissions.umy.ac.id/foreign-student/fulltime/scholarship"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universitas-pendidikan-indonesia",
+  "name": {
+   "en": "Universitas Pendidikan Indonesia",
+   "ka": "ინდონეზიის პედაგოგიური უნივერსიტეტი",
+   "ar": "جامعة التربية الإندونيسية"
+  },
+  "iso": "ID",
+  "city": "Bandung",
+  "lat": -6.86,
+  "lon": 107.59,
+  "type": "public",
+  "website": "https://www.upi.edu",
+  "platform": "Direct (UPI admissions portal, Foreign Undergraduate pathway; Directorate of International Affairs dia.upi.edu)",
+  "application_url": "https://admisi.upi.edu/english",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Indonesian"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "education",
+   "humanities",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Education",
+    "Teacher training",
+    "Languages"
+   ],
+   "ka": [
+    "განათლება",
+    "მასწავლებელთა მომზადება",
+    "ენები"
+   ],
+   "ar": [
+    "التربية",
+    "إعداد المعلمين",
+    "اللغات"
+   ]
+  },
+  "summary": {
+   "en": "UPI is a public university in Bandung, Indonesia, known for teacher education. Its website blocked automated reading, so no admissions facts were verified.",
+   "ka": "UPI სახელმწიფო უნივერსიტეტია ბანდუნგში, ინდონეზია, ცნობილია მასწავლებლების მომზადებით. ვებსაიტი ავტომატურ წაკითხვას ბლოკავს, ამიტომ მისაღები პირობები ვერ გადამოწმდა.",
+   "ar": "UPI جامعة حكومية في باندونغ بإندونيسيا معروفة بإعداد المعلمين. موقعها يمنع القراءة الآلية لذلك لم يتم التحقق من شروط القبول."
+  },
+  "about": {
+   "en": "Universitas Pendidikan Indonesia is a public university in Bandung, founded as a teacher-training institution. Teaching is mainly in Indonesian. Admission rules, fees and deadlines for international applicants could not be read because the official site returned an access error.",
+   "ka": "ინდონეზიის პედაგოგიური უნივერსიტეტი სახელმწიფო უნივერსიტეტია ბანდუნგში, დაარსდა როგორც მასწავლებელთა მომზადების დაწესებულება. სწავლება ძირითადად ინდონეზიურ ენაზეა. უცხოელთა მისაღები წესები, საფასური და ვადები ვერ წაიკითხა, რადგან ოფიციალურმა საიტმა წვდომა შეზღუდა.",
+   "ar": "جامعة التربية الإندونيسية جامعة حكومية في باندونغ نشأت كمؤسسة لإعداد المعلمين. التدريس غالبا بالإندونيسية. لم يمكن قراءة شروط القبول والرسوم والمواعيد للدوليين لأن الموقع الرسمي رفض الوصول."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة للطلاب الدوليين في البكالوريوس منشورة."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "indonesia",
+   "bandung",
+   "education",
+   "teacher training"
+  ],
+  "sources": [
+   "https://www.upi.edu",
+   "https://admisi.upi.edu/english",
+   "https://dia.upi.edu/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universitas-trisakti-usakti",
+  "name": {
+   "en": "Universitas Trisakti (USAKTI)",
+   "ka": "ტრისაკტის უნივერსიტეტი (USAKTI)",
+   "ar": "جامعة تريساكتي (USAKTI)"
+  },
+  "iso": "ID",
+  "city": "Jakarta Barat",
+  "lat": -6.168,
+  "lon": 106.791,
+  "type": "private",
+  "website": "https://www.trisakti.ac.id",
+  "platform": "Direct (SPMB portal; International Office KUIKK)",
+  "application_url": "https://spmb.trisakti.ac.id",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Indonesian"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "business",
+   "law",
+   "medicine-health",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Economics",
+    "Law",
+    "Medicine",
+    "Architecture"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ეკონომიკა",
+    "სამართალი",
+    "მედიცინა",
+    "არქიტექტურა"
+   ],
+   "ar": [
+    "الهندسة",
+    "الاقتصاد",
+    "القانون",
+    "الطب",
+    "العمارة"
+   ]
+  },
+  "summary": {
+   "en": "Trisakti is a private university in Jakarta, Indonesia. Its website could not be reached, so no admissions facts were verified.",
+   "ka": "ტრისაკტი კერძო უნივერსიტეტია ჯაკარტაში, ინდონეზია. საიტი მიუწვდომელი იყო, ამიტომ მისაღები პირობები ვერ გადამოწმდა.",
+   "ar": "تريساكتي جامعة خاصة في جاكرتا بإندونيسيا. تعذر الوصول إلى موقعها لذلك لم يتم التحقق من شروط القبول."
+  },
+  "about": {
+   "en": "Universitas Trisakti is a private university in West Jakarta with faculties including engineering, economics, law and medicine. Teaching is mainly in Indonesian. The official site could not be reached, so admission rules, fees and deadlines for international applicants are not verified.",
+   "ka": "ტრისაკტის უნივერსიტეტი კერძო უნივერსიტეტია დასავლეთ ჯაკარტაში, ინჟინერიის, ეკონომიკის, სამართლისა და მედიცინის ფაკულტეტებით. სწავლება ძირითადად ინდონეზიურ ენაზეა. ოფიციალური საიტი მიუწვდომელი იყო, ამიტომ უცხოელთა წესები, საფასური და ვადები გადამოწმებული არ არის.",
+   "ar": "جامعة تريساكتي جامعة خاصة في غرب جاكرتا فيها كليات للهندسة والاقتصاد والقانون والطب. التدريس غالبا بالإندونيسية. تعذر الوصول إلى الموقع الرسمي فلم يتم التحقق من الشروط والرسوم والمواعيد."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد منحة مخصصة للطلاب الدوليين في البكالوريوس منشورة."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "photo",
+    "label": {
+     "en": "Official photo ID",
+     "ka": "ოფიციალური ფოტო",
+     "ar": "صورة هوية رسمية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport information page (valid at least 18 months for a 1-year permit, 30 months for a 2-year permit)",
+     "ka": "პასპორტის პირადი მონაცემების გვერდი (მოქმედი მინიმუმ 18 თვით 1-წლიანი ნებართვისთვის, 30 თვით 2-წლიანისთვის)",
+     "ar": "صفحة بيانات جواز السفر (سارية 18 شهرًا على الأقل لتصريح سنة، و30 شهرًا لتصريح سنتين)"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Financial statement (university template)",
+     "ka": "ფინანსური განცხადება (უნივერსიტეტის შაბლონი)",
+     "ar": "بيان مالي (نموذج الجامعة)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Statement letter on not working or taking part in political activity, and health certificate issued within the last two months",
+     "ka": "განცხადება მუშაობისა და პოლიტიკურ საქმიანობაში მონაწილეობის შესახებ და ბოლო ორი თვის ჯანმრთელობის ცნობა",
+     "ar": "خطاب إقرار بعدم العمل أو المشاركة في أنشطة سياسية وشهادة صحية صادرة خلال الشهرين الأخيرين"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Latest diploma",
+     "ka": "ბოლო დიპლომი/ატესტატი",
+     "ar": "آخر شهادة دراسية"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Letter of Acceptance from the university or faculty",
+     "ka": "უნივერსიტეტის ან ფაკულტეტის მიღების წერილი",
+     "ar": "خطاب القبول من الجامعة أو الكلية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "indonesia",
+   "jakarta",
+   "private"
+  ],
+  "sources": [
+   "https://sis.trisakti.ac.id/documents/template/Foreign_student_guidance.pdf",
+   "https://kuikk.trisakti.ac.id",
+   "https://kuikk.trisakti.ac.id/mahasiswa-asing/alur-penerimaan-mahasiswa-asing/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "the-hebrew-university-of-jerusalem",
+  "name": {
+   "en": "The Hebrew University of Jerusalem",
+   "ka": "ივრითის უნივერსიტეტი იერუსალიმში",
+   "ar": "الجامعة العبرية في القدس"
+  },
+  "iso": "IL",
+  "city": "Jerusalem",
+  "lat": 31.776,
+  "lon": 35.241,
+  "type": "public",
+  "website": "https://www.huji.ac.il",
+  "platform": "Direct (Rothberg International School online application)",
+  "application_url": "https://overseas.huji.ac.il/?p=2773",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "An older Rothberg admissions page listed May 15 for fall or full-year entry; confirm the current date on the Apply Now page.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 24000,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Hebrew"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": 7.0,
+  "toefl_min": 89,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Non-native English speakers must prove English: the older Rothberg admissions page gave TOEFL iBT 89 or IELTS 7. A high school diploma or GED is required; students still in school send a letter stating their graduation date.",
+   "ka": "ინგლისურის არამშობლიურ მოლაპარაკეებს ინგლისური უნდა დაადასტურონ: Rothberg-ის ძველი გვერდის მიხედვით TOEFL iBT 89 ან IELTS 7. საჭიროა საშუალო სკოლის დიპლომი ან GED; სკოლის მოსწავლეები აგზავნიან წერილს დამთავრების თარიღით.",
+   "ar": "على غير الناطقين بالإنجليزية إثبات لغتهم: ذكرت صفحة القبول القديمة لمدرسة روتبرغ TOEFL iBT 89 أو IELTS 7. يلزم دبلوم ثانوي أو GED، ومن لا يزال في المدرسة يرسل خطابا بموعد تخرجه."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "High school diploma or GED",
+     "ka": "საშუალო სკოლის დიპლომი ან GED",
+     "ar": "دبلوم الثانوية أو GED"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Letter from the school stating the graduation date (if still in high school)",
+     "ka": "სკოლის წერილი დამთავრების თარიღით (თუ ჯერ სკოლაში ხართ)",
+     "ar": "خطاب من المدرسة بموعد التخرج (لمن لا يزال في الثانوية)"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English proficiency (non-native speakers)",
+     "ka": "ინგლისურის ცოდნის დადასტურება",
+     "ar": "إثبات إتقان الإنجليزية لغير الناطقين بها"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "jerusalem",
+   "il"
+  ],
+  "sources": [
+   "https://overseas.huji.ac.il/?p=2773",
+   "https://old.international.huji.ac.il/admission-information",
+   "https://overseas.huji.ac.il/academics/ba/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "ben-gurion-university-of-the-negev",
+  "name": {
+   "en": "Ben-Gurion University of The Negev",
+   "ka": "ბენ-გურიონის უნივერსიტეტი ნეგევში",
+   "ar": "جامعة بن غوريون في النقب"
+  },
+  "iso": "IL",
+  "city": "Be'er Sheva",
+  "lat": 31.262,
+  "lon": 34.802,
+  "type": "public",
+  "website": "https://www.bgu.ac.il",
+  "platform": null,
+  "application_url": "https://www.bgu.ac.il/en/study/content-pages/application-process/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Hebrew",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Applicants with a matriculation certificate or high school diploma from abroad can apply; the diploma must qualify for university study in the home country.",
+   "ka": "განმცხადებლებს შეუძლიათ საზღვარგარეთ მიღებული ატესტატით ან საშუალო სკოლის დიპლომით ჩაბარება; დიპლომი სამშობლოში უნივერსიტეტში სწავლის უფლებას უნდა იძლეოდეს.",
+   "ar": "يمكن التقدم بشهادة بجروت أو دبلوم ثانوي من الخارج، بشرط أن يؤهل الدبلوم للدراسة الجامعية في بلد الطالب."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "SAT or ACT (accepted in place of the Israeli Psychometric Entrance Exam)"
+  ],
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "Public research university in Be'er Sheva. Official international undergraduate pages could not be read this round.",
+   "ka": "საჯარო კვლევითი უნივერსიტეტი ბეერ-შევაში. საერთაშორისო საბაკალავრო გვერდები ვერ წაიკითხა.",
+   "ar": "جامعة بحثية حكومية في بئر السبع. تعذرت قراءة صفحات البكالوريوس الدولية."
+  },
+  "about": {
+   "en": "Ben-Gurion University of the Negev is a public research university in Be'er Sheva. Most bachelor teaching is in Hebrew. Its site blocks automated reading, and no official international bachelor fee or deadline could be confirmed.",
+   "ka": "ნეგევის ბენ-გურიონის უნივერსიტეტი საჯარო კვლევითი უნივერსიტეტია ბეერ-შევაში. საბაკალავრო სწავლება უმეტესად ებრაულადაა. საიტი ავტომატურ წაკითხვას ბლოკავს და საფასური ან ვადა ვერ დადასტურდა.",
+   "ar": "جامعة بن غوريون في النقب جامعة بحثية حكومية في بئر السبع. معظم التدريس في البكالوريوس بالعبرية. يمنع موقعها القراءة الآلية ولم يتأكد أي رسم أو موعد رسمي."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "BGU accepts SAT or ACT results as a substitute for the Israeli Psychometric Entrance Examination. Foreign diplomas must be original or copies approved by the Registration Unit.",
+   "ka": "BGU იღებს SAT ან ACT შედეგებს ისრაელის ფსიქომეტრიული გამოცდის ნაცვლად. უცხოური დიპლომი უნდა იყოს ორიგინალი ან რეგისტრაციის განყოფილების მიერ დამოწმებული ასლი.",
+   "ar": "تقبل BGU نتائج SAT أو ACT بدلا من الامتحان السيكومتري الإسرائيلي. يجب أن تكون الشهادات الأجنبية أصلية أو نسخا معتمدة من وحدة التسجيل."
+  },
+  "gpa_note": {
+   "en": "Applicants whose diploma qualifies them for university study in their home country are eligible for undergraduate programmes; only original or Registration Unit-approved copies are evaluated.",
+   "ka": "ბაკალავრიატზე დაიშვებიან განმცხადებლები, რომელთა დიპლომი სამშობლოში უნივერსიტეტში სწავლის უფლებას იძლევა; ფასდება მხოლოდ ორიგინალი ან დამოწმებული ასლი.",
+   "ar": "يحق التقدم للبكالوريوس لمن يؤهله دبلومه للدراسة الجامعية في بلده؛ تُقيَّم النسخ الأصلية أو المعتمدة من وحدة التسجيل فقط."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Matriculation certificate or high school diploma from abroad (original or approved copy)",
+     "ka": "ატესტატი ან საშუალო სკოლის დიპლომი (ორიგინალი ან დამოწმებული ასლი)",
+     "ar": "شهادة ثانوية أو بجروت من الخارج (أصل أو نسخة معتمدة)"
+    }
+   },
+   {
+    "key": "sat_act",
+    "label": {
+     "en": "SAT or ACT instead of the Psychometric Entrance Exam",
+     "ka": "SAT ან ACT ფსიქომეტრიული გამოცდის ნაცვლად",
+     "ar": "SAT أو ACT بدلا من الامتحان السيكومتري"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcript",
+     "ka": "საშუალო სკოლის ტრანსკრიპტი",
+     "ar": "السجل الدراسي الثانوي"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": null,
+  "sources": [
+   "https://in.bgu.ac.il/en/international/Pages/Undergraduate-Studies.aspx",
+   "https://www.bgu.ac.il/en/study/content-pages/application-process/",
+   "https://www.bgu.ac.il/en/study/content-pages/tuition/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "indian-institute-of-technology-roorkee-iitr",
+  "name": {
+   "en": "Indian Institute of Technology Roorkee (IITR)",
+   "ka": "ინდოეთის ტექნოლოგიური ინსტიტუტი რურკი",
+   "ar": "المعهد الهندي للتكنولوجيا في رورك"
+  },
+  "iso": "IN",
+  "city": "Roorkee",
+  "lat": 29.865,
+  "lon": 77.896,
+  "type": "public",
+  "website": "https://www.iitr.ac.in",
+  "platform": "JEE (Advanced) registration for foreign nationals, then JoSAA seat allocation",
+  "application_url": "https://jeeadv.ac.in/eligibility.html",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 9000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Class XII or equivalent from India or abroad, with Physics, Chemistry and Mathematics as compulsory subjects.",
+   "ka": "XII კლასი ან ექვივალენტი ინდოეთიდან ან საზღვარგარეთიდან, ფიზიკის, ქიმიისა და მათემატიკის სავალდებულო შესწავლით.",
+   "ar": "الصف 12 أو ما يعادله من الهند أو الخارج مع الفيزياء والكيمياء والرياضيات مواد إلزامية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "JEE (Advanced)"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "mathematics"
+  ],
+  "strengths": {
+   "en": [
+    "Civil Engineering",
+    "Computer Science",
+    "Electrical Engineering",
+    "Mechanical Engineering"
+   ],
+   "ka": [
+    "სამოქალაქო ინჟინერია",
+    "კომპიუტერული მეცნიერება",
+    "ელექტროინჟინერია",
+    "მექანიკური ინჟინერია"
+   ],
+   "ar": [
+    "الهندسة المدنية",
+    "علوم الحاسوب",
+    "الهندسة الكهربائية",
+    "الهندسة الميكانيكية"
+   ]
+  },
+  "summary": {
+   "en": "One of India's oldest and top engineering institutes, in Uttarakhand. Teaching is in English.",
+   "ka": "ინდოეთის ერთ-ერთი უძველესი და წამყვანი საინჟინრო ინსტიტუტი, უტარახანდში. სწავლება ინგლისურადაა.",
+   "ar": "من أقدم وأبرز المعاهد الهندسية في الهند، في ولاية أوتاراخاند، والتدريس بالإنجليزية."
+  },
+  "about": {
+   "en": "IIT Roorkee is a public institute of national importance founded in 1847. Its BTech programmes are taught in English.",
+   "ka": "IIT რურკი ეროვნული მნიშვნელობის საჯარო ინსტიტუტია, დაარსებული 1847 წელს. BTech პროგრამები ინგლისურადაა.",
+   "ar": "المعهد الهندي للتكنولوجيا في رورك معهد حكومي ذو أهمية وطنية تأسس عام 1847. برامج BTech بالإنجليزية."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Foreign nationals do not write JEE (Main) and register directly for JEE (Advanced), the common entrance exam for all IITs. Seats are supernumerary, up to 10% of each IIT's seats, allotted by rank.",
+   "ka": "უცხო ქვეყნის მოქალაქეები JEE (Main)-ს არ აბარებენ და პირდაპირ რეგისტრირდებიან JEE (Advanced)-ზე, რომელიც ყველა IIT-ის საერთო მისაღები გამოცდაა. ადგილები დამატებითია, თითო IIT-ში 10%-მდე, და ნაწილდება რეიტინგით.",
+   "ar": "لا يؤدي الأجانب امتحان JEE (Main) ويسجلون مباشرة في JEE (Advanced) وهو امتحان القبول المشترك لكل معاهد IIT. المقاعد إضافية بنسبة تصل إلى 10% من مقاعد كل معهد وتُمنح حسب الترتيب."
+  },
+  "gpa_note": {
+   "en": "Applicants who studied Class 12 or equivalent must be born on or after 1 Oct 2002, have first appeared in Class XII in 2026 or 2027 with Physics, Chemistry and Mathematics, and have at most two attempts in consecutive years.",
+   "ka": "განმცხადებელი, რომელმაც 12 კლასი ან ექვივალენტი დაამთავრა, უნდა იყოს დაბადებული 2002 წლის 1 ოქტომბერს ან მის შემდეგ, XII კლასში პირველად 2026 ან 2027 წელს გამოსულიყო ფიზიკის, ქიმიისა და მათემატიკის სავალდებულო შესწავლით და ჰქონდეს მაქსიმუმ ორი მცდელობა.",
+   "ar": "على من درس الصف 12 أو ما يعادله أن يكون مولودا في 1 أكتوبر 2002 أو بعده، وأن يكون ظهر لأول مرة في الصف الثاني عشر عام 2026 أو 2027 مع الفيزياء والكيمياء والرياضيات، وبحد أقصى محاولتين في عامين متتاليين."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Citizenship certificate, foreign passport or OCI/PIO card as identity proof",
+     "ka": "მოქალაქეობის მოწმობა, უცხოური პასპორტი ან OCI/PIO ბარათი",
+     "ar": "شهادة جنسية أو جواز سفر أجنبي أو بطاقة OCI/PIO كإثبات هوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Class XII or equivalent with Physics, Chemistry and Mathematics",
+     "ka": "XII კლასი ან ექვივალენტი ფიზიკით, ქიმიითა და მათემატიკით",
+     "ar": "شهادة الصف 12 أو ما يعادلها مع الفيزياء والكيمياء والرياضيات"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "JEE (Advanced) registration and rank",
+     "ka": "JEE (Advanced)-ზე რეგისტრაცია და რეიტინგი",
+     "ar": "التسجيل في JEE (Advanced) والترتيب"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Armed-forces service certificate, if claiming the age relaxation",
+     "ka": "სამხედრო სამსახურის ცნობა, თუ ასაკობრივ შეღავათს იყენებთ",
+     "ar": "شهادة الخدمة العسكرية عند طلب استثناء العمر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.iitr.ac.in",
+   "https://jeeadv.ac.in/eligibility.html"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "indian-institute-of-technology-guwahati-iitg",
+  "name": {
+   "en": "Indian Institute of Technology Guwahati (IITG)",
+   "ka": "ინდოეთის ტექნოლოგიური ინსტიტუტი გუვაჰატი",
+   "ar": "المعهد الهندي للتكنولوجيا في غواهاتي"
+  },
+  "iso": "IN",
+  "city": "Guwahati",
+  "lat": 26.192,
+  "lon": 91.692,
+  "type": "public",
+  "website": "https://www.iitg.ac.in",
+  "platform": "JEE (Advanced) registration for foreign nationals, then JoSAA seat allocation",
+  "application_url": "https://jeeadv.ac.in/eligibility.html",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 300000,
+   "currency": "INR",
+   "per": "semester",
+   "note": "B.Tech/B.Des fee for foreign nationals from non-SAARC countries; SAARC countries pay INR 150,000 per semester. Hostel and other fees are extra."
+  },
+  "acceptance_rate": null,
+  "students": 7000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Class XII or equivalent from India or abroad, with Physics, Chemistry and Mathematics as compulsory subjects.",
+   "ka": "XII კლასი ან ექვივალენტი ინდოეთიდან ან საზღვარგარეთიდან, ფიზიკის, ქიმიისა და მათემატიკის სავალდებულო შესწავლით.",
+   "ar": "الصف 12 أو ما يعادله من الهند أو الخارج مع الفيزياء والكيمياء والرياضيات مواد إلزامية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "JEE (Advanced)"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences",
+   "arts-design"
+  ],
+  "strengths": {
+   "en": [
+    "Computer Science",
+    "Electronics",
+    "Chemical Engineering",
+    "Design"
+   ],
+   "ka": [
+    "კომპიუტერული მეცნიერება",
+    "ელექტრონიკა",
+    "ქიმიური ინჟინერია",
+    "დიზაინი"
+   ],
+   "ar": [
+    "علوم الحاسوب",
+    "الإلكترونيات",
+    "الهندسة الكيميائية",
+    "التصميم"
+   ]
+  },
+  "summary": {
+   "en": "Public engineering institute in Assam, northeast India; teaching in English.",
+   "ka": "საჯარო საინჟინრო ინსტიტუტი ასამში, ჩრდილო-აღმოსავლეთ ინდოეთში; სწავლება ინგლისურად.",
+   "ar": "معهد هندسي حكومي في ولاية آسام شمال شرق الهند؛ التدريس بالإنجليزية."
+  },
+  "about": {
+   "en": "IIT Guwahati is a public institute of national importance founded in 1994. Its site lists undergraduate admission through JEE (Advanced).",
+   "ka": "IIT გუვაჰატი ეროვნული მნიშვნელობის საჯარო ინსტიტუტია, დაარსებული 1994 წელს. საიტის მიხედვით ბაკალავრიატში მიღება JEE (Advanced)-ით ხდება.",
+   "ar": "المعهد الهندي للتكنولوجيا في غواهاتي معهد حكومي ذو أهمية وطنية تأسس عام 1994. يذكر موقعه أن القبول الجامعي يتم عبر JEE (Advanced)."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Foreign nationals do not write JEE (Main) and register directly for JEE (Advanced), the common entrance exam for all IITs. Seats are supernumerary, up to 10% of each IIT's seats, allotted by rank.",
+   "ka": "უცხო ქვეყნის მოქალაქეები JEE (Main)-ს არ აბარებენ და პირდაპირ რეგისტრირდებიან JEE (Advanced)-ზე, რომელიც ყველა IIT-ის საერთო მისაღები გამოცდაა. ადგილები დამატებითია, თითო IIT-ში 10%-მდე, და ნაწილდება რეიტინგით.",
+   "ar": "لا يؤدي الأجانب امتحان JEE (Main) ويسجلون مباشرة في JEE (Advanced) وهو امتحان القبول المشترك لكل معاهد IIT. المقاعد إضافية بنسبة تصل إلى 10% من مقاعد كل معهد وتُمنح حسب الترتيب."
+  },
+  "gpa_note": {
+   "en": "Applicants who studied Class 12 or equivalent must be born on or after 1 Oct 2002, have first appeared in Class XII in 2026 or 2027 with Physics, Chemistry and Mathematics, and have at most two attempts in consecutive years.",
+   "ka": "განმცხადებელი, რომელმაც 12 კლასი ან ექვივალენტი დაამთავრა, უნდა იყოს დაბადებული 2002 წლის 1 ოქტომბერს ან მის შემდეგ, XII კლასში პირველად 2026 ან 2027 წელს გამოსულიყო ფიზიკის, ქიმიისა და მათემატიკის სავალდებულო შესწავლით და ჰქონდეს მაქსიმუმ ორი მცდელობა.",
+   "ar": "على من درس الصف 12 أو ما يعادله أن يكون مولودا في 1 أكتوبر 2002 أو بعده، وأن يكون ظهر لأول مرة في الصف الثاني عشر عام 2026 أو 2027 مع الفيزياء والكيمياء والرياضيات، وبحد أقصى محاولتين في عامين متتاليين."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Citizenship certificate, foreign passport or OCI/PIO card as identity proof",
+     "ka": "მოქალაქეობის მოწმობა, უცხოური პასპორტი ან OCI/PIO ბარათი",
+     "ar": "شهادة جنسية أو جواز سفر أجنبي أو بطاقة OCI/PIO كإثبات هوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Class XII or equivalent with Physics, Chemistry and Mathematics",
+     "ka": "XII კლასი ან ექვივალენტი ფიზიკით, ქიმიითა და მათემატიკით",
+     "ar": "شهادة الصف 12 أو ما يعادلها مع الفيزياء والكيمياء والرياضيات"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "JEE (Advanced) registration and rank",
+     "ka": "JEE (Advanced)-ზე რეგისტრაცია და რეიტინგი",
+     "ar": "التسجيل في JEE (Advanced) والترتيب"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Armed-forces service certificate, if claiming the age relaxation",
+     "ka": "სამხედრო სამსახურის ცნობა, თუ ასაკობრივ შეღავათს იყენებთ",
+     "ar": "شهادة الخدمة العسكرية عند طلب استثناء العمر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://iitg.ac.in/acad/admission/imp_info/fee.php",
+   "https://www.iitg.ac.in/admission-fr",
+   "https://jeeadv.ac.in/eligibility.html"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "anna-university",
+  "name": {
+   "en": "Anna University",
+   "ka": "ანას უნივერსიტეტი",
+   "ar": "جامعة آنا"
+  },
+  "iso": "IN",
+  "city": "Chennai",
+  "lat": 13.011,
+  "lon": 80.235,
+  "type": "public",
+  "website": "https://annauniv.edu",
+  "platform": "Direct (Centre for Admissions online portal, FN / LDC / SIDS category)",
+  "application_url": "https://cfa.annauniv.edu/cfa/fn.html",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "For 2026-27 the Centre for Admissions listed online application from 16 March 2026 and last dates of 22 May 2026 and 15 June 2026; the 2027-28 dates are not yet published.",
+  "tuition_intl": {
+   "amount": 3750,
+   "currency": "USD",
+   "per": "year",
+   "note": "2026-27 FN category: USD 3,750 per year for most branches; USD 7,500 for CSE, ECE, IT, Electronics (VLSI) and AI and Data Science. USD 1,000 initial deposit at counselling is adjusted against tuition; application fee USD 400 plus 18% GST."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": "accepted",
+   "a-level": null,
+   "ib": null,
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "Higher Secondary Certificate (Class XII) or equivalent, or 8+4 or 9+3 type foreign boards, with all subjects passed.",
+   "ka": "უმაღლესი საშუალო სერტიფიკატი (XII კლასი) ან ექვივალენტი, ან 8+4 ან 9+3 ტიპის უცხოური საგამოცდო საბჭოები, ყველა საგნის ჩაბარებით.",
+   "ar": "شهادة الثانوية العليا (الصف 12) أو ما يعادلها، أو أنظمة أجنبية من نوع 8+4 أو 9+3، مع النجاح في جميع المواد."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Technology",
+    "Architecture"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ტექნოლოგიები",
+    "არქიტექტურა"
+   ],
+   "ar": [
+    "الهندسة",
+    "التكنولوجيا",
+    "العمارة"
+   ]
+  },
+  "summary": {
+   "en": "A public technical university in Chennai, India, known for engineering programmes.",
+   "ka": "საჯარო ტექნიკური უნივერსიტეტი ჩენაიში (ინდოეთი), ცნობილია საინჟინრო პროგრამებით.",
+   "ar": "جامعة تقنية حكومية في تشيناي بالهند، معروفة ببرامج الهندسة."
+  },
+  "about": {
+   "en": "Anna University is a public technical university in Chennai with colleges across Tamil Nadu. Its Centre for International Relations handles international students. Admission and fee details for international bachelor applicants were not available on pages reachable in this research, so check with the Centre for International Relations.",
+   "ka": "ანას უნივერსიტეტი ჩენაიში მდებარე საჯარო ტექნიკური უნივერსიტეტია, კოლეჯებით მთელ ტამილ-ნადუში. საერთაშორისო სტუდენტებთან მუშაობს საერთაშორისო ურთიერთობების ცენტრი. ბაკალავრიატზე მიღებისა და საფასურის დეტალები ხელმისაწვდომ გვერდებზე ვერ მოიძებნა; დაუკავშირდით საერთაშორისო ურთიერთობების ცენტრს.",
+   "ar": "جامعة آنا جامعة تقنية حكومية في تشيناي ولها كليات في ولاية تاميل نادو. يتولى مركز العلاقات الدولية شؤون الطلاب الدوليين. لم تتوفر تفاصيل القبول والرسوم لطلاب البكالوريوس الدوليين في الصفحات المتاحة، لذا يُرجى مراجعة مركز العلاقات الدولية."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "No separate entrance exam: merit is ranked on Class XII marks in Mathematics (100) and Physics plus Chemistry (100), scaled to 200. Foreign nationals get 5% supernumerary seats per branch.",
+   "ka": "ცალკე მისაღები გამოცდა არ არის: რეიტინგი XII კლასის შეფასებებით ისაზღვრება — მათემატიკა (100) და ფიზიკა პლუს ქიმია (100), 200-ზე დაყვანილი. უცხოელებს თითო მიმართულებაზე 5% დამატებითი ადგილი აქვთ.",
+   "ar": "لا يوجد امتحان قبول منفصل: يُرتَّب المتقدمون حسب درجات الصف 12 في الرياضيات (100) والفيزياء مع الكيمياء (100) محوّلة إلى 200. للأجانب 5% مقاعد إضافية في كل فرع."
+  },
+  "gpa_note": {
+   "en": "Candidates must pass all subjects and score a minimum average of 45% in Mathematics, Physics and Chemistry put together in Class XII or the equivalent.",
+   "ka": "კანდიდატმა ყველა საგანი უნდა ჩააბაროს და XII კლასში ან ექვივალენტში მათემატიკაში, ფიზიკასა და ქიმიაში ერთად საშუალოდ მინიმუმ 45% მიიღოს.",
+   "ar": "يجب النجاح في جميع المواد وتحقيق متوسط لا يقل عن 45% في الرياضيات والفيزياء والكيمياء معا في الصف 12 أو ما يعادله."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport",
+     "ka": "პასპორტი",
+     "ar": "جواز السفر"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Valid student visa, PIO or OCI card (can be shown at admission)",
+     "ka": "მოქმედი სტუდენტური ვიზა, PIO ან OCI ბარათი (შეიძლება წარდგენა მიღებისას)",
+     "ar": "تأشيرة طالب سارية أو بطاقة PIO أو OCI (يمكن إبرازها عند القبول)"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Proof of financial support: parents' bank statement for six months or scholarship letter",
+     "ka": "ფინანსური მხარდაჭერის დადასტურება: მშობლების ბანკის 6-თვიანი ამონაწერი ან სტიპენდიის წერილი",
+     "ar": "إثبات الدعم المالي: كشف حساب الوالدين لستة أشهر أو خطاب منحة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Class X and Class XII mark sheets (or Class 8 or 9 to 12 for 8+4 / 9+3 boards)",
+     "ka": "X და XII კლასის უწყისები (8+4 / 9+3 სისტემებისთვის 8 ან 9-დან 12 კლასამდე)",
+     "ar": "كشوف درجات الصف 10 و12 (أو من الصف 8 أو 9 إلى 12 لأنظمة 8+4 و9+3)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "School transfer or migration certificate",
+     "ka": "სკოლის გადაყვანის ან მიგრაციის ცნობა",
+     "ar": "شهادة نقل أو هجرة من المدرسة"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Non-refundable application fee USD 400 plus 18% GST (card payment)",
+     "ka": "არარეფუნდირებადი სააპლიკაციო საფასური 400 აშშ დოლარი + 18% GST (ბარათით)",
+     "ar": "رسم تقديم غير مسترد 400 دولار أمريكي + 18% GST (بالبطاقة)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "in",
+   "chennai"
+  ],
+  "sources": [
+   "https://cfa.annauniv.edu/cfa/fn.html",
+   "https://cfa.annauniv.edu/cfa/pdf/FN_INSTRUCTION_2026.pdf",
+   "https://annauniv.edu/cir/"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

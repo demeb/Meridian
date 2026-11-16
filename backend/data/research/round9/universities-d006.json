@@ -1,0 +1,1023 @@
+[
+ {
+  "id": "brock-university",
+  "name": {
+   "en": "Brock University",
+   "ka": "ბროკის უნივერსიტეტი",
+   "ar": "جامعة بروك"
+  },
+  "iso": "CA",
+  "city": "St. Catharines",
+  "lat": 43.118,
+  "lon": -79.248,
+  "type": "public",
+  "website": "https://brocku.ca",
+  "platform": null,
+  "application_url": "https://brocku.ca/admissions/undergraduate/",
+  "intakes": [
+   "September",
+   "January",
+   "May"
+  ],
+  "deadline": null,
+  "deadline_note": "Brock says international applicants follow the same procedures and deadlines as domestic applicants; program-specific (earlier) deadlines apply. Older Brock calendars give June 1 for most full-time programs and April 1 for applicants who need a study permit. Check the current date for your program.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 19000,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": "accepted",
+   "us-diploma": "accepted"
+  },
+  "qualifications_note": {
+   "en": "IB Diploma holders with the right prerequisite subjects are considered; admission is not based on the total IB score, and subject grades are converted. US applicants need a Grade 12 diploma with 5 academic subjects, usually a B average. Other countries: see Brock's credential-by-country page.",
+   "ka": "IB დიპლომის მქონე აპლიკანტები განიხილებიან საჭირო საგნების არსებობისას; ტოტალური IB ქულა გადამწყვეტი არ არის. აშშ-ის დიპლომისთვის საჭიროა 5 აკადემიური საგანი, ჩვეულებრივ B საშუალო. სხვა ქვეყნებისთვის იხილეთ Brock-ის გვერდი ქვეყნების მიხედვით.",
+   "ar": "يُنظر في طلبات حاملي دبلوم IB الذين أنهوا المواد المطلوبة، ولا يعتمد القبول على مجموع IB. يحتاج خريجو الثانوية الأمريكية إلى 5 مواد أكاديمية بمعدل B عادةً. للدول الأخرى راجع صفحة المؤهلات حسب البلد في Brock."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": 6.5,
+  "toefl_min": 88,
+  "duolingo_min": null,
+  "other_tests": [
+   "PTE Academic 58",
+   "IB Diploma with English A (alternative route)"
+  ],
+  "fields": [
+   "business",
+   "social-sciences",
+   "education"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "No entrance exam is listed. English proof: IELTS Academic 6.5 overall with no band below 6.0, TOEFL iBT 88 or PTE 58 (2025-26 viewbook); some programs, such as Accounting co-op, ask for more.",
+   "ka": "მისაღები გამოცდა არ არის მითითებული. ინგლისური: IELTS Academic 6.5 საერთო და არცერთი ქვეტესტი 6.0-ზე ნაკლები, TOEFL iBT 88 ან PTE 58; ზოგ პროგრამაზე (მაგ. Accounting co-op) მეტია საჭირო.",
+   "ar": "لا يوجد امتحان قبول مذكور. إثبات الإنجليزية: IELTS Academic بمعدل 6.5 وألا تقل أي مهارة عن 6.0، أو TOEFL iBT 88 أو PTE 58؛ وبعض البرامج مثل المحاسبة التعاونية تطلب درجات أعلى."
+  },
+  "gpa_note": {
+   "en": "Admission is by program: prerequisite courses are used to calculate the admission average. Applicants with a US high school diploma usually need a B average; some limited-enrolment programs need more.",
+   "ka": "მიღება პროგრამის მიხედვით ხდება: წინაპირობის საგნები გამოიყენება მისაღები საშუალოს გამოსათვლელად. აშშ-ის დიპლომის მქონეებს ჩვეულებრივ სჭირდებათ B საშუალო; ზოგ შეზღუდული ადგილების პროგრამაზე მეტი.",
+   "ar": "يتم القبول حسب البرنامج: تُستخدم المواد المطلوبة لحساب معدل القبول. يحتاج حاملو الثانوية الأمريكية عادةً إلى معدل B، وبعض البرامج محدودة المقاعد تتطلب أكثر."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcript",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ფურცელი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma / certificate",
+     "ka": "საშუალო განათლების დიპლომი / ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "English proficiency proof",
+     "ka": "ინგლისური ენის ცოდნის დამადასტურებელი",
+     "ar": "إثبات إتقان اللغة الإنجليزية"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "ca",
+   "st. catharines"
+  ],
+  "sources": [
+   "https://brocku.ca/admissions/undergraduate/",
+   "https://brocku.ca/admissions/english-proficiency/",
+   "https://brocku.ca/admissions/international-students/",
+   "https://brocku.ca/admissions/requirements-by-country/",
+   "https://issuu.com/brockuniversity/docs/international_viewbook_2025-26"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-de-santiago-de-chile-usach",
+  "name": {
+   "en": "Universidad de Santiago de Chile (USACH)",
+   "ka": "სანტიაგო დე ჩილეს უნივერსიტეტი (USACH)",
+   "ar": "جامعة سانتياغو دي تشيلي (USACH)"
+  },
+  "iso": "CL",
+  "city": "Santiago",
+  "lat": -33.45,
+  "lon": -70.686,
+  "type": "public",
+  "website": "https://www.usach.cl",
+  "platform": null,
+  "application_url": "https://admision.usach.cl/ingreso-extranjero",
+  "intakes": null,
+  "deadline": "2026-12-23",
+  "deadline_note": "Admission route for people who finished secondary school abroad; applications 24 Aug to 23 Dec 2026 on admisionespecial.usach.cl. Results 4 Jan 2027, enrolment 5-7 Jan 2027 (the page says this applies to most routes).",
+  "tuition_intl": {
+   "amount": 6782000,
+   "currency": "CLP",
+   "per": "year",
+   "note": "2026 tuition by programme: 3,678,000 to 8,262,000 CLP (Medicine). Example: Ingeniería Civil Industrial 6,782,000. Enrolment fee 106,000 CLP per semester. No separate international rate is published."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": {
+   "national": null,
+   "a-level": null,
+   "ib": "accepted",
+   "us-diploma": null
+  },
+  "qualifications_note": {
+   "en": "IB: minimum 24 points (or BAC 10 / 12, or ECS 75). Other secondary diplomas: average of at least 5.0 on the Chilean 1-7 scale after conversion; the diploma must be recognised by the Chilean Ministry of Education.",
+   "ka": "IB: მინიმუმ 24 ქულა (ან BAC 10 / 12, ან ECS 75). სხვა საშუალო განათლების დიპლომი: ჩილეს 1-7 სკალაზე გადაყვანის შემდეგ მინიმუმ 5.0 საშუალო; დიპლომი უნდა იყოს აღიარებული ჩილეს განათლების სამინისტროს მიერ.",
+   "ar": "IB: 24 نقطة على الأقل (أو BAC 10 / 12، أو ECS 75). الشهادات الأخرى: معدل لا يقل عن 5.0 على المقياس التشيلي 1-7 بعد التحويل، ويجب أن تكون الشهادة معترفاً بها من وزارة التعليم التشيلية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Santiago, strong in engineering. Official international admission pages could not be read this round.",
+   "ka": "საჯარო უნივერსიტეტი სანტიაგოში, ძლიერია ინჟინერიაში. ოფიციალური გვერდები ვერ წაიკითხა.",
+   "ar": "جامعة حكومية في سانتياغو قوية في الهندسة. تعذرت قراءة صفحات القبول الدولية الرسمية."
+  },
+  "about": {
+   "en": "USACH is a public university in Santiago, Chile, with a long engineering tradition. Teaching is in Spanish. No official fee, deadline or requirement details for international bachelor applicants could be retrieved.",
+   "ka": "USACH საჯარო უნივერსიტეტია სანტიაგოში, ინჟინერიის დიდი ტრადიციით. სწავლება ესპანურადაა. ოფიციალური მონაცემები საერთაშორისო აპლიკანტებისთვის ვერ მოიძებნა.",
+   "ar": "USACH جامعة حكومية في سانتياغو بتشيلي ولها تقليد طويل في الهندسة. التدريس بالإسبانية. لم تتوفر بيانات رسمية للمتقدمين الدوليين."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة."
+  },
+  "tests": {
+   "en": "No entrance exam is named for this route. Documents not in Spanish or English need an official Spanish translation; all foreign documents must be apostilled or legalised. A ClaveÚnica login is needed to apply.",
+   "ka": "ამ გზისთვის მისაღები გამოცდა მითითებული არ არის. ესპანურ ან ინგლისურ ენაზე არარსებულ დოკუმენტებს სჭირდება ოფიციალური ესპანური თარგმანი; უცხოური დოკუმენტები აპოსტილირებული ან ლეგალიზებული უნდა იყოს. სააპლიკაციოდ საჭიროა ClaveÚnica.",
+   "ar": "لا يُذكر امتحان قبول لهذا المسار. الوثائق بغير الإسبانية أو الإنجليزية تحتاج ترجمة رسمية إلى الإسبانية، وكل الوثائق الأجنبية يجب أن تكون مصدقة بالأبوستيل أو مُصادقاً عليها. يلزم حساب ClaveÚnica للتقديم."
+  },
+  "gpa_note": {
+   "en": "Minimum average of 5.0 on a 1-7 scale (converted if your scale differs), or IB 24 points; you must have finished secondary school in 2025 or 2026.",
+   "ka": "მინიმალური საშუალო 5.0 1-7 სკალაზე (სხვა სკალის შემთხვევაში გადაითვლება), ან IB 24 ქულა; საშუალო სკოლა დასრულებული უნდა იყოს 2025 ან 2026 წელს.",
+   "ar": "الحد الأدنى للمعدل 5.0 من 7 (مع التحويل إن اختلف مقياسك)، أو 24 نقطة IB؛ ويجب إنهاء الثانوية في 2025 أو 2026."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "ID card (both sides) or passport",
+     "ka": "პირადობის მოწმობა (ორივე მხარე) ან პასპორტი",
+     "ar": "بطاقة الهوية (الوجهان) أو جواز السفر"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Birth certificate",
+     "ka": "დაბადების მოწმობა",
+     "ar": "شهادة الميلاد"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Apostilled grade certificate with grading scale and pass mark",
+     "ka": "აპოსტილირებული შეფასებების ცნობა შეფასების სკალითა და გამსვლელი ქულით",
+     "ar": "شهادة درجات مصدقة بالأبوستيل مع مقياس الدرجات وحد النجاح"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary education licence recognised by Mineduc (IB: apostilled exam score certificate)",
+     "ka": "საშუალო განათლების ლიცენზია, აღიარებული Mineduc-ის მიერ (IB: აპოსტილირებული გამოცდის ქულა)",
+     "ar": "شهادة الثانوية المعترف بها من Mineduc (لـ IB: شهادة درجات الامتحان مصدقة)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Legalised or apostilled documents",
+     "ka": "ლეგალიზებული ან აპოსტილირებული დოკუმენტები",
+     "ar": "وثائق مصدقة أو عليها أبوستيل"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": null,
+  "sources": [
+   "https://admision.usach.cl/ingreso-extranjero",
+   "https://admision.usach.cl/admision-especial",
+   "https://admision.usach.cl/aranceles"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-de-concepcion",
+  "name": {
+   "en": "Universidad de Concepción",
+   "ka": "კონსეპსიონის უნივერსიტეტი",
+   "ar": "جامعة كونسبسيون"
+  },
+  "iso": "CL",
+  "city": "Concepcion",
+  "lat": -36.829,
+  "lon": -73.036,
+  "type": "private",
+  "website": "https://www.udec.cl",
+  "platform": null,
+  "application_url": "https://admision.udec.cl/ingresos-especiales/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Special admission system for Chilean or foreign applicants who studied abroad; the 2027 application dates were not published in the pages found. Check admision.udec.cl.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 30000,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "medicine-health",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Natural sciences",
+    "Health sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "ჯანდაცვის მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم الطبيعية",
+    "علوم الصحة"
+   ]
+  },
+  "summary": {
+   "en": "A traditional Chilean university in Concepción, taught in Spanish. Official admission details for foreign school-leavers could not be read.",
+   "ka": "ტრადიციული ჩილელი უნივერსიტეტი კონსეპსიონში, სწავლება ესპანურად. უცხოეთში სკოლადამთავრებულთა მიღების ოფიციალური მონაცემები ვერ წაიკითხა.",
+   "ar": "جامعة تشيلية عريقة في كونسبسيون، التدريس بالإسبانية. لم تتوفر بيانات رسمية مقروءة عن قبول خريجي المدارس الأجنبية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": {
+   "en": "You must have studied at least two years of secondary school abroad and finished it in the two years before the academic period you apply for; you may apply to one programme only.",
+   "ka": "საშუალო სკოლის მინიმუმ ორი წელი უცხოეთში უნდა გქონდეთ გავლილი და დასრულებული უნდა იყოს განაცხადის აკადემიურ პერიოდამდე ორი წლის განმავლობაში; განაცხადი მხოლოდ ერთ პროგრამაზე შეიძლება.",
+   "ar": "يجب أن تكون قد درست سنتين على الأقل من الثانوية في الخارج وأنهيتها خلال السنتين السابقتين للفترة الأكاديمية المتقدَّم إليها؛ ويُسمح بالتقديم إلى برنامج واحد فقط."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school grade certificate",
+     "ka": "საშუალო სკოლის შეფასებების ცნობა",
+     "ar": "شهادة درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Certificate from the education authority of the country of study",
+     "ka": "განათლების უწყების ცნობა სწავლის ქვეყნიდან",
+     "ar": "شهادة من الجهة التعليمية في بلد الدراسة"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Sworn statement of means to pay tuition and live in Chile",
+     "ka": "ფიცით დადასტურებული ცნობა სწავლისა და ცხოვრების ხარჯების დაფარვის შესახებ",
+     "ar": "إقرار مشفوع باليمين بالقدرة على دفع الرسوم والمعيشة في تشيلي"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "University tax payment receipt (70,000 CLP in the 2024 rules)",
+     "ka": "საუნივერსიტეტო გადასახადის ქვითარი (2024 წესებით 70,000 CLP)",
+     "ar": "إيصال دفع الضريبة الجامعية (70,000 بيزو في قواعد 2024)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Original foreign documents, legalised and translated into Spanish",
+     "ka": "უცხოური დოკუმენტების ორიგინალები, ლეგალიზებული და ესპანურად ნათარგმნი",
+     "ar": "وثائق أجنبية أصلية مصدقة ومترجمة إلى الإسبانية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "chile",
+   "concepcion"
+  ],
+  "sources": [
+   "https://admision.udec.cl/ingresos-especiales/",
+   "https://admision.udec.cl/wp-content/uploads/2025/01/01_2024_8-Educ-Media-Extr.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "pontificia-universidad-catolica-de-valparaiso",
+  "name": {
+   "en": "Pontificia Universidad Católica de Valparaíso",
+   "ka": "ვალპარაისოს პაპისეული კათოლიკური უნივერსიტეტი",
+   "ar": "جامعة بونتيفيسيا الكاثوليكية في فالبارايسو"
+  },
+  "iso": "CL",
+  "city": "Valparaíso",
+  "lat": -33.034,
+  "lon": -71.595,
+  "type": "private",
+  "website": "https://www.pucv.cl",
+  "platform": null,
+  "application_url": "https://estudiantespucv.cl/postulaciones",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Special admission for the first semester of 2027: registration and documents 21 Aug to 30 Sep 2026; route deadlines run to 11 Dec 2026 (other direct-access routes). Requirements depend on the route; see the terms PDF on the page.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "business",
+   "humanities",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Business",
+    "Humanities",
+    "Sciences"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ბიზნესი",
+    "ჰუმანიტარული მეცნიერებები",
+    "მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "الأعمال",
+    "العلوم الإنسانية",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "PUCV is a Catholic university in Valparaíso, Chile, that teaches mainly in Spanish. Its site blocked automated reading, so no fee or deadline is listed here.",
+   "ka": "PUCV ჩილეს ქალაქ ვალპარაისოს კათოლიკური უნივერსიტეტია, სწავლება ძირითადად ესპანურად მიმდინარეობს. საიტმა ავტომატური წაკითხვა დაბლოკა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "PUCV جامعة كاثوليكية في فالبارايسو بتشيلي، التدريس فيها بالإسبانية غالبًا. حجب الموقع القراءة الآلية، لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "about": {
+   "en": "PUCV is a Catholic university in Valparaíso, Chile, that teaches mainly in Spanish. Its site blocked automated reading, so no fee or deadline is listed here.",
+   "ka": "PUCV ჩილეს ქალაქ ვალპარაისოს კათოლიკური უნივერსიტეტია, სწავლება ძირითადად ესპანურად მიმდინარეობს. საიტმა ავტომატური წაკითხვა დაბლოკა, ამიტომ საფასური და ვადები მითითებული არ არის.",
+   "ar": "PUCV جامعة كاثوليكية في فالبارايسو بتشيلي، التدريس فيها بالإسبانية غالبًا. حجب الموقع القراءة الآلية، لذلك لم تُدرج الرسوم والمواعيد."
+  },
+  "aid_intl": {
+   "en": "The Beca Juan Gómez Millas covers part or all of the annual tuition (up to 1,150,000 CLP) for non-Chilean students from Latin America and the Caribbean with financial need; the page may describe earlier years.",
+   "ka": "Beca Juan Gómez Millas ფარავს წლიური გადასახადის ნაწილს ან მთლიანს (1,150,000 CLP-მდე) ლათინური ამერიკისა და კარიბის ქვეყნების არაჩილელი სტუდენტებისთვის ფინანსური საჭიროებისას; გვერდი შესაძლოა წინა წლებს აღწერდეს.",
+   "ar": "تغطي منحة Beca Juan Gómez Millas جزءاً من الرسوم السنوية أو كلها (حتى 1,150,000 بيزو) للطلاب غير التشيليين من أمريكا اللاتينية والكاريبي ذوي الحاجة المالية؛ وقد تصف الصفحة سنوات سابقة."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "chile",
+   "valparaiso"
+  ],
+  "sources": [
+   "https://estudiantespucv.cl/postulaciones",
+   "https://www.pucv.cl/pucv/pregrado/vias-de-admision"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-de-los-andes-chile",
+  "name": {
+   "en": "Universidad de los Andes - Chile",
+   "ka": "ანდესის უნივერსიტეტი (ჩილე)",
+   "ar": "جامعة لوس أندes تشيلي"
+  },
+  "iso": "CL",
+  "city": "Santiago",
+  "lat": -33.392,
+  "lon": -70.5,
+  "type": "private",
+  "website": "https://www.uandes.cl",
+  "platform": null,
+  "application_url": "https://admision.uandes.cl/estudiantes-de-region-y-del-extranjero",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Admisión Directa 2027: applications opened 11 Aug; first stage closed 11 Sep 2026; a second stage starts 14 Sep, subject to available places. Classes start March 2027.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "law",
+   "business"
+  ],
+  "strengths": null,
+  "summary": null,
+  "about": null,
+  "aid_intl": {
+   "en": "A scholarship for schools abroad with an agreement (Beca colegios extranjeros por convenio) exists; see the university page.",
+   "ka": "არსებობს სტიპენდია უცხოური სკოლებისთვის, რომლებსაც ხელშეკრულება აქვთ (Beca colegios extranjeros por convenio); იხილეთ უნივერსიტეტის გვერდი.",
+   "ar": "توجد منحة للمدارس الأجنبية ذات الاتفاقيات (Beca colegios extranjeros por convenio)؛ راجع صفحة الجامعة."
+  },
+  "tests": null,
+  "gpa_note": {
+   "en": "For foreign applicants the Admisión Directa example (Architecture) asks for a secondary-school average of at least 6.0 on the Chilean scale; IB Diploma 26 points with at least 4.0 in Individuals and Societies. Requirements differ by programme.",
+   "ka": "უცხოელი აპლიკანტებისთვის Admisión Directa-ს მაგალითზე (არქიტექტურა) საჭიროა საშუალო სკოლის საშუალო მინიმუმ 6.0 ჩილეს სკალით; IB დიპლომი 26 ქულა. მოთხოვნები პროგრამის მიხედვით განსხვავდება.",
+   "ar": "في مثال القبول المباشر (العمارة) للمتقدمين الأجانب يُطلب معدل ثانوي لا يقل عن 6.0 على المقياس التشيلي؛ ودبلوم IB بـ 26 نقطة. تختلف الشروط حسب البرنامج."
+  },
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "cl",
+   "santiago"
+  ],
+  "sources": [
+   "https://admision.uandes.cl/estudiantes-de-region-y-del-extranjero",
+   "https://admision.uandes.cl/admision/admision-directa"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-tecnica-federico-santa-maria-usm",
+  "name": {
+   "en": "Universidad Técnica Federico Santa María (USM)",
+   "ka": "ფედერიკო სანტა მარიას ტექნიკური უნივერსიტეტი (USM)",
+   "ar": "جامعة فيديريكو سانتا ماريا التقنية (USM)"
+  },
+  "iso": "CL",
+  "city": "Valparaíso",
+  "lat": -33.034,
+  "lon": -71.595,
+  "type": "private",
+  "website": "https://www.usm.cl",
+  "platform": null,
+  "application_url": "https://usm.cl/admision/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 6520000,
+   "currency": "CLP",
+   "per": "year",
+   "note": "2026 tuition for Architecture (day); enrolment fee 137,500 CLP per semester. Only this programme was found; other programmes differ. No separate international rate is published."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "natural-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Private engineering-focused university in Valparaíso, Chile. Teaching is in Spanish. Its admissions pages could not be read, so no official fee data is listed.",
+   "ka": "ვალპარაისოს (ჩილე) კერძო საინჟინრო უნივერსიტეტი. სწავლება ესპანურ ენაზეა. მისაღები პირობები ოფიციალური გვერდიდან ვერ წაიკითხა, ამიტომ საფასური მითითებული არ არის.",
+   "ar": "جامعة خاصة متخصصة في الهندسة في فالبارايسو بتشيلي. التدريس بالإسبانية. تعذّر قراءة صفحات القبول الرسمية، لذلك لا تُعرض رسوم رسمية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "chile",
+   "valparaiso",
+   "engineering"
+  ],
+  "sources": [
+   "https://arquitectura.usm.cl/admision-pregrado/",
+   "https://usm.cl/admision/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-de-la-frontera-ufro",
+  "name": {
+   "en": "Universidad de La Frontera (UFRO)",
+   "ka": "ლა ფრონტერას უნივერსიტეტი (UFRO)",
+   "ar": "جامعة لا فرونتيرا (UFRO)"
+  },
+  "iso": "CL",
+  "city": "Temuco",
+  "lat": -38.745,
+  "lon": -72.617,
+  "type": "public",
+  "website": "https://www.ufro.cl",
+  "platform": "Direct (admision.ufro.cl)",
+  "application_url": "https://postulacion.ufro.cl/",
+  "intakes": null,
+  "deadline": "2027-01-08",
+  "deadline_note": "Route for people with studies abroad, Admission 2027: applications 9 Dec 2026 to 8 Jan 2027, results 22 Jan, enrolment 22-23 Jan 2027. Cupos, requirements and documents are in the route PDF.",
+  "tuition_intl": {
+   "amount": 5430000,
+   "currency": "CLP",
+   "per": "year",
+   "note": "2026 tuition by programme: 3,166,000 to 7,036,000 CLP (Medicine, Dentistry). Example: Ingeniería Civil 5,430,000; Ingeniería Comercial 4,795,000. Enrolment fee 240,000 CLP (120,000 without gratuidad). No separate international rate is published."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "education"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Universidad de La Frontera (UFRO) is a public university in Temuco, Chile. Teaching is in Spanish.",
+   "ka": "ლა ფრონტერას უნივერსიტეტი (UFRO) — სახელმწიფო უნივერსიტეტია, მდებარეობს ჩილეში (ტემუკო). სწავლება მიმდინარეობს ესპანურ ენაზე.",
+   "ar": "جامعة لا فرونتيرا (UFRO) جامعة حكومية في تيموكو، تشيلي. لغة التدريس هي الإسبانية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "temuco",
+   "chile",
+   "spanish"
+  ],
+  "sources": [
+   "https://admision.ufro.cl/admision-especial/personas-con-estudios-en-el-extranjero/",
+   "https://admision.ufro.cl/aranceles-y-matriculas/",
+   "https://admision.ufro.cl/admision-especial/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-de-talca",
+  "name": {
+   "en": "Universidad de Talca",
+   "ka": "ტალკას უნივერსიტეტი",
+   "ar": "جامعة تالكا"
+  },
+  "iso": "CL",
+  "city": "Talca",
+  "lat": -35.002,
+  "lon": -71.229,
+  "type": "public",
+  "website": "https://www.utalca.cl",
+  "platform": "Direct and national system",
+  "application_url": "https://admision.utalca.cl/admision-regular/personas-con-estudios-en-el-extranjero/",
+  "intakes": null,
+  "deadline": "2027-01-15",
+  "deadline_note": "Admission 2027, route for people with secondary studies abroad: registration 14 Dec 2026 to 15 Jan 2027.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "medicine-health",
+   "business"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Universidad de Talca is a public university in Talca, Chile. Teaching is in Spanish.",
+   "ka": "ტალკას უნივერსიტეტი — სახელმწიფო უნივერსიტეტია, მდებარეობს ჩილეში (ტალკა). სწავლება მიმდინარეობს ესპანურ ენაზე.",
+   "ar": "جامعة تالكا جامعة حكومية في تالكا، تشيلي. لغة التدريس هي الإسبانية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": {
+   "en": "You need a secondary-school certificate equivalent to the Chilean Licencia de Enseñanza Media. Selection looks at academic performance and transcript, available places and other criteria set by the commission; Pedagogy also needs Ley 20.903.",
+   "ka": "გჭირდებათ ჩილეს Licencia de Enseñanza Media-ს ექვივალენტური საშუალო განათლების დოკუმენტი. შერჩევისას გაითვალისწინება აკადემიური მოსწრება, თავისუფალი ადგილები და კომისიის სხვა კრიტერიუმები; პედაგოგიკას დამატებით სჭირდება Ley 20.903.",
+   "ar": "تحتاج إلى شهادة ثانوية معادلة للشهادة التشيلية Licencia de Enseñanza Media. يعتمد الاختيار على الأداء الأكاديمي وكشف الدرجات والأماكن المتاحة ومعايير أخرى تحددها اللجنة؛ وتتطلب التربية شروط Ley 20.903."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school certificate or equivalent, legalised",
+     "ka": "საშუალო განათლების დოკუმენტი ან ექვივალენტი, ლეგალიზებული",
+     "ar": "شهادة الثانوية أو ما يعادلها، مصدقة"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Legalisation by Ministry of Education, Foreign Ministry and Chilean consulate",
+     "ka": "ლეგალიზაცია განათლების სამინისტროს, საგარეო საქმეთა სამინისტროსა და ჩილეს საკონსულოს მიერ",
+     "ar": "تصديق من وزارة التعليم ووزارة الخارجية والقنصلية التشيلية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Proof of university tax payment (43,200 CLP)",
+     "ka": "საუნივერსიტეტო გადასახადის გადახდის დადასტურება (43,200 CLP)",
+     "ar": "إثبات دفع الضريبة الجامعية (43,200 بيزو)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Online application form and documents uploaded to the platform",
+     "ka": "ონლაინ განაცხადის ფორმა და ატვირთული დოკუმენტები",
+     "ar": "استمارة التقديم الإلكترونية والوثائق المرفوعة على المنصة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "talca",
+   "chile",
+   "spanish"
+  ],
+  "sources": [
+   "https://admision.utalca.cl/admision-regular/personas-con-estudios-en-el-extranjero/",
+   "https://admision.utalca.cl/admisiones-especiales/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-diego-portales",
+  "name": {
+   "en": "Universidad Diego Portales",
+   "ka": "დიეგო პორტალესის უნივერსიტეტი",
+   "ar": "جامعة دييغو بورتاليس"
+  },
+  "iso": "CL",
+  "city": "Santiago",
+  "lat": -33.451,
+  "lon": -70.664,
+  "type": "private",
+  "website": "https://www.udp.cl",
+  "platform": "Direct (admision.udp.cl) and national system",
+  "application_url": "https://admision.udp.cl/vias-de-admision/admision-especial/",
+  "intakes": null,
+  "deadline": "2026-12-04",
+  "deadline_note": "Route for secondary graduates from abroad, Calendar 2027 (day programmes): 1st period 23 Sep to 29 Oct 2026, 2nd period 30 Oct to 4 Dec 2026, 3rd period from 15 Dec 2026 only where places remain.",
+  "tuition_intl": {
+   "amount": 8961000,
+   "currency": "CLP",
+   "per": "year",
+   "note": "2027 list: tuition plus enrolment. Ingeniería Comercial 8,961,000 CLP; range about 5.1 to 13.6 million CLP (Medicine and Dentistry 13,624,000). No separate international rate is published."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "law",
+   "social-sciences",
+   "business"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Universidad Diego Portales is a private university in Santiago, Chile. Teaching is in Spanish.",
+   "ka": "დიეგო პორტალესის უნივერსიტეტი — კერძო უნივერსიტეტია, მდებარეობს ჩილეში (სანტიაგო). სწავლება მიმდინარეობს ესპანურ ენაზე.",
+   "ar": "جامعة دييغو بورتاليس جامعة خاصة في سانتياغو، تشيلي. لغة التدريس هي الإسبانية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": {
+   "en": "Foreign and Chilean applicants may apply with a secondary credential earned abroad no more than two years before applying; Pedagogy programmes also need the Ley 20.903 prerequisites.",
+   "ka": "უცხოელებსა და ჩილელებს შეუძლიათ განაცხადი უცხოეთში მიღებული საშუალო განათლების დოკუმენტით, თუ ის განაცხადამდე ორ წელზე მეტი ხნის წინ არ არის მიღებული; პედაგოგიკას სჭირდება Ley 20.903-ის წინაპირობები.",
+   "ar": "يمكن للأجانب والتشيليين التقدم بشهادة ثانوية من الخارج حصلوا عليها قبل أقل من سنتين من التقديم؛ وتتطلب برامج التربية شروط Ley 20.903."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma (Licencia) recognised by the Chilean Ministry of Education",
+     "ka": "საშუალო განათლების დიპლომი, აღიარებული ჩილეს განათლების სამინისტროს მიერ",
+     "ar": "شهادة الثانوية معترف بها من وزارة التعليم التشيلية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Grade transcript with grade conversion table",
+     "ka": "შეფასებების ფურცელი კონვერტაციის ცხრილით",
+     "ar": "كشف الدرجات مع جدول تحويل الدرجات"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Copy of ID card, both sides",
+     "ka": "პირადობის მოწმობის ასლი, ორივე მხარე",
+     "ar": "نسخة من بطاقة الهوية، الوجهان"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Apostille, or legalisation at the Chilean consulate and Foreign Ministry",
+     "ka": "აპოსტილი ან ლეგალიზაცია ჩილეს საკონსულოსა და საგარეო სამინისტროში",
+     "ar": "أبوستيل أو تصديق لدى القنصلية التشيلية ووزارة الخارجية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "santiago",
+   "chile",
+   "spanish"
+  ],
+  "sources": [
+   "https://admision.udp.cl/vias-de-admision/admision-especial/",
+   "https://admision.udp.cl/aranceles-y-matricula/aranceles/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "southeast-university",
+  "name": {
+   "en": "Southeast University",
+   "ka": "სამხრეთ-აღმოსავლეთის უნივერსიტეტი (ნანძინი)",
+   "ar": "جامعة جنوب شرق الصين (نانجينغ)"
+  },
+  "iso": "CN",
+  "city": "Nanjing",
+  "lat": 32.057,
+  "lon": 118.797,
+  "type": "public",
+  "website": "https://www.seu.edu.cn",
+  "platform": null,
+  "application_url": "http://fs.seu.edu.cn",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "The 2020 official page gave 1 Dec 2019 to 15 Jul 2020; a later SEU page gave 22 Nov 2025 to 15 May 2026. The 2027 intake notice (10 Oct 2026) was found but its dates were not readable here; check cis.seu.edu.cn.",
+  "tuition_intl": {
+   "amount": 19000,
+   "currency": "CNY",
+   "per": "year",
+   "note": "Chinese-taught engineering (2020 official page). Liberal arts 16,000; medicine 20,000; English-taught MBBS 32,000. Shared room about 6,000-8,000 CNY per year. Check the current fee list."
+  },
+  "acceptance_rate": null,
+  "students": 35000,
+  "intl_pct": null,
+  "languages": [
+   "Chinese",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 6.0,
+  "toefl_min": 80,
+  "duolingo_min": null,
+  "other_tests": [
+   "HSK 4 (Chinese-taught programmes)"
+  ],
+  "fields": [
+   "engineering",
+   "computer-science",
+   "arts-design",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Architecture",
+    "Civil Engineering",
+    "Electronic Engineering",
+    "Computer Science"
+   ],
+   "ka": [
+    "არქიტექტურა",
+    "სამოქალაქო ინჟინერია",
+    "ელექტრონული ინჟინერია",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "العمارة",
+    "الهندسة المدنية",
+    "الهندسة الإلكترونية",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "Chinese national key university in Nanjing, known for architecture and engineering.",
+   "ka": "ნანძინში მდებარე ჩინეთის ეროვნული წამყვანი უნივერსიტეტი, ცნობილი არქიტექტურითა და ინჟინერიით.",
+   "ar": "جامعة وطنية رئيسية في نانجينغ، معروفة بالعمارة والهندسة."
+  },
+  "about": {
+   "en": "Southeast University is a public Double First-Class university in Nanjing.",
+   "ka": "სამხრეთ-აღმოსავლეთის უნივერსიტეტი ნანძინში მდებარე საჯარო „Double First-Class“ უნივერსიტეტია.",
+   "ar": "جامعة جنوب شرق الصين جامعة حكومية من فئة Double First-Class في نانجينغ."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "Chinese-taught programmes need HSK 4 or higher (a later SEU page asks HSK 5 for medicine, humanities and economics/management). English-taught programmes need TOEFL 80 or IELTS 6.0 unless English is your native or official language.",
+   "ka": "ჩინურენოვან პროგრამებზე საჭიროა HSK 4 ან მეტი (SEU-ს უფრო ახალი გვერდით მედიცინაზე, ჰუმანიტარულსა და ეკონომიკაზე HSK 5). ინგლისურენოვანზე საჭიროა TOEFL 80 ან IELTS 6.0, თუ ინგლისური მშობლიური ან ოფიციალური ენა არ არის.",
+   "ar": "تتطلب البرامج بالصينية HSK 4 فأعلى (وتطلب صفحة أحدث HSK 5 للطب والإنسانيات والاقتصاد). تتطلب البرامج بالإنجليزية TOEFL 80 أو IELTS 6.0 ما لم تكن الإنجليزية لغتك الأم أو الرسمية."
+  },
+  "gpa_note": {
+   "en": "Applicants must be non-Chinese citizens in good health who have graduated from high school, over 18 and under 25 (2020 page). Some programmes, such as architecture, ask for a portfolio.",
+   "ka": "აპლიკანტი უნდა იყოს არაჩინეთის მოქალაქე, ჯანმრთელი, საშუალო სკოლა დამთავრებული, 18 წელზე უფროსი და 25-ზე უმცროსი (2020 წლის გვერდი). ზოგ პროგრამაზე (მაგ. არქიტექტურა) საჭიროა პორტფოლიო.",
+   "ar": "يجب أن يكون المتقدم غير صيني بصحة جيدة وخريج ثانوية، وعمره بين 18 و25 (صفحة 2020). تطلب بعض البرامج مثل العمارة ملف أعمال."
+  },
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport valid for more than one year",
+     "ka": "პასპორტი, ვადით ერთ წელზე მეტი",
+     "ar": "جواز سفر ساري لأكثر من سنة"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma / certificate",
+     "ka": "საშუალო განათლების დიპლომი / ატესტატი",
+     "ar": "شهادة إتمام المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcript",
+     "ka": "საშუალო სკოლის ატესტატის ნიშნების ფურცელი",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language certificate (HSK or English)",
+     "ka": "ენის სერტიფიკატი (HSK ან ინგლისური)",
+     "ar": "شهادة لغة (HSK أو الإنجليزية)"
+    }
+   },
+   {
+    "key": "portfolio",
+    "label": {
+     "en": "Portfolio (architecture, planning)",
+     "ka": "პორტფოლიო (არქიტექტურა, ურბანული დაგეგმარება)",
+     "ar": "ملف أعمال (العمارة والتخطيط)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://cis.seu.edu.cn/hwenglish/2019/1126/c13962a296283/page.htm",
+   "https://www.seu.edu.cn/english/2014/1124/c11844a110615/page.htm",
+   "https://cis.seu.edu.cn/hwenglish/13917/list.htm",
+   "https://cis.seu.edu.cn/hwenglish/2025/1125/c14041a546670/page.htm"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

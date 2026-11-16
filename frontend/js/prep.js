@@ -130,13 +130,16 @@
     '</div>';
     host.innerHTML =
       '<div class="prep-main">' +
-        '<div class="prep-hero"><h2>' + M.esc(e.name) + '</h2>' +
+        // a picture per exam group (like the counselling courses) beside a short introduction
+        '<div class="prep-hero prep-hero-pic"><div><h2>' + M.esc(e.name) + '</h2>' +
           (e.by ? '<p class="by">' + M.esc(e.by) + '</p>' : '') +
           (P(e.what) ? '<p>' + M.esc(firstSentence(P(e.what))) + '</p>' : '') + '</div>' +
-        ((P(e.who) || P(e.scores) || tips.length) ? '<div class="prep-info">' +
-          (P(e.who) ? '<div><b>' + M.icon('users', 15) + M.t('prep.who') + '</b><p>' + M.esc(P(e.who)) + '</p></div>' : '') +
-          (P(e.scores) ? '<div><b>' + M.icon('target', 15) + M.t('prep.scores') + '</b><p>' + M.esc(P(e.scores)) + '</p></div>' : '') +
-          (tips.length ? '<div class="prep-tips"><b>' + M.icon('zap', 15) + M.t('prep.tips') + '</b><ol>' + tips.map(function (t) { return '<li>' + M.esc(t) + '</li>'; }).join('') + '</ol></div>' : '') +
+          '<img class="prep-pic" src="/img/prep/' + groupOf(e) + '.svg" alt="" width="640" height="400" loading="lazy" /></div>' +
+        // who / scores / tips fold to one line each, so the resources come first
+        ((P(e.who) || P(e.scores) || tips.length) ? '<div class="prep-info prep-info-fold">' +
+          (P(e.who) ? '<details><summary><b>' + M.icon('users', 15) + M.t('prep.who') + '</b><span>' + M.esc(firstSentence(P(e.who))) + '</span></summary><p>' + M.esc(P(e.who)) + '</p></details>' : '') +
+          (P(e.scores) ? '<details><summary><b>' + M.icon('target', 15) + M.t('prep.scores') + '</b><span>' + M.esc(firstSentence(P(e.scores))) + '</span></summary><p>' + M.esc(P(e.scores)) + '</p></details>' : '') +
+          (tips.length ? '<details class="prep-tips"><summary><b>' + M.icon('zap', 15) + M.t('prep.tips') + '</b><span>' + M.esc(tips[0]) + '</span></summary><ol>' + tips.map(function (t) { return '<li>' + M.esc(t) + '</li>'; }).join('') + '</ol></details>' : '') +
         '</div>' : '') +
         filterBar +
         (keys.length ? '' : '<p class="muted">' + M.t('prep.noMatch') + '</p>') +

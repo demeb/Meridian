@@ -242,6 +242,27 @@ CREATE TABLE IF NOT EXISTS school_posts (
     created_at    TEXT NOT NULL
 );
 
+-- Meetings between a school counsellor and one of their students (either side asks)
+CREATE TABLE IF NOT EXISTS meetings (
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    counsellor_id INTEGER NOT NULL REFERENCES counsellors(id),
+    student_id    INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+    starts_at     TEXT    NOT NULL,
+    minutes       INTEGER NOT NULL DEFAULT 30,
+    topic         TEXT,
+    status        TEXT    NOT NULL DEFAULT 'requested',
+    requested_by  TEXT    NOT NULL,
+    created_at    TEXT    NOT NULL
+);
+
+-- Every time a counsellor opens a student's file (who looked at what, when)
+CREATE TABLE IF NOT EXISTS counsellor_access (
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    counsellor_id INTEGER NOT NULL,
+    student_id    INTEGER NOT NULL,
+    at            TEXT    NOT NULL
+);
+
 CREATE INDEX IF NOT EXISTS idx_codes_user ON verification_codes(user_id);
 CREATE INDEX IF NOT EXISTS idx_posts_school ON school_posts(school_id, created_at);
 CREATE INDEX IF NOT EXISTS idx_apps_user ON applications(user_id);
@@ -272,6 +293,8 @@ MIGRATIONS = {
         "plan_renews_at": "TEXT",
         "birth_year": "INTEGER",
         "birth_date": "TEXT",
+        "gpa": "TEXT",
+        "test_scores": "TEXT",
     },
     "bookings": {
         "slot_id": "INTEGER",
@@ -389,7 +412,7 @@ def hash_code(code):
 
 # ---------------------------------------------------------------- users
 PROFILE_FIELDS = ("phone", "grade", "country", "city", "school", "interests", "target_regions", "locale",
-                  "birth_year", "birth_date")
+                  "birth_year", "birth_date", "gpa", "test_scores")
 
 
 def create_user(first_name, last_name, email, password, **profile):
@@ -1051,3 +1074,24 @@ def ai_count(who):
         conn.execute("""INSERT INTO ai_usage (day, who, count) VALUES (date('now'), ?, 1)
                         ON CONFLICT(day, who) DO UPDATE SET count = count + 1""", (who,))
     conn.close()
+
+
+def delete_user(user_id):
+    """Remove an account and everything tied to it. Returns the ids of the
+    user's applications so the caller can remove their uploaded files."""
+    conn = connect()
+    apps = [r[0] for r in conn.execute("SELECT id FROM applications WHERE user_id = ?", (user_id,))]
+    with conn:
+        cids = [r[0] for r in conn.execute("SELECT id FROM counsellors WHERE user_id = ?", (user_id,))]
+        for cid in cids:
+            conn.execute("DELETE FROM meetings WHERE counsellor_id = ?", (cid,))
+            conn.execute("DELETE FROM counsellor_access WHERE counsellor_id = ?", (cid,))
+            conn.execute("DELETE FROM school_posts WHERE counsellor_id = ?", (cid,))
+            conn.execute("DELETE FROM counsellors WHERE id = ?", (cid,))
+        conn.execute("DELETE FROM counsellor_access WHERE student_id = ?", (user_id,))
+        # A tutor profile without its owner must stop being listed.
+        conn.execute("UPDATE tutors SET status = 'removed', updated_at = ? WHERE user_id = ?", (now(), user_id))
+        conn.execute("UPDATE events SET user_id = NULL WHERE user_id = ?", (user_id,))
+        conn.execute("DELETE FROM users WHERE id = ?", (user_id,))
+    conn.close()
+    return apps

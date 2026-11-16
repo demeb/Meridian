@@ -1,0 +1,901 @@
+[
+ {
+  "id": "macao-polytechnic-university",
+  "name": {
+   "en": "Macao Polytechnic University",
+   "ka": "მაკაოს პოლიტექნიკური უნივერსიტეტი",
+   "ar": "جامعة ماكاو للفنون التطبيقية"
+  },
+  "iso": "MO",
+  "city": "Macao",
+  "lat": 22.193,
+  "lon": 113.549,
+  "type": "public",
+  "website": "https://www.mpu.edu.mo",
+  "platform": null,
+  "application_url": "https://www.mpu.edu.mo/admission_overseas/en/index.php",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "Undergraduate applications open each December; for 2026/27 entry the exam-based route ran 1 December 2025 to 16 January 2026. Dates for 2027/28 were not yet published.",
+  "tuition_intl": {
+   "amount": 480000,
+   "currency": "MOP",
+   "per": "programme",
+   "note": "Undergraduate full-tuition rate for overseas students (MOP 448,000 for Hong Kong and Taiwan), from the 2024/25 fee table; paid in eight instalments. Subject to adjustment."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Chinese",
+   "Portuguese"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "computer-science",
+   "languages"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Computing",
+    "Translation"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "კომპიუტინგი",
+    "თარგმანი"
+   ],
+   "ar": [
+    "الأعمال",
+    "الحوسبة",
+    "الترجمة"
+   ]
+  },
+  "summary": {
+   "en": "A public polytechnic university in Macao. Admission pages redirected and could not be read, so fees and dates are not listed.",
+   "ka": "სახელმწიფო პოლიტექნიკური უნივერსიტეტი მაკაოში.",
+   "ar": "جامعة حكومية للفنون التطبيقية في ماكاو."
+  },
+  "about": {
+   "en": "Macao Polytechnic University is a public university in Macao with applied programmes taught in Chinese, English and Portuguese. Non-local applicants should check the MPU admissions office.",
+   "ka": "მაკაოს პოლიტექნიკური უნივერსიტეტი სახელმწიფო უნივერსიტეტია მაკაოში.",
+   "ar": "جامعة ماكاو للفنون التطبيقية جامعة حكومية تقدم برامج تطبيقية بالصينية والإنجليزية والبرتغالية."
+  },
+  "aid_intl": {
+   "en": "Outstanding freshmen from outside Macao can receive tuition and hostel fee waivers plus a monthly subsidy.",
+   "ka": "მაკაოს გარეთიდან ჩარიცხულ გამორჩეულ პირველკურსელებს შეუძლიათ სწავლისა და საერთო საცხოვრებლის საფასურის შეღავათი და ყოველთვიური დახმარება მიიღონ.",
+   "ar": "يمكن للطلبة المتميزين الجدد من خارج ماكاو الحصول على إعفاء من الرسوم الدراسية ورسوم السكن مع مخصص شهري."
+  },
+  "tests": {
+   "en": "Overseas applicants can enter through direct admission, which may include a video interview or other assessment; missing it means disqualification. No English score is published for undergraduates.",
+   "ka": "უცხოელ აპლიკანტებს შეუძლიათ პირდაპირი მიღებით ჩაირიცხონ, რაც შეიძლება ვიდეოინტერვიუს ან სხვა შეფასებას მოიცავდეს; გამოუცხადებლობა დისკვალიფიკაციას ნიშნავს. ბაკალავრიატისთვის ინგლისურის ქულა გამოქვეყნებული არ არის.",
+   "ar": "يمكن للمتقدمين من الخارج الالتحاق عبر القبول المباشر الذي قد يشمل مقابلة بالفيديو أو تقييمًا آخر؛ والغياب يعني الاستبعاد. لا تُنشر درجة إنجليزية لمرحلة البكالوريوس."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Copy of identity document",
+     "ka": "პირადობის დოკუმენტის ასლი",
+     "ar": "نسخة من وثيقة الهوية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Senior high school graduation certificate or equivalent (or exam permit/predicted grades)",
+     "ka": "უმაღლესი საშუალო სკოლის დამამთავრებელი სერტიფიკატი ან ექვივალენტი (ან გამოცდის ნებართვა/სავარაუდო ნიშნები)",
+     "ar": "شهادة التخرج من الثانوية أو ما يعادلها (أو تصريح الامتحان/الدرجات المتوقعة)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "განაცხადის საფასური",
+     "ar": "رسوم الطلب"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://www.mpu.edu.mo/admission_overseas/en/fees_scholarships.php",
+   "https://www.mpu.edu.mo/admission_overseas/en/index.php",
+   "https://mpusite.mpu.edu.mo/admission_overseas/en/faq.php",
+   "https://mpusite.mpu.edu.mo/admission_overseas/en/direct_admission.php"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "city-university-of-macau",
+  "name": {
+   "en": "City University of Macau",
+   "ka": "მაკაოს სიტი უნივერსიტეტი",
+   "ar": "جامعة مدينة ماكاو"
+  },
+  "iso": "MO",
+  "city": "Macau",
+  "lat": 22.157,
+  "lon": 113.554,
+  "type": "private",
+  "website": "https://www.cityu.edu.mo",
+  "platform": null,
+  "application_url": "https://ado.cityu.edu.mo/home",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "The 2024/25 prospectus listed the undergraduate application period as 1 January to 30 June 2024. Dates for later intakes were not readable.",
+  "tuition_intl": {
+   "amount": 40000,
+   "currency": "MOP",
+   "per": "year",
+   "note": "Undergraduate tuition for Hong Kong, Taiwan and international students in the 2022/23 prospectus; the current fee was not confirmed."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English",
+   "Chinese"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "education",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Business",
+    "Education",
+    "Law",
+    "Communication"
+   ],
+   "ka": [
+    "ბიზნესი",
+    "განათლება",
+    "სამართალი",
+    "კომუნიკაცია"
+   ],
+   "ar": [
+    "إدارة الأعمال",
+    "التعليم",
+    "القانون",
+    "الاتصال"
+   ]
+  },
+  "summary": {
+   "en": "City University of Macau is a private university in Macau. Official admissions and fee pages could not be read.",
+   "ka": "მაკაოს სიტი უნივერსიტეტი კერძო უნივერსიტეტია მაკაოში. ადმისიისა და საფასურის ოფიციალური გვერდები ვერ წაიკითხა.",
+   "ar": "جامعة مدينة ماكاو جامعة خاصة في ماكاو. تعذّرت قراءة صفحات القبول والرسوم الرسمية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate or diploma",
+     "ka": "სკოლის დამამთავრებელი სერტიფიკატი ან დიპლომი",
+     "ar": "شهادة إتمام الدراسة الثانوية أو الدبلوم"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის დანართი (ნიშნების ამონაწერი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee (HKD 500 for international students, 2024/25 prospectus)",
+     "ka": "განაცხადის საფასური (HKD 500 საერთაშორისო სტუდენტებისთვის, 2024/25 პროსპექტუსი)",
+     "ar": "رسوم الطلب (500 دولار هونغ كونغ للطلبة الدوليين، دليل 2024/25)"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "macau",
+   "private"
+  ],
+  "sources": [
+   "https://fds.cityu.edu.mo/en/AppCrs/308",
+   "https://ado.cityu.edu.mo/home"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universidad-autonoma-del-estado-de-mexico-uaemex",
+  "name": {
+   "en": "Universidad Autónoma del Estado de México (UAEMex)",
+   "ka": "მექსიკის შტატის ავტონომიური უნივერსიტეტი (UAEMex)",
+   "ar": "جامعة ولاية المكسيك المستقلة (UAEMex)"
+  },
+  "iso": "MX",
+  "city": "Toluca de Lerdo",
+  "lat": 19.283,
+  "lon": -99.655,
+  "type": "public",
+  "website": "https://www.uaemex.mx",
+  "platform": null,
+  "application_url": "https://nuevoingreso.uaemex.mx",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "Online preinscription for the next intake ran 3 September to 3 October 2026 (UAEMex admissions FAQ). Foreign applicants should confirm dates with the university.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "EXANI-II (CENEVAL)"
+  ],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Social sciences"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Toluca, State of Mexico, teaching in Spanish. Applicants with studies from abroad must first have them revalidated by the SEP.",
+   "ka": "საჯარო უნივერსიტეტი ტოლუკაში (მექსიკის შტატი), სწავლება ესპანურად. საზღვარგარეთ განათლებამიღებულებმა ჯერ SEP-ში უნდა გაატარონ სწავლის რევალიდაცია.",
+   "ar": "جامعة عامة في تولوكا بولاية مكسيكو، التدريس بالإسبانية. على من درس في الخارج اعتماد دراسته أولاً لدى وزارة التعليم SEP."
+  },
+  "about": {
+   "en": "UAEMex is a public university in Toluca, State of Mexico. Foreign applicants need the SEP total revalidation of their bachillerato and an apostilled birth certificate with Spanish translation. The procedure does not guarantee a place and depends on available places and each faculty's requirements. Teaching is in Spanish. Fees for foreign bachelor students are not published.",
+   "ka": "UAEMex საჯარო უნივერსიტეტია ტოლუკაში (მექსიკის შტატი). უცხოელ აბიტურიენტს სჭირდება bachillerato-ს სრული რევალიდაცია SEP-ში და აპოსტილირებული დაბადების მოწმობა ესპანური თარგმანით. პროცედურა ადგილს არ იძლევა გარანტიას და დამოკიდებულია თავისუფალ ადგილებსა და თითოეული ფაკულტეტის მოთხოვნებზე. სწავლება ესპანურადაა. უცხოელი ბაკალავრების საფასური გამოქვეყნებული არ არის.",
+   "ar": "جامعة عامة في تولوكا بولاية مكسيكو. يحتاج المتقدم الأجنبي إلى اعتماد كامل لشهادة الباكالوريا من وزارة التعليم SEP وشهادة ميلاد مصدقة بأبوستيل مع ترجمة إلى الإسبانية. لا يضمن الإجراء الحصول على مقعد ويتوقف على المقاعد المتاحة وشروط كل كلية. التدريس بالإسبانية. لا تُنشر الرسوم للطلاب الأجانب."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الجامعة منحاً مخصصة للطلاب الدوليين في البكالوريوس."
+  },
+  "tests": {
+   "en": "Admission uses a CENEVAL selection exam (EXANI-II for undergraduate programmes); the exam fee is MXN 702 and it is taken at the place and time on your preinscription slip. The FAQ does not state a separate rule for foreign applicants.",
+   "ka": "მიღება ხდება CENEVAL-ის შერჩევითი გამოცდით (ბაკალავრიატისთვის EXANI-II); გამოცდის საფასურია 702 MXN და ტარდება წინასწარი რეგისტრაციის ფურცელზე მითითებულ დროსა და ადგილას. FAQ უცხოელებისთვის ცალკე წესს არ აქვეყნებს.",
+   "ar": "يعتمد القبول على امتحان انتقاء من CENEVAL (EXANI-II للمرحلة الجامعية)؛ رسوم الامتحان 702 بيزو مكسيكي ويُؤدى في المكان والوقت المذكورين في وصل التسجيل المسبق. لا تنشر الأسئلة الشائعة قاعدة منفصلة للأجانب."
+  },
+  "gpa_note": {
+   "en": "Minimum general average of 8.0 on a 0-10 scale (2025 call); foreign applicants also need the SEP revalidation resolution of their bachillerato and the faculty's extra requirements.",
+   "ka": "მინიმალური საერთო საშუალო 8.0 (0-10 სკალა, 2025 კონვოკატორია); უცხოელებს სჭირდებათ აგრეთვე bachillerato-ს SEP-ის რევალიდაციის გადაწყვეტილება და ფაკულტეტის დამატებითი მოთხოვნები.",
+   "ar": "حد أدنى للمعدل العام 8.0 على مقياس 0-10 (إعلان 2025)؛ ويحتاج الأجانب أيضًا إلى قرار معادلة الباكالوريا من SEP وشروط الكلية الإضافية."
+  },
+  "requirements": [
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "SEP total revalidation resolution of the bachillerato",
+     "ka": "bachillerato-ს სრული რევალიდაციის SEP-ის გადაწყვეტილება",
+     "ar": "قرار SEP بالاعتماد الكامل لشهادة الباكالوريا"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Apostilled birth certificate with Spanish translation",
+     "ka": "აპოსტილირებული დაბადების მოწმობა ესპანური თარგმანით",
+     "ar": "شهادة ميلاد مصدقة بأبوستيل مع ترجمة إلى الإسبانية"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate or diploma",
+     "ka": "სკოლის დამამთავრებელი სერტიფიკატი ან დიპლომი",
+     "ar": "شهادة إتمام الدراسة الثانوية أو الدبلوم"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის დანართი (ნიშნების ამონაწერი)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport or identity document copy",
+     "ka": "პასპორტის ან პირადობის დოკუმენტის ასლი",
+     "ar": "نسخة من جواز السفر أو وثيقة الهوية"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Recent photograph",
+     "ka": "ახალი ფოტოსურათი",
+     "ar": "صورة شخصية حديثة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "mexico",
+   "toluca",
+   "uaemex",
+   "spanish"
+  ],
+  "sources": [
+   "https://www.uaemex.mx",
+   "http://transparencia.uaemex.mx/pdf/01.infPubOfi/18.traSer/02.secDoc/06.dirConEsc_secr/Guia_Tramites.pdf",
+   "https://nuevoingreso.uaemex.mx/convocatorias/incorporadas/requisitos2.pdf",
+   "https://nuevoingreso.uaemex.mx/preguntas/0",
+   "https://nuevoingreso.uaemex.mx"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "benemerita-universidad-autonoma-de-puebla",
+  "name": {
+   "en": "Benemerita Universidad Autonoma de Puebla",
+   "ka": "პუებლას ავტონომიური უნივერსიტეტი (BUAP)",
+   "ar": "جامعة بويبلا المستقلة (BUAP)"
+  },
+  "iso": "MX",
+  "city": "Puebla",
+  "lat": 19.004,
+  "lon": -98.204,
+  "type": "public",
+  "website": "https://www.buap.mx",
+  "platform": null,
+  "application_url": "https://admision.buap.mx",
+  "intakes": [
+   "August",
+   "January"
+  ],
+  "deadline": null,
+  "deadline_note": "Foreign applicants must email estudios_extranjero@correo.buap.mx before the date in the yearly call (19 July in the 2024 call). Admissions open in August (autumn) and January (spring).",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Spanish"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "EGA-I"
+  ],
+  "fields": [],
+  "strengths": null,
+  "summary": {
+   "en": "Large public autonomous university in Puebla, Mexico, teaching in Spanish. Foreign applicants follow the yearly admission call and must have previous studies revalidated by the SEP.",
+   "ka": "დიდი საჯარო ავტონომიური უნივერსიტეტი პუებლაში (მექსიკა), სწავლება ესპანურად. უცხოელი აბიტურიენტები მისდევენ ყოველწლიურ მიღების კონვოკატორიას და წინა სწავლა SEP-ში უნდა გაიარონ რევალიდაცია.",
+   "ar": "جامعة عامة مستقلة كبيرة في بويبلا بالمكسيك، التدريس بالإسبانية. يتبع الأجانب إعلان القبول السنوي ويجب اعتماد دراستهم السابقة من SEP."
+  },
+  "about": {
+   "en": "BUAP is a public autonomous university in Puebla, Mexico. Licenciatura admission runs through admision.buap.mx, which currently shows the 2026 cycle with registration and enrolment calls. The pages reviewed give no specific rules, fees or dates for international applicants.",
+   "ka": "BUAP საჯარო ავტონომიური უნივერსიტეტია პუებლაში, მექსიკა. ბაკალავრიატში მიღება admision.buap.mx-ის მეშვეობით ხდება; ამჟამად ნაჩვენებია 2026 ციკლი. საერთაშორისო აპლიკანტებისთვის კონკრეტული წესები და საფასური მითითებული არ არის.",
+   "ar": "BUAP جامعة حكومية مستقلة في بويبلا بالمكسيك. يتم القبول في الليسانس عبر admision.buap.mx الذي يعرض دورة 2026. لا توجد قواعد أو رسوم أو مواعيد محددة للمتقدمين الدوليين."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الجامعة منحاً مخصصة للطلاب الدوليين في البكالوريوس."
+  },
+  "tests": {
+   "en": "Applicants sit the Examen General de Admisión I (EGA-I); in the 2023 call the exam fee was MXN 650 and documents are validated before the exam. Foreign applicants must email estudios_extranjero@correo.buap.mx first.",
+   "ka": "აპლიკანტები აბარებენ Examen General de Admisión I-ს (EGA-I); 2023 წლის კონვოკატორიაში გამოცდის საფასური იყო 650 MXN, დოკუმენტები კი გამოცდამდე მოწმდება. უცხოელებმა ჯერ უნდა მისწერონ estudios_extranjero@correo.buap.mx-ზე.",
+   "ar": "يؤدي المتقدمون امتحان القبول العام الأول EGA-I؛ في إعلان 2023 كانت رسوم الامتحان 650 بيزو مكسيكي ويجري التحقق من الوثائق قبل الامتحان. على المتقدمين الأجانب مراسلة estudios_extranjero@correo.buap.mx أولًا."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "SEP revalidation (recognition) of previous studies",
+     "ka": "წინა სწავლის SEP-ით რევალიდაცია (აღიარება)",
+     "ar": "اعتماد الدراسة السابقة من وزارة التعليم SEP"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Apostilled documents with Spanish translation",
+     "ka": "აპოსტილირებული დოკუმენტები ესპანური თარგმანით",
+     "ar": "وثائق مصدقة بأبوستيل مع ترجمة إلى الإسبانية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Registration fee for foreign applicants (USD 350 in the 2024 and 2025 calls)",
+     "ka": "უცხოელი აპლიკანტების რეგისტრაციის საფასური (2024 და 2025 წლის კონვოკატორიაში 350 აშშ დოლარი)",
+     "ar": "رسوم تسجيل المتقدمين الأجانب (350 دولاراً أمريكياً في إعلانَي 2024 و2025)"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Recent photograph",
+     "ka": "ახალი ფოტოსურათი",
+     "ar": "صورة شخصية حديثة"
+    }
+   },
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate or diploma",
+     "ka": "სკოლის დამამთავრებელი სერტიფიკატი ან დიპლომი",
+     "ar": "شهادة إتمام الدراسة الثانوية أو الدبلوم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "mexico",
+   "puebla",
+   "buap",
+   "spanish"
+  ],
+  "sources": [
+   "https://www.buap.mx/",
+   "https://admision.buap.mx",
+   "https://internacionalizacion.buap.mx/?q=content%2Finformaci%C3%B3n-para-aspirantes-extranjeros",
+   "https://admision.buap.mx/sites/default/files/Admision_2025/06.Corrimiento_lugares_disponibles/Convocatoria_de_lugares_disponibles_2025.pdf",
+   "https://admision.buap.mx/sites/default/files/Admision_2023/2.Nivel_Superior/Convocatoria_Admision_Superior_2023.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "ucsi-university",
+  "name": {
+   "en": "UCSI University",
+   "ka": "UCSI უნივერსიტეტი",
+   "ar": "جامعة UCSI"
+  },
+  "iso": "MY",
+  "city": "Kuala Lumpur",
+  "lat": 3.079,
+  "lon": 101.732,
+  "type": "private",
+  "website": "https://www.ucsiuniversity.edu.my",
+  "platform": null,
+  "application_url": "https://www.ucsiuniversity.edu.my/sites/default/files/admission_procedure.pdf",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 91330,
+   "currency": "MYR",
+   "per": "programme",
+   "note": "Approximate total fees for the international Computer Science degree without a bridging course, as shown on the programme page. Other degrees show about 41,650 to 65,240 MYR in total. Figures are per programme, not per year."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "all",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": 5.0,
+  "toefl_min": 42,
+  "duolingo_min": null,
+  "other_tests": [
+   "PTE"
+  ],
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "Private university in Kuala Lumpur, Malaysia, teaching in English. International degree fees are published per programme as total amounts.",
+   "ka": "კერძო უნივერსიტეტი კუალა-ლუმპურში (მალაიზია), სწავლება ინგლისურად. საერთაშორისო სტუდენტებისთვის საფასური გამოქვეყნებულია პროგრამის მიხედვით, ჯამური თანხით.",
+   "ar": "جامعة خاصة في كوالالمبور بماليزيا، التدريس بالإنجليزية. تُنشر رسوم الطلاب الدوليين لكل برنامج كمبلغ إجمالي."
+  },
+  "about": {
+   "en": "UCSI is a private university in Kuala Lumpur, Malaysia. Its programme pages list approximate total fees for international students, for example about 91,330 MYR for Computer Science without a bridging course. English proof of IELTS 5.0 (or TOEFL iBT 42, PTE 47) is listed. Teaching is in English.",
+   "ka": "UCSI კერძო უნივერსიტეტია კუალა-ლუმპურში (მალაიზია). პროგრამების გვერდებზე მითითებულია საერთაშორისო სტუდენტების მიახლოებითი ჯამური საფასური, მაგ. Computer Science-ისთვის დაახლოებით 91 330 MYR მოსამზადებელი კურსის გარეშე. ინგლისურის დასადასტურებლად მითითებულია IELTS 5.0 (ან TOEFL iBT 42, PTE 47). სწავლება ინგლისურადაა.",
+   "ar": "UCSI جامعة خاصة في كوالالمبور بماليزيا. تذكر صفحات برامجها الرسوم الإجمالية التقريبية للطلاب الدوليين، مثلاً نحو 91,330 رينغيت لعلوم الحاسوب دون مقرر تمهيدي. يُطلب إثبات الإنجليزية بدرجة IELTS 5.0 (أو TOEFL iBT 42 أو PTE 47). التدريس بالإنجليزية."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الجامعة منحاً مخصصة للطلاب الدوليين في البكالوريوس."
+  },
+  "tests": {
+   "en": "International applicants need proof of English: IELTS 5.0, TOEFL iBT 42 or PTE 47 are listed on UCSI programme pages (for example Computer Science). Programme pages can differ.",
+   "ka": "საერთაშორისო აპლიკანტებს სჭირდებათ ინგლისურის დადასტურება: UCSI-ის პროგრამების გვერდებზე (მაგ. Computer Science) მითითებულია IELTS 5.0, TOEFL iBT 42 ან PTE 47. პროგრამების მიხედვით შეიძლება განსხვავდებოდეს.",
+   "ar": "يحتاج المتقدمون الدوليون إلى إثبات اللغة الإنجليزية: تذكر صفحات برامج UCSI (مثل علوم الحاسوب) IELTS 5.0 أو TOEFL iBT 42 أو PTE 47. قد تختلف الشروط بين البرامج."
+  },
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [
+   "malaysia",
+   "kuala lumpur",
+   "ucsi",
+   "english"
+  ],
+  "sources": [
+   "https://ucsiuniversity.edu.my/node/210",
+   "https://ucsiuniversity.edu.my/node/215",
+   "https://ucsiuniversity.edu.my/node/10022",
+   "https://www.ucsiuniversity.edu.my/sites/default/files/admission_procedure.pdf",
+   "https://ucsiuniversity.edu.my/admission-procedure/international/kuching"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "university-of-bergen",
+  "name": {
+   "en": "University of Bergen",
+   "ka": "ბერგენის უნივერსიტეტი",
+   "ar": "جامعة برغن"
+  },
+  "iso": "NO",
+  "city": "Bergen",
+  "lat": 60.388,
+  "lon": 5.322,
+  "type": "public",
+  "website": "https://uib.no",
+  "platform": null,
+  "application_url": "https://www4.uib.no/studier/soknad-og-opptak/slik-soker-du-pa-bachelor-arsstudium-og-integrert-master-eller-profesjon",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "Bachelor applications go through Samordna opptak from 1 February to 15 April each year (1 March for applications based on prior learning). The page lists no separate international deadline. Master's applicants outside the EU/EEA apply separately (1 December).",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 20000,
+  "intl_pct": null,
+  "languages": [
+   "Norwegian"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "natural-sciences",
+   "humanities",
+   "social-sciences",
+   "medicine-health"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Bergen, Norway. UiB pages state that no bachelor programme is taught in English, so Norwegian is needed for bachelor entry.",
+   "ka": "საჯარო უნივერსიტეტი ბერგენში, ნორვეგია. UiB-ის გვერდების მიხედვით ბაკალავრიატი ინგლისურად არ ისწავლება, ამიტომ საჭიროა ნორვეგიული ენა.",
+   "ar": "جامعة حكومية في برغن بالنرويج. تذكر صفحات الجامعة أنه لا يوجد برنامج بكالوريوس بالإنجليزية، لذا يلزم إتقان النرويجية للقبول."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "UiB does not offer scholarships to cover tuition fees; applicants must also show funds for living costs.",
+   "ka": "ბერგენის უნივერსიტეტი სწავლის საფასურის დასაფარად სტიპენდიებს არ სთავაზობს; აპლიკანტებმა საარსებო ხარჯების დაფარვის შესაძლებლობაც უნდა დაადასტურონ.",
+   "ar": "لا تقدم جامعة برغن منحًا لتغطية الرسوم الدراسية، ويجب على المتقدمين إثبات توفر أموال كافية لتكاليف المعيشة."
+  },
+  "tests": {
+   "en": "UiB bachelor programmes are taught in Norwegian, and department pages state that undergraduate admission requires Norwegian proficiency. Some programmes also set subject grade codes, for example a minimum grade of 3 in Norwegian.",
+   "ka": "UiB-ის საბაკალავრო პროგრამები ნორვეგიულ ენაზეა და დეპარტამენტების გვერდების მიხედვით მიღებისთვის საჭიროა ნორვეგიული ენის ცოდნა. ზოგ პროგრამას დამატებითი საგნობრივი მოთხოვნაც აქვს, მაგ. ნორვეგიულში მინიმუმ 3.",
+   "ar": "برامج البكالوريوس في UiB تُدرَّس بالنرويجية، وتذكر صفحات الأقسام أن القبول الجامعي يتطلب إتقان اللغة النرويجية. وتضع بعض البرامج رموز شروط مواد، مثل درجة 3 على الأقل في النرويجية."
+  },
+  "gpa_note": {
+   "en": "All bachelor programmes require general study competence (generell studiekompetanse) or an equivalent qualification; how foreign schooling counts is set on Samordna opptak.",
+   "ka": "ყველა საბაკალავრო პროგრამა მოითხოვს ზოგად სასწავლო კომპეტენციას (generell studiekompetanse) ან ექვივალენტურ კვალიფიკაციას; უცხოური განათლების აღიარება განსაზღვრულია Samordna opptak-ზე.",
+   "ar": "تتطلب جميع برامج البكالوريوس الكفاءة الدراسية العامة (generell studiekompetanse) أو مؤهلًا معادلًا؛ وتحدد Samordna opptak كيفية احتساب التعليم الأجنبي."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate or diploma",
+     "ka": "სკოლის დამამთავრებელი სერტიფიკატი ან დიპლომი",
+     "ar": "شهادة إتمام الدراسة الثانوية أو الدبلوم"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Proof of language proficiency",
+     "ka": "ენის ცოდნის დადასტურება",
+     "ar": "إثبات إتقان اللغة"
+    }
+   }
+  ],
+  "scholarships": null,
+  "keywords": [
+   "bergen",
+   "no"
+  ],
+  "sources": [
+   "https://www4.uib.no/en/studies/admission-and-application/application-process-from-outside-eueea-and-switzerland",
+   "https://www4.uib.no/en/studies/admission-and-application/tuition-fee-for-international-students",
+   "https://www.uib.no/en/education/110783/application-procedure-applicants-outside-eueea",
+   "https://www4.uib.no/studier/soknad-og-opptak/slik-soker-du-pa-bachelor-arsstudium-og-integrert-master-eller-profesjon",
+   "https://www.uib.no/en/econ/38744/study-programmes"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "a-sharqiyah-university",
+  "name": {
+   "en": "A'Sharqiyah University",
+   "ka": "ა'შარქიას უნივერსიტეტი",
+   "ar": "جامعة الشرقية"
+  },
+  "iso": "OM",
+  "city": "Ibra",
+  "lat": 22.69,
+  "lon": 58.54,
+  "type": "private",
+  "website": "https://www.asu.edu.om",
+  "platform": null,
+  "application_url": "https://www.asu.edu.om/page/details/162",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 5000,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "business",
+   "engineering",
+   "humanities"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Private university in Ibra, Oman. It offers 20 full international undergraduate scholarships a year (tuition plus a monthly allowance of 80 OMR) to holders of a General Education Diploma with at least 70%.",
+   "ka": "კერძო უნივერსიტეტი იბრაში, ომანში. ის ყოველწლიურად სთავაზობს 20 სრულ საერთაშორისო საბაკალავრო სტიპენდიას (სწავლის საფასური და თვიური დანამატი 80 OMR) ზოგადი განათლების დიპლომის მფლობელებს მინიმუმ 70%-ით.",
+   "ar": "جامعة خاصة في إبرا بسلطنة عُمان. تمنح 20 منحة دولية كاملة للبكالوريوس سنويًا (الرسوم الدراسية ومخصص شهري 80 ريالًا) لحاملي دبلوم التعليم العام بمعدل 70% على الأقل."
+  },
+  "about": {
+   "en": "A'Sharqiyah University is a private university in Ibra, Oman, with about 5,000 students. International bachelor applicants can apply directly for one of 20 full scholarships a year, which cover tuition and an 80 OMR monthly allowance. Applicants need a General Education Diploma or equivalent with at least 70%; IELTS above band 5 exempts non-native speakers from the foundation year.",
+   "ka": "ა'შარქიას უნივერსიტეტი კერძო უნივერსიტეტია იბრაში, ომანში, დაახლოებით 5 000 სტუდენტით. საერთაშორისო ბაკალავრის აპლიკანტებს შეუძლიათ პირდაპირ მოითხოვონ წელიწადში 20 სრული სტიპენდიიდან ერთ-ერთი, რომელიც ფარავს სწავლის საფასურს და თვიურ დანამატს 80 OMR. საჭიროა ზოგადი განათლების დიპლომი ან ექვივალენტი მინიმუმ 70%-ით; IELTS 5-ზე მეტი ათავისუფლებს არამშობლიურ ენაზე მოლაპარაკეებს საფუძვლის წლისგან.",
+   "ar": "جامعة الشرقية جامعة خاصة في إبرا بسلطنة عُمان وفيها نحو 5,000 طالب. يمكن لمتقدمي البكالوريوس الدوليين التقدم مباشرة لإحدى 20 منحة كاملة سنويًا تغطي الرسوم ومخصصًا شهريًا 80 ريالًا. يشترط دبلوم التعليم العام أو ما يعادله بمعدل 70% على الأقل، ويعفي IELTS فوق 5 غير الناطقين بالإنجليزية من السنة التأسيسية."
+  },
+  "aid_intl": {
+   "en": "20 full scholarships a year for international undergraduates: full tuition and 80 OMR a month. Students pay a one-time 210 OMR registration fee, and must keep a GPA of at least 2.7.",
+   "ka": "წელიწადში 20 სრული სტიპენდია საერთაშორისო ბაკალავრებისთვის: სრული სწავლის საფასური და თვეში 80 OMR. სტუდენტი ერთჯერადად იხდის 210 OMR რეგისტრაციის საფასურს და უნდა შეინარჩუნოს GPA მინიმუმ 2.7.",
+   "ar": "20 منحة كاملة سنويًا للطلبة الدوليين في البكالوريوس: كامل الرسوم و80 ريالًا شهريًا. يدفع الطالب رسم تسجيل لمرة واحدة 210 ريالات ويجب أن يحافظ على معدل تراكمي 2.7 على الأقل."
+  },
+  "tests": {
+   "en": "No entrance exam is published. Non-native English speakers with IELTS above band 5 are exempt from the foundation year. Applications go by email to asu-reg@asu.edu.om, direct from the candidate, not through agencies.",
+   "ka": "შესასვლელი გამოცდა გამოქვეყნებული არ არის. არამშობლიურ ენაზე მოლაპარაკეები IELTS 5-ზე მეტით თავისუფლდებიან საფუძვლის წლისგან. განაცხადები იგზავნება ელფოსტით asu-reg@asu.edu.om-ზე, უშუალოდ კანდიდატის მიერ, აგენტობის გარეშე.",
+   "ar": "لا يُنشر امتحان قبول. يُعفى غير الناطقين بالإنجليزية الحاصلون على IELTS فوق 5 من السنة التأسيسية. تُرسل الطلبات بالبريد الإلكتروني إلى asu-reg@asu.edu.om مباشرة من المرشح وليس عبر وكالات."
+  },
+  "gpa_note": {
+   "en": "General Education Diploma or equivalent with at least 70%; higher grades and certificates from outside Oman get priority. Scholars must keep a cumulative GPA of 2.7 and meet the programme's admission requirements.",
+   "ka": "ზოგადი განათლების დიპლომი ან ექვივალენტი მინიმუმ 70%-ით; უპირატესობა აქვს უფრო მაღალ ნიშნებს და ომანის გარეთ მიღებულ სერტიფიკატებს. სტიპენდიანტმა უნდა შეინარჩუნოს კუმულაციური GPA 2.7 და დააკმაყოფილოს პროგრამის მოთხოვნები.",
+   "ar": "دبلوم التعليم العام أو ما يعادله بمعدل 70% على الأقل، وتُفضَّل الدرجات الأعلى والشهادات من خارج عُمان. على المبتعث الحفاظ على معدل تراكمي 2.7 واستيفاء شروط البرنامج."
+  },
+  "requirements": [
+   {
+    "key": "personal_statement",
+    "label": {
+     "en": "Application letter",
+     "ka": "სააპლიკაციო წერილი",
+     "ar": "خطاب التقديم"
+    }
+   },
+   {
+    "key": "cv",
+    "label": {
+     "en": "Brief CV",
+     "ka": "მოკლე CV",
+     "ar": "سيرة ذاتية موجزة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport photo page",
+     "ka": "პასპორტის ფოტოგვერდი",
+     "ar": "صفحة الصورة من جواز السفر"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Copies of academic certificates",
+     "ka": "აკადემიური სერტიფიკატების ასლები",
+     "ar": "نسخ من الشهادات الأكاديمية"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalency certificate",
+     "ka": "ექვივალენტობის სერტიფიკატი",
+     "ar": "شهادة معادلة"
+    }
+   }
+  ],
+  "scholarships": [
+   {
+    "name": "International Undergraduate Scholarships",
+    "url": "https://www.asu.edu.om/page/details/162",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "oman",
+   "ibra"
+  ],
+  "sources": [
+   "https://www.asu.edu.om/page/details/162"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "ACET",
+   "SAT"
+  ],
+  "scholarships": [],
+  "verified_at": "2026-11-16",
+  "id": "ateneo-de-manila-university",
+  "name": {
+   "en": "Ateneo de Manila University",
+   "ka": "ატენეო დე მანილას უნივერსიტეტი",
+   "ar": "جامعة أتينيو دي مانيلا"
+  },
+  "iso": "PH",
+  "city": "Quezon City",
+  "lat": 14.64,
+  "lon": 121.077,
+  "type": "private",
+  "website": "https://www.ateneo.edu",
+  "platform": "Ateneo College Application Hub",
+  "application_url": "https://apply.ateneo.edu",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": "The official calendar for SY 2025-26 first-year admission listed 13 December 2024 as the completion deadline for the ACET, IB and SAT routes; international applicants are told to apply early. Later cycles were not read.",
+  "tuition_intl": null,
+  "students": 9000,
+  "languages": [
+   "English",
+   "Filipino"
+  ],
+  "english_bachelors": "all",
+  "fields": [
+   "business",
+   "humanities",
+   "social-sciences",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Ateneo de Manila University is a private Jesuit university in Quezon City. Foreign applicants take the ACET and apply on the Ateneo College Application Hub.",
+   "ka": "ატენეო დე მანილას უნივერსიტეტი Quezon City-ში მდებარე კერძო იეზუიტური უნივერსიტეტია. უცხოელი აპლიკანტები აბარებენ ACET-ს და განაცხადს Ateneo College Application Hub-ზე აგზავნიან.",
+   "ar": "جامعة أتينيو دي مانيلا جامعة يسوعية خاصة في Quezon City. يؤدي المتقدمون الأجانب امتحان ACET ويقدّمون طلباتهم عبر Ateneo College Application Hub."
+  },
+  "about": null,
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages read.",
+   "ka": "წაკითხულ გვერდებზე საერთაშორისო საბაკალავრო სტუდენტებისთვის სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا توجد منح مخصصة لطلاب البكالوريوس الدوليين في الصفحات المطّلع عليها."
+  },
+  "tests": {
+   "en": "Applicants who studied or graduated abroad take the Ateneo College Entrance Test (ACET). All applications go through the Ateneo College Application Hub.",
+   "ka": "საზღვარგარეთ სწავლისას ან დამთავრებისას აპლიკანტები აბარებენ Ateneo College Entrance Test-ს (ACET). განაცხადები იგზავნება Ateneo College Application Hub-ის მეშვეობით.",
+   "ar": "يؤدي المتقدمون الذين درسوا أو تخرجوا في الخارج امتحان Ateneo College Entrance Test (ACET). تُقدَّم جميع الطلبات عبر Ateneo College Application Hub."
+  },
+  "gpa_note": null,
+  "keywords": [
+   "ph",
+   "quezon city"
+  ],
+  "requirements": [
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "University entrance test",
+     "ka": "უნივერსიტეტის მისაღები გამოცდა",
+     "ar": "امتحان القبول الجامعي"
+    }
+   }
+  ],
+  "sources": [
+   "https://cms-training.ateneo.edu/college/admissions/apply/first-year/international",
+   "https://www.ateneo.edu",
+   "https://cms-training.ateneo.edu/college/admissions/calendar"
+  ]
+ }
+]

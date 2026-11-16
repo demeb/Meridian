@@ -1,0 +1,352 @@
+{
+ "account.startApp": {
+  "en": "Start application",
+  "ka": "განაცხადის დაწყება",
+  "ar": "ابدأ التقديم"
+ },
+ "account.unsave": {
+  "en": "Remove from saved",
+  "ka": "შენახულიდან წაშლა",
+  "ar": "إزالة من المحفوظات"
+ },
+ "account.inApplications": {
+  "en": "Already in your applications",
+  "ka": "უკვე შენს განაცხადებშია",
+  "ar": "موجود بالفعل في طلباتك"
+ },
+ "account.appStarted": {
+  "en": "Added to your applications",
+  "ka": "დაემატა შენს განაცხადებს",
+  "ar": "أُضيف إلى طلباتك"
+ },
+ "cs.eyebrow": {
+  "en": "Counsellor",
+  "ka": "კონსულტანტი",
+  "ar": "المرشد"
+ },
+ "cs.title": {
+  "en": "My students",
+  "ka": "ჩემი მოსწავლეები",
+  "ar": "طلابي"
+ },
+ "cs.lede": {
+  "en": "Every student of {school}: their GPA, tests, applications, saved universities and meetings with you.",
+  "ka": "{school}-ის ყველა მოსწავლე: GPA, გამოცდები, განაცხადები, შენახული უნივერსიტეტები და შეხვედრები შენთან.",
+  "ar": "جميع طلاب {school}: المعدل والاختبارات والطلبات والجامعات المحفوظة والاجتماعات معك."
+ },
+ "cs.students": {
+  "en": "students",
+  "ka": "მოსწავლე",
+  "ar": "طالبًا"
+ },
+ "cs.apps": {
+  "en": "applications",
+  "ka": "განაცხადი",
+  "ar": "طلبات"
+ },
+ "cs.post": {
+  "en": "Post to your school",
+  "ka": "გამოაქვეყნე სკოლისთვის",
+  "ar": "انشر لمدرستك"
+ },
+ "cs.meetings": {
+  "en": "Upcoming meetings",
+  "ka": "მომავალი შეხვედრები",
+  "ar": "الاجتماعات القادمة"
+ },
+ "cs.meet.requested": {
+  "en": "Requested",
+  "ka": "მოთხოვნილი",
+  "ar": "مطلوب"
+ },
+ "cs.meet.confirmed": {
+  "en": "Confirmed",
+  "ka": "დადასტურებული",
+  "ar": "مؤكد"
+ },
+ "cs.meet.cancelled": {
+  "en": "Cancelled",
+  "ka": "გაუქმებული",
+  "ar": "ملغى"
+ },
+ "cs.confirm": {
+  "en": "Confirm",
+  "ka": "დადასტურება",
+  "ar": "تأكيد"
+ },
+ "cs.cancel": {
+  "en": "Cancel",
+  "ka": "გაუქმება",
+  "ar": "إلغاء"
+ },
+ "cs.empty": {
+  "en": "No students are linked to your school yet. When your school sends us its students' emails, they appear here as soon as they sign up.",
+  "ka": "შენს სკოლასთან ჯერ არცერთი მოსწავლე არ არის დაკავშირებული. როცა სკოლა მოსწავლეების ელფოსტებს გამოგვიგზავნის, ისინი აქ რეგისტრაციისთანავე გამოჩნდებიან.",
+  "ar": "لا يوجد طلاب مرتبطون بمدرستك بعد. عندما ترسل مدرستك عناوين بريد طلابها، سيظهرون هنا فور تسجيلهم."
+ },
+ "cs.showSample": {
+  "en": "Preview with a sample student",
+  "ka": "ნიმუში მოსწავლით ნახვა",
+  "ar": "معاينة بطالب نموذجي"
+ },
+ "cs.sampleBadge": {
+  "en": "Sample data — not a real student",
+  "ka": "ნიმუში — რეალური მოსწავლე არ არის",
+  "ar": "بيانات نموذجية — ليس طالبًا حقيقيًا"
+ },
+ "cs.search": {
+  "en": "Search by name or email",
+  "ka": "ძებნა სახელით ან ელფოსტით",
+  "ar": "ابحث بالاسم أو البريد"
+ },
+ "cs.f.all": {
+  "en": "All",
+  "ka": "ყველა",
+  "ar": "الكل"
+ },
+ "cs.f.applying": {
+  "en": "Applying",
+  "ka": "აბარებენ",
+  "ar": "يتقدّمون"
+ },
+ "cs.f.submitted": {
+  "en": "Submitted",
+  "ka": "გაგზავნილი",
+  "ar": "مُرسَل"
+ },
+ "cs.f.none": {
+  "en": "Not started",
+  "ka": "არ დაუწყიათ",
+  "ar": "لم يبدؤوا"
+ },
+ "cs.noMatch": {
+  "en": "No students match.",
+  "ka": "მოსწავლე ვერ მოიძებნა.",
+  "ar": "لا يوجد طلاب مطابقون."
+ },
+ "cs.pick": {
+  "en": "Choose a student to see their file.",
+  "ka": "აირჩიე მოსწავლე, რომ მისი საქმე ნახო.",
+  "ar": "اختر طالبًا لترى ملفه."
+ },
+ "cs.f.email": {
+  "en": "Email",
+  "ka": "ელფოსტა",
+  "ar": "البريد"
+ },
+ "cs.f.grade": {
+  "en": "Grade",
+  "ka": "კლასი",
+  "ar": "الصف"
+ },
+ "cs.f.gpa": {
+  "en": "GPA",
+  "ka": "GPA",
+  "ar": "المعدل"
+ },
+ "cs.f.tests": {
+  "en": "Test scores",
+  "ka": "გამოცდების ქულები",
+  "ar": "درجات الاختبارات"
+ },
+ "cs.f.school": {
+  "en": "School",
+  "ka": "სკოლა",
+  "ar": "المدرسة"
+ },
+ "cs.f.place": {
+  "en": "City / country",
+  "ka": "ქალაქი / ქვეყანა",
+  "ar": "المدينة / البلد"
+ },
+ "cs.f.goals": {
+  "en": "Interests and target regions",
+  "ka": "ინტერესები და სასურველი რეგიონები",
+  "ar": "الاهتمامات والمناطق المستهدفة"
+ },
+ "cs.f.plan": {
+  "en": "Plan",
+  "ka": "პაკეტი",
+  "ar": "الخطة"
+ },
+ "cs.f.lastSeen": {
+  "en": "Last active",
+  "ka": "ბოლოს აქტიური",
+  "ar": "آخر نشاط"
+ },
+ "cs.applications": {
+  "en": "Applications",
+  "ka": "განაცხადები",
+  "ar": "الطلبات"
+ },
+ "cs.noApps": {
+  "en": "No applications started yet.",
+  "ka": "განაცხადები ჯერ არ დაუწყია.",
+  "ar": "لم يبدأ أي طلب بعد."
+ },
+ "cs.saved": {
+  "en": "Saved universities and programmes",
+  "ka": "შენახული უნივერსიტეტები და პროგრამები",
+  "ar": "الجامعات والبرامج المحفوظة"
+ },
+ "cs.meetWith": {
+  "en": "Meetings",
+  "ka": "შეხვედრები",
+  "ar": "الاجتماعات"
+ },
+ "cs.topic": {
+  "en": "Topic (e.g. university list review)",
+  "ka": "თემა (მაგ. უნივერსიტეტების სიის განხილვა)",
+  "ar": "الموضوع (مثل مراجعة قائمة الجامعات)"
+ },
+ "cs.schedule": {
+  "en": "Schedule meeting",
+  "ka": "შეხვედრის დანიშვნა",
+  "ar": "حدد اجتماعًا"
+ },
+ "cs.sent": {
+  "en": "Meeting request sent",
+  "ka": "შეხვედრის მოთხოვნა გაიგზავნა",
+  "ar": "أُرسل طلب الاجتماع"
+ },
+ "cs.files": {
+  "en": "files",
+  "ka": "ფაილი",
+  "ar": "ملفات"
+ },
+ "cs.not.title": {
+  "en": "This page is for school counsellors",
+  "ka": "ეს გვერდი სკოლის კონსულტანტებისთვისაა",
+  "ar": "هذه الصفحة لمرشدي المدارس"
+ },
+ "cs.not.body": {
+  "en": "Counsellors of our partner schools see their students here. Ask to join as a counsellor and we will link you to your school.",
+  "ka": "პარტნიორი სკოლების კონსულტანტები აქ საკუთარ მოსწავლეებს ხედავენ. გაგზავნე განაცხადი კონსულტანტად და დაგაკავშირებთ შენს სკოლასთან.",
+  "ar": "يرى مرشدو مدارسنا الشريكة طلابهم هنا. اطلب الانضمام كمرشد وسنربطك بمدرستك."
+ },
+ "cs.not.cta": {
+  "en": "Join as a counsellor",
+  "ka": "შემოგვიერთდი კონსულტანტად",
+  "ar": "انضم كمرشد"
+ },
+ "nav.myStudents": {
+  "en": "My students",
+  "ka": "ჩემი მოსწავლეები",
+  "ar": "طلابي"
+ },
+ "nav.tutorDash": {
+  "en": "Tutor dashboard",
+  "ka": "რეპეტიტორის პანელი",
+  "ar": "لوحة المدرّس"
+ },
+ "account.myProfile": {
+  "en": "My profile",
+  "ka": "ჩემი პროფილი",
+  "ar": "ملفي"
+ },
+ "account.city": {
+  "en": "City",
+  "ka": "ქალაქი",
+  "ar": "المدينة"
+ },
+ "account.saveProfile": {
+  "en": "Save",
+  "ka": "შენახვა",
+  "ar": "حفظ"
+ },
+ "account.profileSaved": {
+  "en": "Profile saved",
+  "ka": "პროფილი შენახულია",
+  "ar": "تم حفظ الملف"
+ },
+ "account.meetings": {
+  "en": "Meetings with my counsellor",
+  "ka": "შეხვედრები ჩემს კონსულტანტთან",
+  "ar": "الاجتماعات مع مرشدي"
+ },
+ "account.askMeeting": {
+  "en": "Ask for a meeting",
+  "ka": "შეხვედრის მოთხოვნა",
+  "ar": "اطلب اجتماعًا"
+ },
+ "account.counsellorSees": {
+  "en": "Your school counsellors ({names}) can see your applications, saved universities, GPA and test scores, so they can help you.",
+  "ka": "შენი სკოლის კონსულტანტები ({names}) ხედავენ შენს განაცხადებს, შენახულ უნივერსიტეტებს, GPA-სა და გამოცდების ქულებს, რომ დაგეხმარონ.",
+  "ar": "يمكن لمرشدي مدرستك ({names}) رؤية طلباتك وجامعاتك المحفوظة ومعدلك ودرجات اختباراتك لمساعدتك."
+ },
+ "teachers.group.tests": {
+  "en": "Tests",
+  "ka": "გამოცდები",
+  "ar": "الاختبارات"
+ },
+ "teachers.group.school": {
+  "en": "School subjects",
+  "ka": "სასკოლო საგნები",
+  "ar": "المواد الدراسية"
+ },
+ "teachers.group.languages": {
+  "en": "Languages",
+  "ka": "ენები",
+  "ar": "اللغات"
+ },
+ "teachers.group.programmes": {
+  "en": "Programmes & competitions",
+  "ka": "პროგრამები და კონკურსები",
+  "ar": "البرامج والمسابقات"
+ },
+ "teachers.group.other": {
+  "en": "Other",
+  "ka": "სხვა",
+  "ar": "أخرى"
+ },
+ "uni.perCredit": {
+  "en": "credit",
+  "ka": "კრედიტი",
+  "ar": "ساعة معتمدة"
+ },
+ "uni.perProgramme": {
+  "en": "whole programme",
+  "ka": "მთელი პროგრამა",
+  "ar": "البرنامج كاملًا"
+ },
+ "uni.perMonth": {
+  "en": "month",
+  "ka": "თვე",
+  "ar": "شهر"
+ },
+ "account.delete.title": {
+  "en": "Delete my account",
+  "ka": "ანგარიშის წაშლა",
+  "ar": "حذف حسابي"
+ },
+ "account.delete.body": {
+  "en": "This permanently removes your profile, saved items, applications, uploaded files and meetings. It cannot be undone.",
+  "ka": "ეს სამუდამოდ წაშლის შენს პროფილს, შენახულ ელემენტებს, განაცხადებს, ატვირთულ ფაილებსა და შეხვედრებს. მოქმედების გაუქმება შეუძლებელია.",
+  "ar": "سيؤدي هذا إلى حذف ملفك الشخصي والعناصر المحفوظة والطلبات والملفات المرفوعة والاجتماعات نهائيًا. لا يمكن التراجع عن ذلك."
+ },
+ "account.delete.password": {
+  "en": "Type your password to confirm",
+  "ka": "დასადასტურებლად შეიყვანე პაროლი",
+  "ar": "اكتب كلمة المرور للتأكيد"
+ },
+ "account.delete.button": {
+  "en": "Delete account",
+  "ka": "ანგარიშის წაშლა",
+  "ar": "حذف الحساب"
+ },
+ "account.delete.confirm": {
+  "en": "Delete your Meridian account and all its data for good?",
+  "ka": "წავშალოთ შენი Meridian-ის ანგარიში და ყველა მონაცემი სამუდამოდ?",
+  "ar": "هل تريد حذف حسابك في Meridian وجميع بياناته نهائيًا؟"
+ },
+ "account.delete.wrong": {
+  "en": "That password is not right.",
+  "ka": "პაროლი არასწორია.",
+  "ar": "كلمة المرور غير صحيحة."
+ },
+ "home.deleted": {
+  "en": "Your account has been deleted.",
+  "ka": "შენი ანგარიში წაიშალა.",
+  "ar": "تم حذف حسابك."
+ }
+}

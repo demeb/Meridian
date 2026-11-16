@@ -202,6 +202,96 @@
       "ar": "فيديوهات استراتيجية لـ SAT الرقمي وACT، تشمل القراءة وقواعد اللغة."
      },
      "section": "Reading and Writing"
+    },
+    {
+     "title": {
+      "en": "SAT paper practice tests with answer explanations (PDF)",
+      "ka": "SAT-ის ქაღალდის საცდელი ტესტები პასუხების განმარტებებით (PDF)",
+      "ar": "اختبارات SAT التدريبية الورقية مع شرح الإجابات (PDF)"
+     },
+     "kind": "practice-test",
+     "provider": "College Board",
+     "url": "https://satsuite.collegeboard.org/practice/practice-tests/paper",
+     "free": true,
+     "note": {
+      "en": "Official full-length tests 4 to 11 to print, each with a scoring guide."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "My Practice: official question practice",
+      "ka": "My Practice — ოფიციალური სავარჯიშო კითხვები",
+      "ar": "My Practice: أسئلة تدريب رسمية"
+     },
+     "kind": "practice-test",
+     "provider": "College Board",
+     "url": "https://mypractice.collegeboard.org",
+     "free": true,
+     "note": {
+      "en": "Free official practice questions tailored to your results."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Official SAT Prep on Khan Academy",
+      "ka": "ოფიციალური SAT მომზადება Khan Academy-ზე",
+      "ar": "التحضير الرسمي لاختبار SAT على Khan Academy"
+     },
+     "kind": "course",
+     "provider": "Khan Academy",
+     "url": "https://www.khanacademy.org/test-prep/digital-sat",
+     "free": true,
+     "note": {
+      "en": "College Board's official partner: personalised study plan for the digital SAT."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Free live SAT tutoring at Schoolhouse.world",
+      "ka": "უფასო ონლაინ SAT რეპეტიტორობა Schoolhouse.world-ზე",
+      "ar": "دروس SAT مباشرة مجانية على Schoolhouse.world"
+     },
+     "kind": "course",
+     "provider": "Schoolhouse.world",
+     "url": "https://schoolhouse.world/sat-bootcamp?ref=cb-sat-practice",
+     "free": true,
+     "note": {
+      "en": "Small-group peer-tutor sessions, the official free tutoring partner."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Build your SAT study plan",
+      "ka": "შეადგინე SAT მომზადების გეგმა",
+      "ar": "ابنِ خطة دراستك لاختبار SAT"
+     },
+     "kind": "official",
+     "provider": "College Board",
+     "url": "https://satsuite.collegeboard.org/practice/build-your-study-plan",
+     "free": true,
+     "note": {
+      "en": "Recommended study activities for however much time you have before test day."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Free official SAT practice resources guide (PDF)",
+      "ka": "უფასო ოფიციალური SAT სავარჯიშო რესურსების გზამკვლევი (PDF)",
+      "ar": "دليل موارد التدريب الرسمية المجانية لـ SAT (PDF)"
+     },
+     "kind": "official",
+     "provider": "College Board",
+     "url": "https://satsuite.collegeboard.org/media/pdf/sats-free-official-practice-resources.pdf",
+     "free": true,
+     "note": {
+      "en": "One-page map of every free official practice tool."
+     },
+     "section": "All"
     }
    ],
    "who": {
@@ -429,6 +519,51 @@
       "en": "Strategy videos for the digital SAT and ACT, including reading and grammar rules.",
       "ka": "სტრატეგიული ვიდეოები ციფრული SAT-ისა და ACT-ისთვის, მათ შორის კითხვისა და გრამატიკის წესები.",
       "ar": "فيديوهات استراتيجية لـ SAT الرقمي وACT، تشمل القراءة وقواعد اللغة."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Free official ACT practice tests and section practice",
+      "ka": "უფასო ოფიციალური ACT საცდელი ტესტები და სექციების პრაქტიკა",
+      "ar": "اختبارات ACT التدريبية الرسمية المجانية وتدريب الأقسام"
+     },
+     "kind": "practice-test",
+     "provider": "ACT",
+     "url": "https://www.act.org/content/act/en/students-and-parents/high-school-success/testing-advice-for-the-act/free-act-practice-test.html",
+     "free": true,
+     "note": {
+      "en": "Full-length official practice tests (digital or paper) plus section practice."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Official ACT YouTube channel",
+      "ka": "ოფიციალური ACT YouTube არხი",
+      "ar": "قناة ACT الرسمية على يوتيوب"
+     },
+     "kind": "video",
+     "provider": "ACT",
+     "url": "https://www.youtube.com/user/TheACTTest",
+     "free": true,
+     "note": {
+      "en": "Official videos on the test, test-day steps and prep tips."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "ACT testing advice and test-taking tips",
+      "ka": "ACT-ის გავლის რჩევები და სტრატეგიები",
+      "ar": "نصائح ACT واستراتيجيات الاختبار"
+     },
+     "kind": "official",
+     "provider": "ACT",
+     "url": "https://www.act.org/content/act/en/students-and-parents/high-school-success/testing-advice-for-the-act.html",
+     "free": true,
+     "note": {
+      "en": "Official tips on pacing, guessing and preparing for each section."
      },
      "section": "All"
     }
@@ -1861,6 +1996,51 @@
       "ar": "آلاف الأمثلة المحلولة في التفاضل والكيمياء والفيزياء."
      },
      "section": "Math"
+    },
+    {
+     "title": {
+      "en": "ACCUPLACER: free downloadable sample questions",
+      "ka": "ACCUPLACER — უფასო გადმოსაწერი ნიმუშ კითხვები",
+      "ar": "ACCUPLACER: أسئلة نموذجية مجانية للتحميل"
+     },
+     "kind": "practice-test",
+     "provider": "College Board",
+     "url": "https://accuplacer.collegeboard.org/students/prepare-for-accuplacer/practice-download",
+     "free": true,
+     "note": {
+      "en": "Downloadable sample questions for the ESL, Reading, Writing and Math tests."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "ACCUPLACER Study App (official practice)",
+      "ka": "ACCUPLACER Study App — ოფიციალური სავარჯიშო აპლიკაცია",
+      "ar": "تطبيق ACCUPLACER للدراسة (تدريب رسمي)"
+     },
+     "kind": "app",
+     "provider": "College Board",
+     "url": "https://accuplacerpractice.collegeboard.org/",
+     "free": true,
+     "note": {
+      "en": "Free official practice tests in math, reading and writing; needs its own free account."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Qatar University Testing Center",
+      "ka": "კატარის უნივერსიტეტის სატესტო ცენტრი",
+      "ar": "مركز الاختبارات في جامعة قطر"
+     },
+     "kind": "official",
+     "provider": "Qatar University",
+     "url": "https://www.qu.edu.qa/en-us/testing-center",
+     "free": true,
+     "note": {
+      "en": "Official page for placement test rules, registration and sample material."
+     },
+     "section": "All"
     }
    ],
    "who": {
@@ -1971,6 +2151,51 @@
      "free": true,
      "note": {
       "en": "Official guide to universities, admission and the Türkiye Scholarships."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "TR-YOS sample items (OSYM)",
+      "ka": "TR-YÖS-ის სანიმუშო კითხვები (ÖSYM)",
+      "ar": "نماذج أسئلة TR-YÖS (ÖSYM)"
+     },
+     "kind": "practice-test",
+     "provider": "OSYM",
+     "url": "https://osym.gov.tr/2023-turkiye-yurt-disindan-ogrenci-kabul-sinavi-tryos-ornek-sorular2023-exam-for-foreign-students-for-higher-education-in-turkiye-tryos-sample-items-07-aralik-2022december-7-2022",
+     "free": true,
+     "note": {
+      "en": "Official announcement page with the sample items published for the 2023 exam."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "TR-YOS 2025 candidate guide (PDF)",
+      "ka": "TR-YÖS 2025-ის კანდიდატის გზამკვლევი (PDF)",
+      "ar": "دليل المرشح لـ TR-YÖS 2025 (PDF)"
+     },
+     "kind": "official",
+     "provider": "OSYM",
+     "url": "https://dokuman.osym.gov.tr/pdfdokuman/2025/TR-YOS-1/guide_ys12032025.pdf",
+     "free": true,
+     "note": {
+      "en": "English official guide: structure, rules and procedures of the exam."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "OSYM English website",
+      "ka": "ÖSYM-ის ინგლისურენოვანი საიტი",
+      "ar": "موقع ÖSYM بالإنجليزية"
+     },
+     "kind": "official",
+     "provider": "OSYM",
+     "url": "https://en.osym.gov.tr/",
+     "free": true,
+     "note": {
+      "en": "Official announcements and exam information in English."
      },
      "section": "All"
     }
@@ -2306,6 +2531,51 @@
       "ar": "حد النجاح 60%، ‏OMPT-B أو OMPT-D، بحد أقصى محاولتان."
      },
      "section": "All"
+    },
+    {
+     "title": {
+      "en": "OMPT-A syllabus (176 topics)",
+      "ka": "OMPT-A-ს სილაბუსი (176 თემა)",
+      "ar": "منهج OMPT-A (176 موضوعاً)"
+     },
+     "kind": "official",
+     "provider": "OMPT (Sowiso)",
+     "url": "https://omptest.org/tests/ompt-a/syllabus",
+     "free": true,
+     "note": {
+      "en": "Full topic list for the 52-question, 120-minute test."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "OMPT-A learning assessments",
+      "ka": "OMPT-A-ს სასწავლო შეფასებები",
+      "ar": "التقييمات التعليمية لـ OMPT-A"
+     },
+     "kind": "practice-test",
+     "provider": "OMPT (Sowiso)",
+     "url": "https://omptest.org/tests/ompt-a/learning-assessments",
+     "free": true,
+     "note": {
+      "en": "Official self-check assessments linked from the syllabus page."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "OMPT knowledge base",
+      "ka": "OMPT-ის ცოდნის ბაზა",
+      "ar": "قاعدة معرفة OMPT"
+     },
+     "kind": "official",
+     "provider": "OMPT (Sowiso)",
+     "url": "https://support.omptest.com/hc/en-us",
+     "free": true,
+     "note": {
+      "en": "Official help articles on test format, tools and proctoring."
+     },
+     "section": "All"
     }
    ],
    "who": {
@@ -2593,6 +2863,21 @@
       "ar": "نصائح عملية هادئة للكتابة والمحادثة مع إجابات نموذجية."
      },
      "section": "Writing"
+    },
+    {
+     "title": {
+      "en": "IELTS Ready: free official prep from the British Council",
+      "ka": "IELTS Ready — უფასო ოფიციალური მომზადება British Council-ისგან",
+      "ar": "IELTS Ready: تحضير رسمي مجاني من المجلس الثقافي البريطاني"
+     },
+     "kind": "course",
+     "provider": "British Council",
+     "url": "https://learnenglish.britishcouncil.org/ielts-preparation",
+     "free": true,
+     "note": {
+      "en": "Free short mock test, Speaking and Listening courses and expert webinars."
+     },
+     "section": "All"
     }
    ],
    "who": {
@@ -2933,6 +3218,21 @@
       "ar": "تدريب يومي مجاني على الإنجليزية؛ مفيد للمفردات لكنه لا يغني عن التدرّب على الاختبار."
      },
      "section": "All"
+    },
+    {
+     "title": {
+      "en": "Duolingo English Test handbook (PDF)",
+      "ka": "Duolingo English Test-ის სახელმძღვანელო (PDF)",
+      "ar": "دليل Duolingo English Test (PDF)"
+     },
+     "kind": "book",
+     "provider": "Duolingo",
+     "url": "https://englishtest-static.duolingo.com/media/resources/GPN%20The%20DET%20Handbook.pdf",
+     "free": true,
+     "note": {
+      "en": "Official 40-page handbook with question types and test strategies."
+     },
+     "section": "All"
     }
    ],
    "who": {
@@ -3132,6 +3432,36 @@
       "ar": "قناة شائعة باستراتيجيات لكل مهمة."
      },
      "section": "All"
+    },
+    {
+     "title": {
+      "en": "PTE Academic Smart Prep (free with myPTE account)",
+      "ka": "PTE Academic Smart Prep (უფასო myPTE ანგარიშით)",
+      "ar": "PTE Academic Smart Prep (مجاني مع حساب myPTE)"
+     },
+     "kind": "course",
+     "provider": "Pearson",
+     "url": "https://www.pearsonpte.com/preparation/free-practice",
+     "free": true,
+     "note": {
+      "en": "Study plan, guided practice tests, video courses and tip sheets."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Introduction to PTE Academic (free online course)",
+      "ka": "Introduction to PTE Academic (უფასო ონლაინ კურსი)",
+      "ar": "مقدمة في PTE Academic (دورة مجانية عبر الإنترنت)"
+     },
+     "kind": "course",
+     "provider": "Pearson",
+     "url": "https://mylearningx.pearson.com/courses/course-v1:PX+PTE001+2019_T4/about",
+     "free": true,
+     "note": {
+      "en": "Free MOOC explaining the test format and how to approach each task."
+     },
+     "section": "All"
     }
    ],
    "who": {
@@ -3320,6 +3650,96 @@
       "ar": "أنشطة وألعاب مجانية مرتبة حسب المستوى."
      },
      "section": "All"
+    },
+    {
+     "title": {
+      "en": "C1 Advanced: paper-based sample test 1",
+      "ka": "C1 Advanced — ქაღალდზე დაფუძნებული ნიმუშ ტესტი 1",
+      "ar": "C1 Advanced: اختبار تجريبي ورقي 1"
+     },
+     "kind": "practice-test",
+     "provider": "Cambridge English",
+     "url": "https://www.cambridgeenglish.org/Images/174025-advanced-2015-sample-papers-1.zip",
+     "free": true,
+     "note": {
+      "en": "Full free sample papers with answer keys and audio (ZIP download)."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "C1 Advanced: paper-based sample test 2",
+      "ka": "C1 Advanced — ქაღალდზე დაფუძნებული ნიმუშ ტესტი 2",
+      "ar": "C1 Advanced: اختبار تجريبي ورقي 2"
+     },
+     "kind": "practice-test",
+     "provider": "Cambridge English",
+     "url": "https://www.cambridgeenglish.org/Images/178484-advanced-2015-sample-papers-2.zip",
+     "free": true,
+     "note": {
+      "en": "A second full free sample test with keys and audio (ZIP download)."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "C1 Advanced: digital Reading and Use of English sample test",
+      "ka": "C1 Advanced — ციფრული Reading and Use of English ნიმუშ ტესტი",
+      "ar": "C1 Advanced: اختبار تجريبي رقمي للقراءة واستخدام اللغة"
+     },
+     "kind": "practice-test",
+     "provider": "Cambridge English",
+     "url": "https://ceq.inspera.com/player/?assessmentRunId=539247015&context=exam",
+     "free": true,
+     "note": {
+      "en": "Try the on-screen exam format in the official digital test player."
+     },
+     "section": "Reading"
+    },
+    {
+     "title": {
+      "en": "C1 Advanced handbook",
+      "ka": "C1 Advanced — ოფიციალური სახელმძღვანელო",
+      "ar": "دليل C1 Advanced الرسمي"
+     },
+     "kind": "official",
+     "provider": "Cambridge English",
+     "url": "https://www.cambridgeenglish.org/Images/167804-c1-advanced-handbook.pdf",
+     "free": true,
+     "note": {
+      "en": "Official guide to every paper, task type and the marking criteria."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "C1 Advanced: information for candidates",
+      "ka": "C1 Advanced — ინფორმაცია კანდიდატებისთვის",
+      "ar": "C1 Advanced: معلومات للمرشحين"
+     },
+     "kind": "official",
+     "provider": "Cambridge English",
+     "url": "https://www.cambridgeenglish.org/Images/610342-c1-advanced-information-for-candidates.pdf",
+     "free": true,
+     "note": {
+      "en": "Short official overview of the exam day and what each paper expects."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Converting practice test scores to Cambridge English Scale scores",
+      "ka": "სავარჯიშო ტესტის ქულების გადაყვანა Cambridge English Scale-ზე",
+      "ar": "تحويل درجات الاختبار التجريبي إلى مقياس Cambridge English"
+     },
+     "kind": "official",
+     "provider": "Cambridge English",
+     "url": "https://www.cambridgeenglish.org/Images/210434-converting-practice-test-scores-to-cambridge-english-scale-scores.pdf",
+     "free": true,
+     "note": {
+      "en": "Turn your practice results into an estimated exam score."
+     },
+     "section": "All"
     }
    ],
    "who": {
@@ -3462,6 +3882,96 @@
       "en": "Role-play examples and assessment criteria."
      },
      "section": "Speaking"
+    },
+    {
+     "title": {
+      "en": "OET sample tests: Test on Computer and OET@Home",
+      "ka": "OET-ის საცდელი ტესტები: კომპიუტერზე და OET@Home",
+      "ar": "اختبارات OET التجريبية: على الحاسوب وOET@Home"
+     },
+     "kind": "practice-test",
+     "provider": "OET",
+     "url": "https://oet.com/ready/sample-tests/oet-test-on-computer",
+     "free": true,
+     "note": {
+      "en": "Free official sample tests for eight professions."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "OET sample tests: Test on Paper",
+      "ka": "OET-ის საცდელი ტესტები: ქაღალდზე",
+      "ar": "اختبارات OET التجريبية: الاختبار الورقي"
+     },
+     "kind": "practice-test",
+     "provider": "OET",
+     "url": "https://oet.com/ready/sample-tests/oet-test-on-paper",
+     "free": true,
+     "note": {
+      "en": "Free official paper-format sample tests."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "OET Study Guide (free download)",
+      "ka": "OET-ის სასწავლო გზამკვლევი (უფასო ჩამოტვირთვა)",
+      "ar": "دليل دراسة OET (تنزيل مجاني)"
+     },
+     "kind": "book",
+     "provider": "OET",
+     "url": "https://oet.com/learn/preparation-information/study-guide",
+     "free": true,
+     "note": {
+      "en": "Official guide to the four sub-tests and how they are marked."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Official OET YouTube lessons: Listening",
+      "ka": "OET-ის ოფიციალური YouTube გაკვეთილები: Listening",
+      "ar": "دروس OET الرسمية على YouTube: الاستماع"
+     },
+     "kind": "video",
+     "provider": "OET",
+     "url": "https://youtube.com/playlist?list=PLppcHUiUqIgS8lkvfluCFuNSBF_Rr9Qax",
+     "free": true,
+     "note": {
+      "en": "On-demand lessons from the OET team."
+     },
+     "section": "Listening"
+    },
+    {
+     "title": {
+      "en": "Official OET YouTube lessons: Reading",
+      "ka": "OET-ის ოფიციალური YouTube გაკვეთილები: Reading",
+      "ar": "دروس OET الرسمية على YouTube: القراءة"
+     },
+     "kind": "video",
+     "provider": "OET",
+     "url": "https://youtube.com/playlist?list=PLppcHUiUqIgQjp1-TM7etSeNn8K_wQ-Eo",
+     "free": true,
+     "note": {
+      "en": "On-demand lessons from the OET team."
+     },
+     "section": "Reading"
+    },
+    {
+     "title": {
+      "en": "Official OET YouTube lessons: Writing",
+      "ka": "OET-ის ოფიციალური YouTube გაკვეთილები: Writing",
+      "ar": "دروس OET الرسمية على YouTube: الكتابة"
+     },
+     "kind": "video",
+     "provider": "OET",
+     "url": "https://youtube.com/playlist?list=PLppcHUiUqIgQq6JQ9vxDi9cyimMxIfs-I",
+     "free": true,
+     "note": {
+      "en": "On-demand lessons from the OET team."
+     },
+     "section": "Writing"
     }
    ],
    "who": {
@@ -3731,6 +4241,51 @@
       "en": "Same skills as the DSH; ask your university for its own DSH sample paper too."
      },
      "section": "All"
+    },
+    {
+     "title": {
+      "en": "Digital TestDaF: preparation page and tutorials",
+      "ka": "Digital TestDaF — მომზადების გვერდი და ტუტორიალები",
+      "ar": "TestDaF الرقمي: صفحة التحضير والشروحات"
+     },
+     "kind": "official",
+     "provider": "TestDaF-Institut",
+     "url": "https://www.testdaf.de/de/teilnehmende/der-digitale-testdaf/vorbereitung-auf-den-digitalen-testdaf/",
+     "free": true,
+     "note": {
+      "en": "Official preparation hub with short video tutorials for each section."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Digital TestDaF: test structure",
+      "ka": "Digital TestDaF — ტესტის სტრუქტურა",
+      "ar": "TestDaF الرقمي: بنية الاختبار"
+     },
+     "kind": "official",
+     "provider": "TestDaF-Institut",
+     "url": "https://www.testdaf.de/de/teilnehmende/der-digitale-testdaf/aufbau-des-digitalen-testdaf/",
+     "free": true,
+     "note": {
+      "en": "Official description of every part of the exam; useful for DSH-level German prep."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Digital TestDaF tutorial video: Reading",
+      "ka": "Digital TestDaF — ტუტორიალი: კითხვა",
+      "ar": "TestDaF الرقمي: فيديو تعليمي للقراءة"
+     },
+     "kind": "video",
+     "provider": "TestDaF-Institut",
+     "url": "https://www.testdaf.de/fileadmin/testdaf/downloads/Tutorials/Lesen_1.mp4",
+     "free": true,
+     "note": {
+      "en": "Short official video showing how the reading part works on screen."
+     },
+     "section": "Reading"
     }
    ],
    "who": {
@@ -3871,6 +4426,81 @@
      "free": true,
      "note": {
       "en": "Official C1 sample with transcripts and marking grids."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "DELF A2 sample papers with audio",
+      "ka": "DELF A2-ის სანიმუშო ტესტები აუდიოთი",
+      "ar": "نماذج امتحان DELF A2 مع الصوتيات"
+     },
+     "kind": "practice-test",
+     "provider": "France Education International",
+     "url": "https://www.france-education-international.fr/diplome/delf-tout-public/niveau-a2/exemples-sujets",
+     "free": true,
+     "note": {
+      "en": "Official collective and individual sample papers plus marking grids."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "DELF A2 preparation advice",
+      "ka": "DELF A2-ის მომზადების რჩევები",
+      "ar": "نصائح التحضير لـ DELF A2"
+     },
+     "kind": "official",
+     "provider": "France Education International",
+     "url": "https://www.france-education-international.fr/diplome/delf-tout-public/niveau-a2/entrainement",
+     "free": true,
+     "note": {
+      "en": "Exercise-by-exercise tips for the four tests."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "DELF B1 sample papers with audio",
+      "ka": "DELF B1-ის სანიმუშო ტესტები აუდიოთი",
+      "ar": "نماذج امتحان DELF B1 مع الصوتيات"
+     },
+     "kind": "practice-test",
+     "provider": "France Education International",
+     "url": "https://www.france-education-international.fr/diplome/delf-tout-public/niveau-b1/exemples-sujets",
+     "free": true,
+     "note": {
+      "en": "Official collective and individual sample papers plus marking grids."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "DELF B1 preparation advice",
+      "ka": "DELF B1-ის მომზადების რჩევები",
+      "ar": "نصائح التحضير لـ DELF B1"
+     },
+     "kind": "official",
+     "provider": "France Education International",
+     "url": "https://www.france-education-international.fr/diplome/delf-tout-public/niveau-b1/entrainement",
+     "free": true,
+     "note": {
+      "en": "Official tips and practice exercises for the B1 exam."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "DELF Junior B1 sample papers",
+      "ka": "DELF Junior B1-ის სანიმუშო ტესტები",
+      "ar": "نماذج امتحان DELF Junior B1"
+     },
+     "kind": "practice-test",
+     "provider": "France Education International",
+     "url": "https://www.france-education-international.fr/diplome/delf-junior-scolaire/exemples-sujets-b1",
+     "free": true,
+     "note": {
+      "en": "Official sample papers for the junior/school version."
      },
      "section": "All"
     }
@@ -4067,6 +4697,21 @@
       "en": "Paid online courses by skill from the Cervantes-backed SIELE team."
      },
      "section": "Reading / Listening / Writing / Speaking"
+    },
+    {
+     "title": {
+      "en": "Instituto Cervantes official YouTube channel",
+      "ka": "Instituto Cervantes — ოფიციალური YouTube არხი",
+      "ar": "قناة Instituto Cervantes الرسمية على يوتيوب"
+     },
+     "kind": "video",
+     "provider": "Instituto Cervantes",
+     "url": "https://www.youtube.com/@institutocervantesoficial",
+     "free": true,
+     "note": {
+      "en": "Free Spanish-language videos and events from the DELE organiser."
+     },
+     "section": "All"
     }
    ],
    "who": {
@@ -4177,6 +4822,51 @@
      "free": true,
      "note": {
       "en": "Where to take it through Instituto Cervantes."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "SIELE exam demo, guide and videos",
+      "ka": "SIELE-ის დემო, გზამკვლევი და ვიდეოები",
+      "ar": "نسخة تجريبية ودليل وفيديوهات SIELE"
+     },
+     "kind": "practice-test",
+     "provider": "SIELE",
+     "url": "https://siele.org/examen",
+     "free": true,
+     "note": {
+      "en": "Try the demo exam, download the PDF guide, watch a video per test."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "SIELE official YouTube channel",
+      "ka": "SIELE-ის ოფიციალური YouTube არხი",
+      "ar": "قناة SIELE الرسمية على YouTube"
+     },
+     "kind": "video",
+     "provider": "SIELE",
+     "url": "https://www.youtube.com/channel/UCcJZoqQ7Akk5ny714iUMHnQ",
+     "free": true,
+     "note": {
+      "en": "Official videos about the exam, linked from siele.org."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "SIELE on the Instituto Cervantes exam portal",
+      "ka": "SIELE ინსტიტუტ სერვანტესის საგამოცდო პორტალზე",
+      "ar": "SIELE على بوابة امتحانات معهد ثربانتس"
+     },
+     "kind": "official",
+     "provider": "Instituto Cervantes",
+     "url": "https://examenes.cervantes.es/es/siele/que-es",
+     "free": true,
+     "note": {
+      "en": "Official description of SIELE and its four tests."
      },
      "section": "All"
     }
@@ -4306,6 +4996,36 @@
       "en": "Official explainers on the test format and test day."
      },
      "section": "All"
+    },
+    {
+     "title": {
+      "en": "HSK 3.0 competency profile (official PDF)",
+      "ka": "HSK 3.0 — ენობრივი კომპეტენციების ოფიციალური აღწერა (PDF)",
+      "ar": "الوصف الرسمي لكفاءات HSK 3.0 (PDF)"
+     },
+     "kind": "official",
+     "provider": "Chinese Testing International",
+     "url": "https://hsk.cn-bj.ufileos.com/3.0/HSK3.0%E8%80%83%E8%AF%95%E8%83%BD%E5%8A%9B%E6%8F%8F%E8%BF%B0.pdf",
+     "free": true,
+     "note": {
+      "en": "Official description of what candidates can do at each HSK 3.0 level."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Try HSK 3.0: official online demo",
+      "ka": "სცადე HSK 3.0 — ოფიციალური ონლაინ დემო",
+      "ar": "جرّب HSK 3.0: العرض التجريبي الرسمي"
+     },
+     "kind": "practice-test",
+     "provider": "Chinese Testing International",
+     "url": "https://hsk3demo.chinesetest.cn",
+     "free": true,
+     "note": {
+      "en": "Official demo of the computer-based HSK 3.0 test interface."
+     },
+     "section": "All"
     }
    ],
    "who": {
@@ -4433,6 +5153,96 @@
       "en": "Real past questions by level (paid books; some samples free)."
      },
      "section": "All"
+    },
+    {
+     "title": {
+      "en": "JLPT N5 official sample questions (Vocabulary)",
+      "ka": "JLPT N5 — ოფიციალური ნიმუშ ტესტი (ლექსიკა)",
+      "ar": "JLPT N5: أسئلة نموذجية رسمية (المفردات)"
+     },
+     "kind": "practice-test",
+     "provider": "JLPT (Japan Foundation / JEES)",
+     "url": "https://www.jlpt.jp/samples/sample2018/pdf/N5V.pdf",
+     "free": true,
+     "note": {
+      "en": "Official sample paper for N5; grammar, reading and listening files sit on the same sample page."
+     },
+     "section": "Vocabulary"
+    },
+    {
+     "title": {
+      "en": "JLPT N4 official sample questions (Vocabulary)",
+      "ka": "JLPT N4 — ოფიციალური ნიმუშ ტესტი (ლექსიკა)",
+      "ar": "JLPT N4: أسئلة نموذجية رسمية (المفردات)"
+     },
+     "kind": "practice-test",
+     "provider": "JLPT (Japan Foundation / JEES)",
+     "url": "https://www.jlpt.jp/samples/sample2018/pdf/N4V.pdf",
+     "free": true,
+     "note": {
+      "en": "Official sample paper for N4; other sections are on the sample index."
+     },
+     "section": "Vocabulary"
+    },
+    {
+     "title": {
+      "en": "JLPT N3 official sample questions (Vocabulary)",
+      "ka": "JLPT N3 — ოფიციალური ნიმუშ ტესტი (ლექსიკა)",
+      "ar": "JLPT N3: أسئلة نموذجية رسمية (المفردات)"
+     },
+     "kind": "practice-test",
+     "provider": "JLPT (Japan Foundation / JEES)",
+     "url": "https://www.jlpt.jp/samples/sample2018/pdf/N3V.pdf",
+     "free": true,
+     "note": {
+      "en": "Official sample paper for N3; other sections are on the sample index."
+     },
+     "section": "Vocabulary"
+    },
+    {
+     "title": {
+      "en": "JLPT N2 official sample questions (Vocabulary)",
+      "ka": "JLPT N2 — ოფიციალური ნიმუშ ტესტი (ლექსიკა)",
+      "ar": "JLPT N2: أسئلة نموذجية رسمية (المفردات)"
+     },
+     "kind": "practice-test",
+     "provider": "JLPT (Japan Foundation / JEES)",
+     "url": "https://www.jlpt.jp/samples/sample2018/pdf/N2V.pdf",
+     "free": true,
+     "note": {
+      "en": "Official sample paper for N2; other sections are on the sample index."
+     },
+     "section": "Vocabulary"
+    },
+    {
+     "title": {
+      "en": "JLPT N1 official sample questions (Vocabulary)",
+      "ka": "JLPT N1 — ოფიციალური ნიმუშ ტესტი (ლექსიკა)",
+      "ar": "JLPT N1: أسئلة نموذجية رسمية (المفردات)"
+     },
+     "kind": "practice-test",
+     "provider": "JLPT (Japan Foundation / JEES)",
+     "url": "https://www.jlpt.jp/samples/sample2018/pdf/N1V.pdf",
+     "free": true,
+     "note": {
+      "en": "Official sample paper for N1; other sections are on the sample index."
+     },
+     "section": "Vocabulary"
+    },
+    {
+     "title": {
+      "en": "JLPT guidebook and downloadable materials",
+      "ka": "JLPT — სახელმძღვანელო და გადმოსაწერი მასალები",
+      "ar": "دليل JLPT والمواد القابلة للتحميل"
+     },
+     "kind": "official",
+     "provider": "JLPT (Japan Foundation / JEES)",
+     "url": "https://www.jlpt.jp/e/reference/materials.html",
+     "free": true,
+     "note": {
+      "en": "Free official guidebook, brochure and explanatory slides."
+     },
+     "section": "All"
     }
    ],
    "who": {
@@ -4513,6 +5323,81 @@
      "free": true,
      "note": {
       "en": "Universities, language requirements and the government scholarship."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "TOPIK past exams: online timed practice",
+      "ka": "TOPIK-ის წინა წლების გამოცდები: ონლაინ პრაქტიკა",
+      "ar": "امتحانات TOPIK السابقة: تدريب إلكتروني بالوقت"
+     },
+     "kind": "practice-test",
+     "provider": "TOPIK (NIIED)",
+     "url": "https://www.topik.go.kr/TWSTDY/TWSTDY0090.do",
+     "free": true,
+     "note": {
+      "en": "Official site: timed past exams with listening audio and a score summary (Korean interface)."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "TOPIK IBT practice screen: Listening",
+      "ka": "TOPIK IBT-ის სავარჯიშო ეკრანი: Listening",
+      "ar": "شاشة تدريب TOPIK IBT: الاستماع"
+     },
+     "kind": "app",
+     "provider": "TOPIK (NIIED)",
+     "url": "https://www.topik.go.kr/asset/vendor/tutorial/exam2/listen_exam.html",
+     "free": true,
+     "note": {
+      "en": "Try the real internet-based test interface for the listening section."
+     },
+     "section": "Listening"
+    },
+    {
+     "title": {
+      "en": "TOPIK IBT practice screen: Reading",
+      "ka": "TOPIK IBT-ის სავარჯიშო ეკრანი: Reading",
+      "ar": "شاشة تدريب TOPIK IBT: القراءة"
+     },
+     "kind": "app",
+     "provider": "TOPIK (NIIED)",
+     "url": "https://www.topik.go.kr/asset/vendor/tutorial/exam1/read_exam.html",
+     "free": true,
+     "note": {
+      "en": "Try the real internet-based test interface for the reading section."
+     },
+     "section": "Reading"
+    },
+    {
+     "title": {
+      "en": "TOPIK IBT practice screen: Writing",
+      "ka": "TOPIK IBT-ის სავარჯიშო ეკრანი: Writing",
+      "ar": "شاشة تدريب TOPIK IBT: الكتابة"
+     },
+     "kind": "app",
+     "provider": "TOPIK (NIIED)",
+     "url": "https://www.topik.go.kr/asset/vendor/tutorial/exam2/write_exam.html",
+     "free": true,
+     "note": {
+      "en": "Practise typing the writing answers in the real test interface."
+     },
+     "section": "Writing"
+    },
+    {
+     "title": {
+      "en": "TOPIK overview by NIIED",
+      "ka": "TOPIK-ის მიმოხილვა NIIED-ისგან",
+      "ar": "نظرة عامة على TOPIK من NIIED"
+     },
+     "kind": "official",
+     "provider": "NIIED",
+     "url": "https://www.niied.go.kr/web/NIIED/contents/niiedEng/eng_topikOverview",
+     "free": true,
+     "note": {
+      "en": "Official English overview of formats, sections and uses of the results."
      },
      "section": "All"
     }
@@ -4737,6 +5622,21 @@
       "ar": "آلاف الأمثلة المحلولة في التفاضل والكيمياء والفيزياء."
      },
      "section": "Math and Science"
+    },
+    {
+     "title": {
+      "en": "AP Central: past free-response questions by course",
+      "ka": "AP Central — წინა წლების ღია პასუხიანი დავალებები კურსების მიხედვით",
+      "ar": "AP Central: أسئلة الإجابة الحرة السابقة حسب المادة"
+     },
+     "kind": "practice-test",
+     "provider": "College Board",
+     "url": "https://apcentral.collegeboard.org/courses/past-exam-questions",
+     "free": true,
+     "note": {
+      "en": "Recent free-response questions with scoring guidelines and sample answers."
+     },
+     "section": "All"
     }
    ],
    "who": {
@@ -4925,6 +5825,81 @@
       "ar": "شروح واضحة للعلوم والرياضيات لموضوعات HL وSL."
      },
      "section": "Sciences"
+    },
+    {
+     "title": {
+      "en": "IB Diploma sample exam papers",
+      "ka": "IB Diploma — ნიმუშ საგამოცდო ნაშრომები",
+      "ar": "أوراق امتحان نموذجية لبرنامج IB Diploma"
+     },
+     "kind": "practice-test",
+     "provider": "International Baccalaureate",
+     "url": "https://www.ibo.org/programmes/diploma-programme/assessment-and-exams/sample-exam-papers/",
+     "free": true,
+     "note": {
+      "en": "Official hub of specimen papers and markschemes by subject."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "IB Math: analysis and approaches specimen papers",
+      "ka": "IB მათემატიკა: Analysis and Approaches — სპეციმენ ნაშრომები",
+      "ar": "رياضيات IB: التحليل والمقاربات — أوراق نموذجية"
+     },
+     "kind": "practice-test",
+     "provider": "International Baccalaureate",
+     "url": "https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/dp-mathematics-analysis-and-approaches-specimen-papers-en.pdf",
+     "free": true,
+     "note": {
+      "en": "Official HL/SL specimen papers for Math AA."
+     },
+     "section": "Math"
+    },
+    {
+     "title": {
+      "en": "IB Math: applications and interpretation specimen papers",
+      "ka": "IB მათემატიკა: Applications and Interpretation — სპეციმენ ნაშრომები",
+      "ar": "رياضيات IB: التطبيقات والتفسير — أوراق نموذجية"
+     },
+     "kind": "practice-test",
+     "provider": "International Baccalaureate",
+     "url": "https://www.ibo.org/globalassets/new-structure/university-admission/pdfs/dp-mathematics-applications-and-interpretation-specimen-papers-en.pdf",
+     "free": true,
+     "note": {
+      "en": "Official HL/SL specimen papers for Math AI."
+     },
+     "section": "Math"
+    },
+    {
+     "title": {
+      "en": "IB Biology specimen papers 1A, 1B and 2",
+      "ka": "IB ბიოლოგია — სპეციმენ ნაშრომები 1A, 1B და 2",
+      "ar": "أحياء IB: أوراق نموذجية 1A و1B و2"
+     },
+     "kind": "practice-test",
+     "provider": "International Baccalaureate",
+     "url": "https://www.ibo.org/globalassets/new-structure/programmes/dp/pdfs/biology-hl-sl-specimen-papers-1a-2b-2-en.pdf",
+     "free": true,
+     "note": {
+      "en": "Official specimen papers for the current Biology syllabus."
+     },
+     "section": "Biology"
+    },
+    {
+     "title": {
+      "en": "IB Physics specimen papers 1A, 1B and 2",
+      "ka": "IB ფიზიკა — სპეციმენ ნაშრომები 1A, 1B და 2",
+      "ar": "فيزياء IB: أوراق نموذجية 1A و1B و2"
+     },
+     "kind": "practice-test",
+     "provider": "International Baccalaureate",
+     "url": "https://www.ibo.org/globalassets/new-structure/programmes/dp/pdfs/physics-hl-sl-specimen-papers-1a-2b-2-en.pdf",
+     "free": true,
+     "note": {
+      "en": "Official specimen papers for the current Physics syllabus."
+     },
+     "section": "Physics"
     }
    ],
    "who": {
@@ -5097,6 +6072,81 @@
       "en": "Official guide to the logic and proof ideas tested in Paper 2."
      },
      "section": "Paper 2"
+    },
+    {
+     "title": {
+      "en": "TMUA 2022 Paper 1",
+      "ka": "TMUA 2022 — ნაწილი 1",
+      "ar": "TMUA 2022 الورقة 1"
+     },
+     "kind": "practice-test",
+     "provider": "UAT-UK",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141241/TMUA-2022-paper-1.pdf",
+     "free": true,
+     "note": {
+      "en": "Official past paper; worked answers are on the preparation page."
+     },
+     "section": "Paper 1"
+    },
+    {
+     "title": {
+      "en": "TMUA 2022 Paper 2",
+      "ka": "TMUA 2022 — ნაწილი 2",
+      "ar": "TMUA 2022 الورقة 2"
+     },
+     "kind": "practice-test",
+     "provider": "UAT-UK",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141239/TMUA-2022-paper-2.pdf",
+     "free": true,
+     "note": {
+      "en": "Official past paper; worked answers are on the preparation page."
+     },
+     "section": "Paper 2"
+    },
+    {
+     "title": {
+      "en": "TMUA 2021 Paper 1",
+      "ka": "TMUA 2021 — ნაწილი 1",
+      "ar": "TMUA 2021 الورقة 1"
+     },
+     "kind": "practice-test",
+     "provider": "UAT-UK",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141119/TMUA-2021-paper-1.pdf",
+     "free": true,
+     "note": {
+      "en": "Official past paper with worked answers available."
+     },
+     "section": "Paper 1"
+    },
+    {
+     "title": {
+      "en": "TMUA 2021 Paper 2",
+      "ka": "TMUA 2021 — ნაწილი 2",
+      "ar": "TMUA 2021 الورقة 2"
+     },
+     "kind": "practice-test",
+     "provider": "UAT-UK",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07141117/TMUA-2021-paper-2.pdf",
+     "free": true,
+     "note": {
+      "en": "Official past paper with worked answers available."
+     },
+     "section": "Paper 2"
+    },
+    {
+     "title": {
+      "en": "TMUA preparation hub",
+      "ka": "TMUA-ის მომზადების გვერდი",
+      "ar": "صفحة التحضير لـ TMUA"
+     },
+     "kind": "official",
+     "provider": "UAT-UK",
+     "url": "https://esat-tmua.ac.uk/prepare/",
+     "free": true,
+     "note": {
+      "en": "Official guidance for preparing for the test."
+     },
+     "section": "All"
     }
    ],
    "who": {
@@ -5284,6 +6334,66 @@
       "en": "Past science questions; answer key on the preparation page."
      },
      "section": "Physics"
+    },
+    {
+     "title": {
+      "en": "ESAT and TMUA free preparation hub",
+      "ka": "ESAT და TMUA — უფასო მომზადების ცენტრი",
+      "ar": "مركز التحضير المجاني لـ ESAT وTMUA"
+     },
+     "kind": "official",
+     "provider": "UAT-UK",
+     "url": "https://esat-tmua.ac.uk/prepare/",
+     "free": true,
+     "note": {
+      "en": "Official specifications, notes on mathematics and logic, and specimen tests."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "TMUA specimen and practice tests (Pearson VUE)",
+      "ka": "TMUA — სანიმუშო და საცდელი ტესტები (Pearson VUE)",
+      "ar": "اختبارات TMUA النموذجية والتدريبية (Pearson VUE)"
+     },
+     "kind": "practice-test",
+     "provider": "UAT-UK / Pearson VUE",
+     "url": "https://www.pearsonvue.com/us/en/uatuk.html",
+     "free": true,
+     "note": {
+      "en": "Try the real on-screen test player with official specimen papers."
+     },
+     "section": "Mathematics"
+    },
+    {
+     "title": {
+      "en": "ENGAA 2023 answer key (check your ESAT practice)",
+      "ka": "ENGAA 2023 — სწორი პასუხები (ESAT-ის პრაქტიკის შესამოწმებლად)",
+      "ar": "مفتاح إجابات ENGAA 2023 (لمراجعة تدريب ESAT)"
+     },
+     "kind": "practice-test",
+     "provider": "UAT-UK",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07115610/ENGAA_2023_S1_AnswerKey.pdf",
+     "free": true,
+     "note": {
+      "en": "Answer key for the 2023 ENGAA paper already listed."
+     },
+     "section": "Physics"
+    },
+    {
+     "title": {
+      "en": "NSAA 2023 answer key (check your ESAT practice)",
+      "ka": "NSAA 2023 — სწორი პასუხები (ESAT-ის პრაქტიკის შესამოწმებლად)",
+      "ar": "مفتاح إجابات NSAA 2023 (لمراجعة تدريب ESAT)"
+     },
+     "kind": "practice-test",
+     "provider": "UAT-UK",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2024/05/07120531/NSAA_2023_S1_AnswerKey.pdf",
+     "free": true,
+     "note": {
+      "en": "Answer key for the 2023 NSAA paper already listed."
+     },
+     "section": "Biology"
     }
    ],
    "who": {
@@ -5426,6 +6536,81 @@
       "en": "Check your answers to the 2023 paper."
      },
      "section": "Critical Thinking / Problem Solving"
+    },
+    {
+     "title": {
+      "en": "TSA 2022 Section 1 question paper",
+      "ka": "TSA 2022 სექცია 1 — საკითხები",
+      "ar": "TSA 2022 القسم 1: ورقة الأسئلة"
+     },
+     "kind": "practice-test",
+     "provider": "Admissions Testing Service",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/06/01154234/TSA-2022-Section-1-Question-Paper.pdf",
+     "free": true,
+     "note": {
+      "en": "Official past paper in a similar critical-thinking style; check against the TARA specification."
+     },
+     "section": "Critical Thinking"
+    },
+    {
+     "title": {
+      "en": "TSA 2022 Section 1 answer key",
+      "ka": "TSA 2022 სექცია 1 — პასუხები",
+      "ar": "TSA 2022 القسم 1: مفتاح الإجابات"
+     },
+     "kind": "practice-test",
+     "provider": "Admissions Testing Service",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/06/01154228/TSA-2022-Section-1-Answer-Key.pdf",
+     "free": true,
+     "note": {
+      "en": "Answer key to self-mark the 2022 paper."
+     },
+     "section": "Critical Thinking"
+    },
+    {
+     "title": {
+      "en": "TSA 2021 Section 1 question paper",
+      "ka": "TSA 2021 სექცია 1 — საკითხები",
+      "ar": "TSA 2021 القسم 1: ورقة الأسئلة"
+     },
+     "kind": "practice-test",
+     "provider": "Admissions Testing Service",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/06/01154225/TSA-2021-Section-1-Question-Paper.pdf",
+     "free": true,
+     "note": {
+      "en": "Another official past paper for timed practice."
+     },
+     "section": "Critical Thinking"
+    },
+    {
+     "title": {
+      "en": "TSA 2020 Section 1 explained answers",
+      "ka": "TSA 2020 სექცია 1 — განმარტებული პასუხები",
+      "ar": "TSA 2020 القسم 1: إجابات مشروحة"
+     },
+     "kind": "practice-test",
+     "provider": "Admissions Testing Service",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/06/01154212/TSA-2020-Section-1-Explained-Answers.pdf",
+     "free": true,
+     "note": {
+      "en": "Worked explanations show why each answer is right."
+     },
+     "section": "Critical Thinking"
+    },
+    {
+     "title": {
+      "en": "BMAT 2023 Section 1 question paper",
+      "ka": "BMAT 2023 სექცია 1 — საკითხები",
+      "ar": "BMAT 2023 القسم 1: ورقة الأسئلة"
+     },
+     "kind": "practice-test",
+     "provider": "Admissions Testing Service",
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2025/08/06104326/BMAT-2023-Section-1-Question-Paper.pdf",
+     "free": true,
+     "note": {
+      "en": "Official Section 1 problem-solving and reasoning practice."
+     },
+     "section": "Problem Solving"
     }
    ],
    "who": {
@@ -5596,6 +6781,51 @@
      "free": true,
      "note": {
       "en": "The Faculty of Mathematics' advice on how to prepare."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Advanced Problems in Mathematics (free book)",
+      "ka": "Advanced Problems in Mathematics (უფასო წიგნი)",
+      "ar": "Advanced Problems in Mathematics (كتاب مجاني)"
+     },
+     "kind": "book",
+     "provider": "Open Book Publishers",
+     "url": "https://openbookpublishers.com/product/1050",
+     "free": true,
+     "note": {
+      "en": "Free book recommended by Cambridge for STEP and university preparation."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Underground Mathematics",
+      "ka": "Underground Mathematics",
+      "ar": "Underground Mathematics"
+     },
+     "kind": "course",
+     "provider": "University of Cambridge",
+     "url": "https://undergroundmathematics.org/",
+     "free": true,
+     "note": {
+      "en": "Free Cambridge problem-solving resources, with review questions from past exams."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "How to use the STEP Support Programme",
+      "ka": "როგორ გამოვიყენოთ STEP Support Programme",
+      "ar": "كيفية استخدام برنامج دعم STEP"
+     },
+     "kind": "official",
+     "provider": "University of Cambridge",
+     "url": "https://maths.org/step/how-use-step-support-programme",
+     "free": true,
+     "note": {
+      "en": "Cambridge guide to working through the free support modules."
      },
      "section": "All"
     }
@@ -5785,6 +7015,36 @@
       "en": "Official advice, test tools and the guide to preparing."
      },
      "section": "All"
+    },
+    {
+     "title": {
+      "en": "Official UCAT YouTube channel",
+      "ka": "ოფიციალური UCAT YouTube არხი",
+      "ar": "قناة UCAT الرسمية على يوتيوب"
+     },
+     "kind": "video",
+     "provider": "UCAT Consortium",
+     "url": "https://www.youtube.com/OfficialUCAT",
+     "free": true,
+     "note": {
+      "en": "Official videos with test advice and tips from high-scoring candidates."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Official UCAT preparation plan (PDF)",
+      "ka": "UCAT-ის ოფიციალური მომზადების გეგმა (PDF)",
+      "ar": "خطة التحضير الرسمية لـ UCAT (PDF)"
+     },
+     "kind": "official",
+     "provider": "UCAT Consortium",
+     "url": "https://www.ucat.ac.uk/media/1483/ucat_uk_preparation_plan-final.pdf",
+     "free": true,
+     "note": {
+      "en": "A step-by-step plan for using the free official materials."
+     },
+     "section": "All"
     }
    ],
    "who": {
@@ -5927,6 +7187,21 @@
       "en": "Official advice on how to read arguments and plan the essay."
      },
      "section": "All"
+    },
+    {
+     "title": {
+      "en": "LNAT hints and tips",
+      "ka": "LNAT — რჩევები და მითითებები",
+      "ar": "LNAT: نصائح وإرشادات"
+     },
+     "kind": "official",
+     "provider": "LNAT Consortium",
+     "url": "https://lnat.ac.uk/how-to-prepare/hints-and-tips/",
+     "free": true,
+     "note": {
+      "en": "Official advice on timing, multiple-choice technique and the essay."
+     },
+     "section": "All"
     }
    ],
    "who": {
@@ -6052,6 +7327,21 @@
      "free": true,
      "note": {
       "en": "Official videos on each section and on test day."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "GAMSAT preparation and practice material",
+      "ka": "GAMSAT-ის მომზადება და სავარჯიშო მასალა",
+      "ar": "التحضير لـ GAMSAT ومواد التدريب"
+     },
+     "kind": "official",
+     "provider": "ACER",
+     "url": "https://gamsat.acer.org/prepare",
+     "free": true,
+     "note": {
+      "en": "Practice Test A e-book comes free with registration; the unscored platform demo is free."
      },
      "section": "All"
     }
@@ -6266,6 +7556,21 @@
       "en": "Short strategy lessons for Verbal and Quant.",
       "ka": "მოკლე სტრატეგიული გაკვეთილები Verbal-სა და Quant-ზე.",
       "ar": "دروس استراتيجية قصيرة للقسمين اللفظي والكمي."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "GRE Test Prep at a Glance (official PDF)",
+      "ka": "GRE Test Prep at a Glance — ოფიციალური გზამკვლევი (PDF)",
+      "ar": "GRE Test Prep at a Glance: دليل رسمي (PDF)"
+     },
+     "kind": "official",
+     "provider": "ETS",
+     "url": "https://www.ets.org/pdfs/gre/gre-test-prep-at-a-glance.pdf",
+     "free": true,
+     "note": {
+      "en": "ETS summary of every free and paid official prep tool."
      },
      "section": "All"
     }
@@ -6656,6 +7961,66 @@
       "en": "Test fee and application service costs."
      },
      "section": "All"
+    },
+    {
+     "title": {
+      "en": "LSAC: how to prepare for the LSAT",
+      "ka": "LSAC: როგორ მოვემზადოთ LSAT-ისთვის",
+      "ar": "LSAC: كيفية التحضير لـ LSAT"
+     },
+     "kind": "official",
+     "provider": "LSAC",
+     "url": "https://www.lsac.org/lsat/prepare",
+     "free": true,
+     "note": {
+      "en": "Official starting point to free prep tools and test-day guidance."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "LawHub library: free official PrepTests",
+      "ka": "LawHub-ის ბიბლიოთეკა: უფასო ოფიციალური PrepTests",
+      "ar": "مكتبة LawHub: اختبارات PrepTest الرسمية المجانية"
+     },
+     "kind": "practice-test",
+     "provider": "LSAC",
+     "url": "https://app.lawhub.org/library",
+     "free": true,
+     "note": {
+      "en": "Free official tests in the authentic digital LSAT interface."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Free resources for aspiring law students",
+      "ka": "უფასო რესურსები მომავალი იურისტებისთვის",
+      "ar": "موارد مجانية لطلاب القانون المستقبليين"
+     },
+     "kind": "official",
+     "provider": "LSAC",
+     "url": "https://www.lsac.org/discover-law/how-prepare-law-school/free-resources-aspiring-law-students",
+     "free": true,
+     "note": {
+      "en": "LSAC list of free LSAT prep and argumentative writing practice."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "LSAT dos and don'ts",
+      "ka": "LSAT-ის რჩევები: რა უნდა და რა არ უნდა",
+      "ar": "LSAT: ما يجب فعله وما يجب تجنبه"
+     },
+     "kind": "official",
+     "provider": "LSAC",
+     "url": "https://www.lsac.org/lsat/taking-lsat/lsat-dos-and-donts",
+     "free": true,
+     "note": {
+      "en": "Official test-day rules and tips."
+     },
+     "section": "All"
     }
    ],
    "who": {
@@ -6826,6 +8191,66 @@
      "free": true,
      "note": {
       "en": "Over 1,000 free videos and 3,000 review questions on every content area."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "MCAT Sample Question Guide (free)",
+      "ka": "MCAT Sample Question Guide (უფასო)",
+      "ar": "دليل أسئلة MCAT النموذجية (مجاني)"
+     },
+     "kind": "official",
+     "provider": "AAMC",
+     "url": "https://students-residents.aamc.org/prepare-mcat-exam/mcat-sample-question-guide",
+     "free": true,
+     "note": {
+      "en": "12 official questions, three per section, with full explanations."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "AAMC free full-length MCAT practice exam",
+      "ka": "AAMC-ის უფასო სრული MCAT საცდელი გამოცდა",
+      "ar": "اختبار MCAT تدريبي كامل ومجاني من AAMC"
+     },
+     "kind": "practice-test",
+     "provider": "AAMC",
+     "url": "https://offers.aamc.org/free-practice-exam",
+     "free": true,
+     "note": {
+      "en": "Scored full-length practice exam with scaled score and percentile."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "What's on the MCAT exam: official content outline",
+      "ka": "რა შედის MCAT-ში: ოფიციალური შინაარსის სქემა",
+      "ar": "محتوى اختبار MCAT: المخطط الرسمي"
+     },
+     "kind": "official",
+     "provider": "AAMC",
+     "url": "https://students-residents.aamc.org/prepare-mcat-exam/whats-mcat-exam-pdf-outline",
+     "free": true,
+     "note": {
+      "en": "The official list of topics and skills tested in every section."
+     },
+     "section": "All"
+    },
+    {
+     "title": {
+      "en": "Creating your MCAT study plan",
+      "ka": "MCAT-ის სასწავლო გეგმის შედგენა",
+      "ar": "إعداد خطتك الدراسية لاختبار MCAT"
+     },
+     "kind": "official",
+     "provider": "AAMC",
+     "url": "https://students-residents.aamc.org/prepare-mcat-exam/creating-your-mcat-exam-study-plan",
+     "free": true,
+     "note": {
+      "en": "AAMC's step-by-step guide to planning your preparation."
      },
      "section": "All"
     }

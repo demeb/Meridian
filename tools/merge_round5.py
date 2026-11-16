@@ -50,7 +50,7 @@ REQUIRED = ("id", "name", "iso", "url")
 # programmes the founder confirmed closed: never re-add them, whatever a research file says
 BLOCKED = re.compile(r"john[- ]locke", re.I)
 # the same programme found by two research agents under different ids: keep the first
-DUPLICATES = {"earth-prize-2027", "lithuania-state-scholarship-masters-2027",
+DUPLICATES = {"earth-prize-2027", "aspire-zone-foundation-internship-programme", "epam-georgia-cloud-devops-internship", "lithuania-state-scholarship-masters-2027",
               "vilnius-university-masters-tuition-waiver-2027", "york-international-masters-scholarship-2027",
               # umbrella records repeating the per-university Amgen entries; ICTP closes 1 Nov 2026
               "amgen-scholars-europe-2027", "amgen-scholars-asia-2027",
@@ -184,7 +184,8 @@ def main():
     sources = sorted(glob.glob(os.path.join(RESEARCH, "incoming", "*.json"))) + \
         sorted(glob.glob(os.path.join(RESEARCH, "round5", "*.json"))) + \
         sorted(glob.glob(os.path.join(RESEARCH, "round6", "*.json"))) + \
-        sorted(p for p in glob.glob(os.path.join(RESEARCH, "round8", "*.json")) if "translate" not in p)
+        sorted(p for p in glob.glob(os.path.join(RESEARCH, "round8", "*.json")) if "translate" not in p) + \
+        sorted(glob.glob(os.path.join(RESEARCH, "round9", "internships-*.json")))
     skip_files = ("global-facts", "i18n", "universities", "verification", "prep", "courses", "quizzes", "EXISTING")
     added, rejected = [], {}
     by_file = {}

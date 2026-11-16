@@ -1,0 +1,1075 @@
+[
+ {
+  "id": "zagazig-university",
+  "name": {
+   "en": "Zagazig University",
+   "ka": "ზაგაზიგის უნივერსიტეტი",
+   "ar": "جامعة الزقازيق"
+  },
+  "iso": "EG",
+  "city": "Zagazig",
+  "lat": 30.587,
+  "lon": 31.502,
+  "type": "public",
+  "website": "https://www.zu.edu.eg",
+  "platform": null,
+  "application_url": null,
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Zagazig, Egypt, with an office for expatriate students.",
+   "ka": "საჯარო უნივერსიტეტი ზაგაზიგში, ეგვიპტე, საერთაშორისო სტუდენტთა განყოფილებით.",
+   "ar": "جامعة حكومية في الزقازيق بمصر ولديها إدارة للطلاب الوافدين."
+  },
+  "about": {
+   "en": "Zagazig University is a public university in Sharqia governorate, Egypt. It has an Expatriate Students administration (isa.zu.edu.eg) under Student Affairs. The pages reviewed do not publish fees, deadlines or entry requirements for international bachelor applicants.",
+   "ka": "ზაგაზიგის უნივერსიტეტი საჯარო უნივერსიტეტია ეგვიპტის შარკიას გუბერნატორობაში. სტუდენტთა საქმეების ქვეშ მოქმედებს უცხოელ სტუდენტთა ადმინისტრაცია. საერთაშორისო აპლიკანტებისთვის საფასური და ვადები გვერდებზე მითითებული არ არის.",
+   "ar": "جامعة الزقازيق جامعة حكومية في محافظة الشرقية بمصر، وفيها إدارة للوافدين ضمن قطاع شؤون الطلاب. لا تنشر الصفحات الرسوم أو المواعيد أو شروط القبول للطلاب الدوليين."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "egypt",
+   "zagazig"
+  ],
+  "sources": [
+   "https://www.zu.edu.eg/Contents/Index/1109",
+   "https://www.zu.edu.eg/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "benha-university-egypt",
+  "name": {
+   "en": "Benha University - Egypt",
+   "ka": "ბენჰას უნივერსიტეტი (ეგვიპტე)",
+   "ar": "جامعة بنها (مصر)"
+  },
+  "iso": "EG",
+  "city": "Benha",
+  "lat": 30.466,
+  "lon": 31.185,
+  "type": "public",
+  "website": "https://www.bu.edu.eg",
+  "platform": "Egyptian Ministry of Higher Education international student admission system (Study in Egypt / wafeden.gov.eg)",
+  "application_url": "https://wafeden.gov.eg",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Applications go through the ministry's international students system. The ministry sends nomination papers to embassies by 31 August and embassies must return approved papers by 30 September each year. Students with a home-country school certificate apply through their embassy in a special procedure each August.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Only original, officially authenticated certificates are accepted. A certificate equivalency from the Supreme Council of Universities is required.",
+   "ka": "მიიღება მხოლოდ ორიგინალი, ოფიციალურად დამოწმებული ატესტატები. საჭიროა უნივერსიტეტების უმაღლესი საბჭოს მიერ გაცემული გათანაბრების ცნობა.",
+   "ar": "تقبل الشهادات الأصلية المصدّق عليها رسميًا فقط، ويلزم تقديم شهادة معادلة من المجلس الأعلى للجامعات."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "medicine-health"
+  ],
+  "strengths": {
+   "en": [
+    "Veterinary Medicine",
+    "Engineering",
+    "Computers and AI",
+    "Nursing",
+    "Law"
+   ],
+   "ka": [
+    "ვეტერინარია",
+    "ინჟინერია",
+    "კომპიუტერები და AI",
+    "მედდობა",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب البيطري",
+    "الهندسة",
+    "الحاسبات والذكاء الاصطناعي",
+    "التمريض",
+    "الحقوق"
+   ]
+  },
+  "summary": {
+   "en": "Public university in Benha, Egypt, with 12 undergraduate faculties listed for international students.",
+   "ka": "საჯარო უნივერსიტეტი ბენჰაში, ეგვიპტე; საერთაშორისო სტუდენტებისთვის 12 საბაკალავრო ფაკულტეტია მითითებული.",
+   "ar": "جامعة حكومية في بنها بمصر وتعرض 12 كلية جامعية للطلاب الدوليين."
+  },
+  "about": {
+   "en": "Benha University is a public university in Qalyubia governorate, Egypt. Its International Relations Office lists 12 undergraduate faculties, including Veterinary Medicine, Engineering (Shoubra and Benha), Computers and AI, Nursing, Law, Agriculture and Commerce. Fees, deadlines and entry rules for international applicants were not published on the pages reviewed.",
+   "ka": "ბენჰას უნივერსიტეტი საჯარო უნივერსიტეტია ეგვიპტეში. საერთაშორისო ურთიერთობების ოფისი 12 საბაკალავრო ფაკულტეტს ასახელებს, მათ შორის ვეტერინარია, ინჟინერია, კომპიუტერები და AI, მედდობა, სამართალი. საფასური და ვადები მითითებული არ არის.",
+   "ar": "جامعة بنها جامعة حكومية في محافظة القليوبية. يعرض مكتب العلاقات الدولية 12 كلية جامعية منها الطب البيطري والهندسة (شبرا وبنها) والحاسبات والتمريض والحقوق والزراعة والتجارة. لم تُنشر الرسوم والمواعيد."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": {
+   "en": "Admission follows the same score-based coordination as Egyptian students. International students may not exceed 10% of the Egyptian intake per faculty (5% in medicine, dentistry and pharmacy).",
+   "ka": "მიღება ეგვიპტელი სტუდენტების მსგავსი ქულებზე დაფუძნებული კოორდინაციით ხდება. უცხოელი სტუდენტების რაოდენობა ფაკულტეტზე ეგვიპტელთა მიღების 10%-ს არ უნდა აღემატებოდეს (მედიცინაში, სტომატოლოგიასა და ფარმაციაში — 5%).",
+   "ar": "يتم القبول وفق نظام التنسيق القائم على المجموع نفسه المطبق على الطلاب المصريين، ولا يتجاوز عدد الطلاب الوافدين 10% من المقبولين المصريين في كل كلية (5% في الطب وطب الأسنان والصيدلة)."
+  },
+  "requirements": [
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის დანართი (ნიშნები)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Certificate equivalency / diploma recognition",
+     "ka": "დიპლომის გათანაბრება/აღიარება",
+     "ar": "معادلة الشهادة / الاعتراف بها"
+    }
+   },
+   {
+    "key": "financial_docs",
+    "label": {
+     "en": "Embassy letter naming the funding body",
+     "ka": "საელჩოს წერილი დაფინანსების წყაროს შესახებ",
+     "ar": "خطاب السفارة يحدد جهة التمويل"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "egypt",
+   "benha"
+  ],
+  "sources": [
+   "https://iro.bu.edu.eg/program/undergraduate",
+   "https://www.bu.edu.eg/",
+   "https://mail.fsed.bu.edu.eg/images/english_دليل_الوافدين_أخر_تحديث_10-12-2025.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "tanta-university",
+  "name": {
+   "en": "Tanta University",
+   "ka": "ტანტას უნივერსიტეტი",
+   "ar": "جامعة طنطا"
+  },
+  "iso": "EG",
+  "city": "Tanta",
+  "website": "https://www.tanta.edu.eg",
+  "platform": null,
+  "application_url": "https://international-students.tanta.edu.eg/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences",
+   "law",
+   "education"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Pharmacy",
+    "Dentistry",
+    "Engineering",
+    "Science"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ფარმაცია",
+    "სტომატოლოგია",
+    "ინჟინერია",
+    "მეცნიერება"
+   ],
+   "ar": [
+    "الطب",
+    "الصيدلة",
+    "طب الأسنان",
+    "الهندسة",
+    "العلوم"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in Tanta, Egypt, with medical, scientific, educational and humanities faculties. International (expatriate) students are served by a dedicated site; fee, deadline and requirement pages were not readable.",
+   "ka": "დიდი საჯარო უნივერსიტეტი ეგვიპტის ქალაქ ტანტაში, სამედიცინო, სამეცნიერო, საგანმანათლებლო და ჰუმანიტარული ფაკულტეტებით. უცხოელ სტუდენტებს ცალკე საიტი ემსახურება; საფასურისა და მოთხოვნების გვერდები წაკითხვადი არ იყო.",
+   "ar": "جامعة حكومية كبيرة في طنطا بمصر تضم كليات طبية وعلمية وتربوية وإنسانية. تخدم الطلاب الوافدين بوابة مخصصة، ولم تكن صفحات الرسوم والمواعيد والمتطلبات قابلة للقراءة."
+  },
+  "about": {
+   "en": "Tanta University is a public university in the Nile Delta. Its expatriate students site is international-students.tanta.edu.eg (contact international_std@unv.tanta.edu.eg), and national admission runs through Egypt's Study in Egypt portal. Fees, deadlines and entry requirements for bachelor applicants were not published on the pages checked.",
+   "ka": "ტანტას უნივერსიტეტი ნილოსის დელტის საჯარო უნივერსიტეტია. უცხოელი სტუდენტების საიტია international-students.tanta.edu.eg (კონტაქტი: international_std@unv.tanta.edu.eg), ეროვნული მიღება კი ეგვიპტის Study in Egypt პორტალით მიმდინარეობს. საფასური, ვადები და ბაკალავრების მოთხოვნები შემოწმებულ გვერდებზე არ არის.",
+   "ar": "جامعة طنطا جامعة حكومية في دلتا النيل. بوابة الطلاب الوافدين international-students.tanta.edu.eg (للتواصل international_std@unv.tanta.edu.eg) ويتم القبول الوطني عبر بوابة ادرس في مصر. لم تُنشر الرسوم والمواعيد ومتطلبات البكالوريوس في الصفحات التي جرى الاطلاع عليها."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "egypt",
+   "tanta",
+   "medicine",
+   "study in egypt"
+  ],
+  "sources": [
+   "http://tanta.edu.eg/",
+   "https://international-students.tanta.edu.eg/"
+  ],
+  "verified_at": "2026-11-16",
+  "type": "public",
+  "lat": 30.791,
+  "lon": 31.001
+ },
+ {
+  "id": "addis-ababa-university",
+  "name": {
+   "en": "Addis Ababa University",
+   "ka": "ადის-აბების უნივერსიტეტი",
+   "ar": "جامعة أديس أبابا"
+  },
+  "iso": "ET",
+  "city": "Addis Ababa",
+  "lat": 9.04,
+  "lon": 38.763,
+  "type": "public",
+  "website": "https://aau.edu.et",
+  "platform": null,
+  "application_url": "https://admission.aau.edu.et/",
+  "intakes": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "medicine-health",
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Sciences",
+    "Social Sciences"
+   ],
+   "ka": [
+    "მედიცინა",
+    "მეცნიერებები",
+    "სოციალური მეცნიერებები"
+   ],
+   "ar": [
+    "الطب",
+    "العلوم",
+    "العلوم الاجتماعية"
+   ]
+  },
+  "summary": {
+   "en": "Ethiopia's oldest and largest public university. Fee and deadline details were not available from official pages.",
+   "ka": "ეთიოპიის უძველესი და უდიდესი სახელმწიფო უნივერსიტეტი.",
+   "ar": "أقدم وأكبر جامعة حكومية في إثيوبيا."
+  },
+  "about": {
+   "en": "Addis Ababa University is a public research university in the capital of Ethiopia. Teaching is in English. International applicants should contact the admissions office.",
+   "ka": "ადის-აბების უნივერსიტეტი სახელმწიფო საკვლევი უნივერსიტეტია ეთიოპიის დედაქალაქში; სწავლება ინგლისურია.",
+   "ar": "جامعة أديس أبابا جامعة بحثية حكومية في العاصمة الإثيوبية، والتدريس فيها بالإنجليزية."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატის დანართი (ნიშნები)",
+     "ar": "كشف درجات المرحلة الثانوية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [],
+  "sources": [
+   "https://aau.edu.et",
+   "https://admission.aau.edu.et/HowToApply"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "abo-akademi-university",
+  "name": {
+   "en": "Abo Akademi University",
+   "ka": "ოუბო აკადემიის უნივერსიტეტი",
+   "ar": "جامعة أبو أكاديمي"
+  },
+  "iso": "FI",
+  "city": "Turku",
+  "lat": 60.452,
+  "lon": 22.28,
+  "type": "private",
+  "website": "https://www.abo.fi",
+  "platform": "Studyinfo.fi national joint application",
+  "application_url": "https://www.abo.fi/en/study/apply/apply-to-the-bachelor-level/",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Bachelor applications run through the national joint application on studyinfo.fi. Enclosures (language and degree certificates) for the second joint application 2027 are due 1 April 2027 at 15:00 Finnish time; language certificates for the first joint application are due 28 January 2027.",
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": 5000,
+  "intl_pct": null,
+  "languages": [
+   "Swedish"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "Under the Lisbon Convention, qualifications that give access to university in the home country generally give access in Finland.",
+   "ka": "ლისაბონის კონვენციის თანახმად, სამშობლოში უნივერსიტეტში ჩარიცხვის უფლების მქონე კვალიფიკაცია ზოგადად ფინეთშიც მოქმედებს.",
+   "ar": "وفق اتفاقية لشبونة، فإن المؤهل الذي يتيح دخول الجامعة في بلد الطالب يتيح عمومًا دخولها في فنلندا."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "humanities",
+   "natural-sciences",
+   "engineering",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Chemical engineering",
+    "Humanities",
+    "Social sciences",
+    "Computer science"
+   ],
+   "ka": [
+    "ქიმიური ინჟინერია",
+    "ჰუმანიტარული მეცნიერებები",
+    "სოციალური მეცნიერებები",
+    "კომპიუტერული მეცნიერება"
+   ],
+   "ar": [
+    "الهندسة الكيميائية",
+    "العلوم الإنسانية",
+    "العلوم الاجتماعية",
+    "علوم الحاسوب"
+   ]
+  },
+  "summary": {
+   "en": "Finland's Swedish-language university in Turku. All bachelor programmes are taught in Swedish and applications go through Studyinfo.fi.",
+   "ka": "ფინეთის შვედურენოვანი უნივერსიტეტი ტურკუში. ყველა საბაკალავრო პროგრამა შვედურად ისწავლება, განცხადება კი Studyinfo.fi-ით იგზავნება.",
+   "ar": "الجامعة الناطقة بالسويدية في فنلندا بمدينة توركو. تُدرَّس كل برامج البكالوريوس بالسويدية ويُقدَّم الطلب عبر Studyinfo.fi."
+  },
+  "about": {
+   "en": "Åbo Akademi is a Swedish-language university in Turku. All bachelor programmes are taught in Swedish, so applicants need good Swedish. Applications go through the national joint application on studyinfo.fi, and applicants from outside the EU/EEA pay an application fee. The school-leaving qualification must give university eligibility (about 12 years of schooling). Some programmes hold entrance exams.",
+   "ka": "ოუბო აკადემია შვედურენოვანი უნივერსიტეტია ტურკუში. ყველა საბაკალავრო პროგრამა შვედურად ისწავლება, ამიტომ საჭიროა შვედური ენის კარგი ცოდნა. განცხადება ეროვნული გაერთიანებული სისტემით, studyinfo.fi-ზე იგზავნება; ევროკავშირის/EEA-ს გარეთ მყოფი აპლიკანტები სააპლიკაციო გადასახადს იხდიან. საშუალო განათლების დოკუმენტი უნივერსიტეტში შესვლის უფლებას უნდა იძლეოდეს (დაახლოებით 12 წელი). ზოგ პროგრამაზე მისაღები გამოცდებია.",
+   "ar": "جامعة أبو أكاديمي جامعة ناطقة بالسويدية في توركو. تُدرَّس كل برامج البكالوريوس بالسويدية لذا يلزم إتقانها. يتم التقديم عبر الطلب الوطني المشترك على studyinfo.fi، ويدفع المتقدمون من خارج الاتحاد الأوروبي/المنطقة الاقتصادية الأوروبية رسم تقديم. يجب أن تتيح الشهادة الثانوية دخول الجامعة (نحو 12 عاما دراسيا). بعض البرامج تجري امتحانات قبول."
+  },
+  "aid_intl": null,
+  "tests": {
+   "en": "All bachelor programmes are taught in Swedish, so good Swedish is required. Some programmes use entrance exams, described in Swedish on the programme pages.",
+   "ka": "ყველა საბაკალავრო პროგრამა შვედურ ენაზეა, ამიტომ შვედური ენის კარგი ცოდნა აუცილებელია. ზოგ პროგრამას შესასვლელი გამოცდა აქვს (ინფორმაცია შვედურად).",
+   "ar": "جميع برامج البكالوريوس تُدرَّس بالسويدية، لذا يلزم إتقانها. بعض البرامج لها امتحانات قبول موضحة بالسويدية في صفحات البرامج."
+  },
+  "gpa_note": {
+   "en": "Applicants need 12 years of schooling or an exam that qualifies for university study at home; if you qualify at home you generally qualify in Finland. Some programmes list prerequisite subjects.",
+   "ka": "საჭიროა 12-წლიანი სწავლა ან ისეთი გამოცდა, რომელიც სამშობლოში უნივერსიტეტში სწავლის უფლებას იძლევა. ზოგ პროგრამას წინაპირობა საგნები აქვს.",
+   "ar": "يلزم 12 عامًا دراسيًا أو امتحان يؤهل للدراسة الجامعية في بلد الطالب، وبعض البرامج تحدد مواد مسبقة."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate giving university eligibility (about 12 years)",
+     "ka": "საშუალო განათლების დოკუმენტი, რომელიც უნივერსიტეტში შესვლის უფლებას იძლევა (დაახლოებით 12 წელი)",
+     "ar": "شهادة ثانوية تتيح دخول الجامعة (نحو 12 عاما)"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Good Swedish",
+     "ka": "შვედური ენის კარგი ცოდნა",
+     "ar": "إتقان جيد للسويدية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee for non-EU/EEA applicants",
+     "ka": "სააპლიკაციო გადასახადი არა-EU/EEA აპლიკანტებისთვის",
+     "ar": "رسم تقديم للمتقدمين من خارج الاتحاد الأوروبي/EEA"
+    }
+   },
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "Entrance exam in some programmes",
+     "ka": "მისაღები გამოცდა ზოგ პროგრამაზე",
+     "ar": "امتحان قبول في بعض البرامج"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "finland",
+   "turku",
+   "swedish-language"
+  ],
+  "sources": [
+   "https://www.abo.fi/en/study/apply/apply-to-the-bachelor-level/",
+   "https://www.abo.fi/en/study/tuition-fees/",
+   "https://www.abo.fi/en/study/apply/enclosures/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "conservatoire-national-des-arts-et-metiers-cnam",
+  "name": {
+   "en": "Conservatoire National des Arts et Métiers (CNAM)",
+   "ka": "ხელოვნებისა და ხელობების ეროვნული კონსერვატორია (CNAM)",
+   "ar": "المعهد الوطني للفنون والحرف (CNAM)"
+  },
+  "iso": "FR",
+  "city": "Paris",
+  "lat": 48.866,
+  "lon": 2.355,
+  "type": "public",
+  "website": "https://www.cnam.fr",
+  "platform": "Etudes en France / Campus France for non-EU residents abroad",
+  "application_url": "https://www.cnam.fr/international/etudier-au-cnam/candidature",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "Calendars vary by programme and centre; no single deadline is published. Non-EU applicants abroad use the Etudes en France / Campus France procedure.",
+  "tuition_intl": {
+   "amount": 2902,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Differentiated fee for non-EU/EEA/Swiss students in licence, 2026-27; CVEC 105 EUR extra."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "business",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "A French public institution for adult and professional education. Non-EU licence students paid 2,902 EUR per year in registration fees for 2026-27.",
+   "ka": "საფრანგეთის საჯარო დაწესებულება ზრდასრულთა და პროფესიული განათლებისთვის. არა-ევროკავშირელ ლიცენციატ სტუდენტებს 2026-27 წელს 2 902 ევრო უწევდათ წელიწადში.",
+   "ar": "مؤسسة فرنسية عامة للتعليم المهني وتعليم الكبار. بلغت رسوم التسجيل لطلاب الإجازة من خارج الاتحاد الأوروبي 2902 يورو سنويًا في 2026-27."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Certificate equivalency / diploma recognition",
+     "ka": "დიპლომის გათანაბრება/აღიარება",
+     "ar": "معادلة الشهادة / الاعتراف بها"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "paris",
+   "cnam",
+   "low tuition"
+  ],
+  "sources": [
+   "https://www.cnam.fr/international/etudier-au-cnam/venir/droits-inscriptions",
+   "https://www.cnam.fr/international/etudier-au-cnam/candidature",
+   "https://demarche.numerique.gouv.fr/commencer/cnam-intec-candidature-licence-3-cca-apprentissage"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "institut-national-polytechnique-de-toulouse",
+  "name": {
+   "en": "Institut National Polytechnique de Toulouse",
+   "ka": "ტულუზის ეროვნული პოლიტექნიკური ინსტიტუტი",
+   "ar": "المعهد الوطني متعدد التقنيات في تولوز"
+  },
+  "iso": "FR",
+  "city": "Toulouse",
+  "lat": 43.57,
+  "lon": 1.468,
+  "type": "public",
+  "website": "https://www.inp-toulouse.fr",
+  "platform": "Etudes en France (Campus France)",
+  "application_url": "https://www.inp-toulouse.fr/en/international/international-students/application.html",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "environment",
+   "computer-science"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public engineering and agronomy institute in Toulouse, France. Its English site describes exchange applications and the Etudes en France platform; degree-student fees were not confirmed.",
+   "ka": "საჯარო საინჟინრო და აგრონომიული ინსტიტუტი ტულუზში, საფრანგეთი. ინგლისურენოვანი საიტი აღწერს გაცვლით აპლიკაციებსა და Etudes en France პლატფორმას; ხარისხის სტუდენტების საფასური ვერ დადასტურდა.",
+   "ar": "معهد حكومي للهندسة والزراعة في تولوز بفرنسا. يصف موقعه الإنجليزي طلبات التبادل ومنصة Etudes en France، ولم تُؤكَّد رسوم طلاب الدرجات."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [
+   {
+    "name": "La Prepa des INP Toulouse - JPA Malaysia programme (Malaysian SPM holders)",
+    "url": "https://www.inp-toulouse.fr/en/international/international-programmes.html",
+    "coverage": "full"
+   }
+  ],
+  "keywords": [
+   "france",
+   "toulouse",
+   "engineering"
+  ],
+  "sources": [
+   "https://www.inp-toulouse.fr/en/international/international-students/application.html",
+   "https://www.inp-toulouse.fr/en/international/international-programmes.html"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "ecole-centrale-de-lyon",
+  "name": {
+   "en": "École Centrale de Lyon",
+   "ka": "ლიონის ცენტრალური სკოლა",
+   "ar": "المدرسة المركزية في ليون"
+  },
+  "iso": "FR",
+  "city": "Lyon",
+  "lat": 45.782,
+  "lon": 4.766,
+  "type": "public",
+  "website": "https://www.ec-lyon.fr",
+  "platform": "emlyon online international admissions (Bachelor of Science in Data Science for Responsible Business, with emlyon business school)",
+  "application_url": "https://www.ec-lyon.fr/en/academics/bachelor-science-data-science-responsible-business",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 14650,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Bachelor of Science in Data Science for Responsible Business (Lyon-Ecully, 100% English). Application fee 60 EUR. The engineering degree uses a separate income-based scale of 1,613 to 4,113 EUR per year from 2026."
+  },
+  "acceptance_rate": null,
+  "students": 3000,
+  "intl_pct": null,
+  "languages": [
+   "French",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "A general high school diploma with strong mathematics, or an equivalent foreign qualification.",
+   "ka": "ზოგადი საშუალო განათლების ატესტატი ძლიერი მათემატიკით ან მისი უცხოური ეკვივალენტი.",
+   "ar": "شهادة ثانوية عامة بمستوى قوي في الرياضيات أو ما يعادلها من شهادة أجنبية."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "mathematics",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Mechanics",
+    "Applied mathematics"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მექანიკა",
+    "გამოყენებითი მათემატიკა"
+   ],
+   "ar": [
+    "الهندسة",
+    "الميكانيك",
+    "الرياضيات التطبيقية"
+   ]
+  },
+  "summary": {
+   "en": "A French grande école of engineering in Lyon. Official admission and fee details could not be read.",
+   "ka": "საფრანგეთის საინჟინრო გრანდ-ეკოლი ლიონში. ოფიციალური მონაცემები მიღებისა და საფასურის შესახებ ვერ წაიკითხა.",
+   "ar": "مدرسة هندسة فرنسية كبرى في ليون. لم تتوفر بيانات رسمية مقروءة عن القبول والرسوم."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "International applicants go through a competitive selection on emlyon's online admissions platform. The programme is taught fully in English and needs a good command of English (no minimum score is stated).",
+   "ka": "საერთაშორისო აპლიკანტები გადიან კონკურსულ შერჩევას emlyon-ის ონლაინ პლატფორმაზე. პროგრამა მთლიანად ინგლისურადაა და საჭიროა ინგლისურის კარგი ცოდნა (მინიმალური ქულა მითითებული არ არის).",
+   "ar": "يخضع المتقدمون الدوليون لانتقاء تنافسي عبر منصة القبول الإلكترونية لدى emlyon. البرنامج بالإنجليزية بالكامل ويتطلب إجادة جيدة للإنجليزية (دون حد أدنى معلن)."
+  },
+  "gpa_note": {
+   "en": "Applicants need a general high school diploma with a strong mathematics background, or an equivalent foreign qualification, plus a good command of English.",
+   "ka": "საჭიროა ზოგადი საშუალო განათლების ატესტატი ძლიერი მათემატიკური მომზადებით ან მისი უცხოური ეკვივალენტი და ინგლისურის კარგი ცოდნა.",
+   "ar": "يلزم شهادة ثانوية عامة بخلفية قوية في الرياضيات أو ما يعادلها من شهادات أجنبية، مع إجادة جيدة للغة الإنجليزية."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Secondary school diploma",
+     "ka": "საშუალო განათლების ატესტატი",
+     "ar": "شهادة الثانوية العامة"
+    }
+   },
+   {
+    "key": "english",
+    "label": {
+     "en": "Proof of English",
+     "ka": "ინგლისური ენის დადასტურება",
+     "ar": "إثبات اللغة الإنجليزية"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Application fee",
+     "ka": "სააპლიკაციო საფასური",
+     "ar": "رسوم التقديم"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "lyon",
+   "grande ecole"
+  ],
+  "sources": [
+   "https://www.ec-lyon.fr",
+   "https://www.ec-lyon.fr/en/academics/bachelor-science-data-science-responsible-business"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universite-de-lille",
+  "name": {
+   "en": "Université de Lille",
+   "ka": "ლილის უნივერსიტეტი",
+   "ar": "جامعة ليل"
+  },
+  "iso": "FR",
+  "city": "Lille",
+  "lat": 50.609,
+  "lon": 3.14,
+  "type": "public",
+  "website": "https://www.univ-lille.fr",
+  "platform": "Parcoursup (first year of licence); eCandidat for years 2-3",
+  "application_url": "https://www.univ-lille.fr/en/studies/apply-enrol/applying",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": "First-year licence applications go through Parcoursup; dates follow the national Parcoursup calendar. Foreign applicants should check the international pages.",
+  "tuition_intl": {
+   "amount": null,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Non-EU students pay tiered enrolment fees (amount set in a separate PDF). Standard fee for EU students and exempt non-EU categories: 178 EUR (2025/26). CVEC 105 EUR."
+  },
+  "acceptance_rate": null,
+  "students": 75000,
+  "intl_pct": null,
+  "languages": [
+   "French",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "French B2"
+  ],
+  "fields": [
+   "medicine-health",
+   "law",
+   "humanities",
+   "natural-sciences",
+   "social-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine and health",
+    "Law",
+    "Humanities",
+    "Sciences",
+    "Economics"
+   ],
+   "ka": [
+    "მედიცინა და ჯანმრთელობა",
+    "სამართალი",
+    "ჰუმანიტარული მეცნიერებები",
+    "მეცნიერებები",
+    "ეკონომიკა"
+   ],
+   "ar": [
+    "الطب والصحة",
+    "القانون",
+    "العلوم الإنسانية",
+    "العلوم",
+    "الاقتصاد"
+   ]
+  },
+  "summary": {
+   "en": "A large public university in Lille, northern France. Bachelor (licence) applications go through Parcoursup, with standard fees of 178 EUR for EU students.",
+   "ka": "დიდი სახელმწიფო უნივერსიტეტი ლილში, ჩრდილოეთ საფრანგეთში. ლისანსის განცხადებები Parcoursup-ით იგზავნება; ევროკავშირის სტუდენტებისთვის სტანდარტული საფასური 178 ევროა.",
+   "ar": "جامعة حكومية كبيرة في ليل شمال فرنسا. تُقدَّم طلبات الإجازة عبر Parcoursup، والرسوم المعتادة 178 يورو لطلاب الاتحاد الأوروبي."
+  },
+  "about": {
+   "en": "The University of Lille is a large public university in northern France. First-year bachelor (licence) places are applied for through the national Parcoursup portal; later years use eCandidat. Teaching is mainly in French. Non-EU students pay tiered enrolment fees and also the CVEC contribution of 105 EUR.",
+   "ka": "ლილის უნივერსიტეტი დიდი სახელმწიფო უნივერსიტეტია ჩრდილოეთ საფრანგეთში. ბაკალავრიატის (ლისანსი) პირველ კურსზე განცხადება Parcoursup-ით ხდება, შემდეგი კურსებისთვის eCandidat-ით. სწავლება ძირითადად ფრანგულია. არაევროპელი სტუდენტები იხდიან დიფერენცირებულ საფასურს და CVEC შენატანს 105 ევროს.",
+   "ar": "جامعة ليل جامعة حكومية كبيرة في شمال فرنسا. يُتقدَّم إلى السنة الأولى من الإجازة عبر بوابة Parcoursup الوطنية، وللسنوات اللاحقة عبر eCandidat. التدريس غالبا بالفرنسية. يدفع الطلاب من خارج الاتحاد الأوروبي رسوم تسجيل متدرجة إضافة إلى مساهمة CVEC البالغة 105 يورو."
+  },
+  "aid_intl": {
+   "en": "Fee exemptions can be requested from the Fee Waiver Committee; scholarship holders are exempt.",
+   "ka": "საფასურის გათავისუფლება შესაძლებელია მოითხოვონ საფასურის შემცირების კომისიისგან; სტიპენდიანტები გათავისუფლებულნი არიან.",
+   "ar": "يمكن طلب الإعفاء من الرسوم من لجنة الإعفاءات؛ ويُعفى حاملو المنح."
+  },
+  "tests": {
+   "en": "Courses taught in French need proof of B2 French. First-year entry for non-EU applicants with foreign diplomas goes through the prior admission request (DAP).",
+   "ka": "ფრანგულენოვან პროგრამებზე საჭიროა ფრანგული ენის B2 დონის დადასტურება. უცხოური დიპლომის მქონე არა-ევროკავშირელებისთვის პირველ კურსზე ჩაბარება წინასწარი ნებართვის მოთხოვნით (DAP) ხდება.",
+   "ar": "تتطلب البرامج المدرَّسة بالفرنسية إثبات مستوى B2 في الفرنسية، ويتم القبول في السنة الأولى لحاملي الشهادات الأجنبية من خارج الاتحاد الأوروبي عبر طلب القبول المسبق (DAP)."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "CVEC contribution 105 EUR at enrolment",
+     "ka": "CVEC შენატანი 105 ევრო ჩარიცხვისას",
+     "ar": "مساهمة CVEC 105 يورو عند التسجيل"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "French for French-taught programmes",
+     "ka": "ფრანგული ფრანგულენოვან პროგრამებზე",
+     "ar": "الفرنسية للبرامج المدرّسة بالفرنسية"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "lille",
+   "licence",
+   "parcoursup"
+  ],
+  "sources": [
+   "https://www.univ-lille.fr/en/studies/apply-enrol/enrolment-fees",
+   "https://www.univ-lille.fr/en/studies/apply-enrol/applying",
+   "https://international.univ-lille.fr/en/come-to-the-university-of-lille/i-am-a-student/international-non-exchange-students"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universite-de-lorraine",
+  "name": {
+   "en": "Université de Lorraine",
+   "ka": "ლორენის უნივერსიტეტი",
+   "ar": "جامعة لورين"
+  },
+  "iso": "FR",
+  "city": "Nancy",
+  "lat": 48.693,
+  "lon": 6.183,
+  "type": "public",
+  "website": "https://www.univ-lorraine.fr",
+  "platform": "Études en France (Campus France) / eCandidat",
+  "application_url": "https://www.univ-lorraine.fr/en/education/enrolment-at-universite-de-lorraine/",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": "eCandidat applications open in March each year; students in Campus France countries apply through Études en France. The enrolment page opens in early July after acceptance.",
+  "tuition_intl": {
+   "amount": 2902,
+   "currency": "EUR",
+   "per": "year",
+   "note": "Differentiated fee for non-EU students on first enrolment (BUT and licence professionnelle pages show 2,902 EUR for 2026-27; other Lorraine pages show 2,895 EUR). CVEC 105 EUR extra."
+  },
+  "acceptance_rate": null,
+  "students": 60000,
+  "intl_pct": 16,
+  "languages": [
+   "French",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "law",
+   "medicine-health",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Materials science",
+    "Law",
+    "Medicine",
+    "Humanities"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "მასალათმცოდნეობა",
+    "სამართალი",
+    "მედიცინა",
+    "ჰუმანიტარული მეცნიერებები"
+   ],
+   "ar": [
+    "الهندسة",
+    "علوم المواد",
+    "القانون",
+    "الطب",
+    "الإنسانيات"
+   ]
+  },
+  "summary": {
+   "en": "A large multidisciplinary French public university around Nancy and Metz. About 16% of students are international.",
+   "ka": "ნანსისა და მეცის გარშემო მდებარე მსხვილი მულტიდისციპლინური საჯარო უნივერსიტეტი. სტუდენტების დაახლოებით 16% საერთაშორისოა.",
+   "ar": "جامعة فرنسية عامة كبيرة متعددة التخصصات حول نانسي وميتز. نحو 16% من طلابها دوليون."
+  },
+  "about": {
+   "en": "Université de Lorraine has about 10,000 international students from 160 nationalities. Non-EU applicants living in a Campus France country apply through Études en France; others use eCandidat, which opens in March. Non-EU tuition differs from the standard fee, but the amount is not on the page read. French level and programme-specific conditions are in the admission conditions table on the university site.",
+   "ka": "ლორენის უნივერსიტეტში დაახლოებით 10 000 უცხოელი სტუდენტი სწავლობს 160 ეროვნებიდან. Campus France-ის ქვეყნებში მცხოვრები არა-ევროკავშირელები განაცხადებენ Études en France-ით, დანარჩენები eCandidat-ით, რომელიც მარტში იხსნება. არა-ევროკავშირელთა საფასური სტანდარტულისგან განსხვავდება, მაგრამ ოდენობა წაკითხულ გვერდზე არ არის.",
+   "ar": "في جامعة لورين نحو 10,000 طالب دولي من 160 جنسية. يتقدم المقيمون في دول Campus France عبر Études en France، وغيرهم عبر eCandidat الذي يفتح في مارس. رسوم الطلاب من خارج الاتحاد الأوروبي تختلف عن الرسوم العادية لكن المبلغ غير مذكور في الصفحة المقروءة."
+  },
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School-leaving certificate (university entrance qualification)",
+     "ka": "სკოლის დამამთავრებელი სერტიფიკატი (უნივერსიტეტში მისაღები კვალიფიკაცია)",
+     "ar": "شهادة إتمام الدراسة الثانوية (مؤهل القبول الجامعي)"
+    }
+   },
+   {
+    "key": "transcript",
+    "label": {
+     "en": "Secondary school transcripts",
+     "ka": "საშუალო სკოლის ატესტატი და ნიშნების ფურცელი",
+     "ar": "كشوف درجات المرحلة الثانوية"
+    }
+   },
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة من جواز السفر"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "france",
+   "nancy",
+   "lorraine",
+   "campus france"
+  ],
+  "sources": [
+   "https://www.univ-lorraine.fr/en/education/enrolment-at-universite-de-lorraine/",
+   "https://www.univ-lorraine.fr/en/",
+   "https://iut-metz.univ-lorraine.fr/node/323"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

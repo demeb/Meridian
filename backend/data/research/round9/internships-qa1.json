@@ -1,0 +1,881 @@
+[
+{
+"section": "internship",
+"family": "internship",
+"country": {
+"en": "Qatar",
+"ka": "ყატარი",
+"ar": "قطر"
+},
+"iso": "QA",
+"flag": "🇶🇦",
+"region": "middle-east",
+"verified_at": "2026-11-16",
+"premium": false,
+"id": "hmc-medical-internship-program",
+"type": "medical internship (new graduates, 1 year)",
+"org": "Hamad Medical Corporation",
+"name": {
+"en": "HMC Medical Internship Program",
+"ka": "HMC-ის სამედიცინო ინტერნატურის პროგრამა",
+"ar": "برنامج الامتياز الطبي في مؤسسة حمد الطبية"
+},
+"city": "Doha",
+"lat": 25.286,
+"lon": 51.534,
+"cost": "free",
+"paid": false,
+"stipend": {
+"en": "Qataris are hired as employees with salary and benefits; non-Qataris join as non-employees with no remuneration and no HMC sponsorship"
+},
+"level": [
+"graduate"
+],
+"fields": [
+"medicine-health"
+],
+"remote": false,
+"grades": "medical graduates",
+"opens": null,
+"deadline": null,
+"deadline_note": "Rolling, two intakes: applications 16 May-15 Nov start 1 Jan; 16 Nov-15 May start 1 Jul (per HMC page, checked 2026-11-16).",
+"event_dates": null,
+"duration": {
+"en": "1 year (13 blocks)",
+"ka": "1 წელი (13 ბლოკი)",
+"ar": "سنة واحدة (13 فترة تدريب)"
+},
+"summary": {
+"en": "One-year hands-on medical internship at Hamad Medical Corporation, Qatar's main public hospital provider, for recent medical graduates. Training is in English with four mandatory rotations and two electives.",
+"ka": "ერთწლიანი პრაქტიკული სამედიცინო ინტერნატურა ჰამადის სამედიცინო კორპორაციაში, ყატარის მთავარ სახელმწიფო საავადმყოფოების ქსელში, ახალგაზრდა მედიკოსებისთვის.",
+"ar": "سنة امتياز طبي عملية في مؤسسة حمد الطبية لخريجي كليات الطب الجدد، بتدريب باللغة الإنجليزية وأربع تناوبات إلزامية واختيارين."
+},
+"about": {
+"en": "The HMC Medical Internship is a one-year (thirteen-block) programme for newly qualified doctors. It includes four mandatory rotations (Internal Medicine, General Surgery, Pediatrics, Obstetrics and Gynecology) and two electives, and ends with a Certificate of Completion of Medical Internship.\n\nApplicants must have graduated from a medical school in the World Directory of Medical Schools within the past five years (final-year students may apply if they graduate before the start date) and hold a minimum clinical exam score (USMLE Step 2 CK 172, IFOM CSE, or MCC QE Part 1 pass) plus an English score (IELTS Academic 6.5, TOEFL iBT 80 or OET Medical C+). Selection is competitive and based mainly on those scores.\n\nSelected interns must be physically in Qatar for six weeks before the start date for onboarding and cannot take leave in the first three months. Applications are accepted year-round with two start dates."
+},
+"highlights": {
+"en": [
+"One-year rotating internship at Qatar's largest public healthcare provider",
+"Applications year-round; starts 1 January or 1 July",
+"No joining fee; Qataris are salaried employees"
+],
+"ka": [
+"ერთწლიანი როტაციული ინტერნატურა ყატარის უდიდეს სახელმწიფო სამედიცინო ქსელში",
+"განაცხადები მთელი წლის განმავლობაში; დაწყება 1 იანვარს ან 1 ივლისს",
+"გადასახადი არ არის; ყატარელები ხელფასიან თანამშრომლებად მიიღებიან"
+],
+"ar": [
+"سنة امتياز بالتناوب في أكبر مزود للرعاية الصحية العامة في قطر",
+"التقديم طوال العام؛ البدء في 1 يناير أو 1 يوليو",
+"لا رسوم انضمام؛ القطريون يعملون كموظفين بمرتب"
+]
+},
+"eligibility": {
+"en": "Qatari citizens, GCC citizens, or holders of a valid Qatar residency permit under first-degree family sponsorship only. Medical graduates (within 5 years) or final-year students graduating before the start date; clinical exam and English scores as above. Non-medical graduates (nursing, pharmacy) are not eligible. Previous HMC interns are not eligible."
+},
+"how_to_apply": [
+"Check the eligibility and exam-score requirements on the HMC Internship Program page",
+"Apply online through the HMC application portal (paper applications are not accepted)",
+"Submit before 15 Nov for a 1 January start, or before 15 May for a 1 July start",
+"Selected candidates are notified by 20 Nov / 20 May and must be in Qatar six weeks before starting",
+"Questions: internship@hamad.qa (Sunday-Thursday, Qatar time)"
+],
+"costs": {
+"en": "No fee to join. Qataris receive salary and benefits; non-Qataris receive no remuneration and are not sponsored by HMC."
+},
+"keywords": [
+"medical internship",
+"hamad",
+"hmc",
+"doctor",
+"qatar",
+"medicine",
+"residency",
+"gcc"
+],
+"url": "https://hamad.qa/EN/Education-and-research/Medical-Education/Internship%20Program/Pages/default.aspx",
+"apply_url": "https://hamad.qa/EN/Education-and-research/Medical-Education/Internship%20Program/Pages/How-to-Apply.aspx",
+"sources": [
+"https://hamad.qa/EN/Education-and-research/Medical-Education/Internship%20Program/Pages/default.aspx",
+"https://hamad.qa/EN/Education-and-research/Medical-Education/Internship%20Program/Pages/How-to-Apply.aspx"
+],
+"score": 8,
+"score_reason": "Prestigious, open to residents and GCC citizens, rolling; unpaid for non-Qataris."
+},
+{
+"section": "internship",
+"family": "internship",
+"country": {
+"en": "Qatar",
+"ka": "ყატარი",
+"ar": "قطر"
+},
+"iso": "QA",
+"flag": "🇶🇦",
+"region": "middle-east",
+"verified_at": "2026-11-16",
+"premium": false,
+"id": "hmc-dental-internship-program",
+"type": "dental internship (new graduates)",
+"org": "Hamad Medical Corporation",
+"name": {
+"en": "HMC Dental Internship Program",
+"ka": "HMC-ის სტომატოლოგიური ინტერნატურა",
+"ar": "برنامج الامتياز لطب الأسنان في مؤسسة حمد الطبية"
+},
+"city": "Doha",
+"lat": 25.286,
+"lon": 51.534,
+"cost": "free",
+"paid": false,
+"stipend": null,
+"level": [
+"graduate"
+],
+"fields": [
+"medicine-health"
+],
+"remote": false,
+"grades": "dental graduates",
+"opens": null,
+"deadline": "2027-10-15",
+"deadline_note": "Annual: HMC page states a 15 October deadline, notification 31 October, start 1 January. The 2026 date has passed; 15 Oct 2027 is the expected next date, confirm on the page.",
+"event_dates": null,
+"duration": {
+"en": "1 year (rotations in 6 specialties)",
+"ka": "1 წელი (6 სპეციალობაში როტაცია)",
+"ar": "سنة (تناوب في 6 تخصصات)"
+},
+"summary": {
+"en": "Annual internship for newly graduated dentists at HMC, rotating through six dental specialties. Open to Qatari and GCC citizens and residents with first-degree family sponsorship.",
+"ka": "ყოველწლიური ინტერნატურა ახალდამთავრებული სტომატოლოგებისთვის ჰამადის კორპორაციაში, ექვს სპეციალობაში როტაციით.",
+"ar": "برنامج امتياز سنوي لأطباء الأسنان حديثي التخرج في مؤسسة حمد الطبية بالتناوب على ست تخصصات."
+},
+"about": {
+"en": "The HMC Dental Internship gives new dental graduates supervised rotations in Periodontics, Orthodontics, Endodontics, Prosthodontics, Pedodontics and Oral and Maxillofacial Surgery. There is one intake a year starting on 1 January.\n\nApplicants need a BDS or equivalent from a recognised school obtained within the past three years (final-year students may apply if they graduate before the start), a pass in the Ministry of Public Health DHP General Dentist Qualifying Exam, and an English score (IELTS 6.5, TOEFL iBT 80 or OET Dentistry C+). Applications must be complete, with all exam scores, before submission."
+},
+"highlights": {
+"en": [
+"One intake a year, starting 1 January",
+"Rotations in six dental specialties",
+"Deadline 15 October, results by 31 October"
+],
+"ka": [
+"წელიწადში ერთი მიღება, იწყება 1 იანვარს",
+"როტაცია ექვს სტომატოლოგიურ სპეციალობაში",
+"ბოლო ვადა 15 ოქტომბერი"
+],
+"ar": [
+"دفعة واحدة سنويا تبدأ في 1 يناير",
+"تناوب في ست تخصصات للأسنان",
+"آخر موعد 15 أكتوبر والإعلان بحلول 31 أكتوبر"
+]
+},
+"eligibility": {
+"en": "Qatari or GCC citizens, or holders of a valid Qatar residency permit under first-degree family sponsorship. Employer-sponsored applicants and international applicants without valid Qatari residency are not accepted. BDS (or equivalent) within the past three years; DHP General Dentist Qualifying Exam passed; English score as stated. Previous HMC dental interns are ineligible."
+},
+"how_to_apply": [
+"Pass the DHP General Dentist Qualifying Exam and get a valid English score",
+"Follow the procedure on the programme's How to Apply page on hamad.qa",
+"Submit a complete application with all exam scores by 15 October",
+"Queries: falabdulla4@hamad.qa (Sunday-Thursday, Qatar time)"
+],
+"costs": {
+"en": "The page does not state pay or fees."
+},
+"keywords": [
+"dental",
+"dentist",
+"internship",
+"hamad",
+"hmc",
+"qatar",
+"gcc"
+],
+"url": "https://hamad.qa/EN/Education-and-research/Medical-Education/Post-Graduate-Programs/Pages/Internship-Training-Program-for-Dental-Graduates.aspx",
+"apply_url": "https://hamad.qa/EN/Education-and-research/Medical-Education/Post-Graduate-Programs/Pages/Internship-Training-Program-for-Dental-Graduates.aspx",
+"sources": [
+"https://hamad.qa/EN/Education-and-research/Medical-Education/Post-Graduate-Programs/Pages/Internship-Training-Program-for-Dental-Graduates.aspx"
+],
+"score": 6,
+"score_reason": "Real annual programme with exact residency rules; narrow audience, pay not stated."
+},
+{
+"section": "internship",
+"family": "internship",
+"country": {
+"en": "Qatar",
+"ka": "ყატარი",
+"ar": "قطر"
+},
+"iso": "QA",
+"flag": "🇶🇦",
+"region": "middle-east",
+"verified_at": "2026-11-16",
+"premium": false,
+"id": "cbq-student-sponsorship-programme",
+"type": "sponsorship with annual internship (Qatari undergraduates)",
+"org": "Commercial Bank of Qatar",
+"name": {
+"en": "Commercial Bank Student Sponsorship Programme (with annual internship)",
+"ka": "Commercial Bank-ის სტუდენტთა სპონსორობის პროგრამა (წლიური სტაჟირებით)",
+"ar": "برنامج رعاية الطلاب في البنك التجاري (مع تدريب سنوي)"
+},
+"city": "Doha",
+"lat": 25.32,
+"lon": 51.527,
+"cost": "funded",
+"paid": true,
+"stipend": {
+"en": "Monthly financial support (amount not published) plus a four-week annual internship"
+},
+"level": [
+"bachelor"
+],
+"fields": [
+"business",
+"economics"
+],
+"remote": false,
+"grades": "university",
+"opens": null,
+"deadline": null,
+"deadline_note": "No deadline published; apply through the bank's career portal.",
+"event_dates": null,
+"duration": {
+"en": "4-week internship each year until graduation",
+"ka": "4-კვირიანი სტაჟირება ყოველწლიურად",
+"ar": "تدريب 4 أسابيع كل عام حتى التخرج"
+},
+"summary": {
+"en": "Commercial Bank sponsors Qatari undergraduates with monthly support and a four-week internship every year, with guaranteed employment after graduation.",
+"ka": "Commercial Bank აფინანსებს ყატარელ ბაკალავრიატის სტუდენტებს ყოველთვიური დახმარებითა და წლიური 4-კვირიანი სტაჟირებით.",
+"ar": "يرعى البنك التجاري الطلاب القطريين بدعم شهري وتدريب لمدة أربعة أسابيع كل عام مع ضمان التوظيف بعد التخرج."
+},
+"about": {
+"en": "Commercial Bank of Qatar's Student Sponsorship Programme supports bachelor's students with monthly financial support, a four-week internship each year for real business exposure, and direct placement in a position at the bank after graduation with no job search.\n\nIt is a nationality-restricted programme for Qatari nationals. Applicants apply through the bank's SuccessFactors career portal via the Apply Now link on the programme page."
+},
+"highlights": {
+"en": [
+"Monthly financial support while studying",
+"Four-week internship every year",
+"Guaranteed placement at the bank after graduation"
+],
+"ka": [
+"ყოველთვიური ფინანსური დახმარება სწავლისას",
+"წლიური 4-კვირიანი სტაჟირება",
+"დასაქმების გარანტია დამთავრების შემდეგ"
+],
+"ar": [
+"دعم مالي شهري أثناء الدراسة",
+"تدريب أربعة أسابيع كل عام",
+"ضمان التوظيف في البنك بعد التخرج"
+]
+},
+"eligibility": {
+"en": "Qatari nationals or individuals born to Qatari mothers only. Must be pursuing a bachelor's degree, have completed the second year of university, and have a minimum GPA of 3.00. Not open to other nationalities."
+},
+"how_to_apply": [
+"Check you meet the nationality, year-of-study and GPA rules",
+"Click Apply Now on the programme page (bank career portal)",
+"Contact Learning and Development at the bank (marweh.fooladi@cbq.qa, +974 4449 0074) with questions"
+],
+"costs": {
+"en": "Free to join; the bank pays monthly support (amount not published)."
+},
+"keywords": [
+"commercial bank",
+"cbq",
+"banking",
+"sponsorship",
+"qatari",
+"internship",
+"finance"
+],
+"url": "https://cbq.com.qa/en/about-us/careers/student-sponsorship",
+"apply_url": "https://cbq.com.qa/en/about-us/careers/student-sponsorship",
+"sources": [
+"https://cbq.com.qa/en/about-us/careers/student-sponsorship"
+],
+"score": 6,
+"score_reason": "Strong employer-backed route but Qatari nationals only."
+},
+{
+"section": "internship",
+"family": "internship",
+"country": {
+"en": "Qatar",
+"ka": "ყატარი",
+"ar": "قطر"
+},
+"iso": "QA",
+"flag": "🇶🇦",
+"region": "middle-east",
+"verified_at": "2026-11-16",
+"premium": false,
+"id": "cbq-young-bankers-programme",
+"type": "high-school summer internship",
+"org": "Commercial Bank of Qatar",
+"name": {
+"en": "Commercial Bank Young Bankers Programme",
+"ka": "Commercial Bank-ის Young Bankers პროგრამა",
+"ar": "برنامج المصرفيين الشباب في البنك التجاري"
+},
+"city": "Doha",
+"lat": 25.32,
+"lon": 51.527,
+"cost": "funded",
+"paid": true,
+"stipend": {
+"en": "Monthly stipend (amount not published)"
+},
+"level": [
+"high-school"
+],
+"fields": [
+"business",
+"economics"
+],
+"remote": false,
+"grades": "13-17",
+"opens": null,
+"deadline": null,
+"deadline_note": "Summer programme run each year (2025 edition ended Aug 2025); registration dates are announced by the bank each year. Details taken from search summaries; the programme page itself blocked automated access, so confirm on the page.",
+"event_dates": null,
+"duration": {
+"en": "Summer (several weeks)",
+"ka": "ზაფხული (რამდენიმე კვირა)",
+"ar": "الصيف (عدة أسابيع)"
+},
+"summary": {
+"en": "A summer internship at Commercial Bank for school-age students in Qatar, with branch and office placements and a monthly stipend.",
+"ka": "ზაფხულის სტაჟირება Commercial Bank-ში ყატარში მცხოვრები მოსწავლეებისთვის, ყოველთვიური სტიპენდიით.",
+"ar": "تدريب صيفي في البنك التجاري لطلاب المدارس المقيمين في قطر مع مكافأة شهرية."
+},
+"about": {
+"en": "Young Bankers is Commercial Bank's summer internship for school students aged 13 to 17 living in Qatar. Participants are placed in branches and departments, learn banking basics and receive a monthly stipend.\n\nThe bank announces each year's registration; the 2025 edition concluded in August 2025."
+},
+"highlights": {
+"en": [
+"Banking work experience for school students",
+"Monthly stipend",
+"Open to students living in Qatar"
+],
+"ka": [
+"საბანკო გამოცდილება მოსწავლეებისთვის",
+"ყოველთვიური სტიპენდია",
+"ყატარში მცხოვრები მოსწავლეებისთვის"
+],
+"ar": [
+"خبرة مصرفية لطلاب المدارس",
+"مكافأة شهرية",
+"للطلاب المقيمين في قطر"
+]
+},
+"eligibility": {
+"en": "Students aged 13 to 17 resident in Qatar (per press coverage; nationality rule not confirmed on the page). Parental registration is required."
+},
+"how_to_apply": [
+"Watch the bank's careers and news pages for the yearly registration call",
+"Register through the bank's Young Bankers page with parent or guardian details"
+],
+"costs": {
+"en": "Free; stipend paid by the bank."
+},
+"keywords": [
+"young bankers",
+"commercial bank",
+"high school internship",
+"qatar",
+"summer"
+],
+"url": "https://cbq.qa/EN/Careers/Development/Pages/Young-Bankers.aspx",
+"apply_url": "https://cbq.qa/EN/Careers/Development/Pages/Young-Bankers.aspx",
+"sources": [
+"https://cbq.qa/EN/Careers/Development/Pages/Young-Bankers.aspx",
+"https://www.gulf-times.com/story/558344/commercial-bank-launches-young-bankers-internship-programme"
+],
+"score": 5,
+"score_reason": "Good high-school programme but details not verified on the page itself."
+},
+{
+"section": "internship",
+"family": "internship",
+"country": {
+"en": "Qatar",
+"ka": "ყატარი",
+"ar": "قطر"
+},
+"iso": "QA",
+"flag": "🇶🇦",
+"region": "middle-east",
+"verified_at": "2026-11-16",
+"premium": false,
+"id": "aspire-zone-internship-programme",
+"type": "internship (undergraduates and fresh graduates)",
+"org": "Aspire Zone Foundation",
+"name": {
+"en": "Aspire Zone Foundation Internship Programme",
+"ka": "Aspire Zone Foundation-ის სტაჟირების პროგრამა",
+"ar": "برنامج التدريب في مؤسسة أسباير زون"
+},
+"city": "Doha",
+"lat": 25.263,
+"lon": 51.442,
+"cost": "free",
+"paid": null,
+"stipend": null,
+"level": [
+"bachelor",
+"graduate"
+],
+"fields": [
+"any"
+],
+"remote": false,
+"grades": "18-30",
+"opens": null,
+"deadline": null,
+"deadline_note": "Rolling; no dates published. Apply by email.",
+"event_dates": null,
+"duration": {
+"en": "Not stated on the page",
+"ka": "გვერდზე არ არის მითითებული",
+"ar": "غير محددة في الصفحة"
+},
+"summary": {
+"en": "Internship at Aspire Zone Foundation (Khalifa Stadium, Aspetar and the Aspire Zone sports and events complex) for Qatari nationals and sponsor-approved residents.",
+"ka": "სტაჟირება Aspire Zone Foundation-ში ყატარელებისთვის და სპონსორის თანხმობით რეზიდენტებისთვის.",
+"ar": "تدريب في مؤسسة أسباير زون للقطريين والمقيمين بموافقة الكفيل."
+},
+"about": {
+"en": "Aspire Zone Foundation's National Development team runs an internship programme for fresh graduates with no prior experience and for undergraduates who have completed at least 60 credit hours. Applicants must have a major relevant to the programme.\n\nRequirements: GPA 2.0 or above (or equivalent), age 18 to 30, and professional English fluency; bilingual English and Arabic speakers are preferred. Duration and pay are not stated on the page."
+},
+"highlights": {
+"en": [
+"Open to Qatar residents with sponsor approval, not only Qataris",
+"Undergraduates (60+ credits) and fresh graduates",
+"Apply by email"
+],
+"ka": [
+"ღიაა სპონსორის თანხმობით რეზიდენტებისთვისაც",
+"ბაკალავრები (60+ კრედიტი) და ახალი კურსდამთავრებულები",
+"განაცხადი ელფოსტით"
+],
+"ar": [
+"متاح للمقيمين بموافقة الكفيل وليس للقطريين فقط",
+"طلاب أتموا 60 ساعة معتمدة وخريجون جدد",
+"التقديم عبر البريد الإلكتروني"
+]
+},
+"eligibility": {
+"en": "Qatari nationals and Qatar residents who have their sponsor's approval. Fresh graduates with no prior experience, or undergraduates with at least 60 credit hours. GPA 2.0+, age 18-30, relevant major, professional English."
+},
+"how_to_apply": [
+"Prepare your CV and transcript",
+"Email NationalDevelopment.AZF@aspirezone.qa to apply",
+"Include your sponsor's approval if you are a resident"
+],
+"costs": {
+"en": "Pay is not stated on the page."
+},
+"keywords": [
+"aspire zone",
+"aspetar",
+"sports",
+"internship",
+"qatar",
+"residents"
+],
+"url": "https://aspirezone.qa/en/careers/national-development/internship-programme",
+"apply_url": "https://aspirezone.qa/en/careers/national-development/internship-programme",
+"sources": [
+"https://aspirezone.qa/en/careers/national-development/internship-programme"
+],
+"score": 6,
+"score_reason": "Open to residents; rolling; details thin."
+},
+{
+"section": "internship",
+"family": "internship",
+"country": {
+"en": "Qatar",
+"ka": "ყატარი",
+"ar": "قطر"
+},
+"iso": "QA",
+"flag": "🇶🇦",
+"region": "middle-east",
+"verified_at": "2026-11-16",
+"premium": false,
+"id": "qia-internship-summer-training",
+"type": "summer training (final-year students)",
+"org": "Qatar Investment Authority",
+"name": {
+"en": "QIA Internship / Summer Training",
+"ka": "QIA-ის სტაჟირება / ზაფხულის ტრენინგი",
+"ar": "برنامج التدريب الصيفي في جهاز قطر للاستثمار"
+},
+"city": "Doha",
+"lat": 25.32,
+"lon": 51.527,
+"cost": "free",
+"paid": null,
+"stipend": null,
+"level": [
+"bachelor"
+],
+"fields": [
+"economics",
+"business"
+],
+"remote": false,
+"grades": "final-year",
+"opens": null,
+"deadline": null,
+"deadline_note": "No dates published; apply by email.",
+"event_dates": null,
+"duration": {
+"en": "2 to 5 weeks",
+"ka": "2-დან 5 კვირამდე",
+"ar": "من أسبوعين إلى 5 أسابيع"
+},
+"summary": {
+"en": "Two- to five-week on-the-job training at Qatar's sovereign wealth fund for final-year college students.",
+"ka": "2-5 კვირიანი პრაქტიკული ტრენინგი ყატარის სუვერენულ ფონდში.",
+"ar": "تدريب عملي من أسبوعين إلى خمسة أسابيع في صندوق الثروة السيادي القطري لطلاب السنة النهائية."
+},
+"about": {
+"en": "QIA offers internship / summer training of typically two to five weeks of on-the-job training to final-year college students studying a relevant qualification at a reputable institution.\n\nThe careers page does not list nationality rules, pay or dates. Apply by emailing the internship team. QIA's separate Journey graduate programme was closed when checked and is not listed."
+},
+"highlights": {
+"en": [
+"Placement at a global sovereign wealth fund",
+"2 to 5 weeks of on-the-job training",
+"Apply by email"
+],
+"ka": [
+"სტაჟირება გლობალურ სუვერენულ ფონდში",
+"2-5 კვირა",
+"განაცხადი ელფოსტით"
+],
+"ar": [
+"تدريب في صندوق ثروة سيادي عالمي",
+"من 2 إلى 5 أسابيع",
+"التقديم عبر البريد الإلكتروني"
+]
+},
+"eligibility": {
+"en": "Final-year students in a relevant qualification at a reputable institution. Nationality: not stated on the page. Pay: not stated."
+},
+"how_to_apply": [
+"Confirm you are in your final year in a relevant field",
+"Email QIA-internship@qia.qa with your CV and details"
+],
+"costs": {
+"en": "Not stated."
+},
+"keywords": [
+"qia",
+"sovereign wealth",
+"investment",
+"internship",
+"qatar",
+"finance"
+],
+"url": "https://qia.qa/en/Careers/Pages/default.aspx",
+"apply_url": "https://qia.qa/en/Careers/Pages/default.aspx",
+"sources": [
+"https://qia.qa/en/Careers/Pages/default.aspx"
+],
+"score": 6,
+"score_reason": "Prestigious but short and detail-poor."
+},
+{
+"section": "internship",
+"family": "internship",
+"country": {
+"en": "Qatar",
+"ka": "ყატარი",
+"ar": "قطر"
+},
+"iso": "QA",
+"flag": "🇶🇦",
+"region": "middle-east",
+"verified_at": "2026-11-16",
+"premium": false,
+"id": "kahramaa-field-training-program",
+"type": "field training (university and high-school students)",
+"org": "Kahramaa (Qatar General Electricity & Water Corporation)",
+"name": {
+"en": "Kahramaa Field Training Program",
+"ka": "Kahramaa-ს საველე ტრენინგის პროგრამა",
+"ar": "برنامج التدريب الميداني في كهرماء"
+},
+"city": "Doha",
+"lat": 25.29,
+"lon": 51.531,
+"cost": "free",
+"paid": null,
+"stipend": null,
+"level": [
+"high-school",
+"bachelor"
+],
+"fields": [
+"engineering",
+"environment"
+],
+"remote": false,
+"grades": "high school, university",
+"opens": null,
+"deadline": null,
+"deadline_note": "Rolling; hours set by each school's requirement.",
+"event_dates": null,
+"duration": {
+"en": "Set by each school or university (field training hours)",
+"ka": "განისაზღვრება სასწავლებლის მოთხოვნით",
+"ar": "حسب متطلبات كل مؤسسة تعليمية"
+},
+"summary": {
+"en": "Field training at Qatar's electricity and water utility for university and high-school students whose study matches Kahramaa's work.",
+"ka": "საველე ტრენინგი ყატარის ელექტროენერგიისა და წყლის კომპანიაში უნივერსიტეტისა და სკოლის მოსწავლეებისთვის.",
+"ar": "تدريب ميداني في المؤسسة العامة القطرية للكهرباء والماء لطلاب الجامعات والمدارس."
+},
+"about": {
+"en": "Kahramaa provides field training to university and high-school students, for a number of hours based on each educational institution's requirements. Training areas must match Kahramaa's specialties (electricity, water, engineering, administration).\n\nThe page gives no nationality rule, pay or application method; contact Kahramaa through its contact page or WhatsApp 30303991."
+},
+"highlights": {
+"en": [
+"Utility training for school and university students",
+"Hours set by your institution",
+"Not limited to Qataris on the page"
+],
+"ka": [
+"ტრენინგი სკოლისა და უნივერსიტეტის მოსწავლეებისთვის",
+"საათები განისაზღვრება სასწავლებლით",
+"გვერდზე ეროვნების შეზღუდვა არ არის"
+],
+"ar": [
+"تدريب لطلاب المدارس والجامعات",
+"الساعات حسب مؤسستك التعليمية",
+"لا يحدد الموقع شرط الجنسية"
+]
+},
+"eligibility": {
+"en": "University and high-school students whose field matches Kahramaa's specialties. The page does not state any nationality requirement."
+},
+"how_to_apply": [
+"Ask your school or university training office to contact Kahramaa",
+"Or contact Kahramaa on WhatsApp 30303991 / via its Contact Us page"
+],
+"costs": {
+"en": "Not stated."
+},
+"keywords": [
+"kahramaa",
+"field training",
+"engineering",
+"utility",
+"qatar",
+"high school"
+],
+"url": "https://www.km.qa/Qatarization/Pages/FieldTrainingProgram.aspx",
+"apply_url": "https://www.km.qa/Qatarization/Pages/FieldTrainingProgram.aspx",
+"sources": [
+"https://www.km.qa/Qatarization/Pages/FieldTrainingProgram.aspx"
+],
+"score": 4,
+"score_reason": "Real page but unpaid placement with no application form."
+},
+{
+"section": "internship",
+"family": "internship",
+"country": {
+"en": "Qatar",
+"ka": "ყატარი",
+"ar": "قطر"
+},
+"iso": "QA",
+"flag": "🇶🇦",
+"region": "middle-east",
+"verified_at": "2026-11-16",
+"premium": false,
+"id": "ashghal-field-training-programme",
+"type": "field training (undergraduates)",
+"org": "Public Works Authority (Ashghal)",
+"name": {
+"en": "Ashghal Field Training Programme",
+"ka": "Ashghal-ის საველე ტრენინგის პროგრამა",
+"ar": "برنامج التدريب الميداني في هيئة الأشغال العامة (أشغال)"
+},
+"city": "Doha",
+"lat": 25.3,
+"lon": 51.49,
+"cost": "free",
+"paid": null,
+"stipend": null,
+"level": [
+"bachelor"
+],
+"fields": [
+"engineering"
+],
+"remote": false,
+"grades": "university",
+"opens": null,
+"deadline": null,
+"deadline_note": "Rolling; apply by email with the form.",
+"event_dates": null,
+"duration": {
+"en": "Not stated on the page",
+"ka": "გვერდზე არ არის მითითებული",
+"ar": "غير محددة في الصفحة"
+},
+"summary": {
+"en": "Field training at Qatar's public works authority, with priority for undergraduates who must complete training to graduate.",
+"ka": "საველე ტრენინგი ყატარის საზოგადოებრივი სამუშაოების სააგენტოში, პრიორიტეტი ბაკალავრებს.",
+"ar": "تدريب ميداني في هيئة الأشغال العامة مع الأولوية لطلاب البكالوريوس."
+},
+"about": {
+"en": "Ashghal's Field Training Programme gives young people experience in real work environments on infrastructure projects. Priority goes to undergraduates required to complete field training to graduate.\n\nThe page does not state nationality rules, duration or pay."
+},
+"highlights": {
+"en": [
+"Infrastructure work experience",
+"Priority for students who need training credit",
+"Apply by email with a form"
+],
+"ka": [
+"ინფრასტრუქტურული გამოცდილება",
+"პრიორიტეტი სავალდებულო პრაქტიკის მქონე სტუდენტებს",
+"განაცხადი ელფოსტით"
+],
+"ar": [
+"خبرة في مشاريع البنية التحتية",
+"الأولوية للطلاب المطلوب منهم تدريب للتخرج",
+"التقديم بالبريد الإلكتروني"
+]
+},
+"eligibility": {
+"en": "Undergraduate students, with priority to those required to do field training to graduate. No nationality rule stated on the page."
+},
+"how_to_apply": [
+"Download the Internship Application Form from the Ashghal careers page",
+"Fill it in and email it with a copy of your ID to internship@ashghal.gov.qa"
+],
+"costs": {
+"en": "Not stated."
+},
+"keywords": [
+"ashghal",
+"public works",
+"civil engineering",
+"field training",
+"qatar"
+],
+"url": "https://www.ashghal.gov.qa/en/careers",
+"apply_url": "https://www.ashghal.gov.qa/en/careers",
+"sources": [
+"https://www.ashghal.gov.qa/en/careers"
+],
+"score": 5,
+"score_reason": "Clear email route; engineering students."
+},
+{
+"section": "internship",
+"family": "internship",
+"country": {
+"en": "Qatar",
+"ka": "ყატარი",
+"ar": "قطر"
+},
+"iso": "QA",
+"flag": "🇶🇦",
+"region": "middle-east",
+"verified_at": "2026-11-16",
+"premium": false,
+"id": "mol-maharat-summer-training-programme",
+"type": "summer training (Qatari secondary and university students)",
+"org": "Ministry of Labour (Qatar)",
+"name": {
+"en": "Ministry of Labour Maharat Summer Training Programme",
+"ka": "შრომის სამინისტროს Maharat ზაფხულის ტრენინგი",
+"ar": "برنامج مهارات للتدريب الصيفي - وزارة العمل"
+},
+"city": "Doha",
+"lat": 25.29,
+"lon": 51.531,
+"cost": "free",
+"paid": null,
+"stipend": null,
+"level": [
+"high-school",
+"bachelor"
+],
+"fields": [
+"any"
+],
+"remote": false,
+"grades": "secondary and university",
+"opens": null,
+"deadline": null,
+"deadline_note": "The 2026 edition launched 11 July 2026 (2023 had a similar internship scheme); next call expected summer 2027 but not announced. No direct URL for registration found.",
+"event_dates": null,
+"duration": {
+"en": "Summer vacation",
+"ka": "ზაფხულის არდადეგები",
+"ar": "إجازة الصيف"
+},
+"summary": {
+"en": "Ministry of Labour summer placements with private-sector partners for Qatari secondary and university students.",
+"ka": "შრომის სამინისტროს ზაფხულის განთავსება კერძო სექტორის პარტნიორებთან ყატარელი მოსწავლეებისა და სტუდენტებისთვის.",
+"ar": "تدريب صيفي بالتعاون مع شركاء القطاع الخاص للطلاب القطريين."
+},
+"about": {
+"en": "Maharat 2026 was launched on 11 July 2026 by the Ministry of Labour's Qualifying and Skills Development Department with private-sector partners, across sectors including financial services, logistics, manufacturing, construction, education, tourism, IT and healthcare. Participating banks in the 2023 scheme included QIIB and Doha Bank.\n\nIt is for Qatari secondary and university students and children of Qatari women who register on the Ministry's website. Dates, stipend and registration deadlines were not stated in press coverage."
+},
+"highlights": {
+"en": [
+"Placements across many sectors incl. banking",
+"Qatari nationals and children of Qatari women only",
+"Registration via the Ministry's website"
+],
+"ka": [
+"განთავსება სხვადასხვა სექტორში, მათ შორის საბანკოში",
+"მხოლოდ ყატარელები და ყატარელი დედების შვილები",
+"რეგისტრაცია სამინისტროს საიტზე"
+],
+"ar": [
+"تدريب في قطاعات متعددة منها البنوك",
+"للقطريين وأبناء القطريات فقط",
+"التسجيل عبر موقع الوزارة"
+]
+},
+"eligibility": {
+"en": "Qatari secondary and university students, and children of Qatari women, registered through the Ministry's website. Not open to other nationalities."
+},
+"how_to_apply": [
+"Watch the Ministry of Labour website and QNA for the yearly call",
+"Register on the Ministry's website when the call opens"
+],
+"costs": {
+"en": "Stipend not stated."
+},
+"keywords": [
+"ministry of labour",
+"maharat",
+"summer training",
+"qatari",
+"internship"
+],
+"url": "https://qna.org.qa/en/News-Area/News/2026-7/11/ministry-of-labour-launches-maharat-2026-summer-training-programme",
+"apply_url": "https://www.mol.gov.qa",
+"sources": [
+"https://qna.org.qa/en/News-Area/News/2026-7/11/ministry-of-labour-launches-maharat-2026-summer-training-programme",
+"https://www.qatar-tribune.com/article/243797/latest-news/labour-ministry-launches-summer-training-programme"
+],
+"score": 4,
+"score_reason": "Nationals only; no official programme page found; next call unannounced."
+}
+]

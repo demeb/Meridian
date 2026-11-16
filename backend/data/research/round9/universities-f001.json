@@ -1,0 +1,875 @@
+[
+ {
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "duolingo_min": null,
+  "toefl_min": null,
+  "ielts_min": null,
+  "other_tests": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "scholarships": [],
+  "tests": null,
+  "gpa_note": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "students": null,
+  "aid_intl": null,
+  "verified_at": "2026-11-16",
+  "id": "jahangirnagar-university",
+  "name": {
+   "en": "Jahangirnagar University",
+   "ka": "ჯაჰანგირნაგარის უნივერსიტეტი",
+   "ar": "جامعة جاهانجيرناغار"
+  },
+  "iso": "BD",
+  "city": "Dhaka",
+  "lat": 23.883,
+  "lon": 90.269,
+  "type": "public",
+  "website": "https://www.juniv.edu",
+  "platform": "Direct (national-level undergraduate admission)",
+  "application_url": "https://bachelor.ju-admission.com",
+  "intakes": null,
+  "languages": [
+   "Bengali",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "fields": [
+   "natural-sciences",
+   "social-sciences",
+   "humanities",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Sciences",
+    "Social sciences",
+    "Humanities",
+    "Business"
+   ],
+   "ka": [
+    "მეცნიერებები",
+    "სოციალური მეცნიერებები",
+    "ჰუმანიტარული მეცნიერებები",
+    "ბიზნესი"
+   ],
+   "ar": [
+    "العلوم",
+    "العلوم الاجتماعية",
+    "العلوم الإنسانية",
+    "الأعمال"
+   ]
+  },
+  "summary": {
+   "en": "A public residential university near Dhaka. Bachelor admission runs through its own admission portal; the site does not describe an international route.",
+   "ka": "საჯარო საცხოვრებელი უნივერსიტეტი დაკასთან. ბაკალავრის მიღება მიმდინარეობს საკუთარი პორტალით; საიტზე საერთაშორისო გზა აღწერილი არ არის.",
+   "ar": "جامعة حكومية سكنية قرب دكا. يتم القبول في البكالوريوس عبر بوابتها الخاصة ولا يصف الموقع مسارا دوليا."
+  },
+  "about": {
+   "en": "Jahangirnagar University is a public residential university in Savar, near Dhaka. Bachelor (Honours) admission is run through the official admission portal bachelor.ju-admission.com. The main website does not publish rules for international applicants; write to registrar@juniv.edu.",
+   "ka": "ჯაჰანგირნაგარის უნივერსიტეტი საჯარო საცხოვრებელი უნივერსიტეტია სავარში, დაკასთან. ბაკალავრის (Honours) მიღება მიმდინარეობს პორტალით bachelor.ju-admission.com. საერთაშორისო აპლიკანტების წესები არ არის გამოქვეყნებული; მიწერეთ registrar@juniv.edu.",
+   "ar": "جامعة جاهانجيرناغار جامعة حكومية سكنية في سافار قرب دكا. يتم القبول في البكالوريوس (Honours) عبر بوابة bachelor.ju-admission.com. لا ينشر الموقع قواعد للمتقدمين الدوليين؛ راسل registrar@juniv.edu."
+  },
+  "requirements": null,
+  "keywords": [
+   "bangladesh",
+   "dhaka"
+  ],
+  "sources": [
+   "https://www.juniv.edu/",
+   "https://bachelor.ju-admission.com",
+   "https://bachelor.ju-admission.com/"
+  ]
+ },
+ {
+  "id": "mutah-university",
+  "name": {
+   "en": "Mutah University",
+   "ka": "მუთას უნივერსიტეტი",
+   "ar": "جامعة مؤتة"
+  },
+  "iso": "JO",
+  "city": "Mu'tah",
+  "lat": 31.092,
+  "lon": 35.696,
+  "type": "public",
+  "website": "https://www.mutah.edu.jo",
+  "platform": "Unified admission portal for international students (Ministry of Higher Education, Study in Jordan)",
+  "application_url": "https://www.mutah.edu.jo/ar/admission/Pages/nternational_Stu.aspx",
+  "intakes": [
+   "September"
+  ],
+  "deadline": null,
+  "deadline_note": {
+   "en": "2026/27 first-semester applications for non-Jordanians opened 1 June 2026 via the Ministry's unified portal; no closing date is published on the university page.",
+   "ka": "2026/27 პირველი სემესტრის განაცხადები არაიორდანელებისთვის გაიხსნა 2026 წლის 1 ივნისს სამინისტროს ერთიანი პორტალით; დახურვის თარიღი უნივერსიტეტის გვერდზე არ არის გამოქვეყნებული.",
+   "ar": "فُتح التقديم للطلبة غير الأردنيين للفصل الأول 2026/2027 في 1-6-2026 عبر البوابة الموحدة للوزارة، ولا يُنشر موعد إغلاق في صفحة الجامعة."
+  },
+  "tuition_intl": {
+   "amount": 70,
+   "currency": "USD",
+   "per": "credit hour",
+   "note": "International bachelor programme: USD 70 per credit hour for arts, sharia, law, social sciences and business; USD 100 for science, engineering, agriculture and nursing; USD 150 pharmacy; USD 250 medicine. Plus a one-time USD 390 new-student fee and USD 330 per semester."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Arabic",
+   "English"
+  ],
+  "english_bachelors": "none",
+  "qualifications": null,
+  "qualifications_note": {
+   "en": "International certificates are evaluated by the Jordanian Ministry of Higher Education; a certified passport copy is required for non-Jordanians.",
+   "ka": "საერთაშორისო სერტიფიკატებს აფასებს იორდანიის უმაღლესი განათლების სამინისტრო; არაიორდანელებს სჭირდებათ პასპორტის დამოწმებული ასლი.",
+   "ar": "تقيّم وزارة التعليم العالي الأردنية الشهادات الدولية، ويشترط لغير الأردنيين نسخة مصدقة عن جواز السفر."
+  },
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "medicine-health",
+   "engineering",
+   "natural-sciences",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Medicine",
+    "Engineering",
+    "Science",
+    "Law"
+   ],
+   "ka": [
+    "მედიცინა",
+    "ინჟინერია",
+    "მეცნიერება",
+    "სამართალი"
+   ],
+   "ar": [
+    "الطب",
+    "الهندسة",
+    "العلوم",
+    "القانون"
+   ]
+  },
+  "summary": {
+   "en": "A public university in Karak, Jordan with an international bachelor programme for non-Jordanians. Fees run from USD 70 to 250 per credit hour.",
+   "ka": "სახელმწიფო უნივერსიტეტი ქარაქში, იორდანია, არაიორდანელებისთვის საერთაშორისო საბაკალავრო პროგრამით. საფასური 70-დან 250 აშშ დოლარამდეა კრედიტზე.",
+   "ar": "جامعة حكومية في الكرك بالأردن لديها برنامج بكالوريوس دولي لغير الأردنيين. تتراوح الرسوم بين 70 و250 دولارا للساعة المعتمدة."
+  },
+  "about": {
+   "en": "Mutah University is a public university in southern Jordan. Non-Jordanians apply online through the Ministry of Higher Education's unified portal for the International Bachelor Programme. Conditions per major are shown on the portal. Fees are in US dollars per credit hour, with a one-time new-student fee and a semester fee. Teaching is mainly in Arabic.",
+   "ka": "მუთას უნივერსიტეტი სამხრეთ იორდანიის სახელმწიფო უნივერსიტეტია. არაიორდანელები განაცხადს ონლაინ აგზავნიან უმაღლესი განათლების სამინისტროს ერთიანი პორტალით საერთაშორისო საბაკალავრო პროგრამაზე. საფასური აშშ დოლარშია კრედიტზე, პლუს ერთჯერადი და სემესტრული საფასური. სწავლება ძირითადად არაბულია.",
+   "ar": "جامعة مؤتة جامعة حكومية في جنوب الأردن. يقدم غير الأردنيين طلبهم إلكترونيا عبر البوابة الموحدة لوزارة التعليم العالي لبرنامج البكالوريوس الدولي، وتظهر شروط كل تخصص في البوابة. الرسوم بالدولار للساعة المعتمدة مع رسوم مستجدين لمرة واحدة ورسوم فصلية. التدريس بالعربية غالبا."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published on the pages reviewed.",
+   "ka": "საერთაშორისო ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება განხილულ გვერდებზე არ არის გამოქვეყნებული.",
+   "ar": "لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين منشورة في الصفحات التي تمت مراجعتها."
+  },
+  "tests": null,
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "passport",
+    "label": {
+     "en": "Passport copy",
+     "ka": "პასპორტის ასლი",
+     "ar": "نسخة عن جواز السفر"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalency of the school certificate (Ministry of Education / Higher Education)",
+     "ka": "სკოლის სერტიფიკატის ეკვივალენტობა (სამინისტროს მიერ)",
+     "ar": "معادلة الشهادة الثانوية من الوزارة"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "One-time new-student fee (USD 390, paid on acceptance)",
+     "ka": "ახალი სტუდენტის ერთჯერადი საფასური (390 აშშ დოლარი, ირიცხება მიღებისას)",
+     "ar": "رسوم المستجدين لمرة واحدة (390 دولارا تدفع عند القبول)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "jordan",
+   "mutah",
+   "karak"
+  ],
+  "sources": [
+   "https://www.mutah.edu.jo/",
+   "http://www.studyinjordan.jo/Ar/",
+   "https://www.mutah.edu.jo/Pages/University-fees.aspx",
+   "https://www.mutah.edu.jo/ar/admission/Pages/nternational_Stu.aspx",
+   "https://www.mutah.edu.jo/Documents/Fess/1.1.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "osaka-metropolitan-university",
+  "name": {
+   "en": "Osaka Metropolitan University",
+   "ka": "ოსაკას მეტროპოლიტენ უნივერსიტეტი",
+   "ar": "جامعة أوساكا متروبوليتان"
+  },
+  "iso": "JP",
+  "city": "Osaka",
+  "lat": 34.595,
+  "lon": 135.507,
+  "type": "public",
+  "website": "https://www.omu.ac.jp",
+  "platform": "Direct (special selection for privately financed international students)",
+  "application_url": "https://www.omu.ac.jp/en/admissions/apply/",
+  "intakes": [
+   "April"
+  ],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 535800,
+   "currency": "JPY",
+   "per": "year",
+   "note": "AY2026 undergraduate figure; 2027 amount not confirmed. Admission fee 282,000 JPY for Osaka residents, 382,000 JPY for others; application fee 30,000 JPY."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Japanese",
+   "English"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "EJU"
+  ],
+  "fields": [
+   "engineering",
+   "natural-sciences",
+   "medicine-health",
+   "economics",
+   "business"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Science",
+    "Medicine and nursing",
+    "Veterinary medicine",
+    "Economics and Commerce"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "საბუნებისმეტყველო მეცნიერებები",
+    "მედიცინა და საექთნო საქმე",
+    "ვეტერინარია",
+    "ეკონომიკა და კომერცია"
+   ],
+   "ar": [
+    "الهندسة",
+    "العلوم",
+    "الطب والتمريض",
+    "الطب البيطري",
+    "الاقتصاد والتجارة"
+   ]
+  },
+  "summary": {
+   "en": "Osaka Metropolitan University is a large public university in Osaka formed in 2022. International bachelor applicants use a special selection based on EJU scores.",
+   "ka": "ოსაკას მეტროპოლიტენ უნივერსიტეტი დიდი სახელმწიფო უნივერსიტეტია ოსაკაში, დაარსებული 2022 წელს. უცხოელი ბაკალავრიატის აპლიკანტები გადიან EJU-ზე დაფუძნებულ განსაკუთრებულ შერჩევას.",
+   "ar": "جامعة أوساكا متروبوليتان جامعة حكومية كبيرة في أوساكا تأسست عام 2022. يتقدم المتقدمون الدوليون للبكالوريوس عبر انتقاء خاص يعتمد على درجات EJU."
+  },
+  "about": {
+   "en": "Osaka Metropolitan University is a public university in Osaka with faculties from letters and law to engineering, agriculture, veterinary medicine and nursing. It runs a special selection for privately financed international students every year, guided by a published application guide. Teaching is mainly in Japanese. Undergraduate tuition was 535,800 JPY a year in AY2026.",
+   "ka": "ოსაკას მეტროპოლიტენ უნივერსიტეტი სახელმწიფო უნივერსიტეტია ოსაკაში, ფაკულტეტებით ლიტერატურიდან და სამართლიდან ინჟინერიამდე, სოფლის მეურნეობამდე, ვეტერინარიამდე და საექთნო საქმემდე. ის ყოველწლიურად ატარებს განსაკუთრებულ შერჩევას კერძოდ დაფინანსებული უცხოელი სტუდენტებისთვის და აქვეყნებს განაცხადის სახელმძღვანელოს. სწავლება ძირითადად იაპონურია. ბაკალავრიატის სწავლის საფასური 2026 სასწავლო წელს წელიწადში 535 800 იენი იყო.",
+   "ar": "جامعة أوساكا متروبوليتان جامعة حكومية في أوساكا تضم كليات تمتد من الآداب والقانون إلى الهندسة والزراعة والطب البيطري والتمريض. تجري كل عام انتقاءً خاصاً بالطلبة الدوليين على نفقتهم وفق دليل تقديم منشور. التدريس باليابانية في الغالب. بلغت الرسوم الدراسية للبكالوريوس 535,800 ين سنوياً في العام الدراسي 2026."
+  },
+  "aid_intl": {
+   "en": "Privately financed students can apply for full, two-thirds or one-third tuition reduction based on income and grades. A JASSO honors scholarship can be reserved for high EJU scores.",
+   "ka": "კერძოდ დაფინანსებულ სტუდენტებს შეუძლიათ მოითხოვონ სწავლის საფასურის სრული, ორი მესამედის ან ერთი მესამედის შემცირება შემოსავლისა და ნიშნების მიხედვით. EJU-ს მაღალი ქულებისთვის შესაძლებელია JASSO-ს საპატიო სტიპენდიის დაჯავშნა.",
+   "ar": "يمكن للطلبة على نفقتهم الخاصة التقدم بطلب خفض الرسوم بالكامل أو بمقدار الثلثين أو الثلث بحسب الدخل والدرجات. ويمكن حجز منحة JASSO للتفوق لأصحاب درجات EJU العالية."
+  },
+  "tests": {
+   "en": "The special selection for privately financed international students uses scores of the Examination for Japanese University Admission (EJU). Some faculties screen first on total EJU score when applicants exceed 20 (Commerce, 2025).",
+   "ka": "კერძოდ დაფინანსებული უცხოელი სტუდენტების განსაკუთრებული შერჩევა იყენებს EJU-ს შედეგებს. ზოგი ფაკულტეტი, როცა აპლიკანტები 20-ს აღემატება, ჯერ EJU-ს ჯამური ქულით ატარებს პირველ შერჩევას (კომერცია, 2025).",
+   "ar": "يعتمد الانتقاء الخاص بالطلبة الدوليين على نفقتهم على درجات امتحان EJU. وتجري بعض الكليات فرزاً أولياً بمجموع درجات EJU إذا تجاوز المتقدمون 20 (كلية التجارة، 2025)."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "entrance_exam",
+    "label": {
+     "en": "EJU score (Examination for Japanese University Admission)",
+     "ka": "EJU-ს შედეგი (იაპონიის უნივერსიტეტებში მისაღები გამოცდა უცხოელებისთვის)",
+     "ar": "نتيجة امتحان EJU (امتحان القبول في الجامعات اليابانية للطلاب الدوليين)"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Entrance examination fee",
+     "ka": "მისაღები გამოცდის გადასახადი",
+     "ar": "رسوم امتحان القبول"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "japan",
+   "osaka",
+   "public",
+   "EJU"
+  ],
+  "sources": [
+   "https://www.omu.ac.jp/en/admissions/apply/",
+   "https://www.omu.ac.jp/admissions/ug/exam_info/special/foreigner/",
+   "https://www.omu.ac.jp/campus-life/tuition/fees/",
+   "https://www.omu.ac.jp/international/int_student/financial/exemption/"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "auezov-south-kazakhstan-university-sku",
+  "name": {
+   "en": "Auezov South Kazakhstan University (SKU)",
+   "ka": "ყაზახეთის სამხრეთის ოუეზოვის უნივერსიტეტი (SKU)",
+   "ar": "جامعة أويزوف الجنوبية الكازاخستانية (SKU)"
+  },
+  "iso": "KZ",
+  "city": "Shymkent",
+  "website": "https://auezov.edu.kz",
+  "lat": 42.318,
+  "lon": 69.596,
+  "type": "public",
+  "platform": null,
+  "application_url": "https://auezov.edu.kz/index.php/eng/admission/foreign-applicants",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": {
+   "amount": 270000,
+   "currency": "KZT",
+   "per": "course",
+   "note": "Paid preparatory course for foreign citizens, 6-9 months (2026-27 announcement). No bachelor tuition amount for foreigners is published."
+  },
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Kazakh",
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "engineering",
+   "education",
+   "natural-sciences",
+   "humanities"
+  ],
+  "strengths": {
+   "en": [
+    "Engineering",
+    "Chemistry and technology",
+    "Education",
+    "Humanities"
+   ],
+   "ka": [
+    "ინჟინერია",
+    "ქიმია და ტექნოლოგია",
+    "განათლება",
+    "ჰუმანიტარული"
+   ],
+   "ar": [
+    "الهندسة",
+    "الكيمياء والتكنولوجيا",
+    "التربية",
+    "العلوم الإنسانية"
+   ]
+  },
+  "summary": {
+   "en": "Large public university in Shymkent, southern Kazakhstan.",
+   "ka": "დიდი სახელმწიფო უნივერსიტეტი ჩიმკენტში, სამხრეთ ყაზახეთში.",
+   "ar": "جامعة حكومية كبيرة في شيمكنت جنوب كازاخستان."
+  },
+  "about": {
+   "en": "M. Auezov South Kazakhstan University is a public university in Shymkent, Kazakhstan, teaching mainly in Kazakh and Russian with some English-taught programmes.",
+   "ka": "მ. ოუეზოვის სამხრეთ ყაზახეთის უნივერსიტეტი სახელმწიფო უნივერსიტეტია ჩიმკენტში, ყაზახეთში; სწავლება ძირითადად ყაზახურ და რუსულ ენებზეა, ზოგი პროგრამა ინგლისურადაა.",
+   "ar": "جامعة م. أويزوف الجنوبية الكازاخستانية جامعة حكومية في شيمكنت بكازاخستان، تدرّس أساسًا بالكازاخية والروسية مع بعض البرامج بالإنجليزية."
+  },
+  "aid_intl": {
+   "en": "The paid preparatory course for foreigners is listed at 270,000 tenge for 6-9 months (2026-27). No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელებისთვის ფასიანი მოსამზადებელი კურსი 6-9 თვეზე 270 000 თენგეა (2026-27). საერთაშორისო ბაკალავრიატის სტუდენტებისთვის სპეციალური დახმარება გამოქვეყნებული არ არის.",
+   "ar": "الدورة التحضيرية المدفوعة للأجانب مدرجة بسعر 270,000 تنغي لمدة 6-9 أشهر (2026-27). لا توجد مساعدات مخصصة لطلاب البكالوريوس الدوليين."
+  },
+  "tests": {
+   "en": "The university runs paid preparatory (foundation) courses for foreigners in Russian, history of Kazakhstan, mathematics and general history. Foreign applicants also need a diploma recognition (nostrification).",
+   "ka": "უნივერსიტეტი უცხოელებისთვის გთავაზობთ ფასიან მოსამზადებელ კურსებს რუსულში, ყაზახეთის ისტორიაში, მათემატიკასა და მსოფლიო ისტორიაში. საჭიროა დიპლომის ნოსტრიფიკაციაც.",
+   "ar": "تقدم الجامعة دورات تحضيرية مدفوعة للأجانب في اللغة الروسية وتاريخ كازاخستان والرياضيات والتاريخ العام، كما يلزم معادلة (نوستريفيكاسيا) الشهادة."
+  },
+  "gpa_note": null,
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Original secondary school certificate or college diploma",
+     "ka": "საშუალო სკოლის ატესტატის ან კოლეჯის დიპლომის ორიგინალი",
+     "ar": "أصل شهادة الثانوية أو دبلوم الكلية"
+    }
+   },
+   {
+    "key": "photo",
+    "label": {
+     "en": "Passport-size photos (3x4 cm)",
+     "ka": "3x4 ფოტოსურათები",
+     "ar": "صور شخصية (3×4 سم)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Apostille and nostrification of foreign education documents (university helps)",
+     "ka": "უცხოური განათლების დოკუმენტების აპოსტილი და ნოსტრიფიკაცია (უნივერსიტეტი ეხმარება)",
+     "ar": "التصديق (أبوستيل) ومعادلة وثائق التعليم الأجنبية (الجامعة تساعد)"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Medical certificate (form 086-U for bachelor; 075/Y for preparatory course)",
+     "ka": "სამედიცინო ცნობა (ფორმა 086-U ბაკალავრისთვის; 075/Y მოსამზადებელი კურსისთვის)",
+     "ar": "شهادة طبية (نموذج 086-U للبكالوريوس؛ 075/Y للدورة التحضيرية)"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "kazakhstan",
+   "shymkent"
+  ],
+  "sources": [
+   "https://auezov.edu.kz/index.php/eng/admission/foreign-applicants",
+   "https://auezov.edu.kz/eng/pages-en/3420-center-for-work-with-foreign-students",
+   "https://auezov.edu.kz/eng/pages-en/3502-dear-applicants",
+   "https://auezov.edu.kz/eng/admission/undergraduate"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [
+   "Russian A2 (for the Russian as a Foreign Language bachelor); English A1 for the English course"
+  ],
+  "acceptance_rate": null,
+  "intl_pct": null,
+  "scholarships": [],
+  "qualifications": null,
+  "qualifications_note": null,
+  "tests": {
+   "en": "Foreign applicants to the 4-year bachelor in Russian as a Foreign Language need at least A2 Russian. The one-year English course needs A1; Kazakh and Russian courses accept beginners.",
+   "ka": "უცხოელ აპლიკანტებს 4-წლიანი ბაკალავრიატისთვის „რუსული როგორც უცხო ენა“ სჭირდებათ რუსულის მინიმუმ A2. ერთწლიან ინგლისურ კურსზე საჭიროა A1; ყაზახურ და რუსულ კურსებზე დამწყებები მიიღებიან.",
+   "ar": "يحتاج المتقدمون الأجانب إلى مستوى A2 على الأقل في الروسية لبكالوريوس «الروسية كلغة أجنبية» (4 سنوات). تتطلب دورة الإنجليزية السنوية مستوى A1، وتقبل دورتا الكازاخية والروسية المبتدئين."
+  },
+  "gpa_note": null,
+  "aid_intl": null,
+  "deadline": null,
+  "deadline_note": null,
+  "tuition_intl": null,
+  "application_url": "https://buketov.edu.kz/en/page/for-foreigners",
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "School certificate or diploma with transcript",
+     "ka": "ატესტატი ან დიპლომი დანართით",
+     "ar": "شهادة الثانوية أو الدبلوم مع كشف الدرجات"
+    }
+   },
+   {
+    "key": "language",
+    "label": {
+     "en": "Language level proof: Russian A2 (bachelor) or A1 English (English course)",
+     "ka": "ენის დონის დადასტურება: რუსული A2 (ბაკალავრიატი) ან ინგლისური A1",
+     "ar": "إثبات مستوى اللغة: الروسية A2 (البكالوريوس) أو الإنجليزية A1"
+    }
+   },
+   {
+    "key": "application_fee",
+    "label": {
+     "en": "Payment receipt of at least 25% of annual tuition (fee-paying places)",
+     "ka": "წლიური საფასურის მინიმუმ 25%-ის გადახდის ქვითარი (ფასიანი ადგილები)",
+     "ar": "إيصال دفع لا يقل عن 25% من الرسوم السنوية (للمقاعد المدفوعة)"
+    }
+   }
+  ],
+  "platform": null,
+  "verified_at": "2026-11-16",
+  "id": "nlc-buketov-karaganda-national-research-university",
+  "name": {
+   "en": "NLC «Buketov Karaganda National Research University»",
+   "ka": "ბუკეტოვის სახელობის ყარაღანდის ეროვნული საკვლევი უნივერსიტეტი",
+   "ar": "جامعة بوكيتوف الوطنية للبحوث في قره غندا"
+  },
+  "iso": "KZ",
+  "city": "Karaganda",
+  "lat": 49.806,
+  "lon": 73.085,
+  "type": "public",
+  "website": "https://buketov.edu.kz",
+  "languages": [
+   "Kazakh",
+   "Russian",
+   "English"
+  ],
+  "english_bachelors": "some",
+  "intakes": [],
+  "fields": [
+   "natural-sciences",
+   "education",
+   "law"
+  ],
+  "strengths": {
+   "en": [
+    "Language programmes",
+    "Education",
+    "Natural sciences"
+   ],
+   "ka": [
+    "ენის პროგრამები",
+    "განათლება",
+    "საბუნებისმეტყველო მეცნიერებები"
+   ],
+   "ar": [
+    "برامج اللغات",
+    "التعليم",
+    "العلوم الطبيعية"
+   ]
+  },
+  "summary": {
+   "en": "Buketov Karaganda University is a public research university in central Kazakhstan. Its foreign-student page lists one-year Kazakh, Russian and English language courses and a 4-year bachelor in Russian as a foreign language.",
+   "ka": "ბუკეტოვის ყარაღანდის უნივერსიტეტი ცენტრალური ყაზახეთის საჯარო საკვლევი უნივერსიტეტია. უცხოელებისთვის გვერდზე მითითებულია ერთწლიანი ყაზახური, რუსული და ინგლისური ენის კურსები და 4-წლიანი ბაკალავრიატი რუსულში უცხოური ენის სახით.",
+   "ar": "جامعة بوكيتوف في قره غندا جامعة بحثية حكومية في وسط كازاخستان. تذكر صفحة الأجانب دورات لغة كازاخية وروسية وإنجليزية لمدة سنة وبكالوريوس مدته 4 سنوات في اللغة الروسية لغة أجنبية."
+  },
+  "about": null,
+  "keywords": [
+   "kazakhstan",
+   "karaganda"
+  ],
+  "sources": [
+   "https://buketov.edu.kz/en/page/for-foreigners",
+   "https://buketov.edu.kz/en/page/tarif",
+   "https://buketov.edu.kz/ru/page/for-foreigners",
+   "https://buketov.edu.kz/ru/page/bakalavr"
+  ]
+ },
+ {
+  "id": "saken-seifullin-kazakh-agrotechnical-research-university",
+  "name": {
+   "en": "Saken Seifullin Kazakh Agrotechnical Research University",
+   "ka": "საკენ საიფულინის სახელობის ყაზახეთის აგროტექნიკური კვლევითი უნივერსიტეტი",
+   "ar": "جامعة ساكن سيفولين الكازاخية للبحوث الزراعية التقنية"
+  },
+  "iso": "KZ",
+  "city": "Astana",
+  "lat": 51.13,
+  "lon": 71.404,
+  "type": "public",
+  "website": "https://kazatu.edu.kz",
+  "platform": null,
+  "application_url": "https://kazatu.edu.kz/en/pages/abiturientu/forma-podaci-zaavki-na-obucenie-dla-inostrannyh-grazdan",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": {
+   "en": "Applications from international students to bachelor and postgraduate programmes are accepted every year from 1 July to 15 August.",
+   "ka": "უცხოელი სტუდენტების განაცხადები ბაკალავრიატსა და სამაგისტრო/სადოქტორო პროგრამებზე მიიღება ყოველწლიურად 1 ივლისიდან 15 აგვისტომდე.",
+   "ar": "تُقبل طلبات الطلبة الدوليين للبكالوريوس والدراسات العليا كل عام من 1 يوليو إلى 15 أغسطس."
+  },
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "Kazakh",
+   "Russian"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": "not-considered"
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "environment",
+   "engineering",
+   "natural-sciences"
+  ],
+  "strengths": {
+   "en": [
+    "Agriculture",
+    "Engineering",
+    "Veterinary science",
+    "Ecology"
+   ],
+   "ka": [
+    "სოფლის მეურნეობა",
+    "ინჟინერია",
+    "ვეტერინარია",
+    "ეკოლოგია"
+   ],
+   "ar": [
+    "الزراعة",
+    "الهندسة",
+    "الطب البيطري",
+    "البيئة"
+   ]
+  },
+  "summary": {
+   "en": "Saken Seifullin Kazakh Agrotechnical Research University is a public university in Astana focused on agriculture, engineering and veterinary science. Its website could not be read (certificate error), so no admission details are listed.",
+   "ka": "საკენ საიფულინის სახელობის ყაზახეთის აგროტექნიკური კვლევითი უნივერსიტეტი სახელმწიფო უნივერსიტეტია ასტანაში სოფლის მეურნეობის, ინჟინერიისა და ვეტერინარიის მიმართულებით. საიტი ვერ გაიხსნა, ამიტომ მიღების დეტალები არ არის მითითებული.",
+   "ar": "جامعة ساكن سيفولين الكازاخية للبحوث الزراعية التقنية جامعة حكومية في أستانا تركز على الزراعة والهندسة والطب البيطري. تعذر فتح موقعها ولذلك لا توجد تفاصيل قبول."
+  },
+  "about": {
+   "en": "Saken Seifullin Kazakh Agrotechnical Research University is a public university in Astana focused on agriculture, engineering and veterinary science. Its website could not be read (certificate error), so no admission details are listed.",
+   "ka": "საკენ საიფულინის სახელობის ყაზახეთის აგროტექნიკური კვლევითი უნივერსიტეტი სახელმწიფო უნივერსიტეტია ასტანაში სოფლის მეურნეობის, ინჟინერიისა და ვეტერინარიის მიმართულებით. საიტი ვერ გაიხსნა, ამიტომ მიღების დეტალები არ არის მითითებული.",
+   "ar": "جامعة ساكن سيفولين الكازاخية للبحوث الزراعية التقنية جامعة حكومية في أستانا تركز على الزراعة والهندسة والطب البيطري. تعذر فتح موقعها ولذلك لا توجد تفاصيل قبول."
+  },
+  "aid_intl": {
+   "en": "No dedicated aid for international bachelor students is published.",
+   "ka": "უცხოელი ბაკალავრიატის სტუდენტებისთვის განკუთვნილი სპეციალური დახმარება არ არის გამოქვეყნებული.",
+   "ar": "لا تنشر الجامعة منحاً مخصصة للطلاب الدوليين في البكالوريوس."
+  },
+  "tests": {
+   "en": "After the application is submitted, the admissions committee invites the candidate to an interview. Fee-paying admission of foreign citizens is decided on the interview result; no entrance exam score is published.",
+   "ka": "განაცხადის შემდეგ მისაღები კომისია კანდიდატს გასაუბრებაზე იწვევს. უცხოელების ფასიანი მიღება გასაუბრების შედეგით წყდება; შესასვლელი გამოცდის ქულა არ არის გამოქვეყნებული.",
+   "ar": "بعد تقديم الطلب تدعو لجنة القبول المرشح إلى مقابلة. يُحسم القبول على نفقة الطالب للأجانب بنتيجة المقابلة، ولا تُنشر درجة اختبار قبول."
+  },
+  "gpa_note": null,
+  "requirements": [],
+  "scholarships": [],
+  "keywords": [
+   "kazakhstan",
+   "astana"
+  ],
+  "sources": [
+   "https://kazatu.edu.kz",
+   "https://kazatu.edu.kz/en/pages/abiturientu/forma-podaci-zaavki-na-obucenie-dla-inostrannyh-grazdan",
+   "https://kazatu.edu.kz/en/pages/universitet/mezdunarodnoe-sotrudnicestvo/inostrannye-studenty"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "universite-mohammed-v-de-rabat",
+  "name": {
+   "en": "Université Mohammed V de Rabat",
+   "ka": "რაბატის მოჰამედ V უნივერსიტეტი",
+   "ar": "جامعة محمد الخامس بالرباط"
+  },
+  "iso": "MA",
+  "city": "Rabat",
+  "lat": 33.992,
+  "lon": -6.853,
+  "type": "public",
+  "website": "https://www.um5.ac.ma",
+  "platform": "AMCI (Moroccan Agency for International Cooperation) via diplomatic channels, then establishment admission decision",
+  "application_url": "https://www.um5.ac.ma/um5/inscription-des-etudiants-internationaux",
+  "intakes": [],
+  "deadline": null,
+  "deadline_note": {
+   "en": "International applications go through the AMCI, which sets the deadlines each year; no fixed date is given on the UM5 page.",
+   "ka": "საერთაშორისო განაცხადები გადის AMCI-ს მეშვეობით, რომელიც ვადებს ყოველწლიურად ადგენს; UM5-ის გვერდზე ფიქსირებული თარიღი არ არის.",
+   "ar": "تُقدَّم الطلبات الدولية عبر الوكالة المغربية للتعاون الدولي (AMCI) التي تحدد المواعيد كل عام؛ ولا يوجد تاريخ ثابت في صفحة الجامعة."
+  },
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": [
+   "French",
+   "Arabic"
+  ],
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": {
+   "low": null,
+   "high": null,
+   "required": null
+  },
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": [],
+  "fields": [
+   "law",
+   "medicine-health",
+   "engineering",
+   "social-sciences"
+  ],
+  "strengths": null,
+  "summary": {
+   "en": "Public university in Rabat, Morocco. Teaching is mainly in French and Arabic. Its website could not be read, so no official admissions data is listed.",
+   "ka": "მაროკოს რაბატის საჯარო უნივერსიტეტი. სწავლება ძირითადად ფრანგულ და არაბულ ენებზეა. ვებსაიტი ვერ წაიკითხა, ამიტომ ოფიციალური მონაცემები მითითებული არ არის.",
+   "ar": "جامعة عامة في الرباط بالمغرب. التدريس أساساً بالفرنسية والعربية. تعذّرت قراءة موقعها، لذلك لا تُعرض بيانات قبول رسمية."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": {
+   "en": "Pre-registration is online. Some licences are open after registration; others are selective (file review, written test, interview).",
+   "ka": "წინასწარი რეგისტრაცია ონლაინ ხდება. ზოგი ლისანსი (licence) რეგისტრაციის შემდეგ ღიაა, ზოგი კი შერჩევითია (დოკუმენტების განხილვა, წერითი ტესტი, ინტერვიუ).",
+   "ar": "التسجيل المسبق إلكتروني. بعض الإجازات مفتوحة بعد التسجيل وبعضها انتقائي (دراسة الملف، اختبار كتابي، مقابلة)."
+  },
+  "gpa_note": {
+   "en": "Holders of a foreign baccalaureate must present an equivalence; entry to selective licences depends on the file and tests.",
+   "ka": "უცხოური ბაკალავრიატის (baccalauréat) მფლობელებმა ეკვივალენტობის დოკუმენტი უნდა წარადგინონ; შერჩევით ლისანსზე მიღება დოკუმენტებსა და ტესტებზეა დამოკიდებული.",
+   "ar": "على حاملي البكالوريا الأجنبية تقديم وثيقة معادلة؛ ويعتمد القبول في الإجازات الانتقائية على الملف والاختبارات."
+  },
+  "requirements": [
+   {
+    "key": "diploma",
+    "label": {
+     "en": "Baccalauréat or equivalent in the year of enrolment (licence S1)",
+     "ka": "ბაკალავრიატი/ბაკალავრის ატესტატი ან ექვივალენტი ჩარიცხვის წელს (ლისანსი S1)",
+     "ar": "شهادة البكالوريا أو ما يعادلها في سنة التسجيل (إجازة S1)"
+    }
+   },
+   {
+    "key": "equivalency",
+    "label": {
+     "en": "Equivalence of foreign diplomas, checked by the establishment",
+     "ka": "უცხოური დიპლომების ექვივალენტობა, რომელსაც დაწესებულება ამოწმებს",
+     "ar": "معادلة الشهادات الأجنبية التي تتحقق منها المؤسسة"
+    }
+   },
+   {
+    "key": "supplements",
+    "label": {
+     "en": "Application submitted by diplomatic channel to AMCI; final electronic authorisation after the establishment's admission decision",
+     "ka": "განაცხადი დიპლომატიური არხით AMCI-ში; საბოლოო ელექტრონული ავტორიზაცია დაწესებულების გადაწყვეტილების შემდეგ",
+     "ar": "تقديم الطلب عبر القناة الدبلوماسية إلى AMCI؛ والإذن الإلكتروني النهائي بعد قرار قبول المؤسسة"
+    }
+   }
+  ],
+  "scholarships": [],
+  "keywords": [
+   "morocco",
+   "rabat",
+   "public"
+  ],
+  "sources": [
+   "https://www.um5.ac.ma",
+   "https://fsjes-sale.um5.ac.ma/sites/default/files/normes_pedagogiques_complementaires_cu_29juillet2015_final.pdf",
+   "https://www.um5.ac.ma/um5/inscription-des-etudiants-internationaux",
+   "https://www.um5.ac.ma/um5/sites/default/files/faq-f.pdf"
+  ],
+  "verified_at": "2026-11-16"
+ },
+ {
+  "id": "ibn-tofail-university",
+  "name": {
+   "en": "Ibn Tofail University",
+   "ka": "იბნ თოფაილის უნივერსიტეტი",
+   "ar": "جامعة ابن طفيل"
+  },
+  "iso": "MA",
+  "city": "Kenitra",
+  "lat": 34.254,
+  "lon": -6.589,
+  "type": "public",
+  "website": "https://www.uit.ac.ma",
+  "platform": null,
+  "application_url": "https://preinscription.uit.ac.ma/",
+  "intakes": null,
+  "deadline": "2026-09-03",
+  "deadline_note": {
+   "en": "2026/27 online pre-registration for baccalauréat holders from the university's catchment provinces was extended to 3 September 2026; the notice does not mention foreign applicants.",
+   "ka": "2026/27 ონლაინ წინასწარი რეგისტრაცია უნივერსიტეტის მომსახურების ზონის პროვინციების ბაკალავრიატის მფლობელებისთვის გაგრძელდა 2026 წლის 3 სექტემბრამდე; შეტყობინებაში უცხოელი აპლიკანტები არ არის ნახსენები.",
+   "ar": "مُدِّدت فترة التسجيل القبلي الإلكتروني 2026/27 لحاملي البكالوريا من أقاليم المنطقة التابعة للجامعة حتى 3 سبتمبر 2026؛ ولا يذكر الإعلان المتقدمين الأجانب."
+  },
+  "tuition_intl": null,
+  "acceptance_rate": null,
+  "students": null,
+  "intl_pct": null,
+  "languages": null,
+  "english_bachelors": null,
+  "qualifications": null,
+  "qualifications_note": null,
+  "sat": null,
+  "ielts_min": null,
+  "toefl_min": null,
+  "duolingo_min": null,
+  "other_tests": null,
+  "fields": null,
+  "strengths": null,
+  "summary": {
+   "en": "A public university in Kenitra, Morocco, with about 8,570 foreign students from 61 nationalities according to its site. No fee or deadline information was found.",
+   "ka": "სახელმწიფო უნივერსიტეტი კენიტრაში, მაროკო; საიტის მიხედვით ჰყავს დაახლოებით 8 570 უცხოელი სტუდენტი 61 ეროვნებიდან. საფასურისა და ვადების ინფორმაცია ვერ მოიძებნა.",
+   "ar": "جامعة حكومية في القنيطرة بالمغرب، وفق موقعها فيها نحو 8,570 طالبًا أجنبيًا من 61 جنسية. لم تُعثر على معلومات عن الرسوم أو المواعيد."
+  },
+  "about": null,
+  "aid_intl": null,
+  "tests": null,
+  "gpa_note": null,
+  "requirements": null,
+  "scholarships": null,
+  "keywords": [],
+  "sources": [
+   "https://www.uit.ac.ma",
+   "https://www.uit.ac.ma/avis-de-prolongation-de-la-periode-de-preinscription-pour-les-titulaires-du-baccalaureat-sessions-2026-2025-et-avant-2025/",
+   "https://preinscription.uit.ac.ma/"
+  ],
+  "verified_at": "2026-11-16"
+ }
+]

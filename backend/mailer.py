@@ -236,6 +236,21 @@ def send_tutor_new_booking(to_address, tutor_first, student_name, when, service,
     ), to_address)
 
 
+def send_meeting_notice(to_address, first_name, other_name, when, topic, status):
+    """Counsellor ↔ student meeting: asked for, confirmed or cancelled."""
+    titles = {"requested": "New meeting request", "confirmed": "Meeting confirmed", "cancelled": "Meeting cancelled"}
+    title = titles.get(status, "Meeting update")
+    return _deliver(_message(
+        to_address, "%s — %s" % (title, when),
+        "Hi %s,\n\n%s: %s with %s.\nTopic: %s\n\nOpen Meridian to respond.\n\n— Meridian"
+        % (first_name, title, when, other_name, topic or "—"),
+        title,
+        "Hi %s — %s." % (first_name, title.lower()),
+        _rows([("With", other_name), ("When", when), ("Topic", topic or "—")]) +
+        '<p style="margin:22px 0 0;">%s</p>' % _button(site_url("/account#meetings"), "Open my meetings"),
+    ), to_address)
+
+
 def send_booking_cancelled(to_address, first_name, tutor_name, when):
     return _deliver(_message(
         to_address, "Lesson cancelled — refund issued",
